@@ -1,0 +1,169 @@
+{
+  "book": "Josué",
+  "chapter": 1,
+  "chapter_summary": "_Josué encouragé par les promesses du Seigneur, fait avertir le peuple de se disposer au passage du Jourdain. Il ordonne aux Tribus de Ruben, de Gad et à la demi-tribu de Manassé de marcher en armes à la tête de leurs freres ; ce qu'ils promettent d'exécuter avec soûmission._",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "_ET factum est post mortem Moysi servi Domini, ut loqueretur Dominus ad Josue filium Nun ministrum Moysi, & diceret ei:_",
+      "french": "_ET aprés la mort de Moïse serviteur de Dieu, le Seigneur parla à Josué fils de Nun, ministre de Moïse, et il lui dit :_",
+      "annotations": "An. du monde 2553. avant J. C. 1451.",
+      "source_pages": [
+        "page_0065.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Moyſes ſervus meus mortuus eſt, ſurge & tranſi Jordanem iſtum, tu & omnis populus tecum, in terram quam ego dabo filiis Iſraël.",
+      "french": "Moyse mon serviteur est mort; allez, et passez ce fleuve du Jourdain, vous et tout le peuple qui est avec vous, pour entrer dans la terre que je donnerai aux enfans d'Israël.",
+      "annotations": "An. 2553.",
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Omnem locum quem calcaverit veſtigium pedis veſtri, vobis tradam, ſicut locutus ſum Moyſi.",
+      "french": "Tous les lieux où vous mettrez le pied vous seront livrez, comme je l'ay promis à Moyse.",
+      "annotations": "An. 2553.",
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "A deſerto & Libano uſque ad fluvium magnum Euphratem, omnis terra Hethæorum uſque ad mare magnum contrà ſolis occaſum, erit terminus veſter.",
+      "french": "Vos limites seront depuis le désert et depuis le Liban, jusqu'au grand fleuve d'Euphrate, tout le pays des Héthéens, jusqu'à la grande mer qui est au couchant du pays.",
+      "annotations": "5 An. 2553.",
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Nullus poterit vobis reſiſtere cunctis diebus vitæ tuæ : ſicut fui cum Moyſe, ita ero tecum ; non dimittam, nec derelinquam te.",
+      "french": "Nul ne pourra vous résister tant que vous vivrez ; Je serai avec vous comme j'ai été avec Moyse ; je ne vous laisserai point, je ne vous abandonnerai point.",
+      "annotations": "An. 2553.",
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Confortare & eſto robuſtiſſimus enim forte divides populo huic terram pro, qua juravi patribus ſuis, ut traderem eam illis.",
+      "french": "Soyez ferme et courageux, car vous partagerez à tout le peuple par le sort la terre que j'ai promise avec serment à leurs peres de leur donner.",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Confortare igitur, & eſto robuſtus valde, ut cuſtodias & facias omnem legem quam præcepit tibi Moyſes ſervus meus: ne declines ab ea ad dexteram vel ad ſiniſtram, ut intelligas cuncta quæ agis.",
+      "french": "Prenez donc courage, et armez-vous d'une grande fermeté, pour observer et accomplir toute la loi que mon serviteur Moyse vous a prescrite. Ne vous en détournez ni à droite ni à gauche, afin que vous fassiez avec intelligence tout ce que vous avez à faire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Non recedat volumen legis hujus ab ore tuo : ſed meditaberis in eo diebus ac noctibus: ut cuſtodias & facias omnia quæ ſcripta ſunt in eo : tunc diriges viam tuam, & intelliges eam.",
+      "french": "Que le livre de cette loi soit continuellement en vôtre bouche, et ayez soin de le méditer jour et nuit, afin que vous observiez, et que vous fassiez tout ce qui y est écrit. Ce sera alors que vous réüssirez dans vos entreprises, et que vous vous conduirez avec intelligence.",
+      "annotations": null,
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ecce præcipio tibi, confortare, & eſto robuſtus. Noli metuere, & noli timere : quoniam tecum eſt Dominus Deus tuus in omnibus ad quæcumque perrexeris.",
+      "french": "C’est moi qui vous l’ordonne, soïez ferme et courageux ; ne craignez point, et ne vous épouvantez point, car en quelque part que vous alliez, le Seigneur votre Dieu sera avec vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Præcepitque Joſue principibus populi, dicens : Tranſite per medium caſtrorum, & imperate populo, ac dicite:",
+      "french": "Josué fit donc ce commandement aux Princes du peuple, et leur dit : Passez par le milieu du camp, et donnez ces ordres au peuple, et dites-leur :",
+      "annotations": null,
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Præparate vobis cibaria, quoniam poſt diem tertium tranſibitis Jordanem, & intrabitis ad poſſidendam terram quam Dominus Deus veſter daturus eſt vobis.",
+      "french": "Faites provision de vivres, car dans trois jours vous passerez le Jourdain, et vous irez prendre possession de la terre que le Seigneur vôtre Dieu vous doit donner.",
+      "annotations": "An. 2553.",
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Rubenitis quoque & Gaditis & dimidiæ tribui Manaſſe ait :",
+      "french": "Il dit aussi à ceux de la tribu de Ruben, à ceux de la tribu de Gad, et à la demi-tribu de Manassé :",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Mementote ſermonis quem præcepit vobis Moyſes famulus Domini, dicens : Dominus Deus veſter dedit vobis requiem, & omnem terram.",
+      "french": "Souvenez-vous de ce que vous a ordonné Moyse serviteur du Seigneur, lorsqu'il vous a dit : Le Seigneur vôtre Dieu vous a mis en repos, et vous a donné tout ce pays-cy.",
+      "annotations": null,
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Uxores veſtræ, & filii ac jumenta manebunt in terra, quam tradidit vobis Moyſes trans Jordanem : vos autem tranſite armati ante fratres veſtros, omnes fortes manu, & pugnate pro eis.",
+      "french": "Vos femmes, vos enfans et vos bestiaux demeureront dans la terre que Moyse vous a donnée au deçà du Jourdain ; mais pour vous tous tant que vous êtes de vaillans hommes, passez à la tête de vos freres les armes à la main, et combattez pour eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Donec det Dominus requiem fratribus veftris ficut & vobis dedit, & poſsideant ipſi quoque terram, quam Dominus Deus veſter daturus eſt eis : & ſic revertemini in terram poſſeſsionis veſtræ,& habitabitis in ea, quam vobis dedit Moyſes famulus Domini trans Jordanem contra ſolis ortum.",
+      "french": "Jusqu’à ce que le Seigneur donne le repos à vos freres, comme il vous l’a donné, et qu’ils possedent aussi eux-mêmes la terre que le Seigneur vôtre Dieu leur doit donner ; et aprés cela vous reviendrez dans le pays que vous possedez, pour y habiter comme dans le lieu que Moyse serviteur du Seigneur vous a donné, au-de-là et à l’Orient du Jourdain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Reſponderuntque ad Joſue, atque dixerunt: Omnia quæ præcepiſti nobis faciemus, & quocumque miſeris, ibimus.",
+      "french": "Ils répondirent à Josué, et ils lui dirent: Nous ferons tout ce que vous nous avez ordonné ; et nous irons par tout où vous nous envoyerez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Sicut obedivimus in cunctis Moyſi, ita obediemus & tibi : tantùm ſit Dominus Deus tuus tecum, ſicut fuit cum Moyſe.",
+      "french": "Comme nous avons obéï à Moyse en toutes choses, nous vous obéïrons aussi. Seulement que le Seigneur vôtre Dieu soit avec vous, comme il a été avec Moyse.",
+      "annotations": "An. 2553.",
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Qui contradixerit ori tuo, & non obedierit cunctis ſermonibus quos præceperis ei, moriatur; tu tantùm confortare, & viriliter age.",
+      "french": "Quiconque contredira à vôtre commandement, et n'obéïra pas à tout ce que vous lui ordonnerez, qu'il soit puni de mort. Soyez ferme seulement, et agissez avec un grand courage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    }
+  ]
+}

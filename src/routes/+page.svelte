@@ -4,7 +4,8 @@
 		{ id: 'exode', name: 'Exode', chapters: 40 },
 		{ id: 'levitique', name: 'Lévitique', chapters: 27 },
 		{ id: 'nombres', name: 'Nombres', chapters: 36 },
-		{ id: 'deuteronome', name: 'Deutéronome', chapters: 34 }
+		{ id: 'deuteronome', name: 'Deutéronome', chapters: 34 },
+		{ id: 'josue', name: 'Josué', chapters: 24 }
 	];
 
 	let openBook = $state('genese');
