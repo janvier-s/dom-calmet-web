@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { page } from '$app/stores';
 	import { formatCommentaryText } from '$lib/utils/format';
 
 	let { data } = $props();
@@ -90,7 +91,7 @@
 	<!-- Pagination Navigation -->
 	<div class="mt-16 flex justify-between border-t border-gray-200 pt-8 font-serif">
 		{#if chapter.chapter > 1}
-			<a href="/chapter/{chapter.chapter - 1}" class="text-stone-600 hover:text-stone-900 transition-colors">
+			<a href="/{$page.params.book}/{chapter.chapter - 1}" class="text-stone-600 hover:text-stone-900 transition-colors">
 				&larr; Chapitre {chapter.chapter - 1}
 			</a>
 		{:else}
@@ -101,8 +102,8 @@
 			Index
 		</a>
 
-		{#if chapter.chapter < 50}
-			<a href="/chapter/{chapter.chapter + 1}" class="text-stone-600 hover:text-stone-900 transition-colors">
+		{#if ($page.params.book === 'genese' && chapter.chapter < 50) || ($page.params.book === 'exode' && chapter.chapter < 40)}
+			<a href="/{$page.params.book}/{chapter.chapter + 1}" class="text-stone-600 hover:text-stone-900 transition-colors">
 				Chapitre {chapter.chapter + 1} &rarr;
 			</a>
 		{:else}

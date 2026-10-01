@@ -1,0 +1,331 @@
+{
+  "book": "Exode",
+  "chapter": 40,
+  "chapter_summary": "Érection du Tabernacle. Il est couvert de la gloire de Dieu. La nuée ne s'élève de dessus le Tabernacle, que lorsqu'il faut décamper.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Locutusque est Dominus ad Moysen, dicens :",
+      "french": "Le Seigneur parla ensuite à Moïse, et lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0615.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Mense primo, prima die mensis, eriges Tabernaculum testimonii.",
+      "french": "Le premier jour du premier mois, vous dresserez le Tabernacle du témoignage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0615.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et pones in eo Arcam, dimittesque ante illam velum.",
+      "french": "Vous y mettrez l'Arche, et vous suspendrez le voile au-devant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0615.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et illata mensa, pones super eam quæ rite præcepta sunt. Candelabrum stabit cum lucernis suis.",
+      "french": "Vous y apporterez la table, et vous mettrez par-dessus ce qui est ordonné. Le chandelier y sera placé avec ses lampes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0615.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et Altare aureum, in quo adoletur incensum coram Arca testimonii. Tentorium in introitu Tabernaculi pones,",
+      "french": "Et l'Autel d'or, sur lequel on brûle l'encens devant l'Arche du témoignage. Vous suspendrez le voile à l'entrée du Tabernacle du témoignage,",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et ante illud, Altare holocausti:",
+      "french": "Et vous mettrez l'Autel des holocaustes devant ce voile:",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Labrum inter Altare et Tabernaculum, quod implebis aqua.",
+      "french": "Et le bassin que vous remplirez d'eau, sera entre l'Autel et le Tabernacle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Circumdabisque atrium tentoriis, et ingressum ejus.",
+      "french": "Et vous suspendrez des courtines tout autour du parvis, et à son entrée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et assumpto unctionis oleo, unges Tabernaculum cum vasis suis, ut sanctificentur:",
+      "french": "Vous prendrez l'huile de l'onction, et vous en oindrez le Tabernacle, avec tout ce qui sert à son usage, pour les sanctifier:",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Altare holocausti, et omnia vasa ejus:",
+      "french": "L'Autel des holocaustes, et tous ses vases ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Labrum cum basi sua: omnia unctionis oleo consecrabis, ut sint sancta sanctorum.",
+      "french": "Le bassin avec sa base: tout cela sera consacré par l'huile d'onction, afin qu'ils soient d'une sainteté inviolable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Applicabisque Aaron et filios ejus ad fores Tabernaculi testimonii, et lotos aqua,",
+      "french": "Vous présenterez Aaron et ses fils à la porte du Tabernacle du témoignage ; et après qu'ils auront été lavés dans de l'eau,",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Indues sanctis vestibus, ut ministrent mihi ; et unctio eorum in sacerdotium sempiternum proficiat.",
+      "french": "Vous les revêtirez des habits sacrés, dont ils se serviront dans leur ministère ; et vous les oindrez, afin que leur onction serve à les consacrer pour un sacerdoce éternel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Fecitque Moyses omnia quæ præceperat Dominus.",
+      "french": "Et Moïse fit tout ce que le Seigneur lui avait ordonné.",
+      "annotations": null,
+      "source_pages": [
+        "page_0617.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Igitur mense primo anni secundi, prima die mensis, collocatum est Tabernaculum.",
+      "french": "Ainsi le Tabernacle fut dressé le premier jour du premier mois de la seconde année de la sortie d'Égypte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0617.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Erexitque Moyses illud, et posuit tabulas, ac bases, et vectes, statuitque columnas,",
+      "french": "Moïse le dressa, et plaça les ais, les bases, les bâtons, et les colonnes,",
+      "annotations": null,
+      "source_pages": [
+        "page_0617.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et expandit tectum super Tabernaculum, impositoque desuper operimento, sicut Dominus imperaverat,",
+      "french": "Et il étendit les rideaux au-dessus du Tabernacle ; et il mit par-dessus la couverture, comme le Seigneur le lui avait ordonné.",
+      "annotations": null,
+      "source_pages": [
+        "page_0617.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Posuit et testimonium in Arca, subdiitis infra vectibus, et oraculum desuper.",
+      "french": "Il mit aussi le témoignage dans l'Arche: il fit passer les bâtons dans leurs anneaux, et mit l'oracle par-dessus l'Arche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0617.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Cumque intulisset Arcam in Tabernaculum, appendit ante eam velum, ut expleret Domini jussionem.",
+      "french": "Et ayant porté l'Arche dans le Tabernacle, il suspendit le voile par-devant, pour exécuter les ordres du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0617.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Posuit et mensam in Tabernaculum testimonii, ad plagam septentrionalem, extra velum,",
+      "french": "Il plaça aussi la table au côté septentrional du témoignage, hors du voile.",
+      "annotations": null,
+      "source_pages": [
+        "page_0617.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Ordinatis coram propositionis panibus, sicut præceperat Dominus Moysi.",
+      "french": "Et il rangea devant le Seigneur les pains de proposition, selon l'ordre que le Seigneur en avait donné à Moïse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Posuit et candelabrum in Tabernaculo testimonii, e regione mensæ, in parte australi,",
+      "french": "Il mit de plus le chandelier dans le Tabernacle du témoignage, au midi, et vis-à-vis de la table.",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Locatis per ordinem lucernis, juxta præceptum Domini.",
+      "french": "Il disposa les lampes, selon leur ordre, sur le chandelier, selon le commandement du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Posuit et Altare aureum sub tecto testimonii, contra velum,",
+      "french": "Il mit aussi l'Autel d'or sous la tente du témoignage, devant le voile.",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et adolevit super eo incensum aromatum, sicut jusserat Dominus Moysi.",
+      "french": "Et il brûla dessus des aromates, comme le Seigneur l'avait ordonné à Moïse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Posuit et tentorium in introitu Tabernaculi testimonii,",
+      "french": "Il suspendit le rideau devant l'entrée du Tabernacle du témoignage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et Altare holocausti in vestibulo testimonii, offerens in eo holocaustum, et sacrificia, ut Dominus imperaverat.",
+      "french": "Et il mit l'Autel des holocaustes dans le vestibule du Tabernacle du témoignage, et y offrit des holocaustes et des sacrifices, selon les ordres du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Labrum quoque statuit inter Tabernaculum testimonii, et Altare, implens illud aqua.",
+      "french": "Il mit aussi le bassin entre le Tabernacle du témoignage, et l'Autel ; et l'ayant rempli d'eau.",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Laveruntque Moyses et Aaron, ac filii ejus, manus suas, et pedes,",
+      "french": "Moïse et Aaron, et ses fils, y lavèrent leurs mains et leurs pieds,",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Cum ingrederentur Tectum foederis, et accederent ad Altare, sicut præceperat Dominus Moysi.",
+      "french": "Avant que d'entrer dans le Tabernacle de l'alliance, et de s'approcher de l'Autel, ainsi que le Seigneur l'avait commandé à Moïse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Erexit et atrium per gyrum Tabernaculi et Altaris, ducto in introitu ejus tentorio. Postquam omnia perfecta sunt,",
+      "french": "Il dressa aussi le parvis qui régnait autour du Tabernacle et de l'Autel, et suspendit le rideau à l'entrée. Et lorsque tout cela fut achevé,",
+      "annotations": null,
+      "source_pages": [
+        "page_0619.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Operuit nubes Tabernaculum testimonii, et gloria Domini implevit illud.",
+      "french": "La nuée couvrit le Tabernacle du témoignage, et il fut rempli de la gloire du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0619.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Nec poterat Moyses ingredi Testum foederis, nube operiente omnia, et majestate Domini coruscante, quia cuncta nubes operuerat.",
+      "french": "Et Moïse ne pouvait entrer dans le Tabernacle de l'alliance, parce que la nuée couvrait tout, et que la majesté du Seigneur y éclatait de toutes parts, tout étant couvert de la nuée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0619.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Si quando nubes Tabernaculum deserebat, proficiscebantur filii Israel per turmas suas.",
+      "french": "Lorsque la nuée se retirait du Tabernacle, les enfants d'Israël partaient, et marchaient en ordre par diverses troupes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0619.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Si pendebat desuper, manebant in eodem loco.",
+      "french": "Si elle demeurait au-dessus, ils s'arrêtaient dans le même lieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0619.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Nubes quippe Domini incubabat per diem Tabernaculo, et ignis in nocte, videntibus cunctis populis Israel, per cunctas mansiones suas.",
+      "french": "Car la nuée du Seigneur couvrait le Tabernacle pendant le jour ; et une flamme y brillait pendant la nuit, à la vue de tous les peuples d'Israël, qui l'apercevaient de loin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0619.json"
+      ]
+    }
+  ]
+}

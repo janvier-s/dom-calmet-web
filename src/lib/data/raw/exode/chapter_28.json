@@ -1,0 +1,385 @@
+{
+  "book": "Exode",
+  "chapter": 28,
+  "chapter_summary": "Description des habits Pontificaux d'Aaron et de ses fils.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Appliqua quoque ad te Aaron fratrem tuum cum filiis suis de medio filiorum Israël, ut Sacerdotio fungantur mihi : Aaron, Nadab, et Abiu, Eleazar, et Ithamar.",
+      "french": "Faites approcher de vous Aaron vôtre frère, avec ses fils, en les séparant du milieu des enfants d'Israël, afin qu'ils exercent les fonctions de mon Sacerdoce : Aaron, Nadab, Abiu, Eléazar, et Ithamar.",
+      "annotations": null,
+      "source_pages": [
+        "page_0465.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Faciésque vestem sanctam Aaron fratri tuo in gloriam et decorem.",
+      "french": "Vous ferez à Aaron vôtre frère, un habit sacré, pour la majesté, et pour l'ornement des cérémonies.",
+      "annotations": null,
+      "source_pages": [
+        "page_0465.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et loqueris cunctis sapientibus corde, quos replevi spiritu prudentiæ, ut faciant vestes Aaron, in quibus sanctificatus ministret mihi.",
+      "french": "Vous parlerez à tous ceux dont le cœur est rempli de sagesse, et à qui j'ai donné un esprit d'intelligence, afin qu'ils fassent des vêtements à Aaron, et qu'il puisse exercer son ministère d'une manière plus sainte et plus auguste.",
+      "annotations": null,
+      "source_pages": [
+        "page_0465.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Hæc autem erunt vestimenta quæ facient. Rationale, et superhumerale, tunicam, et lineam strictam, cidarem et balteum. Facient vestimenta sancta fratri tuo Aaron et filiis ejus, ut Sacerdotio fungantur mihi.",
+      "french": "Voici les vêtements qu'ils feront ; le rational, l'éphod, la robe, et la tunique plus serrée, le bonnet, et la ceinture. Ils feront ces ornements pour Aaron, et pour ses enfants, afin qu'ils exercent les fonctions de mon Sacerdoce.",
+      "annotations": null,
+      "source_pages": [
+        "page_0466.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Accipiéntque aurum, et hyacinthum, et purpuram, coccúmque bis tinctum et byssum.",
+      "french": "Ils prendront de l'or, de l'hyacinthe ; de la pourpre, de l'écarlate teinte deux fois, et du fin lin retors.",
+      "annotations": null,
+      "source_pages": [
+        "page_0474.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Facient autem superhumerale de auro et hyacintho, et purpurâ, coccóque bis tincto, et bysso retorta, opere polymito.",
+      "french": "L'éphod sera d'or, d'hyacinthe, de pourpre, d'écarlate teinte deux fois, de fin lin, d'un tissu de plusieurs fils de diverses couleurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0474.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Duas oras junctas habebit in utroque latere summitatum, ut in unum redeant.",
+      "french": "L'éphod aura par le haut deux ouvertures, qui répondront l'une à l'autre : et ces deux ouvertures s'étendant pour le mettre, le rejoindront quand on l'aura mis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0475.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Ipsa quoque textura et cuncta operis varietas erit ex auro et hyacintho, et purpura : coccóque bis tincto, et bysso retorta.",
+      "french": "Tout l'ouvrage sera tissu avec une agréable variété, d'or, d'hyacinthe, de pourpre, d'écarlate teinte deux fois, et de fin lin retors.",
+      "annotations": null,
+      "source_pages": [
+        "page_0475.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Sumesque duos lapides onychinos, et sculpes in eis nomina filiorum Israël.",
+      "french": "Vous prendrez aussi deux pierres d'onyx, sur lesquelles vous graverez les noms des enfants d'Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0475.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Sex nomina in lapide uno, et sex reliqua in altero juxta ordinem nativitatis eorum.",
+      "french": "Il y aura six noms sur une, et six sur l'autre, selon l'ordre de leur naissance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0476.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Opere sculptoris et celaturæ gemmarii, sculpes eos nominibus filiorum Israël, inclusos auro atque circumdatos.",
+      "french": "Vous y graverez les noms des enfants d'Israël, selon l'art du graveur, et du lapidaire : et vous les-enchâsserez dans l'or.",
+      "annotations": null,
+      "source_pages": [
+        "page_0476.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et pones in utroque latere superhumeralis, memoriale filiis Israël. Portabitque Aaron nomina eorum coram Domino super utrumque humerum, ob recordationem.",
+      "french": "Et vous les mettrez sur l'éphod, de côté et d'autre, comme un monument des enfants d'Israël ; et Aaron portera devant le Seigneur leurs noms gravés sur les deux pierres, qui sont sur ses épaules, pour en renouveler le souvenir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0477.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Facies et uncinos ex auro.",
+      "french": "Vous ferez aussi deux boucles d'or.",
+      "annotations": null,
+      "source_pages": [
+        "page_0477.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et duas catenulas ex auro purissimo sibi invicem cohærentes, quas inferes uncinis.",
+      "french": "Et deux petites chaînes d'un or très pur, dont les anneaux seront enlacés les uns dans les autres ; que vous ferez entrer dans ces boucles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0477.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Rationale quoque judicii facies opere polymito, juxta texturam superhumeralis, ex auro, hyacintho, et purpurâ, coccóque bis tincto, et bysso retortâ.",
+      "french": "Vous ferez aussi le rational du Jugement, d'un tissu de plusieurs fils, de même que l'éphod : vous y emploierez l'or, l'hyacinthe, la pourpre, l'écarlate teinte deux fois, et le fin lin retors.",
+      "annotations": null,
+      "source_pages": [
+        "page_0478.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Quadrangulum erit et duplex : mensuram palmi habebit, tam in longitudine, quàm in latitudine.",
+      "french": "Le rational sera carré, et double ; de la grandeur d'un palme, tant en longueur, qu'en largeur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0478.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Ponesque in eo quatuor ordines lapidum : in primo versu erit lapis sardius, et topaxius, et smaragdus.",
+      "french": "Vous y mettrez quatre rangs de pierres précieuses : dans le premier rang, il y aura la sardoine, la topase, et l'émeraude.",
+      "annotations": null,
+      "source_pages": [
+        "page_0479.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "In secundo, carbunculus, sapphirus, et jaspis.",
+      "french": "Au second rang, l'escarboucle, le saphir, et le jaspe.",
+      "annotations": null,
+      "source_pages": [
+        "page_0480.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "In quarto, chrysolitus, onychinus, et beryllus ; inclusi auro erunt per ordines suos.",
+      "french": "Au quatrième, la chrysolite, l'onyx, et le bérylle. Ils feront enchâssez dans l'or, et rangez selon leur ordre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0483.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Habebúntque nomina filiorum Israel duodecim nominibus cœlabuntur, singuli lapides nominibus singulorum per duodecim Tribus.",
+      "french": "Les noms des douze enfants d'Israël y seront gravez séparément, chacun sur une pierre, selon l'ordre des douze Tribus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0484.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Facies in rationali catenas sibi invicem cohærentes ex auro purissimo :",
+      "french": "Vous ferez pour le rational deux petites chaînes d'un or très fin, dont les anneaux soient enlassez les uns dans les autres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0484.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et duos annulos aureos, quos pones in utraque rationalis summitate:",
+      "french": "Et deux anneaux d'or, que vous mettrez au haut du rational, à ses deux côtez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0485.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Catenasque aureas junges annulis, qui sunt in marginibus ejus:",
+      "french": "Vous passerez les deux chaînes d'or dans ces deux anneaux qui sont aux extrémitez du rational.",
+      "annotations": null,
+      "source_pages": [
+        "page_0485.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et ipsarum catenarum extrema duobus copulabis uncinis, in utroque latere superhumeralis quod rationale respicit.",
+      "french": "Et vous ferez entrer les extrémitez de ces chaînes dans les deux agraffes d'or, qui sont aux deux côtez de l'éphod, qui regarde le rational.",
+      "annotations": null,
+      "source_pages": [
+        "page_0485.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Facies et duos annulos aureos, quos pones in summitatibus rationalis, in oris, quæ è regione sunt superhumeralis, et posteriora ejus aspiciunt.",
+      "french": "Vous ferez aussi deux anneaux d'or, que vous mettrez aux deux côtez d'en bas du rational, sur les bords qui répondent à l'éphod par derrière.",
+      "annotations": null,
+      "source_pages": [
+        "page_0485.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Necnon et alios duos annulos aureos, qui ponendi sunt in utroque latere superhumeralis deorsum, quod respicit contra faciem juncturæ inferioris, ut aptari possit cum superhumerali ;",
+      "french": "Vous ferez de plus deux anneaux d'or, qu'il faudra mettre aux bas de l'éphod, aux deux côtez qui regardent les anneaux qui servent à attacher le rational, afin que l'éphod et le rational soient joints ensemble,",
+      "annotations": null,
+      "source_pages": [
+        "page_0485.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et stringatur rationale annulis suis cum annulis superhumeralis vittâ hyacinthinâ, ut maneat junctura fabrefacta, et à se invicem rationale et superhumerale nequeant separari.",
+      "french": "Par le moyen d'un ruban d'hyacinthe qui passera par les anneaux de l'éphod et du rational ; ainsi ils demeureront proprement attachez, et ne pourront être séparez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0485.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Portabitque Aaron nomina filiorum Israel in Rationali judicii super pectus suum, quando ingredietur Sanctuarium, memoriale coram Domino in æternum.",
+      "french": "Et Aaron portera les noms des enfants d'Israël dans le rational du Jugement, sur sa poitrine, lorsqu'il entrera dans le Sanctuaire, afin que le rational serve d'un monument éternel devant le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0486.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Pones autem in rationali judicii doctrinam et veritatem, quæ erunt in pectore Aaron quando ingredietur coram Domino : et gestabit judicium filiorum Israel in pectore suo, in conspectu Domini semper.",
+      "french": "Vous mettrez dans le rational du Jugement, la doctrine, et la vérité. Aaron les portera sur sa poitrine, lorsqu'il sera devant le Seigneur : et il aura toujours sur son cœur le Jugement des enfants d'Israël, devant le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0486.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Facies et tunicam superhumeralis totam hyacinthinam.",
+      "french": "Vous ferez aussi la tunique de l'éphod et elle sera toute d'hyacinthe.",
+      "annotations": null,
+      "source_pages": [
+        "page_0492.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "In cujus medio supra erit capitium, et ora per gyrum ejus textilis, sicut fieri solet in extremis vestium partibus, ne facilè rumpatur.",
+      "french": "Il y aura en haut une ouverture au milieu, pour passer la tête, et tout autour de cette ouverture, un bord tissu, comme on a accoutumé d'en faire aux extrémitez des habits, de peur qu'ils ne se rompent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0493.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Deorsum verò, ad pedes ejusdem tunicæ, per circuitum, quasi mala punica facies, ex hyacintho, et purpurâ, et cocco bis tincto, mixtis in medio tintinnabulis :",
+      "french": "Vous mettrez au bas, et tout autour de cette même robe, comme des grenades faites d'hyacinthe, de pourpre, d'écarlatte teinte deux fois, entremêlées de sonnettes :",
+      "annotations": null,
+      "source_pages": [
+        "page_0495.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Ita ut tintinnabulum sit aureum, et malum punicum, rursùmque tintinnabulum aliud aureum et malum punicum.",
+      "french": "En sorte qu'il y aura une sonnette d'or, et une grenade ; et une sonnette d'or, et une autre grenade ; et ainsi de suite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0495.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et vestietur eâ Aaron in officio ministerii, ut audiatur sonitus quando ingreditur et egreditur Sanctuarium in conspectu Domini, et non moriatur.",
+      "french": "Aaron se revêtira de cette tunique, dans l'exercice de son ministere, afin qu'on entende le son de ces sonnettes, lorsqu'il entrera dans le Sanctuaire en la présence du Seigneur, ou qu'il en sortira, et qu'il ne soit point puni de mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0495.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Facies et laminam de auro purissimo : in qua sculpes opere cælatoris, Sanctum Domino.",
+      "french": "Vous ferez aussi une lame de l'or le plus pur, sur laquelle vous graverez au burin ces mots : LA SAINTETE' EST AU SEIGNEUR.",
+      "annotations": null,
+      "source_pages": [
+        "page_0496.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Ligabisque eam cum vittâ hyacinthinâ, et erit super tiaram,",
+      "french": "Et vous l'attacherez sur sa tiare, avec un ruban d'hyacinthe.",
+      "annotations": null,
+      "source_pages": [
+        "page_0497.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Imminens fronti Pontificis. Portabitque Aaron iniquitates eorum, quæ obtulerunt et sanctificaverunt filii Israel, in cunctis muneribus et donariis suis. Erit autem lamina semper in fronte ejus, ut placatus sit eis Dominus.",
+      "french": "Sur le front du souverain Pontife. Et Aaron portera les iniquitez que les enfants d'Israël ont commises dans les offrandes qu'ils ont faites, et dans les sacrifices qu'ils ont offerts. Cette lame sera toujours sur son front, afin que le Seigneur leur pardonne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0498.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Stringesque tunicam bysso, et tiaram byssinam facies, et balteum opere plumarii.",
+      "french": "Et vous ferez aussi une tunique étroite de finlin, et une tiare de même matiere : sa ceinture sera d'un ouvrage de broderie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0498.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Porrò filiis Aaron tunicas lineas parabis, et balteos ac tiaras, in gloriam et decorem:",
+      "french": "Vous ferez des tuniques de lin, des ceintures et des tiares aux fils d'Aaron, pour la gloire et pour l'ornement de leur ministere.",
+      "annotations": null,
+      "source_pages": [
+        "page_0500.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Vestiésque his omnibus Aaron fratrem tuum, et filios ejus cum eo. Et cunctorum consecrabis manus, sanctificabisque illos, ut sacerdotio fungantur mihi.",
+      "french": "Et vous revêtirez Aaron vôtre frere, et ses fils, de tous ces habits : vous leur consacrerez les mains à tous ; et vous les sanctifierez, afin qu'ils exercent le ministére de mon Sacerdoce.",
+      "annotations": null,
+      "source_pages": [
+        "page_0501.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Facies et fœminalia linea, ut operiant carnem turpitudinis suæ, à renibus usque ad femora :",
+      "french": "Vous leur ferez des habillements de lin, qui tiennent depuis les reins, jusqu'aux cuisses, pour couvrir la honte de leur nudité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0502.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Et utentur eis Aaron et filii ejus, quando ingredientur Tabernaculum testimonii, vel quando appropinquant ad altare ut ministrent in Sanctuario, ne iniquitatis rei moriantur. Legitimum sempiternum erit Aaron, et semini ejus post eum.",
+      "french": "Aaron et ses fils s'en serviront lorsqu'ils entreront dans le Tabernacle du témoignage, ou lorsqu'ils approcheront de l'Autel pour servir dans le Sanctuaire, de peur qu'ils ne se rendent coupables d'iniquité, et qu'ils ne meurent. Cette ordonnance sera une loi perpétuelle pour Aaron, et pour sa postérité après lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0505.json"
+      ]
+    }
+  ]
+}

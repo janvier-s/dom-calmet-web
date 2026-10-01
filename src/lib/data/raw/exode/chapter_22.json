@@ -1,0 +1,295 @@
+{
+  "book": "Exode",
+  "chapter": 22,
+  "chapter_summary": "Lois touchant le larcin, les dépôts, le prêt, la fornication, les maléfices, la bestialité, l'idolâtrie. Contre ceux qui font tort à la veuve, et à l'orphelin. Règlement sur les dîmes, les prémices, les premiers-nés, la chair des animaux auxquels une bête aura touché.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Si quis furatus fuerit bovem aut ovem, et occiderit vel vendiderit: quinque boves pro uno bove restituet, et quatuor oves pro una ove.",
+      "french": "Si quelqu'un vole un bœuf, ou une brebis ; soit qu'il les tue, ou qu'il les vende, il rendra cinq bœufs pour un bœuf, et quatre brebis pour une brebis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Si effringens fur domum, sive suffodiens fuerit inventus, et accepto vulnere mortuus fuerit ; percussor non erit reus sanguinis.",
+      "french": "Si un voleur est pris rompant la porte d’une maison, ou perçant la muraille pour y entrer, et qu’il y reçoive une blessure dont il meure, celui qui l’aura blessé sera regardé comme innocent de la mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0361.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quod si orto sole hoc fecerit, homicidium perpetravit, et ipse morietur. Si non habuerit quod pro furto reddat, ipse venundabitur.",
+      "french": "Que s'il tue le voleur après le lever du soleil, il a commis un meurtre, et il sera puni de mort. Si le voleur n'a pas de quoi rendre ce qu'il a dérobé, il sera vendu lui-même.",
+      "annotations": null,
+      "source_pages": [
+        "page_0362.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Si inventum fuerit apud eum quod furatus est, vivens, sive bos, sive asinus, sive ovis ; duplum restituet.",
+      "french": "Si ce qu'il a dérobé se trouve chez lui encore vivant, soit que ce soit un bœuf, ou un âne, ou une brebis, il rendra le double.",
+      "annotations": null,
+      "source_pages": [
+        "page_0363.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Si laeserit quispiam agrum vel vineam, et dimiserit jumentum suum ut depascatur aliena : quidquid optimum habuerit in agro suo, vel in vinea, pro damni æstimatione restituet.",
+      "french": "Si un homme fait quelque dégât dans un champ ou dans une vigne, et qu'il laisse paître sa bête dans l'héritage d'un autre, il donnera ce qu'il a de meilleur dans son champ, ou dans sa vigne, pour payer le dommage, selon l'estimation qui en aura été faite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0364.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Si egressus ignis invenerit spinas, et comprehenderit acervos frugum, sive stantes segetes in agris ; reddet damnum qui ignem succenderit.",
+      "french": "Si le feu gagnant peu à peu, trouve des épines, et que de là il se prenne à des monceaux de gerbes, ou à des grains qui sont encore sur le pied dans le champ ; celui qui aura allumé le feu, paiera toute la perte qu'il aura causée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0364.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Si quis commendaverit amico pecuniam aut vas in custodiam, et ab eo qui susceperat, furto ablata fuerint: si inveniatur fur, duplum reddet.",
+      "french": "Si quelqu'un met en dépôt de l'argent, ou quelqu'autre chose chez son ami, et qu'on le dérobe chez le dépositaire ; si le voleur se trouve, il rendra le double.",
+      "annotations": null,
+      "source_pages": [
+        "page_0365.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Si latet fur, dominus domus applicabitur ad Deos, et jurabit quod non extenderit manum in rem proximi sui.",
+      "french": "Mais si on ne trouve pas le voleur, le dépositaire comparaîtra devant les Juges, et fera serment qu'il n'a point pris ce qui était à son prochain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0365.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ad perpetrandam fraudem, tam in bove, quam in asino, et ove ac vestimento, et quidquid damnum inferre potest ; ad Deos utriusque causa perveniet, et si illi judicaverint, duplum restituet proximo suo.",
+      "french": "Et qu'il n'a commis aucune fraude dans tout ce qui a été dérobé, soit que ce soit un bœuf, un âne, une brebis, ou généralement quelqu'autre chose qui ait été perdue. Les Juges examineront la cause de l'un et de l'autre ; et si le dépositaire est condamné, il rendra le double à celui à qui était le dépôt.",
+      "annotations": null,
+      "source_pages": [
+        "page_0366.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Si quis commendaverit proximo suo asinum, bovem, ovem, et omne jumentum ad custodiam, et mortuum fuerit, aut debilitatum, vel captum ab hostibus, nullusque hoc viderit ;",
+      "french": "Si un homme confie à un autre un âne, un bœuf, une brebis, ou quelqu'autre animal de service, et que ces animaux meurent ou dépérissent, ou soient pris par l'ennemi, sans qu'on l'ait su ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0367.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Jusjurandum erit in medio, quod non extenderit manum ad rem proximi sui : suscipietque dominus juramentum : et ille reddere non cogetur.",
+      "french": "Il fera serment devant les Juges, qu'il n'a point pris ce qui appartient à son prochain ; et celui-ci s'en tiendra à ce serment, et ne l'obligera point à payer la perte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0367.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Quod si furto ablatum fuerit, restituet damnum domino.",
+      "french": "Que si ce qu'il avait en garde est dérobé, il dédommagera celui à qui la chose appartenait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0367.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Si comestum a bestia ; deferat ad eum quod occisum est, et non restituet.",
+      "french": "Mais si l animal a été mangé par une bête, il rapportera au maître ce qui en sera resté, sans être obligé à restituer l animal.",
+      "annotations": null,
+      "source_pages": [
+        "page_0368.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Qui a proximo suo quidquam horum mutuo postulaverit, et debilitatum aut mortuum fuerit, domino non præsente ; reddere compelletur.",
+      "french": "Si Quelqu un emprunte d un autre quelqu une de ces choses, et qu elle vienne à mourir, ou à être blessée en l absence du propriétaire ; il sera contraint de la rendre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0368.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Quod si in præsentiarum dominus fuerit, non restituet, maximè si conductum venerat pro mercede operis sui.",
+      "french": "Mais si cela arrive en la présence du maître, le preneur ne la restituera point, principalement s'il l'avait louée, pour en payer l'usage qu'il en tirerait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0369.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Si seduxerit quis virginem necdum desponsatam, dormieritque cum ea: dotabit eam, et habebit eam uxorem.",
+      "french": "Si quelqu'un séduit une fille, qui n'est point encore promise en mariage, et qu'il en abuse, il lui donnera sa dot, et la prendra pour femme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0370.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Si pater virginis dare noluerit, reddet pecuniam juxta modum dotis, quam virgines accipere consueverunt.",
+      "french": "Que si le père de la fille ne veut pas la lui donner, il donnera au père autant d'argent qu'il en faut d'ordinaire aux filles pour les marier.",
+      "annotations": null,
+      "source_pages": [
+        "page_0370.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Maleficos non patieris vivere.",
+      "french": "Vous punirez de mort ceux qui usent de sortilèges, et d'enchantements.",
+      "annotations": null,
+      "source_pages": [
+        "page_0371.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Qui coierit cum jumento, morte moriatur.",
+      "french": "Celui qui aura commis un crime abominable avec une bête, sera puni de mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0371.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Qui immolat Diis, occidetur, præterquam Domino soli.",
+      "french": "Celui qui sacrifiera à d'autres Dieux qu'au seul Seigneur, sera mis à mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0371.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Advenam non contristabis, neque affliges eum : advena enim et ipse fuistis in terra Ægypti.",
+      "french": "Vous n'attristerez et vous n'affligerez point l'étranger, parce que vous avez été étranger vous-même dans l'Égypte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0372.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Viduæ et pupillo non nocebitis.",
+      "french": "Vous ne ferez aucun tort à la veuve et à l'orphelin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0372.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Si laeseritis eos, vociferabuntur ad me, et ego audiam clamorem eorum:",
+      "french": "Si vous leur faites tort, ils crieront vers moi, et je les exaucerai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0372.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et indignabitur furor meus, percutiamque vos gladio, erunt uxores vestræ viduæ, et filii vestri pupilli.",
+      "french": "Et ma fureur s'enflammera contre vous, je vous ferai mourir par l'épée ; et vos femmes seront veuves, et vos enfants orphelins.",
+      "annotations": null,
+      "source_pages": [
+        "page_0372.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Si pecuniam mutuam dederis populo meo pauperi qui habitat tecum, non urgebis eum quasi exactor, nec usuris opprimes.",
+      "french": "Si vous prêtez de l'argent à ceux de mon peuple, qui seront pauvres parmi vous, vous ne les presserez point comme un exacteur impitoyable, et vous ne les accablerez point par des usures.",
+      "annotations": null,
+      "source_pages": [
+        "page_0372.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Si pignus à proximo tuo acceperis vestimentum, ante solis occasum reddes ei.",
+      "french": "Si votre prochain vous donne son habit pour gage, vous le lui rendrez avant le coucher du soleil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0376.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Ipsum enim est solum quo operitur, indumentum carnis ejus, nec habet aliud in quo dormiat. Si clamaverit ad me, exaudiam eum, quia misericors sum.",
+      "french": "Car il n'a point d'autre habit pour se vêtir, et pour mettre sur lui quand il dort. S'il crie vers moi, je l'exaucerai, parce que je suis miséricordieux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Diis non detrahes, et Principi populi tui non maledices.",
+      "french": "Vous ne parlerez point mal des Juges, et vous ne maudirez point les Princes de votre peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Decimas tuas et primitias tuas non tardabis reddere. Primogenitum filiorum tuorum dabis mihi.",
+      "french": "Vous ne différerez point à payer les dîmes, et les prémices de vos biens ; vous me donnerez le premier-né de vos fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "De bobus quoque et ovibus similiter facies : septem diebus sit cum matre sua, die octava reddes illum mihi.",
+      "french": "Vous m'offrirez aussi les premiers-nés de vos bœufs et de vos brebis ; vous les laisserez sept jours avec la mère, et vous me les offrirez le huitième.",
+      "annotations": null,
+      "source_pages": [
+        "page_0378.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Viri sancti eritis mihi : carnem, quæ a bestiis fuerit prægustata, non comedetis, sed projicietis canibus.",
+      "french": "Vous serez saints, et consacrés particulièrement à mon service. Vous ne mangerez point de la chair d'un animal, dont les bêtes auront mangé avant vous : mais vous la jetterez aux chiens.",
+      "annotations": null,
+      "source_pages": [
+        "page_0379.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Sin autem sciebat quod bos cornupeta esset ab heri et nudiustertius, et non custodivit eum Dominus suus ; reddet bovem pro bove, et cadaver integrum accipiet.",
+      "french": "Que si le maître du bœuf qui aura blessé, savait qu'il y a déjà quelque temps que cet animal frappait de la corne, et qu'il ne l'ait pas gardé, il rendra bœuf pour bœuf, et toute la chair du bœuf tué sera à lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "book": "Exode",
+  "chapter": 25,
+  "chapter_summary": "Offrande pour la construction du Tabernacle. Description de l'Autel où l'on mettait des pains de proposition. De l'Arche. Du Chandelier.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Locutusque est Dominus ad Moysen, dicens :",
+      "french": "L Seigneur parla donc à Moïse, et lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Loquere filiis Israel, ut tollant mihi primitas : ab omni homine qui offeret ultroneus, accipietis eas.",
+      "french": "Dites aux enfants d'Israël de me préparer des présents ; recevez-les de tous ceux qui les offriront de leur plein gré.",
+      "annotations": null,
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Hæc sunt autem quæ accipere debetis : aurum, et argentum, et æs ;",
+      "french": "Voici les choses que vous devez recevoir d'eux : de l'or, de l'argent, de l'airain ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Hyacinthum et purpuram, coccumque bis tinctum, et byssum, pilos caprarum,",
+      "french": "De l'hyacinthe, de la pourpre, de l'écarlate teinte deux fois, du fin lin, du poil de chèvres,",
+      "annotations": null,
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et pelles arietum rubricatas, pellesque jambynas, et ligna setim.",
+      "french": "Des peaux de moutons teintes en rouge, des peaux teintes en violet, et du bois de setim.",
+      "annotations": null,
+      "source_pages": [
+        "page_0417.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Oleum ad luminaria continuanda: aromata in unguentum, et thymiama boni odoris :",
+      "french": "De l'huile pour entretenir les lampes, des aromates pour la composition des huiles, et de parfums d'excellente odeur ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0419.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Oleum ad luminaria continuanda: aromata in unguentum, et thymiama boni odoris :",
+      "french": "De l'huile pour entretenir les lampes, des aromates pour la composition des huiles, et de parfums d'excellente odeur ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0420.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Facientque mihi Sanctuarium, et habitabo in medio eorum.",
+      "french": "Ils me dresseront un Sanctuaire, et j'habiterai au milieu d'eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0424.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Juxta omnem similitudinem tabernaculi quod ostendam tibi, et omnium vasorum in cultum ejus : sicque facietis illud:",
+      "french": "Selon la forme du Tabernacle que je vous ferai voir, et de tous les vases qui y serviront : Et voici la manière dont vous ferez ce Sanctuaire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0425.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Arcam de lignis setim compingite, cujus longitudo habeat duos et semis cubitos : latitudo, cubitum et dimidium : altitudo, cubitum similiter ac semisse.",
+      "french": "Faites une Arche de bois de setim, qui ait deux coudées et demie de long, une coudée et demie de large, et une coudée et demie de haut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0425.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et deaurabis eam auro mundissimo intus et foris : faciesque supra, coronam auream per circuitum.",
+      "french": "Vous la couvrirez de lames d'un or très pur, en dedans et en dehors ; vous ferez au-dessus une couronne d'or, qui régnera tout autour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0426.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et quatuor circulos aureos, quos pones per quatuor Arcæ angulos : duo circuli sint in latere uno, et duo in altero.",
+      "french": "Vous mettrez quatre anneaux d'or aux quatre coins de cette Arche, deux d'un côté, et deux de l'autre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0426.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Facies quoque vectes de lignis setim, et operies eos auro.",
+      "french": "Vous ferez aussi des bâtons de bois de setim, que vous couvrirez d'or ;\n",
+      "annotations": null,
+      "source_pages": [
+        "page_0426.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Inducesque per circulos qui sunt in arcae lateribus, ut portetur in eis.",
+      "french": "Et vous les ferez entrer dans les anneaux qui sont aux côtés de l'Arche, afin qu'ils servent à la porter.",
+      "annotations": null,
+      "source_pages": [
+        "page_0427.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Qui semper erunt in circulis, nec unquam extrahentur ab eis.",
+      "french": "Ces bâtons demeureront toujours dans les anneaux, et on ne les en tirera jamais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0427.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Ponesque in Arca testificationem quam dabo tibi.",
+      "french": "Et vous mettrez dans l'Arche, les Tables de la Loi, que je vous donnerai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0427.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Facies et propitiatorium de auro mundissimo: duos cubitos et dimidium tenebit longitudo ejus, et cubitum ac semisse latitudo.",
+      "french": "Vous ferez aussi un propitiatoire d'un or très pur. Il aura deux coudées et demie de long, et une coudée et demie de large.",
+      "annotations": null,
+      "source_pages": [
+        "page_0428.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Duos quoque Cherubim aureos et productiles facies, ex utraque parte oraculi.",
+      "french": "Vous mettrez aux deux extrémités de l'oracle, ou du propitiatoire, deux Chérubins d'or battu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0428.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Cherub unus fit in latere uno, et alter in altero.",
+      "french": "Un Chérubin d'un côté, et un Chérubin de l'autre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0432.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Utrumque latus propitiatorii tegant expandentes alas, et operientes oraculum, respicientque se mutuò, versis vultibus in propitiatorium quo operienda est Arca ;",
+      "french": "Ils couvriront le propitiatoire de leurs ailes étendues des deux côtés, et ils se regarderont l'un l'autre, ayant le visage tourné vers le propitiatoire qui couvre l'Arche,",
+      "annotations": null,
+      "source_pages": [
+        "page_0432.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "In qua pones testimonium quod dabo tibi.",
+      "french": "Dans laquelle vous mettrez le témoignage que je vous donnerai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0432.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Inde præcipiam et loquar ad te supra propitiatorium, ac de medio duorum Cherubim qui erunt super Arcam testimonii, cuncta quæ mandabo per te filiis Israel.",
+      "french": "C'est de là que je vous donnerai mes ordres ; je vous parlerai de dessus le propitiatoire, et du milieu des deux Chérubins, qui seront au-dessus de l'Arche du témoignage, et je vous déclarerai ce que vous aurez à commander de ma part aux enfants d'Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0433.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Facies et mensam de lignis setim, habentem duos cubitos longitudinis, et in latitudine cubitum, et in altitudine cubitum ac semisse.",
+      "french": "Vous ferez aussi une table de bois de setim, qui aura deux coudées de long, une coudée de large, et une coudée et demie de haut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0433.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et inaurabis eam auro purissimo : faciesque illi labium aureum per circuitum.",
+      "french": "Vous la couvrirez d'un or très pur, et vous y ferez tout autour une bordure d'or.",
+      "annotations": null,
+      "source_pages": [
+        "page_0433.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et ipsi labio coronam interrasilem altam quatuor digitis : et super illam, alteram coronam aureolam.",
+      "french": "Vous appliquerez sur cette bordure une couronne de sculpture à jour, haute de quatre doigts, et vous mettrez encore au-dessus une autre petite couronne d'or.",
+      "annotations": null,
+      "source_pages": [
+        "page_0433.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Quatuor quoque circulos aureos præparabis, et pones eos in quatuor angulis ejusdem mensæ per singulos pedes.",
+      "french": "Vous ferez aussi quatre anneaux d'or ; que vous mettrez aux quatre coins de la table, un à chaque pied.",
+      "annotations": null,
+      "source_pages": [
+        "page_0434.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Subter coronam erunt circuli aurei, ut mittantur vectes per eos, et possit mensa portari.",
+      "french": "Les anneaux d'or seront au-dessous de la couronne, pour y passer les bâtons qui serviront à porter la table.",
+      "annotations": null,
+      "source_pages": [
+        "page_0435.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Ipsos quoque vectes facies de lignis setim, et circumdabis auro ad subvehendam mensam.",
+      "french": "Ces bâtons seront de bois de setim, et couverts de lames d'or.",
+      "annotations": null,
+      "source_pages": [
+        "page_0435.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Parabis et acetabula, ac phialas, thuribula, et cyathos, in quibus offerenda sunt libamina, ex auro purissimo.",
+      "french": "Vous ferez aussi d'un or très pur, de petits vaisseaux à mettre des liqueurs, des vases à boire, des encensoirs, et des coupes, dans lesquelles on mettra les libations qu'on doit m'offrir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0435.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et ponas super mensam panes propositionis in conspectu meo semper.",
+      "french": "Et vous mettrez sur cette table les pains de proposition, qui seront toujours exposés en ma présence.",
+      "annotations": null,
+      "source_pages": [
+        "page_0437.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Facies et candelabrum ductile de auro mundissimo ; hastile ejus, calamos, scyphos, et sphærulas, ac lilia, ex ipso procedentia.",
+      "french": "Vous ferez aussi un chandelier d'un or très pur battu au marteau ; sa tige, ses branches, et ses ornements en forme de coupes, ses pommes et ses lys seront de la même masse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0438.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Sex calami egredientur de lateribus, tres ex uno latere, et tres ex altero.",
+      "french": "Six branches naîtront des côtés de sa tige : trois d'un côté, et trois de l'autre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0438.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Tres scyphi quasi in nucis modum per calamos singulos, sphærulæque simul et lilium : et tres similiter scyphi instar nucis in calamo altero, sphærulæque simul et lilium : hoc erit opus sex calamorum, qui producendo sunt de hastili :",
+      "french": "L'une des branches aura trois coupes en forme de noix, et entre chaque coupe, une pomme et un lys ; et l'autre branche aura de même trois coupes en forme de noix, et des pommes et des lys. Et toutes les six branches qui sortiront de la tige du chandelier, seront de la même sorte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0438.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "In ipso autem candelabro erunt quatuor scyphi in nucis modum, sphærulæque per singulos, et lilia.",
+      "french": "Mais la tige du chandelier aura quatre coupes en forme de noix, accompagnées de sa pomme, et de son lys.",
+      "annotations": null,
+      "source_pages": [
+        "page_0439.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Sphærulæ sub duobus calamis per tria loca, qui simul sex sunt, procedentes de hastili uno.",
+      "french": "Et il y aura trois pommes en trois endroits de la tige, et de chaque pomme sortiront deux branches, qui feront en tout six branches, naissantes d'une même tige.",
+      "annotations": null,
+      "source_pages": [
+        "page_0439.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et sphærula igitur et calami ex ipso erunt, universa ductilia de auro purissimo.",
+      "french": "Les pommes et les branches seront de la même masse de métal, battues au marteau, et d'un or très pur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0440.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Facies et lucernas septem, et pones eas super candelabrum, ut luceant ex adverso.",
+      "french": "Vous ferez aussi sept lampes, que vous mettrez sur le chandelier, afin qu'elles éclairent vis-à-vis des Tables.",
+      "annotations": null,
+      "source_pages": [
+        "page_0440.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Emunctoria quoque, et ibi quæ emuncta sunt extinguantur, fiant de auro purissimo.",
+      "french": "Vous ferez aussi des mouchettes, et des éteignoirs, où l'on éteindra ce qui aura été mouché des lampes ; le tout d'un or très pur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0440.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Omne pondus candelabri cum universis vasis suis, habebit talentum auri purissimi.",
+      "french": "Le poids du chandelier, et de tous les instruments qui serviront à son usage, sera d'un talent d'un or très pur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0441.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Inspice et fac secundum exemplar quod tibi in monte monstratum est.",
+      "french": "Considérez, et faites toutes choses selon le modèle qui vous a été montré sur la montagne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0441.json"
+      ]
+    }
+  ]
+}

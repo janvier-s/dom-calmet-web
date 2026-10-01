@@ -1,0 +1,205 @@
+{
+  "book": "Exode",
+  "chapter": 27,
+  "chapter_summary": "Description de l'Autel des Holocaustes, du Parvis du Tabernacle, de ses colonnes, et du chandelier.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Facies et Altare de lignis setim, quod habebit quinque cubitos in longitudine, et totidem in latitudine, id est, quadrum et tres cubitos in altitudine.",
+      "french": "Vous ferez aussi un Autel de bois de setim, qui aura cinq coudées de long, et autant de large ; c'est-à-dire, qu'il sera carré, et il aura trois coudées de haut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0454.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Cornua autem per quatuor angulos ex ipso erunt : et operies illud aere.",
+      "french": "Vous ferez aux quatre coins quatre cornes qui sortiront du corps de l'autel, et vous le couvrirez d'airain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0455.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Faciesque in usus ejus lebetes ad suscipiendos cineres, et forcipes, atque fuscinulas, et ignium receptacula : omnia vasa ex ære fabricabis.",
+      "french": "Et vous ferez pour le service de l'Autel, des chaudrons pour recevoir les cendres, des pincettes, des fourchettes, des braisiers. Tous ces vaisseaux seront d'airain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0456.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "† Craticulamque in modum retis æneam : per cujus quatuor angulos erunt quatuor annuli ænei.",
+      "french": "Vous ferez aussi une grille d'airain, en forme de rets : elle aura quatre anneaux d'airain aux quatre coins.",
+      "annotations": null,
+      "source_pages": [
+        "page_0457.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quos pones subter arulam Altaris : eritque craticula usque ad Altaris medium.",
+      "french": "Vous les mettrez sous le foyer de l'Autel, et la grille descendra jusqu'au milieu de la profondeur de l'Autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0459.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Facies et vectes Altaris de lignis setim duos, quos operies laminis æneis :",
+      "french": "Vous ferez aussi pour porter l'Autel des barres de bois de setim, que vous couvrirez de lames d'airain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0459.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et induces per circulos, eruntque ex utroque latere Altaris ad portandum.",
+      "french": "Vous les ferez passer par les anneaux des deux côtés de l'Autel, et ils serviront à le porter.",
+      "annotations": null,
+      "source_pages": [
+        "page_0459.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Non solidum, sed inane et cavum intrinsecus facies illud, sicut tibi in monte monstratum est.",
+      "french": "Cet Autel ne sera point solide, mais creux, et vide par dedans, selon le modèle qui vous en a été montré sur la montagne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0460.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Facies et atrium Tabernaculi, in cujus australi plaga contra meridiem erunt tentoria de bysso retorta : centum cubitos unum latus tenebit in longitudine.",
+      "french": "Vous ferez aussi le parvis du Tabernacle. Ce parvis aura du côté du midi, des tentes de fin lin retors ; ce côté sera de cent coudées de long.",
+      "annotations": null,
+      "source_pages": [
+        "page_0461.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et columnas viginti cum basibus totidem æneis, quæ capita cum cælaturis suis habebunt argentea.",
+      "french": "Vous y mettrez vingt colonnes, avec autant de bases d'airain ; leurs chapiteaux, et leurs ornements seront d'argent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0461.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Similiter et in latere aqu'ilonis per longum erunt tentoria centum cubitorum, columnæ viginti, et bases aneæ ejusdem numeri, et capita earum cum cælaturis suis argentea.",
+      "french": "Vous en ferez autant au côté du septentrion ; vous y mettrez des rideaux de la longueur de cent coudées, et vingt colonnes qui auront chacune leurs bases d'airain, leurs chapiteaux, et leurs ornements d'argent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0462.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "In latitudine vero atrii, quod respicit ad occidentem, erunt tentoria per quinquaginta cubitos, et columnæ decem, basesque totidem.",
+      "french": "Du côté qui regarde l'occident, le parvis sera orné de voiles de cinquante coudées de long, avec dix colonnes, et dix bases.",
+      "annotations": null,
+      "source_pages": [
+        "page_0462.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "In ea quoque atrii latitudine, quæ respicit ad orientem, quinquaginta cubiti erunt.",
+      "french": "La partie du parvis qui regarde l'orient, aura de même cinquante coudées de large.",
+      "annotations": null,
+      "source_pages": [
+        "page_0462.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "In quibus quindecim cubitorum tentoria lateri uno deputabuntur, columnæque tres, et bases totidem :",
+      "french": "Vous mettrez des rideaux d'un côté de sa largeur, qui auront quinze coudées de large ; il y aura aussi trois colonnes et leurs bases ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0462.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et in latere altero erunt tentoria cubitos obtinentia quindecim, columnæ tres, et bases totidem.",
+      "french": "Et l'autre du côté du parvis qui aura de même quinze coudées de large, sera fermé par des voiles de même longueur ; avec trois colonnes et leurs bases.",
+      "annotations": null,
+      "source_pages": [
+        "page_0462.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "In introitu vero atris fiet tentorium cubitorum viginti ex hyacintho et purpurâ, coccóque bis tincto, et bysso retortâ, opere plumarii : columnas habebit quatuor, cum basibus totidem.",
+      "french": "A l'entrée du parvis, vous mettrez dans l'espace de vingt coudées qui restent, un voile d'hyacinthe, de pourpre, d'écarlate teinte deux fois, de fin lin retors, le tout en ouvrage de broderie. L'entrée aura quatre colonnes, et autant de bases.",
+      "annotations": null,
+      "source_pages": [
+        "page_0462.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Omnes columnæ atrii per circuitum vestitæ erunt argenteis laminis, capitibus argenteis, et basibus æneis.",
+      "french": "Toutes les colonnes du parvis seront revêtues de lames d'argent, avec leurs chapiteaux d'argent, et leurs bases d'airain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0463.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "In longitudine occupabit atrium cubitos centum, in latitudine quinquaginta, altitudo quinque cubitorum erit ; fietque de bysso retorta, et habebit bases æneas.",
+      "french": "Le parvis aura cent coudées de long, cinquante de large, et cinq de haut. Ses rideaux seront de fin lin retors, et les bases de ses colonnes, d'airain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0463.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Cuncta vasa Tabernaculi in omnes usus et ceremonias, tam paxillos ejus, quàm atrii, ex ære facies.",
+      "french": "Tous les vases qui serviront à tous les usages et à toutes les cérémonies du Tabernacle, et tous les pieux qui seront employés tant au Tabernacle, qu'au parvis, seront d'airain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0463.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Præcipe filiis Israël ut afferant tibi oleum de arboribus olivarum purissimum, piléque contusum : ut ardeat lucerna semper,",
+      "french": "Ordonnez aux enfants d'Israël de vous apporter l'huile la plus pure, qui aura été exprimée des olives pilées au mortier, afin que les lampes brûlent toujours,",
+      "annotations": null,
+      "source_pages": [
+        "page_0463.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "In Tabernaculo testimonii extra velum quod oppansum est testimonio. Et collocabunt eam Aaron et filii ejus, ut usque manè luceat coram Domino. Perpetuus erit cultus per successiones eorum à filiis Israël.",
+      "french": "Dans le Tabernacle du témoignage, au dehors du rideau qui est tendu par devant l'Arche du témoignage. Et Aaron et ses fils mettront ces lampes, afin qu'elles éclairent toujours jusqu'au matin en la présence du Seigneur. C'est un culte qui se continuera de race en race, de la part des enfants d'Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0464.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Et quinque columnas deaurabis lignorum setim, ante quas ducetur tentorium: quarum erunt capita aurea, et bases æneæ.",
+      "french": "Ce voile sera suspendu à cinq colonnes de bois de setim, couvertes de lames d'or, et enrichies de chapiteaux d'or, et de bases d'airain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0454.json"
+      ]
+    }
+  ]
+}

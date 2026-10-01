@@ -1,0 +1,313 @@
+{
+  "book": "Exode",
+  "chapter": 21,
+  "chapter_summary": "Lois concernant les esclaves Hébreux, l'homicide volontaire et involontaire, les villes d'asile, le vol que l'on fait d'un homme. Règlement contre ceux qui blessent un esclave, ou un homme libre, ou une femme enceinte. Du bœuf qui frappe des cornes. Loi du Talion.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Hæc sunt judicia quæ propones eis.",
+      "french": "Voici les préceptes de justice que vous proposerez aux enfants d'Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0330.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Si emeris servum Hebræum, sex annis serviet tibi : in septimo egredietur liber gratis.",
+      "french": "Lorsque vous achèterez un esclave Hébreu, il vous servira six ans, et au septième il sortira sans vous rien donner.",
+      "annotations": null,
+      "source_pages": [
+        "page_0330.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Cum quali veste intraverit, cum tali exeat : si habens uxorem, et uxor egrediatur simul.",
+      "french": "Il aura en sortant de chez vous, le même habit qu'il avait en y entrant : s'il est marié, sa femme sortira avec lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0331.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Sin autem dominus dederit illi uxorem, et pepererit filios et filias : mulier et liberi ejus erunt domini sui, ipse vero exibit cum vestitu suo.",
+      "french": "Mais si son maître lui a donné une femme, dont il ait eu des enfants ; la femme et les enfants demeureront au maître, mais l'esclave sortira avec ses habits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0331.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quod si dixerit servus : Diligo dominum meum, et uxorem ac liberos, non egrediar liber :",
+      "french": "Que si l'esclave dit : J'aime mon maître, ma femme, et mes enfants, je ne veux point sortir pour jouir de la liberté ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0333.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Offeret eum dominus diis, et applicabitur ad ostium et postes, perforabitque aurem ejus subula : et erit ei servus in saeculum.",
+      "french": "Son maître le fera comparaître devant les Magistrats ; et ensuite le faisant approcher de la porte, il lui percera l'oreille avec une alène, et il demeurera en servitude pour toujours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0333.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Si quis vendiderit filiam suam in famulam, non egredietur sicut ancillæ exire consueverunt.",
+      "french": "Si quelqu'un vend sa fille pour être servante, elle ne sortira point de servitude, comme les autres servantes ont accoutumé de sortir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0335.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Si displicuerit oculis domini sui, cui tradita fuerat, dimittet eam : populo autem alieno vendendi non habebit potestatem si spreverit eam.",
+      "french": "Mais si elle n'agrée point à son maître, il la mettra en liberté ; et il ne pourra pas la vendre à un peuple étranger, s'il ne veut pas la retenir pour lui-même.",
+      "annotations": null,
+      "source_pages": [
+        "page_0336.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Si autem filio suo desponderit eam, juxta morem filiarum faciet illi.",
+      "french": "Que s'il l'a fait épouser à son fils, il la traitera comme on traite les filles libres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0338.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quod si alteram ei acceperit, providebit puellæ nuptias, et vestimenta, et pretium pudicitiæ non negabit.",
+      "french": "Mais s'il en fait épouser une autre à son fils, il donnera à cette première, ce qui lui est dû pour son mariage, et pour ses vêtements, et ne lui refusera pas le prix de sa virginité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0338.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Si tria ista non fecerit, egredietur gratis absque pecunia.",
+      "french": "Que s'il ne fait pas ces trois choses, elle sortira de chez lui sans lui rien payer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0339.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Qui autem non est insidiatus, sed Deus illum tradidit in manus ejus : constituam tibi locum in quem fugere debeat.",
+      "french": "Mais s'il le tue, par une rencontre imprévue, et sans lui avoir dressé d'embûche, et que Dieu l'ait fait tomber entre ses mains, je vous marquerai un lieu, où il pourra se réfugier.",
+      "annotations": null,
+      "source_pages": [
+        "page_0343.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Si quis per industriam occiderit proximum suum, et per insidias : ab altari meo evelles eum, ut moriatur.",
+      "french": "Quiconque aura tué un homme de dessein prémédité, et après lui avoir dressé des embûches, vous l'arracherez de mon autel, pour le faire mourir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0344.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Qui percusserit patrem suum aut matrem, morte moriatur.",
+      "french": "Quiconque frappera son père, ou sa mère, sera mis à mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0345.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Qui furatus fuerit hominem, et vendiderit eum, convictus noxæ morte moriatur.",
+      "french": "Celui qui aura dérobé un homme libre, et l'aura vendu pour esclave, étant convaincu de ce crime, sera puni de mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0345.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Qui maledixerit patri suo, vel matri, morte moriatur.",
+      "french": "Celui qui aura maudit son père, ou sa mère, sera puni de mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0346.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Si rixati fuerint viri, et percusserit alter proximum suum lapide vel pugno, et ille mortuus non fuerit, sed jacuerit in lectulo,",
+      "french": "Si deux hommes se querellent, et que l'un frappe l'autre d'un coup de pierre, ou de poing, et que le blessé n'en meure pas, mais qu'il soit seulement obligé de garder le lit ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0347.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Si surrexerit, et ambulaverit foris super baculum suum, innocens erit qui percusserit, ita tamen ut operas ejus et impensas in medicos restituat.",
+      "french": "S'il se lève ensuite, et qu'il marche dehors, avec son bâton ; celui qui l'aura frappé sera regardé comme innocent de sa mort, mais il payera les médecins, et dédommagera le blessé, pour le temps qu'il a perdu pendant sa maladie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0347.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Qui percusserit servum suum, vel ancillam virga, et mortui fuerint in manibus ejus, criminis reus erit.",
+      "french": "Si quelqu'un frappe son esclave, ou sa servante, avec une verge, et s'ils meurent entre ses mains, il sera traité comme coupable de crime.",
+      "annotations": null,
+      "source_pages": [
+        "page_0348.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Sin autem uno die vel duobus supervixerit, non subjacebit pœnæ, quia pecunia illius est.",
+      "french": "Mais s'ils survivent un ou deux jours, il ne sera pas puni comme homicide, parce que son esclave est le prix de son argent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0349.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Si rixati fuerint viri, et percusserit quis mulierem prægnantem, et abortivum quidem fecerit, sed ipsa vixerit, subjacebit damno quantum maritus mulieris expetierit, et arbitri judicaverint.",
+      "french": "Si des hommes ont querellé entre eux, et que l'un d'eux ayant blessé une femme enceinte, elle accouche d'un enfant mort, sans qu'elle meure elle-même ; il sera condamné à payer ce que le mari de la femme voudra, et à ce qui aura été ordonné par des arbitres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0350.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Sin autem mors ejus fuerit subsecuta, reddet animam pro anima,",
+      "french": "Mais si la mère en meurt, il rendra vie pour vie,",
+      "annotations": null,
+      "source_pages": [
+        "page_0352.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede.",
+      "french": "Œil pour œil, dent pour dent, main pour main, pied pour pied.",
+      "annotations": null,
+      "source_pages": [
+        "page_0352.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Adustionem pro adustione, vulnus pro vulnere, livorem pro livore.",
+      "french": "Brûlure pour brûlure, plaie pour plaie ; meurtrissure pour meurtrissure.",
+      "annotations": null,
+      "source_pages": [
+        "page_0354.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Si percusserit quispiam oculum servi sui, aut ancillæ, et luscos eos fecerit, dimittet eos liberos, pro oculo quem eruit.",
+      "french": "Si quelqu'un frappe dans l'œil son esclave, ou sa servante, et qu'ils en perdent l'œil, il les mettra en liberté, pour l'œil qu'ils auront perdu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0354.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Dentem quoque si excusserit servo aut ancillæ suæ, similiter dimittet eos liberos.",
+      "french": "S'il leur fait sortir une dent de la bouche, il leur rendra de même la liberté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0355.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Si bos cornu percusserit virum aut mulierem, et mortui fuerint, lapidibus obruetur : et non comedentur carnes ejus ; dominus quoque bovis innocens erit.",
+      "french": "Si un taureau a frappé de ses cornes un homme, ou une femme, et qu'il les tue, on lapidera le taureau, et on ne mangera point de sa chair ; mais le maître du taureau sera jugé innocent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0355.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Quod si bos cornupeta fuerit ab heri et nudiustertius, et contestati sunt dominum ejus, nec recluserit eum, occideritque virum aut mulierem ; et bos lapidibus obruetur, et dominum ejus occident.",
+      "french": "Que s'il y a déjà quelque temps que le taureau frappait des cornes ; et que le maître en ayant été averti, ne l'ait pas enfermé, et que cet animal tue un homme, ou une femme ; le taureau sera lapidé, et le maître sera puni de mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0356.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Quod si pretium fuerit ei impositum, dabit pro anima sua quidquid fuerit postulatus.",
+      "french": "Que si on le taxe à une somme d'argent, il donnera pour racheter sa vie, tout ce qu'on lui demandera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0356.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Filiam quoque et filium si cornu percusserit, simili sententia subjacebit.",
+      "french": "Si ce taureau frappe un garçon, ou une fille, le maître sera soumis au même châtiment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0357.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Si servum ancillamque invaserit, triginta siclos argenti domino dabit ; bos vero lapidibus opprimetur.",
+      "french": "S'il frappe un esclave, ou une servante, le maître du taureau payera au maître de l'esclave trente sicles d'argent, et le taureau sera lapidé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0357.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Si quis aperuerit cisternam, et foderit, et non operuerit eam, cecideritque bos aut asinus in eam ;",
+      "french": "Si quelqu'un ouvre une citerne, ou qu'il en creuse une, sans la couvrir, et qu'il y tombe un bœuf, ou un âne,",
+      "annotations": null,
+      "source_pages": [
+        "page_0358.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Reddet dominus cisternæ pretium jumentorum ; quod autem mortuum est, ipsius erit.",
+      "french": "Le maître de la citerne payera la valeur de ces bêtes, et les bêtes seront pour lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0358.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Si bos alienus bovem alterius vulneraverit, et ille mortuus fuerit : vendent bovem vivum, et divident pretium, cadaver autem mortui inter se dispertient.",
+      "french": "Si le bœuf d'un homme blesse le bœuf d'un autre, et qu'il en meure ; on vendra le bœuf vivant, et ils en partageront le prix entre eux ; ils partageront de même également le bœuf mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0358.json"
+      ]
+    }
+  ]
+}

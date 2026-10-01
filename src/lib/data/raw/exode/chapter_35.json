@@ -1,0 +1,322 @@
+{
+  "book": "Exode",
+  "chapter": 35,
+  "chapter_summary": "Loi pour l'observation du Sabbat. Le peuple contribue à la construction du Tabernacle. Béséléel et Ooliab sont destinés pour y travailler.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Igitur congregata omni turba filiorum Israel, dixit ad eos : Hæc sunt quæ jussit Dominus fieri.",
+      "french": "Moïse ayant donc assemblé tous les enfants d'Israël, il leur dit : Voici ce que le Seigneur a ordonné que l'on fasse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0588.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Sex diebus facietis opus : septimus dies erit vobis sanctus, sabbatum, et requies Domini : Qui fecerit opus in eo, occidetur.",
+      "french": "Vous travaillerez pendant six jours ; le septième jour sera pour vous un jour saint. C'est le sabbat, et le repos du Seigneur. Quiconque travaillera ce jour-là, sera mis à mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0588.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Non succendetis ignem in omnibus habitaculis vestris, per diem sabbati.",
+      "french": "Vous n'allumerez point de feu dans toutes vos demeures, le jour du sabbat.",
+      "annotations": null,
+      "source_pages": [
+        "page_0588.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et ait Moyses ad omnem cœtum filiorum Israel : Iste est sermo quem præcepit Dominus, dicens :",
+      "french": "Moïse dit aussi à toute l'assemblée des enfants d'Israël : Voici ce que le Seigneur a ordonné : Il a dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0588.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Separate apud vos primitias Domino : Omnis voluntarius et prono animo offerat eas Domino : aurum et argentum, et æs,",
+      "french": "Mettez à part chez vous, ce que chacun de vous voudra offrir au Seigneur, comme une offrande volontaire : Vous lui offrirez de l'or, de l'argent, de l'airain,",
+      "annotations": null,
+      "source_pages": [
+        "page_0588.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Hyacinthum et purpuram, coccumque bis tinctum, et byssum: pilos caprarum,",
+      "french": "De l'hyacinthe, de la pourpre, de l'écarlate teinte deux fois, du fin lin, du poil de chèvre ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0589.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Pellesque arietum rubricatas, et janthinas, ligna setim.",
+      "french": "Des peaux de mouton teintes en rouge, des peaux violettes, et du bois de setim ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0589.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et oleum ad luminaria concinnanda, et ut conficiatur unguentum, et thymiama suavissimum,",
+      "french": "De l'huile pour l'entretien des lampes, et pour la composition des parfums, et des onctions d'excellentes odeurs ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0589.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Lapides onychinos, et gemmas ad ornandum superhumerale et rationale.",
+      "french": "Des pierres d'onyx, et des pierres précieuses pour orner l'éphod, et le rational.",
+      "annotations": null,
+      "source_pages": [
+        "page_0589.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quisquis vestrum sapiens est, veniat, et faciat quod Dominus imperavit:",
+      "french": "Quiconque parmi vous est sage, et habile ouvrier, qu'il vienne, et qu'il fasse tout ce que le Seigneur a ordonné :",
+      "annotations": null,
+      "source_pages": [
+        "page_0589.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Tabernaculum scilicet, et tectum ejus, atque operimentum, annulos et tabulata cum vectibus, et paxillos, et bases:",
+      "french": "Savoir, le Tabernacle avec son toit, et sa couverture ; les anneaux et les ais, avec les barres, les pieux, et les bases ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0589.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Arcam et vectes, propitiatorium, et velum quod ante illud oppanditur:",
+      "french": "L'Arche et ses bâtons, le propitiatoire et le voile qui est suspendu devant l'Arche ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0589.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Mensam cum vectibus et vasis, et propositionis panibus:",
+      "french": "La Table, avec les pains de proposition, les bâtons pour la porter, et tous ses vases ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0589.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Candelabrum ad luminaria sustentanda, vasa illius et lucernas, et oleum ad nutrimenta ignium:",
+      "french": "Le chandelier qui doit soutenir ses lampes, et tout ce qui doit servir à son usage ; les lampes, et l'huile qui sert à les entretenir ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0589.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Altare thymiama tis, et vectes, et oleum unctionis, et thymiama ex aromatibus : tentorium ad ostium Tabernaculi :",
+      "french": "L'Autel des parfums, les bâtons pour le porter, l'huile pour faire les onctions, le parfum composé d'aromates, le voile qui est suspendu à la porte du Tabernacle ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0590.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Altare holocausti, et craticulam ejus æneam cum vectibus et vasis suis : labrum et basim ejus :",
+      "french": "L'Autel des holocaustes, sa grille d'airain, avec les bâtons pour la porter ; les vaisseaux qui servent à son usage ; le bassin, et sa base ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0590.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Cortinas atrii cum columnis et basibus, tentorium in foribus vestibuli.",
+      "french": "Les courtines du parvis du Tabernacle, avec leurs colonnes, et leurs bases ; le rideau qui est suspendu à l'entrée du vestibule ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0590.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Pavillos Tabernaculi et atrii, cum funiculis suis :",
+      "french": "Les pieux du Tabernacle, et ceux du parvis, avec leurs cordages.",
+      "annotations": null,
+      "source_pages": [
+        "page_0590.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Vestimenta quorum usus est in ministerio Sanctuarii, vestes Aaron Pontificis ac filiorum ejus, ut Sacerdotio fungantur mihi.",
+      "french": "Les ornements sacrés, dont on doit se servir dans le ministère du Sanctuaire ; les vêtements du grand-Prêtre Aaron, et de ses fils ; afin qu'ils exercent les fonctions de mon Sacerdoce.",
+      "annotations": null,
+      "source_pages": [
+        "page_0590.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Egressaque omnis multitudo filiorum Israël de conspectu Moysi,",
+      "french": "Après que toute la multitude des enfants d'Israël se fut retirée de la présence de Moïse,",
+      "annotations": null,
+      "source_pages": [
+        "page_0590.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Obtulerunt mente promptissima atque devota primitias Domino, ad faciendum opus Tabernaculi testimonii. Quidquid ad cultum et ad vestes sanctas necessarium erat.",
+      "french": "Ils vinrent offrir au Seigneur avec une volonté prompte, et pleine d'affection, les prémices de leurs biens, pour faire le Tabernacle du témoignage ; et tout ce qui était nécessaire pour les ornements, et pour les vêtements sacrés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0590.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Viri cum mulieribus præbuerunt, armillas et inaures, annulos et dextralia : omne vas aureum in donaria Domini separatum est.",
+      "french": "Les hommes et les femmes donnèrent leurs bracelets, leurs pendants d'oreilles, leurs bagues, et les ornements qu'ils mettaient à leur bras droit. On mit à part, pour l'offrir au Seigneur, tout ce que chacun avait de vases d'or.",
+      "annotations": null,
+      "source_pages": [
+        "page_0590.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Si quis habebat hyacinthum, et purpuram, coccumque bis tinctum, byssum, et pilos caprarum, pelles arietum rubricatas, et janthinas ;",
+      "french": "Si quelqu'un avait de l'hyacinthe, ou de la pourpre, ou de l'écarlate teinte deux fois, ou du fin lin, ou du poil de chèvres, des peaux de mouton teintes en rouge, ou des peaux violettes,",
+      "annotations": null,
+      "source_pages": [
+        "page_0591.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Argenti arisque metalla obtulerunt Domino ; lignaque setim in varios usus.",
+      "french": "De l'argent, ou de l'airain, ils les offrirent au Seigneur, avec des bois de setim, pour les divers usages auxquels on les devait employer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0591.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Sed et mulieres doctæ, quæ neverant, dederunt hyacinthum, purpuram et vermiculum, ac byssum,",
+      "french": "Il y eut aussi des femmes habiles qui présentèrent ce qu'elles avaient filé d'hyacinthe, d'écarlate, de pourpre, de fin lin,",
+      "annotations": null,
+      "source_pages": [
+        "page_0592.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Et pilos caprarum : sponte propria cuncta tribuentes.",
+      "french": "Et de poil de chèvres : elles donnèrent tous ces présents de leur pleine volonté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0592.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Principes vero obtulerunt lapides onychinos, et gemmas ad superhumerale et rationale,",
+      "french": "Et les Princes du peuple offrirent des pierres d'onyx, et des pierres précieuses, pour l'éphod, et pour le rational ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0592.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Aromataque, et oleum ad luminaria concinnanda, et ad præparandum unguentum, ac thymiama odoris suavissimi componendum.",
+      "french": "Des aromates, et de l'huile pour entretenir les lampes, et pour composer l'huile d'onction, et le parfum d'excellente odeur,",
+      "annotations": null,
+      "source_pages": [
+        "page_0592.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Omnes viri et mulieres mente devota obtulerunt donaria, ut fierent opera quæ jusserat Dominus per manum Moysi. Cuncti filii Israel voluntaria Domino dedicaverunt.",
+      "french": "Tous les hommes, et toutes les femmes offrirent leurs présents de bon cœur, pour faire les ouvrages que le Seigneur avait commandé par Moïse. Tous les Israélites firent ces offrandes au Seigneur avec une pleine volonté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0593.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Dixitque Moyses ad filios Israel : Ecce vocavit Dominus ex nomine Beseleel filium Uri, filii Hur, de tribu Juda,",
+      "french": "Alors Moïse dit aux enfants d'Israël : Le Seigneur a appelé par son nom Béséléel, fils d'Uri, qui était fils de Hur, de la Tribu de Juda,",
+      "annotations": null,
+      "source_pages": [
+        "page_0593.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Implevitque eum Spiritu Dei, sapientiâ et intelligentiâ, et scientiâ, et omni doctrinâ,",
+      "french": "Et il l'a rempli de l'Esprit de Dieu, de sagesse, d'intelligence, de science, et de toute sorte de connaissance,",
+      "annotations": null,
+      "source_pages": [
+        "page_0593.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Ad excogitandum, et faciendum opus in auro et argento, et ære,",
+      "french": "Pour inventer, et pour exécuter des ouvrages en or, en argent, et en airain ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0593.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Sculpendisque lapidibus, et opere carpentario, quidquid fabre adinveniri potest.",
+      "french": "Pour graver, et pour tailler les pierres ; pour les ouvrages de menuiserie ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0593.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Dedit in corde ejus : Ooliab quoque filium Achisamech de Tribu Dan.",
+      "french": "Et il lui a donné la connaissance de tout ce que l'art peut inventer. Il a donné les mêmes talents à Ooliab, fils d'Achisamech, de la Tribu de Dan.",
+      "annotations": null,
+      "source_pages": [
+        "page_0593.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Ambos erudivit sapientiâ, ut faciant opera abietarii, polymitarii, ac plumarii, de hyacintho, ac purpura, coccoque bis tincto, et bysso, et texant omnia, ac nova quæque reperiant.",
+      "french": "Il les a instruits tous deux des connaissances nécessaires pour faire toute sorte d'ouvrages en bois, en étoffes de diverses couleurs, en broderies, en ouvrages d'hyacinthe, de pourpre, d'écarlate teinte deux fois, de fin lin, et dans tout ce qui se peut faire au métier : enfin il leur a donné l'art de trouver toutes sortes de nouvelles inventions.",
+      "annotations": null,
+      "source_pages": [
+        "page_0593.json"
+      ]
+    }
+  ]
+}

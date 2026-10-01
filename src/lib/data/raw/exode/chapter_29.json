@@ -1,0 +1,421 @@
+{
+  "book": "Exode",
+  "chapter": 29,
+  "chapter_summary": "Ordonnances touchant la consécration des Prêtres ; et la part qui leur est dûë dans les victimes. Du sacrifice perpétuel de deux agneaux qu'on offrait chaque jour.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Sed et hoc facies, ut mihi in Sacerdotio consecrentur. Tolle vitulum de armento, et arietes duos immaculatos.",
+      "french": "Voici ce que vous ferez pour consacrer Prêtres Aaron et ses fils. Prenez un veau du troupeau, et deux béliers sans défaut.",
+      "annotations": "verset 1.",
+      "source_pages": [
+        "page_0506.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Panésque azymos, et crustulam absque fermento, quæ conspersa sit oleo, lagana quoque azyma oleo lita : de simila triticea cuncta facies.",
+      "french": "Des pains sans levain, et des gâteaux aussi sans levain, frottés d'huile, et des tourteaux sans levain, arrosés d'huile ; le tout de la plus pure fleur de froment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0506.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et posita in canistro offeres : vitulum autem et duos arietes.",
+      "french": "Et les ayant mis dans une corbeille, vous me les offrirez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0506.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et Aaron ac filios ejus applicabis ad ostium Tabernaculi testimonii. Cúmque laveris patrem cum filiis suis aquâ.",
+      "french": "Vous ferez venir aussi à l'entrée du Tabernacle du témoignage, les veaux, les deux béliers ; et ayant fait approcher Aaron avec ses enfants, vous les laverez avec de l'eau.",
+      "annotations": null,
+      "source_pages": [
+        "page_0507.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Indues Aaron vestimentis suis, id est, lineâ et tunicâ, et superhumerali et rationali, quod constringes balteo.",
+      "french": "Vous revêtirez ensuite Aaron de ses habits ; c'est-à-dire, de sa tunique, de sa robe de lin, de l'éphod, et du rational, que vous lierez avec la ceinture.",
+      "annotations": null,
+      "source_pages": [
+        "page_0507.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et pones tiaram in capite ejus, et laminam sanctam super tiaram.",
+      "french": "Vous lui mettrez la tiare sur la tête ; et appliquerez la lame sainte sur la tiare.",
+      "annotations": null,
+      "source_pages": [
+        "page_0507.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et oleum unctionis fundes super caput ejus : atque hoc ritu consecrabitur.",
+      "french": "Et vous répandrez sur sa tête l'huile de la consécration, et il sera sacré de cette sorte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0508.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Filios quoque illius applicabis, et induis tunicis lineis ; cingésque balteo ;",
+      "french": "Vous ferez aussi venir ses fils ; vous les revêtirez de tuniques de lin, et vous les ceindrez de leur ceinture.",
+      "annotations": null,
+      "source_pages": [
+        "page_0509.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Aaron scilicet et liberos ejus, et imposes eis mitras : erúmque Sacerdotes mihi religione perpetuâ. Postquam initiaveris manibus eorum,",
+      "french": "Vous ferez la même chose à Aaron, et à ses fils. Vous leur mettrez la mitre sur la tête : et ils seront mes Prêtres, pour me rendre un culte éternel. Et après que vous aurez consacré leurs mains ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0509.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Applicabis et vitulum coram Tabernaculo testimonii. Imponentque Aaron et filii ejus manus super caput illius ;",
+      "french": "Vous amènerez le veau devant le Tabernacle du témoignage ; et Aaron et ses fils lui mettront les mains sur la tête ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0509.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et mactabis eum in conspectu Domini, juxta ostium Tabernaculi testimonii.",
+      "french": "Et vous l'immolerez en la présence du Seigneur, auprès de l'entrée du Tabernacle du témoignage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0510.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Sumptúmque de sanguine vituli, pones super cornua altaris digito tuo, reliquum autem sanguinem fundens juxta basim ejus.",
+      "french": "Et prenant du sang du veau, vous le mettrez avec le doigt sur les cornes de l'Autel ; et vous répandrez le reste du sang au pied de l'Autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0510.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Sumes et adipem totum qui operit intestina, et reticulum jecoris, ac duos renes, et adipem qui super eos est, et offeres incensum super altare.",
+      "french": "Et vous leverez toute la graisse qui couvre les intestins, et le lobe du foie, avec les deux reins, et la graisse qui les couvre ; et vous les offrirez sur le feu de l'Autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0510.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Carnes verò vituli, et corium, et fimum combures foris extra castra, eò quòd pro peccato sit.",
+      "french": "Mais vous brûlerez hors du camp la chair du veau, sa peau et ses excrémens, parce que c'est une hostie pour le péché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0511.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Unum quoque arietem sumes, super cujus caput ponent Aaron et filii ejus manus.",
+      "french": "Et ayant pris un des béliers, Aaron et ses fils mettront leurs mains sur sa tête.",
+      "annotations": null,
+      "source_pages": [
+        "page_0512.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Quem cùm mactaveris, tolles de sanguine ejus, et fundes circa altare.",
+      "french": "Et lorsque vous l'aurez immolé, vous en prendrez le sang, et le répandrez autour de l'Autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0512.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Ipsum autem arietem secabis in frusta : lotisque intestina ejus, ac pedes pones super concisas carnes, et super caput illius.",
+      "french": "Et vous couperez ensuite le bélier par morceaux, et après en avoir lavé les intestins et les pieds, vous les mettrez sur ses autres parties déjà coupées, et sur sa tête.",
+      "annotations": null,
+      "source_pages": [
+        "page_0512.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et offeres totum arietem in incensum super altare : oblatio est Domino odor suavissimus victima Domini.",
+      "french": "Et vous offrirez le bélier, pour être brûlé tout entier sur l'Autel. Car c'est le sacrifice du Seigneur, qui lui est d'une odeur très agréable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0512.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Tolles quoque arietem alterum, super cujus caput Aaron et filii ejus ponent manus.",
+      "french": "Vous prendrez aussi l'autre bélier, et Aaron et ses fils lui mettront les mains sur la tête.",
+      "annotations": null,
+      "source_pages": [
+        "page_0512.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Quem cùm immolaveris, sumes de sanguine ejus, et pones super extremum auriculæ dextræ Aaron, et filiorum ejus, et super pollices manûs corum ac pedis dextri ; fundesque sanguinem super altare per circuitum.",
+      "french": "Et l'ayant égorgé, vous en prendrez le sang, et en mettrez sur l'extrémité de l'oreille droite d'Aaron, et de ses fils, et sur les pouces de leur main droite, et de leur pied droit ; et vous répandrez le reste du sang tout autour de l'Autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0513.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Cúmque tuleris de sanguine qui est super altare, et de oleo unctionis, asperges Aaron, et vestes ejus, filios et vestimenta eorum. Consecratisfique ipsis, et vestibus.",
+      "french": "Vous prendrez aussi du sang qui est sur l'Autel, et de l'huile d'onction, et vous en arroserez Aaron et ses fils et leurs vêtements ; et après les avoir ainsi consacrés avec leurs habits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0513.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Tolles adipem de ariete, et caudam et aruinam, quæ operit vitalia, ac reticulum jecoris, et duos renes, atque adipem qui super eos est, armúmque dextrum, eò quòd sit aries consecrationis :",
+      "french": "Vous prendrez la graisse du bélier, la queue, et la graisse qui couvre les entrailles, et le lobe du foie, et les deux reins, et la graisse qui est par dessus, et l'épaule droite ; parce que c'est le bélier de la consécration.",
+      "annotations": null,
+      "source_pages": [
+        "page_0514.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Tortámque panis unius, crustulam conspersam oleo, laganum de canistro azymorum, quod positum est in conspectu Domini :",
+      "french": "Vous prendrez, aussi une partie d'un pain, un gâteau frotté d'huile, et un tourteau de la corbeille des pains azymes, qui est devant le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0515.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Ponesque omnia super manus Aaron et filiorum ejus, et sanctificabis eos elevans coram Domino :",
+      "french": "Et vous en chargerez les mains d'Aaron, et de ses fils, et vous les consacrerez, élevant ces offrandes devant le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0515.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Suscipiesqʹue universa de manibus eorum : et incendes super altare in holocaustum, odorem suavissimum in conspectu Domini, quia oblatio ejus est.",
+      "french": "Vous recevrez ensuite toutes ces choses de leurs mains, et vous les ferez brûler sur l'Autel en holocauste, pour répandre une odeur très agréable devant le Seigneur, parce que c'est son oblation.",
+      "annotations": null,
+      "source_pages": [
+        "page_0516.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Sumes quoque pectusculum de ariete, quo initiatus est Aaron, sanctificabesque illud elevatum coram Domino, et cedet partem tuam.",
+      "french": "Vous prendrez aussi la poitrine du bélier, qui a servi à la consécration d'Aaron, et vous la sanctifierez en l'élevant devant le Seigneur ; et elle sera réservée pour vôtre part du sacrifice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0516.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Sanctificabisque et pectusculum consecratum, et armum quem de ariete separasti,",
+      "french": "Vous sanctifierez aussi la poitrine qui a été consacrée, et l'épaule que vous avez séparée du bélier,",
+      "annotations": null,
+      "source_pages": [
+        "page_0517.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Quo initiatus est Aaron et filii ejus ; cedéntque in partem Aaron et filiorum ejus, jure perpétuo à filiis Israël : quia primitiva sunt et initia de victimis eorum pacificis quæ offerunt Domino.",
+      "french": "Qui a servi à la consécration d'Aaron, et de ses fils ; c'est la part qui sera réservée à Aaron, et à ses fils, des oblations des enfants d'Israël, par un droit perpétuel et immuable : parce que ces parties sont comme les prémices des offrandes et des hosties pacifiques que les Israëlites offrent au Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0517.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Vestem autem sanctam, quâ utetur Aaron, habebunt filii ejus post eum, ut ungantur in ea, et consecrentur manus eorum.",
+      "french": "Les enfants d'Aaron auront après sa mort les habits sacrés qui lui auront servi, afin qu'en étant revêtus, ils reçoivent l'onction sainte, et que leurs mains soient consacrées au Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0517.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Septem diebus utetur illâ qui Pontifex pro eo fuerit constitutus de filiis ejus, et qui ingredietur Tabernaculum testimonii, ut ministret in Sanctuario.",
+      "french": "Celui de ses fils qui lui aura succédé dans le Pontificat, et qui entrera au Tabernacle pour exercer ses fonctions dans le Sanctuaire, portera ces vêtements pendant sept jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0517.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Arietem autem consecrationis tolles, et coques carnes ejus in loco sancto:",
+      "french": "Vous prendrez le bélier qui aura été offert à la consécration d'Aaron, et vous en ferez cuire la chair dans le lieu saint.",
+      "annotations": null,
+      "source_pages": [
+        "page_0518.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Quibus vescentur Aaron et filii ejus. Panes quoque, qui sunt in canistro, in vestibulo Tabernaculi testimonii comedent,",
+      "french": "Aaron et ses fils mangeront de ces chairs, et des pains qui seront dans la corbeille, à l'entrée du Tabernacle du témoignage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0518.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Ut sit placabile sacrificium, et sanctificentur offerentium manus. Alienigena non vescentur ex eis, quia sancti sunt.",
+      "french": "Afin que leur sacrifice leur rende Dieu favorable, et que leurs mains, qui ont fait des offrandes au Seigneur, soient consacrées. L'étranger ne mangera point de ces pains, parce qu'ils sont saints.",
+      "annotations": null,
+      "source_pages": [
+        "page_0518.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Quòd si remanserit de carnibus consecratis, sive de panibus usque manè, combures reliquias igni : non comedentur, quia sanctificata sunt.",
+      "french": "S'il reste quelque chose de ces pains sanctifiés, ou de cette chair consacrée jusqu'au matin ; vous les brûlerez : on ne les mangera point, parce qu'ils sont sanctifiés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0518.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Omnia quæ præcepi tibi, facies super Aaron et filiis ejus. Septem diebus consecrabis manus eorum.",
+      "french": "Vous exécuterez tout ce que je vous ai ordonné touchant Aaron, et ses fils. Vous consacrerez leurs mains pendant sept jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0518.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et vitulum pro peccato offeres per singulos dies ad expiandum. Mundabisque altare cùm immolaveris expiationis hostiam, et unges illud in sanctificationem.",
+      "french": "Vous offrirez chaque jour un veau pour l'expiation du péché ; et après avoir immolé l'hostie d'expiation, vous purifierez l'Autel, et vous y ferez des onctions saintes pour le sanctifier.",
+      "annotations": null,
+      "source_pages": [
+        "page_0519.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Septem diebus expiabis altare, et sanctificabis, et erit sanctum sanctorum : omnis qui tetigerit illud, sanctificabitur.",
+      "french": "Vous expierez l'Autel, et vous le consacrerez pendant sept jours ; et il sera d'une sainteté inviolable. Quiconque le touchera, sera sanctifié.",
+      "annotations": null,
+      "source_pages": [
+        "page_0519.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Hoc est quod facies in altari : agnos anniculos duos per singulos dies jugiter.",
+      "french": "Voici ce que vous ferez sur l'Autel ; vous y sacrifierez chaque jour, dans toute la suite des temps, deux agneaux de l'année.",
+      "annotations": null,
+      "source_pages": [
+        "page_0520.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Unum agnum manè, et alterum vesperi.",
+      "french": "Un agneau le matin, et un autre le soir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0521.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Decimam partem similæ conspersæ oleo tuso, quod habeat mensuram quartam partem hin, et vinum ad libandum ejusdem mensuræ in agno uno.",
+      "french": "Vous offrirez avec l'agneau du matin, la dixième partie d'un épha, de la plus pure farine ; et la quatrième partie d'un hin, de l'huile d'olives la plus pure, et autant de vin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0521.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Alterum verò agnum offeres ad vesperam, juxta ritum matutinæ oblationis, et juxta ea quæ diximus, in odorem suavitatis :",
+      "french": "Vous ferez la même offrande, et de la même manière, pour le second agneau qu'on immole le soir, comme un sacrifice d'excellente odeur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0521.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Sacrificium est Domino, oblatione perpetuâ in generationes vestras, ad ostium Tabernaculi testimonii coram Domino, ubi constituam ut loquar ad te.",
+      "french": "C'est le sacrifice que vous offrirez au Seigneur, par une Religion continuée de race en race, à l'entrée du Tabernacle du témoignage, devant le Seigneur, où je vous dirai de vous trouver pour vous parler.",
+      "annotations": null,
+      "source_pages": [
+        "page_0521.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Ibíque præcipiam filiis Israël. Et sanctificabitur altare in gloria mea.",
+      "french": "C'est de là que je vous donnerai mes ordres pour les enfants d'Israël. Et l'Autel sera sanctifié pour ma gloire, qui y paraîtra.",
+      "annotations": null,
+      "source_pages": [
+        "page_0522.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Sanctificabo et Tabernaculum testimonii cum altari, et Aaron cum filiis suis, ut sacerdotio fungantur mihi.",
+      "french": "Je sanctifierai aussi le Tabernacle du témoignage, avec l'Autel, et Aaron, et ses fils ; afin qu'ils exercent les fonctions de mon Sacerdoce.",
+      "annotations": null,
+      "source_pages": [
+        "page_0522.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Et habitabo in medio filiorum Israël, eróque eis Deus.",
+      "french": "Et j'habiterai au milieu des enfants d'Israël, et je serai leur Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0522.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Et scient quia ego Dominus Deus eorum, qui eduxi eos de terra Ægypti, ut manerem inter illos, ego Dominus Deus ipsorum.",
+      "french": "Et ils sauront que je suis leur Seigneur, et leur Dieu, qui les ai tirés de l'Egypte ; afin que je demeurasse au milieu d'eux, moi qui suis leur Seigneur, et leur Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0522.json"
+      ]
+    }
+  ]
+}

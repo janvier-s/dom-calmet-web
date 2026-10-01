@@ -1,0 +1,286 @@
+{
+  "book": "Exode",
+  "chapter": 23,
+  "chapter_summary": "Lois pour les Juges. De l'observation du Sabbat, et des trois principales Fêtes de l'année. Dieu promet d'envoyer son Ange devant les Israélites. Il défend de faire alliance avec les Cananéens. Il veut qu'on les extermine.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Non suscipies vocem mendacii : nec junges manum tuam, ut pro impio dicas falsum testimonium.",
+      "french": "Vous n'écouterez point la parole du mensonge, et vous ne donnerez point la main à l'impie, pour porter faux témoignage en sa faveur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0380.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Non sequeris turbam ad faciendum malum : nec in judicio, plurimorum acquiesci sententiæ, ut a vero devies.",
+      "french": "Vous ne suivrez point la foule pour faire le mal. Et dans votre jugement, vous ne vous rendrez point à l'avis du plus grand nombre, pour vous écarter de la vérité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0381.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Pauperis quoque non misereberis in judicio.",
+      "french": "Vous n'aurez point de compassion du pauvre dans vos jugements.",
+      "annotations": null,
+      "source_pages": [
+        "page_0382.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Si occurreris bovi inimici tui, aut asino erranti, reduc ad eum.",
+      "french": "Si vous rencontrez le bœuf de votre ennemi, ou son âne, lorsqu'ils sont égarés, ramenez-les-lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0382.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Si videris asinum odientis te jacere sub onere, non pertransibis, sed sublevabis cum eo.",
+      "french": "Si vous voyez l'âne de celui qui vous hait, abattu sous sa charge, vous ne passerez point outre, mais vous l'aiderez à le relever.",
+      "annotations": null,
+      "source_pages": [
+        "page_0382.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Non declinabis in judicium pauperis.",
+      "french": "Vous ne vous éloignerez pas de la justice dans le jugement du pauvre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0384.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Insontem et justum non occides : quia aversor impium.",
+      "french": "Vous fuirez le mensonge. Vous ne ferez point mourir l'innocent, ni le juste, parce que j'ai horreur de l'impie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0384.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Nec accipies munera, quæ etiam excæcant prudentes, et subvertunt verba justorum.",
+      "french": "Vous ne recevrez point de présents, parce qu'ils aveuglent les plus éclairés, et qu'ils corrompent la parole des plus justes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0384.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Peregrino molestus non eris, scitis enim advenarum animas : quia et ipsi peregrini fuistis in terra Ægypti.",
+      "french": "Vous ne chagrinerez point l'étranger ; car vous savez l'état des étrangers, puisque vous l'avez été vous-mêmes dans l'Égypte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0385.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Sex annis seminabis terram tuam, et congregabis fruges ejus.",
+      "french": "Vous semerez votre terre pendant six années, et vous en recueillerez les fruits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0385.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Anno autem septimo dimittes eam, et requiescere facies, ut comedant paupères populi tui : et quidquid reliquum fuerit, edant bestiæ agri : ita facies in vinea et in oliveto tuo.",
+      "french": "Mais la septième année, vous ne la cultiverez point, et vous la ferez reposer ; afin que ceux qui sont pauvres parmi votre peuple, aient de quoi manger, et que les bêtes sauvages trouvent ce qui restera. Vous ferez la même chose à l'égard de vos vignes, et de vos plants d'oliviers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0385.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Sex diebus operaberis : septimo die cessabis, ut requiescat bos et asinus tuus : et refrigeretur filius ancillæ tuæ, et advena.",
+      "french": "Vous travaillerez pendant les six jours de la semaine ; et le septième vous ne travaillerez point, afin que votre bœuf et votre âne se reposent, et que le fils de votre esclave, et l'étranger aient quelque relâche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0387.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Omnia quæ dixi vobis, custodite. Et per nomen externorum Deorum non jurabitis, neque audietur ex ore vestro.",
+      "french": "Observez tout ce que je vous ai commandé ; ne jurez point par le nom des Dieux étrangers ; et que leur nom ne sorte pas même de votre bouche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0388.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Tribus vicibus per singulos annos mihi festa celebrabitis.",
+      "french": "Vous célébrerez des Fêtes en mon honneur trois fois l'année.",
+      "annotations": null,
+      "source_pages": [
+        "page_0388.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Solemnitatem azymorum custodies. Septem diebus comedes azyma, sicut præcepi tibi, tempore mensis novorum, quando egressus es de Ægypto : non apparebis in conspectu meo vacuus.",
+      "french": "Vous garderez la solennité des pains azymes. Vous mangerez du pain sans levain pendant sept jours, dans le mois des fruits nouveaux, comme je vous l'ai ordonné dans le temps que vous êtes sortis de l'Égypte. Vous ne paraîtrez point en ma présence les mains vides.",
+      "annotations": null,
+      "source_pages": [
+        "page_0388.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et solemnitatem messis primitivorum operis tui, quæcumque seminaveris in agro. Solemnitatem quoque in exitu anni, quando congregaveris omnes fruges tuas de agro.",
+      "french": "Vous ferez aussi la fête de la moisson, des prémices de votre travail, et de tout ce que vous aurez semé dans vos champs ; et la solennité de la fin de l'année, lorsque vous aurez recueilli tous les fruits de vos champs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0389.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Ter in anno apparebit omne masculinum tuum coram Domino Deo tuo.",
+      "french": "Tous les mâles qui sont parmi vous, viendront se présenter trois fois l'année en la présence du Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Non immolabis super fermento sanguinem victimæ meæ, nec remanebit adeps solemnitatis meæ usque mane.",
+      "french": "Vous ne m'offrirez point le sang de ma victime, pendant qu'il y aura du levain dans vos maisons ; et la graisse de l'hostie qui est immolée dans ma solennité, ne demeurera pas jusqu'au matin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0391.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Primitias frugum terræ tuæ deferes in domum Domini Dei tui. Non coques hædum in lacte matris suæ.",
+      "french": "Vous apporterez dans la maison du Seigneur votre Dieu, les prémices des fruits de votre terre ; vous ne cuirez point le chevreau dans le lait de sa mère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0392.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Ecce ego mittam Angelum meum, qui præcedat te, et custodiat in via, et introducat in locum quem paravi.",
+      "french": "Je vais envoyer mon Ange, afin qu'il marche devant vous, et qu'il vous conduise dans le chemin, et qu'il vous fasse entrer dans le pays que je vous ai préparé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0394.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Observa eum, et audi vocem ejus, nec contemnendum putes : quia non dimittet cum peccaveris, et est nomen meum in illo.",
+      "french": "Respectez-le, écoutez sa voix, et gardez-vous bien de le mépriser, car il ne vous pardonnera point lorsque vous pécherez, et il agit en mon nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0395.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Quod si audieris vocem ejus, et feceris omnia quæ loquor, inimicus ero inimicis tuis, et affligam affligentes te ;",
+      "french": "Que si vous écoutez sa voix, et que vous fassiez ce que je vous dis, je serai l'ennemi de vos ennemis, et j'affligerai ceux qui vous affligent ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0395.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Præcedetque te Angelus meus, et introducet te ad Amorrhæum, et Hethæum, et Pherezæum, Cananæumque, et Heuæum, et Jebusæum, quos ego conteram.",
+      "french": "Et mon Ange marchera devant vous, et il vous fera entrer dans le pays des Amorrhéens, des Héthéens, des Phérézéens, des Cananéens, des Hévéens, et des Jébuséens, et je les exterminerai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Non adorabis Deos eorum, nec coles eos : non facies opera eorum, sed destrues eos, et confringes statuas eorum.",
+      "french": "Vous n'adorerez point leurs Dieux, et vous ne leur rendrez aucun culte. Vous n'imiterez point leurs œuvres, mais vous les détruirez, et vous briserez leurs statues.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Servietisque Domino Deo vestro, ut benedicam panibus tuis et aquis, et auferam infirmitatem de medio tui.",
+      "french": "Vous servirez le Seigneur votre Dieu, afin que je bénisse votre pain, et vos eaux, et que j'éloigne toutes les maladies du milieu de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Non erit infœcunda nec sterilis in terra tua : numerum dierum tuorum implebo.",
+      "french": "Il n'y aura dans votre terre, ni femme stérile, ni femme sans enfants ; je remplirai le nombre de vos jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Terrorem meum mittam in præcursum tuum, et occidam omnem populum, ad quem ingredieris : cunctorumque inimicorum tuorum coram te terga vertam :",
+      "french": "La terreur de mon nom marchera devant vous. J'exterminerai tout le peuple, le pays dans lequel vous entrerez ; et je ferai fuir vos ennemis devant vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0397.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Emittens crabrones prius, qui fugabunt Hevæum, et Chananæum, et Hethæum, antequam introeas.",
+      "french": "J'envoyerai d'abord des frelons, qui mettront en fuite les Hévéens, les Cananéens, et les Héthéens, avant que vous entriez dans leur pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0397.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Non ejiciam eos a facie tua anno uno : ne terra in solitudinem redigatur, et crescant contra te bestiae.",
+      "french": "Je ne les chasserai point de devant vous dans une seule année, de peur que la terre ne demeure déserte, et que les bêtes ne se multiplient et ne s'élèvent contre vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0398.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Paulatim expellam eos de conspectu tuo, donec augearis, et possideas terram.",
+      "french": "Je les chasserai peu à peu de devant vous, jusqu'à ce que vous soyez en plus grand nombre, et en paisible possession du pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0399.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Ponam autem terminos tuos a mari rubro usque ad mare Palæstinorum, et a deserto usque ad fluvium : tradam in manibus vestris habitatores terræ, et ejiciam eos de conspectu vestro.",
+      "french": "Les limites de votre terre seront depuis la mer rouge, jusqu'à la mer des Philistins ; et depuis le désert, jusqu'au fleuve. Je livrerai entre vos mains les habitants de ce pays, et je les chasserai de devant vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0399.json"
+      ]
+    }
+  ]
+}
