@@ -1,0 +1,169 @@
+{
+  "book": "Genèse",
+  "chapter": 20,
+  "chapter_summary": "Abraham se retire vers Gérare. Abimélech enlève Sara pour l'épouser ; Il en est châtié de Dieu. Il la rend à Abraham, ayant connu qu'elle était sa femme.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Profectus inde Abraham in terram australem, habitavit inter Cades et Sur ; et peregrinatus est in Geraris.",
+      "french": "Abraham étant parti de la [ vallée de Mambré, ] pour aller vers le Midi, habita entre Cadès et Sur, et demeura à Gérare en qualité d'étranger.",
+      "annotations": null,
+      "source_pages": [
+        "page_0542.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Dixitque de Sara uxore sua : Soror mea est. Misit ergo Abimelech rex Gerara et tulit eam.",
+      "french": "Et il dit, en parlant de Sara, qu'elle était sa sœur. C'est pourquoi Abimélech Roi de Gérare envoya enlever Sara.",
+      "annotations": null,
+      "source_pages": [
+        "page_0542.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Venit autem Deus ad Abimelech per somnium nocte, et ait illi : En morieris propter mulierem quam tulisti : habet enim virum.",
+      "french": "Mais le Seigneur, pendant la nuit, apparut en songe à Abimelech, et lui dit : Vous serez puni de mort, à cause de la femme que vous avez enlevée, parce qu'elle a un mari.",
+      "annotations": null,
+      "source_pages": [
+        "page_0543.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Abimelech verò non tetigerat eam, et ait : Domine, num gentem ignorantem et justam interficies ?",
+      "french": "Or Abimelech ne l'avait point touchée ; et il dit : Ferez-vous mourir un peuple juste, et qui est dans l'ignorance ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0543.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Nonne ipse dixit mihi : Soror mea est, et ipsa ait : Frater meus est ; in simplicitate cordis mei, et munditia manuum mearum, feci hoc.",
+      "french": "Cet homme ne m'a-t-il pas dit lui-même : Elle est ma sœur ; et elle-même aussi ne m'a-t-elle pas dit : Il est mon frère ; J'ai fait cela dans la simplicité de mon cœur, et avec des mains pures.",
+      "annotations": null,
+      "source_pages": [
+        "page_0543.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dixitque ad eum Deus : Et ego scio quod simplici corde feceris : et ideo custodivi te, ne peccares in me, et non dimisi ut tangeres eam.",
+      "french": "Dieu lui répondit: Je sais que que vous avez agi avec un cœur simple : c'est pourquoi je vous ai préservé du péché que vous auriez pu commettre contre moi, et je vous ai empêché de la toucher.",
+      "annotations": null,
+      "source_pages": [
+        "page_0544.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Nunc ergo redde viro suo uxorem, quia propheta est : et orabit pro te, et vives : si autem nolueris reddere, scito quod morte morieris, et omnia quæ tua sunt.",
+      "french": "Rendez donc présentement la femme à cet homme : car c'est un Prophète, et il priera pour vous, et vous vivrez ; mais si vous ne voulez pas la lui rendre, sachez que vous serez frappés de mort, vous et tout ce qui vous appartient.",
+      "annotations": null,
+      "source_pages": [
+        "page_0544.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Statimque de nocte consurgens Abimelech, vocavit omnes servos suos : et locutus est universa verba haec in auribus eorum, timuitque omnis vir valde.",
+      "french": "Abimelech se leva aussitôt au milieu de la nuit, et ayant appelé tous ses serviteurs, il leur exposa tout ce qui lui avait été dit, et ils furent tous saisis de frayeur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0544.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Vocavit autem Abimelech etiam Abraham, et dixit ei : Quid fecisti nobis ? quid peccavimus in te, quia induxisti super me et super regnum meum peccatum grande ? quæ non debuisti facere, fecisti nobis.",
+      "french": "Il fit venir aussi Abraham, et lui dit : Quel mal avez-vous pensé nous faire ? qu'avions-nous fait contre vous, pour avoir voulu nous engager moi et mon Royaume dans un si grand crime ? Vous ne deviez pas en agir avec nous de la sorte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0545.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Rursumque expostulans, ait : Quid vidisti, ut hoc faceres ?",
+      "french": "Et il ajouta en continuant ses plaintes : Qu'aviez-vous remarqué [ dans nous ] qui pût vous porter à en agir ainsi avec nous ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0545.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Respondit Abraham : Cogitavi mecum, dicens : Forsitan non est timor Dei in loco isto : et interficient me propter uxorem meam:",
+      "french": "Abraham lui répondit : J'ai pensé en moi-même, et j'ai dit: Il n'y a peut-être point de crainte de Dieu dans ce pays-ci, et ils me tueront pour avoir ma femme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0545.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Alias autem et vere soror mea est filia patris mei, et non filia matris meæ, et duxi eam in uxorem.",
+      "french": "D'ailleurs elle est véritablement ma sœur, [ étant ] fille de mon père ; mais non pas fille de ma mère, et je l'ai épousée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0545.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Postquam autem eduxit me Deus de domo patris mei dixi, ad eam : Hanc misericordiam facies mecum : In omni loco, ad quem ingrediemur, dices quod frater tuus sim.",
+      "french": "Mais depuis que Dieu m'a tiré de la maison de mon père, je lui ai dit : Vous me ferez cette grâce dans tous les lieux où nous irons, de dire que je suis votre frère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0546.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Tulit igitur Abimelech oves et boves, et servos et ancillas et dedit Abraham: reddiditque illi Sara uxorem suam.",
+      "french": "Abimelech prit donc des brebis, des bœufs, des serviteurs et des servantes, et les donna à Abraham ; il lui rendit aussi Sara sa femme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0547.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et ait : Terra coram vobis est, ubicumque tibi placuerit, habita.",
+      "french": "Et il lui dit : Tout le pays est devant vous, demeurez partout où il vous plaira.",
+      "annotations": null,
+      "source_pages": [
+        "page_0548.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Sarae autem dixit : Ecce mille argenteos dedi fratri tuo, hoc erit tibi in velamen oculorum ad omnes qui tecum sunt, et quocumque perrexeris ; mementoque te deprehensam.",
+      "french": "Il ajouta en parlant à Sara : j'ai donné mille pièces d'argent à votre frère, afin que vous en achetiez un voile pour mettre sur vos yeux, devant tous ceux qui sont avec vous, et partout où vous pourrez aller ; et souvenez-vous que vous avez été prise.",
+      "annotations": null,
+      "source_pages": [
+        "page_0548.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Orante autem Abraham, sanavit Deus Abimelech et uxorem, ancillasque ejus, et peperunt:",
+      "french": "Et Abraham ayant prié Dieu, Abimelech, sa femme et les servantes, recouvrèrent leur santé, et elles enfantèrent [ comme auparavant. ]",
+      "annotations": null,
+      "source_pages": [
+        "page_0549.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Concluserat enim Dominus omnem vulvam domus Abimelech propter Saram uxorem Abrahæ.",
+      "french": "Car le Seigneur avait frappé toutes les femmes de la maison d'Abimelech de maladies qui les empêchaient de concevoir et d'enfanter, à cause de Sara femme d'Abraham.",
+      "annotations": null,
+      "source_pages": [
+        "page_0549.json"
+      ]
+    }
+  ]
+}

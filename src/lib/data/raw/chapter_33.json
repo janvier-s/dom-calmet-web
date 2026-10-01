@@ -1,0 +1,187 @@
+{
+  "book": "Genèse",
+  "chapter": 33,
+  "chapter_summary": "Rencontre des deux frères Jacob et Esaü. Jacob presse son frère d'accepter ses présents ; il le remercie de l'escorte qu'il voulait lui donner. Il arrive à Soccoth, et de-là à Sichem.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Levans autem Jacob oculos suos, vidit venientem Esau, et cum eo quadringentos viros : divisitque filios Liæ et Rachel, ambarumque famularum:",
+      "french": "Jacob levant les yeux, vit Esaü qui venait à lui avec quatre cents hommes, et il fit marcher séparément les enfants de Lia, et ceux de Rachel, et ceux des deux servantes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0735.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et posuit utramque ancillam, et liberos earum, in principio : Liam vero, et filios ejus, in secundo loco : Rachel autem et Joseph novissimos.",
+      "french": "Il mit les deux servantes, et leurs enfants les premiers, Lia et ses enfants au second lieu, et Rachel avec Joseph, la dernière.",
+      "annotations": null,
+      "source_pages": [
+        "page_0735.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et ipse progrediens adoravit pronus in terram septies, donec appropinquaret fratri suo.",
+      "french": "Et Jacob s'avançant se prosterna jusqu'à terre, par sept fois, jusqu'à ce qu'il fut près de son frère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0736.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Currens itaque Esau obviam fratri suo, amplexatus est eum : stringensque collum, et osculans flevit.",
+      "french": "Et Esaü accourut au devant de son frère, il l'embrassa, et le tenant serré étroitement, il le baisa en répandant des larmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0736.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Levatisque oculis, vidit mulieres, et parvulos earum, et ait : Quid sibi isti ? Et si ad te pertinent ? Respondit : Parvuli sunt, quos donavit mihi Deus servo tuo.",
+      "french": "Et ayant jeté les yeux sur les femmes et sur les enfants, il dit : Qui sont ceux-là, et sont-ils à vous ? Jacob répondit : Ce sont de petits enfants, que le Seigneur a donné à votre serviteur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0736.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et appropinquantes ancillae et filii earum, incurvati sunt.",
+      "french": "Et les servantes s'étant approchées avec leurs enfants, s'inclinèrent profondément.",
+      "annotations": null,
+      "source_pages": [
+        "page_0736.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Accessit quoque Lia cum pueris suis : et cum similiter adorassent, extremi Joseph et Rachel adoraverunt.",
+      "french": "Lia vint à son tour avec ses enfants, et se prosterna de la même manière. Enfin Rachel et Joseph lui firent la même révérence.",
+      "annotations": null,
+      "source_pages": [
+        "page_0737.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Dixitque Esau : Quaenam sunt ista turmae quas obviam habui ? Respondit : Ut invenirem gratiam coram domino meo.",
+      "french": "Alors Esaü dit à Jacob : Quelles sont ces troupes que j'ai rencontrées ? Jacob répondit : [Ce sont des présents que j'envoie] pour trouver grâce devant mon seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0737.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "At ille ait : Habeo plurima, frater mi, sint tua tibi.",
+      "french": "Esaü lui dit : J'ai assez de biens, mon frère, gardez ce qui est à vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0737.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Dixitque Jacob : Noli ita, obsecro : Sed si inveni gratiam in oculis tuis, accipe munusculum de manibus meis : sic enim vidi faciem tuam quasi viderim vultum Dei : esto mihi propitius.",
+      "french": "Jacob ajouta : Ne le refusez point, je vous prie, et si j'ai trouvé grâce devant vous, recevez de ma main ce petit présent. Car j'ai vu aujourd'hui votre visage, comme si je voyais le visage de Dieu : Faites-moi donc cette grâce,",
+      "annotations": null,
+      "source_pages": [
+        "page_0737.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et suscipe benedictionem quam attuli tibi, et quam donavit mihi Deus tribuens omnia. Vix fratre compellente suscipiens,",
+      "french": "Et recevez ce présent que je vous ai envoyé, et que Dieu auteur de tous biens m'a donné. Esaü reçut enfin avec peine, ce que Jacob lui donnait,",
+      "annotations": null,
+      "source_pages": [
+        "page_0738.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Ait : Gradiamur simul, eroque socius itineris tui.",
+      "french": "Et il lui dit : Marchons ensemble, et je vous accompagnerai dans votre chemin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0738.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Dixitque Jacob : Nosti Domine mi, quod parvulos habeam teneros, et oves, et boves foetas mecum : quas si plus in ambulando fecero laborare, morientur una die cuncti greges.",
+      "french": "Jacob lui répondit : Vous savez, mon seigneur, que j'ai des enfants tout petits, et des brebis et des vaches pleines ; et si je les fatigue, en leur faisant faire trop de chemin, je ferai mourir tous mes troupeaux en un seul jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0739.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Precedat dominus meus ante servum suum : Et ego sequar paulatim vestigia ejus, sicut videro parvulos meos posse, donec veniam ad dominum meum in Sehir.",
+      "french": "Que mon seigneur marche toujours devant son serviteur, et je le suivrai tout doucement, selon que je verrai que mes enfants le pourront souffrir, jusqu'à ce que j'arrive chez mon seigneur à Sehir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0739.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Respondit Esau : Oro te, ut de populo qui mecum est, saltem socii remaneant viae tuae. Non est, inquit, necesse : Hoc uno tantum indigeo ut inveniam gratiam in conspectu tuo domine mi.",
+      "french": "Ésaü répondit : Je vous prie de retenir au moins quelques uns de mes gens pour vous accompagner dans votre chemin. Cela n'est pas nécessaire, répondit Jacob : La seule faveur que je vous demande maintenant, mon seigneur, c'est que je trouve grâce devant vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0740.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Reversus est itaque illo die Esau itinere quo venerat in Sehir.",
+      "french": "Ésaü s'en retourna donc le même jour en Séir, par le même chemin qu'il était venu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0740.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et Jacob venit in Socoth : ubi aedificata domo et fixis tentoriis, appellavit nomen loci illius Socoth, id est, tabernacula.",
+      "french": "Et Jacob arriva à Socoth, où il bâtit une maison, et tendit ses tentes ; et il donna à ce lieu le nom de Socoth ; c'est-à-dire les tentes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0740.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Transivitque in Salem urbem Sichimorum, quae est in terra Chanaan, postquam reversus est de Mesopotamia Syriae : et habitavit juxta oppidum.",
+      "french": "Et après son retour de Mésopotamie, il vint à Salem ville des Sichimites dans la terre de Canaan, et il demeura près de cette ville.",
+      "annotations": null,
+      "source_pages": [
+        "page_0741.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Emitque partem agri in qua fixerat tabernacula, a filiis Hemor patris Sichem, centum agnis.",
+      "french": "Et il acheta une partie du champ, où il avait dressé ses tentes, et en paya cent agneaux aux enfants d'Hémor père de Sichem.",
+      "annotations": null,
+      "source_pages": [
+        "page_0741.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et erecto ibi altari, invocavit super illud fortissimum Deum Israel.",
+      "french": "Et Jacob ayant dressé là un Autel, il y invoqua le nom du Très-fort, du Dieu d'Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0746.json"
+      ]
+    }
+  ]
+}

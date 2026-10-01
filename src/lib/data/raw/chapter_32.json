@@ -1,0 +1,277 @@
+{
+  "book": "Genèse",
+  "chapter": 32,
+  "chapter_summary": "Jacob arrive à Mahanaïm ; il envoye avertir Esaü de sa venue. Celui-ci vient au devant de lui avec des troupes ; Jacob lui envoye des présents. Il lutte contre un Ange, qui lui donne le nom d'Israël.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Jacob quoque abiit itinere quo coeperat : fueruntque ei obviam Angeli Dei.",
+      "french": "Jacob continua aussi son chemin, et il rencontra des Anges de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0723.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quos cum vidisset, ait : Castra Dei sunt haec, et appellavit nomen loci illius Mahanaïm, id est, Castra.",
+      "french": "Et les ayant vu, il dit : Voilà le camp de Dieu, et il nomma cet endroit, Mahanaïm, c'est-à-dire, les [deux] camps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0723.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Misit autem et nuntios ante se ad Esau fratrem suum in terram Seir, in regionem Edom:",
+      "french": "Il envoya aussi devant lui des messagers à Ésaü son frère dans la terre de Séir, au pays d'Édom,",
+      "annotations": null,
+      "source_pages": [
+        "page_0724.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Misit autem et nuntios ante se ad Esau fratrem suum in terram Seir, in regionem Edom:",
+      "french": "Il envoya aussi devant lui des messagers à Esaü son frère dans la terre de Sehir, au pays d'Edom,",
+      "annotations": null,
+      "source_pages": [
+        "page_0725.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Timuit Jacob valde : et perterritus divisit populum qui secum erat, greges quoque et oves, et boves, et camelos, in duas turmas.",
+      "french": "A cette nouvelle Jacob fut saisi de crainte ; et dans la frayeur où il était, il fit deux corps de tout ce qui était avec lui, hommes, troupeaux, brebis, bœufs, et chameaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0726.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Dicens : Si venerit Esau ad unam turmam, et percusserit eam, alia turma, quae reliqua est, salvabitur.",
+      "french": "Il disait en lui-même, si Esaü attaque et fait main basse sur une des deux troupes, l'autre pourra se sauver.",
+      "annotations": null,
+      "source_pages": [
+        "page_0726.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Dixitque Jacob : Deus patris mei Abraham, et patris mei Isaac : Domine qui dixisti mihi : Revertere in terram tuam, et in locum nativitatis tuae, et benefaciam tibi.",
+      "french": "Et Jacob dit à Dieu : Dieu d'Abraham mon père ; Dieu de mon père Isaac, Seigneur, qui m'avez dit : Retournez dans votre terre, et dans le lieu de votre naissance, et je vous comblerai de bienfaits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0726.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Minor sum cunctis miserationibus tuis, et veritate tua quam explevisti servo tuo. In baculo meo transivi Jordanem istum : et nunc cum duabus turmis regredior.",
+      "french": "Je suis indigne de toutes vos miséricordes, et de la fidélité avec laquelle vous avez exécuté toutes les promesses que vous avez faites à votre serviteur. J'ai passé ce fleuve du Jourdain avec mon bâton, et je le repassé aujourd'hui avec deux troupes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0726.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Erue me de manu fratris mei Esau, quia valde eum timeo : ne forte veniens percutiat matrem cum filiis.",
+      "french": "Délivrez-moi, je vous prie, de la main de mon frère Esaü, parce que je le crains extrêmement, de peur qu'il ne vienne pour mettre à mort la mère avec les enfants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0727.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Tu locutus es quod benefaceres mihi, et dilatares semen meum sicut arenam maris, quae prae multitudine numerari non potest.",
+      "french": "Vous m'avez promis toutes sortes de biens, et une postérité aussi nombreuse que le sable de la mer, qui ne se peut compter.",
+      "annotations": null,
+      "source_pages": [
+        "page_0727.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Cumque dormisset ibi nocte illa, separavit de his quae habebat, munera Esau fratri suo.",
+      "french": "Et ayant passé la nuit en cet endroit, il choisit des présents dans tout ce qu'il avait, pour les envoyer à Esaü son frère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0727.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Capras ducentas, hircos viginti, oves ducentas, et arietes viginti,",
+      "french": "Il prit deux cents chèvres, et vingt boucs, deux cents brebis avec vingt béliers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0727.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Camelos foetas cum pullis suis triginta, vaccas quadraginta, et tauros viginti, asinas viginti, et pullos earum decem.",
+      "french": "Trente femelles de chameaux, avec leurs petits, quarante vaches, vingt taureaux, vingt ânesses, et dix ânons.",
+      "annotations": null,
+      "source_pages": [
+        "page_0727.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et misit per manus servorum suorum singulos seorsum greges, dixitque pueris suis: Antecedite me : et sit spatium inter gregem et gregem.",
+      "french": "Il envoya séparément tous ces troupeaux conduits par ses serviteurs, et il leur dit : marchez toujours devant, et qu'il y ait quelque distance entre un troupeau, et l'autre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0727.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et praecepit priori dicens : Si obvium habueris fratrem meum Esau : et interrogaverit te, Cujus es ? aut, quo vadis ? Cujus sunt ista quae sequeris ?",
+      "french": "Et il donna cet ordre au premier : Si vous rencontrez Esaü mon frère, et qu'il vous demande à qui vous appartenez, où vous allez, et à qui sont ces bêtes que vous conduisez ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0728.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Respondebis : Servi tui Jacob ; munera misit domino meo Esau : ipse quoque post nos venit.",
+      "french": "Vous lui répondrez : Ce sont des présents que Jacob votre serviteur envoie à son seigneur Esaü, et il vient lui-même après nous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0728.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Similiter dedit mandata secundo, et tertio, et cunctis qui sequebantur greges, dicens : Iisdem verbis loquimini ad Esau, cum inveneritis eum.",
+      "french": "Il fit le même commandement au second et au troisième, et à tous ceux qui suivaient les troupeaux ; et il leur dit : Vous parlerez de la même manière à Esaü, lorsque vous le rencontrerez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0728.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et addetis : Ipse quoque servus tuus Jacob iter nostrum insequitur. Dixit enim : Placabo illum muneribus quae praecedunt, et postea videbo illum : forsitan propitiabitur mihi.",
+      "french": "Et vous ajouterez : Votre serviteur Jacob vient aussi lui-même après nous. Car il disait en lui-même : Je le fléchirai par ces présents que j'envoie devant moi, et ensuite je me présenterai devant lui ; peut-être qu'il me recevra favorablement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0728.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Praecesserunt itaque munera ante eum, ipse vero mansit nocte illa in castris.",
+      "french": "Il fit donc marcher ses présents devant lui, et pour lui il passa la nuit dans [le lieu qu'il avait nommé] les deux camps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0728.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Cumque mature surrexisset, tulit duas uxores suas, et totidem famulas, cum undecim filiis, et transivit vadum Jaboc.",
+      "french": "Et s'étant levé du grand matin, il prit ses deux femmes, et ses deux servantes, avec ses onze fils, et il leur fit passer le gué de Jabok.",
+      "annotations": null,
+      "source_pages": [
+        "page_0729.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Traductisque omnibus quae ad se pertinebant,",
+      "french": "Et après avoir fait passer tout ce qui lui appartenait,",
+      "annotations": null,
+      "source_pages": [
+        "page_0729.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Mansit solus : et ecce vir luctabatur cum eo usque mane.",
+      "french": "Il demeura seul ; et voilà un homme qui luttait avec lui jusqu'au matin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0729.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Qui cum videret quod eum superare non posset, tetigit nervum femoris ejus, et statim emarcuit.",
+      "french": "Cet homme voyant qu'il ne le pouvait surmonter, lui toucha le nerf de la cuisse, qui se sécha aussitôt.",
+      "annotations": null,
+      "source_pages": [
+        "page_0731.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Dixitque ad eum : Dimitte me, jam enim ascendit aurora. Respondit : Non dimittam te, nisi benedixeris mihi.",
+      "french": "Et il lui dit : Laissez-moi aller ; car l'aurore commence à s'élever. Jacob lui répondit : Je ne vous laisserai point aller que vous ne m'ayez donné votre bénédiction.",
+      "annotations": null,
+      "source_pages": [
+        "page_0731.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Ait ergo : Quod nomen est tibi ? Respondit : Jacob.",
+      "french": "Il lui dit donc ; Quel est votre nom ? Il répondit : Je m'appelle Jacob.",
+      "annotations": null,
+      "source_pages": [
+        "page_0732.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "At ille : Nequaquam, inquit, Jacob appellabitur nomen tuum, sed Israel : quoniam si contra Deum fortis fuisti, quanto magis contra homines prevalebis ?",
+      "french": "Cet homme ajouta : On ne vous appellera plus à l'avenir Jacob, mais Israël : Car si vous avez pu tenir contre Dieu, à plus forte raison l'emporterez-vous sur les hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0732.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Interrogavit eum Jacob : Dic mihi, quo appellaris nomine ? Respondit : Cur quaeris nomen meum ? Et benedixit ei in eodem loco.",
+      "french": "Jacob lui dit ensuite : Dites-moi, je vous prie, votre nom ? mais il lui répondit : Pourquoi demandez-vous mon nom ? et il le bénit au même lieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0733.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Vocavitque Jacob nomen loci illius Phanuel, dicens : Vidi Deum facie ad faciem, et salva facta est anima mea.",
+      "french": "Jacob nomma donc ce lieu-là Phanuel, en disant : J'ai vu Dieu face à face, et je n'ai point perdu la vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0734.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Ortusque est ei statim Sol, postquam transgressus est Phanuel : ipse vero claudicabat pede.",
+      "french": "Aussitôt que Jacob fut passé au delà de Phanuel, il vit le Soleil qui se levait, et il demeura boiteux d'une jambe.",
+      "annotations": null,
+      "source_pages": [
+        "page_0734.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Quam ob causam non comedunt nervum filii Israel, qui emarcuit in femore Jacob, usque in praesentem diem : eo quod tetigerit nervum femoris ejus, et obstupuerit.",
+      "french": "C'est pour cela que jusqu'aujourd'hui les enfants d'Israël ne mangent point [dans les bêtes] du nerf qui se sécha dans la cuisse de Jacob, parce que l'Ange le toucha, et le rendit sans sentiment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0734.json"
+      ]
+    }
+  ]
+}

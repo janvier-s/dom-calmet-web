@@ -1,0 +1,286 @@
+{
+  "book": "Genèse",
+  "chapter": 1,
+  "chapter_summary": "Création du Ciel et de la Terre, de la Nuit et du Jour, du Firmament, des Eaux, des Plantes, des Arbres, du Soleil, de la Lune, des Poissons, des Oiseaux et des Animaux terrestres.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "In principio creavit Deus Cœlum et Terram.",
+      "french": "Au commencement Dieu créa le Ciel et la Terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Terra autem erat inanis et vacua, et tenebræ erant super faciem abyssi, et Spiritus Dei ferebatur super aquas.",
+      "french": "Or la Terre était sans ornement et toute nue, et les ténèbres étaient répandues sur la face de l'abîme, et l'Esprit de Dieu était porté sur les eaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Dixitque Deus : fiat lux. Et facta est lux.",
+      "french": "Et Dieu dit : que la lumière soit faite ; et la lumière fut faite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et vidit Deus lucem quòd esset bona ; et divisit lucem à tenebris.",
+      "french": "Et il vit que la lumière était bonne, et il divisa la lumière d'avec les ténèbres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Appellavitque lucem Diem, et tenebras Noctem : factumque est vespere et manè, dies unus.",
+      "french": "Et il donna à la lumière le nom de Jour ; et aux ténèbres le nom de Nuit ; et du soir et du matin, se fit le premier jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dixit quoque Deus : fiat firmamentum in medio aquarum, et dividat aquas ab aquis.",
+      "french": "Dieu dit encore : que le firmament soit fait au milieu des eaux, et qu'il sépare les eaux d'avec les eaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et fecit Deus firmamentum : divisitque aquas quæ erant sub firmamento , ab his quæ erant super firmamentum. Et factum est ita.",
+      "french": "Et Dieu fit le firmament, et divisa les eaux qui étaient sous le firmament de celles qui étaient au-dessus du firmament. Et cela fut fait ainsi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Vocavitque Deus firmamentum,Cœlum: et factum est vespere et mane, dies secundus.",
+      "french": "Et Dieu appela le firmament du nom de Ciel. Et du soir et du matin se fit le second jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Dixit verò Deus : Congregentur aquæ, quæ sub Cœlo sunt, in locum unum : et appareat arida. Et factum est ita.",
+      "french": "Dieu dit aussi : que les eaux qui sont sous le Ciel se rassemblent en un seul lieu, et que l'élément aride paraisse. Et cela se fit ainsi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et vocavit Deus aridam, Terram, congregationesque aquarum appellavit Maria. Et vidit Deus quòd esset bonum.",
+      "french": "Et Dieu donna à l'élément aride le nom de Terre, et à l'amas des eaux le nom de Mers. Et il vit que cela était bon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et ait : Germinet terra herbam virentem et facientem semen, et lignum pomiferum faciens fructum juxta genus suum, cujus semen in semetipso sit super terram. Et factum est ita.",
+      "french": "Dieu dit encore : que la terre pousse de l'herbe verte, qui porte la graine, et des arbres fruitiers qui portent du fruit selon leur espèce, et qui renferment leur semence dans eux-mêmes, pour se reproduire sur la terre. Et cela fut fait ainsi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et protulit terra herbam virentem, et facientem semen juxta genus suum, lignumque faciens fructum, et habens unumquodque sementem secundum speciem suam. Et vidit Deus quòd esset bonum.",
+      "french": "La terre produisit de l'herbe verte, qui portait de la graine selon son espèce, et des arbres fruitiers qui renfermaient leur semence en eux-mêmes, chacun selon son espèce. Et Dieu vit que cela était bon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et factum est vespere et manè, dies tertius.",
+      "french": "Et du soir et du matin se fit le troisième jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Dixit autem Deus : Fiant luminaria in firmamento Cœli, et dividant diem ac noctem, et sint in signa et tempora, et dies et annos.",
+      "french": "Dieu dit aussi : que des corps lumineux soient faits dans le firmament du Ciel, afin qu'ils divisent le jour et la nuit, et qu'ils servent à marquer les temps, les saisons, les jours et les années.",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Ut luceant in firmamento Cœli, et illuminent terram. Et factum est ita.",
+      "french": "Qu'ils éclairent dans le Ciel, et qu'ils répandent la lumière sur la terre. Et cela se fit ainsi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Fecitque Deus duo luminaria magna: luminare majus, ut præesset diei, et luminare minus, ut præesset nocti: et stellas.",
+      "french": "Dieu fit deux grands corps de lumière ; l'un plus grand pour présider au jour, et l'autre plus petit pour présider à la nuit ; il créa aussi les étoiles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et posuit eas in firmamento Cœli, ut lucerent super terram.",
+      "french": "Et il les plaça dans le firmament du Ciel, pour éclairer la Terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et praeessent diei ac nocti, et dividerent lucem ac tenebras. Et vidit Deus quod esset bonum.",
+      "french": "Pour présider au jour et à la nuit, et pour diviser la lumière des ténèbres. Et Dieu vit que cela était bon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Et factum est vespere et mane, dies quartus.",
+      "french": "Et du soir et du matin se fit le quatrième jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Dixit etiam Deus : Producant aquae reptile animae viventis, et volatile super terram sub firmamento Coeli.",
+      "french": "Dieu dit aussi : Que les eaux produisent des poissons vivants, et des oiseaux (qui volent) sur la terre, et sous le firmament du Ciel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Creavitque Deus cete grandia, et omnem animam viventem atque motabilem, quam produxerant aquæ in species suas, et omne volatile secundum genus suum. Et vidit Deus quòd esset bonum.",
+      "french": "Et Dieu créa les grands poissons et tous les animaux qui ont la vie et le mouvement, qui furent produits par les eaux chacun selon son espèce. Il créa aussi tous les oiseaux selon leur espèce. Et il vit que cela était bon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Benedixitque eis, dicens : Crescite, et multiplicamini, et replete aquas maris : avesque multiplicentur super terram.",
+      "french": "Et il les bénit, et leur dit : Croissez et multipliez-vous, remplissez les eaux de la mer, et que les oiseaux se multiplient sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et factum est vespere et manè, dies quintus.",
+      "french": "Et du soir et du matin se fit le cinquième jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Dixit quoque Deus : Producat terra animam viventem in genere suo ; jumenta, et reptilia, et bestias terræ secundum species suas. Factumque est ita.",
+      "french": "Dieu dit encore : Que la terre produise des animaux vivants, chacun selon son espèce, qu'elle produise les animaux domestiques, les reptiles et les bêtes sauvages de la terre selon leur espèce. Et cela fut fait ainsi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0116.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et fecit Deus bestias terræ juxta species suas, et jumenta et omne reptile terræ in genere suo. Et vidit Deus quòd esset bonum.",
+      "french": "Et Dieu créa les bêtes de la terre selon leurs espèces, il fit les animaux domestiques et tous les reptiles chacun selon son espèce. Et Dieu vit que cela était bon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0116.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Et ait : Faciamus hominem ad imaginem et similitudinem nostram : et præsit piscibus maris, et volatilibus Cœli, et bestiis, universæque terræ, omnique reptili quod movetur in terra.",
+      "french": "Dieu dit aussi : Faisons l'homme à notre image et à notre ressemblance : et qu'il préside aux poissons de la mer, aux oiseaux du Ciel, aux bêtes et à tous les reptiles qui se remuent sur la terre, et qu'il domine sur toute la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0117.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et creavit Deus hominem ad imaginem suam : ad imaginem Dei creavit illum, masculum et feminam creavit eos.",
+      "french": "Et Dieu créa l'homme à son image ; il le fit à l'image de Dieu, et il le créa mâle et femelle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0117.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Benedixitque illis Deus, et ait : Crescite et multiplicamini, et replete terram, et subjicite eam, et dominamini piscibus maris, et volatilibus Cœli, et universis animantibus, quæ moventur super terram.",
+      "french": "v. 28. Il les bénit, et il leur dit : Croissez et multipliez-vous, remplissez la terre, assujettissez-la, et dominez sur les poissons de la mer, sur les oiseaux du Ciel, et sur tous les animaux qui se meuvent sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0118.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Dixitque Deus : Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quæ habent in semetipsis sementem generis sui, ut sint vobis in escam.",
+      "french": "Dieu dit aussi : Je vous ai donné toutes les herbes, qui portent leurs graines sur la terre, et tous les arbres qui renferment en eux-mêmes leurs semences, chacun selon leur espèce, pour vous servir de nourriture.",
+      "annotations": null,
+      "source_pages": [
+        "page_0118.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et cunctis animantibus terræ, omnique volucri Cœli, et universis quæ moventur in terra, et in quibus est anima vivens, ut habeant ad vescendum. Et factum est ita.",
+      "french": "Et à tous les animaux de la terre, à tous les oiseaux du Ciel, et à tout ce qui a vie et mouvement sur la terre, afin qu'ils aient de quoi se nourrir. Et cela fut fait ainsi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0119.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Viditque Deus cuncta quæ fecerat: et erant valde bona. Et factum est vespere et manè, dies sextus.",
+      "french": "Et Dieu vit toutes les choses qu'il avait faites, et elles étaient très-bonnes. Et du soir et du matin se fit le sixième jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0119.json"
+      ]
+    }
+  ]
+}

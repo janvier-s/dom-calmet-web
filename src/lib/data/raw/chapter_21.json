@@ -1,0 +1,313 @@
+{
+  "book": "Genèse",
+  "chapter": 21,
+  "chapter_summary": "Naissance d'Isaac. Fuite d'Agar et d'Ismaël. Alliance entre Abimelech et Abraham.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Visitavit autem Dominus Saram, sicut promiserat: et implevit quæ locutus est.",
+      "french": "Or le Seigneur visita Sara, comme il l'avait dit, et il exécuta sa promesse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0550.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Concepitque et peperit filium in senectute sua, tempore quo praedixerat ei Deus.",
+      "french": "Et elle conçut et enfanta un fils dans sa vieillesse, dans le temps que Dieu le lui avait prédit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0550.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Vocavitque Abraham nomen filii sui, quem genuit ei Sara, Isaac.",
+      "french": "Et Abraham donna le nom d'Isaac au fils qui lui était né de Sara.",
+      "annotations": null,
+      "source_pages": [
+        "page_0550.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et circumcidit eum octavo die, sicut praeceperat ei Deus.",
+      "french": "Et il le circoncit le huitième jour, selon l'ordre qu'il en avait reçu de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0550.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Cum centum esset annorum : hac quippe aetate patris, natus est Isaac.",
+      "french": "Il avait alors cent ans ; car ce fut à cet âge-là qu'il devint père d'Isaac,",
+      "annotations": null,
+      "source_pages": [
+        "page_0551.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dixitque Sara : Risum fecit mihi Deus : quicumque audierit, corridebit mihi.",
+      "french": "Et Sara dit en cette occasion : Le Seigneur m'a donné un sujet de rire, [ et de joie, ] et quiconque le saura en rira, [ et s'en réjouira ] avec moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0551.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Rursumque ait : Quis auditurum crederet Abraham, quod Sara lactaret filium, quem peperit ei jam seni ?",
+      "french": "Et elle ajouta : Qui croirait qu'on aurait jamais pu dire à Abraham que Sara nourrirait de son lait un fils, qu'elle lui aurait enfanté lorsqu'il était déjà vieux ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0551.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Crevit igitur puer, et ablactatus est, fecitque Abraham grande convivium in die ablationis ejus.",
+      "french": "Cependant cet enfant crut, et on le sevra ; et Abraham fit un grand festin au jour qu'il fut sevré.",
+      "annotations": null,
+      "source_pages": [
+        "page_0551.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Cumque vidisset Sara filium Agar Aegyptiæ ludentem cum Isaac filio suo, dixit ad Abraham:",
+      "french": "Et Sara ayant vu le fils d'Agar l'Égyptienne, qui jouait avec Isaac son fils, elle dit à Abraham:",
+      "annotations": null,
+      "source_pages": [
+        "page_0552.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Ejice ancillam hanc et filium ejus : non enim erit haeres filius ancillæ cum filio meo Isaac.",
+      "french": "Chassez cette servante avec son fils ; car le fils de cette servante ne sera point héritier avec mon fils Isaac.",
+      "annotations": null,
+      "source_pages": [
+        "page_0552.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Dure accepit hoc Abraham pro filio suo :",
+      "french": "Ce discours parut dur à Abraham, à cause de son fils [ Ismaël. ]",
+      "annotations": null,
+      "source_pages": [
+        "page_0553.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Cui dixit Deus : Non tibi videatur asperum super puero et super ancilla tua : omnia quæ dixerit tibi Sara, audi vocem ejus : quia in Isaac vocabitur tibi semen.",
+      "french": "Et le Seigneur lui dit : Que ce que vous a dit touchant votre fils et votre servante, ne vous paraisse point trop dur. Écoutez tout ce que Sara vous dira : parce que c'est d'Isaac que sortira la race qui doit porter votre nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0553.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Sed et filium ancillæ faciam in gentem magnam, quia semen tuum est.",
+      "french": "Et quant au fils de votre servante, je le rendrai aussi père d'un grand peuple, parce qu'il est sorti de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0553.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Surrexit itaque Abraham mane, et tollens panem, et utrem aquæ, imposuit scapulae ejus, tradiditque puerum, et dimisit eam. Quæ cum abiisset, errabat in solitudine Bersabee.",
+      "french": "Abraham donc s'étant levé le matin, et prenant du pain et un vaisseau plein d'eau, il le mit sur l'épaule d'Agar, lui donna son fils et la renvoya. Agar étant partie, allait errant dans le désert de Bersabée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0554.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Cumque consumpta esset aqua in utre, abjecit puerum subter unam arborum, quæ ibi erant.",
+      "french": "Et l'eau qui était dans le vaisseau ayant manqué, elle laissa son fils couché sous un des arbres qui étaient là.",
+      "annotations": null,
+      "source_pages": [
+        "page_0554.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et abiit, seditque è regione procul quantum potest arcus jacere, dixit enim : Non videbo morientem puerum : et sedens contra, levavit vocem suam et flevit.",
+      "french": "Et s'éloigna de lui à la longueur d'un trait d'arc, et s'assit vis-à-vis de lui ; en disant : Je ne verrai point mourir mon enfant ; et élevant sa voix, elle se mit à pleurer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0555.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Exaudivit autem Deus vocem pueri : vocavitque Angelus Dei Agar de Cœlo, dicens : Quid agis Agar ? noli timere : exaudivit enim Deus vocem pueri de loco in quo est.",
+      "french": "Or Dieu écouta la voix de l'enfant ; et l'Ange du Seigneur appela Agar du Ciel, et lui dit : Agar, que faites-vous là ? Ne craignez point ; car Dieu a entendu la voix de votre enfant du lieu où il est.",
+      "annotations": null,
+      "source_pages": [
+        "page_0555.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Surge, tolle puerum et tene manum illius : quia in gentem magnam faciam eum.",
+      "french": "Levez-vous, prenez l'enfant ; tenez-le par la main ; parce que je le rendrai père d'un grand peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0556.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Aperuitque oculos ejus Deus ; quæ videns puteum aquæ, abiit, et implevit utrem, deditque puero bibere.",
+      "french": "Et Dieu ouvrit les yeux à Agar, qui ayant aperçu un puits d'eau, y alla, et remplit son vaisseau, et donna à boire à son enfant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0556.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et fuit cum eo : qui crevit, et moratus est in solitudine, factusque est juvenis sagittarius.",
+      "french": "Dieu fut avec lui, il crut, et demeura dans le désert, et il devint un jeune homme adroit à tirer de l'arc.",
+      "annotations": null,
+      "source_pages": [
+        "page_0556.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Habitavitque in deserto Pharan et accepit illi mater sua uxorem de terra Aegypti.",
+      "french": "Il habita le désert de Pharan, et sa mère lui fit prendre une femme d'Égypte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0557.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Eodem tempore dixit Abimelech, et Phicol princeps exercitus ejus ad Abraham : Deus tecum est in universis quæ agis.",
+      "french": "Dans ce même temps Abimelech, accompagné de Phicol chef de son armée, vint dire à Abraham : Dieu est avec vous dans tout ce que vous faites.",
+      "annotations": null,
+      "source_pages": [
+        "page_0557.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Jura ergo per Deum, ne noceas mihi, et posteris meis, stirpique meae : sed juxta misericordiam, quam feci tibi, facies mihi, et terrae in qua versatus es advena.",
+      "french": "Jurez-moi donc par le nom de Dieu, que vous ne me nuirez point, ni à mes descendants, ni à ma race ; mais que vous en userez envers moi et envers le pays où vous avez demeuré comme étranger, avec la même bonté avec laquelle j'en ai usé avec vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0558.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Dixitque Abraham : Ego jurabo.",
+      "french": "Abraham répondit : Je vous le jurerai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0558.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et increpavit Abimelech propter puteum aquæ quem vi abstulerant servi ejus.",
+      "french": "Et il fit des plaintes à Abimelech de la violence avec laquelle ses serviteurs lui avaient ôté un puits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0559.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Responditque Abimelech : Nescivi quis fecerit hanc rem : sed et tu non indicasti mihi, et ego non audivi præter hodie.",
+      "french": "Abimelech lui répondit : Je n'ai pas su qui vous a fait cette injustice ; vous ne m'en avez point fait de plaintes, et je n'en ai pas été informé jusqu'aujourd'hui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0559.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Tulit itaque Abraham oves et boves et dedit Abimelech : percusseruntque ambo foedus.",
+      "french": "Abraham prit donc des brebis et des bœufs, et il les donna à Abimelech, et ils firent alliance ensemble.",
+      "annotations": null,
+      "source_pages": [
+        "page_0559.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et statuit Abraham septem agnas gregis seorsum.",
+      "french": "Et Abraham ayant mis à part sept petites brebis de son troupeau,",
+      "annotations": null,
+      "source_pages": [
+        "page_0560.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Cui dixit Abimelech : Quid sibi volunt septem agnae istae, quas stare fecisti seorsum ?",
+      "french": "Abimelech lui dit : Que voulez-vous faire de ces sept petites brebis que vous avez mises à part ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0560.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "At ille : septem, inquit, agnas accipies de manu mea : ut sint mihi in testimonium, quoniam ego fodi puteum istum.",
+      "french": "Vous recevrez, dit Abraham, ces sept brebis de ma main, afin qu'elles me servent de témoignage, que c'est moi qui ai creusé ce puits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0560.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Idcirco vocatus est locus ille Bersabee : quia ibi uterque juravit.",
+      "french": "C'est pourquoi on donna à ce lieu le nom de Bersabée, parce qu'ils avaient juré là tous deux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0560.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et inierunt foedus pro puteo juramenti.",
+      "french": "Et qu'ils avaient fait alliance pour le puits du jurement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0560.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Surrexerunt autem Abimelech, et Phicol Princeps exercitus ejus, reversique sunt in terram Palaestinorum. Abraham verò plantavit nemus in Bersabee, et invocavit ibi nomen Domini Dei aeterni.",
+      "french": "Abimelech donc, et Phicol chef de son armée, s'en retournèrent dans le pays des Philistins ; et Abraham planta un bois à Bersabée, où il invoqua le nom du Seigneur Dieu éternel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0560.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et fuit colonus terræ Palæstinorum diebus multis.",
+      "french": "Et il fut longtemps dans le pays des Philistins comme étranger.",
+      "annotations": null,
+      "source_pages": [
+        "page_0561.json"
+      ]
+    }
+  ]
+}

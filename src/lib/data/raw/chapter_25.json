@@ -1,0 +1,313 @@
+{
+  "book": "Genèse",
+  "chapter": 25,
+  "chapter_summary": "Abraham épouse Cethura ; dénombrement des enfants sortis de ce mariage. Postérité d'Ismaël ; sa mort. Naissance de Jacob et d'Ésaü. Celui-ci vend son droit d'aînesse à Jacob.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Abraham verò aliam duxit uxorem nomine Cethuram.",
+      "french": "Abraham prit ensuite une autre femme appelée Cethura.",
+      "annotations": null,
+      "source_pages": [
+        "page_0607.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Jecsan quoque genuit Saba, et Dadan. Filii Dadan fuerunt Assurim, et Latusim, et Loomim.",
+      "french": "Jecsan engendra Saba et Dadan. Les enfants de Dadan furent Assurim, Latusim et Loomim.",
+      "annotations": null,
+      "source_pages": [
+        "page_0609.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "At verò ex Madian ortus est Epha, et Opher, et Henoch, et Abida, et Eldaa: omnes hi filii Cethurae.",
+      "french": "De Madian sortit Epha, Opher, Henoch, Abida, et Eldaa ; Voilà tous les enfants de Cethura.",
+      "annotations": null,
+      "source_pages": [
+        "page_0611.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Deditque Abraham cuncta quæ possederat, Isaac:",
+      "french": "Abraham donna à Isaac tout son bien.",
+      "annotations": null,
+      "source_pages": [
+        "page_0612.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Filiis autem concubinarum largitus est munera, et separavit eos ab Isaac filio suo, dum adhuc ipse viveret, ad plagam orientalem.",
+      "french": "Et il fit des présents aux fils de ses autres femmes de son vivant, et il les sépara de son fils Isaac, et les fit aller dans le pays qui regarde l'Orient.",
+      "annotations": null,
+      "source_pages": [
+        "page_0612.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Fuerunt autem dies vitæ Abrahæ, centum septuaginta quinque anni.",
+      "french": "Et la vie d'Abraham ayant été de cent soixante et quinze ans,",
+      "annotations": null,
+      "source_pages": [
+        "page_0613.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et deficiens mortuus est in senectute bona, provectaeque aetatis, et plenus dierum: congregatusque est ad populum suum.",
+      "french": "Il mourut de pure défaillance dans une heureuse vieillesse, dans un âge très-avancé, et comme rassasié de la vie ; et il alla se réunir à son peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0613.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et sepelierunt eum Isaac et Ismael filii sui in spelunca duplici, quae sita est in agro Ephron filii Seor Hethaei, e regione Mambre.",
+      "french": "Isaac et Ismaël ses enfants l'ensevelirent dans la caverne double, qui est dans le champ d'Éphron fils de Séor le Héthéen, vis-à-vis de Mambré.",
+      "annotations": null,
+      "source_pages": [
+        "page_0614.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quem emerat a filiis Heth : ibi sepultus est ipse, et Sara uxor ejus.",
+      "french": "Qu'Abraham avait achetée des fils de Heth : C'est là qu'il fut enterré, aussi bien que Sara sa femme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0614.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et post obitum illius benedixit Deus Isaac filio ejus, qui habitabat juxta puteum nomine viventis et videntis.",
+      "french": "Et après la mort d'Abraham, Dieu bénit Isaac son fils, qui demeurait près du puits appelé de celui qui vit et qui voit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0615.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Hae sunt generationes Ismael filii Abraha, quem peperit ei Agar Aegyptia, famula Sarae :",
+      "french": "Voici le dénombrement des enfants d'Ismaël fils d'Abraham et d'Agar Égyptienne, servante de Sara.",
+      "annotations": null,
+      "source_pages": [
+        "page_0615.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et haec nomina filiorum ejus in vocabulis et generationibus suis. Primogenitus Ismaelis Nabajoth, deinde Cedar, et Abdeel, et Mabsam,",
+      "french": "Et voici les noms que les enfants d'Ismaël ont laissé à leurs descendants. Le premier né des enfants d'Ismaël fut Nabajoth ; les autres sont Cedar, Abdeel, Mabsam,",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Masma quoque, et Duma, et Massa.",
+      "french": "Masma, Duma, Massa,",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Hadar, et Thema, et Jethur, et Naphis, et Cedma.",
+      "french": "Hadar, Thema, Jethur, Naphis et Cedma.",
+      "annotations": null,
+      "source_pages": [
+        "page_0617.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Isti sunt filii Ismaelis, et haec nomina per castella et oppida eorum, duodecim Principis Tribuum suarum.",
+      "french": "Ce sont là les enfants d'Ismaël, et voilà les noms qu'ils ont donné à leurs châteaux et à leurs villes, ayant été douze Princes chefs d'autant de Tribus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et facti sunt anni vitæ Ismaelis centum triginta septem, deficiensque mortuus est, et appositus ad populum suum.",
+      "french": "Le temps de la vie d'Ismaël fut de cent trente-sept ans, et les forces lui manquant, il mourut et fut réuni à son peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Habitavit autem ab Hevila usque Sur, quæ respicit Aegyptum introeuntibus Assyrios. Coram cunctis fratribus suis obiit.",
+      "french": "Il habita le pays qui est depuis Hévila jusqu'à Sur, qui est du côté de l'Égypte, sur le chemin qui conduit dans l'Assyrie. Il mourut en présence de tous ses frères.",
+      "annotations": null,
+      "source_pages": [
+        "page_0619.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Hae quoque sunt generationes Isaac filii Abraham : Abraham genuit Isaac.",
+      "french": "Voici quelle fut aussi la généalogie d'Isaac fils d'Abraham : Abraham engendra Isaac ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0619.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Qui cum quadraginta esset annorum, duxit uxorem Rebeccam filiam Bathuelis Syri de Mesopotamia, sororem Laban.",
+      "french": "Isaac âgé de quarante ans, épousa Rebecca fille de Bathuël le Syrien de Mésopotamie, et sœur de Laban.",
+      "annotations": null,
+      "source_pages": [
+        "page_0620.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Deprecatusque est Isaac Dominum pro uxore sua, eo quod esset sterilis : qui exaudivit eum, et dedit conceptum Rebeccae.",
+      "french": "Isaac pria le Seigneur pour sa femme, parce qu'elle était stérile, et le Seigneur l'exauça, en donnant à Rebecca la vertu de concevoir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0620.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Sed collidebantur in utero ejus parvuli ; quæ ait : Si sic mihi futurum erat, quid necesse fuit concipere ? Perrexisque ut consuleret Dominum.",
+      "french": "Mais les deux enfants dont elle était grosse, se heurtaient l'un contre l'autre ; et elle dit ; Si cela devait m'arriver, qu'était-il besoin que je conçusse ? Elle alla donc consulter le Seigneur ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0620.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Qui respondens ait : Duæ gentes sunt in utero tuo, et duo populi ex ventre tuo dividentur, populusque populum superabit, et major serviet minori.",
+      "french": "Qui lui répondit : Deux nations sont dans votre sein, et deux peuples sortiront de vous. L'un de ces peuples surmontera l'autre, et l'aîné sera assujetti au plus jeune.",
+      "annotations": null,
+      "source_pages": [
+        "page_0621.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Jam tempus pariendi advenerat, et ecce gemini in utero ejus reperti sunt.",
+      "french": "Le temps qu'elle devait accoucher étant arrivé, elle se trouva mère de deux jumeaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0621.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Qui prior egressus est, rufus erat, et totus in modum pellis hispidus ; vocatumque est nomen ejus Esau. Protinu alter egrediens, plantam fratris tenebat manu : et idcirco appellavit eum Jacob.",
+      "french": "Celui qui sortit le premier était roux, et tout velu comme une peau ; et on lui donna le nom d'Ésaü. L'autre sortit aussitôt, et tenait de sa main le pied de son frère, et on l'appela Jacob.",
+      "annotations": null,
+      "source_pages": [
+        "page_0622.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Sexagenarius erat Isaac quando nati sunt ei parvuli.",
+      "french": "Isaac avait soixante ans lorsque ces deux fils lui naquirent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0622.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Quibus adultis, factus est Esau vir gnarus venandi: et homo agricola: Jacob autem vir simplex, habitabat in tabernaculis.",
+      "french": "Quand ils furent grands, Ésaü devint adroit à la chasse, et s'exerça au labourage. Mais Jacob était un homme droit et simple, qui demeurait dans la tente de son père.",
+      "annotations": null,
+      "source_pages": [
+        "page_0623.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Isaac amabat Esau, eo quod de venationibus illius vesceretur: et Rebecca diligebat Jacob.",
+      "french": "Isaac aimait Ésaü, parce qu'il mangeait du gibier qu'il prenait à la chasse. Mais Rebecca avait plus d'inclination pour Jacob.",
+      "annotations": null,
+      "source_pages": [
+        "page_0624.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Coxit autem Jacob pulmentum ; ad quem cum venisset Esau de agro lassus,",
+      "french": "Un jour Jacob ayant fait cuire un mets [ de lentilles,] Ésaü revint des champs fort fatigué,",
+      "annotations": null,
+      "source_pages": [
+        "page_0624.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Ait : Da mihi de coctione hac rufa, quia oppido lassus sum. Quam ob causam vocatum est nomen ejus Edom.",
+      "french": "Et il dit à Jacob : Donnez-moi, je vous prie, de ce mets roux, parce que je suis extrêmement las : C’est pour cette raison qu’on lui donna le nom d’Edom, [ qui signifie roux. ]",
+      "annotations": null,
+      "source_pages": [
+        "page_0625.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Cui dixit Jacob : Vende mihi primogenita tua.",
+      "french": "Jacob lui répondit : Vendez-moi donc votre droit d’aînesse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0625.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Ille respondit : En morior, quid mihi proderunt primogenita ?",
+      "french": "Ésaü repartit : Je me meurs, de quoi me servira mon droit d'aînesse ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0627.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Ait Jacob, Jura ergo mihi : Juravit ei Esau, et vendidit primogenita.",
+      "french": "Jurez-le moi donc, lui dit Jacob ; Ésaü le lui jura, et lui vendit son droit d'aînesse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0628.json"
+      ]
+    },
+    {
+      "verse_number": 66,
+      "latin": "Servus autem cuncta quæ gesserat, narravit Isaac.",
+      "french": "Et le serviteur raconta à Isaac tout ce qu'il avait fait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0607.json"
+      ]
+    },
+    {
+      "verse_number": 67,
+      "latin": "Qui introduxit eam in tabernaculum Sarae matris suæ, et accepit eam uxorem : et in tantum dilexit eam, ut dolorem, qui ex morte matris ejus acciderat, temperaret.",
+      "french": "Alors Isaac fit entrer Rebecca dans la tente de Sara sa mère, et il la prit pour femme ; et l'affection qu'il eut pour elle, fut si grande, qu'elle tempéra la douleur que la mort de sa mère lui avait causée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0607.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "book": "Genèse",
+  "chapter": 30,
+  "chapter_summary": "Naissance de Dan et de Nephtali, fils de Bala servante de Rachel ; et de Gad et d'Aser, fils de Zelpha servante de Lia. Ruben apporte des Mandragores à Lia. Rachel les achette. Naissance d'Issachar, de Zabulon et de Dina, fils et fille de Lia. Rachel eut enfin Joseph. Jacob veut s'en retourner en Palestine. Il s'accorde avec Laban.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Cernens autem Rachel quod infecunda esset, invidit sorori suae, et ait marito suo : Da mihi liberos, alioquin moriar.",
+      "french": "Or Rachel voyant qu'elle était stérile, conçut de l'envie contre sa sœur, et elle dit à son mari : donnez-moi des enfants, ou je mourrai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0677.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Cui iratus, respondit Jacob : Num pro Deo ego sum, qui privavit te fructu ventris tui ?",
+      "french": "Jacob fâché de ce discours, lui répondit : Me prenez-vous pour un Dieu est-ce moi qui vous ai rendue stérile ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0678.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "At illa : Habeo, inquit, famulam Balam : ingredere ad illam, ut pariat super genua mea, et habeam ex illa filios.",
+      "french": "Mais Rachel lui dit : J'ai Bala ma servante, prenez-la, afin qu'elle me donne des enfants, et que je les reçoive sur mes genoux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0678.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Deditque illi Balam in conjugium :",
+      "french": "Elle lui donna donc Bala pour femme,",
+      "annotations": null,
+      "source_pages": [
+        "page_0679.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Ingresso ad se viro, concepit et peperit filium.",
+      "french": "Et Jacob l'ayant prise, elle conçut, et accoucha d'un fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0679.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dixitque Rachel : Judicavit mihi Dominus, et exaudivit vocem meam, dans mihi filium ; et idcirco appellavit nomen ejus Dan.",
+      "french": "Alors Rachel dit : Le Seigneur a jugé en ma faveur, et il a exaucé ma voix, en me donnant un fils, c'est pourquoi elle l'appela Dan.",
+      "annotations": null,
+      "source_pages": [
+        "page_0680.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Rursumque Bala concipiens, peperit alterum.",
+      "french": "Bala conçut une seconde fois, et elle eut un fils,",
+      "annotations": null,
+      "source_pages": [
+        "page_0680.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Pro quo ait Rachel : Comparavit me Deus cum sorore mea, et invalui : vocavitque eum Nephtali.",
+      "french": "A la naissance duquel Rachel dit ces paroles : Le Seigneur m'a fait entrer en combat avec ma sœur, et je l'ai emporté sur elle ; c'est pourquoi elle le nomma Nephtali.",
+      "annotations": null,
+      "source_pages": [
+        "page_0680.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Sentiens Lia quod parere desisset, Zelpham ancillam suam marito tradidit.",
+      "french": "Lia voyant qu'elle avait cessé d'avoir des enfants, donna aussi à son mari Zelpha sa servante.",
+      "annotations": null,
+      "source_pages": [
+        "page_0682.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quae post conceptum edente filium,",
+      "french": "Qui conçut, et enfanta un fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0682.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Dixit : Feliciter, et idcirco vocavit nomen ejus, Gad.",
+      "french": "Et Lia dit, heureusement ; c'est pourquoi elle le nomma Gad.",
+      "annotations": null,
+      "source_pages": [
+        "page_0682.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Peperit quoque Zelpha alterum.",
+      "french": "Zelpha eut encore un second fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0683.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Dixitque Lia : Hoc pro beatitudine mea : Beatam quippe me dicent mulieres ; propterea appellavit eum Aser.",
+      "french": "Et Lia dit : C'est pour mon bonheur ; car les femmes m'appelleront bienheureuse. C'est pourquoi elle lui donna le nom d'Aser.",
+      "annotations": null,
+      "source_pages": [
+        "page_0683.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Egressus autem Ruben tempore messis triticeae in agrum, reperit mandragoras : quas matri Liae detulit. Dixitque Rachel : Da mihi partem de mandragoris filii tui.",
+      "french": "Or Ruben étant un jour allé dans les champs, pendant la moisson du froment, il trouva des mandragores, qu'il apporta à Lia sa mère. Et Rachel dit à Lia, donnez-moi des mandragores de votre fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0684.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Illa respondit : Parumne tibi videtur, quod praeripueris maritum mihi, nisi etiam mandragoras filii mei tuleris ? Ait Rachel : Dormiat tecum hac nocte, pro mandragoras filii tui.",
+      "french": "Mais Lia lui répondit : N'est-ce pas assez que vous m'ayez ravi mon mari, sans vouloir encore prendre les mandragores de mon fils ? Rachel lui dit : Je veux bien qu'il demeure avec vous cette nuit, pourvu que vous me donniez de ces mandragores de votre fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0690.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Redeuntique ad vesperam Jacob de agro, egressa est in occursum ejus Lia, et ait, inquit, intrabis : quia mercede conduxi te pro mandragoras filii mei. Dormivitque cum ea nocte illa.",
+      "french": "Lia alla donc au-devant de Jacob, lorsque sur le soir il revenait des champs ; et elle lui dit : Vous ferez avec moi, parce que je vous ai acheté, en donnant à ma sœur les mandragores de mon fils. Et Jacob dormit avec elle cette nuit-là.",
+      "annotations": null,
+      "source_pages": [
+        "page_0690.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et exaudivit Deus preces ejus : concepitque et peperit filium quintum,",
+      "french": "Et Dieu écouta ses prières, et elle conçut et enfanta un cinquième fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0691.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et ait : Dedit Deus mercedem mihi, quia dedi ancillam meam viro meo, appellavitque nomen ejus, Issachar.",
+      "french": "Et elle dit : Dieu m'a récompensée, parce que j'ai donné ma servante à mon mari. Et elle donna à son fils le nom d'Issachar.",
+      "annotations": null,
+      "source_pages": [
+        "page_0691.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Rursum Lia concipiens, peperit sextum filium.",
+      "french": "Lia conçut encore, et accoucha d'un sixième fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0691.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et ait : Dotavit me Deus dote bona : etiam hac vice mecum erit maritus meus, eo quod genuerim ei sex filios : et idcirco appellavit nomen ejus, Zabulon.",
+      "french": "Et elle dit : Dieu m'a doté d'une bonne dot. Mon mari sera avec moi encore cette fois, parce que je lui ai donné six fils, et elle l'apela Zabulon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0692.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Post quem peperit filiam, nomine Dinam.",
+      "french": "Après ces fils, elle eut une fille nommée Dina.",
+      "annotations": null,
+      "source_pages": [
+        "page_0692.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Recordatus quoque Dominus Rachelis, exaudivit eam, et aperuit vulvam ejus.",
+      "french": "Or le Seigneur se souvint aussi de Rachel, il l'exauça, et lui donna la vertu de concevoir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0692.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Quae concepit et peperit filium, dicens : Abstulit Deus opprobrium meum.",
+      "french": "Elle conçut, et enfanta un fils, en disant : Le Seigneur m'a délivré de l'opprobre [ de la stérilité où j'étais : ]",
+      "annotations": null,
+      "source_pages": [
+        "page_0692.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et vocavit nomen ejus Joseph, dicens : Addat mihi Dominus filium alterum.",
+      "french": "Et elle donna à son fils le nom de Joseph, en disant : Que le Seigneur me donne encore un second fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0692.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Nato autem Joseph, dixit Jacob socero suo : Dimitte me ut revertar in patriam, et ad terram meam.",
+      "french": "Après la naissance de Joseph, Jacob dit à son beau-père : Laissez-moi retourner dans ma patrie, et au pays de ma naissance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0693.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Da mihi uxores, et liberos meos, pro quibus servivi tibi, ut abeam : tu nosti servitutem qua servivi tibi.",
+      "french": "Donnez-moi mes femmes et mes enfants, pour lesquels je vous ai servi, afin que je m'en aille. Vous savez les services que je vous ai rendus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0693.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Ait illi Laban : Inveniam gratiam in conspectu tuo : experimento didici, quia benedixerit mihi Deus propter te.",
+      "french": "Laban lui répondit : Que je trouve grâce à vos yeux. J'ai expérimenté que Dieu m'a béni à cause de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0693.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Constitue mercedem tuam quam dem tibi.",
+      "french": "Marquez-moi vous-même la récompense que vous me demandez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0694.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "At ille respondit : Tu nosti quomodo servierim tibi, et quanta in manibus meis fuerit possessio tua.",
+      "french": "Jacob lui répondit : Vous savez de quelle manière je vous ai servi, et jusqu'à quel point votre bien s'est augmenté entre mes mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0694.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Modicum habuisti antequam venirem ad te, nunc dives effectus es : benedixitque tibi Dominus ad introitum meum. Justum est igitur ut aliquando provideam etiam domui meae.",
+      "french": "Vous aviez peu de chose avant que je fusse venu auprès de vous, et à présent vous êtes devenu riche. Dieu vous a béni aussitôt que je suis entré chez vous, Il est juste qu'enfin je pense aussi à établir ma maison.",
+      "annotations": null,
+      "source_pages": [
+        "page_0694.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Dixitque Laban : Quid tibi dabo ? At ille ait : Nihil volo : sed si feceris quod postulo, iterum pascam, et custodiam pecora tua.",
+      "french": "Laban lui dit : Que voulez-vous que je vous donne ? Jacob répondit : Je ne vous demande rien ; mais je m'engage à continuer à paître vos troupeaux, si vous voulez faire ce que je dirai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0695.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Gyra omnes greges tuos, et separa cunctas oves varias et sparso vellere, et quodcumque furvum, et maculosum, variumque fuerit, tam in ovibus quam in capris, erit merces mea.",
+      "french": "Faites la revue de tous vos troupeaux et mettez à part toutes les brebis tachetées, et de diverses couleurs. Et [ à l'avenir ] tout ce qui naîtra de couleur brunette, tacheté, et de diverse couleur, tant dans les brebis que dans les chèvres, sera ma récompense.",
+      "annotations": null,
+      "source_pages": [
+        "page_0695.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Respondebitque mihi cras justitia mea, quando placiti tempus advenerit coram te : et omnia quae non fuerint varia, et maculosa, et furva, tam in ovibus quam in capris, furti me arguent.",
+      "french": "Et ma justice répondra pour moi devant vous, lorsque le temps [ du partage ] sera arrivé ; et tout ce qui se trouvera [ entre mes mains, ] hors les animaux de diverses couleurs, tachetés ou bruns, sera regardé comme un larcin [ que je vous aurai fait. ]",
+      "annotations": null,
+      "source_pages": [
+        "page_0697.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Concepitque tertio, et genuit alium filium, dixitque : Nunc quoque copulabitur mihi maritus meus, eo quod pepererim ei tres filios : idcirco appellavit nomen ejus, Levi.",
+      "french": "Elle conçut et enfanta un troisième fils, et elle dit : Mon mari s'attachera encore plus à moi, puisque je lui ai donné trois fils ; et c'est pour cette raison qu'elle le nomma Levi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0677.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Dixitque Laban : Gratum habeo quod petis.",
+      "french": "Laban lui répondit : Je consens à tout ce que vous me proposez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0697.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Quarto concepit, et peperit filium, et ait : Modo confitebor Domino. Et ob hoc vocavit eum Judam : cessavitque parere.",
+      "french": "Elle conçut pour la quatrième fois, et elle accoucha d'un fils, qu'elle nomma Juda, disant : Maintenant je louerai le Seigneur : Et alors elle cessa d'avoir des enfants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0677.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et separavit in die illa, capras, et oves, et hircos, et arietes, varios atque maculosos : cunctum autem gregem unicolorem, id est, albi et nigri velleris, tradidit in manu filiorum suorum.",
+      "french": "Et le même jour Laban sépara les chèvres et les brebis, les boucs et les béliers tachetés et de diverses couleurs ; et il donna à garder à ses enfants tous les troupeaux, qui étaient d'une seule couleur ; c'est-à-dire, qui étaient tout blancs, ou tout noirs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0698.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et posuit spatium itineris trium dierum inter se et generum, qui pascebat reliquos greges ejus.",
+      "french": "Et il mit l'espace de trois journées de chemin entre lui et son gendre, qui paissait ses autres troupeaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0699.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Tollens ergo Jacob virgas populeas virides, et amygdalinas, et ex platanis, ex parte decorticavit eas : detractisque corticibus, in his quae spoliata fuerant candor apparuit : illa vero quae integra fuerant, viridia permanserunt : atque in hunc modum color effectus est varius.",
+      "french": "Jacob prenant donc des branches vertes de peuplier, d'amandier, et de plane, en ôta une partie de l'écorce ; et ainsi les endroits dont on avait ôté l'écorce, parurent blancs, et ceux auxquels on l'avait laissée demeurèrent verts, ce qui causa une variété de couleur dans ces branches.",
+      "annotations": null,
+      "source_pages": [
+        "page_0699.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Posuitque eas in canalibus , ubi effundebatur aqua : ut cum venissent greges ad bibendum , ante oculos haberent virgas, et in aspectu earum conciperent.",
+      "french": "Il les mit sur les abreuvoirs où l’on versait l’eau, afin que les troupeaux y venant boire, eussent ces branches devant les yeux, et qu’ils conçussent en les regardant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0700.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Factumque est ut in ipso calore coitus, oves intuerentur virgas, et parerent maculosa, et varia, et diverso colore respersa.",
+      "french": "Et il arriva que les brebis étant en chaleur, et considérant ces branches, conçurent des agneaux mouchetés, tachetés et de diverses couleurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0700.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Divisitque gregem Jacob, et posuit virgas in canalibus ante oculos arietum : erant autem alba et nigra quaeque, Laban ; caetera vero, Jacob, separatis inter se gregibus.",
+      "french": "Et Jacob divisa son troupeau, et mit ces branches sur les canaux devant les yeux des béliers ; or tout ce qui était tout blanc et tout noir était à Laban, et tout le reste était à Jacob ; leurs troupeaux demeurant séparés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0701.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Igitur quando primo tempore ascendebantur oves, ponebat Jacob virgas in canalibus aquarum ante oculos arietum et ovium, ut in earum contemplatione conciperent :",
+      "french": "Lors donc que les brebis devaient concevoir au Printemps, Jacob mettait les branches sur les abreuvoirs, devant les yeux des béliers et des brebis, afin qu'elles conçussent en les regardant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0702.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Quando vero serotina admissura erat, et conceptus extremus, non ponebat eas. Factaeque sunt ea quae erant serotina, Laban ; et quae primi temporis, Jacob.",
+      "french": "Quand au contraire les brebis devaient concevoir sur l'arrière saison, et pour la seconde portée, Jacob n'exposait point les branches. Ainsi tous les moutons conçus en Automne étaient pour Laban, et ceux du Printemps pour Jacob.",
+      "annotations": null,
+      "source_pages": [
+        "page_0702.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Ditatusque est homo ultra modum, et habuit greges multos, ancillas et servos, camelos et asinos.",
+      "french": "Et par ce moyen Jacob devint extraordinairement riche, il eut plusieurs troupeaux, grand nombre d'esclaves de l'un et de l'autre sexe, des chameaux et des ânes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0703.json"
+      ]
+    }
+  ]
+}

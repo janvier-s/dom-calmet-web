@@ -1,0 +1,592 @@
+{
+  "book": "Genèse",
+  "chapter": 24,
+  "chapter_summary": "Voyage d'Éliézer Intendant d'Abraham, en Mésopotamie ; il demande et obtient Rebecca pour femme à Isaac. Son retour.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Erat autem Abraham senex, dierumque multorum, et Dominus in cunctis benedixerat ei.",
+      "french": "Or Abraham était vieux, et fort avancé en âge, et Dieu l'avait béni en toutes choses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0588.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Dixitque ad servum seniorem domus suae, qui praeerat omnibus quæ habebat : Pone manum tuam subter femur meum,",
+      "french": "Il dit donc au plus ancien de ses serviteurs, qui avait l'intendance sur toute sa maison ; Mettez votre main sous ma cuisse,",
+      "annotations": null,
+      "source_pages": [
+        "page_0588.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Ut adjurem te per Dominum, Deum coeli et terrae, ut non accipias uxorem filio meo de filiabus Chananaorum, inter quos habito.",
+      "french": "Afin que je vous fasse jurer au nom du Seigneur, du Dieu du Ciel et de la terre, que vous ne prendrez aucune des filles des Cananéens, au milieu desquels j'habite, pour la faire épouser à mon fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0589.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Sed ad terram et cognationem meam proficiscari, et inde accipias uxorem filio meo Isaac.",
+      "french": "Mais que vous irez dans le pays où sont mes parents, afin d'y prendre une femme pour mon fils Isaac.",
+      "annotations": null,
+      "source_pages": [
+        "page_0590.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Respondit servus : Si noluerit mulier venire mecum in terram hanc, numquid reducere debeo filium tuum ad locum, de quo tu egressus es ?",
+      "french": "Son serviteur répondit : Si la femme ne veut point venir avec moi dans cette terre, voulez-vous que je ramène votre fils au lieu d'où vous êtes sorti ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0591.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dixitque Abraham : Cave nequando reducas filium meum illuc.",
+      "french": "Abraham répondit : Gardez-vous bien de ramener mon fils dans ce pays-là.",
+      "annotations": null,
+      "source_pages": [
+        "page_0591.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Dominus Deus caeli qui tulit me de domo patris mei, et de terra nativitatis meæ, qui locutus est mihi, et juravit mihi, dicens : Semini tuo dabo terram hanc : ipse mittet Angelum suum coram te, et accipies inde uxorem filio meo.",
+      "french": "Le Seigneur, le Dieu du Ciel, qui m'a fait sortir de la maison de mon père, et du lieu de ma naissance, qui m'a promis avec serment de donner ce pays à ma postérité : enverra lui-même son Ange devant vous, afin que vous preniez une femme de ce pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0591.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Sin autem mulier noluerit sequi te, non teneberis juramento : filium meum tantùm ne reducas illuc.",
+      "french": "Que si la fille ne veut pas vous suivre, vous serez dégagé de votre serment : Mais ne menez jamais mon fils dans ce pays-là.",
+      "annotations": null,
+      "source_pages": [
+        "page_0591.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Posuit ergo servus manum sub femore Abraham Domini sui, et juravit illi super sermone hoc.",
+      "french": "Ce serviteur mit donc sa main sous la cuisse d'Abraham son maître, et il s'engagea avec serment de faire ce qu'il lui avait dit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0591.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Tulitque decem camelos de grege domini sui, et abiit ex omnibus bonis ejus portans secum, profectusque perrexit in Mesopotamiam ad urbem Nachor.",
+      "french": "En même temps ayant pris dix chameaux des troupeaux de son maître, il partit portant avec lui de tous les biens d'Abraham, et il alla droit en Mésopotamie, en la Ville [ où demeurait ] Nachor.",
+      "annotations": null,
+      "source_pages": [
+        "page_0592.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Cumque Camelos fecisset accumbere extra oppidum juxta puteum aquae vespere, tempore quo solent mulieres egredi ad hauriendam aquam, dixit:",
+      "french": "Étant arrivé sur le soir près d'un puits hors de la Ville, dans le temps où les femmes sortent pour aller puiser de l'eau, il fit reposer ses chameaux, et il fit cette prière à Dieu:",
+      "annotations": null,
+      "source_pages": [
+        "page_0592.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Domine Deus domini mei Abraham, occurre, obsecro, mihi hodie, et fac misericordiam cum domino meo Abraham.",
+      "french": "Seigneur, Dieu d'Abraham mon maître, assistez-moi aujourd'hui, je vous prie, et donnez des marques de votre bonté à Abraham mon Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0592.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Ecce ego sto prope fontem aquae, et filiæ habitatorum hujus civitatis egredientur ad hauriendam aquam.",
+      "french": "Me voici près de cette fontaine, et les filles des habitants de la Ville vont sortir pour puiser de l'eau.",
+      "annotations": null,
+      "source_pages": [
+        "page_0592.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Igitur puella, cui ego dixero : Inclina hydriam tuam ut bibam ; et illa responderit, bibe, quin et camelis tuis dabo potum : ipsa est, quam praeparasti servo tuo Isaac : et per hoc intelligam quòd feceris misericordiam cum domino meo.",
+      "french": "Je vous prie donc de faire que la fille à qui je dirai, baissez votre cruche, et donnez-moi à boire, et qui me répondra, buvez, et je donnerai aussi à boire à vos chameaux ; que cette fille soit celle que vous avez destinée pour femme à Isaac votre serviteur, et que je connaisse par là que vous avez favorisé mon maître par un effet de votre miséricorde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0593.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Necdum intra se verba compleverat, et ecce Rebecca egrediebatur, filia Bathuel, filii Melchae uxoris Nachor fratris Abraham, habens hydriam in scapula sua.",
+      "french": "Il n'avait point encore achevé ce discours dans lui-même, que Rebecca fille de Bathuel, fils de Melcha et de Nachor frère d'Abraham, parut avec une cruche pleine d'eau sur son épaule.",
+      "annotations": null,
+      "source_pages": [
+        "page_0593.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Puella decora nimis , virgoque pulcherrima, et incognita viro : descenderat autem ad fontem, et impleverat hydriam, ac revertebatur.",
+      "french": "C'était une fille fort bien faite ; une vierge parfaitement belle et inconnue à tout homme ; elle était venue à la fontaine, et ayant rempli son vaisseau, elle s'en retournait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0594.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Occurritque ei servus, et ait : Pauxillum aquae mihi ad bibendum praebe de hydria tua.",
+      "french": "Et le serviteur alla donc au devant d'elle, et lui dit : donnez-moi un peu à boire de l'eau de votre cruche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0594.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Quæ respondit : Bibe Domine mi ; celeriterque deposuit hydriam super ulnam suam, et dedit ei potum.",
+      "french": "Elle lui répondit : Buvez, mon Seigneur ; et mettant promptement sa cruche de dessus son épaule sur son bras, elle lui donna à boire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0595.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Cumque ille bibisset, adjecit : Quin et camelis tuis hauriam aquam, donec cuncti bibant.",
+      "french": "Et après qu'il eut bu, elle ajouta : Je m'en vais aussi tirer de l'eau pour vos chameaux, jusqu'à ce qu'ils aient tous bu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0595.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Effundensque hydriam in canalibus, recurrit ad puteum ut hauriret aquam : et haustam omnibus camelis dedit.",
+      "french": "Et versant l'eau de son vaisseau dans les canaux, elle recourut au puits pour en tirer d'autre, qu'elle vint ensuite donner à tous les chameaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0595.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Ipse autem contemplabatur eam tacitus, scire volens utrum prosperum iter suum fecisset Dominus, an non.",
+      "french": "Cependant le serviteur la considérait sans rien dire, voulant savoir si Dieu avait donné un heureux succès à son voyage, ou non.",
+      "annotations": null,
+      "source_pages": [
+        "page_0595.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Postquam autem biberunt cameli, protulit vir inaures aureas, appendentes siclos duos, et armillas totidem, pondo siclorum decem.",
+      "french": "Et après que les chameaux furent abreuvés, il tira des pendants d'oreille d'or, qui pesaient deux sicles, et autant de bracelets, qui en pesaient dix ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0595.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Dixitque ad eam : Cujus es filia, indica mihi : est in domo patris tui locus ad manendum ?",
+      "french": "Et il lui dit : De qui êtes-vous fille ? dites-le moi, je vous prie. Y a-t il dans la maison de votre père de la place pour loger ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0596.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Quæ respondit : Filia sum Bathuelis, filii Melchae, quem peperit ipsi Nachor.",
+      "french": "Elle répondit : Je suis fille de Bathuel, fils de Melcha et de Nachor.",
+      "annotations": null,
+      "source_pages": [
+        "page_0596.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et addidit, dicens : Palearum quoque, et foeni plurimum est apud nos, et locus spatiosus ad manendum.",
+      "french": "Elle ajouta : Il y a chez nous beaucoup de paille et de foin, et bien du lieu pour loger.",
+      "annotations": null,
+      "source_pages": [
+        "page_0596.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Inclinavit se homo, et adoravit Dominum ;",
+      "french": "Cet homme s'inclina profondément, et adora le Seigneur,",
+      "annotations": null,
+      "source_pages": [
+        "page_0597.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Dicens : Benedictus Dominus Deus domini mei Abraham, qui non abstulit misericordiam et veritatem suam à domino meo, et recto itinere me perduxit in domum fratris domini mei.",
+      "french": "En disant : Béni soit le Seigneur, le Dieu d'Abraham mon maître, qui n'a point retiré de lui ses bontés, et qui a accompli envers lui la vérité de ses promesses, et qui m'a amené droit dans la maison du frère de mon maître.",
+      "annotations": null,
+      "source_pages": [
+        "page_0597.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Cucurrit itaque puella, et nuntiavit in domum matris suae omnia quæ audierat.",
+      "french": "La fille courut donc à la maison de sa mère, et lui raconta tout ce qu'elle avait entendu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0597.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Habebat autem Rebecca fratrem nomine Laban, qui subitus egressus est ad hominem, ubi erat fons.",
+      "french": "Or Rebecca avait un frère nommé Laban, qui sortit aussitôt pour aller trouver cet homme près la fontaine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0597.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Cumque vidisset inaures et armillas in manibus sororis suae, et audisset cuncta verba referentis : Haec locutus est mihi homo : venit ad virum, qui stabat juxta camelos, et prope fontem aquae.",
+      "french": "Et ayant [ déjà ] vu les pendants d'oreille, et les bracelets aux mains de sa sœur, qui lui avait rapporté tout ce que cet homme lui avait dit : il vint à lui lorsqu'il était encore près de la fontaine avec les chameaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0598.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Dixitque ad eum: Ingredere, benedicte Domini : cur foris stas ? praeparavi domum, et locum camelis.",
+      "french": "Et il lui dit : Entrez le béni du Seigneur, pourquoi demeurez-vous dehors ? Le logis est préparé, et il y a de la place pour vos chameaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0598.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et introduxit eum in hospitium : ac destravit camelos, deditque paleas et foenum, et aquam ad lavandos pedes ejus, et virorum qui venerant cum eo.",
+      "french": "Il le fit entrer aussitôt dans la maison : il déchargea les chameaux, il leur donna de la paille et du foin, il apporta de l'eau pour lui laver les pieds, et à ceux qui étaient venus avec lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0598.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Et appositus est in conspectu ejus panis: Qui ait : non comedam, donec loquar sermones meos : Respondit ei ; Loquere.",
+      "french": "En même temps on lui servit à manger : mais le serviteur leur dit : Je ne mangerai point, jusqu'à ce que je vous aie exposé le sujet de mon voyage : [ Laban ] répondit ; Vous le pouvez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0598.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "At ille : Servus, inquit, Abraham sum :",
+      "french": "Et il leur parla de cette forte : Je suis serviteur d'Abraham :",
+      "annotations": null,
+      "source_pages": [
+        "page_0599.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et Dominus benedixit domino meo valde, magnificatusque est : et dedit ei oves et boves, argentum et aurum, servos et ancillas, camelos et asinos.",
+      "french": "Le Seigneur a comblé mon maître de bénédictions, il l'a rendu grand et riche ; il lui a donné des brebis et des bœufs, de l'argent et de l'or, des serviteurs et des servantes, des chameaux et des ânes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0599.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et peperit Sara uxor domini mei filium domino meo in senectute sua, deditque illi omnia quæ habuerat.",
+      "french": "Et Sara la femme de mon maître lui a enfanté dans sa vieillesse un fils, à qui il a donné tout ce qu'il avait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0599.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Et adjuravit me dominus meus, dicens : Non accipies uxorem filio meo de filiabus Chananæorum, in quorum terra habito :",
+      "french": "Il m'a fait jurer devant lui, en me disant : Promettez-moi que vous ne prendrez aucune des filles des Cananéens, dans le pays desquels j'habite, pour la faire épouser à mon fils :",
+      "annotations": null,
+      "source_pages": [
+        "page_0599.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Sed ad domum patris mei perges et de cognatione mea accipies uxorem filio meo.",
+      "french": "Mais que vous irez à la maison de mon père, et que vous prendrez parmi ceux de ma parenté une femme pour mon fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0600.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Ego verò respondi domino meo : Quid si nolueris venire mecum mulier ?",
+      "french": "Et sur ce que je dis alors à mon maître : Mais si la fille ne veut point venir avec moi ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0600.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Dominus, ait, in cujus conspectu ambulo, mittet Angelum suum tecum, et diriget viam tuam : accipiesque uxorem filio meo de cognatione mea et de domo patris mei.",
+      "french": "Il me répondit : Le Seigneur, en présence duquel je marche, enverra son Ange avec vous, et vous conduira dans votre chemin, afin que vous preniez une femme pour mon fils qui soit de ma parenté et de la maison de mon père.",
+      "annotations": null,
+      "source_pages": [
+        "page_0600.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Innocens eris à maledictione mea, cum veneris ad propinquos meos, et non dederint tibi.",
+      "french": "Vous serez exempt de parjure, et dégagé de votre serment, si lorsque vous serez arrivé chez mes parents ils vous refusent [ ce que vous leur demanderez. ]",
+      "annotations": null,
+      "source_pages": [
+        "page_0600.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Veni ergo hodie ad fontem aquae, et dixi : Domine Deus domini mei Abraham, si direxisti viam meam, in qua nunc ambulo.",
+      "french": "Je suis donc arrivé aujourd'hui près de la fontaine, et j'ai fait cette prière : Seigneur, Dieu d'Abraham mon maître, si vous avez donné un heureux succès au voyage que j'ai entrepris.",
+      "annotations": null,
+      "source_pages": [
+        "page_0601.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Ecce sto juxta fontem aquae ; et virgo, quæ egredietur ad hauriendam aquam, audierit à me : Da mihi pauxillum aquæ ad bibendum ex hydria tua,",
+      "french": "Me voici près de cette fontaine ; faites, s'il vous plaît, que celle d'entre les filles qui viendront pour puiser de l'eau, à qui je dirai : donnez-moi un peu à boire de l'eau de votre cruche,",
+      "annotations": null,
+      "source_pages": [
+        "page_0601.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Et dixerit mihi : Et tu bibe, et camelis tuis hauriam : ipsa est mulier quam praeparavit Dominus filio domini mei.",
+      "french": "Et qui me répondra : buvez, et je m'en vais en tirer pour vos chameaux : soit celle que le Seigneur a destinée pour être la femme du fils de mon maître.",
+      "annotations": null,
+      "source_pages": [
+        "page_0601.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Dumque haec tacitus mecum volverem, apparuit Rebecca veniens cum hydria quam portabat in scapula, descenditque ad fontem, et hausit aquam ; Et aio ad eam : Da mihi paululum bibere.",
+      "french": "Et comme je m'entretenais secrètement de cette pensée dans mon esprit, j'ai aperçu Rebecca qui venait avec sa cruche sur son épaule, et qui étant descendue à la fontaine, y avait puisé de l'eau ; je lui ai dit : Donnez-moi un peu à boire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0601.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Quæ festinans deposuit hydriam de humero, et dixit mihi : Et tu bibe, et camelis tuis tribuam potum. Bibi, et adaequavit camelos.",
+      "french": "Elle aussitôt ôtant son vaisseau de dessus son épaule, m'a dit ; Buvez, et je vais donner aussi à boire à vos chameaux. J'ai donc bu, et elle a abreuvé mes chameaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0602.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Interrogavique eam et dixi ; Cujus es filia ? Quæ respondit : Filia Bathuelis filii Nachor, quem peperit ei Melcha ; Suspendique inaures ad ornandam faciem ejus, et armillas posui in manibus ejus.",
+      "french": "Je l'ai ensuite interrogé, et je lui ai dit : De qui êtes-vous fille ? Elle m'a répondu : Je suis fille de Bathuël, fils de Nachor et de Melcha ; et je lui ai mis des pendants pour parer son visage, et j'ai mis des bracelets à ses mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0602.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Pronusque adoravi Dominum, benedicens Domino Deo domini mei, Abraham, qui perduxit me recto itinere, ut sumerem filiam fratris Domini mei filio ejus.",
+      "french": "Et aussitôt, me baissant profondément, j'ai adoré le Seigneur, et j'ai béni le Dieu d'Abraham mon maître, qui m'a conduit par le droit chemin, afin que je prisse la fille du frère de mon maître pour femme à son fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0602.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Quamobrem si facitis misericordiam et veritatem cum Domino meo, indicate mihi: sin autem aliud placet, et hoc dicite mihi ; ut vadam ad dexteram, sive ad sinistram.",
+      "french": "C'est pourquoi si vous avez véritablement dessein d'obliger mon maître, dites-le moi : Que si vous avez pris d'autres résolutions, dites-le moi aussi, afin que j'aille à droit ou à gauche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0602.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Responderuntque Laban et Bathuel : A Domino egressus est sermo : non possumus extra placitum ejus quidquam aliud loqui tecum.",
+      "french": "Mais Laban et Bathuël répondirent : C'est le Seigneur qui nous marque sa volonté dans cette affaire : Nous ne pouvons vous dire autre chose que ce qui paraît conforme à sa volonté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0602.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "En Rebecca coram te est, tolle eam, et proficiscere, et sit uxor filii domini tui, sicut locutus est Dominus.",
+      "french": "Rebecca est devant vous, prenez-la et l'emmenez avec vous ; Qu'elle soit l'épouse du fils de votre maître, selon que le Seigneur s'en est déclaré.",
+      "annotations": null,
+      "source_pages": [
+        "page_0602.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Quod cum audisset puer Abraham, procidens adoravit in terram Dominum.",
+      "french": "Le serviteur d'Abraham ayant reçu cette réponse, s'inclina jusqu'à terre, et adora le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0603.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Prolatisque vasis argenteis, et aureis, ac vestibus, dedit ea Rebeccae pro munere : fratribus quoque ejus et matri dona obtulit.",
+      "french": "Et ayant tiré des vases d'or et d'argent, et des vêtements, il en fit présent à Rebecca : Il fit aussi des présents à ses frères et à sa mère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0603.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Inito convivio, vescentes pariter et bibentes manserunt ibi ; surgens autem mane, locutus est puer : Dimittite me, ut vadam ad dominum meum.",
+      "french": "Alors s'étant mis à table, ils mangèrent et burent ensemble, et demeurèrent [chez Laban ce jour là ;] et le lendemain matin le serviteur d'Abraham leur dit : Permettez-moi de retourner vers mon maître.",
+      "annotations": null,
+      "source_pages": [
+        "page_0603.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Responderuntque fratres ejus et mater: Maneat puella saltem decem dies apud nos, et postea proficiscetur.",
+      "french": "Mais les frères et la mère de Rebecca répondirent, que la fille demeurera au moins dix jours avec nous, et après elle s'en ira.",
+      "annotations": null,
+      "source_pages": [
+        "page_0603.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "Nolite, ait, me retinere, quia Dominus direxit viam meam: dimittite me ut pergam ad dominum meum.",
+      "french": "Ne me retenez pas, leur répondit-il, puisque le Seigneur m'a conduit dans tout mon voyage ; permettez-moi d'aller retrouver mon maître.",
+      "annotations": null,
+      "source_pages": [
+        "page_0604.json"
+      ]
+    },
+    {
+      "verse_number": 57,
+      "latin": "Et dixerunt: Vocemus puellam et quæramus ipsius voluntatem.",
+      "french": "Et ils dirent: Appelons la fille, et demandons-lui son sentiment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0604.json"
+      ]
+    },
+    {
+      "verse_number": 58,
+      "latin": "Cumque vocata venisset, sciscitati sunt: Vis ire cum homine isto ? Quæ ait: Vadam.",
+      "french": "On l'appela donc ; et comme elle fut venue, ils leur dirent: Voulez-vous bien partir [à présent] avec cet homme ? Je le veux bien, répondit-elle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0604.json"
+      ]
+    },
+    {
+      "verse_number": 59,
+      "latin": "Dimiserunt ergo eam et nutricem illius, servumque Abraham, et comites ejus.",
+      "french": "Ils la laissèrent donc aller accompagnée de sa nourrice, avec le serviteur d'Abraham et ses compagnons.",
+      "annotations": null,
+      "source_pages": [
+        "page_0604.json"
+      ]
+    },
+    {
+      "verse_number": 60,
+      "latin": "Imprecantes prospera sorori suae, atque dicentes : Soror nostra es, crescas in mille millia : et possideat semen tuum portas inimicorum suorum.",
+      "french": "Faisant des souhaits et des vœux pour sa prospérité, en disant : Vous êtes notre sœur, croissez en mille générations : que votre postérité possède les portes de ses ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0605.json"
+      ]
+    },
+    {
+      "verse_number": 61,
+      "latin": "Igitur Rebecca et puellae illius, ascensis camelis secutae sunt virum, qui festinus revertebatur ad Dominum suum.",
+      "french": "Rebecca et ses filles étant donc montées sur des chameaux, suivirent cet homme, qui s'en retourna en grande diligence vers son maître.",
+      "annotations": null,
+      "source_pages": [
+        "page_0605.json"
+      ]
+    },
+    {
+      "verse_number": 62,
+      "latin": "Eo autem tempore deambulabat Isaac per viam quæ ducit ad puteum, cujus nomen est Viventis et videntis : habitabat enim in terra australi.",
+      "french": "En ce même temps Isaac se promenait dans le chemin qui conduit au puits de celui qui vit et qui voit : car alors il demeurait dans la partie méridionale [du pays de Canaan.]",
+      "annotations": null,
+      "source_pages": [
+        "page_0605.json"
+      ]
+    },
+    {
+      "verse_number": 63,
+      "latin": "Et egressus fuerat ad meditandum in agro, inclinata jam die : cumque elevasset oculos vidit camelos venientes procul.",
+      "french": "Et il était sorti sur le soir à la campagne pour méditer ; et ayant élevé les yeux, il vit de loin venir des chameaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0606.json"
+      ]
+    },
+    {
+      "verse_number": 64,
+      "latin": "Rebecca quoque, conspecto Isaac, descendit de camelo ;",
+      "french": "Et Rebecca ayant aperçu Isaac, descendit de dessus son chameau ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0606.json"
+      ]
+    },
+    {
+      "verse_number": 65,
+      "latin": "Et ait ad puerum : Quis est ille homo qui venit per agrum in occursum nobis ? Dixit ei : Ipse est dominus meus ; at illa tollens pallium, operuit se.",
+      "french": "Et elle dit au serviteur : Qui est cet homme qui vient le long du champ au devant de nous ? Il répondit : c’est mon maître ; et elle prit aussitôt son voile et s’en couvrit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0606.json"
+      ]
+    }
+  ]
+}

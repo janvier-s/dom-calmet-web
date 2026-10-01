@@ -1,0 +1,376 @@
+{
+  "book": "Genèse",
+  "chapter": 42,
+  "chapter_summary": "Arrivée des frères de Joseph en l'Égypte. Il les traite d'espions, fait arrêter Siméon, et ne renvoie les autres, qu'à condition qu'ils lui amènent Benjamin.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Audiens autem Jacob quod alimenta venderentur in Aegypto, dixit filiis suis : Quare negligitis ?",
+      "french": "Cependant Jacob ayant appris qu'on vendait du blé en Égypte, dit à ses fils, pourquoi négligez-vous ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0842.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Audivi quod triticum venundetur in Aegypto : descendite et emite nobis necessaria, ut possimus vivere, et non consumamur inopia.",
+      "french": "J'ai appris qu'on vend du blé en Égypte, allez-y acheter ce qui nous est nécessaire, afin que nous ne mourions pas de faim.",
+      "annotations": null,
+      "source_pages": [
+        "page_0842.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Descendentes igitur fratres Joseph decem, ut emerent frumenta in Aegypto.",
+      "french": "Les dix frères de Joseph allèrent donc en Égypte, pour y acheter du blé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0843.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Benjamin autem retento a Jacob, qui dixerat fratribus ejus : Ne forte in itinere quidquam patiatur mali :",
+      "french": "Et Jacob retint Benjamin dans la maison, en disant à ses frères, qu'il craignait qu'il ne lui arrivât quelque accident dans le chemin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0843.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Ingressi sunt terram Aegypti cum aliis qui pergebant ad emendum. Erat autem fames in terra Chanaan.",
+      "french": "Et étant arrivés dans l'Égypte, avec les autres qui y allaient, pour acheter du blé ; car la famine était dans la terre de Canaan.",
+      "annotations": null,
+      "source_pages": [
+        "page_0843.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et Joseph erat princeps in terra Aegypti, atque ad ejus nutum frumenta populis vendebantur. Cumque adorassent eum fratres sui,",
+      "french": "Ils trouvèrent que Joseph commandait dans l'Égypte, et que c'était par son ordre qu'on vendait les blés aux peuples. Ils vinrent donc se prosterner devant lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0843.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et agnovisset eos, quasi ad alienos durius loquebatur, interrogans eos : Unde venistis ? Qui responderunt : De terra Chanaan, ut emamus victui necessaria.",
+      "french": "Et Joseph les ayant reconnus, leur parla durement, et comme à des inconnus, et leur dit : D'où venez-vous ? Ils répondirent : Nous venons de la terre de Canaan, pour acheter ici de quoi vivre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0843.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et tamen fratres ipse cognoscens, non est cognitus ab eis.",
+      "french": "Et ses frères ne le reconnurent pas, quoiqu'il les eût fort bien reconnus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0844.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Recordatusque somniorum, quae aliquando viderat, ait ad eos : Exploratores estis ; ut videatis infirmiora terrae venistis.",
+      "french": "Alors se ressouvenant des songes qu'il avait eûs autrefois, il leur dit : Vous êtes des espions, et vous venez ici pour considerer les endroits les plus foibles du pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0844.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Qui dixerunt : Non est ita, domine, sed servi tui venerunt ut emerent cibos.",
+      "french": "Ils répondirent : Seigneur, nous ne sommes point venus pour cela : vos serviteurs ne viennent ici que pour acheter du blé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0844.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Omnes filii unius viri sumus ; pacifici venimus, nec quidquam famuli tui machinantur mali.",
+      "french": "Nous sommes tous enfans d'un seul homme, nous sommes venus avec des sentimens de paix, et vos serviteurs n'ont aucun mauvais dessein.",
+      "annotations": null,
+      "source_pages": [
+        "page_0844.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Quibus ille respondit : Aliter est ; immunita terrae hujus considerare venistis.",
+      "french": "Joseph leur répondit : Non cela n'est pas ; mais vous venez pour observer ce qu'il y a de moins fortifié dans l'Egypte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0845.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "At illi : Duodecim, inquiunt, servi tui, fratres sumus, filii viri unius in terra Chanaan : minimus cum patre nostro est, alius non est super.",
+      "french": "Ils répliquerent : Nous sommes douze frères, et vos serviteurs, tous enfans d'un même père, qui demeure dans le pays de Canaan ; le dernier de tous est demeuré avec notre père, et l'autre n'est plus au monde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0845.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Hoc est, ait, quod locutus sum : exploratores estis.",
+      "french": "Voilà, dit Joseph, ce que je vous ai dit : Vous êtes des espions.",
+      "annotations": null,
+      "source_pages": [
+        "page_0845.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Jam nunc experimentum vestri capiam : per salutem Pharaonis, non egrediemini hinc, donec veniat frater vester minimus.",
+      "french": "Je m'en vais éprouver si vous dites la verité. Par la vie de Pharaon, vous ne sortirez point d'ici, jusqu'à ce que le dernier de vos frères y soit venu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0845.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Mittite ex vobis unum, et adducat eum : Vos autem eritis in vinculis, donec probentur quae dixistis utrum vera an falsa sint : alioquin per salutem Pharaonis exploratores estis.",
+      "french": "Envoyez-le querir par l'un de vous, et qu'il l'amène ; cependant vous demeurerez en prison, jusqu'à ce que j'aye des assurances, si ce que vous dites est vrai ou faux ; autrement, par la vie de Pharaon, je vous traiteray comme des espions.",
+      "annotations": null,
+      "source_pages": [
+        "page_0846.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Tradidit ergo illos custodia tribus diebus.",
+      "french": "Il les fit donc mettre en prison pour trois jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0846.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Die autem tertio eductis de carcere, ait : Facite quae dixi, et vivetis ; Deum enim timeo.",
+      "french": "Et le troisième jour il les fit sortir de prison, et leur dit : Faites ce que je vous ai dit, si vous voulez conserver votre vie : car je crains Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0846.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Si pacifici estis, frater vester unus ligetur in carcere : Vos autem abite, et ferte frumenta quae emistis in domos vestras,",
+      "french": "Si vous venez ici dans un esprit de paix, que l'un de vos frères demeure dans les liens en prison ; et vous autres vous pouvez vous en aller, et emporter le froment que vous avez acheté ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0847.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et fratrem vestrum minimum ad me adducite, ut possim vestros probare sermones, et non moriamini. Fecerunt ut dixerat,",
+      "french": "Et amenez-moi le plus jeune de vos frères, afin que je puisse connaître la verité de ce que vous dites, et que vous ne mouriez point. Ils firent ce qu'il leur avait commandé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0847.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Et locuti sunt ad invicem : Merito haec patimur, quia peccavimus in fratrem nostrum, videntes angustiam animae illius, dum deprecaretur nos, et non audivimus : idcirco venit super nos ista tribulatio.",
+      "french": "Et ils se disaient l'un à l'autre, c'est avec justice que nous souffrons tout ceci, parce que nous avons péché contre notre frère, et que voyant la douleur de son ame, lorsqu'il nous conjurait [d'avoir compassion de lui,] nous ne voulumes point l'écouter : c'est pour cela que nous sommes tombez dans l'affliction.",
+      "annotations": null,
+      "source_pages": [
+        "page_0847.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "E quibus unus Ruben, ait : Nunquid non dixi vobis : Nolite peccare in puerum : et non audistis me ? en sanguis ejus exquiritur.",
+      "french": "Ruben l'un d'entr'eux leur dit, ne vous dis-je pas alors, ne commettez point un si grand crime contre cet enfant, et vous ne voulûtes point m'écouter ? et aujourd'hui Dieu nous redemande son sang.",
+      "annotations": null,
+      "source_pages": [
+        "page_0848.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Nesciebant autem quod intelligeret Joseph, eo quod per interpretem loqueretur ad eos.",
+      "french": "Or ils ne savaient pas que Joseph les entendît, parce qu'il leur avait parlé par un truchement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0848.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Avertitque se parumper, et flevit : reversus locutus est ad eos.",
+      "french": "Et il se retira pour un peu de temps, pour laisser couler ses larmes ; et étant revenu, il leur parla.",
+      "annotations": null,
+      "source_pages": [
+        "page_0848.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Tollensque Simeon, et ligans illis praesentibus, jussit ministris ut implerent saccos tritico, et reponerent pecunias singulorum in sacculis suis, datis supra cibariis in viam : qui fecerunt ita.",
+      "french": "Et ayant fait prendre Simeon, il le fit lier en leur présence ; et il ordonna à ses gens d'emplir leurs sacs de blé, et de remettre dans le sac de chacun d'eux, l'argent qu'ils avaient donné, et d'y ajouter encore des vivres pour leur voyage ; ce qui fut executé aussitôt.",
+      "annotations": null,
+      "source_pages": [
+        "page_0848.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "At illi portantes frumenta in asinis suis, profecti sunt.",
+      "french": "Les frères de Joseph partirent donc avec leurs ânes chargez de froment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0848.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Aperiensque unus sacco, ut daret jumento pabulum in diversorio, contemplatus pecuniam in ore sacculi,",
+      "french": "Et étant arrivez à l'hôtellerie, l'un d'eux ouvrit son sac pour donner à manger à son âne, et il vit son argent à l'entrée de son sac ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0849.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Dixit fratribus suis : Reddita est mihi pecunia, en habetur in sacco. Et obstupefacti turbatique, mutuo dixerunt : Quidnam est hoc quod fecit nobis Deus ?",
+      "french": "Et il dit à ses frères, on m'a rendu mon argent, le voici dans mon sac ; et ils furent tous saisis d'étonnement et de crainte ; et ils se disaient l'un à l'autre, pourquoi Dieu nous traite-t-il de cette sorte ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0849.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Veneruntque ad Jacob patrem suum in terram Chanaan, et narraverunt ei omnia quae accidissent sibi, dicentes :",
+      "french": "Et étant arrivez chez Jacob leur père dans la terre de Canaan, ils lui firent le récit de tout ce qui leur était arrivé, en disant :",
+      "annotations": null,
+      "source_pages": [
+        "page_0849.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Locutus est nobis dominus terrae dure, et putavit nos exploratores esse provinciae.",
+      "french": "Le Gouverneur de ce pays nous a parlé durement, et nous a pris pour des Espions, qui venaient observer le pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0849.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Cui respondimus : Pacifici sumus, nec ullas molimur insidias.",
+      "french": "Nous lui avons répondu : Nous sommes venus dans un esprit de paix, et nous n'avons aucun mauvais dessein.",
+      "annotations": null,
+      "source_pages": [
+        "page_0849.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Duodecim fratres uno patre geniti sumus : unus non est super, minimus cum patre nostro est in terra Chanaan.",
+      "french": "Nous étions douze frères, et enfans d'un même père ; l'un de nous n'est plus au monde, et le plus jeune est demeuré avec notre père dans le pays de Canaan.",
+      "annotations": null,
+      "source_pages": [
+        "page_0849.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Qui ait nobis : Sic probabo quod pacifici sitis : Fratrem vestrum unum dimittite apud me, et cibaria domibus vestris necessaria sumite, et abite.",
+      "french": "Il nous a répondu : Je veux éprouver s'il est vrai que vous soyez gens paisibles ; laissez-moi ici l'un de vos frères ; prenez le blé qui est necessaire pour la nourriture de vos maisons, et vous en allez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0849.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Fratremque vestrum minimum adducite ad me, ut sciam quod non sitis exploratores : et istum, qui tenetur in vinculis, recipere possitis : ac deinceps quae vultis, emendi habeatis licentiam.",
+      "french": "Amenez-moi le plus jeune de vos frères, afin que je sache que vous n'êtes point des espions, et que je vous rende celui que je retiens prisonnier, et qu'à l'avenir vous ayez la liberté d'acheter ici [ ce qui vous est nécessaire. ]",
+      "annotations": null,
+      "source_pages": [
+        "page_0850.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "His dictis, cum frumenta effunderent, singuli repererunt in ore saccorum ligatas pecunias : exterritisque simul omnibus.",
+      "french": "Après avoir dit ces choses ; comme chacun d'eux vint à vider son sac, ils trouvèrent leur argent lié à l'entrée de leurs sacs ; ce qui les jeta tous dans l'épouvante.",
+      "annotations": null,
+      "source_pages": [
+        "page_0850.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Dixit pater Jacob : Absque liberis me esse fecistis, Joseph non est super, Simeon tenetur in vinculis, et Benjamin auferetis : in me haec omnia mala reciderunt.",
+      "french": "Et Jacob leur père leur dit : Vous m'avez réduit à être sans enfants ; Joseph n'est plus en vie, Siméon est en prison, et vous voulez encore m'enlever Benjamin. Le mal de tout cela retombe sur moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0850.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Cui respondit Ruben : Duos filios meos interfice, si non reduxero illum tibi : trade illum in manu mea, et ego eum tibi restituam.",
+      "french": "Ruben lui dit : Faites mourir mes deux enfants, si je ne vous le ramène ; confiez-le moi, et je m'engage à vous le remettre en main.",
+      "annotations": null,
+      "source_pages": [
+        "page_0850.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Coeperunt venire septem anni inopiae, quos praedixerat Joseph : et in universo orbe fames praevaluit ; in cuncta autem terra Aegypti panis erat.",
+      "french": "Les sept années de stérilité vinrent ensuite, selon la prédiction de Joseph. Et pendant que tout le reste du monde était affligé de la famine, toute l'Égypte avait du pain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0842.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Qua esuriente, clamavit populus ad Pharaonem, alimenta petens. Quibus ille respondit : Ite ad Joseph : et quidquid ipse vobis dixerit, facite.",
+      "french": "Les Égyptiens étant pressés de la famine, vinrent crier à Pharaon, et lui demander des aliments. Mais il leur dit : Allez trouver Joseph, et faites tout ce qu'il vous dira.",
+      "annotations": null,
+      "source_pages": [
+        "page_0842.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "Crescebat autem quotidie fames in omni terra, aperuitque Joseph universa horrea, et vendebat Aegyptiis : nam et illos oppresserat fames.",
+      "french": "Cependant la famine s'augmentait de jour en jour dans toute la terre ; et Joseph ouvrant les greniers, vendait du blé aux Égyptiens ; car la famine était dans leur pays, comme ailleurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0842.json"
+      ]
+    },
+    {
+      "verse_number": 57,
+      "latin": "Omnesque Provinciae veniebant in Aegyptum, ut emerent escas, et malum inopiae temperarent.",
+      "french": "Et l'on venait de toutes les provinces en Égypte, pour acheter des vivres, et pour trouver quelque soulagement à la rigueur de cette famine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0842.json"
+      ]
+    }
+  ]
+}

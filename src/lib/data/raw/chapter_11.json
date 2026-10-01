@@ -1,0 +1,304 @@
+{
+  "book": "Genèse",
+  "chapter": 11,
+  "chapter_summary": "Construction de la Tour de Babel ; confusion des langues. Généalogie de Sem par Arphaxad, jusqu'à Abraham.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Erat autem terra labii unius, et sermonum eorundem.",
+      "french": "Or la terre n'avait alors qu'une seule langue, et la même manière de parler.",
+      "annotations": null,
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Cumque proficiscerentur de Oriente, invenerunt campum in terra Sennaar, et habitaverunt in eo.",
+      "french": "Et les hommes étant partis de l'Orient, trouvèrent une campagne dans la terre de Sennaar, où ils s'arrêtèrent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0410.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Dixitque alter ad proximum suum : Venite, faciamus lateres, et coquamus eos igni. Habueruntque lateres pro saxis, et bitumen pro caemento.",
+      "french": "Et ils se dirent les uns aux autres : venez, faisons des briques, et cuisons-les au feu ; et ils se servirent de briques au lieu de pierres, et de bitume, au lieu de mortier.",
+      "annotations": null,
+      "source_pages": [
+        "page_0413.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et dixerunt : Venite faciamus nobis civitatem et turrim, cujus culmen pertingat ad Coelum : et celebremus nomen nostrum antequam dividamur in universas terras.",
+      "french": "Ils dirent aussi : Allons, faisons-nous une Ville et une Tour, dont le sommet s'élève jusqu'au Ciel ; et rendons notre nom célèbre, avant que nous soyons dispersés dans toute la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0413.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Descendit autem Dominus ut videret civitatem et turrim, quam ædificabant filii Adam.",
+      "french": "Or le Seigneur descendit pour voir la Ville et la Tour que les enfants d'Adam bâtissaient.",
+      "annotations": null,
+      "source_pages": [
+        "page_0419.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et dixit : Ecce, unus est populus, et unum labium omnibus : cœperúntque hoc facere, nec desistent à cogitationibus suis, donec eas opere compleant.",
+      "french": "Et il dit : Voilà un seul peuple, qui n'a que le même langage ; ils ont commencé cet édifice, et ils n'abandonneront point leur dessein, qu'ils ne l'aient entièrement exécuté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0419.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Venite igitur, descendamus, et confundamus ibi linguam eorum, ut non audiat unusquisque vocem proximi sui.",
+      "french": "Venez donc, descendons, et mettons dans leur langage une si grande confusion, qu'ils ne s'entendent plus les uns les autres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0419.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Atque ita divisit eos Dominus ex illo loco in universas terras, et cessaverunt ædificare civitatem.",
+      "french": "Et de cette sorte Dieu les divisa et les dispersa de ce lieu dans tous les pays de la terre, et ils cessèrent de bâtir cette ville.",
+      "annotations": null,
+      "source_pages": [
+        "page_0420.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et idcirco vocatum est nomen ejus Babel, quia ibi confusum est labium universæ terræ : et inde dispersit eos Dominus super faciem cunctarum regionum.",
+      "french": "Et c’est pour cette raison qu’on lui donna le nom de Babel, parce que ce fut là qu’arriva la confusion de toutes les langues du monde : Et le Seigneur les dispersa delà dans tous les pays du monde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0420.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Hæ sunt generationes Sem : Sem erat centum annorum, quando genuit Arphaxad, biennio post diluvium.",
+      "french": "Voici la généalogie des enfants de Sem. Sem âgé de cent ans, devint père d'Arphaxad, deux ans après le Déluge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0420.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Vixitque Sem postquam genuit Arphaxad, quingentis annis : et genuit filios et filias.",
+      "french": "Et Sem vécut cinq cents ans après la naissance d'Arphaxad, et il engendra des fils et des filles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0421.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Porro Arphaxad vixit triginta quinque annis : et genuit Sale.",
+      "french": "Arphaxad vécut trente-cinq ans, et il engendra Salé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0421.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Vixitque Arphaxad postquam genuit Sale, trecentis tribus annis : et genuit filios et filias.",
+      "french": "Et après la naissance de Salé, Arphaxad vécut encore trois cents trois ans, et il engendra des fils et des filles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0421.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Sale quoque vixit triginta annis, et genuit Heber,",
+      "french": "Salé âgé de trente ans, engendra Héber,",
+      "annotations": null,
+      "source_pages": [
+        "page_0422.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Vixitque Sale postquam genuit Heber, quadringentis tribus annis : et genuit filios et filias.",
+      "french": "Et après la naissance d'Héber, il vécut encore quatre cents trois ans, et il eut des fils et des filles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0422.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Vixit autem Heber triginta quatuor annis, et genuit Phaleg.",
+      "french": "Héber ayant vécu trente-quatre ans, engendra Phaleg.",
+      "annotations": null,
+      "source_pages": [
+        "page_0422.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et vixit Heber postquam genuit Phalez, quadringentis triginta annis: et genuit filios et filias.",
+      "french": "Et après la naissance de Phaleg, il vécut quatre cents trente ans, et il eut des fils et des filles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0423.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Vixit quoque Phaleg triginta annis, et genuit Reü.",
+      "french": "Phaleg âgé de trente ans, engendra Reü.",
+      "annotations": null,
+      "source_pages": [
+        "page_0423.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Vixitque Phaleg postquam genuit Reü, ducentis novem annis : et genuit filios et filias.",
+      "french": "Et après la naissance de Reü, il vécut encore deux cents neuf ans, et il eut des fils et des filles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0424.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Vixit autem Reü triginta duobus annis, et genuit Sarug.",
+      "french": "Reü âgé de trente deux ans devint père de Sarug.",
+      "annotations": null,
+      "source_pages": [
+        "page_0424.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Vixit quoque Reu postquam genuit Sarug, ducentis septem annis : et genuit filios et filias.",
+      "french": "Et depuis la naissance de Sarug, il vécut encore deux cents sept ans, et il engendra des fils et des filles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0425.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Vixit vero Sarug triginta annis, et genuit Nachor.",
+      "french": "Sarug âgé de trente ans engendra Nachor.",
+      "annotations": null,
+      "source_pages": [
+        "page_0425.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Vixitque Sarug postquam genuit Nachor, ducentis annis : et genuit filios et filias.",
+      "french": "Et après la naissance de Nachor, il vécut deux cents ans, et il eut des fils et des filles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0425.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Vixit autem Nachor viginti novem annis, et genuit Thare.",
+      "french": "Nachor âgé de vingt-neuf ans engendra Tharé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0426.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Vixitque Nachor postquam genuit Thare, centum decem et novem annis : et genuit filios et filias.",
+      "french": "Et après la naissance de Tharé, il vécut encore cent dix-neuf ans, et il eut des fils et des filles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0426.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Vixitque Thare septuaginta annis, et genuit Abram, et Nachor, et Aran.",
+      "french": "Tharé vécut soixante et dix ans, et engendra Abram, et Nachor, et Aran.",
+      "annotations": null,
+      "source_pages": [
+        "page_0426.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Hæ sunt autem generationes Thare: Thare genuit Abram, Nachor, et Aran. Patrò Aran genuit Lot.",
+      "french": "Voici la Généalogie de Tharé: Tharé fut père d'Abram, de Nachor et d'Aran. Aran engendra Lot.",
+      "annotations": null,
+      "source_pages": [
+        "page_0427.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Mortuusque est Aran ante Thare patrem suum in terra nativitatis suæ, in Ur Chaldæorum.",
+      "french": "Or Aran mourut avant son père Tharé, dans le pays de sa naissance, dans Ur de Chaldée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0427.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Duxerunt autem Abram et Nachor uxores : nomen uxoris Abram, Sarai : et nomen uxoris Nachor, Melcha, filia Aran, patris Melchæ, et patris Jeschæ.",
+      "french": "Abram et Nachor se marièrent. La femme d'Abram s'appelait Saraï, et celle de Nachor s'appelait Melcha. Elle était fille d'Aran, qui fut père de Melcha, et père de Jescha.",
+      "annotations": null,
+      "source_pages": [
+        "page_0428.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Erat autem Saraï sterilis, nec habebat liberos.",
+      "french": "Or Saraï était stérile, et n'avait point d'enfants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0429.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Tulit itaque Thare Abram filium suum, et Lot filium Aran, filium filii sui, et Saraï nurum suam, uxorem Abram filii sui, et eduxit eos de Ur Chaldæorum, ut irent in terram Chanaan : veneruntque usque Haran, et habitaverunt ibi.",
+      "french": "Tharé donc prit Abram son fils, et Lot son petit-fils, fils d'Aran, et Saraï sa belle-fille, femme d'Abram son fils, et les fit sortir d'Ur des Chaldéens, pour les conduire dans le pays de Canaan ; et étant venus jusqu'à Haran, ils y demeurèrent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0429.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Hae familiæ Noë juxta populos, et nationes suas. Ab his divisa sunt gentes in terra post diluvium.",
+      "french": "Et ce sont là les descendants de Noé, selon les divers peuples, qui en sont sortis ; c'est de ces familles que sont venues toutes les nations de la terre, depuis le Déluge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et facti sunt dies Thare ducentorum quinque annorum, et mortuus est in Haran.",
+      "french": "Et Tharé ayant vécu deux cents cinq ans, mourut à Haran.",
+      "annotations": null,
+      "source_pages": [
+        "page_0430.json"
+      ]
+    }
+  ]
+}

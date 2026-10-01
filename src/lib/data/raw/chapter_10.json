@@ -1,0 +1,286 @@
+{
+  "book": "Genèse",
+  "chapter": 10,
+  "chapter_summary": "Dénombrement des descendants de Sem, de Cham et de Japhet. Pays que chacun d’eux a possédé.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Hæ sunt generationes filiorum Noë, Sem, Cham et Japheth: Natique sunt eis filii post diluvium.",
+      "french": "Voici le dénombrement des fils de Noë, qui sont Sem, Cham et Japhet ; et voici les noms des enfants qu'ils eurent après le Déluge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0327.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Filii Japheth: Gomer, et Magog, et Madai, et Javan, et Thubal, et Mosoch, et Thiras.",
+      "french": "Les fils de Japhet, sont Gomer, Magog, Madaï, Javan, Tubal, Mosoch et Thiras.",
+      "annotations": null,
+      "source_pages": [
+        "page_0327.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Porrò filii Gomer, Ascenez, et Riphath et Thogorma.",
+      "french": "Les fils de Gomer, furent Ascenez, Riphath et Thogorma.",
+      "annotations": null,
+      "source_pages": [
+        "page_0338.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Filii autem Javan : Elisa et Tharsis, Cetthim et Dodanim.",
+      "french": "Les fils de Javan ; sont Elisa, Tharsis, Cethim et Dodanim.",
+      "annotations": null,
+      "source_pages": [
+        "page_0343.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Ab his divisæ sunt Insulæ gentium in regionibus suis, uniusquisque secundum linguam suam, et familias suas in nationibus suis.",
+      "french": "Ils partagèrent entr'eux les Îles des Nations, s'établissant en divers pays, où chacun eût sa langue, ses familles, et son peuple particulier.",
+      "annotations": null,
+      "source_pages": [
+        "page_0354.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Filii autem Cham : Chus et Mesraïm, et Phuth, et Chanaan.",
+      "french": "Les fils de Cham, sont Chus, Mesraïm, Phuth et Canaan.",
+      "annotations": null,
+      "source_pages": [
+        "page_0354.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Filii Chus ; Saba, et Hevila, et Sabatha, et Regma, et Sabatacha. Filii Regma : Saba, et Dadan.",
+      "french": "Les fils de Chus, sont Saba ; Hevila, Sabatha, Regma et Sabathaca. Les fils de Regma sont Saba et Dadan.",
+      "annotations": null,
+      "source_pages": [
+        "page_0358.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Porrò Chus genuit Nemrod : Ipse cœpit esse potens in terra.",
+      "french": "Or Chus fut père de Nemrod, qui commença à se rendre puissant sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et erat robustus venator coram Domino. Ob hoc exivit proverbium : Quasi Nemrod robustus venator coram Domino.",
+      "french": "Il fut un puissant Chasseur devant Dieu ; et il donna lieu à ce proverbe : Un grand Chasseur devant le Seigneur, comme Nemrod.",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Fuit autem principium regni ejus Babylon, et Arac, et Achad, et Chalanne in terra Sennaar.",
+      "french": "Il commença à régner à Babylone, à Arach, à Achad, et à Chalanne dans la terre de Sennaar.",
+      "annotations": null,
+      "source_pages": [
+        "page_0360.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "De terra illa egressus est Assur, et ædificavit Niniven, et plateas civitatis, et Chale.",
+      "french": "De ce pays sortit Assur, qui bâtit Ninive, et le lieu nommé, les rues de la Ville, et Chalé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0361.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Resen quoque inter Niniven et Chale ; hæc est civitas magna.",
+      "french": "Il bâtit aussi Resen entre Ninive et Chalé : C’est la grande ville [de même nom.]",
+      "annotations": null,
+      "source_pages": [
+        "page_0362.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "At verò Mesraïm genuit Ludim, et Anamim, et Laabim, Nephruim.",
+      "french": "Mesraïm eût pour fils Ludim, Anamim, Laabim, et Nephruim.",
+      "annotations": null,
+      "source_pages": [
+        "page_0362.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et Phetrusim, et Chasluim ; de quibus egressi sunt Philistiim et Caphtorim.",
+      "french": "Et Phetrusim et Chasluim ; d'où sont sortis les Philistins et les Caphtorims.",
+      "annotations": null,
+      "source_pages": [
+        "page_0374.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Canaan autem genuit Sidonem primogenitum suum, Hetheum,",
+      "french": "Canaan engendra Sidon, qui fut son fils aîné, et les Hethéens :",
+      "annotations": null,
+      "source_pages": [
+        "page_0374.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et Jebusæum, et Amorrhæum, Gergesæum,",
+      "french": "Il eut aussi pour fils les Jebuséens, les Amorrhéens, les Gergeséens,",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Hevæum, et Aracæum : Sinæum,",
+      "french": "Les Hevéens, les Aracéens, les Sinéens,",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et Aradium, Samareum, et Amathæum: Et post hæc disseminati sunt populi Chananæorum.",
+      "french": "Les Aradéens, les Samaréens, les Amathéens ; c'est de ceux-là que sont venus les peuples Cananéens.",
+      "annotations": null,
+      "source_pages": [
+        "page_0378.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Fastique sunt termini Chanaan venientibus à Sidone Geraram, usque Gazam, donec ingrediaris Sodomam et Gomorrham, Adamam et Seboim, usque Lesa.",
+      "french": "Or le pays de Canaan a pour limites le chemin qui conduit de Sidon à Gerare jusqu'à Gaza, et qui monte à Sodome, à Gomorre, à Adama, et à Seboim, jusqu'à Leza.",
+      "annotations": null,
+      "source_pages": [
+        "page_0378.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Hi sunt filii Cham in cognationibus, et linguis, et generationibus, terrisque et gentibus suis.",
+      "french": "Ce sont là les fils de Cham selon leurs alliances, leurs langues, leurs familles, leurs pays et leurs nations.",
+      "annotations": null,
+      "source_pages": [
+        "page_0386.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "De Sem quoque nati sunt, patre omnium filiorum Heber, fratre Japheth majore.",
+      "french": "Sem qui fut le père de tous les enfants d'Heber, et le frère aîné de Japhet, eut aussi divers enfants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0386.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Filii Sem : Ælam et Assur, et Arphaxad, et Lud, et Aram.",
+      "french": "Et ces fils de Sem furent : Elam, Assur, Arphaxad, Lud et Aram.",
+      "annotations": null,
+      "source_pages": [
+        "page_0386.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Filii Aram : Us, et Hul, et Gether, et Mes.",
+      "french": "Les fils d'Aram furent : Us, Hul, Gether et Mes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0391.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "At vero Arphaxad genuit Sale, de quo ortus est Heber.",
+      "french": "Or Arphaxad engendra Salé, qui fut père d'Héber.",
+      "annotations": null,
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Natique sunt Heber filii duo : nomen uni Phaleg, eo quod in diebus ejus divisa sit terra : et nomen fratris ejus Jectan.",
+      "french": "Héber eut deux fils : l'un s'appela Phaleg, parce que la division de la terre arriva de son temps ; et son frère eut le nom de Jectan.",
+      "annotations": null,
+      "source_pages": [
+        "page_0402.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Qui Jectan genuit Elmodad, Saleph, et Asarmoth, Jare,",
+      "french": "Jectan eut pour fils Elmodad, Saleph, Asarmoth, Jaré,",
+      "annotations": null,
+      "source_pages": [
+        "page_0404.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et Aduram, et Uzal, et Decla,",
+      "french": "Aduram, Usal, et Décla,",
+      "annotations": null,
+      "source_pages": [
+        "page_0404.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et Ebal, et Abimaël, Saba.",
+      "french": "Ébal, Abimaël, Saba.",
+      "annotations": null,
+      "source_pages": [
+        "page_0404.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et Ophir, et Hevila, et Jobab: omnes isti, filii Jectan.",
+      "french": "Ophir, Hévila et Jobab. Voilà tous les enfants de Jectan.",
+      "annotations": null,
+      "source_pages": [
+        "page_0406.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et facta est habitatio eorum de Messa pergentibus usque Sephar montem Orientalem.",
+      "french": "Le pays où ils demeurèrent s'étendait depuis Messa jusqu'à Séphar, montagne d'Orient.",
+      "annotations": null,
+      "source_pages": [
+        "page_0407.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Isti filii Sem, secundum cognationes, et linguas, et regiones, in gentibus suis.",
+      "french": "Voilà le dénombrement des fils de Sem, selon leurs familles, leurs langues, leurs régions et leurs peuples.",
+      "annotations": null,
+      "source_pages": [
+        "page_0408.json"
+      ]
+    }
+  ]
+}

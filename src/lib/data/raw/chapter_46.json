@@ -1,0 +1,331 @@
+{
+  "book": "Genèse",
+  "chapter": 46,
+  "chapter_summary": "Jacob vient en Egypte avec toute sa famille. Joseph étant venu au devant de lui, lui conseille de déclarer au Roi qu'ils sont Pasteurs de profession.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Profectusque Israel cum omnibus quae habebat, venit ad puteum juramenti, et mactatis ibi victimis Deo patris sui Isaac,",
+      "french": "Israel étant parti avec tout ce qui était à lui, vint au puits du jurement. Et y ayant immolé des victimes au Dieu de son père Isaac,",
+      "annotations": null,
+      "source_pages": [
+        "page_0875.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Audivit eum per visionem noctis vocantem se, et dicentem sibi : Jacob, Jacob ; cui respondit : Ecce adsum.",
+      "french": "Il oüit le Seigneur, dans une vision pendant la nuit, qui l'appella et qui lui dit : Jacob, Jacob ; il répondit : Me voici.",
+      "annotations": null,
+      "source_pages": [
+        "page_0875.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Ait illi Deus : Ego sum fortissimus Deus patris tui : Noli timere, descende in Aegyptum, quia in gentem magnam faciam te ibi :",
+      "french": "Dieu ajouta : Je suis le très fort, le Dieu de votre père : Ne craignez point : descendez en Egypte, parce que je vous rendray le père d'un grand peuple dans ce pays-là.",
+      "annotations": null,
+      "source_pages": [
+        "page_0875.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Ego descendam tecum illuc, et ego inde adducam te revertentem : Joseph quoque ponet manus suas super oculos tuos.",
+      "french": "Je vous y conduirai, et je vous en ramenerai, lorsque vous en sortirez, et Joseph vous fermera les yeux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0876.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Surrexit autem Jacob à Puteo juramenti : tuleruntque eum filii cum parvulis et uxoribus suis in plaustris quae miserat Pharao ad portandum senem,",
+      "french": "Jacob partit donc du puits du jurement, et ses enfans le mirent avec leurs petits-enfans et leurs femmes, sur les chariots que Pharaon avait envoyez pour le faire venir,",
+      "annotations": null,
+      "source_pages": [
+        "page_0876.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et omnia quae possederat in terra Chanaan : venitque in Aegyptum cum omni semine suo,",
+      "french": "Et tout ce qui lui appartenait au pays de Canaan : Et il arriva en Egypte avec toute sa famille,",
+      "annotations": null,
+      "source_pages": [
+        "page_0876.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Filii ejus, et nepotes, filiæ, et cuncta fimul progenies.",
+      "french": "Ses fils, ses petits-fils, ses filles, et toute sa postérité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0877.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Hæc sunt autem nomina filiorum Israël, qui ingressi sunt in Ægyptum, ipse cum liberis suis. Primogenitus Ruben.",
+      "french": "Et voici les noms des enfants d'Israël, qui entrèrent dans l'Egypte, lorsqu'il y vint avec ses enfants. Son fils aîné était Ruben.",
+      "annotations": null,
+      "source_pages": [
+        "page_0877.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Filii Ruben : Henoch, et Phallu, et Hefron, et Charmi.",
+      "french": "Les fils de Ruben sont Henoch, Phallu, Hesron et Charmi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0878.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Filii Simeon : Jamuel, et Jamin, Ahod, et Jachin, et Sohar, et Saul filius Chananitidis.",
+      "french": "Les enfants de Simeon sont : Jamuël, Jamin, Ahod, Jachin, Sohar, et Saül né d'une Cananéenne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0878.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Filii Levi : Gerson, et Caath, et Merari.",
+      "french": "Les fils de Levi sont : Gerson, Caath et Merari.",
+      "annotations": null,
+      "source_pages": [
+        "page_0878.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Filii Juda : Her et Onan, et Sela, et Phares, et Zara. Mortui sunt autem Her et Onan in terra Chanaan. Natique sunt filii Phares : Hefron et Hamul.",
+      "french": "Les enfants de Juda sont : Her, Onan, Séla, Phares et Zara. Mais Her et Onan moururent dans le pays de Canaan. Phares eut pour fils Hesron et Hamul.",
+      "annotations": null,
+      "source_pages": [
+        "page_0878.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Filii Issachar : Thola, et Phua, et Job, et Semron.",
+      "french": "Les fils d'Issachar sont : Thola, Phua, Job et Semron.",
+      "annotations": null,
+      "source_pages": [
+        "page_0878.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Filii Zabulon ; Sared, et Elon, et Jabelel.",
+      "french": "Les enfants de Zabulon sont Sared, Elon et Jahélel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0879.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Hi filii Liæ quos genuit in Mesopotamia Syriæ cum Dina filia sua ; omnes animæ filiorum ejus et filiarum, triginta tres.",
+      "french": "Voilà le dénombrement des fils de Lia, qu'elle eut en Mésopotamie de Syrie ; elle y eut aussi sa fille Dina ; le nombre de ses fils et de ses filles est de trente-trois personnes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0879.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Filii Gad ; Sephion, et Haggi, et Suni, et Esebon, et Heri, et Arodi, et Areli.",
+      "french": "Les fils de Gad sont Sephion, Haggi, Suni, Esébon, Héri, Arodi et Aréli.",
+      "annotations": null,
+      "source_pages": [
+        "page_0879.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Filii Aser ; Jamne, et Jesua, et Jesui, et Beria ; Sara quoque soror eorum. Filii Beria: Heber et Melchiel.",
+      "french": "Les fils d'Aser, sont Jamné, Jesua, Jesui et Beria, et Sara leur sœur. Beria eut pour fils Heber et Melchiel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0879.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Hi filii Zelphæ, quam dedit Laban Liæ filiæ suæ, et hos genuit Jacob sedecim animas.",
+      "french": "Ce sont là les fils de Zelpha, que Laban donna [pour servante] à Lia sa fille. Ces seize personnes sont aussi sorties de Jacob.",
+      "annotations": null,
+      "source_pages": [
+        "page_0879.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Filii Rachel uxoris Jacob : Joseph et Benjamin.",
+      "french": "Les fils de Rachel femme de Jacob, sont Joseph et Benjamin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0880.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Natique sunt Joseph filii in terra Ægypti, quos genuit ei Aseneth filia Putipharæ Sacerdotis Heliopoleos: Manasses et Ephraïm.",
+      "french": "Joseph eut en Egypte Manassé et Ephraïm, d'Aseneth fille de Putiphar Prêtre d'Heliopolis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0880.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Filii Benjamin : Bela, et Bechor, et Asbel, et Gera, et Naaman, et Echi, et Ros, et Mophim, et Ophim, et Ared.",
+      "french": "Les fils de Benjamin sont, Bela, Bechor, Asbel, Gera, Naaman, Echi, Ros, Mophim, Ophim et Ared.",
+      "annotations": null,
+      "source_pages": [
+        "page_0880.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Hi filii Rachel quos genuit Jacob : omnes animæ, quatuordecim.",
+      "french": "Voilà les fils qui sont sortis de Jacob et de Rachel : en tout quatorze personnes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0880.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Filii Dan : Husim.",
+      "french": "Les fils de Dan sont Husim.",
+      "annotations": null,
+      "source_pages": [
+        "page_0881.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Filii Nephtali : Jasiel, et Guni, et Jesem, et Sallem.",
+      "french": "Les enfants de Nephtali sont, Jasiel, Guni, Jesem et Sallem.",
+      "annotations": null,
+      "source_pages": [
+        "page_0881.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Hi filii Balæ, quam dedit Laban Racheli filiæ suæ : et hos genuit Jacob : omnes animæ, septem.",
+      "french": "Voilà les fils de Bala, que Laban donna [ pour servante ] à Rachel sa fille ; toutes ces personnes, au nombre de sept, sont sorties de Jacob.",
+      "annotations": null,
+      "source_pages": [
+        "page_0881.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Cunctæ animæ, quæ ingressæ sunt cum Jacob in Ægyptum, et egressæ sunt de femore illius, absque uxoribus filiorum ejus, sexaginta sex.",
+      "french": "Tous ceux qui vinrent en Egypte avec Jacob, et qui sortirent de lui, sans y comprendre les femmes de ses fils, étaient au nombre de soixante et six personnes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0881.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Illi è contra referebant omnem ordinem rei. Cumque vidisset plaustra, et universa quae miserat, revixit spiritus ejus.",
+      "french": "Mais ses enfans au contraire lui racontaient par ordre tout ce qui s'était passé. Enfin ayant vû les chariots, etc tout ce que Joseph lui envoyait, il reprit ses esprits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0875.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Filii autem Joseph, qui nati sunt ei in terra Ægypti, animæ duæ. Omnes animæ domûs Jacob, quæ ingressæ sunt in Ægyptum, fuêre septuaginta.",
+      "french": "Joseph, étant en Egypte, eut deux enfants : Ainsi le nombre de ceux qui descendirent en Egypte avec Jacob, et qui étaient de sa famille, fut de soixante et dix personnes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0882.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et ait : Sufficit mihi si adhuc Joseph filius meus vivit : vadam et videbo illum antequam moriar.",
+      "french": "Et il dit : Je suis content, puisque mon fils Joseph est en vie, j'irai, et je le verrai avant que je meure.",
+      "annotations": null,
+      "source_pages": [
+        "page_0875.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Misit autem Judam ante se ad Joseph, ut nuntiaret ei, et occurreret in Gessen.",
+      "french": "Or Jacob envoya devant lui Juda, pour avertir Joseph [ de sa venue ] et pour lui dire de venir au devant de lui, jusques dans la terre de Gessen.",
+      "annotations": null,
+      "source_pages": [
+        "page_0882.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Quò cùm pervenisset, juncto sibi curru suo, ascendit obviam patri suo ad eundem locum : vidénsque eum, irruit super collum ejus, et inter amplexus flevit.",
+      "french": "Jacob y étant arrivé, Joseph monta sur son chariot, et vint jusqu'au même lieu, au devant de son père ; et aussi-tôt qu'il le vit, il se jetta à son cou, et l'embrassa en pleurant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0882.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Dixítque pater ad Joseph : Jam lætus moriar, quia vidi faciem tuam, et superstitem te relinquo.",
+      "french": "Et Jacob lui dit : Je mourrai à présent avec joie, puisque j'ai vu vôtre visage, et que je vous laisse après moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0882.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "At ille locutus est ad fratres suos, et ad omnem domum patris sui ; Ascendam et nuntiabo Pharaoni, dicámque ei : Fratres mei, et domus patris mei, qui erant in terra Chanaan, venerunt ad me ;",
+      "french": "Et Joseph dit à ses frères, et à toute la famille de son père : Je m'en vais dire à Pharaon : Mes frères, et la maison de mon père, qui étaient dans la terre de Canaan, sont venus me trouver.",
+      "annotations": null,
+      "source_pages": [
+        "page_0883.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et sunt viri pastores ovium, curámque habent alendorum gregum : pecora sua, et armenta, et omnia quæ habere potuerunt, adduxerunt secum.",
+      "french": "Ce sont des pasteurs de brebis, qui s'appliquent à nourrir des troupeaux. Ils ont amené avec eux leur gros et menu bétail, et tout ce qu'ils pouvaient avoir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0883.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Cùmque vocaverit vos, et dixerit : Quod est opus vestrum ?",
+      "french": "Et lorsque Pharaon vous fera venir, et vous demandera ; Quel est vôtre métier ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0883.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Respondebitis : Viri pastores sumus servi tui ab infantia nostra usque in præsens, et nos et patres nostri. Hæc autem dicetis, ut habitare possitis in terra Gessen, quia detestantur Ægyptii omnes pastores ovium.",
+      "french": "Vous lui répondrez : Vos serviteurs sont pasteurs depuis leur enfance jusqu'à présent : Nous suivons en cela la profession de nos pères. Or vous direz tout cela, afin que vous puissiez demeurer dans la terre de Gessen, parce que les Egyptiens ont en horreur tous les pasteurs de brebis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0883.json"
+      ]
+    }
+  ]
+}
