@@ -1,9 +1,13 @@
 <script lang="ts">
-	const genesisChapters = Array.from({ length: 50 }, (_, i) => i + 1);
-	const exodusChapters = Array.from({ length: 40 }, (_, i) => i + 1);
-	const leviticusChapters = Array.from({ length: 27 }, (_, i) => i + 1);
-	const numbersChapters = Array.from({ length: 36 }, (_, i) => i + 1);
-	const deuteronomyChapters = Array.from({ length: 34 }, (_, i) => i + 1);
+	const books = [
+		{ id: 'genese', name: 'Genèse', chapters: 50 },
+		{ id: 'exode', name: 'Exode', chapters: 40 },
+		{ id: 'levitique', name: 'Lévitique', chapters: 27 },
+		{ id: 'nombres', name: 'Nombres', chapters: 36 },
+		{ id: 'deuteronome', name: 'Deutéronome', chapters: 34 }
+	];
+
+	let openBook = $state('genese');
 </script>
 
 <svelte:head>
@@ -16,38 +20,31 @@
 		<h2 class="font-serif text-3xl text-stone-600">Commentaire Littéral</h2>
 	</div>
 
-	<h3 class="font-serif text-2xl text-stone-800 mb-6 border-b pb-2">Genèse</h3>
-	<div class="grid grid-cols-2 md:grid-cols-5 gap-6 text-center font-serif mb-16">
-		{#each genesisChapters as chapter}
-			<a href="/genese/{chapter}" class="block p-4 border border-stone-200 rounded hover:border-stone-400 hover:shadow-sm transition-all text-stone-700 hover:text-stone-900">Chapitre {chapter}</a>
-		{/each}
-	</div>
-
-	<h3 class="font-serif text-2xl text-stone-800 mb-6 border-b pb-2">Exode</h3>
-	<div class="grid grid-cols-2 md:grid-cols-5 gap-6 text-center font-serif mb-16">
-		{#each exodusChapters as chapter}
-			<a href="/exode/{chapter}" class="block p-4 border border-stone-200 rounded hover:border-stone-400 hover:shadow-sm transition-all text-stone-700 hover:text-stone-900">Chapitre {chapter}</a>
-		{/each}
-	</div>
-
-	<h3 class="font-serif text-2xl text-stone-800 mb-6 border-b pb-2">Lévitique</h3>
-	<div class="grid grid-cols-2 md:grid-cols-5 gap-6 text-center font-serif mb-16">
-		{#each leviticusChapters as chapter}
-			<a href="/levitique/{chapter}" class="block p-4 border border-stone-200 rounded hover:border-stone-400 hover:shadow-sm transition-all text-stone-700 hover:text-stone-900">Chapitre {chapter}</a>
-		{/each}
-	</div>
-
-	<h3 class="font-serif text-2xl text-stone-800 mb-6 border-b pb-2">Nombres</h3>
-	<div class="grid grid-cols-2 md:grid-cols-5 gap-6 text-center font-serif mb-16">
-		{#each numbersChapters as chapter}
-			<a href="/nombres/{chapter}" class="block p-4 border border-stone-200 rounded hover:border-stone-400 hover:shadow-sm transition-all text-stone-700 hover:text-stone-900">Chapitre {chapter}</a>
-		{/each}
-	</div>
-
-	<h3 class="font-serif text-2xl text-stone-800 mb-6 border-b pb-2">Deutéronome</h3>
-	<div class="grid grid-cols-2 md:grid-cols-5 gap-6 text-center font-serif">
-		{#each deuteronomyChapters as chapter}
-			<a href="/deuteronome/{chapter}" class="block p-4 border border-stone-200 rounded hover:border-stone-400 hover:shadow-sm transition-all text-stone-700 hover:text-stone-900">Chapitre {chapter}</a>
+	<div class="space-y-4 shadow-sm">
+		{#each books as book}
+			<div class="border border-stone-200 rounded-lg overflow-hidden bg-white">
+				<button 
+					class="w-full text-left px-6 py-5 bg-stone-50 hover:bg-stone-100 flex justify-between items-center transition-colors font-serif text-2xl text-stone-800 focus:outline-none"
+					onclick={() => openBook = openBook === book.id ? null : book.id}
+				>
+					<span>{book.name}</span>
+					<span class="text-sm text-stone-500 font-sans tracking-widest uppercase">
+						{openBook === book.id ? 'Fermer' : 'Ouvrir'}
+					</span>
+				</button>
+				
+				{#if openBook === book.id}
+					<div class="p-6 border-t border-stone-200">
+						<div class="grid grid-cols-2 md:grid-cols-5 gap-4 text-center font-serif">
+							{#each Array.from({ length: book.chapters }, (_, i) => i + 1) as chapter}
+								<a href="/{book.id}/{chapter}" class="block p-3 border border-stone-200 rounded hover:border-stone-400 hover:shadow-sm transition-all text-stone-700 hover:text-stone-900 bg-stone-50/50 hover:bg-white">
+									Chapitre {chapter}
+								</a>
+							{/each}
+						</div>
+					</div>
+				{/if}
+			</div>
 		{/each}
 	</div>
 </main>
