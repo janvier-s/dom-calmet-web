@@ -1,0 +1,279 @@
+{
+  "book": "Lévitique",
+  "chapter": 27,
+  "chapter_summary": "Loi pour le rachat des choses vouées et consacrées à Dieu ; et pour les dîmes.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Locutusque est Dominus ad Moysen, dicens :",
+      "french": "Le Seigneur parla encore à Moïse, et lui dit :",
+      "source_pages": [
+        "page_0345.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Loquere filiis Israel, et dices ad eos : Homo qui votum fecerit, et spoponderit Deo animam suam, sub æstimatione dabit pretium.",
+      "french": "Parlez aux enfants d'Israël, et dites-leur : L'homme qui aura fait un vœu, et qui aura promis à Dieu de lui consacrer sa vie, payera un certain prix, selon qu'il en sera ordonné.",
+      "source_pages": [
+        "page_0345.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Si fuerit masculus a vigesimo anno usque ad sexagesimum annum, dabit quinquaginta siclos argenti, ad mensuram sanctuarii.",
+      "french": "Si c'est un homme depuis l'âge de vingt ans jusqu'à soixante ans, il donnera cinquante sicles d'argent, selon le poids du Sanctuaire.",
+      "source_pages": [
+        "page_0345.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Si mulier, triginta.",
+      "french": "Si c'est une femme, elle en donnera trente.",
+      "source_pages": [
+        "page_0345.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "A quinto autem anno usque ad vigesimum, masculus dabit viginti siclos, fœmina, decem.",
+      "french": "Depuis cinq ans jusqu'à vingt, l'homme donnera vingt sicles, et la femme dix.",
+      "source_pages": [
+        "page_0346.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ab uno mense usque ad annum quintum, pro masculo dabuntur quinque sicli, pro fœmina, tres.",
+      "french": "Depuis un mois jusqu'à cinq ans, on donnera cinq sicles pour un garçon, et trois pour une fille.",
+      "source_pages": [
+        "page_0346.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Sexagenarius et ultra, masculus dabit quindecim siclos, fœmina, decem.",
+      "french": "Depuis soixante ans, et au-dessus, un homme donnera quinze sicles, et une femme dix.",
+      "source_pages": [
+        "page_0346.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Si pauper fuerit, et æstimationem reddere non valebit, stabit coram Sacerdote : et quantum ille æstimaverit, et viderit eum posse reddere, tantum dabit.",
+      "french": "Si c'est un pauvre, et qu'il ne puisse payer le prix de son vœu, selon l'estimation qui en aura été faite, il se présentera devant le Prêtre, et il payera autant que le Prêtre jugera qu'il est capable de donner.",
+      "source_pages": [
+        "page_0346.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Animal autem quod immolari potest Domino, si quis voverit, sanctum erit,",
+      "french": "Si quelqu'un voue au Seigneur une bête qui puisse être immolée, elle deviendra une chose consacrée,",
+      "source_pages": [
+        "page_0346.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et mutari non poterit, id est, nec melius malo, nec pejus bono : quod si mutaverit ; et ipsum quod mutatum est, et illud pro quo mutatum est, consecratum erit Domino.",
+      "french": "Et ne pourra être changée ; c'est-à-dire, qu'on n'en pourra donner, ni une meilleure pour une mauvaise, ni une pire pour une bonne. Que si celui qui l'a vouée, la change, et la bête qui aura été changée, et celle qui aura été substituée en la place, seront consacrées au Seigneur.",
+      "source_pages": [
+        "page_0346.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Animal immundum, quod immolari Domino non potest, si quis vouerit, adducetur ante Sacerdotem :",
+      "french": "Si quelqu'un voue au Seigneur une bête impure, qui ne puisse lui être immolée, elle sera amenée devant le Prêtre.",
+      "source_pages": [
+        "page_0347.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Qui judicans utrum bonum, an malum sit, statuer pretium.",
+      "french": "Qui jugera si elle est bonne ou mauvaise ; et y mettra le prix.",
+      "source_pages": [
+        "page_0347.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Quod si dare voluerit is qui offert, addet supra æstimationem quintam partem.",
+      "french": "Que si celui qui offre la bête, en veut payer le prix, il ajoutera encore un cinquième à l'estimation qui en sera faite.",
+      "source_pages": [
+        "page_0347.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Homo si voverit domum suam, et sanctificaverit Domino, considerabit eam Sacerdos utrum bona an mala sit, et juxta pretium, quod ab eo fuerit constitutum, venundabitur.",
+      "french": "Si un homme voue sa maison, et la consacre au Seigneur, le Prêtre considérera si elle est bonne ou mauvaise ; et elle sera vendue selon le prix qu'il y aura mis.",
+      "source_pages": [
+        "page_0347.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Sin autem ille qui voverat, voluerit redimere eam, dabit quintam partem æstimationis supra, et habebit domum.",
+      "french": "Si celui qui a fait le vœu, la veut racheter, il ajoutera un cinquième à l'estimation qui en aura été faite ; et il aura la maison.",
+      "source_pages": [
+        "page_0347.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Quod si agrum possessionis suæ voverit, et consecraverit Domino, juxta mensuram sementis æstimabitur pretium. Si triginta modiis hordei seritur terra, quinquaginta siclis venundetur argenti.",
+      "french": "Que s'il a voué et consacré au Seigneur le champ qu'il possède, on y mettra le prix à proportion de la quantité de grains qu'on emploie pour le semer. S'il faut trente muids d'orge pour semer le champ, il sera vendu cinquante sicles d'argent.",
+      "source_pages": [
+        "page_0348.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Si statim ab anno incipientis Jubilei voverit agrum, quanto valere potest, tanto æstimabitur.",
+      "french": "Si un homme fait un vœu de donner son champ dès le commencement de l'année du Jubilé, il sera estimé selon sa valeur.",
+      "source_pages": [
+        "page_0348.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Sin autem potest aliquantum temporis : supputabit Sacerdos pecuniam juxta annorum, qui reliqui sunt, numerum, usque ad Jubilæum, et detrahetur ex pretio.",
+      "french": "S'il le voue quelque temps après ; le Prêtre supputera l'argent, selon le nombre des années qui restent jusqu'au Jubilé ; et il en diminuera d'autant le prix.",
+      "source_pages": [
+        "page_0349.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Quod si voluerit redimere agrum ille qui voverat, addet quintam partem æstimatæ pecuniæ ; et possidebit eum.",
+      "french": "Que si celui qui avait voué son champ, le veut racheter, il ajoutera un cinquième à l'estimation qui en aura été faite ; et il le possédera comme auparavant.",
+      "source_pages": [
+        "page_0349.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Sin autem noluerit redimere, sed alteri cuilibet fuerit venundatus, ultra eum, qui voverat, redimere non poterit :",
+      "french": "S'il ne veut pas le racheter, et qu'il ait été vendu à un autre, il ne sera plus au pouvoir de celui qui l'avait voué, de le racheter :",
+      "source_pages": [
+        "page_0349.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Quia cum Jubilæi venerit dies, sanctificatus erit Domino, et possessio consecrata ad jus pertinet Sacerdotum.",
+      "french": "Parce que lorsque le Jubilé sera venu ; il sera consacré au Seigneur, et qu'un bien consacré appartient aux Prêtres.",
+      "source_pages": [
+        "page_0350.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Si ager emptus est, et non de possessionem majorum sanctificatus fuerit Domino,",
+      "french": "Si ce champ qui a été consacré au Seigneur, a été acheté, et n'est pas venu à celui qui le donne, de la succession de ses ancêtres,",
+      "source_pages": [
+        "page_0350.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Supputabit Sacerdos juxta annorum numerum, usque ad Jubilæum, pretium : et dabit ille qui voverat eum, Domino.",
+      "french": "Le Prêtre en fixera le prix, en supputant les années qui restent jusqu'au Jubilé ; et celui qui l'avait voué, donnera le prix au Seigneur.",
+      "source_pages": [
+        "page_0350.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "In Jubileo autem revertetur ad priorem dominum, qui vendiderat eum, et habuerat in sorte possessionis suæ.",
+      "french": "Mais en l'année du Jubilé, le champ retournera à l'ancien propriétaire qui l'avait vendu, et qui l'avait eu dans le partage de ses biens.",
+      "source_pages": [
+        "page_0350.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Omnis æstimatio siclo Sanctuarii ponderabitur. Siclus viginti obolos habet.",
+      "french": "Toute estimation se fera au poids du sicle du Sanctuaire. Le sicle a vingt oboles.",
+      "source_pages": [
+        "page_0350.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Primogenita quæ ad Dominum pertinent, nemo sanctificare poterit, et vovere sive bos, sive ovis fuerit, Domini sunt.",
+      "french": "Personne ne pourra consacrer ni vouer les premiers-nés, parce qu'ils appartiennent au Seigneur. Soit que ce soit un veau, ou une brebis, ils sont au Seigneur.",
+      "source_pages": [
+        "page_0350.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Quod si immundum est animal, redimet qui obtulit, juxta æstimationem tuam, et addet quintam partem pretii : si redimere noluerit, vendetur alteri, quamocumque a te fuerit æstimatum.",
+      "french": "Que si la bête est impure, celui qui l'avait offerte, la rachètera, suivant votre estimation ; et il ajoutera encore le cinquième du prix. Que s'il ne veut pas la racheter, elle sera vendue à un autre, au prix que vous l'aurez estimée.",
+      "source_pages": [
+        "page_0351.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Omne quod Domino consecratur, sive homo fuerit, sive animal, sive ager, non vendetur, nec redimi poterit. Quidquid semel fuerit consecratum, sanctum sanctorum erit Domino.",
+      "french": "Tout ce qui est consacré au Seigneur, soit que ce soit un homme, ou une bête, ou un champ, ne se vendra point, et ne pourra être racheté. Tout ce qui aura été une fois consacré au Seigneur, sera d'une sainteté inviolable.",
+      "source_pages": [
+        "page_0351.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et omnis consecratio quæ offertur ab homine, non redimetur, fed morte morietur.",
+      "french": "Tout ce qui aura été offert par un homme, et consacré au Seigneur, ne se rachètera point ; mais il faudra nécessairement qu'il meure.",
+      "source_pages": [
+        "page_0352.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Omnes decimæ terræ, sive de frugibus, sive de pomis arborum, Domini sunt, et illi sanctificantur.",
+      "french": "Toutes les décimes de la terre, soit des grains, soit des fruits des arbres, appartiennent au Seigneur, et lui sont consacrées.",
+      "source_pages": [
+        "page_0353.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Si quis autem voluerit redimere decimas suas, addet quintam partem earum.",
+      "french": "Mais si quelqu'un veut racheter ses dîmes, il donnera un cinquième par-dessus le prix qu'elles seront estimées.",
+      "source_pages": [
+        "page_0356.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Omnium decimarum bovis et ovis, et capræ, quæ sub pastoris virga transeunt, quidquid decimum venerit, sanctificabitur Domino.",
+      "french": "Toutes les dîmes des bœufs, des brebis, et des chèvres, et de tout ce qui passe sous la verge du Pasteur, seront offerts au Seigneur.",
+      "source_pages": [
+        "page_0357.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Non eligetur nec bonum, nec malum, nec altero commutabitur. Si quis mutaverit ; et quod mutatum est, et pro quo mutatum est, sanctificabitur Domino, et non redimetur.",
+      "french": "On ne choisira, ni un bon, ni un mauvais, et on ne changera point l'un pour l'autre. Si quelqu'un fait ce changement ; ce qui aura été changé, et ce qui aura été mis en sa place, sera consacré au Seigneur, et ne pourra être racheté.",
+      "source_pages": [
+        "page_0357.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Hæc sunt præcepta, quæ mandavit Dominus Moysi, ad filios Israel, in monte Sinai.",
+      "french": "Ce sont là les Ordonnances que Dieu donna à Moïse pour les enfants d'Israël, sur la montagne de Sinaï.",
+      "source_pages": [
+        "page_0358.json"
+      ]
+    }
+  ]
+}

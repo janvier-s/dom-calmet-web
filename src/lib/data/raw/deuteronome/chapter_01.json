@@ -1,0 +1,412 @@
+{
+  "book": "Deutéronome",
+  "chapter": 1,
+  "chapter_summary": "Récit abrégé de ce qui est arrivé aux Israélites, depuis leur sortie d'Horeb, jusqu'à leur arrivée à Cadès-barné. Députation de douze hommes, pour aller considérer le pays de Canaan. Murmure du peuple au retour de ces Envoyés. Dieu condamne tous les murmurateurs à mourir dans le désert, sans entrer dans la terre promise.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Hæc sunt verba, quae locutus est Moyses ad omnem Israel, trans Jordanem, in solitudine campestri, contra mare rubrum, inter Pharan, et Tophel, et Laban, et Haseroth, ubi auri est plurimum :",
+      "french": "Voici les paroles que Moïse dit à tout le peuple d'Israël au-delà du Jourdain, dans la plaine du désert, vis-à-vis de la mer rouge, entre Pharan, Tophel, Laban et Haseroth, où il y a beaucoup d'or ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Undecim diebus de Horeb, per viam montis Seir, usque ad Cadesbarne.",
+      "french": "À onze journées de chemin depuis la montagne d'Horeb, en venant jusqu'à Cadès-barné, par la montagne de Séir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quadragesimo anno, undecimo mense, prima die mensis, locutus est Moyses ad filios Israel omnia quae praeceperat illi Dominus, ut diceret eis :",
+      "french": "En la quatrième année, depuis la sortie d'Égypte, le premier jour de l'onzième mois de cette année, Moïse dit aux enfants d'Israël tout ce que le Seigneur lui avait ordonné de leur dire,",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Postquam percussit Sehon regem Amorrhoeorum, qui habitabat in Hesebon : et Og regem Basan, qui mansit in Astaroth, et in Edrai,",
+      "french": "Après la défaite de Séhon, Roi des Amorrhéens, qui habitait à Hésébon, et d'Og Roi de Basan, qui demeurait à Astaroth et à Edraï,",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Trans Jordanem, in terra Moab. Coepique Moyses explanare legem, et dicere :",
+      "french": "Villes situées au-delà du Jourdain, dans le pays de Moab ; et il commença à leur expliquer la Loi, et à leur dire",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dominus Deus noster locutus est ad nos in Horeb, dicens : Sufficit vobis quod in hoc monte mansistis :",
+      "french": "Le Seigneur notre Dieu nous parla à Horeb, et il nous dit : Vous avez assez demeuré le long de cette montagne :",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Revertimini, et venite ad montem Amorrhaeorum, et ad caetera quae ei proxima sunt, campestria atque montana, et humiliora loca contra Meridiem, et juxta littus maris, terram Chananaeorum, et Libani, usque ad flumen magnum Euphratem.",
+      "french": "Mettez-vous en chemin, et venez vers la montagne des Amorrhéens, et en tous les lieux voisins ; dans les campagnes, les montagnes, et les vallées vers le midi, et le long de la côte de la mer : passez dans le pays des Chananéens et du Liban, jusqu'au grand fleuve de l'Euphrate.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "En, inquit, tradidi vobis : ingredimini, et possidete eam, super qua juravit Dominus patribus vestris, Abraham, Isaac et Jacob, ut daret illam eis, et semini eorum post eos.",
+      "french": "Voilà, dit-il, que je vous l'ai livrée ; entrez-y, et mettez-vous en possession de la terre que le Seigneur avait promis avec serment de donner à vos pères, Abraham, Isaac et Jacob, et à leur postérité après eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Dixique vobis illo in tempore :",
+      "french": "Et moi en ce même temps, je vous dis :",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Non possum solus sustinere vos : quia Dominus Deus vester multiplicavit vos, et estis hodie sicut stellae caeli, plurimi.",
+      "french": "Je ne puis seul suffire à vous tous ; parce que le Seigneur votre Dieu vous a tellement multipliés, que vous égalez aujourd'hui en nombre les étoiles du ciel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "( Dominus Deus patrum vestrorum addat ad hunc numerum multa millia, et benedicat vobis, sicut locutus est. )",
+      "french": "( Que le Seigneur le Dieu de vos pères, ajoute encore à ce nombre plusieurs milliers, et qu'il vous bénisse, selon qu'il l'a promis. )",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Non valeo solus negotia vestra sustinere, et pondus ac jurgia.",
+      "french": "Je ne puis porter seul le poids de vos affaires et de vos différends.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Date ex vobis viros sapientes et gnaros, et quorum conversatio sit probata in tribubus vestris, ut ponam eos vobis principes.",
+      "french": "Choisissez d'entre vous des hommes sages et habiles, qui soient d'une probité reconnue dans vos Tribus, afin que je les établisse pour être vos juges et vos commandants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Tunc respondistis mihi : Bona res est, quam vis facere.",
+      "french": "Vous me répondîtes alors : C'est une très bonne chose que vous voulez faire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Tulique de Tribubus vestris viros sapientes et nobiles, et constitui eos Principes, Tribunos, et Centuriones, et quinquagenarios ac decanos, qui docerent vos singula.",
+      "french": "Et je pris de vos Tribus des hommes sages et nobles, je les établis pour être vos Princes, vos Tribuns, vos commandants de cent hommes, de cinquante, et de dix, pour vous instruire sur chaque chose.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Praecepique eis, dicens : Audite illos, et quod justum est judicate : sive civis sit ille, sive peregrinus.",
+      "french": "Je leur donnai ces avis en même temps, je leur dis : Écoutez ceux qui viendront à vous, domestiques, ou étrangers, et jugez-les selon la justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Nulla erit distantia personarum, ita parvum audietis ut magnum : nec accipietis cujusquam personam, quia Dei judicium est. Quod si difficile vobis visum aliquid fuerit, referte ad me, et ego audiam.",
+      "french": "Vous ne mettrez aucune différence entre les personnes : vous écouterez le petit comme le grand, et vous n'aurez aucun égard à la condition de qui que ce soit, parce que c'est le jugement de Dieu que vous exercez. Si vous trouvez quelque chose de plus difficile, vous me le rapporterez, et je l'écouterai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Praecipique omnia quae facere deberetis.",
+      "french": "Et je vous ordonnai alors tout ce que vous aviez à faire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Profecti autem de Horeb, transivimus per eremum terribilem et maximam, quam vidistis per viam montis Amorrhaei, sicut praeceperat Dominus Deus noster nobis. Cumque venissemus in Cadesbarne,",
+      "french": "Étant partis d'Horeb, nous passâmes par ce grand et effroyable désert, que vous avez vu, par le chemin qui conduit à la montagne des Amorrhéens, selon que le Seigneur notre Dieu nous l'avait commandé, Et étant venus à Cadès-barné,",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Dixi vobis : Venistis ad montem Amorrhaei, quem Dominus Deus noster daturus est nobis.",
+      "french": "Je vous dis : Vous voilà arrivés à la montagne des Amorrhéens, que le Seigneur notre Dieu nous doit donner.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Vide terram, quam Dominus Deus tuus dat tibi : ascende, et posside eam, sicut locutus est Dominus Deus noster patribus tuis : noli timere, nec quidquam paveas.",
+      "french": "Considérez la terre que le Seigneur votre Dieu vous donne : montez-y, et vous en rendez maître, selon que le Seigneur notre Dieu l'a promise à vos pères : ne craignez point, et que rien ne vous étonne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Et accessistis ad me omnes, atque dixistis : Mittamus viros qui considerent terram : et renuntient per quod iter debeamus ascendere, et ad quas pergere civitates.",
+      "french": "Alors vous vîntes tous me trouver, et vous me dîtes : Envoyons des hommes qui considèrent le pays, et qui nous marquent le chemin par où nous devons entrer, et les villes où nous devons aller.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Cumque mihi sermo placuisset, misi ex vobis duodecim viros, singulos de tribubus suis.",
+      "french": "Ayant approuvé cet avis, j'envoyai douze hommes d'entre vous, un de chaque Tribu :",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Qui cum perrexissent, et ascendissent in montana, venerunt usque ad Vallem botri : et considerata terra,",
+      "french": "Qui s'étant mis en chemin, et ayant passé les montagnes, vinrent jusqu'à la vallée de la grappe de raisin ; et après avoir considéré le pays,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Sumentes de fructibus ejus, ut ostenderent ubertatem, attulerunt ad nos, atque dixerunt : Bona est terra, quam Dominus Deus daturus est nobis.",
+      "french": "Ils prirent des fruits qu'il produit, pour nous faire voir combien il était fertile ; et nous les ayant apportés, ils nous dirent : La terre que le Seigneur notre Dieu nous veut donner, est très bonne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Et noluistis ascendere, sed increduli ad sermonem Domini Dei nostri,",
+      "french": "Mais vous ne voulûtes point y aller : et étant incrédules à la parole du Seigneur notre Dieu,",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Murmur astis in tabernaculis vestris, atque dixistis : Odit nos Dominus, et idcirco eduxit nos de terra Aegypti, ut traderet nos in manu Amorrhæi, atque deleret.",
+      "french": "Vous murmurâtes dans vos tentes, en disant : Le Seigneur nous hait, et il nous a fait sortir de l'Égypte, pour nous livrer entre les mains des Amorrhéens, et pour nous exterminer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Quo ascendemus ? nuntii terrerunt cor nostrum, dicentes : Maxima multitudo est, et nobis statura procerior : urbes magnae, et ad coelum usque munitae : filios Enacim vidimus ibi.",
+      "french": "Où irons-nous ? Ceux que nous avons envoyés, nous ont jeté l'épouvante dans le cœur, en nous disant : Les ennemis sont en très grand nombre : les hommes y sont d'une taille beaucoup plus haute que nous : leurs villes sont grandes et fortifiées de murs qui vont jusqu'au ciel : nous avons vu là des géants de la race d'Enac.",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et dixi vobis : Nolite metuere, nec timeatis eos.",
+      "french": "Et je vous dis alors : N'ayez point de peur, et ne les craignez point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Dominus Deus, qui ductor est vester, pro vobis ipse pugnabit, sicut fecit in Aegypto, cunctis videntibus.",
+      "french": "Le Seigneur votre Dieu, qui est votre conducteur, combattra pour vous, ainsi qu'il a fait en Égypte, à la vue de tous les peuples :",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Et in solitudine (ipse vidisti) portavit te Dominus Deus tuus, ut solet homo gestare parvulum filium suum, in omni via per quam ambulastis, donec veniretis ad locum istum.",
+      "french": "Et vous avez vu vous-mêmes dans ce désert, que le Seigneur votre Dieu vous a portés dans tout le chemin par où vous avez passé, comme un homme a accoutumé de porter son petit enfant entre ses bras, jusqu'à ce que vous soyez arrivés en ce lieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et nec sic quidem credidistis Domino Deo vestro,",
+      "french": "Mais tout ce que je vous dis alors ne vous put point engager à croire le Seigneur votre Dieu,",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Qui praecessit vos in via, et metatus est locum, in quo tentoria figere deberetis, nocte ostendens vobis iter per ignem, et die per columnam nubis.",
+      "french": "Qui a marché devant vous dans tout le chemin ; qui vous a marqué le lieu où vous deviez dresser vos tentes ; qui vous a montré, la nuit, le chemin par la colonne de feu, et le jour, par la colonne de nuée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Clamque audisset Dominus vocem sermonum vestrorum, iratus juravit, et ait :",
+      "french": "Le Seigneur ayant donc entendu vos murmures, entra en colère, et dit avec serment :",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Non videbit quispiam de hominibus generationis hujus pessimae, terram bonam, quam sub juramento pollicitus sum patribus vestris.",
+      "french": "Nul des hommes de cette race criminelle, ne verra cet excellent pays que j'avais juré de donner à vos pères ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Praeter Caleb filium Jephone : ipse enim videbit eam, et ipsi dabo terram quam calcavit, et filiis ejus, quia secutus est Dominum.",
+      "french": "Excepté Caleb, fils de Jéphoné. Car celui-là le verra, et je lui donnerai à lui, et à ses enfants, la terre où il a marché, parce qu'il a suivi le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Nec miranda indignatio in populum, cum mihi quoque iratus Dominus propter vos dixerit : Nec tu ingredieris illuc :",
+      "french": "Et on ne doit pas s'étonner de cette indignation du Seigneur contre le peuple, puisque s'étant mis en colère contre moi-même, à cause de vous, il me dit : Vous-même, vous n'y entrerez point non plus :",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Sed Josue filius Nun minister tuus, ipse intrabit pro te. Hunc hortare et robora, et ipse forte terram dividet Israëli.",
+      "french": "Mais Josué, fils de Nun, votre serviteur, y entrera, au lieu de vous. Exhortez-le, et le fortifiez ; car ce sera lui qui partagera la terre par sort à tout Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Parvuli vestri, de quibus dixistis, quod captivi ducerentur, et filii qui hodie boni ac mali ignorant distantiam, ipsi ingredientur, et ipsis dabo terram, et possidebunt eam.",
+      "french": "Vos petits-enfants, que vous avez dit qui seraient emmenés captifs, et vos fils qui ne savent pas encore discerner le bien et le mal, seront ceux qui entreront en cette terre. Je la leur donnerai, et ils la posséderont.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Vos autem revertimini, et abite in solitudinem, per viam maris rubri.",
+      "french": "Mais pour vous, retournez, et allez vous-en dans le désert, par le chemin qui conduit vers la mer rouge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Et respondistis mihi : Peccavimus Domino : Ascendemus et pugnabimus sicut praecepit Dominus Deus noster. Cumque instructis armis pergeretis in montem,",
+      "french": "Vous me répondîtes alors : Nous avons péché contre le Seigneur. Nous monterons, et nous combattrons, comme le Seigneur notre Dieu nous l'a ordonné. Et lorsque vous marchiez les armes à la main vers la montagne,",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Ait mihi Dominus : Dic ad eos : Nolite ascendere, neque pugnetis ; non enim sum vobiscum : ne cadatis coram inimicis vestris.",
+      "french": "Le Seigneur me dit : Dites leur : N'entreprenez point de monter et de combattre, parce que je ne suis pas avec vous, de peur que vous ne succombiez devant vos ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Locutus sum, et non audistis, sed adversantes imperio Domini, et tumentes superbia, ascendistis in montem.",
+      "french": "Je vous le dis, et vous ne m'écoutâtes point : mais vous opposant au commandement du Seigneur, et étant enflés d'orgueil, vous montâtes sur la montagne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Itaque egressus Amorrhaeus, qui habitabat in montibus, et obviam veniens, persecutus est vos, sicut solent apes persequi : et cecidit de Seïr usque Horma.",
+      "french": "Alors les Amorrhéens, qui habitaient les montagnes, ayant paru, et étant venus à votre rencontre, vous poursuivirent comme les abeilles poursuivent celui qui les irrite, et vous taillèrent en pièces depuis Séir jusqu'à Horma.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Cumque reversi ploraretis coram Domino, non audivit vos, nec voci vestrae voluit acquiescere.",
+      "french": "Étant retournés de là, et ayant pleuré devant le Seigneur, il ne vous écouta point, et il ne voulut point se rendre à vos prières.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    }
+  ]
+}

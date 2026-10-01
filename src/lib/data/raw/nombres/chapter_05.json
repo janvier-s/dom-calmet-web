@@ -1,0 +1,349 @@
+{
+  "book": "Nombres",
+  "chapter": 5,
+  "chapter_summary": "Lois pour chasser les Lépreux hors du camp: pour la restitution du vol, ou du dommage qu'on aura causé. Épreuve d'une femme soupçonnée d'adultère. Eaux de jalousie.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Locutusque est Dominus ad Moysen, dicens:",
+      "french": "Le Seigneur parla à Moïse, et lui dit:",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Præcipe filiis Israel, ut ejiciant de castris omnem leprosum: et qui semine fluit, pollutusque est super mortuo:",
+      "french": "Ordonnez aux enfants d'Israël de chasser du camp les lépreux, et ceux qui sont incommodés de la gonorrhée, et ceux qui sont souillés pour avoir assisté à des funérailles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Tam masculum quam feminam ejicite de castris, ne contaminent ea cum habitaverim vobiscum.",
+      "french": "Chassez-les du camp, soit que ce soit un homme, ou une femme, et qu'ils ne souillent point le lieu où je demeure au milieu de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Feceruntque ita filii Israel, et ejecerunt eos extra castra, sicut locutus erat Dominus Moysi.",
+      "french": "Les enfants d'Israël exécutèrent ces ordres, et ils chassèrent ces personnes hors du camp, comme le Seigneur l'avait dit à Moïse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Locutusque est Dominus ad Moysen, dicens:",
+      "french": "Et le Seigneur parla à Moïse, et lui dit:",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Loquere ad filios Israel: Vir, sive mulier, cum fecerint ex omnibus peccatis, quæ solent hominibus accidere, et per negligentiam transgressi fuerint mandatum Domini, atque deliquerint,",
+      "french": "Dites aux enfants d'Israël: Lorsqu'un homme, ou une femme, auront fait quelques-uns des péchés qui arrivent d'ordinaire aux hommes, et qu'ils auront transgressé par négligence le commandement du Seigneur, et qu'ils auront commis quelque faute;",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Confitebuntur peccatum suum, et reddent ipsum caput, quintamque partem desuper, ei in quem peccaverint.",
+      "french": "Et ils rendront à celui à qui ils auront causé du dommage, la juste valeur de la chose, en y ajoutant un cinquième par-dessus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Sin autem non fuerit qui recipiat, dabunt Domino, et erit sacerdotis, excepto ariete, qui offertur pro expiatione, ut sit placabilis hostia.",
+      "french": "Que s'il ne se trouve personne pour recevoir cette restitution, ils la donneront au Seigneur, et elle appartiendra au Prêtre, excepté le Bélier qui s'offre en hostie d'expiation, pour apaiser la colère du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Omnes quoque primitiæ, quas offerunt filii Israel, ad sacerdotem pertinent :",
+      "french": "Toutes les prémices qui sont offertes par les enfants d'Israël, appartiendront au Prêtre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et quidquid in Sanctuarium offertur a singulis, et traditur manibus Sacerdotis, ipsius erit.",
+      "french": "Et tout ce qui est offert au Sanctuaire, et mis entre les mains du Prêtre, appartiendra au Prêtre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Locutusque est Dominus ad Moysen : dicens :",
+      "french": "Le Seigneur parla encore à Moïse, et lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Loquere ad filios Israel: Vir, sive mulier, cujus uxor erraverit ; maritumque contemnens,",
+      "french": "Parlez aux enfants d'Israël, et dites-leur : Lorsqu'une femme sera tombée en faute, et que méprisant son mari,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Dormierit cum altero viro, et hoc maritus deprehendere non quiverit, sed latet adulterium, et testibus argui non potest, quia non est inventa in stupro :",
+      "french": "Elle se sera approchée d'un autre homme, en sorte que son mari n'ait pu découvrir son crime, et que son adultère demeure caché, sans qu'elle puisse en être convaincue par des témoins, parce qu'elle n'a point été surprise dans ce crime :",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Si spiritus zelotypiæ concitaverit virum contra uxorem suam, quæ vel polluta est, vel falsa suspicione appetitur,",
+      "french": "Si l'esprit de jalousie transporte ce mari contre sa femme, qui aura été souillée véritablement, ou qui est soupçonnée faussement;",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Adduces eam ad Sacerdotem, et offeret oblationem pro illa, decimam partem sati farinæ hordeaceæ : non fundet super eam oleum, nec imponet thus : quia sacrificium Zelotypiæ est, et oblatio investigans adulterium.",
+      "french": "Il la fera venir devant le Prêtre, et offrira pour elle en offrande la dixième partie d'une mesure de farine d'orge. On ne répandra point d'huile par-dessus, et on n'y jettera point d'encens, parce que c'est un sacrifice de jalousie, et une offrande pour découvrir l'adultère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Offeret igitur eam Sacerdos, et statuet coram Domino :",
+      "french": "Le Prêtre l'amènera donc, et la présentera devant le Seigneur;",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Assumetque aquam sanctam in vase fictili, et pauxillum terræ de pavimento tabernaculi mittet in eam.",
+      "french": "Et il prendra de l'eau sainte dans un vaisseau de terre, et il y jettera un peu de terre du pavé du Tabernacle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Cumque steterit mulier in conspectu Domini, discooperiet caput ejus, et ponet super manus illius sacrificium recordationis, et oblationem zelotypiæ, ipse autem tenebit aquas amarissimas, in quibus cum execratione maledicta congessit :",
+      "french": "Et lorsque la femme sera debout devant le Seigneur, le Prêtre lui découvrira la tête, et lui mettra sur les mains le sacrifice pour rappeler le souvenir, et l'oblation de la jalousie; et il tiendra lui-même les eaux très amères sur lesquelles il a prononcé les malédictions avec exécration:",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Adjurabitque eam, et dicet : Si non dormivit vir alienus tecum, et si non polluta es deserto mariti thoro, non te nocebunt aquæ istæ amarissimæ, in quas maledicta congessit.",
+      "french": "Et il conjurera la femme en lui disant : Si un homme étranger ne s'est point approché de vous, et si vous ne vous êtes point souillée en quittant le lit de votre mari, ces eaux très amères que j'ai chargées de malédictions, ne vous nuiront point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Sin autem declinasti a viro tuo, atque polluta es, et concubuisti cum altero viro:",
+      "french": "Mais si vous vous êtes éloignée de votre mari, et que vous vous soyez souillée en vous approchant d'un autre homme,",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "His maledictionibus subjacebis : Det te Dominus in maledictionem, exemplumque cunctorum in populo suo : putrescere faciat femur tuum, et tumens uterus tuus dirumpatur.",
+      "french": "Les malédictions que je vais prononcer tomberont sur vous : Que le Seigneur vous rende un objet de malédiction, et que vous deveniez un exemple pour tout son peuple : qu'il fasse pourrir votre cuisse, et que votre ventre s'enfle, et qu'il crève.",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Ingrediantur aquæ maledictæ in ventrem tuum, et utero tumescente putrescat : et mur Et respondebit mulier, Amen, amen.",
+      "french": "Que ces eaux chargées de malédiction entrent dans votre ventre, et qu'étant devenue toute enflée, votre cuisse se pourrisse. Et la femme répondra, Ainsi soit-il, ainsi soit-il.",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Scribetque Sacerdos in libello ista maledicta, et delebit ea aquis amarissimis, in quas maledicta congessit.",
+      "french": "Et le Prêtre ayant écrit ces malédictions sur un livre, il les effacera dans les eaux très amères sur lesquelles il aura prononcé les malédictions.",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et dabit ei bibere. Quas cum exhauserit,",
+      "french": "Et il les lui donnera à boire : et lorsqu'elle les aura prises,",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Tollet Sacerdos de manu ejus sacrificium zelotypiæ, et elevabit illud coram Domino, imponetque illud super altare : ita duntaxat ut prius",
+      "french": "Le Prêtre prendra de ses mains le sacrifice de jalousie, il l'élèvera devant le Seigneur, et le mettra sur l'Autel; en sorte néanmoins qu'auparavant",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Pugillum sacrificii tollat de eo quod offertur, et incendat super altare : et sic potum det mulieri aquas amarissimas.",
+      "french": "Il sépare une poignée de ce qui est offert en ce sacrifice, et qu'il le fasse brûler sur l'Autel; et alors il donnera à boire à la femme les eaux qui sont très amères.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Quas cum biberit, si polluta est et contempto viro adulterii rea, pertransibunt eam aquæ maledictionis, et inflato ventre computrescet femur : eritque mulier in maledictionem, et in exemplum omni populo.",
+      "french": "Et après qu'elle les aura bues, si elle a été souillée, et si méprisant son mari, elle s'est rendue coupable d'adultère, elle sera pénétrée de ces eaux de malédiction, son ventre s'enflera, et sa cuisse pourrira; et cette femme deviendra un objet de malédiction, et un exemple pour tout le peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Quod si polluta non fuerit, erit innoxia, et faciet liberos.",
+      "french": "Que si elle n'a point été souillée, elle n'en souffrira aucun mal, et elle aura des enfants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Ista est lex Zelotypiæ. Si declinaverit mulier a viro suo, et si polluta fuerit,",
+      "french": "Voilà la Loi qui s'observera dans le cas de la jalousie. Si une femme s'étant retirée de son mari, et s'étant souillée,",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Maritusque zelotypiæ spiritu concitatus, adduxerit eam in conspectu Domini, et fecerit ei Sacerdos, juxta omnia quæ scripta sunt :",
+      "french": "Le mari poussé par un esprit de jalousie, la mène devant le Seigneur, et que le Prêtre fasse envers elle tout ce qui est écrit ici :",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Maritus absque culpa erit, et illa recipiet iniquitatem suam.",
+      "french": "Le mari sera exempt de faute, et la femme portera la peine de son iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "A triginta annis et supra, usque ad annum quinquagesimum, omnes qui ingrediuntur ad explendos ritus tabernaculi foederis.",
+      "french": "Depuis trente ans et au-dessus, jusqu'à cinquante, tous ceux qui entrent dans le Tabernacle de l'Alliance pour y exercer leur office.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Et inventi sunt tria millia ducenti.",
+      "french": "Et il s'en trouva trois mille deux cents.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Hic est numerus filiorum Merari, quos recensuerunt Moyses et Aaron juxta imperium Domini per manum Moysi.",
+      "french": "C'est-là le nombre des enfants de Mérari, qui furent comptés par Moïse et Aaron, selon l'ordre que Moïse en avait reçu du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Omnes qui recensiti sunt de Levis, et quos recenseri fecit ad nomen Moyses, et Aaron, et principes Israel per cognationes et domos patrum suorum,",
+      "french": "Tous les Lévites, dont Moïse et Aaron et les Princes d'Israël firent le dénombrement par leurs noms, selon les familles, et les maisons de leurs pères,",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "A triginta annis et supra, usque ad annum quinquagesimum, ingredientes ad ministerium Tabernaculi, et onera portanda,",
+      "french": "Depuis trente ans et au-dessus, jusqu'à cinquante, qui étaient occupés au service du Tabernacle, et à porter les fardeaux,",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Fuerunt simul octo millia quingenti octoginta.",
+      "french": "Se trouvèrent en tout, au nombre de huit mille cinq cents quatre-vingt.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Juxta verbum Domini recensuit eos Moyses, unumquemque juxta officium et onera sua, sicut præceperat ei Dominus.",
+      "french": "Moïse en fit le dénombrement par l'ordre du Seigneur, marquant à chacun l'emploi qu'il devait avoir; et les fardeaux qu'il devait porter, comme le Seigneur le lui avait ordonné.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    }
+  ]
+}

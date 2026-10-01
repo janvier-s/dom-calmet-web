@@ -1,0 +1,323 @@
+{
+  "book": "Lévitique",
+  "chapter": 19,
+  "chapter_summary": "Respect dû aux parents et aux vieillards. Lois pour l'observation du Sabbat. Il faut éviter l'idolâtrie. Défense de manger de l'hostie pacifique au troisième jour, de couper la moisson jusqu'à la terre, de cueillir les grappes qui restent, de jurer faussement, de calomnier son prochain, de différer le payement du mercenaire, de parler mal d'un sourd, de faire tomber un aveugle. Lois pour les Juges, contre la médisance, contre la haine du prochain, contre la vengeance. Défense d'accoupler des animaux de diverses espèces, d'abuser d'une fille esclave, de recueillir les fruits des nouveaux arbres, les trois premières années après qu'ils sont plantés ; de manger du sang, d'observer les songes et les augures, de couper ses cheveux en rond, de se faire des incisions, de prostituer les filles. Ordre d'aimer les étrangers, et d'avoir des poids et des mesures justes.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Locutus est Dominus ad Moysen, dicens :",
+      "french": "Le Seigneur parla à Moïse, et lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0234.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Loquere ad omnem coetum filiorum Israel, et dices ad eos : Sancti estote, quia ego sanctus sum, Dominus Deus vester.",
+      "french": "Parlez à toute l'assemblée des enfants d'Israël, et dites-leur : Soyez saints, parce que je suis saint, moi qui suis le Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0234.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Unusquisque patrem suum, et matrem suam timeat : Sabbatha mea custodite. Ego Dominus Deus vester.",
+      "french": "Que chacun craigne son père et sa mère. Gardez mes jours de sabbat. Je suis le Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0234.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Nolite converti ad Idola, nec Deos conflatiles faciatis vobis. Ego Dominus Deus vester.",
+      "french": "Ne vous tournez point vers les Idoles, et ne faites point de Dieux jetés en fonte. Je suis le Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0235.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Si immolaveritis hostiam pacificorum Domino, ut sit placabilis,",
+      "french": "Si vous immolez une hostie pacifique au Seigneur, afin qu'il vous soit favorable ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0235.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Eo die quo fuerit immolata, comedetis eam, et die altero : quidquid autem residuum fuerit in diem tertium, igne comburetis.",
+      "french": "Vous la mangerez le même jour, et le jour d'après qu'elle aura été immolée : mais vous consumerez par le feu tout ce qui en restera le troisième jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0235.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Si quis post biduum comederit ex ea, profanus erit, et impietatis reus.",
+      "french": "Si quelqu'un en mange après les deux jours, il sera profane, et coupable d'impiété.",
+      "annotations": null,
+      "source_pages": [
+        "page_0235.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Portabitque iniquitatem suam, quia Sanctum Domini polluit, et peribit anima illa de populo suo.",
+      "french": "Il portera la peine de son iniquité, parce qu'il a souillé le Saint du Seigneur. Cet homme périra du milieu de son peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0235.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Cum messueris segetes terrae tuae ; non tondebis usque ad solum superficiem terrae : nec remanentes spicas colliges.",
+      "french": "Lorsque vous ferez la moisson dans vos champs, vous ne couperez point jusqu'au pied ce qui sera crû sur la terre, et vous ne ramasserez point les épis qui seront restés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0235.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Neque in vinea tua racemos, et grana decidentia congregabis, sed pauperibus et peregrinis carpenda dimittes. Ego Dominus Deus vester.",
+      "french": "Vous ne cueillerez point aussi dans votre vigne les grappes qui restent, et vous ne ramasserez point les grains qui tombent : mais vous les abandonnerez aux pauvres et aux étrangers. Je suis le Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0236.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Non facietis furtum. Non mentiemini, nec decipiet unusquisque proximum suum.",
+      "french": "Vous ne déroberez point. Vous ne mentirez point ; et nul ne trompera son prochain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0237.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Non perjurabis in nomine meo : nec pollues nomen Dei tui. Ego Dominus.",
+      "french": "Vous ne vous parjurerez point en jurant mon nom ; et vous ne souillerez point le nom de votre Dieu. Je suis le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0237.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Non facies calumniam proximo tuo, nec vi opprimes eum. Non morabitur opus mercenarii tui apud te usque mane.",
+      "french": "Vous ne calomnierez point votre prochain, et vous ne l'opprimerez point par violence. Vous ne différerez point le payement du mercenaire qui vous sert, jusqu'au lendemain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0238.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Non maledices surdo, nec coram caeco pones offendiculum : sed timebis Dominum Deum tuum, quia ego sum Dominus.",
+      "french": "Vous ne parlerez point mal du sourd, et vous ne mettrez rien devant l'aveugle, qui le puisse faire tomber. Mais vous craindrez le Seigneur votre Dieu, parce que je suis le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0238.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Non facies quod iniquum est, nec injuste judicabis. Non consideres personam pauperis, nec honores vultum potentis. Juste judica proximo tuo.",
+      "french": "Vous ne ferez rien contre l'équité. Vous ne jugerez point injustement. Ne considérez point la personne du pauvre, et ne craignez point la présence du riche. Jugez votre prochain avec justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0239.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Non eris criminator, nec susurro in populo tuo. Non stabis contra sanguinem proximi tui. Ego Dominus.",
+      "french": "Ne soyez point médisant parmi le peuple, ni en public, ni en secret ; et ne poursuivez point la mort de votre prochain. Je suis le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Non oderis fratrem tuum in corde tuo : sed publice argue eum, ne habeas super illo peccatum.",
+      "french": "Vous ne haïrez point votre frère en votre cœur ; mais vous le reprendrez publiquement, de peur que vous ne péchiez vous-même sur son sujet.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Non quaeras ultionem, nec memor eris injuriae civium tuorum. Diliges amicum tuum sicut teipsum. Ego Dominus.",
+      "french": "Ne cherchez point à vous venger, et ne conservez point le souvenir de l'injure de vos citoyens. Vous aimerez votre ami comme vous-même. Je suis le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Leges meas custodite. Jumentum tuum non facies coire cum alterius generis animantibus. Agrum tuum non seres diverso semine. Veste quae ex duobus texta est, non indueris.",
+      "french": "Gardez mes Lois. Vous n'accouplerez point votre bête avec un animal d'une autre espèce. Vous ne sèmerez point votre champ de semences différentes ; vous ne vous revêtirez point d'une robe tissée de fils différents.",
+      "annotations": null,
+      "source_pages": [
+        "page_0244.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Homo si dormierit cum muliere coitu seminis, quae sit ancilla etiam nubilis, et tamen pretio non redempta, nec libertate donata : vapulabunt ambo, et non morientur, quia non fuit libera.",
+      "french": "Si un homme dort avec une femme esclave, et en âge d'être mariée, avant qu'elle ait été rachetée et mise en liberté, ils seront battus tous deux, mais ils ne mourront pas, parce que ce n'était pas une femme libre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0246.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Pro delicto autem suo offeret Domino ad ostium Tabernaculi testimonii arietem :",
+      "french": "L'homme offrira pour sa faute, un bélier à l'entrée du Tabernacle du témoignage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0247.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Orabitque pro eo Sacerdos, et pro peccato ejus coram Domino, et repropitiabitur ei, dimitteturque peccatum.",
+      "french": "Le Prêtre priera pour lui, et pour son péché devant le Seigneur, il rentrera en grâce, et son péché lui sera pardonné.",
+      "annotations": null,
+      "source_pages": [
+        "page_0247.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Quando ingressi fueritis terram, et plantaveritis in ea ligna pomifera : auferetis praeputia eorum : poma quae germinant, immunda erunt vobis, necedetis ex eis.",
+      "french": "Lorsque vous serez entrés dans cette terre, et que vous y aurez planté des arbres fruitiers, vous en retrancherez, par une espèce de circoncision, les premiers fruits : vous regarderez ces productions comme impures, et vous n'en mangerez point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0247.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Quarto autem anno omnis fructus eorum sanctificabitur laudabilis Domino.",
+      "french": "La quatrième année, tout le fruit sera sanctifié, et consacré à la gloire du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0248.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Quinto autem anno comedetis fructus, congregantes poma quae proferunt. Ego Dominus Deus vester.",
+      "french": "Et la cinquième année vous en mangerez les fruits, et vous recueillerez ce que chaque arbre aura porté. Je suis le Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0248.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Non comedetis cum sanguine. Non augurabimini, nec observabitis somnia.",
+      "french": "Vous ne mangerez rien avec le sang : vous n'userez point d'augures, et vous n'observerez point les songes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0249.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Neque in rotundum attondebitis comam : nec radetis barbam.",
+      "french": "Vous ne couperez point vos cheveux en rond, et vous ne raserez point votre barbe.",
+      "annotations": null,
+      "source_pages": [
+        "page_0250.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et super mortuo non incidetis carnem vestram, neque figuras aliquas aut stigmata facietis vobis. Ego Dominus.",
+      "french": "Vous ne ferez point d'incisions dans votre chair en pleurant les morts, et vous ne ferez aucune figure ni aucune marque sur votre corps. Je suis le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0252.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Ne prostituas filiam tuam, ne contaminetur terra, et impleatur piaculo.",
+      "french": "Ne prostituez point votre fille, de peur que la terre ne soit corrompue et remplie de crimes.",
+      "source_pages": [
+        "page_0255.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Sabbata mea custodite, et Sanctuarium meum metuite. Ego Dominus.",
+      "french": "Gardez mes jours de Sabbat, et tremblez devant mon Sanctuaire. Je suis le Seigneur.",
+      "source_pages": [
+        "page_0255.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Non declinetis ad Magos, nec ab ariolis aliquid sciscitemini, ut polluamini per eos. Ego Dominus Deus vester.",
+      "french": "Ne vous éloignez point de votre Dieu, pour aller chercher des Magiciens, et ne consultez point les devins, de peur que le commerce de ces gens ne vous corrompe. Je suis le Seigneur votre Dieu.",
+      "source_pages": [
+        "page_0255.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Coram cano capite consurge, et honora personam senis : et time Dominum Deum tuum. Ego sum Dominus.",
+      "french": "Levez-vous devant ceux qui ont les cheveux blancs, honorez la personne du vieillard, et craignez le Seigneur votre Dieu. Je suis le Seigneur.",
+      "source_pages": [
+        "page_0256.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Si habitaverit advena in terra vestra, et moratus fuerit inter vos, non exprobretis ei.",
+      "french": "Si un étranger habite dans votre pays, et demeure au milieu de vous, ne lui en faites aucun reproche.",
+      "source_pages": [
+        "page_0256.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Sed sit inter vos quasi indigena : et diligetis eum quasi vosmetipsos : fuistis enim et vos advenæ in terra Ægypti. Ego Dominus Deus vester.",
+      "french": "Mais qu'il soit parmi vous, comme s'il était né dans votre pays, et aimez-le comme vous-mêmes ; car vous avez été aussi vous-mêmes étrangers dans l'Égypte. Je suis le Seigneur votre Dieu.",
+      "source_pages": [
+        "page_0257.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Nolite facere iniquum aliquid in judicio, in regula, in pondere, in mensura.",
+      "french": "Ne faites rien contre l'équité, ni dans vos jugements, ni dans ce qui sert à mesurer les longueurs, ni dans les poids, ni dans les mesures.",
+      "source_pages": [
+        "page_0257.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Statera justa, et æqua sint pondera, justus modius, æquusque sextarius. Ego Dominus Deus vester, qui eduxi vos de terra Ægypti.",
+      "french": "Que la balance soit juste, et les poids tels qu'ils doivent être. Que le boisseau soit juste, et que le setier ait sa mesure. Je suis le Seigneur votre Dieu, qui vous ai tirés de l'Égypte.",
+      "source_pages": [
+        "page_0257.json"
+      ]
+    }
+  ]
+}

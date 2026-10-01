@@ -1,0 +1,114 @@
+{
+  "book": "Deutéronome",
+  "chapter": 34,
+  "chapter_summary": "Mort de Moïse. Sa sépulture inconnue. Josué lui succède. Éloge de Moïse.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Ascendit ergo Moyses de campestribus Moab super montem Nebo, in verticem Phasga contra Jericho: ostenditque ei Dominus omnem terram Galaad usque Dan,",
+      "french": "Moïse monta donc de la plaine de Moab sur la montagne de Nébo, au haut de Phasga, vis-à-vis de Jéricho ; et le Seigneur lui fit voir de là tout le pays de Galaad, jusqu'à Dan,",
+      "annotations": null,
+      "source_pages": [
+        "page_0448.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et universam Nephtali, terramque Ephraïm et Manasse, et omnem terram Juda, usque ad Mare novissimum.",
+      "french": "Tout Nephtali, toute la terre d'Éphraïm et de Manassé, et tout le pays de Juda, jusqu'à la Mer occidentale.",
+      "annotations": null,
+      "source_pages": [
+        "page_0449.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et australem partem, et latitudinem campi Jericho civitatis palmarum, usque Segor.",
+      "french": "Tout le côté du Midi, toute l'étendue de la campagne de Jéricho, et de la ville des palmiers, jusqu'à Segor.",
+      "annotations": null,
+      "source_pages": [
+        "page_0449.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Dixitque Dominus ad eum : Haec est terra, pro qua juravi Abraham, Isaac, et Jacob, dicens : Semini tuo dabo eam. Vidisti eam oculis tuis, et non transibis ad illam.",
+      "french": "Et le Seigneur lui dit : Voilà le pays pour lequel j'ai fait serment à Abraham, à Isaac, et à Jacob, en leur disant : Je donnerai ce pays à votre postérité. Vous l'avez vu de vos yeux ; mais vous n'y entrerez point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0450.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Mortuusque est ibi Moyses servus Domini, in terra Moab, jubente Domino :",
+      "french": "Moïse serviteur du Seigneur, mourut dans ce lieu de la terre de Moab, selon l'ordre du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0450.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et sepelivit eum in valle terrae Moab, contra Phogor: et non cognovit homo sepulchrum ejus, usque in praesentem diem.",
+      "french": "Et il le fit enterrer dans la vallée du pays de Moab, vis-à-vis de Phogor ; et nul homme jusqu'aujourd'hui n'a connu le lieu où il a été enseveli.",
+      "source_pages": [
+        "page_0451.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Moyses centum et viginti annorum erat quando mortuus est: non caligavit oculus ejus, nec dentes illius moti sunt.",
+      "french": "Moïse avait cent vingt ans lorsqu'il mourut : sa vue ne baissa point pendant tout ce temps, et ses dents ne furent point ébranlées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0452.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Fleueruntque eum filii Israël in campestribus Moab triginta diebus : et completi sunt dies planctus lugentium Moysen.",
+      "french": "Les enfants d'Israël le pleurèrent dans la plaine de Moab pendant trente jours, après lesquels on finit le deuil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0453.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Josue vero filius Nun repletus est Spiritu sapientiae, quia Moyses posuit super eum manus suas. Et obedierunt ei filii Israël, feceruntque sicut praecepit Dominus Moysi.",
+      "french": "Pour ce qui est de Josué fils de Nun, il fut rempli de l'esprit de sagesse, parce que Moïse lui avait imposé les mains ; et les enfants d'Israël lui obéirent, en faisant ce que le Seigneur avait commandé à Moïse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0453.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et non surrexit ultra Propheta in Israël sicut Moyses, quem nosset Dominus facie ad faciem ;",
+      "french": "Il ne s'éleva plus dans Israël de Prophète semblable à Moïse, que le Seigneur connût face à face ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0453.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "In omnibus signis atque portentis, quae misit per eum, ut faceret in terra Aegypti Pharaoni, et omnibus servis ejus, universaeque terrae illius,",
+      "french": "Ni qui ait fait des miracles et des prodiges, comme ceux que le Seigneur a faits par Moïse dans l'Égypte, aux yeux de Pharaon, de ses serviteurs, et de tout son royaume ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0453.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et cunctam manum robustam, magnaque mirabilia, quae fecit Moyses coram universo Israël.",
+      "french": "Ni qui ait agi avec autant de pouvoir, ni qui ait fait des œuvres aussi grandes et aussi merveilleuses que celles que Moïse a faites devant tout Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0453.json"
+      ]
+    }
+  ]
+}

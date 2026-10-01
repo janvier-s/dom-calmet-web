@@ -1,0 +1,421 @@
+{
+  "book": "Deutéronome",
+  "chapter": 32,
+  "chapter_summary": "Dernier Cantique de Moïse. Il monte sur la montagne d'Abarim, d'où il pouvait considérer la terre de Canaan.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Audite cœli quæ loquor, audiat terra verba oris mei.",
+      "french": "Cieux, écoutez ce que je vais dire ; que la terre entende les paroles de ma bouche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0404.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Concrescat ut pluvia doctrina mea, fluat ut ros eloquium meum, quasi imber super herbam, et quasi stilla super gramina.",
+      "french": "Que mes instructions soient comme une pluie qui s’épaissit dans l’air : que mes paroles coulent comme la rosée, comme la pluie qui tombe sur les plantes, et comme les gouttes d’eau qui distillent sur l’herbe, qui ne commence qu’à pousser.",
+      "annotations": null,
+      "source_pages": [
+        "page_0405.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quia nomen Domini invocabo. Date magnificentiam Deo nostro.",
+      "french": "Parce que j’invoquerai le nom du Seigneur. Célébrez la grandeur de notre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0405.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Dei perfecta sunt opera, et omnes viæ ejus judicia : Deus fidelis, et absque ulla iniquitate, justus et rectus.",
+      "french": "Les œuvres de Dieu sont parfaites, et toutes ses voies sont pleines d'équité : Dieu est fidèle dans ses promesses, il est éloigné de toute iniquité ; et il est rempli de justice et de droiture.",
+      "annotations": null,
+      "source_pages": [
+        "page_0406.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Peccaverunt ei, et non filii ejus in sordibus : generatio prava atque perversa.",
+      "french": "Ceux qui portaient si indignement le nom de ses enfants, l'ont offensé par leurs souillures sacrilèges ; c'est une race pervertie et corrompue.",
+      "annotations": null,
+      "source_pages": [
+        "page_0406.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Haecine reddis Domino, popule stulte et insipiens? Numquid non ipse est pater tuus, qui possedit te, et fecit, et creavit te?",
+      "french": "Est-ce ainsi, peuple fou et insensé, que vous témoignez votre reconnaissance envers le Seigneur? N'est-ce pas lui qui est votre père, qui vous a pris pour soi, qui vous a fait, et qui vous a créé?",
+      "annotations": null,
+      "source_pages": [
+        "page_0407.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Memento dierum antiquorum, cogita generationes singulas: interroga patrem tuum, et annuntiabit tibi ; majores tuos, et dicent tibi.",
+      "french": "Consultez les siècles passés ; considérez ce qui s'est passé dans la suite de toutes les races : interrogez votre père, il vous instruira : interrogez vos aïeux, et ils vous diront ces choses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0407.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Quando dividebat Altissimus gentes : quando separabat filios Adam, constituit terminos populorum juxta numerum filiorum Israël.",
+      "french": "Quand le Très-haut a fait la division des peuples, quand il a séparé les enfants d'Adam ; il a marqué les limites des peuples, selon le nombre des enfants d'Israël qu'il avait en vue.",
+      "annotations": null,
+      "source_pages": [
+        "page_0408.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Pars autem Domini, populus ejus: Jacob funiculus hæreditatis ejus.",
+      "french": "Et il a choisi son peuple pour être particulièrement à lui, et a pris Jacob pour son partage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Invenit eum in terra deserta, in loco horroris, et vastae solitudinis: circumduxit eum, et docuit: et custodivit quasi pupillam oculi sui.",
+      "french": "Il l'a trouvé dans une terre déserte, dans un lieu affreux, et dans une vaste solitude ; il l'a conduit par divers chemins ; il l'a instruit, et il l'a conservé comme la prunelle de son œil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0410.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Sicut aquila provocans ad volandum pullos suos, et super eos volitans, expandit alas suas, et assumpsit eum, atque portavit in humeris suis.",
+      "french": "Comme un aigle attire ses petits pour leur apprendre à voler, et voltige doucement sur eux ; il a de même étendu ses ailes, a pris son peuple sur lui, comme l'aigle se charge de ses aiglons, et l'a porté sur ses épaules.",
+      "annotations": null,
+      "source_pages": [
+        "page_0410.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Dominus solus dux ejus fuit : et non erat cum eo Deus alienus.",
+      "french": "Le Seigneur a été seul son conducteur ; et il n’y avait point avec lui de Dieu étranger.",
+      "annotations": null,
+      "source_pages": [
+        "page_0411.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Constituit eum super excelsam terram : ut comederet fructus agrorum, ut sugeret mel de petra, oleumque de saxo durissimo.",
+      "french": "Il l’a établi dans une terre élevée et excellente pour y manger les fruits de la campagne, pour succer le miel de la pierre, et tirer l’huile des plus durs rochers ;\n      ",
+      "annotations": null,
+      "source_pages": [
+        "page_0411.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Butyrum de armento, et lac de ovibus, cum adipe agnorum, et arietum filiorum Basan : et hircos cum medulla tritici, et sanguinem uvae biberet meracissimum.",
+      "french": "Pour s’y nourrir du beurre des troupeaux, et du lait des brebis, de la graisse des agneaux, des moutons du pays de Basan, et des chevreaux, avec la fleur du froment ; et pour y boire le vin le plus pur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0412.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Incrassatus est dilectus, et recalcitravit : incrassatus, impinguatus, dilatatus, reliquit Deum factorem suum, et recessit a Deo salutari suo.",
+      "french": "Ce peuple si aimé de Dieu, s’étant plongé dans la bonne chère, s’est révolté contre lui : étant devenu tout chargé de graisse et d’embonpoint, il a dans son abondance abandonné Dieu son Créateur ; il s’est éloigné de Dieu qui l’avait sauvé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0412.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Provocaverunt eum in diis alienis, et in abominationibus ad iracundiam concitaverunt.",
+      "french": "Ces rebelles l’ont irrité en adorant des dieux étrangers ; ils ont attiré sa colère par les abominations qu’ils ont commises.",
+      "annotations": null,
+      "source_pages": [
+        "page_0412.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et ait : Abscondam faciem meam ab eis, et considerabo novissima eorum : generatio enim perversa est, et infideles filii.",
+      "french": "Alors il a dit : Je leur cacherai mon visage, et je considérerai leur fin malheureuse ; car ce peuple est une race corrompue, ce sont des enfants infidèles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0414.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Ipsi me provocaverunt in eo qui non erat Deus, et irritaverunt in vanitatibus suis : et ego provocabo eos in eo qui non est populus, et in gente stulta irritabo illos.",
+      "french": "Ils m'ont voulu comme piquer de jalousie, en adorant ceux qui n'étaient point dieux, et ils m'ont irrité par leurs vanités sacrilèges. Et moi je les piquerai de jalousie, en aimant un autre, qui n'est pas un peuple, et je les irriterai, en substituant à leur place une Nation insensée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0414.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Ignis succensus est in furore meo, ardebit usque ad inferni novissima : devorabitque terram cum germine suo, et montium fundamenta comburet.",
+      "french": "Ma fureur a allumé un feu qui brûlera jusques au fond des enfers ; elle dévorera la terre, avec ses moindres herbes ; elle embrasera les montagnes jusques dans leurs fondements.",
+      "annotations": null,
+      "source_pages": [
+        "page_0414.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Congregabo super eos mala, et sagittas meas complebo in eis.",
+      "french": "Je les accablerai de maux ; je tirerai contre eux toutes mes flèches.",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Consumentur fame, et devorabunt eos aves morsu amarissimo : dentes bestiarum immittam in eos, cum furore trahentium super terram, atque serpentium.",
+      "french": "La famine les consumera, et les oiseaux les déchireront par leurs morsures cruelles. J'armerai contre eux les dents des bêtes farouches, et la fureur de celles qui se traînent et qui rampent sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Foris vastabit eos gladius, et intus pavor ; juvenem simul ac virginem, lactentem cum homine sene.",
+      "french": "L'épée les désolera au-dehors, et la frayeur au dedans ; les jeunes hommes avec les vierges, les vieillards avec les enfants qui tètent encore.",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Dixi : Ubinam sunt? Cessare faciam ex hominibus memoriam eorum.",
+      "french": "J'ai dit alors: Où sont-ils maintenant? Je veux effacer leur mémoire de l'esprit des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0416.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Sed propter iram inimicorum distuli : ne forte superbirent hostes eorum, et dicerent : Manus nostra excelsa, et non Dominus, fecit haec omnia.",
+      "french": "Mais j'ai différé ma vengeance, pour ne satisfaire pas la fureur des ennemis de mon peuple ; de peur que leurs ennemis ne s'élevassent d'orgueil, et ne dissent : Ce n'a point été le Seigneur, mais c'est notre main très-puissante qui a fait toutes ces merveilles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0416.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Gens absque consilio est, et sine prudentia.",
+      "french": "Ce peuple n'a point de sens, il n'a aucune sagesse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0416.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Novi enim quod post mortem meam inique agetis, et declinabitis cito de via quam præcepi vobis : et occurrent vobis mala in extremo tempore, quando feceritis malum in conspectu Domini, ut irritetis eum per opera manuum vestrarum.",
+      "french": "Car je sais qu'après ma mort vous vous conduirez fort mal, que vous vous détournerez bientôt de la voie que je vous ai prescrite: et vous vous trouverez enfin surpris de beaucoup de maux, lorsque vous aurez péché devant le Seigneur, en l'irritant par les œuvres de vos mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0404.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Utinam saperent et intelligerent, ac novissima providerent!",
+      "french": "Ah, s'ils avaient de la sagesse ! Ah, s'ils comprenaient ma conduite, et qu'ils prévissent à quoi tout se terminera !",
+      "annotations": null,
+      "source_pages": [
+        "page_0417.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Locutus est ergo Moyses, audiente universo cœtu Israël, verba carminis hujus, et ad finem usque complevit.",
+      "french": "Moïse prononça donc les paroles de ce cantique, et il le récita jusqu'à la fin, devant tout le peuple d'Israël qui l'écoutait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0404.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Quo modo persequatur unus mille, et duo fugent decem milla ? nonne ideo, quia Deus suus vendidit eos, et Dominus conclusit illos ?",
+      "french": "Comment se peut-il faire qu'un seul ennemi batte mille Hébreux, et que deux en fassent fuir dix mille ? N'est-ce pas à cause que c'est leur Dieu qui les a vendus, et que c'est le Seigneur qui les a livrés en proie à leurs ennemis ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0418.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Non enim est Deus noster ut dii eorum : et inimici nostri sunt judices.",
+      "french": "Car notre Dieu n'est point comme les dieux de ces idolâtres, et j'en prends pour juges nos ennemis mêmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0418.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "De vinea Sodomorum, vinea eorum, et de suburbanis Gomorrhae : uva eorum uva fellis, et botri amarissimi.",
+      "french": "Leurs vignes sont des vignes de Sodome, des vignes des faubourgs de Gomorrhe : leurs raisins sont des raisins de fiel, et leurs grappes ne sont qu'amertume.",
+      "annotations": null,
+      "source_pages": [
+        "page_0419.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Fel draconum vinum eorum, et venenum aspidum insanabile.",
+      "french": "Leur vin est un fiel de dragons, c’est un venin d’aspics, qui est incurable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0419.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Nonne haec condita sunt apud me, et signata in thesauris meis ?",
+      "french": "Tout cela n’est-il pas renfermé chez moi, et scellé dans mes trésors ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0419.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Mea est ultio, et ego retribuam in tempore, ut labatur pes eorum: juxta est dies perditionis, et adesse festinant tempora.",
+      "french": "La vengeance est à moi, et je leur rendrai en son temps ce qui leur est dû : leurs pieds ne feront que des faux pas ; le jour de leur perte s'approche, et les moments s'en avancent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0420.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Judicabit Dominus populum suum, et in servis suis miserebitur: videbit quod infirmata sit manus, et clausi quoque defecerunt, residuique consumpti sunt.",
+      "french": "Le Seigneur jugera son peuple, et il aura pitié de ses serviteurs : il verra que les mains sont sans force ; que ceux même qui étaient renfermés, sont péris, et que ceux qui étaient échappés, sont détruits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0420.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Et dicet : Ubi sunt dii corum in quibus habebant fiduciam ?",
+      "french": "Il dira : Où sont leurs dieux, en qui ils avaient mis leur confiance,",
+      "annotations": null,
+      "source_pages": [
+        "page_0422.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "De quorum victimis comedebant adipes, et bibebant vinum libaminum : surgant, et opitulentur vobis, et in necessitate vos protegant.",
+      "french": "Lorsqu'ils mangeaient de la graisse des victimes qu'on leur offrait, et buvaient du vin de leurs sacrifices profanes? Qu'ils viennent présentement vous secourir, et qu'ils vous protègent dans l'extrémité où vous êtes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0422.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Videte quod ego sim solus, et non sit alius Deus praeter me : ego occidam, et ego vivere faciam : percutiam, et ego sanabo, et non est qui de manu mea possit eruere.",
+      "french": "Considérez que je suis le Dieu unique, qu'il n'y en a point d'autre que moi seul. C'est moi qui fais mourir, et c'est moi qui fais vivre : c'est moi qui blesse, et c'est moi qui guéris ; et nul ne peut rien soustraire à mon souverain pouvoir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0422.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Levabo ad caelum manum meam, et dicam : Vivo ego in aeternum.",
+      "french": "Je lèverai ma main au ciel, et je dirai: Aussi vrai que je vis éternellement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0422.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Si acuero ut fulgur gladium meum, et arripuerit judicium manus mea : reddam ultionem hostibus meis, et his qui oderant me retribuam.",
+      "french": "Si je rends mon épée aussi pénétrante que les éclairs, et que j'entreprenne d'exercer mon jugement selon ma puissance ; je me vengerai de mes ennemis : je traiterai ceux qui me haïssent, comme ils le méritent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0422.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Inebriabo sagittas meas sanguine, et gladius meus devorabit carnes, de cruore occisorum, et de captivitate, nudi inimicorum capitis.",
+      "french": "J'enivrerai mes flèches de leur sang, et mon épée se saoulera de leur chair ; mes armes seront teintes du sang des morts ; et je prendrai captifs les Chefs de mes ennemis dépouillés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0423.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Laudate, gentes, populum ejus, quia sanguinem servorum suorum ulciscetur : et vindictam retribuet in hostes eorum, et propitius erit terrae populi sui.",
+      "french": "Nations, louez le peuple du Seigneur, parce qu'il vengera le sang de ses serviteurs ; il tirera vengeance de leurs ennemis, et il se rendra favorable au pays de son peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0423.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Venit ergo Moyses, et locutus est omnia verba cantici hujus in auribus populi, ipse et Josue filius Nun.",
+      "french": "Moïse prononça donc, avec Josué fils de Nun, toutes les paroles de ce cantique, devant le peuple qui l’écoutait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0424.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Complevitque omnes sermones istos, loquens ad universum Israël.",
+      "french": "Et après qu’il eut achevé de le réciter devant tout Israël ;\n",
+      "annotations": null,
+      "source_pages": [
+        "page_0424.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Et dixit ad eos : Ponite corda vestra in omnia verba, quae ego testificor vobis hodie : ut mandetis ea filiis vestris custodire et facere et implere universa quae scripta sunt in legis hujus.",
+      "french": "Il leur dit : Gravez dans votre cœur toutes les protestations que je vous fais aujourd’hui ; et recommandez à vos enfants de garder, de pratiquer et d’accomplir tout ce qui est écrit en cette Loi ;\n",
+      "annotations": null,
+      "source_pages": [
+        "page_0424.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Quia non incassum praecepta sunt vobis, sed ut singuli in eis viverent : quae facientes longo perseveretis tempore in terra, ad quam, Jordane transmisso, ingredimini possidendam.",
+      "french": "Parce que ce n’est pas en vain que ces ordonnances vous ont été prescrites ; mais c’est afin que chacun de vous y trouve la vie ; et que les gardant vous demeuriez longtemps dans le pays que vous allez posséder, après que vous aurez passé le Jourdain.\n",
+      "annotations": null,
+      "source_pages": [
+        "page_0424.json"
+      ]
+    }
+  ]
+}

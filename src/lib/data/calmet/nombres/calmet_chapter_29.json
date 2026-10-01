@@ -1,0 +1,134 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "MENSIS SEPTIMI PRIMA DIES.",
+      "lemma": "Le premier jour du septième mois, est jour de fête solennelle; c'était le commencement de l'année civile; on l'annonçait au son des trompettes.",
+      "text": "Moïse nous marque ici les sacrifices qu'on offrait dans cette fête. On offrait en holocauste un veau, un bélier, et sept agneaux, avec leurs libations, et un bouc pour le péché; on immolait outre cela les sacrifices ordon nés aux jours de Néoménies [1], qui sont deux veaux, un bélier, et sept agneaux ; et apparemment encore un bouc pour le péché, ordonné dans le même jour. Enfin tous ces sacrifices ne devaient point déranger les sacrifices perpétuels des deux agneaux, dont l'un s'offrait le soir, et l'autre le matin."
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "DECIMA DIES MENSIS SEPTIMI.",
+      "lemma": null,
+      "text": "Le dixième jour du septième mois. On a parlé au long, de la Fête de l'expiation solennelle, sur le Lévitique, chapitre 16:29. et 23:27."
+    },
+    {
+      "verse": 11,
+      "sub": false,
+      "latin_lemma": "ABSQUE HIS QUÆ OFFERRI PRO DELICTO SOLENT.",
+      "lemma": "Outre les choses qu'on a accoutumé d'offrir pour l'expiation de la faute.",
+      "text": "C'est-à-dire, sans les autres sacrifices marquez dans le Lévitique [2], savoir les deux boucs pour le péché, et le bélier pour l'holocauste ; et outre cela encore, le veau pour le péché du Grand Prêtre, et le bélier pour l'holocauste [3] ; sans compter aussi les sacrifices ordinaires de tous les jours, et leur libations."
+    },
+    {
+      "verse": 12,
+      "sub": false,
+      "latin_lemma": "QUINTA DECIMA DIE.",
+      "lemma": "Le quinzième jour du septième mois de l'année sainte, qui était le premier mois de l'année civile, était la fête des Tentes ou des Tabernacles, laquelle durait huit jours entiers, en mémoire du voyage des Israélites dans le désert.",
+      "text": "On a parlé plus au long de cette solennité, sur le Lévitique, chapitre 23:34."
+    },
+    {
+      "verse": 35,
+      "sub": false,
+      "latin_lemma": "DIE OCTAVO, QUI EST CELEBERRIMUS.",
+      "lemma": "Le huitième jour, qui sera le plus célèbre.",
+      "text": "Les autres solennités ne duraient que sept jours, celle-ci en durait huit; et le huitième jour, qui était le plus solennel de toute l'Octave, mais moins solennel que le premier jour, est nommé dans le Texte [4], _le jour de la Conclusion, ou de l'accomplissement, ou, selon_ d'autres[5], le jour auquel on se tient renfermé, réuni, et retenu par respect pour une si grande fête, et auquel on demeurait dans le repos, sans faire aucune œuvre servile. On offrait ce jour-là un moindre nombre d'hosties, parce qu'on allait tous les jours en diminuant."
+    },
+    {
+      "verse": 39,
+      "sub": false,
+      "latin_lemma": "PRÆTER VOTA ET OBLATIONES SPONTANEAS.",
+      "lemma": "Sans compter les vœux et les offrandes volontaires.",
+      "text": "Tous les sacrifices spécifiés dans ce chapitre, s'offraient, sans qu'on fût dispensé pour cela d'aucun autre sacrifice, soit d'obligation, ou de dévotion; soit qu'ils fussent faits en conséquence d'un vœu, ou autrement; les obligations communes et générales, ne diminuaient rien des obligations particulières et personnelles."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0351>page_0352",
+      "verse": 1,
+      "mode": "flow",
+      "before": "pour le péché; on immolait outre cela les sacrifices ordon",
+      "after": "nés aux jours de Néoménies ^{(a)}, qui sont deux veaux, un"
+    },
+    {
+      "seam": "page_0354>page_0355",
+      "verse": 35,
+      "mode": "flow",
+      "before": "jour de la Conclusion, ou de l'accomplissement, ou, selon_",
+      "after": "d'autres^{(a)}, le jour auquel on se tient renfermé, réuni"
+    }
+  ],
+  "pages_used": [
+    "page_0351",
+    "page_0352",
+    "page_0353",
+    "page_0354",
+    "page_0355"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0352-a",
+      "n": 1,
+      "text": "Voyez le chap. précédent, verset 11."
+    },
+    {
+      "key": "page_0352-b",
+      "n": 2,
+      "text": "Lévitique 16,5."
+    },
+    {
+      "key": "page_0352-c",
+      "n": 3,
+      "text": "Là-même, verset 3."
+    },
+    {
+      "key": "page_0354-a",
+      "n": 4,
+      "text": "עצרת תחיה לכם"
+    },
+    {
+      "key": "page_0355-a",
+      "n": 5,
+      "text": "Ἐξόδιον ἴσου ὑμῖν. Samarit. πλάσμας θαχλίσμας. Professio retentionis."
+    }
+  ],
+  "decisions": [
+    {
+      "page": "page_0351",
+      "chosen": "gemini",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0352",
+      "chosen": "gemini",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0353",
+      "chosen": "gemini",
+      "rejected": [],
+      "edge_gap": "head: -38 words",
+      "verse_gap": []
+    },
+    {
+      "page": "page_0354",
+      "chosen": "gemini",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0355",
+      "chosen": "gemini",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    }
+  ],
+  "missing_footnotes": []
+}

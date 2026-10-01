@@ -1,0 +1,346 @@
+{
+  "book": "Nombres",
+  "chapter": 15,
+  "chapter_summary": "_Dieu prescrit la quantité de farine et de liqueurs qu'on doit offrir avec les sacrifices d'animaux. Il ordonne de donner aux Lévites les prémices du pain. Expiation des péchés d'omission et d'ignorance. Punition d'un homme qui amassait du bois le jour du Sabbat. Franges et houppes au bord et aux coins des habits._",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Locutus est Dominus ad Moysen, dicens:",
+      "french": "Lors le Seigneur parla à Moïse, et lui dit:",
+      "source_pages": [
+        "page_0183.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Loquere ad filios Israel, et dices ad eos: Cum ingressi fueritis Terram habitationis vestrae, quam ego dabo vobis,",
+      "french": "Parlez aux enfants d'Israël, et dites-leur: Lorsque vous serez entrés dans le pays de votre demeure, que je vous donnerai.",
+      "source_pages": [
+        "page_0183.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et feceritis oblationem Domino in holocaustum, aut victimam, vota solventes, vel sponte offerentes munera, aut in solemnitatibus vestris adolentes odorem suavitatis Domino, de bobus sive de ovibus:",
+      "french": "Et que vous offrirez au Seigneur un holocauste, ou une autre hostie, en vous acquittant de vos vœux, ou en lui offrant volontairement vos offrandes, ou en faisant brûler dans vos solennités, comme une odeur agréable au Seigneur, des bœufs ou des brebis ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0184.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Offeret quicumque immolaverit victimam, sacrificium similæ, decimam partem ephi, conspersæ oleo, quod mensuram habebit quartam partem hin:",
+      "french": "Quiconque immolera une hostie, offrira pour le sacrifice de farine, la dixième partie d'un éphi, pétrie avec la troisième partie d'un hin d'huile.",
+      "annotations": null,
+      "source_pages": [
+        "page_0184.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et vinum ad liba fundenda ejusdem mensuræ, dabit in holocaustum sive in victimam, per agnos singulos.",
+      "french": "Il donnera pour les libations la même mesure de vin, soit pour l'holocauste, ou pour la victime, pour chaque agneau.",
+      "annotations": null,
+      "source_pages": [
+        "page_0184.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et arietes erit sacrificium similæ duarum decimarum, quæ conspersa sit oleo tertiæ partis hin:",
+      "french": "Mais pour chaque bélier il offrira en Sacrifice deux dixièmes de farine, mêlés avec une mesure d'huile de la troisième partie d'un hin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0184.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et vinum tertiæ partis hin ad libamentum dabitur pro arietibus.",
+      "french": "Et il offrira pour les libations la troisième partie de la même mesure, comme un sacrifice d'une odeur agréable au Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0184.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Quando verò de bobus feceris holocaustum aut hostiam, ut impleas votum vel pacificas victimas,",
+      "french": "Mais lorsque vous offrirez des bœufs en holocauste ou en sacrifice, pour accomplir vos vœux, ou comme des hosties pacifiques,",
+      "annotations": null,
+      "source_pages": [
+        "page_0184.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Dabis per singulos boves similæ tres decimas conspersæ oleo, quod habeat medium mensuræ hin,",
+      "french": "Vous donnerez pour chaque bœuf trois dixièmes de farine pétrie avec un demi-hin d'huile.",
+      "annotations": null,
+      "source_pages": [
+        "page_0185.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et vinum ad liba fundenda ejusdem mensuræ, in oblationem suavissimi odoris Domino.",
+      "french": "Vous y joindrez pour les libations, la même mesure de vin, comme une oblation d'une odeur très-agréable au Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0185.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Sic facies",
+      "french": "Vous en userez de même",
+      "annotations": null,
+      "source_pages": [
+        "page_0185.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Per singulos boves, et arietes, et agnos, et hædos.",
+      "french": "Pour tous les bœufs, les béliers, les agneaux, et les boucs que vous offrirez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0185.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Tam indigenæ quàm peregrini,",
+      "french": "Tant ceux du pays, que les Étrangers,",
+      "annotations": null,
+      "source_pages": [
+        "page_0185.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Eodem ritu offerent sacrificia.",
+      "french": "Offriront les sacrifices avec les mêmes cérémonies.",
+      "annotations": null,
+      "source_pages": [
+        "page_0185.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Unum præceptum erit atque judicium tam vobis, quàm advenis terræ.",
+      "french": "Il n'y aura qu'une même Loi, et une même coutume pour vous, et pour ceux qui sont étrangers dans le pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0185.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Locutusque est Dominus ad Moysen, dicens:",
+      "french": "Le Seigneur parla encore à Moïse, et lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0185.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Loquere filiis Israël, et dices ad eos:",
+      "french": "Parlez aux enfants d'Israël, et dites-leur :",
+      "annotations": null,
+      "source_pages": [
+        "page_0185.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Cùm veneritis in terram, quam dabo vobis,",
+      "french": "Lorsque vous serez arrivés dans le pays que je vous donnerai,",
+      "annotations": null,
+      "source_pages": [
+        "page_0185.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Et comederitis de panibus regionis illius, separabitis primitias Domino,",
+      "french": "Et que vous aurez mangé du pain de cette terre, vous mettrez à part les prémices de ce que vous mangez, pour les présenter au Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0185.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "De cibis vestris. Sicut de areis primitias separatis,",
+      "french": "Comme vous lui offrez les prémices des grains de l'aire,",
+      "source_pages": [
+        "page_0186.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Ita et de pulmentis dabitis primitiva Domino.",
+      "french": "Ainsi vous lui donnerez les prémices de ce que vous préparez pour manger.",
+      "annotations": null,
+      "source_pages": [
+        "page_0187.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Quòd si per ignorantiam præterieritis quidquam horum, quæ locutus est Dominus ad Moysen,",
+      "french": "Que si par ignorance vous omettez de faire quelqu'une de ces choses, que le Seigneur a dites à Moïse,",
+      "annotations": null,
+      "source_pages": [
+        "page_0188.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et mandavit per eum ad vos, à die quâ cœpit jubere, et ultrà:",
+      "french": "Et qu'il vous a ordonné par lui, depuis le premier jour qu'il a commencé à vous faire des commandements, jusqu'aujourd'hui :",
+      "annotations": null,
+      "source_pages": [
+        "page_0190.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Oblitáque fuerit facere multitudo: et offeret vitulum de armento holocaustum in odorem suavissimum Domino, et sacrificium ejus ac liba, ut ceremoniæ postulant, hircúmque pro peccato:",
+      "french": "Et si toute la multitude vient à tomber dans quelque faute par oubli, ils offriront en holocauste au Seigneur un veau du troupeau, comme une odeur très-agréable, avec l'offrande de farine et de liqueurs, comme les cérémonies le demandent ; et un bouc pour le péché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0190.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et rogabit Sacerdos pro omni multitudine filiorum Israël: et dimittetur eis, quoniam non sponte peccaverunt, nihilominùs offerentes incensum Domino pro se, et pro peccato atque errore suo:",
+      "french": "Et le Prêtre priera pour toute la multitude des enfants d'Israël, et leur faute leur sera pardonnée, parce qu'ils ne l'ont pas commise volontairement : mais ils ne laisseront pas d'offrir au Seigneur le sacrifice qui doit être consumé par le feu pour eux-mêmes, pour leur péché, et pour leur ignorance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0190.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Et dimittetur universæ plebi filiorum Israël, et advenis qui peregrinantur inter eos: quoniam culpa est omnis populi per ignorantiam.",
+      "french": "Et il sera ainsi pardonné à tout le peuple des enfants d'Israël, et aux Étrangers qui demeureront parmi vous ; parce que c'est une faute que tout le peuple a commise par ignorance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0190.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Quòd si anima una nesciens peccaverit, offeret capram anniculam pro peccato suo :",
+      "french": "Que si une personne particulière a péché par ignorance, elle offrira une chèvre de l'année pour son péché ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0191.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et deprecabitur pro ea Sacerdos, quòd inscia peccaverit coram Domino : impetrabitque ei veniam, et dimittetur illi.",
+      "french": "Et le Prêtre priera pour elle, parce qu'elle a péché par ignorance devant le Seigneur, et il obtiendra le pardon pour elle, et la faute lui sera remise.",
+      "annotations": null,
+      "source_pages": [
+        "page_0191.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Tam indigenis quàm advenis una lex erit omnibus, qui peccaverunt ignorantes.",
+      "french": "On observera la même Loi pour tous ceux qui auront péché par ignorance, soit qu'ils soient du pays, ou étrangers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0191.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Anima verò, quæ per superbiam aliquid commiserit, sive civis sit ille, sive peregrinus, ( quoniam adversus Dominum rebellis fuit, ) peribit de populo suo :",
+      "french": "Mais celui qui aura commis quelque péché par orgueil, sera exterminé du milieu de son peuple, soit qu'il soit du pays, ou étranger, parce qu'il a été rebelle contre le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0191.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Verbum enim Domini contempsit, et præceptum illius fecit irritum : ideò delebitur, et portabit iniquitatem suam.",
+      "french": "Car il a méprisé la parole du Seigneur, et il a rendu inutile son ordonnance ; c'est pourquoi il sera exterminé, et il portera son iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0191.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Factum est autem, cùm essent filii Israël in solitudine, et invenissent hominem colligentem ligna in die Sabbati.",
+      "french": "Or les enfants d'Israël étant dans le désert, il arriva qu'ils trouvèrent un homme qui ramassait du bois le jour du Sabbat;",
+      "annotations": null,
+      "source_pages": [
+        "page_0192.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Obtulerunt eum Moysi, et Aaron, et universæ multitudini;",
+      "french": "Et l'ayant présenté à Moïse, à Aaron, et à tout le peuple ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0193.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Qui reclusere eum in carcerem, nescientes quid super eo facere deberent.",
+      "french": "Ils le mirent en prison, ne sachant ce qu'ils en devaient faire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0193.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Dixitque Dominus ad Moysen : Morte moriatur homo iste, obruat eum lapidibus omnis turba extra castra.",
+      "french": "Alors le Seigneur dit à Moïse : Que cet homme soit mis à mort, et que tout le peuple le lapide hors du camp.",
+      "annotations": null,
+      "source_pages": [
+        "page_0193.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Cumque eduxissent eum foras, obruerunt lapidibus, et mortuus est, sicut præceperat Dominus.",
+      "french": "Ils le firent donc sortir dehors, et le lapidèrent, et il souffrit la mort, comme le Seigneur l'avait ordonné.",
+      "annotations": null,
+      "source_pages": [
+        "page_0193.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Dixit quoque Dominus ad Moysen :",
+      "french": "Le Seigneur dit aussi à Moïse :",
+      "annotations": null,
+      "source_pages": [
+        "page_0193.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Loquere filiis Israël, et dices ad eos ut faciant sibi fimbrias per angulos palliorum, ponentes in eis vittas hyacinthinas :",
+      "french": "Parlez aux enfants d'Israël, et dites-leur de faire des franges aux coins de leurs manteaux, et d'y mettre des rubans de couleur d'hyacinthe ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0193.json"
+      ]
+    }
+  ]
+}

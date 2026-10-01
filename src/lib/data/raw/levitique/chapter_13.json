@@ -1,0 +1,538 @@
+{
+  "book": "Lévitique",
+  "chapter": 13,
+  "chapter_summary": "Lois pour discerner, et pour purifier la lèpre des hommes, et des habits.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Locutusque est Dominus ad Moysen et Aaron, dicens :",
+      "french": "Le Seigneur parla encore à Moïse, et à Aaron, et leur dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0156.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Homo in cujus cute et carne ortus fuerit diversus color, sive pustula, aut quasi lucens quippiam, id est, plaga leprae, adducetur ad Aaron Sacerdotem, vel ad unum quemlibet filiorum ejus.",
+      "french": "L'homme, dans la peau ou dans la chair duquel il se sera formé une diversité de couleur, ou une pustule, ou quelque chose de luisant, qui paraisse de la lèpre, sera mené au grand-Prêtre Aaron, ou à quelques-uns de ses fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0156.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Qui cum viderit lepram in cute, et pilos in album mutatos colorem, ipsamque speciem leprae humiliorem cute et carne reliqua ; plaga leprae est, et ad arbitrium ejus separabitur.",
+      "french": "S'il voit que la lèpre paraisse sur la peau ; que le poil ait changé de couleur, et soit devenu blanc, que les endroits où la lèpre paraît, soient plus enfoncés que la peau, et que le reste de la chair : c'est une marque que c'est de la lèpre ; cet homme sera séparé de la compagnie des autres, par le jugement du Prêtre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0157.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Sin autem lucens candor fuerit in cute, nec humilior carne reliqua, et pili coloris pristini, recludet eum Sacerdos septem diebus.",
+      "french": "Que s'il paraît une blancheur luisante sur la peau, sans que cet endroit soit plus enfoncé que le reste de la chair, et si le poil est de la couleur dont il était auparavant, le Prêtre le renfermera pendant sept jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0157.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et considerabit die septimo : et si quidem lepra ultra non creverit, nec transierit in cute priores terminos, rursum recludet eum septem diebus aliis.",
+      "french": "Et il le considérera le septième jour ; et si la lèpre n'a point crû davantage, et n'a point pénétré dans la peau plus qu'auparavant, il le renfermera encore sept autres jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et die septimo contemplabitur : si obscurior fuerit lepra, et non creverit in cute, mundabit eum, quia scabies est : lavabitque homo vestimenta sua, et mundus erit.",
+      "french": "Et le septième jour il le considérera de nouveau ; et si la lèpre paraît plus obscure, et ne s'est point répandue sur la peau, il le déclarera pur, parce que c'est la gale, et non la lèpre. Cet homme lavera ses vêtements, et il sera pur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quod si postquam a Sacerdote visus est, et redditus munditiae, iterum lepra creverit, adducetur ad eum,",
+      "french": "Que si après qu'il aura été vu par le Prêtre, et déclaré pur, la lèpre croît de nouveau, on le lui ramènera,",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et immunditiae condemnabitur.",
+      "french": "Et il sera déclaré impur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Plaga leprae si fuerit in homine, adducetur ad Sacerdotem,",
+      "french": "Si un homme paraît attaqué de la lèpre, on l'amènera au Prêtre,",
+      "annotations": null,
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et videbit eum. Cumque color albus in cute fuerit, et capillorum mutaverit aspectum, ipsa quoque caro viva apparuerit;",
+      "french": "Qui le considérera ; et s'il paraît sur sa peau une couleur blanche, et que les cheveux aient changé de couleur, et qu'on voie même paraître la chair vive ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Lepra verustissima judicabitur, atque inolita cuti. Contaminabit itaque eum Sacerdos, et non recludet, quia perspicua immunditia est.",
+      "french": "Le Prêtre jugera que c'est une lèpre très invétérée, et enracinée dans la peau. C'est pourquoi le Prêtre le déclarera impur ; mais il ne le renfermera point, parce que son impureté est toute visible.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Sin autem effloruerit discurrens lepra in cute, et operuerit omnem cutem a capite usque ad pedes, quidquid sub aspectum oculorum cadit,",
+      "french": "Que si la lèpre se répand sur la peau, et gagne peu à peu, en sorte qu'enfin elle la couvre depuis les pieds jusqu'à la tête, et qu'elle occupe tout ce qui en paraît,",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Considerabit eum Sacerdos, et teneri lepra mundissima judicabit : eo quod omnis in candorem versa sit, et idcirco homo mundus erit.",
+      "french": "Le Prêtre le considérera, et il jugera que la lèpre qu'il a, est une lèpre qui ne souille point, parce qu'elle est toute blanche. C'est pourquoi il sera déclaré pur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Quando vero caro vivens in eo apparuerit,",
+      "french": "Mais lorsque la chair vive paraîtra dans lui,",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Tunc Sacerdotis judicio polluetur, et inter immundos reputabitur : caro enim viva, si lepra aspergitur, immunda est.",
+      "french": "Alors il sera déclaré impur par le jugement du Prêtre, et il sera mis au rang des impurs : car lorsque la chair vive est tachée de lèpre, elle est impure.",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Quod si rursum versa fuerit in alborem, et totum hominem operuerit,",
+      "french": "Que si cette chair prend de nouveau la couleur blanche, et qu'elle paraisse ainsi sur l'homme entier,",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Considerabit eum Sacerdos, et mundum esse decernet.",
+      "french": "Le Prêtre le considérera, et il le déclarera pur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Caro autem et cutis in qua ulcus natum est et sanatum,",
+      "french": "Quand il y aura dans la chair, ou dans la peau de quelqu'un, un ulcère qui aura été guéri,",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Et in loco ulceris cicatrix alba apparuerit, sive subrufa, adducetur homo ad Sacerdotem :",
+      "french": "Et qu'il paraîtra une cicatrice blanche, ou tirant sur le roux, au lieu où était l'ulcère ; on amènera cet homme au Prêtre ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Qui cum viderit locum leprae humiliorem carne reliqua, et pilos versos in candorem, contaminabit eum : plaga enim leprae orta est in ulcere.",
+      "french": "Qui voyant que l'endroit de la lèpre est plus enfoncé que le reste de la chair, et que le poil s'est changé, et est devenu blanc, il le déclarera impur : car c'est une lèpre qui s'est formée dans l'ulcère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Quod si pilus coloris est pristini, et cicatrix subobscura, et vicina carne non est humilior, recludet eum septem diebus.",
+      "french": "Que si le poil est de la couleur dont il était auparavant, et la cicatrice un peu obscure, sans être plus enfoncée que la chair d'auprès, le Prêtre le renfermera pendant sept jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Et si quidem creverit, adjudicabit eum leprae.",
+      "french": "Et si le mal croît, il déclarera que c'est la lèpre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Sin autem steterit in loco suo, ulceris est cicatrix, et homo mundus erit.",
+      "french": "Mais s'il s'arrête dans le même lieu, ce n'est autre chose que la cicatrice de l'ulcère, et l'homme sera déclaré pur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Caro autem et cutis quam ignis exusserit, et sanata albam sive rufam habuerit cicatricem,",
+      "french": "Lorsqu'un homme aura été brûlé dans la chair, ou sur la peau, et que la brûlure étant guérie, la cicatrice en devienne blanche ou rousse,",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Considerabit eam Sacerdos, et ecce versa est in alborem, et locus ejus reliqua cute est humilior : contaminabit eum, quia plaga leprae in cicatrice orta est.",
+      "french": "Le Prêtre la considérera ; et s'il voit qu'elle est devenue toute blanche, et que cet endroit est plus enfoncé que le reste de la peau, il le déclarera impur, parce que c'est une lèpre qui s'est formée dans la cicatrice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Quod si pilorum color non fuerit immutatus, nec humilior plaga carne reliqua, et ipsa leprae species fuerit subobscura, recludet eum septem diebus.",
+      "french": "Que si le poil n'a point changé de couleur, et que l'endroit blessé ne soit pas plus enfoncé que le reste de la peau ; si la lèpre même paraît un peu obscure, le Prêtre le renfermera pendant sept jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et die septimo contemplabitur : si creverit in cute lepra, contaminabit eum.",
+      "french": "Et il le considérera le septième jour ; et alors si la lèpre est crue sur la peau, il le déclarera impur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Sin autem in loco suo candor steterit non satis clarus, plaga combustionis est, et idcirco mundabitur, quia cicatrix est combusturae.",
+      "french": "Que si cette tache blanche s'arrête au même endroit, et devient un peu plus obscure, c'est seulement une tache de brûlure. C'est pourquoi il sera déclaré pur, parce que c'est une simple cicatrice de brûlure.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Vir, sive mulier, in cujus capite vel barba germinaverit lepra, videbit eos Sacerdos.",
+      "french": "Si l'on voit des taches de lèpre qui paraissent, et qui poussent sur la tête d'un homme ou d'une femme, ou dans la barbe d'un homme, le Prêtre les considérera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et siquidem humilior fuerit locus carne reliqua, et capillus flavus, solitoque subtilior ; contaminabit eos, quia lepra capitis ac barbae est.",
+      "french": "Et si cet endroit est plus enfoncé que le reste de la chair, et le poil tirant sur le jaune, et plus délié que l'ordinaire : il les déclarera impurs, parce que c'est la lèpre de la tête et de la barbe.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Sin autem viderit locum maculae aequalem vicinae carni, et capillum nigrum : recludet eum septem diebus.",
+      "french": "Mais s'il voit que l'endroit de la tache est égal à la chair d'auprès, et que le poil soit demeuré noir, il le renfermera pendant sept jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et die septimo intuebitur. Si non creverit macula, et capillus sui coloris est, et locus plagae, carni reliquae aequalis :",
+      "french": "Et il le considérera le septième jour ; si la tache ne s'est point accrue, si le poil a conservé sa couleur, et si l'endroit du mal est égal à tout le reste de la chair,",
+      "annotations": null,
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Radetur homo absque loco maculae, et includetur septem diebus aliis.",
+      "french": "On rasera tout le poil de l'homme, hors l'endroit de cette tache, et on le renfermera pendant sept autres jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Si die septimo visa fuerit stetisse plaga in loco suo, nec humilior carne reliqua, mundabit eum, lotisque vestibus suis, mundus erit.",
+      "french": "Le septième jour, si le mal semble s'être arrêté dans le même endroit, et qu'il ne soit point plus enfoncé que le reste de la chair, le Prêtre déclarera l'homme exempt de souillure ; et ayant lavé ses vêtements, il demeurera pur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Sin autem post emundationem rursus creverit macula in cute,",
+      "french": "Que si après qu'il aura été jugé pur, cette tache croît encore sur la peau,",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Non quaeret amplius, utrum capillus in flavum colorem sit immutatus ; quia aperte immundus est.",
+      "french": "Il ne recherchera plus si le poil aura changé de couleur, et sera devenu jaune, parce qu'il est visiblement impur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Porro si steterit macula, et capilli nigri fuerint ; noverit hominem sanatum esse, et confidenter eum pronuntiet mundum.",
+      "french": "Mais si la tache demeure dans le même état, et que le poil soit noir, comme auparavant : qu'il reconnaisse par là que l'homme est guéri, et qu'il prononce sans rien craindre, qu'il est pur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Vir, sive mulier, in cujus cute candor apparuerit,",
+      "french": "Si l'on remarque sur la peau d'un homme ou d'une femme, quelques taches blanches,",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Intuebitur eos Sacerdos : si deprehenderit subobscurum alborem lucere in cute, sciat non esse lepram, sed maculam coloris candidi, et hominem mundum.",
+      "french": "Le Prêtre les considérera : Et s'il reconnaît qu'il n'y a sur leur peau que des taches d'un blanc obscur ; qu'il sache que ce n'est point la lèpre, mais seulement une tache de couleur blanche, et que l'homme est pur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Vir, de cujus capite capilli fluunt, calvus et mundus est.",
+      "french": "Lorsque les cheveux tombent de la tête d'un homme, il devint simplement chauve, et il est pur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Et si a fronte ceciderint pili, recalvaster et mundus est.",
+      "french": "Si les cheveux tombent du devant de la tête, il est chauve par-devant, et il est pur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Sin autem in calvitio sive in recalvatione, albus vel rufus color fuerit exortus,",
+      "french": "Que si sur la tête de celui qui est entièrement chauve, ou de celui qui ne l'est que par-devant, il paraît une tache blanche ou rousse ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Et hoc Sacerdos viderit ; condemnabit eum haud dubie leprae, quae orta est in calvitie.",
+      "french": "Le Prêtre l'ayant vue, le condamnera indubitablement, comme frappé d'une lèpre qui s'est formée à l'endroit d'où ses cheveux sont tombés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Quicumque ergo maculatus fuerit lepra, et separatus est ad arbitrium Sacerdotis,",
+      "french": "Tout homme donc qui sera infecté de lèpre, et qui aura été séparé des autres par le jugement du Prêtre,",
+      "annotations": null,
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Habebit vestimenta dissuta, caput nudum, os veste contectum, contaminatum ac sordidum se clamabit.",
+      "french": "Aura ses vêtements décousus, la tête nue, le visage couvert de son vêtement, et il criera qu'il est impur et souillé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Omni tempore, quo leprosus est et immundus, solus habitabit extra castra.",
+      "french": "Pendant tout le temps qu'il sera lépreux et impur, il demeurera seul hors du camp.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Vestis lanea sive linea, quae lepram habuerit,",
+      "french": "Si un vêtement de laine ou de lin, est infecté de lèpre,",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "In stamine atque subtegmine, aut certe pellis, vel quidquid ex pelle confectum est,",
+      "french": "Dans la chaîne, ou dans la trame : et si une peau, ou quelque chose de peau, en est infecté ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Si alba vel rufa macula fuerit, infecta lepra reputabitur, ostendeturque Sacerdoti ;",
+      "french": "Quand on y verra des taches blanches ou rousses, on jugera que c'est la lèpre, et on les fera voir au Prêtre ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Qui consideratam recludet septem diebus.",
+      "french": "Qui les ayant considérés, les tiendra enfermés pendant sept jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Et die septimo rursus aspiciens, si deprehenderit crevisse, lepra perseverans est : pollutum judicabit vestimentum, et omne in quo fuerit inventa.",
+      "french": "Le septième jour, il les considérera encore ; et s'il remarque que ces taches se soient accrues, ce sera une lèpre enracinée : il jugera que ces vêtements, et toutes les autres choses où ces taches se trouveront, sont souillées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Et idcirco comburetur flammis.",
+      "french": "C'est pourquoi on les consumera par le feu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0170.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Quod si eam viderit non crevisse,",
+      "french": "Que s'il voit que ces taches ne soient point crues ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0170.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Praecipiet, et lavabunt id in quo lepra est, recludetque illud septem diebus aliis.",
+      "french": "Il ordonnera qu'on lave ce qui paraît infecté de lèpre, et il le tiendra enfermé pendant sept autres jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0170.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Et cum viderit faciem quidem pristinam non reversam, nec tamen crevisse lepram, immundum judicabit, et igne comburet, eo quod infusa sit in superficie vestimenti, vel per totum, lepra.",
+      "french": "Et voyant qu'il n'a point repris sa première couleur, quoique la lèpre ne soit point augmentée, il jugera que ce vêtement est impur, et il le brûlera dans le feu, parce que la lèpre s'est répandue sur la surface, ou l'a même tout pénétré.",
+      "annotations": null,
+      "source_pages": [
+        "page_0170.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "Sin autem obscurior fuerit locus leprae, postquam vestis est lota, abrumpet eum, et a solido dividet.",
+      "french": "Mais si après que le vêtement aura été lavé, l'endroit de la lèpre est plus sombre, il le déchirera, et le séparera du reste.",
+      "annotations": null,
+      "source_pages": [
+        "page_0171.json"
+      ]
+    },
+    {
+      "verse_number": 57,
+      "latin": "Quod si ultra apparuerit in his locis quae prius immaculata erant, lepra volatilis et vaga ; debet igne comburi.",
+      "french": "Que si après cela il paraît encore une lèpre vague et volante dans les endroits où il n'y avait point de taches auparavant, le tour doit être brûlé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0171.json"
+      ]
+    },
+    {
+      "verse_number": 58,
+      "latin": "Si cessaverit, lavabit aqua ea quae pura sunt, secundo ; et munda erunt.",
+      "french": "Si les taches s'en vont, on lavera une seconde fois avec l'eau, ce qui est pur, et il sera purifié.",
+      "annotations": null,
+      "source_pages": [
+        "page_0171.json"
+      ]
+    },
+    {
+      "verse_number": 59,
+      "latin": "Ista est lex leprae vestimenti lanei et linei, staminis, atque subtegminis, omnisque supellectilis pelliceae, quomodo mundari debeat, vel contaminari.",
+      "french": "Voilà la loi pour juger de la lèpre d'un vêtement de laine, ou de lin ; de la chaîne, ou de la trame, et de tout ce qui est fait de peau, afin qu'on puisse discerner ce qui est pur, ou impur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0171.json"
+      ]
+    }
+  ]
+}

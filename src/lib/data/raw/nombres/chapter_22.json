@@ -1,0 +1,376 @@
+{
+  "book": "Nombres",
+  "chapter": 22,
+  "chapter_summary": "Balak Roi des Moabites, envoie quérir le devin Balaam, pour maudire les Israélites. Balaam se laisse gagner. Son ânesse lui parle. L'Ange menace de le tuer. Son arrivée auprès de Balak.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Profectique castrametati sunt in campestribus Moab, ubi trans Jordanem Jericho sita est.",
+      "french": "Étant partis de ce lieu, ils campèrent dans les plaines de Moab, vis-à-vis de Jéricho, qui est située au-delà du Jourdain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0273.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Videns autem Balac, filius Sephor, omnia quæ fecerat Israël Amorrhæo,",
+      "french": "Or Balak fils de Séphor, ayant vu tout ce qu'Israël avait fait aux Amorrhéens,",
+      "annotations": null,
+      "source_pages": [
+        "page_0274.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et quòd pertimuissent eum Moabites, et impetum ejus ferre non possent,",
+      "french": "Et considérant que les Moabites en avaient grand'peur, et qu'ils ne pouvaient pas leur résister,",
+      "annotations": null,
+      "source_pages": [
+        "page_0274.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Dixit ad majores natu Madian: Ita delebit hic populus omnes qui in nostris finibus commorantur, quomodo solet bos herbas usque ad radices carpere. Ipse erat eo tempore rex in Moab.",
+      "french": "Il dit aux anciens de Madian : Ce peuple détruira tous ceux qui sont dans notre pays, comme le bœuf a accoutumé de brouter l'herbe jusqu'à la racine : et Balak était en ce temps-là Roi de Moab.",
+      "annotations": null,
+      "source_pages": [
+        "page_0275.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Misit ergo nuntios ad Balaam filium Beor ariolum, qui habitabat super flumen terræ filiorum Ammon, ut vocarent eum, et dicerent : Ecce egressus est populus ex Ægypto, qui operuit superficiem terræ, sedens contra me.",
+      "french": "Il envoya donc des députés à Balaam, fils de Beor, qui était un devin qui demeurait sur le fleuve du pays des Ammonites, afin qu'ils l'invitassent à venir, et qu'ils lui dissent : Voilà un peuple sorti de l'Égypte, qui couvre toute la face de la terre, et qui s'est campé vis-à-vis de moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0275.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Veni igitur, et maledic populo huic, quia fortior me est : si quo modo possim percutere et ejicere eum de terra mea : novi enim quòd benedictus sit cui benedixeris, et maledictus in quem maledicta congesseris.",
+      "french": "Venez donc pour maudire ce peuple ; parce qu'il est plus fort que moi, afin que je tente si je pourrai, par quelque moyen, le battre, et le chasser de mes terres. Car je sais que celui que vous bénirez, sera béni, et que celui que vous maudirez sera maudit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0278.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Perrexerúntque seniores Moab, et majores natu Madian, habentes divinationis pretium in manibus. Cùmque venissent ad Balaam, et narrassent ei omnia verba Balac,",
+      "french": "Les anciens de Moab, et ceux de Madian, s’en allèrent donc, portant avec eux de quoi payer le devin ; et étant arrivés vers Balaam, ils lui exposèrent tout ce que Balak leur avait dit de lui dire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0279.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Ille respondit : Manere hic nocte, et respondebo quidquid dixerit mihi Dominus. Manentibus illis apud Balaam, venit Deus, et ait ad eum:",
+      "french": "Balaam leur répondit : Demeurez ici cette nuit, et je vous répondrai tout ce que le Seigneur m'aura dit. Ils demeurèrent donc chez Balaam ; et le Seigneur étant venu à lui, lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0280.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Quid sibi volunt homines isti apud te ?",
+      "french": "Que veulent dire ces gens qui sont chez vous ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0280.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Respondit : Balac, filius Sephor, Rex Moabitarum, misit ad me,",
+      "french": "Balaam répondit : Balak, fils de Séphor, Roi de Moab, m'a envoyé",
+      "annotations": null,
+      "source_pages": [
+        "page_0280.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Dicens : Ecce populus qui egressus est de Ægypto, operuit superficiem terræ : Veni, et maledic ei, si quo modo possim pugnans abigere eum.",
+      "french": "Dire : Voilà un peuple sorti de l'Égypte, qui couvre toute la face de la terre : Venez le maudire, afin que j'essaie si je pourrai le combattre, et le chasser.",
+      "annotations": null,
+      "source_pages": [
+        "page_0280.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Dixitque Deus ad Balaam : Noli ire cum eis, neque maledicas populo, quia benedictus est.",
+      "french": "Dieu dit à Balaam : Gardez-vous bien d'aller avec eux, et de maudire ce peuple ; parce qu'il est béni.",
+      "annotations": null,
+      "source_pages": [
+        "page_0280.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Qui mane consurgens, dixit ad principes : Ite in terram vestram, quia prohibuit me Dominus venire vobiscum.",
+      "french": "Balaam s'étant levé le matin, dit aux Princes de Moab et de Madian : Retournez dans votre pays ; parce que le Seigneur m'a défendu d'aller avec vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0280.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Reversi principes, dixerunt ad Balac : Noluit Balaam venire nobiscum.",
+      "french": "Ces Princes s'en étant retournés, dirent à Balak : Balaam n'a pas voulu venir avec nous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0280.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Rursum ille multò plures et nobiliores quam ante miserat, misit.",
+      "french": "Alors Balak lui envoya de nouveaux députés, en plus grand nombre, et de plus grande qualité que les premiers ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0280.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Qui cùm venissent ad Balaam, dixerunt : Sic dixit Balac filius Sephor : Ne cuncteris venire ad me :",
+      "french": "Qui étant arrivés chez Balaam, lui dirent : Voici ce que dit Balak fils de Séphor : Ne tardez point à venir vers moi ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0280.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Paratus sum honorare te, et quidquid volueris dabo tibi : veni, et maledic populo isti.",
+      "french": "Je suis prêt à vous combler d'honneurs, et à vous donner tout ce que vous voudrez : Venez, et maudissez ce peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0280.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Respondet Balaam : Si dederis mihi Balac plenam domum suam argenti et auri, non potero immutare verbum Domini Dei mei, ut vel plus, vel minus loquar.",
+      "french": "Balaam leur répondit : Quand Balak me donnerait plein sa maison d'or et d'argent, je ne pourrais pas pour cela changer la parole du Seigneur mon Dieu, pour dire plus ou moins qu'il ne m'a dit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0281.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Obsecro ut hic maneatis etiam hac nocte, et scire queam quid mihi rursùm respondeat Dominus.",
+      "french": "Je vous supplie de demeurer ici encore cette nuit, afin que je puisse savoir ce que le Seigneur me répondra de nouveau.",
+      "annotations": null,
+      "source_pages": [
+        "page_0281.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Venit ergo Deus ad Balaam nocte, et ait ei : Si vocare te venerunt homines isti, surge et vade cum eis : ita dumtaxat, ut quod tibi præcepero facias.",
+      "french": "Dieu étant donc venu la nuit à Balaam, lui dit : Si ces hommes sont venus vous appeler, levez-vous et allez avec eux : mais à condition que vous ne ferez que ce que je vous ordonnerai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0281.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Surrexit Balaam manè, et stratâ asinâ suâ profectus est cum eis.",
+      "french": "Balaam s'étant levé le matin, sella son ânesse, et se mit en chemin avec eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0281.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Et iratus est Deus, stetitque Angelus Domini in via contra Balaam, qui insedebat asinæ, et duos pueros habebat secum.",
+      "french": "Mais Dieu entra en colère contre lui, et l'Ange du Seigneur se mit dans le chemin au-devant de Balaam, qui était monté sur son ânesse, et qui avait avec lui deux serviteurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0282.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Cernens asina Angelum stantem in via, evaginato gladio, avertit se de itinere, et ibat per agrum. Quam cùm verberaret Balaam, et vellet ad semitam reducere,",
+      "french": "L'ânesse voyant l'Ange qui était dans le chemin, ayant à la main une épée nue, se détourna du chemin, et allait à travers des champs. Et comme Balaam la frappait, et voulait la faire rentrer dans le chemin,",
+      "annotations": null,
+      "source_pages": [
+        "page_0282.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Stetit Angelus in angustiis duarum maceriarum, quibus vinea cingebantur.",
+      "french": "L'Ange se mit dans un chemin étroit entre deux murailles, qui enfermaient des vignes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0283.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Quem videns asina, junxit se parieti, et attrivit sedentis pedem. At ille iterùm verberabat eam:",
+      "french": "Et l'ânesse le voyant, se serra contre le mur, et froissa le pied de celui qui la montait. Mais comme il continuait à la battre ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0283.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Et nihilominiùs Angelus ad locum angustum transiens, ubi nec ad dextram nec ad sinistram poterat deviare, obvius stetit.",
+      "french": "L'Ange étant passé dans un lieu si étroit, qu'il n'était pas possible de se détourner ni à droite ni à gauche, s'arrêta devant l'ânesse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0283.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Cùmque vidisset asina stantem Angelum, concidit sub pedibus sedentis, qui iratus vehementiùs, cædebat fuste latera ejus.",
+      "french": "Qui voyant l'Ange arrêté devant elle, s'abattit sous les pieds de celui qu'elle portait : et Balaam tout en colère commença à la frapper encore plus fort, avec un bâton, sur les flancs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0283.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Aperuitque Dominus os asinæ, et locuta est: Quid feci tibi? Cur percussis me ecce jam tertiò?",
+      "french": "Alors le Seigneur ouvrit la bouche de l'ânesse, et elle dit à Balaam : Que vous ai-je fait ? Pourquoi m'avez-vous frappée déjà trois fois ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0283.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Respondet Balaam : Quis commeruisti, et illusisti mihi: utinam haberem gladium, ut te percuterem.",
+      "french": "Balaam lui répondit : Parce que tu l'as mérité, et que tu t'es moquée de moi : que n'ai-je une épée pour te tuer !",
+      "annotations": null,
+      "source_pages": [
+        "page_0285.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Dixit asina : Nonne animal tuum sum, cui semper sedere consuevisti usque in præsentem diem ? Dic quid simile unquam fecerim tibi. At ille ait : Numquam.",
+      "french": "L'ânesse lui dit : Ne suis-je pas votre bête, que vous avez accoutumé de monter jusqu'aujourd'hui ? Dites-moi si je vous ai jamais rien fait de semblable ? Jamais, lui répondit-il.",
+      "annotations": null,
+      "source_pages": [
+        "page_0285.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Protinùs aperuit Dominus oculos Balaam, et vidit Angelum stantem in via evaginato gladio, adoravitque eum pronus in terram.",
+      "french": "Aussitôt le Seigneur ouvrit les yeux à Balaam, et il aperçut l'Ange qui était dans le chemin, avec une épée nue ; et il l'adora, s'étant jeté le visage contre terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0285.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Cui Angelus : Cur, inquit, tertiò verberas asinam tuam ? Ego veni ut adversarer tibi, quia perversa est via tua, mihique contraria:",
+      "french": "L'Ange lui dit : Pourquoi avez-vous battu votre ânesse par trois fois ? Je suis venu pour m'opposer à vous, parce que votre voyage est mauvais, et qu'il est opposé à moi ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0285.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Et nisi asina declinasset de via, dans locum resistenti, te occidissem, et illa viveret.",
+      "french": "Et si votre ânesse ne s'était détournée du chemin, en me cédant lorsque je m’opposais à son passage, je vous aurais tué, et elle serait demeurée en vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0286.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Dixit Balaam: Peccavi, nesciens quòd tu stares contra me: et nunc si displicet tibi ut vadam, revertar.",
+      "french": "Balaam lui répondit : J’ai péché, ne sachant pas que vous étiez dans le chemin contre moi : mais à présent, s’il ne vous plaît pas que j’aille plus avant, je m’en retournerai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0286.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Ait Angelus: Vade cum istis, et cave ne aliud quam præcepero tibi, loquaris. Ivit igitur cum principibus.",
+      "french": "L’Ange lui dit : Allez avec eux ; mais prenez bien garde de ne rien dire, que ce que je vous ordonnerai. Il s’en alla donc avec ces Princes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0286.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Quod cùm audisset Balac, egressus est in occursum ejus, in oppido Moabitarum, quod situm est in extremis finibus Arnon.",
+      "french": "Balak l’ayant appris, alla au-devant de lui jusqu’à une Ville des Moabites, qui est située à l’extrémité de l’Arnon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0286.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Dixitque ad Balaam: Misi nuntios ut vocarem te, cur non statim venisti ad me? an quia mercedem adventus tui reddere nequeo?",
+      "french": "Et il dit à Balaam : Je vous ai envoyé des Députés pour vous faire venir, pourquoi n’êtes-vous pas venus aussitôt vers moi ? Est-ce que je ne puis pas vous récompenser de votre voyage ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0286.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Cui ille respondit: Ecce adsum: numquid loqui potero aliud, nisi quod Deus posuerit in ore meo?",
+      "french": "Balaam lui répondit : Me voilà arrivé. Mais pourrai-je dire autre chose, que ce que Dieu mettra dans ma bouche ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0286.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Perrexerunt ergo simul, et venerunt in urbem, quæ in extremis regni ejus finibus erat.",
+      "french": "Ils s'en allèrent donc ensemble, et en une Ville qui est à l'extrémité de son Royaume.",
+      "annotations": null,
+      "source_pages": [
+        "page_0287.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Cùmque occidisset Balac boves et oves, misit ad Balaam, et principes qui cum eo erant, munera.",
+      "french": "Et Balak ayant fait tuer des bœufs, et des brebis, envoya des présents à Balaam, lui et les autres Princes qui étaient avec lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0287.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Manè autem facto, duxit eum ad excelsa Baal, et intuitus est extremam partem populi.",
+      "french": "Et le lendemain dès le matin, il le mena sur les hauts lieux de Baal, et lui fit voir de-là l'extrémité du camp du peuple d'Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0287.json"
+      ]
+    }
+  ]
+}

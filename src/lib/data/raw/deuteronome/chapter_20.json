@@ -1,0 +1,178 @@
+{
+  "book": "Deutéronome",
+  "chapter": 20,
+  "chapter_summary": "Lois pour la guerre. Qui sont ceux qui doivent être renvoyés de l'Armée. Comment on doit déclarer la guerre. Traitement envers les Cananéens. Ordonnance pour les sièges des villes.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Si exieris ad bellum contra hostes tuos, et videris equitatus et currus, et majorem quàm tu habeas, adversarii exercitus multitudinem ; non timebis eos, quia Dominus Deus tuus tecum est, qui eduxit te de terra Ægypti.",
+      "french": "Lorsque vous irez faire la guerre contre vos ennemis, et qu'ayant vu leur cavalerie et leurs chariots, vous trouverez que leur armée sera plus nombreuse que la vôtre ; vous ne les craindrez point, parce que le Seigneur votre Dieu qui vous a tirés de l'Égypte, est avec vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0272.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quia Dominus Deus vester in medio vestri est, et pro vobis contra adversarios dimicabit, ut eruat vos de periculo.",
+      "french": "Car le Seigneur votre Dieu est au milieu de vous, et il combattra pour vous contre vos ennemis, afin de vous délivrer du péril.",
+      "annotations": null,
+      "source_pages": [
+        "page_0274.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Duces quoque per singulas turmas, audiente exercitu, proclamabunt : Quis est homo qui ædificavit domum novam, et non dedicavit eam? vadat, et revertatur in domum suam, ne fortè moriatur in bello, et alius dedicet eam.",
+      "french": "Les officiers crieront ensuite chacun à la tête de leur troupe, dans toute l'armée : Y a-t-il quelqu'un qui ait bâti une maison neuve, et qui ne l'ait pas encore habitée ? Qu'il s'en aille, et retourne en sa maison, de peur qu'il ne meure dans le combat, et qu'un autre ne loge le premier dans sa maison.",
+      "annotations": null,
+      "source_pages": [
+        "page_0274.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Quis est homo qui plantavit vineam, et necdum fecit eam esse communem, de qua vesci omnibus liceat? vadat et revertatur in domum suam, ne forte moriatur in bello, et homo ejus fungatur officio.",
+      "french": "Y-a-t-il quelqu'un qui ait planté une vigne, et qui ne l'ait pas encore mis en l'état où tout le monde puisse manger de son fruit ? Qu'il s'en aille, et retourne en sa maison, de peur que s'il vient à mourir dans le combat, un autre ne fasse ce qu'il devait faire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0275.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quis est homo qui despondit uxorem, et non accepit eam? vadat et revertatur in domum suam, ne forte moriatur in bello, et alius homo accipiat eam.",
+      "french": "Y a-t-il quelqu'un qui ait été fiancé à une fille, et qui ne l'ait pas encore épousée? Qu'il s'en aille, et s'en retourne en sa maison, de peur qu'il ne meure dans le combat, et qu'un autre ne l'épouse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0276.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "His dictis, addent reliqua, et loquentur ad populum: Quis est homo formidolosus, et corde pavido? vadat et revertatur in domum suam, ne pavere faciat corda fratrum suorum, sicut ipse timore perterritus est.",
+      "french": "Après avoir dit ces choses, ils ajouteront encore ce qui suit, et ils diront au peuple : Y a-t-il quelqu'un qui soit timide, et dont le cœur soit frappé de frayeur? Qu'il s'en aille, et retourne en sa maison, de peur qu'il ne jette l'épouvante dans le cœur de ses frères, comme il est déjà lui-même tout effrayé et saisi de crainte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0277.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Cúmque siluerint duces exercitûs, et finem loquendi fecerint, unusquisque suos ad bellandum cuneos præparabit.",
+      "french": "Et après que les officiers de l'armée auront cessé de parler, chacun rangera ses bataillons pour le combat.",
+      "annotations": null,
+      "source_pages": [
+        "page_0277.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Si quando accesseris ad expugnandam civitatem, offeres ei primùm pacem.",
+      "french": "Quand vous vous approcherez d'une ville pour l'assiéger, d'abord vous lui offrirez la paix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0278.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Si receperit, et aperuerit tibi portas, cunctus populus, qui in ea, est, salvabitur, et serviet tibi sub tributo.",
+      "french": "Si elle l'accepte, et qu'elle vous ouvre les portes, tout le peuple qui s'y trouvera aura la vie sauve ; mais il vous demeurera assujetti et tributaire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0281.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Sin autem fœdus inire noluerit, et cœperit contra te bellum, oppugnabis eam.",
+      "french": "Que si elle ne veut point faire d'alliance avec vous, et qu'elle commence à vous faire la guerre, vous y mettrez le siège.",
+      "annotations": null,
+      "source_pages": [
+        "page_0281.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Cùmque tradiderit Dominus Deus tuus illam in manu tua, percuties omne quod in ea generis masculini est, in ore gladii,",
+      "french": "Et lorsque le Seigneur votre Dieu vous l'aura livrée entre les mains, vous ferez passer tous les mâles au fil de l'épée,",
+      "annotations": null,
+      "source_pages": [
+        "page_0282.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Absque mulieribus et infantibus, jumentis, et cæteris quæ in civitate sunt. Omnem prædam exercitui divides, et comedes de spoliis hostium tuorum, quæ Dominus Deus tuus dederit tibi.",
+      "french": "En réservant les femmes, les enfants, les bêtes et tout le reste de ce qui se trouvera dans la ville. Vous distribuerez le butin à toute l'armée, et vous vous nourrirez des dépouilles de vos ennemis ; que le Seigneur votre Dieu vous aura données.",
+      "annotations": null,
+      "source_pages": [
+        "page_0282.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Sic facies cunctis civitatibus, quæ à te procul valdè sunt, et non sunt de his urbibus, quas in possessionem accepturus es.",
+      "french": "C'est ainsi que vous en userez à l'égard de toutes les villes, qui seront fort éloignées de vous, et qui ne sont pas du nombre de celles que vous devez posséder.",
+      "annotations": null,
+      "source_pages": [
+        "page_0282.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "De his autem civitatibus quæ dabuntur tibi, nullum omninò permittes vivere:",
+      "french": "Mais quant à ces villes qui vous seront abandonnées, vous ne laisserez en vie aucun de leurs habitants,",
+      "annotations": null,
+      "source_pages": [
+        "page_0282.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Sed interficies in ore gladii, Hethæum, videlicet, et Amorrhæum, et Chananæum, Pherezæum, et Hevæum, et Jebusæum, sicut præcepit tibi Dominus Deus tuus:",
+      "french": "Mais vous les ferez tous passer au fil de l'épée : c'est-à-dire, les Héthéens, les Amorrhéens, les Cananéens, les Pherezéens, les Hévéens et les Jébuséens, comme le Seigneur votre Dieu vous l'a commandé ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0283.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Ne forte doceant vos facere cunctas abominationes, quas ipsi operati sunt diis suis: et peccetis in Dominum Deum vestrum.",
+      "french": "De peur qu'ils ne vous apprennent à commettre toutes les abominations, qu'ils ont commises eux-mêmes dans le culte de leurs dieux, et que vous ne péchiez contre le Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0283.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Quando obsederis civitatem multo tempore, et munitionibus circumdederis ut expugnes eam, non succides arbores de quibus vesci potest, nec securibus per circuitum debes vastare regionem: quoniam lignum est, et non homo, nec potest bellantium contra te augere numerum.",
+      "french": "Lorsque vous mettrez le siège devant une ville, et que le siège sera long, et que vous l'aurez environnée de machines pour la détruire, vous n'abattrez point les arbres qui portent du fruit dont on peut manger, et vous ne renverserez point à coups de cognées, tous les arbres du pays d'alentour, parce que ce n'est que du bois, et non pas des hommes, qui puissent accroître le nombre de vos ennemis,",
+      "annotations": null,
+      "source_pages": [
+        "page_0283.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Si qua autem ligna non sunt pomifera, sed agrestia, et in cæteros apta usus, succide, et instrue machinas, donec capias civitatem, quæ contra te dimicat.",
+      "french": "Que si ce ne sont point des arbres fruitiers, mais des arbres sauvages qui servent aux autres usages de la vie, vous les abattrez pour en faire des machines, jusqu'à ce que vous ayez pris la ville, qui se défend contre vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0285.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Non misereberis ejus, sed animam pro anima, oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede exiges.",
+      "french": "Vous n'aurez point de compassion du coupable ; mais vous ferez rendre vie pour vie, œil pour œil, dent pour dent, main pour main, pied pour pied.",
+      "annotations": null,
+      "source_pages": [
+        "page_0272.json"
+      ]
+    }
+  ]
+}

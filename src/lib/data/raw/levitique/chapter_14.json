@@ -1,0 +1,520 @@
+{
+  "book": "Lévitique",
+  "chapter": 14,
+  "chapter_summary": "Lois pour la purification des lépreux. Lèpre des maisons : Manière de la connaître, et de la purifier.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Locutusque est Dominus ad Moysen, dicens :",
+      "french": "Le Seigneur parla ensuite à Moïse, et lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0172.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Haec est ritus leprosi, quando mundandus est : Adducetur ad Sacerdotem :",
+      "french": "Voici la cérémonie qui s'observera lorsqu'il faudra purifier un lépreux. Le lépreux sera amené au Prêtre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0172.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Qui egressus de castris, cum invenerit lepram esse mundatam,",
+      "french": "Et le Prêtre étant sorti du camp, lorsqu'il aura reconnu que la lèpre est bien guérie,",
+      "annotations": null,
+      "source_pages": [
+        "page_0172.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Praecipiet ei qui purificatur, ut offerat duos passeres vivos pro se, quibus vesci licitum est, et lignum cedrinum, vermiculumque, et hyssopum.",
+      "french": "Il ordonnera à celui qui doit être purifié, de présenter pour soi deux passereaux vivants, dont il est permis de manger. Il lui ordonnera aussi de prendre du bois de cèdre, de l'écarlate, et de l'hysope ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0172.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et unum ex passeribus immolari jubebit in vase fictili, super aquas viventes:",
+      "french": "Et d'immoler l'un des passereaux dans un vaisseau de terre, sur l'eau vive.",
+      "annotations": null,
+      "source_pages": [
+        "page_0173.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Aliam autem vivum cum ligno cedrino, et cocco, et hyssopo, tinget in sanguine passeris immolati,",
+      "french": "Alors le Prêtre plongera le passereau qui est vivant, et le bois de cèdre, l'écarlate, et l'hysope, dans le sang du passereau qui aura été immolé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0174.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quo asperget illum qui mundandus est, septies, ut jure purgetur : et dimittet passerem vivum, ut in agrum avolet.",
+      "french": "Et il fera sept fois les aspersions avec ce sang, sur celui qu'il purifie, afin qu'il soit légitimement purifié. Après cela, il laissera aller le passereau vivant, afin qu'il s'envole dans les champs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0175.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Cumque laverit homo vestimenta sua, radet omnes pilos corporis, et lavabitur aqua : purificatusque ingredietur castra ; ita duntaxat, ut maneat extra tabernaculum suum septem diebus.",
+      "french": "Et cet homme ayant lavé ses vêtements, il rasera tout le poil de son corps, se baignera dans l'eau ; et étant ainsi purifié, il rentrera dans le camp : en telle sorte néanmoins, qu'il demeurera sept jours hors de la tente.",
+      "annotations": null,
+      "source_pages": [
+        "page_0175.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et die septimo radet capillos capitis, barbamque, et supercilia, ac totius corporis pilos. Et lotis rursum vestibus et corpore,",
+      "french": "Le septième jour, il se rasera les cheveux de la tête, la barbe, et les sourcils, et tout le poil du corps ; et ayant encore lavé ses vêtements et son corps,",
+      "annotations": null,
+      "source_pages": [
+        "page_0175.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Die octavo assumet duos agnos immaculatos, et ovem amiculam absque macula, et tres decimas similae in sacrificium, quae conspersa sit oleo, et seorsum olei sextarium.",
+      "french": "Le huitième jour, il prendra deux agneaux sans défaut, et une jeune brebis de l'année, qui soit aussi sans défaut, et trois dixièmes de fleur de farine arrosée d'huile pour le sacrifice, et une chopine d'huile séparément.",
+      "annotations": null,
+      "source_pages": [
+        "page_0175.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Cumque Sacerdos purificans hominem, statuerit eum, et haec omnia coram Domino in ostio Tabernaculi testimonii;",
+      "french": "Et lorsque le Prêtre qui purifie cet homme, l'aura présenté avec toutes ces choses devant le Seigneur, à l'entrée du Tabernacle du témoignage,",
+      "annotations": null,
+      "source_pages": [
+        "page_0176.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Tollet agnum; et offeret eum pro delicto, oleique sextarium; et oblatis ante Dominum omnibus,",
+      "french": "Il prendra un des agneaux, et il l'offrira pour l'offense, avec le vaisseau d'huile ; et ayant offert toutes ces choses devant le Seigneur,",
+      "annotations": null,
+      "source_pages": [
+        "page_0176.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Immolabit agnum, ubi solet immolari hostia pro peccato, et holocaustum, id est, in loco sancto. Sicut enim pro peccato, ita et pro delicto ad Sacerdotem pertinet hostia : Sancta sanctorum est.",
+      "french": "Il immolera l'agneau au lieu où l'on a accoutumé d'immoler l'hostie pour le péché, et l'holocauste, c'est-à-dire, dans le lieu saint : car l'hostie qui s'offre pour l'offense, appartient au Prêtre, de même que celle qui s'offre pour le péché ; et la chair en est très sainte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0176.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Assumensque Sacerdos de sanguine hostiae, quae immolata est pro delicto, ponet super extremum auriculae dextrae ejus qui mundatur, et super pollices manus dextrae et pedis:",
+      "french": "Alors le Prêtre prenant du sang de l'hostie qui aura été immolée pour l'offense, en mettra sur l'extrémité de l'oreille droite de celui qui se purifie, et sur les pouces de sa main droite et de son pied droit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0176.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et de olei sextario mittet in manum suam sinistram,",
+      "french": "Il versera aussi de l'huile du vaisseau dans sa main droite ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0176.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Tingetque digitum dextrum in eo, et asperget coram Domino septies:",
+      "french": "Et ayant trempé le doigt de sa main droite dans cette huile ; il en fera sept fois les aspersions devant le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0176.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Quod autem reliquum est olei in lava manu, fundet super extremum auriculae dextrae ejus qui mundatur, et super pollices manus ac pedis dextri, et super sanguinem qui effusus est pro delicto.",
+      "french": "Et il répandra ce qui restera d'huile en sa main gauche, sur l'extrémité de l'oreille droite de celui qui est purifié, et sur les pouces de sa main droite, et de son pied droit, au même lieu qui a été arrosé du sang qui a été répandu pour l'offense :",
+      "annotations": null,
+      "source_pages": [
+        "page_0177.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et super caput ejus.",
+      "french": "Et sur la tête de cet homme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0177.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Rogabitque pro eo coram Domino, et faciet sacrificium pro peccato : tunc immolabit holocaustum,",
+      "french": "Le Prêtre en même temps priera pour lui devant le Seigneur ; et après avoir offert le sacrifice pour le péché, il immolera l'holocauste,",
+      "annotations": null,
+      "source_pages": [
+        "page_0177.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et ponet illud in Altari cum libamentis suis, et homo rite mundabitur.",
+      "french": "Et il le mettra sur l'Autel, avec les offrandes qui doivent l'accompagner ; et cet homme sera purifié selon les lois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0177.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Quod si pauper est, et non potest manus ejus invenire quae dicta sunt ; pro delicto assumet agnum ad oblationem, ut roget pro eo Sacerdos, decimamque partem similae consperse oleo in sacrificium, et olei sextarium,",
+      "french": "Que s'il est pauvre, et qu'il ne puisse pas trouver tout ce qui a été prescrit, il prendra un agneau qui sera offert pour l'offense, afin que le Prêtre prie pour son expiation, et un dixième de fleur de farine arrosée d'huile, pour être offert en sacrifice, avec une chopine d'huile.",
+      "annotations": null,
+      "source_pages": [
+        "page_0177.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Duosque turtures, sive duos pullos columbae, quorum unus sit pro peccato, et alter in holocaustum :",
+      "french": "Et deux tourterelles, ou deux petits de colombe, dont l'un sera pour le péché, et l'autre pour l'holocauste.",
+      "annotations": null,
+      "source_pages": [
+        "page_0177.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Offeretque ea die octavo purificationis suae Sacerdoti, ad ostium Tabernaculi testimonii coram Domino.",
+      "french": "Et au huitième jour de sa purification, il les offrira au Prêtre à l'entrée du Tabernacle du témoignage, devant le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0177.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Qui suscipiens agnum pro delicto, et sextarium olei, levabit simul:",
+      "french": "Alors le Prêtre recevant l'agneau pour l'offense, et la chopine d'huile, il les élèvera ensemble :",
+      "annotations": null,
+      "source_pages": [
+        "page_0178.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Immolatoque agno, de sanguine ejus ponet super extremum auriculae dextrae illius qui mundatur, et super pollices manus ejus ac pedis dextri:",
+      "french": "Et ayant immolé l'agneau, il en prendra du sang, qu'il mettra sur l'extrémité de l'oreille droite de celui qui se purifie, et sur les pouces de sa main droite, et de son pied droit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0178.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Olei vero partem mittet in manum suam sinistram.",
+      "french": "Il versera aussi une partie de l'huile en sa main gauche ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0178.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "In quo tingens digitum dextrae manus, asperget septies coram Domino:",
+      "french": "Et y ayant trempé le doigt de sa main droite, il en fera sept fois les aspersions devant le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0178.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Tangetque extremum dextrae auriculae illius qui mundatur, et pollices manus ac pedis dextri, in loco sanguinis qui effusus est pro delicto:",
+      "french": "Il en touchera l'extrémité de l'oreille droite de celui qui se purifie, et les pouces de sa main droite et de son pied droit, au même lieu qui avait été arrosé du sang, répandu pour l'offense.",
+      "annotations": null,
+      "source_pages": [
+        "page_0178.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Reliquam autem partem olei, quae est in sinistra manu, mittet super caput purificati, ut placet pro eo Dominum:",
+      "french": "Et il mettra sur la tête de celui qui est purifié, et le reste de l'huile qui est en sa main gauche, afin de lui rendre le Seigneur favorable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0178.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et turturem, sive pullum columbae offeret:",
+      "french": "Il offrira aussi deux tourterelles, ou deux petits de colombe :",
+      "annotations": null,
+      "source_pages": [
+        "page_0178.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Unum pro delicto, et alterum in holocaustum, cum libamentis suis.",
+      "french": "L'un pour l'offense, et l'autre pour être offert en holocauste, avec les libations qui les doivent accompagner.",
+      "annotations": null,
+      "source_pages": [
+        "page_0178.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Hoc est sacrificium leprosi, qui habere non potest omnia in emundationem sui.",
+      "french": "Voilà quel sera le sacrifice du lépreux, qui ne peut pas avoir pour sa purification tout ce qui a été ordonné.",
+      "annotations": null,
+      "source_pages": [
+        "page_0179.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Locutusque est Dominus ad Moysen et Aaron, dicens :",
+      "french": "Le Seigneur parla encore à Moïse et à Aaron, et il leur dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0179.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Cum ingressi fueritis terram Chanaan, quam ego dabo vobis in possessionem ; si fuerit plaga leprae in aedibus,",
+      "french": "Lorsque vous serez entrés dans le pays de Canaan, que je vous donnerai, afin que vous le possédiez ; s'il se trouve une maison infectée de lèpre,",
+      "annotations": null,
+      "source_pages": [
+        "page_0179.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Ibit cujus est domus, nuntians Sacerdoti, et dicet : Quasi plaga leprae videtur mihi esse in domo mea.",
+      "french": "Celui à qui la maison appartient, ira avertir le Prêtre, et lui dira : Il me semble que la lèpre paraît dans ma maison.",
+      "annotations": null,
+      "source_pages": [
+        "page_0179.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "At ille praecipiet ut efferant universa de domo, priusquam ingrediatur eam, et videat utrum leprosa sit ; ne immunda fiant omnia quae in domo sunt. Intrabitque postea ut consideret lepram domus.",
+      "french": "Alors le Prêtre fera transporter ailleurs tout ce qui est dans la maison, avant qu'il y entre, pour voir si la lèpre y est ; de peur que tout ce qui s'y trouve ne devienne impur. Étant donc entré dans la maison pour considérer si elle est infectée de lèpre ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0179.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Et cum viderit in parietibus illius quasi valliculas pallore sive rubore deformes, et humiliores superficie reliqua,",
+      "french": "S'il voit dans la muraille comme de petits creux, et des endroits défigurés par des taches pâles ou rougeâtres, et plus enfoncés que le reste de la muraille,",
+      "annotations": null,
+      "source_pages": [
+        "page_0180.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Egredietur ostium domus, et statim claudet illam septem diebus;",
+      "french": "Il sortira hors de la porte de la maison, et la fermera aussitôt, sans l'ouvrir pendant sept jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0180.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Reversusque die septimo, considerabit eam. Si invenerit crevisse lepram,",
+      "french": "Il reviendra le septième jour, et la considérera : et s'il trouve que la lèpre se soit augmentée,",
+      "annotations": null,
+      "source_pages": [
+        "page_0180.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Jubebit erui lapides in quibus lepra est, et projici eos extra civitatem, in locum immundum:",
+      "french": "Il ordonnera qu'on arrache les pierres infectées de lèpre, qu'on les jette hors de la ville, dans un lieu impur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0180.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Domum autem ipsam radi intrinsecus per circuitum, et spargi pulverem rasurae extra urbem, in locum immundum,",
+      "french": "Qu'on racle au dedans les murailles de la maison tout autour ; qu'on jette toute la poussière qui en sera tombée en les raclant, hors de la ville, dans un lieu impur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0180.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Lapidesque alios reponi pro his qui ablati fuerint ; et luto alio liniri domum.",
+      "french": "Qu'on remette dans la muraille d'autres pierres en la place de celles qu'on en a ôtées ; et qu'on crépisse de nouveau avec d'autre mortier, les murailles de la maison.",
+      "annotations": null,
+      "source_pages": [
+        "page_0180.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Sin autem postquam eruti sunt lapides, et pulvis erasus, et alia terra lita,",
+      "french": "Que si après qu'on aura ôté les pierres de la muraille ; qu'on en aura raclé la poussière, et qu'on les aura crépies avec d'autre mortier ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0180.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Ingressus Sacerdos viderit reversam lepram, et parietes respersos maculis, lepra est perseverans, et immunda domus:",
+      "french": "Le Prêtre y entrant, trouve que la lèpre y soit revenue, et que les murailles soient gâtées de ces mêmes taches, il jugera que c'est une lèpre enracinée, et que la maison est impure.",
+      "annotations": null,
+      "source_pages": [
+        "page_0180.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Quam statim destruent, et lapides ejus, ac ligna, atque universum pulverem projicient extra oppidum, in locum immundum.",
+      "french": "Elle sera détruite aussitôt, et on en jettera les pierres, le bois, le mortier, et la poussière, hors de la ville, en un lieu impur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0181.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Qui intraverit domum quando clausa est, immundus erit usque ad vesperum :",
+      "french": "Celui qui entrera dans cette maison pendant qu'elle aura été fermée, sera impur jusqu'au soir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0181.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Et qui dormierit in ea, et comederit quippiam, lavabit vestimenta sua.",
+      "french": "Et celui qui y dormira, ou mangera, lavera ses vêtements.",
+      "annotations": null,
+      "source_pages": [
+        "page_0181.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Quod si introiens Sacerdos viderit lepram non crevisse in domo, postquam denuo lita fuerit, purificabit eam reddita sanitate :",
+      "french": "Que si le Prêtre rentrant dans cette maison, reconnaît que la lèpre ne se soit point répandue sur les murailles, après qu'elles auront été enduites de nouveau, il la déclarera pure, et rétablie dans sa pureté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0181.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Et in purificationem ejus sumet duos passeres, lignumque cedrinum, et vermiculum, atque hyssopum.",
+      "french": "Et il prendra pour la purifier, deux passereaux, du bois de cèdre, de l'écarlate, et de l'hysope.",
+      "annotations": null,
+      "source_pages": [
+        "page_0181.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Et immolato uno passere in vase fictili super aquas vivas,",
+      "french": "Et ayant immolé l'un des passereaux dans un vase de terre, sur des eaux vives,",
+      "annotations": null,
+      "source_pages": [
+        "page_0181.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Tollet lignum cedrinum, et hyssopum, et coccum, et passerem vivum, et tinget omnia in sanguine passeris immolati, atque in aquis viventibus, et asperget domum septies.",
+      "french": "Il trempera dans le sang du passereau qui a été immolé, et dans les eaux vives, le bois de cèdre, l'hysope, l'écarlate, et l'autre oiseau qui est vivant ; il fera sept fois les aspersions dans la maison,",
+      "annotations": null,
+      "source_pages": [
+        "page_0181.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Purificabitque eam tam in sanguine passeris, quam in aquis viventibus, et in passere vivo, lignoque cedrino, et hyssopo, atque vermiculo.",
+      "french": "Et il la purifiera, tant par le sang du passereau qui aura été immolé, que par les eaux vives, avec le passereau qui est vivant, le bois de cèdre, l'hysope, et l'écarlate.",
+      "annotations": null,
+      "source_pages": [
+        "page_0181.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Cumque dimiserit passerem avolare in agrum libere, orabit pro domo, et jure mundabitur.",
+      "french": "Et après avoir laissé envoler l'autre passereau dans les champs, il priera pour l'expiation de la maison, et elle sera légitimement purifiée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0181.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Ista est lex omnis leprae, et percussurae,",
+      "french": "Voilà les lois qui regardent toutes les espèces de lèpre, et toutes les plaies qui dégénèrent en lèpre :",
+      "annotations": null,
+      "source_pages": [
+        "page_0182.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Leprae, vestium, et domorum,",
+      "french": "Comme aussi la lèpre des vêtements, et des maisons,",
+      "annotations": null,
+      "source_pages": [
+        "page_0182.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "Cicatricis, et erumpentium papularum, lucentis maculae, et in varias species coloribus immatatis,",
+      "french": "Les cicatrices, les pustules, les taches luisantes, et les diverses sortes de lèpres, selon la diversité des couleurs qui paraissent sur le corps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0182.json"
+      ]
+    },
+    {
+      "verse_number": 57,
+      "latin": "Ut possit sciri quo tempore mundum quid, vel immundum sit.",
+      "french": "Afin qu'on sache quand une chose sera pure, ou impure.",
+      "annotations": null,
+      "source_pages": [
+        "page_0182.json"
+      ]
+    }
+  ]
+}

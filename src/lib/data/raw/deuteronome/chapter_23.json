@@ -1,0 +1,232 @@
+{
+  "book": "Deutéronome",
+  "chapter": 23,
+  "chapter_summary": "Qui étaient ceux qui n'entraient point dans l'assemblée du Seigneur. Pureté du camp d'Israël. De l'esclave qui se sera retiré dans le pays des Hébreux. Des personnes de mauvaise vie. Défense de recvoir leur offrance. Usure défendue. Des vœux. Il est permis de cueillir des raisins dans la vigne, mais non pas d'en emporter.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Non intrabit Eunuchus, attritis vel amputatis testiculis, et abscisso veretro, ecclesiam Domini.",
+      "french": "L'Eunuque, dans lequel ce que Dieu a destiné à la conservation de l'espèce, aura été ou coupé, ou froissé, ou retranché, n'entrera point en l'assemblée du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0316.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Non ingredietur mamzer, hoc est, de scorto natus, in ecclesiam Domini, usque ad decimam generationem.",
+      "french": "Celui qui est bâtard, c’est-à-dire qui est né d’une femme prostituée, n’entrera point en l’assemblée du Seigneur, jusqu’à la dixième génération.",
+      "annotations": null,
+      "source_pages": [
+        "page_0318.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Ammonites et Moabites etiam post decimam generationem, non intrabunt ecclesiam Domini in aeternum:",
+      "french": "L’Ammonite et le Moabite n’entreront jamais dans l’assemblée du Seigneur, non pas même après la dixième génération ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0318.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quia noluerunt vobis occurrere cum pane et aqua in via, quando egressi estis de Ægypto : et quia conduxerunt contra te Balaam filium Beor de Mesopotamia Syriæ, ut malediceret tibi :",
+      "french": "Parce qu'ils n'ont pas voulu venir au devant de vous avec du pain et de l'eau, lorsque vous étiez en chemin, après votre sortie de l'Egypte : et parce qu'ils ont gagné Balaam fils de Beor de Mésopotamie de Syrie, pour vous maudire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0320.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et noluit Dominus Deus tuus audire Balaam, vertitque maledictionem ejus in benedictionem tuam, eo quod diligeret te.",
+      "french": "Mais le Seigneur votre Dieu ne voulut point écouter Balaam ; et parce qu'il vous aimait, il obligea Balaam de vous donner des bénédictions, au lieu des malédictions qu'il voulait vous donner.",
+      "annotations": null,
+      "source_pages": [
+        "page_0320.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Non facies cum eis pacem, nec quæras eis bona, cunctis diebus vitæ tuæ in sempiternum.",
+      "french": "Vous ne ferez point de paix avec ces peuples, et vous ne leur procurerez jamais aucun bien, tant que vous vivrez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Non abominaberis Idumæum, quia frater tuus est : nec Ægyptium, quia advena fuisti in terra ejus.",
+      "french": "Vous n'aurez point l'Iduméen en abomination, parce qu'il est votre frère ; ni l'Egyptien, parce que vous avez été étranger en son pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Qui nati fuerint ex eis, tertia generatione intrabunt in ecclesiam Domini.",
+      "french": "Ceux qui feront nés de ces deux peuples, entreront à la troisième génération dans l'assemblée du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Quando egressus fueris adversus hostes tuos in pugnam, custodies te ab omni re mala.",
+      "french": "Lorsque vous marcherez contre vos ennemis pour les combattre, vous aurez soin de vous abstenir de toute action mauvaise.",
+      "annotations": null,
+      "source_pages": [
+        "page_0322.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Si fuerit inter vos homo, qui nocturno pollutus sit somnio, egrediatur extra castra,",
+      "french": "Si un homme d'entre vous a souffert quelque chose d'impur dans un songe pendant la nuit, il sortira hors du camp ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0323.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et non revertetur, priusquam ad vesperam lavetur aqua : et post solis occasum regredietur in castra.",
+      "french": "Et il n'y reviendra qu'au soir, et après s'être lavé dans l'eau ; il ne rentrera dans le camp, qu'après le coucher du Soleil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0323.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Habebis locum extra castra, ad quem egrediaris ad requisita naturæ,",
+      "french": "Vous aurez un lieu hors du camp, où vous irez pour vos besoins naturels.",
+      "annotations": null,
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Gerens paxillum in balteo. Cumque sederis, fodies per circuitum, et egesta humo operies,",
+      "french": "Vous porterez un bâton pointu à la ceinture ; et lorsque vous voudrez vous soulager, vous ferez un trou dans la terre, que vous recouvrirez ensuite,",
+      "annotations": null,
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Quo relevatus es. (Dominus enim Deus tuus ambulat in medio castrorum, ut eruat te, et tradat tibi inimicos tuos ;) et sint castra tua sancta, et nihil in eis appareat fœditatis, ne derelinquat te.",
+      "french": "Après vous être soulagés. Car le Seigneur votre Dieu marche au milieu de votre camp, pour vous garantir de tout péril, et pour vous livrer vos ennemis. Ainsi vous aurez soin que votre camp soit pur et saint, et qu'il n'y paraisse rien qui le souille, de peur que le Seigneur ne vous abandonne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Non trades servum domino suo, qui ad te confugerit.",
+      "french": "Vous ne livrerez point l'esclave à son maître, quand il se sera refugié vers vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Habitabit tecum in loco qui ei placuerit, et in una urbium tuarum requiescet : ne contristes eum.",
+      "french": "Il demeurera parmi vous où il lui plaira, et il trouvera le repos et la sûreté dans quelqu'une de vos villes : ne lui faites aucune peine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0325.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Non erit meretrix de filiabus Israël, nec scortator de filiis Israël.",
+      "french": "Il n'y aura point de femme prostituée d'entre les filles d'Israël, ni de fornicateur d'entre les enfants d'Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0326.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Non offeres mercedem prostibuli, nec pretium canis, in domo Domini Dei tui, quidquid illud est quod voveris : quia abominatio est utrumque apud Dominum Deum tuum.",
+      "french": "Vous n'offrirez point dans la maison du Seigneur votre Dieu, la récompense de la prostituée, ni le prix du chien, quelque vœu que vous ayez fait ; parce que l'un et l'autre est abominable devant le Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0326.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Non foenerabis fratri tuo ad usuram pecuniam, nec fruges, nec quamlibet aliam rem ;",
+      "french": "Vous ne prêterez à usure à votre frère ni de l'argent, ni du grain, ni quelqu'autre chose que ce soit ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0330.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Sed alieno. Fratri autem tuo absque usura id quo indiget, commodabis : ut benedicat tibi Dominus Deus tuus in omni opere tuo in terra, ad quam ingredieris possidendam.",
+      "french": "Mais seulement aux étrangers. Vous prêterez à votre frère ce dont il aura besoin, sans en tirer aucun intérêt ; afin que le Seigneur votre Dieu vous bénisse en tout ce que vous ferez, dans le pays dont vous devez entrer en possession.",
+      "annotations": null,
+      "source_pages": [
+        "page_0330.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Cum votum voveris Domino Deo tuo, non tardabis reddere : quia requiret illud Dominus Deus tuus ; et si moratus fueris, reputabitur tibi in peccatum.",
+      "french": "Lorsque vous aurez fait un vœu au Seigneur votre Dieu, vous ne différerez point de l'accomplir ; parce que le Seigneur votre Dieu vous en demandera compte, et que si vous différez, il vous sera imputé à péché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0330.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Si nolueris polliceri, absque peccato eris.",
+      "french": "Il vous est permis de ne pas faire de promesses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0331.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Quod autem semel egressum est de labiis tuis, observabis, et facies sicut promisisti Domino Deo tuo, et propria voluntate et ore tuo locutus es.",
+      "french": "Mais lorsqu'une fois la parole sera sortie de votre bouche, vous l'exécuterez, et vous ferez selon ce que vous avez promis au Seigneur votre Dieu, l'ayant fait par votre propre volonté, et l'ayant déclaré par votre bouche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0331.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Ingressus vineam proximi tui, comede uvas quantum tibi placuerit : foras autem ne efferas tecum.",
+      "french": "Quand vous entrerez dans la vigne de votre prochain, vous pourrez manger des raisins autant que vous voudrez : mais vous n'en emporterez point dehors avec vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0331.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Si intraveris in segetem amici tui, franges spicas, et manu conteres : falce autem non metes.",
+      "french": "Si vous entrez dans les blés de votre ami, vous en pourrez cueillir des épis, et les froisser avec la main : mais vous n'en pourrez couper avec la faucille.",
+      "annotations": null,
+      "source_pages": [
+        "page_0331.json"
+      ]
+    }
+  ]
+}

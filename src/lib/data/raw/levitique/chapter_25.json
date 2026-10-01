@@ -1,0 +1,447 @@
+{
+  "book": "Lévitique",
+  "chapter": 25,
+  "chapter_summary": "Année Sabbatique. Jubilé. Lois contre l'usure. Ordonnances en faveur des esclaves Hébreux.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Locutusque est Dominus ad Moysen in monte Sinai, dicens :",
+      "french": "Le Seigneur parla encore à Moïse sur la montagne de Sinaï, et lui dit :",
+      "source_pages": [
+        "page_0314.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Loquere filiis Israel, et dices ad eos : Quando ingressi fueritis terram quam ego dabo vobis, sabbathises Sabbathum Domino.",
+      "french": "Parlez aux enfants d'Israël, et ditesleur : Quand vous serez entrés dans la terre que je vous donnerai, observez le Sabbat en l'honneur du Seigneur.",
+      "source_pages": [
+        "page_0314.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Sex annis seres agrum tuum, et sex annis putabis vineam tuam, colligesque fructus ejus.",
+      "french": "Vous semerez votre champ six ans de suite, et vous taillerez aussi votre vigne, et en recueillerez les fruits durant six ans.",
+      "source_pages": [
+        "page_0314.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Septimo autem anno Sabbathum erit terræ requietionis Domini. Agrum non seres, et vineam non putabis.",
+      "french": "Mais la septième année, ce sera le Sabbat de la terre, consacré à l'honneur du repos du Seigneur : vous n'ensemencerez point votre champ, et vous ne taillerez point votre vigne.",
+      "source_pages": [
+        "page_0314.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quæ sponte gignet humus, non metes : et uvas primitiarum tuarum non colliges quafi vindemiam : annus enim requisitionis terræ est:",
+      "french": "Vous ne moissonnerez point ce que la terre aura produit d'elle-même ; et vous ne couperez point les raisins de la vigne, dont vous avez accoutumé d'offrir les prémices, vous n'en ferez point la vendange : car c'est l'année du repos de la terre.",
+      "source_pages": [
+        "page_0315.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Sed erunt vobis in cibum, tibi et servo tuo, ancillæ et mercenario tuo, et advenæ, qui peregrinantur apud te :",
+      "french": "Mais tout ce qui naîtra alors de soi-même, servira à vous nourrir, vous, votre esclave, et votre servante, le mercenaire qui travaille pour vous, et l'étranger qui demeure parmi vous.",
+      "source_pages": [
+        "page_0315.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Jumentis tuis, et pecoribus, omnia quæ nascuntur, præbebunt cibum.",
+      "french": "Il servira encore à nourrir vos bêtes de service et vos troupeaux.",
+      "source_pages": [
+        "page_0316.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Numerabis quoque tibi septem hebdomadas annorum ; id est, septies septem, quæ simul faciunt annos quadraginta novem:",
+      "french": "Vous compterez aussi sept semaines d'années ; c'est-à-dire, sept fois sept, qui font quarante-neuf ans ;",
+      "source_pages": [
+        "page_0316.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et clanges buccina, mense septimo, decima die mensis, propitiationis tempore, in universa terra vestra.",
+      "french": "Et au dixième jour du septième mois, qui est le temps de la Fête des Expiations, vous ferez sonner du cor dans tout le pays.",
+      "source_pages": [
+        "page_0316.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Sanctificabisque annum quinquagesimum, et vocabis remissionem cunctis habitatoribus terræ tuæ : ipse est enim jubileus. Revertetur homo ad possessionem suam, et unusquisque rediet ad familiam pristinam :",
+      "french": "Vous sanctifierez la cinquantième année ; et elle sera une année de rémission, et de liberté pour tous les habitants de votre pays : chacun rentrera dans ses héritages, et retournera dans sa famille ;",
+      "source_pages": [
+        "page_0317.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Quia Jubilæus est et quinquagesimus annus. Non seretis, neque metetis sponte in agro nascentia ; et primitias vindemiæ non colligetis.",
+      "french": "Parce que c'est l'année du Jubilé, l'année cinquantième. Vous ne semerez point, et vous ne moissonnerez point ce que la terre aura produit d'elle-même ; et vous ne recueillerez point les prémices de vos vignes.",
+      "source_pages": [
+        "page_0319.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Ob sanctificationem Jubilæi ; sed statim oblata comedetis.",
+      "french": "À cause de la sainteté du Jubilé. Mais vous mangerez les premières choses que vous trouverez.",
+      "source_pages": [
+        "page_0320.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Anno Jubilæi redient omnes ad possessiones suas.",
+      "french": "En cette année du Jubilé, chacun rentrera dans ses héritages.",
+      "source_pages": [
+        "page_0320.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Quando vendes quippiam civi tuo , vel emes ab eo, ne contristes fratrem tuum ; sed juxta numerum annorum Jubilæi emes ab eo.",
+      "french": "Quand vous vendrez quelque chose à quelqu'un de vos citoyens, ou que vous achèterez de lui quelque chose, vous n'attristerez point votre frère ; mais vous achèterez de lui à proportion des années qui restent jusqu'au Jubilé.",
+      "source_pages": [
+        "page_0320.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et juxta supputationem frugum vendet tibi.",
+      "french": "Et il vous vendra la chose à proportion de ce qu'elle peut produire jusqu'à ce temps.",
+      "source_pages": [
+        "page_0320.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Quanto plures anni remanserint post Jubilæum, tanto crescet et pretium : et quanto minus temporis numeraveris, tanto minoris et emptio constabit : tempus enim frugum vendet tibi.",
+      "french": "Plus il restera de temps d'un Jubilé à l'autre, plus le prix de la chose augmentera ; et moins il restera de temps jusqu'au Jubilé, moins s'achètera ce qu'on achète : car celui qui vend, ne vous vendra que ce que l'héritage pourra produire jusqu'à ce temps.",
+      "source_pages": [
+        "page_0320.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Nolite affligere contribules vestros ; sed timeat unusquisque Deum suum, quia ego Dominus Deus vester.",
+      "french": "N'affligez point ceux qui vous sont unis par une même tribu ; mais que chacun craigne son Dieu ; parce que je suis le Seigneur votre Dieu.",
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Facite præcepta mea, et judicia custodite, et implete ea, ut habitare possitis in terra, absque ullo pavore,",
+      "french": "Exécutez mes préceptes, gardez mes ordonnances, et accomplissez-les, afin que vous puissiez habiter sur la terre sans aucune crainte,",
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Et gignat vobis humus fructus suos, quibus vescamini usque ad saturitatem, nullius impetum formidantes.",
+      "french": "Et que la terre vous produise ses fruits, dont vous puissiez manger, et vous rassasier, sans appréhender la violence de qui que ce soit.",
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Quod si dixeritis : Quid comedemus anno septimo, si non severimus, neque collegerimus fruges nostras ?",
+      "french": "Que si vous dites : Que mangerons-nous la septième année, si nous ne semons point, et si nous ne recueillons point le fruit de nos terres ?",
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Dabo benedictionem meam vobis anno sexto, et faciet fructus trium annorum :",
+      "french": "Je répandrai ma bénédiction sur vous en la sixième année ; et elle portera autant de fruits que trois autres.",
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Seretisque anno octavo, et comedetis veteres fruges usque ad nonum annum : donec nova nascantur, edetis vetera.",
+      "french": "Vous semerez la huitième année ; et vous mangerez vos anciens fruits jusqu'à la neuvième année : vous vivrez des vieux, jusqu'à ce qu'il en soit venu de nouveaux.",
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Terris quoque non vendetur in perpetuum, quia mea est, et vos advenæ et coloni mei estis.",
+      "french": "La terre aussi ne se vendra point à perpétuité, parce qu'elle est à moi, et que vous y êtes comme des étrangers, à qui je la fais cultiver.",
+      "source_pages": [
+        "page_0322.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Unde cuncta regio possessionis vestræ, sub redemptionis conditione vendetur.",
+      "french": "C'est pourquoi tout le fond que vous possédez, se vendra toujours sous condition de rachat.",
+      "source_pages": [
+        "page_0322.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Si attenuatus frater tuus venididerit possessiunculam suam, et voluerit propinquus ejus, potest redimere quod ille vendiderat.",
+      "french": "Si votre frère étant devenu pauvre, vend le petit héritage qu'il possédait ; le plus proche pourra, s'il le veut, racheter ce que celui-là aura vendu.",
+      "source_pages": [
+        "page_0322.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Sin autem non habuerit proximum, et ipse pretium ad redimendum potuerit invenire:",
+      "french": "S'il n'a point de proches parents, et qu'il puisse trouver de quoi racheter son bien :",
+      "source_pages": [
+        "page_0322.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Computabuntur fructus ex eo tempore quo vendidit : et quod reliquum est, reddet emptori ; sicque recipiet possessionem suam,",
+      "french": "On comptera la valeur des fruits depuis le temps que la vente en a été faite ; afin que rendant le surplus à l'acheteur, il rentre ainsi dans son bien.",
+      "source_pages": [
+        "page_0323.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Quod si non invenerit manus ejus ut reddat pretium, habebit emptor quod emerat, usque ad annum Jubilæum. In ipso enim omnis venditio redibit ad dominum, et ad possessorem pristinum.",
+      "french": "Que s'il ne peut point trouver la valeur de son héritage, pour en rendre le prix à l'acheteur ; celui-ci le gardera jusqu'à l'année du Jubilé : car cette année-là, tout le bien vendu retournera au propriétaire qui l'avait possédé d'abord.",
+      "source_pages": [
+        "page_0323.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Qui vendiderit domum intra urbis muros, habebit licentiam redimendi, donec unus impleatur annus.",
+      "french": "Celui qui aura vendu une maison dans l'enceinte des murs d'une ville, aura le pouvoir de la racheter pendant un an.",
+      "source_pages": [
+        "page_0323.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Si non redemerit, et anni circulus fuerit evolutus, emptor possidebit eam, et posteri ejus in perpetuum ; et redimi non poterit, etiam in Jubilæo.",
+      "french": "Que s'il ne la rachète point dans ce terme-là, et qu'il ait laissé passer l'année, celui qui l'a achetée la possédera, lui, et ses enfants pour toujours, sans qu'elle puisse être rachetée, même au Jubilé.",
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Sin autem in villa fuerit domus, quæ muros non habet, agrorum jure vendetur : si ante redempta non fuerit, in Jubilæo revertetur ad dominum.",
+      "french": "Que si cette maison est dans un village qui n'a point de murailles, elle sera vendue sous les mêmes conditions que les terres ; et si elle n'a point été rachetée auparavant, elle retournera au propriétaire en l'année du Jubilé.",
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Ædes Levitarum, quæ in urbibus sunt, semper possunt redimi,",
+      "french": "Les maisons des Lévites qui sont dans les villes, se peuvent racheter à perpétuité.",
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Si redemptæ non fuerint, in Jubilæo revertentur ad dominos, quia domus urbium Levitarum pro possessionibus sunt inter filios Israel.",
+      "french": "Si elles n'ont point été rachetées, elles retourneront au propriétaire en l'année du Jubilé, parce que les maisons que les Lévites ont dans les villes, sont l'héritage qu'ils possèdent parmi les enfants d'Israël.",
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Suburbana autem eorum non vancant, quia possessio sempiterna est.",
+      "french": "Mais les champs qui sont autour de la ville, ne seront point vendus : car c’est un bien inaliénable.",
+      "source_pages": [
+        "page_0325.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Si attenuatus fuerit frater tuus, et infirmus manu, et susceperis eum quasi advenam, et peregrinum, et vixerit tecum,",
+      "french": "Si votre frère est tombé dans la pauvreté, et qu’il ait besoin de votre secours : après que vous l’aurez reçu chez vous comme un hôte, et un étranger, et que vous l’aurez nourri avec vous,",
+      "source_pages": [
+        "page_0325.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Ne accipias usuras ab eo, nec amplius quam dedifti. Time Deum tuum, ut vivere possit frater tuus apud te:",
+      "french": "Ne tirez point d'intérêt de lui, et n'en exigez pas plus que vous ne lui avez donné. Craignez votre Dieu, afin que votre frère puisse vivre chez vous.",
+      "source_pages": [
+        "page_0326.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Pecuniam tuam non dabis ei ad usuram, et frugum superabundantiam non exiges.",
+      "french": "Vous ne lui donnerez point votre argent à usure ; et vous n'exigerez pas de lui plus de fruits qu'il n'en a reçus de vous.",
+      "source_pages": [
+        "page_0326.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Ego Dominus Deus vester, qui eduxi vos de terra Ægypti, ut darem vobis terram Chanaan, et essem vester Deus.",
+      "french": "Je suis le Seigneur votre Dieu, qui vous ai fait sortir de l'Égypte pour vous donner la terre de Canaan, et afin que je fusse votre Dieu.",
+      "source_pages": [
+        "page_0326.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Si paupertate compulsus, vendiderit se tibi frater tuus, non eum opprimes servitute famulorum,",
+      "french": "Si la pauvreté réduit votre frère à se vendre à vous, vous ne l'opprimerez point, en le traitant comme un esclave.",
+      "source_pages": [
+        "page_0326.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Sed quasi mercenarius et colonus erit : usque ad annum Jubilæum operabitur apud te.",
+      "french": "Mais vous le traiterez comme un ouvrier à gage, et comme un fermier : Il travaillera chez vous jusqu'à l'année du Jubilé.",
+      "source_pages": [
+        "page_0327.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Et postea egredietur cum liberis suis, et revertetur ad cognationem, et ad possessionem patrum suorum.",
+      "french": "Et il sortira après avec ses enfants, et retournera à la famille et à l'héritage de ses pères.",
+      "source_pages": [
+        "page_0327.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Mei enim servi sunt, et ego eduxi eos de terra Ægypti : non vaneant conditione servorum.",
+      "french": "Car ils sont mes esclaves : c'est moi qui les ai tirés de l'Égypte : qu'on ne les vende point comme les autres esclaves.",
+      "source_pages": [
+        "page_0327.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Ne affligas eum per potentiam , sed metuito Deum tuum.",
+      "french": "N'accablez donc point vos frères par votre puissance ; mais craignez votre Dieu.",
+      "source_pages": [
+        "page_0328.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Servus et ancilla sint vobis de nationibus quæ in circuitu vestro sunt.",
+      "french": "Que vos esclaves, et vos servantes soient pris des nations qui sont autour de vous.",
+      "source_pages": [
+        "page_0328.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Et de advenis qui peregrinantur apud vos, vel qui ex his nati fuerint in terra vestra, hos habebitis famulos :",
+      "french": "Qu'ils soient pris des étrangers qui sont parmi vous, et de ceux qui sont nés dans votre pays : Voilà ceux que vous prendrez pour esclaves.",
+      "source_pages": [
+        "page_0328.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Et hæreditario jure transmittetis ad posteros , ac possidebitis in æternum : fratres autem vestros filios Israel , ne opprimatis per potentiam.",
+      "french": "Et que vous laisserez à vos enfants par un droit héréditaire, et dont vous ferez les maîtres pour toujours : mais n'opprimez point par votre puissance les enfants d'Israël, qui sont vos frères.",
+      "source_pages": [
+        "page_0328.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Si invaluerit apud vos manus advenæ, atque peregrini , et attenuatus frater tuus , vendiderit se ei , aut cuiquam de stirpe ejus ,",
+      "french": "Si un étranger qui est venu d'ailleurs parmi vous, est devenu riche, et qu'un de vos frères se vende à lui, ou à quelqu'un de sa famille,",
+      "source_pages": [
+        "page_0328.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Post venditionem potest redimi. Qui voluerit ex fratribus suis , redimet eum ,",
+      "french": "Il pourra être racheté après qu'il aura été vendu. Celui de ses parents qui le voudra racheter, le pourra faire ;",
+      "source_pages": [
+        "page_0328.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Et patruus , et patruelis , et consanguineus , et affinis : sin autem et ipse potuerit , redimet se ;",
+      "french": "Son oncle, ou le fils de son oncle, et celui qui lui est uni par le sang, ou par l'alliance. Que s'il peut lui-même se racheter, il le fera ;",
+      "source_pages": [
+        "page_0328.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Supputatis duntaxat annis, a tempore venditionis suæ, usque ad annum Jubilæum; et pecunia, qua venditus fuerat, juxta annorum numerum, et rationem mercenarii, supputata.",
+      "french": "En supputant le nombre des années qui resteront depuis le temps qu’il aura été vendu, jusqu’à l’année du Jubilé, et en rabattant à son maître, sur le prix qu’il avait donné en l’achetant, ce qui peut être dû à l’esclave lui-même, pour le temps qu’il l’a servi, en comptant ses journées comme celles d’un mercenaire.",
+      "source_pages": [
+        "page_0329.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Si plures fuerint anni, qui remanent usque ad Jubilæum, secundum hos reddet et pretium.",
+      "french": "S’il reste beaucoup d’années jusqu’au temps du Jubilé, il paiera aussi plus d’argent.",
+      "source_pages": [
+        "page_0329.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Si pauci, ponet rationem cum eo, juxta annorum numerum, et reddet emptori quod reliquum est annorum,",
+      "french": "S’il en reste peu, il comptera avec son maître, selon le nombre des années qui resteront ; et il lui rendra l’argent à proportion du nombre des années,",
+      "source_pages": [
+        "page_0329.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Quibus ante servivit mercedibus imputatis : non affliget eum violenter in conspectu tuo.",
+      "french": "En rabattant sur le prix ce qui lui sera dû à lui-même, pour le temps qu’il aura servi. Que son maître ne le traite point avec dureté, et avec violence devant vos yeux.",
+      "source_pages": [
+        "page_0329.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Quod si per hæc redimi non potuerit, anno Jubilæo egredietur cum liberis suis.",
+      "french": "Que s’il ne peut être racheté en cette manière, il sortira libre l’année du Jubilé, avec ses enfants.",
+      "source_pages": [
+        "page_0329.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Mei enim sunt servi, filii Israel, quos eduxi de terra Ægypti.",
+      "french": "Car les enfants d’Israël sont mes esclaves ; et je les ai fait sortir de l’Égypte.",
+      "source_pages": [
+        "page_0329.json"
+      ]
+    }
+  ]
+}

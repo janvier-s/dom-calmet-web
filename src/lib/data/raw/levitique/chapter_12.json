@@ -1,0 +1,79 @@
+{
+  "book": "Lévitique",
+  "chapter": 12,
+  "chapter_summary": "Lois pour la purification des femmes nouvellement accouchées.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Locutusque est Dominus ad Moysen, dicens :",
+      "french": "Le Seigneur parla encore à Moïse, et lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0151.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Loquere filiis Israel, et dices ad eos : Mulier, si suscepto semine pepererit masculum, immunda erit septem diebus, juxta dies separationis menstruae.",
+      "french": "Parlez aux enfants d'Israël, et dites-leur : Si une femme ayant usé du mariage, enfante un mâle, elle sera impure pendant sept jours, de même que dans les purgations accoutumées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0151.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "In die octavo circumcidetur infantulus.",
+      "french": "L'enfant sera circoncis le huitième jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0152.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Ipsa vero triginta tribus diebus manebit in sanguine purificationis suae. Omne sanctum non tanget, nec ingredietur in Sanctuarium, donec impleantur dies purificationis suae.",
+      "french": "Et elle demeurera encore trente-trois jours pour être purifiée de la suite de ses couches. Elle ne touchera à rien qui soit saint ; et elle n'entrera point dans le Sanctuaire, jusqu'à ce que les jours de la purification soient accomplis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0153.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Sin autem foeminam pepererit, immunda erit duabus hebdomadibus, juxta ritum fluxus menstrui, et sexaginta sex diebus manebit in sanguine purificationis suae.",
+      "french": "Que si elle enfante une fille, elle sera impure pendant deux semaines, comme lorsqu'elle est séparée à cause de ses purgations accoutumées ; et elle demeurera soixante-six jours, pour être purifiée de la suite de ses couches.",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Cumque expleti fuerint dies purificationis suae, pro filio, sive pro filia ; deferet agnum anniculum in holocaustum, et pullum columbae, sive turturem pro peccato, ad ostium Tabernaculi testimonii, et tradet Sacerdoti,",
+      "french": "Lorsque les jours de sa purification seront accomplis, pour la naissance d'un fils ou d'une fille, elle portera à l'entrée du Tabernacle du témoignage, un agneau de l'année, pour être offert en holocauste, et pour le péché ; et le petit d'une colombe, ou une tourterelle, qu'elle donnera au Prêtre,",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Qui offeret illa coram Domino, et orabit pro ea, et sic mundabitur a profluvio sanguinis sui. Ista est lex parientis masculum aut foeminam.",
+      "french": "Qui les offrira devant le Seigneur. Et elle sera ainsi purifiée de toute la suite de ses couches. Voilà la loi pour celle qui enfante un enfant mâle, ou une fille.",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Quod si non invenerit manus ejus, nec potuerit offerre agnum ; sumet duos turtures, vel duos pullos columbarum, unum in holocaustum, et alterum pro peccato, orabitque pro ea Sacerdos, et sic mundabitur.",
+      "french": "Que si elle n'a pas le moyen d'offrir un agneau ; elle prendra deux tourterelles, ou deux petits de colombe ; l'un pour être offert en holocauste, et l'autre pour le péché ; et le Prêtre priera pour elle, et elle sera ainsi purifiée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    }
+  ]
+}

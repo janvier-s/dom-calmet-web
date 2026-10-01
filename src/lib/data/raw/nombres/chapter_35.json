@@ -1,0 +1,294 @@
+{
+  "book": "Nombres",
+  "chapter": 35,
+  "chapter_summary": "Quarante-huit villes données aux Lévites pour leurs demeures. Six villes d'asile pour ceux qui ont commis un homicide involontaire. Ce qu'on doit observer envers ceux qui se retirent dans les villes de refuge.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Hæc quoque locutus est Dominus ad Moysen, in campestribus Moab, supra Jordanem, contra Jericho:",
+      "french": "Le Seigneur dit encore ce à Moïse dans les plaines de Moab, le long du Jourdain, vis-à-vis de Jéricho:",
+      "annotations": null,
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Præcipe filiis Israël, ut dent Levitis de possessionibus suis",
+      "french": "Ordonnez aux enfants d'Israël, que des terres qu'ils posséderont, ils donnent aux lévites",
+      "annotations": null,
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Urbes ad habitandum, et suburbana earum per circuitum: ut ipsi in oppidis maneant, et suburbana sint pecoribus ac jumentis:",
+      "french": "Des villes pour y habiter, et les faubourgs qui les environnent; afin qu'ils demeurent dans les villes, et que les faubourgs soient pour leurs troupeaux et pour leurs bêtes.",
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quæ a muris civitatum forinfecus per circuitum, mille passuum spatio tendentur.",
+      "french": "Ces faubourgs qui seront au-dehors des murailles de leurs villes, s'étendront tout autour, l'espace de mille pas.",
+      "annotations": null,
+      "source_pages": [
+        "page_0410.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Contra Orientem duo millia erunt cubiti, et contra Meridiem similiter erunt duo millia : ad mare quoque, quod respicit ad Occidentem, eadem mensura erit, et Septentrionalis plaga aequali termino finietur, eruntque urbes in medio, et foris suburbana.",
+      "french": "Leur étendue sera de deux mille coudées du côté de l'Orient, et de même de deux mille du côté du Midi. Ils auront la même mesure vers la mer qui regarde l'Occident ; et le côté du Septentrion sera terminé par de semblables limites. Les villes seront au milieu, et les faubourgs seront tout autour au-dehors des villes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0411.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "De ipsis autem oppidis, quae Levitis dabitis, sex erunt in fugitivorum auxilia separata, ut fugiat ad ea qui fuderit sanguinem : et exceptis his, alia quadraginta duo oppida.",
+      "french": "De ces villes que vous donnerez aux Lévites, il y en aura six de séparées pour servir de refuge aux fugitifs, afin que celui qui aura répandu le sang d'un homme, s'y puisse retirer. Et outre ces six villes, il y en aura quarante-deux autres ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0411.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Id est, simul quadraginta octo cum suburbanis suis.",
+      "french": "C'est-à-dire, qu'il y en aura en tout quarante-huit avec leurs faubourgs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Ipsæque urbes, quæ dabantur de possessionibus filiorum Israël, ab his qui plus habent, plures auferentur : et qui minus, pauciores : singuli juxta mensuram hereditatis suæ dabunt oppida Levitis.",
+      "french": "Ceux d'entre les enfants d'Israël qui posséderont plus de terre, donneront aussi plus de ces villes : ceux qui en posséderont moins, en donneront moins ; et chacun donnera des villes aux lévites, à proportion de ce qu'il possède.",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ait Dominus ad Moysen :",
+      "french": "Le Seigneur dit aussi à Moïse :",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Loquere filiis Israël, et dices ad eos : Quando transgressi fueritis Jordanem in Terram Chanaan.",
+      "french": "Parlez aux enfants d'Israël, et dites-leur : Lorsque vous aurez passé le Jourdain, et que vous serez entrés dans le pays de Canaan.",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Decernite quæ urbes esse debeant in præsidia fugitivorum, qui nolentes sanguinem fuderint.",
+      "french": "Marquez les villes qui devront servir de refuge aux fugitifs, qui auront répandu contre leur volonté le sang d'un homme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "In quibus cum fuerit profugus, cognatus occisi non poterit eum occidere, donec stet in conspectu multitudinis, et causa illius judicetur.",
+      "french": "Afin que le parent de celui qui aura été tué, ne puisse tuer le fugitif lorsqu'il s'y sera retiré, jusqu'à ce qu'il se présente devant tout le peuple, et que son affaire soit jugée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "De ipsis autem urbibus, quæ ad fugitivorum subsidia separantur,",
+      "french": "De ces villes, qu'on séparera des autres, pour être l'asile des fugitifs,",
+      "annotations": null,
+      "source_pages": [
+        "page_0417.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Tres erunt trans Jordanem, et tres in Terra Chanaan.",
+      "french": "Il y en aura trois au-deçà du Jourdain, et trois dans le pays de Canaan.",
+      "annotations": null,
+      "source_pages": [
+        "page_0417.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Tam filiis Israël quam advenis atque peregrinis, ut confugiat ad eas qui nolens sanguinem fuderit.",
+      "french": "Qui serviront, et aux enfants d'Israël, et aux étrangers qui seront venus de dehors, afin que celui qui aura répandu contre sa volonté le sang d'un homme, y trouve un refuge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0417.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Si quis ferro percusserit, et mortuus fuerit qui percussus est : reus erit homicidii, et ipse morietur.",
+      "french": "On punira de mort quiconque aura frappé avec le fer, en sorte que celui qui aura été frappé, en meure ; il sera coupable d'homicide, et il sera puni de mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0417.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Si lapidem jecerit, et ictus occubuerit : similiter punietur.",
+      "french": "S'il jette une pierre, et que celui qu'il aura frappé en meure, il sera puni de même.",
+      "annotations": null,
+      "source_pages": [
+        "page_0417.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Si ligno percussus interierit : percussoris sanguine vindicabitur.",
+      "french": "Si celui qui aura été frappé avec du bois, meurt ; sa mort sera vengée par l'effusion du sang de celui qui l'aura frappé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0417.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Propinquus occisi, homicidam interficiet : statim ut apprehenderit eum, interficiet.",
+      "french": "Le parent de celui qui aura été tué, tuera l'homicide ; il le tuera aussitôt qu'il l'aura pris.",
+      "annotations": null,
+      "source_pages": [
+        "page_0417.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Si per odium quis hominem impulerit, vel jecerit quicquam in eum per insidias ;",
+      "french": "Si un homme abat son ennemi ; ou qu'il lui jette quelque chose par un mauvais dessein;",
+      "annotations": null,
+      "source_pages": [
+        "page_0418.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Aut cum esset inimicus, manu percusserit, et ille mortuus fuerit : percussor, homicidii reus erit ; cognatus occisi statim ut invenerit eum, jugulabit.",
+      "french": "Ou si étant son ennemi, il lui donne quelque coup de la main, et qu'il en meure; celui qui aura frappé, sera coupable d'homicide ; et le parent de celui qui aura été tué, le pourra tuer aussitôt qu'il l'aura trouvé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0418.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Quod si fortuito, et absque odio,",
+      "french": "Que si c'est par hasard et sans haine,",
+      "annotations": null,
+      "source_pages": [
+        "page_0418.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et inimicitiis, quicquam horum fecerit,",
+      "french": "Et sans aucun mouvement d'inimitié qu'il a fait quelqu'une de ces choses,",
+      "annotations": null,
+      "source_pages": [
+        "page_0418.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et hoc audiente populo fuerit comprobatum, atque inter percussorem et propinquum sanguinis quæstio ventilata :",
+      "french": "Et que cela se prouve devant le peuple, après que la cause du meurtre aura été agitée entre celui qui aura frappé, et le parent du mort;",
+      "annotations": null,
+      "source_pages": [
+        "page_0418.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Liberabitur innocens de ultoris manu, et reducetur per sententiam in urbem, ad quam confugerat, manebitque ibi, donec sacerdos magnus, qui oleo sancto unctus est, moriatur.",
+      "french": "Il sera délivré, comme étant innocent, des mains de celui qui voulait venger le sang répandu, et il sera ramené par sentence, dans la ville où il s'était réfugié, et y demeurera jusqu'à la mort du grand-prêtre, qui a été sacré de l'huile sainte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0418.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Si interfector extra fines urbium, quæ exulibus deputatæ sunt,",
+      "french": "Si celui qui aura tué, est trouvé hors les limites des villes qui ont été destinées pour les bannis,",
+      "annotations": null,
+      "source_pages": [
+        "page_0418.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Fuerit inventus, et percussus ab eo qui adtor est sanguinis : absque noxa erit qui eum occiderit.",
+      "french": "Et qu'il soit tué par celui qui est le vengeur du sang répandu ; celui qui l'aura tué, ne sera point censé coupable ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0419.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Debuerat enim profugus usque ad mortem Pontificis in urbe residere : postquam autem ille obierit, homicida revertetur in terram suam.",
+      "french": "Car le fugitif devait demeurer à la ville jusqu'à la mort du Pontife : et après sa mort, celui qui aura tué, retournera en son pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0419.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Hæc sempiterna erunt, et legitima in cunctis habitationibus vestris.",
+      "french": "Ceci sera observé comme une Loi perpétuelle dans tous les lieux où vous pourrez habiter.",
+      "annotations": null,
+      "source_pages": [
+        "page_0419.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Homicida sub testibus punietur : ad unius testimonium nullus condemnabitur.",
+      "french": "On punira l'homicide, après avoir ouï les témoins. Nul ne sera condamné sur le témoignage d'un seul.",
+      "annotations": null,
+      "source_pages": [
+        "page_0420.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Non accipietis pretium ab eo, qui reus est sanguinis, statim et ipse morietur.",
+      "french": "Vous ne recevrez point d'argent de celui qui veut se racheter de la mort qu'il a méritée pour avoir répandu le sang ; mais il mourra aussitôt lui-même.",
+      "annotations": null,
+      "source_pages": [
+        "page_0420.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Exules et profugi ante mortem Pontificis, nullo modo in urbes suas reverti poterunt :",
+      "french": "Les bannis et les fugitifs ne pourront revenir en aucune sorte à leur ville, avant la mort du Pontife ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0420.json"
+      ]
+    }
+  ]
+}

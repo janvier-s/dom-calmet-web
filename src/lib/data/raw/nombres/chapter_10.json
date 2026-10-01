@@ -1,0 +1,331 @@
+{
+  "book": "Nombres",
+  "chapter": 10,
+  "chapter_summary": "Trompettes d'argent pour avertir le peuple de camper, ou de décamper, et de se trouver à l'assemblée. Ordre qu'on observait dans les campements, et dans les marches. Moïse prie Jéthro de demeurer avec lui, pour servir de guide au peuple. Prière qu'on disait lorsque les Lévites levaient l'Arche, ou lorsqu'ils la mettaient à bas.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Locutusque est Dominus ad Moysen, dicens:",
+      "french": "Le Seigneur parla à Moïse, et lui dit:",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Fac tibi duas tubas argenteas ductiles, quibus convocare possis multitudinem quando movenda sunt castra.",
+      "french": "Faites deux trompettes d'argent battu au marteau, afin que vous puissiez vous en servir pour assembler tout le peuple, lorsqu'il faudra décamper.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Cumque increpueris tubis, congregabitur ad te omnis turba ad ostium tabernaculi foederis.",
+      "french": "Et après que vous aurez sonné de ces trompettes, tout le peuple s'assemblera auprès de vous à l'entrée du Tabernacle de l'Alliance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Si semel clangueris, venient ad te principes, et capita multitudinis Israel.",
+      "french": "Si vous ne sonnez qu'une fois, les Princes et les Chefs de la multitude d'Israël viendront vous trouver.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Si autem prolixior atque concisus clangor increpueris, movebunt castra primi qui sunt ad Orientalem plagam.",
+      "french": "Mais si le son de la trompette est plus long, et plus entrecoupé, ceux qui sont du côté de l'Orient, décamperont les premiers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "In secunda autem sonitu et pari ululatu tubæ, levabunt tentoria qui habitant ad meridiem, et juxta hunc modum reliqui facient, ululantibus tubis in profectionem.",
+      "french": "Et au second son de la trompette, semblable au premier, ceux qui sont au Midi détendront leurs tentes, et les autres feront de même au bruit des trompettes, qui sonneront le signal pour décamper.",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quando autem congregandus est populus, simplex tubarum clangor erit, et non concisè ululabunt.",
+      "french": "Mais lorsqu'il faudra seulement assembler le peuple, les trompettes sonneront d'un son plus uni, et plus simple, et non de ce son entrecoupé, et serré.",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Filii autem Aaron sacerdotes clangent tubis : eritque hoc legitimum sempiternum in generationibus vestris.",
+      "french": "Les Prêtres enfants d'Aaron, sonneront des trompettes, et ce sera une loi pour toute la suite de vos générations.",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Si exieritis ad bellum de terra vestra contra hostes, qui dimicant adversum vos, clangetis ululantibus tubis, et erit recordatio vestri coram Domino Deo vestro, ut eruamini de manibus inimicorum vestrorum.",
+      "french": "Si vous allez à la guerre contre vos ennemis qui vous attaquent, vous sonnerez de ces trompettes, et le Seigneur votre Dieu se souviendra de vous, pour vous délivrer des mains de vos ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Si quando habebitis epulum, et dies festos, et calendas, canetis tubis super holocaustis, et pacificis victimis, ut sint vobis in recordationem Dei vestri. Ego Dominus Deus vester.",
+      "french": "Lorsque vous ferez un festin de Religion, et que vous célébrerez vos fêtes, et vos premiers jours du mois, vous sonnerez de la trompette, en présentant vos holocaustes et vos hosties pacifiques, afin que le Seigneur Dieu se ressouvienne de vous. Je suis le Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0127.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Anno secundo, mense secundo, vigesima die mensis, elevata est nubes de tabernaculo foederis :",
+      "french": "Le vingtième jour du second mois de la même année, la nuée s'étant levée de dessus le Tabernacle de l'Alliance,",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Profectique sunt filii Israel per turmas suas de deserto Sinaï, et recubuit nubes in solitudine Pharan.",
+      "french": "Les enfants d'Israël partirent de Sinaï par leurs diverses bandes, et la nuée s'arrêta dans le désert de Pharan.",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Moveruntque castra primi, juxta imperium Domini, in manu Moysi.",
+      "french": "Les premiers qui décampèrent par le commandement que le Seigneur en avait donné à Moïse,",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Filii Juda per turmas suas, quorum Princeps erat Nahasson filius Aminadab.",
+      "french": "Furent les enfants de Juda, distingués selon leurs bandes, dont Nahasson, fils d'Aminadab, était le Prince.",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "In Tribu filiorum Issachar, fuit princeps Nathanaël, filius Suar.",
+      "french": "Dans la Tribu d'Issachar, Nathanaël, fils de Suar, était le Prince.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "In tribu Zabulon erat princeps Eliab, filius Helon.",
+      "french": "Dans la Tribu de Zabulon, Eliab, fils de Helon, était le Prince.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Depositumque est tabernaculum, quod portantes egressi sunt filii Gerson et Merari.",
+      "french": "Le Tabernacle ayant été détendu, fut porté par les enfants de Gerson, et de Merari.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Profectique sunt et filii Ruben, per turmas, et ordinem suum: quorum princeps erat Elisur filius Sedeur.",
+      "french": "Les enfants de Ruben partirent ensuite, chacun selon ses bandes, et son rang: Élisur, fils de Sédeur, en était le Prince.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "In tribu autem filiorum Simeon, princeps fuit Salamiel filius Surisaddai.",
+      "french": "Samaliel, fils de Suriaddai, était le Prince de la Tribu des enfants de Simeon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Porro in tribu Gad erat princeps Eliasaph filius Duel.",
+      "french": "Eliasaph, fils de Duel, était le Prince de la Tribu de Gad.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Profectique sunt et Caathitæ portantes Sanctuarium. Tandiu Tabernaculum portabatur, donec veniret ad erectionis locum.",
+      "french": "Les Caathites partirent après, portant le Sanctuaire. On portait toujours le Tabernacle, jusqu'à ce qu'on fût au lieu, où il devait être posé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Moverunt castra et filii Ephraïm per turmas suas, in quorum exercitu princeps erat Elisama filius Ammiud.",
+      "french": "Les enfants d'Éphraïm décampèrent aussi, chacun dans sa troupe; et Elisama, fils d'Ammiud, était le Prince de leur armée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Per verbum Domini figebant tentoria, et per verbum illius proficiscebantur: erantque in excubiis Domini, juxta imperium ejus per manum Moysi.",
+      "french": "Ils dressaient leurs tentes au commandement du Seigneur, ils partaient à son commandement, et ils demeuraient comme en sentinelle à observer la nuée, selon les ordres que le Seigneur leur en avait donnés par Moïse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "In tribu autem filiorum Manasse princeps fuit Gamaliel filius Phadassur.",
+      "french": "Gamaliel, fils de Phadassur, était le Prince de la Tribu des enfants de Manassé:",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et in tribu Benjamin erat dux Abidan filius Gedeonis.",
+      "french": "Et Abidan, fils de Gédéon, était Prince de la Tribu de Benjamin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Novissimi castrorum omnium profecti sunt filii Dan per turmas suas, in quorum exercitu princeps fuit Ahiezer, filius Amisaddai.",
+      "french": "Enfin les enfants de Dan décampèrent les derniers, chacun dans sa bande, Ahiezer, fils d'Amisaddai, était le Prince de leur armée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "In tribu autem filiorum Aser, erat princeps Phegiel filius Ochran.",
+      "french": "Phegiel, fils d'Ochran, était Prince de la Tribu des enfants d'Aser.",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et in tribu filiorum Nephtali, princeps fuit Ahira filius Enan.",
+      "french": "Et Ahira, fils d'Enan, était le Prince de la Tribu des enfants de Nephtali.",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Hæc sunt castra, et profectiones filiorum Israel per turmas suas, quando egrediebantur.",
+      "french": "Voilà quel était le camp d'Israël, et l'ordre qu'ils observaient dans les décampements rangés, chacun dans sa bande.",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Dixitque Moyses Hobab filio Raguel Madianitæ, cognato suo: Proficiscimur ad locum, quem Dominus daturus est nobis: veni nobiscum, ut benefaciamus tibi; quia Dominus bona promisit Israeli.",
+      "french": "Alors Moïse dit à Hobab, fils de Raguel, Madianite, son allié: Nous partons, pour nous rendre au lieu que le Seigneur nous doit donner: Venez avec nous, afin que nous vous fassions du bien: car le Seigneur a promis toute sorte de biens à Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Cui ille respondit: Non vadam tecum, sed revertar in terram meam, in qua natus sum.",
+      "french": "Mais Hobab répondit: Je n'irai point avec vous, mais je m'en retournerai dans le lieu de ma naissance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Et ille : Noli, inquit, nos relinquere: tu enim nosti in quibus locis per desertum castra ponere debeamus ; et eris ductor noster.",
+      "french": "Ne nous abandonnez pas, je vous prie, répondit Moïse : car vous savez les endroits du désert, où nous pourrons camper ; et vous nous servirez de guide ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Cumque nobiscum veneris, quidquid optimum fuerit ex opibus, quas nobis traditurus est Dominus, dabimus tibi.",
+      "french": "Et lorsque vous serez arrivé avec nous, nous vous donnerons tout ce qu'il y aura de meilleur dans les biens que le Seigneur nous donnera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Profecti sunt ergo de Monte Domini viam trium dierum, arcæque foederis Domini præcedebat eos, per dies tres providens castrorum locum.",
+      "french": "Ils partirent donc de la montagne du Seigneur, et marchèrent pendant trois jours: et pendant tout ce temps, l'Arche du Seigneur marchait devant eux, et leur marquait le lieu où ils devaient camper.",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Nubes quoque Domini super eos erat per diem cum incederent.",
+      "french": "Et la nuée du Seigneur se mettait à couvert de son ombre pendant leur marche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Cumque elevaretur arca, dicebat Moyses : Surge Domine, et dissipentur inimici tui, et fugiant qui oderunt te, a facie tua.",
+      "french": "Et lorsqu'on élevait l'Arche, Moïse disait : Levez-vous, Seigneur, que vos ennemis se dissipent ; et que ceux qui vous haïssent s'enfuient de devant vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    }
+  ]
+}

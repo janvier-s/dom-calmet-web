@@ -1,0 +1,313 @@
+{
+  "book": "Nombres",
+  "chapter": 13,
+  "chapter_summary": "Départ d'Hazerot, et arrivée à Pharan. Moïse envoie des hommes pour considérer la terre de Chanaan. Leur retour. Ils en louent la fertilité; mais ils exagèrent la difficulté d'en faire la conquête. Le peuple se mutine. Fidélité de Caleb.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Profectisque est populus de Haseroth, fixis tentoriis in deserto Pharan.",
+      "french": "Et le peuple partit de Haseroth, et alla camper dans le Désert de Pharan.",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Ibique locutus est Dominus ad Moysen, dicens :",
+      "french": "Le Seigneur parla à Moïse en ce lieu-là, et lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Mitte viros, qui considerent Terram Chanaan quam daturus sum filiis Israël, singulos de singulis tribubus, ex principibus.",
+      "french": "Envoyez des hommes pour considérer le pays de Canaan que je dois donner aux enfants d'Israël ; prenez un homme d'entre les principaux de chaque Tribu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Fecit Moyses quod Dominus imperaverat, de deserto Pharan mittens principes viros, quorum ista sunt nomina.",
+      "french": "Moïse exécuta ce que le Seigneur lui avait ordonné, et il envoya du Désert de Pharan des hommes d'entre les Princes, dont voici les noms.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "De Tribu Ruben, Sammua filium Zechur.",
+      "french": "De la Tribu de Ruben, Sammüa fils de Zechur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "De Tribu Simeon, Saphat filium Huri.",
+      "french": "De la Tribu de Siméon, Saphat fils de Huri.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "De Tribu Juda, Caleb filium Jephone.",
+      "french": "De la Tribu de Juda, Caleb fils de Jephoné.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "De Tribu Issachar, Igal filium Joseph.",
+      "french": "De la Tribu d'Issachar, Igal fils de Joseph.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "De Tribu Ephraïm, Osee filium Nun.",
+      "french": "De la Tribu de Lévi, Osée fils de Nun.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "De Tribu Benjamin, Phalti filium Raphu.",
+      "french": "De la Tribu de Benjamin, Phalti fils de Raphu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "De Tribu Zabulon, Geddiel filium Sodi.",
+      "french": "De la Tribu de Zabulon, Géddiel fils de Sodi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "De Tribu Joseph, sceptri Manasse, Gaddi filium Susi.",
+      "french": "De la Tribu de Joseph, de la famille de Manassé, Gaddi fils de Susi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "De Tribu Dan, Ammiel filium Gemalli.",
+      "french": "De la Tribu de Dan, Ammiel fils de Gémalli.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "De Tribu Aser, Sthur filium Michael.",
+      "french": "De la Tribu d'Aser, Sthur fils de Michaël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "De Tribu Nephthali, Nahabi filium Vapsi.",
+      "french": "De la Tribu de Nephtali, Nahabi fils de Vapsi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "De Tribu Gad, Guel filium Machi.",
+      "french": "De la Tribu de Gad, Guel fils de Machi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Hæc sunt nomina virorum quos misit Moyses ad considerandam Terram : vocavitque Osee filium Nun, Josue.",
+      "french": "Ce sont là les noms des hommes qui furent envoyés par Moïse pour considérer la Terre ; et il donna à Osée fils de Nun, le nom de Josué.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Misit ergo eos Moyses ad considerandam Terram Chanaan, et dixit ad eos : Ascendite per meridianam plagam. Cumque veneritis ad montes,",
+      "french": "Moïse les envoya donc pour considérer la Terre de Canaan, et il leur dit : Allez du côté du Midi ; et lorsque vous serez arrivés aux montagnes,",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Considerate Terram, qualis sit : et populum qui habitator est ejus, utrùm fortis sit an infirmus : si pauci numero an plures :",
+      "french": "Considérez quelle est cette Terre, et quel est le peuple qui l'habite ; s'il est fort ou faible, s'il a peu ou beaucoup d'habitants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Ipsa Terra bona an mala : urbes quales, muratæ an absque muris :",
+      "french": "Quelle est la nature de la Terre, si elle est bonne ou mauvaise : quelles sont les Villes, si elles ont des murs, ou si elles n'en ont point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Humus pinguis, an sterilis, nemorosa, an absque arboribus. Confortamini, et afferte nobis de fructibus Terræ. Erat autem tempus quando jam præcoquæ uvæ vesci possunt.",
+      "french": "Si le terroir est gras, ou stérile, s'il est planté d'arbres, ou s'il est sans arbres. Ayez bon courage, et apportez nous des fruits de la terre. Or c'était le temps qu'on pouvait manger les raisins précoces.",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Cùmque ascendissent, exploraverunt Terram à deserto Sin, usque Rohob intrantibus Emath.",
+      "french": "Et ces hommes étant partis, considérèrent le pays depuis le Désert de Sin, jusqu'à Rohob sur le chemin d'Emath.",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Ascenderuntque ad meridiem: et venerunt in Hebron, ubi erant Achiman et Sisai et Tholomai filii Enac. Nam Hebron septem annis ante Tanim urbem Ægypti condita est.",
+      "french": "Ils montèrent du côté du Midi, et vinrent à Hébron, où demeuraient Achiman, Sisai, et Tholmaï fils d'Enach. Car Hébron a été bâtie sept ans avant Tanis ville d'Égypte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Pergentesque usque ad Torrentem botri, absciderunt pal mitem cum uva sua, quem portaverunt in vecte duo viri. De malis quoque granatis et de ficis loci illius tulerunt:",
+      "french": "Et s'étant avancés jusqu'au torrent du Raisin, ils coupèrent une branche de vigne avec son raisin, que deux hommes portèrent sur un bâton. Ils prirent aussi des grenades et des figues de ce lieu-là :",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Qui appellatus est Nehel-escol, id est, Torrens botri, eò quòd botrum portassent inde filii Israël.",
+      "french": "Et on lui donna le nom de Nehel-Escol, c'est-à-dire, le Torrent du Raisin, parce que les enfants d'Israël emportèrent de là un raisin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Reversique exploratores Terræ post quadraginta dies, omni regione circuitâ,",
+      "french": "Ceux qui étaient allés considérer le pays, revinrent quarante jours après, après l'avoir tout parcouru.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Venerunt ad Moysen et Aaron, et ad omnem cœtum filiorum Israël in desertum Pharan, quod est in Cades. Locutique eis et omni multitudini, ostenderunt fructus Terræ:",
+      "french": "Et étant venus trouver Moïse et Aaron, et toute l'assemblée des enfants d'Israël dans le Désert de Pharan, qui est vers Cadés, ils leur firent leur rapport, et à tout le peuple, et leur montrèrent des fruits du pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et narraverunt dicentes : Venimus in Terram, ad quam misisti nos, quæ revera fluit lacte et melle, ut ex his fructibus cognosci potest:",
+      "french": "Ils leur dirent : Nous avons été dans le pays où vous nous avez envoyés : c’est un pays où coulent véritablement des ruisseaux de lait et de miel, comme on le peut connaître par ces fruits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Sed cultores fortissimos habet, et urbes grandes atque muratas. Stirpem Enac vidimus ibi.",
+      "french": "Mais elle a des habitants très forts, et de grandes villes et bien murées. Nous y avons vu la race d’Enac.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Amalec habitat in meridiæ ; Hethæus, Jebusæus et Amorrhæus in montanis : Chananæus verò moratur juxta mare et circa fluenta Jordanis.",
+      "french": "Amalec habite vers le Midi ; les Héthéens, les Jébuséens, et les Amorrhéens, dans les montagnes : les Cananéens demeurent le long de la mer, et le long du fleuve du Jourdain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Inter hæc Caleb compescens murmur populi, qui oriebatur contra Moysen, ait : Ascendamus, et possideamus Terram, quoniam poterimus obtinere eam.",
+      "french": "Cependant Caleb, pour arrêter le murmure qui commençait à s'exciter contre Moïse, disait au peuple : Allons, et rendons-nous les maîtres de ce pays, car nous pouvons nous l'assujettir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Alii verò qui fuerant cum eo, dicebant : Nequaquam ad hunc populum valemus ascendere, quia fortior nobis est.",
+      "french": "Mais les autres qui y avaient été avec lui, disaient : Nous ne pouvons point aller contre ce peuple, parce qu'il est plus fort que nous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Detraxeruntque Terræ, quam inspexerant, apud filios Israël, dicentes : Terra, quam lustravimus, devorat habitatores suos : populus, quem aspeximus, proceræ staturæ est.",
+      "french": "Et ils décrièrent le pays qu'ils avaient vu, en disant aux enfants d'Israël : La Terre que nous avons été considérer, dévore ses habitants : le peuple que nous y avons vu, est d'une grandeur extraordinaire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Ibi vidimus monstra quædam filiorum Enac de genere giganteo : quibus comparati, quasi locustæ videbamur.",
+      "french": "Nous avons vu là des hommes, qui étaient comme des monstres, des fils d’Enac de la race des Géants, auprès desquels nous ne paraissions que comme des sauterelles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0171.json"
+      ]
+    }
+  ]
+}

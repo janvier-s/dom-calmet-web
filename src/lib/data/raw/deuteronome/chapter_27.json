@@ -1,0 +1,250 @@
+{
+  "book": "Deutéronome",
+  "chapter": 27,
+  "chapter_summary": "Monument qu'on doit dresser au de-là du Jourdain, sur lequel on écrira les paroles de la Loi. Cérémonies qu'on observera, en prononçant les malédictions sur la montagne de Garizim, et les bénédictions sur le mont Hébal.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Præcepit autem Moyses, et Seniores Israël, populo, dicentes : Custodite omne mandatum, quod præcipio vobis hodie.",
+      "french": "Moïse, et les Anciens d'Israël, ordonnèrent encore ceci au peuple, et lui dirent : Observez toutes les ordonnances, que je vous prescris aujourd'hui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0356.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Cumque transieritis Jordanem, in terram quam Dominus Deus tuus dabit tibi, eriges ingentes lapides, et calce laevigabis eos ;",
+      "french": "Et lorsqu'ayant passé le Jourdain, vous serez entrez dans le pays que le Seigneur votre Dieu vous donnera, vous érigerez un monument avec de grandes pierres, que vous enduirez de chaux,",
+      "annotations": null,
+      "source_pages": [
+        "page_0357.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Ut possis in eis scribere omnia verba legis hujus, Jordanem transmisso : ut introëas terram quam Dominus Deus tuus dabit, terram lacte et melle manantem, sicut juravit patribus tuis.",
+      "french": "Pour y pouvoir écrire toutes les paroles de la Loi que je vous donne, quand vous aurez passé le Jourdain ; afin que vous entriez dans la terre que le Seigneur votre Dieu vous donnera ; cette terre où coulent des ruisseaux de lait et de miel, selon que le Seigneur l'avait juré à vos pères.",
+      "annotations": null,
+      "source_pages": [
+        "page_0357.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quando ergo transieris Jordanem, erigis lapides, quos ego hodie præcipio vobis, in monte Hebal, et levigabis eos calce.",
+      "french": "Lors donc que vous aurez passé le Jourdain, vous élèverez ce monument de pierres sur le mont Hébal, selon que je vous l'ordonne aujourd'hui, et vous les enduirez de chaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0358.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et aedificabis ibi altare Domino Deo tuo, de lapidibus quos ferrum non tetigit,",
+      "french": "Vous dresserez là au Seigneur votre Dieu, un Autel de pierres, que le fer n'aura point touché,",
+      "annotations": null,
+      "source_pages": [
+        "page_0358.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et de saxis informibus et impolitis : et offeres super eo holocausta Domino Deo tuo.",
+      "french": "De pierres brutes, et non polies ; et vous offrirez sur cet Autel, des holocaustes au Seigneur votre Dieu,",
+      "annotations": null,
+      "source_pages": [
+        "page_0358.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et immolabis hostias pacificas, comedesque ibi coram Domino Deo tuo,",
+      "french": "Vous immolerez des hosties pacifiques en ce lieu, dont vous mangerez avec joie devant le Seigneur votre Dieu,",
+      "annotations": null,
+      "source_pages": [
+        "page_0358.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et scribes super lapides omnia verba legis hujus plane et lucide.",
+      "french": "Et vous écrirez distinctement et nettement sur ces pierres, toutes les paroles de la Loi que je vous propose.",
+      "annotations": null,
+      "source_pages": [
+        "page_0358.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Dixeruntque Moyses et Sacerdotes Levitici generis, ad omnem Israël : Attende, et audi Israël : hodie factus es populus Domini Dei tui :",
+      "french": "Alors Moïse et les Prêtres de la race de Lévi, dirent à tout Israël : Soyez attentif, ô Israël, et écoutez : Vous êtes devenus aujourd'hui le peuple du Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Audies vocem ejus, et facies mandata atque justitias, quas ego præcipio tibi.",
+      "french": "Ecoutez donc sa voix, et observez les préceptes et les ordonnances que je vous prescris.",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Præcepitque Moyses populo in die illo, dicens :",
+      "french": "Ce jour-là même Moïse fit ce commandement au peuple, et lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Hi stabunt ad benedicendum populo, super montem Garizim, Jordane transmisso : Simeon, Levi, Judas, Issachar, Joseph et Benjamin.",
+      "french": "Après que vous aurez passé le Jourdain, Simeon, Lévi, Juda, Issachar, Joseph, et Benjamin, se tiendront sur la montagne de Garizim, pour bénir le peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et è regione isti stabunt, ad maledicendum in monte Hebal : Ruben, Gad et Aser, et Zabulon, Dan et Nephthali.",
+      "french": "Et Ruben, Gad, Aser, Zabulon, Dan, et Nephthali se tiendront de l’autre côté sur le mont Hebal, pour le maudire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0360.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et pronuntiabunt Levitae, dicentque ad omnes viros Israël, excelsa voce :",
+      "french": "Et les Lévites prononceront ces paroles à haute voix, et diront devant tout le peuple d’Israël:",
+      "annotations": null,
+      "source_pages": [
+        "page_0360.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Maledictus homo qui facit sculptile et conflatile, abominationem Domini, opus manuum artificum, ponetque illud in abscondito. Et respondebit omnis populus, et dicet : Amen.",
+      "french": "Maudit est l’homme qui fait une image de sculpture, ou jetée en fonte, qui est l’abomination du Seigneur, et l’ouvrage de la main d’un artisan, et qui la met dans un lieu secret ; et tout le peuple répondra, et dira : Amen.",
+      "annotations": null,
+      "source_pages": [
+        "page_0360.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Maledictus qui non honorat patrem suum et matrem ; et dicet omnis populus: Amen.",
+      "french": "Maudit celui qui n'honore point son père et sa mère ; et tout le peuple répondra: Amen.",
+      "annotations": null,
+      "source_pages": [
+        "page_0361.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Maledictus qui transfert terminos proximi sui ; et dicet omnis populus: Amen.",
+      "french": "Maudit celui qui change les bornes de l'héritage de son prochain ; et tout le peuple répondra : Amen.",
+      "annotations": null,
+      "source_pages": [
+        "page_0361.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Maledictus qui errare facit caecum in itinere ; et dicet omnis populus: Amen.",
+      "french": "Maudit celui qui fait égarer l'aveugle dans le chemin ; et tout le peuple répondra : Amen.",
+      "annotations": null,
+      "source_pages": [
+        "page_0361.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Et faciat te excelsiorem cunctis gentibus quas creavit in laudem, et nomen, et gloriam suam, ut fis populus sanctus Domini Dei tui, sicut locutus est.",
+      "french": "Et qu'il vous rende le peuple le plus illustre de toutes les nations, qu'il a créées pour sa louange, pour son nom, et pour sa gloire ; et que vous soyez le peuple saint du Seigneur votre Dieu, selon qu'il l'a promis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0356.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Maledictus qui pervertit judicium advenae, pupilli, et viduae ; et dicet omnis populus: Amen.",
+      "french": "Maudit celui qui viole la justice dans la cause de l'étranger, de l'orphelin, et de la veuve ; et tout le peuple répondra : Amen.",
+      "annotations": null,
+      "source_pages": [
+        "page_0361.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Maledictus qui dormit cum uxore patris sui, et revelat operimentum lectuli ejus ; et dicet omnis populus: Amen.",
+      "french": "Maudit celui qui dort avec la femme de son père, et qui découvre la couverture de son lit ; et tout le peuple répondra : Amen.",
+      "annotations": null,
+      "source_pages": [
+        "page_0361.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Maledictus qui dormit cum omni jumento ; et dicet omnis populus: Amen.",
+      "french": "Maudit est celui qui se souille par un commerce abominable avec une bête, quelle qu'elle soit ; et tout le peuple répondra : Amen.",
+      "annotations": null,
+      "source_pages": [
+        "page_0361.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Maledictus qui dormis cum sorore sua, filia patris sui, vel matris suae: et dicet omnis populus: Amen.",
+      "french": "Maudit celui qui dort avec sa sœur, qui est la fille de son père, ou de sa mère ; et tout le peuple répondra: Amen.",
+      "annotations": null,
+      "source_pages": [
+        "page_0362.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Maledictus qui dormis cum socru sua: et dicet omnis populus: Amen.",
+      "french": "Maudit celui qui dort avec sa belle-mère ; et tout le peuple répondra: Amen.",
+      "annotations": null,
+      "source_pages": [
+        "page_0362.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Maledictus qui clam percusserit proximum suum: et dicet omnis populus: Amen.",
+      "french": "Maudit celui qui fait mourir en secret son prochain ; et tout le peuple répondra: Amen.",
+      "annotations": null,
+      "source_pages": [
+        "page_0362.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Maledictus qui accipit munera, ut percutiat animam sanguinis innocentis: et dicet omnis populus: Amen.",
+      "french": "Maudit celui qui reçoit des présents, pour répandre le sang innocent ; et tout le peuple répondra: Amen.",
+      "annotations": null,
+      "source_pages": [
+        "page_0362.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Maledictus qui non permanet in sermonibus legis hujus, nec eos opere perficit: et dicet omnis populus: Amen.",
+      "french": "Maudit celui qui ne demeure pas ferme dans les ordonnances de cette Loi, et qui ne les pratique pas ; et tout le peuple répondra: Amen.",
+      "annotations": null,
+      "source_pages": [
+        "page_0362.json"
+      ]
+    }
+  ]
+}

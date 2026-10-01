@@ -1,0 +1,336 @@
+{
+  "book": "Lévitique",
+  "chapter": 8,
+  "chapter_summary": "Consécration d'Aaron et de ses fils, et de tous les vaisseaux du Tabernacle.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Locutúsque est Dominus ad Moysen, dicens :",
+      "french": "Le Seigneur parla encore à Moyſe, et lui dit :",
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Tolle Aaron cum filiis suis, vestes eorum, et unctionis oleum, vitulum pro peccato, duos arietes, canistrum cum azymis :",
+      "french": "Prenez Aaron avec ſes fils, leurs vêtemens, l'huile d'onction, le veau qui doit être offert pour le péché, deux béliers, et une corbeille de pains ſans levain;",
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et congregabis omnem cœtum ad ostium Tabernaculi.",
+      "french": "Et aſſemblez tout le peup'e à l'entrée du Tabernacle.",
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Fecit Moyses ut Dominus imperaverat : congregataque omni turba, ante fores Tabernaculi,",
+      "french": "Moïse fit ce que le Seigneur lui avait commandé ; et ayant assemblé tout le peuple devant la porte du Tabernacle,",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Ait : Iste est sermo quem jussit Dominus fieri.",
+      "french": "Il leur dit : Voici ce que le Seigneur a ordonné qu'on fasse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Statimque obtulit Aaron et filios ejus. Cumque lavisset eos,",
+      "french": "En même temps il présenta Aaron et ses fils ; et les ayant lavés,",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Vestivit Pontificem subucula linea, accingens eum balteo, et induens eum tunica hyacinthina, et desuper humerale imposuit.",
+      "french": "Il revêtit le Grand-Prêtre de la tunique de fin lin ; et le ceignit avec la ceinture : il le revêtit par-dessus de la robe d'hyacinthe ; et mit l'éphod sur la robe :",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Quod astringens cingulo, aptavit rationali : in quo erat doctrina et veritas.",
+      "french": "Et le serrant avec la ceinture, il y attacha le rational, sur lequel étaient la doctrine et la vérité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Cidari quoque texit caput : et super eam, contra frontem, posuit laminam auream consecratam in sanctificatione, sicut praeceperat ei Dominus.",
+      "french": "Il lui mit aussi la tiare sur la tête, et sur la tiare, à l'endroit du front, il mit la lame d'or consacrée, et sanctifiée, comme le Seigneur l'avait ordonné.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Tulit et unctionis oleum, qui linivit Tabernaculum, cum omni supellectili sua.",
+      "french": "Il prit aussi l'huile d'onction, dont il oignit le Tabernacle, avec tout ce qui servait à son usage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Cumque sanctificans aspersisset Altare septem vicibus, unxit illud, et omnia vasa ejus, labrumque cum basi sua, sanctificavit oleo.",
+      "french": "Et ayant fait sept fois les aspersions sur l'Autel, pour le sanctifier, il y versa l'huile, aussi bien que sur tous ses vases ; et il sanctifia de même avec l'huile, le grand bassin, et la base qui le soutenait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Quod fundens super caput Aaron, unxit eum, et consecravit.",
+      "french": "Il répandit aussi l'huile sur la tête d'Aaron, dont il l'oignit, et le consacra.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Filios quoque ejus oblatos vestivit tunicis lineis, et cinxit balteis, imposuitque mitras, ut jusserat Dominus.",
+      "french": "Et ayant de même présenté les fils d'Aaron, il les revêtit de tuniques de lin, les ceignit de leurs ceintures ; et leur mit des mitres sur la tête, comme le Seigneur l'avait commandé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Obtulit et vitulum pro peccato. Cumque super caput ejus posuisset Aaron, et filii ejus, manus suas,",
+      "french": "Il offrit ensuite un veau pour le péché et Aaron et ses fils ayant mis leurs mains sur la tête de cette victime,",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Immolavit eum, hauriens sanguinem, et tincto digito, tetigit cornua Altaris per gyrum : quo expiato, et sanctificato, fudit reliquum sanguinem ad fundamenta ejus.",
+      "french": "Moïse l'égorgea, et en prit le sang : il y trempa son doigt, et en mit sur les cornes de l'Autel, tout à l'entour. L'ayant ainsi purifié et sanctifié, il répandit le reste du sang au pied de l'Autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Adipem vero qui erat super vitalia, et reticulum jecoris, duosque renunculos, cum arvinnulis suis, adolevit super Altare:",
+      "french": "Il fit brûler sur l'Autel la graisse qui couvre les entrailles, l'enveloppe qui couvre le foie, les deux reins, avec la graisse qui y est attachée :",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Vitulum cum pelle et carnibus, et fimo, cremans extra castra, sicut praeceperat Dominus.",
+      "french": "Et il brûla le veau hors du camp, avec la peau, la chair, et la fiente, comme le Seigneur l'avait ordonné ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Obtulit et arietem in holocaustum: super cujus caput, cum imposuissent Aaron et filii ejus manus suas,",
+      "french": "et offrit aussi un bélier en holocauste : et Aaron avec ses fils, lui ayant mis les mains sur la tête,",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Immolavit eum, et fudit sanguinem ejus, per circuitum Altaris.",
+      "french": "Il l'égorgea, et en répandit le sang autour de l'Autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Ipsumque arietem in frustra concidens, caput ejus, et artus, et adipem adolevit igni,",
+      "french": "Il coupa aussi le bélier en morceaux ; et en fit brûler sur le feu, la tête, les membres, et la graisse,",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Lotis prius intestinis et pedibus totumque simul arietem incendit super Altare, eo quod esset holocaustum suavissimi odoris Domino, sicut praeceperat ei.",
+      "french": "Après en avoir lavé les intestins, et les pieds. Mais pour le bélier, il le brûla tout entier sur l'Autel ; parce que c'était un holocauste d'une odeur très agréable au Seigneur, comme il le lui avait ordonné.",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Obtulit et arietem secundum, in consecratione Sacerdotum : posueruntque super caput ejus Aaron et filii ejus manus suas.",
+      "french": "Il offrit ensuite le second bélier pour la consécration des Prêtres ; et Aaron avec ses fils, lui ayant mis les mains sur la tête,",
+      "annotations": null,
+      "source_pages": [
+        "page_0106.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Quem cum immolasset Moyses, sumens de sanguine ejus, tetigit extremum auriculae dextrae, et pollicem manus ejus dextrae, similiter et pedis.",
+      "french": "Moïse l'égorgea ; et prenant de son sang, il en mit sur l'oreille droite d'Aaron, et sur le pouce de la main droite, et de son pied droit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0106.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Obtulit et filios Aaron : cumque de sanguine arietis immolati tetigisset extremum auriculae singulorum dextrae, et pollices manus ac pedis dextri, reliquum fudit super Altare per circuitum.",
+      "french": "Ayant aussi présenté les fils d'Aaron, il prit du sang du bélier qui avait été immolé, en toucha l'extrémité de l'oreille droite de chacun d'eux ; et les pouces de leur main droite, et de leur pied droit, et répandit le reste du sang sur l'Autel, tout autour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0106.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Adipem vero, et caudam, omnemque pinguedinem quae operit intestina, reticulumque jecoris, et duos renes cum adipibus suis, et armo dextro separavit.",
+      "french": "Il mit à part la graisse, la queue, et toutes les graisses qui couvrent les intestins, l'enveloppe qui couvre le foie, et les deux reins, avec la graisse qui y est attachée, et l'épaule droite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Tollens autem de canistro azymorum, quod erat coram Domino, panem absque fermento, et collyridam conspersam oleo, laganumque posuit super adipes, et armum dextrum.",
+      "french": "Et prenant de la corbeille des pains sans levain qui sont devant le Seigneur, un pain sans levain, un gâteau pétri avec de l'huile, et un tourteau ; il les rangea sur les graisses de l'hostie, et sur l'épaule droite des brebis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Tradens simul omnia Aaron, et filiis ejus. Qui postquam levaverunt ea coram Domino,",
+      "french": "Il mit toutes ces choses sur les mains d'Aaron, et de ses fils, qui les élevèrent devant le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Rursum suscepta de manibus eorum, adolevit super Altare holocausti, eo quod consecrationis esset oblatio, in odorem suavitatis, sacrificii Domino.",
+      "french": "Moïse les ayant prises de nouveau, et reçues de leurs mains, les brûla sur l'Autel des holocaustes, parce que c'était une oblation pour la consécration, et un sacrifice d'une odeur très agréable au Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Tulitque pectusculum, elevans illud coram Domino, de ariete consecrationis in partem suam, sicut praeceperat ei Dominus.",
+      "french": "Il prit aussi la poitrine du bélier immolé pour la consécration des Prêtres ; et il l'éleva devant le Seigneur, comme la part qui lui était destinée, selon l'ordre qu'il en avait reçu de lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Assumensque unguentum et sanguinem qui erat in Altari, aspersit super Aaron et vestimenta ejus, et super filios illius, ac vestimenta eorum.",
+      "french": "Ayant pris ensuite l'huile d'onction, et le sang qui était sur l'Autel, il en fit l'aspersion sur Aaron, et sur ses vêtements, sur les fils d'Aaron, et sur leurs vêtements.",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Cumque sanctificasset eos in vestitu suo, praecepit eis, dicens : Coquite carnes ante fores Tabernaculi, et ibi comedite eas : panes quoque consecrationis edite, qui positi sunt in canistro, sicut praecepit mihi Dominus, dicens : Aaron et filii ejus comedent eos.",
+      "french": "Et les ayant sanctifiés, revêtus comme ils étaient de leurs ornements, il leur donna cet ordre, et leur dit : Faites cuire la chair des victimes devant la porte du Tabernacle, et la mangez dans ce lieu. Mangez-y aussi les pains de consécration qui sont dans la corbeille, selon le commandement du Seigneur, qui m'a dit : Aaron, et ses fils mangeront de ces pains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Quidquid autem reliquum fuerit de carne et panibus, ignis absumet.",
+      "french": "Et tout ce qui restera de cette chair et de ces pains, sera consumé par le feu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "De ostio quoque Tabernaculi non exibitis septem diebus, usque ad diem quo complebitur tempus consecrationis vestrae ; septem enim diebus finitur consecratio:",
+      "french": "Vous ne sortirez point du parvis du Tabernacle pendant sept jours, jusqu'au temps de l'accomplissement de votre consécration ; car il faut sept jours pour la consécration :",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Sicut et in praesentiarum factum est, ut ritus sacrificii compleretur.",
+      "french": "Comme vous venez de le voir présentement, afin que les cérémonies de ce sacrifice soient accomplies.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Die ac nocte manebitis in Tabernaculo, observantes custodias Domini, ne moriamini: sic enim mihi praeceptum est.",
+      "french": "Vous demeurerez jour et nuit dans le Tabernacle, occupés à observer les ordonnances du Seigneur, de peur que vous ne mouriez ; ainsi qu'il m'a été ordonné.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Feceruntque Aaron et filii ejus, cuncta quae locutus est Dominus per manum Moysi.",
+      "french": "Aaron et ses fils exécutèrent tout ce que le Seigneur leur avait commandé par Moïse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Quam constituit Dominus, Moysi, in monte Sinaï, quando mandavit filiis Israël, ut offerrent oblationes suas Domino, in deserto Sinaï.",
+      "french": "Le Seigneur donna ces lois à Moyse sur la montagne de Sinaï, losrqu'il ordonna aux enfants d'Israël d'offrir leurs oblations au Seigneur dans le désert de Sinaï.",
+      "source_pages": [
+        "page_0102.json"
+      ]
+    }
+  ]
+}

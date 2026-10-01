@@ -1,0 +1,358 @@
+{
+  "book": "Lévitique",
+  "chapter": 7,
+  "chapter_summary": "Cérémonies des Sacrifices pour le délit, et des Sacrifices pacifiques, Défense de manger du sang et de la graisse.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Hæc quoque lex hostiæ pro delicto: sancta sanctorum est.",
+      "french": "Voici la loi de l'hostie qu'on immole pour la faute: cette hostie est très-sainte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Idcirco ubi immolabitur holocaustum, mactabitur et victima pro delicto : sanguis ejus per gyrum Altaris fundetur.",
+      "french": "C'est pourquoi on immolera une victime pour la faute, au même lieu où l'on sacrifie l'holocauste ; et on répandra son sang autour de l'Autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Offerent ex ea caudam, et adipem qui operit vitalia :",
+      "french": "On en offrira la queue, et la graisse qui couvre les entrailles ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Duos renunculos, et pinguedinem quae juxta ilia est, reticulumque jecoris cum renunculis :",
+      "french": "Les deux reins, la graisse qui les couvre, l'enveloppe qui est sur le foie, avec les reins.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et adolebit ea Sacerdos super Altare : incensum est Domini pro delicto.",
+      "french": "Le Prêtre les fera brûler sur l'Autel : c'est un sacrifice qui est consumé en l'honneur du Seigneur, pour le péché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Omnis masculus de Sacerdotali genere, in loco sancto vescetur his carnibus, quia sanctum sanctorum est.",
+      "french": "Il n'y aura que les mâles de la race sacerdotale, qui puissent manger de la chair de cette hostie ; et cela dans le lieu saint, parce qu'elle est sainte et sacrée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Sicut pro peccato offertur hostia, ita et pro delicto : utriusque hostiae lex una erit : ad Sacerdotem, qui eam obtulerit, pertinebit.",
+      "french": "L'hostie pour le péché sera offerte de la même manière que l'hostie pour la faute : une même loi sera pour les deux hosties ; l'une et l'autre appartiendra au Prêtre qui l'aura offerte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Sacerdos qui offert holocausti victimam, habebit pellem ejus.",
+      "french": "Le Prêtre qui offrira la victime de l'holocauste, en aura la peau.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et omne sacrificium simile, quod coquitur in clibano ; et quidquid in craticula, vel in sartagine praeparatur, ejus erit Sacerdotis a quo offertur.",
+      "french": "Toute offrande de fleur de farine qui se cuit dans le four, ou qui se rôtit sur le gril, ou qui s'apprête dans la poêle, appartiendra au Prêtre qui l'aura offerte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Sive oleo conspersa, sive arida fuerint, cunctis filiis Aaron mensura aequa per singulos dividetur.",
+      "french": "Soit qu'elle soit mêlée avec de l'huile, soit qu'elle soit sèche, elle sera partagée également entre tous les fils d'Aaron.",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Haec est lex hostiae pacificorum, quae offertur Domino.",
+      "french": "Voici la loi qu'on observera dans les hosties pacifiques qu'on offrira au Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Si pro gratiarum actione oblatio fuerit, offerent panes absque fermento, conspersos oleo, et lagana azyma uncta oleo, coctimque similam, et collyridas olei admistione conspersas:",
+      "french": "Si c'est une oblation pour l'action de grâces, on offrira des pains sans levain, pétris avec de l'huile, des gâteaux sans levain, arrosés d'huile par-dessus, de la plus pure farine qu'on aura fait cuire, et des petits tourteaux arrosés et mêlés d'huile.",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Panes quoque fermentatos, cum hostia gratiarum, quae immolatur pro pacificis.",
+      "french": "On offrira aussi des pains où il y a du levain, avec l'hostie des actions de grâces, qui s'immole pour le sacrifice pacifique.",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Ex quibus unus pro primitiis offeretur Domino, et erit Sacerdotis qui fundet hostiae sanguinem.",
+      "french": "L'un de ces pains sera offert au Seigneur pour les prémices ; et il appartiendra au Prêtre, qui répandra le sang de l'hostie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Cujus carnes eadem comedentur die, nec remanebit ex eis quidquam usque mane.",
+      "french": "On mangera la chair de la victime le même jour, et il n'en demeurera rien jusqu'au lendemain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Si voto, vel sponte quispiam obtulerit hostiam, eadem similiter edetur die : sed et si quid in crastinum remanserit, vesci licitum est.",
+      "french": "Si quelqu'un après avoir fait un vœu, ou par simple dévotion, offre une hostie ; on la mangera aussi le même jour : et s'il en reste quelque chose jusqu'au lendemain, il sera permis d'en manger.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Quidquid autem tertius invenerit dies, ignis absumet.",
+      "french": "Mais tout ce qui s'en trouvera de reste au troisième jour, sera consumé par le feu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Si quis de carnibus victimae pacificorum die tertio comederit, irrita fiet oblatio, nec proderit offerenti : quin potius quaecumque anima tali se edulio contaminaverit, praevaricationis rea erit.",
+      "french": "Si quelqu'un mange de la chair de l'hostie pacifique le troisième jour ; l'oblation deviendra inutile, et elle ne servira de rien à celui qui l'aura offerte ; mais au contraire, quiconque se sera souillé en mangeant ainsi de cette hostie, sera coupable du violement de la Loi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Caro, quae aliquid tetigerit immundum, non comederur, sed comburetur igni : qui fuerit mundus, vescetur ex ea.",
+      "french": "La chair qui aura touché quelque chose d'impur, ne se mangera point, et elle sera consumée par le feu. Mais quiconque sera pur, pourra manger de l'hostie pacifique.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Anima polluta, quae ederit de carnibus hostiae pacificorum, quae oblata est Domino, peribit de populis suis.",
+      "french": "L'homme qui étant souillé, mangera de la chair des hosties pacifiques qui auront été offertes au Seigneur, périra du milieu de son peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Et quae tetigerit immunditiam hominis, vel jumenti, sive omnis rei quae polluere potest, et comederit de hujuscemodi carnibus, interibit de populis suis.",
+      "french": "Celui qui ayant touché à quelque chose d'impur, soit d'un homme, soit d'une bête, ou généralement de toute autre chose qui peut souiller, ne laisse pas de manger de cette chair sanctifiée ; périra du milieu de son peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Locutusque est Dominus ad Moysen, dicens :",
+      "french": "Le Seigneur parla encore à Moïse, et lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Loquere filiis Israel : Adipem ovis, et bovis, et caprae non comedetis.",
+      "french": "Dites aux enfants d'Israël : Vous ne mangerez point la graisse de la brebis, du bœuf, et de la chèvre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Adipem cadaveris morticini, et ejus animalis quod a bestiis captum est ; habebitis in varios usus.",
+      "french": "Vous pourrez vous servir à divers usages, de la graisse d'une bête qui sera morte d'elle-même, ou de celle qui aura été prise par une autre bête.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Si quis adipem, qui offerri debet in incensum Domino, comederit, peribit de populo suo.",
+      "french": "Si quelqu'un mange de la graisse qui doit être offerte et brûlée devant le Seigneur, il sera exterminé du milieu de son peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Sanguinem quoque omnis animalis non sumetis in cibo, tam de avibus, quam de pecoribus.",
+      "french": "Vous ne prendrez point pour votre nourriture, le sang d'aucun animal, tant des oiseaux, que des troupeaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Omnis anima, quae ederit sanguinem, peribit de populis suis.",
+      "french": "Toute personne qui aura mangé du sang, périra du milieu de son peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Locutusque est Dominus ad Moysen, dicens :",
+      "french": "Le Seigneur parla encore à Moïse, et lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Omnis masculus de genere Sacerdotali, vescetur de carnibus ejus, quia sanctum sanctorum est.",
+      "french": "Tout mâle de la race sacerdotale, mangera de la chair de cette hostie, parce qu'elle est très sainte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Loquere filiis Israel, dicens : Qui offert victimam pacificorum Domino, offerat simul et sacrificium, id est, libamenta ejus.",
+      "french": "Parlez aux enfants d'Israël, et dites-leur : Que celui qui offre au Seigneur une hostie pacifique, lui offre en même temps les offrandes ; c'est-à-dire, les libations, dont elle doit être accompagnée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Hostia enim quae caeditur pro peccato, cujus sanguis infertur in Tabernaculum testimonii, ad expiandum in Sanctuario, non comeditur, sed comburetur igni.",
+      "french": "Et on ne mangera pas de l'hostie qui est immolée pour le péché, et dont on porte le sang dans le Tabernacle du témoignage, pour faire l'expiation dans le Sanctuaire; mais elle sera brûlée au feu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Tenebit manus adipem hostiae, et pectusculum : cumque ambo oblata Domino consecraverit, tradet Sacerdoti;",
+      "french": "Il tiendra dans ses mains la graisse, et la poitrine de l'hostie ; et lorsqu'il aura consacré l'un et l'autre au Seigneur, en les offrant, il les donnera au Prêtre,",
+      "annotations": null,
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Qui adolebit adipem super Altare, pectusculum autem erit Aaron et filiorum ejus.",
+      "french": "Qui fera brûler la graisse sur l'Autel ; et la poitrine sera pour Aaron, et pour ses fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Armus quoque dexter de pacificorum hostiis, cedet in primitias Sacerdotis.",
+      "french": "L'épaule droite de l'hostie pacifique appartiendra aussi au Prêtre, comme les prémices de l'oblation.",
+      "annotations": null,
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Qui obtulerit sanguinem et adipem filiorum Aaron, ipse habebit et armum dextrum in portione sua.",
+      "french": "Celui d'entre les fils d'Aaron qui aura offert le sang et la graisse, aura aussi l'épaule droite pour la portion du sacrifice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Pectusculum enim elevationis, et armum separationis tuli a filiis Israel de hostiis eorum pacificis : et dedi Aaron Sacerdoti, et filiis ejus, lege perpetua, ab omni populo Israel.",
+      "french": "Car je me suis réservé de la chair des hosties pacifiques offertes par les enfants d'Israël, la poitrine qu'on en a tirée, et l'épaule qu'on en a séparée : et je les ai données au Prêtre Aaron, et à ses fils, par une loi qui sera toujours observée par tout le peuple d'Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Haec est unctio Aaron et filiorum ejus in ceremoniis Domini, die qua obtulit eos Moyses, ut sacerdotio fungerentur.",
+      "french": "C'est là le droit de l'onction d'Aaron, et de ses fils, dans les cérémonies du Seigneur ; qu'ils ont acquis au jour que Moïse les présenta devant lui, pour exercer les fonctions du sacerdoce.",
+      "annotations": null,
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et quae praecepit eis dari Dominus a filiis Israel, religione perpetua, in generationibus suis.",
+      "french": "Et c'est ce que le Seigneur a commandé aux enfants d'Israël, de leur donner par une observation religieuse, qui doit passer d'âge en âge, dans toute leur postérité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Ista est lex holocausti, et sacrificii pro peccato atque delicto, et pro consecratione, et pacificorum victimis,",
+      "french": "Voilà les Lois de l'holocauste, des offrandes de pain et de liqueurs, du sacrifice pour le péché, et pour la faute, du sacrifice pour les consécrations ; et des hosties pacifiques.",
+      "annotations": null,
+      "source_pages": [
+        "page_0101.json"
+      ]
+    }
+  ]
+}

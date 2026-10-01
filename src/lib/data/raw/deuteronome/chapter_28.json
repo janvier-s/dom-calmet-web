@@ -1,0 +1,619 @@
+{
+  "book": "Deutéronome",
+  "chapter": 28,
+  "chapter_summary": "Bonheur de ceux qui observent fidèlement les commandements du Seigneur. Malheur de ceux qui les abandonnent.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Si autem audieris vocem Domini Dei tui, ut facias atque custodias omnia mandata ejus, quæ ego præcipio tibi hodie, faciet te Dominus Deus tuus excelsiorem cunctis gentibus, quæ versantur in terra.",
+      "french": "Que si vous écoutez la voix du Seigneur votre Dieu, en gardant et en observant toutes ses ordonnances, que je vous prescris aujourd'hui, le Seigneur votre Dieu vous élèvera au-dessus de toutes les nations qui sont sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0363.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Venientque super te universæ benedictiones istae, et apprehendent te: si tamen præcepta ejus audieris.",
+      "french": "Toutes ces bénédictions se répandront sur vous, et vous en serez comblés ; pourvu néanmoins que vous obéissiez à ses préceptes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0363.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Benedictus tu in civitate, et benedictus in agro.",
+      "french": "Vous serez béni dans la Ville ; vous serez béni dans les champs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0363.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Benedictus fructus ventris tui, et fructus terræ tuæ, fructusque jumentorum tuorum, greges armentorum tuorum, et caulæ ovium tuarum.",
+      "french": "Le fruit de votre ventre, le fruit de votre terre, et le fruit de vos bestiaux sera béni ; vos troupeaux de bœufs, et vos troupeaux de brebis seront bénis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0363.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Benedicta horrea tua, et benedictae reliquiæ tuæ.",
+      "french": "Vos greniers seront bénis, et les fruits que vous mettrez en réserve, participeront à la même bénédiction.",
+      "annotations": null,
+      "source_pages": [
+        "page_0363.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Benedictus eris in ingrediens et egrediens.",
+      "french": "Vous serez béni dans toutes vos entreprises, au dedans et au dehors.",
+      "annotations": null,
+      "source_pages": [
+        "page_0364.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Dabit Dominus inimicos tuos, qui consurgunt adversum te, corruentes in conspectu tuo : per unam viam venient contra te, et per septem fugient à facie tua.",
+      "french": "Le Seigneur renversera devant vous vos ennemis, qui s'éleveront contre vous ; ils tomberont devant vos yeux. Ils viendront vous attaquer par un chemin, et ils s'enfuiront par sept autres devant vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0364.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Emittet Dominus benedictionem super cellaria tua, et super omnia opera manuum tuarum : benedictique tibi in terra, quam acceperis.",
+      "french": "Le Seigneur répandra sa bénédiction sur vos celliers, et sur tous les travaux de vos mains : et il vous bénira dans le pays que vous aurez reçu de lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0364.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Suscitabit te Dominus sibi in populum sanctum, sicut juravit tibi : si custodieris mandata Domini Dei tui, et ambulaveris in viis ejus.",
+      "french": "Le Seigneur vous fera paraître comme un peuple saint, qui est à lui, ainsi qu'il vous l'a promis avec serment ; pourvu que vous observiez les commandements du Seigneur votre Dieu, et que vous marchiez dans ses voies.",
+      "annotations": null,
+      "source_pages": [
+        "page_0364.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Videbuntque omnes terrarum populi, quod nomen Domini invocatum sit super te, et timebunt te.",
+      "french": "Tous les peuples de la terre verront que vous portez véritablement le nom de peuple de Dieu, et ils vous craindront.",
+      "annotations": null,
+      "source_pages": [
+        "page_0365.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Abundare te faciet Dominus omnibus bonis, fructu uteri tui, et fructu jumentorum tuorum, fructu terræ tuæ, quam juravit Dominus patribus tuis ut daret tibi.",
+      "french": "Le Seigneur vous mettra dans l'abondance de toutes sortes de biens, en multipliant le fruit de votre ventre, le fruit de vos bestiaux, et le fruit de votre terre, laquelle il a promis et juré à vos pères de vous donner.",
+      "annotations": null,
+      "source_pages": [
+        "page_0365.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Aperiet Dominus thesaurum suum optimum, cœlum, ut tribuat pluviam terræ tuæ in tempore suo : benedicetque cunctis operibus manuum tuarum. Et foenerabis gentibus multis, et ipse à nullo foenus accipies.",
+      "french": "Le Seigneur ouvrira le ciel, qui est son riche trésor, pour répandre sur votre terre la pluie en son temps ; et il bénira tous les travaux de vos mains. Vous prêterez à plusieurs peuples, et vous n'emprunterez de personne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0365.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Constituet te Dominus in caput, et non in caudam : et eris semper supra, et non subter : si tamen audieris mandata Domini Dei tui, quæ ego præcipio tibi hodie, et custodieris et feceris,",
+      "french": "Le Seigneur vous mettra toujours à la tête des peuples, et non derrière eux : vous ferez toujours au dessus, loin d'être au dessous ; pourvu néanmoins que vous écoutiez les ordonnances du Seigneur votre Dieu, que je vous prescris aujourd'hui ; que vous les gardiez, et les pratiquiez ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0365.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Ac non declinaveris ab eis, nec ad dexteram, nec ad sinistram, nec secutus fueris deos alienos, neque colueris eos.",
+      "french": "Sans vous en détourner ni à droit, ni à gauche ; et que vous ne suiviez ni n'adoriez les dieux étrangers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0365.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Quod si audire nolueris vocem Domini Dei tui, ut custodias, et facias omnia mandata ejus, et ceremonias, quas ego præcipio tibi hodie, venient super te omnes maledictiones istae, et apprehendent te.",
+      "french": "Que si vous ne voulez point écouter la voix du Seigneur votre Dieu, et que vous ne gardiez et ne pratiquiez pas toutes ses ordonnances, et les cérémonies que je vous prescris aujourd'hui, toutes ces malédictions fondront sur vous, et vous accableront.",
+      "annotations": null,
+      "source_pages": [
+        "page_0366.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Maledictus eris in civitate, maledictus in agro.",
+      "french": "Vous serez maudit dans la ville, vous serez maudit dans les champs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0366.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Maledictum horreum tuum, et benedictae reliquiæ tuæ.",
+      "french": "Votre grenier sera maudit, et les fruits que vous aurez mis en réserve, seront maudits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0366.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Maledictus fructus ventris tui, et fructus terræ tuæ, armenta boum tuorum, et greges ovium tuarum.",
+      "french": "Le fruit de votre ventre, et le fruit de votre terre seront maudits, aussi bien que vos troupeaux de bœufs, et vos troupeaux de brebis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0366.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Maledictus eris ingrediens, et maledictus egrediens.",
+      "french": "Vous serez maudit dans toutes vos entreprises, au dedans et au dehors.",
+      "annotations": null,
+      "source_pages": [
+        "page_0366.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Mittet Dominus super te famem et esuriem, et increpationem in omnia opera tua, quæ tu facies : donec conterat te, et perdat velociter propter adinventiones tuas pessimas in quibus reliquisti me.",
+      "french": "Le Seigneur envoyera parmi vous l'indigence et la famine, et il répandra sa malédiction sur tous vos travaux, jusqu'à ce qu'il vous réduise en poudre, et qu'il vous extermine en peu de temps, à cause des actions pleines de malice, par lesquelles vous l'aurez abandonné.",
+      "annotations": null,
+      "source_pages": [
+        "page_0366.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Adjungat tibi Dominus pestilentiam donec consumat te de terra, ad quam ingredieris possidendam.",
+      "french": "Le Seigneur vous envoyera la peste, pour vous exterminer du pays, où vous devez entrer pour le posséder.",
+      "annotations": null,
+      "source_pages": [
+        "page_0366.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Percutiat te Dominus egestate, febri et frigore, ardore et æstu, et aëre, corrupto, ac rubigine, et persequatur donec pereas.",
+      "french": "Le Seigneur vous frappera de misère et de pauvreté, de fièvre, de froid, d'une chaleur brûlante, de corruption d'air, et de nielle, et il vous poursuivra jusqu'à ce que vous périssiez entièrement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0366.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Sit coelum, quod supra te est, aeneum : et terra quam calcas, ferrea.",
+      "french": "Le ciel qui est au-dessus de vous, deviendra pour vous un ciel d'airain ; et la terre sur laquelle vous marchez, sera pour vous une terre de fer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0367.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Det Dominus imbrem terrae tuae pulverem, et de coelum descendat super te cinis, donec conteraris.",
+      "french": "Le Seigneur répandra sur votre terre des nuées de poussière, au lieu de pluie, et il fera tomber du ciel sur vous de la cendre, jusqu'à ce que vous soyez réduits en poudre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0367.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Tradat te Dominus corruentem ante hostes tuos ; per unam viam egrediaris contra eos, et per septem fugias, et dispergaris per omnia regna terræ.",
+      "french": "Le Seigneur vous fera tomber devant vos ennemis ; vous marcherez par un seul chemin contre eux, et vous fuirez par sept, et vous serez dispersés dans tous les Royaumes de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0368.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Sitque cadaver tuum in escam cunctis volatilibus cœli, et bestiis terræ, et non sit qui abigat.",
+      "french": "Vos corps après votre mort serviront de nourriture à tous les oiseaux du ciel, et à toutes les bêtes de la terre, sans que personne ne se mette en peine de les chasser.",
+      "annotations": null,
+      "source_pages": [
+        "page_0368.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Percutiat te Dominus ulcere Ægypti, et partem corporis, per quam stercora egeruntur, scabie quoque et prurigine, ita ut curari nequeas.",
+      "french": "Le Seigneur vous frappera des ulcères de l'Egypte, et vous serez attaqué d'une galle et d'une démangeaison incurables, dans la partie du corps par laquelle la nature rejette ce qui lui est resté de sa nourriture.",
+      "annotations": null,
+      "source_pages": [
+        "page_0368.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Percutiat te Dominus amentia et caecitate ac furore mentis :",
+      "french": "Le Seigneur vous frappera de folie , d'aveuglement, et de fureur ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0369.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et palpes in meridie , sicut palpare solet caecus in tenebris, et non dirigas vias tuas. Omnique tempore calumniam sustineas, et opprimaris violentia, nec habeas, qui liberet te.",
+      "french": "En sorte que vous marcherez à tâtons en plein midi, comme fait l'aveugle dans l'obscurité , et que vous ne réussirez dans aucune de vos entreprises. Vous serez noirci en tout temps par des calomnies , et opprimé par des violences, sans que vous ayez personne pour vous délivrer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0369.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Uxorem accipias, et alius dormiat cum ea. Domum aedifices, et non habites in ea. Plantes vineam, et non vindemies eam.",
+      "french": "Vous épouserez une femme, et un autre en abusera. Vous bâtirez une maison, et vous ne l'habiterez point. Vous planterez une vigne, et vous n'en recueillerez point le fruit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0369.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Bos tuus immoletur coram te, et non comedas ex eo. Asinus tuus rapiatur in conspectu tuo, et non reddatur tibi. Oves tuæ dentur inimicis tuis , et non sit qui te adjuvet.",
+      "french": "Votre bœuf sera immolé devant vous, et vous n'en mangerez point. Votre âne vous sera ravi devant vos yeux, et on ne vous le rendra point. Vos brebis seront livrées à vos ennemis, et personne ne se mettra en peine de vous secourir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0369.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Filii tui et filiæ tuæ tradentur alteri populo, videntibus oculis tuis, et deficientibus ad conspectum eorum tota die, et non sit fortitudo in manibus tuis.",
+      "french": "Vos fils et vos filles seront livrées à un peuple étranger ; vos yeux le verront, et seront tout desséchés par la vue continuelle de leur misère: et vos mains se trouveront sans aucune force pour les délivrer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0370.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Fructus terræ tuæ, et omnes labores tuos comedat populus quem ignoras : et sis semper calumniam sustinens, et oppressus cunctis diebus,",
+      "french": "Un peuple qui vous sera inconnu, dévorera tout ce que votre terre avait produit, et tous les fruits de vos travaux : vous serez toujours abandonné à la calomnie, et exposé à l'oppression tous les jours de votre vie ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0370.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et stupens ad terrorem eorum, quæ videbunt oculi tui.",
+      "french": "Et vous demeurerez comme interdit et hors de vous, par la frayeur des choses que vous verrez de vos yeux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0370.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Percutiat te Dominus ulcere pessimo in genibus et in suris, sanarique non possis à planta pedis, usque ad verticem tuum.",
+      "french": "Le Seigneur vous frappera d'un ulcère très malin dans les genoux et dans le gras des jambes, et d'un mal incurable depuis la plante des pieds, jusqu'au haut de la tête.",
+      "annotations": null,
+      "source_pages": [
+        "page_0370.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Ducet te Dominus, et regem tuum quem constitueris super te, in gentem quam ignoras tu et patres tui, et servies ibi diis alienis, ligno, et lapidi.",
+      "french": "Le Seigneur vous emmènera vous et votre Roi, que vous aurez établi sur vous, parmi un peuple que vous aurez ignoré vous et vos pères ; et vous adorerez là des Dieux étrangers, du bois, et de la pierre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0370.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Et eris perditus in proverbium ac fabulam omnibus populis, ad quos te introduxerit Dominus.",
+      "french": "Et vous serez dans la dernière misère, et comme le jouet et la fable de tous les peuples, où le Seigneur vous aura conduit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0371.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Sementem multam jacies in terram, et modicum congregabis : quia locusta devorabunt omnia.",
+      "french": "Vous semerez beaucoup de grain dans votre terre, et vous en recueillerez peu, parce que les sauterelles mangeront tout.",
+      "annotations": null,
+      "source_pages": [
+        "page_0371.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Vineam plantabis, et fodies : et vinum non bibes, nec colliges ex ea quippiam : quoniam vastabitur vermibus.",
+      "french": "Vous planterez une vigne, et vous la labourerez ; mais vous n'en boirez point de vin, et vous n'en recueillerez rien, parce qu'elle sera gâtée par les vermisseaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0371.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Olivas habebis in omnibus terminis tuis, et non ungeris oleo : quia defluent, et peribunt.",
+      "french": "Vous aurez des oliviers dans toutes vos terres, et vous ne pourrez en avoir d'huile pour vous en frotter, parce que tout coulera, et tout périra.",
+      "annotations": null,
+      "source_pages": [
+        "page_0371.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Filios generabis et filias, et non frueris eis : quoniam ducentur in captivitatem.",
+      "french": "Vous mettrez au monde des fils et des filles, et vous n'aurez point la joie de les posséder, parce qu'ils seront emmenés captifs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0371.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Omnes arbores tuas, et fruges terræ tuæ rubigo consumet.",
+      "french": "La nielle consumera tous vos arbres, et les fruits de votre terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0372.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Advena qui tecum versatur in terra, ascendet super te, eritque sublimior: tu autem descendes, et eris inferior.",
+      "french": "L'étranger qui est avec vous dans votre pays, s'élèvera au dessus de vous, et deviendra plus puissant: et pour vous, vous descendrez, et vous serez au dessous de lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0372.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Ipse foenerabit tibi, et tu non foenerabis ei. Ipse erit in caput, et tu eris in caudam.",
+      "french": "Ce sera lui qui vous prêtera de l'argent, et vous ne lui en prêterez point. Il sera lui même à la tête, et vous ne marcherez qu'après lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0372.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Et venient super te omnes maledictiones istae, et persequentes apprehendent te, donec intereas: quia non audisti vocem Domini Dei tui, nec servasti mandata ejus, et cæremonias quas præcepit tibi.",
+      "french": "Toutes ces malédictions fondront sur vous, et elles vous accableront jusqu'à ce que vous périssiez entièrement ; parce que vous n'aurez point écouté la voix du Seigneur votre Dieu, ni observé ses ordonnances et les cérémonies qu'il vous a prescrites.",
+      "annotations": null,
+      "source_pages": [
+        "page_0372.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Et erunt in te signa atque prodigia, et in semine tuo usque in sempiternum:",
+      "french": "On verra à jamais sur vous et sur votre postérité, des prodiges, et des effets surprenants de la colère de Dieu ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0373.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Eo quod non servieris Domino Deo tuo in gaudio cordisque laetitia, propter rerum omnium abundantiam.",
+      "french": "Parce que vous n'aurez point servi le Seigneur votre Dieu, avec la reconnaissance et la joie du cœur, que demandait cette abondance de toutes choses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0373.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Servies inimico tuo, quem immittet tibi Dominus, in fame et siti et nuditate et omni penuria: et ponet jugum ferreum super cervicem tuam, donec te conterat.",
+      "french": "Vous deviendrez l'esclave d'un ennemi que le Seigneur vous envoyera ; vous le servirez dans la faim, dans la soif, dans la nudité, et dans le besoin de toutes choses ; et il vous fera porter un joug de fer, jusqu'à ce que vous en soyez écrasé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0373.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Adducet Dominus super te gentem de longinquo, et de extremis terræ finibus, in similitudinem aquilæ volantis cum impetu, cujus linguam intelligere non possis.",
+      "french": "Le Seigneur fera venir d'un pays reculé, et des extrémités de la terre, un peuple dont vous n'entendrez point le langage, et qui fondra sur vous, comme un aigle fond sur sa proie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0374.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Gentem procacissimam, quæ non deferat seni, nec misereatur parvuli,",
+      "french": "Un peuple fier et insolent, qui ne sera touché ni de respect pour les vieillards, ni de pitié pour les plus petits enfants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0374.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Et devoret fructum jumentorum tuorum, ac fruges terræ tuæ : donec intereas, non relinquat tibi triticum, vinum, et armenta boum, et greges ovium : donec te disperdat,",
+      "french": "Il dévorera tout ce qui naîtra de vos bestiaux, et tous les fruits de votre terre, jusqu'à vous faire périr : il ne vous laissera ni blé, ni vin, ni huile, ni troupeaux de bœufs, ni troupeaux de brebis, jusqu'à ce qu'il vous détruise entièrement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0374.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Et conterat in cunctis urbibus tuis, et destruantur muri tui firmi atque sublimes, in quibus habebas fiduciam in omni terra tua. Obsideberis intra portas tuas in omni terra tua, quam dabit tibi Dominus Deus tuus.",
+      "french": "Il vous réduira en poudre dans toutes vos villes ; et vos murailles si fortes et si élevées, où vous avez mis votre confiance, tomberont dans toute l'étendue de votre pays. Vous demeurerez affligé dans toutes les villes du pays que le Seigneur votre Dieu vous donnera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0374.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Et comedes fructum uteri tui, et carnes filiorum tuorum et filiarum tuarum quas dederit tibi Dominus Deus tuus, in angustia et vastitate, qua opprimet te hostis tuus.",
+      "french": "Et vous mangerez le fruit de votre ventre, et la chair de vos fils et de vos filles, que le Seigneur votre Dieu vous aura donnés, tant sera grande l'extrémité de misère, où vos ennemis vous auront réduits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0375.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Homo delicatus in te, et luxuriosus valde, invidebit fratri suo, et uxori, quæ cubas in sinu suo,",
+      "french": "L'homme d'entre vous le plus délicat et le plus plongé dans ses plaisirs, refusera à son frère, et à sa femme qui dort auprès de lui,",
+      "annotations": null,
+      "source_pages": [
+        "page_0375.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Ne det eis de carnibus filiorum suorum quas comedet : eo quod nihil aliud habeat in obsidione, et penuria qua vastaverint te inimici tui intra portas tuas.",
+      "french": "Et ne voudra pas leur donner de la chair de ses fils dont il mangera ; parce qu'il n'aura rien autre chose à manger, pendant le siège dont il se verra resserré, et dans le besoin extrême où vous réduiront vos ennemis par leur violence, dans l'enceinte de toutes vos villes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0376.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "Tenera mulier et delicata, quæ super terram ingredi non valebat, nec pedis vestigium figere, propter molliciem et teneritudinem nimiam, invidebit viro suo, qui cubat in sinu ejus, super filii et filiæ carnibus.",
+      "french": "La femme délicate, accoutumée à une ville molle, qui ne pouvait pas seulement marcher, et qui avait peine à poser un pied sur la terre, à cause de son extrême mollesse et délicatesse, refusera à son mari qui dort auprès d'elle, de lui donner de la chair de son fils et de sa fille,",
+      "annotations": null,
+      "source_pages": [
+        "page_0376.json"
+      ]
+    },
+    {
+      "verse_number": 57,
+      "latin": "Et illuvie secundarum quæ egreditur de medio fœminum ejus, et super liberis qui eadem hora nati sunt : comedent enim eos clam propter rerum omnium penuriam in obsidione, et vastitate, qua opprimet te inimicus tuus intra portas tuas.",
+      "french": "Et de cette masse d'ordures qu'elle a jetée hors d'elle en se délivrant de son fruit, et de la chair de son enfant qui ne faisait que de naître : car ils mangeront en cachette leurs propres enfants, n'ayant plus rien de quoi se nourrir dans cette cruelle famine, et pendant le siège où vos ennemis vous réduiront par leur violence, dans l'enceinte de vos villes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0376.json"
+      ]
+    },
+    {
+      "verse_number": 58,
+      "latin": "Nisi custodieris et feceris omnia verba legis hujus, quæ scripta sunt in hoc volumine, et timueris nomen ejus gloriosum et terribile, hoc est, Dominum Deum tuum.",
+      "french": "Si vous ne gardez et n'accomplissez toutes les paroles de cette Loi, qui sont écrites dans ce Livre, et si vous ne craignez son nom glorieux et terrible, c'est-à-dire, le Seigneur votre Dieu ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 59,
+      "latin": "Augebit Dominus plagas tuas, et plagas seminis tui, plagas magnas et perseverantes, infirmitates pessimas et perpetuas.",
+      "french": "Le Seigneur augmentera de plus en plus vos plaies, et les plaies de vos enfants, des plaies grandes et opiniâtres, des langueurs malignes et incurables.",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 60,
+      "latin": "Et convertet in te omnes afflictiones Ægypti, quas timuisti, et adhærebunt tibi.",
+      "french": "Il vous envoyera toutes les incommodités de l'Egypte, que vous craignez si fort, et elles demeureront attachées à vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 61,
+      "latin": "Insuper et universos languores, et plagas, quæ non sunt scriptae in volumine legis hujus, inducet Dominus super te, donec te conterat.",
+      "french": "Le Seigneur fera encore fondre sur vous toutes les langueurs et toutes les plaies qui ne sont point écrites dans le Livre de cette Loi, jusqu'à ce qu'il vous réduise en poudre:",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 62,
+      "latin": "Et remanebitis pauci numero, qui prius eratis sicut astra cœli præ multitudine, quoniam non audisti vocem Domini Dei tui.",
+      "french": "Et vous demeurerez un très petit nombre d'hommes, vous qui vous étiez multipliés auparavant comme les étoiles du ciel ; parce que vous n'aurez point écouté la voix du Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 63,
+      "latin": "Et sicut ante lætatus est Dominus super vos, bene vobis faciens, vosque multiplicans : sic lætabitur disperdens vos atque subvertens, ut auferamini de terra, ad quam ingredieris possidendam.",
+      "french": "Et comme le Seigneur avait pris plaisir auparavant à vous combler de biens, et à vous multiplier de plus en plus ; ainsi il prendra plaisir à vous perdre, à vous détruire, et à vous exterminer de la terre, où vous allez entrer pour la posséder.",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 64,
+      "latin": "Disperget te Dominus in omnes populos, à summitate terræ usque ad terminos ejus: et servies ibi diis alienis, quos ignoras et patres tui, lignis et lapidibus.",
+      "french": "Le Seigneur vous dispersera parmi tous les peuples, depuis une extrémité de la terre jusqu’à l’autre ; et vous adorerez là des Dieux étrangers, que vous ignorez vous et vos pères, des Dieux de bois et de pierre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0378.json"
+      ]
+    },
+    {
+      "verse_number": 65,
+      "latin": "In gentibus quoque illis non quiesces, neque erit requies vestigio pedis tui. Dabit enim tibi Dominus ibi cor pavidum, et deficientes oculos, et animam consumptam mœrore: ",
+      "french": "Etant même parmi ces peuples, vous ne trouverez aucun repos, et vous ne trouverez pas seulement où asseoir en paix la plante de votre pied. Car le Seigneur vous donnera un cœur toujours agité de crainte, des yeux languissants, et une âme toute abîmée dans la douleur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0378.json"
+      ]
+    },
+    {
+      "verse_number": 66,
+      "latin": "Et erit vita tua quasi pendens ante te. Timebis nocte et die, et non credes vitæ tuæ.",
+      "french": "Votre vie sera comme suspendue devant vos yeux: vous serez pénétré de frayeur la nuit et le jour, et vous ne serez point en assurance pour votre propre vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0378.json"
+      ]
+    },
+    {
+      "verse_number": 67,
+      "latin": "Mane dices: Quis mihi det vesperum? et vespere: Quis mihi det mane? propter cordis tui formidinem, qua terreberis, et propter ea quæ tuis videbis oculis.",
+      "french": "Vous direz le matin : Quand le soir viendra-t-il? Et le soir : Quand verrai-je le matin? tant votre cœur sera saisi d’épouvante, et tant la vue des choses qui se passeront devant vos yeux, vous effrayera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0378.json"
+      ]
+    },
+    {
+      "verse_number": 68,
+      "latin": "Reducet te Dominus classibus in Ægyptum, per viam de qua dixit tibi ut eam amplius non videres. Ibi venderis inimicis tuis in servos et ancillas, et non erit qui emat.",
+      "french": "Le Seigneur vous fera ramener par mer en Egypte, dont il vous avait dit que vous ne deviez jamais reprendre le chemin. Vous y serez vendus à vos ennemis, vous et vos femmes, pour être des esclaves ; et il ne se trouvera pas même de gens, qui daignent vous acheter.",
+      "annotations": null,
+      "source_pages": [
+        "page_0379.json"
+      ]
+    }
+  ]
+}

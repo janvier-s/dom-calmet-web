@@ -1,0 +1,510 @@
+{
+  "book": "Nombres",
+  "chapter": 33,
+  "chapter_summary": "Campements des Israélites dans le désert, depuis leur sortie de l'Egypte, jusqu'à leur arrivée dans les plaines de Moab. Dieu leur ordonne d'exterminer les Cananéens.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Hæ sunt mansiones filiorum Israel, qui egressi sunt de Ægypto per turmas suas in manu Moysi et Aaron,",
+      "french": "Voici les demeures des enfants d'Israël, après qu'ils furent sortis de l'Egypte en diverses bandes, sous la conduite de Moïse et d'Aaron,",
+      "annotations": null,
+      "source_pages": [
+        "page_0388.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quas descripsit Moyses juxta castrorum loca, quæ Domini jussione mutabant.",
+      "french": "Qui furent décrites par Moïse, selon les lieux de leurs campements, qu'ils changeaient par le commandement du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0388.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Profecti igitur de Ramesse mense primo, quintadecimâ die mensis primi, altera Phase, filii Israel, in manu excelsa, videntibus cunctis Ægyptiis,",
+      "french": "Les enfants d'Israël partirent donc de Ramesse le quinzième jour du premier mois, le lendemain de la Pâque, par un effet de la main puissante du Seigneur, à la vue de tous les Egyptiens,",
+      "annotations": null,
+      "source_pages": [
+        "page_0388.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et sepelientibus primogenitos, quos percusserat Dominus (nam et in diis eorum exercuerat ultionem.)",
+      "french": "Qui ensevelissaient leurs premiers nez, que le Seigneur avait frappés, ayant exercé sa vengeance sur leurs Dieux mêmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0389.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Castrametati sunt in Soccoth.",
+      "french": "Ils allèrent camper à Soccoth.",
+      "annotations": null,
+      "source_pages": [
+        "page_0389.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et de Soccoth venerunt in Etham, quæ est in extremis finibus solitudinis.",
+      "french": "De Soccoth, ils vinrent à Etham, qui est dans l'extrémité du désert.",
+      "annotations": null,
+      "source_pages": [
+        "page_0389.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Inde egressi venerunt contra Phihahiroth, quæ respicit Beel-sephon, et castrametati sunt ante Magdalum.",
+      "french": "Étant sortis de là, ils vinrent vis-à-vis de Phihahiroth, qui regarde Béel-sephon, et ils campèrent devant Magdalum.",
+      "annotations": null,
+      "source_pages": [
+        "page_0389.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Profectique de Phihahiroth, transierunt per medium mare in solitudinem : et ambulantes tribus diebus per desertum Etham, castrametati sunt in Mara.",
+      "french": "De Phihahiroth, ils passèrent par le milieu de la mer dans le désert : et ayant marché trois jours par le désert d'Etham, ils campèrent à Mara.",
+      "annotations": null,
+      "source_pages": [
+        "page_0389.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Profectique de Mara venerunt in Elim, ubi erant duodecim fontes aquarum, et palmæ septuaginta : ibique castrametati sunt.",
+      "french": "De Mara, ils vinrent à Elim, où il y avait douze fontaines d'eaux, et soixante et dix palmiers ; et ils y campèrent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0389.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Sed et inde egressi, fixerunt tentoria super Mare rubrum. Profectique de Mari rubro,",
+      "french": "De là ayant décampé, ils allèrent dresser leurs tentes près de la Mer rouge. Et étant partis de la Mer rouge,",
+      "annotations": null,
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Castrametati sunt in deserto Sin.",
+      "french": "Ils campèrent dans le désert de Sin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Unde egressi venerunt in Daphca.",
+      "french": "De Sin, ils vinrent à Daphca.",
+      "annotations": null,
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Profectique de Daphca, castrametati sunt in Alus.",
+      "french": "De Daphca, ils vinrent camper à Alus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Egressique de Alus, in Raphidim fixêre tentoria, ubi populo defuit aqua ad bibendum.",
+      "french": "Et étant sortis d'Alus, ils vinrent dresser leurs tentes à Raphidim, où le peuple ne trouva point d'eau pour boire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Profectique de Raphidim, castrametati sunt in deserto Sinaï.",
+      "french": "De Raphidim, ils vinrent camper au désert de Sinaï.",
+      "annotations": null,
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Sed et de solitudine Sinaï egressi, venerunt ad sepulchra concupiscentiæ.",
+      "french": "Étant sortis du désert de Sinaï, ils vinrent aux sépulcres de concupiscence.",
+      "annotations": null,
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Profectique de sepulchris concupiscentiæ, castrametati sunt in Haseroth.",
+      "french": "Des sépulcres de concupiscence, ils allèrent camper à Haseroth.",
+      "annotations": null,
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et de Haseroth venerunt in Rethma.",
+      "french": "De Haseroth, ils vinrent à Rethma.",
+      "annotations": null,
+      "source_pages": [
+        "page_0391.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Profectique de Rethma, castrametati sunt in Remmomphares.",
+      "french": "De Rethma, ils vinrent camper à Remmompharés;",
+      "annotations": null,
+      "source_pages": [
+        "page_0391.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Unde egressi, venerunt in Lebna.",
+      "french": "D'où étant sortis, ils vinrent à Lebna.",
+      "annotations": null,
+      "source_pages": [
+        "page_0391.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "De Lebna, castrametati sunt in Ressa.",
+      "french": "De Lebna, ils allèrent camper à Ressa.",
+      "annotations": null,
+      "source_pages": [
+        "page_0392.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Egressique de Ressa, venerunt in Ceelatha.",
+      "french": "Et étant partis de Ressa, ils vinrent à Céelatha.",
+      "annotations": null,
+      "source_pages": [
+        "page_0392.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Unde profecti, castrametati sunt in monte Sepher.",
+      "french": "De là ils vinrent camper au mont de Sepher.",
+      "annotations": null,
+      "source_pages": [
+        "page_0392.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Egressi de monte Sepher, venerunt in Arada.",
+      "french": "Et ayant quitté le mont de Sepher, ils vinrent à Arada.",
+      "annotations": null,
+      "source_pages": [
+        "page_0392.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Inde proficiscens, castrametati sunt in Maceloth.",
+      "french": "D'Arada, ils vinrent camper à Maceloth.",
+      "annotations": null,
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Profectique de Maceloth, venerunt in Thabath.",
+      "french": "Et étant sortis de Maceloth, ils vinrent à Thahath.",
+      "annotations": null,
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "De Thabath, castrametati sunt in Thare.",
+      "french": "De Thahath, ils allèrent camper à Tharé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Unde egressi, fixêre tentoria in Methca.",
+      "french": "D'où ils vinrent dresser leurs tentes à Methca.",
+      "annotations": null,
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et de Methca, castrametati sunt in Hesmona.",
+      "french": "De Methca, ils allèrent camper à Hesmona.",
+      "annotations": null,
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Profectique de Hesmona, venerunt in Moseroth.",
+      "french": "Et étant partis de Hesmona, ils vinrent à Moseroth.",
+      "annotations": null,
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Et de Moseroth, castrametati sunt in Bene-jaacan.",
+      "french": "De Moseroth, ils allèrent camper à Benejaacan.",
+      "annotations": null,
+      "source_pages": [
+        "page_0394.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Profectique de Bene-jaacan, venerunt in montem Gadgad.",
+      "french": "De Bene-jaacan, ils vinrent à la montagne de Gadgad.",
+      "annotations": null,
+      "source_pages": [
+        "page_0394.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Unde profecti, castrametati sunt in Jetebatha.",
+      "french": "D'où ils allèrent camper à Jetébatha.",
+      "annotations": null,
+      "source_pages": [
+        "page_0394.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et de Jetebatha, venerunt in Hebrona.",
+      "french": "De Jetébatha, ils vinrent à Hebrona.",
+      "annotations": null,
+      "source_pages": [
+        "page_0394.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Egressique de Hebrona, castrametati sunt in Asiongaber.",
+      "french": "De Hebrona, ils allèrent camper à Asiongaber.",
+      "annotations": null,
+      "source_pages": [
+        "page_0395.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Inde profecti, venerunt in desertum Sin, hæc est Cades.",
+      "french": "D'où étant partis, ils vinrent au désert de Sin, qui est Cadés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0395.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Egressique de Cades, castrametati sunt in monte Hor, in extremis finibus Terrae Edom.",
+      "french": "De Cadès, ils vinrent camper sur la montagne de Hor, à l'extrémité du pays d'Edom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Ascenditque Aaron Sacerdos in montem Hor, jubente Domino : et ibi mortuus est anno quadragesimo egressionis filiorum Israël ex Ægypto, mense quinto, prima die mensis.",
+      "french": "Et Aaron Grand-Prêtre étant monté sur la montagne de Hor, par le commandement du Seigneur, y mourut le premier jour du cinquième mois de la quarantième année, après la sortie des enfants d'Israël du pays d'Égypte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Cum esset annorum centum viginti trium.",
+      "french": "Étant âgé de cent vingt-trois ans.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Audivitque Chananaeus rex Arad, qui habitabat ad meridiem, in Terram Chanaan venisse filios Israël.",
+      "french": "Alors Arad, roi des Cananéens, qui habitaient vers le midi, apprit que les enfants d'Israël étaient venus dans le pays de Chanaan.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Et profecti de monte Hor, castrametati sunt in Salmona.",
+      "french": "Étant partis de la montagne de Hor, ils vinrent camper à Salmona.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Unde egressi, venerunt in Phunon.",
+      "french": "D'où ils vinrent à Phunon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0397.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Profectisque de Phunon, castrametati sunt in Oboth.",
+      "french": "De Phunon, ils allèrent camper à Oboth.",
+      "annotations": null,
+      "source_pages": [
+        "page_0397.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Et de Oboth, venerunt in Jie-abarin, quæ est in finibus Moabitarum.",
+      "french": "D'Oboth, ils vinrent à Jie-abarim, qui est sur la frontière des Moabites.",
+      "annotations": null,
+      "source_pages": [
+        "page_0397.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Profectisque de Jie-abarim, fixere tentoria in Dibon-gad.",
+      "french": "Étant partis de Jie-abarim, ils vinrent dresser leurs tentes à Dibon gad.",
+      "annotations": null,
+      "source_pages": [
+        "page_0397.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Unde egressi, castrametati sunt in Helmondeblathaim.",
+      "french": "D'où ils allèrent camper à Helmon-deblathaim.",
+      "annotations": null,
+      "source_pages": [
+        "page_0397.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Egressisque de Helmondeblathaim, venerunt ad montes Abarim contra Nabo.",
+      "french": "Ils partirent de Helmondeblathaim, et vinrent aux montagnes d'Abarim, vis-à-vis de Nabo.",
+      "annotations": null,
+      "source_pages": [
+        "page_0398.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Profectisque de montibus Abarim, transierunt ad campestria Moab, supra Jordanem contra Jericho.",
+      "french": "Et ayant quitté les montagnes d'Abarim, ils passèrent dans les plaines de Moab, sur le bord du Jourdain vis-à-vis de Jericho,",
+      "annotations": null,
+      "source_pages": [
+        "page_0398.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Ibique castrametati sunt de Bethsimoth usque ad Abelsatim in planioribus locis Moabitarum,",
+      "french": "Où ils campèrent dans les plaines du pays des Moabites, depuis Bethsimoth jusqu'à Abelsatim.",
+      "annotations": null,
+      "source_pages": [
+        "page_0398.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Ubi locutus est Dominus ad Moïse :",
+      "french": "Ce fut là que le Seigneur parla à Moïse, et lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0398.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Præcipe filiis Israël, et dic ad eos : Quando transieritis Jordanem, intrantes Teram Chanaan,",
+      "french": "Ordonnez ceci aux enfants d'Israël, et dites-leur : Quand vous aurez passé le Jourdain, et que vous serez entrés dans le pays de Canaan,",
+      "annotations": null,
+      "source_pages": [
+        "page_0398.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Disperdite cunctos habitatores Terræ illius : confringite titulos, et statuas comminuite, atque omnia excelsa vastate.",
+      "french": "Exterminez tous les habitants de ce pays-là ; brisez les pierres érigées en l'honneur des fausses divinités ; rompez leurs statues, et ruinez tous leurs lieux élevés,",
+      "annotations": null,
+      "source_pages": [
+        "page_0399.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Mundantes terram, et habitantes in ea : ego enim dedi vobis illam in possessionem.",
+      "french": "Pour purifier ainsi la terre, afin que vous y habitiez : car je vous l'ai donnée, afin que vous la possédiez ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0399.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Quam dividetis vobis sorte. Pluribus dabitis latiorem, et paucis angustiorem. Singulis ut sors ceciderit, ita tribuetur hæreditas. Per tribus et familias possessio dividetur.",
+      "french": "Et vous la partagerez entre vous par sort. Vous en donnerez une plus grande partie à ceux qui seront en plus grand nombre, et une moindre à ceux qui seront moins. Chacun recevra son héritage selon qu'il lui sera échu par sort ; et le partage s'en fera par tribus et par familles.",
+      "source_pages": [
+        "page_0399.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Sin autem nolueritis interficere habitatores Terræ : qui remanferint, erunt vobis quasi clavi in oculis, et lanceæ in lateribus, et adversabuntur vobis in Terra habitationis vestræ :",
+      "french": "Que si vous ne voulez pas tuer tous les habitants du pays ; ceux qui en seront restés vous deviendront comme des clous dans les yeux, et comme des lances aux côtés ; et ils vous combattront dans le pays où vous devez habiter :",
+      "annotations": null,
+      "source_pages": [
+        "page_0400.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "Et quidquid illis cogitaveram facere, vobis faciam.",
+      "french": "Et je vous ferai à vous-mêmes tout le mal que j'avais résolu de leur faire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0400.json"
+      ]
+    }
+  ]
+}

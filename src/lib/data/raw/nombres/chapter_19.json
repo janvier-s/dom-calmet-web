@@ -1,0 +1,223 @@
+{
+  "book": "Nombres",
+  "chapter": 19,
+  "chapter_summary": "Sacrifice de la vache rousse, des cendres de laquelle on fait une eau propre à expier. Maniere de se purifier des soüillures légales; et en particulier de celles qu'on contracte dans les funérailles.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Locutusque est Dominus ad Moysen et Aaron, dicens:",
+      "french": "Le Seigneur parla encore à Moïse, et à Aaron, et leur dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0224.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Ista est religio victimæ, quam constituit Dominus. Præcipe filiis Israël, ut adducant ad te vaccam rusam ætatis integræ, in qua nulla sit macula, nec portaverit jugum.",
+      "french": "Voici la Religion de la victime qui a été ordonnée par le Seigneur : Commandez aux enfants d'Israël de vous amener une vache rousse, qui soit d'un âge parfait, et sans défaut, et qui n'ait point porté le joug.",
+      "annotations": null,
+      "source_pages": [
+        "page_0225.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Tradésque eam Eleazaro sacerdoti, qui eductam extra castra, immolabit in conspectu omnium.",
+      "french": "Vous la mettrez entre les mains du Prêtre Éléazar, qui l'ayant menée hors du camp, l'immolera devant le peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0227.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et tingens digitum in sanguine ejus, asperget contra fores tabernaculi septem vicibus,",
+      "french": "Il trempera son doigt dans le sang de cette vache, et il en fera sept fois les aspersions vers l’entrée du Tabernacle ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0228.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Comburetque eam cunctis videntibus, tam pelle et carnibus ejus, quàm sanguine et fimo flamma traditis.",
+      "french": "Et il la brûlera en la présence de tout le peuple, en mettant sur les flammes, tant la peau, et la chair, que le sang, et les excréments de l’hostie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0228.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Lignum quoque cedrinum, et hyssopum, coccúmque bis tinctum sacerdos mittet in flammam, quæ vaccam vorat.",
+      "french": "Le Prêtre jettera aussi dans le feu qui brûle la vache, le bois de cèdre, l’hysope, et l’écarlate teinte deux fois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0228.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et tunc domum, lotis vestibus et corpore suo, ingredietur in castra, commaculatusque erit usque ad vesperum.",
+      "french": "Enfin, après avoir lavé ses vêtements et son corps, il reviendra au camp, et sera impur jusqu'au soir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0229.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Sed et ille qui combusserit eam, lavabit vestimenta sua et corpus ; et immundus erit usque ad vesperum.",
+      "french": "Celui qui aura brûlé la vache, lavera ses vêtements, et son corps ; et il sera impur jusqu'au soir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0229.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Colliget autem vir mundus cineres vaccæ, et effundet eos extra castra, in loco purissimo, ut sint multitudini filiorum Israël in custodiam, et in aquam aspersionis : quia pro peccato vacca combusta est.",
+      "french": "Un homme qui sera pur, amassera les cendres de la vache, et les mettra hors du camp, dans un lieu très-pur, afin qu'elles soient soigneusement conservées par les Israélites, et qu'elles leur servent à faire une eau d'aspersion ; parce que cette vache a été brûlée pour le péché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0229.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Cumque laverit, qui vaccæ portaverat cineres, vestimenta sua, immundus erit usque ad vesperum. Habebunt hoc filii Israël et advenæ, qui habitant inter eos, sanctum jure perpetuo.",
+      "french": "Et celui qui aura porté les cendres, lavera ses vêtements, et sera impur jusqu'au soir. Cette ordonnance sera sainte et inviolable par un droit perpétuel, qui sera observé par les enfants d'Israël, et par les étrangers qui sont parmi vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0229.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Qui tetigerit cadaver hominis, et propter hoc septem diebus fuerit immundus :",
+      "french": "Celui qui aura touché le corps d'un homme, et qui pour cette raison sera impur durant sept jours,",
+      "annotations": null,
+      "source_pages": [
+        "page_0230.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Aspergetur ex hac aqua die tertio, et septimo, et sic mundabitur. Si die tertio aspersus non fuerit, septimo non poterit emundari.",
+      "french": "Sera arrosé de cette eau le troisième et le septième jour ; et il sera ainsi purifié. Que s'il ne reçoit point l'aspersion le troisième jour, il ne pourra être purifié le septième.",
+      "annotations": null,
+      "source_pages": [
+        "page_0230.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Omnis qui tetigerit humanae animae morticinium, et aspersus hac commistione non fuerit, polluet tabernaculum Domini, et peribit ex Israel : quia aqua expiationis non est aspersus, immundus erit, et manebit spurcitia ejus super eum.",
+      "french": "Quiconque ayant touché le corps mort d'un homme, n'aura point été arrosé de cette eau ainsi mêlée, souillera le tabernacle du Seigneur, et il périra du milieu d'Israël : il sera impur, parce qu'il n'a point été nettoyé par l'eau d'expiation ; et son impiété demeurera sur lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0230.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Ista est lex Domini: Qui moritur in tabernaculo, omnes qui ingrediuntur tentorium illius, et universa vasa quæ ibi sunt, polluta erunt septem diebus.",
+      "french": "Voici la loi pour un homme qui meurt dans la tente ; Tous ceux qui entrent dans sa tente, et tout ce qui y est, sera impur pendant sept jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0231.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Vas quod non habuerit operculum, nec ligaturam desuper, immundum erit.",
+      "french": "Le vase qui n'aura point de couvercle, ou qui ne sera point lié par-dessus, sera impur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0231.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Si quis in agro tetigerit cadaver occisi hominis, aut per se mortui, sive os illius, vel sepulchrum, immundus erit septem diebus.",
+      "french": "Si quelqu'un, à la campagne, touche le corps d'un homme qui aura été tué, ou qui sera mort de lui-même ; s'il touche ses os, ou son sépulcre, il sera impur pendant sept jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0232.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Tollentque de cineribus combustionis atque peccati, et mittent aquas vivas super eos in vas:",
+      "french": "On prendra des cendres de la vache qui a été brûlée pour le péché ; et on mettra de l'eau vive par-dessus ces cendres, dans un vase ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0232.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "In quibus, cùm homo mundus tinxerit hyssopum, asperget ex eo omne tentorium, et cunctam supellectilem, et homines hujusmodi contagione pollutos:",
+      "french": "Et un homme pur y ayant trempé de l'hysope, il en arrosera toute la tente, tous les meubles, et toutes les personnes qui auront contracté cette souillure :",
+      "annotations": null,
+      "source_pages": [
+        "page_0233.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Atque hoc modo mundus lustrabit immundum, tertio et septimo die, expiatisque die septimo, lavabit, et se, et vestimenta sua; et immundus erit usque ad vesperum.",
+      "french": "Et cet homme pur nettoiera les impurs, le troisième et le septième jour ; et celui qui aura été purifié le septième jour, se lavera lui-même, et ses vêtements ; et il sera impur jusqu'au soir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0233.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Si quis hoc ritu non fuerit expiatus, peribit anima illius de medio Ecclesiæ : quia Sanctuarium Domini polluit, et non est aquâ lustrationis aspersus.",
+      "french": "Quiconque ne sera point purifié de cette manière, périra du milieu de l'Assemblée ; parce qu'il a souillé le Sanctuaire du Seigneur, et que l'eau d'expiation n'a point été répandue sur lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0234.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Erit hoc præceptum legitimum sempiternum. Ipse quoque qui aspergit aquas, lavabit vestimenta sua. Omnis qui tetigerit aquas expiationis, immundus erit usque ad vesperum.",
+      "french": "Cette Ordonnance sera pour vous une Loi perpétuelle. Celui qui aura fait ces aspersions de l'eau, lavera aussi ses vêtements. Tous ceux qui toucheront l'eau d'expiation, seront impurs jusqu'au soir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0234.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Quidquid tetigerit immundus, immundum faciet : et anima quæ horum quippiam tetigerit, immunda erit usque ad vesperum.",
+      "french": "Celui qui est souillé, souillera tout ce qu'il touchera ; et celui qui aura touché quelqu'une de ces choses, sera impur jusqu'au soir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0234.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Et comederis eas in omnibus locis vestris, tam vos, quàm familia vestra : quia pretium est pro ministerio, quo servitis in tabernaculo testimonii.",
+      "french": "Ces dîmes seront pour votre nourriture dans tous les lieux où vous habiterez ; parce que c'est le salaire du service que vous rendez au Tabernacle du témoignage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0224.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et non peccabitis super hoc, egregia vobis et pinguia reservantes, ne polluatis oblationes filiorum Israël, et moriamini.",
+      "french": "Et ainsi vous éviterez le péché que vous commettriez, en réservant pour vous ce qu'il y aurait de meilleur, et de plus gras. Et prenez garde de ne pas souiller les offrandes des enfants d'Israël, de peur que vous ne soyez punis de mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0224.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "book": "Deutéronome",
+  "chapter": 5,
+  "chapter_summary": "Harangue de Moïse à tout le peuple. Il leur répète le Décalogue, et raconte de quelle frayeur ils furent saisis, lorsque Dieu leur fit entendre sa voix de dessus la montagne de Sinaï.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Vocavitque Moyses omnem Israelem, et dixit ad eum: Audi Israel caeremonias atque judicia, quae ego loquor in auribus vestris hodie: discite ea, et opere complete.",
+      "french": "Moïse ayant donc fait venir tout le peuple d'Israël, lui dit : Écoutez, Israël, les cérémonies et les ordonnances que je vais vous exposer aujourd'hui ; apprenez-les, et les pratiquez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0121.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Dominus Deus noster pepigit nobiscum foedus in Horeb.",
+      "french": "Le Seigneur notre Dieu a fait alliance avec nous sur Horeb.",
+      "annotations": null,
+      "source_pages": [
+        "page_0121.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Non cum patribus nostris iniit pactum, sed nobiscum qui inprasentiarum sumus, et vivimus.",
+      "french": "Il n'a point fait alliance avec nos pères ; mais avec nous qui sommes, et qui vivons aujourd'hui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0121.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Facie ad faciem locutus est nobis in monte, de medio ignis.",
+      "french": "Il nous a parlé face à face sur la montagne du milieu du feu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Ego sequester et medius fui inter Dominum et vos in tempore illo, ut annuntiarem vobis verba ejus. Timuistis enim ignem, et non ascendistis in montem: et ait:",
+      "french": "Je fus alors l'entremetteur, et le médiateur entre le Seigneur et vous, pour vous annoncer ses paroles. Car vous appréhendâtes ce grand feu, et vous ne montâtes point sur la montagne ; et il dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ego Dominus Deus tuus, qui eduxi te de terra Aegypti, de domo servitutis.",
+      "french": "Je suis le Seigneur votre Dieu, qui vous ai tirés de l'Égypte, de ce séjour de servitude.",
+      "annotations": null,
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Non habebis Deos alienos in conspectu meo.",
+      "french": "Vous n'aurez point en ma présence de Dieux étrangers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Non facies tibi sculptile, nec similitudinem omnium, quae in caelo sunt desuper, et quae in terra deorsum, et quae versantur in aquis sub terra.",
+      "french": "Vous ne vous ferez point d'image de sculpture, ni de figures de tout ce qui est ou en haut dans le ciel, ou en bas sur la terre, ou qui vit sous terre dans les eaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Non adorabis ea, et non coles. Ego enim sum Dominus Deus tuus: Deus aemulator, reddens iniquitatem patrum super filios in tertiam et quartam generationem his qui oderunt me,",
+      "french": "Vous ne les adorerez et ne les servirez point. Car je suis le Seigneur votre Dieu ; un Dieu jaloux, qui punis l'iniquité des pères sur les enfants, jusqu'à la troisième et quatrième génération de ceux qui me haïssent ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et faciens misericordiam in multa millia diligentibus me, et custodientibus precepta mea.",
+      "french": "Et qui fais miséricorde jusqu'à mille et mille générations, à ceux qui m'aiment, et qui gardent mes préceptes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Non usurpabis nomen Domini Dei tui frustra: quia non erit impunitus, qui super re vana nomen ejus assumpserit.",
+      "french": "Vous ne prendrez point le nom du Seigneur votre Dieu en vain ; car celui qui aura attesté la sainteté de son nom sur une chose vaine, ne sera point impuni.",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Observa diem Sabbati, ut sanctifices eum, sicut praecepit tibi Dominus Deus tuus.",
+      "french": "Observez le jour du Sabbat, et ayez soin de le sanctifier, selon que le Seigneur votre Dieu vous l'a ordonné.",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Sex diebus operaberis, et facies omnia opera tua.",
+      "french": "Vous travaillerez pendant six jours, et vous y ferez tous vos ouvrages.",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Septimus Dies Sabbati est, id est, requies Domini Dei tui. Non facies in eo quidquam operis, tu, et filius tuus, et filia, servus et ancilla, et bos et asinus, et omne jumentum tuum, et peregrinus qui est intra portas tuas: ut requiescat servus tuus, et ancilla tua, sicut et tu.",
+      "french": "Mais le septième jour est celui du Sabbat, c'est-à-dire, le jour du repos du Seigneur votre Dieu. Vous ne ferez aucune œuvre servile en ce jour-là, ni vous, ni votre fils, ni votre fille, ni votre serviteur, ni votre servante, ni votre bœuf, ni votre âne, ni aucune de vos bêtes, ni l'étranger qui est au milieu de vous ; afin que votre serviteur et votre servante se reposent comme vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Memento quod et ipse servieris in Aegypto, et eduxerit te inde Dominus Deus tuus in manu forti, et brachio extento. Idcirco praecepit tibi ut observares diem Sabbati.",
+      "french": "Souvenez-vous que vous avez vous-mêmes été esclaves dans l'Égypte, et que le Seigneur votre Dieu vous en a tirés par sa main toute puissante, et en déployant toute la force de son bras. C'est pourquoi il vous a ordonné d'observer le jour du Sabbat.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Honora patrem tuum et matrem, sicut praecepit tibi Dominus Deus tuus, ut longo vivas tempore, et bene sit tibi in terra, quam Dominus Deus tuus daturus est tibi.",
+      "french": "Honorez votre père et votre mère, selon que le Seigneur votre Dieu vous l'a ordonné, afin que vous viviez longtemps, et que vous soyez heureux dans la terre, que le Seigneur votre Dieu vous doit donner.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Non occides.",
+      "french": "Vous ne tuerez point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Neque moechaberis.",
+      "french": "Vous ne commettrez point d'adultère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Furtumque non facies.",
+      "french": "Vous ne déroberez point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Nec loqueris contra proximum tuum falsum testimonium.",
+      "french": "Vous ne porterez point de faux témoignage contre votre prochain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Non concupisces uxorem proximi tui: non domum, non agrum, non servum, non ancillam, non bovem, non asinum, et universa quae illius sunt.",
+      "french": "Vous ne désirerez point la femme de votre prochain, ni sa maison, ni son champ, ni son serviteur, ni sa servante, ni son bœuf, ni son âne, ni aucune chose qui lui appartienne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Haec verba locutus est Dominus ad omnem multitudinem vestram, in monte de medio ignis, et nubis, et caliginis voce magna, nihil addens amplius: et scripsit ea in duabus tabulis lapideis, quas tradidit mihi.",
+      "french": "Le Seigneur prononça ces paroles à haute voix devant vous tous, sur la montagne, du milieu du feu, de la nuée, et de l'obscurité, sans y ajouter rien davantage ; et il les écrivit sur les deux tables de pierre, qu'il me donna.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Vos autem postquam audistis vocem de medio tenebrarum, et montem ardere vidistis, accessistis ad me omnes principes tribuum et majores natu, atque dixistis:",
+      "french": "Mais après que vous eûtes entendu sa voix du milieu des ténèbres, et que vous eûtes vu la montagne toute en feu, vous me vîntes trouver, tous les Princes des Tribus, et tous les Anciens, et vous me dîtes :",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Ecce ostendit nobis Dominus Deus noster majestatem et magnitudinem suam ; vocem ejus audivimus de medio ignis, et probavimus hodie, quod loquente Deo cum homine, vixerit homo.",
+      "french": "Le Seigneur notre Dieu nous a fait voir sa majesté et sa grandeur ; nous avons entendu sa voix du milieu du feu ; et nous avons éprouvé aujourd'hui que Dieu a parlé à un homme, sans que l'homme en soit mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Cur ergo moriemur, et devorabit nos ignis hic maximus? Si enim audierimus ultra vocem Domini Dei nostri, moriemur.",
+      "french": "Pourquoi mourrons-nous donc, et serons-nous dévorés par ce grand feu ? Car si nous entendons davantage la voix du Seigneur notre Dieu, nous mourrons.",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Quid est omnis caro, ut audiat vocem Dei viventis, qui de medio ignis loquitur, sicut nos audivimus, et possit vivere?",
+      "french": "Qu'est-ce que l'homme revêtu de chair, pour pouvoir entendre la voix du Dieu vivant, et parlant du milieu du feu, comme nous l'avons entendue, sans qu'il en perde la vie ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Tu magis accede, et audi cuncta quae dixerit Dominus Deus noster tibi: loquerisque ad nos, et nos audientes faciemus ea.",
+      "french": "Approchez-vous donc plutôt vous-même de lui, et écoutez tout ce que le Seigneur notre Dieu vous dira : vous nous le rapporterez ensuite ; et quand nous l'aurons appris, nous le ferons.",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Quod cum audisset Dominus, ait ad me: Audivi vocem verborum populi hujus, quae locuti sunt tibi: bene omnia sunt locuti.",
+      "french": "Ce que le Seigneur ayant ouï, il me dit : J'ai entendu les paroles que ce peuple vous a dites : il a bien parlé dans tout ce qu'il a dit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Quis det talem eos habere mentem, ut timeant me, et custodiant universa mandata mea in omni tempore, ut bene sit eis, et filiis eorum in sempiternum?",
+      "french": "Qui leur donnera un tel esprit et un tel cœur, qu'ils me craignent, et qu'ils gardent en tout temps tous mes préceptes, afin qu'ils soient heureux pour jamais, eux et leurs enfants ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Vade, et dic eis: Revertimini in tentoria vestra.",
+      "french": "Allez, et dites-leur : Retournez en vos tentes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Tu vero hic sta mecum, et loquar tibi omnia mandata mea, et caeremonias atque judicia: quae docebis eos ut faciant ea in terra, quam dabo illis in possessionem.",
+      "french": "Et pour vous, demeurez ici avec moi, et je vous proposerai tous mes commandements, toutes mes cérémonies, et mes ordonnances ; et vous les leur enseignerez, afin qu'ils les observent dans la terre que je leur donnerai en héritage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Custodite igitur et facite quae praecepit Dominus Deus vobis: non declinabitis neque ad dexteram, neque ad sinistram.",
+      "french": "Observez donc et exécutez ce que le Seigneur votre Dieu vous a commandé. Vous ne vous détournerez ni à droit ni à gauche :",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    }
+  ]
+}

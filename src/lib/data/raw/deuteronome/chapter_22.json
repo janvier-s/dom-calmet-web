@@ -1,0 +1,277 @@
+{
+  "book": "Deutéronome",
+  "chapter": 22,
+  "chapter_summary": "Charité envers le prochain ; lui ramener et lui rendre ce qui est égaré ou perdu. Ne pas changer d'habits pour se déguiser. Défense de prendre la mère avec ses petits dans un nid ; de laisser un toit sans clôture ; de semer dans les vignes ; de labourer avec un bœuf et un âne ; de porter des habits faits de laine et de lin. Ordonnance de porter des houppes aux quatre coins du manteau. Manière de procéder ; quand un mari dit qu'il n'a pas trouvé sa femme vierge. Peine de mort contre les adultères. Différents châtiments contre ceux qui auront violé une fille fiancée, ou non-fiancée, à la ville, ou à la campagne.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Non videbis bovem fratris tui, aut ovem errantem, et præteribis : sed reduces fratri tuo.",
+      "french": "Lorsque vous verrez le bœuf ou la brebi de votre frère égarez, vous ne passerez point votre chemin, mais vous les ramènerez à votre frère,",
+      "annotations": "",
+      "source_pages": [
+        "page_0303.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Etiam si non est propinquus frater tuus, nec nosti eum : duces in domum tuam, et erunt apud te, quamdiu quærat ea frater tuus, et recipiat.",
+      "french": "Quand il ne serait point votre parent, et quand même vous ne le connaîtriez pas ; vous les mènerez à votre maison, et ils y demeureront jusqu’à ce que votre frère les vienne chercher, et que vous les lui rendiez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0303.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Similiter facies de asino, et de vestimento, et de omni re fratris tui, quæ perierit : si inveneris eam, ne negligas quasi alienam.",
+      "french": "Vous ferez le même à l'égard de l'âne, ou du vêtement, ou de quoi que ce soit que votre frère ait perdu ; et quand vous l'aurez trouvé, vous ne le négligerez point, sous prétexte qu'il n'est point à vous, mais à un autre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0304.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Si videris asinum fratris tui, aut bovem, cecidisse in via ; non despícies, sed sublevabis cum eo.",
+      "french": "Si vous voyez l'âne ou le bœuf de votre frère tombé dans le chemin, vous n'y serez point indifférent ; mais vous l'aiderez à le relever.",
+      "annotations": null,
+      "source_pages": [
+        "page_0305.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Non induetur mulier veste virili, nec vir utetur veste feminea : abominabilis enim apud Deum est qui fa.it hæc.",
+      "french": "Une femme ne prendra point un habit d'homme, et un homme ne prendra point un habit de femme ; car celui qui le fait, est abominable devant Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0305.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Si ambulans per viam, in arbore vel in terra nidum avis inveneris, et matrem pullis vel ovis desuper incubantem : non tenebis eam cum filiis:",
+      "french": "Si marchant dans un chemin, vous trouvez sur un arbre, ou à terre, le nid d'un oiseau, et la mère qui est sur ses petits ou sur ses œufs, vous ne retiendrez point la mère avec ses petits ;\n",
+      "annotations": null,
+      "source_pages": [
+        "page_0307.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Sed abire patieris, captos tenens filios : ut bene sit tibi, et longo vivas tempore.",
+      "french": "Mais ayant pris les petits, vous la laisserez aller, afin que vous soyez heureux, et que vous viviez longtemps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0307.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Cum ædificaveris domum novam, facies murum tecti per circuitum : ne effundatur sanguis in domo tua, et sis reus labente alio, et in præceps ruente.",
+      "french": "Lorsque vous aurez bâti une maison neuve, vous ferez un petit mur tout autour du toit, de peur que le sang ne soit répandu en votre maison, et que quelqu'un tombant de ce lieu élevé en bas, vous ne soyez coupable de sa chute.",
+      "annotations": null,
+      "source_pages": [
+        "page_0308.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Non seres vineam tuam altero semine : ne et sementis quam sevisti, et quæ nascuntur ex vinea, pariter sanctificentur.",
+      "french": "Vous ne semerez point diverses sortes de grain dans votre vigne ; de peur que le grain que vous aurez semé, et le fruit de votre vigne, ne soient impurs en même temps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0309.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Non arabis in bove et asino.",
+      "french": "Vous ne labourerez point avec un' bœuf et un âne attelés ensemble.",
+      "annotations": null,
+      "source_pages": [
+        "page_0310.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Non indueris vestimento, quod ex lana linoque contextum est.",
+      "french": "Vous ne vous revêtirez point d'un habit qui soit tissu de laine et de lin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0310.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Funiculos in fimbriis facies per quatuor angulos pallii tui, quo operieris.",
+      "french": "Vous ferez avec de petits cordons, des franges que vous mettrez aux quatre coins du manteau dont vous vous couvrirez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0310.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Si duxerit vir uxorem, et postea habuerit eam,",
+      "french": "Si un homme ayant épousé une femme, en conçoit ensuite de l'aversion,",
+      "annotations": null,
+      "source_pages": [
+        "page_0310.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Quæsieritque occasiones quibus dimittat eam, objiciens ei nomen pessimum, et dixerit : Uxorem hanc accepi, et ingressus ad eam non inveni virginem :",
+      "french": "Et que cherchant un prétexte pour la répudier, il lui impute un crime honteux, en disant : J'ai épousé cette femme ; mais m'étant approché d'elle, j'ai trouvé qu'elle n'était point vierge ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0311.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Tollent eam pater et mater ejus, et ferent secum signa virginitatis ejus ad Seniores urbis qui in porta sunt:",
+      "french": "Son père et sa mere la prendront, et ils représenteront aux Anciens de la ville qui seront au siège de la justice, les signes de la virginité de leur fille ;\n",
+      "annotations": null,
+      "source_pages": [
+        "page_0312.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et dicet pater : Filiam meam dedi huic uxorem : quam quia odit,",
+      "french": "Et le père dira : J'ai donné ma fille à cet homme pour sa femme ; mais parce qu'il en a maintenant de l'aversion,\n",
+      "annotations": null,
+      "source_pages": [
+        "page_0312.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Imponit ei nomen pessimum, ut dicat : Non inveni filiam tuam virginem : et ecce hæc sunt signa virginitatis filiæ meæ ; expandent vestimentum coram Senioribus civitatis:",
+      "french": "Il lui impute un crime honteux, en disant : Je n'ai pas trouvé que votre fille fût vierge : Et cependant voici les preuves de la virginité de ma fille. Ils représenteront en même temps les vêtements devant les Anciens de la ville ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0313.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Apprehendentque Senes urbis illius virum, et verberabunt illum ;",
+      "french": "Et ces Anciens de la ville prenant cet homme, lui feront souffrir la peine du fouet,",
+      "annotations": null,
+      "source_pages": [
+        "page_0313.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Condemnantes insuper centum siclis argenti, quos dabit patri puellæ : quoniam diffamavit nomen pessimum super virginem Israël : habebitque eam uxorem, et non poterit dimittere eam, omnibus diebus vitæ suæ.",
+      "french": "Et le condamneront de plus à payer cent sicles d'argent, qu'il donnera au père de la fille ; parce qu'il a déshonoré par une accusation d'infamie, une vierge d'Israël ; et il la retiendra pour sa femme, sans qu'il puisse la répudier tant qu'il vivra.",
+      "annotations": null,
+      "source_pages": [
+        "page_0313.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Quod si verum est quod objicit, et non est in puella inventa virginitas:",
+      "french": "Que si ce qu'il objecte est véritable, et s'il se trouve que la fille, quand il l'épousa, n'était pas vierge,",
+      "annotations": null,
+      "source_pages": [
+        "page_0313.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Ejicient eam extra fores domus patris sui, et lapidibus obruent viri civitatis illius, et morietur : quoniam fecit nefas in Israël, ut fornicaretur in domo patris sui : et auferes malum de medio tui.",
+      "french": "On la chassera hors la porte de la maison de son père, et les habitants de cette ville la lapideront, et elle mourra, parce qu'elle a fait une action indigne dans Israël, étant tombée en fornication dans la maison de son père : et vous ôterez le mal du milieu de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0314.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Si dormierit vir cum uxore alterius, uterque morietur, id est, adulter et adultera : et auferes malum de Israël.",
+      "french": "Si un homme corrompt la femme d'un autre, l'un et l'autre sera mis à mort, l'homme adultère et la femme adultère ; et vous ôterez le mal du milieu d'Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0314.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Si puellam virginem desponderit vir, et invenerit eam aliquis in civitate, et concubuerit cum ea,",
+      "french": "Si après qu'une fille vierge a été fiancée, quelqu'un la trouve dans la ville, et la corrompt,",
+      "annotations": null,
+      "source_pages": [
+        "page_0314.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Educes utrumque ad portam civitatis illius, et lapidibus obruentur : puella, quia non clamavit, cum esset in civitate : vir, quia humiliavit uxorem proximi sui : et auferes malum de medio tui.",
+      "french": "Vous les chasserez l'un et l'autre à la porte de la ville, et vous les y lapiderez ; la fille, parce qu'étant dans la ville, elle n'a pas crié ; et l'homme, parce qu'il a abusé de la femme de son prochain : et vous ôterez le mal du milieu de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0314.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Sin autem in agro repererit vir puellam, quæ desponsata est, et apprehendens concubuerit cum ea, ipse morietur solus:",
+      "french": "Si un homme trouve à la campagne une fille fiancée, et qu'il lui fasse violence, et la déshonore, il sera lui seul puni de mort:",
+      "annotations": null,
+      "source_pages": [
+        "page_0315.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Puella nihil patietur, nec est rea mortis : quoniam sicut latro consurgit contra fratrem suum, et occidit animam ejus, ita et puella perpessa est.",
+      "french": "La fille ne souffrira rien, elle n'est pas digne de mort ; parce qu'elle a souffert violence, comme un homme qui est attaqué tout d'un coup par un voleur, qui lui ôte la vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0315.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Sola erat in agro : clamavit, et nullus affuit qui liberaret eam.",
+      "french": "Elle était seule dans un champ, elle a crié, et personne n'est venu pour la délivrer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0315.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Si invenerit puellam virginem, quæ non habet sponsum, et apprehendens concubuerit cum illa, et res ad judicium venerit :",
+      "french": "Si un homme trouve une fille vierge qui n'a point été fiancée, et que lui faisant violence, il la déshonore, les Juges ayant pris connaissance de cette affaire,",
+      "annotations": null,
+      "source_pages": [
+        "page_0315.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Dabit qui dormivit cum ea, patri puellæ quinquaginta siclos argenti, et habebit eam uxorem, quia humiliavit illam : non poterit dimittere eam cunctis diebus vitæ suæ.",
+      "french": "Condamneront celui qui l'a déshonorée, à donner au père de la fille cinquante sicles d'argent, et il la prendra pour femme, parce qu'il en a abusé, et de sa vie il ne pourra la répudier.",
+      "annotations": null,
+      "source_pages": [
+        "page_0315.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Non accipiet homo uxorem patris sui, nec revelabit operimentum ejus.",
+      "french": "Un homme n'épousera point la femme de son père, et il ne découvrira point dans elle ce que la pudeur doit cacher.",
+      "annotations": null,
+      "source_pages": [
+        "page_0315.json"
+      ]
+    }
+  ]
+}
