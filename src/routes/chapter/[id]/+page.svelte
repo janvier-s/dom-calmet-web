@@ -38,7 +38,7 @@
 
 				<!-- Associated Notes -->
 				{#each getNotesForVerse(verse.verse_number) as note}
-					<div class="commentary-block mt-4 mb-8 text-gray-800 text-justify font-serif leading-relaxed">
+					<div class="commentary-block mt-4 mb-8 text-gray-800 font-serif leading-relaxed">
 						
 						<!-- Latin Quote & Translation inline -->
 						{#if note.latin_lemma || note.lemma}
