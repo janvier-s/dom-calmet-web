@@ -138,35 +138,7 @@
       "sub": false,
       "latin_lemma": "ODULLAM, ou Odollam, ou Odolla,",
       "lemma": null,
-      "text": "ville de la tribu de Juda,[23] à dix milles d'Eleutéropolis vers l'orient ;[24] elle est fort connuë par la retraite de David, qui pendant ſa diſgrace, ſe retira dans les cavernes d'Odollam. "
-    },
-    {
-      "verse": 17,
-      "sub": false,
-      "latin_lemma": "TAPHUA, dans la tribu de Juda.",
-      "lemma": null,
-      "text": "On ne nous apprend point la ſituation de cette ville ; il y en avoit une de même nom dans les confins d'Ephraïm & de Manaſſé."
-    },
-    {
-      "verse": 17,
-      "sub": true,
-      "latin_lemma": "OPHER.",
-      "lemma": null,
-      "text": "Je penſe que c'eſt la même qu'Ophera dans la tribu de Benjamin.  Il y en avoit une autre dans la tribu de Zabulon, d'où l'on croit qu'étoit le Prophéte Jonas. Bonfrerius, & Cellarius ſemblent dire que c'eſt de celle-là dont Joſué parle ici. "
-    },
-    {
-      "verse": 18,
-      "sub": false,
-      "latin_lemma": "APHEC, ou Apheca.",
-      "lemma": null,
-      "text": "Il y a pluſieurs villes de ce nom. L'une dans la tribu d'Aſer :  l'autre dans la tribu de Juda :  & une troiſiéme dans la Syrie.  On ne doute pas que ce ne ſoit l'une des deux premieres dont Joſué parle ici ; mais on n'a point de preuves qui déterminent à l'une plûtôt qu'à l'autre. Il y a encore une quatriéme ville de ce nom dans la tribu d'Iſſachar ; ſi l'on en croit ſaint Jerôme ; mais Bonfrerius ne croit pas qu'on la puiſſe prouver par l'Ecriture. Je penſe auſſi que celle de la tribu d'Aſer, n'eſt point differente de celle qui eſt en Syrie."
-    },
-    {
-      "verse": 18,
-      "sub": true,
-      "latin_lemma": "SARON, ou Laſaron,",
-      "lemma": null,
-      "text": " comme portent l'Hébreu, le Caldéen & les Septante. La Vulgate a cru que la lettre L, au commencement de ce mot, étoit ſervile, & marquoit ſimplement le rapport qu'elle avoit au Roy qui la précéde. Les autres ont jugé que _Laſaron_ étoit le nom propre d'une ville, fort différente de celle de _Saron_, qui eſt dans le pays de Baſan, au delà du Jourdain,  & fameuſe par la fertilité de ſes campagnes,  _Decor Carmeli & Saron_. Celle dont nous parlons ici étoit prés de Lydda, & on croit que c'eſt _Sarona_ dont il eſt parlé dans les Actes des Apôtres ;  peut-être même que Saron eſt le nom d'une campagne ou d'un canton, & non pas d'une ville ; ce qu'on lit cy-aprés au ℣. 22. & 23. favoriſe cette explication. L'Ecriture y parle de Saron plûtôt comme d'un canton, que comme d'une ville particuliere. Euſebe dit que la campagne qui s'étend depuis Céſarée de Paleſtine, juſqu'à Joppé, porte le nom de Saron connue par la retraite de David, qui pendant sa disgrâce, se retira dans les cavernes d'Odollam. [25]"
+      "text": "ville de la tribu de Juda,[23] à dix milles d'Eleutéropolis vers l'orient ;[24] elle est fort connue par la retraite de David, qui pendant sa disgrâce, se retira dans les cavernes d'Odollam. [25]"
     },
     {
       "verse": 17,
@@ -283,17 +255,10 @@
       "after": "autre ville de même nom, qui était aux Ammonites.^{(4)} No"
     },
     {
-      "seam": "page_0237>page_0238 2",
+      "seam": "page_0237>page_0238",
       "verse": 15,
       "mode": "flow",
       "before": "eutéropolis vers l'orient ;^{fn:page_0237-m} elle est fort",
-      "after": "connuë par la retraite de David, qui pendant ſa diſgrace, "
-    },
-    {
-      "seam": "page_0238 2>page_0238",
-      "verse": 18,
-      "mode": "mend",
-      "before": "éſarée de Paleſtine, juſqu'à Joppé, porte le nom de Saron.",
       "after": "connue par la retraite de David, qui pendant sa disgrâce, "
     },
     {
@@ -319,7 +284,6 @@
     "page_0236",
     "page_0237",
     "page_0238",
-    "page_0238 2",
     "page_0239",
     "page_0240",
     "page_0241"
@@ -619,13 +583,6 @@
     },
     {
       "page": "page_0237",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0238 2",
       "chosen": "raw",
       "rejected": [],
       "edge_gap": null,

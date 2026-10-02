@@ -148,30 +148,12 @@
       ]
     },
     {
-      "verse_number": "17.",
-      "latin": "Rex Taphua unus, Rex Opher unus,",
-      "french": "Un Roi de Taphua, un Roi d'Opher,",
-      "annotations": null,
-      "source_pages": [
-        "page_0238 2.json"
-      ]
-    },
-    {
       "verse_number": 17,
       "latin": "Rex Taphua unus, Rex Opher unus,",
       "french": "Un Roi de Taphua, un Roi d'Opher,",
       "annotations": null,
       "source_pages": [
         "page_0238.json"
-      ]
-    },
-    {
-      "verse_number": "18.",
-      "latin": "Rex Aphec unus, Rex Saron unus,",
-      "french": "Un Roi d'Aphec, un Roi de Saron,",
-      "annotations": null,
-      "source_pages": [
-        "page_0238 2.json"
       ]
     },
     {

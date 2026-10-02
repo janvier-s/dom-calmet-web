@@ -1,17 +1,8 @@
 {
   "book": "Josué",
   "chapter": 20,
-  "chapter_summary": "Six villes de refuge assignées pour ceux qui avaient commis un meurtre involontaire. Qui sont ceux qui s'y peuvent retirer ; sous quelles conditions, & combien de temps ils y peuvent demeurer.",
+  "chapter_summary": "Six villes de refuge assignées pour ceux qui avaient commis un meurtre involontaire. Qui sont ceux qui s'y peuvent retirer; sous quelles conditions, et combien de temps ils y peuvent demeurer.",
   "verses": [
-    {
-      "verse_number": "1.",
-      "latin": "ET locutus eſt Dominus ad Joſue, dicens : Loquere filiis Iſraël, & dic eis :",
-      "french": "Après cela le Seigneur parla à Josué en ces termes : Parlez aux enfants d'Israël, dites-leur :",
-      "annotations": null,
-      "source_pages": [
-        "page_0350 2.json"
-      ]
-    },
     {
       "verse_number": 1,
       "latin": "ET locutus eſt Dominus ad Joſue, dicens : Loquere filiis Iſraël, & dic eis :",
@@ -22,30 +13,12 @@
       ]
     },
     {
-      "verse_number": "2.",
-      "latin": "Separate urbes fugitivorum, de quibus locutus ſum ad vos per manum Moyſi :",
-      "french": "Séparez les villes pour ceux qui cherchent asile, ainsi que je vous l'ai ordonné, par le ministère de Moïse ;",
-      "annotations": null,
-      "source_pages": [
-        "page_0350 2.json"
-      ]
-    },
-    {
       "verse_number": 2,
       "latin": "Separate urbes fugitivorum, de quibus locutus ſum ad vos per manum Moyſi :",
       "french": "Séparez les villes pour ceux qui cherchent asile, ainsi que je vous l'ai ordonné, par le ministère de Moïse ;",
       "annotations": null,
       "source_pages": [
         "page_0350.json"
-      ]
-    },
-    {
-      "verse_number": "3.",
-      "latin": "Ut confugiat ad eas quicumque animam percuſſerit neſcius : & poſſit evadere iram proximi : qui ultor eſt ſanguinis :",
-      "french": "Afin que quiconque aura tué un homme sans y penser, s'y retire pour y être en sûreté, & pour éviter la colère du plus proche parent du mort, qui est le vengeur de son sang.",
-      "annotations": null,
-      "source_pages": [
-        "page_0350 2.json"
       ]
     },
     {

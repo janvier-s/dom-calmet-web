@@ -5,20 +5,6 @@
       "sub": false,
       "latin_lemma": "SEPARATE URBES FUGITIVORUM.",
       "lemma": "Séparez les villes pour ceux qui cherchent un asile.",
-      "text": "L'Hébreu :  _Donnez-vous des villes de réception ; des villes où l'on reçoive ceux qui sont obligés de chercher un asile._ On s'est expliqué assez au long sur les asiles des Hébreux, & des autres peuples dans le Commentaire sur les Nombres, Chap. xxxv. 6."
-    },
-    {
-      "verse": 3,
-      "sub": false,
-      "latin_lemma": "UT POSSIT EVADERE IRAM PROXIMI, QUI ULTOR EST SANGUINIS.",
-      "lemma": "Pour éviter la colère du plus proche parent, qui est le vengeur du sang, ou qui est le vengeur de la mort.",
-      "text": "Les Septante :  _Celui qui est comme engagé par le droit de la parenté, à venger le sang de son proche._ L'Hébreu à la lettre :  _Le racheteur du sang._ C'est le même terme qui est employé ailleurs pour désigner celui des parents, qui a droit de racheter l'héritage engagé par son frère, ou son frère lui-même, lorsqu'il est tombé en servitude par la pauvreté.  Comme si parmi les Juifs on eût regardé dans le civil & dans l'idée du"
-    },
-    {
-      "verse": 1,
-      "sub": false,
-      "latin_lemma": "SEPARATE URBES FUGITIVORUM.",
-      "lemma": "Séparez les villes pour ceux qui cherchent un asile.",
       "text": "L'Hébreu : [1] _Donnez-vous des villes de réception ; des villes où l'on reçoive ceux qui sont obligés de chercher un asile._ On s'est expliqué assez au long sur les asiles des Hébreux, et des autres peuples dans le Commentaire sur les Nombres, Chap. xxxv. 6."
     },
     {
@@ -145,7 +131,6 @@
   ],
   "pages_used": [
     "page_0350",
-    "page_0350 2",
     "page_0351",
     "page_0352",
     "page_0353",
@@ -245,13 +230,6 @@
     }
   ],
   "decisions": [
-    {
-      "page": "page_0350 2",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
     {
       "page": "page_0350",
       "chosen": "raw",
