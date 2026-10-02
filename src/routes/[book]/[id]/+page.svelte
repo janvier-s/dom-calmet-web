@@ -107,7 +107,8 @@
 			 ($page.params.book === 'levitique' && chapter.chapter < 27) || 
 			 ($page.params.book === 'nombres' && chapter.chapter < 36) || 
 			 ($page.params.book === 'deuteronome' && chapter.chapter < 34) ||
-			 ($page.params.book === 'josue' && chapter.chapter < 24)}
+			 ($page.params.book === 'josue' && chapter.chapter < 24) ||
+			 ($page.params.book === 'juges' && chapter.chapter < 21)}
 			<a href="/{$page.params.book}/{chapter.chapter + 1}" class="text-stone-600 hover:text-stone-900 transition-colors">
 				Chapitre {chapter.chapter + 1} &rarr;
 			</a>

@@ -1,0 +1,367 @@
+{
+  "book": "Juges",
+  "chapter": 6,
+  "chapter_summary": "Servitude des Israélites sous les Madianites ; Gédéon est choisi de Dieu pour les délivrer ; il détruit l'autel de Baal. La Toison est chargée de rosée, pendant que l'aire demeure sèche ; et ensuite la Toison demeurée sèche, pendant que toute l'aire est mouillée.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "FEcerunt autem filii Iſraël malum in conſpectu Domini, qui tradidit illos in manu Madian, ſeptem annis.",
+      "french": "Les enfants d'Israël firent encore le mal aux yeux du Seigneur, et il les livra pendant sept ans entre les mains des Madianites. *",
+      "annotations": "* Depuis l'an du monde 2752. juſques en 2759.",
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et oppreſſi ſunt valdè ab eis. Fecerúntque ſibi antra & ſpeluncas in montibus, & munitiſſima ad repugnandum loca.",
+      "french": "Ces peuples les tinrent dans une si grande oppression, qu'ils furent obligés de se creuser des antres et des cavernes dans les montagnes, et de se fortifier dans les lieux les plus propres pour pouvoir résister aux Madianites.",
+      "annotations": null,
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Cùmque ſeviſſet Iſraël, aſcendebat Madian & Amalec, cæterique orientalium nationum,",
+      "french": "Après que les Israélites avaient semé, les Madianites, les Amalécites et les autres peuples de l'orient, venaient sur leurs terres,",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et apud eos figentes tentoria , ſucut erant in herbis cuncta vaſtabant, uſque ad introitum Gazæ: nihilque omninò ad vitam pertinens relinquebant in Iſraël, non oves, non boves, non aſinos.",
+      "french": "Y dressaient leurs tentes, ravageaient tous les grains en herbe, jusqu'à l'entrée de Gaza, et ne laissaient rien de vivant dans Israël, ni brebis, ni bœufs, ni ânes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Ipſi enim & univerſi greges eorum veniebant cum tabernaculis ſuis, & inſtar locuſtarum univerſa complebant, innumera multitudo hominum, & camelorum, quidquid tetigerant devaſtantes.",
+      "french": "Car ils venaient avec tous leurs troupeaux et avec leurs tentes ; et comme ils étaient une multitude innombrable d'hommes et de chameaux, semblables à une nuée de sauterelles, ils remplissaient tout le pays, et gâtaient tout ce qu'ils touchaient.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Humiliatúſque eſt Iſraël valdè in conſpectu Madian.",
+      "french": "Israël fut donc extrêmement humilié sous Madian.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et clamavit ad Dominum poſtulans auxilium contra Madianitas.",
+      "french": "Et ils crièrent au Seigneur, lui demandant du secours contre les Madianites.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Qui miſit ad eos virum Prophetam, & locutus eſt : Hæc dicit Dominus Deus Iſraël. Ego vos feci conſcendere de Ægypto, & eduxi vos de domo ſervitutis.",
+      "french": "Alors le Seigneur leur envoya un Prophète, qui leur dit: Voici ce que dit le Seigneur le Dieu d'Israël: Je vous ai fait sortir d'Égypte, et je vous ai tirés d'un séjour de servitude:",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et liberavi de manu Ægyptiorum, & omnium inimicorum, qui affligebant vos : ejecique eos ad introitum veſtrum, & tradidi vobis terram eorum:",
+      "french": "Je vous ai délivrés de la main des Égyptiens, et de tous les ennemis qui vous accablaient: J'ai chassé les Amorrhéens de cette terre à votre arrivée; je vous ai donné le pays qui était à eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et dixi : Ego Dominus Deus veſter. Ne timeatis deos Amorrhæorum, in quorum terra habitatis. Et noluiſtis audire vocem meam.",
+      "french": "Et je vous ai dit : Je suis le Seigneur votre Dieu. Ne craignez point les dieux des Amorrhéens, dans le pays desquels vous habitez ; cependant vous n'avez point voulu écouter ma voix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Venit autem Angelus Domini, & ſedit ſub quercu, quæ erat in Ephra, & pertinebat ad Joas patrem familiæ Ezri. Cúmque Gedeon filius ejus excuteret atque purgaret frumenta in torculari, ut fugeret Madian,",
+      "french": "Or l'Ange du Seigneur vint s'asseoir sous un chêne, qui était dans Ephra, et qui appartenait à Joas, chef de la famille d'Ezri. Et Gédéon son fils était occupé alors à battre du blé dans le pressoir, et à le vanner, pour se sauver ensuite avec son blé, devant les Madianites.",
+      "annotations": "L'an du Monde 2759. avant J.C. 1245.",
+      "source_pages": [
+        "page_0127.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "_Apparuit ei Angelus Domini, & ait : Dominus tecum, virorum fortissime._",
+      "french": "L'Ange du Seigneur apparut donc à Gédéon, et lui dit : Le Seigneur est avec vous, ô le plus fort d'entre les hommes.",
+      "annotations": "An.2759",
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "_Dixitque ei Gedeon : Obſecro, mi Domine, ſi Dominus nobiſcum eſt, cur apprehenderunt nos hæc omnia ? Ubi ſunt mirabilia ejus, quæ narraverunt patres noſtri : atque dixerunt : De Ægypto eduxit nos Dominus ? Nunc autem dereliquit nos Dominus, & tradidit in manum Madian._",
+      "french": "Gédéon lui répondit:D'où vient donc mon Seigneur, je vous prie, que tous ces maux sont tombés sur nous, si le Seigneur est avec nous? Où sont ces merveilles qu'il a faites, que nos pères nous ont rapportées en nous disant:Le Seigneur nous a tirés de l'Égypte ? Et maintenant le Seigneur nous a abandonnés, et nous a livrés entre les mains des Madianites.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "_Reſpexitque ad eum Dominus, & ait : Vade in hac fortitudine tua, & liberabis Iſraël de manu Madian : ſcito quod miſerim te._",
+      "french": "Alors le Seigneur le regardant, lui dit : Allez avec cette force dont vous êtes rempli, vous délivrerez Israël de la puissance des Madianites. Sachez que c'est moi qui vous ai envoyé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Qui respondens ait : Obſecro, mi Domine, in quo liberabo Iſraël ? Ecce familia mea infima eſt in Manaſſe, & ego minimus in domo patris mei.",
+      "french": "Gédéon lui répondit : Hélas, mon Seigneur, comment, je vous prie, délivrerais-je Israël ? Vous savez que ma famille est la dernière de Manassé, et que je suis le dernier dans la maison de mon père.",
+      "annotations": "An.2759.",
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Dixitque ei Dominus : Ego ero tecum : & percuties Madian quaſi unum virum.",
+      "french": "Le Seigneur lui dit : Je serai avec vous, et vous battrez les Madianites, comme s'ils n'étaient qu'un seul homme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et ille : Si inveni, inquit, gratiam coram te, da mihi ſignum quod tu ſis qui loqueris ad me.",
+      "french": "Sur quoi Gédéon repartit : Si j'ai trouvé grâce devant vous, faites-moi connaître par un signe, que c'est vous qui parlez à moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Nec recedas hinc, donec revertar ad te, portans ſacrificium, & offerens tibi. Qui reſpondit: Ego præſtolabor adventum tuum.",
+      "french": "Et ne vous retirez point d'ici, jusqu'à ce que je retourne vers vous, et que j'apporte un sacrifice pour vous l'offrir. L'Ange lui répondit : J'attendrai votre retour.",
+      "annotations": "An.2759.",
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Ingreſſus eſt itaque Gedeon & coxit hædum, & de farina modio azymos panes: carnéſque ponens in caniſtro, & jus carnium mittens in ollam, tulit omnia ſub quercu, & obtulit ei.",
+      "french": "Gédéon étant donc entré chez lui, fit cuire un chevreau, et fit d'une mesure de farine des pains sans levain ; et ayant mis la chair dans une corbeille, et le bouillon dans un pot, il apporta tout sous le chêne, et l'offrit à l'Ange du Seigneur,",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Cui dixit Angelus Domini : Tolle carnes & azimos panes, & pone ſupra petram illam, & jus de ſuper funde. Cumque feciffet ita,",
+      "french": "Qui lui dit : Prenez la chair et les pains sans levain, mettez-les sur cette pierre, et versez dessus le jus de la chair. Ce que Gédéon ayant fait,",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Extendit Angelus Domini ſummitatem virgæ, quam tenebat in manu, & tetigit carnes & panes azymos : aſcenditque ignis de petra, & carnes azymóſque panes conſumpſit : Angelus autem Domini evanuit ex oculis ejus.",
+      "french": "L'Ange du Seigneur étendit le bout du bâton qu'il tenait en sa main, et en toucha la chair et les pains sans levain ; et aussitôt il sortit un feu de la pierre, qui consuma la chair et les pains sans levain ; et en même temps l'Ange du Seigneur disparut de devant ses yeux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Vidénſque Gedeon quòd eſſet Angelus Domini, ait : Heu mi Domine Deus, quia vidi Angelum Domini facie ad faciem !",
+      "french": "Gédéon voyant que c'était l'Ange du Seigneur, dit : Hélas, Seigneur mon Dieu, j'ai vu l'Ange du Seigneur face à face !",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Dixítque ei Dominus: Pax tecum: ne timeas, non morieris.",
+      "french": "Le Seigneur lui dit: La paix soit avec vous. Ne craignez point: vous ne mourrez pas.",
+      "annotations": "An. 2759.",
+      "source_pages": [
+        "page_0133.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Ædificavit ergo ibi Gedeon altare Domino, vocavítque illud, Domini pax, uſque in præſentem diem. Cúmque adhuc eſſet in Ephra, quæ eſt familia Ezri,",
+      "french": "Gédéon éleva donc en ce même lieu un autel au Seigneur, et l'appela, la paix du Seigneur, nom qu'il garde encore aujourd'hui. Et lorsqu'il était encore à Ephra, qui appartient à la famille d'Ezri,",
+      "annotations": null,
+      "source_pages": [
+        "page_0133.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Nocte illa dixit Dominus ad eum, Tolle taurum patris tui, & alterum taurum annorum ſeptem, deſtrueſque aram Baal, quæ eſt patris tui : & nemus, quod circa aram eſt, ſuccide.",
+      "french": "Le Seigneur lui dit la nuit suivante : Prenez le taureau de votre père, et cet autre taureau de sept ans, et renversez l'autel de Baal qui est à votre père, et abattez le bois qui est autour de l'autel.",
+      "annotations": "An. 2759.",
+      "source_pages": [
+        "page_0134.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Edificatis altare Domino Deo tuo, in summitate petræ hujus, super quam antè sacrificium posuisti: tollésque taurum secundum, & offeres holocaustum super struem lignorum, quæ de nemore succideris.",
+      "french": "Dressez aussi un autel au Seigneur votre Dieu, sur le haut de cette pierre, sur laquelle vous avez offert votre sacrifice, et prenez le second taureau, que vous offrirez en holocauste sur un bûcher fait de branches d'arbres, que vous aurez coupées de ce bois.",
+      "annotations": "An.2759.",
+      "source_pages": [
+        "page_0135.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Assumptis ergo Gedeon decem viris de servis suis, fecit sicut præceperat ei Dominus. Timens autem domum patris sui, & homines illius civitatis, per diem noluit id facere, sed omnia nocte complevit.",
+      "french": "Gédéon ayant donc pris dix de ses serviteurs, fit ce que le Seigneur lui avait commandé. Il ne voulut pas néanmoins le faire de jour, parce qu'il craignait ceux de la maison de son père, et les hommes de cette ville-là ; mais il fit tout pendant la nuit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0135.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Cùmque surrexissent viri oppidi ejus manè, viderunt destructam aram Baal, lucúmque succisum, & taurum alterum impositum super altare, quod tunc ædificatum erat,",
+      "french": "Les habitants de cette ville étant donc venus au matin, virent l'autel de Baal détruit, le bois coupé ; et le second taureau mis sur l'autel, qui venait d'être élevé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0135.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Dixerúntque ad invicem : Quis hoc fecit? Cúmque perquirerent auctorem facti, dictum est : Gedeon filius Joas fecit hæc omnia.",
+      "french": "Alors ils se dirent les uns aux autres : Qui est-ce qui a fait cela? Et cherchant qui était l'auteur de cette action, on leur dit : c'est Gédéon fils de Joas, qui a fait toutes ces choses.",
+      "annotations": "An.2759.",
+      "source_pages": [
+        "page_0136.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et dixerunt ad Joas : produc filium tuum huc, ut moriatur : quia destruxit aram Baal, & succidit nemus.",
+      "french": "Ils dirent donc à Joas : Faites venir ici votre fils, afin qu'il meure; parce qu'il a détruit l'autel de Baal, et qu'il a coupé le bois qui était autour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0136.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Quibus ille respondit : Numquid ultores estis Baal, ut pugnetis pro eo? qui adversarius est ejus, moriatur antequam lux crastina veniat : si Deus est, vindicet se de eo, qui suffodit aram ejus.",
+      "french": "Joas leur répondit : Est-ce à vous à venger Baal, et à combattre pour lui ? Que celui qui est son ennemi meure avant que le jour de demain soit venu. Si Baal est Dieu, qu'il se venge de celui qui a détruit son autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0136.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Ex illo die vocatus eſt Gedeon, Jerobaal, eò quòd dixiſſet Joas : Ulciſcatur ſe de eo Baal, qui ſuffodit aram ejus.",
+      "french": "Depuis ce jour Gédéon fut appelé Jerobaal, à cause de cette parole que Joas avait dite : Que Baal se venge de celui qui a renversé son autel.",
+      "annotations": "An. 2759.",
+      "source_pages": [
+        "page_0138.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "_Igitur omnis Madian, & Amalec, & orientales populi congregati ſunt ſimul: & tranſeuntes Jordanem, caſtrametati ſunt in valle Jezraël._",
+      "french": "33. Cependant tous les Madianites, les Amalécites, et les peuples d'orient se joignirent ensemble, et ayant passé le Jourdain, ils vinrent se camper dans la vallée de Jézraël.",
+      "annotations": "An. 2759.",
+      "source_pages": [
+        "page_0139.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "_Spiritus autem Domini induit Gedeon, qui clangens buccina convocavit domum Abiezer, ut ſequeretur ſe._",
+      "french": "34. En même temps l'Esprit du Seigneur remplit Gédéon, qui sonnant de la trompette, assembla toute la maison d'Abiézer, afin qu'elle le suivît.",
+      "annotations": null,
+      "source_pages": [
+        "page_0139.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Misitque nuntios in univerſum Manaſſen, qui & ipſe ſecutus eſt eum: & alios nuntios in Aſer & Zabulon & Nephthali, qui occurrerunt ei.",
+      "french": "Il envoya aussi des courriers dans toute la tribu de Manassé, qui le suivit aussi : et il en envoya d'autres dans la tribu d'Aser, de Zabulon, et de Nephthali; et ceux de ces tribus vinrent au-devant de lui.",
+      "annotations": "An. 2759.",
+      "source_pages": [
+        "page_0140.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Dixitque Gedeon ad Deum: Si ſalvum facis per manum meam Iſraël, ſicut locutus es,",
+      "french": "Alors Gédéon dit à Dieu: Si vous voulez vous servir de ma main pour sauver Israël, comme vous me l'avez dit,",
+      "annotations": null,
+      "source_pages": [
+        "page_0140.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Ponam hoc vellus lanæ in area: ſi ros in ſolo vellere fuerit: & in omni terra ſiccitas, ſciam quòd per manum meam, ſicut locutus es, liberabis Iſraël.",
+      "french": "Je mettrai dans l'aire cette toison; et si toute la terre demeurant sèche, la rosée ne tombe que sur la toison, je reconnaîtrai par là que vous vous servirez de ma main, selon que vous l'avez promis, pour délivrer Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0140.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Factúmque eſt ita, Et de nocte conſurgens, expreſſo vellere, concham rore implevit.",
+      "french": "Ce que Gédéon avait proposé, arriva: Car s'étant levé de grand matin, il pressa la toison, et remplit une tasse de la rosée qui en sortit.",
+      "annotations": "An.2759.",
+      "source_pages": [
+        "page_0141.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Dixítque rurſus ad Deum : Ne iraſcatur furor tuus contra me, ſi adhuc ſemel tentavero ſignum quærens in vellere. Oro ut ſolum vellus ſiccum ſit, & omnis terra rore madens.",
+      "french": "Gédéon dit encore à Dieu: Que votre colère ne s'allume pas contre moi, si je fais encore une fois une épreuve, en demandant un second signe dans la toison. Je vous prie, Seigneur, que toute la terre soit trempée de la rosée, et que la toison seule demeure sèche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0141.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Fecítque Deus nocte illa ut poſtulaverat : & fuit ſiccitas in ſolo vellere, & ros in omni terra.",
+      "french": "Le Seigneur fit cette nuit-là même ce que Gédéon avait demandé. La rosée tomba sur toute la terre, et la toison seule demeura sèche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0141.json"
+      ]
+    }
+  ]
+}
