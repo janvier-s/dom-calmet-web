@@ -1,0 +1,475 @@
+{
+  "book": "1 Samuel",
+  "chapter": 14,
+  "chapter_summary": "Terreur panique répanduë dans le camp des Philistins. Saül les poursuit jusqu'au soir. Jonathas en danger de périr, pour avoir violé, sans le savoir, les ordres de son pere : il est garanti par le peuple. Victoires de Saül contre différens peuples.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "ET accidit quadam die ut diceret Jonathas filius Saül ad adoleſcentem armigerum ſuum: Veni, & tranſeamus ad ſtationem Philiſthinorum, quæ eſt trans locum illum. Patri autem ſuo hoc ipſum non indicavit.",
+      "french": "UN jour il arriva que Jonathas fils de Saül dit au jeune homme qui était son écuyer : Venez avec moi, et passons jusqu'au camp des Philistins, qui est au-delà de ce lieu que vous voyez; et il n'en dit rien à son pere.",
+      "annotations": null,
+      "source_pages": [
+        "page_0251.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Porrò Saül morabatur in extrema parte Gabaa, ſub malogranato, quæ erat in Magron, & erat populus cum eo quaſi ſexcentorum virorum.",
+      "french": "Saül cependant était logé à l'extrémité de Gabaa, sous un grenadier qui était dans Magron; et il avait environ six cent hommes avec lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0251.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et Achias filius Achitob fratris Ichabod filii Phinées, qui ortus fuerat ex Heli ſacerdote Domini in Silo, portabat ephod. Sed & populus ignorabat quò iſſet Jonathas.",
+      "french": "Achias fils d'Achitob frere d'Ichabod, fils de Phinées, fils d'Héli Grand-prêtre du Seigneur à Silo, portait l'éphod. Et le peuple ne savait point non plus où était allé Jonathas.",
+      "annotations": null,
+      "source_pages": [
+        "page_0252.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Erant autem inter aſcenſus, per quos nitebatur Jonathas tranſire ad ſtationem Philiſthinorum, eminentes petræ ex utraque parte, & quaſi in modum dentium ſcopuli hinc & inde prærupti, nomen uni Boſes, & nomen alteri Sene.",
+      "french": "Le lieu par où Jonathas tâchait de passer à la garde des Philistins, était bordé de côté et d'autre par deux rochers forts hauts et fort escarpez, qui s'élevaient en pointe comme des dents. L'un s'appellait Bosés, et l'autre Sené.",
+      "annotations": null,
+      "source_pages": [
+        "page_0252.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Unus ſcopulus prominens ad Aquilonem ex adverſo Machmas, & alter ad meridiem contra Gabaa.",
+      "french": "L'un de ces rochers était situé du côté du Septentrion, vis-à-vis de Machmas, et l'autre du côté du midi, vis-à-vis de Gabaa.",
+      "annotations": null,
+      "source_pages": [
+        "page_0252.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dixit autem Jonathas ad adoleſcentem armigerum ſuum: Veni, tranſeamus ad ſtationem incircumciſorum horum, ſi fortè faciat Dominus pro nobis: quia non eſt Domino difficile ſalvare, vel in multis, vel in paucis.",
+      "french": "Jonathas dit donc au jeune homme son écuyer : Venez, passons jusqu'au camp de ces incirconcis; pour voir si le Seigneur est pour nous; car il lui est également aisé de donner la victoire avec un grand, ou avec un petit nombre.",
+      "annotations": "An. du Monde 2911.",
+      "source_pages": [
+        "page_0253.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Dixitque ei armiger ſuus: Fac omnia quæ placent animo tuo: perge quò cœpis, & ero tecum ubicumque volueris.",
+      "french": "Son écuyer lui répondit : Faites tout ce qu'il vous plaira; allez où vous voudrez, et je vous suivrai partout.",
+      "annotations": null,
+      "source_pages": [
+        "page_0253.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et ait Jonathas: Ecce nos tranſimus ad viros iſtos. Cùmque apparuerimus eis,",
+      "french": "Jonathas lui dit: Nous allons vers ces gens-là. Lorsque donc ils nous auront aperçus,",
+      "annotations": null,
+      "source_pages": [
+        "page_0253.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Si taliter locuti fuerint ad nos, manete donec veniamus ad vos: ſtemus in loco noſtro, nec aſcendamus ad eos.",
+      "french": "S'ils nous disent : Demeurez là jusqu'à ce que nous allions à vous; demeurons à notre place, et n'allons point à eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0253.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Si autem dixerint: Aſcendite ad nos, aſcendamus, quia tradidit eos Dominus in manibus noſtris: hoc erit nobis ſignum.",
+      "french": "Mais s'ils nous disent : Montez ici, montons-y: car ce sera la marque que le Seigneur les aura livrés entre nos mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0253.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Apparuit igitur uterque ſtationi Philiſthinorum, dixerúntque Philiſthiim: En Hebræi egrediuntur de cavernis, in quibus abſconditi fuerant.",
+      "french": "Lorsque donc la garde des Philistins les eut aperçus tous deux, les Philistins dirent : Voilà les Hébreux qui sortent des cavernes où ils s'étaient cachés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0253.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et locuti ſunt viri de ſtatione ad Jonathan, & ad armigerum ejus, dixeruntque : Aſcendite ad nos, & oſtendemus vobis rem. Et ait Jonathas ad armigerum ſuum : Aſcendamus, ſequere me : tradidit enim Dominus eos in manus Iſraël.",
+      "french": "Et les plus avancez de leur camp s'adressant à Jonathas et à son écuyer, leur dirent : Montez ici, et nous vous ferons voir quelque chose. Jonathas dit alors à son écuyer : Montons, suivez-moi ; car le Seigneur les a livrez entre les mains d'Israël.",
+      "annotations": "An. du Monde 2911.",
+      "source_pages": [
+        "page_0254.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Aſcendit autem Jonathas manibus & pedibus reptans, & armiger ejus poſt eum. Itaque alii cadebant ante Jonathan, alios armiger ejus interficiebat ſequens eum.",
+      "french": "Ainsi Jonathas monta grimpant avec les mains et les pieds, et son écuyer derriere lui. Une partie des ennemis tomba donc sous la main de Jonathas, et son écuyer qui le suivait tuait les autres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0254.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et facta eſt plaga prima, quâ percuſſit Jonathas & armiger ejus, quaſi viginti virorum, in media parte jugeri, quam par boum in die arare conſuevit.",
+      "french": "Ce fut-là la premiére défaite des Philiftins, où Jonathas et son écuyer tuérent d'abord environ vingt hommes, dans la moitié d'autant de terre, qu'une paire de bœufs en peut labourer en un jour.",
+      "annotations": "An. du Monde 2911.",
+      "source_pages": [
+        "page_0255.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et factum eſt miraculum in caſtris, per agros: ſed & omnis populus ſtationis eorum, qui ierant ad pradandum, obſtupuit, & conturbata eſt terra: & accidit quaſi miraculum à Deo.",
+      "french": "Et on vit une chose surprenante dans le camp, et dans toute la campagne: ceux même de leur armée qui étaient sortis pour piller, furent frappez d'étonnement, tout le canton fut dans le trouble, et il arriva comme un miracle de la part de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0255.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et reſpexerunt ſpeculatores Saül, qui erant in Gabaa Benjamin, & ecce multitudo proſtrata, & huc illucque diffugiens.",
+      "french": "Les sentinelles de Saül, qui étaient à Gabaa de Benjamin, jettant les yeux de ce côté-là, virent un grand nombre de gens étendus sur la place, et d’autres qui fuyaient en désordre çà et là.",
+      "annotations": "An. du Monde 2914",
+      "source_pages": [
+        "page_0257.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et ait Saül populo, qui erat cum eo : Requirite, & videte quis abierit ex nobis. Cumque requiſiſſent, repertum eſt non adeſſe Jonatham & armigerum ejus.",
+      "french": "Alors Saül dit à ceux qui étaient avec lui : Cherchez, et voyez qui est sorti du camp. Et quand on eut fait cette recherche, on trouva que Jonathas et son écuyer n’y étaient pas.",
+      "annotations": null,
+      "source_pages": [
+        "page_0257.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et ait Saül ad Achiam : Applica Arcam Dei. (-Erat enim ibi Arca Dei illa die cum filiis Iſraël.)",
+      "french": "Saül dit donc à Achias : Consultez l'Arche de Dieu : car l'Arche de Dieu était là alors avec les enfans d'Israël.",
+      "annotations": "An. du Monde 2911.",
+      "source_pages": [
+        "page_0258.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Cúmque loqueretur Saül ad Sacerdotem, tumultus magnus exortus eſt in caſtris Philiſthinorum : creſcebátque paulatim, & clariùs reſonabat. Et ait Saül ad Sacerdotem : Contrahe manum tuam.",
+      "french": "Pendant que Saül parlait au Prêtre, on entendit un bruit confus comme d'un tumulte; qui venant du camp des Philistins, s'augmentait peu à peu, et se faisait entendre plus distinctement. Alors Saül dit au Prêtre : Abbaissez vos mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0258.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Conclamavit ergo Saül, & omnis populus qui erat cum eo, & venerunt uſque ad locum certaminis : & ecce verſus fuerat gladius uniuſcujuſque ad proximum ſuum, & cædes magna nimis.",
+      "french": "Et aussi-tôt il jetta un grand cri, qui fut accompagné de celui de tout le peuple; et étant venus au lieu du combat, ils trouvérent que les Philistins s'étaient percez l'un l'autre de leurs épées, et qu'il s'en était fait un grand carnage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0258.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Sed & Hebræi, qui fuerant cum Philisthiim heri & nudiuſtertius, aſcenderantque cum eis in caftris, reverſi ſunt ut eſſent cum Iſraël, qui erant cum Saul & Jonatha.",
+      "french": "Les Hebreux aussi qui avaient été avec les Philistins il n'y avait que deux ou trois jours, et qui étaient allez avec eux dans leur camp, vinrent se joindre aux Israëlites, qui étaient avec Saül et Jonathas.",
+      "annotations": "An. du Monde 2911.",
+      "source_pages": [
+        "page_0259.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Omnes quoque Iſraëlitæ qui ſe abſconderant in monte Ephraïm, audientes quod fugiſſent Philiſthæi, ſociaverunt ſe cum ſuis in prœlio. Et erant cum Saul, quaſi decem millia virorum.",
+      "french": "Et tous les Israëlites qui étaient cachez dans la montagne d'Ephraïm, ayant appris que les Philistins fuyaient, se reünirent avec leurs gens pour les combattre, et Saül avait déja environ dix mille hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0259.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et ſalvavit Dominus in die illa Iſraël ; pugna autem pervenit uſque ad Bethaven.",
+      "french": "En ce jour-là le Seigneur sauva Israël ; on poursuivit les ennemis jusqu'à Bethaven.",
+      "annotations": "An. du Monde 2911.",
+      "source_pages": [
+        "page_0260.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et viri Iſraël ſociati ſunt ſibi in die illa : adjuravit autem Saül populum, dicens : Maledictus vir qui comederit panem uſque ad veſperam, donec ulciſcar de inimicis meis. Et non manducavit univerſus populus panem.",
+      "french": "Et les Israëlites se réunirent. Saül fit alors devant le peuple cette protestation avec serment : Maudit soit celui qui mangera avant le soir, jusqu'à ce que je me sais vengé de mes ennemis. C'est pourquoi tout le peuple s'abstint de manger.",
+      "annotations": null,
+      "source_pages": [
+        "page_0260.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Omnique terræ vulgus venit in saltum, in quo erat mel super faciem agri.",
+      "french": "En même tems ils vinrent dans un bois, où la terre était couverte de miel.",
+      "annotations": "An. du Monde 2911.",
+      "source_pages": [
+        "page_0261.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Ingressus est itaque populus saltum, & apparuit fluens mel, nullusque applicuit manum ad os suum, timebat enim populus juramentum.",
+      "french": "Le peuple y étant entré, vit paraître ce miel qui découlait, et personne n'osa en prendre, ni le porter à la bouche, parce qu'ils craignaient tous le serment du Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0261.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Porrò Jonathas non audierat cùm adjuraret pater ejus populum : extenditque ſummitatem virgæ, quam habebat in manu, & intinxit in favum mellis : & convertit manum ſuam ad os ſuum, & illuminati ſunt oculi ejus.",
+      "french": "Jonathas n'avait point entendu cette protestation que son pere avait faite avec ferment devant le peuple: c'est pourquoi étendant le bâton qu'il avait à la main, il en trempa le bout dans un rayon de miel, et en ayant ensuite porté à sa bouche avec la main, ses yeux reprirent une nouvelle vigueur.",
+      "annotations": "An. du Monde 2911.",
+      "source_pages": [
+        "page_0262.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Reſpondénſque unus de populo, ait : Jurejurando conſtrinxit pater tuus populum dicens : Maledictus vir, qui comederit panem hodie. Defecerat autem populus.",
+      "french": "Quelqu'un du peuple lui dit: Vôtre pere a engagé tout le peuple par serment, en disant : Maudit soit celui qui mangera aujourd'hui. Or ils étaient tous extrémement abbatus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0262.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Dixitque Jonathas : Turbavit pater meus terram : vidiſtis ipſi quia illuminati ſunt oculi mei, eò quòd guſtaverim paululum de melle iſto :",
+      "french": "Jonathas répondit : Mon pere a troublé tout le monde; vous avez vû vous-mêmes que mes yeux ont repris une nouvelle vigueur, parce que j'ai goûté un peu de ce miel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0262.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Quantò magis ſi comediſſet populus de prada inimicorum ſuorum, quam reperit? Nonne major plaga facta fuiſſet in Philiſthiim?",
+      "french": "Combien donc le peuple se serait-il plus fortifié, s’il eût mangé de ce qu’il a rencontré dans le pillage des ennemis? La défaite des Philistins n’en aurait-elle pas été plus grande?",
+      "annotations": "An. du Monde 2911.",
+      "source_pages": [
+        "page_0263.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Percuſſerunt ergo in die illa Philiſthæos à Machmis uſque ad Aialon. Defatigatus eſt autem populus nimis.",
+      "french": "Les Hébreux battirent les Philistins en ce jour-là, et les poursuivirent depuis Machmas jusqu’à Aïalon. Et le peuple étant extrèmement las, et épuisé,",
+      "annotations": null,
+      "source_pages": [
+        "page_0263.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et verſus ad pradam, tulit oves & boves, & vitulos, & mactaverunt in terra: comeditque populus cum ſanguine.",
+      "french": "Se jetta sur le butin, prit des brebis, des bœufs et des veaux, et les tuërent sur la place; et le peuple mangea de la chair sans en bien épurer le sang.",
+      "annotations": null,
+      "source_pages": [
+        "page_0263.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Nuntiaverunt autem Saüli dicentes, quòd populus peccaſſet Domino, comedens cum ſanguine. Qui ait: prævaricati eſtis: volvite ad me jam nunc ſaxum grande.",
+      "french": "On en fut averti, et on lui dit: Que le peuple avait peché contre le Seigneur, en mangeant de la viande avec le sang. Saül leur dit: Vous avez violé la Loi; qu’on me roule ici une grande pierre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0263.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et dixit Saül: Diſpergimini in vulgus, & dicite eis, ut adducat ad me unuſquiſque bovem ſuum, & arietem, & occidite ſuper iſtud, & veſcimini, & non peccabitis Domino comedentes cum ſanguine. Adduxit itaque omnis populus unuſquiſque bovem in manu ſua uſque ad noctem: & occiderunt ibi.",
+      "french": "Et il ajoûta : Allez par tout le peuple, et dites-leur : Que chacun améne ici son bœuf et son bélier : égorgez-les sur cette pierre, et aprés cela vous en mangerez, et vous ne pecherez pas contre le Seigneur, en mangeant de la chair avec le sang. Chacun vint donc amener là son bœuf jusqu'à la nuit, et ils les tuërent sur la pierre.",
+      "annotations": "An. du Monde 2911.",
+      "source_pages": [
+        "page_0264.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Ædificavit autem Saül altare Domino; tuncque primùm cœpit ædificare altare Domino.",
+      "french": "Alors Saül bâtit un autel au Seigneur; et ce fut-là la premiere fois qu'il lui éleva un autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0264.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et dixit Saül: Irruamus ſuper Philiſthæos nocte, & vaſtemus eos uſque dum illuceſcat manè nec relinquamus ex eis virum. Dixitque populus: Omne quod bonum videtur in oculis tuis, fac. Et ait Sacerdos: Accedamus huc ad Deum.",
+      "french": "Saül dit ensuite : Jettons-nous cette nuit sur les Philistins, et taillons-les en piéces, de telle sorte qu'il n'en reste pas un seul au point du jour. Le peuple lui répondit: Faites tout ce qu'il vous plaira. Alors le Prêtre lui dit: Allons ici consulter Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0264.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Et conſuluit Saül Dominum: Num perſequar Philiſthiim? Si trades eos in manus Iſraël? Et non reſpondit eis in die illa.",
+      "french": "Saül consulta donc le Seigneur, et lui dit : Poursuivrai-je les Philistins, et les livrerez vous entre les mains d'Israël ? A quoi le Seigneur ne lui répondit rien cette fois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0264.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Dixítque Saül: Applicate huc univerſos angulos populi: & ſcitote, & videte, per quem acciderit peccatum hoc hodie.",
+      "french": "Alors Saül dit : Faites venir ici toute la multitude du peuple ; qu'on cherche partout, et qu'on sache qui est celui, par qui le péché est venu aujourd'hui parmi nous.",
+      "annotations": "An du Monde 2911.",
+      "source_pages": [
+        "page_0265.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Vivit Dominus Salvator Iſraël, quia ſi per Jonathan filium meum factum eſt, abſque retractatione morietur. Ad quod nullus contradixit ei de omni populo.",
+      "french": "Je jure par le Seigneur, qui est le Sauveur d'Israël, que si Jonathas mon fils se trouve coupable de ce péché, il mourra sans rémission. Et nul du peuple ne le contredit lorsqu'il parla de la sorte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0265.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Et ait ad univerſum Iſraël: Separamini vos in partem unam, & ego cum Jonatha filio meo ero in parte altera. Reſpondítque populus ad Saül: Quod bonum videtur in oculis tuis, fac.",
+      "french": "Saül dit donc à tout Israël: Mettez-vous tous d'un côté; et je me tiendrai moi et mon fils Jonathas de l'autre. Le peuple répondit à Saül: Faites tout ce qu'il vous plaira.",
+      "annotations": null,
+      "source_pages": [
+        "page_0265.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Et dixit Saül ad Dominum Deum Iſraël : Domine Deus Iſraël da judicium : quid eſt quòd non reſponderis ſervo tuo hodie? Si in me, aut in Jonatha filio meo, eſt iniquitas hæc, da oſtenſionem : aut ſi hæc iniquitas eſt in populo tuo, da ſanctitatem. Et deprehenſus eſt Jonathas & Saül : populus autem exivit.",
+      "french": "Et Saül dit au Seigneur le Dieu d'Israël: Seigneur Dieu d'Israël, prononcez le jugement; faites-nous connaître d'où vient que vous n'avez point répondu aujourd'hui à vôtre serviteur: Si cette iniquité est en moi, ou en mon fils Jonathas, découvrez-le-nous; ou si elle est dans vôtre peuple, sanctifiez-le. Le sort tomba sur Jonathas et sur Saül, et le peuple fut hors de péril.",
+      "annotations": "An. du Monde 2911.",
+      "source_pages": [
+        "page_0266.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Et ait Saül: Mittite ſortem inter me, & inter Jonatham filium meum. Et captus eſt Jonathas.",
+      "french": "Saül dit alors : Jettez le sort entre moi et Jonathas mon fils ; et le sort tomba sur Jonathas.",
+      "annotations": null,
+      "source_pages": [
+        "page_0266.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Dixit autem Saül ad Jonatham : Indica mihi quid feceris. Et indicavit ei Jonathas, & ait : Guſtans guſtavi in ſummitate virgæ, quæ erat in manu meâ, paululùm mellis, & ecce morior.",
+      "french": "Saül dit donc à Jonathas : Découvrez-moi ce que vous avez fait. Jonathas avoüa tout, et lui dit : J'ai pris un peu de miel au bout du bâton que je tenais à la main, et j'en ai goûté: et je meurs pour cela.",
+      "annotations": null,
+      "source_pages": [
+        "page_0266.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Et ait Saül: Hæc faciat mihi Deus, & hæc addat, quia morte morieris, Jonatha.",
+      "french": "Saül lui dit : Que Dieu me traite avec toute sa sévérité, si vous ne mourrez aujourd'hui, Jonathas.",
+      "annotations": null,
+      "source_pages": [
+        "page_0266.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Dixitque populus ad Saül : Ergóne Jonathas morietur, qui fecit ſalutem hanc magnam in Iſraël? Hoc nefas eſt : vivit Dominus, ſi ceciderit capillus de capite ejus in terram, quia cum Deo operatus eſt hodie. Liberavit ergo populus Jonatham, ut non moreretur.",
+      "french": "Le peuple dit à Saül: Quoi donc, Jonathas mourra-t'il, lui qui vient de sauver Israël d'une maniere si pleine de merveilles? Cela ne se peut. Nous jurons par le Seigneur, qu'il ne tombera pas sur la terre un seul poil de sa tête: car il a agi aujourd'hui trop visiblement avec Dieu. Le peuple delivra donc Jonathas, et lui sauva la vie.",
+      "annotations": "An. du Monde 2911.",
+      "source_pages": [
+        "page_0267.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Receſſitque Saül, nec perſecutus eſt Philiſthiim : porrò Philiſthiim abierunt in loca ſua.",
+      "french": "Aprés cela Saül se retira, sans poursuivre davantage les Philistins; et les Philistins s'en retournérent chez eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0267.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Et Saül, confirmato regno ſuper Iſraël, pugnabat per circuitum adverſum omnes inimicos ejus, contra Moab, & filios Ammon, & Edom, & Reges Soba, & Philiſthæos & quocumque ſe verterat, ſuperabat.",
+      "french": "Saül ayant ainsi affermi son regne sur Israël, combattait de tous côtez contre tous ses ennemis; contre Moab, contre les enfans d'Ammon, contre Edom, contre les Rois de Soba, et contre les Philistins. Et de quelque côté qu'il tournât ses armes, il en revenait victorieux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0267.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Congregatóque exercitu, percuſsit Amalec, & eruit Iſraël de manu vaſtatorum ejus.",
+      "french": "Ayant assemblé son armée, il défit les Amalécites, et délivra Israël de la main de ceux qui pillaient toutes ses terres.",
+      "annotations": "An. du Monde 2930.",
+      "source_pages": [
+        "page_0269.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Fuerunt autem filii Saül, Jonathas, & Jeſſui, & Melchiſua: & nomina duarum filiarum ejus, nomen primogenitæ Merob, & nomen minoris Michol.",
+      "french": "Or Saül eut trois fils, Jonathas, Jessui, et Melchisua ; et deux filles, dont l'aînée s'appelait Mérob, et la plus jeune Michol.",
+      "annotations": null,
+      "source_pages": [
+        "page_0269.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Et nomen uxoris Saül, Achinoam filia Achimaas, & nomen principis militiæ ejus Abner, filius Ner, patruelis Saül.",
+      "french": "La femme de Saül se nommait Achinoam, et était fille d'Achimaas. Le Général de son armée était Abner fils de Ner, cousin germain de Saül.",
+      "annotations": null,
+      "source_pages": [
+        "page_0269.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Porrò Cis fuit pater Saül, & Ner pater Abner, filius Abiel.",
+      "french": "Car Cis père de Saül, et Ner père d'Abner étaient tous deux fils d'Abiel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0269.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Erat autem bellum potens adverſum Philiſthæos omnibus diebus Saül. Nam quemcumque viderat Saül virum fortem, & aptum ad prælium, ſociabat eum ſibi.",
+      "french": "Pendant tout le règne de Saül, il y eut une forte guerre contre les Philistins. Et aussitôt que Saül avait reconnu qu'un homme était vaillant et propre à la guerre, il le prenait auprès de lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0269.json"
+      ]
+    }
+  ]
+}
