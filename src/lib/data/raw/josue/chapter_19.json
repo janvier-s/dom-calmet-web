@@ -1,12 +1,12 @@
 {
   "book": "Josué",
   "chapter": 19,
-  "chapter_summary": "Partage des Tribus de Siméon, de Zabulon, d'Issachar, d'Aser, de Nephtali, de Dan. Les enfans de Dan prennent Lésem. Josué reçoit pour sa part Thamnath-Saraa.",
+  "chapter_summary": "Partage des Tribus de Siméon, de Zabulon, d'Issachar, d'Aser, de Nephtali, de Dan. Les enfants de Dan prennent Lésem. Josué reçoit pour sa part Thamnath-Saraa.",
   "verses": [
     {
       "verse_number": 1,
       "latin": "ET egreſſa eſt ſors ſecunda filiorum Simeon per cognationes ſuas ; ſuitque hæreditas",
-      "french": "LE second partage échû par sort, fut celui des enfans de Siméon, distinguez selon leurs familles ;",
+      "french": "LE second partage échu par sort, fut celui des enfants de Siméon, distingués selon leurs familles ;",
       "annotations": null,
       "source_pages": [
         "page_0327.json"
@@ -15,7 +15,7 @@
     {
       "verse_number": 2,
       "latin": "Eorum in medio poſſeſſionis filiorum Judæ : Berſabee & Sabee & Molada,",
-      "french": "Leur héritage se prit au milieu de celui des enfans de Juda, et leurs villes furent Bersabée, Sabée, Molada,",
+      "french": "Leur héritage se prit au milieu de celui des enfants de Juda, et leurs villes furent Bersabée, Sabée, Molada,",
       "annotations": "An. 2561.",
       "source_pages": [
         "page_0328.json"
@@ -60,7 +60,7 @@
     {
       "verse_number": 7,
       "latin": "Ain & Remmon & Athar & Afan : civitates quatuor, & villæ earum :",
-      "french": "Ain, Remmon, Athar, Afan, quatre villes avec leurs villages ;",
+      "french": "Ain, Remmon, Athar, Asan, quatre villes avec leurs villages ;",
       "annotations": null,
       "source_pages": [
         "page_0330.json"
@@ -69,7 +69,7 @@
     {
       "verse_number": 8,
       "latin": "Omnes viculi per circuitum urbium iſtarum uſque ad Baalath-Beer-Ramath contra auſtralem plagam. Hæc eſt hæreditas filiorum Simeon juxta cognationes ſuas.",
-      "french": "Et tous les villages des environs de ces villes jusqu'à Baalath, Béer, Ramath du côté du midi. C'est là le partage des enfans de Siméon, distinguez selon leurs familles.",
+      "french": "Et tous les villages des environs de ces villes jusqu'à Baalath, Béer, Ramath du côté du midi. C'est là le partage des enfants de Siméon, distingués selon leurs familles.",
       "annotations": null,
       "source_pages": [
         "page_0330.json"
@@ -78,7 +78,7 @@
     {
       "verse_number": 9,
       "latin": "In poſſeſſione & funiculo filiorum Judæ : quia major erat, & idcirco filii Simeon poſſederunt in medio hæreditatis eorum.",
-      "french": "Qui fut pris sur l'héritage et sur le partage de Juda, parce qu'il était trop grand. C'est pourquoi les enfans de Siméon prirent leur partage au milieu des terres de Juda.",
+      "french": "Qui fut pris sur l'héritage et sur le partage de Juda, parce qu'il était trop grand. C'est pourquoi les enfants de Siméon prirent leur partage au milieu des terres de Juda.",
       "annotations": null,
       "source_pages": [
         "page_0330.json"
@@ -87,7 +87,7 @@
     {
       "verse_number": 10,
       "latin": "Ceciditque ſors tertia filiorum Zabulon per cognationes ſuas : & fallus eſt terminus poſſeſſionis eorum uſque Sarid.",
-      "french": "Le troisiéme partage échû par sort, fut celui des enfans de Zabulon, distinguez selon leurs familles. Leur frontiere s'étendait jusqu'à Sarid,",
+      "french": "Le troisième partage échu par sort, fut celui des enfants de Zabulon, distingués selon leurs familles. Leur frontière s'étendait jusqu'à Sarid,",
       "annotations": null,
       "source_pages": [
         "page_0330.json"
@@ -105,7 +105,7 @@
     {
       "verse_number": 12,
       "latin": "Et reuertitur de Sared contra orientem in fines Ceseleth-thabor, & egreditur ad Dabereth, ascenditque contra Japhie.",
-      "french": "Elle retournait de Sared vers l'orient, aux confins de Ceseleth-thabor, s'avanççait vers Dabereth, et montait vers Japhié.",
+      "french": "Elle retournait de Sared vers l'orient, aux confins de Ceseleth-thabor, s'avançait vers Dabereth, et montait vers Japhié.",
       "annotations": "An. 2561.",
       "source_pages": [
         "page_0331.json"
@@ -132,7 +132,7 @@
     {
       "verse_number": 15,
       "latin": "Et Catheth & Naalol & Semeron, & Jedala & Bethlehem : civitates duodecim, & villæ earum.",
-      "french": "A Catheth, Naalol, Séméron, Jedaia, Bethléhem, douze villes avec leurs villages.",
+      "french": "À Catheth, Naalol, Séméron, Jedaia, Bethléhem, douze villes avec leurs villages.",
       "annotations": "An. 2561.",
       "source_pages": [
         "page_0332.json"
@@ -141,7 +141,7 @@
     {
       "verse_number": 16,
       "latin": "Hæc eſt hæreditas tribûs filiorum Zabulon per cognationes ſuas : urbes & vicali earum.",
-      "french": "C’est là l’héritage de la tribu des enfans de Zabulon, distinguez selon leurs familles, avec leurs villes et leurs villages.",
+      "french": "C’est là l’héritage de la tribu des enfants de Zabulon, distingués selon leurs familles, avec leurs villes et leurs villages.",
       "annotations": null,
       "source_pages": [
         "page_0332.json"
@@ -150,7 +150,7 @@
     {
       "verse_number": 17,
       "latin": "Iſſachar egreſſa eſt ſors quarta per cognationes ſuas.",
-      "french": "Le quatriéme partage échût par sort, fut celui de la tribu d’Issachar, distinguée par ses familles.",
+      "french": "Le quatrième partage échut par sort, fut celui de la tribu d’Issachar, distinguée par ses familles.",
       "annotations": null,
       "source_pages": [
         "page_0332.json"
@@ -195,7 +195,7 @@
     {
       "verse_number": 22,
       "latin": "Et pervenit terminus ejus ufque Thabor & Schefima & Bethfames : erúntque exitus ejus Jordanis : civitates fedecim, & villæ earum.",
-      "french": "Et fa frontiere venait jusqu'à Thabor, Séhefima et Bethfamés, et se terminait au Jourdain, et tout son pays comprenait seize villes avec leurs villages.",
+      "french": "Et sa frontière venait jusqu'à Thabor, Séhefima et Bethsamés, et se terminait au Jourdain, et tout son pays comprenait seize villes avec leurs villages.",
       "annotations": null,
       "source_pages": [
         "page_0333.json"
@@ -204,7 +204,7 @@
     {
       "verse_number": 23,
       "latin": "Hæc eſt poſſeſſio filiorum Iſſachar per cognationes ſuas, urbes & viculi earum.",
-      "french": "C'est là l'héritage des enfans d'Issachar, distinguez par leurs familles, avec leurs villes et leurs villages.",
+      "french": "C'est là l'héritage des enfants d'Issachar, distingués par leurs familles, avec leurs villes et leurs villages.",
       "annotations": null,
       "source_pages": [
         "page_0334.json"
@@ -213,7 +213,7 @@
     {
       "verse_number": 24,
       "latin": "Ceciditque ſors quinta tribui filiorum Aſer per cognationes ſuas :",
-      "french": "Le cinquiéme héritage échû par sort, fut celui de la tribu des enfans d'Aser, distinguez par leurs familles :",
+      "french": "Le cinquième héritage échu par sort, fut celui de la tribu des enfants d'Aser, distingués par leurs familles :",
       "annotations": null,
       "source_pages": [
         "page_0334.json"
@@ -222,7 +222,7 @@
     {
       "verse_number": 25,
       "latin": "Fuitque terminos corum Halcath & Chali & Bethen & Axaph.",
-      "french": "Leur frontiere fut Halcath, Chali, Béten, Axaph,",
+      "french": "Leur frontière fut Halcath, Chali, Béten, Axaph,",
       "annotations": null,
       "source_pages": [
         "page_0334.json"
@@ -240,7 +240,7 @@
     {
       "verse_number": 27,
       "latin": "Ac revertitur contra orientem Bethdagon: & pertranſit uſque Zabulon, & vallem Jephtahel contra aquilonem in Bethemec, & Nehiel. Egrediturque ad lævam Cabul,",
-      "french": "Et elle retournait du côté d'orient vers Beth-dagon, passait jusqu'à Zabulon, et à la valiée de Jephtaël vers l'aquilon, et jusqu'a Bethemec et Nehiel. Elle s'étend à la gauche de Cabul,",
+      "french": "Et elle retournait du côté d'orient vers Beth-dagon, passait jusqu'à Zabulon, et à la vallée de Jephtaël vers l'aquilon, et jusqu'à Bethemec et Nehiel. Elle s'étend à la gauche de Cabul,",
       "annotations": "An. 2561.",
       "source_pages": [
         "page_0335.json"
@@ -267,7 +267,7 @@
     {
       "verse_number": 31,
       "latin": "Hæc eſt poſſeſſio filiorum Aſer per cognationes ſuas, urbeſque & viculi earum.",
-      "french": "C’est là l’héritage des enfans d’Aser, distinguez par leurs familles, avec leurs villes et leurs villages.",
+      "french": "C’est là l’héritage des enfants d’Aser, distingués par leurs familles, avec leurs villes et leurs villages.",
       "annotations": null,
       "source_pages": [
         "page_0342.json"
@@ -276,7 +276,7 @@
     {
       "verse_number": 32,
       "latin": "Filiorum Nephthali ſexta ſors cecidit per familias ſuas :",
-      "french": "Le sixiéme partage échû par sort, fut celui des enfans de Nephthali, distinguez par leurs familles.",
+      "french": "Le sixième partage échu par sort, fut celui des enfants de Nephthali, distingués par leurs familles.",
       "annotations": null,
       "source_pages": [
         "page_0342.json"
@@ -285,7 +285,7 @@
     {
       "verse_number": 33,
       "latin": "Et cœpit terminus de Heleph & Elon in Saananim, & Adami, quæ eſt Neceb, & Jebnaël uſque Lecum : & egreſſus eorum uſque ad Jordanem :",
-      "french": "Leur frontiere s'étendait de Héleph, et d'Elon en Saananim et Adami, qui est aussi nommée Néceb, et de Jebnaël jusqu'à Lécum, et se terminait au Jourdain ;",
+      "french": "Leur frontière s'étendait de Héleph, et d'Elon en Saananim et Adami, qui est aussi nommée Néceb, et de Jebnaël jusqu'à Lécum, et se terminait au Jourdain ;",
       "annotations": "An. 2561.",
       "source_pages": [
         "page_0343.json"
@@ -321,7 +321,7 @@
     {
       "verse_number": 39,
       "latin": "Hæc eſt poſſeſſio tribus filiorum Nephthali per cognationes ſuas, urbes & viculi earum.",
-      "french": "C'est là l'héritage de la tribu des enfans de Nephtali, distinguez par leurs familles, avec leurs villes et leurs villages.",
+      "french": "C'est là l'héritage de la tribu des enfants de Nephtali, distingués par leurs familles, avec leurs villes et leurs villages.",
       "annotations": null,
       "source_pages": [
         "page_0345.json"
@@ -330,7 +330,7 @@
     {
       "verse_number": 40,
       "latin": "Tribui filiorum Dan per familias ſuas egreſſa eſt ſors ſeptima :",
-      "french": "Le septiéme partage échû par sort, fut celui de la tribu des enfans de Dan, distinguez par leurs familles.",
+      "french": "Le septième partage échu par sort, fut celui de la tribu des enfants de Dan, distingués par leurs familles.",
       "annotations": null,
       "source_pages": [
         "page_0345.json"
@@ -393,7 +393,7 @@
     {
       "verse_number": 47,
       "latin": "Et ipſo fine concluditur. Aſcenderúntque filii Dan, & pugnaverunt contra Leſem, ceperúntque eam : & percuſſerunt eam in ore gladii, & poſſederunt, & habitaverunt in ea, vocantes nomen ejus Leſem Dan, ex nomine Dan patris ſui.",
-      "french": "Et c’est là que se termine ce partage. Mais les enfans de Dan ayant marché contre Lésem, l’assiégérent et la prirent : ils passerent au fil de l’épée tout ce qui s’y rencontra ; ils s’en rendirent maîtres, et y habitérent, l’appellant Lésem-Dan, du nom de Dan leur pere.",
+      "french": "Et c’est là que se termine ce partage. Mais les enfants de Dan ayant marché contre Lésem, l’assiégèrent et la prirent : ils passèrent au fil de l’épée tout ce qui s’y rencontra ; ils s’en rendirent maîtres, et y habitèrent, l’appelant Lésem-Dan, du nom de Dan leur père.",
       "annotations": null,
       "source_pages": [
         "page_0347.json"
@@ -402,7 +402,7 @@
     {
       "verse_number": 48,
       "latin": "Hæc eſt poſſeſſio tribûs filiorum Dan, per cognationes ſuas, urbes & vici ex iis earum.",
-      "french": "C’est là le partage que posseda la tribu des enfans de Dan, distinguez selon leurs familles, avec leurs villes et leurs villages.",
+      "french": "C’est là le partage que posséda la tribu des enfants de Dan, distingués selon leurs familles, avec leurs villes et leurs villages.",
       "annotations": "An. 2551.",
       "source_pages": [
         "page_0348.json"
@@ -411,7 +411,7 @@
     {
       "verse_number": 49,
       "latin": "Cúmque compleſſet ſorte dividere terram ſingulis per tribus ſuas, dederunt filii Iſraël poſſeſſionem Joſue filio Nun in medio ſui.",
-      "french": "Josué ayant achevé de faire les partages de la terre, en donnant à chaque tribu la part qui lui était échûë par sort, les enfans d’Israël donnerent à Josué fils de Nun, pour héritage au milieu d’eux.",
+      "french": "Josué ayant achevé de faire les partages de la terre, en donnant à chaque tribu la part qui lui était échue par sort, les enfants d’Israël donnèrent à Josué fils de Nun, pour héritage au milieu d’eux.",
       "annotations": null,
       "source_pages": [
         "page_0348.json"
@@ -420,7 +420,7 @@
     {
       "verse_number": 50,
       "latin": "Juxta præceptum Domini, urbem quam poſtulavit, Thamnath Saraa in monte Ephraïm: & ædificavit civitatem, habitavitque in ea.",
-      "french": "Selon ce que le Seigneur l'avait ordonné, la ville qu'il leur demanda, qui fut Thamnath-Saraa sur la montagne d'Ephraïm, et il y bâtit une ville où il demeura.",
+      "french": "Selon ce que le Seigneur l'avait ordonné, la ville qu'il leur demanda, qui fut Thamnath-Saraa sur la montagne d'Éphraïm, et il y bâtit une ville où il demeura.",
       "annotations": "An 2561.",
       "source_pages": [
         "page_0349.json"
@@ -429,7 +429,7 @@
     {
       "verse_number": 51,
       "latin": "Hæ ſunt poſſeſſiones, quas ſorte diviſerunt Eleazar Sacerdos, & Joſue filius Nun, & Principes familiarum, ac tribuum filiorum Iſraël, in Silo, coram Domino ad oſtium Tabernaculi teſtimonii, partitique ſunt terram.",
-      "french": "Ce sont là les héritages que partagérent Eleazar grand Prêtre, Josué fils de Nun, et les Princes des familles et des tribus des enfans d'Israël à Silo, devant le Seigneur, à la porte du Tabernacle du témoignage. C'est ainsi qu'ils partagérent la terre.",
+      "french": "Ce sont là les héritages que partagèrent Éléazar grand Prêtre, Josué fils de Nun, et les Princes des familles et des tribus des enfants d'Israël à Silo, devant le Seigneur, à la porte du Tabernacle du témoignage. C'est ainsi qu'ils partagèrent la terre.",
       "annotations": null,
       "source_pages": [
         "page_0349.json"

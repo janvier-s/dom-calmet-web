@@ -1,12 +1,12 @@
 {
   "book": "Josué",
   "chapter": 6,
-  "chapter_summary": "_Siége de Jéricho. Ses murailles sont renversées au son des Trompettes, et aux cris du peuple. Rahab seule avec sa famille est conservée. Imprécation contre celui qui rebâtira Jéricho._",
+  "chapter_summary": "_Siège de Jéricho. Ses murailles sont renversées au son des Trompettes, et aux cris du peuple. Rahab seule avec sa famille est conservée. Imprécation contre celui qui rebâtira Jéricho._",
   "verses": [
     {
       "verse_number": 1,
       "latin": "_Jericho autem clauſa erat atque munita, timore filiorum Iſraël, & nullus egredi audebat, aut ingredi._",
-      "french": "_Cependant Jéricho était fermée et bien munie, dans la crainte où l'on était des enfans d'Israël ; et nul n'osait y entrer, ni en sortir._",
+      "french": "_Cependant Jéricho était fermée et bien munie, dans la crainte où l'on était des enfants d'Israël ; et nul n'osait y entrer, ni en sortir._",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -15,7 +15,7 @@
     {
       "verse_number": 2,
       "latin": "_Dixitque Dominus ad Joſue : Ecce dedi in manu tua Jericho, & regem ejus, omnéſque fortes viros._",
-      "french": "_Alors le Seigneur dit à Josué : Je vous ai livré entre les mains Jéricho et son Roy, et tous les hommes de guerre qui y sont._",
+      "french": "_Alors le Seigneur dit à Josué : Je vous ai livré entre les mains Jéricho et son Roi, et tous les hommes de guerre qui y sont._",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -42,7 +42,7 @@
     {
       "verse_number": 5,
       "latin": "Cùmque inſonuerit vox tubæ longior atque conciſior, & in auribus veſtris increpuerit, conclamabit omnis populus vociferatione maximâ, & muri funditus corruent civitatis, ingredienturque ſinguli per locum contra quem ſteterint.",
-      "french": "Et lorsque les trompettes sonneront d'un son plus long, et plus coupé, et que ce bruit aura frappé vos oreilles, tout le peuple élevant sa voix tout ensemble, jettera un grand cri, et alors les murailles de la ville tomberont jusqu'aux fondemens, et chacun entrera par l'endroit qui se trouvera vis-à-vis de lui.",
+      "french": "Et lorsque les trompettes sonneront d'un son plus long, et plus coupé, et que ce bruit aura frappé vos oreilles, tout le peuple élevant sa voix tout ensemble, jettera un grand cri, et alors les murailles de la ville tomberont jusqu'aux fondements, et chacun entrera par l'endroit qui se trouvera vis-à-vis de lui.",
       "annotations": null,
       "source_pages": [
         "page_0134.json"
@@ -51,7 +51,7 @@
     {
       "verse_number": 6,
       "latin": "Vocavit ergo Joſue filius Nun Sacerdotes : & dixit ad eos : Tollite arcam fœderis, & ſeptem alii Sacerdotes tollant ſeptem jubilaorum buccinas, & incedant ante arcam Domini.",
-      "french": "En même temps Josué fils de Num appella les Prêtres, et leur dit : Prenez l'arche de l'Alliance, et que sept autres Prêtres prennent les sept trompettes du Jubilé, et qu'ils marchent devant l'arche du Seigneur.",
+      "french": "En même temps Josué fils de Num appela les Prêtres, et leur dit : Prenez l'arche de l'Alliance, et que sept autres Prêtres prennent les sept trompettes du Jubilé, et qu'ils marchent devant l'arche du Seigneur.",
       "annotations": "An. 2553.",
       "source_pages": [
         "page_0135.json"
@@ -60,7 +60,7 @@
     {
       "verse_number": 7,
       "latin": "Ad populum quoque ait : Ite & circuite civitatem , armatis præcedentes arcam Domini.",
-      "french": "Il dit aussi au peuple : Allez , et faites le tour de la ville, marchant les armes a la main devant l'arche du Seigneur.",
+      "french": "Il dit aussi au peuple : Allez, et faites le tour de la ville, marchant les armes à la main devant l'arche du Seigneur.",
       "annotations": "An. 2553.",
       "source_pages": [
         "page_0136.json"
@@ -69,7 +69,7 @@
     {
       "verse_number": 8,
       "latin": "Cùmque Joſue verba finiſſet, & ſeptem Sacerdotes, ſeptem buccinis clangerent ante arcam fœderis Domini.",
-      "french": "Josué ayant fini ces paroles, les sept Prêtres commencerent à sonner des sept trompettes devant l'arche de l'alliance du Seigneur.",
+      "french": "Josué ayant fini ces paroles, les sept Prêtres commencèrent à sonner des sept trompettes devant l'arche de l'alliance du Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0136.json"
@@ -78,7 +78,7 @@
     {
       "verse_number": 9,
       "latin": "_Omniſque præcederet armatus exercitus, reliquum vulgus arcam ſequebatur, ac buccinis omnia concrepabant._",
-      "french": "Tous les gens de guerre marcherent devant l'arche, et le reste du peuple la suivit ; et le bruit des trompettes retentit de toutes parts.",
+      "french": "Tous les gens de guerre marchèrent devant l'arche, et le reste du peuple la suivit ; et le bruit des trompettes retentit de toutes parts.",
       "annotations": "An. 2553.",
       "source_pages": [
         "page_0137.json"
@@ -87,7 +87,7 @@
     {
       "verse_number": 10,
       "latin": "Præceperat autem Josue populo, dicens : Non clamabitis, nec audietur vox vestra, neque ullus sermo ex ore vestro egredietur : donec veniat dies in quo dicam vobis : Clamate & vociferamini.",
-      "french": "Or Josué avait donné cet ordre au peuple : Vous ne jetterez aucun cri, on n'entendra aucune voix, et il ne sortira aucune parole de vôtre bouche, jusqu'à ce que le jour soit venu où je vous dirai : Criez et faites grand bruit.",
+      "french": "Or Josué avait donné cet ordre au peuple : Vous ne jetterez aucun cri, on n'entendra aucune voix, et il ne sortira aucune parole de votre bouche, jusqu'à ce que le jour soit venu où je vous dirai : Criez et faites grand bruit.",
       "annotations": null,
       "source_pages": [
         "page_0138.json"
@@ -114,7 +114,7 @@
     {
       "verse_number": 13,
       "latin": "Et septem ex eis septem buccinas, quarum in jubileo usus est : præcedebantque arcam Domini ambulantes atque clangentes : & armatus populus ibat ante eos, vulgus autem reliquum sequebatur arcam, & buccinis personabat.",
-      "french": "Et sept d'entr'eux prirent les sept trompettes, dont on se sert l'année du Jubilé ; et ils marcherent devant l'arche du Seigneur, et sonnérent de la trompette. Toute l'armée marchait devant eux, et le reste du peuple suivait l'arche, et sonnait du cor.",
+      "french": "Et sept d'entre eux prirent les sept trompettes, dont on se sert l'année du Jubilé ; et ils marchèrent devant l'arche du Seigneur, et sonnèrent de la trompette. Toute l'armée marchait devant eux, et le reste du peuple suivait l'arche, et sonnait du cor.",
       "annotations": null,
       "source_pages": [
         "page_0138.json"
@@ -132,7 +132,7 @@
     {
       "verse_number": 15,
       "latin": "Die autem septimo, diluculo consurgentes circuierant urbem, sicut dispositum erat, septies.",
-      "french": "Mais le septiéme jour, s'étant levez de grand matin, ils firent sept fois le tour de la ville, comme il leur avait été ordonné.",
+      "french": "Mais le septième jour, s'étant levés de grand matin, ils firent sept fois le tour de la ville, comme il leur avait été ordonné.",
       "annotations": null,
       "source_pages": [
         "page_0138.json"
@@ -141,7 +141,7 @@
     {
       "verse_number": 16,
       "latin": "Cúmque ſeptimo circuitu clangerent buccinis Sacerdotes, dixit Joſue ad omnem Iſraël : Vociferamini, tradidit enim vobis Dominus civitatem :",
-      "french": "Et pendant que les Prêtres sonnaient de la trompette au septiéme tour, Josué dit à tout Israël : Jetrez un grand cri ; car le Seigneur vous a livré Jéricho.",
+      "french": "Et pendant que les Prêtres sonnaient de la trompette au septième tour, Josué dit à tout Israël : Jetez un grand cri ; car le Seigneur vous a livré Jéricho.",
       "annotations": "An. 2553.",
       "source_pages": [
         "page_0139.json"
@@ -150,7 +150,7 @@
     {
       "verse_number": 17,
       "latin": "Sitque civitas hæc anathema, & omnia quæ in ea ſunt, Domino ; ſola Rahab meretrix vivat, cum univerſis qui cum ea in domo ſunt : abſcondit enim nuntios quos direximus.",
-      "french": "Que cette ville et tout ce qui s'y trouvera, soit dévouëé comme un anathême au Seigneur. Que la seule Rahab courtisanne ait la vie sauve, avec tous ceux qui se trouveront dans sa maison, parce qu'elle a caché ceux que nous avions envoyez pour reconnaître le pays.",
+      "french": "Que cette ville et tout ce qui s'y trouvera, soit dévouée comme un anathème au Seigneur. Que la seule Rahab courtisane ait la vie sauve, avec tous ceux qui se trouveront dans sa maison, parce qu'elle a caché ceux que nous avions envoyés pour reconnaître le pays.",
       "annotations": null,
       "source_pages": [
         "page_0139.json"
@@ -159,7 +159,7 @@
     {
       "verse_number": 18,
       "latin": "Vos autem cavete, ne de his, quæ præcepta ſunt, quippiam contingatis, & ſitis prævaricationis rei, & omnia caſtra Iſraël ſub peccato ſint atque turbentur.",
-      "french": "Mais pour vous donnez-vous bein de garde de toucher à rien de cette ville contre l'ordre qu'on vous donne; de peur de vous rendre coupables de prévarication, et d'attirer le peché, et de jetter le trouble dans toute l'armée d'Israël.",
+      "french": "Mais pour vous, gardez-vous bien de toucher à rien de cette ville contre l'ordre qu'on vous donne ; de peur de vous rendre coupables de prévarication, et d'attirer le péché, et de jeter le trouble dans toute l'armée d'Israël.",
       "annotations": "An. 2553.",
       "source_pages": [
         "page_0140.json"
@@ -177,7 +177,7 @@
     {
       "verse_number": 20,
       "latin": "Igitur omni populo vociferante, & clangentibus tubis, poſtquam in aures multitudinis vox ſonituſque increpuit, muri illicò corruerunt: & aſcendit unuſquiſque per locum, qui contra ſe erat, ceperúntque civitatem.",
-      "french": "Tout le peuple s'étant donc mis à crier, pendant qu'on sonnait de la trompette; la voix et le son n'eurent pas plûtôt frappé les oreilles de la multitude, que les murailles tombérent; et chacun monta par l'endroit qui était vis-à-vis de lui. Ils prirent ainsi la ville.",
+      "french": "Tout le peuple s'étant donc mis à crier, pendant qu'on sonnait de la trompette ; la voix et le son n'eurent pas plus tôt frappé les oreilles de la multitude, que les murailles tombèrent ; et chacun monta par l'endroit qui était vis-à-vis de lui. Ils prirent ainsi la ville.",
       "annotations": null,
       "source_pages": [
         "page_0141.json"
@@ -186,7 +186,7 @@
     {
       "verse_number": 21,
       "latin": "Et interfecerunt omnia quæ erant in ea, à viro uſque ad mulierem, ab infante uſque ad ſenem. Boves quoque & oves & aſinos in ore gladii percuſſerunt.",
-      "french": "et ils tuérent tout ce qui s'y rencontra, depuis les hommes, jusqu'aux femmes, et depuis les enfans, jusqu'aux vieillards. Ils firent passer au fil de l'épée, les bœufs, les brebis, et les ânes.",
+      "french": "et ils tuèrent tout ce qui s'y rencontra, depuis les hommes, jusqu'aux femmes, et depuis les enfants, jusqu'aux vieillards. Ils firent passer au fil de l'épée, les bœufs, les brebis, et les ânes.",
       "annotations": null,
       "source_pages": [
         "page_0141.json"
@@ -195,7 +195,7 @@
     {
       "verse_number": 22,
       "latin": "Duobus autem viris, qui exploratores miſſi fuerant, dixit Joſue: Ingredimini domum mulieris meretricis, & producite eam, & omnia quæ illius ſunt, ſicut illi juramento firmâſtis.",
-      "french": "Alors Josué dit aux deux hommes qui avaient été envoyez pour reconnaître le pays: Entrez dans la maison de la courtisanne, et faites-la sortir avec tout ce qui est à elle, comme vous le lui avez promis avec serment.",
+      "french": "Alors Josué dit aux deux hommes qui avaient été envoyés pour reconnaître le pays: Entrez dans la maison de la courtisane, et faites-la sortir avec tout ce qui est à elle, comme vous le lui avez promis avec serment.",
       "annotations": null,
       "source_pages": [
         "page_0141.json"
@@ -204,7 +204,7 @@
     {
       "verse_number": 23,
       "latin": "Ingreſsíque juvenes, eduxerunt Rahab, & parentes ejus, fratres quoque, & cunctam ſupellectilem ac cognationem illius, & extra caſtra Iſraël manere fecerunt.",
-      "french": "Les deux jeunes hommes étant entrez dans la maison, en firent sortir Rahab, son pere et sa mere, ses freres et ses parens, et tout ce qui était à elle, et les firent demeurer hors du camp d'Israël.",
+      "french": "Les deux jeunes hommes étant entrés dans la maison, en firent sortir Rahab, son père et sa mère, ses frères et ses parents, et tout ce qui était à elle, et les firent demeurer hors du camp d'Israël.",
       "annotations": null,
       "source_pages": [
         "page_0142.json"
@@ -213,7 +213,7 @@
     {
       "verse_number": 24,
       "latin": "Urbem autem, & omnia quæ erant in ea, ſuccenderunt ; abſque auro & argento, & vaſis eneis, ac ferro, quæ in ærarium Domini conſecrarunt.",
-      "french": "Après cela ils brûlerent la ville, et tout ce qui se trouva dedans, à la réserve de l'or et de l'argent, des vases d'airain et de fer, qu'ils consacrerent pour le trésor du Seigneur.",
+      "french": "Après cela ils brûlèrent la ville, et tout ce qui se trouva dedans, à la réserve de l'or et de l'argent, des vases d'airain et de fer, qu'ils consacrèrent pour le trésor du Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0142.json"
@@ -222,7 +222,7 @@
     {
       "verse_number": 25,
       "latin": "Rahab verò meretricem, & domum patris ejus, & omnia quæ habebat, fecit Joſue vivere, & habitaverunt in medio Iſraël uſque in præſentem diem, eò quòd abſconderit nuntios, quos miſerat ut explorarent Jericho. In tempore illo imprecatus eſt Joſue, dicens.",
-      "french": "Mais Josué sauva Rahab la courtisane, et la maison de son pere, avec tout ce qu'elle avait ; et ils demeurerent au milieu du peuple d'Israël, comme ils y sont encore aujourd'hui ; parce qu'elle avait caché les deux hommes qu'il avait envoyez pour reconnaître Jéricho. Alors Josué fit cette imprécation, et il dit :",
+      "french": "Mais Josué sauva Rahab la courtisane, et la maison de son père, avec tout ce qu'elle avait ; et ils demeurèrent au milieu du peuple d'Israël, comme ils y sont encore aujourd'hui ; parce qu'elle avait caché les deux hommes qu'il avait envoyés pour reconnaître Jéricho. Alors Josué fit cette imprécation, et il dit :",
       "annotations": null,
       "source_pages": [
         "page_0142.json"
@@ -231,7 +231,7 @@
     {
       "verse_number": 26,
       "latin": "Maledictus vir coram Domino, qui ſuſcitaverit & ædificaverit civitatem Jericho. In primogenito ſuo fundamenta illius jaciat, & in novißimo liberorum ponat portas ejus.",
-      "french": "Maudit soit devant le Seigneur l'homme qui relevera et rebâtira la ville de Jéricho. Que son premier né meure lorsqu'il en jettera les fondemens, et qu'il perde le dernier de ses enfans lorsqu'il en mettra les portes.",
+      "french": "Maudit soit devant le Seigneur l'homme qui relèvera et rebâtira la ville de Jéricho. Que son premier-né meure lorsqu'il en jettera les fondements, et qu'il perde le dernier de ses enfants lorsqu'il en mettra les portes.",
       "annotations": "An. 2553.",
       "source_pages": [
         "page_0143.json"
@@ -240,7 +240,7 @@
     {
       "verse_number": 27,
       "latin": "Fuit ergo Dominus cum Joſue, & nomen ejus vulgatum eſt in omni terra.",
-      "french": "Le Seigneur fut donc avec Josué, et son nom devint célébre dans tout le pays.",
+      "french": "Le Seigneur fut donc avec Josué, et son nom devint célèbre dans tout le pays.",
       "annotations": "An. 2553.",
       "source_pages": [
         "page_0145.json"
