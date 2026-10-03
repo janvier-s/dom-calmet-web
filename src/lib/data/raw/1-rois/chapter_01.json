@@ -1,0 +1,484 @@
+{
+  "book": "1 Rois",
+  "chapter": 1,
+  "chapter_summary": "Abisag de Sunam est choisie pour servir et pour échauffer David dans sa vieillesse. Adonias forme un parti pour se faire déclarer Roi. Salomon est reconnu pour successeur de David, et est sacré Roi. Adonias se sauve à l'asile de l'Autel. Salomon lui pardonne.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "ET Rex David ſenuerat, habebatque ætatis plurimos dies : cùmque operiretur veſtibus, non calefiebat.",
+      "french": "LE Roi David était vieux, et dans un âge fort avancé ; et quoiqu'on le couvrît beaucoup, on ne pouvait l'échauffer.",
+      "annotations": "An du Monde 2989. avant J. C. 1015.",
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Dixrunt ergo ei ſervi ſui : Quæramus Domino noſtro Regi adoleſcentulam virginem, & ſtet coram Rege, & foveat eum, dormiátque in ſinu ſuo, & califaciat Dominum noſtrum Regem.",
+      "french": "2. Ses serviteurs lui dirent donc : Nous chercherons une jeune fille vierge pour le Roi notre Seigneur, afin qu'elle serve le Roi, qu'elle l'échauffe, et que dormant auprès de lui, elle remédie à ce grand froid du Roi notre Seigneur.",
+      "annotations": "An du Monde 2989.",
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quæſierunt igitur adoleſcentulam ſpecioſam in omnibus finibus Iſraël, & invenerunt Abiſag Sunamitidem, & adduxerunt eam ad Regem.",
+      "french": "3. Ils cherchèrent donc dans toutes les terres d'Israël, une fille qui fût jeune et belle ; et ayant trouvé Abisag de Sunam, ils l'amenèrent au Roi.",
+      "annotations": "An du Monde 2989.",
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Erat autem puella pulchra nimis, dormiebátque cum Rege, & miniſtrabat ei, Rex verò non cognovit eam.",
+      "french": "4. C'était une fille d'une grande beauté; elle dormait auprès du Roi, et elle le servait, et le Roi la laissa toujours vierge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Adonias autem filius Haggith elevabatur, dicens : Ego regnabo. Fecítque ſibi currus & equites, & quinquaginta viros qui currerent ante eum.",
+      "french": "5. Cependant Adonias fils d'Haggith s'élevait, en disant : Ce sera moi qui régnerai. Et il se fit faire des chariots, prit des gens de cheval, et cinquante hommes pour courir devant lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Nec corripuit eum pater ſuus aliquando, dicens : Quare hoc feciſti? Erat autem & ipſe pulcher valdè, ſecundus natus poſt Abſalom.",
+      "french": "Jamais son père ne l’en reprit, en lui disant : Pourquoi agissez-vous ainsi ? Or Adonias, qui était le second après Absalon, était aussi parfaitement beau.",
+      "annotations": "An du Monde 2989.",
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et ſermo ei cum Joab filio Sarviæ, & cum Abiathar Sacerdote, qui adjuvabant partes Adoniæ.",
+      "french": "Il s'était lié avec Joab fils de Sarvia, et le grand-Prêtre Abiathar, qui soutenaient son parti.",
+      "annotations": "An du Monde 2989.",
+      "source_pages": [
+        "page_0064.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "_Sadoc verò Sacerdos, & Banaias filius Joiadæ, & Nathan Prophetæ, & Semei & Rei, & robur exercitûs David, non erat cum Adonia._",
+      "french": "Mais ni Sadoc grand-Prêtre, ni Banaias fils de Joiada, ni le Prophéte Nathan, ni Sémeï et Reï, ni le gros de l'armée de David n'étaient point pour Adonias.",
+      "annotations": null,
+      "source_pages": [
+        "page_0065.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Immolatis ergo Adonias arietibus & vitulis, & univerſis pinguibus, juxta lapidem Zoheleth, qui erat vicinus fonti Rogel, vocavit univerſos fratres ſuos filios Regis, & omnes viros Juda ſervos Regis.",
+      "french": "Adonias ayant donc immolé des béliers, des veaux, et toutes sortes de victimes grasses auprès de la pierre de Zoheleth, qui était près de la fontaine Rogel, convia à un festin qu'il y fit, tous ses frères fils du Roi, et tous ceux de Juda, qui étaient au service du Roi.",
+      "annotations": "An du Monde 2989.",
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Nathan autem Prophetam, & Banaiam, & robuſtos quoſque, & Salomonem fratrem ſuum, non vocavit.",
+      "french": "Mais il n'y convia point le Prophète Nathan, ni Banaïas, ni tous les plus vaillants de l'armée, ni Salomon son frère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Dixit itaque Nathan ad Bethſabee matrem Salomonis : Num audiſti, quòd regnaverit Adonias filius Haggith, & Dominus noſter David hoc ignorat ?",
+      "french": "Alors Nathan dit à Bethsabée mère de Salomon : Savez-vous qu'Adonias fils d'Haggith, s'est fait Roi, sans que David notre Seigneur le sache ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Nunc ergo veni, accipe conſilium à me, & ſalva animam tuam, filiíque tui Salomonis.",
+      "french": "Venez donc, et suivez le conseil que je vais vous donner : sauvez votre vie et celle de votre fils Salomon.",
+      "annotations": "An du Monde 2989.",
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Vade, & ingredere ad Regem David, & dic ei : Nonne tu, Domine mi Rex, juraſti mihi ancillæ tuæ, dicens : Salomon filius tuus regnabit poſt me, & ipſe ſedebit in ſolio meo? Quare ergo regnat Adonias.",
+      "french": "Allez vous présenter au Roi David, et dites-lui : Ô Roi, mon Seigneur, ne m'avez-vous pas juré à moi, qui suis votre servante, en me disant : Salomon votre fils régnera après moi, et c'est lui qui sera assis sur mon trône? Pourquoi donc Adonias règne-t-il?",
+      "annotations": null,
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et adhuc ibi te loquente cum Rege, ego veniam poſt te, & complebo ſermones tuos.",
+      "french": "Pendant que vous parlerez encore au Roi, je surviendrai après vous, et j'appuierai tout ce que vous aurez dit.",
+      "annotations": "An du Monde 2989.",
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Ingreſſa eſt itaque Bethſabee ad Regem in cubiculum : Rex autem ſenuerat nimis, & Abiſag Sunamitis miniſtrabat ei.",
+      "french": "Bethsabée alla donc trouver le Roi dans sa chambre. Le Roi était fort vieux, et Abisag de Sunam le servait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Inclinavit ſe Bethſabee, & adoravit Regem. Ad quam Rex, quid tibi, inquit, vis ?",
+      "french": "Bethsabée se baissa et s'inclina profondément devant le Roi. Le Roi lui dit : Que désirez-vous ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Quæ reſpondens, aït : Domine mi, tu juraſti per Dominum Deum tuum ancillæ tuæ, Salomon filius tuus regnabit poſt me, & ipſe ſedebit in ſolio meo.",
+      "french": "Elle lui répondit : Mon Seigneur, vous avez juré à votre servante par le Seigneur votre Dieu, et vous m'avez dit : Salomon votre fils régnera après moi, et c'est lui qui sera assis sur mon trône.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et ecce nunc Adonias regnat, te, Domine mi Rex, ignorante.",
+      "french": "Cependant voilà Adonias qui s'est fait Roi, sans que vous le sachiez, ô Roi mon Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Mactavit boves, & pinguia quæque, & arietes plurimos, & vocavit omnes filios Regis, Abiathar quoque Sacerdotem, & Joab Principem militiæ : Salomonem autem ſervum tuum non vocavit.",
+      "french": "Il a immolé des bœufs, toutes sortes de victimes grasses, et un grand nombre de béliers ; il y a convié tous les enfants du Roi, le grand-Prêtre même Abiathar, et Joab Général de l'armée ; mais il n'a point convié Salomon votre serviteur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Verumtamen, Domine mi Rex, in te oculi reſpiciunt totius Iſraël, ut indices eis quis ſedere debeat in ſolio tuo, Domine mi Rex, poſt te.",
+      "french": "Cependant tout Israël a maintenant les yeux sur vous, ô Roi mon Seigneur, attendant que vous leur déclariez, Seigneur mon Roi, qui doit être assis après vous sur votre trône.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Eritque, cùm dormierit Dominus meus Rex cum patribus ſuis, erimus ego & filius meus Salomon peccatores.",
+      "french": "Car après que le Roi, mon Seigneur, se sera endormi avec ses pères, nous serons traités comme criminels moi et mon fils Salomon.",
+      "annotations": "An du Monde 2989.",
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Adhuc illâ loquente cum Rege, Nathan Propheta venit.",
+      "french": "Elle parlait encore au Roi, lorsque le Prophète Nathan arriva.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et nuntiaverunt Regi, dicentes: Adeſt Nathan Propheta. Cùmque introiſſet in conſpectu Regis, & adoraſſet eum pronus in terram,",
+      "french": "Et l'on dit au Roi: Voilà le Prophète Nathan. Nathan s'étant présenté devant le Roi, l'adora en se baissant profondément en terre,",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Dixit Nathan: Domine mi Rex, tu dixiſti: Adonias regnet poſt me, & ipſe ſedeat ſuper thronum meum?",
+      "french": "Et il lui dit: Ô Roi, mon Seigneur, avez-vous dit: Qu'Adonias règne après moi, et que ce soit lui qui soit assis sur mon trône?",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Quia deſcendit hodie, & immolavit boves, & pinguia, & arietes plurimos, & vocavit univerſos filios Regis, & Principes exercitûs, Abiathar quoque Sacerdotem; illiſque veſcentibus, & bibentibus coram eo, & dicentibus: Vivat Rex Adonias.",
+      "french": "Car il est descendu aujourd'hui, il a immolé des bœufs, des victimes grasses, et plusieurs béliers, et il y a convié tous les fils du Roi, les Généraux de l'armée, et le grand-Prêtre Abiathar, qui ont mangé et bu avec lui, en disant: Vive le Roi Adonias.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Me ſervum tuum, & Sadoc Sacerdotem, & Banaiam filium Joiadæ, & Salomonem famulum tuum, non vocavit.",
+      "french": "Mais pour moi, qui suis votre serviteur, il ne m'a point convié, ni le Prêtre Sadoc, ni Banaias fils de Joiada, non plus que Salomon votre serviteur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Numquid à Domino meo Rege exivit hoc verbum, & mihi non indicaſti ſervo tuo, quis ſeſſurus eſſet ſuper thronum Domini mei Regis poſt eum?",
+      "french": "Cet ordre est-il venu de la part du Roi mon Seigneur; et ne m'avez-vous point déclaré à moi votre serviteur, qui était celui qui devait être assis après le Roi mon Seigneur, sur le trône?",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et reſpondit Rex David, dicens : Vocate ad me Bethſabee. Quæ cùm fuiſſet ingreſſa coram Rege, & ſtetiſſet ante eum,",
+      "french": "Le Roi David dit : Qu'on me fasse venir Bethsabée. Bethsabée s'étant présentée devant le Roi, et se tenant devant lui,",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Juravit Rex, & ait : Vivit Dominus, qui eruit animam meam de omni anguſtia,",
+      "french": "Le Roi lui jura, et lui dit : Vive le Seigneur, qui a délivré mon âme de toute sorte de péril;",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Quia ſicut juravi tibi per Dominum Deum Iſraël, dicens : Salomon filius tuus regnabit poſt me, & ipſe ſedebit ſuper ſolium meum pro me ; ſic faciam hodie.",
+      "french": "Comme je vous ai juré par le Seigneur le Dieu d'Israël, en vous disant : Salomon votre fils régnera après moi, et c'est lui qui sera assis en ma place sur mon trône ; je le ferai de même, et je l'exécuterai dès aujourd'hui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Summiſſóque Bethſabee in terram vultu, adoravit Regem, dicens : Vivat Dominus meus David in æternum.",
+      "french": "Bethsabée baissant le visage jusqu'en terre, adora le Roi, et lui dit : Que David, mon Seigneur, vive à jamais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Dixit quoque Rex David : Vocate mihi Sadoc Sacerdotem, & Nathan Prophetam, & Banaiam filium Joiadæ. Qui cùm ingreſſi fuiſſent coram Rege,",
+      "french": "Le Roi David dit encore : Faites-moi venir le Prêtre Sadoc, le Prophète Nathan, et Banaïas fils de Joiada. Lorsqu'ils se furent présentés devant le Roi,",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Dixit ad eos: Tollite vobiſcum ſervos Domini veſtri, & imponite Salomonem filium meum ſuper mulam meam, & ducite eum in Gihon.",
+      "french": "Il leur dit : Prenez avec vous les serviteurs de votre maître ; faites monter sur ma mule mon fils Salomon, et menez-le à Gihon.",
+      "annotations": "An du Monde 2989.",
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et ungat eum ibi Sadoc Sacerdos, & Nathan Propheta, in Regem ſuper Iſraël: & canetis buccina, atque dicetis: Vivat Rex Salomon.",
+      "french": "Et que Sadoc grand-Prêtre, et le Prophète Nathan le sacrent en ce lieu, pour être Roi d'Israël : et vous sonnerez aussi de la trompette, et vous crierez : Vive le Roi Salomon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et aſcendetis poſt eum, & veniet, & ſedebit ſuper ſolium meum, & ipſe regnabit pro me: illique præcipiam ut ſit dux ſuper Iſraël, & ſuper Judam.",
+      "french": "Vous retournerez en le suivant, et il viendra s'asseoir sur mon trône ; il régnera en ma place, et je lui ordonnerai de gouverner Israël et Juda.",
+      "annotations": null,
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et reſpondit Banaias filius Joiadæ, Regi, dicens : Amen. Sic loquatur Dominus Deus Domini mei Regis.",
+      "french": "Banaias fils de Joiada, répondit au Roi : Qu'il soit ainsi. Que le Seigneur, le Dieu du Roi mon Seigneur, l'ordonne ainsi.",
+      "annotations": "1989.",
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Quomodo fuit Dominus cum Domino meo Rege, ſic ſit cum Salomone, & ſublimius faciat ſolium ejus à ſolio Domini mei Regis David.",
+      "french": "Comme le Seigneur a été avec le Roi mon Seigneur, qu'il soit de même avec Salomon, et qu'il élève son trône encore plus que ne l'a été le trône de David, mon Roi et mon Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Deſcendit ergo Sadoc Sacerdos, & Nathan Propheta, & Banaias filius Joiadæ, & Cerethi, & Phelethi : & impoſuerunt Salomonem ſuper mulam Regis David, & adduxerunt eum in Gihon.",
+      "french": "Alors le grand-Prêtre Sadoc descendit avec le Prophète Nathan, Banaias fils de Joiada, les Céréthéens, et les Phéléthéens ; et ils firent monter Salomon sur la mule du Roi David, et le menèrent à Gihon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Sumpſitque Sadoc Sacerdos cornu olei de Tabernaculo, & unxit Salomonem : & cecinerunt buccinâ, & dixit omnis populus : Vivat Rex Salomon.",
+      "french": "Et Sadoc grand-Prêtre prit du Tabernacle une corne pleine d'huile, et sacra Salomon. Ils sonnèrent de la trompette, et tout le monde s'écria : Vive le Roi Salomon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Et aſcendit univerſa multitudo poſt eum & populus canentium tibiis, & lætantium gaudio magno, & inſonuit terra à clamore corum.",
+      "french": "Tout le peuple vint après lui ; plusieurs jouaient de la flûte, et donnaient toutes les marques d'une réjouissance publique ; et les cris de joie retentissaient de toutes parts.",
+      "annotations": null,
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Audivit autem Adonias, & omnes qui invitati fuerant ab eo ; jamque convivium finitum erat : ſed & Joab, auditâ voce tubæ, ait : Quid ſibi vult clamor civitatis tumultuantis ?",
+      "french": "Adonias, et tous ceux qu'il avait conviés, entendirent ce bruit, lorsque le festin était déjà achevé ; et Joab ayant ouï sonner de la trompette, dit : Que veulent dire ces cris, et ce tumulte de la ville ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "_Adhuc illo loquente, Jonathas filius Abiathar Sacerdotis venit, cui dixit Adonias : Ingredere, quia vir fortis es, & bona nuntians._",
+      "french": "_Lorsqu'il parlait encore, Jonathas fils du grand-Prêtre Abiathar, se présenta ; et Adonias lui dit : Entrez, car vous êtes un brave homme, et vous nous apportez de bonnes nouvelles._",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "_Reſponditque Jonathas Adoniæ : Nequaquam : Dominus enim noſter Rex David Regem conſtituit Salomonem._",
+      "french": "_Jonathas répondit à Adonias : Je n'en ai point de bonnes à vous dire ; car le Roi David notre Seigneur, a établi Roi Salomon._",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "_Miſitque cum eo Sadoc Sacerdotem, & Nathan Prophetam, & Banaiam filium Joiadæ,& Cerethi & Phelethi, & impoſuerunt eum ſuper mulam Regis._",
+      "french": "_Il a envoyé avec lui le grand-Prêtre Sadoc, le Prophète Nathan, Banaïas fils de Joiada, les Céréthiens, et les Phéléthiens, et ils l'ont fait monter sur la mule du Roi._",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "_Unxerúntque eum Sadoc Sacerdos, & Nathan Propheta Regem in Gihon : & aſcenderunt indè lætantes, & inſonuit civitas : hæc eſt vox, quam audiftis._",
+      "french": "_Et Sadoc grand-Prêtre, et le Prophète Nathan l'ont sacré Roi à Gihon, d'où ils sont revenus avec des cris de réjouissance, qui ont retenti par toute la ville : c'est là le bruit que vous avez entendu._",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "_Sed & Salomon ſedet ſuper ſolium Regni._",
+      "french": "_Salomon même est déjà sur le trône du Royaume._",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "_Et ingreſſi ſervi Regis benedixerunt Domino noſtro Regi David, dicentes : Amplificet Deus nomen Salomonis ſuper nomen tuum, & magnificet thronum ejus ſuper thronum tuum. Et adoravit Rex in lectulo ſuo :_",
+      "french": "_Et les serviteurs du Roi en sont venus faire leur conjouissance au Roi David notre Seigneur, en lui disant : Que Dieu rende le nom de Salomon encore plus illustre que le vôtre, et qu'il élève son trône au-dessus de votre trône. Et le Roi adorant Dieu dans son lit,_",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Et locutus eſt : Benedictus Dominus Deus Iſraël, qui dedit hodie ſedentem in ſolio meo, videntibus oculis meis.",
+      "french": "A dit : Béni soit le Seigneur, le Dieu d'Israël, qui m'a fait voir aujourd'hui de mes propres yeux mon fils assis sur mon trône.",
+      "annotations": "An du Monde 2989.",
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Territi ſunt ergo, & ſurrexerunt omnes qui invitati fuerant ab Adonia, & ivit unuſquiſque in viam ſuam.",
+      "french": "Ceux donc qu'Adonias avait conviés, se levèrent tous saisis de frayeur, et chacun s'en alla de son côté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Adonias autem timens Salomonem, ſurrexit, & abiit, tenuitque cornu Altaris.",
+      "french": "Mais Adonias craignant Salomon, se leva de même, sortit au plus tôt, et s'en alla prendre la corne de l'Autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Et nuntiaverunt Salomoni, dicentes : Ecce Adonias timens Regem Salomonem, tenuit cornu Altaris, dicens : Juret mihi Rex Salomon hodie, quòd non interficiat ſervum ſuum gladio.",
+      "french": "Alors on vint dire à Salomon : Voilà Adonias, qui craignant le Roi Salomon, se tient attaché à la corne de l'Autel, et qui dit : Que le Roi Salomon me jure aujourd'hui, qu'il ne fera point mourir son serviteur par l'épée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Dixitque Salomon : Si fuerit vir bonus, non cadet ne unus quidem capillus ejus in terram : ſin autem malum inventum fuerit in eo, morietur.",
+      "french": "52. Salomon répondit : S'il se conduit en homme de bien, il ne tombera pas en terre un seul cheveu de sa tête ; mais s'il se trouve dans quelque mauvaise action, il mourra.",
+      "annotations": "An du Monde 2989.",
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Miſit ergo Rex Salomon, & eduxit eum ab Altari : & ingreſſus adoravit Regem Salomonem : dixitque ei Salomon : Vade in domum tuam.",
+      "french": "53. Le Roi Salomon envoya donc vers Adonias, et le fit tirer de l'Autel : et Adonias s'étant présenté devant le Roi Salomon, l'adora ; et Salomon lui dit : Allez-vous en en vôtre maison.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    }
+  ]
+}

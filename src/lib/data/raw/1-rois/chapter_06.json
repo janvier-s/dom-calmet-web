@@ -1,0 +1,349 @@
+{
+  "book": "1 Rois",
+  "chapter": 6,
+  "chapter_summary": "Description du Temple bâti par Salomon.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "FActum eſt ergo quadringenteſimo & octogeſimo anno egreſſionis filiorum Iſraël de terra Ægypti, in menſe quarto menſe Zio, ( ipſe eſt menſis ſecundus, ) regni Salomonis ſuper Iſraël, ædificari cœpit domus Domino.",
+      "french": "ON commença à bâtir le Temple du Seigneur, quatre cent quatre-vingts ans après la sortie des enfants d'Israël hors de l'Égypte, la quatrième année du règne de Salomon sur Israël, au mois de Zio, qui est le second mois de l'année.",
+      "annotations": null,
+      "source_pages": [
+        "page_0141.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Domus autem quam ædificabat Rex Salomon Domino, habebat ſexaginta cubitos in longitudine & viginti cubitos in latitudine, & triginta cubitos in altitudine.",
+      "french": "La maison que le Roi Salomon bâtit à la gloire du Seigneur, avait soixante coudées de long, vingt coudées de large, et trente coudées de haut.",
+      "annotations": "An du Monde 2992.",
+      "source_pages": [
+        "page_0142.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et porticus erat ante Templum viginti cubitorum longitudinis, juxta mensuram latitudinis Templi: & habebat decem cubitos latitudinis ante faciem Templi.",
+      "french": "Il y avait un vestibule devant le Temple de vingt coudées de long, autant que le Temple avait de largeur ; et il avait dix coudées de large : et ce vestibule était devant la face du Temple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0143.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Fecitque in Templo feneſtras obliquas.",
+      "french": "Et il fit au Temple des fenêtres obliques.",
+      "annotations": null,
+      "source_pages": [
+        "page_0144.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et ædificavit ſuper parietem Templi tabulata per gyrum, in parietibus domûs per circuitum Templi & oraculi, & fecit latera in circuitu.",
+      "french": "Et il bâtit des étages sur les murailles du Temple, autour de l'enceinte du Temple et du Sanctuaire, et il fit des bas-côtés tout alentour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0145.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Tabulatum quod ſubter erat, quinque cubitos habebat latitudinis, & medium tabulatum ſex cubitorum latitudinis, & tertium tabulatum ſeptem habens cubitos latitudinis. Trabes autem poſuit in domo per circuitum forinſecùs, ut non harerent muris Templi.",
+      "french": "L'étage d'en-bas avait cinq coudées de large ; celui du milieu avait six coudées de large, et le troisième en avait sept. Il plaça les poutres autour du Temple par le dehors, afin qu'elles ne portassent point dans les murs du Temple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0146.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Domus autem cùm ædificaretur de lapidibus dolatis atque perfectis ædificata eſt : & malleus, & ſecuris, & omne ferramenta, non ſunt audita in domo cùm ædificaretur.",
+      "french": "Lorsque la maison se bâtissait, elle fut bâtie de pierres qui étaient déjà toutes taillées et achevées de polir : on n'entendait dans la maison ni marteau, ni cognée, ni le bruit d'aucun instrument, pendant qu'elle se bâtit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0146.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "8. Oſtium lateris medii in parte erat domûs dextræ : & per cochleam aſcendebant in medium cœnaculum, & à medio in tertium.",
+      "french": "8. La porte du milieu des bas-côtés était au côté droit de la maison du Seigneur, et on montait par un degré qui allait en tournant en la chambre du milieu, et de celle du milieu en la troisième.",
+      "annotations": "An du Monde 2992.",
+      "source_pages": [
+        "page_0148.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "9. Et ædificavit domum & conſummavit eam : texit quoque domum laquearibus cedrinis.",
+      "french": "9. Il bâtit ainsi, et acheva la maison du Seigneur, et il la couvrit de lambris de cèdre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0148.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "10. Et ædificavit tabulatum ſuper omnem domum quinque cubitis altitudinis, & operuit domum lignis cedrinis.",
+      "french": "10. Et il fit un étage au-dessus de tout l'édifice de cinq coudées de haut, et il couvrit cette maison de bois de cèdre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0148.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et factus eſt ſermo Domini ad Salomonem, dicens:",
+      "french": "Alors le Seigneur parla à Salomon, et lui dit:",
+      "annotations": "An du Monde 2992.",
+      "source_pages": [
+        "page_0149.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Domus hæc quam ædificas, ſi ambulaveris in præceptis meis, & judicia mea feceris, & cuſtodieris omnia mandata mea, gradiens per ea: firmabo ſermonem meum tibi, quem locutus ſum ad David patrem tuum.",
+      "french": "J'ai vu cette maison que vous bâtissez: si vous marchez dans mes préceptes, si vous exécutez mes ordonnances, et que vous gardiez tous mes commandements, sans vous en détourner d'un pas; je vérifierai en votre personne la parole que j'ai dite à David votre père:",
+      "annotations": "An du Monde 2992.",
+      "source_pages": [
+        "page_0150.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et habitabo in medio filiorum Iſraël, & non derelinquam populum meum Iſraël.",
+      "french": "J'habiterai au milieu des enfants d'Israël, et je n'abandonnerai point mon peuple d'Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0150.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Igitur ædificavit Salomon domum, & conſummavit eam.",
+      "french": "Salomon bâtit donc la maison du Seigneur, et l'acheva.",
+      "annotations": null,
+      "source_pages": [
+        "page_0150.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et ædificavit parietes domûs intrinſecùs tabulatis cedrinis, à pavimento domûs uſque ad ſummitatem parietum, & uſque ad laquearia, operuit lignis cedrinis intrinſecus: & texit pavimentum domûs tabulis abiegnis.",
+      "french": "Il lambrissa d'ais de cèdre le dedans des murailles du Temple. Depuis le pavé du Temple jusqu'au haut des murailles, et jusqu'au plancher d'en haut, il le couvrit par le dedans de lambris de cèdre; et il planchéia tout le Temple de bois de sapin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0150.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Ædificavitque viginti cubitorum ad poſteriorem partem Templi tabulata cedrina, à pavimento uſque ad ſuperiora: & fecit interiorem domum Oraculi in Sanctum Sanctorum.",
+      "french": "Il fit aussi une séparation d'ais de cèdre de vingt coudées au fond du Temple, depuis le plancher jusqu'au haut, et il fit en cet espace le lieu intérieur de l'oracle, qui est le Saint des Saints.",
+      "annotations": "An du Monde 2992.",
+      "source_pages": [
+        "page_0151.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Porrò quadraginta cubitorum erat ipſum Templum pro foribus Oraculi.",
+      "french": "Le Temple depuis l'entrée de l'Oracle, avait quarante coudées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0151.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et cedro omnis domus intrinſecùs veſtiebatur, habens tornaturas & juncturas ſuas fabrefactas, & cælaturas eminentes : omnia cedrinis tabulis veſtiebantur : nec omninò lapis apparere poterat in pariete.",
+      "french": "Et tout le Temple était au-dedans lambrissé de cèdre, et les jointures du bois étaient faites avec grand art, et ornées de sculptures et de moulures. Tout était revêtu de lambris de cèdre, et il ne paraissait point de pierres dans la muraille.",
+      "annotations": "An du Monde 2992,",
+      "source_pages": [
+        "page_0152.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Oraculum autem in medio domus, in interiori parte fecerat, ut poneret ibi Arcam fœderis Domini.",
+      "french": "Il fit l'Oracle au milieu du Temple, en la partie la plus intérieure, pour y mettre l'Arche de l'alliance du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0152.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Porrò Oraculum habebat viginti cubitos longitudinis, & viginti cubitos latitudinis, & viginti cubitos altitudinis : & operuit illud atque veſtivit auro puriffimo, ſed & Altare veſtivit cedro.",
+      "french": "L'Oracle avait vingt coudées de long, vingt coudées de large, et vingt coudées de haut, et il le couvrit et revêtit d'or très pur ; il couvrit aussi l'Autel de bois de cèdre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0152.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Domum quoque ante Oraculum operuit auro purissimo, & affixit laminas clavis aureis.",
+      "french": "Il couvrit encore d'un or très pur la partie du Temple qui était devant l'Oracle, et il attacha les lames d'or avec des clous d'or.",
+      "annotations": null,
+      "source_pages": [
+        "page_0153.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Nihilque erat in Templo quod non auro tegeretur : ſed & totum Altare Oraculi texit auro.",
+      "french": "Et il n'y avait rien dans le Temple qui ne fût couvert d'or. Il couvrit aussi d'or tout l'Autel de l'Oracle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et fecit in Oraculo duos Cherubim de lignis olivarum, decem cubitorum altitudinis.",
+      "french": "Il fit dans l'Oracle deux Chérubins de bois d'olivier, qui avaient dix coudées de haut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Quinque cubitorum ala Cherub una, & quinque cubitorum ala Cherub altera : id eſt, decem cubitos habentes, à ſummitate alæ unius uſque ad alæ alterius ſummitatem.",
+      "french": "L'une des ailes du Chérubin avait cinq coudées, et l'autre avait aussi cinq coudées ; ainsi il y avait dix coudées depuis l'extrémité d'une des ailes, jusqu'à l'extrémité de l'autre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Decem quoque cubitorum erat Cherub ſecundus : in menſura pari, & opus unum erat in duobus Cherubim,",
+      "french": "Le second Chérubin avait aussi dix coudées, avec les mêmes dimensions, et l'ouvrage de tous les deux était le même;",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Id eſt, altitudinem habebat unus Cherub decem cubitorum, & ſimiliter Cherub ſecundus.",
+      "french": "C'est-à-dire, que le premier Chérubin avait dix coudées de haut, et le second avait aussi la même hauteur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Poſuitque Cherubim in medio Templi interioris : extendebant autem alas ſuas Cherubim, & tangebat ala una parietem alterum : & ala Cherub ſecundi tangebat parietem alterum : ala autem altera in media parte Templi ſe invicem contingebant.",
+      "french": "Il mit les Chérubins au milieu du Temple intérieur, et ils avaient leurs ailes étendues. L'une des ailes du premier Chérubin touchait l'une des murailles, et l'aile du second Chérubin touchait l'autre muraille, et leurs secondes ailes se venaient joindre au milieu du Temple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0155.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Texit quoque Cherubim auro.",
+      "french": "Il couvrit aussi d'or les Chérubins.",
+      "annotations": null,
+      "source_pages": [
+        "page_0155.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et omnes parietes Templi per circuitum ſculpſit variis cælaturis & torno : & fecit in eis Cherubim, & palmas, & picturas varias, quaſi prominentes de pariete & egredientes.",
+      "french": "Il orna toutes les murailles du Temple tout alentour, de moulures et de sculptures, où il fit des Chérubins et des palmes en bas-relief, et diverses peintures, qui semblaient se détacher de leur fond, et sortir de la muraille.",
+      "annotations": null,
+      "source_pages": [
+        "page_0155.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Sed & pavimentum domûs texit auro intrinfecùs & extrinfecùs.",
+      "french": "Il couvrit aussi d'or le pavé du Temple, au-dedans et au-dehors.",
+      "annotations": "An du Monde 2991.",
+      "source_pages": [
+        "page_0156.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Et in ingreſſu Oraculi fecit oſtiala de lignis olivarum, poſtéſque angulorum quinque.",
+      "french": "Il fit à l'entrée de l'Oracle, de petites portes de bois d'olivier, et des poteaux à cinq pans.",
+      "annotations": null,
+      "source_pages": [
+        "page_0156.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et duo oſtia de lignis olivarum : & ſculpſit in eis picturam Cherubim, & palmarum ſpecies, & anaglypha valdè prominentia : & texit ea auro, & operuit tam Cherubim, quàm palmas, & cætera, auro.",
+      "french": "Il fit ces deux portes de bois d'olivier ; et il y fit tailler des figures de Chérubins et de palmes, et des basses-tailles avec beaucoup de relief ; et il couvrit d'or, tant les Chérubins, que les palmes, et tout le reste.",
+      "annotations": "An du Monde 2992.",
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Fecitque in introitu Templi, poſtes de lignis olivarum quadrangulatos :",
+      "french": "Il mit à l'entrée du Temple des poteaux de bois d'olivier, qui étaient taillés à quatre faces :",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et duo oſtia de lignis abiegnis altrinſecus : & utrúmque oſtium duplex erat, & ſe invicem tenens aperiebatur.",
+      "french": "Et il y mit deux portes de bois de sapin, l'une d'un côté, et l'autre de l'autre : chaque porte était brisée, et elle s'ouvrait ayant ses deux parties unies ensemble.",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et ſculpſit Cherubim, & palmas, & cælaturas valdè eminentes : operuitque omnia laminis aureis opere quadro ad regulam.",
+      "french": "Il fit tailler des Chérubins, des palmes, et d'autres ornements, avec beaucoup de saillie; et il couvrit de lames d'or le tout bien dressé à la règle et à l'équerre.",
+      "annotations": "An du Monde 2992.",
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et ædificavit atrium interius tribus ordinibus lapidum politorum, & uno ordine lignorum cedri.",
+      "french": "Il bâtit aussi le parvis intérieur, de trois rangs de pierres polies, et d'un rang de bois de cèdre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Anno quarto fundata eſt domus Domini in menſe Zio:",
+      "french": "Les fondements de la Maison du Seigneur furent posés la quatrième année, au mois de Zio:",
+      "annotations": "An du Monde 3000.",
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Et in anno undecimo, menſe Bul, ( ipſe eſt menſis octavus, ) perfecta eſt domus in omni opere ſuo, & in univerſis utenſilibus ſuis : ædificavitque eam annis ſeptem.",
+      "french": "Et la onzième année au mois de Bul, qui est le huitième mois, elle fut entièrement achevée, et dans toutes ses parties, et dans tout ce qui devait servir au culte de Dieu ; et Salomon fut sept ans à la bâtir.",
+      "annotations": "avant l'E. J. C. 1004.",
+      "source_pages": [
+        "page_0161.json"
+      ]
+    }
+  ]
+}
