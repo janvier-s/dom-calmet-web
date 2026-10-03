@@ -1,0 +1,268 @@
+{
+  "book": "2 Samuel",
+  "chapter": 1,
+  "chapter_summary": "_David fait mourir l'Amalécite qui lui apporte la nouvelle de la mort de Saül, et de Jonathas, et qui se vante de les avoir tués. Il compose un Cantique de deuil en leur honneur._",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Factum est autem postquam mortuus est Saül, ut David reverteretur a caede Amalec, et maneret in Siceleg duos dies.",
+      "french": "Après la mort de Saül, David ayant défait les Amalécites, et étant revenu à Siceleg, y avait passé deux jours.",
+      "annotations": "An. du Monde 2949. avant J. C. 1055.",
+      "source_pages": [
+        "page_0001.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "In die autem tertia, apparuit homo veniens de castris Saül, veste conscissa, et pulvere conspersus caput : et ut venit ad David, cecidit super faciem suam, et adoravit.",
+      "french": "Le troisième jour il parut un homme qui venait du camp de Saül ; ses habits étaient déchirés, et il avait la tête pleine de poussière. S'étant approché de David, il le salua en se prosternant jusqu'en terre.",
+      "annotations": "An. du Monde 2949.",
+      "source_pages": [
+        "page_0002.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Dixitque ad eum David : Unde venis ? Qui ait ad eum : De castris Israël fugi.",
+      "french": "David lui dit : D'où venez-vous ? Je me suis sauvé, dit-il, du camp d'Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0002.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et dixit ad eum David : Quod est verbum quod factum est ? Indica mihi. Qui ait : Fugit populus ex proelio, et multi corruentes è populo mortui sunt : sed et Saül et Jonathas filius ejus interierunt.",
+      "french": "David ajouta : Qu'est-il arrivé ? Dites-le-moi. Il lui répondit : La bataille s'est donnée ; le peuple a pris la fuite ; plusieurs ont été mis à mort, et Saül même et Jonathas son fils y ont été tués.",
+      "annotations": null,
+      "source_pages": [
+        "page_0002.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Dixitque David ad adolescentem, qui nuntiabat ei : Unde scis quia mortuus est Saül, et Jonathas filius ejus ?",
+      "french": "David dit au jeune homme, qui lui apportait cette nouvelle : Comment savez-vous que Saül, et son fils Jonathas sont morts ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0002.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "_Et ait adoleſcens, qui nuntiabat ei : Caſu veni in montem Gelboë, & Saul incumbibat ſuper haſtam ſuam : porrò currus & equites appropinquabant ei._",
+      "french": "Ce jeune homme lui répondit : Je me suis rencontré par hasard sur la montagne de Gelboë, et j'y ai trouvé Saül qui s'était jeté sur la pointe de son épée. Et comme les chariots et les cavaliers s'approchaient,",
+      "annotations": "An. du Monde 2949.",
+      "source_pages": [
+        "page_0003.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "_Et converſus poſt tergum ſuum, vidénſque me, vocavit. Cui cùm reſpondiſſem : Adſum :_",
+      "french": "Il m'a aperçu en se retournant, et m'a appelé. Je lui ai répondu : Me voici.",
+      "annotations": null,
+      "source_pages": [
+        "page_0003.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "_Dixit mihi : Quiſnam es tu ? Et aio ad eum : Amalecites ego ſum._",
+      "french": "Il m'a demandé qui j'étais; et je lui ai dit que j'étais Amalécite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0003.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "_Et locutus eſt mihi : Sta ſuper me, & interſice me : quoniam tenent me anguſtiæ, & adhuc tota anima mea in me eſt._",
+      "french": "Et il a ajouté : Approchez-vous de moi, et me tuez; parce que je suis accablé de douleur, et que je suis encore plein de vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0003.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Stánſque ſuper eum : occidi illum : ſciebam enim quòd vivere non poterat poſt ruinam : & tuli diadema quod erat in capite ejus, & armillam de brachio illius, & attuli ad te Dominum meum huc.",
+      "french": "M'étant donc approché de lui, je l'ai tué ; car je savais bien qu'il ne pouvait pas survivre à sa ruine. Et je lui ai ôté son diadème de dessus sa tête, et le bracelet de son bras, et je vous les ai apportés, à vous, Monseigneur.",
+      "annotations": "An. du Monde 2949.",
+      "source_pages": [
+        "page_0004.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Apprehendens autem David veſtimenta ſua, ſcidit, omnéſque viri qui erant cum eo.",
+      "french": "Alors David prit ses vêtements et les déchira, et tous ceux qui étaient auprès de lui firent la même chose.",
+      "annotations": "An. du Monde 2949.",
+      "source_pages": [
+        "page_0005.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et planxerunt, & fleverunt, & jejunaverunt uſque ad veſperam ſuper Saül, & ſuper Jonatham filium ejus, & ſuper populum Domini, & ſuper domum Iſraël, eò quòd corruiſſent gladio.",
+      "french": "Ils s'abandonnèrent au deuil et aux larmes, et ils jeûnèrent jusqu'au soir, à cause de la mort de Saül et de Jonathas son fils, et du malheur du peuple du Seigneur, et de la maison d'Israël, dont un grand nombre avait été passé au fil de l'épée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0005.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Dixitque David ad juvenem qui nuntiaverat ei: Undè es tu? Qui reſpondit: Filius hominis advenæ Amalecitæ ego ſum.",
+      "french": "David dit au jeune homme qui lui avait apporté cette nouvelle : D'où es-tu ? Il lui répondit : Je suis fils d'un Amalécite étranger dans le pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0005.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et ait ad eum David: Quare non timuiſti mittere manum tuam ut occideres Chriſtum Domini?",
+      "french": "David lui dit : Comment n'as-tu pas craint de mettre la main sur l'Oint du Seigneur, et de le tuer ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0005.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Vocánſque David unum de pueris ſuis, ait: Accedens irrue in eum. Qui percuſſit illum, & mortuus eſt.",
+      "french": "David appelant un de ses gens lui dit : Jetez-vous sur cet homme et le tuez. Aussitôt il le frappa, et il mourut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0005.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et ait ad eum David: Sanguis tuus ſuper caput tuum: os enim tuum locutum eſt adverſum te, dicens: Ego interfeci Chriſtum Domini.",
+      "french": "Et David lui dit: Que ton sang retombe sur ta tête, car tu t'es condamné par ta propre bouche, en disant: C'est moi qui ai tué l'Oint du Seigneur.",
+      "annotations": "An. du Monde 2949.",
+      "source_pages": [
+        "page_0006.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Planxit autem David planctum hujuſmodi ſuper Saül, & ſuper Jonathan filium ejus.",
+      "french": "Alors David composa ce Cantique funèbre, sur la mort de Saül et de Jonathas son fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0006.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et præcepit ut docerent filios Juda arcum, ſicut ſcriptum eſt in Libro juſtorum. Et ait: Conſidera Iſraël, pro his qui mortui ſunt ſuper excelſa tua vulnerati.",
+      "french": "Et il ordonna, qu'on enseignât aux enfants de Juda ce Cantique, appelé l'Arc, comme il est écrit dans le Livre des Justes: et il dit: Considère, ô Israël! qui sont ceux qui ont été blessés, et qui sont morts sur tes collines.",
+      "annotations": null,
+      "source_pages": [
+        "page_0006.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Inclyti Iſraël, ſuper montes tuos interfecti ſunt : Quomodo ceciderunt fortes ?",
+      "french": "L'élite d'Israël a été tuée sur toutes les montagnes. Comment ces vaillants hommes sont-ils tombés morts ?",
+      "annotations": "2949.",
+      "source_pages": [
+        "page_0008.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Nolite annuntiare in Geth, neque annuntietis in compitis Aſcalonis : ne fortè lætentur filiæ Philiſthüm, ne exultent filiæ incircumciſorum.",
+      "french": "N'annoncez point cette nouvelle dans Geth : ne la publiez pas dans les places publiques d'Ascalon ; de peur que les filles des Philistins ne s'en réjouissent, que les filles des incirconcis n'en triomphent de joie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0008.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "NOLITE ANNUNTIARE IN GETH, ... NE FORTÈ LÆTENTUR FILIÆ PHILISTHIIM.",
+      "french": "_N’annoncez point cette nouvelle dans Geth, ... de peur que les filles des Philistins ne s’en réjouissent._",
+      "annotations": null,
+      "source_pages": [
+        "page_0009.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Montes Gelboë, nec ros, nec pluvia veniant ſuper vos, neque ſint agri primitiarum : quia ibi abjectus eſt clypeus fortium, clypeus Saül, quaſi non eſſet unctus oleo.",
+      "french": "Montagnes de Gelboë, que la rosée et la pluie ne tombent jamais sur vous. Qu'il n'y ait point sur vos coteaux, de champs dont on offre les prémices ; parce que c'est là qu'a été jeté le bouclier des forts d'Israël, le bouclier de Saül, comme s'il n'eût point été sacré de l'huile sainte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0008.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "MONTES GELBOE, NEC ROS, NEC PLUVIA VENIANT SUPER VOS.",
+      "french": "_Montagnes de Gelboé, que jamais ni la rosée, ni la pluie ne tombent sur vous._",
+      "annotations": null,
+      "source_pages": [
+        "page_0009.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "_A ſanguine interfectorum, ab adipe fortium, ſagitta Jonathæ nunquam rediit retrorſum, & gladius Saül non eſt reverſus inanis._",
+      "french": "_Jamais la flèche de Jonathas n'était retournée en arrière, mais elle avait toujours été teinte du sang des morts, du carnage des plus vaillants ; et jamais l'épée de Saül n'avait été tirée en vain._",
+      "annotations": "An. du Monde 2949.",
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Saül & Jonathas amabiles, & decori in vita ſua, in morte quoque non ſunt diviſi : aquilis velociores, leonibus fortiores.",
+      "french": "Saül et Jonathas si aimables durant leur vie, et d'un air si majestueux, plus prompts et plus légers que les aigles, et plus courageux que les lions, sont demeurés inséparables dans leur mort même.",
+      "annotations": "An. du Monde 2949",
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Filiæ Iſraël ſuper Saül flete, qui veſtiebat vos coccino in deliciis, qui præbebat ornamenta aurea cultui veſtro.",
+      "french": "Filles d'Israël, pleurez sur Saül, qui vous revêtait d'écarlate parmi la pompe et les délices, et qui vous donnait des ornements d'or pour vous parer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Quomodo ceciderunt fortes in prælio? Jonathas in excelſis tuis occiſus eſt?",
+      "french": "Comment les braves sont-ils tombés dans le combat ? Comment Jonathas a-t-il été tué sur vos montagnes ?",
+      "annotations": "An. du Monde 2949.",
+      "source_pages": [
+        "page_0012.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Doleo ſuper te, frater mi Jonatha, decore nimis, & amabilis ſuper amorem mulierum. Sicut mater unicum amat filium ſuum, ita ego te diligebam.",
+      "french": "Votre mort me perce de douleur, Jonathas mon frère, le plus beau des Princes ; plus aimable que les plus aimables des femmes. Je vous aimais comme une mère aime son fils unique.",
+      "annotations": null,
+      "source_pages": [
+        "page_0012.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Quomodo ceciderunt robuſti : & perierunt arma bellica ?",
+      "french": "Comment ces braves sont-ils tombés ? Comment leurs armes sont-elles péries ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0013.json"
+      ]
+    }
+  ]
+}

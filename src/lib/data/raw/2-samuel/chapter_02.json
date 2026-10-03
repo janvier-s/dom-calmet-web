@@ -1,0 +1,295 @@
+{
+  "book": "2 Samuel",
+  "chapter": 2,
+  "chapter_summary": "_David consulte le Seigneur, qui lui ordonne de venir à Hébron, où il est sacré Roi de Juda. Isboseth est reconnu pour Roi par les autres tribus d'Israël. Combat entre l'armée de David, commandée par Joab, et celle d'Isboseth, commandée par Abner. Mort d'Asaël._",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Igitur poſt hæc conſuluit David Dominum, dicens : Num aſcendam in unam de civitatibus Juda? Et ait Dominus ad eum: Aſcende. Dixitque David: Quò aſcendam? Et reſpondit ei: In Hebron.",
+      "french": "Après cela David consulta le Seigneur, et lui dit : Irai-je dans quelqu'une des villes de Juda ? Le Seigneur lui dit : Allez. David lui demanda : Où irai-je ? Le Seigneur lui répondit : Allez à Hébron.",
+      "annotations": "℣. 1.",
+      "source_pages": [
+        "page_0015.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Aſcendit ergo David, & duæ uxores ejus, Achinoam Jezraëlites, & Abigail uxor Nabal Carmeli.",
+      "french": "David y alla donc avec ses deux femmes, Achinoam de Jezraël, et Abigail veuve de Nabal du Carmel.",
+      "annotations": "An. du Monde 2949.",
+      "source_pages": [
+        "page_0016.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Sed & viros, qui erant cum eo, duxit David ſingulos cum domo ſua: & manſerunt in oppidis Hebron.",
+      "french": "David y mena aussi les gens qui étaient avec lui, chacun d'eux y vint avec sa famille; et ils demeurèrent dans les villes d'Hébron.",
+      "annotations": null,
+      "source_pages": [
+        "page_0016.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Venerúntque viri Juda, & unxerunt ibi David, ut regnaret ſuper domum Juda. Et nuntiatum eſt David, quod viri Jabes Galaad ſepeliſſent Saul.",
+      "french": "Alors ceux de la tribu de Juda étant venus à Hébron, y donnèrent l'onction à David, afin qu'il régnât sur la maison de Juda. En même temps on rapporta à David, que ceux de Jabès en Galaad avaient enseveli Saül.",
+      "annotations": null,
+      "source_pages": [
+        "page_0016.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Miſit ergò David nuntios ad viros Jabes Galaad, dixitque ad eos : Benedicti vos Domino, qui feciſtis miſericordiam hanc cum Domino veſtro Saül, & ſepeliſtis eum.",
+      "french": "Il y envoya donc des gens pour leur dire : Bénis soyez-vous du Seigneur, de ce que vous avez usé de cette humanité envers Saül votre Seigneur, et de ce que vous l’avez enseveli.",
+      "annotations": null,
+      "source_pages": [
+        "page_0017.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et nunc retribuet vobis quidem Dominus miſericordiam & veritatem : ſed & ego reddam gratiam, eò quòd feciſtis verbum iſtud.",
+      "french": "Le Seigneur vous en tiendra compte selon sa miséricorde et sa vérité; et moi-même je vous récompenserai de cette action que vous avez faite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0017.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Confortentur manus veſtræ, & eſtote filii fortitudinis : licet enim mortuus ſit Dominus veſter Saül, tamen me unxit domus Juda in Regem ſibi.",
+      "french": "Ne vous laissez point abattre, et soyez gens de cœur; car encore que Saül votre Roi soit mort, néanmoins la maison de Juda m’a sacré pour être son Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0017.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Abner autem filius Ner, princeps exercitûs Saül, tulit Isboseth filium Saül, & circumduxit eum per castra,",
+      "french": "D'un autre côté Abner fils de Ner, Général de l'armée de Saül, prit Isboseth, fils de Saül; et l'ayant fait conduire par tout le camp,",
+      "annotations": "An. du Monde 2949.",
+      "source_pages": [
+        "page_0018.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Regémque confirmis ſuper Galaad, & ſuper Geſſuri, & ſuper Jezraël, & ſuper Ephraïm, & ſuper Benjamin, & ſuper Iſraël univerſum.",
+      "french": "L'établit Roi sur Galaad, sur Gessuri, sur Jezraël, sur Éphraïm, sur Benjamin et sur tout Israël.",
+      "annotations": "An. du Monde 2949.",
+      "source_pages": [
+        "page_0019.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quadraginta annorum erat Iſboſeth filius Saul, cùm regnare cœpiſſet ſuper Iſraël, & duobus annis regnavit. Sola autem domus Juda ſequebatur David.",
+      "french": "Isboseth fils de Saül avait quarante ans lorsqu'il commença à régner sur Israël ; et il régna deux ans. Il n'y avait alors que la seule maison de Juda qui suivit David.",
+      "annotations": null,
+      "source_pages": [
+        "page_0019.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et fuit numerus dierum, quos commoratus eſt David, imperans in Hebron ſuper domum Juda, ſeptem annorum & ſex menſium.",
+      "french": "Et il demeura à Hébron sept ans et demi, n’étant Roi que de cette seule tribu.",
+      "annotations": "An. du Monde .2949.",
+      "source_pages": [
+        "page_0020.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Egreſſuſque eſt Abner filius Ner, & pueri Isboſeth filii Saül, de caſtris in Gabaon.",
+      "french": "Alors Abner, fils de Ner, sortit du camp, et vint à Gabaon avec les gens d’Isboseth fils de Saül.",
+      "annotations": null,
+      "source_pages": [
+        "page_0020.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Porrò Joab filius Sarviæ, & pueri David egreſſi ſunt, & occurrerunt eis juxtà piſcinam Gabaon. Et cùm in unum conveniſſent, è regione ſederunt : hi ex una parte piſcinæ, & illi ex altera.",
+      "french": "Joab fils de Sarvia, marcha contre lui avec les troupes de David, et ils se rencontrèrent près de la piscine de Gabaon. Les armées s’étant approchées, elles s’assirent l’une devant l’autre ; l’une était d’un côté de la piscine, et l’autre de l’autre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0020.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Dixitque Abner ad Joab : Surgant pueri & ludant coràm nobis. Et reſpondit Joab : Surgant.",
+      "french": "Abner dit à Joab: Que quelques jeunes gens se lèvent, et qu’ils jouent devant tous. Joab répondit: Qu’ils se lèvent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0020.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Surrexerunt ergo, & tranfierunt numero duodecim de Benjamin, ex parte Isboseth filii Saul, & duodecim de pueris David.",
+      "french": "Aussitôt douze hommes de Benjamin, du côté d'Isboseth fils de Saül se lèvent, et se présentent: il en vint aussi douze du côté de David.",
+      "annotations": "An. du Monde 2949.",
+      "source_pages": [
+        "page_0021.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Apprehensóque unusquisque capite comparis sui, defixit gladium in latus contrarii, & ceciderunt simul: vocatúmque est nomen loci illius: Ager robustorum, in Gabaon.",
+      "french": "Et chacun d'eux ayant pris par la tête celui qui se présenta devant lui, ils se passèrent tous l'épée au travers des corps, et tombèrent morts tous ensemble; et ce lieu s'appela, le champ des vaillants à Gabaon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0021.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et ortum eſt bellum durum ſatis in die illa: fugatúſque eſt Abner, & viri Iſraël, à pueris David.",
+      "french": "17. Il se donna ce jour-là un assez rude combat; et Abner fut défait avec ceux d'Israël par les troupes de David.",
+      "annotations": null,
+      "source_pages": [
+        "page_0022.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Erant autem ibi tres filii Sarviæ, Joab, & Abiſaï, & Aſaël: porrò Aſaël curſor velociſſimus fuit, quaſi unus de capreis quæ morantur in ſilvis.",
+      "french": "18. Les trois fils de Sarvia, Joab, Abisaï, et Asaël étaient dans la bataille. Or Asaël était extrêmement agile et léger à la course, et il égalait en vitesse les chevreuils qui sont dans les bois.",
+      "annotations": "An. du Monde 2949.",
+      "source_pages": [
+        "page_0022.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Perſequebatur autem Aſaël Abner, & non declinavit ad dexteram, neque ad ſiniſtram, omittens perſequi Abner.",
+      "french": "19. Il s'attacha donc à poursuivre Abner, sans se détourner ni à droite ni à gauche, et sans le quitter jamais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0022.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Reſpexit itaque Abner poſt tergum ſuum, & ait: Tunc es Aſaël? Qui reſpondit: Ego ſum.",
+      "french": "20. Abner regardant derrière, lui dit: Êtes-vous Asaël? il lui répondit: Oui, je le suis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0022.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Dixitque ei Abner: Vade ad dexteram, ſive ad ſiniſtram, & apprehende unum de adoleſcentibus, & tolle tibi ſpolia ejus. Noluit autem Aſaël omittere quin urgeret eum.",
+      "french": "21. Abner lui dit: Allez ou à droite, ou à gauche, et attaquez quelqu'un de ces jeunes gens, et prenez pour vous ses dépouilles. Mais Asaël ne voulut point cesser de le poursuivre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0022.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Rursúmque locutus eſt Abner ad Aſaël: Recede, noli me ſequi, ne compellar confodere te in terram, & levare non potero faciem meam ad Joab fratrem tuum.",
+      "french": "Abner lui parla donc encore, et lui dit : Retirez-vous, ne me suivez pas davantage, de peur que je ne sois obligé de vous percer de ma lance ; et qu'après cela je ne puisse plus paraître devant Joab votre frère.",
+      "annotations": "An. de Monde 2949.",
+      "source_pages": [
+        "page_0023.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Qui ire contempſit, & noluit declinare: percuſſit ergo eum Abner averſa haſta in inguine, & transfixit, & mortuus eſt in eodem loco: omnéſque qui tranſibant per locum illum, in quo occiderat Aſaël, & mortuus erat, ſubſiſtebant.",
+      "french": "Asaël méprisant ce qu'il lui disait, ne voulut point se détourner. Abner lui porta donc de l'arrière-main dans l'aine, un coup de la pointe de sa lance, qui le perça, et le tua sur la place. Tous ceux qui passaient par ce lieu où Asaël était tombé mort, s'arrêtaient.",
+      "annotations": null,
+      "source_pages": [
+        "page_0023.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Perſequentibus autem Joab & Abiſai fugientem Abner, ſol occubuit : & venerunt uſque ad collem aquæductus, qui eſt ex adverſo vallis itineris deſerti in Gabaon.",
+      "french": "24. Mais Joab et Abisaï continuant à poursuivre Abner qui s'enfuyait, le soleil se coucha lorsqu'ils arrivèrent à la colline de l'aqueduc, qui est vis-à-vis de la vallée, au chemin du désert de Gabaon:",
+      "annotations": "An. du Monde 2949.",
+      "source_pages": [
+        "page_0024.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Congregatique ſunt filii Benjamin ad Abner : & conglobati in unum cuneum, ſteterunt in ſummitate tumuli unius.",
+      "french": "25. Et les enfants de Benjamin se rallièrent auprès d'Abner ; et ayant fait un gros, s'arrêtèrent sur le sommet d'une éminence.",
+      "annotations": null,
+      "source_pages": [
+        "page_0024.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Exclamavit Abner ad Joab, & ait : Num uſque ad internecionem tuus mucro deſæviet ? An ignoras quòd periculosa ſit deſperatio ? Uſquequò non dicis populo, ut omittat perſequi fratres ſuos.",
+      "french": "26. Alors Abner cria à Joab : Votre épée ne se rassasiera-t-elle donc point de sang et de meurtres ? Ignorez-vous qu'il est dangereux de jeter son ennemi dans le désespoir ? N'est-il pas temps enfin de dire au peuple, qu'il cesse de poursuivre ses frères ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0024.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et ait Joab; Vivit Dominus, ſi locutus fuiſſes, manè receſſiſſet populus perfequens fratrem ſuum.",
+      "french": "Joab lui répondit : Vive le Seigneur, si vous l'eussiez plutôt dit, le peuple se fût retiré dès le matin, et il eût cessé de poursuivre ses frères. An du Monde 2949.",
+      "annotations": null,
+      "source_pages": [
+        "page_0025.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Inſonuit ergò Jôab buccinâ, & ſtetit omnis exercitus, nec perfecuti ſunt ultrà Iſraël, neque iniêre certamen.",
+      "french": "Joab sonna donc du cor, et toute l'armée s'arrêta, et cessa de poursuivre Israël, et de le combattre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0025.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Abner autem & viri ejus abierunt per campeſtria, tota nocte illa, & tranſierunt Jordanem, & luſtrata omni Bethoron, venerunt ad caſtra.",
+      "french": "Abner avec ses gens marcha par la campagne toute cette nuit ; et ayant passé le Jourdain et traversé tout Béthoron, il revint au camp.",
+      "annotations": "An. du Monde 2949.",
+      "source_pages": [
+        "page_0026.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Porrò Joab reverſus, omiſſo Abner, congregavit omnem populum : & defuerunt de pueris David decem & novem viri, excepto Aſaële.",
+      "french": "Joab ayant cessé de poursuivre Abner, et étant revenu, assembla toute l'armée ; et on ne trouva de morts du côté de David, que dix-neuf hommes, sans compter Asaël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0026.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Servi autem David percuſſerunt de Benjamin, & de viris qui erant cum Abner, trecentos ſexaginta, qui & mortui ſunt.",
+      "french": "Mais les gens de David tuèrent de Benjamin et de ceux qui étaient avec Abner, trois cents soixante hommes, qui demeurèrent sur la place.",
+      "annotations": null,
+      "source_pages": [
+        "page_0026.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Tulerúntque Aſaël, & ſepelierunt eum in ſepulchro patris ſui in Bethleem : & ambulaverunt tota nocte Joab & viri qui erant cum eo ; & in ipſo crepuſculo pervenerunt in Hebron.",
+      "french": "On emporta le corps d'Asaël, et on le mit dans le sépulcre de son père à Bethléem. Et Joab ayant marché toute la nuit avec les gens qui étaient avec lui, arriva à Hébron au point du jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0026.json"
+      ]
+    }
+  ]
+}

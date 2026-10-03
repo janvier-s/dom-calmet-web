@@ -8,7 +8,8 @@
 		{ id: 'josue', name: 'Josué', chapters: 24 },
 		{ id: 'juges', name: 'Juges', chapters: 21 },
 		{ id: 'ruth', name: 'Ruth', chapters: 4 },
-		{ id: '1-samuel', name: '1 Samuel', chapters: 31 }
+		{ id: '1-samuel', name: '1 Samuel', chapters: 31 },
+		{ id: '2-samuel', name: '2 Samuel', chapters: 24 }
 	];
 
 	let openBook = $state('genese');

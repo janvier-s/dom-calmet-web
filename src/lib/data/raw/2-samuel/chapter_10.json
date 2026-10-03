@@ -1,0 +1,178 @@
+{
+  "book": "2 Samuel",
+  "chapter": 10,
+  "chapter_summary": "David envoie des Ambassadeurs au Roi des Ammonites, pour le consoler de la mort de son père. Le Roi des Ammonites fait outrage à ces Ambassadeurs, et leur coupe la moitié de la barbe, et de leurs habits. David lui déclare la guerre, et le défait, lui et les troupes étrangères qu'il avait appelées à son secours.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "FActum eſt autem poſt hæc, ut moreretur Rex filiorum Ammon, & regnavit Hanon filius ejus pro eo.",
+      "french": "Il arriva que quelque temps après le Roi des Ammonites vint à mourir; et Hanon son fils régna en sa place.",
+      "annotations": "An. du Monde 2967. avant J. C. 1037.",
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Dixitque David : faciam miſericordiam cum Hanon filio Naas, ſicut fecit pater ejus mecum miſericordiam. Miſit ergò David, conſolans eum per ſervos ſuos ſuper patris interitu : Cum autem veniſſent ſervi David in terram filiorum Ammon,",
+      "french": "Alors David dit : Je veux témoigner de l'affection envers Hanon fils de Naas, comme son père m'en a témoigné. Il lui envoya donc des Ambassadeurs pour le consoler de la mort de son père. Mais lorsqu'ils furent arrivés sur les terres des Ammonites,",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Dixerunt Principes filiorum Ammon ad Hanon Dominum ſuum : Putas quòd propter honorem patris tui miſerit David ad te conſolatores, & non ideò ut inveſtigaret, & exploraret civitatem, & everteret eam, miſit David ſervos ſuos ad te ?",
+      "french": "Les Grands du pays dirent à Hanon leur maître : Croyez-vous que ce soit pour honorer votre père et pour vous consoler, que David vous ait envoyé ici des Ambassadeurs ? Et ne voyez-vous pas qu'il ne l'a fait que pour reconnaître la ville, pour y remarquer toutes choses, et pour la détruire un jour ?",
+      "annotations": "An. du Monde 2967.",
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Tulit itaque Hanon ſervos David, raſitque dimidiam partem barbæ eorum, & præcidit veſtes eorum medias uſque ad nates, & dimiſit eos.",
+      "french": "Hanon fit donc prendre les serviteurs de David, leur fit raser la moitié de la barbe, et leur fit couper la moitié de leurs habits, jusqu'au haut des cuisses, et les renvoya.",
+      "annotations": null,
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quod cùm nuntiatum eſſet David, miſit in occurſum eorum : erant enim viri confuſi turpiter valdè, & mandavit eis David : Manete in Jericho, donec creſcat barba veſtra, & tunc revertimini.",
+      "french": "David ayant reçu la nouvelle qu'ils avaient été outragés si honteusement, envoya au devant d'eux, et leur donna cet ordre : Demeurez à Jéricho, jusqu'à ce que votre barbe soit crue ; et après cela vous reviendrez.",
+      "annotations": "An. du Monde 2967.",
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Videntes autem filii Ammon quòd injuriam feciſſent David, miſerunt & conduxerunt mercede Syrum Rohob, & Syrum Soba, viginti millia peditum, & à Rege Maacha mille viros, & ab Iſtob duodecim millia virorum.",
+      "french": "Or les Ammonites voyant qu'ils avaient offensé David, envoyèrent vers les Syriens de Rohob, et les Syriens de Soba, et ils firent lever à leurs dépens vingt mille hommes de pied. Ils prirent aussi mille hommes du Roi de Maacha, et douze mille d'Istob.",
+      "annotations": null,
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quod cum audiſſet David, miſit Joab & omnem exercitum bellatorum.",
+      "french": "David en ayant été averti envoya contre eux Joab avec toutes ses troupes.",
+      "annotations": "An. du Monde 2967.",
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Egreſſi ſunt ergò filii Ammon, & direxerunt aciem ante ipſum introitum portæ : Syrus autem Soba, & Rohob, & Iſtob, & Maacha ſorfum erant in campo.",
+      "french": "Les Ammonites s'étant mis en campagne, rangèrent leur armée en bataille à l'entrée de la porte de la ville, et les Syriens de Soba, et de Rohob, d'Istob, et de Maacha étaient dans un corps séparé dans la plaine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Videns igitur Joab quòd præparatum eſſet adverſum ſe prælium, & ex adverſo & poſt tergum, elegit ex omnibus electis Iſraël, & inſtruxit aciem contra Syrum.",
+      "french": "Joab voyant donc les ennemis préparés à le combattre de front et par derrière, prit l'élite d'Israël, et marcha en bataille, contre les Syriens.",
+      "annotations": "An. du Monde 2967.",
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Reliquam autem partem populi tradidit Abiſaï fratri ſuo, qui direxit aciem adverſus filios Ammon.",
+      "french": "Il donna le reste de l'armée à Abisaï son frère, qui marcha pour combattre les Ammonites.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et ait Joab : Si prævaluerint adverſum me Syri, eris mihi in adjutorium : ſi autem filii Ammon prævaluerint in te, auxiliabor tibi.",
+      "french": "Et Joab dit à Abisaï : Si les Syriens ont de l'avantage sur moi, vous viendrez à mon secours; et si les Ammonites en ont sur vous, je viendrai aussi vous secourir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Eſto vir fortis, & pugnemus pro populo noſtro, & civitate Dei noſtri : Dominus autem faciet quod bonum eſt in conſpectu ſuo.",
+      "french": "Agissez en homme de cœur, et combattons pour notre peuple, et pour la cité de notre Dieu; et le Seigneur ordonnera de tout comme il lui plaira.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Iniit itaque Joab, & populus qui erat cum eo, certamen contra Syros: qui ſtatim fugerunt à facie ejus.",
+      "french": "Joab attaqua donc les Syriens avec les troupes qu'il commandait; et aussitôt les Syriens fuirent devant lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Filii autem Ammon videntes quia fugiſſent Syri, fugerunt & ipſi à facie Abiſaï, & ingreſſi ſunt civitatem : reverſuſque eſt Joab à filiis Ammon, & venit Jeruſalem.",
+      "french": "Les Ammonites voyant la fuite des Syriens, s'enfuirent aussi eux-mêmes, devant Abisaï, et se retirèrent dans la ville. Joab après avoir battu les Ammonites s'en retourna, et revint à Jérusalem.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Videntes igitur Syri quoniam corruiſſent coram Iſraël, congregati ſunt pariter.",
+      "french": "Les Syriens voyant qu'ils avaient été défaits par Israël, s'assemblèrent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Miſitque Adarezer, & eduxit Syros qui erant trans fluvium, & adduxit eorum exercitum : Sobach autem magiſter militiæ Adarezer, erat princeps eorum.",
+      "french": "Et Adarézer envoya demander du secours aux Syriens, qui étaient au-delà du fleuve; et en tira des troupes, que Sobach Général de l'armée d'Adarézer commandait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Quod cùm nuntiatum eſſet David, contraxit omnem Iſraëlem, & tranſivit Jordanem, venitque in Helam : & direxerunt aciem Syri ex adverſo David, & pugnaverunt contra eum.",
+      "french": "17. David en ayant reçu des nouvelles, assembla toutes les troupes d'Israël; passa le Jourdain, et vint à Hélam. Les Syriens marchèrent contre David, et lui donnèrent bataille.",
+      "annotations": "An. du Monde 2967.",
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Fugerúntque Syri à facie Iſraël, & occidit David de Syris ſeptingentos currus, & quadraginta millia equitum : & Sobach Principem militiæ percuſſit : qui ſtatim mortuus eſt.",
+      "french": "18. Mais l'armée d'Israël les mit en fuite, et David tailla en pièces sept cents chariots de leurs troupes, et quarante mille chevaux ; et blessa tellement Sobach Général de l'armée, qu'il mourut sur le champ.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Videntes autem univerſi Reges, qui erant in præſidio Adarezer, ſe victos eſſe ab Iſraël, expaverunt & fugerunt quinquaginta & octo millia coram Iſraël. Et fecerunt pacem cum Iſraël : & ſervierunt eis, timuerúntque Syri auxilium præbere ultrà filiis Ammon.",
+      "french": "Tous les Rois qui étaient venus au secours d'Adarézer se voyant vaincus par les Israélites, furent saisis de frayeur ; et s'enfuirent devant eux avec cinquante-huit mille hommes. Ils firent la paix ensuite avec les Israélites, et leur furent assujettis. Depuis ce temps-là les Syriens appréhendèrent de donner secours aux Ammonites.",
+      "annotations": "An. du Monde. 2968.",
+      "source_pages": [
+        "page_0105.json"
+      ]
+    }
+  ]
+}

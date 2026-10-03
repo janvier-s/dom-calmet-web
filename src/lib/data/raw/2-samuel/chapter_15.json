@@ -1,0 +1,358 @@
+{
+  "book": "2 Samuel",
+  "chapter": 15,
+  "chapter_summary": "_Absalon ayant gagné la faveur du peuple, se fait proclamer Roi à Hébron. David s'enfuit de Jérusalem avec sa maison. Il renvoie l'Arche avec les grands-prêtres à Jérusalem ; il y renvoie aussi Chusaï, pour détruire les conseils d'Achitophel._",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "IGitur poſt hæc fecit ſibi Abſalom currus, & equites, & quinquaginta viros qui præcederent eum.",
+      "french": "Après cela Absalon prit des chariots, des gens de cheval, et cinquante hommes qui marchaient devant lui.",
+      "annotations": "An. du Monde 2980. avant J.C. 1024.",
+      "source_pages": [
+        "page_0155.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et manè conſurgens Abſalom ſtabat juxtà introïtum portæ, & omnem virum, qui habebat negotium ut veniret ad Regis judicium, vocabat Abſalom ad ſe, & dicebat : De quâ civitate es tu ? Qui reſpondens aiebat : Ex una tribu Iſraël ego ſum ſervus tuus.",
+      "french": "Et se levant dès le matin, il se tenait à l'entrée du Palais; il appelait tous ceux qui avaient des affaires, et qui venaient demander justice au Roi ; et il disait à chacun d'eux: D'où êtes-vous ? Cet homme lui répondait: Votre serviteur est de telle tribu d'Israël.",
+      "annotations": "An. du Monde 2980.",
+      "source_pages": [
+        "page_0156.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Reſpondebátque ei Abſalom: Videntur mihi ſermones tui boni & juſti. Sed non eſt qui te audiat conſtitutus à Rege, dicebátque Abſalom :",
+      "french": "Et Absalon lui disait: Votre affaire me paraît bonne et bien juste. Mais le Roi n'a commis personne pour vous entendre. Et il ajoutait:",
+      "annotations": null,
+      "source_pages": [
+        "page_0156.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "_Quis me conſtituet judicem ſuper terram, ut ad me veniant omnes qui habent negotium, & juſtè judicem._",
+      "french": "_Ô qui m'établira Juge sur les pays, afin que tous ceux qui ont des affaires viennent à moi, et que je les juge selon la justice !_",
+      "annotations": "An. du Monde 2980.",
+      "source_pages": [
+        "page_0157.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "_Sed & cùm accederet ad eum homo ut ſalutaret illum, extendebat manum ſuam, & apprehendens oſculabatur eum._",
+      "french": "_Et lorsque quelqu'un venait lui faire la révérence, il lui tendait la main, le prenait et le baisait._",
+      "annotations": null,
+      "source_pages": [
+        "page_0157.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "_Faciebátque hoc omni Iſraël venienti ad judicium, ut audiretur à Rege, & ſollicitabat corda virorum Iſraël._",
+      "french": "_Il traitait ainsi ceux qui venaient de toutes les villes d'Israël demander justice au Roi : et il s'insinuait par-là dans l'affection des peuples._",
+      "annotations": null,
+      "source_pages": [
+        "page_0157.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Poſt quadraginta autem annos, dixit Abſalom ad Regem David: Vadam, & reddam vota mea quæ vovi Domino in Hebron.",
+      "french": "Quarante ans après, Absalon dit au Roi David : Permettez-moi d'aller à Hébron, pour y accomplir les vœux que j'ai faits au Seigneur.",
+      "annotations": "An. du Monde 2984.",
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Vovens enim vovit ſervus tuus, cùm eſſet in Geſſur Syriæ, dicens : Si reduxerit me Dominus in Jeruſalem, ſacrificabo Domino.",
+      "french": "Car lorsque j'étais à Gessur en Syrie, j'ai fait ce vœu à Dieu : Si le Seigneur me ramène à Jérusalem, je lui offrirai un sacrifice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Dixitque ei Rex David : Vade in pace. Et ſurrexit, & abiit in Hebron.",
+      "french": "Le Roi David lui dit : Allez en paix. Et Absalon s'en alla à Hébron.",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Miſit autem Abſalom exploratores in univerſas tribus Iſraël, dicens : Statim ut audieritis clangorem buccinæ, dicite : Regnavit Abſalom in Hebron.",
+      "french": "En même temps il envoya dans toutes les tribus d'Israël des gens qu'il avait gagnés, avec cet ordre : Aussitôt que vous entendrez sonner de la trompette, publiez qu'Absalon règne dans Hébron.",
+      "annotations": "An. du Monde 2984.",
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Porrò cum Abſalom ierunt ducenti viri de Jeruſalem vocati, euntes ſimplici corde, & cauſam penitùs ignorantes.",
+      "french": "Absalon amena avec lui deux cents hommes de Jérusalem, qui le suivirent simplement, sans savoir en aucune sorte son dessein.",
+      "annotations": null,
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Accerſivit quoque Abſalom Achitophel Gilonitem conſiliarium David, de civitate ſua Gilo. Cúmque immolaret victimas, facta eſt conjuratio valida, populúſque concurrens augebatur cum Abſalom.",
+      "french": "12. Absalon fit venir aussi de la ville de Gilo, Achitophel conseiller de David, qui était de la même ville. Et à l'occasion des victimes qui lui furent offertes, la conspiration devint puissante, et le peuple, qui entrait en foule, croissait de plus en plus.",
+      "annotations": "An. du Monde 2984",
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Venit igitur nuntius ad David, dicens : Toto corde univerſus Iſraël ſequitur Abſalom.",
+      "french": "13. Il vint aussitôt un courrier à David, qui lui dit : Tout Israël suit Absalon de tout son cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et ait David ſervis ſuis, qui erant cum eo in Jeruſalem : Surgite, fugiamus : neque enim erit nobis effugium à facie Abſalom. Feſtinate egredi, ne fortè veniens occupet nos, & impellat ſuper nos ruinam, & percutiat civitatem in ore gladii.",
+      "french": "14. David dit à ses officiers qui étaient avec lui à Jérusalem : Allons, fuyons d'ici, car nous ne pourrons éviter de tomber entre les mains d'Absalon. Hâtons-nous de sortir, de peur qu'il ne nous prévienne, que nous ne nous trouvions exposés à la violence, et qu'il ne fasse passer toute la ville au fil de l'épée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Dixerúntque ſervi Regis ad eum : Omnia quæcunque præceperit Dominus noſter Rex, libenter exequemur ſervi tui.",
+      "french": "Les officiers du Roi lui dirent : Nous exécuterons toujours de tout notre cœur, tout ce qu'il vous plaira de nous commander.",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Egreſſus eſt ergò Rex, & univerſa domus ejus, pedibus ſuis: & reliquit Rex decem mulieres concubinas, ad cuſtodiendam domum.",
+      "french": "Le Roi sortit donc à pied avec toute sa maison ; et laissa dix femmes de ses concubines, pour garder son Palais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Egreſſuſque Rex & omnis Iſraël pedibus ſuis, ſtetit procul à domo.",
+      "french": "Étant sorti à pied avec tous les Israélites qui l'accompagnaient, il s'arrêta lorsqu'il était déjà loin de sa maison.",
+      "annotations": "An. du Monde 2984.",
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et univerſi ſervi ejus ambulabant juxtà eum & legiones Cerethi & Phelethi, & omnes Gethæi, pugnatores validi, ſexcenti viri, qui ſecuti eum fuerant de Geth, pedites præcedebant Regem.",
+      "french": "Tous ses officiers marchaient auprès de lui, les légions des Céréthiens et des Phéléthiens, et les six cents hommes de pied de la ville de Geth, qui avaient suivi David, et qui étaient très vaillants, marchaient tous devant lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Dixit autem Rex ad Ethai Gethæum : Cur venis nobiscum ? Revertere, & habitacum Rege, quia peregrinus es in loco tuo.",
+      "french": "Alors le Roi dit à Ethaï Gethéen : Pourquoi venez-vous avec nous ? Retournez, et allez avec le nouveau Roi, parce que vous êtes étranger, et que vous êtes sorti de votre pays.",
+      "annotations": "An. du Monde 2984.",
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Heri venisti, & hodiè compelleris nobiscum egredi? Ego autem vadam quò iturus sum : revertere, & reduc tecum fratres tuos, & Dominus faciet tecum misericordiam & veritatem, quia ostendisti gratiam & fidem.",
+      "french": "Vous n’êtes que d’hier à Jérusalem, et vous en sortiriez aujourd’hui à cause de moi ? Pour moi j’irai où je dois aller : mais pour vous, retournez et ramenez vos gens avec vous ; et le Seigneur qui est plein de miséricorde et de vérité, récompensera lui-même votre zèle, et votre fidélité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Et respondit Ethaï Regi, dicens : Vivit Dominus, & vivit Dominus meus Rex : quoniam in quocumque loco fueris, Domine mi Rex, sive in morte, sive in vita, ibi erit servus tuus.",
+      "french": "Ethaï lui répondit : Vive le Seigneur, et vive le Roi mon maître, en quelque état que vous puissiez être, Monseigneur et mon Roi, votre serviteur y sera, soit à la mort, ou à la vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Et ait David Ethæi : Veni, & tranſi. Et tranſivit Ethæi Gethæus, & omnes viri, qui cum eo erant, & reliqua multitudo.",
+      "french": "David lui répondit : Allez donc, et passez. Ainsi Ethai Gethéen passa avec tous les gens qui le suivaient, et tout le reste du peuple.",
+      "annotations": "An. du Monde 2984.",
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Omnéſque flebant voce magna, & univerſus populus tranſibat : Rex quoque tranſgrediebatur torrentem Cedron, & cunctus populus incedebat contra viam, quæ reſpicit ad deſertum.",
+      "french": "Tout le peuple pleurait dans ce passage, et on entendait partout retentir leurs cris. Le Roi passa aussi le torrent de Cédron, et tout le peuple allait le long du chemin, qui regarde vers le désert.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Venit autem & Sadoc ſacerdos, & univerſi Levitæ cum eo, portantes arcam fœderis Dei, & depoſuerunt arcam Dei : & aſcendit Abiathar, donec expletus eſſet omnis populus, qui egreſſus fuerat de civitate.",
+      "french": "En même temps Sadoc grand-Prêtre, vint accompagné de tous les Lévites, qui portaient l'Arche de l'alliance de Dieu, et ils la mirent à bas. Abiathar monta, en attendant que tout le peuple qui sortait de la ville, fût passé.",
+      "annotations": "An. du Monde 2984.",
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et dixit Rex ad Sadoc : Reporta Arcam Dei in urbem : ſi invenero gratiam in oculis Domini, reducet me, & oſtendet mihi eam, & tabernaculum ſuum.",
+      "french": "Alors le Roi dit à Sadoc : Reportez à la ville l'Arche de Dieu. Si je trouve grâce devant le Seigneur, il me ramènera, et il me fera revoir son Arche et son Tabernacle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Si autem dixerit mihi : non places : præſtò ſum, faciat quod bonum eſt coram ſe.",
+      "french": "Que s'il me dit : Vous ne m'agréez point : je suis tout prêt ; qu'il fasse de moi ce qu'il lui plaira.",
+      "annotations": "An. du Monde 2984.",
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et dixit Rex ad Sadoc Sacerdotem : O Videns, revertere in civitatem in pace : & Achimaas filius tuus, & Jonathas filius Abiathar, duo filii veſtri, ſint vobiſcum.",
+      "french": "Il dit encore en parlant au grand-prêtre Sadoc : Ô Voyant, retournez en paix à la ville avec vos deux fils : Achimaas votre fils, et Jonathas fils d'Abiathar.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Ecce ego abſcondar in campeſtribus deſerti, donec veniat ſermo à vobis indicans mihi.",
+      "french": "Je m'en vais me cacher dans les plaines du désert, jusqu'à ce que vous m'envoyiez des nouvelles de l'état des choses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Reportaverunt ergo Sadoc & Abiathar Arcam Dei in Jeruſalem : & manſerunt ibi.",
+      "french": "Sadoc et Abiathar rapportèrent donc à Jérusalem l'Arche de Dieu, et y demeurèrent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Porrò David aſcendebat clivum Olivarum, ſcandens & flens, nudis pedibus incedens, & operto capite : ſed & omnis populus, qui erat cum eo operto capite, aſcendebat plorans.",
+      "french": "Cependant David montait la colline des Oliviers, et pleurait en montant. Il allait nu-pieds, et la tête couverte : et tout le peuple qui était avec lui, montait la tête couverte et en pleurant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Nuntiatum eſt autem David, quòd & Achitophel eſſet in conjuratione cum Abſalom, dixitque David: Infatua, quæſo, Domine, conſilium Achitophel.",
+      "french": "Or David reçut la nouvelle qu’Achitophel même était aussi de la conjuration d’Absalon ; et il dit : Seigneur, renversez, je vous prie, les conseils d’Achitophel.",
+      "annotations": "An. du Monde 2984.",
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et reſpondit Abſalom ad Joab : Miſi ad te, obſecrans ut venires ad me, & mitterem te ad Regem, & diceres ei : Quare veni de Geſſur? Melius mihi erat ibi eſſe : obſecro ergo ut videam faciem Regis: quòd ſi memor eſt iniquitatis meæ, interficiat me.",
+      "french": "Absalon répondit à Joab : J'ai envoyé chez vous, pour vous prier de me venir voir, et d'aller dire au Roi de ma part : Pourquoi suis-je revenu de Gessur ? il vaudrait mieux que j'y fusse encore. Je demande donc la grâce de voir le Roi : que s'il se souvient encore de ma faute, qu'il me fasse mourir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0155.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Cùmque aſcenderet David ſummitatem montis, in quo adoraturus erat Dominum, ecce occurrit ei Chuſaï Arachites, ſciſſâ veſte, & terrâ pleno capite.",
+      "french": "Et lorsque David arrivait au haut de la montagne, où il devait adorer le Seigneur, Chusaï d’Arach vint au-devant de lui, ayant ses vêtements déchirés, et la tête couverte de poussière.",
+      "annotations": null,
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Ingreſſus itaque Joab ad Regem, nuntiavit ei omnia : vocatuſque eſt Abſalom & intravit ad Regem, & adoravit ſuper faciem terræ coram eo : oſculatuſque eſt Rex Abſalom.",
+      "french": "Joab étant allé trouver le Roi, lui rendit compte de tout. Après quoi Absalon fut mandé ; il se présenta devant le Roi, et se prosterna en terre devant lui ; et le Roi le baisa.",
+      "annotations": null,
+      "source_pages": [
+        "page_0155.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Et dixit ei David : Si veneris mecum, eris mihi oneri:",
+      "french": "David lui dit : Si vous venez avec moi, vous me serez à charge :",
+      "annotations": null,
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Si autem in civitatem revertaris, & dixeris Abſalom : Servus tuus ſum, Rex : ſicut fui ſervus patris tui, ſic ero ſervus tuus : diſſipabis conſilium Achitophel.",
+      "french": "Mais si vous retournez à la ville, et si vous dites à Absalon : Mon Roi, je viens vous offrir mon service : je vous servirai comme j'ai servi votre père : vous pourrez détruire le conseil d'Achitophel.",
+      "annotations": "An. du Monde 2984.",
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Habes autem tecum Sadoc & Abiathar Sacerdotes : & omne verbum quodcumque audieris de domo Regis, indicabis Sadoc & Abiathar Sacerdotibus.",
+      "french": "Vous avez avec vous les grands-prêtres Sadoc et Abiathar, auxquels vous direz tout ce que vous aurez appris chez le Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Sunt autem cum eis duo filii eorum, Achimaas filius Sadoc, & Jonathas filius Abiathar : & mittetis per eos ad me, omne verbum quod audieritis.",
+      "french": "Ils ont leurs deux fils, Achimaas fils de Sadoc, et Jonathas fils d'Abiathar. Vous m'enverrez dire par eux tout ce que vous aurez appris.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Veniente ergo Chuſaï amico David in civitatem, Abſalom quoque ingreſſus eſt Jeruſalem.",
+      "french": "Chusaï ami de David retourna donc à Jérusalem ; et Absalon y entrait en même tems.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    }
+  ]
+}

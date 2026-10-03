@@ -1,0 +1,466 @@
+{
+  "book": "2 Samuel",
+  "chapter": 22,
+  "chapter_summary": "Cantique d'actions de grâces, de toutes les victoires que David a remportées sur ses ennemis.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Locutus eſt autem David Domino verba carminis hujus, in die quâ liberavit eum Dominus de manu omnium inimicorum ſuorum, & de manu Saül.",
+      "french": "David prononça ce Cantique à la louange du Seigneur, après que le Seigneur l'eut délivré de la main de tous ses ennemis, et de la main de Saül.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et ait : Dominus, petra mea, & robur meum, & Salvator meus.",
+      "french": "Et il dit : Le Seigneur est mon rocher, il est ma force, il est mon Sauveur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Deus, fortis meus, ſperabo in eum : ſcutum meum, & cornu ſalutis meæ : elevator meus, & refugium meum : Salvator meus, de iniquitate liberabis me.",
+      "french": "Il est mon Dieu fort, j'espérerai en lui : il est mon bouclier, et la force de mon salut : c'est lui qui me relève, il est mon refuge : ô mon Sauveur, vous me délivrerez de l'iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Laudabilem invocabo Dominum : ab inimicis meis ſalvus ero.",
+      "french": "J'invoquerai le Seigneur digne de toute louange, il me délivrera de mes ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quia circumdederunt me contritiones mortis : torrentes Belial terruerunt me.",
+      "french": "Les douleurs de la mort m'ont affligé : les torrents de Bélial m'ont épouvanté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Funes inferni circumdederunt me : prævenerunt me laquei mortis.",
+      "french": "Les liens de l'enfer m'ont environné; les filets de la mort m'ont enfermé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "In tribulatione mea invocabo Dominum, & ad Deum meum clamabo : & exaudiet de templo ſuo vocem meam, & clamor meus veniet ad aures ejus.",
+      "french": "J'invoquerai le Seigneur dans mon affliction, et je crierai vers mon Dieu : et il entendra ma voix de son temple, et mes cris parviendront jusqu'à ses oreilles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "_Commota eſt, & contremuit terra: fundamenta montium concuſſa ſunt, & conquaſſata, quoniam iratus eſt eis._",
+      "french": "La terre s'est émue, et a tremblé : les fondements des montagnes ont été agités et ébranlés ; parce que le Seigneur était en colère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "_Aſcendit fumus de naribus ejus, & ignis de ore ejus vorabit : carbones ſuccenſi ſunt ab eo._",
+      "french": "La fumée de ses narines s'est élevée en haut ; un feu dévorant est sorti de sa bouche, et il a embrasé des charbons ardents.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "_Inclinavit cælos, & deſcendit : & caligo ſub pedibus ejus._",
+      "french": "Il a abaissé les cieux, et est descendu : un nuage sombre était sous ses pieds.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "_Et aſcendit ſuper Cherubim, & volavit : & lapſus eſt ſuper pennas venti._",
+      "french": "Il a monté sur les Chérubins, et il a pris son vol : il est descendu sur les ailes des vents.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "_Poſuit tenebras in circuitu ſuo latibulum : cribrans aquas de nubibus cœlorum._",
+      "french": "Il s'est caché dans les ténèbres qui l'environnaient : il a fait distiller les eaux des nuées du ciel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "_Præ fulgore in conſpectu ejus, ſuccenſi ſunt carbones ignis._",
+      "french": "Devant lui brille une lumière, qui allume des charbons de feu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "_Tonabit de cælo Dominus, & excelſus dabit vocem ſuam._",
+      "french": "Le Seigneur a tonné du haut du ciel : le Très-Haut a fait retentir sa voix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "_Miſit ſagittas, & diſſipavit eos : fulgur, & conſumpſit eos._",
+      "french": "Il a tiré ses flèches, et il a dispersé mes ennemis : il a lancé ses foudres, et il les a consumés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "_Et apparuerunt effuſiones maris, & revelata ſunt fundamenta orbis, ab increpatione Domini, ab inſpiratione ſpiritûs furoris ejus._",
+      "french": "La mer s'est ouverte jusqu'au fond des abîmes, et les fondements du monde ont été découverts, à cause des menaces du Seigneur, et du souffle des tempêtes de sa colère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "_Miſit de excelſo, & aſſumpſit me ; & extraxit me de aquis multis._",
+      "french": "Il a étendu sa main du haut du ciel, il m'a pris, et m'a tiré du milieu des eaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "_Liberavit me ab inimico meo potentiffimo, & ab his qui oderant me, quoniam robuſtiores me erant._",
+      "french": "Il m'a délivré d'un ennemi très puissant, et de ceux qui me haïssaient : car ils étaient plus forts que moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "_Prævenit me in die afflictionis meæ, & factus eſt Dominus firmamentum meum._",
+      "french": "Il m'a prévenu au jour de mon affliction, et le Seigneur a été mon ferme appui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "_Et eduxit me in latitudinem : liberavit me, quia complacui ei._",
+      "french": "Il m'a mis au large : il m'a délivré, parce que je lui ai été agréable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "_Retribuet mihi Dominus ſecundum juſtitiam meam : & ſecundum munditiam manuum mearum reddet mihi._",
+      "french": "Le Seigneur me rendra selon ma justice ; et il me récompensera selon la pureté de mes mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "_Quia cuſtodivi vias Domini, & non egi impiè, à Deo meo._",
+      "french": "Car j'ai gardé les voies du Seigneur, et je n'ai point commis d'infidélité contre mon Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "_Omnia enim judicia ejus in conſpectu meo : & præcepta ejus non amovi à me._",
+      "french": "J'ai eu toutes ses ordonnances devant mes yeux, et je ne me suis point détourné de ses préceptes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et ero perfectus cum eo : & cuſtodiam me ab iniquitate mea.",
+      "french": "24. Je serai parfait en sa présence: je me tiendrai sur mes gardes contre mon iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et reſtituet mihi Dominus ſecundùm juſtitiam meam, & ſecundùm munditiam manuum mearum, in conſpectu oculorum ſuorum.",
+      "french": "25. Et le Seigneur me rendra selon ma justice, et selon que mes mains seront pures à ses yeux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Cum ſancto ſanctus eris, & cum robuſto perfectus.",
+      "french": "26. Vous serez saint avec les saints, et parfait avec les forts.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Cum electo electus eris, & cum perverſo pervertêris.",
+      "french": "27. Vous serez purs avec les purs, et vous paraîtrez méchant avec les méchants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et populum pauperem ſalvum facies, oculiſque tuis excelſos humiliabis.",
+      "french": "28. Vous sauverez le peuple pauvre, et d'un clin d'œil, vous humilierez les superbes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Quia tu lucerna mea, Domine: & tu, Domine, illuminabis tenebras meas.",
+      "french": "29. Seigneur, vous êtes ma lampe: c'est vous, Seigneur, qui éclairez mes ténèbres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "In te enim curram accinctus : in Deo meo tranſiliam murum.",
+      "french": "30. Avec votre aide je courrai tout prêt à combattre: le secours de mon Dieu me fera franchir les murailles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Deus immaculata via ejus, eloquium Domini igne examinatum: ſcutum eſt omnium ſperantium in ſe.",
+      "french": "31. La voie de Dieu est irrépréhensible: la parole du Seigneur est comme purifiée par le feu: il est le bouclier de tous ceux qui espèrent en lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Quis eſt Deus præter Dominum? Et quis fortis præter Deum noſtrum?",
+      "french": "32. Y a-t-il un autre Dieu que le Seigneur? Y a-t-il un autre fort que notre Dieu?",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Deus, qui accinxit me fortitudine, & complanavit perfectam viam meam.",
+      "french": "33. C'est lui qui m'a revêtu de force, qui a aplani la voie parfaite où je marche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Coæquans pedes meos cervis, & ſuper excelſa mea ſtatuens me.",
+      "french": "34. Qui a rendu mes pieds aussi prompts et aussi légers que ceux des cerfs, et qui m'a établi dans les lieux hauts.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Docens manus meas ad prælium, & componens quaſi arcum æreum brachia mea.",
+      "french": "35. Qui instruit mes mains à combattre, et qui rend mes bras fermes comme un arc d'airain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Dediſti mihi clypeum ſalutis tuæ: & manſuetudo tua multiplicavit me.",
+      "french": "36. Vous m'avez couvert de votre protection, comme d'un bouclier; et vous m'avez fait grand par votre bonté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Dilatabis greſſus meos ſubtus me: & non deficient tali mei.",
+      "french": "37. Vous avez élargi le chemin sous mes pas, et mes pieds n'ont point chancelé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Perſequar inimicos meos, & conteram: & non convertar donec conſumam eos.",
+      "french": "38. Je poursuivrai mes ennemis, et je les réduirai en poudre: je ne retournerai point que je ne les aie détruits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Conſumam eos, & confringam, ut non conſurgant: cadent ſub pedibus meis.",
+      "french": "39. Je les détruirai, et je les briserai, sans qu'ils puissent se relever: ils tomberont sous mes pieds.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Accinxisti me fortitudine ad prælium : incurvasti resistentes mihi subtus me.",
+      "french": "Vous m'avez revêtu de force pour combattre : vous avez fait plier sous moi ceux qui s'opposaient à moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Inimicos meos dedisti mihi dorsum : odientes me, & disperdam eos.",
+      "french": "Vous avez fait tourner le dos à mes ennemis, à ceux qui me haïssaient; et je les exterminerai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Clamabunt, & non erit qui salvet : ad Dominum, & non exaudiet eos.",
+      "french": "Ils crieront, et nul ne viendra à leur secours : ils crieront au Seigneur, et il ne les écoutera point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Delebo eos, ut pulverem terræ : quasi lutum platearum comminuam eos, atque confringam.",
+      "french": "Je les dissiperai comme la poussière de la terre : je les écraserai, et je les foulerai aux pieds comme la boue des rues.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Salvabis me à contradictionibus populi mei : custodies me in caput Gentium : populus, quem ignoro, serviet mihi.",
+      "french": "Vous me délivrez des contradictions de mon peuple : vous me conserverez pour être le Chef des Nations : un peuple que j'ignore, me servira.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Filii alieni resiſtent mihi : auditu auris obedient mihi.",
+      "french": "Des enfants étrangers me résisteront : mais ils m'obéiront, quand ils entendront ma voix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Filii alieni defluxerunt, & contrabentur in angustiis suis.",
+      "french": "Les enfants étrangers se fondront comme la cire, et ils trembleront de peur dans les lieux où ils se seront cachés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Vivit Dominus, benedictus Deus meus : & exaltabitur Deus fortis salutis meæ.",
+      "french": "Vive le Seigneur, et que mon Dieu soit béni : que le Dieu fort, le Dieu qui me sauve, soit glorifié.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Deus, qui das vindictas mihi, & dejicis populos sub me.",
+      "french": "C'est vous, mon Dieu, qui me vengez, et qui abattez les peuples sous moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Qui educis me ab inimicis meis, & à resistentibus mihi elevas me : à viro iniquo liberabis me.",
+      "french": "Qui me délivrez de mes ennemis, qui me mettez au-dessus de ceux qui me résistent; et c'est vous qui me sauverez de l'homme injuste.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Proptereà confitebor tibi, Domine, in gentibus : & nomini tuo cantabo.",
+      "french": "Je vous en rendrai, Seigneur, des actions de grâces au milieu des Nations, et je chanterai des cantiques en l'honneur de votre nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Magnificans salutes Regis sui, & faciens misericordiam Christo suo David, & semini ejus in sempiternum.",
+      "french": "Vous qui signalez votre grandeur, en sauvant le Roi que vous avez choisi; qui faites miséricorde à David votre Oint, et qui la ferez à sa race pour toujours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    }
+  ]
+}
