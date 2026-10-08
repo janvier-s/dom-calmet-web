@@ -112,7 +112,8 @@
 			 ($page.params.book === 'ruth' && chapter.chapter < 4) ||
 			 ($page.params.book === '1-samuel' && chapter.chapter < 31) ||
 			 ($page.params.book === '2-samuel' && chapter.chapter < 24) ||
-			 ($page.params.book === '1-rois' && chapter.chapter < 22)}
+			 ($page.params.book === '1-rois' && chapter.chapter < 22) ||
+			 ($page.params.book === '2-rois' && chapter.chapter < 25)}
 			<a href="/{$page.params.book}/{chapter.chapter + 1}" class="text-stone-600 hover:text-stone-900 transition-colors">
 				Chapitre {chapter.chapter + 1} &rarr;
 			</a>
