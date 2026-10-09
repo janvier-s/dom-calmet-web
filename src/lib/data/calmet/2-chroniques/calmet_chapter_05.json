@@ -1,0 +1,133 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "INTULIT SALOMON OMNIA QUÆ VOVERAT DAVID.",
+      "lemma": "Salomon fit apporter dans le temple tout ce que David son père y avait voué.",
+      "text": "Tous ces présents, ces dépouilles, que David, et les autres Généraux des armées avaient jusqu'alors consacrés au Seigneur. Voyez ci-devant I. Par. XXVII. 26. 27. Tout cela fut mis dans les trésors du temple, sous la garde de Sélemit, et de ses frères."
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "IN DIE SOLEMNI MENSIS SEPTIMI.",
+      "lemma": "Le jour solennel du septième mois.",
+      "text": "Le peuple s'assembla pour la solennité de la dédicace du temple, qui commença le huit du septième mois. Voyez 3. Reg. VIII. 2."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "PORTAVERUNT LEVITÆ ARCAM.",
+      "lemma": "Les Lévites portèrent l'arche.",
+      "text": "Ce furent les Prêtres, comme il est dit dans les Rois,[1] qui portèrent l'arche dans cette occasion. Les Prêtres sont tous Lévites ; mais tous les Lévites ne sont pas Prêtres. Les Prêtres et les Lévites purent la porter tour à tour durant la marche."
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "VASA SANCTUARII PORTAVERUNT SACERDOTES CUM LEVITIS.",
+      "lemma": "Les Prêtres et les Lévites portèrent tous les vases du Sanctuaire.",
+      "text": "L'Hébreu :[2] _Les Prêtres Lévites portèrent tous ces vases._ Les Prêtres de la tribu de Lévi. Mais dans les livres des Rois,[3] l'Hébreu porte comme la Vulgate et les Septante de cet endroit, _les Prêtres et les Lévites_ ; ce qui est suivi en cet endroit, par des Interprètes attachés à l'Hébreu.[4]"
+    },
+    {
+      "verse": 9,
+      "sub": false,
+      "latin_lemma": "VECTIUM AUTEM QUIBUS PORTABATUR ARCA, QUIA PAULULUM LONCIORES ERANT, CAPITA PAREBANT ANTE ORACULUM.",
+      "lemma": "Parce que ces bâtons avec lesquels on portait l'arche, étaient un peu trop longs, on en voyait l'extrémité de devant le San-",
+      "text": "étuaire. Les bâtons avec lesquels on portait l'arche, et qu'on ne tirait jamais de leurs anneaux, étaient un peu trop longs, et on voyait leurs bouts au dehors du Sanctuaire bâti par Moïse ; mais on ne les vit plus dans le temple de Salomon, parce que le sanctuaire du temple était beaucoup plus grand que celui de l'ancien tabernacle. Voyez 3. Reg. VIII. 8."
+    },
+    {
+      "verse": 10,
+      "sub": false,
+      "latin_lemma": "NIhil aliud erat in arca niſi duæ tabulæ.",
+      "lemma": "Il n'y avait dans l'arche que les deux tables de la loi, etc.",
+      "text": "Voyez 3. Reg. VIII. 9."
+    },
+    {
+      "verse": 11,
+      "sub": false,
+      "latin_lemma": "Nec adhuc in illo tempore vices et miniſteriorum ordo inter eos diviſus erat.",
+      "lemma": "Les fonctions et l'ordre des ministères, n'ayant pas été distribués entre eux jusqu'à ce temps-là.",
+      "text": "David avait bien réglé l'ordre des ministres du temple, mais jusqu'alors on n'en avait pas vu la parfaite exécution, le temple n'étant point bâti. L'Hébreu porte: [5] _Tous les Prêtres qui se trouvèrent, se sanctifièrent, se disposèrent à servir dans la solennité de la dédicace du temple ; et on n'observa point leur partage_, ou les distributions des offices qu'on leur avait donnés. Régulièrement ils ne servaient que par semaines, et chacun à leur tour ; mais dans cette occasion, tout ce qui s'en trouva, servit au temple."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0032>page_0033",
+      "verse": 5,
+      "mode": "hyphen",
+      "before": "Prêtres et les Lévites_ ; ce qui est suivi en cet endroit,",
+      "after": "droit par des Interprètes attachés à l'Hébreu.^{(a)}"
+    },
+    {
+      "seam": "page_0033>page_0034",
+      "verse": 9,
+      "mode": "splice",
+      "before": "peu trop longs, on en voyait l'extrémité de devant le San-",
+      "after": "étuaire. Les bâtons avec lesquels on portait l'arche, et q"
+    }
+  ],
+  "pages_used": [
+    "page_0031",
+    "page_0032",
+    "page_0033",
+    "page_0034"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0032-a",
+      "n": 1,
+      "text": "3. Reg. VIII. 3."
+    },
+    {
+      "key": "page_0032-b",
+      "n": 2,
+      "text": "הכהנים הלוים"
+    },
+    {
+      "key": "page_0032-c",
+      "n": 3,
+      "text": "3. Reg. VII. 40."
+    },
+    {
+      "key": "page_0033-a",
+      "n": 4,
+      "text": "Jun. & Tremell. Piſc."
+    },
+    {
+      "key": "page_0034-a",
+      "n": 5,
+      "text": "כי כל הכהנים הנמצאים התקדשו אין לשמור למחלקות (י)"
+    }
+  ],
+  "decisions": [
+    {
+      "page": "page_0031",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0032",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0033",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0034",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    }
+  ],
+  "missing_footnotes": []
+}

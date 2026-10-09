@@ -1,0 +1,222 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "JOSAPHAT AFFINITATE CONJUNCTUS EST ACHAB.",
+      "lemma": "Josaphat contracta alliance avec Achab.",
+      "text": "L'Hébreu à la lettre : [1] _Il le fit gendre à Achab_, ou, _il donna un gendre à Achab_, en prenant pour Joram son fils, Athalie fille d'Achab. [2] On peut voir l'explication de tout ce Chapitre sur le troisième des Rois Chap. XXII."
+    },
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "DESCENDITQUE POST ANNOS:",
+      "lemma": "Quelques années après, il l'alla voir à Samarie.",
+      "text": "Ce fut la troisième année de la paix, ou de la trêve entre la Syrie, et le Royaume d'Israël. [3] l'an du monde 3097."
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "DIXIT ILLI; UT EGO, ET TU.",
+      "lemma": "Josaphat lui dit : Vous pouvez disposer de moi, comme de vous...",
+      "text": "Josaphat s'était engagé trop légèrement dans l'alliance d'Achab. Il devait savoir ce qui s'était passé lorsque son père avait eu recours au Roi de Syrie, et de quelle manière Dieu l'en avait fait reprendre par le Prophète Hanani. [4] Jéhu fils du même Hanani fut envoyé au-devant de Josaphat, pour lui faire des reproches de cette confédération ; [5] et quelque temps après, Éliézer, autre Prophète, lui vint dire, que Dieu avait permis la perte de la flotte, en punition de son alliance avec Ochosia Roi d'Israël. [6] Tout cela fait voir que Josaphat n'avait point assez de fermeté, et de raideur pour se tenir séparé des méchants."
+    },
+    {
+      "verse": 14,
+      "sub": false,
+      "latin_lemma": "ASCENDITE: CUNCTA ENIM PROSPERA EVE-",
+      "lemma": null,
+      "text": "NIENT. Allez : toutes choses vous réussiront heureusement. C'est une ironie. Ou bien, si les choses sont telles que vous le disent ces Prophètes ; si Dieu vous promet d'heureux succès, vous pouvez aller hardiment ; Mais pour moi, j'ai vu tout le contraire ; [7] Dieu m'a révélé que le Roi d'Israël y périrait."
+    },
+    {
+      "verse": 18,
+      "sub": false,
+      "latin_lemma": "AUDITE VERBUM DOMINI.",
+      "lemma": "Écoutez la parole du Seigneur.",
+      "text": "Il parle aux deux Rois, et à toute l'assemblée. Dans le troisième des Rois,[8] il s'adresse directement à Achab : _Propterea audi verbum Domini_, C'était parler principalement à lui, à qui il voulait parler."
+    },
+    {
+      "verse": 21,
+      "sub": false,
+      "latin_lemma": "DECIPIES ET PRÆVALEBIS; EGREDERE ET FAC ITA.",
+      "lemma": "Tu le séduiras, et tu en viendras à bout; va, et fais ce que tu dis.",
+      "text": "ce que tu dis. Dieu permet le mal, il le souffre, ni ne l'approuve pas, et encore moins le commande-t-il. C'est ainsi que le Sauveur dit à Judas : Fais vite ce que tu fais.[9] _Quid facis, fac citius._ Jupiter dans Homère envoie à Agamemnon un songe dont l'office était de tromper.[10]"
+    },
+    {
+      "verse": 25,
+      "sub": false,
+      "latin_lemma": "AD JOAS FILIUM AMELECH.",
+      "lemma": "À Joas fils d'Amélech.",
+      "text": "L'Hébreu se peut traduire comme ont fait le Syriaque, les Septante :[11] _Au Prince Joas fils du Roi._ Quelques-uns[12] croient que c'était un des fils d'Achab."
+    },
+    {
+      "verse": 29,
+      "sub": false,
+      "latin_lemma": "MUTABO HABITUM, ET SIC AD PUGNAM VADAM.",
+      "lemma": "Je changerai d'habit avant que d'aller au combat.",
+      "text": "Dans les livres des Rois,[13] Achab dit à Josaphat : _Prenez vos armes_, et _entrez dans le combat, et revêtez-vous de vos habits : Et le Roi d'Israël changea d'habit, et entra au combat. Voyez ce qu'on a dit sur cet endroit._"
+    },
+    {
+      "verse": 31,
+      "sub": false,
+      "latin_lemma": "AVERTIT EOS AB ILLO.",
+      "lemma": "Dieu les écarta tous de lui.",
+      "text": "L'Hébreu : [14] _Il les excita, il les poussa, il leur persuada de s'éloigner de lui._"
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0116>page_0117",
+      "verse": 3,
+      "mode": "splice",
+      "before": " de Josaphat, pour lui faire des reproches de cette confé-",
+      "after": "dération ; ^{(a)} et quelque temps après, Éliézer, autre P"
+    },
+    {
+      "seam": "page_0117>page_0118",
+      "verse": 14,
+      "mode": "flow",
+      "before": "",
+      "after": "NIENT. Allez : toutes choses vous réussiront heureusement."
+    },
+    {
+      "seam": "page_0118>page_0119",
+      "verse": 21,
+      "mode": "mend",
+      "before": "iras, et tu en viendras à bout; va, et fais ce que tu dis.",
+      "after": "ce que tu dis. Dieu permet le mal, il le souffre, ni ne l'"
+    },
+    {
+      "seam": "page_0119>page_0120",
+      "verse": 29,
+      "mode": "flow",
+      "before": "fn:page_0119-e} Achab dit à Josaphat : _Prenez vos armes_,",
+      "after": "et _entrez dans le combat, et revêtez-vous de vos habits :"
+    }
+  ],
+  "pages_used": [
+    "page_0115",
+    "page_0116",
+    "page_0117",
+    "page_0118",
+    "page_0119",
+    "page_0120"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0115-a",
+      "n": 1,
+      "text": "יתחתן לאחאב 70. à ἐσυμπέμθερωσεν ἐπὶ Ἀχάβ."
+    },
+    {
+      "key": "page_0115-b",
+      "n": 2,
+      "text": "1. Par. XXI. 6. & 4. Reg. VIII. 18."
+    },
+    {
+      "key": "page_0115-c",
+      "n": 3,
+      "text": "3. Reg. XXII. 1. 2."
+    },
+    {
+      "key": "page_0116-a",
+      "n": 4,
+      "text": "2. Par. XVI. 7."
+    },
+    {
+      "key": "page_0117-a",
+      "n": 5,
+      "text": "2. Par. XIX. 2."
+    },
+    {
+      "key": "page_0117-b",
+      "n": 6,
+      "text": "2. Par. XX. 37."
+    },
+    {
+      "key": "page_0118-a",
+      "n": 7,
+      "text": "Voyez les ℣. 16. 18. 19. & ſuiv."
+    },
+    {
+      "key": "page_0118-b",
+      "n": 8,
+      "text": "3. Reg. XXII. 19."
+    },
+    {
+      "key": "page_0119-a",
+      "n": 9,
+      "text": "Johan. XIII. 17."
+    },
+    {
+      "key": "page_0119-b",
+      "n": 10,
+      "text": "Homer. Iliad. B."
+    },
+    {
+      "key": "page_0119-c",
+      "n": 11,
+      "text": "אל יואש בן המלך 70. καὶ, Γυὸς ἀρχεῖα, υἱὸν βασιλέως."
+    },
+    {
+      "key": "page_0119-d",
+      "n": 12,
+      "text": "Vide Tirin. & Oſiand."
+    },
+    {
+      "key": "page_0119-e",
+      "n": 13,
+      "text": "3. Reg. XXII. 30."
+    },
+    {
+      "key": "page_0120-a",
+      "n": 14,
+      "text": "ויסיתם־אלהים ממנו"
+    }
+  ],
+  "decisions": [
+    {
+      "page": "page_0115",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0116",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0117",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0118",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0119",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0120",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    }
+  ],
+  "missing_footnotes": []
+}

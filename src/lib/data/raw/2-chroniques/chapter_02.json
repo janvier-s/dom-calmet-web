@@ -1,0 +1,169 @@
+{
+  "book": "2 Chroniques",
+  "chapter": 2,
+  "chapter_summary": "Salomon demande à Hiram, Roi de Tyr, des ouvriers et des bois pour le bâtiment du Temple. Nombre des ouvriers employés à ce bâtiment.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "DEcrevit autem Salomon ædificare domum nomini Domini, & palatium ſibi.",
+      "french": "Salomon résolut donc de bâtir un temple au nom du Seigneur, et un palais pour lui-même.",
+      "annotations": "An.du M. 2992. avant J.C. 1013.",
+      "source_pages": [
+        "page_0006.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et numeravit ſeptuaginta millia virorum portantium humeris, & octoginta millia qui cæderent lapides in montibus, præpoſitoſque eorum tria millia ſexcentos.",
+      "french": "Il ordonna des porte-faix, au nombre de soixante-dix mille hommes, et quatre-vingt mille pour tailler les pierres dans les montagnes, et trois mille six cents pour être inspecteurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0006.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Miſit quoque ad Hiram Regem Tyri, dicens : Sicut egiſti cum David patre meo, & miſiſti ei ligna cedrina, ut ædificaret ſibi domum, in qua & habitavit :",
+      "french": "Salomon envoya aussi vers Hiram, Roi de Tyr, et donna ordre qu'on lui dît de sa part : Faites-moi la grâce que vous avez faite à David mon père, lui ayant envoyé des bois de cèdre, pour bâtir le palais où il a demeuré ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0006.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Sic fac mecum, ut ædificem domum nomini Domini Dei mei, ut consecrem eam, ad adolendum incensum coram illo, & fumiganda aromata, & ad propositionem panum sempiternam, & ad holocautomata, manè & vespere, sabbatis quoque, & neomeniis, & solemnitatibus Domini Dei nostri in sempiternum, quæ mandata sunt Israeli.",
+      "french": "afin que je puisse bâtir un temple au nom du Seigneur mon Dieu, et le lui dédier, pour y brûler de l'encens en sa présence, y consumer des parfums, et y exposer toujours des pains devant lui : comme aussi pour offrir des holocaustes, le matin et le soir, ainsi qu'il a été ordonné pour toujours à Israël, les jours du sabbat, les premiers jours des mois, et dans les autres solennités du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0007.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Domus enim, quam ædificare cupio, magna est : magnus est enim Deus noster super omnes deos.",
+      "french": "Car le temple, que j'ai dessein de bâtir, doit être grand, parce que notre Dieu est grand au-dessus de tous les dieux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0007.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Quis ergò poterit prævalere, ut ædificet ei dignam domum? si cælum, & cæli cælorum capere eum nequeunt : quantus ego sum, ut possim ædificare ei domum? sed ad hoc tantùm, ut adoleatur incensum coram illo.",
+      "french": "Qui pourra donc se croire capable de lui bâtir une maison digne de lui ? Si le ciel, et les cieux des cieux ne peuvent le contenir, qui suis-je moi pour entreprendre de lui bâtir une maison ? Mais aussi ce n'est seulement que pour faire brûler de l'encens en sa présence.",
+      "annotations": null,
+      "source_pages": [
+        "page_0007.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Mitte ergo mihi virum eruditum, qui noverit operari in auro , & argento, ære, & ferro, purpura, coccino, & hyacintho, & qui ſciat ſculpere cælaturas, cum his artificibus, quos mecum habeo in Judæa, & Jeruſalem, quos præparavit David pater meus.",
+      "french": "Envoyez-moi donc un homme habile, qui sache travailler en or, en argent, en cuivre, en fer, en ouvrages de pourpre, d'écarlate, et d'hyacinthe; et qui sache faire toutes sortes de sculptures, et de ciselures, pour l'employer avec les ouvriers que j'ai auprès de moi dans la Judée, et à Jérusalem, et que David mon père avait choisis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0008.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Sed & ligna cedrina mitte mihi, & arcentina, & pinea de Libano : ſcio enim quòd ſervi tui noverint cædere ligna de Libano, & erunt ſervi mei cum ſervis tuis.",
+      "french": "Envoyez-moi aussi des bois de cèdre, de genièvre, et des pins du Liban. Car je sais que vos sujets sont adroits à couper les arbres du Liban ; et les miens travailleront avec les vôtres :",
+      "annotations": "An.2992.",
+      "source_pages": [
+        "page_0009.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ut parentur mihi ligna plurima. Domus enim quam cupio ædificare, magna eſt nimis, & inclyta.",
+      "french": "afin que l'on me prépare quantité de bois ; parce que la maison que je désire bâtir, doit être très grande, et très magnifique.",
+      "annotations": null,
+      "source_pages": [
+        "page_0009.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Præterea, operariis qui cæſuri ſunt ligna, ſervis tuis dabo in cibaria, tritici coros viginti millia, & hordei coros totidem, & vini viginti millia metretras, olei quoque ſata viginti millia.",
+      "french": "Je donnerai pour la nourriture de vos gens, qui seront occupés à la coupe de ces bois, vingt mille sacs de froment, et autant d'orge, avec vingt mille barils de vin, et vingt mille barriques d'huile.",
+      "annotations": null,
+      "source_pages": [
+        "page_0009.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Dixit autem Hiram Rex Tyri, per litteras quas miſerat Salomoni : Quia dilexit Dominus populum ſuum, idcirco te regnare fecit ſuper eum.",
+      "french": "Hiram, Roi de Tyr, écrivit à Salomon, et lui manda : Parce que le Seigneur a aimé son peuple, il vous en a établi Roi.",
+      "annotations": "An. 2992.",
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et addidit, dicens : Benedictus Dominus Deus Iſraël, qui fecit cœlum, & terram, qui dedit David Regi filium ſapientem, & eruditum, & ſenſatum, atque prudentem, ut ædificaret domum Domino, & palatium ſibi.",
+      "french": "Et il ajouta : Que le Seigneur, le Dieu d'Israël, qui a fait le ciel et la terre, soit béni, d'avoir donné au Roi David un fils si sage, si habile, si plein d'esprit et de prudence, pour bâtir un temple au Seigneur, et un palais pour soi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Miſi ergo tibi virum prudentem & ſcientiſſimum, Hiram patrem meum.",
+      "french": "Je vous envoie donc Hiram, homme intelligent, et très habile, et qui est comme mon père.",
+      "annotations": null,
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Filium mulieris de filiabus Dan, cujus pater fuit Tyrius, qui novit operari in auro & argento, ære, & ferro, & marmore, & lignis, in purpura quoque, & hyacintho, & byſſo, & coccino : & qui ſcit calare omnem ſculpturam, & adinvenire prudenter quodcumque in opere neceſſarium eſt, cum artificibus tuis, & cum artificibus Domini mei David patris tui.",
+      "french": "Sa mère est de la tribu de Dan, et son père était Tyrien. Il sait travailler en or, en argent, en cuivre, en fer, en marbre, en bois, et même en pourpre, en hyacinthe, en byssus, et en écarlate. Il sait encore graver toutes sortes de figures : et il a un génie merveilleux, pour inventer tout ce qui est nécessaire pour toutes sortes d'ouvrages. Il travaillera avec vos ouvriers, et avec ceux de David mon seigneur, votre père.",
+      "annotations": "An.2992.",
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Triticum ergo, & hordeum, & oleum, & vinum, quæ pollicitus es, Domine mi, mitte ſervis tuis.",
+      "french": "Envoyez donc, mon seigneur, à vos serviteurs, le blé, l'orge, l'huile, et le vin que vous leur avez promis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Nos autem cædemus ligna de Libano, quot neceſſaria habueris, & applicabimus ea ratibus per mare in Joppe : tuum autem erit transferre in Jeruſalem.",
+      "french": "Nous ferons couper dans le Liban tout le bois dont vous aurez besoin, et nous le ferons lier en radeaux, pour le conduire par mer à Joppé, d'où vous donnerez ordre qu'on le transporte à Jérusalem.",
+      "annotations": "An. 1922.",
+      "source_pages": [
+        "page_0012.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Numeravit igitur Salomon omnes viros proſelytos, qui erant in terra Iſraël, poſt dinumerationem quam dinumeravit David pater ejus : & inventi ſunt centum quinquaginta millia, & tria millia ſexcenti.",
+      "french": "Salomon fit faire un dénombrement de tous les prosélytes, qui étaient dans la terre d'Israël, depuis le dénombrement qu'en avait fait faire David son père : et il s'en trouva cent cinquante-trois mille six cents.",
+      "annotations": "An.2928.",
+      "source_pages": [
+        "page_0013.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Fecitque ex eis ſeptuaginta millia, qui humeris onera portarent, & oſtoginta millia, qui lapides in montibus cæderent : tria autem millia & ſexcentos præpoſitos operum populi.",
+      "french": "Il en choisit soixante et dix mille pour porter les fardeaux sur leurs épaules, et quatre-vingt mille, pour tailler les pierres dans les montagnes, et trois mille six cents, pour conduire les ouvrages.",
+      "annotations": null,
+      "source_pages": [
+        "page_0014.json"
+      ]
+    }
+  ]
+}

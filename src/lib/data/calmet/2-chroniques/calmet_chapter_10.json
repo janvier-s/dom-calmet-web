@@ -1,0 +1,114 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "PROFECTUS EST ROBOAM IN SICHEM.",
+      "lemma": "Roboam vint alors à Sichem.",
+      "text": "Voyez le Chap. XII. du troisième livre des Rois, qui est le même presque mot à mot, que celui-ci."
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "SI PLACUERIS POPULO HUIC, ET LENIVERIS EOS.",
+      "lemma": "Si vous témoignez de la bonté à ce peuple, et que vous l’apaisiez.",
+      "text": "L’Hébreu : [1] _Si vous êtes bon à ce peuple, et que vous lui plaisiez._ Dans les livres des Rois : [2] _Si vous êtes aujourd’hui serviteur de ce peuple, et que vous le serviez, il vous servira dans la suite._ Si vous avez aujourd’hui quelque déférence pour ce peuple, il vous demeurera éternellement assujetti."
+    },
+    {
+      "verse": 15,
+      "sub": false,
+      "latin_lemma": "ERAT ENIM VOLUNTAS DEI.",
+      "lemma": "Parce que Dieu avait résolu, etc.",
+      "text": "L'Hébreu : [3] _Parce que, c'était une chose causée de Dieu._ Les Septante : [4] _Parce que ce renversement était de Dieu._ Le Syriaque a fort bien pris le sens du texte : _Parce que cette rébellion arriva par la permission divine, afin qu'on vît la vérité de la prédiction du Prophète Ahias._ Dieu permit que Roboam suivît un aussi mauvais conseil, et que le peuple prît une résolution si violente."
+    },
+    {
+      "verse": 16,
+      "sub": false,
+      "latin_lemma": "POPULUS UNIVERSUS, REGE DURIORA DICENTE, SIC LOCUTUS EST.",
+      "lemma": "Tout le peuple se voyant traité si durement, répondit.",
+      "text": "L'Hébreu : [5] _Tout Israël voyant que le Roi ne l'avait point écouté, répondit._\nQuelques anciens manuscrits, [6] et plusieurs éditions des Bibles latines, [7] ajoutent ceci à la fin de ce Chapitre : _Factum_"
+    },
+    {
+      "verse": 16,
+      "sub": true,
+      "latin_lemma": "eſt autem, cum audiſſet omnis Iſraël, quod reverſus eſſet Jeroboam; miſerunt & vocaverunt eum, congregato cœtu, & conſtituerunt eum Regem ſuper omnem Iſraël, nec ſecutus eſt quiſquis domum David, præter domum Juda ſolam.",
+      "lemma": "Ce qui est tiré du cinquième des Rois, Chap. XII. ℣. 20.",
+      "text": ""
+    }
+  ],
+  "joins": [],
+  "pages_used": [
+    "page_0062",
+    "page_0063",
+    "page_0064",
+    "page_0065"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0063-a",
+      "n": 1,
+      "text": "אם־תהיה לטוב לעם הזה ורציתם I. Livre des Paralip."
+    },
+    {
+      "key": "page_0063-b",
+      "n": 2,
+      "text": "3. Reg. XII. 7."
+    },
+    {
+      "key": "page_0064-a",
+      "n": 3,
+      "text": "היתה נסבה מעם האלהים"
+    },
+    {
+      "key": "page_0064-b",
+      "n": 4,
+      "text": "ὅτι ἐγένετο τροπὴ παρὰ Θεοῦ."
+    },
+    {
+      "key": "page_0064-c",
+      "n": 5,
+      "text": "וכל ישראל כי לא שמע המלך להם וישבו העם את המלך"
+    },
+    {
+      "key": "page_0064-d",
+      "n": 6,
+      "text": "Mß. duo noſtra S. Michael. ᵃᵈ Moſam."
+    },
+    {
+      "key": "page_0064-e",
+      "n": 7,
+      "text": "Bibliæ impreſſæ an. 1478. 1489. 1521. Renati Bened. Pariſ. 1565. Joh. Bened. 1558. Nivell. Pariſ. 1573. Ita legebat Lyran."
+    }
+  ],
+  "decisions": [
+    {
+      "page": "page_0062",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0063",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0064",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0065",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    }
+  ],
+  "missing_footnotes": []
+}

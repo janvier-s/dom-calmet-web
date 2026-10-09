@@ -1,0 +1,147 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "MAJESTAS DOMINI IMPLEVIT DOMUM.",
+      "lemma": "La Majesté de Dieu remplit la maison.",
+      "text": "C'est-à-dire la nuée, qui était le symbole de sa présence et de sa Majesté remplit tout le dedans du Temple. [1]"
+    },
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "NEC POTERANT SACERDOTES INGREDI TEMPLUM DOMINI.",
+      "lemma": "Les prêtres ne pouvaient entrer dans le temple du Seigneur.",
+      "text": "Ils n'osaient entrer dans le Saint, pour y offrir l'encens, ni s'approcher de l'autel des holocaustes, qui était enflammé par un feu miraculeux, et environné d'une obscurité pleine de majesté. Ils n'osaient faire leurs fonctions ordinaires dans les premiers moments ; [2] mais ils s'approchèrent ensuite, et immolèrent un très grand nombre de victimes."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "IMMOLABANT VICTIMAS.",
+      "lemma": "Ils immolaient des victimes.",
+      "text": "par les mains des prêtres ; ils présentaient des animaux aux prêtres pour les égorger ; ou bien les particuliers les égorgeaient eux-mêmes, et présentaient aux prêtres le sang, les graisses, et ce qui devait être mis sur l'autel."
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "DEDICAVIT DOMUM DEI REX ET UNIVERSUS POPULUS.",
+      "lemma": "Le Roi et tout le peuple fit la Dédicace de la maison du Seigneur.",
+      "text": "La principale cérémonie de cette dédicace consistait dans les sacrifices qu'on y offrit, et dans l'introduction de l'arche dans le sanctuaire. Les prêtres, le Roi, et tout le peuple concoururent à cette dédicace chacun en sa manière. Les prêtres y eurent la principale part, comme ministres ordinaires du Seigneur : le nombre des holocaustes fut extraordinaire, on brûla jusqu'à vingt-deux mille bœufs, et cent vingt mille tant moutons que chevreaux ; ce qui serait incroyable, si la fête n'eût duré qu'un jour, et si l'on n'eût consumé les holocaustes que sur un seul autel ; mais on érigea plusieurs autels dans le parvis ; et la solennité continua pendant une semaine entière."
+    },
+    {
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": "IN ORGANIS CARMINUM DOMINI QUÆ FECIT",
+      "lemma": null,
+      "text": "DAVID. Ils touchaient les instruments, et faisaient retentir les hymnes du Seigneur, que le Roi David a composés. Les Prêtres d'un côté avec leurs trompettes, les Lévites de l'autre avec leurs instruments de musique, et avec les voix, publiaient les louanges du Seigneur, en chantant le Psaume cent trente-cinq, dont le refrain à chaque ℣. sont ces paroles, _quoniam in æternum misericordiam ejus_; parce que sa miséricorde est éternelle."
+    },
+    {
+      "verse": 8,
+      "sub": false,
+      "latin_lemma": "FECIT SOLEMNITATEM IN TEMPORE ILLO SEPTEM DIEBUS.",
+      "lemma": "Il fit dans le même temps la fête solennelle pendant sept jours.",
+      "text": "Après la solennité de la dédicace du Temple, qui dura sept jours, on commença la fête des Tabernacles, qui échoyait dans ce même temps; c'était la fête de la saison.[3]"
+    },
+    {
+      "verse": 10,
+      "sub": false,
+      "latin_lemma": "DIE VIGESIMO TERTIO MENSIS SEPTIMI DIMISIT POPULOS.",
+      "lemma": "Le vingt-troisième jour du septième mois, il renvoy",
+      "text": "il renvoya le peuple. Il congédia le peuple le vingt-deuxième ;[4] mais ils ne partirent que le vingt-troisième jour."
+    },
+    {
+      "verse": 14,
+      "sub": false,
+      "latin_lemma": "EXQUISIERIT FACIEM MEAM.",
+      "lemma": "Et qu'il recherche mon visage.",
+      "text": "Qu'il retourne vers moi, qu'il cherche à m'apaiser, et à mériter que je le regarde favorablement. Cette expression est assez commune dans l'Écriture,[5] _chercher la face du Seigneur_, chercher à lui plaire, se présenter devant lui, le prier, le louer dans son temple."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0044>page_0045",
+      "verse": 2,
+      "mode": "flow",
+      "before": "é. Ils n'osaient faire leurs fonctions ordinaires dans les",
+      "after": "premiers moments ; ^{(a)} mais ils s'approchèrent ensuite,"
+    },
+    {
+      "seam": "page_0045>page_0046",
+      "verse": 6,
+      "mode": "flow",
+      "before": "",
+      "after": "DAVID. Ils touchaient les instruments, et faisaient retent"
+    },
+    {
+      "seam": "page_0046>page_0047",
+      "verse": 10,
+      "mode": "flow",
+      "before": "Le vingt-troisième jour du septième mois, il renvoy",
+      "after": "il renvoya le peuple. Il congédia le peuple le vingt-deuxi"
+    }
+  ],
+  "pages_used": [
+    "page_0044",
+    "page_0045",
+    "page_0046",
+    "page_0047"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0044-a",
+      "n": 1,
+      "text": "(a) 2. Par. v. 13. 14. & VI. 1. & 3. Reg. VIII. 10."
+    },
+    {
+      "key": "page_0045-a",
+      "n": 2,
+      "text": "3. Reg. VIII. 11. _Non poterant Sacerdotes ſtare, & miniſtrare, propter nebulam._"
+    },
+    {
+      "key": "page_0046-a",
+      "n": 3,
+      "text": "Voyez ce qu'on a dit ſur 3. Reg. VIII. I."
+    },
+    {
+      "key": "page_0047-a",
+      "n": 4,
+      "text": "3. Reg. VIII. 66."
+    },
+    {
+      "key": "page_0047-b",
+      "n": 5,
+      "text": "Vide Pſal. XXIII. 6. XXVI. 8. XCIV. 1. CIV. 4. &c. II. Livre des Paralip."
+    }
+  ],
+  "decisions": [
+    {
+      "page": "page_0044",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0045",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0046",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0047",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    }
+  ],
+  "missing_footnotes": []
+}

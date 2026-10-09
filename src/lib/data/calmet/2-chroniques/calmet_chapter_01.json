@@ -1,0 +1,187 @@
+{
+  "notes": [
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "PRÆCEPIT SALOMON UNIVERSO ISRAELLI,... 3. ET ABIIT CUM UNIVERSA MULTITUDINE IN EXCELSO GABAON.",
+      "lemma": "Salomon donna ses ordres à tout Israël, et il s'en alla avec toute la multitude au haut lieu de Gabaon.",
+      "text": "Ceci arriva la seconde année du règne de Salomon, lorsqu'il fut affermi sur tout Israël. Il se rendit à Gabaon avec tout le peuple, et les Principaux de l'armée, pour y offrir des sacrifices solennels au Seigneur, sur l'autel d'airain, qui avait été dressé par l'ordre de Moïse dans le désert, par les mains de Béséléel. [1]"
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "ARCAM DEI ADDUXERAT DE CARIATH-IARIM.",
+      "lemma": "David avait fait venir l'Arche de Dieu de Cariath-iarim.",
+      "text": "De la maison d'Abinadab, qui demeurait sur la hauteur de Cariath-iarim, ou à Gabaa, qui signifie la hauteur. [2] Voyez 2. Reg. VI. 3."
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "QUOD REQUISIVIT SALOMON.",
+      "lemma": "Salomon l'y alla visiter.",
+      "text": "Il alla visiter cet Autel, où il alla chercher le Seigneur en cet endroit; [3] Il alla lui offrir des sacrifices à Gabaon."
+    },
+    {
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": "ASCENDIT SALOMON AD ALTARE ÆNEUM,... ET OBTULIT IN EO MILLE HOSTIAS.",
+      "lemma": "Salomon monta à cet Autel d'airain, et y immola mille victimes.",
+      "text": "On peut traduire l'Hébreu de cette sorte [4] : _Et Salomon sacrifia en holocauste sur cet Autel._ d'airain, il y immola mille holocaustes.[5] Il les immola par les mains des Prêtres, ou peut-être par ses propres mains. Voyez ce qu'on a dit ailleurs.[6]"
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "IPSA NOCTE APPARUIT EI DEUS.",
+      "lemma": "Cette nuit-là même, Dieu lui apparut.",
+      "text": "La nuit qui suivit immédiatement son sacrifice ; fut durant ce sommeil extatique que Salomon lui fit la prière que nous lisons ici, et qui fut exaucée de Dieu de la manière qu'on verra ci-après. C'est sur quoi nous nous sommes expliqués sur les Livres des Rois. [7]"
+    },
+    {
+      "verse": 13,
+      "sub": false,
+      "latin_lemma": "VENIT SALOMON IN JERUSALEM, CORAM TABERNACULO FOEDERIS.",
+      "lemma": "Salomon arriva de ce haut lieu de Gabaon à Jérusalem, devant le Tabernacle de l'Alliance.",
+      "text": "Après avoir rendu ses hommages au Seigneur dans le Tabernacle de Gabaon, il vint se présenter au Tabernacle qui était à Jérusalem, dans la maison de David. On peut traduire l'Hébreu : [8] _Salomon vint du haut lieu, qui était à Gabaon. Il revint de ce lieu, où était le tabernacle de l'Alliance, à Jérusalem._"
+    },
+    {
+      "verse": 14,
+      "sub": false,
+      "latin_lemma": "FACTI SUNT EI MILLE, ET QUADRINGENTI CURRUS, ET DUODECIM MILLIA EQUITUM.",
+      "lemma": "Il eut quatorze cents chariots, et douze mille chevaux.",
+      "text": "On lit dans les Livres des Rois : [9] _Qu'il avait quarante mille écuries pour les chevaux de ses chariots, et douze mille chevaux._ Sur quoi on peut voir notre Commentaire. Il mit ces chevaux dans des villes destinées à cela ; _In urbibus quadrigarum._ Il les mit dans les lieux les plus abondants en pâturage, et apparemment sur ses frontières. On trouve dans la Tribu de Siméon, [10] frontière de l'Égypte, les villes de Betmarcaboth, c'est-à-dire, demeure des chariots ; et celle de Haser-susa, demeure des chevaux, qui semblent avoir pris leur nom des chevaux, et des chariots de Salomon ; car ni devant, ni après ce Prince, on ne vit aucun Roi de Juda, possédé comme lui de cette passion d'avoir des chevaux."
+    },
+    {
+      "verse": 16,
+      "sub": false,
+      "latin_lemma": "ADDUCEBANTUR EI EQUI DE ÆGYPTO, ET DE COA.",
+      "lemma": "Ceux qui voyageaient en Égypte, et à Coa, lui amenaient des chevaux de ces pays-là.",
+      "text": "Voyez ce qu'on a dit sur cela 3. Reg. x. 28."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0001>page_0002",
+      "verse": 2,
+      "mode": "hyphen",
+      "before": "a seconde année du règne de Salomon, lorsqu'il fut affermi",
+      "after": "mi sur tout Israël. Il se rendit à Gabaon avec tout le peu"
+    },
+    {
+      "seam": "page_0002>page_0003",
+      "verse": 6,
+      "mode": "flow",
+      "before": "02-d} : _Et Salomon sacrifia en holocauste sur cet Autel._",
+      "after": "d'airain, il y immola mille holocaustes.^{(a)} Il les immo"
+    },
+    {
+      "seam": "page_0003>page_0004",
+      "verse": 7,
+      "mode": "hyphen",
+      "before": "La nuit qui suivit immédiatement son sacrifice ;",
+      "after": "ce fut durant ce sommeil extatique que Salomon lui fit la "
+    },
+    {
+      "seam": "page_0004>page_0005",
+      "verse": 14,
+      "mode": "flow",
+      "before": "rage, et apparemment sur ses frontières. On trouve dans la",
+      "after": "Tribu de Siméon, ^{(a)} frontière de l'Égypte, les villes "
+    }
+  ],
+  "pages_used": [
+    "page_0001",
+    "page_0002",
+    "page_0003",
+    "page_0004",
+    "page_0005"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0002-a",
+      "n": 1,
+      "text": "Exod. XXVII. 1. & ſequ. & XXXI. 2."
+    },
+    {
+      "key": "page_0002-b",
+      "n": 2,
+      "text": "2. Reg. VI. 3. Tulerunt arcam de domo Abinadab, qui erat in Gabaa."
+    },
+    {
+      "key": "page_0002-c",
+      "n": 3,
+      "text": "וידרשהו שלמה"
+    },
+    {
+      "key": "page_0002-d",
+      "n": 4,
+      "text": "ויעל שלמה שם על מזבח הנחשת... ויעל עליו עלות אלף"
+    },
+    {
+      "key": "page_0003-a",
+      "n": 5,
+      "text": "Ita 70. καὶ ἤνεγκεν Σολομὼν ἐκεῖθεν θυσιαστήριον... καὶ ἤνεγκεν ἐπ᾽ ἀυτῷ ὁλοκαύτωμα χίλια. Mar. ua & Syr. Pagn. ſun. Var. &c."
+    },
+    {
+      "key": "page_0003-b",
+      "n": 6,
+      "text": "I. Reg. XIII. 12."
+    },
+    {
+      "key": "page_0004-a",
+      "n": 7,
+      "text": "3. Reg. III. 5."
+    },
+    {
+      "key": "page_0004-b",
+      "n": 8,
+      "text": "ויבא שלמה לבמה אשר בגבעון"
+    },
+    {
+      "key": "page_0004-c",
+      "n": 9,
+      "text": "3. Reg. IV. 26. ירושלם כלפני אוהל מועד"
+    },
+    {
+      "key": "page_0005-a",
+      "n": 10,
+      "text": "Joſue XIX. 5."
+    }
+  ],
+  "decisions": [
+    {
+      "page": "page_0001",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0002",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0003",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0004",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0005",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    }
+  ],
+  "missing_footnotes": []
+}

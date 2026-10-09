@@ -1,0 +1,130 @@
+{
+  "notes": [
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "NON EST INGRESSUS TEMPLUM DOMINI.",
+      "lemma": "Il n'entra point dans le Temple du Seigneur, comme avait fait son père; il n'eut pas la présomption de vouloir comme lui offrir l'encens; mais il y entra comme avaient fait les Rois ses prédécesseurs; il ne s'arrogea aucun pouvoir d'exercer les fonctions du sacerdoce.",
+      "text": ""
+    },
+    {
+      "verse": 2,
+      "sub": true,
+      "latin_lemma": "ET ADHUC POPULUS DELINQUEBAT.",
+      "lemma": "Le peuple continuait dans ses fautes.",
+      "text": "L'Hébreu : [1] _Le peuple se corrompait encore, ou, il corrompait ses voies, il continuait à adorer sur les hauteurs, comme il est dit dans les livres des Rois._ [2] _Adhuc populus immolabat, et adolebat incensum in excelsis._"
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "ÆDIFICAVIT PORTAM DOMUS Domini EXCEL-",
+      "lemma": null,
+      "text": ""
+    },
+    {
+      "verse": 3,
+      "sub": true,
+      "latin_lemma": "ET IN MURO OPHEL MULTA CONSTRUXIT.",
+      "lemma": "Il fit faire beaucoup de bâtimens sur la muraille d’Ophel.",
+      "text": "On croit qu’Ophel était une grande tour dans les murs de Jérusalem. [3] Joseph nous apprend qu’elle était prés du portique oriental du Temple. Nous voyons dans Néhemie, [4] que les Nathinéens habitaient le quartier de Jérusalem nommé Ophel; Joatham fit bâtir apparemment beaucoup de tours, ou de redoutes dans le mur d’Ophel."
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "PUGNAVIT CONTRA REGEM AMMON.",
+      "lemma": "Il fit la guerre au Roi des Ammonites.",
+      "text": "Le Roi Ozias son pere les avait assujettis, et rendus tributaires; [5] ils voulurent aprés cela secoüer le joug des Hébreux; mais Joatham les assujettit de nouveau, et leur imposa cent talens d’argent, et dix mille cores de froment, et autant d’orge. Les cent talens d’argent font quatre cens quatre-vingt six mille sept cens dix-huit livres quinze sols de nôtre monoye. Le Core, ou Corus était une mesure qui contenait deux cens quatre-vingt dix-huit pintes, chopine, demi-setier, et un peu plus."
+    },
+    {
+      "verse": 5,
+      "sub": true,
+      "latin_lemma": "HÆC PRÆBUERUNT IN ANNO SECUNDO, ET TERTIO.",
+      "lemma": "Ils les lui donnerent en la seconde, et en la troisiéme année.",
+      "text": "Les Septante: Voilà ce que lui payérent les Ammonites la premiére, la deuxiéme, et la troisiéme année, apparemment depuis qu’ils furent vaincus par Joatham. Dans la suite ce Prince modéra ce tribut; ou bien, les Ammonites ayant payé ce tribut à Joatham, les trois premières années de son règne, comme ils avaient fait sous celui de son père, ils se révoltèrent après ce temps, et Joatham porta ses armes contre eux, et les vainquit."
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "OMNES PUGNÆ, ET OPERA.",
+      "lemma": "Ses combats, et ce qu'il a fait de grand.",
+      "text": "Il eut à soutenir l'effort de Rasin Roi de Syrie, et de Phacée Roi d'Israël.[6]"
+    },
+    {
+      "verse": 7,
+      "sub": true,
+      "latin_lemma": "IN LIBRO REGUM ISRAEL ET JUDA.",
+      "lemma": "Dans le Livre des Rois d'Israël, et de Juda.",
+      "text": "On écrivait dans les mémoires des Rois de Juda, ce qui arrivait dans le Royaume d'Israël, et qui avait quelque liaison avec les affaires de Juda, et réciproquement dans les annales d'Israël, on trouvait le récit des choses de Juda, qui regardaient Israël. Les guerres communes, les alliances, ou les guerres d'un Royaume contre l'autre. Esdras avait sans doute des mémoires des deux Royaumes. On voit son exactitude à la fin de chaque Prince, de marquer d'où il a pris ce qu'il en dit."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0183>page_0184",
+      "verse": 5,
+      "mode": "flow",
+      "before": " par Joatham. Dans la suite ce Prince modéra ce tribut; ou",
+      "after": "bien, les Ammonites ayant payé ce tribut à Joatham, les tr"
+    }
+  ],
+  "pages_used": [
+    "page_0182",
+    "page_0183",
+    "page_0184"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0182-a",
+      "n": 1,
+      "text": "ועוד העם משחיתים 70. ſeu ὁ λαὸς κατέφθειρετο."
+    },
+    {
+      "key": "page_0182-b",
+      "n": 2,
+      "text": "4. Reg. XV. 35."
+    },
+    {
+      "key": "page_0183-a",
+      "n": 3,
+      "text": "Voyez S. Jérôme ſur Iſai. XXXII. 14. & Vata. Tyr. Joſeph. l. 6. de Bello c. 13. in Græcis"
+    },
+    {
+      "key": "page_0183-b",
+      "n": 4,
+      "text": "2. Eſdr. III. 26."
+    },
+    {
+      "key": "page_0183-c",
+      "n": 5,
+      "text": "2. Par. XXVI. 7. 8."
+    },
+    {
+      "key": "page_0184-a",
+      "n": 6,
+      "text": "4. Reg. xv. 37."
+    }
+  ],
+  "decisions": [
+    {
+      "page": "page_0182",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0183",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0184",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    }
+  ],
+  "missing_footnotes": []
+}
