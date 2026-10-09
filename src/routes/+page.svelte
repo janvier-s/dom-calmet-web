@@ -15,7 +15,8 @@
 		{ id: '1-chroniques', name: '1 Chroniques', chapters: 29 },
 		{ id: '2-chroniques', name: '2 Chroniques', chapters: 36 },
 		{ id: 'esdras', name: 'Esdras', chapters: 10 },
-		{ id: 'nehemie', name: 'Néhémie', chapters: 13 }
+		{ id: 'nehemie', name: 'Néhémie', chapters: 13 },
+		{ id: 'tobie', name: 'Tobie', chapters: 14 }
 	];
 
 	let openBook = $state('genese');
