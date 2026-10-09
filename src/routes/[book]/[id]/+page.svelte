@@ -118,7 +118,8 @@
 			 ($page.params.book === '2-chroniques' && chapter.chapter < 36) ||
 			 ($page.params.book === 'esdras' && chapter.chapter < 10) ||
 			 ($page.params.book === 'nehemie' && chapter.chapter < 13) ||
-			 ($page.params.book === 'tobie' && chapter.chapter < 14)}
+			 ($page.params.book === 'tobie' && chapter.chapter < 14) ||
+			 ($page.params.book === 'judith' && chapter.chapter < 16)}
 			<a href="/{$page.params.book}/{chapter.chapter + 1}" class="text-stone-600 hover:text-stone-900 transition-colors">
 				Chapitre {chapter.chapter + 1} &rarr;
 			</a>
