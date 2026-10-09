@@ -1,0 +1,358 @@
+{
+  "book": "Néhémie",
+  "chapter": 10,
+  "chapter_summary": "Noms de ceux qui signèrent l'alliance renouvelée avec le Seigneur. Divers règlements touchant l'observation des Lois.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "SIgnatores autem fuerunt, Nehemias Atherſatha, filius Hachelai, & Sedecias,",
+      "french": "Ceux qui signèrent cette alliance, furent Néhémie Athersatha, fils d'Hachélaï, et Sédécias,",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Saraias, Azarias, Jeremias,",
+      "french": "2. Saraïas, Azarias, Jérémie,",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Pheshur, Amarias, Melchias,",
+      "french": "3. Pheshur, Amarias, Melchias,",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Hattus, Sebenia, Meluch,",
+      "french": "4. Hattus, Sébénia, Melluch,",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Harem, Merimuth, Obdias,",
+      "french": "5. Harem, Mérimuth, Obdias,",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Daniel, Genthon, Baruch,",
+      "french": "6. Daniel, Genthon, Baruch,",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Moſollam, Abia, Miamin,",
+      "french": "7. Mosollam, Abia, Miamin,",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Maazia, Belgai, Semeia : hi Sacerdotes.",
+      "french": "8. Maazia, Belgaï, Séméïa; ceux-là étaient Prêtres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Porrò Levitæ, Joſue filius Azaniæ, Bennui de filiis Henadad, Cedmihel,",
+      "french": "9. Les Lévites étaient, Josué fils d'Azanias, Bennui des enfants d'Hénadad, Cedmihel,",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et fratres eorum, Sebenia, Odaia, Celita, Phalaia, Hanan,",
+      "french": "10. Et leurs frères, Sébébia, Odaïa, Célita, Phalaïa, Hanan,",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Micha, Rohob, Haſebia,",
+      "french": "11. Micha, Rohob, Hasébia,",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Zachur, Serebia, Sabania,",
+      "french": "12. Zachur, Sérébia, Sabania,",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Odaia, Bani, Baninu.",
+      "french": "13. Odaïa, Bani, Baninu,",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Capita populi, Pharos, Phabath-Moab, Elam, Zethu, Bani,",
+      "french": "Les chefs du peuple étaient, Pharos, Phahath-Moab, Elam, Zethu, Bani,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Bonni, Azgad, Bebai,",
+      "french": "Bonni, Azgad, Bebaï,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Adonia, Begoaï, Adin,",
+      "french": "Adonia, Bégoaï, Adin,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Ater, Hezecia, Azur,",
+      "french": "Ater, Hézécia, Azur,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Odaïa, Hasum, Besai,",
+      "french": "Odaïa, Hasum, Bésaï,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Hareph, Anathoth, Nebai,",
+      "french": "Hareph, Anathoth, Nébaï,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Megphias, Mosollam, Hazir,",
+      "french": "Megphias, Mosollam, Hazir,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Mesizabel, Sadoc, Jeddua,",
+      "french": "Mésizabel, Sadoc, Jeddua,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Pheltia, Hanan, Anaïa,",
+      "french": "Pheltia, Hanan, Anaïa,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Osee, Hanania, Hasub,",
+      "french": "Osée, Hanania, Hasub,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Alohes, Phalea, Sobec,",
+      "french": "Alohès, Phalea, Sobec,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Rehum, Hasebna, Maasia,",
+      "french": "Réhum, Hasebna, Maasia,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Echaïa, Hanan, Anan,",
+      "french": "Echaïa, Hanan, Anan,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Melluch, Haram, Baana:",
+      "french": "Melluch, Haran, Baana;",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et reliqui de populo, Sacerdotes, Levitæ, Janitores, & Cantores, Nathinæi, & omnes qui se separaverunt de populis terrarum ad Legem Dei, uxores eorum, filii eorum, & filiæ eorum,",
+      "french": "Pour le reste du peuple, les Prêtres, les Lévites, les Portiers, les Chantres, les Nathinéens, et tous ceux qui s'étaient séparés des nations, pour embrasser la Loi de Dieu, leurs femmes, leurs fils et leurs filles,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Omnes qui poterant sapere spondentes pro fratribus suis, optimates eorum, & qui veniebant ad pollicendum & jurandum, ut ambularent in Lege Dei, quam dederat in manu Moysi servi Dei, ut facerent & custodirent universa mandata Domini Dei nostri, & judicia ejus, & ceremonias ejus;",
+      "french": "Tous ceux qui avaient le discernement et l'intelligence, donnèrent parole pour leurs frères; et les principaux d'entre eux vinrent promettre et jurer de marcher dans la Loi de Dieu, que le Seigneur a donnée par Moïse son serviteur, de garder et observer tous les commandements du Seigneur notre Dieu, ses ordonnances, et ses cérémonies;",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et ut non daremus filias noſtras populo terræ, & filias eorum non acciperemus filiis noſtris.",
+      "french": "De ne point donner nos filles à aucune des nations, et de ne point prendre leurs filles pour les donner à nos fils.",
+      "annotations": "An du m. 3551.",
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Populi quoque terræ, qui important venalia, & omnia ad uſum, per diem Sabbati, ut vendant, non accipiemus ab eis in Sabbato, & in die ſanctificato. Et dimittemus annum ſeptimum, & exactionem univerſæ manus.",
+      "french": "Nous n'achèterons point aussi aux jours du Sabbat, ni dans les autres jours consacrés, ce que les nations nous pourront apporter à vendre, ni rien de ce qui peut servir à l'usage de la vie. Nous laisserons la terre sans la cultiver la septième année, et nous n'y exigerons aucune dette.",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et ſtatuemus ſuper nos præcepta, ut demus tertiam partem ſicli per annum, ad opus domûs Dei noſtri.",
+      "french": "Nous nous imposerons aussi une obligation de donner chaque année la troisième partie d'un sicle, pour tout ce qu'il faut faire à la maison de notre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Ad panes propoſitionis, & ad ſacrificium ſempiternum, & in holocauſtum ſempiternum in Sabbatis, in calendis, in ſollemnitatibus, & in ſanctificatis, & pro peccato : ut exoretur pro Iſraël, & in omnem uſum domûs Dei noſtri.",
+      "french": "Pour les pains exposés devant le Seigneur, pour le sacrifice perpétuel, et pour l'holocauste éternel au jour du Sabbat, aux premiers jours du mois, aux fêtes solennelles, aux sacrifices pacifiques, et à ceux qu'on offre pour le péché, afin que les prières soient offertes pour Israël, et qu'il ne manque rien au ministère de la maison du Seigneur notre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Sortes ergo miſimus ſuper oblationem lignorum, inter Sacerdotes, & Levitas, & populum, ut inferrentur in domum Dei noſtri, per domos patrum noſtrorum, per tempora, à temporibus anni uſque ad annum : ut arderent ſuper altare Domini Dei noſtri, ſicut ſcriptum eſt in Lege Moyſi:",
+      "french": "Nous jetâmes aussi le sort sur les Prêtres, les Lévites et le peuple, pour l'offrande du bois, afin que chaque maison des familles de nos pères, en fît porter chaque année en la maison de notre Dieu, au temps qui aurait été marqué, pour le faire brûler sur l'autel du Seigneur notre Dieu, selon qu'il est écrit dans la Loi de Moïse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et ut afferremus primogenita terræ noſtræ, & primitiva univerſi fructûs omnis ligni, ab anno in annum, in domo Domini;",
+      "french": "35. Nous promîmes aussi d'apporter tous les ans en la maison du Seigneur, les prémices des fruits de tous les arbres ;",
+      "annotations": "An du m. 3551.",
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et primitiva filiorum noſtrorum, & pecorum noſtrorum, ſicut ſcriptum eſt in Lege, & primitiva boum noſtrorum, & ovium noſtrarum, ut offerrentur in domo Dei noſtri Sacerdotibus, qui miniſtrant in Domo Dei noſtri :",
+      "french": "36. Les premiers-nés de nos fils, et de nos troupeaux, comme il est écrit dans la Loi, et les premiers-nés de nos bœufs, et de nos brebis, pour les offrir dans la maison de notre Dieu, aux Prêtres qui servent dans la maison de notre Dieu :",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Et primitias ciborum noſtrorum, & libaminum noſtrorum, & poma omnis ligni, vindemiæ quoque & olei, afferemus Sacerdotibus ad gazophylacium Dei noſtri, & decimam partem terræ noſtræ Levitis. Ipſi Levitæ decimas accipient ex omnibus civitatibus operum noſtrorum.",
+      "french": "Comme aussi les prémices de nos aliments, et de nos liqueurs. Nous promîmes aussi d'apporter aux Prêtres, au trésor de notre Dieu, les prémices de nos viandes, des fruits de tous les arbres, de la vigne, et des oliviers, et de payer la dîme de notre terre aux Lévites. Les mêmes Lévites recevront de toutes les villes, les dîmes de tout ce qui pourra venir de notre travail.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Erit autem Sacerdos filius Aaron, cum Levitis in decimis Levitarum; & Levitæ offerent decimam partem, decimæ ſuæ in domo Dei noſtri, ad gazophylacium, in domum theſauri.",
+      "french": "Il y aura un Prêtre de la race d'Aaron, avec les Lévites, lorsqu'ils recevront les dîmes; et les Lévites offriront la dixième partie de la dîme qu'ils auront reçue, en la maison de notre Dieu, pour être réservée dans la maison du trésor.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Ad gazophylacium anim deportabunt filii Iſraël, & filii Levi, primitias frumenti, vini, & olei: & ibi erunt vaſa ſanctificata, & Sacerdotes, & Cantores, & Janitores, & Miniſtri, & non dimittemus domum Dei noſtri.",
+      "french": "Car les enfants d'Israël, et les enfants de Lévi, les Prêtres, les Chantres, les Portiers, et les Ministres, porteront les prémices du blé, du vin, et de l'huile en la maison du trésor; et c'est là que seront les vases consacrés; et nous n'abandonnerons point la maison de notre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    }
+  ]
+}
