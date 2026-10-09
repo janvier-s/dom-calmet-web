@@ -11,7 +11,8 @@
 		{ id: '1-samuel', name: '1 Samuel', chapters: 31 },
 		{ id: '2-samuel', name: '2 Samuel', chapters: 24 },
 		{ id: '1-rois', name: '1 Rois', chapters: 22 },
-		{ id: '2-rois', name: '2 Rois', chapters: 25 }
+		{ id: '2-rois', name: '2 Rois', chapters: 25 },
+		{ id: '1-chroniques', name: '1 Chroniques', chapters: 29 }
 	];
 
 	let openBook = $state('genese');

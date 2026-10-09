@@ -1,0 +1,143 @@
+{
+  "notes": [
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "ET SUBLEVATUM ESSET REGNUM SUUM SUPER POPULUM EJUS.",
+      "lemma": "Et qu'il l'avait élevé en autorité sur son peuple.",
+      "text": "L'Hébreu, [1] et les Septante : [2] _Parce que son Royaume était élevé à cause de son peuple ;_ Dieu veut montrer aux Rois qu'il ne les élève, qu'en faveur des peuples ; qu'ils ne sont puissants, que pour leurs peuples ; en un mot, qu'ils sont moins Rois pour eux, que pour leurs sujets. Rien n'est plus propre que cette vérité, pour humilier les grands, qui veulent que tout soit fait pour eux, et qui n'ont en vue que leur satisfaction, ou leur grandeur."
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "ELIPHALET, ET NOGA, ne sont point nommés, 2. Reg. v. 15."
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "BAALIADA, apparemment le même qu'Eliada. [3]"
+    },
+    {
+      "verse": 11,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "BAALPHARASIM, signifie le Dieu, ou le maître des divisions. David rend raison de cette dénomination ; Dieu avait dissipé ses ennemis en sa présence, comme les eaux répandues à la campagne, se dissipent par la chaleur du Soleil."
+    },
+    {
+      "verse": 12,
+      "sub": false,
+      "latin_lemma": "DERELIQUERUNT DEOS SUOS QUOS DAVID JUSSIT COMBURI.",
+      "lemma": "Ayant laissé là leurs Dieux, David commanda qu'on les brûlât.",
+      "text": "Suivant la loi du Deutéronome : [4] _Vous brûlerez leurs Dieux faits en sculpture, sans vous mettre en peine de l'or, et de l'argent qui les couvrent ; vous n'en réserverez rien pour vous, etc._ Ces Idoles étaient pour l'ordinaire de bois, couvertes de lames d'or ou d'argent. On voit ici que les Philistins portaient leurs dieux à la guerre, de même que les Hébreux y portaient souvent l'arche du Seigneur. Les anciens Grecs au siège de Troie avaient leurs dieux sur leurs vaisseaux. [5] Les Romains avaient aussi dans leurs Enseignes les dieux titulaires de la République. Ils étaient placés dans un endroit distingué du camp, comme dans leur temple."
+    },
+    {
+      "verse": 14,
+      "sub": false,
+      "latin_lemma": "RECEDE AB EIS, ET VENIES CONTRA ILLOS EX ADVERSO PYRORUM.",
+      "lemma": "Éloignez-vous d'eux plutôt, et vous tournerez contre eux quand vous serez vis-à-vis des poiriers.",
+      "text": "L'Hébreu dit : _N'allez point contre eux, mais tournez au-dessus d'eux, et vous viendrez vers eux vis-à-vis des poiriers, ou des mûriers._ On peut voir ce qui a été remarqué sur le 2. Reg. v. 23."
+    },
+    {
+      "verse": 15,
+      "sub": false,
+      "latin_lemma": "CUM AUDIERIS SONITUM GRADIENTIS IN CACUMINE PYRORUM.",
+      "lemma": "Dès que vous entendrez au haut de ces poiriers, comme le bruit de quelqu'un qui marche. Ou plutôt : Dès que vous entendrez sur la hauteur où sont ces poiriers, comme le bruit d'une troupe qui s'avance, avancez vous-mêmes.",
+      "text": "C'était une armée invisible, que Dieu envoyait au secours de David.[6]"
+    },
+    {
+      "verse": 16,
+      "sub": false,
+      "latin_lemma": "DE GABAON, USQUE GAZERA.",
+      "lemma": "De Gabaon, jusqu'à Gazer.",
+      "text": "On lit dans les Rois,[7] _Depuis Gabaa, jusqu'à Gézer._ Gabaon, et Gabaa étaient assez voisines, dans la tribu de Benjamin. _Gazer_, était aux environs d'Azor, dans le pays des Philistins. Ainsi David nettoya tout le pays de Juda, et de Benjamin de ces peuples ennemis."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0194>page_0195",
+      "verse": 2,
+      "mode": "flow",
+      "before": "en faveur des peuples ; qu'ils ne sont puissants, que pour",
+      "after": "leurs peuples ; en un mot, qu'ils sont moins Rois pour eux"
+    }
+  ],
+  "pages_used": [
+    "page_0194",
+    "page_0195",
+    "page_0196",
+    "page_0197"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0194-c",
+      "n": 1,
+      "text": "כי נשאת למעלה מלכותו בעבור עמו"
+    },
+    {
+      "key": "page_0194-d",
+      "n": 2,
+      "text": "ὅτι ἐπήρθη ἡ βασιλεία αὐτỡ, διὰ τὸν λαὸν αὐτỡ."
+    },
+    {
+      "key": "page_0195-a",
+      "n": 3,
+      "text": "2. Reg. v. 16."
+    },
+    {
+      "key": "page_0196-a",
+      "n": 4,
+      "text": "Deut. VII. 25."
+    },
+    {
+      "key": "page_0196-b",
+      "n": 5,
+      "text": "Homer. Iliad. IX. στῦται γὰρ νηυσὶν ἀμφι- | †νηυσὶν ἕκεα κέρυμβα."
+    },
+    {
+      "key": "page_0197-a",
+      "n": 6,
+      "text": "Joſeph. Theodoret. Eſt. Vat."
+    },
+    {
+      "key": "page_0197-b",
+      "n": 7,
+      "text": "1. Reg. v. 25. _De Gaban uſque dum venias Gezer._"
+    }
+  ],
+  "decisions": [
+    {
+      "page": "page_0194",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0195",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0196",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0197",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    }
+  ],
+  "missing_footnotes": []
+}
