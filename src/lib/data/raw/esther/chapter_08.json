@@ -1,0 +1,160 @@
+{
+  "book": "Esther",
+  "chapter": 8,
+  "chapter_summary": "_Mardochée en honneur à la Cour d'Assuérus. Révocation de l'Édit contre les Juifs. Édit contraire en leur faveur._",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "DIe illo dedit Rex Aßuerus Eſther Reginæ, domum Aman adverſarii Judæorum, & Mardochæus ingreſſus eſt ante faciem Regis. Confeſſa eſt enim ei Eſther, quod eſſet patruus ſuus.",
+      "french": "LE même jour le Roi Assuérus donna à la Reine Esther, la maison d'Aman, ennemi des Juifs, et Mardochée fut présenté au Roi. Car Esther lui avait avoué qu'il était son oncle.",
+      "annotations": "An du m. 3496.",
+      "source_pages": [
+        "page_0121.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Tulitque Rex annulum, quem ab Aman recipi juſſerat, & tradidit Mardochæo : Eſther autem conſtituit Mardochæum ſuper domum ſuam.",
+      "french": "Et le Roi commandant qu’on reprît son anneau, qu’Aman avait eu, le donna à Mardochée. Esther fit aussi Mardochée Intendant de sa maison.",
+      "annotations": null,
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Nec his contenta, procidit ad pedes Regis, flevitque, & locuta ad eum oravit, ut malitiam Aman Agagitæ & machinationes ejus peſſimas, quas excogitaverat contra Judæos, juberet irritas fieri.",
+      "french": "Esther n’étant pas encore contente, alla se jeter aux pieds du Roi, & le conjura avec larmes, d’arrêter les mauvais effets de l’entreprise pleine de malice, qu’Aman fils d’Agag, avait formée, pour perdre les Juifs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "At ille ex more ſceptrum aureum protendit manu, quo ſignum clementiæ monſtrabatur : illáque conſurgens ſtetit ante eum.",
+      "french": "Le Roi lui tendit son sceptre d’or, pour lui donner, selon la coutume, des marques de sa bonté. Et la Reine se leva, & se tenant en sa présence,",
+      "annotations": null,
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et ait : Si placet Regi, & ſi inveni gratiam in oculis ejus, & deprecatio mea non ei videtur eſſe contraria, obſecro, ut novis epiſtolis, veteres Aman litteræ, inſidiatoris & hoſtis Iudæorum, quibus eos in cunctis Regis Provinciis perire præceperat, corrigantur.",
+      "french": "Lui dit : S'il plaît au Roi, si j'ai trouvé grâce devant ses yeux, et que ma prière ne lui paraisse pas contraire à ses intentions, je le conjure de vouloir ordonner, que les premières lettres d'Aman, ennemi des Juifs, qui ne cherchait qu'à les perdre, par lesquelles il avait commandé, qu'on les exterminât dans toutes les Provinces du Royaume, soient révoquées par de nouvelles lettres du Roi.",
+      "annotations": "An du m. 3496.",
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Quomodo enim potero ſuſtinere necem & interfectionem populi mei?",
+      "french": "Car comment pourrais-je souffrir la mort, et le carnage de tout mon peuple ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Reſponditque Rex Aſſuerus Eſther Reginæ, & Mardochæo Iudæo : Domum Aman conceſſi Eſther, & ipſum juſſi aﬀigi cruci, quia auſus eſt manum mittere in Iudæos.",
+      "french": "Le Roi Assuérus répondit à la Reine Esther, et à Mardochée Juif : J'ai donné à Esther la maison d'Aman, et j'ai commandé qu'il fût attaché à une croix, parce qu'il avait osé entreprendre de perdre les Juifs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Scribite ergo Iudæis, ſicut vobis placet : Regis nomine, ſignantes litteras annullo meo. Hæc enim conſuetudo erat, ut epiſtolis, quæ ex Regis nomine mittebantur, & illius annulo ſignatæ erant, nemo auderet contradicere.",
+      "french": "Écrivez donc aux Juifs, au nom du Roi, comme vous le jugerez à propos, et scellez les lettres de mon anneau. Car c'était la coutume, que nul n'osait s'opposer aux lettres, qui étaient envoyées au nom du Roi, et cachetées de son anneau.",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Accitiſque Scribis & Librariis Regis, erat autem tempus tertii menſis, qui appellatur Siban, vigeſima & tertia die illius, ſcriptæ ſunt epiſtolæ, ut Mardochæus voluerat, ad Iudæos, & ad Principes, Procuratoréſque, & Iudices, qui centum viginti ſeptem Provinciis, ab India uſque ad Æthiopiam, præſidebant ; Provinciæ atque Provinciæ, populo & populo, juxta Linguas & litteras ſuas, & Iudæis, prout legere poterant, & audire.",
+      "french": "On fit donc venir aussitôt les Secrétaires, et les Écrivains du Roi : et comme c'était alors le troisième mois appelé Siban, le vingt-troisième de ce même mois, les lettres du Roi furent conçues en la manière que Mardochée voulut, et adressées aux Juifs, aux grands Seigneurs, aux Gouverneurs, et aux Juges, qui commandaient aux cent vingt-sept Provinces du Royaume, depuis les Indes jusqu'en Éthiopie ; et elles furent écrites en diverses Langues, selon la diversité des Provinces, des peuples, et des Juifs, afin qu'elles pussent être lues, et entendues de tout le monde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "_Ipſaque epiſtola, quæ Regis nomine mittebantur, annulo ipſius obſignatæ ſunt, & miſſæ per veredarios : qui per omnes Provincias diſcurrentes, veteres literas novis nuntiis prævenirent._",
+      "french": "Ces Lettres que l'on envoyait au nom du Roi, furent cachetées de son anneau, & portées par les courriers, afin que courant en toute diligence, par toutes les Provinces, ils prévinssent les anciennes Lettres, par ces nouvelles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Quibus imperavit Rex, ut convenirent Judæos per ſingulas civitates, & in unum præciperent congregari, ut ſtarent pro animabus ſuis, & omnes inimicos ſuos, cum conjugibus ac liberis & univerſis domibus, interficerent atque delerent, & ſpolia eorum diriperent.",
+      "french": "Le Roi leur commanda en même temps, d'aller trouver les Juifs en chaque ville, & de leur ordonner de s'assembler tous, & de se tenir prêts, pour défendre leur vie, pour tuer, & exterminer leurs ennemis, avec leurs femmes, leurs enfants, & toutes leurs maisons, & de piller leurs dépouilles.",
+      "annotations": "An du M. 3496.",
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et conſtituta eſt per omnes Provincias una ultionis dies, id eſt, tertiadecima menſis duodecimi Adar.",
+      "french": "Et on marqua à toutes les Provinces, un même jour, pour la vengeance que les Juifs devaient prendre de leurs ennemis, savoir, le treizième jour du douzième mois, appelé Adar.",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Summáque epiſtola hæc fuit, ut in omnibus terris, ac populis, qui Regis Aſſueri ſubjacebant imperio, notum fieret, paratos eſſe Judæos ad capiendam vindictam de hoſtibus ſuis.",
+      "french": "La substance de cette Lettre du Roi était : Qu'on fît savoir dans toutes les Provinces, et à tous les peuples, qui étaient soumis à l'Empire du Roi Assuérus, que les Juifs étaient prêts de se venger de leurs ennemis.",
+      "annotations": "An du M. 3496.",
+      "source_pages": [
+        "page_0127.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Egreſſique ſunt veredarii celeres nuntia perferentes, & edictum Regis pependit in Suſan.",
+      "french": "Les courriers partirent aussitôt en grande hâte, portant cette lettre, et l'Édit du Roi fut affiché dans Suses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0127.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Mardochæus autem de palatio & de conſpectu Regis egrediens, fulgebat veſtibus Regis, hyacinthinis videlicet & aëreis, coronam auream portans in capite, & amictus ſerico pallio atque purpureo. Omniſque civitas, exultavit, atque lætata eſt.",
+      "french": "15. Mardochée sortant du Palais, et d'avec le Roi, parut dans un grand éclat, portant une robe royale, de couleur d'hyacinthe, et de bleu céleste, ayant une couronne d'or sur la tête, et un manteau de soie et de pourpre. Toute la ville fut transportée de joie.",
+      "annotations": "An du M. 3496.",
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Iudæis autem nova lux oriri viſa eſt, gaudium, honor, & tripudium.",
+      "french": "16. Et quant aux Juifs, il leur sembla qu'une nouvelle lumière se levait sur eux, à cause de cet honneur, de ces congratulations, et de ces réjouissances publiques.",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Apud omnes populos, urbes, atque Provincias, quocúmque Regis jußa veniebant, mira exultatio, epulæ atque convivia, & feſtus dies : in tantùm ut plures alterius gentis & ſectæ, eorum Religioni, & cæremoniis jungerentur. Grandis enim cunctos Judaici nominis terror invaſerat.",
+      "french": "Parmi toutes les Nations, les Provinces, & les villes, où l'Ordonnance du Roi était portée, ils étaient dans une joie extraordinaire ; ils faisaient des festins, & des jours de fêtes : jusque-là que plusieurs des autres Nations, & qui étaient d'une autre religion qu'eux, embrassèrent leur Religion, & leurs cérémonies. Car le nom du peuple Juif, avait rempli tous les esprits d'une très-grande terreur.",
+      "annotations": "An du M. 1496.",
+      "source_pages": [
+        "page_0129.json"
+      ]
+    }
+  ]
+}

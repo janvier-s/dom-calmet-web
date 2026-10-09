@@ -1,0 +1,90 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "MORABATUR EO TEMPORE IN AULA REGIS, CUM BAGATHA, ET THARA.",
+      "lemma": "Mardochée demeurait alors dans la Cour d'Assuérus avec Bagatha, et Thara.",
+      "text": "Depuis qu'Esther était entrée dans le Palais du Roi, Mardochée ne s'éloignait pas de la Cour; il y était fort assidu, pour savoir l'état de la santé d'Esther. On a déjà touché cette Histoire dans le Chapitre second, ℣. 21. et suivants. Il semble que depuis cet événement, Mardochée avait pris un Emploi à la Cour, et qu'il était du nombre des Gardes des portes. Voyez le ℣. 5. _Præcepit ei Rex ut in Aulâ Palatii moraretur_; et confrontez ce passage avec le Chapitre III. 3. 4. 5. Ces paroles, _En ce temps-là_, ne doivent pas s'expliquer, comme si la conjuration des deux Eunuques, était arrivée dans le même temps du songe de Mardochée, raconté au Chapitre précédent, et fixé à la seconde année d'Assuérus. Cette conspiration ne fut découverte que la septième année de ce Prince.[1]"
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "DEUTROQUE HABITA QUÆSTIONE, CONFESSOS,",
+      "lemma": null,
+      "text": ""
+    },
+    {
+      "verse": 3,
+      "sub": true,
+      "latin_lemma": "JUSSIT DUCI AD MORTEM.",
+      "lemma": "Le Roi commanda qu'on leur donnât la question à tous deux; et ayant confessé leur crime, il les fit mener au supplice.",
+      "text": "Le Grec dit qu'on leur donna la question, et qu'on les étrangla,[2] ou qu'on les pendit. L'Hébreu du Chapitre second ne dit pas qu'on leur ait donné la question; il met seulement qu'on examina l'affaire, qu'on la découvrit, et qu'on les pendit tous deux sur un bois.[3]"
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "DATIS EI PRO DELATIONE MUNERIBUS.",
+      "lemma": "Il lui fit des présents pour l'avis qu'il avait donné.",
+      "text": "On ne sait quels furent ces présents : mais c'était peu de chose, puisqu'on n'en écrivit rien dans les Mémoires."
+    },
+    {
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": "AMAN, FILIUS AMADATHI, BUGÆUS.",
+      "lemma": "Aman, fils d'Amadath, Bugée.",
+      "text": "Voyez ce qu'on a dit sur le nom, la patrie, et la qualité d'Aman, Ch. III. I."
+    },
+    {
+      "verse": 6,
+      "sub": true,
+      "latin_lemma": "VOLUIT NOCERE MARDOCHÆO, PRO DUOBUS EUNUCHIS.",
+      "lemma": "Il voulut perdre Mardochée, à cause de ces deux Eunuques, qui étaient apparemment tout dévoués à Aman.",
+      "text": "Plusieurs Interprètes[4] semblent"
+    }
+  ],
+  "joins": [],
+  "pages_used": [
+    "page_0150",
+    "page_0151"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0150-a",
+      "n": 1,
+      "text": "Voyez Eſther II. 16. 21."
+    },
+    {
+      "key": "page_0151-a",
+      "n": 2,
+      "text": "Εἴληφε τὰς δύο ἀνάγκας, καὶ ἀπήγχθησαν. L'Edition Romaine, & celle d'Uſſerius. Ἀπήγαγε τὰς δύο ἀνάγκας, καὶ ἐκρέμασεν αὐτὲς."
+    },
+    {
+      "key": "page_0151-b",
+      "n": 3,
+      "text": "ויבקש הדבר וימצא ויתלו שניהם על עץ"
+    },
+    {
+      "key": "page_0151-c",
+      "n": 4,
+      "text": "Cornel. Menoch. Tirin."
+    }
+  ],
+  "decisions": [
+    {
+      "page": "page_0150",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0151",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    }
+  ],
+  "missing_footnotes": []
+}

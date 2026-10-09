@@ -1,0 +1,133 @@
+{
+  "book": "Esther",
+  "chapter": 5,
+  "chapter_summary": "Esther se présente devant Assuérus ; elle invite ce Prince à manger chez elle avec Aman. Le Roi lui dit, de demander ce qu'elle voudra ; elle l'invite encore à manger, pour le lendemain. Aman prend la résolution de faire pendre Mardochée.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "DIe autem tertio induta eſt Eſther regalibus veſtimentis, & ſtetit in atrio domûs Regiæ, quod erat interius, contra baſilicam Regis : at ille ſedebat ſuper ſolium ſuum, in conſiſtorio palatii, contra oſtium domûs.",
+      "french": "LE troisième jour Esther se vêtit de ses habits royaux, & s'étant rendue à l'appartement du Roi, elle s'arrêta dans la salle la plus proche de la chambre de sa Majesté. Il était assis sur son trône, dans le fond de sa chambre, tout vis-à-vis la porte même de la chambre.",
+      "annotations": "An du m. 3495.",
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Cùmque vidiſſet Esther Reginam ſtantem, placuit oculis ejus, & extendit contra eam virgam auream, quam tenebat manu. Quæ accedens, oſculata eſt ſummitatem virgæ ejus.",
+      "french": "Et ayant vu paraître la Reine Esther, elle plut à ses yeux, et il étendit vers elle le sceptre d'or, qu'il avait à la main. Esther s'approchant, baisa le bout du sceptre d'or.",
+      "annotations": "An du M. 3495.",
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Dixitque ad eam Rex : _Quid vis Esther Regina? Quæ est petitio tua? etiam si dimidiam partem regni petieris, dabitur tibi._",
+      "french": "Et le Roi lui dit : Que voulez-vous, Reine Esther, que demandez-vous ? Quand vous me demanderiez la moitié de mon Royaume, je vous la donnerais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "_At illa respondit : Si Regi placet, obsecro ut venias ad me hodie, & Aman tecum, ad convivium quod paravi._",
+      "french": "Esther lui répondit : Je supplie le Roi, de venir aujourd'hui, s'il lui plaît, au festin que je lui ai préparé, & Aman avec lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Statímque Rex, vocate, inquit, citò Aman, ut Eſther obediat voluntati. Venerunt itaque Rex, & Aman ad convivium, quod eis Regina paraverat.",
+      "french": "Qu'on appelle Aman, dit le Roi, aussitôt, afin qu'il obéisse à la volonté de la Reine. Le Roi & Aman vinrent donc au festin, que la Reine leur avait préparé.",
+      "annotations": "An du M. 3495.",
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dixítque ei Rex, poſtquam vinum biberat abundanter : Quid petis ut detur tibi? & pro qua re poſtulas? Etiam ſi dimidiam partem regni mei petieris, impetrabis.",
+      "french": "Et le Roi lui dit, après avoir bu beaucoup de vin : Que désirez-vous que je vous donne, & que me demandez-vous ? Quand vous me demanderiez la moitié de mon Royaume, je vous la donnerais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Cui reſpondit Eſther : Petitio mea, & preces ſunt iſtæ :",
+      "french": "Esther lui répondit : La demande & la prière que j'ai à faire est,",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Si inveni in conſpectu Regis gratiam, & ſi Regi placet, ut det mihi quod poſtulo, & meam impleat petitionem : veniat Rex & Aman ad convivium, quòd paravi eis, & cras aperiam Regi voluntatem meam.",
+      "french": "Si j'ai trouvé grâce devant le Roi, & qu'il lui plaise de m'accorder ce que je demande, & de faire ce que je désire, que le Roi vienne, & Aman avec lui, au festin que je leur ai préparé, & demain je déclarerai au Roi ce que je souhaite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Egreſſus eſt itaque illo die Aman lætus & alacer. Cùmque vidiſſet Mardochæum ſedentem ante fores Palatii, & non ſolùm non aſſurrexiſſe ſibi, ſed nec motum quidem de loco ſeſſionis ſuæ, indignatus eſt valdè;",
+      "french": "Aman sortit donc ce jour-là fort content, & plein de joie ; & ayant vu que Mardochée, qui était assis devant la porte du Palais, non seulement ne s'était pas levé pour lui faire honneur ; mais ne s'était pas même remué de la place où il était, il en conçut une grande indignation;",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et diſſimulatâ irâ, reverſus in domum ſuam, convocavit ad ſe amicos ſuos, & Zares uxorem ſuam.",
+      "french": "Et dissimulant la colère où il était, il retourna chez lui, & fit assembler ses amis avec sa femme Zarès.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et expoſuit illis magnitudinem divitiarum ſuarum, filiorúmque turbam, & quantâ eum gloriâ ſuper omnes Principes & ſervos ſuos, Rex elevaſſet.",
+      "french": "Et après leur avoir représenté quelle était la grandeur de ses richesses, le grand nombre de ses enfants, & cette haute gloire où le Roi l'avait élevé, au-dessus de tous les Grands de sa Cour, & de tous ses Officiers,",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et poſt hæc ait : Regina quoque Eſther nullum alium vocavit ad convivium cum Rege, præter me : apud quam etiam cras cum Rege pranſurus ſum.",
+      "french": "Il ajouta : La Reine Esther n'en a point aussi invité d'autres que moi, pour être du festin qu'elle a fait au Roi, & je dois encore demain dîner chez elle avec le Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et cùm hæc omnia habeam, nihil me habere puto, quamdiu videro Mardochæum Judæum ſedentem ante fores Regias.",
+      "french": "Mais quoique j'aie tous ces avantages, je croirai n'avoir rien, tant que je verrai le Juif Mardochée, demeurer assis devant la porte du Palais du Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Reſponderúntque ei Zares uxor ejus, & ceteri amici : Jube parari excelſam trabem, habentem altitudinis quinquaginta cubitos, & dic manè Regi, ut appendatur ſuper eam Mardochæus, & ſic ibis cum Rege lætus ad convivium. Placuit ei conſilium, & juſſit excelſam parari crucem.",
+      "french": "Zarès sa femme, & tous ses amis lui répondirent : Commandez qu'on dresse une potence fort élevée, qui ait cinquante coudées de haut, & demandez au Roi, demain au matin, qu'on y fasse pendre Mardochée ; & vous irez ainsi plein de joie au festin avec le Roi. Ce conseil lui plut, & il commanda qu'on préparât cette haute potence.",
+      "annotations": "An du M. 3495.",
+      "source_pages": [
+        "page_0105.json"
+      ]
+    }
+  ]
+}

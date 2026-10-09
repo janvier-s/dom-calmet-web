@@ -17,7 +17,8 @@
 		{ id: 'esdras', name: 'Esdras', chapters: 10 },
 		{ id: 'nehemie', name: 'Néhémie', chapters: 13 },
 		{ id: 'tobie', name: 'Tobie', chapters: 14 },
-		{ id: 'judith', name: 'Judith', chapters: 16 }
+		{ id: 'judith', name: 'Judith', chapters: 16 },
+		{ id: 'esther', name: 'Esther', chapters: 16 }
 	];
 
 	let openBook = $state('genese');
