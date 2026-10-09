@@ -1,0 +1,105 @@
+{
+  "book": "Esdras",
+  "chapter": 1,
+  "chapter_summary": "_Cyrus renvoie les Juifs à Jérusalem, avec les vases sacrés que Nabuchodonosor en avait enlevés. Il leur permet de rétablir le Temple._",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "IN anno primo Cyri Regis Perſarum, ut compleretur verbum Domini ex ore Jeremiæ, ſuſcitavit Dominus ſpiritum Cyri Regis Perſarum, & traduxit vocem in omni regno ſuo, etiam per ſcripturam, dicens:",
+      "french": "LA première année de Cyrus Roi de Perse, le Seigneur, pour accomplir la parole qu'il avait prononcée par la bouche de Jérémie, toucha le cœur de Cyrus Roi de Perse, qui fit publier dans tout son Royaume cette ordonnance, même par écrit :",
+      "source_pages": [
+        "page_0049.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Hæc dicit Cyrus Rex Perſarum : Omnia regna dedit mihi Dominus Deus cœli, & ipſe præcepit mihi ut ædificarem ei domum in Jeruſalem, quæ eſt in Judæa.",
+      "french": "Voici ce que dit Cyrus Roi de Perse : Le Seigneur le Dieu du Ciel m'a donné tous les Royaumes de la terre ; et m'a commandé de lui bâtir une maison dans la ville de Jérusalem, qui est en Judée.",
+      "annotations": "An du m. 3468.",
+      "source_pages": [
+        "page_0050.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quis eſt in vobis de univerſo populo ejus? Sit Deus illius cum ipſo. Aſcendat in Jeruſalem, quæ eſt in Judæa, & ædificet domum Domini Dei Iſraël, ipſe eſt Deus qui eſt in Jeruſalem.",
+      "french": "Qui d'entre vous est de son peuple ? Que son Dieu soit avec lui. Qu'il aille à Jérusalem, qui est en Judée ; et qu'il rebâtisse la Maison du Seigneur le Dieu d'Israël, ce Dieu qui est adoré à Jérusalem.",
+      "annotations": "An du M. 3468.",
+      "source_pages": [
+        "page_0051.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et omnes reliqui in cunctis locis ubicumque habitant, adjuvent eum viri de loco ſuo, argento & auro, & ſubſtantia, & pecoribus, excepto quod voluntariè offerunt Templo Dei, quod eſt in Jeruſalem.",
+      "french": "Et que tous les autres, en quelques lieux qu'ils habitent, les assistent du lieu où ils sont, soit en argent et en or, soit de tous leurs autres biens, et de leurs bestiaux, outre ce qu'ils offrent volontairement au Temple de Dieu, qui est à Jérusalem.",
+      "annotations": null,
+      "source_pages": [
+        "page_0051.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et ſurrexerunt Principes patrum de Juda, & Benjamin, & Sacerdotes, & Levitæ, & omnis cujus Deus ſuſcitavit ſpiritum, ut aſcenderent ad ædificandum Templum Domini, quod erat in Jeruſalem.",
+      "french": "Alors les chefs des familles de Juda, et de Benjamin, les Prêtres et les Lévites, et tous ceux dont Dieu toucha le cœur, se préparèrent à s'en retourner pour bâtir le Temple du Seigneur, qui était dans Jérusalem.",
+      "annotations": "An du M. 3468.",
+      "source_pages": [
+        "page_0052.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Univerſique qui erant in circuitu, adjuverunt manus eorum in vaſis argenteis & aureis, in ſubſtantia & jumentis, in ſuppellectili, exceptis his quæ ſponte obtulerant.",
+      "french": "Et tous ceux qui demeuraient aux environs, les assistèrent de vaisselle d'argent et d'or, de leurs biens, de leurs bêtes, et de leurs meubles, outre ce qu'ils avaient offert volontairement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0052.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Rex quoque Cyrus protulit vaſa Templi Domini, quæ tulerat Nabuchodonoſor de Jeruſalem, & poſuerat ea in Templo Dei ſui.",
+      "french": "Le Roi Cyrus leur remit aussi entre les mains les vases du Temple du Seigneur, que Nabuchodonosor avait emportés de Jérusalem, et qu'il avait mis dans le Temple de son Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0052.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Protulit autem ea Cyrus Rex Perſarum per manum Mithridatis filii Gazabar, & annumeravit ea Saſſabaſar Principi Judæ.",
+      "french": "8. Cyrus Roi de Perse les leur fit rendre par Mithridate fils de Gazabar, qui les donna par compte à Sassabasar Prince de Juda.",
+      "annotations": "An du M. 3468.",
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et hic eſt numerus eorum : Phialæ aureæ triginta, phialæ argenteæ mille, cultri viginti novem, ſcyphi aurei triginta.",
+      "french": "Voici le nombre de ces vases : Trente coupes d'or, mille coupes d'argent, vingt-neuf couteaux, trente tasses d'or ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0054.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Scyphi argentei ſecundi quadringenti decem : vaſa alia mille.",
+      "french": "Quatre cent dix autres tasses d'argent, et mille autres vases.",
+      "annotations": null,
+      "source_pages": [
+        "page_0054.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Omnia vaſa aurea & argentea, quinque millia quadringenta : univerſa tulit Saſſabaſar, cum his qui aſcendebant de tranſmigratione Babylonis in Jeruſalem.",
+      "french": "Il y avait cinq mille quatre cents vases, tant d'or que d'argent. Sassabasar les emporta tous, en même temps que ceux qui avaient été emmenés captifs en Babylone retournèrent à Jérusalem.",
+      "annotations": null,
+      "source_pages": [
+        "page_0054.json"
+      ]
+    }
+  ]
+}

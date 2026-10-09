@@ -1,0 +1,637 @@
+{
+  "book": "Esdras",
+  "chapter": 2,
+  "chapter_summary": "_Dénombrement de ceux qui revinrent à Jérusalem avec Zorobabel._",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "HI ſunt autem Provinciæ filii, qui aſcenderunt de captivitate, quam tranſtulerat Nabuchodonoſor Rex Babylonis in Babylonem, & reverſi ſunt in Jeruſalem & Judam, unuſquiſque in civitatem ſuam,",
+      "french": "Voici le dénombrement des enfants d'Israël, qui ayant été emmenés captifs en Babylone, par Nabuchodonosor Roi de Babylone, revinrent à Jérusalem, et dans le pays de Juda, chacun en sa ville.",
+      "annotations": null,
+      "source_pages": [
+        "page_0055.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Qui venerunt cum Zorobabel, Joſue, Nehemia, Saraïa, Rahelaïa, Mardochaï, Belſan, Meſphat, Reguaï, Rehum, Baana. Numerus virorum populi Iſraël:",
+      "french": "Ils vinrent avec Zorobabel, avec Josué, Néhémie, Saraïa, Rahelaïa, Mardochaï, Belsan, Masphar, Reguaï, Rehum, et Baana. Voici le nombre des hommes du peuple d'Israël;",
+      "annotations": "An du m. 3468.",
+      "source_pages": [
+        "page_0057.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Filii Pharos, duo milia centum ſeptuaginta duo.",
+      "french": "Les enfants de Pharos _étaient_ deux mille cent soixante-douze.",
+      "annotations": "An du m. 3648.",
+      "source_pages": [
+        "page_0058.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Filii Sephatia, trecenti ſeptuaginta duo.",
+      "french": "Les enfants de Séphatia _étaient_ trois cents soixante-douze.",
+      "annotations": null,
+      "source_pages": [
+        "page_0058.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Filii Area, ſeptingenti ſeptuaginta quinque.",
+      "french": "Les enfants d'Aréa, sept cents soixante-quinze.",
+      "annotations": null,
+      "source_pages": [
+        "page_0058.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Filii Phahath Moab, filiorum Joſue, Joab, duo milia octingenti duodecim.",
+      "french": "Les enfants de Phahath Moab, qui _étaient_ des descendants de Josué, et de Joab, _étaient_ deux mille huit cents douze.",
+      "annotations": null,
+      "source_pages": [
+        "page_0058.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Filii Ælam, mille ducenti quinquaginta quatuor.",
+      "french": "Les enfants d'Elam, mille deux cents cinquante-quatre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0058.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "_Filii Zethua, nongenti quadraginta quinque._",
+      "french": "Les enfants de Zéthua, neuf cents quarante-cinq.",
+      "annotations": "An du 3648.",
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "_Filii Zochaï, ſeptingenti ſexaginta._",
+      "french": "Les enfants de Zachaï, sept cents soixante.",
+      "annotations": null,
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "_Filii Bani, ſexcenti quadraginta duo._",
+      "french": "Les enfants de Bani, six cents quarante-deux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "_Filii Bebaï, ſexcenti viginti tres._",
+      "french": "Les enfants de Bébaï, six cents vingt-trois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "_Filii Azgad mille ducenti viginti duo._",
+      "french": "Les enfants d'Azgad, mille deux cents vingt-deux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "_Filii Adonicam, ſexcenti ſexaginta ſex._",
+      "french": "Les enfants d'Adonicam, six cents soixante-six.",
+      "annotations": null,
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "_Filii Beguai, duo millia quinquaginta ſex._",
+      "french": "Les enfants de Béguai, deux mille cinquante-six.",
+      "annotations": null,
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "_Filii Adin, quadringenti quinquaginta quatuor._",
+      "french": "Les enfants d'Adin, quatre cents cinquante-quatre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "_Filii Ather, qui erant ex Ezechia, nonaginta octo._",
+      "french": "Les enfants d'Ather, qui venaient d'Ezéchia, quatre-vingt-dix-huit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "_Filii Beſai , trecenti viginti tres._",
+      "french": "Les enfants de Bésai, trois cent vingt-trois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "_Filii Jora , centum duodecim._",
+      "french": "Les enfants de Jora, cent douze.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "_Filii Haſum , ducenti viginti tres._",
+      "french": "Les enfants d'Hasum, deux cent vingt-trois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "_Filii Gebbar , nonaginta quinque._",
+      "french": "Les enfants de Gebbar, quatre-vingt-quinze.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "_Filii Bethlehem , centum viginti tres._",
+      "french": "Les enfants de Bethléhem, cent vingt-trois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "_Viri Netupha , quinquaginta ſex._",
+      "french": "Les hommes de Nétupha, cinquante-six.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "_Viri Anathoth , centum viginti octo._",
+      "french": "Les hommes d'Anathoth, cent vingt-huit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "_Filii Azmaveth , quadraginta duo._",
+      "french": "Les enfants d'Azmaveth, quarante-deux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "_Filii Cariathiarim , Cephira , & Beroth , ſeptingenti quadraginta tres._",
+      "french": "Les enfants de Cariathiarim, de Céphira, et de Béroth, sept cent quarante-trois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "_Filii Rama & Gabaa , ſexcenti viginti unus._",
+      "french": "Les enfants de Rama et de Gabaa, six cent vingt et un.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "_Viri Machmas centum viginti duo._",
+      "french": "Les hommes de Machmas, cent vingt-deux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "_Viri Bethel & Hai , ducenti viginti tres._",
+      "french": "Les hommes de Béthel et de Haï, deux cent vingt-trois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Filii Nebo, quinquaginta duo.",
+      "french": "Les enfants de Nébo, cinquante-deux.",
+      "annotations": "An du m. 3468.",
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Filii Megbis, centum quinquaginta ſex.",
+      "french": "Les enfants de Megbis, cent cinquante-six.",
+      "annotations": null,
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Filii Ælam alterius, mille ducenti quinquaginta quatuor.",
+      "french": "Les enfants de l'autre Elam, douze cents cinquante-quatre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Filii Harim, trecenti viginti.",
+      "french": "Les enfants d'Harim, trois cents vingt.",
+      "annotations": null,
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Filii Lod, Hadid, & Ono, ſeptingenti vigintiquinque.",
+      "french": "Les enfants de Lod, d'Hadid, et d'Ono, sept cents vingt-cinq.",
+      "annotations": null,
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Filii Jericho, trecenti quadraginta quinque.",
+      "french": "Les enfants de Jéricho, trois cent quarante-cinq.",
+      "annotations": "An du M. 3648.",
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Filii Senaa, tria millia ſexcenti triginta.",
+      "french": "Les enfants de Sénaa, trois mille six cent trente.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Sacerdotes : Filii Jadaïa in domo Joſue nongenti ſeptuaginta tres.",
+      "french": "Les Prêtres. Les enfants de Jadaïa dans la maison de Josué, neuf cent soixante-treize.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Filii Emmer, mille quinquaginta duo.",
+      "french": "Les enfants d'Emmer, mille cinquante-deux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Filii Pheshur, mille ducenti quadraginta ſeptem.",
+      "french": "Les enfants de Pheshur, douze cent quarante-sept.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Filii Harim, mille decem & ſeptem.",
+      "french": "Les enfants d'Harim, mille dix-sept.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Levitæ : Filii Jeſue, & Cedmihel filiorum Odoviæ, ſeptuaginta quatuor.",
+      "french": "Les Lévites : Les enfants de Josué et de Cedmihel fils d'Odovia, soixante-quatorze.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Cantores : Filii Aſaph, centum viginti octo.",
+      "french": "Les Chantres : Les enfants d'Asaph, cent vingt-huit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Filii Janitorum : Filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatita, filii Sobai : univerſi centum triginta novem.",
+      "french": "Les enfants des Portiers : Les enfants de Sellum, les enfants d'Ater, les enfants de Telmon, les enfants d'Accub, les enfants d'Hatita, les enfants de Sobaï, qui tous ensemble font cent trente-neuf.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Nathinæi : filii Siha, filii Haſupha, filii Tabbaoth,",
+      "french": "Les Nathinéens : Les enfants de Siha, les enfants d'Hasupha, les enfants de Tabbaoth ;",
+      "annotations": "An du m. 3468.",
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Filii Ceros, filii Siaa, filii Phadon,",
+      "french": "Les enfants de Céros, les enfants de Siaa, les enfants de Phadon,",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Filii Lebana, filii Hagaba, filii Accub,",
+      "french": "Les enfants de Lébana, les enfants d'Hagaba, les enfants d'Accub,",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Filii Hagab, filii Semlaï, filii Hanan,",
+      "french": "Les enfants d'Hagab, les enfants de Semlaï, les enfants de Hanan,",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Filii Gaddel, filii Gaber, filii Raaïa,",
+      "french": "Les enfants de Gaddel, les enfants de Gaber, les enfants de Raaïa,",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Filii Raſin, filii Necoda, filii Gazam,",
+      "french": "Les enfants de Rasin, les enfants de Nécoda, les enfants de Gazam,",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Filii Aza, filii Phaſea, filii Beſee,",
+      "french": "Les enfants d'Aza, les enfants de Phasea, les enfants de Bésée,",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Filii Aſena, filii Munim, filii Nephuſim,",
+      "french": "Les enfants d'Asena, les enfants de Munim, les enfants de Néphusim,",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Filii Bacbuc, filii Hacupha, filii Harhur,",
+      "french": "Les enfants de Bacbuc, les enfants de Hacupha, les enfants de Harhur,",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Filii Beſluth, filii Mahida, filii Harſa,",
+      "french": "Les enfants de Besluth, les enfants de Mahida, les enfants de Harsa,",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Filii Bercos, filii Siſara, filii Thema,",
+      "french": "Les enfants de Bercos, les enfants de Sisara, les enfants de Théma,",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Filii Naſia, filii Hatipha,",
+      "french": "Les enfants de Nasia, les enfants d'Hatipha,",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Filii ſervorum Salomonis, filii Sotai, Sophereth, filii Pharuda,",
+      "french": "Les enfants des serviteurs de Salomon, les enfants de Sotaï, les enfants de Sophereth, les enfants de Pharuda,",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "Filii Jala, filii Dercon, filii Geddel,",
+      "french": "Les enfants de Jala, les enfants de Dercon, les enfants de Geddel,",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 57,
+      "latin": "Filii Saphatia, filii Hatil, filii Phochereth, qui erant de Aſebaïm, filii Ami.",
+      "french": "Les enfants de Saphatia, les enfants de Hatil, les enfants de Phochéreth, qui étaient d'Asebaïm, les enfants d'Ami;",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 58,
+      "latin": "Omnes Nathinæi, & filii ſervorum Salomonis, trecenti nonaginta duo.",
+      "french": "Tous les Nathinéens, et les enfants des serviteurs de Salomon, étaient au nombre de trois cent quatre-vingt-douze.",
+      "annotations": "An du M. 3468.",
+      "source_pages": [
+        "page_0064.json"
+      ]
+    },
+    {
+      "verse_number": 59,
+      "latin": "Et hi qui aſcenderunt de Thelmela, Thelharſa, Cherub, & Adon, & Emer : & non potuerunt indicare domum patrum ſuorum & ſemen ſuum, utrùm ex Iſraël eſſent.",
+      "french": "Voici ceux qui vinrent de Thelmala, de Thelharsa, Chérub, Adon, et Emer ; et qui ne purent faire connaître la maison de leurs pères, ni s'ils étaient de la maison d'Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0064.json"
+      ]
+    },
+    {
+      "verse_number": 60,
+      "latin": "Filii Dalaïa, filii Tobiæ, filii Necada, ſexcenti quinquaginta duo.",
+      "french": "Les enfants de Dalaïa, les enfants de Tobie, les enfants de Nécoda, étaient six cent cinquante-deux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0064.json"
+      ]
+    },
+    {
+      "verse_number": 61,
+      "latin": "Et de filiis Sacerdotum : Filii Hobiæ, filii Acco, filii Berzellaï, qui accepit de filiabus Berzellaï Galaaditis, uxorem, & vocatus eſt nomine eorum :",
+      "french": "Et des enfants des Prêtres, les enfants d'Hobie, les enfants d'Accos, les enfants de Berzellaï, qui épousa l'une des filles de Berzellaï de Galaad, et qui fut appelé de leur nom :",
+      "annotations": null,
+      "source_pages": [
+        "page_0064.json"
+      ]
+    },
+    {
+      "verse_number": 62,
+      "latin": "Hi quæſierunt ſcripturam genealogiæ ſuæ, & non invenerunt, & ejecti ſunt de Sacerdotio.",
+      "french": "Ceux-ci cherchèrent leur registre généalogique, et ne l'ayant point trouvé, ils furent rejetés du Sacerdoce.",
+      "annotations": "An du M. 1468.",
+      "source_pages": [
+        "page_0065.json"
+      ]
+    },
+    {
+      "verse_number": 63,
+      "latin": "Et dixit Atherſatha eis, ut non comederent de Sancto Sanctorum, donec ſurgeret Sacerdos doctus atque perfectus.",
+      "french": "Et Athersatha leur dit de ne point manger des viandes sacrées, jusqu’à ce qu’il s’élevât un Pontife docte et parfait.",
+      "annotations": "An du M. 3468.",
+      "source_pages": [
+        "page_0066.json"
+      ]
+    },
+    {
+      "verse_number": 64,
+      "latin": "Omnis multitudo quaſi unus, quadraginta duo millia trecenti ſexaginta:",
+      "french": "Toute cette multitude était comme un seul homme, et comprenait quarante-deux mille trois cents soixante personnes,",
+      "annotations": "An du M. 3468.",
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 65,
+      "latin": "Exceptis ſervis eorum, & ancillis, qui erant ſeptem millia trecenti triginta ſeptem: & in ipſis cantores atque cantatrices ducenti.",
+      "french": "Sans les esclaves de l'un et de l'autre sexe, qui étaient sept mille trois cents trente-sept; et parmi eux il y avait deux cents Chantres, hommes et femmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 66,
+      "latin": "Equi eorum ſeptingenti triginta ſex, muli eorum ducenti quadraginta quinque.",
+      "french": "Ils menaient avec eux sept cents trente-six chevaux, deux cents quarante-cinq mulets,",
+      "annotations": null,
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 67,
+      "latin": "Cameli eorum, quadringenti triginta quinque, aſini eorum, ſex millia ſeptingenti viginti.",
+      "french": "Quatre cent trente-cinq chameaux, six mille sept cent vingt ânes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 68,
+      "latin": "Et de principibus patrum, cùm ingrederentur Templum Domini, quod eſt in Jeruſalem, ſpontè obtulerunt in domum Dei ad extruendam eam in loco ſuo.",
+      "french": "Quelques-uns des chefs des familles étant entrés dans Jérusalem, au lieu où avait été le Temple du Seigneur, offrirent d'eux-mêmes de quoi rebâtir la maison de Dieu, au lieu où elle était autrefois.",
+      "annotations": "An du M. 3468.",
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 69,
+      "latin": "Secundùm vires ſuas dederunt impenſas operis, auri ſolidos ſexaginta millia & mille, argenti mnas quinque millia, & veſtes ſacerdotales centum.",
+      "french": "Ils donnèrent selon leurs forces, pour faire la dépense de cet ouvrage, soixante et un mille drachmes d'or, cinq mille mines d'argent, et cent vêtements sacerdotaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 70,
+      "latin": "Habitaverunt ergo Sacerdotes, & Levitæ, & de populo, & Cantores, & Janitores, & Nathinæi, in urbibus ſuis, univerſuſque Iſraël in civitatibus ſuis.",
+      "french": "Les Prêtres et les Lévites, et ceux d'entre le peuple, les Chantres, les Portiers et les Nathinéens, s'établirent donc dans leurs villes, et tout le peuple d'Israël demeura chacun dans sa ville.",
+      "annotations": null,
+      "source_pages": [
+        "page_0068.json"
+      ]
+    }
+  ]
+}

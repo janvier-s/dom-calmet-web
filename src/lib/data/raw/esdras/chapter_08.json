@@ -1,0 +1,331 @@
+{
+  "book": "Esdras",
+  "chapter": 8,
+  "chapter_summary": "Voyage d'Esdras à Jérusalem. Dénombrement des Juifs qui vinrent de Babylone avec lui.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "HI ſunt ergo Principes familiarum, & genealogia eorum, qui aſcenderunt mecum in regno Artaxerxis Regis, de Babylone.",
+      "french": "Voici les noms des chefs de familles, et le dénombrement de ceux qui sont venus avec moi de Babylone, sous le règne du Roi Artaxercès.",
+      "annotations": "An du m. 3537. avant J.C. 467.",
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "De filiis Phinees, Gerſom. De filiis Ithamar, Daniel. De filiis David, Hattus.",
+      "french": "Des enfants de Phinées, Gersom. Des enfants d'Ithamar, Daniel. Des enfants de David, Hattus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "De filiis Secheniæ, filiis Pharos, Zacharias; & cum eo numerati ſunt viri centum quinquaginta.",
+      "french": "Des enfants de Séchénias, qui étaient enfants de Pharos, Zacharias ; et on compta avec lui cent cinquante hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "De filiis Phahath-Moab, Elioënai filius Zarehe, & cum eo ducenti viri.",
+      "french": "Des enfants de Phahath-Moab, Elioënaï fils de Zarehé, et avec lui deux cents hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "De filiis Secheniæ, filius Ezechiel, & cum eo trecenti viri.",
+      "french": "Des enfants de Séchénias, son fils Ezéchiel, et avec lui trois cents hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "De filiis Adan, Abed filius Jonathan, & cum eo quinquaginta viri.",
+      "french": "Des enfants d'Adan, Abed fils de Jonathan, et avec lui cinquante hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "De filiis Alam, Iſaïas filius Athaliæ, & cum eo ſeptuaginta viri.",
+      "french": "Des enfants d'Alam, Isaïe fils d'Athalias, et avec lui soixante et dix hommes.",
+      "annotations": "An du M. 3537.",
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "De filiis Saphatiæ, Zebedia filius Michaël, & cum eo octoginta viri.",
+      "french": "Des enfants de Saphatias, Zebédia fils de Michaël, et avec lui quatre-vingts hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "De filiis Joab, Obedia filius Jahiel, & cum eo ducenti decem, & octo viri.",
+      "french": "Des enfants de Joab, Obédia fils de Jahiel, et avec lui deux cents dix-huit hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "De filiis Selomith, filius Joſphiæ, & cum eo centum ſexaginta viri.",
+      "french": "Des enfants de Sélomith, le fils de Jofphias, et avec lui cent soixante hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "De filiis Bebaï, Zacharias filius Bebaï, & cum eo viginti octo viri.",
+      "french": "Des enfants de Bébaï, Zacharie fils de Bébaï, et avec lui vingt-huit hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "De filiis Azgad, Johanan filius Eccetan, & cum eo centum & decem viri.",
+      "french": "Des enfants d'Azgad, Johanan fils d'Eccetan, et avec lui cent dix hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "De filiis Adonicam, qui erant noviffimi, & hæc nomina eorum: Elipheleth, & Jehiel, & Samaïas, & cum eis ſexaginta viri.",
+      "french": "Des enfants d'Adonicam, qui étaient les derniers, voici leurs noms : Eliphéleth, Jéhiel, Samaïas, et avec eux soixante hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "De filiis Begüi, Uthaï & Zachur, & cum eis ſeptuaginta viri.",
+      "french": "Des enfants de Beguï, Uthaï et Zachur, et avec eux soixante et dix hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Congregavi autem eos ad fluvium, qui decurrit ad Ahava, & manſimus ibi tribus diebus: quæſivique in populo & in Sacerdotibus, de filiis Levi, & non inveni ibi.",
+      "french": "Je les assemblai près du fleuve qui coule vers celui d'Ahava; et nous demeurâmes trois jours en ce lieu; et ayant cherché des Lévites parmi le peuple et les Prêtres, je n'y en trouvai point.",
+      "annotations": "An du M. 3557.",
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Itaque miſi Eliezer, & Ariel, & Semeiam, & Elnathan, & Jarib, & alterum Elnathan, & Nathan, & Zachariam, & Moſollam Principes ; & Joiarib, & Elnathan ſapientes.",
+      "french": "J'envoyai donc Eliézer, Ariel, Séméia, Elnathan, Jarib, et un autre Elnathan, Nathan, Zacharie, et Mosolle, qui étaient les chefs ; Joiarib et Elnathan, qui étaient pleins de sagesse et de science;",
+      "annotations": "An du m. 3537.",
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et miſi eos ad Eddo, qui eſt primus in Chaſphia loco, & poſui in ore eorum, verba quæ loquerentur ad Eddo, & fratres ejus Nathinæos, in loco Chaſphiæ, ut adducerent nobis miniſtros domus Dei noſtri.",
+      "french": "Je les envoyai, dis-je, vers Eddo, qui était chef de ceux qui demeuraient à Chasphia ; et je leur marquai les propres paroles qu'ils y devaient dire à Eddo, et aux Nathinéens ses frères, afin qu'ils nous amenassent des Ministres du Temple de notre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et adduxerunt nobis per manum Dei noſtri bonam ſuper nos, virum doctiſſimum de filiis Moholi, filii Levi, filii Iſraël, & Sarabiam & filios ejus, & fratres ejus decem & octo.",
+      "french": "Et comme la main favorable de notre Dieu était sur nous, ils nous amenèrent un homme très savant des enfants de Moholi fils de Lévi, fils d'Israël, et Sarabia avec ses fils et ses frères, qui étaient dix-huit personnes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Et Haſabiam, & cum eo Iſaïam de filiis Merari, fratréſque ejus, & filios ejus viginti:",
+      "french": "Et Hasabia, et avec lui Isaïe des enfants de Mérari, avec ses frères et ses fils, qui étaient vingt personnes:",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et de Nathinæis, quos dederat David & Principes ad miniſteria Levitarum, Nathinæos ducentos viginti: omnes hi ſuis nominibus vocabantur.",
+      "french": "Et deux cents vingt Nathinéens, de ceux que David et les Princes avaient institués pour servir les Lévites. Toutes ces personnes étaient distinguées et nommées par leurs noms.",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Et prædicavi ibi jejunium juxta fluvium Ahava, ut affligeremur coram Domino Deo noſtro, & peteremus ab eo viam rectam, nobis & filiis noſtris, univerſaque ſubſtantia noſtra.",
+      "french": "Étant sur le bord du fleuve Ahava, je publiai un jeûne pour nous humilier devant le Seigneur notre Dieu, et pour lui demander qu'il nous conduisît heureusement dans notre chemin, nous, nos enfants, et tout ce que nous portions avec nous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Erubui enim petere à Rege auxilium & equites, qui defenderent nos ab inimico in via; quia dixeramus Regi: Manus Dei noſtri eſt ſuper omnes, qui quærunt eum in bonitate; & imperium ejus, & fortitudo ejus, & furor ſuper omnes, qui derelinquunt eum.",
+      "french": "Car j'eus honte de demander au Roi une escorte de cavaliers, pour nous défendre de nos ennemis pendant le chemin; parce que nous avions dit au Roi: La main favorable de notre Dieu est sur tous ceux qui le cherchent sincèrement; à lui appartiennent l'empire et la puissance, et sa fureur éclate sur tous ceux qui l'abandonnent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Jejunavimus autem, & rogavimus Deum noſtrum per hoc : & evenit nobis prosperè.",
+      "french": "Nous jeûnâmes donc, et nous fîmes dans ce dessein notre prière à notre Dieu, et tout nous succéda heureusement.",
+      "annotations": "An du M. 3537.",
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et ſeparavi de Principibus Sacerdotum duodecim, Sarabiam, & Haſabiam, & cum eis & fratribus eorum decem.",
+      "french": "Et je choisis douze d'entre les premiers des Prêtres, que je séparai des autres, Sarabias, Hasabias, et dix d'entre leurs frères,",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Appendíque eis argentum & aurum, & vaſa conſecrata domûs Dei noſtri, quæ obtulerat Rex & Conſiliatores ejus, & Principes ejus, univerſíſque Iſraël eorum, qui inventi fuerant.",
+      "french": "Et je pesai devant eux l'argent et l'or, et les vases consacrés de la maison de notre Dieu, que le Roi, ses Conseillers, ses Princes, et tous ceux qui s'étaient trouvés dans Israël, avaient offerts au Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Et appendi in manibus eorum argenti talenta ſexcenta quinquaginta, & vaſa argentea centum, auri centum talenta.",
+      "french": "Je pesai entre leurs mains six cents cinquante talents d'argent, cent vases d'argent, cent talents d'or;",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et crateres aureos viginti, qui habebant ſolidos millenos, & vaſa æris fulgentis optimi duo, pulchra, ut aurum.",
+      "french": "Vingt tasses d'or, du poids de mille drachmes, et deux vases d'un airain brillant et précieux, aussi beaux que s'ils eussent été d'or.",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et dixi eis : Vos ſancti Domini, & vaſa ſancta, & argentum & aurum quod ſpontè oblatum eſt Domino, Deo patrum noſtrorum.",
+      "french": "Et je leur dis : Vous êtes les saints du Seigneur ; et ces vases sont saints, comme tout cet or et cet argent, qui a été offert volontairement au Seigneur, le Dieu de nos pères.",
+      "annotations": "An du M. 3537.",
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Vigilate & cuſtodite, donec appendatis coram Principibus Sacerdotum, & Levitarum, & ducibus familiarum Iſraël in Jeruſalem, in theſaurum domûs Domini.",
+      "french": "Gardez donc ce dépôt avec grand soin, jusqu’à ce que vous le rendiez dans le même poids à Jérusalem, aux Princes des Prêtres, aux Lévites, et aux chefs des familles d’Israël, pour être conservé au trésor de la maison du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Suſceperunt autem Sacerdotes & Levitæ pondus argenti, & auri, & vaſorum, ut deferrent Jeruſalem in domum Dei noſtri.",
+      "french": "Les Prêtres et les Lévites reçurent cet argent, cet or, et ces vases dans le même poids qui leur fut marqué, pour les porter à Jérusalem dans la maison de notre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Promovimus ergo à flumine Ahava, duodecimo die menſis primi, ut pergeremus Jeruſalem : & manus Dei noſtri fuit ſuper nos, & liberavit nos de manu inimici & inſidiatoris in via.",
+      "french": "Nous partîmes donc du bord du fleuve Ahava, le douzième jour du premier mois, et la main favorable de notre Dieu fut sur nous, et il nous délivra des mains de nos ennemis, et de tous ceux qui nous dressaient des embûches pendant le voyage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et venimus Jeruſalem, & manſimus ibi tribus diebus.",
+      "french": "Nous arrivâmes à Jérusalem, et après y avoir demeuré trois jours,",
+      "annotations": null,
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Die autem quarta appensum est argentum, & aurum, & vasa in domo Dei nostri per manum Meremoth filii Uriæ Sacerdotis, & cum eo Eleazar filius Phinees, cúmque eis Jozabed filius Josue, & Noadias filius Bennoï, Levitæ.",
+      "french": "Le quatrième jour l'argent, l'or, et les vases furent portés en la Maison de notre Dieu, par Mérémoth fils d'Urie Prêtre, qui était accompagné d'Éléazar fils de Phinées; et Jozabed fils de Josué, et Noadaïa fils de Bennoï Lévites, étaient avec eux.",
+      "annotations": "An du M. 3537.",
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Juxta numerum & pondus omnium: descriptúmque est omne pondus in tempore illo.",
+      "french": "Tout fut livré par compte et par poids, et on écrivit alors ce que pesait chaque chose.",
+      "annotations": null,
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Sed & qui venerant de captivitate filii transmigrationis, obtulerunt holocaustomata Deo Israël, vitulos duodecim pro omni populo Israël, arietes nonaginta sex, agnos septuaginta septem, hircos pro peccato duodecim: omnia in holocaustum Domino.",
+      "french": "Les enfants d'Israël qui étaient revenus de captivité, offrirent aussi pour holocauste au Dieu d'Israël, douze veaux pour tout le peuple d'Israël, quatre-vingt-seize béliers, soixante-dix-sept agneaux, et douze boucs pour le péché; et le tout fut offert en holocauste au Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Dederunt autem edicta Regis Satrapis, qui erant de conspectu Regis, & ducibus trans flumen, & elevaverunt populum & domum Dei.",
+      "french": "Ils donnèrent les Édits du Roi aux Satrapes qui étaient de sa Cour, et aux Gouverneurs des pays au-delà du fleuve, lesquels commencèrent à favoriser le peuple, et la maison de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0115.json"
+      ]
+    }
+  ]
+}
