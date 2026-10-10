@@ -1,0 +1,98 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "RESPONDENS BALDAD.",
+      "lemma": "Baldad parla ensuite.",
+      "text": "Il ne répond qu'à un seul endroit du discours de Job, et encore le déguise-t-il, pour le combattre. Job avait témoigné qu'il souhaitait de proposer ses raisons, et ses moyens de défense devant Dieu même, et qu'il se promettait qu'il gagnerait sa cause. [1] Baldad n'attaque que cela ; et il ne fait que rebattre des raisons souvent alléguées, et souvent réfutées [2] auparavant."
+    },
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "POTESTAS, ET TERROR APUD EUM EST, QUI FACIT CONCORDIAM IN SUBLIMIBUS SUIS.",
+      "lemma": "Celui-là seul est puissant, et redoutable, qui fait régner la paix dans ses hauts lieux.",
+      "text": "Et vous osez demander de paraître en sa présence, et de vous défendre devant lui? Qui êtes-vous, pour lever seulement les yeux devant une si redoutable Majesté à l'Hébreu : [3] _L'empire, et la frayeur ne lui appartiennent-ils pas ; à lui qui gouverne en paix les choses célestes?_ Ou bien : _Ne mérite-t-il pas qu'on respecte son empire, et qu'on adore sa Majesté ; lui, qui règle avec tant de sagesse l'ordre, et l'harmonie de tout ce qui est au-dessus de nous ; qui sait allier des mouvements si contraires ; qui conserve ces vastes Corps dans la sphère de leur mouvement, sans désordre, et sans confusion ; qui met un si bel ordre dans le cours des Astres, et une si admirable subordination entre les Esprits célestes?_"
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "NUMQUID EST NUMERUS MILITUM EJUS? ET SUPER QUEM NON SURGET LUMEN ILLIUS?",
+      "lemma": "Peut-on compter le nombre de ses soldats ? Et sur qui sa lumière ne se lève-t-elle point ? Il fait lever son soleil sur tout le monde ; sur les bons, et sur les méchants.",
+      "text": "[4] Et qui peut compter le nombre des Étoiles, et des Astres, des Météores, et des Corps célestes, qui sont comme les troupes de ses armées ? [5] Ou : Le nombre de ses ministres, et ses troupes, est innombrable ; [6] et il a répandu sur tous les hommes la lumière naturelle, [7] qui éclaire tout homme, et qui lui fait distinguer le bien du mal."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "NUMQUID JUSTIFICARI POTEST HOMO COMPARATUS DEO?",
+      "lemma": "L'homme comparé avec Dieu peut-il être justifié ?",
+      "text": "Qu'est-ce que toute notre justice comparée à celle de Dieu ? Si Dieu lui-même ne nous donnait sa grâce ; s'il ne nous prévenait de ses miséricordes, que serions-nous ? Voyez la même expression ci-devant, dans un discours d'Eliphaz, Chap. IV. ℣. 17. et dans un autre de Job, Chap. XIV. 4. XV. 15. Job n'avait pas prétendu être entièrement innocent, et exempt de fautes. Il soutenait simplement que Dieu ne le châtiait pas pour ses crimes ; mais seulement pour l'éprouver. Il établit partout que l'homme n'est rien de lui-même ; que Dieu a toujours de justes raisons de l'affliger, quand ce ne serait que pour faire éclater sa Sagesse, et sa Providence."
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "ECCE LUNA ETIAM NON SPLENDET.",
+      "lemma": "La Lune même ne brille point.",
+      "text": "Tout ce qu'il y a de plus parfait sur la terre, n'est qu'imperfection, que faiblesse devant Dieu. La Lune, et les Étoiles se prennent ici dans un sens allégorique. De même que tout ce qu'il y a de plus brillant, de plus beau, de plus parfait dans la nature, n'est rien comparé à Dieu ; ainsi les plus par-"
+    }
+  ],
+  "joins": [],
+  "pages_used": [
+    "page_0320",
+    "page_0321"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0320-a",
+      "n": 1,
+      "text": "_Job._ XXIII. 3. 4. 5. 6. 7."
+    },
+    {
+      "key": "page_0320-b",
+      "n": 2,
+      "text": "_Comparez Job._ IV. 18, XV. 15."
+    },
+    {
+      "key": "page_0320-c",
+      "n": 3,
+      "text": "המשל ופחד עמו עשה שלום במרומיו"
+    },
+    {
+      "key": "page_0321-a",
+      "n": 4,
+      "text": "_Matt._ V 45."
+    },
+    {
+      "key": "page_0321-b",
+      "n": 5,
+      "text": "_Pſal._ XVII. 14. 35. 2. _Reg._ XXII. 1. _Judic._ 60. _Job._ XXXVIII. 22. 34. _Pſal._ CXLVI. 4."
+    },
+    {
+      "key": "page_0321-c",
+      "n": 6,
+      "text": "_Vide Matt._ XXVI. 53."
+    },
+    {
+      "key": "page_0321-d",
+      "n": 7,
+      "text": "_Pſal._ IV. 7."
+    }
+  ],
+  "decisions": [
+    {
+      "page": "page_0320",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    },
+    {
+      "page": "page_0321",
+      "chosen": "raw",
+      "rejected": [],
+      "edge_gap": null,
+      "verse_gap": []
+    }
+  ],
+  "missing_footnotes": []
+}

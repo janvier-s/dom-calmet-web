@@ -18,7 +18,8 @@
 		{ id: 'nehemie', name: 'Néhémie', chapters: 13 },
 		{ id: 'tobie', name: 'Tobie', chapters: 14 },
 		{ id: 'judith', name: 'Judith', chapters: 16 },
-		{ id: 'esther', name: 'Esther', chapters: 16 }
+		{ id: 'esther', name: 'Esther', chapters: 16 },
+		{ id: 'job', name: 'Job', chapters: 42 }
 	];
 
 	let openBook = $state('genese');

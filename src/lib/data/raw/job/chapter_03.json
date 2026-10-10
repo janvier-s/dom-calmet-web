@@ -1,0 +1,241 @@
+{
+  "book": "Job",
+  "chapter": 3,
+  "chapter_summary": "_Job maudit le jour de sa naissance. Il déplore ses maux. Il décrit les misères dont la mort nous délivre._",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "_Poſt hæc aperuit Job os ſuum, & maledixit diei ſuo._",
+      "french": "_Après cela Job ouvrit la bouche, et maudit le jour de sa naissance._",
+      "annotations": [],
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et locutus eſt.",
+      "french": "Et il parla de cette sorte :",
+      "annotations": [],
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Pereat dies in qua natus ſum, & nox in qua dictum eſt : Conceptus eſt homo.",
+      "french": "Que le jour auquel je suis né périsse, et la nuit en laquelle il a été dit : Un homme est conçu.",
+      "annotations": [],
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Dies ille vertatur in tenebras, non requirat eum Deus deſuper, & non illuſtretur lumine.",
+      "french": "Que ce jour se change en ténèbres, que Dieu ne le regarde non plus du Ciel, que s'il n'avait jamais été; qu'il ne soit point éclairé de la lumière.",
+      "annotations": [],
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Obſcurent eum tenebræ, & umbra mortis; occupet eum caligo, & involvatur amaritudine.",
+      "french": "Qu'il soit couvert de ténèbres, et de l'ombre de la mort; qu'une noire obscurité l'environne, et qu'il soit plongé dans l'amertume.",
+      "annotations": [],
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Noctem illam tenebroſus turbo poſſideat, non computetur in diebus anni, ne numeretur in menſibus.",
+      "french": "Qu'un tourbillon ténébreux règne dans cette nuit, qu'elle ne soit point comptée parmi les jours de l'année, ni mise au nombre des mois.",
+      "annotations": [],
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Sit nox illa ſolitaria, nec laude digna.",
+      "french": "Que cette nuit soit dans une affreuse solitude, et qu'on n'en parle jamais avantageusement.",
+      "annotations": [],
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Maledicant ei, qui maledicunt diei, qui parati ſunt ſuſcitare Leviathan.",
+      "french": "Que ceux qui maudissent le jour, la maudissent; ceux qui sont prêts de susciter Léviathan.",
+      "annotations": [],
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Obtenebrentur ſtellæ caligine ejus: exſpectet lucem & non videat, nec ortum ſurgentis auroræ.",
+      "french": "Que les étoiles soient obscurcies par sa noirceur; qu'elle attende la lumière, et qu'elle ne la voie point; et que l'aurore lorsqu'elle commence à paraître, ne se lève point pour elle;",
+      "annotations": [],
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quia non concluſit oſtia ventris, qui portavit me, nec abſtulit mala ab oculis meis.",
+      "french": "Parce qu'elle n'a point fermé le ventre qui m'a porté, et qu'elle n'a point détourné de moi les maux qui m'accablent.",
+      "annotations": [],
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Quare non in vulva mortuus ſum, egreſſus ex utero non ſtatim perii?",
+      "french": "Pourquoi ne suis-je point mort dans le sein de ma mère? Pourquoi n'ai-je point cessé de vivre aussitôt que j'en suis sorti?",
+      "annotations": [],
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Quare exceptus genibus? Cur lactatus uberibus?",
+      "french": "Pourquoi m'a-t-on reçu sur les genoux? Pourquoi ai-je été nourri du lait de la mamelle?",
+      "annotations": [],
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Nunc enim dormiens ſilerem, & ſomno meo requieſcerem,",
+      "french": "Car je dormirais maintenant dans le silence, et je me reposerais dans mon sommeil,",
+      "annotations": [],
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Cum Regibus & Conſulibus terræ, qui ædificant ſibi ſolitudines,",
+      "french": "Avec les Rois, et les Consuls de la terre, qui durant leur vie se bâtissent des solitudes,",
+      "annotations": [],
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Aut cum Principibus, qui poſſident aurum, & replent domos ſuas argento.",
+      "french": "Ou avec les Princes qui possèdent l'or, et qui remplissent leurs maisons d'argent.",
+      "annotations": [],
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Aut ſicut abortivum abſconditum non ſubſiſterem, vel qui concepti non viderunt lucem.",
+      "french": "Je n'aurais point paru dans le monde, non plus qu'un fruit avorté dans le sein de la mère, ou que ceux qui ayant été conçus n'ont point vu le jour.",
+      "annotations": [],
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Ibi impii ceſſaverunt à tumultu, & ibi requieverunt feſſi robore.",
+      "french": "C'est là que le grand bruit qu'ont fait les impies, s'est enfin terminé : c'est là que les forts après leur travail, et leur lassitude trouvent leur repos.",
+      "annotations": [],
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et quondam vincti pariter ſine moleſtia, non audierunt vocem exactoris.",
+      "french": "C’est là que ceux qui étaient autrefois enchaînés ensemble, ne souffrent plus aucun mal, et qu’ils n’entendent plus la voix de ceux qui exigeaient d’eux des travaux insupportables.",
+      "annotations": [],
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Parvus & magnus ibi ſunt, & ſervus liber à domino ſuo.",
+      "french": "Là les grands et les petits se trouvent égaux ; là l’esclave est affranchi de la domination de son maître.",
+      "annotations": [],
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Quare miſero data eſt lux, & vita his, qui in amaritudine animæ ſunt?",
+      "french": "Pourquoi la lumière a-t-elle été donnée à un misérable ; et la vie à ceux qui sont dans l’amertume du cœur ?",
+      "annotations": [],
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Qui expectant mortem, & non venit, quaſi effodientes theſaurum.",
+      "french": "Qui attendent la mort, et la mort ne vient point, quoiqu’ils la cherchent avec le même empressement que s’ils déterraient un trésor.",
+      "annotations": [],
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Gaudéntque vehementer, cùm invenerint ſepulchrum.",
+      "french": "Et qui sont ravis de joie, lorsqu'ils ont enfin trouvé le tombeau.",
+      "annotations": [],
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Viro cujus abſcondita eſt via, & circumdedit eum Deus tenebris?",
+      "french": "Pourquoi la vie a-t-elle été donnée à un homme, qui marche dans une route inconnue, et que Dieu a environné de ténèbres?",
+      "annotations": [],
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Antequam comedam ſuſpiro: & tanquam inundantes aquæ, ſic rugitus meus.",
+      "french": "Je soupire avant que de manger, et les cris que je fais, sont comme le bruit d'un débordement de grandes eaux.",
+      "annotations": [],
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Quia timor, quem timebam, evenit mihi : & quod verebar accidit.",
+      "french": "Parce que ce qui faisait le sujet de ma crainte m'est arrivé, et que les maux que j'appréhendais sont tombés sur moi.",
+      "annotations": [],
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Nónne diſſimulavi ? Nónne ſilui ? Nónne quievi ? Et venit ſuper me indignatio.",
+      "french": "N'ai-je pas toujours conservé la retenue et la patience ? N'ai-je pas gardé le silence ? Ne me suis-je pas tenu dans le repos ? Et cependant la colère de Dieu est tombée sur moi.",
+      "annotations": [],
+      "source_pages": [
+        "page_0102.json"
+      ]
+    }
+  ]
+}

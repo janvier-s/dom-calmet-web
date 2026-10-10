@@ -1,0 +1,61 @@
+{
+  "book": "Job",
+  "chapter": 25,
+  "chapter_summary": "_Baldad soutient que l'homme ne peut jamais être justifié devant Dieu._",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "REſpondens autem Baldad Suhites, dixit:",
+      "french": "Baldad de Sué parla ensuite en ces termes :",
+      "annotations": null,
+      "source_pages": [
+        "page_0320.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Poteſtas & terror apud eum eſt, qui facit concordiam in ſublimibus ſuis.",
+      "french": "Celui-là seul est puissant et redoutable, qui fait régner la paix dans ses hauts lieux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0320.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Numquid eſt numerus militum ejus? Et ſuper quem non ſurget lumen illius?",
+      "french": "Peut-on compter le nombre de ses soldats? Et sur qui sa lumière ne se lève-t-elle point?",
+      "annotations": null,
+      "source_pages": [
+        "page_0320.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Numquid juſtificari poteſt homo comparatus Deo, aut apparere mundus natus de muliere ?",
+      "french": "4. L'homme comparé avec Dieu, peut-il être justifié ; et celui qui est né d'une femme paraîtra-t-il pur devant lui ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Ecce luna etiam non ſplendet, & ſtella non ſunt mundæ in conſpectu ejus;",
+      "french": "5. La lune même ne brille point ; et les étoiles ne sont pas pures devant ses yeux;",
+      "annotations": null,
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Quantò magis homo putrido, & filius hominis vermis?",
+      "french": "6. Combien moins le sera l'homme, qui n'est que pourriture, et le fils de l'homme, qui n'est qu'un ver ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0321.json"
+      ]
+    }
+  ]
+}

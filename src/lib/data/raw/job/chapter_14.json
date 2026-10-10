@@ -1,0 +1,205 @@
+{
+  "book": "Job",
+  "chapter": 14,
+  "chapter_summary": "_Job continue à parler à Dieu. Il expose la brièveté, et la misère de la vie de l'homme. Il prie Dieu de le mettre à couvert de sa colère dans le tombeau. Il décrit l'état de l'homme après la mort._",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Homo natus de muliere, brevi vivens tempore, repletur multis miſeriis.",
+      "french": "L'Homme né de la femme vit très peu de temps, et il est rempli de beaucoup de misères.",
+      "annotations": [],
+      "source_pages": [
+        "page_0200.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Qui quaſi flos egreditur & conteritur, & fugit velut umbra, & nunquam in eodem ſtatu permanet.",
+      "french": "Il naît comme une fleur, qui n'est pas plutôt éclose qu'elle est foulée aux pieds; il fuit comme l'ombre, et il ne demeure jamais en un même état.",
+      "annotations": [],
+      "source_pages": [
+        "page_0200.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et dignum ducis ſuper hujuscemodi aperire oculos tuos, & adducere eum tecum in judicium ?",
+      "french": "Et vous croyez, Seigneur, qu'il soit digne de vous, d'ouvrir seulement les yeux sur lui, et de le faire entrer en jugement avec vous ?",
+      "annotations": [],
+      "source_pages": [
+        "page_0201.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quis poteſt facere mundum de immundo conceptum ſemine? Nónne tu qui ſolus es ?",
+      "french": "Qui peut rendre pur celui qui est né d'un sang impur ? N'est-ce pas vous seul qui le pouvez ?",
+      "annotations": [],
+      "source_pages": [
+        "page_0201.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "_Breves dies hominis sunt, numerus menſium ejus apud te eſt: conſtituiſti terminos ejus, qui præteriri non poterunt._",
+      "french": "_Les jours de l'homme sont courts; le nombre de ses mois et de ses années est entre vos mains; vous avez marqué les bornes de sa vie, et il ne les peut passer._",
+      "annotations": [],
+      "source_pages": [
+        "page_0202.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Recede paululum ab eo, ut quieſcat, & donec optata veniat, ſicut mercenarii dies ejus.",
+      "french": "Retirez-vous donc un peu de lui, afin qu'il ait quelque repos, jusqu'à ce qu'il trouve, comme le mercenaire, la fin désirée de tous ses travaux.",
+      "annotations": [],
+      "source_pages": [
+        "page_0203.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Lignum habet ſpem: ſi præciſum fuerit, rurſum vireſcit, & rami ejus pullulant.",
+      "french": "Un arbre n'est point sans espérance : quoiqu'on le coupe, il ne laisse pas de reverdir, et ses branches poussent de nouveau.",
+      "annotations": [],
+      "source_pages": [
+        "page_0203.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Si ſenuerit in terra radix ejus, & in pulvere emortuus fuerit truncus illius,",
+      "french": "Quand sa racine serait vieillie dans la terre, quand son tronc desséché serait mort dans la poussière,",
+      "annotations": [],
+      "source_pages": [
+        "page_0203.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ad odorem aquæ germinabit, & faciet comam quaſi cùm primùm plantatus eſt.",
+      "french": "Il ne laissera pas de pousser aussitôt qu'il aura senti l'eau, et il se couvrira de feuilles comme une nouvelle plante.",
+      "annotations": [],
+      "source_pages": [
+        "page_0204.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Homo verò cùm mortuus fuerit, & nudatus atque conſumptus, ubi quæſo eſt?",
+      "french": "Mais quand l'homme est mort une fois, qu'il est dépouillé, et consumé, que devient-il ?",
+      "annotations": [],
+      "source_pages": [
+        "page_0204.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "_Quomodo ſi recedant aquæ de mari, & fluvius vacuus factus areſcat;_",
+      "french": "_De même que si les eaux se retirent de la mer, et qu'un fleuve devient à sec,_",
+      "annotations": [],
+      "source_pages": [
+        "page_0205.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Sic homo cùm dormierit, non reſurget ; donec atteratur cœlum, non evigilavit, nec conſurget de ſomno ſuo.",
+      "french": "12. Ainsi quand l'homme est mort une fois, il ne ressuscitera point, jusqu'à ce que le ciel soit consumé et détruit, il ne se réveillera point, et il ne sortira point de son sommeil.",
+      "annotations": [],
+      "source_pages": [
+        "page_0206.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Quis mihi hoc tribuat, ut in inferno protegas me, & abſcondas me, donec pertranſeat furor tuus, & conſtituas mihi tempus, in quo recorderis mei ?",
+      "french": "13. Qui pourra me procurer cette grâce, que vous ne me mettiez à couvert, et me cachiez dans le tombeau, jusqu'à ce que votre fureur soit entièrement passée, et que vous me marquiez un temps où vous vous souviendrez de moi ?",
+      "annotations": [],
+      "source_pages": [
+        "page_0206.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Putaſne mortuus homo rurſum vivet? cunctis diebus, quibus nunc milito, expecto donec veniat immutatio mea.",
+      "french": "14. L'homme étant mort une fois, pourrait-il bien vivre de nouveau? Dans cette milice où je me trouve maintenant, j'attends tous les jours que mon changement arrive.",
+      "annotations": [],
+      "source_pages": [
+        "page_0207.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Vocabis me, & ego respondebo tibi: operi manuum tuarum porriges dexteram.",
+      "french": "15. Vous m'appellerez, et je vous répondrai; vous tendrez votre main droite à l'ouvrage de vos mains.",
+      "annotations": [],
+      "source_pages": [
+        "page_0207.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Tu quidem greſſus meos dinumerasti; ſed parce peccatis meis.",
+      "french": "Je sais que vous avez compté tous mes pas; mais pardonnez-moi mes péchés.",
+      "annotations": [],
+      "source_pages": [
+        "page_0208.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Signaſti quaſi in ſacculo delicta mea; ſed curaſti iniquitatem meam.",
+      "french": "Vous avez mis mes offenses en réserve comme dans un sac cacheté; mais vous avez guéri mon iniquité.",
+      "annotations": [],
+      "source_pages": [
+        "page_0208.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Mons cadens defluit, & ſaxum transfertur de loco ſuo.",
+      "french": "18. Comme une montagne se détruit en s'éboulant, et comme un rocher est arraché de sa place;",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Lapides excavant aquæ : & alluvione paulatim terra conſumitur : & hominem ergo ſimiliter perdes.",
+      "french": "19. Comme les eaux creusent les pierres, et comme l'eau qui bat contre la terre la consume peu à peu : c'est ainsi que vous perdez l'homme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Roboraſti eum paululum, ut in perpetuum tranſiret : immutabis faciem ejus, & emittes eum.",
+      "french": "20. Vous l'avez affermi pour un peu de temps, afin qu'il passât ensuite pour toujours; vous lui ferez changer de face, et vous le ferez sortir de ce monde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Sive nobiles fuerint filii ejus, ſive ignobiles, non intelliget.",
+      "french": "Que ses enfants soient dans l'éclat, qu'ils soient dans l'ignominie, il ne connaîtra ni l'un ni l'autre.",
+      "annotations": [],
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Attamen caro ejus, dum vivet, dolebit, & anima illius ſuper ſemetipſa lugebit.",
+      "french": "Sa chair, pendant qu'il vivra, sera dans la douleur, et son âme déplorera elle-même son état.",
+      "annotations": [],
+      "source_pages": [
+        "page_0210.json"
+      ]
+    }
+  ]
+}
