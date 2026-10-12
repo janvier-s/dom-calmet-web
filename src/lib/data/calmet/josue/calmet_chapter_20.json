@@ -23,14 +23,14 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "LOQUETUR EA QUÆ SE COMPROBENT INNOCENTEM.",
       "lemma": "Il dira tout ce qui peut justifier son innocence.",
       "text": "L'Hébreu à la lettre :[10] _Il dira ses discours_, ou ses raisons. Il exposera le fait et la manière dont ce meurtre est arrivé. Comme l’asile n’est qu’en faveur des innocents, il est juste de prendre des précautions pour ne pas permettre que les coupables en profitent."
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NEC ANTE BIDUUM TRIDUUMVE EJUS PROBATUR INIMICUS.",
       "lemma": "Et qu’on ne saurait prouver que deux ou trois jours auparavant il ait été son ennemi.",
       "text": "On prend ordinairement cette expression à la lettre, et on dit que pour prouver que des hommes étaient en inimitié, il suffisait qu’on fît voir que depuis trois jours ils ne se voulaient plus parler. Mais je pense que ces paroles tiennent du proverbe, et qu’on doit les expliquer moralement d’un espace de temps notable, et qu’il faut présumer qu’ils sont ennemis, lorsqu’ils ne se sont point donné réciproquement des marques de réconciliation et d’amitié, depuis qu’ils ont été brouillés, soit qu’il y ait beaucoup ou peu de temps : Et au contraire que le meurtre est casuel et fait sans dessein, lorsque celui qui l’a fait, n’avait rien auparavant contre celui qui est mort."
@@ -44,7 +44,7 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET MORIATUR SACERDOS MAGNUS.",
       "lemma": "Jusqu’à la mort du grand Prêtre.",
       "text": "On peut voir les raisons de cette ordonnance sur les Nombres, chap. XXXV. 25."
@@ -52,7 +52,7 @@
     {
       "verse": 7,
       "sub": false,
-      "latin_lemma": "DECREVERUNTQUE CEDES, &c.",
+      "latin_lemma": "DECREVERUNTQUE CEDES, etc.",
       "lemma": "Ils marquèrent donc pour ville",
       "text": "les de Refuge, Cédès en Galilée, et les autres. L'Hébreu : [12] _Ils sanctifièrent Cédès_ ; ils la séparèrent du nombre des autres villes par une destination et un choix particulier. Le Chaldéen, [13] _ils ordonnèrent_, ils établirent, ils disposèrent. Les Septante, [14] _ils séparèrent, ils divisèrent.\nCADÈS, ou Cédès de Galilée, et Hébron, étaient comme aux deux extrémités du pays. L'une dans la Galilée, et l'autre dans la tribu de Juda; l'une et l'autre dans un pays de montagne. Sichem était au milieu, ou presqu'au milieu de cet espace entre ces deux villes, dans la tribu d'Ephraïm._"
     },
@@ -65,14 +65,14 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "RAMOT DE GALAAD,",
       "lemma": null,
       "text": "était presque au milieu de la longueur du même pays, vers les sources du Jabok, et vers le milieu des montagnes de Galaad."
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "GAULON,",
       "lemma": null,
       "text": "était Capitale d'un petit pays nommé Gaulanite dans la terre de Basan, vers l'extrémité méridionale du partage de Manassé."
@@ -86,7 +86,7 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DONEC STARET ANTE POPULUM.",
       "lemma": "Jusqu'à ce qu'il pût se présenter, à la lettre, se tenir debout devant le peuple.",
       "text": "C'est-à-dire devant les Juges et les Anciens, et en présence du peuple assemblé, comme dans les affaires publiques et de conséquence. Il est bon de remarquer une fois [17] que lorsque l'Écriture parle de comparaître devant les Juges, elle exprime toujours la posture dans laquelle on y paraissait, en disant, que le coupable se tiendra debout devant les Juges assis. Moïse s'assit pour juger le peuple, et le peuple se tenait debout en sa présence depuis le matin jusqu'au soir. Les Latins usaient de la même expression pour marquer, paraître devant les Juges. [18]\n_Dispeream si_\n_Aut valeo stare, aut novi civilia jura._"
@@ -110,8 +110,8 @@
     {
       "seam": "page_0352>page_0353",
       "verse": 4,
-      "mode": "hyphen",
-      "before": "raisons. Il exposera le fait et la manière dont ce meurtre",
+      "mode": "flow",
+      "before": " ou ses raisons. Il exposera le fait et la manière dont ce",
       "after": "meurtre est arrivé. Comme l’asile n’est qu’en faveur des i"
     },
     {
@@ -156,37 +156,37 @@
     {
       "key": "page_0350-d",
       "n": 4,
-      "text": "Levit. xxv. 25. _Si attenuatus frater tuus vendiderit poſſeſſunculam ſuam, & voluerit propinquus ejus, poteſt redimere._ Vide & ℣. 48. 49."
+      "text": "Levit. xxv. 25. _Si attenuatus frater tuus vendiderit possessunculam suam, et voluerit propinquus ejus, potest redimere._ Vide et ℣. 48. 49."
     },
     {
       "key": "page_0351-a",
       "n": 5,
-      "text": "Pſalm. LVII. 11."
+      "text": "Psalm. LVII. 11."
     },
     {
       "key": "page_0351-b",
       "n": 6,
-      "text": "Pſalm. XVII. 48."
+      "text": "Psalm. XVII. 48."
     },
     {
       "key": "page_0351-c",
       "n": 7,
-      "text": "Jerem. XI. 20. & XX. 12."
+      "text": "Jerem. XI. 20. et XX. 12."
     },
     {
       "key": "page_0351-d",
       "n": 8,
-      "text": "Eſther. VIII. 11."
+      "text": "Esther. VIII. 11."
     },
     {
       "key": "page_0352-a",
       "n": 9,
-      "text": "Pſalm. VII. 5. _Si reddidi retribuentibus mihi mala, decidam meritò ab inimicis meis inanis._"
+      "text": "Psalm. VII. 5. _Si reddidi retribuentibus mihi mala, decidam meritò ab inimicis meis inanis._"
     },
     {
       "key": "page_0352-b",
       "n": 10,
-      "text": "וְדִבֶּר אֶת דְּבָרָיו. _verb. dicet verba ſua._"
+      "text": "וְדִבֶּר אֶת דְּבָרָיו. _verb. dicet verba sua._"
     },
     {
       "key": "page_0353-a",
@@ -206,7 +206,7 @@
     {
       "key": "page_0354-c",
       "n": 14,
-      "text": "70. & Abraven."
+      "text": "70. et Abraven."
     },
     {
       "key": "page_0354-d",
@@ -221,56 +221,12 @@
     {
       "key": "page_0355-a",
       "n": 17,
-      "text": "Vide Druſ. hic ad ℣. 6."
+      "text": "Vide Drus. hic ad ℣. 6."
     },
     {
       "key": "page_0355-b",
       "n": 18,
       "text": "Horat. l. 1. Satyr. 9."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0350",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0351",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0352",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0353",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0354",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0355",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

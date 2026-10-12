@@ -157,6 +157,15 @@
       ]
     },
     {
+      "verse_number": 18,
+      "latin": "Salutare tuum expectabo, Domine.",
+      "french": "J'attendrai vôtre salut, ô mon Dieu !",
+      "annotations": null,
+      "source_pages": [
+        "page_0924.json"
+      ]
+    },
+    {
       "verse_number": 19,
       "latin": "Gad accinctus præliabitur ante eum, et ipse acingetur retrorsum.",
       "french": "Gad combattra tout armé devant lui ; et ensuite il se couvrira de ses armes pour se défendre.",
@@ -203,19 +212,11 @@
     },
     {
       "verse_number": 24,
-      "latin": "Stetit in fortis arcus ejus, et dissoluta sunt vincula brachiorum et manuum illius, per manum potentis Jacob ; inde pastor egressus est lapis Israël.",
-      "french": "Son arc est demeuré fortement tendu, les liens de ses bras ont été déliés par la main du puissant [Dieu] de Jacob ; de là est sorti le pasteur, et la force d'Israël.",
+      "latin": "Stetit in fortis arcus ejus, et dissoluta sunt vincula brachiorum et manuum illius, per manum potentis Jacob ; inde pastor egressus est lapis Israël. STETIT IN FORTI ARCUS EJUS.",
+      "french": "Son arc est demeuré fortement tendu, les liens de ses bras ont été déliés par la main du puissant [Dieu] de Jacob ; de là est sorti le pasteur, et la force d'Israël. Son arc s'est tenu fortement tendu ; il ne s'est ni relâché, ni rompu ; Joseph comme un guerrier généreux, n'a point quitté les armes, il ne s'est point laissé abattre par la mauvaise fortune.",
       "annotations": null,
       "source_pages": [
-        "page_0928.json"
-      ]
-    },
-    {
-      "verse_number": 24,
-      "latin": "STETIT IN FORTI ARCUS EJUS.",
-      "french": "Son arc s'est tenu fortement tendu ; il ne s'est ni relâché, ni rompu ; Joseph comme un guerrier généreux, n'a point quitté les armes, il ne s'est point laissé abattre par la mauvaise fortune.",
-      "annotations": null,
-      "source_pages": [
+        "page_0928.json",
         "page_0929.json"
       ]
     },

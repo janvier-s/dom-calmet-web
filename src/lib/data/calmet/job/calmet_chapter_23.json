@@ -58,7 +58,7 @@
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN SINU MEO ABSCONDI VERBA ORIS EJUS.",
       "lemma": "J'ai caché dans mon sein les paroles de sa bouche.",
       "text": "Les Anciens mettaient dans leur sein ce qu'ils avaient de plus précieux. [14] _L'impie reçoit des présents du sein_, dit le Sage. On y mettait les dés, ou les sorts. [15] Les Turcs se servent de leur sein, comme de poches; ils y serrent leur bourse, leurs papiers, leurs mouchoirs, [16] etc. L’Hébreu: [17] _les Ordonnances de sa bouche ; et je ne les ai point rejetées de mon sein._ Mais les Septante [18] ont lu comme la Vulgate. _J’ai caché les ordonnances, etc._"
@@ -73,7 +73,7 @@
     {
       "verse": 14,
       "sub": false,
-      "latin_lemma": "CUM EXPLEVERIT IN ME VOLUNTATEM SUAM, &c.",
+      "latin_lemma": "CUM EXPLEVERIT IN ME VOLUNTATEM SUAM, etc.",
       "lemma": "Quand il aura accompli sa volonté sur moi, il a encore plusieurs choses semblables en sa puissance.",
       "text": "Quand il m’aura traité dans toute sa rigueur, et qu’il semblera avoir épuisé en moi toute la force de sa colère, il reviendra de nouveau sur moi, et trouvera de nouveaux châtiments pour m’accabler. L’Hébreu : [20] _Lorsqu’il m’aura donné ma portion, il en a encore beaucoup de pareilles._ Il semble faire allusion à l’ancienne coutume de donner aux esclaves une certaine portion de nourriture par jour, ou par mois. Le Seigneur est comme un Maître puissant, qui distribue avec un empire absolu les biens, et les maux ; le travail, et la nourriture à ses esclaves. Quand il m’aura fait souffrir la mesure ordinaire des maux dont il afflige ses serviteurs, ne croyez pas qu’il en demeure là, et qu’il soit réduit à n’aller pas plus loin. Il a encore dans ses trésors beaucoup d'autres afflictions. Il est toujours maître de nous faire souffrir ce qu'il veut. Voyez sur cette coutume de donner la nourriture aux esclaves par mesure, Proverb. XXX. 8. et XXXI. 15."
     },
@@ -142,12 +142,12 @@
     {
       "key": "page_0302-a",
       "n": 1,
-      "text": "הֲבִרֹב כֹּחַ יָרִיב עִמָּדִי לֹא אַךְ הוּא יָשֵׂם בִּי _Antiq. verſ. Lat. An in multa virtute dijudicabitur mecum ? Nequaquam. Tantum in terrore non abutatur me._"
+      "text": "הֲבִרֹב כֹּחַ יָרִיב עִמָּדִי לֹא אַךְ הוּא יָשֵׂם בִּי _Antiq. vers. Lat. An in multa virtute dijudicabitur mecum ? Nequaquam. Tantum in terrore non abutatur me._"
     },
     {
       "key": "page_0302-b",
       "n": 2,
-      "text": "_Imò verò apponet, ( ſupple cor ) in me : Confer Job._ I. 8. XVII. 3. Iſai. XLI. 20."
+      "text": "_Imò verò apponet, ( supple cor ) in me : Confer Job._ I. 8. XVII. 3. Isai. XLI. 20."
     },
     {
       "key": "page_0302-c",
@@ -172,7 +172,7 @@
     {
       "key": "page_0303-a",
       "n": 7,
-      "text": "הן קדם אהלך ואיננו ואחור ולא אבין לו׃\nSym. _Idò in veſtigyomei αυτου, ἀφανὴς ἐςι. Καὶ ἀκολουθῶ, ουκ αἰσθήσομαι._"
+      "text": "הן קדם אהלך ואיננו ואחור ולא אבין לו׃\nSym. _Idò in vestigyomei αυτου, ἀφανὴς ἐςι. Καὶ ἀκολουθῶ, ουκ αἰσθήσομαι._"
     },
     {
       "key": "page_0303-b",
@@ -182,7 +182,7 @@
     {
       "key": "page_0303-c",
       "n": 9,
-      "text": "_Vide ad Geneſ. XIII. 9._"
+      "text": "_Vide ad Genes. XIII. 9._"
     },
     {
       "key": "page_0303-d",
@@ -202,7 +202,7 @@
     {
       "key": "page_0304-b",
       "n": 13,
-      "text": "Geneſ. IX. 5."
+      "text": "Genes. IX. 5."
     },
     {
       "key": "page_0304-c",
@@ -238,57 +238,6 @@
       "key": "page_0305-e",
       "n": 20,
       "text": "כי חקי וכתכנת רבות עמו"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0300",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0301",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0302",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0303",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0304",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0305",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0306",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

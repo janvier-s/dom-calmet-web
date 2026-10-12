@@ -37,7 +37,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FACIES EORUM QUASI FACIES LEONIS, ET VELOCES QUASI CAPREÆ IN MONTIBUS.",
       "lemma": "Ils avaient un visage de lion, et égalaient à la course les chevreuils des montagnes.",
       "text": "Il y eut aussi des hommes très braves de la tribu de Gad. C'est ainsi qu'il faut entendre Gaddi, comme la suite le fait voir, ℣. 14.\nLes anciens louaient l'air farouche, et le visage terrible dans un soldat ; ils tenaient pour maxime, que les yeux sont toujours les premiers vaincus : _Primi in omnibus præliis oculi vincuntur._ [5] La vitesse à la course, était encore une qualité dont ils faisaient grande estime ; d'où vient qu'on y exerçait les jeunes soldats avec tant d'exactitude. [6] _Ad cursum præcipuè assuefaciendi sunt milites, ut majore impetu in hostem procurrant, ut loca opportuna celeriter occupent, ut ad explorandum alacriter pergant, ut fugientium terga faciliùs comprehendant._"
@@ -58,7 +58,7 @@
     },
     {
       "verse": 15,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "OMNES FUGAVERUNT QUI MORABANTUR IN VALLIBUS.",
       "lemma": "Ils mirent en fuite tous ceux qui demeuraient dans les vallées.",
       "text": "L'Hébreu à la lettre : [11] _Ils mirent en fuite toutes les vallées._ Le Syriaque, et l'Arabe : _Ils chassèrent toutes les troupes qui étaient dans le désert._ Ces braves de David, dissipèrent apparemment les ennemis d'Israël, qui étaient dans les vallées, tant à l'Orient qu'à l'Occident du Jourdain. Mais on ne sait en quel temps cela arriva, ni à quelle occasion."
@@ -79,7 +79,7 @@
     },
     {
       "verse": 18,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CONSTITUIT EOS PRINCIPES TURMÆ.",
       "lemma": "Il leur donna commandement dans ses troupes, suivant le nombre qu'il en avait alors ; et dans la suite, il les avança à proportion de leur mérite, de leur service, et de la grandeur de ses armées.",
       "text": ""
@@ -152,7 +152,7 @@
       "sub": false,
       "latin_lemma": "VENERUNT IN AUXILIUM, NON IN DUPLICI CORDE.",
       "lemma": "Ils vinrent à son secours, non avec duplicité de cœur.",
-      "text": "L'HéHébreu à la lettre:[27] Ils vinrent pour se ranger en bataille, non dans un cœur, et un cœur. Ce qui est le même, que le cœur parfait, ou entier, dont il est parlé ci-après, ℣. 38. Ils vinrent sans déguisement, sans duplicité de cœur."
+      "text": "L' Hébreu à la lettre:[27] Ils vinrent pour se ranger en bataille, non dans un cœur, et un cœur. Ce qui est le même, que le cœur parfait, ou entier, dont il est parlé ci-après, ℣. 38. Ils vinrent sans déguisement, sans duplicité de cœur."
     },
     {
       "verse": 40,
@@ -208,7 +208,7 @@
     {
       "seam": "page_0187>page_0188",
       "verse": 33,
-      "mode": "splice",
+      "mode": "refrag",
       "before": "L'Hé-",
       "after": "Hébreu à la lettre:^{(a)} Ils vinrent pour se ranger en ba"
     }
@@ -265,17 +265,17 @@
     {
       "key": "page_0181-b",
       "n": 8,
-      "text": "Vatab. Munſt."
+      "text": "Vatab. Munst."
     },
     {
       "key": "page_0181-c",
       "n": 9,
-      "text": "Vide Joſue III. 15."
+      "text": "Vide Josue III. 15."
     },
     {
       "key": "page_0181-d",
       "n": 10,
-      "text": "Maundrel, voyage d'Alep à Jéruſalem. p. 136."
+      "text": "Maundrel, voyage d'Alep à Jérusalem. p. 136."
     },
     {
       "key": "page_0182-a",
@@ -320,7 +320,7 @@
     {
       "key": "page_0185-c",
       "n": 19,
-      "text": "צרוק נער בעל חיל 70. _vir ſtrenuè._"
+      "text": "צרוק נער בעל חיל 70. _vir strenuè._"
     },
     {
       "key": "page_0185-d",
@@ -330,116 +330,37 @@
     {
       "key": "page_0186-a",
       "n": 21,
-      "text": "וישראל וכל אחיהם על פיהם | יודעי בינה לעתים לדעת מה יעשה (a)"
+      "text": "וישראל וכל אחיהם על פיהם | יודעי בינה לעתים לדעת מה יעשה "
     },
     {
       "key": "page_0187-a",
       "n": 22,
-      "text": "Geneſ. XLIX. 14. 85. _Vidit requiem quòd eſſet bona_, &c. & _ſuppoſuit humerum ſuum ad portandum_."
+      "text": "Genes. XLIX. 14. 85. _Vidit requiem quòd esset bona_, etc. et _supposuit humerum suum ad portandum_."
     },
     {
       "key": "page_0187-b",
       "n": 23,
-      "text": "_Vide ſi lubet_ Virgil. Georgic. lib. 1."
+      "text": "_Vide si lubet_ Virgil. Georgic. lib. 1."
     },
     {
       "key": "page_0187-c",
       "n": 24,
-      "text": "Toſt. Samꝛ. Menoch. Tir. Cornel."
+      "text": "Tost. Samꝛ. Menoch. Tir. Cornel."
     },
     {
       "key": "page_0187-d",
       "n": 25,
-      "text": "Vatab. Oſi. alii."
+      "text": "Vatab. Osi. alii."
     },
     {
       "key": "page_0187-e",
       "n": 26,
-      "text": "Hebr. apud Cald. & Autor de tradit. Heb. in lib. Paralip."
+      "text": "Hebr. apud Cald. et Autor de tradit. Heb. in lib. Paralip."
     },
     {
       "key": "page_0188-a",
       "n": 27,
       "text": "S. Jerôme a lû, לעזר לא בלב ולב."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0178",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0179",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0180",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0181",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0182",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0183",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0184",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0185",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0186",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0187",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0188",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": [

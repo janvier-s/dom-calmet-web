@@ -5,8 +5,8 @@
   "verses": [
     {
       "verse_number": 1,
-      "latin": "ET ait David in corde suo: Aliquando incidam una die in manus Saul: nonne melius est ut fugiam, & salver in terra Philisthinorum, ut desperet Saul, cessetque me quærere in cunctis finibus Israël? Fugiam ergo manus ejus.",
-      "french": "Après cela David dit en lui-même: Je tomberai l'un de ces jours entre les mains de Saül. Ne vaut-il pas mieux que je m'enfuye, et que je me sauve au pays des Philistins; afin que Saül désespère de me trouver, et qu'il cesse de me chercher, comme il fait, dans toutes les terres d'Israël? Je me retirerai donc.",
+      "latin": "Et ait David in corde suo: Aliquando incidam una die in manus Saul: nonne melius est ut fugiam, et salver in terra Philisthinorum, ut desperet Saul, cessetque me quærere in cunctis finibus Israël? Fugiam ergo manus ejus.",
+      "french": "Après cela David dit en lui-même: Je tomberai l'un de ces jours entre les mains de Saül. Ne vaut-il pas mieux que je m'enfuie, et que je me sauve au pays des Philistins; afin que Saül désespère de me trouver, et qu'il cesse de me chercher, comme il fait, dans toutes les terres d'Israël? Je me retirerai donc.",
       "annotations": null,
       "source_pages": [
         "page_0419.json"
@@ -14,8 +14,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Et surrexit David, & abiit ipse & sexcenti viri cum eo, ad Achis filium Maoch Regem Geth.",
-      "french": "Ainsi David partit, et s'en alla avec ses six cent hommes chez Achis, fils de Maoch, Roi de Geth.",
+      "latin": "Et surrexit David, et abiit ipse et sexcenti viri cum eo, ad Achis filium Maoch Regem Geth.",
+      "french": "Ainsi David partit, et s'en alla avec ses six cents hommes chez Achis, fils de Maoch, Roi de Geth.",
       "annotations": null,
       "source_pages": [
         "page_0419.json"
@@ -23,7 +23,7 @@
     },
     {
       "verse_number": 3,
-      "latin": "Et habitavit David cum Achis in Geth, ipſe & viri ejus; vir & domus ejus; & David, & duæ uxores ejus, Achinoam Jezraëlitidis, & Abigail uxor Nabal Carmeli.",
+      "latin": "Et habitavit David cum Achis in Geth, ipse et viri ejus; vir et domus ejus; et David, et duæ uxores ejus, Achinoam Jezraëlitidis, et Abigail uxor Nabal Carmeli.",
       "french": "Il y demeura lui et ses gens, chacun avec sa famille; et il y mena ses deux femmes, Achinoam de Jezraël, et Abigaïl, qui avait été femme de Nabal du Carmel.",
       "annotations": "An. du Monde 2947.",
       "source_pages": [
@@ -32,8 +32,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Et nuntiatum eſt Saüli quod fugiſſet David in Geth : & non addidit ultrà quærere eum.",
-      "french": "Saül fut averti aussi-tôt que David s'était retiré à Geth : et il ne se mit plus en peine de l'aller chercher.",
+      "latin": "Et nuntiatum est Saüli quod fugisset David in Geth : et non addidit ultrà quærere eum.",
+      "french": "Saül fut averti aussitôt que David s'était retiré à Geth : et il ne se mit plus en peine de l'aller chercher.",
       "annotations": null,
       "source_pages": [
         "page_0421.json"
@@ -41,8 +41,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Dixit autem David ad Achis : Si inveni gratiam in oculis tuis, detur mihi locus in una urbium regionis hujus, ut habitem ibi : cur enim manet ſervus tuus in civitate Regis tecum?",
-      "french": "Or David dit à Achis : Si j'ai trouvé grace devant vos yeux, donnez moi un lieu dans une des villes de ce pays, où je puisse demeurer : car pourquoi vôtre serviteur demeure-t'il avec vous dans la ville Royale?",
+      "latin": "Dixit autem David ad Achis : Si inveni gratiam in oculis tuis, detur mihi locus in una urbium regionis hujus, ut habitem ibi : cur enim manet servus tuus in civitate Regis tecum?",
+      "french": "Or David dit à Achis : Si j'ai trouvé grâce devant vos yeux, donnez-moi un lieu dans une des villes de ce pays, où je puisse demeurer : car pourquoi votre serviteur demeure-t-il avec vous dans la ville Royale?",
       "annotations": null,
       "source_pages": [
         "page_0421.json"
@@ -50,7 +50,7 @@
     },
     {
       "verse_number": 6,
-      "latin": "Dedit itaque ei Achis in die illa Siceleg : propter quam cauſam facta eſt Siceleg Regum Juda, uſque in diem hanc.",
+      "latin": "Dedit itaque ei Achis in die illa Siceleg : propter quam causam facta est Siceleg Regum Juda, usque in diem hanc.",
       "french": "Achis lui donna donc dès ce jour-là Siceleg, et c’est en cette manière que Siceleg est venue aux Rois de Juda, qui la possèdent encore aujourd’hui.",
       "annotations": "An. du Monde 2947.",
       "source_pages": [
@@ -59,7 +59,7 @@
     },
     {
       "verse_number": 7,
-      "latin": "Fuit autem numerus dierum quibus habitavit David in regione Philiſthinorum, quatuor menſium.",
+      "latin": "Fuit autem numerus dierum quibus habitavit David in regione Philisthinorum, quatuor mensium.",
       "french": "David demeura dans les terres des Philistins pendant quatre mois.",
       "annotations": null,
       "source_pages": [
@@ -68,8 +68,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Es aſcendit David, & viri ejus, & agebant prædas de Geſſuri, & de Gerzi & de Amalecitis : hi enim pagi habitabantur in terra antiquitùs, euntibus Sur, uſque ad terram Ægypti.",
-      "french": "Il faisait des courses avec ses gens, et pillait Gessuri, Gerzi, et les Amalécites : car ces cantons étaient autrefais habités vers le chemin de Sur, jusqu'au pays d'Egypte.",
+      "latin": "Es ascendit David, et viri ejus, et agebant prædas de Gessuri, et de Gerzi et de Amalecitis : hi enim pagi habitabantur in terra antiquitùs, euntibus Sur, usque ad terram Ægypti.",
+      "french": "Il faisait des courses avec ses gens, et pillait Gessuri, Gerzi, et les Amalécites : car ces cantons étaient autrefois habités vers le chemin de Sur, jusqu'au pays d'Égypte.",
       "annotations": "An. de Monde 2947.",
       "source_pages": [
         "page_0423.json"
@@ -77,8 +77,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Et percutiebat David omnem terram, nec relinquebat viventem virum & mulierem : tollénſque oves, & boves, & aſinos, & camelos, & veſtes, revertebatur & veniebat ad Achis.",
-      "french": "Et il tuait tout ce qu'il rencontrait dans le pays, sans laisser en vie ni homme, ni femme : et aprés qu'il avait enlevé les brebis, les bœufs, les ânes, les chameaux, et les habits, il revenait trouver Achis.",
+      "latin": "Et percutiebat David omnem terram, nec relinquebat viventem virum et mulierem : tollénsque oves, et boves, et asinos, et camelos, et vestes, revertebatur et veniebat ad Achis.",
+      "french": "Et il tuait tout ce qu'il rencontrait dans le pays, sans laisser en vie ni homme, ni femme : et après qu'il avait enlevé les brebis, les bœufs, les ânes, les chameaux, et les habits, il revenait trouver Achis.",
       "annotations": null,
       "source_pages": [
         "page_0423.json"
@@ -86,7 +86,7 @@
     },
     {
       "verse_number": 10,
-      "latin": "Dicebat autem ei Achis : In quem irruisti hodiè? Respondebat David : Contràm meridiem Judæ, & contra meridiem Jerameel, & contra meridiem Ceni.",
+      "latin": "Dicebat autem ei Achis : In quem irruisti hodiè? Respondebat David : Contràm meridiem Judæ, et contra meridiem Jerameel, et contra meridiem Ceni.",
       "french": "Et lorsqu'Achis lui disait: Où avez-vous couru aujourd'hui? David lui répondait : Vers la partie méridionale de Juda; vers le midi de Jéraméel, et le midi de Céni.",
       "annotations": "An. du Monde 2947.",
       "source_pages": [
@@ -95,11 +95,20 @@
     },
     {
       "verse_number": 11,
-      "latin": "Virum & mulierem non vivificabat David, nes adducebat in Geth, dicens: Ne fortè loquantur adverſum nos. Hæc facit David : & hoc erat decretum illi omnibus diebus, quibus habitavit in regione Philiſthinorum.",
-      "french": "David ne laissait en vie ni homme ni femme, et il n'en amenait pas un à Geth; de peur, disait-il, que ces gens-là ne parlent contre nous. C'est ainsi que David se conduisait; et c'est ce qu'il avait accoutumé de faire, pendant tout le tems qu'il demeura parmi les Philistins.",
+      "latin": "Virum et mulierem non vivificabat David, nes adducebat in Geth, dicens: Ne fortè loquantur adversum nos. Hæc facit David : et hoc erat decretum illi omnibus diebus, quibus habitavit in regione Philisthinorum.",
+      "french": "David ne laissait en vie ni homme ni femme, et il n'en amenait pas un à Geth; de peur, disait-il, que ces gens-là ne parlent contre nous. C'est ainsi que David se conduisait; et c'est ce qu'il avait accoutumé de faire, pendant tout le temps qu'il demeura parmi les Philistins.",
       "annotations": null,
       "source_pages": [
         "page_0424.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Credidit ergo Achis David dicens : Multa mala operatus est contra populum suum Israël : erit igitur mihi servus sempiternus.",
+      "french": "Achis se fiait donc tout-à-fait à David, et il disait en lui-même : Il a fait de grands maux à Israël son peuple : c’est pourquoi il demeurera toujours attaché à mon service.",
+      "annotations": null,
+      "source_pages": [
+        "page_0425.json"
       ]
     }
   ]

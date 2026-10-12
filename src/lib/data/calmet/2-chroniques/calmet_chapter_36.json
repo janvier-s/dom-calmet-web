@@ -1,6 +1,13 @@
 {
   "notes": [
     {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "TULIT POPULUS TERRÆ JOACHAS.",
+      "lemma": "Le peuple du pays prit Joachas.",
+      "text": "Après la bataille de Mageddo, où Josias fut tué, Néchao sans s'arrêter dans la Judée, s'avança vers Carchemise ; cependant les Israélites, sans attendre la permission de ce Prince, établirent sur le trône Joachas, un des fils de Josias. Voyez 4. Reg. XXIII. 30. et suivant."
+    },
+    {
       "verse": 3,
       "sub": false,
       "latin_lemma": "CUM VENISSET IN JERUSALEM.",
@@ -51,7 +58,7 @@
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CONSTITUIT SEDECIAM PATRUUM EJUS.",
       "lemma": "Il établit Roi son oncle Sédécias.",
       "text": "L'Hébreu [20] lit : _Il établit Roi Sédécias son frère_. Il est certain que Sédécias était oncle de Jéchonias ; mais on peut l'appeler _son frère_, dans le même sens qu'Abraham oncle de Lot, disait à son neveu, _nous sommes frères_. [21] Les"
@@ -79,7 +86,7 @@
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET ESSET NULLA CURATIO.",
       "lemma": "Et que le mal fût sans remède.",
       "text": "Jusqu'à ce que la colère de Dieu fût sans retour ; ils poussèrent sa patience à bout. Dieu est toujours miséricordieux, et prêt à recevoir ceux qui retournent à lui ; mais quand le pécheur a poussé la malice jusqu'au mépris, et à l'endurcissement, Dieu de son côté est d'une sévérité inflexible à punir."
@@ -93,14 +100,14 @@
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SUNT.",
       "lemma": "Ils détruisirent tout ce qu'il y avait de précieux.",
       "text": "L'Hébreu : [27] _ils gâtèrent tous les vases les plus précieux, et les plus beaux ;_ À la lettre, _les vases de désir._ Ils brisèrent quantité de vases précieux, ils n'en réservèrent qu'une partie pour être conservée dans le trésor du Roi, et dans son temple. [28] Il s'en faut beaucoup que le nombre de vases du temple que rendit Cyrus, [29] et qu'on trouva dans les trésors du Roi, égale celui qui était au Temple de Jérusalem avant la captivité.\n\nÀ Nabuchodonosor, à Evilmérodac, et à Balthasar."
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DONEC IMPERARET REX PERSARUM.",
       "lemma": "Jusqu'au règne du Roi de Perse ; jusqu'à ce que Cyrus transportât l'Empire des Chaldéens, et des Assyriens, aux Perses ; jusqu'à la fin des septante années de captivité, prédites par Jérémie.",
       "text": "[30]"
@@ -194,7 +201,7 @@
     {
       "key": "page_0260-d",
       "n": 4,
-      "text": "Jerem. XXII. 19. Vide & XXXVI. 30."
+      "text": "Jerem. XXII. 19. Vide et XXXVI. 30."
     },
     {
       "key": "page_0260-e",
@@ -219,7 +226,7 @@
     {
       "key": "page_0261-b",
       "n": 9,
-      "text": "Jerem. XXV. II. & XXIX. 10."
+      "text": "Jerem. XXV. II. et XXIX. 10."
     },
     {
       "key": "page_0261-c",
@@ -234,7 +241,7 @@
     {
       "key": "page_0261-e",
       "n": 12,
-      "text": "1. Eſdr. 1. 7. & Dan. 1. 2."
+      "text": "1. Esdr. 1. 7. et Dan. 1. 2."
     },
     {
       "key": "page_0261-f",
@@ -244,17 +251,17 @@
     {
       "key": "page_0261-g",
       "n": 14,
-      "text": "Heb. Vat. Lyr. Eſt. Munſt."
+      "text": "Heb. Vat. Lyr. Est. Munst."
     },
     {
       "key": "page_0262-a",
       "n": 15,
-      "text": "Pſal. XVII. 3. _Non eſt inventa in me iniquitas. Vide_ & XXXV. 1."
+      "text": "Psal. XVII. 3. _Non est inventa in me iniquitas. Vide_ et XXXV. 1."
     },
     {
       "key": "page_0262-b",
       "n": 16,
-      "text": "Geneſ. XLIV. 16. _Deus invenit iniquitatem ſervorum tuorum._"
+      "text": "Genes. XLIV. 16. _Deus invenit iniquitatem servorum tuorum._"
     },
     {
       "key": "page_0262-c",
@@ -264,7 +271,7 @@
     {
       "key": "page_0262-d",
       "n": 18,
-      "text": "Lyr. Tir. Cornel. Jun. Piſc. &c."
+      "text": "Lyr. Tir. Cornel. Jun. Pisc. etc."
     },
     {
       "key": "page_0262-e",
@@ -279,7 +286,7 @@
     {
       "key": "page_0262-g",
       "n": 21,
-      "text": "Geneſ. XIII. 8."
+      "text": "Genes. XIII. 8."
     },
     {
       "key": "page_0263-a",
@@ -289,7 +296,7 @@
     {
       "key": "page_0263-b",
       "n": 23,
-      "text": "Vide Grot. de jure belli & pacis; lib. 2. c. 13. art. 15. 16."
+      "text": "Vide Grot. de jure belli et pacis; lib. 2. c. 13. art. 15. 16."
     },
     {
       "key": "page_0263-c",
@@ -299,7 +306,7 @@
     {
       "key": "page_0263-d",
       "n": 25,
-      "text": "Voyez des expreſſions pareilles. Jerem. XI, 7. & XXV. 3. 4. & XXXV. 14. & Matt. XXI, 1."
+      "text": "Voyez des expressions pareilles. Jerem. XI, 7. et XXV. 3. 4. et XXXV. 14. et Matt. XXI, 1."
     },
     {
       "key": "page_0264-a",
@@ -319,12 +326,12 @@
     {
       "key": "page_0265-c",
       "n": 29,
-      "text": "Voyez I. Eſdr I. 9. 10. 11. comparé à ce qu'on a vû 3. Reg. VII. 50."
+      "text": "Voyez I. Esdr I. 9. 10. 11. comparé à ce qu'on a vû 3. Reg. VII. 50."
     },
     {
       "key": "page_0265-d",
       "n": 30,
-      "text": "Jerem. XXV. 11. & XXIX. 10."
+      "text": "Jerem. XXV. 11. et XXIX. 10."
     },
     {
       "key": "page_0265-e",
@@ -334,82 +341,17 @@
     {
       "key": "page_0265-f",
       "n": 32,
-      "text": "Levit. XXVI. 41. 43. _Quæ cùm relicta fuerit ab eis, complacebit ſibi in ſabbathis ſuis, patiens ſolitudinem propter illos._"
+      "text": "Levit. XXVI. 41. 43. _Quæ cùm relicta fuerit ab eis, complacebit sibi in sabbathis suis, patiens solitudinem propter illos._"
     },
     {
       "key": "page_0266-a",
       "n": 33,
-      "text": "Jerem. XXV. 11. 12. & XXIX. 10. 11."
+      "text": "Jerem. XXV. 11. 12. et XXIX. 10. 11."
     },
     {
       "key": "page_0267-a",
       "n": 34,
       "text": "_Virgil. Æneid. 1._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0259",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0260",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0261",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0262",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0263",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0264",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0265",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0266",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0267",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

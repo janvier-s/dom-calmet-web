@@ -189,7 +189,7 @@
     },
     {
       "verse_number": 24,
-      "latin": "Loquere filiis Israel : Mense septimo, prima die mensis, erit vobis sabbatum, memoriale, clangentibus tubis, et vocabitur sanctum.^{a}",
+      "latin": "Loquere filiis Israel : Mense septimo, prima die mensis, erit vobis sabbatum, memoriale, clangentibus tubis, et vocabitur sanctum.^{(a)}",
       "french": "Parlez aux enfants d'Israël : Le premier jour du septième mois, vous célébrerez au son des trompettes, un jour de fête et de repos : ce jour sera digne de mémoire, et sera appelé saint.",
       "source_pages": [
         "page_0299.json"
@@ -337,6 +337,22 @@
       "french": "Et vous demeurerez sous l'ombre des branches d'arbres pendant sept jours. Tout homme qui est de la race d'Israël, demeurera sous des tentes.",
       "source_pages": [
         "page_0305.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Ut discant posteri vestri, quod in Tabernaculis habitare fecerim filios Israel, cum educerem eos de terra Ægypti. Ego Dominus Deus vester.",
+      "french": "Afin que vos descendants apprennent que j'ai fait demeurer sous des tentes les enfants d'Israël, lorsque je les ai tirés de l'Égypte, moi qui suis le Seigneur votre Dieu.",
+      "source_pages": [
+        "page_0306.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Locutusque est Moyses super solemnitatibus Domini ad filios Israel.",
+      "french": "Moïse déclara donc toutes ces choses aux enfants d'Israël, touchant les Fêtes solennelles du Seigneur.",
+      "source_pages": [
+        "page_0306.json"
       ]
     }
   ]

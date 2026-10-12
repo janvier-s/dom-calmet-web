@@ -4,7 +4,7 @@
       "verse": 1,
       "sub": false,
       "latin_lemma": "OZIAM CONSTITUIT REGEM.",
-      "lemma": "Déclara Roi Ozias, nommé autrement Azarias.[1]",
+      "lemma": "_Déclara Roi Ozias, nommé autrement Azarias._[1]",
       "text": ""
     },
     {
@@ -37,14 +37,14 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CONTRA ARABES, QUI HABITABANT IN GURBAAL.",
       "lemma": "Contre les Arabes, qui demeuraient dans Gurbaal.",
       "text": "Les Septante : [12] _Contre les Arabes, qui habitaient au-dessus de Pétra._ L’Auteur des Traditions Hébraïques croit que Gurbaal est la même, que Gérare : Je croirais plutôt que Gurbal, est la même que Gébal,[13] et que les Arabes de Gulbal sont ceux de la Gabalène, ou de Gabala, petite région de l’Arabie dans Étienne, et dans Eusèbe. Les Septante sont de même sentiment; ils portent : _près de Pétra en Arabie._"
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET CONTRA AMMONITAS.",
       "lemma": "Contre les Ammonites.",
       "text": "L’Hébreu. [14] _Contre les Méonims._ Ce sont les Arabes Minéens, dont nous avons parlé ci-devant. [15]"
@@ -67,19 +67,19 @@
       "verse": 10,
       "sub": false,
       "latin_lemma": "TURRES IN SOLITUDINE.",
-      "lemma": "Des tours dans le désert, pour la retraite des pasteurs, et de leurs troupeaux, dans les irruptions des Arabes, et des voleurs ; c'est ce que l'Écriture appelle souvent, turris custodum, une tour des pasteurs. [17]",
+      "lemma": "_Des tours dans le désert, pour la retraite des pasteurs, et de leurs troupeaux, dans les irruptions des Arabes, et des voleurs ; c'est ce que l'Écriture appelle souvent, _turris custodum_, une tour des pasteurs. [17]_",
       "text": ""
     },
     {
       "verse": 10,
-      "sub": true,
-      "latin_lemma": "TAM IN CAMPESTRIBUS, QUAM IN EREMI VASTITATE; VINEAS QUOQUE HABUIT ET VINITORES, &c.",
+      "sub": false,
+      "latin_lemma": "TAM IN CAMPESTRIBUS, QUAM IN EREMI VASTITATE; VINEAS QUOQUE HABUIT ET VINITORES, etc.",
       "lemma": "Il avait beaucoup de troupeaux, tant dans la campagne, que dans l'étendue du désert; il avait aussi des vignes, et des vignerons.",
       "text": "L'Hébreu: _Il avait beaucoup de bétail dans les vallons, et des laboureurs dans les plaines, et des vignerons dans les montagnes, et dans le Carmel._ Il y avait dans la Judée deux montagnes du nom de Carmel, l'une de la tribu de Juda, où Nabal avait ses troupeaux du temps de David; l'autre sur la Méditerranée, près du Cison. L'une et l'autre étaient fertiles en vin, comme le montre ce nom de Carmel, qui signifie une vigne de Dieu, une excellente vigne. Le Roi Ozias probablement n'avait point ses vignes au mont Carmel, situé sur la Méditerranée; Ce terrain n'était pas à lui; mais au Carmel du pays de Juda."
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ERAT QUIPPE HOMO AGRICULTURÆ DEDITUS.",
       "lemma": "Parce qu'il se plaisait à l'agriculture.",
       "text": "L'Hébreu [18] à la lettre : _Parce qu'il aimait la terre._ On a vu ailleurs [19] quelle était l'économie, et l'application de David, et de Salomon à l'agriculture, et à l'élevage des animaux utiles."
@@ -100,7 +100,7 @@
     },
     {
       "verse": 15,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EO QUOD AUXILIATUR EI DOMINUS, ET CORROBORASSET ILLUM.",
       "lemma": "Parce que le Seigneur était son secours, et sa force.",
       "text": "L'Hébreu : [22] _Parce qu'il fut merveilleusement secouru de secours jusqu'à ce qu'il se fût affermi. Ou bien, parce qu'il était mer-_ veilleux à trouver des inventions propres à s'aider soi-même; 'il se fortifia dans Jérusalem, et dans toutes ses frontières, jusqu'à se rendre redoutable."
@@ -121,7 +121,7 @@
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN AGRO REGALIUM SEPULCHRORUM.",
       "lemma": "Dans le champ où étaient les tombeaux des Rois.",
       "text": "Voyez 4. Reg. xv. 7. Il fut privé de l'honneur d'être mis dans les tombeaux des Rois, non pas en punition de ses crimes, mais parce qu'il mourut lépreux. On n'enterrait point ces sortes de personnes dans les tombeaux communs, tant on avait d'horreur de cette maladie ; on craignait de souiller les sépulcres, en y mettant des corps gâtés de lèpre."
@@ -180,7 +180,7 @@
     {
       "key": "page_0175-c",
       "n": 3,
-      "text": "Ci-aprés ℣. 16. & ſuiv."
+      "text": "Ci-aprés ℣. 16. et suiv."
     },
     {
       "key": "page_0176-a",
@@ -200,7 +200,7 @@
     {
       "key": "page_0176-d",
       "n": 7,
-      "text": "_Expoſitores communiter apud Lyr. hic._"
+      "text": "_Expositores communiter apud Lyr. hic._"
     },
     {
       "key": "page_0176-e",
@@ -210,12 +210,12 @@
     {
       "key": "page_0176-f",
       "n": 9,
-      "text": "_Autor. tradit. Hebr. Dionyſ. Cajet. Tirin. Menoch. Eſt._"
+      "text": "_Autor. tradit. Hebr. Dionys. Cajet. Tirin. Menoch. Est._"
     },
     {
       "key": "page_0176-g",
       "n": 10,
-      "text": "_Gloſſ. Heb. apud Lyr._"
+      "text": "_Gloss. Heb. apud Lyr._"
     },
     {
       "key": "page_0176-h",
@@ -230,7 +230,7 @@
     {
       "key": "page_0177-b",
       "n": 13,
-      "text": "Pſal. LXXXII. 8. Gebal, & Ammon, & Amalec."
+      "text": "Psal. LXXXII. 8. Gebal, et Ammon, et Amalec."
     },
     {
       "key": "page_0177-c",
@@ -250,7 +250,7 @@
     {
       "key": "page_0178-a",
       "n": 17,
-      "text": "4. Reg. XVII, 9. & XVIII. 8. _A turre cuſtodum, uſque ad civitatem munitam._"
+      "text": "4. Reg. XVII, 9. et XVIII. 8. _A turre custodum, usque ad civitatem munitam._"
     },
     {
       "key": "page_0178-b",
@@ -260,7 +260,7 @@
     {
       "key": "page_0178-c",
       "n": 19,
-      "text": "Voyez 1. Par. XVII, 25. 26. & ſeqn."
+      "text": "Voyez 1. Par. XVII, 25. 26. et seqn."
     },
     {
       "key": "page_0179-a",
@@ -280,58 +280,7 @@
     {
       "key": "page_0181-a",
       "n": 23,
-      "text": "Voyez Iſaï. VI. I. & XIV. 29."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0175",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0176",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0177",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0178",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0179",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0180",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0181",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Voyez Isaï. VI. I. et XIV. 29."
     }
   ],
   "missing_footnotes": []

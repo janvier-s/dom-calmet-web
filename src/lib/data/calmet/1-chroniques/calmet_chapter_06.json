@@ -30,7 +30,7 @@
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BOCCI GENUIT OZI.",
       "lemma": "Bocci engendra Ozi.",
       "text": "On croit[3] que ce fut après Ozi, que le Sacerdoce passa de la famille d'Eléazar, dans celle d'Ithamar, en la personne du Grand-Prêtre Héli ;[4] Ainsi ni Zaraïa, ni Mérajoth, ni Amaria, ni Achitob, n'exercèrent pas la Sacrificature."
@@ -93,7 +93,7 @@
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "'ASIR,",
       "lemma": null,
       "text": "est nommé Aser, dans l'Exode.[14]"
@@ -171,34 +171,34 @@
     {
       "verse": 57,
       "sub": false,
-      "latin_lemma": "PORRO FILIIS AARON DEDERUNT CIVITATES : AD CONFUGIENDUM HEBRON, ET LOBNA, &c.",
+      "latin_lemma": "PORRO FILIIS AARON DEDERUNT CIVITATES : AD CONFUGIENDUM HEBRON, ET LOBNA, etc.",
       "lemma": "On donna aux enfants d'Aaron des villes : Hébron ville de refuge, et Lobna, etc.",
       "text": "Il ne faut pas s'imaginer que toutes ces treize villes, données aux enfants d'Aaron, aient été villes de refuge ; il n'y en avait que six en tout. Hébron dans la tribu de Juda ; et deux autres, dont l'une était en Galilée, et l'autre près de Sichem ; [31] et trois au-delà du Jourdain ; toutes les autres villes des Prêtres, et des Lévites, n'avaient à cet égard aucun privilège particulier."
     },
     {
       "verse": 58,
       "sub": false,
-      "latin_lemma": "HELON, autrement Olon, Joſué xv. 51.",
+      "latin_lemma": "HELON, autrement Olon, Josué xv. 51.",
       "lemma": null,
       "text": ""
     },
     {
       "verse": 59,
       "sub": false,
-      "latin_lemma": "ASAN, la même que Jeſhnan. Joſué xv. 23.",
+      "latin_lemma": "ASAN, la même que Jeshnan. Josué xv. 23.",
       "lemma": null,
       "text": "[32] ou peut-être qu'_Asan_, est mise pour _Aïn_ ; et que _Jétha_, sera omise en cet endroit. [33] Le Syriaque met _Ethra_ entre _Asan_, et _Bethsamés_, et le Manuscrit Alexandrin ajoute _Béshir_ après _Bethsamés_."
     },
     {
       "verse": 60,
       "sub": false,
-      "latin_lemma": "ALMATH, autrement Almon. Joſué xxi. 18.",
+      "latin_lemma": "ALMATH, autrement Almon. Josué xxi. 18.",
       "lemma": null,
       "text": ""
     },
     {
       "verse": 60,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CIVITATES TREDECIM.",
       "lemma": "Treize villes.",
       "text": "Il n'y en a qu'onze d'exprimées ici : Mais il y en avait treize en tout, et on lit leurs noms dans Josué xxi. 13...18. Celles qui manquent ici, sont _Jétha_, et _Gabaon_. Josué xxi. 16. 17."
@@ -227,7 +227,7 @@
     {
       "verse": 66,
       "sub": false,
-      "latin_lemma": "FUERUNTQUE CIVITATES IN TERMINIS EORUM DE TRIBU EPHRAIM : ( 67.) DEDERUNT ERGO EIS URBES AD CONFUCIENDUM, SICHEM... ET GAZER, &c.",
+      "latin_lemma": "FUERUNTQUE CIVITATES IN TERMINIS EORUM DE TRIBU EPHRAIM : ( 67.) DEDERUNT ERGO EIS URBES AD CONFUCIENDUM, SICHEM... ET GAZER, etc.",
       "lemma": "Il y eut quelques-unes de leurs villes, qui étaient dans la tribu d'Éphraïm, comme Sichem ville de refuge... et Gazer, etc.",
       "text": "De la manière dont le texte latin de la Vulgate est conçu, il semblerait que toutes les villes des Lévites de la famille de Caath, étaient dans la tribu d'Éphraïm, et que non seulement Sichem, mais encore les autres suivantes, étaient villes de refuge ; mais il faut l'expliquer, comme on l'a vu dans la Traduction ; il n'y avait que Sichem, qui fut ville de refuge, [35] les autres étaient simplement villes des Lévites sans autre privilège."
     },
@@ -255,14 +255,14 @@
     {
       "verse": 71,
       "sub": false,
-      "latin_lemma": "ASTHAROTH, autrement Boſra, ou ſuivant l'Hébreu : [41] Béeſtérah. Joſué XXI. 27.",
+      "latin_lemma": "ASTHAROTH, autrement Bosra, ou suivant l'Hébreu : [41] Béestérah. Josué XXI. 27.",
       "lemma": null,
       "text": ""
     },
     {
       "verse": 72,
       "sub": false,
-      "latin_lemma": "CEDES, la même que Ceſion. Joſué XXI. 28.",
+      "latin_lemma": "CEDES, la même que Cesion. Josué XXI. 28.",
       "lemma": null,
       "text": ""
     },
@@ -276,14 +276,14 @@
     {
       "verse": 73,
       "sub": false,
-      "latin_lemma": "ANEM, autrement Engannim. Joſué XIX. 21. & XXI. 29.",
+      "latin_lemma": "ANEM, autrement Engannim. Josué XIX. 21. et XXI. 29.",
       "lemma": null,
       "text": ""
     },
     {
       "verse": 75,
       "sub": false,
-      "latin_lemma": "HUCAC, ou Helcath. Joſué XXI. 31.",
+      "latin_lemma": "HUCAC, ou Helcath. Josué XXI. 31.",
       "lemma": null,
       "text": ""
     },
@@ -297,16 +297,16 @@
     {
       "verse": 77,
       "sub": false,
-      "latin_lemma": "REMMONO. Dans Joſué, (a) Dimna.",
+      "latin_lemma": "REMMONO. Dans Josué, [44] Dimna.",
       "lemma": null,
       "text": ""
     },
     {
       "verse": 77,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "THABOR CUM SUBURBANIS SUIS.",
       "lemma": "Thabor avec ses faubourgs.",
-      "text": "Il y avait autrefois une ville sur le mont Thabor ; [44] Peut-être que celle-ci est la même que _Céseleth-Thabor_, [45] dans la tribu de Zabulon. On a omis ici deux autres villes de la même tribu, qu'on donna aux fils de Mérari, et dont on trouve les noms dans Josué. [46]"
+      "text": "Il y avait autrefois une ville sur le mont Thabor ; [45] Peut-être que celle-ci est la même que _Céseleth-Thabor_, [46] dans la tribu de Zabulon. On a omis ici deux autres villes de la même tribu, qu'on donna aux fils de Mérari, et dont on trouve les noms dans Josué. [47]"
     }
   ],
   "joins": [
@@ -400,22 +400,22 @@
     {
       "key": "page_0118-a",
       "n": 2,
-      "text": "Voyez notre Differtation ſur la ſucceſſion des Grands-Prêtres."
+      "text": "Voyez notre Differtation sur la succession des Grands-Prêtres."
     },
     {
       "key": "page_0118-b",
       "n": 3,
-      "text": "Ita Lyr. Tir. Cornel. Selden. de ſucceſſ. in Pontific. Hebr."
+      "text": "Ita Lyr. Tir. Cornel. Selden. de success. in Pontific. Hebr."
     },
     {
       "key": "page_0118-c",
       "n": 4,
-      "text": "Voyez ce qui a été dit ſur 1. Reg. XI. 30."
+      "text": "Voyez ce qui a été dit sur 1. Reg. XI. 30."
     },
     {
       "key": "page_0118-d",
       "n": 5,
-      "text": "Voyez le Commentaire ſur 2. Reg. VIII. 17."
+      "text": "Voyez le Commentaire sur 2. Reg. VIII. 17."
     },
     {
       "key": "page_0118-e",
@@ -435,7 +435,7 @@
     {
       "key": "page_0119-b",
       "n": 9,
-      "text": "_Lyr. Vat. Eſt. Grot. Menoch. Tir. alii plerique._"
+      "text": "_Lyr. Vat. Est. Grot. Menoch. Tir. alii plerique._"
     },
     {
       "key": "page_0119-c",
@@ -455,17 +455,17 @@
     {
       "key": "page_0120-b",
       "n": 13,
-      "text": "Num. XXVI. II. Et factum eſt grande miraculum, ut pereunte Core, filii illius non perirent."
+      "text": "Num. XXVI. II. Et factum est grande miraculum, ut pereunte Core, filii illius non perirent."
     },
     {
       "key": "page_0121-a",
       "n": 14,
-      "text": "Exod. VI. 24. _Filii quoque ſCore, Aſer, & Elcana, & Abiaſaph._ το. vel Σαμυὴλ ὁ υἱὸς Θεοῦ Σαὴλ, ἢ Α'βιὰ. Ita Edit. Rom."
+      "text": "Exod. VI. 24. _Filii quoque sCore, Aser, et Elcana, et Abiasaph._ το. vel Σαμυὴλ ὁ υἱὸς Θεοῦ Σαὴλ, ἢ Α'βιὰ. Ita Edit. Rom."
     },
     {
       "key": "page_0121-b",
       "n": 15,
-      "text": "Loco citato. Vide Jan. Piſc. Malv."
+      "text": "Loco citato. Vide Jan. Pisc. Malv."
     },
     {
       "key": "page_0121-c",
@@ -495,7 +495,7 @@
     {
       "key": "page_0122-c",
       "n": 21,
-      "text": "Ci-après ℣. 33. & ſuiv."
+      "text": "Ci-après ℣. 33. et suiv."
     },
     {
       "key": "page_0122-d",
@@ -520,17 +520,17 @@
     {
       "key": "page_0123-c",
       "n": 26,
-      "text": "_Vide 1. Par. xv. 17. 19. xvi. 41. 42. xxv. 1. 4. &c._"
+      "text": "_Vide 1. Par. xv. 17. 19. xvi. 41. 42. xxv. 1. 4. etc._"
     },
     {
       "key": "page_0124-a",
       "n": 27,
-      "text": "I. Par. IX. 16. & XXV. 1. 3. 6. & paſſim in titul. Pſalm."
+      "text": "I. Par. IX. 16. et XXV. 1. 3. 6. et passim in titul. Psalm."
     },
     {
       "key": "page_0125-a",
       "n": 28,
-      "text": "Exod. xxx. 13. 18. & Levit. iv. 35. vL. 17. vii. 5. 25. & paſſim."
+      "text": "Exod. xxx. 13. 18. et Levit. iv. 35. vL. 17. vii. 5. 25. et passim."
     },
     {
       "key": "page_0125-b",
@@ -540,32 +540,32 @@
     {
       "key": "page_0126-a",
       "n": 30,
-      "text": "Num. xxxv. 3. _Urbes ad habitandum, & ſuburbana, ſint pecoribus ac jumentis, quæ à muris civitatum forinſecùs, per circuitum mille paſſuum ſpatio tendentur._"
+      "text": "Num. xxxv. 3. _Urbes ad habitandum, et suburbana, sint pecoribus ac jumentis, quæ à muris civitatum forinsecùs, per circuitum mille passuum spatio tendentur._"
     },
     {
       "key": "page_0126-b",
       "n": 31,
-      "text": "_Vide Joſue_ xx. 7. 8."
+      "text": "_Vide Josue_ xx. 7. 8."
     },
     {
       "key": "page_0127-a",
       "n": 32,
-      "text": "Vide Bonfrer. in Joſue xxi. 13."
+      "text": "Vide Bonfrer. in Josue xxi. 13."
     },
     {
       "key": "page_0127-b",
       "n": 33,
-      "text": "Joſue xxi. 15."
+      "text": "Josue xxi. 15."
     },
     {
       "key": "page_0127-c",
       "n": 34,
-      "text": "Joſue xxi. 25."
+      "text": "Josue xxi. 25."
     },
     {
       "key": "page_0129-a",
       "n": 35,
-      "text": "Joſué XX. 7."
+      "text": "Josué XX. 7."
     },
     {
       "key": "page_0129-b",
@@ -575,12 +575,12 @@
     {
       "key": "page_0129-c",
       "n": 37,
-      "text": "Joſué XXI. 25."
+      "text": "Josué XXI. 25."
     },
     {
       "key": "page_0129-d",
       "n": 38,
-      "text": "Joſué ibid."
+      "text": "Josué ibid."
     },
     {
       "key": "page_0129-e",
@@ -590,7 +590,7 @@
     {
       "key": "page_0129-f",
       "n": 40,
-      "text": "Vide ℣. 61. & 77. hujus cap."
+      "text": "Vide ℣. 61. et 77. hujus cap."
     },
     {
       "key": "page_0130-a",
@@ -600,134 +600,32 @@
     {
       "key": "page_0130-b",
       "n": 42,
-      "text": "Joſué XXI. 29."
+      "text": "Josué XXI. 29."
     },
     {
       "key": "page_0130-c",
       "n": 43,
-      "text": "Joſué XXI. 32."
+      "text": "Josué XXI. 32."
+    },
+    {
+      "key": "page_0131-a",
+      "n": 44,
+      "text": "Josue ℣. 35."
     },
     {
       "key": "page_0131-b",
-      "n": 44,
+      "n": 45,
       "text": "Vide dicta ad Judic. xv. 6."
     },
     {
       "key": "page_0131-c",
-      "n": 45,
-      "text": "Joſue XIX. 12."
+      "n": 46,
+      "text": "Josue XIX. 12."
     },
     {
       "key": "page_0131-d",
-      "n": 46,
-      "text": "Jo,ue XXI. 35. Damna & Saalol."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0117",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0118",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0119",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0120",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0121",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0122",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0123",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0124",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0125",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0126",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0127",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0128",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0129",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0130",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0131",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "n": 47,
+      "text": "Jo,ue XXI. 35. Damna et Saalol."
     }
   ],
   "missing_footnotes": []

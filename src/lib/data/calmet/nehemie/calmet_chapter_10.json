@@ -65,9 +65,9 @@
     },
     {
       "verse": 38,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AD GAZOPHYLACIUM IN DOMUM THESAURI.",
-      "lemma": "Dans la AnduM. maison du trésor.",
+      "lemma": "_Dans la_ AnduM. _maison du trésor._",
       "text": "L'Hébreu: [19] _dans les chambres, dans la maison du trésor._ 3551. Les Hébreux appellent trésor, les lieux, où ils conservent l'or, et l'argent, les fruits, les grains, les huiles; en un mot, tous les lieux, où l'on met quelque chose en réserve."
     }
   ],
@@ -119,7 +119,7 @@
     {
       "key": "page_0080-a",
       "n": 2,
-      "text": "ועל החתומים נחמיה התרשתא. 70. _iidem fere qui &c._"
+      "text": "ועל החתומים נחמיה התרשתא. 70. _iidem fere qui etc._"
     },
     {
       "key": "page_0081-a",
@@ -134,37 +134,37 @@
     {
       "key": "page_0081-c",
       "n": 5,
-      "text": "Vide Sup. VIII. 9 & I. Par. XIX. 10. & 2. Par. XXVI. 5. Ubi מבין ſignificat. qui docet,"
+      "text": "Vide Sup. VIII. 9 et I. Par. XIX. 10. et 2. Par. XXVI. 5. Ubi מבין significat. qui docet,"
     },
     {
       "key": "page_0081-d",
       "n": 6,
-      "text": "Πᾶς ὁ εἰδὼς καὶ συνιὼν ἐπιχόμ ἐπὶ τὰς ἀδελφὰς αὐτῶν. Vide Eſt."
+      "text": "Πᾶς ὁ εἰδὼς καὶ συνιὼν ἐπιχόμ ἐπὶ τὰς ἀδελφὰς αὐτῶν. Vide Est."
     },
     {
       "key": "page_0081-e",
       "n": 7,
-      "text": "Vide Exod. XXIII. 10. 11. Levit. XXV. 2. & ſeq. Deut. XV. 1."
+      "text": "Vide Exod. XXIII. 10. 11. Levit. XXV. 2. et seq. Deut. XV. 1."
     },
     {
       "key": "page_0082-a",
       "n": 8,
-      "text": "Voyez ce qu'on a dit ſur 2. Par. XXXI. 3."
+      "text": "Voyez ce qu'on a dit sur 2. Par. XXXI. 3."
     },
     {
       "key": "page_0082-b",
       "n": 9,
-      "text": "1. Eſdr. VI. 8. 9."
+      "text": "1. Esdr. VI. 8. 9."
     },
     {
       "key": "page_0082-c",
       "n": 10,
-      "text": "1. Eſdr. VII. 21. 22."
+      "text": "1. Esdr. VII. 21. 22."
     },
     {
       "key": "page_0082-d",
       "n": 11,
-      "text": "Exod. XXX. 13. Hoc autem dabit omnis qui tranſit ad nomen, dimidium ſicli juxta menſuram Templi,"
+      "text": "Exod. XXX. 13. Hoc autem dabit omnis qui transit ad nomen, dimidium sicli juxta mensuram Templi,"
     },
     {
       "key": "page_0083-a",
@@ -174,7 +174,7 @@
     {
       "key": "page_0083-b",
       "n": 13,
-      "text": "Vide Joſue IX. 23. Non deficiet de ſtirpe veſtra ligna cædens, aquáſque comportans in domum Dei mei."
+      "text": "Vide Josue IX. 23. Non deficiet de stirpe vestra ligna cædens, aquásque comportans in domum Dei mei."
     },
     {
       "key": "page_0083-c",
@@ -184,7 +184,7 @@
     {
       "key": "page_0083-d",
       "n": 15,
-      "text": "Joſeph lib. 2. de Bello cap. 17."
+      "text": "Joseph lib. 2. de Bello cap. 17."
     },
     {
       "key": "page_0083-e",
@@ -205,57 +205,6 @@
       "key": "page_0085-a",
       "n": 19,
       "text": "[UNCERTAIN HEBREW] אל הלשכות לבית האוצר"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0079",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0080",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0081",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0082",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0083",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0084",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0085",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

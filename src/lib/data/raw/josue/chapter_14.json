@@ -5,7 +5,7 @@
   "verses": [
     {
       "verse_number": 1,
-      "latin": "HOC est quod possederunt filii Israël in terra Chanaan, quod dederunt eis Eleazar Sacerdos & Josué filius Nun, & Principes familiarum per tribus Israël:",
+      "latin": "Hoc est quod possederunt filii Israël in terra Chanaan, quod dederunt eis Eleazar Sacerdos et Josué filius Nun, et Principes familiarum per tribus Israël:",
       "french": "Voici ce que les enfants d'Israël ont possédé dans la terre de Canaan. Eléazar grand prêtre, Josué fils de Nun, et les Princes des familles de chaque tribu d'Israël.",
       "annotations": null,
       "source_pages": [
@@ -14,7 +14,7 @@
     },
     {
       "verse_number": 2,
-      "latin": "Sorte omnia dividentes, sicut præceperat Dominus in manu Moysi, novem tribubus, & dimidiæ tribui.",
+      "latin": "Sorte omnia dividentes, sicut præceperat Dominus in manu Moysi, novem tribubus, et dimidiæ tribui.",
       "french": "En firent le partage par le sort aux neuf tribus, et à la moitié de la tribu de Manassé, comme le Seigneur l'avait ordonné à Moïse.",
       "annotations": null,
       "source_pages": [
@@ -23,7 +23,7 @@
     },
     {
       "verse_number": 3,
-      "latin": "Duabus enim tribubus, & dimidiæ dederat Moyſes trans Jordanem poſſeſſionem : abſque Levitis, qui nihil terræ acceperunt inter fratres ſuos:",
+      "latin": "Duabus enim tribubus, et dimidiæ dederat Moyses trans Jordanem possessionem : absque Levitis, qui nihil terræ acceperunt inter fratres suos:",
       "french": "Car Moïse avait donné aux deux autres tribus, et à une moitié de la tribu de Manassé, des terres au-delà du Jourdain. Les Lévites n'eurent point de part à cette terre qui fut partagée à tous leurs frères.",
       "annotations": "An. 2559.",
       "source_pages": [
@@ -31,17 +31,8 @@
       ]
     },
     {
-      "verse_number": 3,
-      "latin": "Sicut præceperat Dominus Moyſi ; ita fecerunt filii Iſrael, & diviſerunt terram.",
-      "french": "Les enfants d'Israël exécutèrent tout ce que le Seigneur avait ordonné à Moïse, et ils partagèrent la terre.",
-      "annotations": "An. 2559.",
-      "source_pages": [
-        "page_0260.json"
-      ]
-    },
-    {
       "verse_number": 4,
-      "latin": "Sed in eorum ſucceſſerunt locum filii Joſeph in duas diviſi tribus, Manaſſe & Ephraïm : nec acceperunt Levitæ aliam in terra partem, niſi urbes ad habitandum, & ſuburbana earum ad alenda jumenta & pecora ſua.",
+      "latin": "Sed in eorum successerunt locum filii Joseph in duas divisi tribus, Manasse et Ephraïm : nec acceperunt Levitæ aliam in terra partem, nisi urbes ad habitandum, et suburbana earum ad alenda jumenta et pecora sua.",
       "french": "Mais les enfants de Joseph, Manassé et Éphraïm, divisés en deux tribus, succédèrent à leurs places ; et les Lévites n'eurent point d'autre part dans la terre de Canaan, que des villes pour y habiter, avec un terrain autour de ces villes, pour nourrir leurs bêtes et leurs troupeaux.",
       "annotations": null,
       "source_pages": [
@@ -49,8 +40,17 @@
       ]
     },
     {
+      "verse_number": 5,
+      "latin": "Sicut præceperat Dominus Moysi ; ita fecerunt filii Israel, et diviserunt terram.",
+      "french": "Les enfants d'Israël exécutèrent tout ce que le Seigneur avait ordonné à Moïse, et ils partagèrent la terre.",
+      "annotations": "An. 2559.",
+      "source_pages": [
+        "page_0260.json"
+      ]
+    },
+    {
       "verse_number": 6,
-      "latin": "Acceſſerunt itaque filii Juda ad Joſue in Galgala, locutuſque eſt ad eum Caleb filius Jephone Cenezæus : Noſti quid locutus ſit Dominus ad Moyſen hominem Dei de me & te in Cadesbarne.",
+      "latin": "Accesserunt itaque filii Juda ad Josue in Galgala, locutusque est ad eum Caleb filius Jephone Cenezæus : Nosti quid locutus sit Dominus ad Moysen hominem Dei de me et te in Cadesbarne.",
       "french": "Alors les enfants de Juda vinrent trouver Josué à Galgal ; et Caleb fils de Jephoné Cénézéen lui parla de cette sorte : Vous savez ce que le Seigneur dit de moi et de vous à Moïse, homme de Dieu, lorsque nous étions à Cadesbarné.",
       "annotations": "An. 2559.",
       "source_pages": [
@@ -59,7 +59,7 @@
     },
     {
       "verse_number": 7,
-      "latin": "Quadraginta annorum eram quando miſit me Moyſes famulus Domini de Cadesbarne, ut conſiderarem terram, nuntiavique ei quod mihi verum videbatur.",
+      "latin": "Quadraginta annorum eram quando misit me Moyses famulus Domini de Cadesbarne, ut considerarem terram, nuntiavique ei quod mihi verum videbatur.",
       "french": "J'avais quarante ans lorsque Moïse serviteur du Seigneur, m'envoya de Cadesbarné pour reconnaître la Terre ; et je lui fis mon rapport, tel que je le croyais véritable.",
       "annotations": "An. 2559.",
       "source_pages": [
@@ -68,7 +68,7 @@
     },
     {
       "verse_number": 8,
-      "latin": "Fratres autem mei, qui aſcenderant mecum, diſſolverunt cor populi : & nihilominus ego ſecutus ſum Dominum Deum meum.",
+      "latin": "Fratres autem mei, qui ascenderant mecum, dissolverunt cor populi : et nihilominus ego secutus sum Dominum Deum meum.",
       "french": "Mais mes frères qui avaient fait ce voyage avec moi, jetèrent l'épouvante dans le cœur du peuple ; et je ne laissai pas néanmoins de suivre le Seigneur mon Dieu.",
       "annotations": null,
       "source_pages": [
@@ -77,7 +77,7 @@
     },
     {
       "verse_number": 9,
-      "latin": "Juravitque Moyſes in die illo, dicens : terra, quam calcavit pes tuus, erit poſſeſſio tua, & filiorum tuorum in æternum : quia ſecutus es Dominum Deum meum.",
+      "latin": "Juravitque Moyses in die illo, dicens : terra, quam calcavit pes tuus, erit possessio tua, et filiorum tuorum in æternum : quia secutus es Dominum Deum meum.",
       "french": "En ce jour-là Moïse me jura, et me dit : La terre où vous avez mis le pied, sera votre héritage, et l'héritage de vos enfants pour jamais ; parce que vous avez suivi le Seigneur mon Dieu.",
       "annotations": null,
       "source_pages": [
@@ -86,7 +86,7 @@
     },
     {
       "verse_number": 10,
-      "latin": "Conceſſit ergo Dominus vitam mihi, ſicut pollicitus eſt uſque in præſentem diem. Quadraginta & quinque anni ſunt, ex quo locutus eſt Dominus verbum iſtud ad Moyſen, quando ambulabat Iſraël per ſolitudinem : hodie octoginta quinque annorum ſum,",
+      "latin": "Concessit ergo Dominus vitam mihi, sicut pollicitus est usque in præsentem diem. Quadraginta et quinque anni sunt, ex quo locutus est Dominus verbum istud ad Moysen, quando ambulabat Israël per solitudinem : hodie octoginta quinque annorum sum,",
       "french": "Le Seigneur m’a donc conservé la vie jusqu’aujourd’hui, comme il le promit alors. Il y a quarante-cinq ans que le Seigneur dit cette parole à Moïse, dans le temps qu’Israël voyageait dans le désert. J’ai maintenant quatre-vingt-cinq ans;",
       "annotations": "An.2552.",
       "source_pages": [
@@ -95,7 +95,7 @@
     },
     {
       "verse_number": 11,
-      "latin": "Sic valens, ut eo valebam tempore quando ad explorandum miſſus ſum : illius in me temporis fortitudo uſque hodie perſeverat, tam ad bellandum, quàm ad gradiendum.",
+      "latin": "Sic valens, ut eo valebam tempore quando ad explorandum missus sum : illius in me temporis fortitudo usque hodie perseverat, tam ad bellandum, quàm ad gradiendum.",
       "french": "Et je suis aussi fort que j’étais au temps que je fus envoyé pour reconnaître le pays. La même vigueur que j’avais alors m’est demeurée jusqu’aujourd’hui, soit pour combattre, ou pour marcher.",
       "annotations": null,
       "source_pages": [
@@ -104,7 +104,7 @@
     },
     {
       "verse_number": 12,
-      "latin": "Da ergo mihi montem iſtum, quem pollicitus eſt Dominus, te quoque audiente, in quo Enacim ſunt, & urbes magnæ atque munitæ : ſi fortè ſit Dominus mecum, & potuero delere eos, ſicut promiſit mihi.",
+      "latin": "Da ergo mihi montem istum, quem pollicitus est Dominus, te quoque audiente, in quo Enacim sunt, et urbes magnæ atque munitæ : si fortè sit Dominus mecum, et potuero delere eos, sicut promisit mihi.",
       "french": "Donnez-moi donc cette montagne que le Seigneur m’a promise, comme vous l’avez entendu vous-même, sur laquelle il y a des géants et des villes grandes et fortes ; afin que j’éprouve si le Seigneur sera avec moi, et si je pourrai les exterminer, ainsi qu’il me l’a promis.",
       "annotations": null,
       "source_pages": [
@@ -112,8 +112,17 @@
       ]
     },
     {
+      "verse_number": 13,
+      "latin": "Benedixitque ei Josue, et tradidit ei Hebron in possessionem :\n\n",
+      "french": "Josué bénit donc Caleb, et il lui donna Hébron pour son héritage.",
+      "annotations": "An. 2559.",
+      "source_pages": [
+        "page_0264.json"
+      ]
+    },
+    {
       "verse_number": 14,
-      "latin": "Atque ex eo fuit Hebron Caleb filio Jephone Cenezeo uſque in præſentem diem : quia ſecutus eſt Dominum Deum Iſrael.",
+      "latin": "Atque ex eo fuit Hebron Caleb filio Jephone Cenezeo usque in præsentem diem : quia secutus est Dominum Deum Israel.",
       "french": "Et depuis ce temps-là Hébron a été à Caleb fils de Jephoné Cénézéen jusqu'aujourd'hui, parce qu'il suivit le Seigneur le Dieu d'Israël.",
       "annotations": "An. 2559.",
       "source_pages": [
@@ -122,7 +131,7 @@
     },
     {
       "verse_number": 15,
-      "latin": "Nomen Hebron ante vocabatur Cariath Arbe : Adam maximus ibi inter Enacim ſitus eſt : & terra ceſſavit à præliis.",
+      "latin": "Nomen Hebron ante vocabatur Cariath Arbe : Adam maximus ibi inter Enacim situs est : et terra cessavit à præliis.",
       "french": "L'ancien nom d'Hébron était Cariath-Arbé. Et Adam le plus grand des géants de la race d'Anac, y est enterré. Toutes les guerres cessèrent pour lors dans la terre de Chanaan.",
       "annotations": "An.2559.",
       "source_pages": [

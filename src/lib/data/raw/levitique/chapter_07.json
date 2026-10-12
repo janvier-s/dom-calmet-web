@@ -257,29 +257,11 @@
     },
     {
       "verse_number": 29,
-      "latin": "Omnis masculus de genere Sacerdotali, vescetur de carnibus ejus, quia sanctum sanctorum est.",
-      "french": "Tout mâle de la race sacerdotale, mangera de la chair de cette hostie, parce qu'elle est très sainte.",
-      "annotations": null,
-      "source_pages": [
-        "page_0090.json"
-      ]
-    },
-    {
-      "verse_number": 29,
       "latin": "Loquere filiis Israel, dicens : Qui offert victimam pacificorum Domino, offerat simul et sacrificium, id est, libamenta ejus.",
       "french": "Parlez aux enfants d'Israël, et dites-leur : Que celui qui offre au Seigneur une hostie pacifique, lui offre en même temps les offrandes ; c'est-à-dire, les libations, dont elle doit être accompagnée.",
       "annotations": null,
       "source_pages": [
         "page_0099.json"
-      ]
-    },
-    {
-      "verse_number": 30,
-      "latin": "Hostia enim quae caeditur pro peccato, cujus sanguis infertur in Tabernaculum testimonii, ad expiandum in Sanctuario, non comeditur, sed comburetur igni.",
-      "french": "Et on ne mangera pas de l'hostie qui est immolée pour le péché, et dont on porte le sang dans le Tabernacle du témoignage, pour faire l'expiation dans le Sanctuaire; mais elle sera brûlée au feu.",
-      "annotations": null,
-      "source_pages": [
-        "page_0090.json"
       ]
     },
     {
@@ -352,6 +334,14 @@
       "annotations": null,
       "source_pages": [
         "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Quam constituit Dominus, Moysi, in monte Sinaï, quando mandavit filiis Israël, ut offerrent oblationes suas Domino, in deserto Sinaï.",
+      "french": "Le Seigneur donna ces lois à Moyse sur la montagne de Sinaï, losrqu'il ordonna aux enfants d'Israël d'offrir leurs oblations au Seigneur dans le désert de Sinaï.",
+      "source_pages": [
+        "page_0102.json"
       ]
     }
   ]

@@ -51,7 +51,7 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BOS QUIPPE LASCIVIENS PAULULUM INCLINAVERAT EAM.",
       "lemma": "Un des bœufs avait un peu fait pencher l’arche en regimbant.",
       "text": "Il y en a qui traduisent l’Hébreu [14] par : _les bœufs étaient prêts à tomber, ou ils s’étaient enfoncés dans la boue._ Il faut voir ce qu’on a dit sur les Livres des Rois."
@@ -112,7 +112,7 @@
     {
       "key": "page_0189-a",
       "n": 1,
-      "text": "Voyez 2. Reg. v1. 6. juſqu'à la fin, & 1. Par. x1v."
+      "text": "Voyez 2. Reg. v1. 6. jusqu'à la fin, et 1. Par. x1v."
     },
     {
       "key": "page_0190-a",
@@ -127,12 +127,12 @@
     {
       "key": "page_0190-c",
       "n": 4,
-      "text": "Num. xxxv. 3. & ſequ."
+      "text": "Num. xxxv. 3. et sequ."
     },
     {
       "key": "page_0191-a",
       "n": 5,
-      "text": "Vide Joſué XIII. 3."
+      "text": "Vide Josué XIII. 3."
     },
     {
       "key": "page_0191-b",
@@ -142,7 +142,7 @@
     {
       "key": "page_0191-c",
       "n": 7,
-      "text": "Joſué XV. 9. 60."
+      "text": "Josué XV. 9. 60."
     },
     {
       "key": "page_0191-d",
@@ -152,7 +152,7 @@
     {
       "key": "page_0192-a",
       "n": 9,
-      "text": "Pagn. Jun. & Tremell. & Tigur."
+      "text": "Pagn. Jun. et Tremell. et Tigur."
     },
     {
       "key": "page_0192-b",
@@ -183,43 +183,6 @@
       "key": "page_0193-a",
       "n": 15,
       "text": "כִּי פָרַץ יְהוָה פֶּרֶץ בְּעֻזָּא"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0189",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0190",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0191",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0192",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0193",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

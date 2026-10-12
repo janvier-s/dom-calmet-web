@@ -1,11 +1,11 @@
 {
   "book": "2 Rois",
   "chapter": 15,
-  "chapter_summary": "_Azarias est frappé de lèpre ; Joathan son fils gouverne en sa place. Sellum tue Zacharie roi d'Israël, et lui succède ; Manahem succède à Sellum. Il paye un tribut à Phul roi d'Assyrie. Phacéia succède à Manahem. Phacée fils de Romélie tue Phacéia et usurpe le royaume. Teglathphalassar transporte en Assyrie une grande partie des Israélites. Osée succède à Phacée dans le royaume d'Israël ; et Achas succède à Joathan dans le royaume de Juda._",
+  "chapter_summary": "_Azarias est frappé de lèpre ; Joathan son fils gouverne à sa place. Sellum tue Zacharie, roi d'Israël, et lui succède ; Manahem succède à Sellum. Il paie un tribut à Phul, roi d'Assyrie. Phacéia succède à Manahem. Phacée, fils de Romélie, tue Phacéia et usurpe le royaume. Teglathphalassar transporte en Assyrie une grande partie des Israélites. Osée succède à Phacée dans le royaume d'Israël ; et Achas succède à Joathan dans le royaume de Juda._",
   "verses": [
     {
       "verse_number": 1,
-      "latin": "ANno vigeſimo ſeptimo Jeroboam Regis Iſraël, regnavit Azarias filius Amaſiæ Regis Juda.",
+      "latin": "Anno vigesimo septimo Jeroboam Regis Israël, regnavit Azarias filius Amasiæ Regis Juda.",
       "french": "La vingt-septième année de Jéroboam Roi d'Israël, Azarias fils d'Amasias Roi de Juda commença à régner.",
       "annotations": "An du Monde 3194. avant. J. C. 810.",
       "source_pages": [
@@ -14,7 +14,7 @@
     },
     {
       "verse_number": 2,
-      "latin": "Sexdecim annorum erat cùm regnare cœpiſſet, & quinquaginta duobus annis regnavit in Jeruſalem: nomen matris ejus Jechelia de Jeruſalem.",
+      "latin": "Sexdecim annorum erat cùm regnare cœpisset, et quinquaginta duobus annis regnavit in Jerusalem: nomen matris ejus Jechelia de Jerusalem.",
       "french": "Il n'avait que seize ans lorsque son règne commença, et il régna cinquante-deux ans dans Jérusalem : sa mère était de Jérusalem, et s'appelait Jéchelie.",
       "annotations": null,
       "source_pages": [
@@ -23,7 +23,7 @@
     },
     {
       "verse_number": 3,
-      "latin": "Fecitque quod erat placitum coram Domino, juxta omnia quæ fecit Amaſias pater ejus.",
+      "latin": "Fecitque quod erat placitum coram Domino, juxta omnia quæ fecit Amasias pater ejus.",
       "french": "Il fit ce qui était agréable au Seigneur, et il se conduisit en tout comme Amasias son père.",
       "annotations": "An du monde 3174.",
       "source_pages": [
@@ -32,8 +32,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "_Verumtamen excelſa non eſt demolitus : adhuc populus ſacrificabat, & adolebat incenſum in excelſis._",
-      "french": "_4. Il ne ruina pas néanmoins les hauts lieux, et le peuple y sacrifiait et y brûlait de l'encens._",
+      "latin": "Verumtamen excelsa non est demolitus : adhuc populus sacrificabat, et adolebat incensum in excelsis.",
+      "french": "Il ne ruina pas néanmoins les hauts lieux, et le peuple y sacrifiait et y brûlait de l'encens.",
       "annotations": null,
       "source_pages": [
         "page_0202.json"
@@ -41,8 +41,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "_Percuſſit autem Dominus Regem, & fuit leproſus uſque in diem mortis ſuæ, & habitabat in domo libera ſeorſum : Joathan verò filius Regis gubernabat palatium, & judicabat populum terræ._",
-      "french": "_5. Or le Seigneur frappa ce Roi, et il demeura lépreux jusqu'au jour de sa mort : il vivait à part dans une maison écartée : cependant Joathan fils du Roi, était Grand-maître du Palais, et jugeait le peuple._",
+      "latin": "Percussit autem Dominus Regem, et fuit leprosus usque in diem mortis suæ, et habitabat in domo libera seorsum : Joathan verò filius Regis gubernabat palatium, et judicabat populum terræ.",
+      "french": "Or le Seigneur frappa ce Roi, et il demeura lépreux jusqu'au jour de sa mort : il vivait à part dans une maison écartée : cependant Joathan fils du Roi, était Grand-maître du Palais, et jugeait le peuple.",
       "annotations": null,
       "source_pages": [
         "page_0202.json"
@@ -50,7 +50,7 @@
     },
     {
       "verse_number": 6,
-      "latin": "Reliqua autem ſermonum Azariæ, & univerſa quæ fecit, nonne hæc ſcripta ſunt in Libro verborum dierum Regum Juda?",
+      "latin": "Reliqua autem sermonum Azariæ, et universa quæ fecit, nonne hæc scripta sunt in Libro verborum dierum Regum Juda?",
       "french": "Le reste des actions d'Azarias, et tout ce qu'il a fait, est écrit au livre des annales des rois de Juda.",
       "annotations": null,
       "source_pages": [
@@ -59,7 +59,7 @@
     },
     {
       "verse_number": 7,
-      "latin": "Et dormivit Azarias cum patribus ſuis, ſepelieruntque eum cum majoribus ſuis in civitate David, & regnavit Joathan filius ejus pro eo.",
+      "latin": "Et dormivit Azarias cum patribus suis, sepelieruntque eum cum majoribus suis in civitate David, et regnavit Joathan filius ejus pro eo.",
       "french": "Et Azarias s'endormit avec ses pères: il fut enseveli avec ses ancêtres dans la ville de David, et Joathan son fils régna en sa place.",
       "annotations": "An du Monde 3246.",
       "source_pages": [
@@ -86,7 +86,7 @@
     },
     {
       "verse_number": 10,
-      "latin": "Conjuravit autem contra eum Sellum filius Jabes: percussitque eum palam, & interfecit, regnavitque pro eo.",
+      "latin": "Conjuravit autem contra eum Sellum filius Jabes: percussitque eum palam, et interfecit, regnavitque pro eo.",
       "french": "Sellum fils de Jabès fit une conspiration contre lui ; il l'attaqua et le tua publiquement, et il régna à sa place.",
       "annotations": null,
       "source_pages": [
@@ -95,7 +95,7 @@
     },
     {
       "verse_number": 11,
-      "latin": "Reliqua autem verborum Zachariæ, nonne hæc ſcripta ſunt in Libro ſermonum dierum Regum Iſraël?",
+      "latin": "Reliqua autem verborum Zachariæ, nonne hæc scripta sunt in Libro sermonum dierum Regum Israël?",
       "french": "Le reste des actions de Zacharie est écrit au Livre des Annales des Rois d'Israël.",
       "annotations": "An du Monde 3231.",
       "source_pages": [
@@ -104,7 +104,7 @@
     },
     {
       "verse_number": 12,
-      "latin": "Iſte eſt ſermo Domini, quem locutus eſt ad Jehu, dicens : Filii tui uſque ad quartam generationem ſedebunt ſuper thronum Iſraël. Factumque eſt ita.",
+      "latin": "Iste est sermo Domini, quem locutus est ad Jehu, dicens : Filii tui usque ad quartam generationem sedebunt super thronum Israël. Factumque est ita.",
       "french": "Ainsi fut accompli ce que le Seigneur avait dit à Jéhu : Vos enfants seront assis sur le trône d'Israël, jusqu'à la quatrième génération.",
       "annotations": null,
       "source_pages": [
@@ -113,7 +113,7 @@
     },
     {
       "verse_number": 13,
-      "latin": "Sellum filius Jabes regnavit trigeſimo nono anno Azariæ Regis Judæ : regnavit autem uno menſe in Samaria.",
+      "latin": "Sellum filius Jabes regnavit trigesimo nono anno Azariæ Regis Judæ : regnavit autem uno mense in Samaria.",
       "french": "La trente-neuvième année d'Azarias Roi de Juda, Sellum fils de Jabés commença à régner, et il régna un mois seulement à Samarie.",
       "annotations": null,
       "source_pages": [
@@ -122,7 +122,7 @@
     },
     {
       "verse_number": 14,
-      "latin": "Et aſcendit Manahem filius Gadi de Therſa : venitque in Samariam, & percuſſit Sellum filium Jabes in Samaria, & interfecit eum, regnavitque pro eo.",
+      "latin": "Et ascendit Manahem filius Gadi de Thersa : venitque in Samariam, et percussit Sellum filium Jabes in Samaria, et interfecit eum, regnavitque pro eo.",
       "french": "Car Manahem fils de Gadi, étant venu de Thersa à Samarie, attaqua Sellum fils de Jabés, le tua dans la même ville, et régna en sa place.",
       "annotations": null,
       "source_pages": [
@@ -131,7 +131,7 @@
     },
     {
       "verse_number": 15,
-      "latin": "Reliqua autem verborum Sellum, & conjuratio ejus, per quam tetendit insidias, nonne hæc ſcripta ſunt in Libro ſermonum dierum Regum Iſraël?",
+      "latin": "Reliqua autem verborum Sellum, et conjuratio ejus, per quam tetendit insidias, nonne hæc scripta sunt in Libro sermonum dierum Regum Israël?",
       "french": "Le reste des actions de Sellum, et la conspiration qu'il fit pour surprendre le Roi, sont écrits au Livre des Annales des Rois d'Israël.",
       "annotations": "An du Mon de 3253.",
       "source_pages": [
@@ -140,7 +140,7 @@
     },
     {
       "verse_number": 16,
-      "latin": "Tunc percuſſit Manahem Thapsam, & omnes qui erant in ea, & terminos ejus de Therſa; noluerant enim aperire ei; & interfecit omnes prægnantes ejus, & ſcidit eas.",
+      "latin": "Tunc percussit Manahem Thapsam, et omnes qui erant in ea, et terminos ejus de Thersa; noluerant enim aperire ei; et interfecit omnes prægnantes ejus, et scidit eas.",
       "french": "En ce même temps Manahem prit la ville de Thapsa, tua tout ce qui était dedans, et en ruina tout le territoire, jusqu'aux confins de Thersa, parce que les habitants n'avaient pas voulu lui ouvrir les portes; il tua toutes les femmes enceintes, et il leur fendit le ventre.",
       "annotations": null,
       "source_pages": [
@@ -149,7 +149,7 @@
     },
     {
       "verse_number": 17,
-      "latin": "Anno trigesimo nono Azariæ Regis Juda, regnavit Manahem filius Gadi ſuper Iſraël decem annis in Samaria.",
+      "latin": "Anno trigesimo nono Azariæ Regis Juda, regnavit Manahem filius Gadi super Israël decem annis in Samaria.",
       "french": "La trente-neuvième année d'Azarias Roi de Juda, Manahem fils de Gadi commença à régner sur Israël à Samarie, et y régna dix ans.",
       "annotations": null,
       "source_pages": [
@@ -158,7 +158,7 @@
     },
     {
       "verse_number": 18,
-      "latin": "Fecitque quod erat malum coram Domino: non receſſit à peccatis Jeroboam filii Nabat, qui peccare fecit Iſraël cunctis diebus ejus.",
+      "latin": "Fecitque quod erat malum coram Domino: non recessit à peccatis Jeroboam filii Nabat, qui peccare fecit Israël cunctis diebus ejus.",
       "french": "Il fit le mal devant le Seigneur, et il ne se retira point des péchés de Jéroboam fils de Nabat; qui avait fait pécher Israël pendant tout son règne.",
       "annotations": null,
       "source_pages": [
@@ -166,8 +166,17 @@
       ]
     },
     {
+      "verse_number": 19,
+      "latin": "Venibat Phul Rex Assyriorum in terram, et dabat Manahem Phul mille talenta argenti, ut asset ei in auxilium, et firmaret regnum ejus.",
+      "french": "Phul Roi des Assyriens étant venu dans la terre d'Israël, Manahem lui donna mille talents d'argent, afin qu'il le secourût, et qu'il affermît son règne.",
+      "annotations": "An du Monde 3233.",
+      "source_pages": [
+        "page_0208.json"
+      ]
+    },
+    {
       "verse_number": 20,
-      "latin": "Indixitque Manahem argentum ſuper Iſraël cunctis potentibus & divitibus, ut daret Regi Aſſyriorum, quinquaginta ſiclos argenti per ſingulos : reverſuſque eſt Rex Aſſyriorum, & non moratus in terra.",
+      "latin": "Indixitque Manahem argentum super Israël cunctis potentibus et divitibus, ut daret Regi Assyriorum, quinquaginta siclos argenti per singulos : reversusque est Rex Assyriorum, et non moratus in terra.",
       "french": "Manahem leva cet argent dans Israël sur toutes les personnes puissantes et riches, pour le donner au Roi d'Assyrie, et il les taxa à cinquante sicles d'argent par tête : le Roi d'Assyrie retourna aussitôt, et il ne demeura point dans le pays.",
       "annotations": null,
       "source_pages": [
@@ -176,7 +185,7 @@
     },
     {
       "verse_number": 21,
-      "latin": "Reliqua autem ſermonum Manahem, & univerſa quæ fecit, nonne hæc ſcripta ſunt in Libro ſermonum dierum Regum Iſraël?",
+      "latin": "Reliqua autem sermonum Manahem, et universa quæ fecit, nonne hæc scripta sunt in Libro sermonum dierum Regum Israël?",
       "french": "Le reste des actions de Manahem, et tout ce qu'il a fait, est écrit au Livre des Annales des Rois d'Israël.",
       "annotations": null,
       "source_pages": [
@@ -185,7 +194,7 @@
     },
     {
       "verse_number": 22,
-      "latin": "Et dormivit Manahem cum patribus ſuis : regnavitque Phaceia filius ejus pro eo.",
+      "latin": "Et dormivit Manahem cum patribus suis : regnavitque Phaceia filius ejus pro eo.",
       "french": "Manahem s'endormit avec ses pères, et Phaceia son fils régna à sa place.",
       "annotations": null,
       "source_pages": [
@@ -194,7 +203,7 @@
     },
     {
       "verse_number": 23,
-      "latin": "Anno quinquageſimo Azariæ Regis Juda, regnavit Phaceia filius Manahem ſuper Iſraël in Samaria biennio.",
+      "latin": "Anno quinquagesimo Azariæ Regis Juda, regnavit Phaceia filius Manahem super Israël in Samaria biennio.",
       "french": "La cinquantième année d'Azarias Roi de Juda, Phaceia fils de Manahem commença à régner sur Israël à Samarie, et y régna deux ans.",
       "annotations": null,
       "source_pages": [
@@ -203,7 +212,7 @@
     },
     {
       "verse_number": 24,
-      "latin": "Et fecit quod erat malum coram Domino; non receſſit à peccatis Jeroboam filii Nabat, qui peccare fecit Iſraël.",
+      "latin": "Et fecit quod erat malum coram Domino; non recessit à peccatis Jeroboam filii Nabat, qui peccare fecit Israël.",
       "french": "Il fit le mal devant le Seigneur, et il ne se retira point des péchés de Jéroboam fils de Nabat, qui avait fait pécher Israël.",
       "annotations": null,
       "source_pages": [
@@ -212,7 +221,7 @@
     },
     {
       "verse_number": 25,
-      "latin": "Conjuravit autem adverſus eum Phacee filius Romeliæ, Dux ejus, & percuſſit eum in Samaria in turre domûs Regiæ, juxta Argob, & juxta Arie, & cum eo quinquaginta viros de filiis Galaaditarum, & interfecit eum, regnavitque pro eo.",
+      "latin": "Conjuravit autem adversus eum Phacee filius Romeliæ, Dux ejus, et percussit eum in Samaria in turre domûs Regiæ, juxta Argob, et juxta Arie, et cum eo quinquaginta viros de filiis Galaaditarum, et interfecit eum, regnavitque pro eo.",
       "french": "Phacée fils de Romelie, Général de ses troupes, fit une conspiration contre lui ; il l’attaqua à Samarie dans la tour de la maison Royale, près d’Argob et d’Arié, et cinquante hommes des Galaadites qui étaient avec lui, et il le tua, et régna en sa place.",
       "annotations": "An du Monde 3245. avant J. C. 749.",
       "source_pages": [
@@ -221,7 +230,7 @@
     },
     {
       "verse_number": 26,
-      "latin": "Reliqua autem ſermonum Phaceïa, & univerſa quæ fecit, nonne hæc ſcripta ſunt in Libro ſermonum dierum Regum Iſraël?",
+      "latin": "Reliqua autem sermonum Phaceïa, et universa quæ fecit, nonne hæc scripta sunt in Libro sermonum dierum Regum Israël?",
       "french": "Le reste des actions de Phaceïa, et tout ce qu’il a fait, est écrit au Livre des Annales des Rois d’Israël.",
       "annotations": null,
       "source_pages": [
@@ -230,7 +239,7 @@
     },
     {
       "verse_number": 27,
-      "latin": "Anno quinquageſimo ſecundo Azariæ Regis Juda, regnavit Phacee filius Romeliæ ſuper Iſraël in Samaria viginti annis.",
+      "latin": "Anno quinquagesimo secundo Azariæ Regis Juda, regnavit Phacee filius Romeliæ super Israël in Samaria viginti annis.",
       "french": "La cinquante-deuxième année d’Azarias Roi de Juda, Phacée fils de Romelie régna dans Israël à Samarie pendant vingt ans.",
       "annotations": null,
       "source_pages": [
@@ -239,7 +248,7 @@
     },
     {
       "verse_number": 28,
-      "latin": "Et fecit quod erat malum coram Domino : non receſſit à peccatis Jeroboam filii Nabat, qui peccare fecit Iſraël.",
+      "latin": "Et fecit quod erat malum coram Domino : non recessit à peccatis Jeroboam filii Nabat, qui peccare fecit Israël.",
       "french": "Il fit le mal devant le Seigneur, et il ne se retira point des péchés de Jéroboam fils de Nabat, qui avait fait pécher Israël.",
       "annotations": null,
       "source_pages": [
@@ -248,16 +257,7 @@
     },
     {
       "verse_number": 29,
-      "latin": "_Venibat Phul Rex Aſſyriorum in terram, & dabat Manahem Phul mille talenta argenti, ut aſſet ei in auxilium, & firmaret regnum ejus._",
-      "french": "19. Phul Roi des Assyriens étant venu dans la terre d'Israël, Manahem lui donna mille talents d'argent, afin qu'il le secourût, et qu'il affermît son règne.",
-      "annotations": "An du Monde 3233.",
-      "source_pages": [
-        "page_0208.json"
-      ]
-    },
-    {
-      "verse_number": 29,
-      "latin": "In diebus Phacee Regis Iſraël venit Teglathphalaſſar Rex Aſſur, & cepit Aion & Abel-Domum Maacha, & Janoë, & Cedes, & Aſor, & Galaad, & Galilæam, & univerſam terram Nephthali: & tranſtulit eos in Aſſyrios.",
+      "latin": "In diebus Phacee Regis Israël venit Teglathphalassar Rex Assur, et cepit Aion et Abel-Domum Maacha, et Janoë, et Cedes, et Asor, et Galaad, et Galilæam, et universam terram Nephthali: et transtulit eos in Assyrios.",
       "french": "Pendant le règne de Phacée roi d'Israël, Teglathphalassar roi des Assyriens vint en Israël, et prit Aion et Abel-Maison de Maacha, et Janoé, Cedés, Azor, Galaad, la Galilée, et tout le pays de Nephtali, et en transporta tous les habitants en Assyrie.",
       "annotations": "An. du Monde 3245.",
       "source_pages": [
@@ -266,7 +266,7 @@
     },
     {
       "verse_number": 30,
-      "latin": "Conjuravit autem, & extendit insidias Oſée filius Ela, contra Phacée filium Romeliæ, & percuſſit eum, & interfecit : regnavitque pro eo, vigesimo anno Joathan filii Oziæ.",
+      "latin": "Conjuravit autem, et extendit insidias Osée filius Ela, contra Phacée filium Romeliæ, et percussit eum, et interfecit : regnavitque pro eo, vigesimo anno Joathan filii Oziæ.",
       "french": "Mais Osée fils d'Ela fit une conspiration contre Phacée fils de Romélie pour le surprendre ; il l'attaqua, le tua, et régna à sa place, la vingtième année de Joathan fils d'Ozias.",
       "annotations": "An du Monde 3245. avant J. C. 749.",
       "source_pages": [
@@ -275,7 +275,7 @@
     },
     {
       "verse_number": 31,
-      "latin": "Reliqua autem ſermonum Phacée, & univerſa quæ fecit, nanne hæc ſcripta ſunt in Libro ſermonum dierum Regum Iſraël ?",
+      "latin": "Reliqua autem sermonum Phacée, et universa quæ fecit, nanne hæc scripta sunt in Libro sermonum dierum Regum Israël ?",
       "french": "Le reste des actions de Phacée, et tout ce qu'il a fait, est écrit au Livre des Annales des Rois d'Israël.",
       "annotations": null,
       "source_pages": [
@@ -284,7 +284,7 @@
     },
     {
       "verse_number": 32,
-      "latin": "Anno ſecundo Phacee filii Romeliæ Regis Iſraël, regnavit Joathan filius Oziæ Regis Juda.",
+      "latin": "Anno secundo Phacee filii Romeliæ Regis Israël, regnavit Joathan filius Oziæ Regis Juda.",
       "french": "La seconde année de Phacée fils de Romélie Roi d'Israël, Joathan fils d'Ozias Roi de Juda commença à régner.",
       "annotations": "An du Monde 3245. avant J. C. 748.",
       "source_pages": [
@@ -293,7 +293,7 @@
     },
     {
       "verse_number": 33,
-      "latin": "Viginti quinque annorum erat cùm regnare cœpiſſet, & ſexdecim annis regnavit in Jeruſalem : nomen matris ejus Jeruſa filia Sadoc.",
+      "latin": "Viginti quinque annorum erat cùm regnare cœpisset, et sexdecim annis regnavit in Jerusalem : nomen matris ejus Jerusa filia Sadoc.",
       "french": "Il avait vingt-cinq ans lorsque son règne commença, et il régna dans Jérusalem pendant seize ans : sa mère s'appelait Jérusa, et était fille de Sadoc.",
       "annotations": null,
       "source_pages": [
@@ -302,7 +302,7 @@
     },
     {
       "verse_number": 34,
-      "latin": "Fecitque quod erat placitum coram Domino : juxta omnia quæ fecerat Ozias pater ſuus, operatus eſt.",
+      "latin": "Fecitque quod erat placitum coram Domino : juxta omnia quæ fecerat Ozias pater suus, operatus est.",
       "french": "Il fit ce qui était agréable au Seigneur, et se conduisit en tout comme avait fait Ozias son père.",
       "annotations": null,
       "source_pages": [
@@ -311,7 +311,7 @@
     },
     {
       "verse_number": 35,
-      "latin": "Verumtamen excelſa non abſtulit : adhuc populus immolabat, & adolebat incenſum in excelſis. Ipſe ædificavit portam domûs Domini ſublimiſſimam.",
+      "latin": "Verumtamen excelsa non abstulit : adhuc populus immolabat, et adolebat incensum in excelsis. Ipse ædificavit portam domûs Domini sublimissimam.",
       "french": "Il ne détruisit pas néanmoins les hauts lieux ; car le peuple y sacrifiait encore et y brûlait de l'encens. Ce fut lui qui bâtit la plus haute porte de la maison du Seigneur.",
       "annotations": "An du monde 3246.",
       "source_pages": [
@@ -320,7 +320,7 @@
     },
     {
       "verse_number": 36,
-      "latin": "Reliqua autem ſermonum Joathan, & univerſa quæ fecit, nonne hæc ſcripta ſunt in Libro verborum dierum Regum Juda?",
+      "latin": "Reliqua autem sermonum Joathan, et universa quæ fecit, nonne hæc scripta sunt in Libro verborum dierum Regum Juda?",
       "french": "Le reste des actions de Joathan, et tout ce qu'il a fait, est écrit au Livre des Annales des Rois de Juda.",
       "annotations": null,
       "source_pages": [
@@ -329,7 +329,7 @@
     },
     {
       "verse_number": 37,
-      "latin": "In diebus illis cœpit Dominus mittere in Judam Raſin Regem Syriæ, & Phacee filium Romeliæ.",
+      "latin": "In diebus illis cœpit Dominus mittere in Judam Rasin Regem Syriæ, et Phacee filium Romeliæ.",
       "french": "En ce même temps le Seigneur commença à envoyer contre Juda, Rasin roi de Syrie, et Phacée fils de Romélie.",
       "annotations": null,
       "source_pages": [
@@ -338,7 +338,7 @@
     },
     {
       "verse_number": 38,
-      "latin": "Et dormivit Joathan cum patribus ſuis, ſepultuſque eſt cum eis in civitate David patris ſui, & regnavit Achaz filius ejus pro eo.",
+      "latin": "Et dormivit Joathan cum patribus suis, sepultusque est cum eis in civitate David patris sui, et regnavit Achaz filius ejus pro eo.",
       "french": "Joathan s'endormit avec ses pères ; il fut enseveli avec eux dans la ville de David son père, et Achaz son fils régna à sa place.",
       "annotations": null,
       "source_pages": [

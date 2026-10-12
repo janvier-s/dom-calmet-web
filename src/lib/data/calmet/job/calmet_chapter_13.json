@@ -23,7 +23,7 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BACII, ET CULTORES PERVERSORUM DOGMATUM.",
       "lemma": "En faisant voir auparavant que vous êtes des fabricateurs de mensonge, et des défenseurs d'une doctrine corrompue. Voilà ce que Job prie Dieu de lui permettre de montrer en sa présence. Il le prie d'être Juge entre lui, et ses amis, qu'il accuse de mensonge, et d'erreur.",
       "text": "L'Hébreu : [3] _Que je puisse montrer que vous êtes tous des couturiers de mensonge, et des médecins de rien._ Le premier terme se peut prendre pour des menteurs, qui savent déguiser, et donner de la couleur à leurs faussetés. Ou, en prenant le terme de _coudre_, dans un sens figuré, par allusion à de mal-habiles chirurgiens, qui referment mal une plaie : _vous êtes des couturiers de mensonge_ ; pour imiter les mauvais chirurgiens, qui au lieu de fermer, de coudre la plaie, la rouvrent, et l'augmentent. C'est ainsi que les Septante l'ont pris : [4] _Vous êtes tous des médecins d'injustices, et des guérisseurs de mal_ ; ou, de mauvais médecins."
@@ -32,7 +32,7 @@
       "verse": 5,
       "sub": false,
       "latin_lemma": "ATQUE UTINAM TACERETIS.",
-      "lemma": "Plût à Dieu que vous demeurassiez dans le silence ; ou plutôt, que vous y fussiez demeurés.",
+      "lemma": "_Plût à Dieu que vous demeurassiez dans le silence_ ; ou plutôt, que vous y fussiez demeurés.",
       "text": "Je n'aurais pas été dans la peine de vous réfuter, et de montrer que vous n'êtes rien moins que ce que l'on vous croit : _Ut putaremini esse sapientes._ Cette pensée de Job est presque la même que cette Sentence de Salomon : [5] _Si l'insensé se tait, il passera pour sage ; et s'il ferme les lèvres, il passera pour prudent._"
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "REDIGENTUR IN LUTUM CERVICES VESTRÆ.",
       "lemma": "Vos têtes superbes ne seront plus que comme de la boue.",
       "text": "L'Hébreu :[17] _Vos hauteurs seront des hauteurs de boue._ Tout ce qui vous flatte le plus dans vous-mêmes, se dissipera comme de la boue. Les Septante rendent ainsi tout ce verset :[18] _Votre gloire se dissipera comme la cendre, et votre corps n'est que boue._ Grotius : _Vos forteresses seront comme des forteresses de terre, sans solidité, et sans consistance._"
@@ -149,7 +149,7 @@
     },
     {
       "verse": 26,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VESTIGIA PEDUM MEORUM CONSIDERASTI.",
       "lemma": "Vous avez considéré toutes les traces de mes pieds.",
       "text": "L’Hébreu :[31] _Les ceps ont laissé leurs marques sur la racine de mes pieds ; sur le haut du pied, et au bas de la jambe_. C’est en cet endroit que les entraves embrassaient les pieds des prisonniers. Le Chaldéen : _Vous avez marqué, et comme scellé toutes mes traces_. Les Septante :[32] _Vous avez suivi les racines de mes pieds_. Vous m’avez comme suivi à la piste."
@@ -159,7 +159,7 @@
       "sub": false,
       "latin_lemma": "QUASI PUTREDO.",
       "lemma": "Je ne serai que pourriture.",
-      "text": "L’Hébreu (a) se peut traduire par, _un outre_, un vase de peau où l'on met des liqueurs. Les Septante, et le Chaldéen l'ont pris en ce sens. Je serai réduit en l'état d'un vieux vase de peaux. Symmaque, _comme un vieil ulcère._"
+      "text": "L’Hébreu [33] se peut traduire par, _un outre_, un vase de peau où l'on met des liqueurs. Les Septante, et le Chaldéen l'ont pris en ce sens. Je serai réduit en l'état d'un vieux vase de peaux. Symmaque, _comme un vieil ulcère._"
     }
   ],
   "joins": [
@@ -224,7 +224,7 @@
       "verse": 28,
       "mode": "flow",
       "before": "L’Hébreu",
-      "after": "(a) se peut traduire par, _un outre_, un vase de peau où l"
+      "after": "^{(a)} se peut traduire par, _un outre_, un vase de peau o"
     }
   ],
   "pages_used": [
@@ -253,12 +253,12 @@
     {
       "key": "page_0192-a",
       "n": 3,
-      "text": "[UNCERTAIN HEBREW] _regi imitatores mendacii, & medici inutiles._"
+      "text": "[UNCERTAIN HEBREW] _regi imitatores mendacii, et medici inutiles._"
     },
     {
       "key": "page_0192-b",
       "n": 4,
-      "text": "[UNCERTAIN GREEK] _Omnes estis medici injuſti, & curatores mali._ Sym. _Negotioſi medici._"
+      "text": "[UNCERTAIN GREEK] _Omnes estis medici injusti, et curatores mali._ Sym. _Negotiosi medici._"
     },
     {
       "key": "page_0192-c",
@@ -268,12 +268,12 @@
     {
       "key": "page_0192-d",
       "n": 6,
-      "text": "[UNCERTAIN HEBREW] _Ad verba reprehenſionis meæ._"
+      "text": "[UNCERTAIN HEBREW] _Ad verba reprehensionis meæ._"
     },
     {
       "key": "page_0193-a",
       "n": 7,
-      "text": "[UNCERTAIN HEBREW] _Symm. Κρὶνεσθε τῷ Θεῷ λαλεῖτε. Parlez-vous pour Dieu, pour ſa défenſe ?_"
+      "text": "[UNCERTAIN HEBREW] _Symm. Κρὶνεσθε τῷ Θεῷ λαλεῖτε. Parlez-vous pour Dieu, pour sa défense ?_"
     },
     {
       "key": "page_0193-b",
@@ -283,7 +283,7 @@
     {
       "key": "page_0193-c",
       "n": 9,
-      "text": "[UNCERTAIN HEBREW] _Hebra. apud H. Corruptum, opinor, & legendum ut Symmachus & Theodot._"
+      "text": "[UNCERTAIN HEBREW] _Hebra. apud H. Corruptum, opinor, et legendum ut Symmachus et Theodot._"
     },
     {
       "key": "page_0193-d",
@@ -343,17 +343,17 @@
     {
       "key": "page_0196-b",
       "n": 21,
-      "text": "_Vide Philipp Bedam, Dionyſ. & Pſeudo-Ieronym. Torquentibus illum non minis ſeu cruciatibus, manus vel labia ſua dentibus lacerabat._"
+      "text": "_Vide Philipp Bedam, Dionys. et Pseudo-Ieronym. Torquentibus illum non minis seu cruciatibus, manus vel labia sua dentibus lacerabat._"
     },
     {
       "key": "page_0196-c",
       "n": 22,
-      "text": "Voyez Iſu. XLIX 26. Prov. v. 11. Eccl. IV. 5. _Unde & illud Pythagoræ. Καρδίαν μὴ ἐσθίειν._ Ne pas manger ſon coeur."
+      "text": "Voyez Isu. XLIX 26. Prov. v. 11. Eccl. IV. 5. _Unde et illud Pythagoræ. Καρδίαν μὴ ἐσθίειν._ Ne pas manger son coeur."
     },
     {
       "key": "page_0196-d",
       "n": 23,
-      "text": "_Iud. c._ XII. 3. I. Reg. XIX 5. XXVIII. 21. Pſal. CXVIII. 109."
+      "text": "_Iud. c._ XII. 3. I. Reg. XIX 5. XXVIII. 21. Psal. CXVIII. 109."
     },
     {
       "key": "page_0196-e",
@@ -368,7 +368,7 @@
     {
       "key": "page_0197-a",
       "n": 26,
-      "text": "Ou, _ſa ſubtilité, ſa fineſſe._ Hebr. מִרְמָה לֹא תָבוֹא לְפָנָיו."
+      "text": "Ou, _sa subtilité, sa finesse._ Hebr. מִרְמָה לֹא תָבוֹא לְפָנָיו."
     },
     {
       "key": "page_0197-b",
@@ -399,78 +399,11 @@
       "key": "page_0199-d",
       "n": 32,
       "text": "Εἰς δὲ ρίζας ποδῶν μου ἀφίκου."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0191",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     },
     {
-      "page": "page_0192",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0193",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0194",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0195",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0196",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0197",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0198",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0199",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0200",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "key": "page_0200-a",
+      "n": 33,
+      "text": "כדקא יכלח סך. Παλαιότηι ίνα ίση. Sym. Ομοίως σαπιδίαι παλαιωμένω."
     }
   ],
   "missing_footnotes": []

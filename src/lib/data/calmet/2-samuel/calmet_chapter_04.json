@@ -37,7 +37,7 @@
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET OSTIARIA DOMUS PURGANS TRITICUM OBDORMIVIT.",
       "lemma": "La femme qui gardait la porte de la maison, s'était endormie, en nettoyant du blé.",
       "text": "Il n'y a rien de tout cela dans l'Hébreu, ni dans les anciens Manuscrits de la Version de saint Jérôme. [8] C'est une addition tirée des Septante, qui ont mal entendu le Texte. Ce qui a donné lieu à cette addition, c'est qu'au ℣. suivant, on lit que Baana et Réchab prirent des épis de blé, en entrant chez le Roi. On a cru qu'ils les avaient pris à la porte, pendant que la portière s'était endormie. Ou plutôt, les Septante ont expliqué le Texte Hébreu, _prenant du froment_, comme s'il marquait, _nettoyant, choi-_ sassant du froment. Tout cela nous donne une idée de la simplicité de ces anciens temps. C’était assez la coutume d’avoir des femmes à la porte pour portières. Il y en avait qui veillaient à la porte du Tabernacle du Seigneur. [9] La portière du Prince des Prêtres des Juifs est célèbre dans l’Évangile, [10] par ce qu’elle dit à S. Pierre. On occupait quelquefois les portiers à nettoyer du blé, ou des pois. [11] _In aditu ipso stabat ostiarius præsinatus, cerasino succinctus cingulo, atque in lance argentea pisum purgabat._"
@@ -58,7 +58,7 @@
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ABIERUNT PER VIAM DESERTI TOTA NOCTE.",
       "lemma": "Ayant marché toute la nuit par le chemin du désert.",
       "text": "Ils évitèrent les routes fréquentes, pour n'être pas découverts. De Mahanaïm à Hébron, il y a environ quarante lieues. Ils ne purent faire ce chemin en une nuit : aussi l'Écriture ne le dit pas ; elle ne nie pas que ces meurtriers n'aient continué leur marche le jour suivant."
@@ -123,7 +123,7 @@
     {
       "key": "page_0040-b",
       "n": 3,
-      "text": "Vide Sup. in Judic. XI. 3. & Plaut. Milite glorioso, act. I. scen. I."
+      "text": "Vide Sup. in Judic. XI. 3. et Plaut. Milite glorioso, act. I. scen. I."
     },
     {
       "key": "page_0040-c",
@@ -133,7 +133,7 @@
     {
       "key": "page_0041-a",
       "n": 5,
-      "text": "2. Eſdr XI. 33. Aſor, Rama, Gethaim."
+      "text": "2. Esdr XI. 33. Asor, Rama, Gethaim."
     },
     {
       "key": "page_0041-b",
@@ -143,7 +143,7 @@
     {
       "key": "page_0041-c",
       "n": 7,
-      "text": "Varro lib. 3. de Re Ruſt. c. 1."
+      "text": "Varro lib. 3. de Re Rust. c. 1."
     },
     {
       "key": "page_0041-d",
@@ -153,7 +153,7 @@
     {
       "key": "page_0042-a",
       "n": 9,
-      "text": "Vide Exod. XXXVI. 8. & I. Reg. II. 22."
+      "text": "Vide Exod. XXXVI. 8. et I. Reg. II. 22."
     },
     {
       "key": "page_0042-b",
@@ -173,7 +173,7 @@
     {
       "key": "page_0042-e",
       "n": 13,
-      "text": "Ita Jonath. וַיָּבֹאוּ עַד־תּוֹךְ הַבַּיִת Ita & Pag. Tir. Vat. Eſt. Menoch. Munſt. Caſt. Oſiand. &c."
+      "text": "Ita Jonath. וַיָּבֹאוּ עַד־תּוֹךְ הַבַּיִת Ita et Pag. Tir. Vat. Est. Menoch. Munst. Cast. Osiand. etc."
     },
     {
       "key": "page_0042-f",
@@ -199,50 +199,6 @@
       "key": "page_0044-a",
       "n": 18,
       "text": "Vide Xenophon. Anabas. lib. 3. Plutarch. in Cyro."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0039",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0040",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0041",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0042",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0043",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0044",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

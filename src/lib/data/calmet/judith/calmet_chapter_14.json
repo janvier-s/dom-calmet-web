@@ -30,7 +30,7 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "USQUE IN HODIENUM DIEM.",
       "lemma": "Jusqu'aujourd'hui.",
       "text": "On ne sait pas exactement en quel temps ce Livre a été écrit. Je croirais que ce fut ou pendant, ou après la captivité de Babylone. Voyez la Préface. Ce qui est certain, c'est que du temps de l'Écrivain, on voyait encore la race d'Achior dans Israël."
@@ -106,12 +106,12 @@
     {
       "key": "page_0139-a",
       "n": 1,
-      "text": "Δώσετε ἀρχηγὸν εἰς αὐτὲς, ὡς καλαβαινοντες ἐπὶ τὸ πεδίον εἰς τὴν προφυλακὴν ὑμῶν Ασσυρ, καὶ ὅ καλαβήσεσι. Vous mettrez un chef à la tête de la troupe de ceux qui feront la ſortie, &c. L'ancienne Vulgate lit : _Date in illos priores impetum ſicut deſcendentes ad bellum_, &c."
+      "text": "Δώσετε ἀρχηγὸν εἰς αὐτὲς, ὡς καλαβαινοντες ἐπὶ τὸ πεδίον εἰς τὴν προφυλακὴν ὑμῶν Ασσυρ, καὶ ὅ καλαβήσεσι. Vous mettrez un chef à la tête de la troupe de ceux qui feront la sortie, etc. L'ancienne Vulgate lit : _Date in illos priores impetum sicut descendentes ad bellum_, etc."
     },
     {
       "key": "page_0140-a",
       "n": 2,
-      "text": "(a) Virgil. _Æneid._ xij. Et Diis communibus partes non habent, ſed generaliter à cunctis coluntur. Grammaticus. Serv. Dii communes ſunt qui à cunctis Græcis & Latinis coluntur, id eſt, qui cæli certas"
+      "text": " Virgil. _Æneid._ xij. Et Diis communibus partes non habent, sed generaliter à cunctis coluntur. Grammaticus. Serv. Dii communes sunt qui à cunctis Græcis et Latinis coluntur, id est, qui cæli certas"
     },
     {
       "key": "page_0141-a",
@@ -131,7 +131,7 @@
     {
       "key": "page_0141-d",
       "n": 6,
-      "text": "Grotius hic. Oſtenditur magnus Ammonitæ fervor pro Lege Dei, quod populo ſatis contempto ſe aggregaverit, in quo ipſe poſterique ejus nihil aliud quàm Dei favorem ſperare poterant, ab honoribus & connubiis excluſi."
+      "text": "Grotius hic. Ostenditur magnus Ammonitæ fervor pro Lege Dei, quod populo satis contempto se aggregaverit, in quo ipse posterique ejus nihil aliud quàm Dei favorem sperare poterant, ab honoribus et connubiis exclusi."
     },
     {
       "key": "page_0141-e",
@@ -152,50 +152,6 @@
       "key": "page_0143-b",
       "n": 10,
       "text": "Herodot. lib. I. cap 99."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0139",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0140",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0141",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0142",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0143",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0144",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": [

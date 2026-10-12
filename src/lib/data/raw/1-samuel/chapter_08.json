@@ -1,12 +1,12 @@
 {
   "book": "1 Samuel",
   "chapter": 8,
-  "chapter_summary": "Les enfans de Samuël se laissent corrompre par l'avarice. Le peuple las du gouvernement des Juges, demande un Roy. Samuël leur représente le droit du Roi. Le peuple persiste dans sa résolution.",
+  "chapter_summary": "Les enfants de Samuël se laissent corrompre par l'avarice. Le peuple las du gouvernement des Juges, demande un Roi. Samuël leur représente le droit du Roi. Le peuple persiste dans sa résolution.",
   "verses": [
     {
       "verse_number": 1,
       "latin": "Factum est autem cùm senuisset Samuël, posuit filios suos judices Israël.",
-      "french": "Samuël étant devenu vieux, établit ses enfans pour Juges sur Israël.",
+      "french": "Samuël étant devenu vieux, établit ses enfants pour Juges sur Israël.",
       "annotations": "An. du Monde 2908. avant J.C. 1096.",
       "source_pages": [
         "page_0172.json"
@@ -14,8 +14,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Fuitque nomen filii ejus primogeniti Joël : & nomen secundi Abia, judicum in Bersabée.",
-      "french": "Son fils aîné s'appellait Joël, et le second Abia. Ils exerçaient la charge de Juges dans Bersabée.",
+      "latin": "Fuitque nomen filii ejus primogeniti Joël : et nomen secundi Abia, judicum in Bersabée.",
+      "french": "Son fils aîné s'appelait Joël, et le second Abia. Ils exerçaient la charge de Juges dans Bersabée.",
       "annotations": null,
       "source_pages": [
         "page_0172.json"
@@ -23,8 +23,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Et non ambulaverunt filii illius in viis ejus : ſed declinaverunt poſt avaritiam, acceperúntque munera, & perverterunt judicium.",
-      "french": "Mais ils ne marchèrent point sur ses traces; ils se laissèrent corrompre par l'avarice ; reçûrent des présens, et rendirent des jugemens injustes.",
+      "latin": "Et non ambulaverunt filii illius in viis ejus : sed declinaverunt post avaritiam, acceperúntque munera, et perverterunt judicium.",
+      "french": "Mais ils ne marchèrent point sur ses traces; ils se laissèrent corrompre par l'avarice ; reçurent des présents, et rendirent des jugements injustes.",
       "annotations": "An. du Monde 2909.",
       "source_pages": [
         "page_0173.json"
@@ -32,8 +32,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Congregati ergo univerſi majores natu Iſraël, venerunt ad Samüelem in Ramatha.",
-      "french": "Tous les Anciens d'Israël s'étant donc assemblez, vinrent trouver Samuël à Ramatha.",
+      "latin": "Congregati ergo universi majores natu Israël, venerunt ad Samüelem in Ramatha.",
+      "french": "Tous les Anciens d'Israël s'étant donc assemblés, vinrent trouver Samuël à Ramatha.",
       "annotations": null,
       "source_pages": [
         "page_0173.json"
@@ -41,8 +41,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Dixerúntque ei : Ecce nunc ſenuiſti, & filii tui non ambulant in viis tuis : conſtitue nobis Regem, ut judicet nos, ſicut & univerſæ habent nationes.",
-      "french": "Et lui dirent : Vous voyez que vous êtes devenu vieux, et que vos enfans ne marchent point dans vos voyes. Etablissez donc sur nous un Roi, comme en ont toutes les nations, afin qu'il nous juge.",
+      "latin": "Dixerúntque ei : Ecce nunc senuisti, et filii tui non ambulant in viis tuis : constitue nobis Regem, ut judicet nos, sicut et universæ habent nationes.",
+      "french": "Et lui dirent : Vous voyez que vous êtes devenu vieux, et que vos enfants ne marchent point dans vos voies. Établissez donc sur nous un Roi, comme en ont toutes les nations, afin qu'il nous juge.",
       "annotations": null,
       "source_pages": [
         "page_0173.json"
@@ -50,8 +50,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "_Diſplicuit ſermo in oculis Samuëlis, eò quòd dixiſſent : Da nobis Regem ut judicet nos. Et oravit Samuël ad Dominum._",
-      "french": "_Cette proposition déplut à Samuël, voyant qu'ils lui disaient : Donnez-nous un Roi, afin qu'il nous juge. Il s'adressa à Dieu par la priére._",
+      "latin": "Displicuit sermo in oculis Samuëlis, eò quòd dixissent : Da nobis Regem ut judicet nos. Et oravit Samuël ad Dominum.",
+      "french": "Cette proposition déplut à Samuël, voyant qu'ils lui disaient : Donnez-nous un Roi, afin qu'il nous juge. Il s'adressa à Dieu par la prière.",
       "annotations": "An. du Monde 2909.",
       "source_pages": [
         "page_0174.json"
@@ -59,7 +59,7 @@
     },
     {
       "verse_number": 7,
-      "latin": "Dixit autem Dominus ad Samuëlem : Audi vocem populi in omnibus quæ loquuntur tibi ; non enim te abjecerunt : ſed me, ne regnem ſuper eos.",
+      "latin": "Dixit autem Dominus ad Samuëlem : Audi vocem populi in omnibus quæ loquuntur tibi ; non enim te abjecerunt : sed me, ne regnem super eos.",
       "french": "Et le Seigneur lui dit : Ecoutez la voix de ce peuple dans tout ce qu'ils vous disent ; car ce n'est point vous, mais c'est moi qu'ils rejettent, afin que je ne regne point sur eux.",
       "annotations": "An. du Monde 2909.",
       "source_pages": [
@@ -68,7 +68,7 @@
     },
     {
       "verse_number": 8,
-      "latin": "Juxta omnia opera ſua, quæ fecerunt à die quâ eduxi eos de Ægypto, uſque ad diem hanc : ſicut dereliquerunt me, & ſervierunt diis alienis, ſic faciunt etiam tibi.",
+      "latin": "Juxta omnia opera sua, quæ fecerunt à die quâ eduxi eos de Ægypto, usque ad diem hanc : sicut dereliquerunt me, et servierunt diis alienis, sic faciunt etiam tibi.",
       "french": "C'est ainsi qu'ils ont toûjours fait depuis le jour que je les ai tirez de l'Egypte jusqu'aujourd'hui. Comme ils m'ont abandonné, et qu'ils ont servi des dieux étrangers, ils vous traitent aussi de même.",
       "annotations": null,
       "source_pages": [
@@ -77,7 +77,7 @@
     },
     {
       "verse_number": 9,
-      "latin": "Nunc ergo vocem eorum audi : verumtamen conteſtare eos, & prædic eis jus Regis, qui regnaturus eſt ſuper eos.",
+      "latin": "Nunc ergo vocem eorum audi : verumtamen contestare eos, et prædic eis jus Regis, qui regnaturus est super eos.",
       "french": "Ecoutez donc maintenant ce qu'ils vous disent : mais auparavant faites-leur bien comprendre, et déclarez-leur quel sera le droit du Roi qui doit regner sur eux.",
       "annotations": null,
       "source_pages": [
@@ -86,8 +86,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Dixit itaque Samuël omnia verba Domini ad populum, qui petierat à ſe Regem.",
-      "french": "10. Samuël rapporta au peuple, qui lui avait demandé un Roi, tout ce que le Seigneur lui avait dit.",
+      "latin": "Dixit itaque Samuël omnia verba Domini ad populum, qui petierat à se Regem.",
+      "french": "Samuel rapporta au peuple, qui lui avait demandé un Roi, tout ce que le Seigneur lui avait dit.",
       "annotations": "An. du Monde 2909.",
       "source_pages": [
         "page_0177.json"
@@ -95,8 +95,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Et ait : Hoc erit jus Regis, qui imperaturus eſt vobis : Filios veſtros tollet, & ponet in curribus ſuis, faciétque ſibi equites & præcurſores quadrigarum ſuarum.",
-      "french": "11. Et il ajoûta : Voici quel sera le droit du Roi qui vous gouvernera : Il prendra vos enfans pour conduire ses chariots, et pour en faire des cavaliers, qui marcheront devant son char.",
+      "latin": "Et ait : Hoc erit jus Regis, qui imperaturus est vobis : Filios vestros tollet, et ponet in curribus suis, faciétque sibi equites et præcursores quadrigarum suarum.",
+      "french": "Et il ajouta : Voici quel sera le droit du Roi qui vous gouvernera : Il prendra vos enfants pour conduire ses chariots, et pour en faire des cavaliers, qui marcheront devant son char.",
       "annotations": null,
       "source_pages": [
         "page_0177.json"
@@ -104,8 +104,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Et conſtituet ſibi tribunos, & centuriones, & aratores agrorum ſuorum, & meſſores ſegetum, & fabros armorum & curruum ſuorum.",
-      "french": "12. Il en fera ses officiers pour commander, les uns mille hommes, et les autres cent ; il prendra les uns pour labourer ses champs et pour recüeillir ses bleds, et les autres pour lui faire des armes et des chariots.",
+      "latin": "Et constituet sibi tribunos, et centuriones, et aratores agrorum suorum, et messores segetum, et fabros armorum et curruum suorum.",
+      "french": "Il en fera ses officiers pour commander, les uns mille hommes, et les autres cent ; il prendra les uns pour labourer ses champs et pour recueillir ses blés, et les autres pour lui faire des armes et des chariots.",
       "annotations": null,
       "source_pages": [
         "page_0177.json"
@@ -113,8 +113,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Filias quoque veſtras faciet ſibi unguentarias, & focarias, & panificas.",
-      "french": "Il prendra de vos filles pour en faire ses parfumeuses, ses cuisiniéres, et ses boulangéres.",
+      "latin": "Filias quoque vestras faciet sibi unguentarias, et focarias, et panificas.",
+      "french": "Il prendra de vos filles pour en faire ses parfumeuses, ses cuisinières, et ses boulangères.",
       "annotations": "An. du Monde 2909.",
       "source_pages": [
         "page_0178.json"
@@ -122,7 +122,7 @@
     },
     {
       "verse_number": 14,
-      "latin": "Agros quoque veſtros, & vineas, & oliveta optima tollet, & dabit ſervis ſuis.",
+      "latin": "Agros quoque vestros, et vineas, et oliveta optima tollet, et dabit servis suis.",
       "french": "Il prendra aussi vos meilleurs champs, vos vignes et vos plants d'oliviers, et il les donnera à ses serviteurs.",
       "annotations": null,
       "source_pages": [
@@ -131,8 +131,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Sed & ſegetes veſtras, & vinearum redditus addecimabit, ut det eunuchis & famulis ſuis.",
-      "french": "Il vous fera payer la dixme de vos bleds et du revenu de vos vignes, pour avoir dequoi donner à ses eunuques et à ses officiers.",
+      "latin": "Sed et segetes vestras, et vinearum redditus addecimabit, ut det eunuchis et famulis suis.",
+      "french": "Il vous fera payer la dîme de vos blés et du revenu de vos vignes, pour avoir de quoi donner à ses eunuques et à ses officiers.",
       "annotations": null,
       "source_pages": [
         "page_0178.json"
@@ -140,8 +140,8 @@
     },
     {
       "verse_number": 16,
-      "latin": "Servos etiam veſtros, & ancillas, & juvenes optimos, & aſinos auferet, & ponet in opere ſuo.",
-      "french": "16. Il prendra vos serviteurs, vos servantes, et les jeunes gens les plus forts, avec vos ânes, et il les fera travailler pour lui.",
+      "latin": "Servos etiam vestros, et ancillas, et juvenes optimos, et asinos auferet, et ponet in opere suo.",
+      "french": "Il prendra vos serviteurs, vos servantes, et les jeunes gens les plus forts, avec vos ânes, et il les fera travailler pour lui.",
       "annotations": "An. du Monde 2909.",
       "source_pages": [
         "page_0179.json"
@@ -149,8 +149,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Greges quoque veſtros addecimabit, vobíſque eritis ei ſervi.",
-      "french": "17. Il prendra aussi la dîme de vos troupeaux, et vous serez ses serviteurs.",
+      "latin": "Greges quoque vestros addecimabit, vobísque eritis ei servi.",
+      "french": "Il prendra aussi la dîme de vos troupeaux, et vous serez ses serviteurs.",
       "annotations": null,
       "source_pages": [
         "page_0179.json"
@@ -158,8 +158,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "Et clamabitis in die illa à facie Regis vestri, quem elegistis vobis : & non exaudiet vos Dominus in die illa, quia petistis vobis Regem.",
-      "french": "Vous crierez alors contre vôtre Roi que vous vous ferez élû, et le Seigneur ne vous exaucera point, parce que c’est vous-même qui avez demandé d’avoir un Roi.",
+      "latin": "Et clamabitis in die illa à facie Regis vestri, quem elegistis vobis : et non exaudiet vos Dominus in die illa, quia petistis vobis Regem.",
+      "french": "Vous crierez alors contre votre Roi que vous vous serez élu, et le Seigneur ne vous exaucera point, parce que c’est vous-mêmes qui avez demandé d’avoir un Roi.",
       "annotations": "An. du Monde 2909.",
       "source_pages": [
         "page_0180.json"
@@ -168,7 +168,7 @@
     {
       "verse_number": 19,
       "latin": "Noluit autem populus audire vocem Samuëlis : sed dixerunt : Nequaquam : Rex enim erit super nos.",
-      "french": "Le peuple ne voulut point écouter ce discours de Samuël : Non, lui dirent-ils, nous voulons avoir un Roi qui nous gouverne.",
+      "french": "Le peuple ne voulut point écouter ce discours de Samuel : Non, lui dirent-ils, nous voulons avoir un Roi qui nous gouverne.",
       "annotations": null,
       "source_pages": [
         "page_0180.json"
@@ -176,8 +176,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Et erimus nos quoque sicut omnes gentes : & judicabit nos Rex noster, & egredietur ante nos, & pugnabit bella nostra pro nobis.",
-      "french": "Nous voulons être comme toutes les autres nations. Nôtre Roi nous jugera, il marchera à nôtre tête, et il combattra pour nous dans toutes nos guerres.",
+      "latin": "Et erimus nos quoque sicut omnes gentes : et judicabit nos Rex noster, et egredietur ante nos, et pugnabit bella nostra pro nobis.",
+      "french": "Nous voulons être comme toutes les autres nations. Notre Roi nous jugera, il marchera à notre tête, et il combattra pour nous dans toutes nos guerres.",
       "annotations": null,
       "source_pages": [
         "page_0180.json"
@@ -185,8 +185,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Et audivit Samuël omnia verba populi, & locutus eſt ea in auribus Domini.",
-      "french": "Samuël ayant entendu la réponse du peuple, la rapporta au Seigneur.",
+      "latin": "Et audivit Samuël omnia verba populi, et locutus est ea in auribus Domini.",
+      "french": "Samuel ayant entendu la réponse du peuple, la rapporta au Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0181.json"
@@ -194,8 +194,8 @@
     },
     {
       "verse_number": 22,
-      "latin": "Dixit autem Dominus ad Samuëlem : Audi vocem eorum, & conſtitue ſuper eos Regem. Et ait Samuël ad viros Iſraël : Vadat unuſquiſque in civitatem ſuam.",
-      "french": "Et le Seigneur lui dit : Faites ce qu'ils vous disent, et donnez-leur un Roi qui les gouverne. Samuël dit donc au peuple d'Israël : Que chacun retourne en sa ville.",
+      "latin": "Dixit autem Dominus ad Samuëlem : Audi vocem eorum, et constitue super eos Regem. Et ait Samuël ad viros Israël : Vadat unusquisque in civitatem suam.",
+      "french": "Et le Seigneur lui dit : Faites ce qu'ils vous disent, et donnez-leur un Roi qui les gouverne. Samuel dit donc au peuple d'Israël : Que chacun retourne en sa ville.",
       "annotations": null,
       "source_pages": [
         "page_0181.json"

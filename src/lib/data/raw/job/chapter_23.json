@@ -5,7 +5,7 @@
   "verses": [
     {
       "verse_number": 1,
-      "latin": "REſpondens autem Job, ait :",
+      "latin": "Respondens autem Job, ait :",
       "french": "Job parla ensuite de cette sorte :",
       "annotations": null,
       "source_pages": [
@@ -14,7 +14,7 @@
     },
     {
       "verse_number": 2,
-      "latin": "Nunc quoque in amaritudine eſt ſermo meus, & manus plagæ meæ aggravata eſt ſuper gemitum meum.",
+      "latin": "Nunc quoque in amaritudine est sermo meus, et manus plagæ meæ aggravata est super gemitum meum.",
       "french": "Mes paroles sont encore pleines d'amertume, et la main qui a causé ma plaie est appesantie sur moi, beaucoup plus que mes gémissements ne le marquent.",
       "annotations": null,
       "source_pages": [
@@ -23,7 +23,7 @@
     },
     {
       "verse_number": 3,
-      "latin": "Quis mihi tribuat ut cognoscam, & inveniam illum, & veniam usque ad solium ejus?",
+      "latin": "Quis mihi tribuat ut cognoscam, et inveniam illum, et veniam usque ad solium ejus?",
       "french": "Qui me donnera de connaître, et de trouver Dieu, et de m'aller présenter jusqu'à son trône ?",
       "annotations": null,
       "source_pages": [
@@ -32,7 +32,7 @@
     },
     {
       "verse_number": 4,
-      "latin": "Ponam coram eo judicium, & os meum replebo increpationibus:",
+      "latin": "Ponam coram eo judicium, et os meum replebo increpationibus:",
       "french": "Je lui exposerai ma cause, et je remplirai ma bouche des preuves de mon innocence.",
       "annotations": null,
       "source_pages": [
@@ -41,7 +41,7 @@
     },
     {
       "verse_number": 5,
-      "latin": "Ut sciam verba quæ mihi respondeat, & intelligam quid loquatur mihi.",
+      "latin": "Ut sciam verba quæ mihi respondeat, et intelligam quid loquatur mihi.",
       "french": "Afin que je sache ce qu'il me répondra, et que je comprenne ce qu'il me pourra dire.",
       "annotations": null,
       "source_pages": [
@@ -59,7 +59,7 @@
     },
     {
       "verse_number": 7,
-      "latin": "Proponat æquitatem contra me, & perveniat ad victoriam judicium meum.",
+      "latin": "Proponat æquitatem contra me, et perveniat ad victoriam judicium meum.",
       "french": "Je souhaiterais qu'il ne proposât contre moi, que l'équité et la justice, et j'espérerais de gagner ma cause devant un tel Juge.",
       "annotations": null,
       "source_pages": [
@@ -68,7 +68,7 @@
     },
     {
       "verse_number": 8,
-      "latin": "Si ad Orientem iero, non apparet: ſi ad Occidentem, non intelligam eum.",
+      "latin": "Si ad Orientem iero, non apparet: si ad Occidentem, non intelligam eum.",
       "french": "Mais que ferai-je ? Si je vais en Orient, il ne paraît point; si je vais en Occident, je ne l'aperçois point.",
       "annotations": null,
       "source_pages": [
@@ -77,7 +77,7 @@
     },
     {
       "verse_number": 9,
-      "latin": "Si ad ſiniſtram, quid agam? Non apprehendam eum: ſi me vertam ad dexteram, non videbo illum.",
+      "latin": "Si ad sinistram, quid agam? Non apprehendam eum: si me vertam ad dexteram, non videbo illum.",
       "french": "Si je me tourne à gauche, que ferai-je ? je ne puis l'atteindre ; si je vais à droite, je ne le verrai point.",
       "annotations": null,
       "source_pages": [
@@ -86,7 +86,7 @@
     },
     {
       "verse_number": 10,
-      "latin": "Ipſe verò ſcit viam meam, & probavit me quaſi aurum, quod per ignem tranſit.",
+      "latin": "Ipse verò scit viam meam, et probavit me quasi aurum, quod per ignem transit.",
       "french": "Mais il connaît lui-même ma voie, et il m'éprouve, comme l'or qui passe par le feu.",
       "annotations": null,
       "source_pages": [
@@ -95,8 +95,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "_Veſtigia ejus ſecutus eſt pes meus, viam ejus cuſtodivi, & non declinavi ex ea._",
-      "french": "11. Mon pied a suivi ses traces, j'ai gardé sa voie, et je ne m'en suis point détourné.",
+      "latin": "Vestigia ejus secutus est pes meus, viam ejus custodivi, et non declinavi ex ea.",
+      "french": "Mon pied a suivi ses traces, j'ai gardé sa voie, et je ne m'en suis point détourné.",
       "annotations": null,
       "source_pages": [
         "page_0304.json"
@@ -104,8 +104,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "_A mandatis labiorum ejus non receſſi, & in ſinu meo abſcondi verba oris ejus._",
-      "french": "12. Je ne me suis point écarté des commandements qui sont sortis de ses lèvres, et j'ai caché dans mon sein les paroles de sa bouche.",
+      "latin": "A mandatis labiorum ejus non recessi, et in sinu meo abscondi verba oris ejus.",
+      "french": "Je ne me suis point écarté des commandements qui sont sortis de ses lèvres, et j'ai caché dans mon sein les paroles de sa bouche.",
       "annotations": null,
       "source_pages": [
         "page_0304.json"
@@ -113,7 +113,7 @@
     },
     {
       "verse_number": 13,
-      "latin": "Ipſe enim ſolus eſt, & nemo avertere poteſt cogitationem ejus: & anima ejus quodcumque voluit, hoc fecit.",
+      "latin": "Ipse enim solus est, et nemo avertere potest cogitationem ejus: et anima ejus quodcumque voluit, hoc fecit.",
       "french": "Car il est seul celui qui est. Nul ne peut empêcher ses desseins, et il fait absolument tout ce qu’il lui plaît.",
       "annotations": null,
       "source_pages": [
@@ -122,7 +122,7 @@
     },
     {
       "verse_number": 14,
-      "latin": "Cùm impleverit in me voluntatem ſuam, & alia multa ſimilia præſtò ſunt ei.",
+      "latin": "Cùm impleverit in me voluntatem suam, et alia multa similia præstò sunt ei.",
       "french": "Quand il aura accompli sur moi sa volonté, il lui reste encore beaucoup d’autres moyens semblables.",
       "annotations": null,
       "source_pages": [
@@ -131,7 +131,7 @@
     },
     {
       "verse_number": 15,
-      "latin": "Et idcircò à facie ejus turbatus ſum, & conſiderans eum, timore ſollicitor.",
+      "latin": "Et idcircò à facie ejus turbatus sum, et considerans eum, timore sollicitor.",
       "french": "C’est pourquoi le trouble me saisit en sa présence, et lorsque je le considère, je suis agité de crainte.",
       "annotations": null,
       "source_pages": [
@@ -140,7 +140,7 @@
     },
     {
       "verse_number": 16,
-      "latin": "Deus mollivit cor meum, & omnipotens conturbavit me.",
+      "latin": "Deus mollivit cor meum, et omnipotens conturbavit me.",
       "french": "Dieu a abattu mon cœur, et le Tout-puissant m’a épouvanté.",
       "annotations": null,
       "source_pages": [
@@ -150,7 +150,7 @@
     {
       "verse_number": 17,
       "latin": "Non enim perii propter imminentes tenebras, nec faciem meam operuit caligo.",
-      "french": "17. Car je ne me suis point perdu en l'oubliant au milieu des ténèbres qui m'environnent ; et l'obscurité où je suis, ne m'a point mis un voile sur le visage.",
+      "french": "Car je ne me suis point perdu en l'oubliant au milieu des ténèbres qui m'environnent ; et l'obscurité où je suis, ne m'a point mis un voile sur le visage.",
       "annotations": null,
       "source_pages": [
         "page_0306.json"

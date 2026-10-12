@@ -58,7 +58,7 @@
     },
     {
       "verse": 15,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUÆSIVIQUE IN POPULO, ET IN FILIIS LEVI, ET NON INVENI.",
       "lemma": "Ayant cherché des Lévites parmi le peuple, et les Prêtres, je n'y en trouvai point.",
       "text": "Je trouvai des Prêtres, mais non pas de simples Lévites. Tous les Prêtres sont Lévites ; mais tous les Lévites ne sont pas Prêtres."
@@ -100,14 +100,14 @@
     },
     {
       "verse": 27,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UT AURUM.",
       "lemma": "Deux vases d'un airain brillant, et précieux, aussi beaux que s'ils eussent été d'or.",
       "text": "On croit que ces vases étaient de cet airain précieux, que les Latins ont nommé _Aurichalcum_, dans la persuasion que l'or y était mêlé avec l'airain.[21] D'autres ont cru que c'était du cuivre de Corinthe, composé, dit-on, du mélange de l'or, de l'argent, et du cuivre, qui résulta de la fonte des statues de ces divers métaux, qui furent fondues dans le sac de Corinthe par _Lucius Mummius_.[22] Mais du temps d'Esdras, cette sorte d'airain ne pouvait encore être connue, puisque Corinthe ne fut prise, et brûlée que longtemps après. D'ailleurs ce qu'on dit de l'origine de ce métal, paraît fabuleux; et on ne trouve aujourd'hui parmi les restes de l'antiquité, qui sont venus jusqu'à nous, aucun de ces vases de Corinthe. Nous ne pouvons donc marquer précisément quelle était la nature de ce cuivre dont parle Esdras; si c'était rosette, cuivre, bronze, fonte, ou laiton. L'Auteur de la Vulgate dit que ce métal était aussi beau que l'or: _Pulchra ut aurum_. Le Texte porte : _Désirable comme l'or ; précieux, estimé comme l'or_."
     },
     {
       "verse": 27,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SOLIDOS MILLENOS.",
       "lemma": "Mille drachmes.",
       "text": "L'Hébreu lit : [23] Mille adarconim. Ces pièces de monnaie valaient chacune autant qu'un sicle d'or, c'est-à-dire, onze livres onze sous neuf deniers et un quart, de notre monnaie."
@@ -128,7 +128,7 @@
     },
     {
       "verse": 36,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ELEVAVERUNT POPULUM, ET DOMUM.",
       "lemma": "Ils commencèrent à favoriser le peuple, et la Maison de Dieu.",
       "text": "Ou bien : Ils honorèrent le peuple. et marquèrent leur respect pour le Temple; ils en parlèrent avec respect, et avec estime. Tel est l’esprit des Grands. Ils forment leur sentiment, leur goût, leur estime sur celui de leur Prince."
@@ -179,22 +179,22 @@
     {
       "key": "page_0108-a",
       "n": 1,
-      "text": "I. Eſd. VIII. 32. 33."
+      "text": "I. Esd. VIII. 32. 33."
     },
     {
       "key": "page_0109-a",
       "n": 2,
-      "text": "מבני שכניה בן יחזיאל rabe, quoiqu'ils ne ſoient pas dans le Texte."
+      "text": "מבני שכניה בן יחזיאל rabe, quoiqu'ils ne soient pas dans le Texte."
     },
     {
       "key": "page_0109-b",
       "n": 3,
-      "text": "Καὶ ὑιῶν Σαθανίας, Ζαχαρίος ὑιὸς Ζήλ. Ils ont lû, des enfans de Zathoé, auſſi bien que l'A-"
+      "text": "Καὶ ὑιῶν Σαθανίας, Ζαχαρίος ὑιὸς Ζήλ. Ils ont lû, des enfans de Zathoé, aussi bien que l'A-"
     },
     {
       "key": "page_0109-c",
       "n": 4,
-      "text": "79. Zabud. Ils liſent זכור pour זבוד."
+      "text": "79. Zabud. Ils lisent זכור pour זבוד."
     },
     {
       "key": "page_0110-a",
@@ -209,17 +209,17 @@
     {
       "key": "page_0110-c",
       "n": 7,
-      "text": "4. Reg. XVII. 24. XVIII. 34. & XIX. 13."
+      "text": "4. Reg. XVII. 24. XVIII. 34. et XIX. 13."
     },
     {
       "key": "page_0110-d",
       "n": 8,
-      "text": "1. Eſdr. VII. 8."
+      "text": "1. Esdr. VII. 8."
     },
     {
       "key": "page_0110-e",
       "n": 9,
-      "text": "1. Eſdr. VII. 6. 9. VIII. 1."
+      "text": "1. Esdr. VII. 6. 9. VIII. 1."
     },
     {
       "key": "page_0111-b",
@@ -229,7 +229,7 @@
     {
       "key": "page_0111-c",
       "n": 11,
-      "text": "70 Καὶ ἀπέσειλα τῷ Ελδαζαρ, &c. Ita Arab. Pagn Mont. Munſt. &c."
+      "text": "70 Καὶ ἀπέσειλα τῷ Ελδαζαρ, etc. Ita Arab. Pagn Mont. Munst. etc."
     },
     {
       "key": "page_0111-d",
@@ -239,17 +239,17 @@
     {
       "key": "page_0111-e",
       "n": 13,
-      "text": "Ita Jun. Piſc. Tig. Syr. &c. S. pɔ ל redundat : Idem Syris, Caldaïſque eſt nota accuſativi caſus, & æquivalet τῷ, את"
+      "text": "Ita Jun. Pisc. Tig. Syr. etc. S. pɔ ל redundat : Idem Syris, Caldaïsque est nota accusativi casus, et æquivalet τῷ, את"
     },
     {
       "key": "page_0111-f",
       "n": 14,
-      "text": "Belgica verſ."
+      "text": "Belgica vers."
     },
     {
       "key": "page_0111-g",
       "n": 15,
-      "text": "Jun. Grot. Malv. Munſt."
+      "text": "Jun. Grot. Malv. Munst."
     },
     {
       "key": "page_0112-a",
@@ -264,7 +264,7 @@
     {
       "key": "page_0113-a",
       "n": 18,
-      "text": "3. Eſdr. VIII. 46. 47."
+      "text": "3. Esdr. VIII. 46. 47."
     },
     {
       "key": "page_0113-b",
@@ -274,17 +274,17 @@
     {
       "key": "page_0113-c",
       "n": 20,
-      "text": "Rabb. Salom. & Abenezr. Munſt."
+      "text": "Rabb. Salom. et Abenezr. Munst."
     },
     {
       "key": "page_0114-a",
       "n": 21,
-      "text": "Vide ſi lubet Bochart de Animal. ſacr. parte 2. lib. 6. c. 16. & Ezech. 1. 4."
+      "text": "Vide si lubet Bochart de Animal. sacr. parte 2. lib. 6. c. 16. et Ezech. 1. 4."
     },
     {
       "key": "page_0114-b",
       "n": 22,
-      "text": "Plin. lib. 34. cap. 2. Ex illa antiqua gloria via Corinthium maximè laudatur ; hoc caſus miſcuit, Corintho cùm caperetur incenſâ, . . . . . . Corinthus capta eſt Olymp. 156. an. 3. noſtræ urbis 608."
+      "text": "Plin. lib. 34. cap. 2. Ex illa antiqua gloria via Corinthium maximè laudatur ; hoc casus miscuit, Corintho cùm caperetur incensâ, . . . . . . Corinthus capta est Olymp. 156. an. 3. nostræ urbis 608."
     },
     {
       "key": "page_0115-a",
@@ -310,71 +310,6 @@
       "key": "page_0115-e",
       "n": 27,
       "text": "3. Esdr. VIII. 68. Τοῖς Βασιλικοῖς οἰκονόμοις, καὶ τοῖς ἐπάρχοις κοίλης Συρίας, καὶ φοινίκης, καὶ ἐδόξασαν τὸ ἔθνος, καὶ τὸ ἱερὸν τỡ Κυρίῳ."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0108",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0109",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0110",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0111",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0112",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0113",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0114",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0115",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0116",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

@@ -9,7 +9,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DUODECIMO ANNO MUNDAVIT JUDAM ET JERUSALEM.",
       "lemma": "La douzième année de son règne, qui était la vingtième de son âge, il purifia Juda, et Jérusalem, de tous les monuments impies et idolâtres qui les souillaient.",
       "text": "L'Hébreu, et les Septante : [2] _Il commença à purifier Juda, et Jérusalem._ En effet ce grand"
@@ -23,7 +23,7 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SUPER TUMULOS EORUM, QUI EIS IMMOLARE CONSUEVERANT.",
       "lemma": "Sur les tombeaux de ceux, qui avaient accoutumé de leur offrir des victimes.",
       "text": "Tout cela est raconté dans un plus grand détail dans les livres des Rois. [7] Il y est dit que Josias jeta les débris des autels, et des statues dans la vallée d'Hennom, sur les tombeaux du menu peuple. [8] Il fit aussi rir les Prêtres des fausses divinités, sur les autels de leurs Dieux.[9]"
@@ -160,7 +160,7 @@
     {
       "key": "page_0242-a",
       "n": 3,
-      "text": "Voyez le ℣. 8. _Igitur anno octavo regni ſui, mundata jam terra, & Templo Domini._"
+      "text": "Voyez le ℣. 8. _Igitur anno octavo regni sui, mundata jam terra, et Templo Domini._"
     },
     {
       "key": "page_0242-b",
@@ -170,7 +170,7 @@
     {
       "key": "page_0242-c",
       "n": 5,
-      "text": "Vide Tigur. & Munſt."
+      "text": "Vide Tigur. et Munst."
     },
     {
       "key": "page_0242-d",
@@ -180,7 +180,7 @@
     {
       "key": "page_0242-e",
       "n": 7,
-      "text": "Vide 4. Reg. XXIII. §. 6. 10. 11. 12. & ſeq."
+      "text": "Vide 4. Reg. XXIII. §. 6. 10. 11. 12. et seq."
     },
     {
       "key": "page_0242-f",
@@ -190,7 +190,7 @@
     {
       "key": "page_0243-a",
       "n": 9,
-      "text": "Ibid. ℣. 20. Occidit univerſos Sacerdotes excelſorum, qui erant ibi, ſuper altaria."
+      "text": "Ibid. ℣. 20. Occidit universos Sacerdotes excelsorum, qui erant ibi, super altaria."
     },
     {
       "key": "page_0243-b",
@@ -200,7 +200,7 @@
     {
       "key": "page_0243-c",
       "n": 11,
-      "text": "Ita Mont. Munſt. Oſi. Caſt. Tigur."
+      "text": "Ita Mont. Munst. Osi. Cast. Tigur."
     },
     {
       "key": "page_0243-d",
@@ -210,7 +210,7 @@
     {
       "key": "page_0243-e",
       "n": 13,
-      "text": "Vide infra ℣. 9. 33. & 4. Reg. XXIII. 19. & 2. Par. XXXV. 18."
+      "text": "Vide infra ℣. 9. 33. et 4. Reg. XXIII. 19. et 2. Par. XXXV. 18."
     },
     {
       "key": "page_0244-a",
@@ -225,75 +225,17 @@
     {
       "key": "page_0245-a",
       "n": 16,
-      "text": "Voyez 1. Par. IX. 26. & 4. Reg. XXII, 4. 1"
+      "text": "Voyez 1. Par. IX. 26. et 4. Reg. XXII, 4. 1"
     },
     {
       "key": "page_0245-b",
       "n": 17,
-      "text": "Mont. Cuſtodes Abaci."
+      "text": "Mont. Custodes Abaci."
     },
     {
       "key": "page_0247-a",
       "n": 18,
       "text": "הכסף את יתיכו .70. ἐχώνευσαν τὸ ἀργύριον. ll. Livre des Paralip."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0241",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0242",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0243",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0244",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0245",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0246",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0247",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0248",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": [

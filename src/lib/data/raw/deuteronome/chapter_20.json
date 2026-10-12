@@ -13,6 +13,24 @@
       ]
     },
     {
+      "verse_number": 2,
+      "latin": "Approprinquante autem jam prœlio, stabit Sacerdos ante aciem, et sic loquetur ad populum :",
+      "french": "Et quand l'heure du combat sera proche, le Prêtre se présentera à la tête de l'armée, et il parlera ainsi au peuple :",
+      "annotations": null,
+      "source_pages": [
+        "page_0273.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Audi Israel : Vos hodie contra inimicos vestros pugnam committitis : non pertimescat cor vestrum, nolite metuere, nolite cedere, nec formidetis eos :",
+      "french": "Écoutez, Israël, vous devez aujourd'hui combattre contre vos ennemis : que votre cœur n'appréhende point, ne craignez point, ne reculez point devant eux, et n'en ayez aucune peur ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0273.json"
+      ]
+    },
+    {
       "verse_number": 4,
       "latin": "Quia Dominus Deus vester in medio vestri est, et pro vobis contra adversarios dimicabit, ut eruat vos de periculo.",
       "french": "Car le Seigneur votre Dieu est au milieu de vous, et il combattra pour vous contre vos ennemis, afin de vous délivrer du péril.",
@@ -163,15 +181,6 @@
       "annotations": null,
       "source_pages": [
         "page_0285.json"
-      ]
-    },
-    {
-      "verse_number": 21,
-      "latin": "Non misereberis ejus, sed animam pro anima, oculum pro oculo, dentem pro dente, manum pro manu, pedem pro pede exiges.",
-      "french": "Vous n'aurez point de compassion du coupable ; mais vous ferez rendre vie pour vie, œil pour œil, dent pour dent, main pour main, pied pour pied.",
-      "annotations": null,
-      "source_pages": [
-        "page_0272.json"
       ]
     }
   ]

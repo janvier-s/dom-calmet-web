@@ -9,21 +9,21 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MADON.",
       "lemma": null,
       "text": "L'Écriture ne parle de cette ville de Madon qu'en cet endroit, et au Chap. XII. 19. ce qui est fort extraordinaire pour une ville Royale, qui était dans le pays de Canaan ; et aucun Géographe ne nous marque sa situation. Si on lisait _Maron_, avec les Septante de l'édition Romaine, on pourrait trouver la ville de Maronie, ou Marath dans la Phénicie, au nord du mont Liban. [10] Le nom de _Maron_ s'est conservé dans le Texte Hébreu, au Chap. XII. 20. où il se lit hors de sa place, après _Sémeron_. Je ne sais si la terre de _Méros_, dont il est parlé dans le Livre des Juges, [11] n'est pas le pays de _Maron_. Les lettres _daleth_ et _resch_ se confondent très souvent, et le _nun_ final a assez de ressemblance avec le _zaïn_."
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AD REGEM SEMERON.",
       "lemma": "Au Roi de Sémeron.",
       "text": "Il y en a qui croient qu'il parle de Samarie, qui fut depuis capitale du Royaume d'Israël. Ils veulent qu'elle soit mise ici par anticipation; de même qu'aux ℣. 16. et 21. _Les montagnes d'Israël_, qui ne portaient pas ce nom du temps de Josué; mais ce sentiment est insoutenable, puisque non seulement _Sémeron_ ne portait pas ce nom, mais ne subsistait pas même du temps de Josué. Car nous lisons dans les Livres des Rois, [12] qu'Amri Roi d'Israël acheta la place du mont Samer, où il bâtit Samarie, et qu'il donna à cette nouvelle ville le nom de _Samérie_, c'est-à-dire, _Samer du Seigneur_. Ainsi il vaut mieux dire que _Sémeron_ de cet endroit, est la ville de _Symira_, dans la Célésyrie, qui est jointe à _Maron_ ou à _Marath_, par Pline, et par Méla. [13] Strabon [14] l'appelle _Taximyra_; c'est dans ce pays qu'habitaient les Samaréens descendus de Canaan. Voyez Genèse X. 18."
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AD REGEM ACHSAPH.",
       "lemma": "Au Roi d'Achsaph.",
       "text": "Nous ne doutons pas que ce ne soit la ville d'Ecdippe marquée dans Pline, [15] dans Ptolémée, dans Joseph, [16] et dans Eusèbe. [17] Ce dernier la met à neuf milles de Ptolémaïde, en allant à Tyr : elle fut donnée à la tribu d'Aser."
@@ -37,24 +37,17 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET IN PLANITIE CONTRA MERIDIEM CENEROTH.",
       "lemma": "Et dans la plaine du côté du midi de Cénéroth.",
       "text": "Dans les plaines qui sont au pied des montagnes, dont on vient de parler, et qui avaient la mer de Cénéroth à leur midi. Car à l'égard de la mer de Cénéroth, ou de Génézareth, ces plaines étaient au septentrion. Les Septante portent :  _Il envoya dans l'Araba, vis-à-vis de Cénéris._ Ils ont conservé le nom hébreu d'_Araba_, qu'ils traduisent quelquefois par l'occident ; mais dans la Vulgate il est ordinairement rendu par, _une plaine_. Quant à Cineroth, ou Cinereth, c'était une ville qui donnait son nom au lac sur lequel elle était située : on ne convient pas de sa situation. Saint Jérôme [19] croit que c'est la même que Tibériade ; Bonfrère veut que ce soit Capharnaüm. Cellarius [20] appuie le sentiment de Saint Jérôme, il croit que _Chamat_ qui est joint à Cineret, [21] signifie les eaux chaudes de Tibériade ; ainsi il faudra mettre la ville de Cineret sur le bord méridional du lac de Génézareth, et étendre par conséquent jusque-là le partage de Nephtali, à qui Cineret fut donnée par Josué ; [22] ou dire que dans le Chapitre XIX. ℣. 35. de ce Livre, Cineret signifie la mer, et non pas la ville de ce nom."
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN CAMPESTRIBUS QUOQUE ET REGIONIBUS DOR JUXTA MARE.",
       "lemma": "Dans les campagnes et dans le pays de Dor le long de la mer.",
       "text": "Dans les campagnes de la haute et de la basse Galilée, jusqu'à la mer Méditerranée, et jusqu'à la ville de Dor. Il semble que tout le reste du pays en tirant vers le midi de la Palestine, était alors assujetti ; il ne restait plus que les parties septentrionales, depuis Dor jusqu'à l'extrémité de la Phénicie, et du mont Liban. On ne remarque pas que les Philistins soient entrés dans aucune ligue avec les peuples de Canaan, apparemment à cause de l'ancienne antipathie qui était entre eux. Ils vivaient séparés de ces peuples : le Roi d'Asor ne les invite pas à entrer dans la ligue, quoiqu'il y eût encore de leurs villes qui ne fussent pas assujetties aux Hébreux, comme on le verra ci-après."
-    },
-    {
-      "verse": 22,
-      "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "Dor était la dernière ville de la Phénicie. Dor est située sur la Méditerranée, environ à trois lieues de Césarée de Palestine, et à sept de Ptolémaïde. Les Septante au lieu du pays de Dor, lisent _Nephet Dor_, [23] et on lit la même chose dans Eusèbe et S. Jérôme. _Nephet_, ou _Naphet_ en Hébreu signifie, le quartier, les environs. _Nephet Dor_, le canton de Dor."
     },
     {
       "verse": 3,
@@ -65,7 +58,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "HEVÆUM QUI HABITABAT AD RADICES HERMON, IN TERRA MASPHA.",
       "lemma": "Les Hévéens qui habitaient au pied du mont Hermon, dans le pays de Maspha.",
       "text": "Le mont Hermon était à l'orient du Liban, et des sources du Jourdain. On lui donne divers noms dans l'Écriture ; par exemple, _Sanir, Syrion, Baal-Hermon_. Les Hévéens, dont on parle ici, étaient au pied de cette montagne, au-delà du Jourdain. La terre de _Maspha_ prenait son nom d'une ville, ou plutôt d'une montagne nommée _Maspha-Galaad_, [24] et qui était apparemment la demeure de Jephté Juge d'Israël. Il est parlé des hauteurs, ou de _Ramath-Masphé_, ou _Maspha_, dans un autre endroit de Josué : [25] elle était à la tribu de Gad. Je pense que cet endroit prit son nom de l'alliance que Laban et Jacob y firent ensemble. On trouve alors pour la première fois le nom de _Mizpha_, [26] qui signifie, une guérite, ou une hauteur où l'on place une sentinelle."
@@ -79,14 +72,14 @@
     },
     {
       "verse": 4,
-      "sub": true,
-      "latin_lemma": "LUS MULTUS NIMIS SICUT ARENA, &c.",
+      "sub": false,
+      "latin_lemma": "LUS MULTUS NIMIS SICUT ARENA, etc.",
       "lemma": "Ils se mirent tous en campagne avec leurs troupes, aussi nombreuses que le sable de la mer.",
       "text": "Les Septante lisent: _Ils sortirent avec leurs Rois, un peuple aussi nombreux que le sable de la mer._ L'Écriture emploie souvent cette comparaison, d'un peuple aussi nombreux que le sable de la mer; c'est une hyperbole, l'Écriture a accoutumé de se servir de cette figure, comme elle se sert des autres figures du discours, dit S. Augustin.[27] Joseph[28] a avancé que l'armée des Rois ligués était de trois cent mille hommes de pied, et de dix mille cavaliers, et de vingt mille chariots de guerre."
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EQUI QUOQUE ET CURRUS.",
       "lemma": "Des chevaux et des chariots.",
       "text": "On examinera dans une Dissertation sur la milice des Hébreux, quelle était la forme et l'usage des chariots de guerre armés de faux. Josué ne nous dit point que ceux-ci aient été armés; mais la plupart des Interprètes le croient ainsi. Il est pourtant vrai que dans les temps héroïques les simples chariots étaient fort communs à la guerre. Les personnes de considération combattaient de dessus leurs chariots, comme on le voit dans le siège de Troyes, et les Rois d'Israël eux-mêmes étaient montés sur des chariots dans les batailles.[29]"
@@ -107,7 +100,7 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TRADAM VULNERANDOS.",
       "lemma": "Je vous les livrerai pour être taillés en pièces.",
       "text": "L'Hébreu : [34] _Je vous les livrerai blessés, abattus, mis à mort._"
@@ -142,7 +135,7 @@
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "REGEM EJUS PERCUSSIT GLADIO.",
       "lemma": "Il en tua le Roi.",
       "text": "Soit que Jabin se soit jeté dans sa ville après la déroute de son armée, soit que l'on ait établi un autre roi à sa place en son absence. On dit que c'était la coutume de nommer un vice-gérant avec autorité de roi, dans les villes en l'absence des rois, lorsqu'ils allaient à la guerre. De là viennent ces rois d'Israël établis fort jeunes, et du vivant de leurs pères. Cet usage était ordinaire dans la Perse."
@@ -150,7 +143,7 @@
     {
       "verse": 11,
       "sub": false,
-      "latin_lemma": "A S O R ENIM ANTIQUITUS, &c.",
+      "latin_lemma": "A S O R ENIM ANTIQUITUS, etc.",
       "lemma": "Car Asor avait tenu de tout temps le premier rang parmi toutes ces villes.",
       "text": "Voyez ce qu'on a remarqué sur le verset 1 de ce chapitre."
     },
@@ -163,7 +156,7 @@
     },
     {
       "verse": 12,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SICUT PRÆCEPERAT EI MOYSES.",
       "lemma": "Comme Moïse le lui avait ordonné.",
       "text": "Moïse avait commandé d'exterminer tous les Cananéens qu'on prendrait les armes à la main, et principalement leurs rois, que le Seigneur devait livrer entre les mains de Josué et de son peuple. [47]"
@@ -198,28 +191,28 @@
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MERIDIANAM.",
       "lemma": null,
       "text": "Josué prit tout le pays des montagnes et du midi. Ce verset et le suivant sont une récapitulation de tout ce qui a été dit jusqu'ici des guerres de Josué. Ce Général prit le pays des montagnes, c'est-à-dire la partie méridionale de la terre de Canaan, qui s'étend depuis la mer Morte, jusque vers Gaza."
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TERRAM GOSEN.",
       "lemma": null,
       "text": "La terre de Gosen. Voyez ci-devant le chapitre x. ℣. 14."
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET PLANITIEM.",
       "lemma": null,
       "text": "La plaine qui est au-dessous des montagnes de Juda, tirant vers le pays des Philistins. L'Hébreu a deux noms, [54] qui tous deux signifient une plaine ; mais on croit que le premier marque plutôt un pays cultivé, et l'autre un pays qui ne sert qu'au pâturage."
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MONTEMQUE ISRAEL ET CAMPESTRIA EJUS.",
       "lemma": null,
       "text": "La montagne d'Israël et ses campagnes. On voit par la comparaison de ce verset avec le vingt-un, que ces campagnes d'Israël sont mises ici par opposition à celles de Juda, et qu'ainsi il faut les entendre des montagnes qui étaient dans le lot d'Éphraïm. L'Écriture parle très souvent des montagnes d'Éphraïm, et cette tribu était la principale du Royaume d'Israël. Il est évident par cet endroit que ce Livre a été retouché depuis que les dix tribus furent séparées de la famille de David, et depuis la division des deux Royaumes de Juda et d'Israël."
@@ -233,7 +226,7 @@
     },
     {
       "verse": 17,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PER PLANITIEM LIBANI SUBTER MONTEM HERMON,",
       "lemma": "Le long de la plaine du Liban, sous la montagne d'Hermon.",
       "text": "Le long de la plaine qui est au midi, et peut-être au nord du Liban. Je ne sais si ce n'est pas la Célésyrie; elle était entre le Liban et le mont Hermon. Voyez la Carte Géographique. Nous avons remarqué que Maron et Séméron étaient au septentrion de l'Antiliban.[58]"
@@ -264,21 +257,28 @@
       "sub": false,
       "latin_lemma": "IN TEMPORE ILLO VENIT JOSUE, ET INTERFECIT ENACHIM DE MONTANIS HEBRON.",
       "lemma": "En ce temps-là Josué marcha contre les Enachim des montagnes, il les extermina d'Hébron.",
-      "text": "Nous croyons que c'est ici une répétition de ce qu'on a vu ci-devant, [65] de la guerre de Josué contre les Géants de la race d'Enach, qui demeuraient à HéHébron et à Dabir. Ces Géants s'étant depuis rétablis dans ces villes, Caleb, à qui Hébron était échue en partage, les en chassa de nouveau, comme il est marqué au chapitre xv. ℣. 14. de ce Livre, et encore dans celui des Juges, chap. I. ℣. 10. Ainsi ces paroles dans ce temps-là, ne signifient autre chose, sinon que les Géants de la race d'Enach furent assujettis par Josué, dans le même temps qu'il fit les autres conquêtes, dont il est parlé au chapitre x."
+      "text": "Nous croyons que c'est ici une répétition de ce qu'on a vu ci-devant, [65] de la guerre de Josué contre les Géants de la race d'Enach, qui demeuraient à Hébron et à Dabir. Ces Géants s'étant depuis rétablis dans ces villes, Caleb, à qui Hébron était échue en partage, les en chassa de nouveau, comme il est marqué au chapitre xv. ℣. 14. de ce Livre, et encore dans celui des Juges, chap. I. ℣. 10. Ainsi ces paroles dans ce temps-là, ne signifient autre chose, sinon que les Géants de la race d'Enach furent assujettis par Josué, dans le même temps qu'il fit les autres conquêtes, dont il est parlé au chapitre x."
     },
     {
       "verse": 21,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ANAB.",
       "lemma": null,
       "text": "Cette ville était à quatre milles de Diospolis, selon S. Jérôme, [66] du côté de l'orient. Nous n'en savons pas davantage. Masius conjecture que c'est la même que Nob ou Betanobé, que les voyageurs nous décrivent près de Lydda ou Diospolis, à la droite du chemin qui mène de Joppé à Jérusalem."
     },
     {
       "verse": 21,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "URBES EORUM DELEVIT.",
       "lemma": "Il ruina toutes leurs villes.",
       "text": "L'Hébreu : [67] _Il les assujettit à l'anathème avec leurs villes._ Ceci se doit restreindre aux villes des Géants de la race d'Enach, car on a vu ci-devant que Josué avait conservé toutes les villes qui étaient sur les hauteurs, [68] à l'exception d'Asor. Quelques-uns veulent que les villes soient mises ici, comme en plusieurs autres endroits, pour les habitants des villes, qui furent tous passés au fil de l'épée, selon les lois de l'anathème."
+    },
+    {
+      "verse": 22,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "Dor était la dernière ville de la Phénicie. Dor est située sur la Méditerranée, environ à trois lieues de Césarée de Palestine, et à sept de Ptolémaïde. Les Septante au lieu du pays de Dor, lisent _Nephet Dor_, [23] et on lit la même chose dans Eusèbe et S. Jérôme. _Nephet_, ou _Naphet_ en Hébreu signifie, le quartier, les environs. _Nephet Dor_, le canton de Dor."
     },
     {
       "verse": 22,
@@ -289,21 +289,21 @@
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "GAZA, ou HASA,",
       "lemma": null,
       "text": "comme elle est écrite dans la langue originale, [71] et comme elle était appelée dans le pays, suivant Étienne ; [72] était la dernière ville des Philistins du côté de l'Égypte : En avançant vers l'Égypte en sortant de Gaza, on ne trouvait que des solitudes, et des terres incultes et sablonneuses. [73] Arrien la met à vingt stades de la mer, et Strabon, [74] à sept. Elle était ruinée du temps de ce dernier ; mais on la voyait encore du temps des Maccabées, [75] et sous les derniers Rois des Juifs, et même sous les Empereurs Tite, Adrien, Antonin, et Vérus. Josué ne prit pas la ville de Gaza, comme il est marqué ici ; mais après sa mort, elle fut assujettie par la tribu de Juda, [76] à qui elle était échue en partage ; [77] il y a beaucoup d’apparence qu’elle ne demeura pas longtemps sous sa domination. L’Écriture nous la représente presque partout comme une ville des Philistins ; elle a toujours été fort adonnée au culte de Jupiter, surnommé _Marnas_, ou le Seigneur."
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "GETH",
       "lemma": null,
       "text": "était à cinq milles, ou une lieue et demie d’Éleuthéropolis, en allant à _Diospolis_, selon Eusèbe, ce qui n’est pas soutenable. Cette ville est assez célèbre dans l’Écriture. Du temps de David, [78] elle avait un Roi auprès duquel ce Prince se réfugia, pour éviter la colère de Saül. Le fameux Goliath était de Geth. On croit que David prit la ville de Geth, [79] et qu’il la rendit tributaire ; mais il y a apparence qu’elle secoua le joug des Rois de Juda, après la mort de Salomon."
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AZOT, ou ASDOD,",
       "lemma": null,
       "text": "comme l’écrivent les Hébreux, était entre Ascalon et Jamnia, à peu près à distance égale, sur la méditerranée. Le temple de Dagon à Azot est célèbre dans les Livres des Rois, [80] à cause de l’Arche du Seigneur, qui y fut transportée par les Philistins. Jonathas Asmonéen [81] ayant pris la ville d’Azot, détruisit le temple de cette fausse divinité."
@@ -385,7 +385,7 @@
       "verse": 21,
       "mode": "splice",
       "before": "ontre les Géants de la race d'Enach, qui demeuraient à Hé-",
-      "after": "Hébron et à Dabir. Ces Géants s'étant depuis rétablis dans"
+      "after": "bron et à Dabir. Ces Géants s'étant depuis rétablis dans c"
     },
     {
       "seam": "page_0229>page_0230",
@@ -434,12 +434,12 @@
     {
       "key": "page_0216-c",
       "n": 3,
-      "text": "Joſeph Antiq. l. 5. c. 6."
+      "text": "Joseph Antiq. l. 5. c. 6."
     },
     {
       "key": "page_0216-d",
       "n": 4,
-      "text": "Joſue XIX, 36."
+      "text": "Josue XIX, 36."
     },
     {
       "key": "page_0216-e",
@@ -459,7 +459,7 @@
     {
       "key": "page_0216-h",
       "n": 8,
-      "text": "1. Macc. XI. 67. 72. & Joſeph. Antiq. lib. 13. c. 8."
+      "text": "1. Macc. XI. 67. 72. et Joseph. Antiq. lib. 13. c. 8."
     },
     {
       "key": "page_0216-i",
@@ -469,7 +469,7 @@
     {
       "key": "page_0217-a",
       "n": 10,
-      "text": "Vide Ptolem. Geogr. & Ieron. in vita Malchi."
+      "text": "Vide Ptolem. Geogr. et Ieron. in vita Malchi."
     },
     {
       "key": "page_0217-b",
@@ -499,12 +499,12 @@
     {
       "key": "page_0217-g",
       "n": 16,
-      "text": "Joſeph Antiq. l. 5. c. 22."
+      "text": "Joseph Antiq. l. 5. c. 22."
     },
     {
       "key": "page_0217-h",
       "n": 17,
-      "text": "Euſeb. in locis, vide nov. edit. S. Ieron. in Achſib."
+      "text": "Euseb. in locis, vide nov. edit. S. Ieron. in Achsib."
     },
     {
       "key": "page_0218-a",
@@ -524,12 +524,12 @@
     {
       "key": "page_0218-e",
       "n": 21,
-      "text": "Joſue XIX. 35."
+      "text": "Josue XIX. 35."
     },
     {
       "key": "page_0218-f",
       "n": 22,
-      "text": "Joſue ibidem."
+      "text": "Josue ibidem."
     },
     {
       "key": "page_0219-a",
@@ -544,27 +544,27 @@
     {
       "key": "page_0219-c",
       "n": 25,
-      "text": "Joſue XIII. 26."
+      "text": "Josue XIII. 26."
     },
     {
       "key": "page_0219-d",
       "n": 26,
-      "text": "Geneſ. XXXI. 48."
+      "text": "Genes. XXXI. 48."
     },
     {
       "key": "page_0220-a",
       "n": 27,
-      "text": "Auguſt. lib. XVI. de Civit. c. II. Græci dicunt hyperbolen, quæ utique tropica eſt, non propria, quo tamen modo cæteris tropis uti ſolet Scripturam nullus qui amen didicit ambigit."
+      "text": "August. lib. XVI. de Civit. c. II. Græci dicunt hyperbolen, quæ utique tropica est, non propria, quo tamen modo cæteris tropis uti solet Scripturam nullus qui amen didicit ambigit."
     },
     {
       "key": "page_0220-b",
       "n": 28,
-      "text": "Joſeph Antiq. l. 5. c. 1."
+      "text": "Joseph Antiq. l. 5. c. 1."
     },
     {
       "key": "page_0220-c",
       "n": 29,
-      "text": "Reg. XXII 35. Rex Iſraël ſtabat in curru ſuo."
+      "text": "Reg. XXII 35. Rex Israël stabat in curru suo."
     },
     {
       "key": "page_0220-d",
@@ -574,7 +574,7 @@
     {
       "key": "page_0221-a",
       "n": 31,
-      "text": "Judic. XV. 10. Qui accitis Zabulon, & Nephthali, aſcendit cum decem millibus pugnatorum."
+      "text": "Judic. XV. 10. Qui accitis Zabulon, et Nephthali, ascendit cum decem millibus pugnatorum."
     },
     {
       "key": "page_0221-b",
@@ -594,7 +594,7 @@
     {
       "key": "page_0222-a",
       "n": 35,
-      "text": "Joſeph Antiq. l. 5. c. 1."
+      "text": "Joseph Antiq. l. 5. c. 1."
     },
     {
       "key": "page_0222-b",
@@ -604,7 +604,7 @@
     {
       "key": "page_0222-c",
       "n": 37,
-      "text": "Sidon. Apollin. car. 17. _Vina mihi non ſunt Gazetica, Chia, Falerna. Quæque Sareptano palmite miſſa bibas._"
+      "text": "Sidon. Apollin. car. 17. _Vina mihi non sunt Gazetica, Chia, Falerna. Quæque Sareptano palmite missa bibas._"
     },
     {
       "key": "page_0222-d",
@@ -614,17 +614,17 @@
     {
       "key": "page_0223-a",
       "n": 39,
-      "text": "Vide Geneſ. x. 15 & Juſtin. l. 18. c. 3. Conditâ ibi urbe, quam à piſcium ubertate Sidona appellaverunt, nam piſces Phenices Sidon vocant."
+      "text": "Vide Genes. x. 15 et Justin. l. 18. c. 3. Conditâ ibi urbe, quam à piscium ubertate Sidona appellaverunt, nam pisces Phenices Sidon vocant."
     },
     {
       "key": "page_0223-b",
       "n": 40,
-      "text": "Origen. homil. 14 in Joſue."
+      "text": "Origen. homil. 14 in Josue."
     },
     {
       "key": "page_0223-c",
       "n": 41,
-      "text": "Homer. Odyſſ. O. ἐν ῥα Σιδῶνι πολυχάλκῳ"
+      "text": "Homer. Odyss. O. ἐν ῥα Σιδῶνι πολυχάλκῳ"
     },
     {
       "key": "page_0223-d",
@@ -654,7 +654,7 @@
     {
       "key": "page_0224-b",
       "n": 47,
-      "text": "_Deut._ VII. 22. 23. & _alibi ſæpius._"
+      "text": "_Deut._ VII. 22. 23. et _alibi sæpius._"
     },
     {
       "key": "page_0224-c",
@@ -669,7 +669,7 @@
     {
       "key": "page_0225-b",
       "n": 50,
-      "text": "Jerem. xxx. 18. _Ædificabitur civitas in excelſo ſuo_. Heb. על תלה by _Super tumulo ſuo_."
+      "text": "Jerem. xxx. 18. _Ædificabitur civitas in excelso suo_. Heb. על תלה by _Super tumulo suo_."
     },
     {
       "key": "page_0225-c",
@@ -684,7 +684,7 @@
     {
       "key": "page_0225-e",
       "n": 53,
-      "text": "Deut. vII. 25. _Sculptilia eorum igne combures ; non concupiſces arge tum & aurum de quibus facta ſunt, &c_."
+      "text": "Deut. vII. 25. _Sculptilia eorum igne combures ; non concupisces arge tum et aurum de quibus facta sunt, etc_."
     },
     {
       "key": "page_0226-a",
@@ -694,7 +694,7 @@
     {
       "key": "page_0226-b",
       "n": 55,
-      "text": "Voyez Joſué xii. 7."
+      "text": "Voyez Josué xii. 7."
     },
     {
       "key": "page_0226-c",
@@ -704,7 +704,7 @@
     {
       "key": "page_0227-a",
       "n": 57,
-      "text": "Il y a un canton de ce nom dans les montagnes de Voſge. _Pagus Calvo-montenſis._"
+      "text": "Il y a un canton de ce nom dans les montagnes de Vosge. _Pagus Calvo-montensis._"
     },
     {
       "key": "page_0227-b",
@@ -714,27 +714,27 @@
     {
       "key": "page_0227-c",
       "n": 59,
-      "text": "_Joſeph. l. 5. Antiq. c. 2._"
+      "text": "_Joseph. l. 5. Antiq. c. 2._"
     },
     {
       "key": "page_0227-d",
       "n": 60,
-      "text": "Rabb. Lyr. M. of. Serar. Bonfr. &c."
+      "text": "Rabb. Lyr. M. of. Serar. Bonfr. etc."
     },
     {
       "key": "page_0227-e",
       "n": 61,
-      "text": "_Joſ. XIV. 7._ Quatuoraginta annorum eram quando dimiſit me Moyſes.... Hodie oſtoginta quinque annorum ſum, ſic valens ut eo valebam tempore."
+      "text": "_Jos. XIV. 7._ Quatuoraginta annorum eram quando dimisit me Moyses.... Hodie ostoginta quinque annorum sum, sic valens ut eo valebam tempore."
     },
     {
       "key": "page_0227-f",
       "n": 62,
-      "text": "Exod. XXIII. 19. Sap. XII. 10. & l. 12.)"
+      "text": "Exod. XXIII. 19. Sap. XII. 10. et l. 12.)"
     },
     {
       "key": "page_0228-a",
       "n": 63,
-      "text": "Auguſt. qu. XVII. in Joſue."
+      "text": "August. qu. XVII. in Josue."
     },
     {
       "key": "page_0228-b",
@@ -744,12 +744,12 @@
     {
       "key": "page_0228-c",
       "n": 65,
-      "text": "Joſue X. 37."
+      "text": "Josue X. 37."
     },
     {
       "key": "page_0229-a",
       "n": 66,
-      "text": "In locis Heb. Anab, ſeu Anam."
+      "text": "In locis Heb. Anab, seu Anam."
     },
     {
       "key": "page_0229-b",
@@ -794,7 +794,7 @@
     {
       "key": "page_0230-g",
       "n": 75,
-      "text": "I. Macc. XI. 61. XIII. 43. 44. Joſeph. Antiq. l. 13. cap. 21. vide Cellar. l. 3. c.13. pag. 369."
+      "text": "I. Macc. XI. 61. XIII. 43. 44. Joseph. Antiq. l. 13. cap. 21. vide Cellar. l. 3. c.13. pag. 369."
     },
     {
       "key": "page_0231-a",
@@ -804,7 +804,7 @@
     {
       "key": "page_0231-b",
       "n": 77,
-      "text": "Ioſue xv. 47."
+      "text": "Iosue xv. 47."
     },
     {
       "key": "page_0231-c",
@@ -824,121 +824,7 @@
     {
       "key": "page_0231-f",
       "n": 81,
-      "text": "Ioſeph Antiq. l. XIII. c. 8."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0216",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0217",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0218",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0219",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0220",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0221",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0222",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0223",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0224",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0225",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0226",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0227",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0228",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0229",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0230",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0231",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Ioseph Antiq. l. XIII. c. 8."
     }
   ],
   "missing_footnotes": [

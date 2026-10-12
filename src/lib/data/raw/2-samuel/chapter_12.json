@@ -5,8 +5,8 @@
   "verses": [
     {
       "verse_number": 1,
-      "latin": "MIsit ergo Dominus Nathan ad David. Qui cùm veniſſet ad eum, dixit ei : Duo viri erant in civitate una, unus dives, & alter pauper.",
-      "french": "LE Seigneur envoya donc Nathan vers David. Et Nathan étant venu le trouver, lui dit : Il y avait deux hommes dans une ville, dont l'un était riche, et l'autre pauvre.",
+      "latin": "Misit ergo Dominus Nathan ad David. Qui cùm venisset ad eum, dixit ei : Duo viri erant in civitate una, unus dives, et alter pauper.",
+      "french": "Le Seigneur envoya donc Nathan vers David. Et Nathan étant venu le trouver, lui dit : Il y avait deux hommes dans une ville, dont l'un était riche, et l'autre pauvre.",
       "annotations": "An. du Monde 2970. avant J. C. 1034.",
       "source_pages": [
         "page_0115.json"
@@ -14,7 +14,7 @@
     },
     {
       "verse_number": 2,
-      "latin": "Dives habebat oves, & boves plurimos valdè.",
+      "latin": "Dives habebat oves, et boves plurimos valdè.",
       "french": "Le riche avait un grand nombre de brebis et de bœufs.",
       "annotations": null,
       "source_pages": [
@@ -23,7 +23,7 @@
     },
     {
       "verse_number": 3,
-      "latin": "Pauper autem nihil habebat omninò, præter ovem unam parvulam, quam emerat & nutrierat, & quæ creverat apud eum cum filiis ejus simul, de pane illius comedens, & de calice ejus bibens, & in sinu illius dormiens : eratque illi sicut filia.",
+      "latin": "Pauper autem nihil habebat omninò, præter ovem unam parvulam, quam emerat et nutrierat, et quæ creverat apud eum cum filiis ejus simul, de pane illius comedens, et de calice ejus bibens, et in sinu illius dormiens : eratque illi sicut filia.",
       "french": "Le pauvre n'avait rien du tout qu'une petite brebis, qu'il avait achetée, et avait nourrie; qui était crue parmi ses enfants, en mangeant de son pain, buvant de sa coupe, et dormant dans son sein; et il la chérissait comme sa fille.",
       "annotations": "An. du Monde 2970.",
       "source_pages": [
@@ -32,7 +32,7 @@
     },
     {
       "verse_number": 4,
-      "latin": "Cum autem peregrinus quidam venisset ad divitem, parcens ille sumere de ovibus & de bobus suis, ut exhiberet convivium peregrino illi qui venerat ad se, tulit ovem viri pauperis, & præparavit cibos homini qui venerat ad se.",
+      "latin": "Cum autem peregrinus quidam venisset ad divitem, parcens ille sumere de ovibus et de bobus suis, ut exhiberet convivium peregrino illi qui venerat ad se, tulit ovem viri pauperis, et præparavit cibos homini qui venerat ad se.",
       "french": "Un étranger étant venu voir le riche; celui-ci ne voulut point toucher à ses brebis, ni à ses bœufs pour lui faire festin; mais il prit la brebis de ce pauvre homme, et la donna à manger à son hôte.",
       "annotations": null,
       "source_pages": [
@@ -41,8 +41,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Iratus autem indignatione David adverſus hominem illum nimis , dixit ad Nathan : Vivit Dominus , quoniam filius mortis eſt vir qui fecit hoc :",
-      "french": "5. David entra dans une grande indignation contre cet homme , et il dit à Nathan : Vive le Seigneur , celui qui a fait cette action est digne de mort.",
+      "latin": "Iratus autem indignatione David adversus hominem illum nimis , dixit ad Nathan : Vivit Dominus , quoniam filius mortis est vir qui fecit hoc :",
+      "french": "David entra dans une grande indignation contre cet homme , et il dit à Nathan : Vive le Seigneur , celui qui a fait cette action est digne de mort.",
       "annotations": "An. du Monde 2970.",
       "source_pages": [
         "page_0117.json"
@@ -50,8 +50,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Ovem reddet in quadruplum , eò quòd fecerit verbum iſtud , & non pepercerit.",
-      "french": "6. Il rendra la brebis au quadruple , pour en avoir usé de la sorte , et pour n’avoir point épargné ce pauvre.",
+      "latin": "Ovem reddet in quadruplum , eò quòd fecerit verbum istud , et non pepercerit.",
+      "french": "Il rendra la brebis au quadruple , pour en avoir usé de la sorte , et pour n’avoir point épargné ce pauvre.",
       "annotations": null,
       "source_pages": [
         "page_0117.json"
@@ -59,8 +59,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Dixit autem Nathan ad David : Tu es ille vir : Hæc dicit Dominus Deus Iſraël : Ego unxi te in Regem ſuper Iſraël : & ego erui te de manu Saul,",
-      "french": "7. Alors Nathan dit à David : C’est vous-même qui êtes cet homme. Voici ce que dit le Seigneur le Dieu d’Israël : Je vous ai fait sacrer Roi sur Israël, et vous ai délivré de la main de Saül.",
+      "latin": "Dixit autem Nathan ad David : Tu es ille vir : Hæc dicit Dominus Deus Israël : Ego unxi te in Regem super Israël : et ego erui te de manu Saul,",
+      "french": "Alors Nathan dit à David : C’est vous-même qui êtes cet homme. Voici ce que dit le Seigneur le Dieu d’Israël : Je vous ai fait sacrer Roi sur Israël, et vous ai délivré de la main de Saül.",
       "annotations": null,
       "source_pages": [
         "page_0117.json"
@@ -68,7 +68,7 @@
     },
     {
       "verse_number": 8,
-      "latin": "Et dedi tibi domum Domini tui, & uxores Domini tui in ſinu tuo, dedique tibi domum Iſraël & Juda: & ſi parva ſunt iſta, adjiciam tibi multò majora.",
+      "latin": "Et dedi tibi domum Domini tui, et uxores Domini tui in sinu tuo, dedique tibi domum Israël et Juda: et si parva sunt ista, adjiciam tibi multò majora.",
       "french": "Je vous ai mis entre les mains la maison, et les femmes de votre Seigneur, et vous ai rendu le maître de toute la maison d'Israël et de Juda. Que si cela paraît peu de chose, je suis prêt d'y en ajouter encore beaucoup d'autres.",
       "annotations": "An. du Monde 2970.",
       "source_pages": [
@@ -77,7 +77,7 @@
     },
     {
       "verse_number": 9,
-      "latin": "Quare ergo contempſiſti verbum Domini, ut faceres malum in conſpectu meo? Uriam Hetheum percuſſiſti gladio, & uxorem illius accipiſti in uxorem tibi, & interfeciſti eum gladio filiorum Ammon.",
+      "latin": "Quare ergo contempsisti verbum Domini, ut faceres malum in conspectu meo? Uriam Hetheum percussisti gladio, et uxorem illius accipisti in uxorem tibi, et interfecisti eum gladio filiorum Ammon.",
       "french": "Pourquoi donc avez-vous méprisé ma parole, jusqu'à commettre le mal devant mes yeux ? Vous avez fait perdre la vie à Urie Héthéen ; vous lui avez ôté sa femme, et l'avez prise pour vous ; et vous l'avez tué par l'épée des enfants d'Ammon.",
       "annotations": null,
       "source_pages": [
@@ -86,7 +86,7 @@
     },
     {
       "verse_number": 10,
-      "latin": "Quamobrem non recedet gladius de domo tua uſque in ſempiternum, eò quòd deſpexeris me, & tuleris uxorem Uriæ Hethæi, ut eſſet uxor tua.",
+      "latin": "Quamobrem non recedet gladius de domo tua usque in sempiternum, eò quòd despexeris me, et tuleris uxorem Uriæ Hethæi, ut esset uxor tua.",
       "french": "C'est pourquoi le glaive ne sortira jamais de votre maison ; parce que vous m'avez méprisé, et que vous avez pris pour vous la femme d'Urie Héthéen.",
       "annotations": null,
       "source_pages": [
@@ -95,7 +95,7 @@
     },
     {
       "verse_number": 11,
-      "latin": "Itaque hæc dicit Dominus : Ecce, ego ſuſcitabo ſuper te malum de domo tua, & tollam uxores tuas in oculis tuis, & dabo proximo tuo, & dormiet cum uxoribus tuis in oculis ſolis hujus.",
+      "latin": "Itaque hæc dicit Dominus : Ecce, ego suscitabo super te malum de domo tua, et tollam uxores tuas in oculis tuis, et dabo proximo tuo, et dormiet cum uxoribus tuis in oculis solis hujus.",
       "french": "Voici donc ce que dit le Seigneur: Je vais vous susciter des maux qui naîtront de votre propre maison. Je prendrai vos femmes à vos yeux ; Je les donnerai à un autre, et il dormira avec elles aux yeux de ce soleil que vous voyez.",
       "annotations": "An. de Monde 2970.",
       "source_pages": [
@@ -104,7 +104,7 @@
     },
     {
       "verse_number": 12,
-      "latin": "Tu enim feciſti abſconditè: ego autem faciam verbum iſtud in conſpectu omnis Iſraël, & in conſpectu ſolis.",
+      "latin": "Tu enim fecisti absconditè: ego autem faciam verbum istud in conspectu omnis Israël, et in conspectu solis.",
       "french": "Car pour vous, vous avez fait cette action en secret ; mais pour moi, je la ferai à la vue de tout Israël, et à la vue du soleil.",
       "annotations": null,
       "source_pages": [
@@ -113,7 +113,7 @@
     },
     {
       "verse_number": 13,
-      "latin": "Et dixit David ad Nathan: Peccavi Domino. Dixitque Nathan ad David: Dominus quoque tranſtulit peccatum tuum: non morieris.",
+      "latin": "Et dixit David ad Nathan: Peccavi Domino. Dixitque Nathan ad David: Dominus quoque transtulit peccatum tuum: non morieris.",
       "french": "David dit à Nathan : J'ai péché contre le Seigneur. Et Nathan lui répondit : Le Seigneur a aussi transféré votre péché ; et vous ne mourrez point.",
       "annotations": null,
       "source_pages": [
@@ -122,7 +122,7 @@
     },
     {
       "verse_number": 14,
-      "latin": "_Veruntamen, quoniam blasphemare fecisti inimicos Domini, propter verbum hoc, filius, qui natus est tibi, morte morietur._",
+      "latin": "Veruntamen, quoniam blasphemare fecisti inimicos Domini, propter verbum hoc, filius, qui natus est tibi, morte morietur.",
       "french": "Mais parce que vous avez fait blasphémer par votre action les ennemis du Seigneur, le fils qui vous est né, perdra la vie.",
       "annotations": "An. du Monde 2970.",
       "source_pages": [
@@ -131,7 +131,7 @@
     },
     {
       "verse_number": 15,
-      "latin": "_Et reversus est Nathan in domum suam. Percussit quoque Dominus parvulum, quem pepererat uxor Uriæ David, & desperatus est._",
+      "latin": "Et reversus est Nathan in domum suam. Percussit quoque Dominus parvulum, quem pepererat uxor Uriæ David, et desperatus est.",
       "french": "Nathan retourna ensuite à la maison. En même temps le Seigneur frappa l'enfant que la femme d'Urie avait eu de David, et il fut désespéré.",
       "annotations": null,
       "source_pages": [
@@ -140,7 +140,7 @@
     },
     {
       "verse_number": 16,
-      "latin": "Deprecatúſque eſt David Dominum pro parvulo : & jejunavit David jejunio : & ingreſſus ſeorſum, jacuit ſuper terram.",
+      "latin": "Deprecatúsque est David Dominum pro parvulo : et jejunavit David jejunio : et ingressus seorsum, jacuit super terram.",
       "french": "David pria le Seigneur pour l’enfant ; il jeûna ; il se retira en particulier, et demeura couché sur la terre.",
       "annotations": "An. du Monde 2970.",
       "source_pages": [
@@ -149,7 +149,7 @@
     },
     {
       "verse_number": 17,
-      "latin": "Venerunt autem ſeniores domûs ejus, cogentes eum ut ſurgeret de terra : qui noluit, nec comedit cum eis cibum.",
+      "latin": "Venerunt autem seniores domûs ejus, cogentes eum ut surgeret de terra : qui noluit, nec comedit cum eis cibum.",
       "french": "Les principaux de la maison vinrent le trouver, et lui firent de grandes instances pour l’obliger à se lever de terre ; mais il le refusa, et ne mangea point avec eux.",
       "annotations": null,
       "source_pages": [
@@ -158,7 +158,7 @@
     },
     {
       "verse_number": 18,
-      "latin": "Accidit autem die ſeptima ut moreretur infans : timuerúntque ſervi David nuntiare ei quòd mortuus eſſet parvulus, dixerunt enim : Ecce cum parvulus adhuc viveret, loquebamur ad eum, & non audiebat vocem noſtram : quantò magis ſi dixerimus, mortuus eſt puer, ſe affliget ?",
+      "latin": "Accidit autem die septima ut moreretur infans : timuerúntque servi David nuntiare ei quòd mortuus esset parvulus, dixerunt enim : Ecce cum parvulus adhuc viveret, loquebamur ad eum, et non audiebat vocem nostram : quantò magis si dixerimus, mortuus est puer, se affliget ?",
       "french": "Le septième jour, l’enfant mourut, et les serviteurs de David n’osaient lui dire qu’il était mort ; car ils s’entredisaient : Lorsque l’enfant vivait encore, et que nous lui parlions, il ne voulait pas nous écouter : combien donc s’affligera-t-il encore davantage, si nous lui disons qu’il est mort ?",
       "annotations": null,
       "source_pages": [
@@ -167,7 +167,7 @@
     },
     {
       "verse_number": 19,
-      "latin": "Cùm ergò David vidiſſet ſervos ſuos muſſitantes, intellexit quod mortuus eſſet infantulus : dixítque ad ſervos ſuos : Num mortuus eſt puer ? Qui reſponderunt ei : Mortuus eſt.",
+      "latin": "Cùm ergò David vidisset servos suos mussitantes, intellexit quod mortuus esset infantulus : dixítque ad servos suos : Num mortuus est puer ? Qui responderunt ei : Mortuus est.",
       "french": "David voyant que ses Officiers parlaient tout bas entre eux, reconnut que l’enfant était mort ; et le leur ayant demandé, ils lui répondirent qu’il était mort.",
       "annotations": null,
       "source_pages": [
@@ -176,7 +176,7 @@
     },
     {
       "verse_number": 20,
-      "latin": "Surrexit ergò David de terra : & lotus unctúſque eſt : cúmque mutaſſet veſtem, ingreſſus eſt domum Domini, & adoravit : & venit in domum ſuam, petivítque ut ponerent ei panem, & comedit.",
+      "latin": "Surrexit ergò David de terra : et lotus unctúsque est : cúmque mutasset vestem, ingressus est domum Domini, et adoravit : et venit in domum suam, petivítque ut ponerent ei panem, et comedit.",
       "french": "Aussitôt il se leva de terre, alla au bain, s’oignit d’huile ; et ayant changé d’habit, il entra dans la maison du Seigneur, et l’adora : il revint ensuite en sa maison ; il demanda qu’on lui servît à manger, et il prit de la nourriture.",
       "annotations": null,
       "source_pages": [
@@ -185,7 +185,7 @@
     },
     {
       "verse_number": 21,
-      "latin": "Dixerunt autem ei ſervi ſui : Quis eſt ſermo, quem feciſti ? Propter infantem, cùm adhuc viveret, jejunaſti, & flebas : mortuo autem puero, ſurrexiſti & comediſti panem.",
+      "latin": "Dixerunt autem ei servi sui : Quis est sermo, quem fecisti ? Propter infantem, cùm adhuc viveret, jejunasti, et flebas : mortuo autem puero, surrexisti et comedisti panem.",
       "french": "Alors ses Officiers lui dirent : D’où vient cette conduite si extraordinaire ? Vous jeûniez, et vous pleuriez pour l’enfant, lorsqu’il vivait encore ; et après qu’il est mort, vous vous êtes levé, et vous avez mangé.",
       "annotations": null,
       "source_pages": [
@@ -194,7 +194,7 @@
     },
     {
       "verse_number": 22,
-      "latin": "Qui ait : Propter infantem, dum adhuc viveret, jejunavi & flevi : dicebam enim : Quis ſcit ſi fortè donet eum mihi Dominus, & vivat infans?",
+      "latin": "Qui ait : Propter infantem, dum adhuc viveret, jejunavi et flevi : dicebam enim : Quis scit si fortè donet eum mihi Dominus, et vivat infans?",
       "french": "David leur répondit : J'ai jeûné et j'ai pleuré pour l'enfant tant qu'il a vécu ; parce que je disais : Qui sait si le Seigneur ne me l'accordera point, et s'il ne lui sauvera point la vie ?",
       "annotations": null,
       "source_pages": [
@@ -203,7 +203,7 @@
     },
     {
       "verse_number": 23,
-      "latin": "Nunc autem quia mortuus eſt, quare jejunem? Numquid potero revocare eum ampliùs? Ego vadam magis ad eum : ille verò non revertetur ad me.",
+      "latin": "Nunc autem quia mortuus est, quare jejunem? Numquid potero revocare eum ampliùs? Ego vadam magis ad eum : ille verò non revertetur ad me.",
       "french": "Mais maintenant qu'il est mort, pourquoi jeûnerais-je ? Est-ce que je puis encore le faire revivre ? C'est moi plutôt qui irai à lui ; et il ne reviendra jamais à moi.",
       "annotations": null,
       "source_pages": [
@@ -212,7 +212,7 @@
     },
     {
       "verse_number": 24,
-      "latin": "Et conſolatus eſt David Bethſabee uxorem ſuam, ingreſſuſque ad eam dormivit cum ea : quæ genuit filium, & vocavit nomen ejus Salomon, & Dominus dilexit eum.",
+      "latin": "Et consolatus est David Bethsabee uxorem suam, ingressusque ad eam dormivit cum ea : quæ genuit filium, et vocavit nomen ejus Salomon, et Dominus dilexit eum.",
       "french": "David ensuite consola sa femme Bethsabée ; il dormit avec elle, et elle eut un fils, qu'il appela Salomon : le Seigneur aima cet enfant.",
       "annotations": null,
       "source_pages": [
@@ -221,7 +221,7 @@
     },
     {
       "verse_number": 25,
-      "latin": "Miſitque in manu Nathan Prophetæ, & vocavit nomen ejus, Amabilis Domino, eò quòd diligeret eum Dominus.",
+      "latin": "Misitque in manu Nathan Prophetæ, et vocavit nomen ejus, Amabilis Domino, eò quòd diligeret eum Dominus.",
       "french": "Et ayant envoyé à David le Prophète Nathan, il donna à l'enfant le nom d'Aimable au Seigneur, parce que le Seigneur l'aimait.",
       "annotations": "An. du Monde 2971. avant J.C. 1033.",
       "source_pages": [
@@ -230,8 +230,8 @@
     },
     {
       "verse_number": 26,
-      "latin": "Igitur pugnabat Joab contra Rabbath filiorum Ammon, & expugnabat urbem Regiam.",
-      "french": "Joab continua à battre Rabbath, An. du Monde 2971. ville des Ammonites; et étant près de prendre cette ville Royale,",
+      "latin": "Igitur pugnabat Joab contra Rabbath filiorum Ammon, et expugnabat urbem Regiam.",
+      "french": "Joab continua à battre Rabbath ville des Ammonites; et étant près de prendre cette ville Royale,",
       "annotations": null,
       "source_pages": [
         "page_0123.json"
@@ -239,7 +239,7 @@
     },
     {
       "verse_number": 27,
-      "latin": "Misitque Joab nuntios ad David, dicens : Dimicavi adversum Rabbath, & capienda est urbs Aquarum.",
+      "latin": "Misitque Joab nuntios ad David, dicens : Dimicavi adversum Rabbath, et capienda est urbs Aquarum.",
       "french": "Il envoya des courriers à David, avec ordre de lui dire : J'ai battu jusqu'ici Rabbath ; et la ville des Eaux va être prise.",
       "annotations": null,
       "source_pages": [
@@ -248,7 +248,7 @@
     },
     {
       "verse_number": 28,
-      "latin": "Nunc igitur congrega reliquam partem populi, & obſide civitatem, & cape eam : ne, cùm à me vaſtata fuerit urbi, nomini meo adſcribatur victoria.",
+      "latin": "Nunc igitur congrega reliquam partem populi, et obside civitatem, et cape eam : ne, cùm à me vastata fuerit urbi, nomini meo adscribatur victoria.",
       "french": "Faites assembler le reste du peuple, et venez au siège de la ville, et la prenez, de peur que lorsque je l'aurai détruite, on ne m'attribue l'honneur de cette victoire.",
       "annotations": "An. du Monde 2971.",
       "source_pages": [
@@ -257,7 +257,7 @@
     },
     {
       "verse_number": 29,
-      "latin": "Congregavit itaque David omnem populum, & profectus eſt adverſum Rabbath : cùmque dimicaſſet, cepit eam.",
+      "latin": "Congregavit itaque David omnem populum, et profectus est adversum Rabbath : cùmque dimicasset, cepit eam.",
       "french": "David assembla donc tout le peuple, et marcha contre Rabbath ; et l'ayant attaquée, il la prit.",
       "annotations": null,
       "source_pages": [
@@ -266,7 +266,7 @@
     },
     {
       "verse_number": 30,
-      "latin": "Et tulit diadema Regis eorum de capite ejus, pondo auri talentum, habens gemmas pretioſiſſimas, & impoſitum eſt ſuper caput David. Sed & prædam civitatis aſportavit multam valde.",
+      "latin": "Et tulit diadema Regis eorum de capite ejus, pondo auri talentum, habens gemmas pretiosissimas, et impositum est super caput David. Sed et prædam civitatis asportavit multam valde.",
       "french": "Il ôta de dessus la tête du Roi des Ammonites, le diadème, qui pesait un talent d'or, et était enrichi de pierreries très précieuses, et il fut mis sur la tête de David. Il remporta aussi de la ville un fort grand butin.",
       "annotations": null,
       "source_pages": [
@@ -275,7 +275,7 @@
     },
     {
       "verse_number": 31,
-      "latin": "Populum quoque ejus adducens ſerravit, & circumegit ſuper eos ferrata carpenta : diviſitque cultris, & traduxit in typo laterum : ſic fecit univerſis civitatibus filiorum Ammon. Et reverſus eſt David, & omnis exercitus in Jeruſalem.",
+      "latin": "Populum quoque ejus adducens serravit, et circumegit super eos ferrata carpenta : divisitque cultris, et traduxit in typo laterum : sic fecit universis civitatibus filiorum Ammon. Et reversus est David, et omnis exercitus in Jerusalem.",
       "french": "Et ayant fait sortir les habitants, il les coupa avec des scies, fit passer sur eux des chariots avec des roues de fer, et les tailla en pièces avec des couteaux, et les jeta dans des fourneaux où l’on cuit la brique. C’est ainsi qu’il traita toutes les villes des Ammonites. David revint ensuite à Jérusalem avec toute son armée.",
       "annotations": "An. de Monde 2974.",
       "source_pages": [

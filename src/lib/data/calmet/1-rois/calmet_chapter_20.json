@@ -51,7 +51,7 @@
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUIS INCIPIET PRÆLIARI?",
       "lemma": "Qui commencera le combat?",
       "text": "L'Hébreu : [16] _Qui liera le combat? Qui engagera l'action? Irai-je attaquer l'ennemi, ou attendrai-je qu'il m'attaque?_ Le Chaldéen, selon Vatable: [17] _Qui portera l'étendard de la guerre?_ Il n'était pas nécessaire qu'Achab y fût en personne; il suffisait que ses gens y commandassent, pour pouvoir dire en vérité que c'était lui qui attaquait l'ennemi. Cela se dit tous les jours. La fuite fait voir qu'Achab ne sortit de la ville, que lorsqu'il vit l'armée ennemie prendre la fuite, ℣. 21. Il fit d'abord paraître les deux cent trente-trois jeunes hommes, ensuite il fit sortir ses troupes, qui consistaient en sept mille hommes. Voilà l'armée qui mit en fuite celle de Bénadad, avec ses trente-deux Rois."
@@ -68,21 +68,21 @@
       "sub": false,
       "latin_lemma": "AMOVE REGES, ET PONE PRINCIPES PRO",
       "lemma": null,
-      "text": "EIS. Faites retirer les Rois de votre armée, et mettez en leur place des Officiers généraux. Chacun de ces Princes veut être maître ; l'armée est affaiblie par ce trop grand nombre de Commandants. Que ces Rois des troupes auxiliaires demeurent dans leurs villes ; et l'on mettra à la tête de leurs troupes des Officiers expérimentés, qui ne feront rien que par vos ordres :"
+      "text": ""
     },
     {
       "verse": 24,
-      "sub": true,
-      "latin_lemma": "Multos eſſe malum Reges, Rex unicus eſto.",
-      "lemma": null,
-      "text": ""
+      "sub": false,
+      "latin_lemma": "EIS.",
+      "lemma": "Faites retirer les Rois de votre armée, et mettez en leur place des Officiers généraux.",
+      "text": "Chacun de ces Princes veut être maître ; l'armée est affaiblie par ce trop grand nombre de Commandants. Que ces Rois des troupes auxiliaires demeurent dans leurs villes ; et l'on mettra à la tête de leurs troupes des Officiers expérimentés, qui ne feront rien que par vos ordres : \n_Multos esse malum Reges, Rex unicus esto._"
     },
     {
       "verse": 26,
       "sub": false,
       "latin_lemma": "ASCENDIT IN APECH.",
-      "lemma": "Il vint à Apech, ville fameuse dans la Célésyrie.",
-      "text": "Nous en avons parlé au long sur Josué.[18] Elle était alors aux Syriens, et fut fort célèbre dans ces temps-là. Elle était échue à la tribu d'Aser, qui ne paraît pas en avoir jamais joui. C'est apparemment cette ville, dont on voit des vestiges dans un lac du mont Liban, où elle est enfoncée.[19] Ce lac est vers l'endroit où devait être Aphec. Ce lac a neuf à dix mille de tour. On remarque au fond de l'eau quantité de maisons toutes entières. Il paraît par ce qu'on en voit, qu'elle était belle, et grande. Elle est à deux heures de la plaine de Balbec. Les Anciens nous apprennent qu'il y avait près d'Aphaca un lac, et aux environs, un terrain qui produisait de temps en temps des flammes ; circonstances, qui favorisent notre conjecture, que la ville d'Aphec a été abîmée dans le lac, le terrain s'étant affaissé, lorsque le feu souterrain eut consumé la matière solide, qui lui servait de nourriture, et de fondement aux édifices de la place.[20] L'eau du lac devait être fort épaisse, et bitumineuse, si ce qu'on nous en rapporte, est vrai ; savoir, qu'on éprouvait les présents faits à la Déesse Aphachite, sur l'eau de ce lac. S'ils enfonçaient, on les croyait agréables ; sinon, on jugeait qu'elle les refusait. Les choses légères, comme le lin, et la laine, enfonçaient ; les tuiles, et souvent les métaux, n'enfonçaient pas."
+      "lemma": "Il vint à Apech,",
+      "text": "ville fameuse dans la Célésyrie. Nous en avons parlé au long sur Josué.[18] Elle était alors aux Syriens, et fut fort célèbre dans ces temps-là. Elle était échue à la tribu d'Aser, qui ne paraît pas en avoir jamais joui. C'est apparemment cette ville, dont on voit des vestiges dans un lac du mont Liban, où elle est enfoncée.[19] Ce lac est vers l'endroit où devait être Aphec. Ce lac a neuf à dix mille de tour. On remarque au fond de l'eau quantité de maisons toutes entières. Il paraît par ce qu'on en voit, qu'elle était belle, et grande. Elle est à deux heures de la plaine de Balbec. Les Anciens nous apprennent qu'il y avait près d'Aphaca un lac, et aux environs, un terrain qui produisait de temps en temps des flammes ; circonstances, qui favorisent notre conjecture, que la ville d'Aphec a été abîmée dans le lac, le terrain s'étant affaissé, lorsque le feu souterrain eut consumé la matière solide, qui lui servait de nourriture, et de fondement aux édifices de la place.[20] L'eau du lac devait être fort épaisse, et bitumineuse, si ce qu'on nous en rapporte, est vrai ; savoir, qu'on éprouvait les présents faits à la Déesse Aphachite, sur l'eau de ce lac. S'ils enfonçaient, on les croyait agréables ; sinon, on jugeait qu'elle les refusait. Les choses légères, comme le lin, et la laine, enfonçaient ; les tuiles, et souvent les métaux, n'enfonçaient pas."
     },
     {
       "verse": 27,
@@ -93,7 +93,7 @@
     },
     {
       "verse": 27,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUASI DUO PARVI GREGES CAPRARUM.",
       "lemma": "Comme deux petits troupeaux de chèvres.",
       "text": "Dans l'Ecriture, on compare assez souvent des armées à des troupeaux, et les Généraux à des pasteurs. Saül fit la revue de ses troupes, comme d'un troupeau de moutons : _Recensuit eos quasi agnos._ [23] Jérémie [24] dit qu'il _viendra contre Sion des pasteurs avec leurs troupeaux ; qu'ils dresseront leurs tentes tout aux environs de la ville, etc._ L'Hébreu de cet endroit-ci porte : [25] _Comme deux troupeaux de chèvres dépouillées ; deux troupeaux de chèvres tondues._ On sait qu'en ce pays-là, il y avait des chèvres qu'on tondait, et dont on employait le poil à diverses étoffes. On compare l'armée d'Israël à des chèvres tondues, ou à cause qu'alors les chèvres demeurent plus serrées, et que ces troupeaux paraissent moins gros ; ou à cause que leur nudité les rend moins belles, et moins agréables.\n\nBochart  montre que le Texte signifie _deux chevreaux_. L'armée d'Israël est comparée à deux petits chevreaux serrés près de leur mère. Cela est un peu exténué. Mais aussi est-il naturel de comparer une seule armée à deux troupeaux? Les Septante, le Caldéen, le Syriaque, et l'Arabe mettent tout simplement: _Deux troupeaux de chèvres_, sans exprimer l'épithète de _petits_, que presque tous les autres Interprètes ont conservée."
@@ -107,7 +107,7 @@
     },
     {
       "verse": 30,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN CUBICULUM QUOD ERAT INTRA CUBICULUM.",
       "lemma": "Dans le lieu le plus secret de sa chambre.",
       "text": "À la lettre:  _Dans la chambre de la chambre._ Dans le cabinet qui était pratiqué dans la chambre, comme il se voit encore assez souvent dans nos manières de bâtir, qu'on pratique un cabinet, ou une alcôve, dans le coin d'une chambre. On dit qu'en Espagne, le lit qui est dans la chambre, est comme dans une autre petite chambre, murée à une certaine hauteur. C'est à la lettre, _la chambre de la chambre._ Bénadad voyant sa ville prise, et les Israélites entrés par la grande brèche qui s'était faite au mur, se sauva dans le plus profond de son appartement, pour s'y cacher. Michée, fils de Jemla, prédit à Achab, ci-après, au Chap. XXII.  qu'il sera contraint de se sauver, comme ici, dans la chambre de la chambre: _Quando ingredieris cubiculum intra cubiculum, ut abscondaris._ Joseph dit que Bénadad se sauva dans un lieu souterrain.[26]"
@@ -135,14 +135,14 @@
     },
     {
       "verse": 34,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET PLATEAS FAC TIBI.",
       "lemma": "Faites-vous des places publiques dans Damas, comme mon père en avait fait dans Samarie.",
       "text": "Le droit d'avoir des places publiques à soi dans la Capitale d'un autre Prince, est sans doute un droit de Souverain, ou au moins d'égal au Souverain. Ces places étaient accompagnées de maisons, où demeuraient des Marchands, sujets de Bénadad, qui lui payaient les droits d'impôt pour leur trafic. Ce Prince offre à Achab de lui donner le même privilège pour ses sujets à Damas; de leur fournir une place, et de leur laisser le libre exercice de leur commerce, et de leurs Lois, sous l'obéissance d'Achab. Mais on ne voit pas que cela ait été fidèlement exécuté de la part de Bénadad. Ce Prince ne rendit pas Ramoth de Galaad; et Achab fut obligé de lui faire la guerre, pour la reprendre, comme on le verra ci-après.[35] Quelques Interprètes traduisent l'Hébreu[36] par: _Vous ferez des rues[37] dans Damas._ D'autres[38] l'entendent des lignes, ou des fortifications, pour empêcher que les Syriens n'entrent dans le pays d'Israël, et qui donnent aux Israélites l'ouverture pour pénétrer dans le pays des Syriens. David avait mis des garnisons, ou des troupes dans quelques places de la Syrie :[39] _Posuit David præsidium in Syria Damasci._ Il en avait mis de même dans l'Idumée.[40] Les Philistins, pendant le gouvernement de Samuel, et au commencement du règne de Saül, en combien d'endroits avaient-ils des garnisons?[41] _Sationes Philisthinorum._ C'est, dit-on, la même chose à quoi Bénadad veut bien se soumettre de la part d'Achab, à Damas, ou aux environs."
     },
     {
       "verse": 34,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET EGO FOEDERATUS RECEDAM A TE.",
       "lemma": "Rendez-moi la liberté sous ces conditions.",
       "text": "L'Auteur de la Vulgate, et plusieurs autres après lui, prennent les paroles du Texte, comme étant une continuation de la demande, ou de la proposition de Bénadad : mais le Texte Hébreu doit s'entendre de la réponse d'Achab à Bénadad : [42] _Et moi je vous renverrai avec alliance_. Si vous voulez exécuter ces propositions, je vous remettrai en parfaite liberté, et je ferai alliance avec vous."
@@ -218,13 +218,6 @@
       "mode": "splice",
       "before": "es ou de jeunes Gentilshommes, qu'on élevait à la Cour au-",
       "after": "près du Roi. D'autres veulent que ç'ait été les valets de "
-    },
-    {
-      "seam": "page_0400>page_0401",
-      "verse": 24,
-      "mode": "flow",
-      "before": "",
-      "after": "EIS. Faites retirer les Rois de votre armée, et mettez en "
     },
     {
       "seam": "page_0401>page_0402",
@@ -314,12 +307,12 @@
     {
       "key": "page_0395-b",
       "n": 4,
-      "text": "Grot. Jun. Malv. Vict. Minoc. &c. Vulg."
+      "text": "Grot. Jun. Malv. Vict. Minoc. etc. Vulg."
     },
     {
       "key": "page_0396-a",
       "n": 5,
-      "text": "Munſt Quidam in Vat Cald. Interp."
+      "text": "Munst Quidam in Vat Cald. Interp."
     },
     {
       "key": "page_0396-b",
@@ -329,12 +322,12 @@
     {
       "key": "page_0396-c",
       "n": 7,
-      "text": "Joſeph. _Antiq. lib._ 8. _c._ 8. Α’ναλω’σω τὴν Α’σαριν τὴν τυχα̃ν χω̃μα τόσοις ἰσχύριον ὡς σρατιαν, καὶ λαμβάνουσιν. Ita Author Hiſtor. Scholaſt, Lyr, Dionyſ."
+      "text": "Joseph. _Antiq. lib._ 8. _c._ 8. Α’ναλω’σω τὴν Α’σαριν τὴν τυχα̃ν χω̃μα τόσοις ἰσχύριον ὡς σρατιαν, καὶ λαμβάνουσιν. Ita Author Histor. Scholast, Lyr, Dionys."
     },
     {
       "key": "page_0396-d",
       "n": 8,
-      "text": "Καὶ ἐκλιψουσι ὁ χου̃ς Σαμαρείας ται̃ς ἀλώπεξι, καὶ πα̃σι τω̃ λαω̃, τοι̃ς πεζοι̃ς ἐμου. L'Hébreu שועל ou שעל ſelon ſes diverſes prononciations, peut ſignifier un renard, ou un poing, une poignée."
+      "text": "Καὶ ἐκλιψουσι ὁ χου̃ς Σαμαρείας ται̃ς ἀλώπεξι, καὶ πα̃σι τω̃ λαω̃, τοι̃ς πεζοι̃ς ἐμου. L'Hébreu שועל ou שעל selon ses diverses prononciations, peut signifier un renard, ou un poing, une poignée."
     },
     {
       "key": "page_0396-e",
@@ -344,7 +337,7 @@
     {
       "key": "page_0396-f",
       "n": 10,
-      "text": "Ita Syr, & Hebr, _mutatis punctis_."
+      "text": "Ita Syr, et Hebr, _mutatis punctis_."
     },
     {
       "key": "page_0397-a",
@@ -364,7 +357,7 @@
     {
       "key": "page_0397-d",
       "n": 14,
-      "text": "Joſue VIII. 2. '4. Judic. IX. 34. 43. XX. 29. I. Reg. XV. 5. & 4. Reg. VI. 8."
+      "text": "Josue VIII. 2. '4. Judic. IX. 34. 43. XX. 29. I. Reg. XV. 5. et 4. Reg. VI. 8."
     },
     {
       "key": "page_0398-a",
@@ -384,7 +377,7 @@
     {
       "key": "page_0401-a",
       "n": 18,
-      "text": "Joſué XIX. 30."
+      "text": "Josué XIX. 30."
     },
     {
       "key": "page_0401-b",
@@ -429,12 +422,12 @@
     {
       "key": "page_0404-b",
       "n": 27,
-      "text": "Arab. Munſt Vat."
+      "text": "Arab. Munst Vat."
     },
     {
       "key": "page_0404-c",
       "n": 28,
-      "text": "Joſeph. loco citato. Σάκκον ἐσθῆτα, Σχοινία ταῖς κεφαλαῖς περιθέμενοι, ὅπως γὸ τὸ"
+      "text": "Joseph. loco citato. Σάκκον ἐσθῆτα, Σχοινία ταῖς κεφαλαῖς περιθέμενοι, ὅπως γὸ τὸ"
     },
     {
       "key": "page_0404-d",
@@ -449,12 +442,12 @@
     {
       "key": "page_0405-b",
       "n": 31,
-      "text": "וימהרו ויחלטו הממנו Ils liſent: מלתהו ממנו"
+      "text": "וימהרו ויחלטו הממנו Ils lisent: מלתהו ממנו"
     },
     {
       "key": "page_0405-c",
       "n": 32,
-      "text": "Jonath. Septuag. Tigur. Munst. Ofi. &c."
+      "text": "Jonath. Septuag. Tigur. Munst. Ofi. etc."
     },
     {
       "key": "page_0405-d",
@@ -484,7 +477,7 @@
     {
       "key": "page_0406-d",
       "n": 38,
-      "text": "Grot. Jun. Piſcat. Iſa. 70. E'xidus Glorioſus in Damascum. Joſeph. Antiq. lib. 8. c. 8. & Δαμασκὸν ἐπὶ ἐλάσειν εἰς αὐτὴν, καὶ ὡς οὐ δι' ἀνατρετ αὐτὰ ἐς Σαμάρειαν ἔχων, &c."
+      "text": "Grot. Jun. Piscat. Isa. 70. E'xidus Gloriosus in Damascum. Joseph. Antiq. lib. 8. c. 8. et Δαμασκὸν ἐπὶ ἐλάσειν εἰς αὐτὴν, καὶ ὡς οὐ δι' ἀνατρετ αὐτὰ ἐς Σαμάρειαν ἔχων, etc."
     },
     {
       "key": "page_0406-e",
@@ -494,22 +487,22 @@
     {
       "key": "page_0406-f",
       "n": 40,
-      "text": "2. Reg. VIII. 14. _Poſuit in Idumæa cuſtodes, ſtatuitque præſidium._"
+      "text": "2. Reg. VIII. 14. _Posuit in Idumæa custodes, statuitque præsidium._"
     },
     {
       "key": "page_0406-g",
       "n": 41,
-      "text": "1. Reg. X. 5. XIII. 3. 4. XIV. 1. 4. & 2. Reg. XXIII. 11."
+      "text": "1. Reg. X. 5. XIII. 3. 4. XIV. 1. 4. et 2. Reg. XXIII. 11."
     },
     {
       "key": "page_0407-a",
       "n": 42,
-      "text": "ואני בכרית אשלחך. _Vide Sanct. & Cornel._"
+      "text": "ואני בכרית אשלחך. _Vide Sanct. et Cornel._"
     },
     {
       "key": "page_0407-b",
       "n": 43,
-      "text": "Ita Joſeph. Antiq. lib. 8. c. 8. & Hebr."
+      "text": "Ita Joseph. Antiq. lib. 8. c. 8. et Hebr."
     },
     {
       "key": "page_0407-c",
@@ -524,12 +517,12 @@
     {
       "key": "page_0408-a",
       "n": 46,
-      "text": "וַיִּתְחַפֵּשׂ בָּאֲפֵר עַל־עֵינָיו. ὴ καὶ ἀλλοιώσας τὴν ὄψιν αὐτοῦ ἐν τελαμῶνι τῆς ὀφθαλμῶν αὐτοῦ. Il ſe banda les yeux. Aq. ἐγκαλυψάμενος ἐν σποδῷ ἐπὶ τοὺς ὀφθαλμοὺς αὐτοῦ. Sym. κατακαλυψάμενος σποδῷ ἐπὶ τῶν ὀφθαλμῶν αὐτοῦ. Il ſe couvrit les yeux de cendre, ou de pouſſiére."
+      "text": "וַיִּתְחַפֵּשׂ בָּאֲפֵר עַל־עֵינָיו. ὴ καὶ ἀλλοιώσας τὴν ὄψιν αὐτοῦ ἐν τελαμῶνι τῆς ὀφθαλμῶν αὐτοῦ. Il se banda les yeux. Aq. ἐγκαλυψάμενος ἐν σποδῷ ἐπὶ τοὺς ὀφθαλμοὺς αὐτοῦ. Sym. κατακαλυψάμενος σποδῷ ἐπὶ τῶν ὀφθαλμῶν αὐτοῦ. Il se couvrit les yeux de cendre, ou de poussiére."
     },
     {
       "key": "page_0408-b",
       "n": 47,
-      "text": "2. Reg. XII. 1. & ſequ."
+      "text": "2. Reg. XII. 1. et sequ."
     },
     {
       "key": "page_0408-c",
@@ -539,7 +532,7 @@
     {
       "key": "page_0408-d",
       "n": 49,
-      "text": "Rabb. ità, & Rupert. lib. 5. c. 13. Dionyſ. Lyran. Sanct."
+      "text": "Rabb. ità, et Rupert. lib. 5. c. 13. Dionys. Lyran. Sanct."
     },
     {
       "key": "page_0409-a",
@@ -549,7 +542,7 @@
     {
       "key": "page_0409-b",
       "n": 51,
-      "text": "Vatab. Malv. Vide Mich. VII. 2. Habac. I. 17. ou חרם ſe prend en ce ſens."
+      "text": "Vatab. Malv. Vide Mich. VII. 2. Habac. I. 17. ou חרם se prend en ce sens."
     },
     {
       "key": "page_0409-c",
@@ -569,128 +562,7 @@
     {
       "key": "page_0409-f",
       "n": 55,
-      "text": "Joſeph. Antiq. lib. 8. cap. 8. Παροξυνθεὶς πρὸς τὸν Προφήτην, τὸν μὲν ἐγκλεισθῆναι Φυλακῇ διὰ τάχους ἐκέλευσεν; συγκεχυμέδὲ αὐτὸς ἐπὶ τοῖς ἔμελλε λόγοις, ἀνεχώρησεν εἰς τὴν οἰκίαν."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0393",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0394",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0395",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0396",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0397",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0398",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0399",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0400",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0401",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0402",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0403",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0404",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0405",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0406",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0407",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0408",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0409",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Joseph. Antiq. lib. 8. cap. 8. Παροξυνθεὶς πρὸς τὸν Προφήτην, τὸν μὲν ἐγκλεισθῆναι Φυλακῇ διὰ τάχους ἐκέλευσεν; συγκεχυμέδὲ αὐτὸς ἐπὶ τοῖς ἔμελλε λόγοις, ἀνεχώρησεν εἰς τὴν οἰκίαν."
     }
   ],
   "missing_footnotes": [

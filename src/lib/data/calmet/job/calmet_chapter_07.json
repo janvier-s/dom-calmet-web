@@ -9,7 +9,7 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SICUT DIES MERCENARII, DIES EJUS.",
       "lemma": "Ses jours sont comme les jours d’un mercenaire.",
       "text": "non tentatio est-vita hominis super terram? La vie de l’homme sur la terre n’est-elle pas une tentation continuelle, ou une épreuve, ou un lieu d’exercice? Ils semblent faire allusion aux exercices de la milice, ou aux épreuves des jeunes soldats, que l’on formait au métier de la guerre. Mais je ne vois point de nécessité de quitter la traduction de la Vulgate, qui porte que la vie de l’homme est une milice, ou une guerre perpétuelle. Ce sens revient fort bien à cet endroit.\nSes jours sont comptés, et déterminés. Ils sont tous occupés, et remplis. Comme un mercenaire n’a point de relâche, tout le temps que dure la journée; toujours obligé de travailler aux ouvrages qu’on lui prescrit: ainsi l’homme n’a aucun repos dans la vie. Et s’il lui est permis de souhaiter la fin de son travail, pourquoi ne pourrai-je pas demander à Dieu qu’il finisse les jours de ma vie si pénible, et si douloureuse?"
@@ -46,7 +46,7 @@
       "verse": 6,
       "sub": false,
       "latin_lemma": "DIES MEI VELOCIUS TRANSIERUNT, QUAM A TEXENTE TELA SUCCIDITUR ; ET CONSUMPTI SUNT ABSQUE ULLA SPE.",
-      "lemma": "Mes jours ont été retranchés plus vite, que le fil de la toile n'est coupé par le tisserand ; et ils se sont écoulés, sans me laisser aucune espérance.",
+      "lemma": "_Mes jours ont été retranchés plus vite, que le_ _fil de la toile n'est coupé par le tisserand ; et ils se sont écoulés, sans me_ _laisser aucune espérance._",
       "text": "On traduit l'Hébreu diversement : [8] _Mes_ _jours se sont écoulés plus vite, que la navette du tisserand ; et ils ont_ _cessé avec le fil._ Aussitôt que le fil manque, le tisserand descend la toile de son métier ; la pièce est finie. Les Profanes ont aussi comparé la vie de l'homme à un fil, que la Parque allongeait, ou coupait, suivant l'ordre des Destins : mais au lieu que Job la met en la main du Tout-puissant ; les Poètes l'attribuent à trois Déesses, filles de la Nécessité, qui filent des fils de diamants. [9] Les Septante : [10] _Ma vie_ _coule plus vite que la parole ; elle périt dans une vaine espérance._ On peut entendre l'Hébreu de cette sorte : _Les jours de ma prospérité_ _sont passés plus vite que la navette d'un tisserand ; ils sont consumés sans_ _me laisser aucune espérance de les revoir jamais._"
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "verse": 20,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUARE POSUISTI ME CONTRARIUM TIBI, ET FACTUS SUM MIHI METIPSI GRAVIS?",
       "lemma": "Pourquoi m'avez-vous mis dans un état contraire à vous, et où je suis à charge à moi-même ? Ou, suivant l'Hébreu :[25] Pourquoi m'avez-vous mis en butte à tous vos traits ? Ou : Pourquoi vous êtes-vous élevé contre moi, comme un ennemi qui m'attaque ? Et pourquoi suis-je à charge à moi-même ? Les Septante :[26] Pourquoi m'avez-vous mis contraire à vous ? Et pourquoi vous suis-je à charge ?",
       "text": "se sentant incommodés de la chaleur du soleil, vomissent contre lui des imprécations, et lancent leurs flèches contre le Ciel. Mais leurs traits retombent sur leurs têtes, et les font périr.\nPourquoi m'avez-vous mis dans la nécessité de me défendre, et de soutenir mon innocence, et de me plaindre de vos rigueurs envers moi ?"
@@ -243,7 +243,7 @@
     {
       "key": "page_0138-c",
       "n": 8,
-      "text": "[UNCERTAIN HEBREW] ימי קלו מני ארג ויכלו באפס תקוה. _Sim. Taxatiùs ipſóque ocyus._ Plus prompt qu'un tiſſu. Les Tetrapes, _Taxatiùs ocyus_, plus prompt qu'un coureur."
+      "text": "[UNCERTAIN HEBREW] ימי קלו מני ארג ויכלו באפס תקוה. _Sim. Taxatiùs ipsóque ocyus._ Plus prompt qu'un tissu. Les Tetrapes, _Taxatiùs ocyus_, plus prompt qu'un coureur."
     },
     {
       "key": "page_0138-d",
@@ -263,22 +263,22 @@
     {
       "key": "page_0140-a",
       "n": 12,
-      "text": "Pſal. CII. 16."
+      "text": "Psal. CII. 16."
     },
     {
       "key": "page_0140-b",
       "n": 13,
-      "text": "Voyez Job XXXVIII. 8, & 16, Pſal, VIII. 27, 29, & CII. 9. Jerem. V. 22. Amos V. 8. IX, 6, Prov."
+      "text": "Voyez Job XXXVIII. 8, et 16, Psal, VIII. 27, 29, et CII. 9. Jerem. V. 22. Amos V. 8. IX, 6, Prov."
     },
     {
       "key": "page_0141-a",
       "n": 14,
-      "text": "_Vide Strabon lib. 1. & 3. & Veget. lib. 4. de Re Milit. cap. 42. Solin. cap. 32._"
+      "text": "_Vide Strabon lib. 1. et 3. et Veget. lib. 4. de Re Milit. cap. 42. Solin. cap. 32._"
     },
     {
       "key": "page_0141-b",
       "n": 15,
-      "text": "_Agell. lib. 13. cap. 21. Ferociſſimos, & immanes & alienos ab omni humanitate, [UNCERTAIN GREEK] quàm à mari genitos, Neptuni filios dixerunt._"
+      "text": "_Agell. lib. 13. cap. 21. Ferocissimos, et immanes et alienos ab omni humanitate, [UNCERTAIN GREEK] quàm à mari genitos, Neptuni filios dixerunt._"
     },
     {
       "key": "page_0141-c",
@@ -328,84 +328,12 @@
     {
       "key": "page_0144-a",
       "n": 25,
-      "text": "[UNCERTAIN HEBREW] ut loqueretur adverſus te, ut eſſet tibi oneri. Antiq. Vulg. Ut loquar adverſum te, & ſum tibi oneri."
+      "text": "[UNCERTAIN HEBREW] ut loqueretur adversus te, ut esset tibi oneri. Antiq. Vulg. Ut loquar adversum te, et sum tibi oneri."
     },
     {
       "key": "page_0144-b",
       "n": 26,
-      "text": "[UNCERTAIN GREEK] S. Aug. Quare conſtituiſti hominem"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0135",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0136",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0137",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0138",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0139",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0140",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0141",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0142",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0143",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0144",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "[UNCERTAIN GREEK] S. Aug. Quare constituisti hominem"
     }
   ],
   "missing_footnotes": []

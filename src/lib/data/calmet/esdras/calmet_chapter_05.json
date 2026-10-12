@@ -37,14 +37,14 @@
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PLACUITQUE UT RES AD DARIUM REFERRETUR, ET TUNC SATISFACERENT ADVERSUS ACCUSATIONEM ILLAM.",
       "lemma": "Il fut arrêté que l'affaire serait rapportée à Darius, et que les Juifs répondraient à l'accusation qu'on formait contre eux.",
       "text": "L'Hébreu est plus court : [17] _Ils ne les firent point cesser, jusqu'à ce que la raison en fût portée à Darius, et qu'on rapportât son Décret sur cela_."
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "STHARBUSANAI, ET CONSILIATORES EJUS APHARSACHÆI.",
       "lemma": "Stharbusanaï, et leurs Conseillers les Apharsachéens, qui étaient au-delà du fleuve.",
       "text": "Nous ne savons si Sthurbusanaï est un nom propre, ou le nom de l'un de ces peuples, qui avaient été envoyés par Salmanasar dans la Syrie. Nous connaissons les _Buséens_ dans la Médie, marqués par Hérodote, [18] et par Etienne. Sathar pouvait être sorti de ces Buses, ou Buséens féens ; ou Sathar est un nom de dignité, qui entre dans celui de Satrape. Les Apharsachéens se trouvent dans le dénombrement des peuples envoyés par Asnaphar, au Chapitre précédent, ℣. 9. Nous croyons que ce sont les Perso-Scythes."
@@ -58,7 +58,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "LIGNA PONUNTUR IN PARIETIBUS.",
       "lemma": "En mettant des bois dans les murailles.",
       "text": "Nous croyons que dans la structure du mur, on mettait trois rangs de pierres, et un de bois. Voyez ce qu'on a dit sur 3. Reg. vi. 36. Voyez aussi ci-après Chap. vi. 4."
@@ -79,7 +79,7 @@
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SASSABASAR POSUIT FUNDAMENTA TEMPLI.",
       "lemma": "Sassabasar jeta les fondements du Temple.",
       "text": "Nous avons déjà remarqué,[24] qu'apparemment Sassabasar était un Gouverneur envoyé par Cyrus à Jérusalem, pour gouverner les Juifs qu'il renvoyait en Judée. Il jeta les fondements du Temple, comme premier Officier du Roi, qui en avait ordonné le rétablissement."
@@ -149,37 +149,37 @@
     {
       "key": "page_0085-a",
       "n": 1,
-      "text": "Zachar. 1. 1. Factum eſt verbum Domini ad Zachariam filium Barachiæ, filii Addo."
+      "text": "Zachar. 1. 1. Factum est verbum Domini ad Zachariam filium Barachiæ, filii Addo."
     },
     {
       "key": "page_0085-b",
       "n": 2,
-      "text": "Agg. 1. 1. 2. 3. & ſeq. & cap. 2."
+      "text": "Agg. 1. 1. 2. 3. et seq. et cap. 2."
     },
     {
       "key": "page_0086-a",
       "n": 3,
-      "text": "_Vide Rabb. Salom. Lyr. Munſt. in cap._ iv. ℣. 6. _Seder Olam._"
+      "text": "_Vide Rabb. Salom. Lyr. Munst. in cap._ iv. ℣. 6. _Seder Olam._"
     },
     {
       "key": "page_0086-b",
       "n": 4,
-      "text": "_Joſeph Antiq. lib._ xi. _cap._ 4."
+      "text": "_Joseph Antiq. lib._ xi. _cap._ 4."
     },
     {
       "key": "page_0086-c",
       "n": 5,
-      "text": "_3. Eſdr._ iii. & iv."
+      "text": "_3. Esdr._ iii. et iv."
     },
     {
       "key": "page_0087-a",
       "n": 6,
-      "text": "אדין ממלנא להון מן אנון (a) שמהת גבריא די דנא ביתא בנין 70. _Tunc ſic diximus illis ; quæ eſſent nomina virorum, &c._"
+      "text": "אדין ממלנא להון מן אנון  שמהת גבריא די דנא ביתא בנין 70. _Tunc sic diximus illis ; quæ essent nomina virorum, etc._"
     },
     {
       "key": "page_0087-b",
       "n": 7,
-      "text": "_Ita Septant. Arab. Vat. Syr. Belg. &c._"
+      "text": "_Ita Septant. Arab. Vat. Syr. Belg. etc._"
     },
     {
       "key": "page_0087-c",
@@ -189,12 +189,12 @@
     {
       "key": "page_0087-d",
       "n": 9,
-      "text": "_Pſal._ XXXIII. 16."
+      "text": "_Psal._ XXXIII. 16."
     },
     {
       "key": "page_0088-a",
       "n": 10,
-      "text": "Pſalm. XXXII. 18."
+      "text": "Psalm. XXXII. 18."
     },
     {
       "key": "page_0088-b",
@@ -204,12 +204,12 @@
     {
       "key": "page_0088-c",
       "n": 12,
-      "text": "Pſalm. X. 8."
+      "text": "Psalm. X. 8."
     },
     {
       "key": "page_0088-d",
       "n": 13,
-      "text": "Pſalm XII. 3."
+      "text": "Psalm XII. 3."
     },
     {
       "key": "page_0088-e",
@@ -244,12 +244,12 @@
     {
       "key": "page_0089-b",
       "n": 20,
-      "text": "Rabi. Sal. Kimchi, Pagn. Mont. & alii."
+      "text": "Rabi. Sal. Kimchi, Pagn. Mont. et alii."
     },
     {
       "key": "page_0089-c",
       "n": 21,
-      "text": "Ita Syr. Jun. Tremel. Piſc. Tig. Caſt."
+      "text": "Ita Syr. Jun. Tremel. Pisc. Tig. Cast."
     },
     {
       "key": "page_0089-d",
@@ -269,7 +269,7 @@
     {
       "key": "page_0091-a",
       "n": 25,
-      "text": "Εἰς τῷ οἶκον τῆς γάζης. בבית גנזיא חמן ספריא ובקרו בבית ספריא די גנזיא מהחתין תמן 70. ce ſont Biblio-thécaires ὅπου ἡ Γάζα καίται ἐν Βαβυλῶνι."
+      "text": "Εἰς τῷ οἶκον τῆς γάζης. בבית גנזיא חמן ספריא ובקרו בבית ספריא די גנזיא מהחתין תמן 70. ce sont Biblio-thécaires ὅπου ἡ Γάζα καίται ἐν Βαβυλῶνι."
     },
     {
       "key": "page_0091-b",
@@ -280,57 +280,6 @@
       "key": "page_0091-c",
       "n": 27,
       "text": "Chap. VI. 1."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0085",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0086",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0087",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0088",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0089",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0090",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0091",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

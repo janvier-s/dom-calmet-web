@@ -16,7 +16,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DUODECIM DURISSIMOS LAPIDES.",
       "lemma": "Douze pierres très dures.",
       "text": "Il y a dans l'Hébreu un terme que les uns [3] rapportent aux Prêtres de cette sorte [4] qu'ils prennent de la station des Prêtres préparés, ou fermes, stables, immobiles. D'autres [5] le rapportent aux douze pierres : _Qu'ils prennent douze pierres préparées, ou douze pierres fermes, dures._ solides ; ou dans un autre sens : Qu'ils prennent et qu'ils préparent douze pierres ; ou enfin, qu'ils prennent un nombre juste de douze pierres, [6] ni plus ni moins."
@@ -30,7 +30,7 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FILII VESTRI, CRAS.",
       "lemma": "A l'avenir quand vos enfants vous demanderont.",
       "text": "A la lettre: _Quand ils vous demanderont demain._ Ce terme demain se met souvent pour marquer simplement le temps à venir : Par exemple le Sage dit, qu'il ne faut pas se glorifier du lendemain : [10] _ne glorieris in crastinum._ C'est-à-dire, qu'il ne faut pas se flatter du futur ; et J. C. ne veut pas que nous ayons de l'inquiétude pour le lendemain : [11] _Nolite solliciti esse in crastinum._ Pour le futur, pour le temps à venir."
@@ -44,7 +44,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN LOCUM IN QUO CASTRA METATI SUNT.",
       "lemma": "Jusqu'au lieu où ils campèrent, jusqu'à Galgal, qui est environ à deux lieues du Jourdain.",
       "text": "l'Hébreu, puisqu'ils traduisent: [12] _À la fin du passage des enfants d'Israël_. Il est fort croyable que ces hommes se firent aider pour porter ces grosses pierres jusqu'en cet endroit. Eusèbe [13] et S. Jérôme témoignent qu'on voyait encore de leur temps les pierres érigées par Josué à Galgal."
@@ -65,7 +65,7 @@
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FESTINAVITQUE POPULUS ET TRANSIIT.",
       "lemma": "Le peuple se hâta, et passa ce fleuve.",
       "text": "Soit que la vue de ces eaux arrêtées et prêtes à les envelopper, leur inspirât de la frayeur, malgré leur foi et leur assurance ; comme il arrive aux plus résolus, à la vue d'un objet terrible ; par exemple, lorsque S. Pierre marchant sur les eaux, fut effrayé par un flot qu'il vit venir ; [18] soit que leur défiance et leur peu de foi leur fît considérer tout cela comme un danger réel, et un mal qu'ils pouvaient éviter par la fuite et par la promptitude."
@@ -93,7 +93,7 @@
     },
     {
       "verse": 13,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PER PLANA ATQUE CAMPESTRIA URBIS JERICHO.",
       "lemma": "Dans la plaine et dans la campagne de la ville de Jéricho.",
       "text": "L'Hébreu : [20] _Par les arabot de Jéricho._ Araba, ou arabot signifie des lieux incultes et qui ne produisent que des pâturages. Ces endroits sont aussi souvent appelés déserts, dans l'ancien et dans le nouveau Testament. Et la Vulgate dans Jérémie appelle en particulier l'endroit dont nous parlons, [21] les déserts de Jéricho. _In deserto quod est juxta Jericho._ Symmaque traduit quelquefois le mot Araba, _par les campagnes_, et quelquefois _par des lieux inhabités._ La ville de Jéricho avait du côté de l'orient une longue campagne qui s'étendait jusqu'au Jourdain."
@@ -121,14 +121,14 @@
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN GALGALIS.",
       "lemma": "À Galgal.",
       "text": "Galgal ne porta ce nom que depuis la circoncision du peuple au même lieu, comme il est marqué ci-après Chap. 5. ℣. 9. Galgal était à dix stades de Jéricho, et à cinquante stades [23] du Jourdain, [24] ayant Jéricho au couchant, et le Jourdain à l'orient. Josué eut son camp à Galgal presque pendant tout le temps de la guerre contre les Cananéens. C'est là où l'on fixa l'Arche, et où les Hébreux laissèrent leurs femmes, leurs enfants, et leurs effets ; on y donna la circoncision aux enfants qui étaient nés dans le désert depuis quarante ans ; et on y célébra la première Pâques. C'est au même endroit que Saül fut reconnu Roi de tout Israël. [25] Il n'y avait peut-être aucune maison à Galgal avant que les Israélites y arrivassent ; mais dans la suite on y bâtit un village, dont il est parlé dans quelques endroits de l'Écriture. [26]"
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CONTRA ORIENTALEM PLAGAM URBIS JERICHO.",
       "lemma": "À l'orient de Jéricho. L'Hébreu à la lettre : [30] À l'extrémité de l'orient de Jéricho.",
       "text": "Quelques-uns [27] ont inféré de cette expression, que Galgal n'était pas droit à l'orient, mais qu'il déclinait un peu vers le nord de Jéricho ; mais le Texte original veut marquer seulement que cet endroit était dans la partie orientale du territoire de Jéricho ; et on sait d'ailleurs que Galgal était directement entre le Jourdain et Jéricho, et par conséquent au vrai orient de cette ville. Josèphe [28] dit en un lieu que Jéricho est à soixante stades du Jourdain , et ailleurs [29] il marque que Galgal est à cinquante stades du Jourdain, et à dix de Jéricho. Galgal est donc directement entre le Jourdain et Jéricho."
@@ -199,27 +199,27 @@
     {
       "key": "page_0108-a",
       "n": 1,
-      "text": "(a) קחו לכם מן העם"
+      "text": " קחו לכם מן העם"
     },
     {
       "key": "page_0108-b",
       "n": 2,
-      "text": "(b) ממצב רגלי הכהנים"
+      "text": " ממצב רגלי הכהנים"
     },
     {
       "key": "page_0108-c",
       "n": 3,
-      "text": "(c) Vat. Mſ. Pag. Jun. & Tremel."
+      "text": " Vat. Ms. Pag. Jun. et Tremel."
     },
     {
       "key": "page_0108-d",
       "n": 4,
-      "text": "(d) הכין עשתי עשרה אבנים"
+      "text": " הכין עשתי עשרה אבנים"
     },
     {
       "key": "page_0108-e",
       "n": 5,
-      "text": "(e) Ita Vulg. 70. Aquila, Sym. Bonfr."
+      "text": " Ita Vulg. 70. Aquila, Sym. Bonfr."
     },
     {
       "key": "page_0109-a",
@@ -229,12 +229,12 @@
     {
       "key": "page_0109-b",
       "n": 7,
-      "text": "Vide ad Geneſ. XXVIII. 18. & XXXI. 46. 47. & 52. & Levit. XXVI. 1."
+      "text": "Vide ad Genes. XXVIII. 18. et XXXI. 46. 47. et 52. et Levit. XXVI. 1."
     },
     {
       "key": "page_0109-c",
       "n": 8,
-      "text": "Euſeb. in locis, Voce Αδγαλ & Galgala."
+      "text": "Euseb. in locis, Voce Αδγαλ et Galgala."
     },
     {
       "key": "page_0109-d",
@@ -254,22 +254,22 @@
     {
       "key": "page_0110-a",
       "n": 12,
-      "text": "ἐν τῇ συντελείᾳ τῆς διαβάσεως. &c."
+      "text": "ἐν τῇ συντελείᾳ τῆς διαβάσεως. etc."
     },
     {
       "key": "page_0110-b",
       "n": 13,
-      "text": "Euſeb. in locis."
+      "text": "Euseb. in locis."
     },
     {
       "key": "page_0110-c",
       "n": 14,
-      "text": "Johan. Moſch. vit. PP. l. 1. c. 11."
+      "text": "Johan. Mosch. vit. PP. l. 1. c. 11."
     },
     {
       "key": "page_0110-d",
       "n": 15,
-      "text": "Vide Anſelm. Remig. Abbat. Lyr. Toſtat. Auctor Hiſt. Eccleſiaſt. Hiſt. Eccleſ. c. 30."
+      "text": "Vide Anselm. Remig. Abbat. Lyr. Tostat. Auctor Hist. Ecclesiast. Hist. Eccles. c. 30."
     },
     {
       "key": "page_0110-e",
@@ -304,17 +304,17 @@
     {
       "key": "page_0112-d",
       "n": 22,
-      "text": "_Joſue_ III. 17."
+      "text": "_Josue_ III. 17."
     },
     {
       "key": "page_0113-a",
       "n": 23,
-      "text": "La ſtade eſt de 125. pas. Les 50. ſtades ſont environ 6000. pas, ou trois petites lieuës."
+      "text": "La stade est de 125. pas. Les 50. stades sont environ 6000. pas, ou trois petites lieuës."
     },
     {
       "key": "page_0113-b",
       "n": 24,
-      "text": "_Joſeph, antiq. l. 5. c. 1._"
+      "text": "_Joseph, antiq. l. 5. c. 1._"
     },
     {
       "key": "page_0113-c",
@@ -324,7 +324,7 @@
     {
       "key": "page_0113-d",
       "n": 26,
-      "text": "_1. Reg. VII. 16. & Amoſ. v. 5. Vide Bonfr. hic._"
+      "text": "_1. Reg. VII. 16. et Amos. v. 5. Vide Bonfr. hic._"
     },
     {
       "key": "page_0114-b",
@@ -334,7 +334,7 @@
     {
       "key": "page_0114-c",
       "n": 28,
-      "text": "Joſeph lib. 5. c. 4. de Bello."
+      "text": "Joseph lib. 5. c. 4. de Bello."
     },
     {
       "key": "page_0114-d",
@@ -349,7 +349,7 @@
     {
       "key": "page_0114-e",
       "n": 31,
-      "text": "Idem ibidem. Ita & Monca l. 1. c. 4. de vitul. aur."
+      "text": "Idem ibidem. Ita et Monca l. 1. c. 4. de vitul. aur."
     },
     {
       "key": "page_0114-f",
@@ -359,65 +359,7 @@
     {
       "key": "page_0115-a",
       "n": 33,
-      "text": "למען דעת כל עמי הארץ (a)"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0108",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0109",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0110",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0111",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0112",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0113",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0114",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0115",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "למען דעת כל עמי הארץ "
     }
   ],
   "missing_footnotes": []

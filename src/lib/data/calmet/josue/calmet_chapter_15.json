@@ -30,7 +30,7 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "T O R R E N T E M Æ G Y P T I.",
       "lemma": "Le torrent de l'Égypte ; le bras le plus oriental du Nil. Voyez ci-devant chap. XIII. 3.",
       "text": ""
@@ -38,7 +38,7 @@
     {
       "verse": 5,
       "sub": false,
-      "latin_lemma": "A B O R I E N T E V E R O, &c.",
+      "latin_lemma": "A B O R I E N T E V E R O, etc.",
       "lemma": "Du côté de l'orient. Ce ℣. n'est presque pas intelligible dans la Vulgate, et il n'est guère plus clair dans l'Hébreu : Les limites du côté de l'orient sont la mer salée, jusqu'à la fin du Jourdain, et ( jusqu'à ses ) limites du côté du Septentrion, depuis la langue de la mer ( du côté du midi, ) jusqu'à la fin du Jourdain ( au côté opposé. )",
       "text": "Pour donner un sens commode à cet endroit, il faudrait l'expliquer ainsi : Les limites du pays de Juda du côté de l'orient, sont la mer morte dans toute sa longueur, depuis la langue qui s'étend vers le midi, jusqu'à l'extrémité septentrionale de cette mer, où le Jourdain se décharge, et où il perd son nom ; c'est ce que le Texte appelle l'_extrémité du Jourdain_. Mais il y eut dans cette longueur quelques lieux donnés à la tribu de Benjamin, vers la partie septentrionale de la mer morte. Remarquez que les Hébreux et les Arabes disent une _langue de mer_, comme nous disons une langue de terre [9]"
     },
@@ -51,8 +51,8 @@
     },
     {
       "verse": 6,
-      "sub": true,
-      "latin_lemma": "BETHARABA, & la pierre de Boën,",
+      "sub": false,
+      "latin_lemma": "BETHARABA, et la pierre de Boën,",
       "lemma": null,
       "text": "sont deux lieux dont la situation est inconnue. Boen était apparemment un des descendants de Ruben, qui donna son nom à cet endroit : il ne paraît pas sûr que ç'ait été une ville."
     },
@@ -65,21 +65,21 @@
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUÆ EST EX ADVERSO ASCENSIONIS ADOMMIM.",
       "lemma": "Galgal qui est vis-à-vis de la montée d'Adommim.",
       "text": "On s'est étendu ci-devant Chap. VII. ℣. 24. sur la situation d'Adommim, que les uns mettent au septentrion, et d'autres au midi de Jéricho, et de Galgal. Les Septante lisent : [11] _Au midi de la vallée_, ou la Vulgate porte; _Au midi du torrent_. On a remarqué plus d'une fois que l'Hébreu Nachal, se prend tantôt pour une vallée, et tantôt pour un torrent; en tout cas cet endroit favorise ceux qui mettent la vallée d'Achor au midi de Galgal."
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FONS SOLIS.",
       "lemma": "La fontaine du Soleil.",
       "text": "En Hébreu, _Ein-semes_. À l'orient de la ville de Jérusalem, sur les confins de Juda et de Benjamin."
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FONTEM ROGEL.",
       "lemma": "La fontaine de Rogel, ou enfin la fontaine du champ du Foulon,",
       "text": "C'était une simple fontaine, et non pas une ville, dont il est quelquefois parlé dans l'Écriture,[12] apparemment parce que l'eau de cette fontaine servait à laver les draps, ou simplement à laver le linge ; car l'hébreu _Rogel_ signifie à la lettre fouler aux pieds, et on sait qu'anciennement on lavait le linge en le foulant aux pieds dans l'eau. Homère[13] nous dépeint Nausicaa, fille du roi Alcinoüs, qui foule aux pieds avec ses servantes dans des fosses faites exprès, le linge qu'elles avaient apporté pour le laver dans le fleuve. Ce fut près de la fontaine de Rogel qu'Adonias, fils de David, s'était fait reconnaître roi ;[14] et cette fontaine était dans les jardins du roi, dit Josèphe ;[15] elle coulait à l'orient du mont de Sion, et se déchargeait dans le torrent de Cédron."
@@ -93,7 +93,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AD OCCIDENTEM IN SUMMITATE VALLIS RAPHAIM, CONTRA AQUILONEM.",
       "lemma": "À l'occident, à l'extrémité de la vallée des Raphaïms, vers le septentrion.",
       "text": "La ligne qui séparait la tribu de Juda de celle de Benjamin, et que nous suivons du côté du septentrion, s'élevait de la vallée de Hennon, vers l'occident de Jérusalem, et allait à la montagne, qui avait la vallée des Géants, ou des Raphaïms, au septentrion. Ainsi la vallée des Raphaïms était au midi de la montagne, et s'étendait jusque vers Bethléem, comme le montre Bonfrerius sur cet endroit.[17] L'Écriture nous parle souvent de cette vallée des Géants ; et les Septante traduisent quelquefois la vallée des Raphaïms, par la _vallée des Titans_. On sait que les Raphaïms étaient des Géants fameux dans ce pays. C'est apparemment de là qu'est venu le nom de cette vallée : David y remporta une mémorable victoire contre les Philistins.[18]"
@@ -107,14 +107,14 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AD VICOS MONTIS EPHRON.",
       "lemma": "Aux villages du mont Éphron.",
       "text": "L'Hébreu :[20] _Aux villes du mont Éphron_. On ne sait pas bien la situation de cette montagne ; ne serait-ce pas les montagnes d'Éphraïm ? Eusèbe parle d'un grand lieu du nom d'_Ephræa_, ou _Éphraïm_, à vingt milles de Jérusalem. Il est parlé de la ville d'Éphron dans les Paralipomènes.[21] Et dans les Maccabées ;[22] c'est apparemment le même que Éphraïm dont il est parlé dans l'Évangile.[23] Il paraît qu'elle était dans un défilé, et d'une situation fort avantageuse ; elle passait pour une place fort considérable du temps de Judas Maccabée."
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BALA, QUÆ EST CARIATHIARIM.",
       "lemma": "À Bala, qui est la même que Cariathiarim.",
       "text": "On l'appelle aussi _Baal_, et _Cariath-baal_.[24] Elle était de la tribu de Juda, éloignée de Jérusalem de dix milles, en tirant vers Diopolis. Le nom de _Cariathiarim_ signifie la ville des bois. L'Arche d'alliance y demeura quelque temps, après qu'elle eût été renvoyée par les Philistins.[25]"
@@ -128,10 +128,17 @@
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DESCENDIT IN BETSAMES, TRANSITQUE IN THAMNA.",
       "lemma": "Descend à Betsamés, et passe à Thamna.",
       "text": "Betsamés, ou Hir-semes, _la ville_, ou _la maison du Soleil_, était de la tribu de Juda ;[26] elle fut donnée aux Prêtres pour leur demeure : Ce fut à Betsamés que l'Arche de l'alliance fut d'abord rapportée par les Philistins. Son retour fut funeste aux Betsamites, dont il mourut cinquante mille soixante-dix, pour avoir osé la regarder de trop près.[27] Amasias Roi de Juda fut pris au même endroit, par Joas Roi d'Israël.[28] Eusèbe met Betsamés à dix milles, ou cinq lieues d'Eleutéropolis, en allant à Emmaüs.\nTamna était voisine de Betsamés, elle fut d'abord donnée à la tribu de Juda ;[29] elle vint ensuite à celle de Dan ;[30] Eusèbe et saint Jérôme la mettent aux environs de Diospolis, en tirant vers Jérusalem. Les Septante au lieu de _Thamna_, lisent le midi :[31] _Elle passera au midi._"
+    },
+    {
+      "verse": 10,
+      "sub": false,
+      "latin_lemma": "THAMNA,",
+      "lemma": "_Thamnas_, ou _Thamnara_. Voyez ce qu'on a dit ci-devant ℣. 10.",
+      "text": "Comme cette ville était frontalière des Philistins, ils s'en rendirent souvent les maîtres ; ils la possédaient du temps de Samson ; [106] ils la prirent aussi du temps d'Achaz. [107]"
     },
     {
       "verse": 11,
@@ -142,7 +149,7 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TRANSIT MONTEM BALA, PERVENITQUE IN JEBNEEL.",
       "lemma": null,
       "text": "Passe le mont Bala, et s'étend jusqu'à Jebnéel. On ignore la situation du mont Bala, à moins qu'on ne la mette près de la ville de Bala, dont il est parlé au ℣. 29. et peut-être aussi au ℣. 3. du Chap. 19. Il y a une ville de Jabnel de la tribu de Nephtali ; mais ce ne peut être celle dont il est parlé ici. Il y en a qui croient que c'est la même que Jabnia, ou Jamnia."
@@ -177,7 +184,7 @@
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FILIAM MEAM UXOREM.",
       "lemma": "Je donnerai ma fille Axa en mariage, à quiconque prendra Cariath-Sepher.",
       "text": "Les pères parmi ces peuples, avaient un pouvoir absolu sur le mariage de leurs enfants. [39] Saül promet sa fille en mariage à celui qui vaincra Goliat ; [40] l'histoire profane nous fournit plusieurs exemples pareils. On exigeait quelque chose de l'époux, comme pour la dot, ou pour l'achat de la femme."
@@ -198,7 +205,7 @@
     },
     {
       "verse": 18,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SUSPIRAVITQUE UT SEDEBAT IN ASINO.",
       "lemma": "Axa étant donc montée sur son âne, se mit à soupirer.",
       "text": "Le terme Hébreu [49] qui est traduit ici par, _elle soupira_, ne se trouve qu'en cet endroit, et au premier chapitre des Juges ℣. 14. où cette histoire est répétée, et dans l'histoire de la défaite de Sizara, où il est dit que Jaël lui enfonça un clou dans la tête ; [50] il est visible qu'on ne peut guère tirer de lumière de ce dernier passage, pour l'explication de celui que nous examinons. Quelques Interprètes traduisent ici : [51] _Elle se jeta à bas de son âne_ ; ou _elle descendit de son âne_. D'autres, [52] _Elle demeura attachée sans branler de dessus son âne_ ; elle n'en voulut pas descendre que Caleb son père ne lui eût accordé ce qu'elle demandait. D'autres, [53] _Elle attendait étant montée sur son âne_. les Septante,  _Elle s'écria de dessus son ânesse_, ce qui a du rapport à la version de la Vulgate. De toutes ces variétés,"
@@ -212,24 +219,31 @@
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TERRAM AUSTRALEM ET ARENTEM DEDISTI MIHI, JUNGE ET IRRIGUAM.",
       "lemma": "Vous m’avez donné une terre exposée au midi et toute desséchée, joignez-y-en une autre qui soit arrosée.",
       "text": "Pour expliquer ce passage comme il faut, il serait nécessaire de connaître la situation des lieux, et l’exposition du terrain qui avait été donné pour partage à Axa. Il semble que Caleb lui avait donné toute la partie aride et desséchée d’une campagne, et qu’il s’était réservé dans la même campagne un canton fertile et arrosé. _Joignez-y le terrain arrosé_, dit Axa ; cela insinue que ce terrain arrosé était joignant le sien ; l’Hébreu à la lettre : [56] _Vous m’avez donné la terre du midi, et donnez-moi des sources d’eaux._ La terre du midi est mise pour une terre stérile, brûlée, desséchée. Dans ces pays où les chaleurs sont grandes, et où les vents du midi sont brûlants, les expositions du midi sont desséchées et stériles. Les Septante [57] l’ont pris autrement : _Vous m’avez mariée dans le pays de Nageb_ ( ou du midi, ) _donnez-moi Golatmaïm_, c’est-à-dire, _des sources d’eaux._ L’Interprète d’Origène : _In terra austri nuptum me tradidisti, et accepit Gonetlam superiorem, et Gonetlam inferiorem._ Ce qui ne donne aucun sens. Aquila : _Golgot superiorem, et Golgot inferiorem._ Symmaque [58] sur le premier des Juges ℣. _Une possession, ( un champ ) en haut, et un champ en bas._"
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DEDIT EI.... IRRIGUUM SUPERIUS ET IRRIGUUM INFERIUS.",
       "lemma": "Il lui donna en haut et en bas des lieux arrosés d’eaux.",
-      "text": "C’est-à-dire un terrain dans les montagnes, et un terrain dans la plaine, l’un et l’autre arrosés d’eaux. Ou selon d’autres, un champ arrosé en haut et en et en bas, dans les deux extrémités ; ou enfin un champ où il y avait des eaux de sources qui coulaient, _irriguum superius_ ; et des eaux de puits et de citernes, _irriguum inferius_. On vient de voir que les Septante ont pris les noms de l'original, pour des noms propres."
+      "text": "C’est-à-dire un terrain dans les montagnes, et un terrain dans la plaine, l’un et l’autre arrosés d’eaux. Ou selon d’autres, un champ arrosé en haut et en bas, dans les deux extrémités ; ou enfin un champ où il y avait des eaux de sources qui coulaient, _irriguum superius_ ; et des eaux de puits et de citernes, _irriguum inferius_. On vient de voir que les Septante ont pris les noms de l'original, pour des noms propres."
     },
     {
       "verse": 23,
       "sub": false,
-      "latin_lemma": "JETHNAM, ou Jota, & Jéta.",
+      "latin_lemma": "JETHNAM, ou Jota, et Jéta.",
       "lemma": "C'est une ville sacerdotale.",
       "text": "Bonfrerius [59] soutient que c'est la même qui est nommée _Asan_, dans Josué chap. XIX. 7. et dans le premier des Paralipomènes, chap. VI. ℣. 59. Il remarque que dans tous les endroits où l'on nomme Jéta, on ne parle pas d'_Asan_, et au contraire, où l'on parle d'Asan, on omet Jéta. Mais Cellarius n'est pas de son avis, il soutient que Jéta de cet endroit, est la même que _Jota_ du chap. XXI. 15. et la même que Jethnam, qu'Eusèbe met à 18. milles d'Éleuthéropolis vers le midi."
+    },
+    {
+      "verse": 23,
+      "sub": false,
+      "latin_lemma": "JOTA,",
+      "lemma": "c'est apparemment la même que Jeta, ℣. 23.",
+      "text": ""
     },
     {
       "verse": 24,
@@ -237,6 +251,13 @@
       "latin_lemma": "ZIPH,",
       "lemma": "Lieu connu par la retraite de David dans le désert de Ziph.",
       "text": "Les Ziphéens firent ce qu'ils purent pour livrer ce Prince à Saül son persécuteur. [60] On connaît deux villes de ce nom dans la tribu de Juda ; celle qui est marquée ici, et une autre au ℣. 55. On croit que c'est de cette dernière dont il est parlé dans les Livres des Rois, et dans les montagnes de laquelle David se retira ; le voisinage de Maon et de Carmel le persuadent. Eusèbe la met à huit milles d'Hébron vers l'orient."
+    },
+    {
+      "verse": 24,
+      "sub": false,
+      "latin_lemma": "ZIPH.",
+      "lemma": "Voyez ci-devant ℣. 24.",
+      "text": ""
     },
     {
       "verse": 25,
@@ -247,7 +268,7 @@
     },
     {
       "verse": 25,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CARIOTH HERSON, HÆC EST ASOR.",
       "lemma": "Carioth Hesron, qui est la même qu'Asor.",
       "text": "Nous croyons que c'est la ville d'Asor sur les confins du pays de Juda vers l'Arabie. Voyez Num. XI. 35. et XXXIII. 17. Les anciens Interprètes Grecs ont lu ce ℣. autrement. Les Septante : _Les villes d'Aseron, qui est la même qu'Asor_. Un autre ancien Traducteur : _La ville d'Ageron, qui est Asor_. Ainsi selon eux, tout ce ℣. où la Vulgate compte trois villes, n'en comprendrait qu'une, savoir _Asor_ ; l'Hébreu se peut rendre dans le même sens : _Asor Chaduta, ou les villes d'Hesron, c'est-à-dire Asor_."
@@ -268,7 +289,7 @@
     },
     {
       "verse": 27,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BETHPHELET, ou Berphalet,",
       "lemma": null,
       "text": "c'est-à-dire, _la maison de l'échappé_, ou de la délivrance, ou la maison du Philistin. Eusèbe dit que c'est la même que _Methéli_ ; je pense qu'il faut lire _Méléti_, ou Malati, qui est une ville dont parle assez souvent cet Auteur, et qu'il place à vingt milles d'Hébron, et à quatre milles d'Arad. Voyez sur les Nombres, chap. XXXIII. 25. ce qu'on a dit en parlant de Macélot."
@@ -282,14 +303,14 @@
     },
     {
       "verse": 28,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BERSABEE,",
       "lemma": null,
       "text": "est fort connue par la demeure que les Patriarches Abraham et Isaac y ont faite ; elle est attribuée ici à la tribu de Juda, aussi bien qu'au chap. XIX. ℣. 3. du premier des Rois ; ailleurs elle est mise dans la tribu de Siméon. [66] Mais l'Écriture nous apprend que Siméon habitait au milieu de Juda, et qu'il était répandu parmi son partage. Cette ville était sur le chemin de la Palestine en Égypte, et une des plus méridionales de la Judée. Je ne sais si on peut croire Eusèbe, qui n'éloigne Bersabée de Hébron, que de vingt milles. On trouve dans quelques anciens monuments [67] _Versabium castrum_, et _Berosaba_, au lieu de Bersabée."
     },
     {
       "verse": 28,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BAZIOTHIA.",
       "lemma": "Ce nom ne se lit ni dans les Septante, ni dans un autre ancien Interprète Grec : on lit en sa place, leurs bourgs, et leurs métairies.",
       "text": "_Vici earum, et villæ earum._"
@@ -303,7 +324,7 @@
     },
     {
       "verse": 29,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "JIM.",
       "lemma": "Les Septante, Bacoc. Un autre Interprète Grec, Arim.",
       "text": ""
@@ -320,7 +341,7 @@
       "sub": false,
       "latin_lemma": "SICELEG.",
       "lemma": null,
-      "text": "Cette ville passa de Juda à Siméon, de même que la précédente. Il semble qu'elle demeura sous la puissance des PhiliPhilistins jusqu'au temps de David. Ce Prince l'ayant obtenue d'Achis pendant le temps de sa disgrâce, elle demeura toujours depuis en propre aux Rois de Juda. [74]"
+      "text": "Cette ville passa de Juda à Siméon, de même que la précédente. Il semble qu'elle demeura sous la puissance des Philistins jusqu'au temps de David. Ce Prince l'ayant obtenue d'Achis pendant le temps de sa disgrâce, elle demeura toujours depuis en propre aux Rois de Juda. [74]"
     },
     {
       "verse": 32,
@@ -331,14 +352,14 @@
     },
     {
       "verse": 32,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AENET REMON.",
       "lemma": null,
       "text": "Ces deux villes sont jointes dans quelques Exemplaires Latins, et on les trouve comme une seule ville dans le second Livre d'Esdras XI. 29. mais il faut les séparer comme deux villes différentes. Rémon est du nombre de celles qu'on donna dans la suite à Siméon. Il y a plusieurs lieux du nom de Rémon. Nous en avons vu un dans les stations des Israélites dans le désert, sous le nom de _Remmon Pharez_. [76] Eusèbe met une Rémon au septentrion et à quinze milles de Jérusalem, ce qui ne peut convenir à celle dont il est parlé ici, qui devait être beaucoup au midi de Jérusalem."
     },
     {
       "verse": 32,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CIVITATES VIGINTI NOVEM.",
       "lemma": "Vingt-neuf villes.",
       "text": "En prenant le nombre des villes marquées dans les ℣. 20. 21. et dans les suivants jusqu'au 32. on en trouve trente-cinq ; et en y ajoutant Hébron, Dabir, et Cariathsépher, il y en aura jusqu'à trente-huit. Plusieurs Interprètes [77] croient qu'il faut ôter de ce nombre, les neuf villes qui furent cédées à la tribu de Siméon, comme on le voit ci-après au chap. XIX. 2. 3. et suivants. D'autres [78] soutiennent que l'on doit conserver ce nombre de vingt-neuf villes principales, auxquelles il faut ajouter neuf villages ou hameaux moins considérables ; et c'est ce qui est insinué par ces paroles du Texte : _Vingt-neuf villes et leurs villages_, ou leurs hameaux. Mr. Samson pour réduire le nombre de 38. à 29. joint ensemble quelques noms de villes, qui sont séparés dans l'Hébreu et dans le Grec par la conjonction et ; ce qui suffit pour renverser son opinion."
@@ -359,21 +380,21 @@
     },
     {
       "verse": 34,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ENGANNIM.",
       "lemma": null,
       "text": "On met une ville de ce nom près de Bethel, mais on doute que ce soit celle-ci."
     },
     {
       "verse": 34,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TAPHUA.",
       "lemma": null,
       "text": "On n'en sait pas la situation, quoique ce fût une ville Royale.[85] Il y en avait plus d'une de ce nom dans la Palestine."
     },
     {
       "verse": 34,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ENAIM.",
       "lemma": null,
       "text": "Eusèbe croit que c'est la même que Béthenion auprès du Térébinthe. On voit par Joseph,[86] par Sozomène et par l'Itinéraire écrit du temps de Théodose, que l'on montrait un Térébinthe à quelques stades d'Hébron, où l'on croyait qu'Abraham avait donné à manger aux trois Anges. À l'égard d'Enaïm, ne serait-ce point lui qui serait marqué dans la Genèse, où il est dit que Juda s'approcha de Thamar, _à la porte d'Enaim_, sur le chemin de Thamna.[87] Ce ℣. 34. est assez différent de la Vulgate et de l'Hébreu, dans les Septante : _Thano, Ilathot, et Meani_. Un autre Interprète, _Zano, Adiathaïm et Enaim_."
@@ -387,15 +408,15 @@
     },
     {
       "verse": 35,
-      "sub": true,
-      "latin_lemma": "ADULLAM, ou Adollam, & Odollam.",
+      "sub": false,
+      "latin_lemma": "ADULLAM, ou Adollam, et Odollam.",
       "lemma": null,
       "text": "ci-devant chap. XII. ℣. 15."
     },
     {
       "verse": 35,
-      "sub": true,
-      "latin_lemma": "SOCHO, & AZECA,",
+      "sub": false,
+      "latin_lemma": "SOCHO, et AZECA,",
       "lemma": null,
       "text": "sur le chemin de Jérusalem à Eleutéropolis. C'est auprès de Socho que se fit le fameux combat entre David et Goliath.[88] Les Septante et un autre interprète grec ajoutent à ce verset la ville de Membra, ou Nembra."
     },
@@ -408,21 +429,21 @@
     },
     {
       "verse": 36,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ADITHAIM.",
       "lemma": null,
       "text": "On connaît un bourg d'Adatha aux environs de Gaza, et un autre à l'orient de Diospolis."
     },
     {
       "verse": 36,
-      "sub": true,
-      "latin_lemma": "GEDERA, GEDEROTHAIM, ou Gador & Gaderot, & Gader, ou Gaddera.",
+      "sub": false,
+      "latin_lemma": "GEDERA, GEDEROTHAIM, ou Gador et Gaderot, et Gader, ou Gaddera.",
       "lemma": null,
       "text": "On a parlé ci-devant du roi de Gader ; Josué XII, 13. C'est apparemment le même que Gazer, ou Gazera. Les Septante ne lisent que deux villes dans ce verset, à savoir _Sacarim et Gadera_."
     },
     {
       "verse": 36,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "URBES QUATUORDECIM.",
       "lemma": "Quatorze villes.",
       "text": "On en trouve quinze dans ce dénombrement ; mais si l'on prend Gedera et Gederothaïm pour un même lieu, il n'en restera que quatorze. Il y en a qui prennent _Enaïm_ pour une fontaine, et non pas pour une ville. D'autres veulent qu'il y ait dans ce dénombrement quelques hameaux qui ne passent pas pour villes. Les Septante et un autre interprète grec ne nomment que quatorze villes précisément dans les quatre versets précédents."
@@ -436,7 +457,7 @@
     },
     {
       "verse": 38,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "JECTEL,",
       "lemma": null,
       "text": "fort différente de Jectaël, autrement _Pétré_ en Arabie ; ce fut Amasias roi de Juda qui donna le nom de Jactaël à cette dernière.[90] Les Septante et un ancien interprète lisent _Jachariël_."
@@ -450,7 +471,7 @@
     },
     {
       "verse": 39,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EGLON.",
       "lemma": null,
       "text": "Voyez le chap. X. ℣. 3. Les Septante ne lisent ici que _Bosedoth et Ideadalea_."
@@ -471,7 +492,7 @@
     },
     {
       "verse": 41,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MACEDA.",
       "lemma": null,
       "text": "Voyez ci-devant Chap. x. 17."
@@ -485,14 +506,14 @@
     },
     {
       "verse": 42,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ETHER, ou ATHAR.",
       "lemma": null,
       "text": "Elle fut d'abord à la tribu de Juda, puis elle passa à celle de Simon.[92] Eusèbe nous apprend qu'il y avait dans l'intérieur du canton de Daroma, qui est le plus méridional du pays, un grand lieu nommé Éthera, ou Jéthira, près de la ville de Malata. Voyez ce qu'on a dit dans les Nombres sur _Macelot_, et ce qu'on a dit sur Jéther, qui est la même qu'Éther, dans le Commentaire sur le premier Livre des Rois ch. xxx. ℣. 27."
     },
     {
       "verse": 42,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ASAN.",
       "lemma": null,
       "text": "Est-ce la même que Jeta ? Voyez ci-dessus ℣. 23. Il y a apparence que c'est la même que _Cor-Asan_, marquée I. Reg. xxx. 30. Les Septante, _Ariach_."
@@ -513,21 +534,21 @@
     },
     {
       "verse": 44,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CEILA.",
       "lemma": null,
       "text": "Cette ville est célèbre par l'histoire de David. Il la délivra des Philistins qui l'assiégeaient ; ensuite étant poursuivi par Saül, il faillit être livré à ce Prince par les habitants de Ceila, à qui il venait de rendre un si grand service.[94] Eusèbe met Ceila sur le chemin d'Éleutéropolis à Hébron, à dix-sept milles, ou selon saint Jérôme, à huit milles de la première de ces deux villes. On y montrait le tombeau du Prophète Abacuc."
     },
     {
       "verse": 44,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ACZIB.",
       "lemma": null,
       "text": "C'est apparemment Cazbi, dont il est parlé Genes. XXXVIII. 5. On connaît une ville célèbre de ce nom dans la Galilée ; mais celle-ci n'est nullement connue."
     },
     {
       "verse": 44,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MARESA.",
       "lemma": null,
       "text": "Cette ville est assez fameuse dans l'Écriture, mais sa situation est fort incertaine. Eusèbe et saint Jérôme parlent des ruines de Marésa, à deux milles d'Éleutérople ; mais il faut que le nombre soit corrompu ; car il y a toute apparence que Marésa était bien plus au midi de la terre de Canaan. Joseph la met dans l'Idumée. [95] Roboam Roi de Juda, fils de Salomon la fit fortifier, [96] et longtemps après Gabinius général des troupes romaines, la fit rétablir. [97] Ce fut là où Asa Roi de Juda, défit Zara Roi d'Éthiopie, ou d'Arabie, et le poursuivit jusqu'à Gérare. [98] Nous avons conjecturé ailleurs que ce pouvait être Ressa dans l'Arabie. Joseph l'appelle toujours _Maresa_. On connaît encore aujourd'hui une ville de Larissa, entre la Palestine et l'Égypte, au-dessus et à l'orient de Raphia."
@@ -555,14 +576,14 @@
     },
     {
       "verse": 48,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SOCOTH.",
       "lemma": null,
       "text": "L'Hébreu et les Septante : _Soco_. On a déjà une ville de ce nom ℣. 35."
     },
     {
       "verse": 48,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CARIAT-SENNA, ou Dabir.",
       "lemma": null,
       "text": "Voyez le ℣. 15."
@@ -576,14 +597,14 @@
     },
     {
       "verse": 50,
-      "sub": true,
-      "latin_lemma": "ISTEMO, ou Efthamo, ou Eſthemo.",
+      "sub": false,
+      "latin_lemma": "ISTEMO, ou Efthamo, ou Esthemo.",
       "lemma": null,
       "text": "On trouve une ville sacerdotale de ce nom. [100] Bonfrère veut que ce soit la même qu'Asemon, ou Asemona. Nous avons peine à le croire. Eusèbe et saint Jérôme nous apprennent qu'Istemo était du canton, ou de la dépendance d'Éleuthéropolis."
     },
     {
       "verse": 50,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "OLON. Heb. Cholon.",
       "lemma": null,
       "text": "La même que Holon. Josué xxi. 15. Et Helon 1. Par. VI. 69. c'est une ville sacerdotale."
@@ -597,7 +618,7 @@
     },
     {
       "verse": 51,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "GILO, ou GILON;",
       "lemma": null,
       "text": "c'est la patrie du traître Achitophel, qui est pour cela surnommé Gilonite. 2. Reg. xv. 12."
@@ -611,7 +632,7 @@
     },
     {
       "verse": 53,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "APHECA.",
       "lemma": null,
       "text": "Voyez ci-devant ch. XII. 18."
@@ -625,24 +646,10 @@
     },
     {
       "verse": 55,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CARMEL.",
       "lemma": null,
       "text": "Ce n'est pas le mont Carmel, fameux par les miracles du Prophète Élie. La ville de Carmel, dont Josué nous parle ici, était dans la tribu de Juda, à dix milles d'Hébron vers l'orient. Nabal époux d'Abigaïl a rendu la montagne où était située cette ville de Carmel assez célèbre par sa folie et son imprudence ; [104] et Saül par l'arc de triomphe qu'il y érigea après sa victoire contre les Amalécites. [105] _Voyez les Remarques sur la carte géographique_, page LIV."
-    },
-    {
-      "verse": 24,
-      "sub": false,
-      "latin_lemma": "ZIPH.",
-      "lemma": "Voyez ci-devant ℣. 24.",
-      "text": ""
-    },
-    {
-      "verse": 23,
-      "sub": false,
-      "latin_lemma": "JOTA,",
-      "lemma": "c'est apparemment la même que Jeta, ℣. 23.",
-      "text": ""
     },
     {
       "verse": 56,
@@ -659,22 +666,15 @@
       "text": "Cette ville est différente de Gabaa de la tribu de Benjamin, d'où était Saül. On ne sait pas la vraie situation de celle dont il s'agit ici. Son nom indique qu'elle était sur une hauteur."
     },
     {
-      "verse": 10,
-      "sub": false,
-      "latin_lemma": "THAMNA,",
-      "lemma": "Thamnas, ou Thamnara. Voyez ce qu'on a dit ci-devant ℣. 10.",
-      "text": "Comme cette ville était frontalière des Philistins, ils s'en rendirent souvent les maîtres ; ils la possédaient du temps de Samson ; [106] ils la prirent aussi du temps d'Achaz. [107]"
-    },
-    {
       "verse": 58,
       "sub": false,
       "latin_lemma": "BESSUR,",
-      "lemma": "ou Beth-Sur,",
+      "lemma": "ou _Beth-Sur_,",
       "text": "comme elle est appelée dans l'Hébreu, et dans les Septante, fut toujours de la tribu de Juda. Eusèbe nous indique deux lieux du nom de Bessur dans cette tribu : Le premier, à vingt milles de Jérusalem, en allant du côté d'Hébron, auprès duquel on voit au pied d'une montagne, la fontaine, où l'on croit que fut baptisé l'Eunuque de la Reine Candace : [108] Mais comme l'histoire nous dit que cet Eunuque allait de Jérusalem à Gaza, on peut assurer qu'il ne passa pas par la ville de Bessur près d'Hébron ; [109] et si la fontaine où cet Eunuque fut baptisé, était près de Bessur ; il faut l'entendre d'une seconde ville de Bessur, à mille pas d'Éleuthéropolis.\nNous croyons que c'est la première Bessur près d'Hébron que Roboam fortifia, [110] et qu'Antiochus Eupator prit sur les Juifs, en venant de l'Idumée dans la Judée. [111] C'est apparemment aussi le même endroit que Simon Maccabée rétablit, [112] sur la frontière de la Judée, comme elle était en ce temps-là, où Hébron appartenait aux Iduméens, [113] et dont il est si souvent parlé dans les Livres des Maccabées, comme d'une excellente forteresse. Il est vrai que le Texte de ces Livres n'éloigne Betsur que de cinq stades de Jérusalem,[114] ce qui a fait croire à Adrichomius et à Bonfrère que c'était un simple château près de Jérusalem, fort différent des deux Betsurs, dont on a parlé : Mais Cellarius remarque fort bien qu'il faut que les nombres soient corrompus dans cet endroit du Texte des Maccabées, puisque les mêmes Livres,[115] et Joseph,[116] parlent toujours de Betsur, comme d'une ville très forte, sur les frontières de la Judée, et de l'Idumée ; que Joseph qui nous a décrit avec tant d'exactitude Jérusalem, et tous ses environs, n'aurait pas manqué de nous parler du château de Betsur, s'il n'en eût été éloigné que de cinq stades, ou 625 pas. Enfin, le Syriaque au lieu de cinq stades, en met douze, et cinq ; et dans l'exemplaire Alexandrin cité dans les Polyglottes d'Angleterre, on lit cinq schœnus, ou cinq cordes, au lieu de cinq stades. Le schœnus était différent, selon les cantons, mais le moindre était de trente stades ; et les cinq schœnus sur ce pied-là reviennent à peu près aux vingt milles qu'Eusèbe et saint Jérôme mettent de Jérusalem à Betsur.[117]"
     },
     {
       "verse": 58,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "GEDOR.",
       "lemma": null,
       "text": "Voyez ce qu'on a dit de Gadera ℣. 36. et de Gader chap. XIX. ℣. 36. et de Gedor, I. Par. IV. 4. Ceux de Siméon se rendirent maîtres de Gador du temps d'Ézéchias Roi de Juda.[118]"
@@ -695,7 +695,7 @@
     },
     {
       "verse": 60,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AREBBA.",
       "lemma": null,
       "text": "On pourrait lire simplement _Rabba_ ; c'est-à-dire la grande. Il y a, dit S. Jérôme, une ville de Rabbo, au midi d'Éleuthéropolis, à son orient. On pourrait aussi lire, _Arabé_,[121] qui est la même qu'Hébron. On ne trouve nulle part ailleurs _Arebba_."
@@ -716,14 +716,14 @@
     },
     {
       "verse": 62,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EN-GADDI,",
       "lemma": null,
-      "text": "lieux fameux dans l'Écriture, et même dans les profanes. Eusèbe et saint Jérôme remarquent qu'il y avait sur la mer Morte, et dans la campagne, ou dans le désert de Jéricho, un gros lieu nommé En-gaddi, où croissait l'arbrisseau du baume. Pline et Solin [123] parlent aussi de cette ville ; ils la placent entre Jéricho et la mer Morte ; de leur temps elle était ruinée ; mais on ne laissait pas d'y cultiver encore le baume, qui rendait ce lieu célèbre. La ville d'En-gaddi se trouve aussi nommée _Azezon-Thamar_, à cause des palmiers qui s'y voyaient en quantité ; cet arbre est appelé en hébreu _Thamar_. On trouve encore Thamaro dans ces quartiers-là, marquée dans Ptolémée ; et dans les Tables de Peutinger. Le désert d'En-gaddi est connu dans l'Écriture par la retraite de David ; [124] et les vignes d'En-gaddi, que saint Jérôme prend pour le baume, sont louées dans le Cantique des Cantiques. [125] Quelques-uns ont prétendu qu'En-gaddi et Hasason-Thamar sont les mêmes que Jéricho, parce que l'antiquité nous vante le baume et les palmiers de Jéricho ; comme s'il ne pouvait pas y en avoir aussi ailleurs ? En tout cas En-gaddi étant dans la plaine de Jéricho, on a pu rapporter à cette ville l'honneur du baume et des palmiers d'En-gaddi, qui était ruinée, comme on l'a vu, du temps de Pline et de Solin, qui ne laissent pas de distinguer fort bien ces deux villes.\n\nAprès avoir examiné la situation des lieux dont il est parlé dans ce Chapitre, il est bon de faire ici quelques remarques sur l'ordre et la manière dont ils sont distribués. On a déjà pu voir que plusieurs de ces villes y sont répétées en plus d'un endroit. Par exemple, _Zamoé_ s'y trouve au ℣. 34. et encore au ℣. 56. _Gédera, Géderothaim, Gedor_ et _Giderot_, ne paraissent qu'une même ville, de même que _Jether_ et _Ether_, et _Esaan, Asan_, et _Asena_ ; _Josa_ du ℣. 55. est apparemment la même que _Jetta_ du ℣. 23. _Ziph_ se trouve ici deux fois, au ℣. 24. et au ℣. 55. D'où viennent ces répétitions dans un lieu où il ne s'agit que de donner un catalogue des villes d'une tribu ? D'où viennent des omissions considérables, qu'on ne peut se dispenser de reconnaître ici, et que S. Jérôme lui-même a reconnues ? [126] Il nous dit qu'on lisait dans les exemplaires des Septante, [127] onze villes, qui ne paraissent pas dans le Texte Hébreu. Ces villes sont, _Thaco, Ephrata_, autrement, _Bethléem, Phagor, Athan, Culon, Tami, Soris, Ceram, Gallim, Bether, et Manoch_o, _onze villes avec leurs villages_, qu'on ne voit, _ni dans le Texte Hébreu_, continue saint Jérôme, _ni dans aucun Interprète ; soit que la malice des Juifs les aient effacés de leurs anciens exemplaires ; afin qu'on ne pût pas prouver que_ JÉSUS-CHRIST _était de la tribu de Juda, en ôtant Bethléem où il est né, soit que les Septante l'aient ajouté d'eux-mêmes_. Bethsemés ville sacerdotale de Juda, n'est point dans ce catalogue, quoiqu'elle soit bien marquée ci-après chap. XXI. 16. On a déjà fait attention ci-devant à plusieurs villes qui se trouvent ici attribuées à Juda, et ensuite à Siméon ou à Benjamin, ou à Dan : on a remarqué aussi que les totalités ne répondent pas toujours exactement au nombre des villes énoncées auparavant, et qu'après avoir nommé trente-cinq villes, on conclut qu'il n'y en a que vingt-neuf.\nTout cela pourrait faire croire que les Catalogues de villes ont été retouchés à divers temps, et que peut-être il s'en est perdu quelques-unes par la négligence des Copistes, et qu'on y en a répété quelques autres. C'est ce qui paraît assez par les variétés qu'on remarque dans les anciens Interprètes Grecs, comparés à l'Hébreu.\nMais nous croyons qu'on peut encore résoudre ces difficultés d'une manière plus aisée, en supposant que l'on partagea les cantons et les villes aux diverses familles de Juda séparément ; c'est ce qui est marqué d'une manière assez claire dans le Texte, [128] où il est dit que ce partage se fit aux enfants de Juda selon leurs familles : _Hi sunt termini filiorum Juda in cognationibus suis_ : Et de plus, on voit dans la suite du An. 2559. Chapitre, [129] que tout le pays se partagea en dix parties inégales, apparemment selon le nombre, et la force des diverses familles : On trouve ici dix portions distinctes, comme nous trouvons dix familles dans Juda ; savoir, Sela, Pharez, Zaré, fils immédiats de Juda ; Hefron et Camuel, fils de Pharez, et Zamri, Ethan, Eman, Chalcal et Dara, fils de Zaré. [130] Enfin ce qui confirme cette hypothèse, [131] c’est qu’au Chapitre dix-septième, [131] on remarque expressément qu’on distribua à Manassé le pays qui lui échut selon le nombre de ses familles, qui étaient au nombre de dix. [132] Puisque la même raison subsistait à l’égard de Juda, ne peut-on pas croire, qu’on en usa de même, et qu’on partagea le pays en autant de cantons, qu’il y avait de familles différentes dans cette tribu ?\nOr en suivant ce système, il est aisé de rendre raison de ce qui paraît difficile dans ce dénombrement ; car comme il y avait un nombre de ces villes qu’on pouvait assigner à plusieurs familles différentes ; de là vient qu’on les trouve énoncées dans divers endroits; telle ville appartenait à la famille des Hefronites : Par exemple, qui appartenait aussi à celle des Camulites. De là vient aussi que dans les totalités on remarque des différences, entre les villes qui ont été nommées auparavant, et le nombre qui en résulte, parce qu’apparemment on n’a compris dans la somme totale, que les seules villes, qui étaient simplement à la famille dont on voulait parler, et non pas celles où d’autres familles de la même tribu, ou même d’autres tribus pouvaient avoir part. Et peut-être que ce qu’on a remarqué en plusieurs endroits de ce Chapitre, que telle ville qui avait d’abord été donnée à Juda, fut ensuite donnée à Ephraïm, ne veut rien dire autre chose, sinon que la même ville était peuplée et habitée en même temps par des familles de Juda, et d’autres familles de Siméon et de Dan: On en doit dire autant à proportion des villes cédées aux Prêtres et aux Lévites; quand on leur assignait une ville pour leur partage, cela n’excluait pas les tribus qui y habitaient déjà, et dans le partage desquelles elles se trouvaient; les Prêtres y étaient mêlés avec les autres habitants, ils avaient droit d’exiger qu’on leur y donnât des logements, et un terrain convenable : Cette explication me paraît aussi naturelle que celles que nous avons rapportées auparavant sur l’autorité et le jugement des Commentateurs était donc du partage de la tribu de Juda, et les Jébuséens avaient apparemment repris cette ville, et s'y étaient fortifiés depuis que Josué avait vaincu et pris le Roi de Jérusalem dans la célèbre journée de Gabaon.[133] Il est vrai que Josué ne marque nulle part qu'il ait pris Jérusalem ; mais est-il croyable qu'il l'eût laissée au milieu de tout le pays, après avoir pris et défait son Roi, et les autres Jébuséens, comme il est marqué en plus d'un endroit de l'Ecriture? Quoi qu'il en soit, nous lisons dans le Livre des Juges,[134] que les enfants de Juda prirent et brûlèrent Jérusalem ; et cependant au même Chapitre[135] on nous dit, que les enfants de Benjamin ne chassèrent point les Jébuséens de Jérusalem ; mais que les Jébuséens y demeurèrent avec eux jusqu'aujourd'hui. Enfin nous voyons que longtemps après, du temps de David, la ville de Jérusalem était encore aux Jébuséens, et que ce fut ce Prince qui prit la Citadelle de Sion,[136] et qui les extermina. Comment accorder tout cela? Comment et par quel droit Juda et Benjamin prétendent-ils à Jérusalem? Comment l'un et l'autre demeurent-ils dans cette ville avec le Jébuséen sans l'exterminer?\nOn peut répondre, que Jérusalem étant sur les frontières des deux tribus de Juda et de Benjamin,[137] est attribuée tantôt à Juda, comme dans cet endroit ;[138] et tantôt à Benjamin, comme au Chap. XVIII. 28. et ainsi il n'est pas étonnant que l'on dise que Juda et Benjamin n'ont pas exterminé les Jébuséens de Jérusalem, et qu'ils y ont demeuré avec eux; ils prirent et possédèrent chacun de leur côté en divers temps une partie de la ville et de son territoire ; mais ils ne chassèrent pas le Jébuséen de la partie supérieure de Jérusalem, de la citadelle de Sion, d'où David les chassa enfin sous son règne.\nNous reconnaissons néanmoins ingénument, qu'il ne paraît pas par l'Ecriture, que les enfants de Juda et de Benjamin aient jamais habité longtemps Jérusalem avant David ; car sous les Juges, ou plutôt An. 2559. pendant cette anarchie, qui suivit la mort de Josué, de Caleb, et des anciens ; dans ce temps où le peuple se conduisait par sa propre volonté, et faisait ce qu'il jugeait à propos ; lorsque l'affaire du Lévite, dont la femme fut déshonorée à Gabaa, arriva : alors le Jébuséen était seul maître de Jérusalem. [139] Le Lévite, dont on a parlé, passant auprès de cette ville, comme il était déjà tard, son serviteur lui dit : Venez, je vous prie, et retirons-nous dans cette ville des Jébuséens ; mais son maître lui répondit ; je n'entrerai point dans une ville d'un peuple étranger, et qui n'est point aux enfants d'Israël ; mais je passerai jusqu'à Gabaa.\nSi les fils de Juda ou de Benjamin eussent alors été les maîtres de la ville basse de Jérusalem, le Lévite aurait-il parlé de cette sorte ? Et lorsque David attaqua cette ville, voit-on la moindre apparence qu'il y en ait eu une partie entre les mains des Israélites ? On pourrait donc concilier tout cela en disant, que jusqu'au temps de David Jérusalem demeura toute entière en la possession des Jébuséens ; mais qu'ils ne purent empêcher qu'il ne s'y établît plusieurs Israélites des tribus de Juda et de Benjamin : Que la conquête qui fut faite de cette ville sous Josué, et ensuite après sa mort, par la tribu de Juda, comme il est marqué au premier chapitre des Juges, que cette conquête ne fut que d'une partie de la ville, et que bientôt les Jébuséens l'assujettirent de nouveau, et s'y rétablirent, sans toutefois en chasser les Israélites, qui y voulurent demeurer.\nLes Hébreux prétendent que la ville de Jérusalem n'était, ni à Juda ni à Benjamin en particulier ; mais qu'elle était à toutes les tribus. C'était une ville commune à toute la nation ; c'était comme la métropole de tout le pays, chacun y avait droit, et personne n'en pouvait être exclu. On ne peut nier qu'au moins dans les derniers temps, la chose ne fut comme le prétendent les Juifs. Joseph [140] en parle en plus d'un endroit de cette manière. Il fait dire à Simon fils de Catlas, que les principaux de Jérusalem ont fermé la ville commune de toute la nation à ceux qui étaient venus pour la défendre. Et ailleurs il remarque, que ce qui attira tant de différentes sortes de gens à Jérusalem pendant le dernier siège, fut que cette ville était sans chef, et que selon la coutume, on y recevait sans examen tous ceux de la nation : Mais avant la captivité, et à plus forte raison avant David, il n'en était point ainsi ; Jérusalem était aux deux tribus de Juda, et de Benjamin en commun. Benjamin y pouvait avoir beaucoup de droit par son partage ; mais Juda y en avait acquis davantage par la conquête qu'il en avait faite."
+      "text": "lieux fameux dans l'Écriture, et même dans les profanes. Eusèbe et saint Jérôme remarquent qu'il y avait sur la mer Morte, et dans la campagne, ou dans le désert de Jéricho, un gros lieu nommé En-gaddi, où croissait l'arbrisseau du baume. Pline et Solin [123] parlent aussi de cette ville ; ils la placent entre Jéricho et la mer Morte ; de leur temps elle était ruinée ; mais on ne laissait pas d'y cultiver encore le baume, qui rendait ce lieu célèbre. La ville d'En-gaddi se trouve aussi nommée _Azezon-Thamar_, à cause des palmiers qui s'y voyaient en quantité ; cet arbre est appelé en hébreu _Thamar_. On trouve encore Thamaro dans ces quartiers-là, marquée dans Ptolémée ; et dans les Tables de Peutinger. Le désert d'En-gaddi est connu dans l'Écriture par la retraite de David ; [124] et les vignes d'En-gaddi, que saint Jérôme prend pour le baume, sont louées dans le Cantique des Cantiques. [125] Quelques-uns ont prétendu qu'En-gaddi et Hasason-Thamar sont les mêmes que Jéricho, parce que l'antiquité nous vante le baume et les palmiers de Jéricho ; comme s'il ne pouvait pas y en avoir aussi ailleurs ? En tout cas En-gaddi étant dans la plaine de Jéricho, on a pu rapporter à cette ville l'honneur du baume et des palmiers d'En-gaddi, qui était ruinée, comme on l'a vu, du temps de Pline et de Solin, qui ne laissent pas de distinguer fort bien ces deux villes.\n\nAprès avoir examiné la situation des lieux dont il est parlé dans ce Chapitre, il est bon de faire ici quelques remarques sur l'ordre et la manière dont ils sont distribués. On a déjà pu voir que plusieurs de ces villes y sont répétées en plus d'un endroit. Par exemple, _Zamoé_ s'y trouve au ℣. 34. et encore au ℣. 56. _Gédera, Géderothaim, Gedor_ et _Giderot_, ne paraissent qu'une même ville, de même que _Jether_ et _Ether_, et _Esaan, Asan_, et _Asena_ ; _Josa_ du ℣. 55. est apparemment la même que _Jetta_ du ℣. 23. _Ziph_ se trouve ici deux fois, au ℣. 24. et au ℣. 55. D'où viennent ces répétitions dans un lieu où il ne s'agit que de donner un catalogue des villes d'une tribu ? D'où viennent des omissions considérables, qu'on ne peut se dispenser de reconnaître ici, et que S. Jérôme lui-même a reconnues ? [126] Il nous dit qu'on lisait dans les exemplaires des Septante, [127] onze villes, qui ne paraissent pas dans le Texte Hébreu. Ces villes sont, _Thaco, Ephrata_, autrement, _Bethléem, Phagor, Athan, Culon, Tami, Soris, Ceram, Gallim, Bether, et Manoch_o, _onze villes avec leurs villages_, qu'on ne voit, _ni dans le Texte Hébreu_, continue saint Jérôme, _ni dans aucun Interprète ; soit que la malice des Juifs les aient effacés de leurs anciens exemplaires ; afin qu'on ne pût pas prouver que_ Jésus-Christ _était de la tribu de Juda, en ôtant Bethléem où il est né, soit que les Septante l'aient ajouté d'eux-mêmes_. Bethsemés ville sacerdotale de Juda, n'est point dans ce catalogue, quoiqu'elle soit bien marquée ci-après chap. XXI. 16. On a déjà fait attention ci-devant à plusieurs villes qui se trouvent ici attribuées à Juda, et ensuite à Siméon ou à Benjamin, ou à Dan : on a remarqué aussi que les totalités ne répondent pas toujours exactement au nombre des villes énoncées auparavant, et qu'après avoir nommé trente-cinq villes, on conclut qu'il n'y en a que vingt-neuf.\nTout cela pourrait faire croire que les Catalogues de villes ont été retouchés à divers temps, et que peut-être il s'en est perdu quelques-unes par la négligence des Copistes, et qu'on y en a répété quelques autres. C'est ce qui paraît assez par les variétés qu'on remarque dans les anciens Interprètes Grecs, comparés à l'Hébreu.\nMais nous croyons qu'on peut encore résoudre ces difficultés d'une manière plus aisée, en supposant que l'on partagea les cantons et les villes aux diverses familles de Juda séparément ; c'est ce qui est marqué d'une manière assez claire dans le Texte, [128] où il est dit que ce partage se fit aux enfants de Juda selon leurs familles : _Hi sunt termini filiorum Juda in cognationibus suis_ : Et de plus, on voit dans la suite du An. 2559. Chapitre, [129] que tout le pays se partagea en dix parties inégales, apparemment selon le nombre, et la force des diverses familles : On trouve ici dix portions distinctes, comme nous trouvons dix familles dans Juda ; savoir, Sela, Pharez, Zaré, fils immédiats de Juda ; Hefron et Camuel, fils de Pharez, et Zamri, Ethan, Eman, Chalcal et Dara, fils de Zaré. [130] Enfin ce qui confirme cette hypothèse, [131] c’est qu’au Chapitre dix-septième, [131] on remarque expressément qu’on distribua à Manassé le pays qui lui échut selon le nombre de ses familles, qui étaient au nombre de dix. [132] Puisque la même raison subsistait à l’égard de Juda, ne peut-on pas croire, qu’on en usa de même, et qu’on partagea le pays en autant de cantons, qu’il y avait de familles différentes dans cette tribu ?\nOr en suivant ce système, il est aisé de rendre raison de ce qui paraît difficile dans ce dénombrement ; car comme il y avait un nombre de ces villes qu’on pouvait assigner à plusieurs familles différentes ; de là vient qu’on les trouve énoncées dans divers endroits; telle ville appartenait à la famille des Hefronites : Par exemple, qui appartenait aussi à celle des Camulites. De là vient aussi que dans les totalités on remarque des différences, entre les villes qui ont été nommées auparavant, et le nombre qui en résulte, parce qu’apparemment on n’a compris dans la somme totale, que les seules villes, qui étaient simplement à la famille dont on voulait parler, et non pas celles où d’autres familles de la même tribu, ou même d’autres tribus pouvaient avoir part. Et peut-être que ce qu’on a remarqué en plusieurs endroits de ce Chapitre, que telle ville qui avait d’abord été donnée à Juda, fut ensuite donnée à Ephraïm, ne veut rien dire autre chose, sinon que la même ville était peuplée et habitée en même temps par des familles de Juda, et d’autres familles de Siméon et de Dan: On en doit dire autant à proportion des villes cédées aux Prêtres et aux Lévites; quand on leur assignait une ville pour leur partage, cela n’excluait pas les tribus qui y habitaient déjà, et dans le partage desquelles elles se trouvaient; les Prêtres y étaient mêlés avec les autres habitants, ils avaient droit d’exiger qu’on leur y donnât des logements, et un terrain convenable : Cette explication me paraît aussi naturelle que celles que nous avons rapportées auparavant sur l’autorité et le jugement des Commentateurs était donc du partage de la tribu de Juda, et les Jébuséens avaient apparemment repris cette ville, et s'y étaient fortifiés depuis que Josué avait vaincu et pris le Roi de Jérusalem dans la célèbre journée de Gabaon.[133] Il est vrai que Josué ne marque nulle part qu'il ait pris Jérusalem ; mais est-il croyable qu'il l'eût laissée au milieu de tout le pays, après avoir pris et défait son Roi, et les autres Jébuséens, comme il est marqué en plus d'un endroit de l'Ecriture? Quoi qu'il en soit, nous lisons dans le Livre des Juges,[134] que les enfants de Juda prirent et brûlèrent Jérusalem ; et cependant au même Chapitre[135] on nous dit, que les enfants de Benjamin ne chassèrent point les Jébuséens de Jérusalem ; mais que les Jébuséens y demeurèrent avec eux jusqu'aujourd'hui. Enfin nous voyons que longtemps après, du temps de David, la ville de Jérusalem était encore aux Jébuséens, et que ce fut ce Prince qui prit la Citadelle de Sion,[136] et qui les extermina. Comment accorder tout cela? Comment et par quel droit Juda et Benjamin prétendent-ils à Jérusalem? Comment l'un et l'autre demeurent-ils dans cette ville avec le Jébuséen sans l'exterminer?\nOn peut répondre, que Jérusalem étant sur les frontières des deux tribus de Juda et de Benjamin,[137] est attribuée tantôt à Juda, comme dans cet endroit ;[138] et tantôt à Benjamin, comme au Chap. XVIII. 28. et ainsi il n'est pas étonnant que l'on dise que Juda et Benjamin n'ont pas exterminé les Jébuséens de Jérusalem, et qu'ils y ont demeuré avec eux; ils prirent et possédèrent chacun de leur côté en divers temps une partie de la ville et de son territoire ; mais ils ne chassèrent pas le Jébuséen de la partie supérieure de Jérusalem, de la citadelle de Sion, d'où David les chassa enfin sous son règne.\nNous reconnaissons néanmoins ingénument, qu'il ne paraît pas par l'Ecriture, que les enfants de Juda et de Benjamin aient jamais habité longtemps Jérusalem avant David ; car sous les Juges, ou plutôt An. 2559. pendant cette anarchie, qui suivit la mort de Josué, de Caleb, et des anciens ; dans ce temps où le peuple se conduisait par sa propre volonté, et faisait ce qu'il jugeait à propos ; lorsque l'affaire du Lévite, dont la femme fut déshonorée à Gabaa, arriva : alors le Jébuséen était seul maître de Jérusalem. [139] Le Lévite, dont on a parlé, passant auprès de cette ville, comme il était déjà tard, son serviteur lui dit : Venez, je vous prie, et retirons-nous dans cette ville des Jébuséens ; mais son maître lui répondit ; je n'entrerai point dans une ville d'un peuple étranger, et qui n'est point aux enfants d'Israël ; mais je passerai jusqu'à Gabaa.\nSi les fils de Juda ou de Benjamin eussent alors été les maîtres de la ville basse de Jérusalem, le Lévite aurait-il parlé de cette sorte ? Et lorsque David attaqua cette ville, voit-on la moindre apparence qu'il y en ait eu une partie entre les mains des Israélites ? On pourrait donc concilier tout cela en disant, que jusqu'au temps de David Jérusalem demeura toute entière en la possession des Jébuséens ; mais qu'ils ne purent empêcher qu'il ne s'y établît plusieurs Israélites des tribus de Juda et de Benjamin : Que la conquête qui fut faite de cette ville sous Josué, et ensuite après sa mort, par la tribu de Juda, comme il est marqué au premier chapitre des Juges, que cette conquête ne fut que d'une partie de la ville, et que bientôt les Jébuséens l'assujettirent de nouveau, et s'y rétablirent, sans toutefois en chasser les Israélites, qui y voulurent demeurer.\nLes Hébreux prétendent que la ville de Jérusalem n'était, ni à Juda ni à Benjamin en particulier ; mais qu'elle était à toutes les tribus. C'était une ville commune à toute la nation ; c'était comme la métropole de tout le pays, chacun y avait droit, et personne n'en pouvait être exclu. On ne peut nier qu'au moins dans les derniers temps, la chose ne fut comme le prétendent les Juifs. Joseph [140] en parle en plus d'un endroit de cette manière. Il fait dire à Simon fils de Catlas, que les principaux de Jérusalem ont fermé la ville commune de toute la nation à ceux qui étaient venus pour la défendre. Et ailleurs il remarque, que ce qui attira tant de différentes sortes de gens à Jérusalem pendant le dernier siège, fut que cette ville était sans chef, et que selon la coutume, on y recevait sans examen tous ceux de la nation : Mais avant la captivité, et à plus forte raison avant David, il n'en était point ainsi ; Jérusalem était aux deux tribus de Juda, et de Benjamin en commun. Benjamin y pouvait avoir beaucoup de droit par son partage ; mais Juda y en avait acquis davantage par la conquête qu'il en avait faite."
     },
     {
       "verse": 62,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "HABITAVIT JEBUSÆUS IN JERUSALEM, USQUE IN PRÆSENTEM DIEM.",
       "lemma": "Les Jébuséens ont habité dans Jérusalem, jusqu'aujourd'hui.",
       "text": "On peut inférer de ce passage, que l'Auteur de ce Livre écrivait avant David, puisque ce Prince chassa entièrement les Jébuséens de Jérusalem. Voyez la Préface. Nous ne rapporterons point ici ce que disent les Juifs, que l'on n'extermina point les Jébuséens, à cause de l'alliance qu'Isaac avait autrefois faite avec Abimelec roi de Gérare, [141] dont ils veulent que les Jébuséens soient descendus, et non pas de Canaan ; tout cela ne mérite aucune attention."
@@ -797,13 +797,13 @@
       "seam": "page_0280>page_0281",
       "verse": 19,
       "mode": "flow",
-      "before": "s d’eaux. Ou selon d’autres, un champ arrosé en haut et en",
+      "before": "arrosés d’eaux. Ou selon d’autres, un champ arrosé en haut",
       "after": "et en bas, dans les deux extrémités ; ou enfin un champ où"
     },
     {
       "seam": "page_0283>page_0284",
       "verse": 31,
-      "mode": "splice",
+      "mode": "refrag",
       "before": "te. Il semble qu'elle demeura sous la puissance des Phili-",
       "after": "Philistins jusqu'au temps de David. Ce Prince l'ayant obte"
     },
@@ -907,7 +907,7 @@
     {
       "key": "page_0268-a",
       "n": 1,
-      "text": "_Vide Maſ. & Serar bin_"
+      "text": "_Vide Mas. et Serar bin_"
     },
     {
       "key": "page_0269-a",
@@ -927,7 +927,7 @@
     {
       "key": "page_0270-c",
       "n": 5,
-      "text": "1. Macc. V. 3, Vide & Jeronym. in Abdiam. c. 2. & 5."
+      "text": "1. Macc. V. 3, Vide et Jeronym. in Abdiam. c. 2. et 5."
     },
     {
       "key": "page_0270-d",
@@ -937,22 +937,22 @@
     {
       "key": "page_0270-e",
       "n": 7,
-      "text": "Joſeph l. 2. de Bello c. 25. & 28. & l. 31"
+      "text": "Joseph l. 2. de Bello c. 25. et 28. et l. 31"
     },
     {
       "key": "page_0271-a",
       "n": 8,
-      "text": "_Euſeb. In Carca, quod malè confundit cum Carcar Judic. VIII. 10._"
+      "text": "_Euseb. In Carca, quod malè confundit cum Carcar Judic. VIII. 10._"
     },
     {
       "key": "page_0271-b",
       "n": 9,
-      "text": "_Vide Joſue XVIII. 19. Iſai. XI. 15._"
+      "text": "_Vide Josue XVIII. 19. Isai. XI. 15._"
     },
     {
       "key": "page_0272-a",
       "n": 10,
-      "text": "Joſue XVIII. 21."
+      "text": "Josue XVIII. 21."
     },
     {
       "key": "page_0272-b",
@@ -962,12 +962,12 @@
     {
       "key": "page_0273-a",
       "n": 12,
-      "text": "4. Reg. XVIII. 17. & VII. 3. & XXXVI 2."
+      "text": "4. Reg. XVIII. 17. et VII. 3. et XXXVI 2."
     },
     {
       "key": "page_0273-b",
       "n": 13,
-      "text": "Homér' Odyſſ. Z. Στεῖβον δ᾽ ἐν βόθροισι θοῶς ἔριδα προφέρουσαι."
+      "text": "Homér' Odyss. Z. Στεῖβον δ᾽ ἐν βόθροισι θοῶς ἔριδα προφέρουσαι."
     },
     {
       "key": "page_0273-c",
@@ -977,7 +977,7 @@
     {
       "key": "page_0273-d",
       "n": 15,
-      "text": "Joſeph. Antiq. l. 7. c. 11."
+      "text": "Joseph. Antiq. l. 7. c. 11."
     },
     {
       "key": "page_0273-e",
@@ -987,7 +987,7 @@
     {
       "key": "page_0273-f",
       "n": 17,
-      "text": "Bonfr. hic, ex Joſepho l. 7. Antiq. c. 10."
+      "text": "Bonfr. hic, ex Josepho l. 7. Antiq. c. 10."
     },
     {
       "key": "page_0274-a",
@@ -1012,7 +1012,7 @@
     {
       "key": "page_0274-e",
       "n": 22,
-      "text": "1. Macc. V. 46. & 2. Macc. XII. 17."
+      "text": "1. Macc. V. 46. et 2. Macc. XII. 17."
     },
     {
       "key": "page_0274-f",
@@ -1032,7 +1032,7 @@
     {
       "key": "page_0275-a",
       "n": 26,
-      "text": "Joſue xv. 10. & 4. Reg. xiv. 11."
+      "text": "Josue xv. 10. et 4. Reg. xiv. 11."
     },
     {
       "key": "page_0275-b",
@@ -1047,12 +1047,12 @@
     {
       "key": "page_0275-d",
       "n": 29,
-      "text": "Joſue xv. 57."
+      "text": "Josue xv. 57."
     },
     {
       "key": "page_0275-e",
       "n": 30,
-      "text": "Joſue xix. 43."
+      "text": "Josue xix. 43."
     },
     {
       "key": "page_0275-f",
@@ -1077,7 +1077,7 @@
     {
       "key": "page_0276-c",
       "n": 35,
-      "text": "Maſius, Bochart, Phaleg. l. 2. c. 17."
+      "text": "Masius, Bochart, Phaleg. l. 2. c. 17."
     },
     {
       "key": "page_0276-d",
@@ -1087,7 +1087,7 @@
     {
       "key": "page_0276-e",
       "n": 37,
-      "text": "Joſue XV. 49."
+      "text": "Josue XV. 49."
     },
     {
       "key": "page_0276-f",
@@ -1107,7 +1107,7 @@
     {
       "key": "page_0277-c",
       "n": 41,
-      "text": "Ita 70. in Cod. Vatic. Syr. Arab. Munſt. Pagn. &c."
+      "text": "Ita 70. in Cod. Vatic. Syr. Arab. Munst. Pagn. etc."
     },
     {
       "key": "page_0277-d",
@@ -1117,7 +1117,7 @@
     {
       "key": "page_0277-e",
       "n": 43,
-      "text": "Levit. XVIII. 14. Les Samaritains nient que l'oncle puiſſe épouſer ſa niéce; mais les Juifs tiennent le contraire."
+      "text": "Levit. XVIII. 14. Les Samaritains nient que l'oncle puisse épouser sa niéce; mais les Juifs tiennent le contraire."
     },
     {
       "key": "page_0277-f",
@@ -1127,12 +1127,12 @@
     {
       "key": "page_0278-a",
       "n": 45,
-      "text": "Vid: Maſ. hic,Vatab. Druſ. Catæt'. Bonfr. in Judic. 1. 13."
+      "text": "Vid: Mas. hic,Vatab. Drus. Catæt'. Bonfr. in Judic. 1. 13."
     },
     {
       "key": "page_0278-b",
       "n": 46,
-      "text": "Piſc. Juni. Tremel. Bonfr. Cornel. &c."
+      "text": "Pisc. Juni. Tremel. Bonfr. Cornel. etc."
     },
     {
       "key": "page_0278-c",
@@ -1142,7 +1142,7 @@
     {
       "key": "page_0279-a",
       "n": 48,
-      "text": "Codex mſ. Corbei. ex Bibliotec. Sanſti German. à Pratis in editione nova Ieron. tom. I. pag. 269."
+      "text": "Codex ms. Corbei. ex Bibliotec. Sansti German. à Pratis in editione nova Ieron. tom. I. pag. 269."
     },
     {
       "key": "page_0279-b",
@@ -1157,17 +1157,17 @@
     {
       "key": "page_0279-d",
       "n": 51,
-      "text": "Jonat. Munſt. Vatab. Druſ. Pagn. Grot. Maj."
+      "text": "Jonat. Munst. Vatab. Drus. Pagn. Grot. Maj."
     },
     {
       "key": "page_0279-e",
       "n": 52,
-      "text": "Menoch. Confixit ſe ſuper aſinum."
+      "text": "Menoch. Confixit se super asinum."
     },
     {
       "key": "page_0279-f",
       "n": 53,
-      "text": "Lud. de Dieu. Expectavit inſidens aſino."
+      "text": "Lud. de Dieu. Expectavit insidens asino."
     },
     {
       "key": "page_0280-a",
@@ -1197,7 +1197,7 @@
     {
       "key": "page_0281-a",
       "n": 59,
-      "text": "_Bonfr. in Joſue_ XXI. 13."
+      "text": "_Bonfr. in Josue_ XXI. 13."
     },
     {
       "key": "page_0281-b",
@@ -1207,12 +1207,12 @@
     {
       "key": "page_0282-a",
       "n": 61,
-      "text": "Joſue XIX 1. & 1. Par. IV. 28."
+      "text": "Josue XIX 1. et 1. Par. IV. 28."
     },
     {
       "key": "page_0282-b",
       "n": 62,
-      "text": "2. Eſdr. XI. 26."
+      "text": "2. Esdr. XI. 26."
     },
     {
       "key": "page_0282-c",
@@ -1222,7 +1222,7 @@
     {
       "key": "page_0282-d",
       "n": 64,
-      "text": "Joſue XV. 4."
+      "text": "Josue XV. 4."
     },
     {
       "key": "page_0282-e",
@@ -1232,7 +1232,7 @@
     {
       "key": "page_0282-f",
       "n": 66,
-      "text": "Joſue XIX. 2."
+      "text": "Josue XIX. 2."
     },
     {
       "key": "page_0282-g",
@@ -1257,17 +1257,17 @@
     {
       "key": "page_0283-f",
       "n": 71,
-      "text": "Joſue XIV. 4."
+      "text": "Josue XIV. 4."
     },
     {
       "key": "page_0283-b",
       "n": 72,
-      "text": "Joſue XXI. 14."
+      "text": "Josue XXI. 14."
     },
     {
       "key": "page_0283-c",
       "n": 73,
-      "text": "Num. XXV. 45. & Deut. I 44."
+      "text": "Num. XXV. 45. et Deut. I 44."
     },
     {
       "key": "page_0284-a",
@@ -1287,7 +1287,7 @@
     {
       "key": "page_0284-d",
       "n": 77,
-      "text": "Hebræi in Lyr. & Mss. Vat. Grot. Jun."
+      "text": "Hebræi in Lyr. et Mss. Vat. Grot. Jun."
     },
     {
       "key": "page_0284-e",
@@ -1307,7 +1307,7 @@
     {
       "key": "page_0285-a",
       "n": 81,
-      "text": "Joſue XIX. 41."
+      "text": "Josue XIX. 41."
     },
     {
       "key": "page_0285-b",
@@ -1317,7 +1317,7 @@
     {
       "key": "page_0285-c",
       "n": 83,
-      "text": "Joſue XIX. 4."
+      "text": "Josue XIX. 4."
     },
     {
       "key": "page_0285-d",
@@ -1327,17 +1327,17 @@
     {
       "key": "page_0285-e",
       "n": 85,
-      "text": "Joſue XII. 17."
+      "text": "Josue XII. 17."
     },
     {
       "key": "page_0285-f",
       "n": 86,
-      "text": "Joſeph l. 4. de Bello c. 31. le met à ſix ſtades d'Hébron. Sozoméne l. 2. Hiſt. Eccleſ. c. 4. à 15. ſtades ; & l'Itineraire de Bourdeaux à deux milles de la ville d'Hébron."
+      "text": "Joseph l. 4. de Bello c. 31. le met à six stades d'Hébron. Sozoméne l. 2. Hist. Eccles. c. 4. à 15. stades ; et l'Itineraire de Bourdeaux à deux milles de la ville d'Hébron."
     },
     {
       "key": "page_0285-g",
       "n": 87,
-      "text": "Geneſ. XXXVIII. 14. בפתח עינים"
+      "text": "Genes. XXXVIII. 14. בפתח עינים"
     },
     {
       "key": "page_0285-h",
@@ -1357,12 +1357,12 @@
     {
       "key": "page_0287-a",
       "n": 91,
-      "text": "Joſue XIX. 27."
+      "text": "Josue XIX. 27."
     },
     {
       "key": "page_0287-b",
       "n": 92,
-      "text": "Joſue XIX. 7."
+      "text": "Josue XIX. 7."
     },
     {
       "key": "page_0287-c",
@@ -1377,7 +1377,7 @@
     {
       "key": "page_0288-a",
       "n": 95,
-      "text": "Joseph. Antiq. l. 13. c. 15. & lib. 1. de Bello c. 2."
+      "text": "Joseph. Antiq. l. 13. c. 15. et lib. 1. de Bello c. 2."
     },
     {
       "key": "page_0288-b",
@@ -1402,12 +1402,12 @@
     {
       "key": "page_0289-a",
       "n": 100,
-      "text": "Joſué xxI. 14. & 1. Par. VI."
+      "text": "Josué xxI. 14. et 1. Par. VI."
     },
     {
       "key": "page_0289-b",
       "n": 101,
-      "text": "Les Imprimez portent _Ruſia_, μίλια; & Saint Jerôme a lû _Raphain_; c'eſt ce qui a fait que ni Bonfrere ni Cellar. n'ont point entendu cet endroit, quoique la ſuite le rende aſſez clair."
+      "text": "Les Imprimez portent _Rusia_, μίλια; et Saint Jerôme a lû _Raphain_; c'est ce qui a fait que ni Bonfrere ni Cellar. n'ont point entendu cet endroit, quoique la suite le rende assez clair."
     },
     {
       "key": "page_0289-c",
@@ -1422,7 +1422,7 @@
     {
       "key": "page_0290-a",
       "n": 104,
-      "text": "1. Reg. XXV. 3. & ſeq."
+      "text": "1. Reg. XXV. 3. et seq."
     },
     {
       "key": "page_0290-b",
@@ -1432,7 +1432,7 @@
     {
       "key": "page_0290-c",
       "n": 106,
-      "text": "Judic. XIV. 1. & ſeq."
+      "text": "Judic. XIV. 1. et seq."
     },
     {
       "key": "page_0290-d",
@@ -1447,7 +1447,7 @@
     {
       "key": "page_0290-f",
       "n": 109,
-      "text": "On voit par l'Auteur de l'Itineraire de Bourdeaux, écrit vers le tems de Theodoſe, qu'en ce tems-là on croyoit communément que la fontaine de Beſſur étoit celle où l'Eunuque avoit été baptiſé ; ce ſeroit bien plûtôt dans le torrent de Beſor."
+      "text": "On voit par l'Auteur de l'Itineraire de Bourdeaux, écrit vers le tems de Theodose, qu'en ce tems-là on croyoit communément que la fontaine de Bessur étoit celle où l'Eunuque avoit été baptisé ; ce seroit bien plûtôt dans le torrent de Besor."
     },
     {
       "key": "page_0290-g",
@@ -1457,7 +1457,7 @@
     {
       "key": "page_0290-h",
       "n": 111,
-      "text": "Joſeph. Antiquit. l. XII. c. 14."
+      "text": "Joseph. Antiquit. l. XII. c. 14."
     },
     {
       "key": "page_0290-i",
@@ -1467,7 +1467,7 @@
     {
       "key": "page_0291-a",
       "n": 113,
-      "text": "Vide Joſeph. Ant. l. XII. c. 12."
+      "text": "Vide Joseph. Ant. l. XII. c. 12."
     },
     {
       "key": "page_0291-b",
@@ -1477,12 +1477,12 @@
     {
       "key": "page_0291-c",
       "n": 115,
-      "text": "Vide I. Macc. IV. 29. 61. & VI. 7."
+      "text": "Vide I. Macc. IV. 29. 61. et VI. 7."
     },
     {
       "key": "page_0291-d",
       "n": 116,
-      "text": "Joſeph. Antiq. lib. X. c. 14. & lib. 13 c. 9."
+      "text": "Joseph. Antiq. lib. X. c. 14. et lib. 13 c. 9."
     },
     {
       "key": "page_0291-e",
@@ -1497,12 +1497,12 @@
     {
       "key": "page_0291-g",
       "n": 119,
-      "text": "Joſue XIX. 44."
+      "text": "Josue XIX. 44."
     },
     {
       "key": "page_0291-h",
       "n": 120,
-      "text": "Joſue XXI. 13."
+      "text": "Josue XXI. 13."
     },
     {
       "key": "page_0291-i",
@@ -1512,7 +1512,7 @@
     {
       "key": "page_0292-a",
       "n": 122,
-      "text": "2. Reg. VIII. 13. & 4. Reg. XIV. 7. 1. Par. XVIII. 12. & 2. Par. XXV. 11."
+      "text": "2. Reg. VIII. 13. et 4. Reg. XIV. 7. 1. Par. XVIII. 12. et 2. Par. XXV. 11."
     },
     {
       "key": "page_0292-b",
@@ -1537,7 +1537,7 @@
     {
       "key": "page_0293-b",
       "n": 127,
-      "text": "On ne les trouve pas dans l'édition de Complute ; mais on les lit dans l'édition Romaine, dans celle d'Alde, & dans le Manuf. Alexand. avec quelques petites differences."
+      "text": "On ne les trouve pas dans l'édition de Complute ; mais on les lit dans l'édition Romaine, dans celle d'Alde, et dans le Manuf. Alexand. avec quelques petites differences."
     },
     {
       "key": "page_0293-c",
@@ -1547,27 +1547,27 @@
     {
       "key": "page_0294-a",
       "n": 129,
-      "text": "Verſets 32. 36. 41. 44. 51. 54. 57. 59. 60. 62."
+      "text": "Versets 32. 36. 41. 44. 51. 54. 57. 59. 60. 62."
     },
     {
       "key": "page_0294-b",
       "n": 130,
-      "text": "Vide Num. XXVI. 20. & 1. Par. II. 3. 4."
+      "text": "Vide Num. XXVI. 20. et 1. Par. II. 3. 4."
     },
     {
       "key": "page_0294-c",
       "n": 131,
-      "text": "Joſue XVII. 5. Ceciderunt funiculi Manaſſe, decem."
+      "text": "Josue XVII. 5. Ceciderunt funiculi Manasse, decem."
     },
     {
       "key": "page_0294-d",
       "n": 132,
-      "text": "Vide Joſue XVII. 2."
+      "text": "Vide Josue XVII. 2."
     },
     {
       "key": "page_0295-a",
       "n": 133,
-      "text": "Josue X. 23. 40. & XII. 10."
+      "text": "Josue X. 23. 40. et XII. 10."
     },
     {
       "key": "page_0295-b",
@@ -1592,7 +1592,7 @@
     {
       "key": "page_0295-f",
       "n": 138,
-      "text": "Vide & Psal. LXXVII. 67.... Sed elegit tribum Juda, montem Sion quem dilexit."
+      "text": "Vide et Psal. LXXVII. 67.... Sed elegit tribum Juda, montem Sion quem dilexit."
     },
     {
       "key": "page_0296-a",
@@ -1602,224 +1602,12 @@
     {
       "key": "page_0296-b",
       "n": 140,
-      "text": "Joſeph de Bello Jud. lib. 4 cap. 6. εἶχε τῇ ἴδιον κλείθρα ὑπὸ τῆς κάτω πόλεως. Et lib. 3. c. 5. παντελῶς ἦν ἀπαρτήτως δ' εχερίμω τὸ ὁμέ. quær."
+      "text": "Joseph de Bello Jud. lib. 4 cap. 6. εἶχε τῇ ἴδιον κλείθρα ὑπὸ τῆς κάτω πόλεως. Et lib. 3. c. 5. παντελῶς ἦν ἀπαρτήτως δ' εχερίμω τὸ ὁμέ. quær."
     },
     {
       "key": "page_0297-a",
       "n": 141,
-      "text": "Geneſ. XXVI. 28. 29 .. 31."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0268",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0269",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0270",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0271",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0272",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0273",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0274",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0275",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0276",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0277",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0278",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0279",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0280",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0281",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0282",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0283",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0284",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0285",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0286",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0287",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0288",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0289",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0290",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0291",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0292",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0293",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0294",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0295",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0296",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0297",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Genes. XXVI. 28. 29 .. 31."
     }
   ],
   "missing_footnotes": [

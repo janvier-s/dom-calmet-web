@@ -23,7 +23,7 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET POST SE ALTER NOMINE MACELLOTH, QUI REGEBAT PARTEM EXERCITUS.",
       "lemma": "Il avait sous lui Macelloth, qui commandait une partie de cette armée.",
       "text": "L'Hébreu porte,[8] et _Macelloth chef, et sur son partage, sur sa bande_. Macelloth commandait en la place, et en l'absence de Dudia."
@@ -128,7 +128,7 @@
     },
     {
       "verse": 24,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NUMERUS EORUM QUI FUERANT RECENSITI, NON EST RELATUS IN FASTOS DAVID.",
       "lemma": "Le nombre de ceux qu'on avait déjà comptés, n'est pas écrit dans les fastes du Roi David.",
       "text": "Ce passage insinue qu'on avait compté tout Israël, suivant les ordres de David ; mais que comme Joab n'exécutait cette commission qu'avec répugnance, il ne présenta au Roi qu'une partie du dénombrement, laquelle fut mise dans les archives, et dans les annales de la vie de ce Prince. Mais les autres mémoires ne furent pas présentés à David, et demeurèrent entre les mains de ceux qui les avaient faits. C'est apparemment de ces mémoires secrets et particuliers, qu'Esdras nous a donné le dénombrement de la tribu de Benjamin,[27] qui n'avait point été rapporté devant David.[28]"
@@ -142,7 +142,7 @@
     },
     {
       "verse": 25,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "HIS AUTEM THESAURIS QUI ERANT IN URBIBUS, ET IN VICIS ET IN TURRIBUS.",
       "lemma": "Mais l'intendant des trésors particuliers.",
       "text": "des villes, des villages et des tours,[30] et sur les trésors qui sont à la campagne, dans les villages, et dans les tours. Ce qui insinue qu'il s'agit ici des revenus en grains, que le Roi pouvait avoir dans les lieux de la campagne. Nous disons des revenus en grains, parce que l'on trouve ci-après des Intendants particuliers, pour le vin, et pour l'huile. Rien n'est plus capable de nous donner une idée de la sagesse, et de la belle économie de David, et du bon état de son royaume, que ces détails."
@@ -170,7 +170,7 @@
     },
     {
       "verse": 29,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET SUPER BOVES IN VALLIBUS SAPHAT, FILIUS ADLI.",
       "lemma": "Saphat fils d'Adli était préposé sur les bœufs, qu'on nourrissait dans les vallées.",
       "text": "On ne nous dit point en quel endroit ces vallées étaient situées. Mais on insinue que David avait des troupeaux de bœufs ou de vaches dans toutes les vallées abondantes en pâturages. On pourrait lire ; le fils d'Adli était préposé sur tous les bœufs qu'on nourrissait dans les vallées de Saphat, ou Séphaat.[36] Mais la manière dont s'écrivent ces noms dans l'hébreu,[37] est fort différente."
@@ -275,7 +275,7 @@
     {
       "key": "page_0294-b",
       "n": 3,
-      "text": "Les douze bandes, chacune de vingt-quatre mille hommes, font deux cens quatre vingt huit mille hommes : & en y ajoutant douze mille Officiers, on trouve la ſomme de trois cens mille hommes."
+      "text": "Les douze bandes, chacune de vingt-quatre mille hommes, font deux cens quatre vingt huit mille hommes : et en y ajoutant douze mille Officiers, on trouve la somme de trois cens mille hommes."
     },
     {
       "key": "page_0294-c",
@@ -290,22 +290,22 @@
     {
       "key": "page_0295-a",
       "n": 6,
-      "text": "1. Par. XI. 11. & 2. Reg. XXIII. 8."
+      "text": "1. Par. XI. 11. et 2. Reg. XXIII. 8."
     },
     {
       "key": "page_0295-b",
       "n": 7,
-      "text": "2. Reg. XXIII. 9. Poſt hunc Eleazar filius patruui ejus Ahohites. Hebr. Filius Dodi."
+      "text": "2. Reg. XXIII. 9. Post hunc Eleazar filius patruui ejus Ahohites. Hebr. Filius Dodi."
     },
     {
       "key": "page_0295-c",
       "n": 8,
-      "text": "Ahohites. Vide & 1. Par. XI. 12. ומקליה הנגיד ועל מחלקתו"
+      "text": "Ahohites. Vide et 1. Par. XI. 12. ומקליה הנגיד ועל מחלקתו"
     },
     {
       "key": "page_0296-a",
       "n": 9,
-      "text": "Reg. XXIII. 20. 21. & 1. Pa . 22. 23."
+      "text": "Reg. XXIII. 20. 21. et 1. Pa . 22. 23."
     },
     {
       "key": "page_0296-b",
@@ -335,7 +335,7 @@
     {
       "key": "page_0297-a",
       "n": 15,
-      "text": "2. Reg. XXIII. 26. & 1. Par. XI. 28."
+      "text": "2. Reg. XXIII. 26. et 1. Par. XI. 28."
     },
     {
       "key": "page_0297-b",
@@ -350,7 +350,7 @@
     {
       "key": "page_0297-d",
       "n": 18,
-      "text": "2. Reg. XXIII. 27. & 1. Par. XX. 49."
+      "text": "2. Reg. XXIII. 27. et 1. Par. XX. 49."
     },
     {
       "key": "page_0297-e",
@@ -365,7 +365,7 @@
     {
       "key": "page_0298-a",
       "n": 21,
-      "text": "Judic. I. 13. & III. 9. & Joſuë xv. 17."
+      "text": "Judic. I. 13. et III. 9. et Josuë xv. 17."
     },
     {
       "key": "page_0298-b",
@@ -405,12 +405,12 @@
     {
       "key": "page_0300-c",
       "n": 29,
-      "text": "℣. 27. & 28."
+      "text": "℣. 27. et 28."
     },
     {
       "key": "page_0301-a",
       "n": 30,
-      "text": "ועל האצרות בשדה בעירים ובכפרים ובמגדלות id eſt, _Et ſuper theſauros in agro, in civitatibus, & in vicis, & in turribus._"
+      "text": "ועל האצרות בשדה בעירים ובכפרים ובמגדלות id est, _Et super thesauros in agro, in civitatibus, et in vicis, et in turribus._"
     },
     {
       "key": "page_0301-b",
@@ -420,12 +420,12 @@
     {
       "key": "page_0301-c",
       "n": 32,
-      "text": "Vide Xenoph. l. 8. Cyropæd. ſuper hoc."
+      "text": "Vide Xenoph. l. 8. Cyropæd. super hoc."
     },
     {
       "key": "page_0301-d",
       "n": 33,
-      "text": "Dan. II. 49. _Conſtituit ſuper opera provinciæ Babylonis._"
+      "text": "Dan. II. 49. _Constituit super opera provinciæ Babylonis._"
     },
     {
       "key": "page_0301-e",
@@ -435,22 +435,22 @@
     {
       "key": "page_0302-a",
       "n": 35,
-      "text": "Morizon voyage de Jéruſalem."
+      "text": "Morizon voyage de Jérusalem."
     },
     {
       "key": "page_0302-b",
       "n": 36,
-      "text": "Voyez 2. Par. xiv. 10. In valle Saphata, quæ eſt juxta Mareza."
+      "text": "Voyez 2. Par. xiv. 10. In valle Saphata, quæ est juxta Mareza."
     },
     {
       "key": "page_0302-c",
       "n": 37,
-      "text": "שפט hic. & 2. Par. xiv. 10. וצפתה ſignifie"
+      "text": "שפט hic. et 2. Par. xiv. 10. וצפתה signifie"
     },
     {
       "key": "page_0303-a",
       "n": 38,
-      "text": "אָבִיל un chameau, אָבְלִי un chamélier. Bochart de anim. ſacr. parte 1. lib. 2. c. 2."
+      "text": "אָבִיל un chameau, אָבְלִי un chamélier. Bochart de anim. sacr. parte 1. lib. 2. c. 2."
     },
     {
       "key": "page_0303-b",
@@ -460,101 +460,22 @@
     {
       "key": "page_0303-c",
       "n": 40,
-      "text": "Jun. Tremell. & Grot."
+      "text": "Jun. Tremell. et Grot."
     },
     {
       "key": "page_0303-d",
       "n": 41,
-      "text": "2. Reg. XVI. 23. & XVII 1. & ſequ."
+      "text": "2. Reg. XVI. 23. et XVII 1. et sequ."
     },
     {
       "key": "page_0303-e",
       "n": 42,
-      "text": "2. Reg. XVI. 23. Conſilium autem Achitophel, quod dabat in diebus illis, quaſi ſi quis conſuleret Deum."
+      "text": "2. Reg. XVI. 23. Consilium autem Achitophel, quod dabat in diebus illis, quasi si quis consuleret Deum."
     },
     {
       "key": "page_0303-f",
       "n": 43,
       "text": "Lyr. Mariana."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0293",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0294",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0295",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0296",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0297",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0298",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0299",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0300",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0301",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0302",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0303",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

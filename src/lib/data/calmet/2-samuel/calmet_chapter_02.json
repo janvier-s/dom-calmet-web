@@ -1,6 +1,13 @@
 {
   "notes": [
     {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "NUM ASCENDAM IN UNAM DE CIVITATIBUS JUDA?",
+      "lemma": "Irai-je dans quelqu'une des villes de Juda ?",
+      "text": "Après la mort de Saül, David jugea que le temps des promesses qui lui avaient été faites, était venu, et qu'il devait user de diligence pour faire valoir ses droits à la Couronne de Juda, en prévenant ceux qui pourraient concourir avec lui, et en attirant à son parti premièrement ses compatriotes, et ensuite les autres tribus d'Israël. Dieu qui l'avait choisi pour gouverner son peuple, ne lui avait révélé ni le temps, ni les moyens dont la chose devait s'exécuter ; la confiance qu'il avait aux promesses du Seigneur, ne le rendit pas endormi, il crut qu'il fallait coopérer aux desseins de la Providence; mais il ne fit rien qu'après avoir consulté le Seigneur par le moyen de l'Éphod, dont Abiathar était revêtu.\n\nIN HEBRON. _Allez à Hébron._ Hébron était alors la plus forte place, et la plus considérable de toute la tribu de Juda; elle était comme au centre de cette tribu; Jérusalem était encore aux Jébuséens."
+    },
+    {
       "verse": 3,
       "sub": false,
       "latin_lemma": "MANSERUNT IN OPPIDIS HEBRON.",
@@ -30,7 +37,7 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET EGO REDDAM GRATIAM.",
       "lemma": "Je vous en récompenserai ;",
       "text": "ou : _moi-même, je vous en marque dès à présent ma reconnaissance, par cette députation._ [1]"
@@ -58,14 +65,14 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "JEZRAEL,",
       "lemma": null,
       "text": "signifie apparemment toute la vallée de ce nom, et les villes des environs."
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET SUPER ISRAEL UNIVERSUM.",
       "lemma": "Et sur tout Israël.",
       "text": "Ce ne fut peut-être pas sitôt que tout Israël reconnut Isboseth. Mais enfin Abner trouva moyen de le faire reconnaître de toutes les tribus, excepté celle de Juda. Pendant ce temps, les Philistins jouissaient des fruits de leur victoire, et possédaient plusieurs villes d’Israël : c’est ce qui fut cause qu’Isboseth ne jugea pas à propos de venir faire sa demeure au-deçà du Jourdain."
@@ -100,7 +107,7 @@
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AGER ROBUSTORUM.",
       "lemma": "Le champ des vaillants.",
       "text": "L'Hébreu : [17] Le partage des forts, ou l'endroit glissant des pierres, dans Gabaon. Les pierres que David prit dans sa pannetière, pour se battre contre Goliath, sont appelées dans le Texte, du même nom que cet endroit. [18] On pourrait peut-être aussi traduire : Le poli des pointes, pour marquer les pointes de leurs épées aiguisées et perçantes. Les Septante : [19] Le partage de ceux qui dressent des embûches."
@@ -135,7 +142,7 @@
     },
     {
       "verse": 23,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN INGUINE.",
       "lemma": "Dans l'aine.",
       "text": "L'Hébreu à la lettre : [24] _Sur la cinquième_ ; c'est-à-dire, à ce qu'on croit, à la cinquième côte, ou au défaut des côtes de l'estomac ; au-dessous du diaphragme, dans la région du bas ventre ; ou sous le ventricule et le foie: [25] Les Septante : Dans les lombes ; [26] ou dans le côté."
@@ -156,7 +163,7 @@
     },
     {
       "verse": 26,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AN IGNORAS QUOD PERICULOSA SIT DESPERATIO?",
       "lemma": "Ignorez-vous qu'il est dangereux de jeter son ennemi dans le désespoir ?",
       "text": "L'Hébreu : [30] _Ne savez-vous pas que_ (l'épée ou la guerre) _sera amère à la fin ? Ne voyez-vous pas qu'après avoir commencé cette affaire par un jeu, nous l'allons finir par la haine, et la colère ?_ Autrement : _Ne savez-vous pas que l'amertume viendra à la fin ? Que si vous continuez à nous poursuivre, mon parti s'aigrira, et s'animera contre le vôtre ; et peut-être nous ne serons plus les maîtres d'arrêter ce mal._ Ou : _Mes gens irrités reprendront cœur, et la fureur et le désespoir achèveront, ce que vous n'avez déjà poussé que trop loin._"
@@ -184,6 +191,20 @@
     }
   ],
   "joins": [
+    {
+      "seam": "page_0015>page_0016",
+      "verse": 1,
+      "mode": "flow",
+      "before": "dont la chose devait s'exécuter ; la confiance qu'il avait",
+      "after": "aux promesses du Seigneur, ne le rendit pas endormi, il cr"
+    },
+    {
+      "seam": "page_0016>page_0016",
+      "verse": 1,
+      "mode": "para",
+      "before": "gneur par le moyen de l'Éphod, dont Abiathar était revêtu.",
+      "after": "IN HEBRON. _Allez à Hébron._ Hébron était alors la plus fo"
+    },
     {
       "seam": "page_0016>page_0017",
       "verse": 4,
@@ -242,6 +263,7 @@
     }
   ],
   "pages_used": [
+    "page_0015",
     "page_0016",
     "page_0017",
     "page_0018",
@@ -273,17 +295,17 @@
     {
       "key": "page_0018-c",
       "n": 4,
-      "text": "Pisc. &c. ויעבירה מחנים"
+      "text": "Pisc. etc. ויעבירה מחנים"
     },
     {
       "key": "page_0019-a",
       "n": 5,
-      "text": "Vide 1. Reg. XXVII. 8. & Joſue XIII 2."
+      "text": "Vide 1. Reg. XXVII. 8. et Josue XIII 2."
     },
     {
       "key": "page_0019-b",
       "n": 6,
-      "text": "Deut. III. 14. Joſue XII. 5. & XIII. 11."
+      "text": "Deut. III. 14. Josue XII. 5. et XIII. 11."
     },
     {
       "key": "page_0019-c",
@@ -308,12 +330,12 @@
     {
       "key": "page_0019-g",
       "n": 11,
-      "text": "Ita Ionat. Jun. Piſc."
+      "text": "Ita Ionat. Jun. Pisc."
     },
     {
       "key": "page_0019-h",
       "n": 12,
-      "text": "Vide Geneſ. XXV. 3."
+      "text": "Vide Genes. XXV. 3."
     },
     {
       "key": "page_0019-i",
@@ -323,12 +345,12 @@
     {
       "key": "page_0020-a",
       "n": 14,
-      "text": "Ita Eſ. Serar. Tirin. Mart. Menoch. iCornel. Piſc. Vat."
+      "text": "Ita Es. Serar. Tirin. Mart. Menoch. iCornel. Pisc. Vat."
     },
     {
       "key": "page_0021-a",
       "n": 15,
-      "text": "Ita Raban. & Angelom. Apud Cornel. à Lapide & Sanct. cui hic sensus non displicet."
+      "text": "Ita Raban. et Angelom. Apud Cornel. à Lapide et Sanct. cui hic sensus non displicet."
     },
     {
       "key": "page_0021-b",
@@ -363,12 +385,12 @@
     {
       "key": "page_0023-a",
       "n": 22,
-      "text": "Vide Kimhi in Munſt. Vat. Mart."
+      "text": "Vide Kimhi in Munst. Vat. Mart."
     },
     {
       "key": "page_0024-a",
       "n": 23,
-      "text": "ויכהו באחרי החנית 70. Kai τρώſας αὐτὸν ἐν τῷ ὀπίσω τῷ δίρατῷ."
+      "text": "ויכהו באחרי החנית 70. Kai τρώsας αὐτὸν ἐν τῷ ὀπίσω τῷ δίρατῷ."
     },
     {
       "key": "page_0024-b",
@@ -378,7 +400,7 @@
     {
       "key": "page_0024-c",
       "n": 25,
-      "text": "Hebræi & Græci, Fuller Miſcell."
+      "text": "Hebræi et Græci, Fuller Miscell."
     },
     {
       "key": "page_0024-d",
@@ -403,7 +425,7 @@
     {
       "key": "page_0025-b",
       "n": 30,
-      "text": "עד מתי תהיה ידוע כי מרה תהיה באחרונה 70. Ou _quæ ſur iis & iisdem._"
+      "text": "עד מתי תהיה ידוע כי מרה תהיה באחרונה 70. Ou _quæ sur iis et iisdem._"
     },
     {
       "key": "page_0025-c",
@@ -418,12 +440,12 @@
     {
       "key": "page_0025-e",
       "n": 33,
-      "text": "Ita & Jonat. Mont. Munſt. Junius Glaſſ."
+      "text": "Ita et Jonat. Mont. Munst. Junius Glass."
     },
     {
       "key": "page_0026-a",
       "n": 34,
-      "text": "Vide 1. Reg. XIII. 3. & 1. Reg. XVIII. 16. IX. 1."
+      "text": "Vide 1. Reg. XIII. 3. et 1. Reg. XVIII. 16. IX. 1."
     },
     {
       "key": "page_0026-b",
@@ -434,85 +456,6 @@
       "key": "page_0026-c",
       "n": 36,
       "text": "Τὴν παρατείνουσαν. כל הבתרון"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0016",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0017",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0018",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0019",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0020",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0021",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0022",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0023",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0024",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0025",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0026",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

@@ -49,6 +49,15 @@
       ]
     },
     {
+      "verse_number": 6,
+      "latin": "Vivat Ruben, et non moriatur, et sit parvus in numero.",
+      "french": "Que Ruben vive, et qu'il ne meure pas ; mais qu'il soit en petit nombre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0429.json"
+      ]
+    },
+    {
       "verse_number": 7,
       "latin": "Haec est Juda benedictio : Audi, Domine, vocem Judae, et ad populum suum introduceum : manus ejus pugnabunt pro eo, et adjutor illius contra adversarios ejus eris.",
       "french": "Voici la bénédiction de Juda : Seigneur, écoutez la voix de Juda, et donnez-lui parmi son peuple la part que vous lui avez destinée : ses mains combattront pour Israël, et il sera son protecteur contre ceux qui l'attaqueront.",
@@ -253,51 +262,6 @@
       "annotations": null,
       "source_pages": [
         "page_0447.json"
-      ]
-    },
-    {
-      "verse_number": 48,
-      "latin": "Locutusque est Dominus ad Moysen in eadem die, dicens:",
-      "french": "Le même jour le Seigneur parla à Moïse, et il lui dit :",
-      "annotations": null,
-      "source_pages": [
-        "page_0425.json"
-      ]
-    },
-    {
-      "verse_number": 49,
-      "latin": "Ascende in montem istum Abarim, id est, transituum, in montem Nebo, qui est in terra Moab contra Jericho : et vide terram Chanaan, quam ego tradam filiis Israël obtinendam, et morere in monte:",
-      "french": "Montez sur cette montagne d'Abarim, c'est-à-dire, des passages ; sur la montagne de Nebo, qui est vis-à-vis de Jéricho ; et considérez la terre de Canaan, que je donnerai en possession aux enfants d'Israël ; et mourez sur cette montagne.",
-      "annotations": null,
-      "source_pages": [
-        "page_0425.json"
-      ]
-    },
-    {
-      "verse_number": 50,
-      "latin": "Quem conscendens jungeris populis tuis, sicut mortuus est Aaron frater tuus in monte Hor, et appositus populis suis:",
-      "french": "Car quand vous y serez montés, vous vous réunirez à votre peuple, comme Aaron votre frère est mort sur la montagne de Hor, et a été réuni à son peuple ;",
-      "annotations": null,
-      "source_pages": [
-        "page_0425.json"
-      ]
-    },
-    {
-      "verse_number": 51,
-      "latin": "Quia praevaricati estis contra me, in medio filiorum Israël, ad aquas contradictionis in Cades deserti Sin : et non sanctificastis me inter filios Israël.",
-      "french": "Parce que vous avez péché contre moi, au milieu des enfants d'Israël, aux eaux de contradiction à Cadès au désert de Sin ; et que vous ne m'avez pas glorifié devant les enfants d'Israël.",
-      "annotations": null,
-      "source_pages": [
-        "page_0425.json"
-      ]
-    },
-    {
-      "verse_number": 52,
-      "latin": "E contra videbis terram, et non ingredieris in eam, quam ego dabo filiis Israël.",
-      "french": "Vous verrez devant vous le pays que je donnerai aux enfants d'Israël, et vous n'y entrerez point.",
-      "annotations": null,
-      "source_pages": [
-        "page_0425.json"
       ]
     }
   ]

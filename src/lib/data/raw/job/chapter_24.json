@@ -5,8 +5,8 @@
   "verses": [
     {
       "verse_number": 1,
-      "latin": "AB Omnipotente non ſunt abſcondita tempora: qui autem noverunt eum, ignorant dies illius.",
-      "french": "LEs temps ne sont point cachés au Tout-puissant; mais ceux qui le connaissent, ne connaissent point ses jours.",
+      "latin": "Ab Omnipotente non sunt abscondita tempora: qui autem noverunt eum, ignorant dies illius.",
+      "french": "Les temps ne sont point cachés au Tout-puissant; mais ceux qui le connaissent, ne connaissent point ses jours.",
       "annotations": null,
       "source_pages": [
         "page_0307.json"
@@ -14,7 +14,7 @@
     },
     {
       "verse_number": 2,
-      "latin": "Alii terminos tranſtulerunt, diripuerunt greges, & paverunt eos.",
+      "latin": "Alii terminos transtulerunt, diripuerunt greges, et paverunt eos.",
       "french": "Il y en a qui arrachent les bornes; qui ravissent les troupeaux, et les mènent dans leurs pâturages.",
       "annotations": null,
       "source_pages": [
@@ -23,7 +23,7 @@
     },
     {
       "verse_number": 3,
-      "latin": "_Aſinum pupillorum abegerunt, & abſtulerunt pro pignore bovem viduæ._",
+      "latin": "Asinum pupillorum abegerunt, et abstulerunt pro pignore bovem viduæ.",
       "french": "Ils saisissent l’âne des pupilles, et ils emmènent pour gage le bœuf de la veuve.",
       "annotations": null,
       "source_pages": [
@@ -32,7 +32,7 @@
     },
     {
       "verse_number": 4,
-      "latin": "_Subverterunt pauperum viam, & oppreſſerunt pariter manſuetos terræ._",
+      "latin": "Subverterunt pauperum viam, et oppresserunt pariter mansuetos terræ.",
       "french": "Ils renversent la voie des pauvres, et ils oppriment tous ceux qui sont humbles, et doux sur la terre.",
       "annotations": null,
       "source_pages": [
@@ -41,7 +41,7 @@
     },
     {
       "verse_number": 5,
-      "latin": "_Alii quaſi onagri in deſerto, egrediuntur ad opus ſuum : vigilantes ad prædam, præparant panem liberis._",
+      "latin": "Alii quasi onagri in deserto, egrediuntur ad opus suum : vigilantes ad prædam, præparant panem liberis.",
       "french": "D’autres, semblables à des ânes sauvages dans le désert, vont au butin comme à leur ouvrage ; ils cherchent leur proie dès le matin, pour donner de quoi vivre à leurs enfants.",
       "annotations": null,
       "source_pages": [
@@ -50,7 +50,7 @@
     },
     {
       "verse_number": 6,
-      "latin": "Agrum non ſuum demetunt : & vineam ejus, quem vi oppreſſerunt, vindemiant.",
+      "latin": "Agrum non suum demetunt : et vineam ejus, quem vi oppresserunt, vindemiant.",
       "french": "Ils moissonnent le champ, qui n'est point à eux, et ils vendangent la vigne de celui qu'ils ont opprimé par violence.",
       "annotations": null,
       "source_pages": [
@@ -59,7 +59,7 @@
     },
     {
       "verse_number": 7,
-      "latin": "Nudos dimittunt homines, indumenta tollentes, quibus non eſt operimentum in frigore :",
+      "latin": "Nudos dimittunt homines, indumenta tollentes, quibus non est operimentum in frigore :",
       "french": "Ils dépouillent les hommes, et ôtent les habits à ceux qui n'ont pas de quoi se couvrir pendant le froid ;",
       "annotations": null,
       "source_pages": [
@@ -68,8 +68,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Quos imbres montium rigant : & non habentes velamen, amplexantur lapides.",
-      "french": "8. Qui sont percés par les pluies des montagnes, et qui se trouvant sans vêtements, se mettent à couvert sous les rochers.",
+      "latin": "Quos imbres montium rigant : et non habentes velamen, amplexantur lapides.",
+      "french": "Qui sont percés par les pluies des montagnes, et qui se trouvant sans vêtements, se mettent à couvert sous les rochers.",
       "annotations": null,
       "source_pages": [
         "page_0311.json"
@@ -77,8 +77,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Vim fecerunt deprædantes pupillos, & vulgum pauperem ſpoliaverunt.",
-      "french": "9. Ils ravissent le bien des pupilles par force, et ils dépouillent le pauvre peuple.",
+      "latin": "Vim fecerunt deprædantes pupillos, et vulgum pauperem spoliaverunt.",
+      "french": "Ils ravissent le bien des pupilles par force, et ils dépouillent le pauvre peuple.",
       "annotations": null,
       "source_pages": [
         "page_0311.json"
@@ -86,8 +86,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Nudis & incedentibus abſque veſtitu, & eſurientibus tulerunt ſpicas.",
-      "french": "10. Ils arrachent jusqu'à quelque peu d'épis à ceux qui sont nus, qui vont sans habits, et meurent de faim.",
+      "latin": "Nudis et incedentibus absque vestitu, et esurientibus tulerunt spicas.",
+      "french": "Ils arrachent jusqu'à quelque peu d'épis à ceux qui sont nus, qui vont sans habits, et meurent de faim.",
       "annotations": null,
       "source_pages": [
         "page_0311.json"
@@ -95,7 +95,7 @@
     },
     {
       "verse_number": 11,
-      "latin": "Inter acervos eorum meridiani ſunt, qui calcatis torcularibus ſitiunt.",
+      "latin": "Inter acervos eorum meridiani sunt, qui calcatis torcularibus sitiunt.",
       "french": "Ils se reposent sur le midi au milieu des tas de fruits, de ceux qui après avoir foulé le vin dans leurs pressoirs, sont dans la soif.",
       "annotations": null,
       "source_pages": [
@@ -104,7 +104,7 @@
     },
     {
       "verse_number": 12,
-      "latin": "De civitatibus fecerunt viros gemere, & anima vulneratorum clamavit, & Deus inultum abire non patitur.",
+      "latin": "De civitatibus fecerunt viros gemere, et anima vulneratorum clamavit, et Deus inultum abire non patitur.",
       "french": "Ils font soupirer les hommes dans les villes ; les âmes de ceux qu'ils ont mis à mort, poussent leurs cris au ciel, et Dieu ne laissera point ces désordres impunis.",
       "annotations": null,
       "source_pages": [
@@ -113,7 +113,7 @@
     },
     {
       "verse_number": 13,
-      "latin": "Ipſi fuerunt rebelles lumini ; neſcierunt vias ejus, nec reverſi ſunt per ſemitas ejus.",
+      "latin": "Ipsi fuerunt rebelles lumini ; nescierunt vias ejus, nec reversi sunt per semitas ejus.",
       "french": "Ils ont été rebelles à la lumière ; ils n'ont point connu les voies de Dieu, et ils ne sont point revenus par ses sentiers.",
       "annotations": null,
       "source_pages": [
@@ -122,7 +122,7 @@
     },
     {
       "verse_number": 14,
-      "latin": "_Mane primo conſurgit homicida, interficit egenum, & pauperem; per noctem verò erit quaſi fur._",
+      "latin": "Mane primo consurgit homicida, interficit egenum, et pauperem; per noctem verò erit quasi fur.",
       "french": "Le meurtrier se lève dès le matin ; il tue le faible, et le pauvre, et il dérobe pendant la nuit comme un larron.",
       "annotations": null,
       "source_pages": [
@@ -131,7 +131,7 @@
     },
     {
       "verse_number": 15,
-      "latin": "_Oculus adulteri obſervat caliginem, dicens : Non me videbit oculus; & operiet vultum ſuum._",
+      "latin": "Oculus adulteri observat caliginem, dicens : Non me videbit oculus; et operiet vultum suum.",
       "french": "L'œil de l'adultère épie l'obscurité de la nuit; il dit : Personne ne me verra ; et il se couvre le visage.",
       "annotations": null,
       "source_pages": [
@@ -140,7 +140,7 @@
     },
     {
       "verse_number": 16,
-      "latin": "_Perfodit in tenebris domos, ſicut in die condixerant ſibi, & ignoraverunt lucem._",
+      "latin": "Perfodit in tenebris domos, sicut in die condixerant sibi, et ignoraverunt lucem.",
       "french": "Il perce les maisons dans les ténèbres, à l'heure qu'ils s'étaient donnée pendant le jour, et ils n'ont point connu la lumière.",
       "annotations": null,
       "source_pages": [
@@ -149,7 +149,7 @@
     },
     {
       "verse_number": 17,
-      "latin": "_Si ſubitò apparuerit aurora, arbitrantur umbram mortis ; & ſic in tenebris, quaſi in luce ambulant._",
+      "latin": "Si subitò apparuerit aurora, arbitrantur umbram mortis ; et sic in tenebris, quasi in luce ambulant.",
       "french": "Si l'aurore paraît tout d'un coup, ils la regardent comme l'ombre de la mort, et ils marchent dans les ténèbres, comme dans le jour.",
       "annotations": null,
       "source_pages": [
@@ -158,7 +158,7 @@
     },
     {
       "verse_number": 18,
-      "latin": "Levis eſt ſuper faciem aquæ: Maledicta ſit pars ejus in terrâ, nec ambulet per viam vinearum.",
+      "latin": "Levis est super faciem aquæ: Maledicta sit pars ejus in terrâ, nec ambulet per viam vinearum.",
       "french": "Il est plus léger que la surface de l'eau; il est maudit sur la terre, et il ne marchera point par le chemin de la vigne.",
       "annotations": null,
       "source_pages": [
@@ -167,7 +167,7 @@
     },
     {
       "verse_number": 19,
-      "latin": "Ad nimium calorem tranſeat ab aquis nivium, & uſque ad inferos peccatum illius.",
+      "latin": "Ad nimium calorem transeat ab aquis nivium, et usque ad inferos peccatum illius.",
       "french": "Il passera tout d'un coup des eaux froides de la neige, à une chaleur excessive, et son péché le conduira jusqu'aux enfers.",
       "annotations": null,
       "source_pages": [
@@ -176,7 +176,7 @@
     },
     {
       "verse_number": 20,
-      "latin": "Obliviſcatur ejus miſericordia: Dulcedo illius vermes: Non ſit in recordatione, ſed conteratur quaſi lignum infructuoſum.",
+      "latin": "Obliviscatur ejus misericordia: Dulcedo illius vermes: Non sit in recordatione, sed conteratur quasi lignum infructuosum.",
       "french": "Que la miséricorde le mette en oubli, que les vers soient sa douceur et ses délices; qu’on ne se souvienne point de lui; mais qu’il soit brisé comme un arbre, qui ne porte point de fruit.",
       "annotations": null,
       "source_pages": [
@@ -185,7 +185,7 @@
     },
     {
       "verse_number": 21,
-      "latin": "Pavit enim ſterilem, quæ non parit, & viduæ benè non fecit.",
+      "latin": "Pavit enim sterilem, quæ non parit, et viduæ benè non fecit.",
       "french": "Car il a nourri celle qui était stérile, et qui n'enfante point, et il n'a point fait de bien à la veuve.",
       "annotations": null,
       "source_pages": [
@@ -194,7 +194,7 @@
     },
     {
       "verse_number": 22,
-      "latin": "_Detraxit fortes in fortitudine ſuâ; & cùm ſteterit, non credet vitæ ſuæ._",
+      "latin": "Detraxit fortes in fortitudine suâ; et cùm steterit, non credet vitæ suæ.",
       "french": "Il a fait tomber les plus forts par sa puissance; et lorsqu'il sera le plus ferme, il ne s'assurera point de sa vie.",
       "annotations": null,
       "source_pages": [
@@ -203,7 +203,7 @@
     },
     {
       "verse_number": 23,
-      "latin": "_Dedit ei Deus locum pœnitentiæ, & ille abutitur eo in ſuperbiam: oculi autem ejus ſunt in viis illius._",
+      "latin": "Dedit ei Deus locum pœnitentiæ, et ille abutitur eo in superbiam: oculi autem ejus sunt in viis illius.",
       "french": "Dieu lui a donné du temps pour faire pénitence, et il en a abusé, pour devenir encore plus superbe; mais les yeux de Dieu sont sur ses voies.",
       "annotations": null,
       "source_pages": [
@@ -212,7 +212,7 @@
     },
     {
       "verse_number": 24,
-      "latin": "Elevati ſunt ad modicum, & non ſubſiſtent ; & humiliabuntur ſicut omnia ; & auferentur, & ſicut ſummitates ſpicarum conterentur.",
+      "latin": "Elevati sunt ad modicum, et non subsistent ; et humiliabuntur sicut omnia ; et auferentur, et sicut summitates spicarum conterentur.",
       "french": "Ces personnes s’élèvent pour un moment ; et après cela elles ne subsistent plus ; elles seront humiliées comme toutes choses ; elles seront emportées et retranchées, comme le haut des épis.",
       "annotations": null,
       "source_pages": [
@@ -221,7 +221,7 @@
     },
     {
       "verse_number": 25,
-      "latin": "Quod ſi non eſt ita, quis me poteſt arguere eſſe mentitum, & ponere ante Deum verba mea ?",
+      "latin": "Quod si non est ita, quis me potest arguere esse mentitum, et ponere ante Deum verba mea ?",
       "french": "Que si cela n’est pas ainsi, qui pourra me convaincre de mensonge dans ce que je dis, et accuser mes paroles devant Dieu ?",
       "annotations": null,
       "source_pages": [

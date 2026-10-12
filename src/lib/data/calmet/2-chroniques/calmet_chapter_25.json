@@ -65,7 +65,7 @@
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SCIO QUOD COGITAVERIT DOMINUS OCCIDERE TE.",
       "lemma": "Je sais que Dieu a résolu de vous ôter la vie,",
       "text": "Amasias mourut en effet de mort violente : mais ce ne fut que seize ans après cette prédiction."
@@ -86,7 +86,7 @@
     },
     {
       "verse": 20,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MINI ESSET VOLUNTAS , UT TRADERETUR IN MANUS HOSTIUM.",
       "lemma": "Amasias ne le voulut point écouter, parce que le Seigneur avait résolu de le livrer entre les mains de ses ennemis.",
       "text": "Dieu l'abandonna à son mauvais conseil ; il ne lui donna pas les lumières et les grâces, qui lui auraient fait connaître et prendre un meilleur parti. _Jupiter ôte l'esprit à ceux qu'il veut perdre_, dit Homère."
@@ -100,7 +100,7 @@
     },
     {
       "verse": 24,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FILIOS OBSIDUM REDUXIT IN SAMARIAM.",
       "lemma": "Il ramena en Samarie les fils de ceux qui étaient en otage.",
       "text": "On est fort partagé sur ces _fils des otages_. [12] Les uns croient que cette expression marque simplement des otages, de même que _fils de l'homme_, _fils d'iniquité_, _fils de mort_, signifie l'homme, le pécheur, le criminel. D'autres croient que Joas Roi d'Israël avait pris dans la bataille, un grand nombre de personnes de qualité, et qu'étant arrivé à Jérusalem, il les échangea contre leurs fils, qu'ils lui laissèrent en otage. D'autres enfin veulent que le Roi de Juda retenait à Jérusalem un nombre de jeunes gens en otages, pour s'assurer que le Roi d'Israël n'entreprendrait rien contre lui, et que celui-ci étant entré à Jérusalem, retira tous ces otages, et les ramena à Samarie. [13] Mais tout cela ne peut passer que pour des conjectures."
@@ -171,7 +171,7 @@
     {
       "key": "page_0168-a",
       "n": 1,
-      "text": "(a) לא בלבב שלם Ita Arab. Oſ. Piſc. 1 (b) 70. &c ἐν καρδία πλήρη."
+      "text": " לא בלבב שלם Ita Arab. Os. Pisc. 1 (b) 70. etc ἐν καρδία πλήρη."
     },
     {
       "key": "page_0169-a",
@@ -191,17 +191,17 @@
     {
       "key": "page_0170-b",
       "n": 5,
-      "text": "Grot. Piſc. hic, & Jun. Malv. &c. in 4. Reg. XIV. 7."
+      "text": "Grot. Pisc. hic, et Jun. Malv. etc. in 4. Reg. XIV. 7."
     },
     {
       "key": "page_0171-a",
       "n": 6,
-      "text": "Vide ſi placet Lyran. hic."
+      "text": "Vide si placet Lyran. hic."
     },
     {
       "key": "page_0171-b",
       "n": 7,
-      "text": "Joſué XVIII. 13. 14."
+      "text": "Josué XVIII. 13. 14."
     },
     {
       "key": "page_0171-c",
@@ -231,70 +231,12 @@
     {
       "key": "page_0174-a",
       "n": 13,
-      "text": "Vide Lyr. & Eſt. hic."
+      "text": "Vide Lyr. et Est. hic."
     },
     {
       "key": "page_0174-b",
       "n": 14,
       "text": "בעיר יהודה 1"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0167",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0168",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0169",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0170",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0171",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0172",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0173",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0174",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": [

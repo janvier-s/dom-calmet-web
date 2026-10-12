@@ -44,7 +44,7 @@
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DIXIT AD VAGAO, EUNUCHUM SUUM : VADE, ET SUADE HEBRÆAM ILLAM, UT SPONTE CONSENTIAT HABITARE MECUM.",
       "lemma": "Il dit à Vagao, un de ses Eunuques : Allez, et persuadez à cette femme qu'elle consente d'elle-même à venir me trouver, ou plutôt, à contenter ma passion.",
       "text": "Mais le Grec, et le Syriaque lisent : _Qu'elle vienne boire, et manger avec nous._[11] Le nom de _Vagoas_, ou plutôt, _Bagoas_, est commun, et se prend pour un Eunuque en général. Pline marque qu'à Babylone, on les appelait ordinairement ainsi.[12] L'Histoire nous a conservé les noms de plusieurs de ces Eunuques, ou _Bagoas_.[13] Il en était de ce terme, comme de celui d'Eunuque parmi les Grecs ; il signifiait souvent un Officier de la maison d'un Prince : mais pour l'ordinaire, ils servaient dans les appartements des Dames :[14]\n_Quem penes est Dominam servandi cura Bagoæ._\nLe Grec, et le Syriaque lisent, que ce Bagoas d'Holofernes, était le premier Officier de sa maison,[15] et que Judith logeait chez lui. Dans l'Hébreu d'Esther,[16] les Eunuques sont appelés _Bagatha_, et dans le Grec, _Bugaios_."
@@ -128,12 +128,12 @@
     {
       "key": "page_0127-a",
       "n": 1,
-      "text": "Το ἱμάτιον & ἀργυρώματα αὐτῆς, καὶ ουκ ἔſτι ταμιεῖον αὐτῆς, ἀπὸ τῶν ὑπολειμμάτων αὐτῆς, ἀλλ' ὅτι εἶπε αὐτῇ κλίνην. Je penſe qu'il faut lire : Κλινητήριον αὐτὴν, κὶ δῶμα αὐτῇ, &c."
+      "text": "Το ἱμάτιον et ἀργυρώματα αὐτῆς, καὶ ουκ ἔsτι ταμιεῖον αὐτῆς, ἀπὸ τῶν ὑπολειμμάτων αὐτῆς, ἀλλ' ὅτι εἶπε αὐτῇ κλίνην. Je pense qu'il faut lire : Κλινητήριον αὐτὴν, κὶ δῶμα αὐτῇ, etc."
     },
     {
       "key": "page_0127-b",
       "n": 2,
-      "text": "ἵνα μὴ γένωμαι σκάνδαλον, Le Syriaque : Ne ſit mihi in ſcandalum."
+      "text": "ἵνα μὴ γένωμαι σκάνδαλον, Le Syriaque : Ne sit mihi in scandalum."
     },
     {
       "key": "page_0127-c",
@@ -143,7 +143,7 @@
     {
       "key": "page_0127-d",
       "n": 4,
-      "text": "Tob. 1. 12. Cum omnes ederent de cibis gentilium, ipſe cuſtodivit animam ſuam."
+      "text": "Tob. 1. 12. Cum omnes ederent de cibis gentilium, ipse custodivit animam suam."
     },
     {
       "key": "page_0128-a",
@@ -168,7 +168,7 @@
     {
       "key": "page_0129-c",
       "n": 9,
-      "text": "Ε'ώθει γὰρ ἐξ ἐγερθεὶς λαβῶν ἀυτὸς τὰς ἐπιστολὰς ἀναγινώσκειν... ἵνα &c."
+      "text": "Ε'ώθει γὰρ ἐξ ἐγερθεὶς λαβῶν ἀυτὸς τὰς ἐπιστολὰς ἀναγινώσκειν... ἵνα etc."
     },
     {
       "key": "page_0129-d",
@@ -183,12 +183,12 @@
     {
       "key": "page_0130-b",
       "n": 12,
-      "text": "Plin. XIII. 4. _Babilone nata una in horto Bagoæ ; ita enim vocant ſpadones._"
+      "text": "Plin. XIII. 4. _Babilone nata una in horto Bagoæ ; ita enim vocant spadones._"
     },
     {
       "key": "page_0130-c",
       "n": 13,
-      "text": "Diodor. Sicul. tom. 2. Hiſt. lib. 16. Quin. Curt. lib. 6. & 10. Plut. de Fortuna Alex. &c."
+      "text": "Diodor. Sicul. tom. 2. Hist. lib. 16. Quin. Curt. lib. 6. et 10. Plut. de Fortuna Alex. etc."
     },
     {
       "key": "page_0130-d",
@@ -203,27 +203,27 @@
     {
       "key": "page_0130-f",
       "n": 16,
-      "text": "Eſther I. 10. II, 21. VI. 2."
+      "text": "Esther I. 10. II, 21. VI. 2."
     },
     {
       "key": "page_0131-a",
       "n": 17,
-      "text": "Eſther XII. 6. _Aman Amadathi Bugæus._ Item. lib. 7. & Cicer. act. 5. in Verrem."
+      "text": "Esther XII. 6. _Aman Amadathi Bugæus._ Item. lib. 7. et Cicer. act. 5. in Verrem."
     },
     {
       "key": "page_0131-b",
       "n": 18,
-      "text": "Eſther I. 11."
+      "text": "Esther I. 11."
     },
     {
       "key": "page_0131-c",
       "n": 19,
-      "text": "Herodot. lib 5. cap. 18. Εἴωθε δὲ Πέρσαισι, σμὰ. Ἡμῖν νόμος Περσέων ἐστὶ, δειπνα κροτέειν γυναῖκας μίγα, τάς τε δὴ γαμετὰς, κ τὰς παλλακὰς παρεῖναι. Vide & Juſt."
+      "text": "Herodot. lib 5. cap. 18. Εἴωθε δὲ Πέρσαισι, σμὰ. Ἡμῖν νόμος Περσέων ἐστὶ, δειπνα κροτέειν γυναῖκας μίγα, τάς τε δὴ γαμετὰς, κ τὰς παλλακὰς παρεῖναι. Vide et Just."
     },
     {
       "key": "page_0131-d",
       "n": 20,
-      "text": "Athen. Dipnoſop. lib. 12. cap 2. Τῆς δὲ νυκτὸς ἀθέους, κ πάμφοροι διατελῦσι λύ. ται καλοῦμεναι. Χρῶνται δὲ αὐταῖς, κὴ πολέμοις ὁ Βασιλεὺς, &c."
+      "text": "Athen. Dipnosop. lib. 12. cap 2. Τῆς δὲ νυκτὸς ἀθέους, κ πάμφοροι διατελῦσι λύ. ται καλοῦμεναι. Χρῶνται δὲ αὐταῖς, κὴ πολέμοις ὁ Βασιλεὺς, etc."
     },
     {
       "key": "page_0132-a",
@@ -238,7 +238,7 @@
     {
       "key": "page_0132-c",
       "n": 23,
-      "text": "Strabo. lib. 3. & 4."
+      "text": "Strabo. lib. 3. et 4."
     },
     {
       "key": "page_0133-a",
@@ -248,58 +248,7 @@
     {
       "key": "page_0133-b",
       "n": 25,
-      "text": "Voyez nôtre Commentaire ſur Eſther, chap. I. ℣. 8."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0127",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0128",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0129",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0130",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0131",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0132",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0133",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Voyez nôtre Commentaire sur Esther, chap. I. ℣. 8."
     }
   ],
   "missing_footnotes": []

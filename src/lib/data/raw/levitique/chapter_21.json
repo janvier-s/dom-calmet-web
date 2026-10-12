@@ -109,19 +109,13 @@
     },
     {
       "verse_number": 14,
-      "latin": "Viduam autem et repudiatam, et sordidam, atque meretricem non accipiet; sed puellam de populo suo:",
+      "latin": "Viduam autem et repudiatam, et sordidam, atque meretricem non accipiet; sed puellam de populo suo: Ne commisceat stirpem generis sui vulgo gentis suæ : quia ego Dominus qui sanctifico eum.",
       "french": "Il n'épousera, ni une veuve, ni une femme répudiée, ni une femme déshonorée, ni une courtisane ; mais il prendra une fille de son peuple.",
       "source_pages": [
-        "page_0275.json"
-      ]
-    },
-    {
-      "verse_number": 14,
-      "latin": "Ne commisceat stirpem generis sui vulgo gentis suæ : quia ego Dominus qui sanctifico eum.",
-      "french": null,
-      "source_pages": [
+        "page_0275.json",
         "page_0276.json"
-      ]
+      ],
+      "annotations": null
     },
     {
       "verse_number": 15,
@@ -201,14 +195,6 @@
       "french": "Moïse dit donc à Aaron, à ses fils, et à tout Israël, tout ce qui lui avait été commandé.",
       "source_pages": [
         "page_0279.json"
-      ]
-    },
-    {
-      "verse_number": 27,
-      "latin": "Vir, sive mulier, in quibus pythonicus, vel divinationis fuerit spiritus, morte moriantur, lapidibus obruent eos : sanguis eorum sit super illos.",
-      "french": "Si un homme ou une femme a un esprit de Python, ou un esprit de divination, qu'ils soient punis de mort ; ils seront lapidés, et leur sang retombera sur leur tête.",
-      "source_pages": [
-        "page_0267.json"
       ]
     }
   ]

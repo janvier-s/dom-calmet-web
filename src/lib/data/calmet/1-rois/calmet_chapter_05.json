@@ -30,7 +30,7 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SICUT SIDONII.",
       "lemma": "Comme les Sidoniens.",
       "text": "Il paraît qu'alors les Rois de Tyr étaient les maîtres des Sidoniens, ou du moins, qu'on nommait tous les Phéniciens, tant ceux de Tyr, que de Sidon, _Sidoniens_."
@@ -58,14 +58,14 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET APPLICABO EA TIBI.",
       "lemma": null,
       "text": "Et je les ferai conduire. L'Hébreu : [22] _Je vous les délierai ; je différerai, je romprai les radeaux, et je vous_ rendrai vos bois au lieu que vous me marquerez. Ménandre d'Éphèse remarque cette circonstance de la vie d'Hiram, comme une chose importante, [23] qu'il fit couper des bois du Liban, pour couvrir des Temples."
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UT DETUR CIBUS DOMUI MEÆ.",
       "lemma": "Vous me ferez donner tout ce qui sera nécessaire pour nourrir ma maison.",
       "text": "Les Tyriens s'appliquaient peu, ou point du tout à l'agriculture. Leur occupation ordinaire était la navigation, la pêche, le commerce. Autrefois, dit Servius, ils envoyaient acheter du froment dans les pays étrangers, à frais communs. [24] Les Israélites possédaient toutes les meilleures terres du pays, et les cultivaient avec grand soin. C'est ce qui les mettait en état de fournir des grains à leurs voisins. Hiram demande du froment et des huiles à Salomon, pour le salaire des ouvriers qu'il lui prête ; et Salomon s'engage à fournir la nourriture non seulement à ces ouvriers qui étaient actuellement occupés à travailler pour lui, comme on le voit par les Paralipomènes, [25] mais outre cela, il donnait gratuitement au Roi de Tyr de quoi nourrir toute sa maison. Josèphe [26] dit que Salomon lui fournissait du froment, du vin, et de l'huile ; mais l'Écriture ne parle point de vin pour la maison d'Hiram. Elle dit seulement que pour les ouvriers qui travaillaient à couper les bois, il leur fournissait du froment, de l'orge, du vin, et de l'huile. [27]\nIl est bon de se souvenir ici de ce qu'on a déjà remarqué ci-devant, que les Rois d'Orient nourrissaient toute leur maison, [28] et leur donnaient leur salaire en espèce, et non pas en argent. C'est ce qui les obligeait à faire de très grandes provisions de denrées pour leur nourriture."
@@ -79,14 +79,14 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VIGINTI COROS OLEI.",
       "lemma": "Vingt mesures d'huile.",
       "text": "Il semble qu'il faut répéter _mille_ du passage précédent, et lire : _Vingt mille mesures d'huile_. C'est le sentiment de plusieurs Commentateurs.[30] La proportion entre vingt mille corus de froment, et vingt corus d'huile, ne paraît pas juste. Dans les Paralipomènes,[31] où l'on marque la quantité de nourriture que Salomon donnait aux ouvriers qui travaillaient sur le Liban, on trouve vingt mille corus de froment, autant d'orge, et vingt mille bathes d'huile, et autant de mesures de vin. Le _bathe_ est moindre que le _corus_. Il ne contient que vingt-neuf pintes, chopine, demi-setier, un posson, et un peu plus. Mais au moins il y a de la proportion entre les vingt mille bathes de vin et d'huile, et les vingt mille cores de froment et d'orge."
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "OLEI PURISSIMI.",
       "lemma": "D'huile très pure.",
       "text": "L'Hébreu :[32] _D'huile battue_, ou froissée ; l'huile qui coule la première, après qu'on a mis les olives sur le pressoir ; la mère-goutte."
@@ -96,7 +96,7 @@
       "sub": false,
       "latin_lemma": "ERAT INDICTIO TRIGINTA MILLIA VIRORUM.",
       "lemma": "On commandait pour cet ouvrage trente mille hommes.",
-      "text": "On pourrait traduire l'Hébreu à la lettre :[33] _Ce tribut, cette corvée était de trente mille_ hommes. On commanda trente mille hommes ; mais on les partagea de manière qu'ils ne servaient qu'un mois de trois, puisqu'ils n'y allaient que dix mille à la fois, et qu'ils n'y demeuraient qu'un mois. Ainsi ils avaient toujours deux mois de repos de suite. Ces hommes étaient Israélites, et ils avaient pour Intendant _Adoniram_. Il y a beaucoup d'apparence qu'ils ne travaillaient qu'à tirer les pierres des carrières ; car pour les bois, c'étaient les Tyriens et les Sidoniens qui étaient obligés à les couper, à les conduire à la mer, à les mettre en radeaux, et à les rendre au port le plus près de Jérusalem."
+      "text": "On pourrait traduire l'Hébreu à la lettre :[33] _Ce tribut, cette corvée était de trente_ mille hommes._ On commanda trente mille hommes ; mais on les partagea de manière qu'ils ne servaient qu'un mois de trois, puisqu'ils n'y allaient que dix mille à la fois, et qu'ils n'y demeuraient qu'un mois. Ainsi ils avaient toujours deux mois de repos de suite. Ces hommes étaient Israélites, et ils avaient pour Intendant _Adoniram_. Il y a beaucoup d'apparence qu'ils ne travaillaient qu'à tirer les pierres des carrières ; car pour les bois, c'étaient les Tyriens et les Sidoniens qui étaient obligés à les couper, à les conduire à la mer, à les mettre en radeaux, et à les rendre au port le plus près de Jérusalem._"
     },
     {
       "verse": 15,
@@ -159,9 +159,9 @@
     {
       "seam": "page_0138>page_0139",
       "verse": 13,
-      "mode": "hyphen",
-      "before": "ge_0138-e} _Ce tribut, cette corvée était de trente mille_",
-      "after": "mille hommes. On commanda trente mille hommes ; mais on le"
+      "mode": "flow",
+      "before": "{fn:page_0138-e} _Ce tribut, cette corvée était de trente_",
+      "after": "mille hommes._ On commanda trente mille hommes ; mais on l"
     },
     {
       "seam": "page_0139>page_0140",
@@ -191,27 +191,27 @@
     {
       "key": "page_0133-b",
       "n": 2,
-      "text": "Joſeph. lib. 8. c. 2. & lib. 1. contra Appion."
+      "text": "Joseph. lib. 8. c. 2. et lib. 1. contra Appion."
     },
     {
       "key": "page_0133-c",
       "n": 3,
-      "text": "2. Reg. V. 11. & 1. Par. XIV. 1."
+      "text": "2. Reg. V. 11. et 1. Par. XIV. 1."
     },
     {
       "key": "page_0133-d",
       "n": 4,
-      "text": "Joſeph. Ant'q lib. 7. c. 2."
+      "text": "Joseph. Ant'q lib. 7. c. 2."
     },
     {
       "key": "page_0133-e",
       "n": 5,
-      "text": "2. Reg. VII. & 1. Par. XXII. 8."
+      "text": "2. Reg. VII. et 1. Par. XXII. 8."
     },
     {
       "key": "page_0133-f",
       "n": 6,
-      "text": "Toſtat. qu. 4. Pineda de Reb. Salom. l. 1. c. 5. Salian. & Menoch. ad 1. Par. XXII."
+      "text": "Tostat. qu. 4. Pineda de Reb. Salom. l. 1. c. 5. Salian. et Menoch. ad 1. Par. XXII."
     },
     {
       "key": "page_0134-a",
@@ -231,37 +231,37 @@
     {
       "key": "page_0134-d",
       "n": 10,
-      "text": "3. Reg. IX. 19. Vide & 2. Par. VIII. 4."
+      "text": "3. Reg. IX. 19. Vide et 2. Par. VIII. 4."
     },
     {
       "key": "page_0135-a",
       "n": 11,
-      "text": "(a) Vitruv. l. 2. cap. 9. Epheſi in Æde, ſimulacrum Dianæ, & etiam lacunaria ex ea, & ibi & in cæteris nobililibus Phanis, propter æternitatem ſunt facta."
+      "text": " Vitruv. l. 2. cap. 9. Ephesi in Æde, simulacrum Dianæ, et etiam lacunaria ex ea, et ibi et in cæteris nobililibus Phanis, propter æternitatem sunt facta."
     },
     {
       "key": "page_0135-b",
       "n": 12,
-      "text": "(b) ברוך יהוה"
+      "text": " ברוך יהוה"
     },
     {
       "key": "page_0135-c",
       "n": 13,
-      "text": "(c) Vide 1. Reg. IV 8. Dan. VI. 16. 4. Reg. XVII. 27. 2. Macc. III 3."
+      "text": " Vide 1. Reg. IV 8. Dan. VI. 16. 4. Reg. XVII. 27. 2. Macc. III 3."
     },
     {
       "key": "page_0135-d",
       "n": 14,
-      "text": "(d) Dius & Menander apud Joſeph. Antiq. lib. 8. c. 2 & lib. 1. contra Appion."
+      "text": " Dius et Menander apud Joseph. Antiq. lib. 8. c. 2 et lib. 1. contra Appion."
     },
     {
       "key": "page_0135-e",
       "n": 15,
-      "text": "(e) 3. Reg. XX. 28."
+      "text": " 3. Reg. XX. 28."
     },
     {
       "key": "page_0136-a",
       "n": 16,
-      "text": "Deut. xxix. 26 Servierunt Diis alienis... quos neſciebant, & quibus non fuerant attributi."
+      "text": "Deut. xxix. 26 Servierunt Diis alienis... quos nesciebant, et quibus non fuerant attributi."
     },
     {
       "key": "page_0136-b",
@@ -271,7 +271,7 @@
     {
       "key": "page_0136-c",
       "n": 18,
-      "text": "Hebr. Mart. Caſtal. alii."
+      "text": "Hebr. Mart. Castal. alii."
     },
     {
       "key": "page_0136-d",
@@ -296,7 +296,7 @@
     {
       "key": "page_0137-a",
       "n": 23,
-      "text": "Apud Joſeph. Antiq. lib. 8 cap. 2. Τὸνδ᾽ Ἀβίβαλον ἐκδέχεται ὁ παῖς Ἱέραμος, ὃς τὸν αἰῶνα ξύλοις κέδρινοις ἐστέγασε τὰς τῶν ἱερῶν στέγας."
+      "text": "Apud Joseph. Antiq. lib. 8 cap. 2. Τὸνδ᾽ Ἀβίβαλον ἐκδέχεται ὁ παῖς Ἱέραμος, ὃς τὸν αἰῶνα ξύλοις κέδρινοις ἐστέγασε τὰς τῶν ἱερῶν στέγας."
     },
     {
       "key": "page_0137-b",
@@ -311,7 +311,7 @@
     {
       "key": "page_0137-d",
       "n": 26,
-      "text": "Joſeph loco cit."
+      "text": "Joseph loco cit."
     },
     {
       "key": "page_0137-e",
@@ -321,7 +321,7 @@
     {
       "key": "page_0137-f",
       "n": 28,
-      "text": "Vide Athen. lib. 4. de Perſis, & ſup. 3. Reg. IV. 22."
+      "text": "Vide Athen. lib. 4. de Persis, et sup. 3. Reg. IV. 22."
     },
     {
       "key": "page_0138-a",
@@ -331,7 +331,7 @@
     {
       "key": "page_0138-b",
       "n": 30,
-      "text": "Buxtorf. Glaſſ. Piſcat. Ita & Syr. & 70. & Arab. & Aquila."
+      "text": "Buxtorf. Glass. Piscat. Ita et Syr. et 70. et Arab. et Aquila."
     },
     {
       "key": "page_0138-c",
@@ -362,71 +362,6 @@
       "key": "page_0140-a",
       "n": 36,
       "text": "Ezech. XXVII. 9."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0132",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0133",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0134",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0135",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0136",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0137",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0138",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0139",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0140",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

@@ -38,7 +38,7 @@
     {
       "verse": 8,
       "sub": false,
-      "latin_lemma": "CONFITEMINI DOMINO, &c.",
+      "latin_lemma": "CONFITEMINI DOMINO, etc.",
       "lemma": "Louez le Seigneur.",
       "text": "C’est le même que le Psaume CIV. que nous expliquerons plus exactement dans le commentaire sur les Psaumes."
     },
@@ -51,7 +51,7 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUÆRITE FACIEM EJUS SEMPER.",
       "lemma": "Cherchez à vous présenter sans cesse devant sa face,",
       "text": "ou plutôt : Cherchez continuellement la présence de son Arche, qui est le lieu où il se montre plus à découvert, où il se fait connaître d’une manière plus sensible ; enfin cherchez à venir souvent dans son Tabernacle, vous présenter en sa présence, et lui rendre vos hommages."
@@ -228,17 +228,17 @@
     {
       "key": "page_0212-a",
       "n": 5,
-      "text": "2. Par. VI. 41. _Confurge Domine in requiem tuam, tu, & arca fortitudinis tuæ._ Et Pſ. LXXVII. 61. _Et tradidit in captivitatem virtutem eorum._"
+      "text": "2. Par. VI. 41. _Confurge Domine in requiem tuam, tu, et arca fortitudinis tuæ._ Et Ps. LXXVII. 61. _Et tradidit in captivitatem virtutem eorum._"
     },
     {
       "key": "page_0212-b",
       "n": 6,
-      "text": "Pſal. CIV. 4. דרשו יהוה ועזו"
+      "text": "Psal. CIV. 4. דרשו יהוה ועזו"
     },
     {
       "key": "page_0214-a",
       "n": 7,
-      "text": "Pſal. xcv. 6. ותפארת במקדשו"
+      "text": "Psal. xcv. 6. ותפארת במקדשו"
     },
     {
       "key": "page_0214-c",
@@ -248,7 +248,7 @@
     {
       "key": "page_0214-d",
       "n": 9,
-      "text": "Pſal. xcv. 8. בחצרותיו"
+      "text": "Psal. xcv. 8. בחצרותיו"
     },
     {
       "key": "page_0214-b",
@@ -263,12 +263,12 @@
     {
       "key": "page_0216-a",
       "n": 12,
-      "text": "Vide Lyran. & Eſt. hic."
+      "text": "Vide Lyran. et Est. hic."
     },
     {
       "key": "page_0216-b",
       "n": 13,
-      "text": "Pſal. cv. 47. Salvos nos fac, Domine Deus noſter, & congrega nos de nationibus, ut confiteamur nomini ſancto tuo, &c."
+      "text": "Psal. cv. 47. Salvos nos fac, Domine Deus noster, et congrega nos de nationibus, ut confiteamur nomini sancto tuo, etc."
     },
     {
       "key": "page_0216-c",
@@ -278,7 +278,7 @@
     {
       "key": "page_0216-d",
       "n": 15,
-      "text": "Iſa 70. ἡ ἀλήθεια, ὁ αἶνος, ἡ δόξα, ἡ ἐξομολόγησις τοῦ κυρίου."
+      "text": "Isa 70. ἡ ἀλήθεια, ὁ αἶνος, ἡ δόξα, ἡ ἐξομολόγησις τοῦ κυρίου."
     },
     {
       "key": "page_0217-a",
@@ -288,7 +288,7 @@
     {
       "key": "page_0217-b",
       "n": 17,
-      "text": "3. Reg. I. 7. 8. & iv. 4. Voyez auſſi ci-après chap. xxiv. 3 6. 31."
+      "text": "3. Reg. I. 7. 8. et iv. 4. Voyez aussi ci-après chap. xxiv. 3 6. 31."
     },
     {
       "key": "page_0217-c",
@@ -304,78 +304,6 @@
       "key": "page_0218-b",
       "n": 20,
       "text": "3. Reg. III. 3. 4."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0209",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0210",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0211",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0212",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0213",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0214",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0215",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0216",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0217",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0218",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

@@ -17,7 +17,7 @@
     {
       "verse": 5,
       "sub": false,
-      "latin_lemma": "FILII JAPHETH, GOMER, &c.",
+      "latin_lemma": "FILII JAPHETH, GOMER, etc.",
       "lemma": "Les fils de Japheth, sont Gomer, et les autres :",
       "text": "L'Auteur Sacré commence par la généalogie de Japheth, qui était l'aîné des fils de Noé ; mais comme cette race ne touchait point celle d'Abraham, ni celle de David, qu'il avait principalement en vue, et qu'il désirait pousser plus loin, il se contente d'exposer en peu de mots la généalogie de Japheth, et celle de Cham, pour pouvoir ensuite s'étendre davantage sur celle de Sem ; il ne nous parle des autres qu'incidemment, et il n'en dit qu'autant qu'il en faut, pour suivre la généalogie de Sem par Heber et par Abraham. Il néglige entièrement en cet endroit Magog, Madaï, Tubal, Mosoch et Tiras, tous fils de Japhet, et ne donne que les fils de Gomer et de Javan."
     },
@@ -79,7 +79,7 @@
     },
     {
       "verse": 32,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FILII AUTEM DADAN, ASSURIM, ET LATUSIM, ET LAOMIM.",
       "lemma": null,
       "text": "Ces paroles ne sont pas dans l'Heb. ni dans les Septante, elles sont tirées de la Genèse chap. xxv. 3. L'Auteur de la nouvelle Édition de saint Jérôme ne les a pas trouvées dans de très anciens, et de très bons manuscrits de la Traduction de saint Jérôme."
@@ -94,21 +94,21 @@
     {
       "verse": 38,
       "sub": false,
-      "latin_lemma": "FILII SEIR, LOTAN, &c.",
+      "latin_lemma": "FILII SEIR, LOTAN, etc.",
       "lemma": "Les fils de Seïr sont Lotan.",
       "text": "Seïr dont il est parlé ici, n'est pas Ésaü ; c'est un Prince des Horréens ; comme on le voit Genèse XXXVI. 20. _Isti sunt filii Seïr Horrai. Lotan et Sobal._"
     },
     {
       "verse": 40,
       "sub": false,
-      "latin_lemma": "ALIAN, nommé Alvan dans la Geneſe.[15] SEPHI, autrement Sepho. Geneſ. XXXVI. 23. FILII ANA, DISON.",
+      "latin_lemma": "ALIAN, nommé Alvan dans la Genese.[15] SEPHI, autrement Sepho. Genes. XXXVI. 23. FILII ANA, DISON.",
       "lemma": null,
       "text": "Les fils d'Ana, sont Dison. Il y faut joindre Oolibama, marquée dans la Genèse, comme fille d'Ana, et sœur de Dison.[14]"
     },
     {
       "verse": 41,
       "sub": false,
-      "latin_lemma": "HAMRAM; il eſt appellé Hamdam dans la Geneſe.[16]",
+      "latin_lemma": "HAMRAM; il est appellé Hamdam dans la Genese.[16]",
       "lemma": null,
       "text": "Toutes ces variétés ne naissent que de la ressemblance des lettres, et ne peuvent être venues que depuis que les Livres Saints sont écrits en caractères Chaldéens."
     },
@@ -142,7 +142,7 @@
     },
     {
       "verse": 46,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PERCUSSIT MADIAN IN TERRA MOAB.",
       "lemma": "Il défit les Madianites dans le pays de Moab.",
       "text": "On n'a aucune connaissance de cette guerre, ni de cette défaite. On pourrait traduire : [28] _Il vainquit, ou il prit la ville de Madian, qui est dans les terres de Moab_. On connaît une ville de Madian au voisinage du pays de Moab. [29]"
@@ -157,27 +157,27 @@
     {
       "verse": 50,
       "sub": false,
-      "latin_lemma": "ADAD, il eſt appellé Adar; Geneſ. XXXVI. 39.",
+      "latin_lemma": "ADAD,",
       "lemma": null,
-      "text": ""
+      "text": "il est appellé Adar; Genes. XXXVI. 39."
     },
     {
       "verse": 50,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CUJUS URBIS NOMEN FUIT PHAU.",
       "lemma": "Sa ville s'appelait Phaü.",
       "text": "Nous ne connaissons aucune ville de ce nom dans l'Idumée. Les Septante lisent _Phogor_ ; on pourrait lire l'Hébreu [31] par Phai, ou Phagis; il y a dans l'Arabie une ville nommée _Phigia_, marquée par Ptolémée."
     },
     {
       "verse": 50,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FILIA MATRED FILIÆ MEZAHAB.",
       "lemma": "Fille de Matred qui était fille de Mezabab.",
       "text": "Il est extraordinaire dans l'Écriture de donner si exactement la généalogie d'une femme ; je voudrais traduire l'Hébreu par : _Sa femme s'appelait Méetabel, fille de Matred, qui était native de Mezabab._ Nous lisons dans Moïse [32] un lieu nommé Di-Zahab ; je me trompe s'il n'y a faute dans cet endroit-ci, ou dans le Deutéronome, et s'il ne faut pas lire dans les deux passages Di-zahab, ou Mezabab. Le premier signifie de _l'or en abondance_ ; et l'autre, _des eaux d'or_. Dizahab de Moïse était dans l'Idumée, ou au voisinage. Peut-être aussi que Matred est un nom d'homme, et qu'il faut traduire ; _Sa femme s'appelait Metabel, fille de Matred, et native de Mezabab._"
     },
     {
       "verse": 50,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DUCES PRO REGIBUS ESSE COPERUNT.",
       "lemma": "Edom n'eut plus de rois, mais des gouverneurs.",
       "text": "L'Hébreu ne parle point de rois: Et Adad mourut, et il y eut des _gouverneurs_ dans Edom."
@@ -191,14 +191,14 @@
     },
     {
       "verse": 51,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ALVA.",
       "lemma": null,
       "text": "[35] Ptolémée met une ville d'Alvare dans l'Arabie heureuse."
     },
     {
       "verse": 51,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "JETHETH.",
       "lemma": null,
       "text": "[36] Ne serait-ce pas _Jetehata_ dans le Désert d'Idumée, dont parle Moïse ? [37]"
@@ -212,14 +212,14 @@
     },
     {
       "verse": 52,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ELAT.",
       "lemma": null,
       "text": "Peut-être la même qu'_Elac_ sur la Mer rouge."
     },
     {
       "verse": 52,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PHINON,",
       "lemma": null,
       "text": "c'est apparemment _Phanon_ dans le Désert, où sont les fameuses Mines de _Phinon_, ou _Phunon_. Voyez Num. XXXIII. 42. 43."
@@ -233,7 +233,7 @@
     },
     {
       "verse": 53,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "THEMAN.",
       "lemma": null,
       "text": "La ville de ce nom est fort connue dans les Prophètes : [38] C'était une des principales villes d'Idumée."
@@ -328,7 +328,7 @@
     {
       "key": "page_0064-a",
       "n": 1,
-      "text": "_Vide Geneſ. x. per totum cap._"
+      "text": "_Vide Genes. x. per totum cap._"
     },
     {
       "key": "page_0065-a",
@@ -338,17 +338,17 @@
     {
       "key": "page_0065-b",
       "n": 3,
-      "text": "Geneſ. x. 3."
+      "text": "Genes. x. 3."
     },
     {
       "key": "page_0065-c",
       "n": 4,
-      "text": "Geneſ. x. 4."
+      "text": "Genes. x. 4."
     },
     {
       "key": "page_0066-a",
       "n": 5,
-      "text": "Geneſ. x. 23. Filii Aram, Hus & Hul."
+      "text": "Genes. x. 23. Filii Aram, Hus et Hul."
     },
     {
       "key": "page_0066-b",
@@ -358,7 +358,7 @@
     {
       "key": "page_0067-a",
       "n": 7,
-      "text": "Geneſ. x. 24."
+      "text": "Genes. x. 24."
     },
     {
       "key": "page_0067-b",
@@ -368,7 +368,7 @@
     {
       "key": "page_0067-c",
       "n": 9,
-      "text": "Geneſ. x. 28. עובל"
+      "text": "Genes. x. 28. עובל"
     },
     {
       "key": "page_0067-d",
@@ -378,12 +378,12 @@
     {
       "key": "page_0067-e",
       "n": 11,
-      "text": "Geneſ. xxv. 1. _Abraham aliam duxit uxorem nomine Ceturam._ Hebr. ויקח אברהם אשה ושמה קטורה"
+      "text": "Genes. xxv. 1. _Abraham aliam duxit uxorem nomine Ceturam._ Hebr. ויקח אברהם אשה ושמה קטורה"
     },
     {
       "key": "page_0068-a",
       "n": 12,
-      "text": "Geneſ. XXXVI. 12. Erat autem Thamna concubina Eliphaz, quæ peperit ei Amalec. [UNCERTAIN HEBREW]"
+      "text": "Genes. XXXVI. 12. Erat autem Thamna concubina Eliphaz, quæ peperit ei Amalec. [UNCERTAIN HEBREW]"
     },
     {
       "key": "page_0068-b",
@@ -393,52 +393,52 @@
     {
       "key": "page_0068-d",
       "n": 14,
-      "text": "Geneſ. XXXVI. 25."
+      "text": "Genes. XXXVI. 25."
     },
     {
       "key": "page_0068-c",
       "n": 15,
-      "text": "Geneſ. XXXVI. 23. [UNCERTAIN HEBREW] Hic autem"
+      "text": "Genes. XXXVI. 23. [UNCERTAIN HEBREW] Hic autem"
     },
     {
       "key": "page_0068-e",
       "n": 16,
-      "text": "Geneſ. XXXVI. 26. [UNCERTAIN HEBREW] Chemdam. Hic autem [UNCERTAIN HEBREW]"
+      "text": "Genes. XXXVI. 26. [UNCERTAIN HEBREW] Chemdam. Hic autem [UNCERTAIN HEBREW]"
     },
     {
       "key": "page_0069-a",
       "n": 17,
-      "text": "Geneſ. ibid. 27. יַעֲקָן hic יָקָן"
+      "text": "Genes. ibid. 27. יַעֲקָן hic יָקָן"
     },
     {
       "key": "page_0069-b",
       "n": 18,
-      "text": "Geneſ. XXXVI. 31."
+      "text": "Genes. XXXVI. 31."
     },
     {
       "key": "page_0069-c",
       "n": 19,
-      "text": "3. Reg. VIII. 20. _In diebus ejus (Joram) receſſit Edom, ne eſſet ſub Juda, & conſtituit ſibi Regem._"
+      "text": "3. Reg. VIII. 20. _In diebus ejus (Joram) recessit Edom, ne esset sub Juda, et constituit sibi Regem._"
     },
     {
       "key": "page_0070-a",
       "n": 20,
-      "text": "Geneſ. XXXVI. 15. _Hi duces filiorum Eſaü,... Dux Theman, dux Omar, &c. Vide & ℣. 17. 18. 19. &c._"
+      "text": "Genes. XXXVI. 15. _Hi duces filiorum Esaü,... Dux Theman, dux Omar, etc. Vide et ℣. 17. 18. 19. etc._"
     },
     {
       "key": "page_0070-b",
       "n": 21,
-      "text": "Exod. XV.16. _Tunc conturbati ſunt Principes Edom._"
+      "text": "Exod. XV.16. _Tunc conturbati sunt Principes Edom._"
     },
     {
       "key": "page_0070-c",
       "n": 22,
-      "text": "Num. XX. 14. _Miſit nuntios Moyſes de Cades ad Regem Edom._"
+      "text": "Num. XX. 14. _Misit nuntios Moyses de Cades ad Regem Edom._"
     },
     {
       "key": "page_0070-d",
       "n": 23,
-      "text": "2. Reg. VIII. 13. 14. & 3. Reg. XI. 15. 16."
+      "text": "2. Reg. VIII. 13. 14. et 3. Reg. XI. 15. 16."
     },
     {
       "key": "page_0070-e",
@@ -448,7 +448,7 @@
     {
       "key": "page_0070-f",
       "n": 25,
-      "text": "2. Reg. VIII. 14. _Poſuit in Idumæa cuſtodes, ſtatuitque præſidium, & facta eſt univerſa Idumæa ſerviens David._"
+      "text": "2. Reg. VIII. 14. _Posuit in Idumæa custodes, statuitque præsidium, et facta est universa Idumæa serviens David._"
     },
     {
       "key": "page_0070-g",
@@ -458,7 +458,7 @@
     {
       "key": "page_0071-a",
       "n": 27,
-      "text": "Vide Ieron. in tradit. Hebr. in Geneſ. Ariſteas apud Euſeb. l. 9. præp. c. ult. Athanaf. in Synopſi. Chryſoſt. Homil. 21. de Job. Aug. l. 18. de Civit. c. 47. Theodoret qu. 92. in Geneſ."
+      "text": "Vide Ieron. in tradit. Hebr. in Genes. Aristeas apud Euseb. l. 9. præp. c. ult. Athanaf. in Synopsi. Chrysost. Homil. 21. de Job. Aug. l. 18. de Civit. c. 47. Theodoret qu. 92. in Genes."
     },
     {
       "key": "page_0071-b",
@@ -468,12 +468,12 @@
     {
       "key": "page_0071-c",
       "n": 29,
-      "text": "Ierbo. in locis. In Madian alia civitas ἀρεόπολις ejus juxta Arnonem & Areopolitas nunc ruinæ tantummodò demonſtrantur."
+      "text": "Ierbo. in locis. In Madian alia civitas ἀρεόπολις ejus juxta Arnonem et Areopolitas nunc ruinæ tantummodò demonstrantur."
     },
     {
       "key": "page_0071-d",
       "n": 30,
-      "text": "Vide ad Geneſ. X. 11."
+      "text": "Vide ad Genes. X. 11."
     },
     {
       "key": "page_0072-a",
@@ -483,7 +483,7 @@
     {
       "key": "page_0072-b",
       "n": 32,
-      "text": "Deut. 1. 1. Ubi auri eſt plurimum.'Heb. ודי זהב Di-zahab : hic autem זהב מי Mezahab."
+      "text": "Deut. 1. 1. Ubi auri est plurimum.'Heb. ודי זהב Di-zahab : hic autem זהב מי Mezahab."
     },
     {
       "key": "page_0072-c",
@@ -513,86 +513,7 @@
     {
       "key": "page_0073-d",
       "n": 38,
-      "text": "Jerem. XLIX. 7. Non ultra eſt ſapientia in Theman. Baruc. III. 23. Amos. I. 12."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0063",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0064",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0065",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0066",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0067",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0068",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0069",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0070",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0071",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0072",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0073",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Jerem. XLIX. 7. Non ultra est sapientia in Theman. Baruc. III. 23. Amos. I. 12."
     }
   ],
   "missing_footnotes": []

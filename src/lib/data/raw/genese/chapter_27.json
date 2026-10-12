@@ -248,19 +248,11 @@
     },
     {
       "verse_number": 28,
-      "latin": "Det tibi Deus de rore Coeli, et de pinguedine terræ, abundantiam frumenti et vini.",
-      "french": "Que le Seigneur verse la rosée du Ciel [ sur vos champs, ] et qu'il engraisse vos terres, pour produire une abondance de blé et de vin.",
+      "latin": "Det tibi Deus de rore Coeli, et de pinguedine terræ, abundantiam frumenti et vini. Det tibi Deus de rore Coeli, et de pinguedine terræ, abundantiam frumenti et vini.",
+      "french": "Que le Seigneur verse la rosée du Ciel [ sur vos champs, ] et qu'il engraisse vos terres, pour produire une abondance de blé et de vin. Que le Seigneur verse la rosée du Ciel [ sur vos champs, ] et qu'il engraisse vos terres, pour produire une abondance de blé et de vin.",
       "annotations": null,
       "source_pages": [
-        "page_0648.json"
-      ]
-    },
-    {
-      "verse_number": 28,
-      "latin": "Det tibi Deus de rore Coeli, et de pinguedine terræ, abundantiam frumenti et vini.",
-      "french": "Que le Seigneur verse la rosée du Ciel [ sur vos champs, ] et qu'il engraisse vos terres, pour produire une abondance de blé et de vin.",
-      "annotations": null,
-      "source_pages": [
+        "page_0648.json",
         "page_0649.json"
       ]
     },
@@ -375,7 +367,7 @@
     {
       "verse_number": 41,
       "latin": "Oderat ergo semper Esau Jacob pro benedictione qua benedixerat ei pater : dixitque in corde suo : Venient dies luctus patris mei, et occidam Jacob fratrem meum.",
-      "french": "V. 41. Ésaü donc conservait toujours une haine secrète contre Jacob à cause de cette bénédiction qu'il avait reçue de son père ; et il disait dans son cœur ; le temps du deuil de mon père viendra, et je me déferai de Jacob mon frère.",
+      "french": "Ésaü donc conservait toujours une haine secrète contre Jacob à cause de cette bénédiction qu'il avait reçue de son père ; et il disait dans son cœur ; le temps du deuil de mon père viendra, et je me déferai de Jacob mon frère.",
       "annotations": null,
       "source_pages": [
         "page_0654.json"

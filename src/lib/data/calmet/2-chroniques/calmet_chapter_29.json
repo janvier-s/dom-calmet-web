@@ -16,7 +16,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "INSTAURAVIT EAS.",
       "lemma": "Il rétablit les portes du Temple, il les orna de lames d'or, qu'il fut ensuite obligé d'arracher, pour les donner au Roi d'Assyrie.[5]",
       "text": ""
@@ -44,7 +44,7 @@
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "HOLOCAUSTA NON OBTULERUNT IN SANCTUARIO.",
       "lemma": "Ils n'ont plus offert d'holocaustes dans le Sanctuaire.",
       "text": "On fait qu'on n'offrait jamais de victimes dans le Sanctuaire, mais on y portait le sang de certaines victimes, au jour de l'expiation solemnelle. [8] J'aimerais mieux entendre ici, sous le nom de Sanctuaire, le parvis des Prêtres, où était l'Autel des holocaustes, et où l'on offrait toutes les victimes."
@@ -100,8 +100,8 @@
     },
     {
       "verse": 25,
-      "sub": true,
-      "latin_lemma": "CUM CYMBALIS... SECUNDUM DISPOSITIONEM DAVID REGIS, ET GAD VIDENTIS, &c.",
+      "sub": false,
+      "latin_lemma": "CUM CYMBALIS... SECUNDUM DISPOSITIONEM DAVID REGIS, ET GAD VIDENTIS, etc.",
       "lemma": "Il établit les Lévites dans la maison du Seigneur, avec les Cymbales, en suivant ce que le Roi David en avait réglé, par l'avis des Prophètes Gad et Nathan.",
       "text": "Moïse n'avait point ordonné l'usage des instruments de musique dans le tabernacle, ni pendant qu'on offrait les sacrifices; seulement il avait fait faire quelques trompettes, dont on sonnait quelquefois, lorsque dans les occasions extraordinaires on offrait des holocaustes, et des hosties pacifiques.[14] Mais David par le conseil des Prophètes, Gad, et Nathan, avait institué cet appareil de magnificence, qui était très propre à inspirer au peuple du respect, et de la joie, et de l'amour pour les solennités, et les assemblées de Religion; car voilà à quoi sert tout ce que la piété, et la sagesse des Saints et des grands Hommes, leur ont fait inventer pour la majesté des cérémonies, et des ornements, et pour la beauté du chant et de la musique dans les Temples. L'Écriture ne nous permet pas de considérer ces choses, comme des inventions humaines; elle nous dit que c'est l'ordre de Dieu, qui a été signifié par ses Prophètes. _Si quidem Domini præceptum fuit per manum Prophetarum ejus._ Ce qui doit nous inspirer un respect profond pour toutes ces pratiques."
     },
@@ -128,7 +128,7 @@
     },
     {
       "verse": 34,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "LEVITÆ FACILIORI RITU SANCTIFICANTUR, QUAM SACERDOTES.",
       "lemma": "Il y a bien moins de cérémonies à faire, pour consacrer des Lévites, que pour consacrer des Prêtres.",
       "text": "On peut voir les cérémonies de la consécration des Prêtres, Exod. XXIX. 1. et suiv. et Lévit. VIII. 2. et suiv. et celle des Lévites Num. VIII. 6. 7. 8. et suivants. L'Hébreu semble faire un autre sens que la Vulgate ; il porte à la lettre : [19] _Parce que les Lévites étaient droits de cœur pour se sanctifier, plus que les Prêtres._ Ils avaient plus de droiture de cœur, plus de bonne volonté, plus d'ardeur que les Prêtres, à se mettre en état de servir ; [20] ce qui semblerait indirectement accuser les Prêtres de négligence, et de lâcheté dans cette occasion. Le texte du Chap. suivant ℣. 15. autorise ce soupçon, car on y lit que les Prêtres, et les Lévites ayant honte de leur négligence, _se sanctifièrent enfin, et se mirent en état de servir._ Le Syriaque, et l'Arabe : _Les Lévites étaient plus timides, ou plus réservés, que les Prêtres pour se purifier._ Il semble que la manière prompte et en quelque sorte précipitée, dont se fit tout ceci, ne laissa pas le loisir aux Prêtres de se purifier ; la plupart étaient à la campagne, et éloignés de Jérusalem, et comme le service était entièrement interrompu, depuis un nombre d'années dans le Temple, ils ne s'étaient point conservés dans la pureté convenable, ils s'étaient relâchés de leurs anciennes pratiques. Il paraît par la suite, [21] que le trop petit nombre de Prêtres sanctifiés dans ce premier mois du règne d'Ézéchias, fut une des principales raisons qui empêcha qu'on n'y fît la Pâque."
@@ -221,7 +221,7 @@
     {
       "key": "page_0194-e",
       "n": 5,
-      "text": "4. Reg. XVIII. 16. _Confregit Ezechias valvas templi Domini, & laminas auri, quas ipſe affixerat, & dedit eas Regi Aſſyriorum._"
+      "text": "4. Reg. XVIII. 16. _Confregit Ezechias valvas templi Domini, et laminas auri, quas ipse affixerat, et dedit eas Regi Assyriorum._"
     },
     {
       "key": "page_0195-a",
@@ -231,7 +231,7 @@
     {
       "key": "page_0195-b",
       "n": 7,
-      "text": "Ici ℣. 6. Clauſerunt oſtia quæ erant in porticu."
+      "text": "Ici ℣. 6. Clauserunt ostia quæ erant in porticu."
     },
     {
       "key": "page_0195-c",
@@ -256,17 +256,17 @@
     {
       "key": "page_0198-b",
       "n": 12,
-      "text": "_Levit._ IV. 13, 14, & 22."
+      "text": "_Levit._ IV. 13, 14, et 22."
     },
     {
       "key": "page_0199-a",
       "n": 13,
-      "text": "Lævit. IV. 15. Ponent ſeniores populi manus ſuper caput ejus coram Domino."
+      "text": "Lævit. IV. 15. Ponent seniores populi manus super caput ejus coram Domino."
     },
     {
       "key": "page_0200-a",
       "n": 14,
-      "text": "Num. X. 10. _Si quando habebitis epulum... canetis tubis ſuper holocauſtis, & pacificis victimis, ut ſint vobis in recordationem Dei veſtri._"
+      "text": "Num. X. 10. _Si quando habebitis epulum... canetis tubis super holocaustis, et pacificis victimis, ut sint vobis in recordationem Dei vestri._"
     },
     {
       "key": "page_0201-a",
@@ -276,7 +276,7 @@
     {
       "key": "page_0201-b",
       "n": 16,
-      "text": "Jun. Piſcat. Munſt."
+      "text": "Jun. Piscat. Munst."
     },
     {
       "key": "page_0202-a",
@@ -286,7 +286,7 @@
     {
       "key": "page_0202-b",
       "n": 18,
-      "text": "Levit. I. 6. Detractaque pelle hoſtiæ, artus in fruſta concident."
+      "text": "Levit. I. 6. Detractaque pelle hostiæ, artus in frusta concident."
     },
     {
       "key": "page_0202-c",
@@ -296,84 +296,12 @@
     {
       "key": "page_0202-d",
       "n": 20,
-      "text": "70. ὅτι οἱ Λευῖται προθύμως, καὶ εὐθύμως καρδίας. Ou ſelon d'autres Exemplaires, ἐγένοντο προθυμότεροι, &c."
+      "text": "70. ὅτι οἱ Λευῖται προθύμως, καὶ εὐθύμως καρδίας. Ou selon d'autres Exemplaires, ἐγένοντο προθυμότεροι, etc."
     },
     {
       "key": "page_0202-e",
       "n": 21,
-      "text": "2. Par. XXX. 3. Non potuerant facere (Phaſe) in tempore ſuo, quia Sacerdotes, qui poſſent ſufficere, ſanctificati non fuerant. Voyez auſſi le ℣. 15."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0194",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0195",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0196",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0197",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0198",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0199",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0200",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0201",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0202",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0203",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "2. Par. XXX. 3. Non potuerant facere (Phase) in tempore suo, quia Sacerdotes, qui possent sufficere, sanctificati non fuerant. Voyez aussi le ℣. 15."
     }
   ],
   "missing_footnotes": [

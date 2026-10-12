@@ -5,42 +5,35 @@
       "sub": false,
       "latin_lemma": "ACCIDIT UT PECCARENT DUO EUNUCHI.",
       "lemma": "Il arriva que deux Eunuques, [ou Officiers] du Roi d'Égypte offensèrent leur maître.",
-      "text": "Le Rabbin Salomon enseigne que tout leur péché consistait en ce que Pharaon avait trouvé une petite pierre dans son pain, et une mouche dans sa coupe. J'ai honte de rapporter ces misérables rêveries, et la dignité des saintes Écritures a bien à souffrir, lorsqu'elle se trouve entre les mains de semblables Interpretes. Abenezra les accuse d'avoir voulu trahir le Roi. _Duo Eunuchi_, n'est pas ici dans l'Hébreu, mais seulement au verset 7."
+      "text": "Le Rabbin Salomon enseigne que tout leur péché consistait en ce que Pharaon avait trouvé une petite pierre dans son pain, et une mouche dans sa coupe. J'ai honte de rapporter ces misérables rêveries, et la dignité des saintes Écritures a bien à souffrir, lorsqu'elle se trouve entre les mains de semblables Interprètes. Abenezra les accuse d'avoir voulu trahir le Roi. _Duo Eunuchi_, n'est pas ici dans l'Hébreu, mais seulement au verset 7."
     },
     {
       "verse": 1,
-      "sub": true,
-      "latin_lemma": "PINCERNA",
+      "sub": false,
+      "latin_lemma": "PINCERNA[4]",
       "lemma": null,
-      "text": "[1] Ce terme signifie simplement, un Échanson ; mais ici il faut l'entendre du grand Échanson, et d'un des premiers Officiers de la Cour de Pharaon. Saint Jérôme[2] traduit ce même terme au chapitre 15:2 par Procurator domûs : Grand Maître de la maison. Il remarque que l'Office d'Échanson est des plus relevés chez les Princes Barbares ; que la Fable même nous apprend que Jupiter donna cet emploi à Ganymède : Néhémie était Échanson du Roi Artaxerces. Cambyse Roi de Perse avait pour Échanson le fils de Prexaspes Perse, et fort considéré de ce Prince. Cette Charge d'Échanson n'est pas un petit honneur parmi les Perses, dit Hérodote[3]. Chez les Rois Égyptiens on ne voyait dans l'emploi aucun Esclave acheté, ou né dans la maison de leurs maîtres[4]. Tous les Officiers étaient fils des plus illustres Prêtres du pays. Il ne faut donc pas se faire une idée de ces deux Officiers, comme de deux vils Esclaves."
+      "text": "Ce terme signifie simplement, un Échanson ; mais ici il faut l'entendre du grand Échanson, et d'un des premiers Officiers de la Cour de Pharaon. Saint Jérôme[1] traduit ce même terme au chapitre 15:2 par _Procurator domûs :_ Grand Maître de la maison. Il remarque que l'Office d'Échanson est des plus relevés chez les Princes Barbares ; que la Fable même nous apprend que Jupiter donna cet emploi à Ganymède : Néhémie était Échanson du Roi Artaxerces. Cambyse Roi de Perse avait pour Échanson le fils de Prexaspes Perse, et fort considéré de ce Prince. Cette Charge d'Échanson n'est pas un petit honneur parmi les Perses, dit Hérodote[2]. Chez les Rois Égyptiens on ne voyait dans l'emploi aucun Esclave acheté, ou né dans la maison de leurs maîtres[3]. Tous les Officiers étaient fils des plus illustres Prêtres du pays. Il ne faut donc pas se faire une idée de ces deux Officiers, comme de deux vils Esclaves."
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PISTOR.",
-      "lemma": null,
-      "text": "Un Boulanger[5]. Aquila traduit[6] : Un Cuisinier. Cette traduction est suivie par Junius et Tremellius. Festus cité dans Drusius, dit que Coquus et Pistor étaient les mêmes chez les Anciens. Le même terme signifiait ces deux métiers ; ou ces deux Offices étaient exercés par les mêmes personnes."
+      "lemma": "Un Boulanger[6].",
+      "text": "Aquila traduit[5] : Un Cuisinier. Cette traduction est suivie par Junius et Tremellius. Festus cité dans Drusius, dit que Coquus et Pistor étaient les mêmes chez les Anciens. Le même terme signifiait ces deux métiers ; ou ces deux Offices étaient exercés par les mêmes personnes."
     },
     {
       "verse": 4,
       "sub": false,
       "latin_lemma": "CUSTOS CARCERIS TRADIDIT EOS JOSEPH, QUI ET MINISTRABAT EIS.",
       "lemma": "Le Gouverneur de la prison les mit entre les mains de Joseph pour les servir.",
-      "text": "Putiphar donna Joseph à ces prisonniers de qualité, pour les servir dans leur prison. C'était une preuve de la confiance qu'il avait en lui ; mais cela ne lui donnait pas plus de liberté, et l'on voit ci-après au verset 14 et 15 qu'il se plaint amèrement de la dureté, de sa servitude et de l'injustice de son emprisonnement."
-    },
-    {
-      "verse": 4,
-      "sub": true,
-      "latin_lemma": "ALIQUANTULUM TEMPORIS FLUXERAT",
-      "lemma": "Quelque peu de temps s'étant passé.",
-      "text": "Ils avaient été un an en prison, disent les Hébreux et"
+      "text": "Putiphar donna Joseph à ces prisonniers de qualité, pour les servir dans leur prison. C'était une preuve de la confiance qu'il avait en lui ; mais cela ne lui donnait pas plus de liberté, et l'on voit ci-après au verset 14 et 15 qu'il se plaint amèrement de la dureté, de sa servitude et de l'injustice de son emprisonnement."
     },
     {
       "verse": 4,
       "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "plusieurs de nos Interprètes [7]. Dans l'Écriture, _Dies_ [8], est souvent mis pour une année. S'il est vrai qu'alors il y eut un an qu'ils étaient en prison, ils y avaient été mis vers le même temps que Joseph ; puisqu'à deux ans de-là, Joseph se trouve y avoir été trois ans. Ces Officiers avaient apparemment encouru la disgrâce de leur Maître au jour de sa naissance, puisqu'un an après, dans le même jour, Pharaon se souvint d'eux."
+      "latin_lemma": "ALIQUANTULUM TEMPORIS FLUXERAT",
+      "lemma": "Quelque peu de temps s'étant passé.",
+      "text": "Ils avaient été un an en prison, disent les Hébreux et plusieurs de nos Interprètes [7]. Dans l'Écriture, _Dies_ [8], est souvent mis pour une année. S'il est vrai qu'alors il y eut un an qu'ils étaient en prison, ils y avaient été mis vers le même temps que Joseph ; puisqu'à deux ans de-là, Joseph se trouve y avoir été trois ans. Ces Officiers avaient apparemment encouru la disgrâce de leur Maître au jour de sa naissance, puisqu'un an après, dans le même jour, Pharaon se souvint d'eux."
     },
     {
       "verse": 5,
@@ -61,32 +54,32 @@
       "sub": false,
       "latin_lemma": "NUMQUID NON DEI EST INTERPRETATIO ?",
       "lemma": "N'est-il pas Dieu qui donne l'interprétation des songes ?",
-      "text": "L'explication de vos songes. ne dépend pas d'un Devin ; c'est Dieu qui la révèle au Devin lui-même, et qui pourra me la révéler comme à lui, s'il le juge à propos. Les Égyptiens étaient persuadés, dit Hérodote [11], que la divination, ou l'art de prédire l'avenir, ne convenait à aucun homme ; mais seulement à certains Dieux. Ils avaient des Oracles d'Hercule, d'Apollon, de Minerve, de Diane, de Mars, de Jupiter. Justin [12] raconte que Joseph ayant été vendu en Égypte, y apprit la Magie ; ce qui le rendit bientôt agréable au Roi. Il ajoute qu'il avait une pénétration merveilleuse pour expliquer les prodiges, et qu'il fut le premier qui inventa l'art d'interpréter les songes ; qu'il donna souvent des preuves de sa profonde connaissance du Droit divin et humain ; qu'il prédit la stérilité de l'Égypte longtemps avant qu'elle arrivât, et que sans lui tout ce pays serait mort de faim. On était si persuadé de sa capacité, qu'on regardait ses réponses, non pas comme des réponses d'un homme, mais comme les oracles d'un Dieu. Voilà l'idée que les Profanes, eux-mêmes, avaient de la personne de Joseph."
+      "text": "L'explication de vos songes ne dépend pas d'un Devin ; c'est Dieu qui la révèle au Devin lui-même, et qui pourra me la révéler comme à lui, s'il le juge à propos. Les Égyptiens étaient persuadés, dit Hérodote [11], que la divination, ou l'art de prédire l'avenir, ne convenait à aucun homme ; mais seulement à certains Dieux. Ils avaient des Oracles d'Hercule, d'Apollon, de Minerve, de Diane, de Mars, de Jupiter. Justin [12] raconte que Joseph ayant été vendu en Égypte, y apprit la Magie ; ce qui le rendit bientôt agréable au Roi. Il ajoute qu'il avait une pénétration merveilleuse pour expliquer les prodiges, et qu'il fut le premier qui inventa l'art d'interpréter les songes ; qu'il donna souvent des preuves de sa profonde connaissance du Droit divin et humain ; qu'il prédit la stérilité de l'Égypte longtemps avant qu'elle arrivât, et que sans lui tout ce pays serait mort de faim. On était si persuadé de sa capacité, qu'on regardait ses réponses, non pas comme des réponses d'un homme, mais comme les oracles d'un Dieu. Voilà l'idée que les Profanes, eux-mêmes, avaient de la personne de Joseph."
     },
     {
       "verse": 10,
       "sub": false,
       "latin_lemma": "IN QUA ERANT TRES PROPAGINES.",
       "lemma": "Dans lequel il y avait trois branches.",
-      "text": "Saint Jérôme [13] et saint Augustin [14], lisaient dans leurs exemplaires : _In qua erant tres fundi_ ; mais cette manière de lire doit être entièrement rejetée. Le terme dont se servent les 70. [15] signifie quelquefois le fond d'un vase ; mais l'Hébreu [16] signifie des rejetons, des provins."
+      "text": "Saint Jérôme [13] et saint Augustin [14], lisaient dans leurs exemplaires : _In qua erant tres fundi_ ; mais cette manière de lire doit être entièrement rejetée. Le terme dont se servent les 70. [15] signifie quelquefois le fond d'un vase ; mais l'Hébreu [16] signifie des rejetons, des provins."
     },
     {
       "verse": 13,
       "sub": false,
       "latin_lemma": "RECORDABITUR MINISTERII TUI.",
       "lemma": "Il se souviendra du service que vous lui rendiez.",
-      "text": "L'Hébreu à la lettre : _Il élèvera votre tête_ ; il vous tirera de l'état de bassesse et de confusion où vous êtes ; ou, _Il reverra vos comptes_[17]. Autrement : Il vous rétablira au nombre de ses Officiers dans le dénombrement qu'il en doit faire, _Tollere summam, ou caput_, se prend quelquefois[18] dans cette signification, et il paraît que c'est ainsi que la Vulgate, les 70. et le Chaldéen l'ont pris."
+      "text": "L'Hébreu à la lettre : _Il élèvera votre tête_ ; il vous tirera de l'état de bassesse et de confusion où vous êtes ; ou, _Il reverra vos comptes_[17]. Autrement : Il vous rétablira au nombre de ses Officiers dans le dénombrement qu'il en doit faire, _Tollere summam, ou caput_, se prend quelquefois[18] dans cette signification, et il paraît que c'est ainsi que la Vulgate, les 70. et le Chaldéen l'ont pris."
     },
     {
       "verse": 15,
       "sub": false,
-      "latin_lemma": "QUIA FURTO SUBLATUS SUM DE TERRA HEBRAEORUM.",
+      "latin_lemma": "QUIA FURTO SUBLATUS SUM DE TERRA HEBRÆORUM.",
       "lemma": "J'ai été enlevé de la terre des Hébreux, et vendu pour Esclave.",
-      "text": "Joseph ne pouvait pas marquer la terre de Canaan par la terre des Hébreux. Les Officiers de Pharaon ne comprenaient sous ce dernier nom, que les pays de delà l'Euphrate. Joseph était né dans la Mésopotamie, les Marchands Ismaélites qui l'avaient vendu, l'avaient apparemment fait passer pour un Esclave de delà l'Euphrate, de peur que leur friponnerie ne fût reconnue ; et peut-être que les frères de Joseph leur avaient suggéré ce mensonge. Joseph suppose cette pensée dans ceux à qui il parle ; il dit qu'il a été enlevé du pays de delà l'Euphrate, et vendu pour Esclave, tout libre qu'il était ; et que depuis sa servitude, il a été mis en prison le plus injustement du monde. Son enlèvement de la terre des Hébreux n'était qu'accessoire dans cette proposition. Joseph ne fait point un mensonge en parlant conformément à ce préjugé dans lequel on était à son égard. Le but principal de sa proposition, est de faire connaître l'injustice de son emprisonnement et de son esclavage."
+      "text": "Joseph ne pouvait pas marquer la terre de Canaan par la terre des Hébreux. Les Officiers de Pharaon ne comprenaient sous ce dernier nom, que les pays de delà l'Euphrate. Joseph était né dans la Mésopotamie, les Marchands Ismaélites qui l'avaient vendu, l'avaient apparemment fait passer pour un Esclave de delà l'Euphrate, de peur que leur friponnerie ne fût reconnue ; et peut-être que les frères de Joseph leur avaient suggéré ce mensonge. Joseph suppose cette pensée dans ceux à qui il parle ; il dit qu'il a été enlevé du pays de delà l'Euphrate, et vendu pour Esclave, tout libre qu'il était ; et que depuis sa servitude, il a été mis en prison le plus injustement du monde. Son enlèvement de la terre des Hébreux n'était qu'accessoire dans cette proposition. Joseph ne fait point un mensonge en parlant conformément à ce préjugé dans lequel on était à son égard. Le but principal de sa proposition, est de faire connaître l'injustice de son emprisonnement et de son esclavage."
     },
     {
       "verse": 15,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN LACUM MISSUS SUM.",
       "lemma": "J'ai été mis en prison.",
       "text": "L'Hébreu [19], _Bor_, et le Grec, _Laccos_ [20], signifient une citerne, un lieu souterrain, un cul de fosse. Dans le verset 20 du chapitre précédent, on se sert pour marquer la prison, d'un terme qui signifie un lieu rond comme la lune [21], c'est-à-dire, une tour."
@@ -94,9 +87,9 @@
     {
       "verse": 16,
       "sub": false,
-      "latin_lemma": "TRIA CANISTRA FARINAE.",
+      "latin_lemma": "TRIA CANISTRA FARINÆ.",
       "lemma": "Trois corbeilles de farine.",
-      "text": "Les termes de l'original [22] se prennent en divers sens : _Trois corbeilles blanches_ ; c'est-à-dire, faites d'osier pelé et préparé. Le Chaldéen : _trois corbeilles pleines de pain blanc_, ou en général de quelque chose de blanc, comme de farine. Les 70. [23] _trois paniers de pain d'orge_. Aquila [24], _de pure farine_. Symmaque [25], _trois paniers faits de branches de palmiers_. On voit dans toute l'antiquité qu'on servait le pain à table dans des paniers. Automédon dans le festin qu'Achille fit à Priam, servit à table le pain dans de beaux paniers à chacun des conviés [26]. On peut aussi traduire l'Hébreu par des _paniers percés_, ou _travaillés à jour_, en forme de lacis : _In canistris perforatis_. Ou des corbeilles pleines de pains cuits sous la cendre, ou dans les charbons, des galettes chargées de points, ou même percées en plusieurs endroits. Il est parlé de ces pains percez ou piquottez, Josué 9:5 et 3. Reg. 14:3."
+      "text": "Les termes de l'original [22] se prennent en divers sens : _Trois corbeilles blanches_ ; c'est-à-dire, faites d'osier pelé et préparé. Le Chaldéen : _trois corbeilles pleines de pain blanc_, ou en général de quelque chose de blanc, comme de farine. Les 70. [23] _trois paniers de pain d'orge_. Aquila [24], _de pure farine_. Symmaque [25], _trois paniers faits de branches de palmiers_. On voit dans toute l'antiquité qu'on servait le pain à table dans des paniers. Automédon dans le festin qu'Achille fit à Priam, servit à table le pain dans de beaux paniers à chacun des conviés [26]. On peut aussi traduire l'Hébreu par des _paniers percés_, ou _travaillés à jour_, en forme de lacis : _In canistris perforatis_. Ou des corbeilles pleines de pains cuits sous la cendre, ou dans les charbons, des galettes chargées de points, ou même percées en plusieurs endroits. Il est parlé de ces pains percez ou piquottez, Josué 9:5 et 3. Reg. 14:3."
     },
     {
       "verse": 19,
@@ -110,16 +103,23 @@
       "sub": false,
       "latin_lemma": "EXINDE DIES TERTIUS NATALITIUS PHARAONIS ERAT.",
       "lemma": "La fête de la naissance du Roi étant arrivée trois jours après.",
-      "text": "Ces fêtes de la naissance des Princes étaient ordinaires dans tout l'Orient. Saint Matthieu[32] marque la fête d'Hérode, qui fut souillée par la mort de saint Jean-Baptiste. Joseph dit qu'au jour de la naissance du Roi Agrippa, l'on était en fête par tout son Royaume ; et l'Auteur du second livre des Macchabées[33], suivant le texte Grec, semble dire que le Roi Antiochus faisait la fête de la naissance, non seulement tous les ans, mais tous les mois. Hérodote[34], Héraclides de Cumes[35], et Platon[36], nous parlent des festins solemnels des Rois de Perse en ces jours-là.\nCes deux Officiers de Pharaon marquent assez clairement les deux voleurs au mileu desquels Jesus-Christ, representé par l'innocent Joseph, fut crucifié. Le Sauveur rachette l'un et condamne l'autre, comme Joseph prédit à l'Echanson son rétablissement dans son emploi, et au Pannetier sa perte et son supplice."
+      "text": "Ces fêtes de la naissance des Princes étaient ordinaires dans tout l'Orient. Saint Matthieu[32] marque la fête d'Hérode, qui fut souillée par la mort de saint Jean-Baptiste. Joseph dit qu'au jour de la naissance du Roi Agrippa, l'on était en fête par tout son Royaume ; et l'Auteur du second livre des Macchabées[33], suivant le texte Grec, semble dire que le Roi Antiochus faisait la fête de la naissance, non seulement tous les ans, mais tous les mois. Hérodote[34], Héraclides de Cumes[35], et Platon[36], nous parlent des festins solemnels des Rois de Perse en ces jours-là.\nCes deux Officiers de Pharaon marquent assez clairement les deux voleurs au mileu desquels Jésus-Christ, representé par l'innocent Joseph, fut crucifié. Le Sauveur rachette l'un et condamne l'autre, comme Joseph prédit à l'Echanson son rétablissement dans son emploi, et au Pannetier sa perte et son supplice."
     }
   ],
   "joins": [
     {
+      "seam": "page_0819>page_0820",
+      "verse": 4,
+      "mode": "flow",
+      "before": "Ils avaient été un an en prison, disent les Hébreux et",
+      "after": "plusieurs de nos Interprètes ^{(a)}. Dans l'Écriture, _Die"
+    },
+    {
       "seam": "page_0820>page_0821",
       "verse": 8,
-      "mode": "hyphen",
-      "before": "L'explication de vos songes.",
-      "after": "ges ne dépend pas d'un Devin ; c'est Dieu qui la révèle au"
+      "mode": "splice",
+      "before": "L'explication de vos son-",
+      "after": "ges ne dépend pas d'un Devin ; c'est Dieu qui la révèle au"
     },
     {
       "seam": "page_0823>page_0824",
@@ -148,34 +148,34 @@
   ],
   "footnotes": [
     {
-      "key": "page_0819-a",
-      "n": 1,
-      "text": "משקה vinarius."
-    },
-    {
       "key": "page_0819-b",
-      "n": 2,
+      "n": 1,
       "text": "Hieron. quaest. Hebr."
     },
     {
       "key": "page_0819-c",
-      "n": 3,
+      "n": 2,
       "text": "Herodot. lib. 3 c. 34"
     },
     {
       "key": "page_0819-d",
-      "n": 4,
+      "n": 3,
       "text": "Diodor. lib. 1"
     },
     {
-      "key": "page_0819-e",
-      "n": 5,
-      "text": "אפה"
+      "key": "page_0819-a",
+      "n": 4,
+      "text": "משקה vinarius."
     },
     {
       "key": "page_0819-f",
-      "n": 6,
+      "n": 5,
       "text": "Μάγειρον."
+    },
+    {
+      "key": "page_0819-e",
+      "n": 6,
+      "text": "אפה"
     },
     {
       "key": "page_0820-a",
@@ -326,70 +326,6 @@
       "key": "page_0825-b",
       "n": 36,
       "text": "Platon. Alcibiad. I. Βασιλέως γυνέθλια θύουσι πάντες οἱ ἐν τῇ Ἀσίᾳ."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0818",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0819",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": "head: +1 words",
-      "verse_gap": []
-    },
-    {
-      "page": "page_0820",
-      "chosen": "raw",
-      "rejected": [
-        {
-          "pass_": "gemini",
-          "reason": "deletion",
-          "detail": "ou un songe qui avait du rapport a la fonction de chacun d eux et qui dans son explication renfermait leur destinee et ce qui devait leur arriver"
-        }
-      ],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0821",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0822",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0823",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0824",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0825",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

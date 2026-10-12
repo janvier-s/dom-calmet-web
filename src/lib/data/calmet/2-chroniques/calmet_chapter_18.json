@@ -111,7 +111,7 @@
     {
       "key": "page_0115-b",
       "n": 2,
-      "text": "1. Par. XXI. 6. & 4. Reg. VIII. 18."
+      "text": "1. Par. XXI. 6. et 4. Reg. VIII. 18."
     },
     {
       "key": "page_0115-c",
@@ -136,7 +136,7 @@
     {
       "key": "page_0118-a",
       "n": 7,
-      "text": "Voyez les ℣. 16. 18. 19. & ſuiv."
+      "text": "Voyez les ℣. 16. 18. 19. et suiv."
     },
     {
       "key": "page_0118-b",
@@ -161,7 +161,7 @@
     {
       "key": "page_0119-d",
       "n": 12,
-      "text": "Vide Tirin. & Oſiand."
+      "text": "Vide Tirin. et Osiand."
     },
     {
       "key": "page_0119-e",
@@ -172,50 +172,6 @@
       "key": "page_0120-a",
       "n": 14,
       "text": "ויסיתם־אלהים ממנו"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0115",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0116",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0117",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0118",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0119",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0120",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

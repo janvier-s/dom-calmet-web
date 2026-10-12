@@ -37,21 +37,21 @@
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DOMUS AUTEM... TALIS ESSE DEBET, UT IN CUNCTIS",
       "lemma": null,
       "text": ""
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "REGIONIBUS NOMINETUR.",
       "lemma": "La maison que je désire qu'on bâtisse au Seigneur, doit être telle qu'on en parle dans tous les pays.",
       "text": "L'Hébreu porte : [6] _La maison qu'il faut bâtir au Seigneur, doit être pour la grandeur, pour l'excellence, pour la réputation, pour la beauté, parmi toutes les terres._ Ce doit être un prodige et un modèle en magnificence, en grandeur, en beauté. David en avait fait dresser des modèles, qu'il donna à Salomon ; comme aussi de tous les vases d'or et d'argent, pour lesquels il fournit le métal. [7]"
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "OMNES PRÆPARAVIT IMPENSAS.",
       "lemma": "Il voulut disposer tout ce qui pouvait contribuer à une si grande entreprise.",
       "text": "L'Hébreu : [8] _Il prépara beaucoup, ou il prépara en abondance avant sa mort._"
@@ -65,7 +65,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TANTO EFFUSO SANGUINE CORAM ME.",
       "lemma": "Après tant de sang répandu en ma présence.",
       "text": "Ces termes en ma présence, augmentent l'idée de cette quantité de sang répandu. C'est une espèce d'exagération. comme quand on dit, grand devant le Seigneur, [16] méchant devant le Seigneur, [17] puissant devant le Seigneur, [18] pour exprimer une grandeur, une malice, une puissance au-dessus de l'ordinaire."
@@ -100,7 +100,7 @@
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AURI TALENTA CENTUM MILLIA, ET ARGENTI MILLE MILLIA TALENTORUM.",
       "lemma": "Cent mille talents d'or, et un million de talents d'argent.",
       "text": "Le talent d'or vaut soixante-neuf mille cinq cent trente et une livres cinq sols de notre monnaie ; il pesait quinze cent onze, ou cent vingt-cinq livres romaines, et quatre-vingt-six livres, quatorze onces, cinq gros de notre poids de marc.\nLe talent d'argent valait trois mille sicles, ou quatre mille huit cent soixante-sept livres trois sols neuf deniers de notre monnaie, du même poids que le talent d'or.\nAinsi David laissa pour bâtir le temple, six milliards neuf cent cinquante-trois millions, cent vingt-cinq mille livres en or, pesant douze millions cinq cent mille livres romaines, à douze onces l'une ; ou neuf millions trois cent soixante-quinze de nos livres, à seize onces l'une.\n\nEt en argent, il laissa quatre milliards, huit cents soixante-sept millions, cent quatre-vingt-sept mille cinq cents livres de notre monnaie, pesant cent millions de livres Romaines, ou nonante-trois millions sept cents cinquante mille de nos livres de poids. An.2988."
@@ -172,7 +172,7 @@
     {
       "key": "page_0249-a",
       "n": 1,
-      "text": "Voyez ci-après, 2. Par. III. 1. Cœpit Salomon ædificare... in monte Moria, qui demonſtratus fuerat David patri ejus, in loco quem paraverat David in area Ornan."
+      "text": "Voyez ci-après, 2. Par. III. 1. Cœpit Salomon ædificare... in monte Moria, qui demonstratus fuerat David patri ejus, in loco quem paraverat David in area Ornan."
     },
     {
       "key": "page_0249-b",
@@ -187,7 +187,7 @@
     {
       "key": "page_0250-a",
       "n": 4,
-      "text": "Exod. XII. 45. & Comment. pag. 116."
+      "text": "Exod. XII. 45. et Comment. pag. 116."
     },
     {
       "key": "page_0251-a",
@@ -202,7 +202,7 @@
     {
       "key": "page_0252-b",
       "n": 7,
-      "text": "1. Par. XXVIII. 11. & ſequ."
+      "text": "1. Par. XXVIII. 11. et sequ."
     },
     {
       "key": "page_0252-c",
@@ -212,27 +212,27 @@
     {
       "key": "page_0252-d",
       "n": 9,
-      "text": "2. Reg. VII. 5. & ſequ. & 1. Par. XVII. 4."
+      "text": "2. Reg. VII. 5. et sequ. et 1. Par. XVII. 4."
     },
     {
       "key": "page_0252-e",
       "n": 10,
-      "text": "Ieron. lib. 1. contra Jovin. Ita & Hebræi apud Lyr."
+      "text": "Ieron. lib. 1. contra Jovin. Ita et Hebræi apud Lyr."
     },
     {
       "key": "page_0252-f",
       "n": 11,
-      "text": "Vide Joſeph. Antiq. l. 7. c. 11. & Eupolom. apud Euſeb. Præpar. l. 9. c. 30. & alii plerique."
+      "text": "Vide Joseph. Antiq. l. 7. c. 11. et Eupolom. apud Euseb. Præpar. l. 9. c. 30. et alii plerique."
     },
     {
       "key": "page_0253-a",
       "n": 12,
-      "text": "1. Par. XXII. 4. & XXVIII. 3."
+      "text": "1. Par. XXII. 4. et XXVIII. 3."
     },
     {
       "key": "page_0253-b",
       "n": 13,
-      "text": "Voyez 2. Reg. VII. 1. & ſeqs. Vide Eſt. hic."
+      "text": "Voyez 2. Reg. VII. 1. et seqs. Vide Est. hic."
     },
     {
       "key": "page_0253-c",
@@ -252,12 +252,12 @@
     {
       "key": "page_0254-b",
       "n": 17,
-      "text": "Geneſ. XXXVIII. 7."
+      "text": "Genes. XXXVIII. 7."
     },
     {
       "key": "page_0254-c",
       "n": 18,
-      "text": "Geneſ. X. 19."
+      "text": "Genes. X. 19."
     },
     {
       "key": "page_0254-d",
@@ -267,7 +267,7 @@
     {
       "key": "page_0254-e",
       "n": 20,
-      "text": "Aug. lib. 17. de Civit. cap. 8. & 9. _Hanc tam grandem promiſſionem, qui putat in Salomone fuiſſe completam, multùm errat_ &c."
+      "text": "Aug. lib. 17. de Civit. cap. 8. et 9. _Hanc tam grandem promissionem, qui putat in Salomone fuisse completam, multùm errat_ etc."
     },
     {
       "key": "page_0254-f",
@@ -282,77 +282,12 @@
     {
       "key": "page_0255-b",
       "n": 23,
-      "text": "Voyez ci-devant ℣. 5. & XXVIII. 2. & XXIX. 2. 19. & 2. Par. VIII. 16."
+      "text": "Voyez ci-devant ℣. 5. et XXVIII. 2. et XXIX. 2. 19. et 2. Par. VIII. 16."
     },
     {
       "key": "page_0257-a",
       "n": 24,
       "text": "נתן בידי את יושבי הארץ"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0249",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0250",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0251",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0252",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0253",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0254",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0255",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0256",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0257",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

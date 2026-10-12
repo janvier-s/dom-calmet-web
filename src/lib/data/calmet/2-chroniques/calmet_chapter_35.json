@@ -3,13 +3,13 @@
     {
       "verse": 3,
       "sub": false,
-      "latin_lemma": "LEvitis, ad quorum eruditionem omnis Iſrael ſanctificabatur Domino, locutus est.",
+      "latin_lemma": "LEvitis, ad quorum eruditionem omnis Israel sanctificabatur Domino, locutus est.",
       "lemma": "Il parla aussi aux Lévites, par les exhortations desquels tout Israël était sanctifié au Seigneur.",
       "text": "On peut traduire ainsi l'Hébreu : [1] _Il dit aux Lévites qui instruisent_, ( ou _qui disposent tout Israël_, ) _qui sont les Saints du Seigneur_ ; ou _qui sont consacrés au Seigneur_.\n\nAutrement : _Il dit aux Lévites qui préparent pour tout Israël les choses consacrées au Seigneur, qui sont les Ministres de tout Israël, dans ce qui regarde le culte du Seigneur._ Les Septante [2] _Josias dit aux Lévites, qui sont puissants dans tout Israël, de se sanctifier au Seigneur._"
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PONITE ARCAM IN SANCTUARIO Templi, ... NEQUAQUAM ENIM EAM ULTRA PORTABITIS.",
       "lemma": "Remettez l'Arche dans le sanctuaire du Temple, ... car vous ne la porterez plus.",
       "text": "L'Arche avait été ôtée du sanctuaire sous quelques-uns des Rois impies, qui avaient précédé Josias, et les Prêtres qui en étaient les dépositaires, la portaient d'un lieu en un autre, suivant l'exigence des cas, et les besoins des temps. Quelques-uns [3] croient que depuis Achaz elle n'avait point été remise dans le Sanctuaire ; [4] D'autres veulent que ç'ait été Manassé, qui l'en ait tirée. Ce Prince impie plaça une Idole de sculpture dans la maison du Seigneur. [5] _Sculptile et conflatile signum posuit in domo Dei._ On ne sait pas où l'Arche était pendant cet intervalle. Quelques-uns la placent dans la maison de Sellum, mari de la Prophétesse Holda ; d'autres croient qu'elle n'était point sortie hors du Temple, mais qu'on la conservait ou dans un coin du Sanctuaire, ou dans quelque endroit secret du Temple. Le texte dit clairement, [6] qu'on la portait sur les épaules des Prêtres, et par conséquent qu'elle était tantôt dans une ville de Juda, et tantôt dans une autre."
@@ -37,7 +37,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DEDERUNT PECORA COMMIXTIM DUO MILLIA SEXCENTA.",
       "lemma": "Ils donnèrent deux mille six cents moutons.",
       "text": "L'Hébreu sans exprimer la qualité des bêtes, met simplement, qu'ils donnèrent deux mille six cents. Mais les Septante lisent, qu'ils donnèrent pour la Pâque deux mille six cents brebis, _ou agneaux et chevreaux_. Le Syriaque, et l'Arabe suppléent _des brebis_. Mais il vaut mieux suivre les Septante : [10] on donnait des chevreaux, ou des agneaux pour la victime Pascale. [11]"
@@ -93,7 +93,7 @@
     },
     {
       "verse": 21,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CUM EST.",
       "lemma": "Cessez de vous opposer aux desseins de Dieu, qui est avec moi.",
       "text": "Quelle assurance avait Néchao que Dieu fût avec lui ? Grotius croit qu'il avait reçu commandement du Seigneur par la bouche de Jérémie, d'aller attaquer le roi d'Assyrie. D'autres [26] croient qu'il avait consulté ses devins, qui lui avaient conseillé cette guerre. L'auteur des Traditions hébraïques sur ces livres, enseigne que Jérémie avait averti Josias de ne pas s'opposer aux desseins de Néchao. Et l'auteur du troisième livre d'Esdras, [27] dit que ce prince ne fit pas attention à la parole du prophète, qui parlait de la part de Dieu. Ce qui paraît certain, c'est que Néchao avait quelque assurance de la part du Seigneur, du succès de son entreprise, ou même quelque ordre de faire cette guerre au roi d'Assyrie."
@@ -114,7 +114,7 @@
     },
     {
       "verse": 24,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ECCE SCRIPTUM FERTUR IN LAMENTATIONIBUS.",
       "lemma": null,
       "text": "On les trouve écrites parmi les Lamentations. Il paraît par ce passage que chez les Hébreux il y avait des Recueils de Lamentations, de même que les autres espèces d'hymnes, et de cantiques. Ils avaient des cantiques de triomphes, dont il nous reste quelques-uns dans l'histoire; il y en avait d'autres pour les mariages, enfin on en voyait qui ne renfermaient que les éloges funèbres des grands hommes. L'Auteur des livres des Rois nous a conservé ceux que David fit sur la mort de Saül, et sur celle d'Abner. Les Lamentations de Jérémie sont ce qui nous reste de plus complet de ces Recueils. Ces sortes de vers, et de cantiques lugubres, étaient d'excellents mémoires pour l'histoire."
@@ -206,32 +206,32 @@
     {
       "key": "page_0250-a",
       "n": 2,
-      "text": "(a) Εἶπε τοῖς Λευίταις τοῖς δυνατοῖς ἐν παντὶ Ισραὴλ, τῷ ἁγιάσθαι ἀυτὲς τῷ κυρίῳ."
+      "text": " Εἶπε τοῖς Λευίταις τοῖς δυνατοῖς ἐν παντὶ Ισραὴλ, τῷ ἁγιάσθαι ἀυτὲς τῷ κυρίῳ."
     },
     {
       "key": "page_0250-b",
       "n": 3,
-      "text": "(b) _Ita Aut. tradit. Hebr. in Paral. &c._"
+      "text": " _Ita Aut. tradit. Hebr. in Paral. etc._"
     },
     {
       "key": "page_0250-c",
       "n": 4,
-      "text": "(c) _Lyr. Eſt. Tirin. &c._"
+      "text": " _Lyr. Est. Tirin. etc._"
     },
     {
       "key": "page_0250-d",
       "n": 5,
-      "text": "(d) _2. Par. XXXIII. 7._"
+      "text": " _2. Par. XXXIII. 7._"
     },
     {
       "key": "page_0250-e",
       "n": 6,
-      "text": "(e) לא אין משא לכם Non erit vobis onus ſuper humeris."
+      "text": " לא אין משא לכם Non erit vobis onus super humeris."
     },
     {
       "key": "page_0250-f",
       "n": 7,
-      "text": "(f) עמדו בקדש לפלגו בית האבות לאחיכם בני העם וחלקת בית אב ללוים"
+      "text": " עמדו בקדש לפלגו בית האבות לאחיכם בני העם וחלקת בית אב ללוים"
     },
     {
       "key": "page_0251-a",
@@ -266,7 +266,7 @@
     {
       "key": "page_0253-a",
       "n": 14,
-      "text": "2. Par. XXX. 17. & XXIX. 34."
+      "text": "2. Par. XXX. 17. et XXIX. 34."
     },
     {
       "key": "page_0253-b",
@@ -276,12 +276,12 @@
     {
       "key": "page_0253-c",
       "n": 16,
-      "text": "Exod. XII. IX. _Non comedetis ex eo crudum quid, nec coctum aquâ, ſed tantùm aſſum igni._"
+      "text": "Exod. XII. IX. _Non comedetis ex eo crudum quid, nec coctum aquâ, sed tantùm assum igni._"
     },
     {
       "key": "page_0253-d",
       "n": 17,
-      "text": "בשל 70. ἔψησις & coqui."
+      "text": "בשל 70. ἔψησις et coqui."
     },
     {
       "key": "page_0254-a",
@@ -301,12 +301,12 @@
     {
       "key": "page_0254-d",
       "n": 21,
-      "text": "2. _Reg_. xxiv. 11. _Sermo Domini factus eſt ad Gad Prophetam, & Videntem David_."
+      "text": "2. _Reg_. xxiv. 11. _Sermo Domini factus est ad Gad Prophetam, et Videntem David_."
     },
     {
       "key": "page_0255-a",
       "n": 22,
-      "text": "Lyr. Eſ."
+      "text": "Lyr. Es."
     },
     {
       "key": "page_0255-b",
@@ -316,7 +316,7 @@
     {
       "key": "page_0255-c",
       "n": 24,
-      "text": "Iſai. x. 9."
+      "text": "Isai. x. 9."
     },
     {
       "key": "page_0255-d",
@@ -331,7 +331,7 @@
     {
       "key": "page_0256-b",
       "n": 27,
-      "text": "3. Eſdr. 1. 28."
+      "text": "3. Esdr. 1. 28."
     },
     {
       "key": "page_0256-c",
@@ -361,89 +361,17 @@
     {
       "key": "page_0257-d",
       "n": 33,
-      "text": "Ita Cald. Joſeph. Rabb. Sal. Lyr."
+      "text": "Ita Cald. Joseph. Rabb. Sal. Lyr."
     },
     {
       "key": "page_0257-e",
       "n": 34,
-      "text": "Hugo. Dionyſ. Raban. Jun: Grot. Salian. Vide & Cornel. à Lap: Præf. in Thren."
+      "text": "Hugo. Dionys. Raban. Jun: Grot. Salian. Vide et Cornel. à Lap: Præf. in Thren."
     },
     {
       "key": "page_0257-f",
       "n": 35,
-      "text": "Heſiodi Fragment."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0249",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0250",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0251",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0252",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0253",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0254",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0255",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0256",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0257",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0258",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Hesiodi Fragment."
     }
   ],
   "missing_footnotes": []

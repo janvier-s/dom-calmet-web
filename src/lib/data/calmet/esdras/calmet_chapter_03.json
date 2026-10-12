@@ -9,14 +9,14 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "JOSUE, FILIUS JOSEDEC.",
       "lemma": "Josué, fils de Josedec, et petit-fils du grand-Prêtre Saraïa, qui avait été mis à mort par Nabuchodonosor,[1] Josué revint avec Zorobabel, et exerça le premier, après la Captivité, la charge de souverain Sacrificateur.",
       "text": ""
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ZOROBABEL, FILIUS SALATHIEL.",
       "lemma": null,
       "text": "Zorobabel était fils de Phadaïa, selon l'ordre naturel :[2] mais comme Salathiel son oncle l'avait élevé, on lui donnait aussi le nom de fils de Salathiel."
@@ -30,14 +30,14 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "OBTULERUNT HOLOCAUSTUM MANE ET VESPERE.",
       "lemma": "Ils offrirent l'holocauste du soir et du matin, commandé par la Loi.",
       "text": "[3] Ils ne voulurent pas être sans sacrifier, tout le temps qu'on devait bâtir le Temple."
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DETERRENTIBUS EOS POPULIS.",
       "lemma": "Pendant que les peuples du pays (les Samaritains, et les autres peuples voisins) s'efforçaient de les en empêcher,",
       "text": "jaloux de la prospérité des Juifs. L'Hébreu porte que Zorobabel fonda l'Autel dans la crainte des peuples voisins ; c'est-à-dire, sans que la crainte de ces peuples fût capable de l'arrêter."
@@ -58,7 +58,7 @@
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "JUXTA QUOD PRÆCEPERAT CYRUS.",
       "lemma": "Selon l'ordre que Cyrus en avait donné.",
       "text": "L'Hébreu: [9] _Suivant la permission que Cyrus leur en avait donnée._"
@@ -139,7 +139,7 @@
     {
       "key": "page_0070-c",
       "n": 5,
-      "text": "Num. XXIX. 12. 13. & ſequ."
+      "text": "Num. XXIX. 12. 13. et sequ."
     },
     {
       "key": "page_0070-d",
@@ -174,7 +174,7 @@
     {
       "key": "page_0072-c",
       "n": 12,
-      "text": "2. Eſdr. XII. 36."
+      "text": "2. Esdr. XII. 36."
     },
     {
       "key": "page_0073-a",
@@ -185,43 +185,6 @@
       "key": "page_0073-b",
       "n": 14,
       "text": "Agg. II. 10."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0069",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0070",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0071",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0072",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0073",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

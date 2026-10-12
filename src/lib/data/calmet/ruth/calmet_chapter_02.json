@@ -79,7 +79,7 @@
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CONGESSIT POLENTAM.",
       "lemma": "Elle prit de la bouillie pour elle.",
       "text": "La plûpart traduisent le texte Hebreu par: [23] _il lui donna de la bouillie_; Booz, [24] selon les Septante, lui en servit lui-même. Selon d'autres, [25] ce fut quelqu'un de la compagnie, et apparemment celui qui avait l'intendance sur les ouvriers. Les uns croyent que ce qu'on lui donna, était une sorte de farine ou de gruau frit dans la poële, et apparemment arrosé d'huile; d'autres veulent que ce soit des grains frits, ou des épics grillez au feu. Homére dans la description de la moisson, dont on a déja parlé, nous représente des femmes qui préparaient à manger aux moissonneurs, _en meslant_, ou _en arrosant quantité de farine_. [26] C'était un ragoût dont on usait ordinairement à la campagne, comme on le voit dans d'autres endroits du même Poëte. Nous lisons dans Moyse qu'on en présentait aussi dans le Temple du Seigneur; [27] mais j'aime mieux l'entendre du grain roti. David porta de ce grain ainsi grillé et froissé à ses freres à l'armée de Saül. [28] Abigaïl en présenta une quantité à David, [29] et le bon Berzellaï et quelqu'autres amis de David, lui en vinrent offrir avec d'autres rafraîchissemens, comme il fuyait Absalom. [30] Si c'eût été de la boüillie, comment Ruth en eût-elle reporté les restes à sa belle-mère ? Les Voyageurs dans l'Éthiopie ne prennent ordinairement point d'autre provision, que de l'orge ainsi rôti.[31] Varron [32] parle de la manière de griller et de piler le froment, pour la nourriture des ouvriers de la campagne."
@@ -100,7 +100,7 @@
     },
     {
       "verse": 17,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUASI EPHI MENSURAM, ID EST TRES MODIOS.",
       "lemma": "Environ la mesure d'un éphi, c'est-à-dire trois boisseaux.",
       "text": "L'Interprète a ajouté, trois boisseaux, par forme d'explication. L'éphi contenait vingt-neuf pintes, chopine, demi-setier, et un poisson, et quelque peu plus."
@@ -114,14 +114,14 @@
     },
     {
       "verse": 20,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EANDEM GRATIAM QUAM PRÆBUERAT VIVIS, SERVAVIT ET MORTUIS.",
       "lemma": "Il a gardé pour les morts la même bonne volonté, qu'il a eue pour les vivants.",
       "text": "Booz marque assez la bonté qu'il avait pour mon mari et pour mes enfants, par celle qu'il fait paraître envers vous et envers moi. L'Hébreu : [39] _Il n'a point abandonné sa miséricorde avec les vivants et les morts. Sa bonté ne s'est point terminée à mon mari et à mes enfants, qui ne sont plus, elle s'étend jusqu'à vous et à moi._"
     },
     {
       "verse": 20,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PROPINQUUS EST NOSTER HOMO.",
       "lemma": "Cet homme est notre proche parent.",
       "text": "che parent. L'Hébreu : [40] _Cet homme est nostre proche, c'est un de nos rédempteurs_. Ce dernier mot signifie celui qui a droit de rachat sur les champs d'un homme de sa famille, qui a aliené son patrimoine, ou qui a vendu sa liberté. Il marque aussi celui qui est chargé de venger le sang, et de poursuivre les meurtriers de son proche parent. Enfin il se prend pour un homme qui est obligé par la coûtume ou par loi, à prendre pour femme la veuve de son frere, ou de son parent mort sans enfans. Noëmi ne dit pas absolument que Booz est le rédempteur, mais un des rédempteurs de sa famille, dans le sens que nous le venons dire. On a remarqué ci-devant, que les meilleurs Interprétes sont Booz neveu d'Elimélec, et fils de son frere."
@@ -218,7 +218,7 @@
     {
       "key": "page_0011-c",
       "n": 3,
-      "text": "_Lyr. in cap. 2. & 4. & in Matt. 1. Qui-dam in Jar hir. Catarin. l. contra Caiet. &c._"
+      "text": "_Lyr. in cap. 2. et 4. et in Matt. 1. Qui-dam in Jar hir. Catarin. l. contra Caiet. etc._"
     },
     {
       "key": "page_0012-a",
@@ -228,17 +228,17 @@
     {
       "key": "page_0012-b",
       "n": 5,
-      "text": "Rab. Joſue apud Serar. qu. 3. & Grot. ad l ℣. 20. Item Bonfr. hic."
+      "text": "Rab. Josue apud Serar. qu. 3. et Grot. ad l ℣. 20. Item Bonfr. hic."
     },
     {
       "key": "page_0013-a",
       "n": 6,
-      "text": "Deut. XXIV. 19. & Levit. XIX. 9. & XXIII. 22."
+      "text": "Deut. XXIV. 19. et Levit. XIX. 9. et XXIII. 22."
     },
     {
       "key": "page_0013-b",
       "n": 7,
-      "text": "Pſalm. CXXVIII. 5. 7."
+      "text": "Psalm. CXXVIII. 5. 7."
     },
     {
       "key": "page_0013-c",
@@ -258,22 +258,22 @@
     {
       "key": "page_0015-b",
       "n": 11,
-      "text": "70. & εἰς τὴν δίψαν σου πύεσθαι τὸ υδωρ."
+      "text": "70. et εἰς τὴν δίψαν σου πύεσθαι τὸ υδωρ."
     },
     {
       "key": "page_0015-c",
       "n": 12,
-      "text": "Pſal. VIII. 5. & CXLIII. 3. & Job. VII. 17."
+      "text": "Psal. VIII. 5. et CXLIII. 3. et Job. VII. 17."
     },
     {
       "key": "page_0016-a",
       "n": 13,
-      "text": "Pſal. XXXV. 8."
+      "text": "Psal. XXXV. 8."
     },
     {
       "key": "page_0016-b",
       "n": 14,
-      "text": "Pſal. XC. 4. Vide & Pſalm. XVI. 8. LX. 5. LXII. 8."
+      "text": "Psal. XC. 4. Vide et Psalm. XVI. 8. LX. 5. LXII. 8."
     },
     {
       "key": "page_0016-c",
@@ -283,12 +283,12 @@
     {
       "key": "page_0016-d",
       "n": 16,
-      "text": "Vide Geneſ. XXXIV. 3. Judic. XIX. 3. Iſai. XL. 2. Oſee II. 14."
+      "text": "Vide Genes. XXXIV. 3. Judic. XIX. 3. Isai. XL. 2. Osee II. 14."
     },
     {
       "key": "page_0016-e",
       "n": 17,
-      "text": "Abenezra, Lyran. Munſt. Vatab. Druſ."
+      "text": "Abenezra, Lyran. Munst. Vatab. Drus."
     },
     {
       "key": "page_0016-f",
@@ -298,12 +298,12 @@
     {
       "key": "page_0016-g",
       "n": 19,
-      "text": "Grot. hic. Vide & Serar. qu. 24. & Cornel. à Lapide hic, & Columell. l. I. de Re ruſtic. c. 54. : _Expreſſi acinorum folliculi, in dolia con-jiciuntur, eoque aqua additur. Ea vocatur Lora, quod lota acina, ac pro vino operariis datur hieme._ Vide eundem lib. 12. c. 40."
+      "text": "Grot. hic. Vide et Serar. qu. 24. et Cornel. à Lapide hic, et Columell. l. I. de Re rustic. c. 54. : _Expressi acinorum folliculi, in dolia con-jiciuntur, eoque aqua additur. Ea vocatur Lora, quod lota acina, ac pro vino operariis datur hieme._ Vide eundem lib. 12. c. 40."
     },
     {
       "key": "page_0017-a",
       "n": 20,
-      "text": "Vide Lipſium l. 5. de Milit. Rom. Dialog. 16."
+      "text": "Vide Lipsium l. 5. de Milit. Rom. Dialog. 16."
     },
     {
       "key": "page_0017-b",
@@ -313,7 +313,7 @@
     {
       "key": "page_0017-c",
       "n": 22,
-      "text": "Cato de Re ruſtic. c. 58."
+      "text": "Cato de Re rustic. c. 58."
     },
     {
       "key": "page_0017-d",
@@ -333,7 +333,7 @@
     {
       "key": "page_0017-g",
       "n": 26,
-      "text": "Homer. Iliad. N. ... Κι δὴ γυναῖκες Αλφιτον ἰοβόλουν, λευκ᾽ ἄλφιτα παλύνουσαι, Vide & Odyſſ. ξ."
+      "text": "Homer. Iliad. N. ... Κι δὴ γυναῖκες Αλφιτον ἰοβόλουν, λευκ᾽ ἄλφιτα παλύνουσαι, Vide et Odyss. ξ."
     },
     {
       "key": "page_0017-h",
@@ -363,7 +363,7 @@
     {
       "key": "page_0018-b",
       "n": 32,
-      "text": "Varro de Re ruſtic. lib. I. c. 63. & 69."
+      "text": "Varro de Re rustic. lib. I. c. 63. et 69."
     },
     {
       "key": "page_0018-c",
@@ -378,12 +378,12 @@
     {
       "key": "page_0018-e",
       "n": 35,
-      "text": "Pſalm. XLIII. 10."
+      "text": "Psalm. XLIII. 10."
     },
     {
       "key": "page_0018-f",
       "n": 36,
-      "text": "Vide Iſai. XXVIII. 27."
+      "text": "Vide Isai. XXVIII. 27."
     },
     {
       "key": "page_0018-g",
@@ -404,78 +404,6 @@
       "key": "page_0020-a",
       "n": 40,
       "text": "קרוב לנו האיש מגאלינו הוא καὶ ἐγγίζει ἡμῖν ὁ ἀνὴρ, ἐκ τῶν ἀγχιςευόντων ἡμῖν ἐςιν."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0011",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0012",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0013",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0014",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0015",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0016",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0017",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0018",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0019",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0020",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

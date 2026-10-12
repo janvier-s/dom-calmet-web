@@ -17,13 +17,13 @@
     {
       "verse": 3,
       "sub": false,
-      "latin_lemma": "SCIDI PALLIUM MEUM, ET TUNICAM, ET EVELLI CAPILLOS, &c.",
+      "latin_lemma": "SCIDI PALLIUM MEUM, ET TUNICAM, ET EVELLI CAPILLOS, etc.",
       "lemma": "Je déchirai mon manteau, et ma tunique, et je m'arrachai les cheveux.",
       "text": "Ces marques de douleur sont fréquentes dans l'Écriture, [2] et dans les Profanes. [3]"
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SEDI MOERENS.",
       "lemma": "Je m'assis tout abattu de tristesse.",
       "text": "D'autres traduisent : [4] _je m'assis tout saisi d'étonnement_ ; [5] ou : _je m'assis sans rien dire_. [6] Job, dans son affliction, s'assit à terre. [7] C'était la posture ordinaire de ceux qui étaient dans le deuil ; ils s'asseyaient dans la poussière, et sur la terre. [8]"
@@ -37,7 +37,7 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "USQUE AD SACRIFICIUM VESPERTINUM.",
       "lemma": "Jusqu'au sacrifice du soir.",
       "text": "Jusqu'au temps, auquel on brûlait l'holocauste de tous les jours. On en brûlait un le matin, et un autre le soir. Celui du matin se brûlait de grand matin, et avant tous les autres sacrifices; et celui du soir, après tous les sacrifices du jour. Ainsi ce n'était que vers le coucher du soleil qu'on l'offrait : [9] _Inter duas vesperas_. D'ordinaire les Juifs continuent leur jeûne jusqu'au lever des étoiles. [10]"
@@ -58,28 +58,28 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EST DEPRECATIO NOSTRA.",
       "lemma": "Le Seigneur a écouté un peu nos prières, et nous a fait une grâce comme d'un moment.",
       "text": "Il nous a donné un petit intervalle, pour respirer au milieu de nos maux ; afin que nous ne périssions pas entièrement ; et nous, au lieu de reconnaître sa miséricorde, nous ne l'avons payée que d'ingratitude. Autrement : Malgré nos iniquités passées, le Seigneur nous a écoutés favorablement, aussitôt que nous avons eu recours à lui. Ou bien : Comme si ce que nous avons obtenu de Dieu, était peu de chose, nous nous conduisons d'une manière à irriter de nouveau le Seigneur, et à nous faire retomber dans nos premières disgraces. Enfin : Il n'y a qu'un moment que le Seigneur nous a exaucés, en nous procurant la délivrance ; et nous commençons déjà à irriter sa clémence, et à violer ses Lois saintes."
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET DARETUR NOBIS PAXILLUS IN LOCO SANCTO EJUS.",
       "lemma": "Pour nous donner un établissement dans son lieu saint.",
       "text": "À la lettre : _Pour nous donner un piquet, ou un clou, dans son lieu saint._ Il nous a permis de dresser nos tentes, et de les soutenir par des piquets fichés en terre dans ce pays qui est à lui ; en un mot, il nous a permis de prendre de nouveaux établissements dans la Judée. Autrement : Il nous a permis d'avoir un clou attaché à la muraille de sa maison, pour y suspendre nos hardes, nos habits. On l'explique ordinairement des Princes, et des Magistrats, auxquels les peuples sont attachés, et dont ils dépendent, comme ce qu'on suspend à un clou fiché dans une muraille. [11] Isaïe [12] parlant d'Eliacim, fils d'Helcias, qui devait être établi en dignité sur Juda, dit qu'il sera fiché comme un piquet dans un lieu fidèle ; c'est-à-dire, dans un lieu ferme, et solide ; et qu'on y suspendra toute la gloire de la maison de son père, et toutes sortes de choses ; et qu'on arrachera, pour lui faire place, le clou fiché dans un endroit solide ; et que tout ce qui y était attaché, sera perdu. Il parle de Sobna, auquel succéda Eliacim. Quelques anciens Exemplaires Latins lisent : _saxillus_, au lieu de _paxillus_."
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET ILLUMINARET OCULOS NOSTROS.",
       "lemma": "Pour éclairer nos yeux.",
       "text": "Pour nous tirer de l'état de servitude, d'oppression, de douleur, de ténèbres, où nous étions, et nous remettre dans la liberté, et dans la joie."
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET DARET NOBIS VITAM MODICAM IN SERVITUTE NOSTRA.",
       "lemma": "Pour nous laisser un peu de vie dans notre esclavage.",
       "text": "Les Hébreux expriment souvent la délivrance d'un grand danger, et de la servitude, par ces termes, donner la vie, rendre la vie, [13] tirer du tombeau, et des ombres de la mort."
@@ -121,7 +121,7 @@
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MUS MANDATA TUA.",
       "lemma": "Afin que nous ne retournassions pas en arrière, et que nous ne violassions point vos commandements.",
       "text": "Ou plutôt : _Afin que nous ne recommençassions point à violer vos commandements ; afin que nous ne retournassions point à nos anciennes prévarications._ L'Hébreu à la lettre : [22] _Retournerons-nous, pour dissiper vos ordonnances ? Recommencerons-nous à vous irriter ?_"
@@ -163,17 +163,17 @@
     {
       "key": "page_0116-a",
       "n": 1,
-      "text": "Vide Exod. XXXIV. 15. 16. & Deut. VII. 3."
+      "text": "Vide Exod. XXXIV. 15. 16. et Deut. VII. 3."
     },
     {
       "key": "page_0117-a",
       "n": 2,
-      "text": "Geneſ. XXXV. 29. XXXVII. 24. Num. XIV. 6. Joſ. VII. 6. 2. Reg. I. II. Job. I. 20."
+      "text": "Genes. XXXV. 29. XXXVII. 24. Num. XIV. 6. Jos. VII. 6. 2. Reg. I. II. Job. I. 20."
     },
     {
       "key": "page_0117-b",
       "n": 3,
-      "text": "Vide ſi lubet Homer Herodot. lib. 6. Virg. l. Æneid. 12. & alios, apud Sanst. Grot. Malv."
+      "text": "Vide si lubet Homer Herodot. lib. 6. Virg. l. Æneid. 12. et alios, apud Sanst. Grot. Malv."
     },
     {
       "key": "page_0117-c",
@@ -188,17 +188,17 @@
     {
       "key": "page_0117-e",
       "n": 6,
-      "text": "Exod. XXXIII. 11. & Arab."
+      "text": "Exod. XXXIII. 11. et Arab."
     },
     {
       "key": "page_0117-f",
       "n": 7,
-      "text": "Job. I. 20. & II. 8."
+      "text": "Job. I. 20. et II. 8."
     },
     {
       "key": "page_0117-g",
       "n": 8,
-      "text": "Iſai. III. 26. Deſolata in terra ſedebit. XLVII. 1. & paſſim."
+      "text": "Isai. III. 26. Desolata in terra sedebit. XLVII. 1. et passim."
     },
     {
       "key": "page_0118-a",
@@ -218,12 +218,12 @@
     {
       "key": "page_0119-b",
       "n": 12,
-      "text": "Iſai. XXII. 21. 22. 23. _Figam illum paxillum in loco fideli._"
+      "text": "Isai. XXII. 21. 22. 23. _Figam illum paxillum in loco fideli._"
     },
     {
       "key": "page_0120-a",
       "n": 13,
-      "text": "Pſalm. LXX. 20. _Converſus vivificaſti me. Vide_ & LXXIX. 19. & LXXXIV. 7. CXXXVII. 7. _In medio tribulationis vivificabis me._"
+      "text": "Psalm. LXX. 20. _Conversus vivificasti me. Vide_ et LXXIX. 19. et LXXXIV. 7. CXXXVII. 7. _In medio tribulationis vivificabis me._"
     },
     {
       "key": "page_0120-b",
@@ -233,12 +233,12 @@
     {
       "key": "page_0120-c",
       "n": 15,
-      "text": "Plin. lib. IV. 22. _Pœni Gadir, ita punicâ linguâ ſepem ſignificante._"
+      "text": "Plin. lib. IV. 22. _Pœni Gadir, ita punicâ linguâ sepem significante._"
     },
     {
       "key": "page_0120-d",
       "n": 16,
-      "text": "Lyran. Eſius."
+      "text": "Lyran. Esius."
     },
     {
       "key": "page_0121-a",
@@ -253,7 +253,7 @@
     {
       "key": "page_0121-c",
       "n": 19,
-      "text": "_Pſalm._ CXXI. 8. 9."
+      "text": "_Psalm._ CXXI. 8. 9."
     },
     {
       "key": "page_0121-d",
@@ -269,57 +269,6 @@
       "key": "page_0122-a",
       "n": 22,
       "text": "הנשוב להפר מצותיך"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0116",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0117",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0118",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0119",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0120",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0121",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0122",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

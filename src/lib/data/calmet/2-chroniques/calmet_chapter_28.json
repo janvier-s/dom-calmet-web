@@ -37,7 +37,7 @@
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ELCANAM SECUNDUM A REGE.",
       "lemma": "Elcanan qui tenait après le Roi le second rang dans ses États.",
       "text": "L'Hébreu à la lettre. [5] _Le second du Roi._ Les Septante: [6] _Le Vicaire du Roi._ Aman jouissait de cette dignité sous le règne d'Assuérus, [7] Joseph sous Pharaon. [8] Les Grands Prêtres avaient aussi des seconds en dignité après eux; [9] mais nous ne savons point distinctement quelle était la fonction ni des uns, ni des autres."
@@ -65,14 +65,14 @@
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SERVOS.",
       "lemma": "Vous voulez vous assujettir les enfants de Juda pour en faire des esclaves,",
       "text": "contre la Loi du Seigneur, qui porte : [10] _N'affligez point vos frères, et ne les opprimez point de force ; Que vos esclaves soient des nations étrangères, qui sont autour de vous._ Il faut voir Michée, [11] qui reproche aux Israélites les cruautés exercées contre leurs frères."
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUOD NEQUAQUAM FACTO OPUS EST ; PECCATIS ENIM SUPER HOC DOMINO DEO VESTRO.",
       "lemma": "Ce que vous n'avez point besoin de faire en cela même contre le Seigneur votre Dieu.",
       "text": "L'Hébreu : [12] _N'avez-vous pas assez de péchés par devers vous, contre le Seigneur votre Dieu ?_ Les Septante [13] : _Ne suis-je pas aujourd'hui avec vous, pour rendre témoignage au Seigneur votre Dieu ?_"
@@ -114,7 +114,7 @@
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EO QUOD NUDASSET EUM AUXILIO, ET CONTEMPTUI HABUISSET DOMINUM.",
       "lemma": "Parce qu'Achaz avait dénué Juda de tout secours, et qu'il avait méprisé le Seigneur.",
       "text": "L'Hébreu à la lettre : [16] _Parce qu'il a dépouillé dans Juda, et qu'il a prévariqué dans le Seigneur._ Achaz dépouilla Juda de toutes ses richesses, il le plongea dans la misère, attirant dans son pays des ennemis de tous côtés, et il tomba dans la prévarication envers le Seigneur, par une vie toute opposée à ses divines Lois. Ou bien, il _dépouilla Juda_, il l'exposa à l'ignominie, et aux insultes de ses ennemis, sans aucun moyen de se défendre, et il _offensa le Seigneur_ par ses infidélités. Voyez une expression à peu près semblable dans Moïse, où il parle de la nudité où furent exposés les Israélites, après l'adoration du veau d'or. [17]"
@@ -135,7 +135,7 @@
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DAMASCI VICTIMAS PERCUSSORIBUS SUIS.",
       "lemma": "Il immola par lui-même des victimes aux Dieux de Damas, qu'il regardait comme les auteurs de son malheur; ou, il leur immola par son propre mouvement, sans que personne l'en sollicitât, ni l'y contraignît.",
       "text": "On sait qu'Achaz alla trouver à Damas le Roi des Assyriens, après l'important service qu'il en avait reçu.[25] Mais au lieu de recourir à Dieu, qui lui avait procuré le secours de Theglathphalassar, il s'aveugla au point de croire que les Dieux de Damas irrités contre lui, avaient causé ses premiers malheurs. Il leur sacrifia pour les apaiser, fit faire à Jérusalem un autel sur le modèle de celui qu'il envoya de Damas; enfin il fit tant par ses impiétés, que le Seigneur lassé, et comme forcé par ses crimes, l'abandonna à celui, qu'il avait jusqu'alors regardé comme son libérateur, au Roi d'Assyrie, qui vint dans Juda, ravagea, et dépouilla tout ce Royaume.\nOn peut donner à l'hébreu de ce ℣. et du précédent, un sens un peu différent de la Vulgate. ℣. 21. Et dans le temps de son affliction il augmenta son impiété envers le Seigneur, lui-même le Roi Achaz: ( 22. ) et il immola aux Dieux de Damas, qui l'avaient frappé. Les Septante:[26] _Il ajouta à ses autres crimes l'apostasie du service du Seigneur, et il dit, lui Roi Achaz, je chercherai, j'adorerai les Dieux de Damas, qui me frappent._ Mais il y a sur cela une difficulté. Achaz dit qu'il veut sacrifier aux Dieux des Rois de Syrie, parce que ces Dieux donnent leurs secours à ceux qui les adorent: _Dis Syriæ auxiliantur eis, quos ego placabo hostiis, et aderunt mihi._ Ne savait-il pas que ces Dieux n'avaient pas eu le pouvoir de se garantir, ni eux, ni leurs Rois, ni leur pays de la puissance de l'Assyrien? ce fut donc apparemment avant que Theglathphalassar eût vaincu , et mis à mort Rasin Roi de Damas , qu’Achaz prît la résolution de rendre son culte aux Dieux de Syrie ; résolution qu’il n’exécuta qu’après qu’il eut fait le voyage de Damas."
@@ -210,7 +210,7 @@
     {
       "key": "page_0186-b",
       "n": 3,
-      "text": "Voyez Menoch. hic. Natal. Alex. Hiſt. Veter. Teſtam. tom. 2. c. 1. art. 5."
+      "text": "Voyez Menoch. hic. Natal. Alex. Hist. Veter. Testam. tom. 2. c. 1. art. 5."
     },
     {
       "key": "page_0186-c",
@@ -230,17 +230,17 @@
     {
       "key": "page_0187-c",
       "n": 7,
-      "text": "Eſther. XIII. 3. 7. & XV. 2."
+      "text": "Esther. XIII. 3. 7. et XV. 2."
     },
     {
       "key": "page_0187-d",
       "n": 8,
-      "text": "Geneſ. XLI. 42."
+      "text": "Genes. XLI. 42."
     },
     {
       "key": "page_0187-e",
       "n": 9,
-      "text": "Jerem. LII. 24. & 4. Reg. XXV. 18."
+      "text": "Jerem. LII. 24. et 4. Reg. XXV. 18."
     },
     {
       "key": "page_0188-a",
@@ -265,7 +265,7 @@
     {
       "key": "page_0189-a",
       "n": 14,
-      "text": "על מלכי אשור (a)"
+      "text": "על מלכי אשור "
     },
     {
       "key": "page_0190-a",
@@ -280,7 +280,7 @@
     {
       "key": "page_0190-c",
       "n": 17,
-      "text": "Exod. XXXII, 25. _Videns Moyſes populum quod eßet nudatus, (poliaverat enim eum Aaron propter ignominiam ſordis, & inter hoſtes nudum conſtituerat._"
+      "text": "Exod. XXXII, 25. _Videns Moyses populum quod eßet nudatus, (poliaverat enim eum Aaron propter ignominiam sordis, et inter hostes nudum constituerat._"
     },
     {
       "key": "page_0190-d",
@@ -310,7 +310,7 @@
     {
       "key": "page_0191-e",
       "n": 23,
-      "text": "Voyez le ℣. 21. & 4. Reg. XVI. 7. _Miſit Achaz i... dicens : Servus tuus, & filius tuus ego ſum_."
+      "text": "Voyez le ℣. 21. et 4. Reg. XVI. 7. _Misit Achaz i... dicens : Servus tuus, et filius tuus ego sum_."
     },
     {
       "key": "page_0191-f",
@@ -320,7 +320,7 @@
     {
       "key": "page_0192-a",
       "n": 25,
-      "text": "4. Reg. XVI. 10. & ſequ."
+      "text": "4. Reg. XVI. 10. et sequ."
     },
     {
       "key": "page_0192-b",
@@ -340,77 +340,12 @@
     {
       "key": "page_0193-c",
       "n": 29,
-      "text": "2. Par. XXIX. 3. _Ipſe anno & menſe primo regni ſui, aperuit valvas domûs Domini, & inſtauravit eas._"
+      "text": "2. Par. XXIX. 3. _Ipse anno et mense primo regni sui, aperuit valvas domûs Domini, et instauravit eas._"
     },
     {
       "key": "page_0193-d",
       "n": 30,
       "text": "Voyez 2. Par. XX. 34. XXI. 2. XXIV. 16. XXVIII. 27."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0185",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0186",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0187",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0188",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0189",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0190",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0191",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0192",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0193",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

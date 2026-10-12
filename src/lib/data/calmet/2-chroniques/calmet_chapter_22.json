@@ -44,7 +44,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FILIOS FRATRUM OCHOSIÆ QUI MINISTRABANT EI.",
       "lemma": "Les fils des frères d'Ochozias, qui le servaient.",
       "text": "On a vu ci-devant que les frères d'Ochozias avaient été mis à mort par une troupe d'Arabes. [11] Ces Princes avaient laissé des enfants, qu'Ochozias avait attachés à son service, en leur donnant de l'emploi dans sa Cour. Ils étaient venus pour se rendre auprès du Roi leur Maître, qui devait faire apparemment un assez long séjour à Jezraël auprès de Joram. [12]"
@@ -58,14 +58,14 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SEPELIERUNT EUM.",
       "lemma": "On lui rendit l'honneur de la sépulture.",
       "text": "Jéhu laissa le corps d'Ochozias aux gens de ce Prince, qui le portèrent à Jérusalem, où on lui rendit les honneurs de la sépulture, dans les tombeaux de ses pères, [15] en considération de Josaphat son aïeul ; _eo quod esset filius Josaphat_."
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NEC ERAT ULTRA SPES ALIQUA, UT DE STIRPE QUIS REGNARET OCHOSIÆ.",
       "lemma": "Il n'y avait plus d'espérance qu'aucun de la race d'Ochozias pût régner.",
       "text": "L'Hébreu : [16] _Et la maison d'Ochozias n'avait personne pour soutenir la force du Royaume._ Ce Prince avait laissé des enfants ; mais ils étaient trop jeunes pour rétablir les affaires, et pour prendre le gouvernement, surtout Jéhu ayant mis à mort tous les autres Princes de Juda, et les Princes du sang. [17]"
@@ -105,22 +105,22 @@
     {
       "key": "page_0146-a",
       "n": 1,
-      "text": "_Voyez 2. Par. XXI. 20. Trigenta duorum annorum fuit cùm regnare cœpiſſet, & octo annis regnavit in Jeruſalem._"
+      "text": "_Voyez 2. Par. XXI. 20. Trigenta duorum annorum fuit cùm regnare cœpisset, et octo annis regnavit in Jerusalem._"
     },
     {
       "key": "page_0146-b",
       "n": 2,
-      "text": "_4. Reg. VIII. 26. Viginti duorum annorum erat Ochozias cùm regnare cœpiſſet, & uno anno regnavit in Jeruſalem._"
+      "text": "_4. Reg. VIII. 26. Viginti duorum annorum erat Ochozias cùm regnare cœpisset, et uno anno regnavit in Jerusalem._"
     },
     {
       "key": "page_0146-c",
       "n": 3,
-      "text": "_Vide Uſſer. Chronolog. ad an. 3120._"
+      "text": "_Vide Usser. Chronolog. ad an. 3120._"
     },
     {
       "key": "page_0146-d",
       "n": 4,
-      "text": "δι ἔτη εἴκοσι ἡδύο Οχοζίας ἐβασίλευσε. _Ita Editio Caldina, Biſil. Francoford. Bibl. Reg. Polygl. Antuer. & Pariſ._"
+      "text": "δι ἔτη εἴκοσι ἡδύο Οχοζίας ἐβασίλευσε. _Ita Editio Caldina, Bisil. Francoford. Bibl. Reg. Polygl. Antuer. et Paris._"
     },
     {
       "key": "page_0146-e",
@@ -130,12 +130,12 @@
     {
       "key": "page_0146-f",
       "n": 6,
-      "text": "_Ita ſun. Hebr. Brent. Arduin._"
+      "text": "_Ita sun. Hebr. Brent. Arduin._"
     },
     {
       "key": "page_0146-g",
       "n": 7,
-      "text": "_Vide ſi placet Uſſer. Chronolog. loc citato._"
+      "text": "_Vide si placet Usser. Chronolog. loc citato._"
     },
     {
       "key": "page_0147-a",
@@ -175,12 +175,12 @@
     {
       "key": "page_0149-a",
       "n": 15,
-      "text": "4. Reg. IX. 28. Sepelierunt eum in ſepulchro, cum patribus ſuis in civitate David."
+      "text": "4. Reg. IX. 28. Sepelierunt eum in sepulchro, cum patribus suis in civitate David."
     },
     {
       "key": "page_0149-b",
       "n": 16,
-      "text": "ואין לבית אחזיהו לעצר כח למלכה Grotius & quelques autres croyent qu'il faut lire האבד _perdidit_, au lieu de הדבר, comme dans 4. Reg. XI. 1. Les Septante & le Syriaque ont lû האבד, ἀπώλεσεν ὅλην τὴν σπέρμα τῆς βασιλείας."
+      "text": "ואין לבית אחזיהו לעצר כח למלכה Grotius et quelques autres croyent qu'il faut lire האבד _perdidit_, au lieu de הדבר, comme dans 4. Reg. XI. 1. Les Septante et le Syriaque ont lû האבד, ἀπώλεσεν ὅλην τὴν σπέρμα τῆς βασιλείας."
     },
     {
       "key": "page_0149-c",
@@ -196,43 +196,6 @@
       "key": "page_0149-e",
       "n": 19,
       "text": "Voyez 4. Reg. XI. 2."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0145",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0146",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0147",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0148",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0149",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

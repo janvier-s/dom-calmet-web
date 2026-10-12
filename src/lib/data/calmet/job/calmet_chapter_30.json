@@ -23,7 +23,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUI RODEBANT IN SOLITUDINE; SQUALLENTES CALAMITATE, ET MISERIA.",
       "lemma": "Qui cherchaient à ronger dans un désert ; dont l'affliction, et la misère avaient défiguré le visage.",
       "text": "Voici comme on traduit l'Hébreu : [7] _Qui fuient dans des lieux arides, et qui se retirent pendant la nuit dans des lieux secs, et abandonnés._ Telle était la condition de ceux, qui se donnent aujourd'hui la liberté d'insulter à mon malheur. Ils n'osaient même paraître dans leur patrie ; ils cherchaient la solitude, et les lieux écartés, pour se dérober à la vue des hommes."
@@ -37,7 +37,7 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "RADIX JUNIPERORUM ERAT CIBUS EORUM.",
       "lemma": "Qui se nourrissaient de racines de génévrier.",
       "text": "Tout le monde sait qu'il est impossible de se nourrir de racines de génévrier. Ce n'est point là une nourriture dont on puisse user. Mais pour sauver cette difficulté, les uns disent que ces malheureux dont parle Job, gagnaient leur vie à arracher des racines de génévrier, qu'ils vendaient ensuite pour vivre. D'autres traduisent l'Hébreu[11] par : Ils allaient chercher des racines de génévrier pour se chauffer. D'autres traduisent :[12] _Leur nourriture est de racine de genêt._ L'Hébreu _Réthamin_, est rendu par du genêt au troisième Livre des Rois, Chap. xix. 4. 5. dans le Chaldéen, et dans la traduction Arabe. Le verbe _Ratham_, signifie lier; ce qui convient beaucoup mieux au genêt, qu'au genévrier. _Genista quoque vinculi usum præstat_, dit Pline, l xxiv. c. 9. Mais, dira-t-on, la racine du genêt n'est pas plus propre à nourrir, que celle du genévrier. Il est vrai : mais il croît quelquefois à la racine du genêt une espèce de rave, ou de racine, que Pline,[13] et Dioscoride[14] appellent _Orobanshon_, ou _Cynomonion_, et qu'on mange crue, ou cuite comme des asperges. Ce serait donc cette racine que Job voudrait marquer ici, sous le nom de racine de genêt, parce qu'elle vient avec les racines de cet arbuste : Faible raison. Comme si l'_Orobanchan_ ne venait qu'à la racine du genêt, ou qu'il vînt là plutôt qu'ailleurs.\nJ'aime beaucoup mieux prendre _Ratham_ dans un sens générique, pour des arbustes sauvages, sans en assigner aucune espèce. Des trois passages où ce terme se trouve,[15] il n’y en a aucun qui oblige à le déterminer à un arbuste, ou à une plante particulière. Le Grec _Rad-bamnos_, qui vient visiblement de Ratham, signifie en général une jeune plante, un rejeton, un germe. Job veut donc dire ici que ces malheureux, qui lui insultaient alors, avaient ci-devant vécu dans les bois, et dans les déserts, se nourrissant d’herbes, et de racines sauvages d’arbrisseaux. Les Septante,[16] et Symmaque l’ont aussi pris en général : _Ils mangeaient des racines d’arbres, ou de plantes sauvages, tant ils étaient pressés par la faim._"
@@ -45,7 +45,7 @@
     {
       "verse": 5,
       "sub": false,
-      "latin_lemma": "QUI DE CONVALLIBUS ISTA RAPIENTES, CUM SINGULA REPERISSENT, &c.",
+      "latin_lemma": "QUI DE CONVALLIBUS ISTA RAPIENTES, CUM SINGULA REPERISSENT, etc.",
       "lemma": "Qui allaient ravir ces choses dans le fond des vallées, et qui en ayant trouvé quelques-unes, y accouraient avec de grands cris.",
       "text": "Ce sens est assez clair. Voici comme on traduit l’Hébreu :[17] _On les chassait du corps de la ville, ou de l’assemblée, et on criait contre eux, comme contre des voleurs._ Les Septante le joignent avec ce qui précède : ils étaient contraints de manger des racines d’arbres, ( ℣. 5.) _Tant ils étaient pressés par la faim. Des voleurs se sont élevés contre moi._"
     },
@@ -67,7 +67,7 @@
       "verse": 9,
       "sub": false,
       "latin_lemma": "IN PROVERBIUM.",
-      "lemma": "[22] L'objet de leurs discours.",
+      "lemma": "[22] _L'objet de leurs discours._",
       "text": "On ne parle que de moi ; je suis la fable du monde. Voyez ci-devant, XVII. 6."
     },
     {
@@ -94,7 +94,7 @@
     {
       "verse": 13,
       "sub": false,
-      "latin_lemma": "DISSIPAVERUNT ITINERA MEA, &c.",
+      "latin_lemma": "DISSIPAVERUNT ITINERA MEA, etc.",
       "lemma": "Ils ont rompu tous les chemins par où je marchais.",
       "text": "Voici ce que porte l’Hébreu [32] de tout ce verset : _Ils ont fermé, rompu, dissipé toutes mes voies_, par où je pouvais me sauver, ou recevoir du secours. Il continue dans l’allégorie d’une ville assiégée, et fermée de toutes parts. _Ils_ trouvent leur compte, leur avantage, leur plaisir à me détruire, et à me perdre ; personne ne m'a secouru contre eux ; ou, ils n'ont eu besoin du secours de personne contre moi. Ils se sont trouvés assez forts pour me renverser, sans implorer le secours d'autrui."
     },
@@ -138,12 +138,12 @@
       "sub": false,
       "latin_lemma": "STO, ET NON RESPICIS ME.",
       "lemma": "Je me présente à vous,",
-      "text": "COMMENTAIRE.\n\net vous ne me regardez point. L'Hébreu [41] dit au contraire : _je suis debout devant vous, et vous me regardez_. Ou bien : _Je suis devant vous ; et est-il possible que vous voyiez ce que je souffre, sans me donner le moindre secours ?_ D'autres suppléent la négation du premier membre, comme a fait la Vulgate. _Je crie vers vous, et vous ne m'écoutez point ; je suis devant vous, et vous ne me regardez point_. Il y a plusieurs exemples d'une pareille construction dans l'Hébreu. Les Septante : [42] _J'ai crié vers vous, et vous ne m'avez point écouté ; mes ennemis sont venus, et ils m'ont considéré_."
+      "text": "COMMENTAIRE.\net vous ne me regardez point. L'Hébreu [41] dit au contraire : _je suis debout devant vous, et vous me regardez_. Ou bien : _Je suis devant vous ; et est-il possible que vous voyiez ce que je souffre, sans me donner le moindre secours ?_ D'autres suppléent la négation du premier membre, comme a fait la Vulgate. _Je crie vers vous, et vous ne m'écoutez point ; je suis devant vous, et vous ne me regardez point_. Il y a plusieurs exemples d'une pareille construction dans l'Hébreu. Les Septante : [42] _J'ai crié vers vous, et vous ne m'avez point écouté ; mes ennemis sont venus, et ils m'ont considéré_."
     },
     {
       "verse": 22,
       "sub": false,
-      "latin_lemma": "QUASI SUPER VENTUM PONENS, ELISISTI ME VALIDE. Et me tenant comme ſuſpendu en l'air, vous m'avez briſé entiérement. Vous ne m'avez élevé, que pour me faire tomber de plus haut.",
+      "latin_lemma": "QUASI SUPER VENTUM PONENS, ELISISTI ME VALIDE. Et me tenant comme suspendu en l'air, vous m'avez brisé entiérement. Vous ne m'avez élevé, que pour me faire tomber de plus haut.",
       "lemma": "Undè altior esset Casus, et impulsæ præceps immane ruinæ.",
       "text": "L'Hébreu: [43] _Vous m'avez fait marcher sur les vents, comme sur un chariot, et vous m'avez tout fait fondre ; ou, vous avez fait fondre ma substance, et dissiper ma sagesse_. On trouve ici le terme Hébreu _Tusiah_, dont on a déjà parlé ailleurs, [44] et dont la signification est si vague. Les Septante : [45] _Vous m'avez environné de douleurs, et vous m'avez rejeté loin du salut_."
     },
@@ -156,7 +156,7 @@
     },
     {
       "verse": 24,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IPSE SALVABIS.",
       "lemma": "Mais vous n'étendez point votre main pour les consumer entièrement ; car lorsqu'ils sont abattus, vous les sauvez.",
       "text": "Tous les hommes vont à la mort ; vous avez marqué leur dernier gîte dans le tombeau ; mais vous ne voulez point leur perte entière ; vous les conservez dans cette vie. S'ils font quelques faux pas, vous les relevez. Voilà, Seigneur, la conduite que vous tenez envers le commun des hommes. Mais pour moi, il semble que vous vouliez suivre d'autres routes. Ce n'est point assez que je tende à la mort ; vous m'accablez de douleurs, et de peines dans le cours de cette misérable vie. L'Hébreu : [46] (℣. 23.) Le tombeau est la dernière demeure de tous les mortels. (℣. 24.) _Mais il n'étendra pas la main sur le tombeau ; et lorsqu'elles sont blessées, elles sont guéries._ Dieu laisse au moins les hommes en paix dans le tombeau ; et lorsqu'il les a frappés, et abattus par la mort, ils sont délivrés de tous dangers, et de tous maux. Ainsi la condition des morts est encore plus douce que la mienne. Les Septante : [47] _Plût à Dieu que je puisse me faire mourir, ou prier un autre de me rendre cet office ! On ne voit rien de pareil dans l'Hébreu._ Le Chaldéen : _Il ne blessera pas jusqu'aux os, s'il met une emplâtre sur la moindre plaie._ Les Interprètes sont étrangement partagés sur le sens de l'Hébreu, qui est fort obscur."
@@ -238,7 +238,7 @@
       "verse": 20,
       "mode": "flow",
       "before": "Je me présente à vous,",
-      "after": "COMMENTAIRE.\n\net vous ne me regardez point. L'Hébreu ^{(a)"
+      "after": "COMMENTAIRE.\net vous ne me regardez point. L'Hébreu ^{(a)}"
     },
     {
       "seam": "page_0370>page_0371",
@@ -301,12 +301,12 @@
     {
       "key": "page_0361-f",
       "n": 8,
-      "text": "הקטפים מלוח עלי שיח [UNCERTAIN HEBREW] Vide Druſ. Proverb. Claſſ. 2. lib. Adag. 171. & in hunc loc. Bochart. de animal. tom. 1. lib. 3. cap. 16. & Matthiol. in Dioſcorid. lib. 1. cap. 103."
+      "text": "הקטפים מלוח עלי שיח [UNCERTAIN HEBREW] Vide Drus. Proverb. Class. 2. lib. Adag. 171. et in hunc loc. Bochart. de animal. tom. 1. lib. 3. cap. 16. et Matthiol. in Dioscorid. lib. 1. cap. 103."
     },
     {
       "key": "page_0362-a",
       "n": 9,
-      "text": "_Solin. de Creta Inſul. Herba ibi eſt quæ alimos dicitur, ea admorſa diurnam famem prohibet._"
+      "text": "_Solin. de Creta Insul. Herba ibi est quæ alimos dicitur, ea admorsa diurnam famem prohibet._"
     },
     {
       "key": "page_0362-b",
@@ -331,12 +331,12 @@
     {
       "key": "page_0362-f",
       "n": 14,
-      "text": "_Dioſcorid. lib. 2. cap. 136._"
+      "text": "_Dioscorid. lib. 2. cap. 136._"
     },
     {
       "key": "page_0363-a",
       "n": 15,
-      "text": "Ici, au 3. des Rois chap. XIX. 4. 5. & Pſal. CXIX. 4."
+      "text": "Ici, au 3. des Rois chap. XIX. 4. 5. et Psal. CXIX. 4."
     },
     {
       "key": "page_0363-b",
@@ -376,12 +376,12 @@
     {
       "key": "page_0364-f",
       "n": 23,
-      "text": "_Ita ferè Gregor. Magn. & Auguſt. hic, Vide & Sanct._"
+      "text": "_Ita ferè Gregor. Magn. et August. hic, Vide et Sanct._"
     },
     {
       "key": "page_0365-a",
       "n": 24,
-      "text": "Voyez nôtre Commentaire ſur Iſaïe, XXXVII. 19. Ezech. XXIX. 4. & XXXVIII. 4."
+      "text": "Voyez nôtre Commentaire sur Isaïe, XXXVII. 19. Ezech. XXIX. 4. et XXXVIII. 4."
     },
     {
       "key": "page_0365-b",
@@ -391,7 +391,7 @@
     {
       "key": "page_0365-c",
       "n": 26,
-      "text": "_Tig. Vatab. Grot. Mercer. Caſtal._"
+      "text": "_Tig. Vatab. Grot. Mercer. Castal._"
     },
     {
       "key": "page_0365-d",
@@ -401,7 +401,7 @@
     {
       "key": "page_0365-e",
       "n": 28,
-      "text": "_Pſal. CVIII. 6. Diabolus ſtet à dextris ejus. Et Zachar. III. 1. Oſtendit mihi Sacerdotem ſtantem, & Satan ſtabat à dextris ejus, ut adverſaretur ei._"
+      "text": "_Psal. CVIII. 6. Diabolus stet à dextris ejus. Et Zachar. III. 1. Ostendit mihi Sacerdotem stantem, et Satan stabat à dextris ejus, ut adversaretur ei._"
     },
     {
       "key": "page_0366-a",
@@ -421,7 +421,7 @@
     {
       "key": "page_0366-d",
       "n": 32,
-      "text": "נחסו נתיבותי להוותי לא יועילו עזר למו. Ils ont lû רגליהם qui fait un meilleur ſens, que רגלי, & לא עזר"
+      "text": "נחסו נתיבותי להוותי לא יועילו עזר למו. Ils ont lû רגליהם qui fait un meilleur sens, que רגלי, et לא עזר"
     },
     {
       "key": "page_0367-a",
@@ -441,12 +441,12 @@
     {
       "key": "page_0368-a",
       "n": 36,
-      "text": "עַרְקֵי לֹא יִשְׁכָּבוּן 70. _Niſus meus non quievit._ Νεῦρα μου διαλύονται."
+      "text": "עַרְקֵי לֹא יִשְׁכָּבוּן 70. _Nisus meus non quievit._ Νεῦρα μου διαλύονται."
     },
     {
       "key": "page_0368-b",
       "n": 37,
-      "text": "_Thom Lyr. Dionyſ. Hug. Titelm._"
+      "text": "_Thom Lyr. Dionys. Hug. Titelm._"
     },
     {
       "key": "page_0368-c",
@@ -456,7 +456,7 @@
     {
       "key": "page_0368-d",
       "n": 39,
-      "text": "ἄνευ ῥαφῆς τὸν χιτῶνα με περιέσχε. Voyez Exod. XXVIII. 4. & ce qu'on a dit ſur S. Jean chap. XIX. 25."
+      "text": "ἄνευ ῥαφῆς τὸν χιτῶνα με περιέσχε. Voyez Exod. XXVIII. 4. et ce qu'on a dit sur S. Jean chap. XIX. 25."
     },
     {
       "key": "page_0368-e",
@@ -481,7 +481,7 @@
     {
       "key": "page_0369-d",
       "n": 44,
-      "text": "_Job._ v. 12. vi. 13. & xii. 21."
+      "text": "_Job._ v. 12. vi. 13. et xii. 21."
     },
     {
       "key": "page_0369-e",
@@ -501,128 +501,42 @@
     {
       "key": "page_0371-a",
       "n": 48,
-      "text": "(a) קדר הלכתי בלא חמה"
+      "text": " קדר הלכתי בלא חמה"
     },
     {
       "key": "page_0371-b",
       "n": 49,
-      "text": "(b) Vide Job. v. 11. Pſal. XXXIV. 14. XXXVII. 7. XLI. 1. Thren. V. 10."
+      "text": " Vide Job. v. 11. Psal. XXXIV. 14. XXXVII. 7. XLI. 1. Thren. V. 10."
     },
     {
       "key": "page_0371-c",
       "n": 50,
-      "text": "(c) Στένων ἄνευ χαλινοῦ πεπόρευμαι. Complut. ἀνευ δεσμῶν."
+      "text": " Στένων ἄνευ χαλινοῦ πεπόρευμαι. Complut. ἀνευ δεσμῶν."
     },
     {
       "key": "page_0371-d",
       "n": 51,
-      "text": "(d) Prov. XVIII. 9. Eccli. XXXIV. 27."
+      "text": " Prov. XVIII. 9. Eccli. XXXIV. 27."
     },
     {
       "key": "page_0371-e",
       "n": 52,
-      "text": "(e) Mich. I. 8. אעשה מספד כתנים ואבל כבנות יענה"
+      "text": " Mich. I. 8. אעשה מספד כתנים ואבל כבנות יענה"
     },
     {
       "key": "page_0371-f",
       "n": 53,
-      "text": "(f) תנים Voyez notre Commentaire ſur Mare. I. 21. 22."
+      "text": " תנים Voyez notre Commentaire sur Mare. I. 21. 22."
     },
     {
       "key": "page_0371-g",
       "n": 54,
-      "text": "(g) Voyez notre Commentaire ſur Mare. I. 21. 22."
+      "text": " Voyez notre Commentaire sur Mare. I. 21. 22."
     },
     {
       "key": "page_0371-h",
       "n": 55,
-      "text": "(h) Αδελφὸς γέγονα σειρήνων, ἑταῖρος δὲ στρουθῶν."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0360",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0361",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0362",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0363",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0364",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0365",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0366",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0367",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0368",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0369",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0370",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0371",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": " Αδελφὸς γέγονα σειρήνων, ἑταῖρος δὲ στρουθῶν."
     }
   ],
   "missing_footnotes": []

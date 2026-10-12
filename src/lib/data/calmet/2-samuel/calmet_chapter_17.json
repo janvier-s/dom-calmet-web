@@ -23,7 +23,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NON MORABITUR CUM POPULO.",
       "lemma": "Il ne s’arrêtera point avec ses gens.",
       "text": "L’Hébreu :[7] _Il ne passera pas la nuit avec le peuple._ Il ne demeurera pas au milieu d’une multitude de gens sans défense ; il faudra mettre sa personne en sûreté pendant la nuit, de peur de quelque surprise. J’aimerais mieux traduire : _Il ne laissera pas passer la nuit au peuple._ Il ne faut pas croire qu’il laisse passer la nuit en repos à ses gens, ni qu’il s’arrête en aucun endroit, qu’il ne se soit mis en lieu de sûreté."
@@ -31,7 +31,7 @@
     {
       "verse": 9,
       "sub": false,
-      "latin_lemma": "ET CUM CECIDERIT UNUS QUILIBET IN PRINCIPIO, &c.",
+      "latin_lemma": "ET CUM CECIDERIT UNUS QUILIBET IN PRINCIPIO, etc.",
       "lemma": "Que si quelqu’un de vos gens est tué d’abord, on publiera que le parti d’Absalon a été battu.",
       "text": "Les premiers succès font beaucoup d’impression sur l’esprit des peuples. On ne doit rien risquer dans les commencements. On peut traduire ainsi l’Hébreu :[8] _Et si on tombe sur eux, si on se hâte d’attaquer les gens de David dans ces commencements, on publiera partout que votre parti a été battu._"
     },
@@ -44,7 +44,7 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TU ERIS IN MEDIO EORUM.",
       "lemma": "Mettez-vous au milieu d'eux.",
       "text": "Conduisez vous-même votre armée ; animez vos troupes, et contenez-les dans le devoir par votre présence : [9] _Et que votre face aille au combat._ Encouragez vos troupes, mettez-vous à leur tête, et livrez la bataille. C'est dans ce sens que Dieu dit à Moïse : [10] _Allez : ma face vous précédera ; j'irai à votre tête, je m'y trouverai en personne._"
@@ -93,7 +93,7 @@
     },
     {
       "verse": 17,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NON ENIM POTERANT VIDERI, AUT INTROIRE CIVITATEM.",
       "lemma": "N'osant se montrer, ni entrer dans la ville.",
       "text": "L'Hébreu : [19] _Parce qu'ils ne pouvaient pas être vus entrer dans la ville._ Ils avaient ordre de ne pas entrer, de peur qu'on ne les vît."
@@ -142,7 +142,7 @@
     },
     {
       "verse": 24,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ABSALOM TRANSIIT JORDANEM.",
       "lemma": "Absalon passa le Jourdain.",
       "text": "On ne peut pas dire quand il le passa ; mais il differa apparemment quelques jours, jusqu'à ce que les troupes qu'il attendait, fussent arrivées ; David pendant ce temps amassa de son côté du secours. Le Roi des Ammonites le vint trouver avec ses troupes. [30]"
@@ -170,21 +170,21 @@
     },
     {
       "verse": 28,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TAPETIA.",
       "lemma": "Des tapis.",
       "text": "Le mot Hébreu [38] est traduit par le Chaldéen, [39] et par plusieurs nouveaux Interprètes, _des bouteilles,_ ou _des coupes, des vases à mettre des liqueurs._ Mais les Septante, Symmaque, le Syriaque, et l'Arabe sont pour des tapis, de même que la Vulgate. L'Édition Romaine porte : _dix chaudrons._"
     },
     {
       "verse": 28,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VASA FICTILIA.",
       "lemma": "Des vaisseaux de terre.",
       "text": "Chétif présent dans toute autre rencontre ; mais dans une fuite précipitée, où l'on manquait de tout, rien ne pouvait être plus à propos, ni plus agréable. On ne voit point ici de magnificence ; ce n'en était point le temps, et les vaisseaux de métal précieux pour la table et pour la cuisine, étaient rares dans ce siècle-là."
     },
     {
       "verse": 28,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FARINAM ET POLENTAM.",
       "lemma": "De la farine, de l'orge séché au feu.",
       "text": "Le premier terme de l'original,[40] signifie de la farine en général ; et le second, [41] du froment, de l'orge, ou autre grain, ou légume grillé. Ce mot se trouve deux fois dans ce passage. Ici il est traduit par _polentam_, du gruau d'orge, ou d'autre grain séché et grillé ; et un peu après, _frixum cicer_, des pois rôtis. Les Voyageurs qui ont voyagé dans l'Orient, nous apprennent qu'en Éthiopie, lorsqu'on se met en voyage, on ne manque pas de se fournir d'orge rôti ; [42] les Turcs prennent ordinairement du riz préparé et écossé, ou de la farine. [43] En Égypte, on prend des pois chiches grillés dans la poêle. [44] Athénée [45] montre assez le fréquent usage que les Anciens faisaient de ces légumes ; ils les mangeaient verts et rôtis. Voyez ce qu'on a dit sur le chap. II. ℣. 14. du Livre de Ruth. L'Hébreu _kali_, ne signifie proprement que _du grillé_ ; on le joint à l'orge, au riz, au froment, aux pois, et aux fèves, parce qu'on rôtissait toutes ces sortes de choses, et qu'on en portait en voyage. [46]"
@@ -198,7 +198,7 @@
     },
     {
       "verse": 29,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SUSPICATI SUNT POPULUM FATIGARI FAME ET SITI IN DESERTO.",
       "lemma": "Ils se doutèrent bien que le peuple se trouvant dans le désert, était abattu de faim et de soif.",
       "text": "Le peuple n'était plus alors dans le désert, puisque David et ses gens étaient arrivés à Mahanaïm. [49] Ainsi il faudrait traduire : Ils jugèrent bien que le peuple avait beaucoup souffert de la faim et de la soif dans le désert ; ou bien, on rapporte ici hors de la place naturelle, ce qui était arrivé pendant que David était encore dans le désert."
@@ -257,8 +257,8 @@
     {
       "seam": "page_0187>page_0188",
       "verse": 24,
-      "mode": "hyphen",
-      "before": "jours, jusqu'à ce que les troupes qu'il attendait, fussent",
+      "mode": "splice",
+      "before": "es jours, jusqu'à ce que les troupes qu'il attendait, fus-",
       "after": "sent arrivées ; David pendant ce temps amassa de son côté "
     },
     {
@@ -303,7 +303,7 @@
     {
       "key": "page_0179-a",
       "n": 1,
-      "text": "Tacit. Hiſt. lib. 1. apud Grot."
+      "text": "Tacit. Hist. lib. 1. apud Grot."
     },
     {
       "key": "page_0179-b",
@@ -323,12 +323,12 @@
     {
       "key": "page_0181-a",
       "n": 5,
-      "text": "Prov. XVII. 12. Vide ſi lubet & Prov. XXVIII. 15. Eccli. XXV. 14. Thren. III. 10."
+      "text": "Prov. XVII. 12. Vide si lubet et Prov. XXVIII. 15. Eccli. XXV. 14. Thren. III. 10."
     },
     {
       "key": "page_0180-a",
       "n": 6,
-      "text": "כדוב שכול בשדה. _Comme une ourſe ſans ſes petits dans le champ._ 70. Ως ἄρκτος σπαραχθεῖσα. _Comme une ourſe à qui l'on a pris ſes petits._ Un autre. Ως ἄρκτος σπαραχθεῖσα ἐν ἀγρῷ. _Comme une ourſe en fureur dans les champs._"
+      "text": "כדוב שכול בשדה. _Comme une ourse sans ses petits dans le champ._ 70. Ως ἄρκτος σπαραχθεῖσα. _Comme une ourse à qui l'on a pris ses petits._ Un autre. Ως ἄρκτος σπαραχθεῖσα ἐν ἀγρῷ. _Comme une ourse en fureur dans les champs._"
     },
     {
       "key": "page_0181-b",
@@ -353,7 +353,7 @@
     {
       "key": "page_0182-c",
       "n": 11,
-      "text": "Vide Deut. XXXIII. 28. Judic. VI. 37. 38. Cantic. v. 2. Iſai. XXVI. 19."
+      "text": "Vide Deut. XXXIII. 28. Judic. VI. 37. 38. Cantic. v. 2. Isai. XXVI. 19."
     },
     {
       "key": "page_0182-d",
@@ -363,7 +363,7 @@
     {
       "key": "page_0183-a",
       "n": 13,
-      "text": "Diſſertation ſur la Milice des anciens Hebreux."
+      "text": "Dissertation sur la Milice des anciens Hebreux."
     },
     {
       "key": "page_0183-b",
@@ -373,7 +373,7 @@
     {
       "key": "page_0183-c",
       "n": 15,
-      "text": "Jonat. Mart. Vide 1. Reg. x. ſ. 10. עד הנחל"
+      "text": "Jonat. Mart. Vide 1. Reg. x. s. 10. עד הנחל"
     },
     {
       "key": "page_0183-d",
@@ -388,7 +388,7 @@
     {
       "key": "page_0185-a",
       "n": 18,
-      "text": "4. Reg. XVIII. 17. Iſai VII. 3. & XXXVI. 2."
+      "text": "4. Reg. XVIII. 17. Isai VII. 3. et XXXVI. 2."
     },
     {
       "key": "page_0185-b",
@@ -398,7 +398,7 @@
     {
       "key": "page_0185-c",
       "n": 20,
-      "text": "Geneſ. XXXVII. 24."
+      "text": "Genes. XXXVII. 24."
     },
     {
       "key": "page_0185-d",
@@ -408,7 +408,7 @@
     {
       "key": "page_0186-a",
       "n": 22,
-      "text": "Εψύχεν ἰπ᾽ ἀυτᾶ παλάδας. Aq. Sym. Πάλ᾽ατ as. Grana contuſa."
+      "text": "Εψύχεν ἰπ᾽ ἀυτᾶ παλάδας. Aq. Sym. Πάλ᾽ατ as. Grana contusa."
     },
     {
       "key": "page_0186-b",
@@ -433,7 +433,7 @@
     {
       "key": "page_0187-b",
       "n": 27,
-      "text": "Joſeph. lib. 3. c. XI. de Bello. p. 813. Διὰ τῶν μυρίων ὡς τὰ Θεοῦ καὶ τὰ τῆς γῆς σοφίας παρελθεῖν, Τὸν γὰρ ἀξιῶν... Εἰς ἑαυτὸν παρὰ τὴν χεῖρα μανεὶς ἀπο-δίδωσι κ’ ὡς κλέπτων ἐκείνην: Καὶ τι μὴ πολεμιωτάτων ὅλων θηρίων ἐγράψαμεν."
+      "text": "Joseph. lib. 3. c. XI. de Bello. p. 813. Διὰ τῶν μυρίων ὡς τὰ Θεοῦ καὶ τὰ τῆς γῆς σοφίας παρελθεῖν, Τὸν γὰρ ἀξιῶν... Εἰς ἑαυτὸν παρὰ τὴν χεῖρα μανεὶς ἀπο-δίδωσι κ’ ὡς κλέπτων ἐκείνην: Καὶ τι μὴ πολεμιωτάτων ὅλων θηρίων ἐγράψαμεν."
     },
     {
       "key": "page_0187-c",
@@ -443,7 +443,7 @@
     {
       "key": "page_0187-d",
       "n": 29,
-      "text": "Vide ſup. 2. Reg. II. 29."
+      "text": "Vide sup. 2. Reg. II. 29."
     },
     {
       "key": "page_0188-a",
@@ -513,22 +513,22 @@
     {
       "key": "page_0190-c",
       "n": 43,
-      "text": "Buſbeq. Ep. 3."
+      "text": "Busbeq. Ep. 3."
     },
     {
       "key": "page_0190-d",
       "n": 44,
-      "text": "Bellon. lib. 2. c. 53. Proſper. Alpin de Medic. Ægypt. l. 1. c. 10."
+      "text": "Bellon. lib. 2. c. 53. Prosper. Alpin de Medic. Ægypt. l. 1. c. 10."
     },
     {
       "key": "page_0190-e",
       "n": 45,
-      "text": "Athen. lib. 2. Dipnoſop c. 13. 14."
+      "text": "Athen. lib. 2. Dipnosop c. 13. 14."
     },
     {
       "key": "page_0190-f",
       "n": 46,
-      "text": "Vide Mart. Malu. Boch. de Animal. ſacr. tom. 2. lib. 1. c. 9."
+      "text": "Vide Mart. Malu. Boch. de Animal. sacr. tom. 2. lib. 1. c. 9."
     },
     {
       "key": "page_0190-g",
@@ -538,112 +538,12 @@
     {
       "key": "page_0190-h",
       "n": 48,
-      "text": "Pag. Munſt. Caſt. Malv. Junaib. Boch. de animal. ſacr. tom. 2. lib. 1. c. 32."
+      "text": "Pag. Munst. Cast. Malv. Junaib. Boch. de animal. sacr. tom. 2. lib. 1. c. 32."
     },
     {
       "key": "page_0191-a",
       "n": 49,
-      "text": "℣. 24. & 27."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0178",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0179",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0180",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0181",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0182",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0183",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0184",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0185",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0186",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0187",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0188",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0189",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0190",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0191",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "℣. 24. et 27."
     }
   ],
   "missing_footnotes": [

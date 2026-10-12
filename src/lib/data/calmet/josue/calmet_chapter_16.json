@@ -9,7 +9,7 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SOLITUDO QUÆ ASCENDIT DE JERICHO AD MONTEM BETHEL.",
       "lemma": "Le désert qui monte de Jéricho à la montagne de Bethel.",
       "text": "Le désert que l'on marque ici, est apparemment le même dont on a déjà parlé ci-devant, [3] et dont on parlera encore ci-après sous le nom de solitude de Bethaven ; [4] il s'étendait depuis Jéricho jusqu'à la montagne, sur laquelle était située Bethel."
@@ -23,7 +23,7 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TRANSITQUE TERMINUM ARCHI, ATHAROTH.",
       "lemma": "Passe les confins d'Archi, à Atharoth.",
       "text": "Quelques-uns [6] joignent ces deux mots, _Archi-Atharoth_, comme ne signifiant que la même ville qui est nommée ci-après [7] _Atharoth Addar_, et distinguée, selon eux, d'une autre ville nommée simplement _Atharoth_, [8] dans les Paralipomènes. Mais nous distinguons _Archi, et Atharoth_, comme deux lieux différents. _Archi_ est la patrie de Chusaï Archéen, ami de David ; [9] et _Atharoth_ est le nom d'une ville qui est nommée _Atharoth Addar_, _Atharoth_ l'Illustre au ℣. 5. et simplement Atharoth au ℣. 7. Il y a encore une autre ville de même nom située au nord de Samarie. Celle dont il s'agit ici était à quinze milles de Jéricho. Eusèbe remarque deux Atharoth, qui ne sont pas éloignées de Jérusalem."
@@ -51,14 +51,14 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CIRCUIT TERMINOS CONTRA ORIENTEM IN THANATHSELO.",
       "lemma": "Tourne vers l'orient à Thanath-Silo.",
       "text": "Il faudrait lire : _Circuit terminus_,[12] et non pas _terminos_. Les limites orientales d'Éphraïm et de Manassé tournent vers Thaanath-selo, qui est apparemment la même que _Thanat_, ou _Thenat_, dont il est parlé ci-après au Chap. XVII. 8. et qu'Eusèbe met à dix milles de Sichem, en tirant vers le Jourdain."
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PERTRANSIT AB ORIENTE JANOE.",
       "lemma": "Passe à l'orient de Janoë.",
       "text": "Eusèbe met un lieu nommé Janoé dans l'Acrabatène de la Samarie, à douze milles de Sichem, ou de Naplouse, vers l'orient. Teglarphalassar prit sur Israël une ville du nom de Janoé.[13]"
@@ -79,7 +79,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SUNTQUE EGRESSUS EJUS AD MARE SALSISSIMUM.",
       "lemma": "Il se termine à la mer salée.",
       "text": "L'hébreu,[17] le chaldéen et les Septante mettent simplement la mer, qui doit s'entendre de la Méditerranée ; car le partage de Manassé n'allait pas, à beaucoup près, jusqu'à la mer Morte, qui est ordinairement désignée dans l'Écriture sous le nom de mer Salée ; on peut donc traduire le texte par : _Le torrent de Cana se décharge dans la mer Méditerranée_, et c'est le sens que lui donnent les meilleurs interprètes.[18]"
@@ -96,7 +96,7 @@
       "sub": false,
       "latin_lemma": "CANANÆUM QUI HABITABAT IN GAZER.",
       "lemma": "Les Cananéens qui habitaient à Gazer.",
-      "text": "On a déjà parlé ci-devant de la ville de Gazer."
+      "text": "On a déjà parlé ci-devant de la ville de Ga-"
     }
   ],
   "joins": [
@@ -143,27 +143,27 @@
     {
       "key": "page_0298-a",
       "n": 3,
-      "text": "_Ioſue_ VIII. 14. 24."
+      "text": "_Iosue_ VIII. 14. 24."
     },
     {
       "key": "page_0298-b",
       "n": 4,
-      "text": "_Ioſue_ XVIII. 12."
+      "text": "_Iosue_ XVIII. 12."
     },
     {
       "key": "page_0298-c",
       "n": 5,
-      "text": "_Geneſ._ XXVIII. 19."
+      "text": "_Genes._ XXVIII. 19."
     },
     {
       "key": "page_0298-d",
       "n": 6,
-      "text": "_Bonfr. Maſ._ Montan."
+      "text": "_Bonfr. Mas._ Montan."
     },
     {
       "key": "page_0298-e",
       "n": 7,
-      "text": "℣. 5. & chap. XVIII. 13."
+      "text": "℣. 5. et chap. XVIII. 13."
     },
     {
       "key": "page_0298-f",
@@ -178,12 +178,12 @@
     {
       "key": "page_0299-a",
       "n": 10,
-      "text": "2. Reg. VIII. 18. & XV. 18. _Vide Grot. Iun. Malv. Cleric._"
+      "text": "2. Reg. VIII. 18. et XV. 18. _Vide Grot. Iun. Malv. Cleric._"
     },
     {
       "key": "page_0299-b",
       "n": 11,
-      "text": "Ioſue XVII. 7."
+      "text": "Iosue XVII. 7."
     },
     {
       "key": "page_0300-a",
@@ -203,7 +203,7 @@
     {
       "key": "page_0300-d",
       "n": 15,
-      "text": "Joſue XVII. 8."
+      "text": "Josue XVII. 8."
     },
     {
       "key": "page_0301-a",
@@ -218,44 +218,7 @@
     {
       "key": "page_0301-c",
       "n": 18,
-      "text": "Maſ. Bonfr. Vatab. Menoch. Malu."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0297",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0298",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0299",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0300",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0301",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Mas. Bonfr. Vatab. Menoch. Malu."
     }
   ],
   "missing_footnotes": []

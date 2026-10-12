@@ -9,21 +9,21 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PORTAM GREGIS.",
       "lemma": "La porte du troupeau.",
       "text": "Il est bon de remarquer, que presque tout ce que les Interprètes nous apprennent des portes de Jérusalem, est fort incertain, et qu'ils s'accordent assez peu entre eux sur ce sujet. On peut voir le plan que nous en avons donné. C'est ce qui nous a paru de plus certain, quoiqu'à vrai dire, il ne soit pas hors de doute.\nPour revenir à la porte du troupeau, on peut traduire l'Hébreu[3] par : _La porte des brebis_. Plusieurs croient que c'était auprès de cette porte, qu'on voyait la piscine miraculeuse, nommée _piscine probatique_,[4] ou _piscine des brebis_, dans laquelle on lavait les hosties, qui devaient être offertes dans le Temple.[5]"
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SANCTIFICAVERUNT EAM.",
       "lemma": "Ils la consacrèrent.",
       "text": "Plusieurs Interprètes[6] prétendent, que le terme _sanctifier_, ne marque ici que la manière pleine de magnificence, dont les Prêtres la commencèrent par là, l'ouvrage des réparations des murs de la ville. Ils se disposèrent à la rebâtir par quelques cérémonies religieuses.[7] D'autres[8] soutiennent, que le Texte veut marquer la dédicace solennelle que les Prêtres en firent. Mais nous lisons ci-après,[9] qu'on fit la cérémonie de la dédicace des murs, après que tout l'ouvrage fut achevé. Ainsi cette dédicace particulière paraît assez inutile. C'est ce qui nous la rend suspecte."
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "USQUE AD TURRIM CENTUM CUBITORUM.",
       "lemma": "Jusqu'à la tour de cent coudées.",
       "text": "Plusieurs Interprètes[10] traduisent l'Hébreu :[11] _jusqu'à la tour de Méah._ Ce dernier mot signifie _cent._ L'Auteur de la Vulgate a ajouté des _coudées_, qui ne sont pas dans le Texte. Les Septante,[12] et le Syriaque : _Jusqu'à la tour des cent._"
@@ -51,7 +51,7 @@
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PRO DUCE QUI ERAT IN REGIONE TRANS FLUMEN.",
       "lemma": "Pour le Gouverneur du pays de deçà le fleuve.",
       "text": "L'Hébreu à la lettre : [17] _Pour le trône du Gouverneur de deçà le fleuve._ Comme s'ils eussent travaillé à faire un Palais pour le Gouverneur du pays, ou une salle, pour y mettre son tribunal, lorsqu'il venait dans la ville, pour y exercer la justice de la part du Roi de Perse. Il paraît par Néhémie, [18] qu'avant lui, il y avait ordinairement un Gouverneur résidant dans Jérusalem. Mais depuis Esdras, les Hébreux s'étaient gouvernés selon leurs Lois, et avaient eu des Juges de leur Nation ; [19] il y avait un lieu destiné pour les séances du Gouverneur du pays ; et c'est auprès de là que travaillaient Meltias, et Jadon. Quelques Interprètes [20] croient que Néhémie se désigne lui-même par ces termes : _Le Gouverneur de deçà le fleuve_ : mais il s'en faut bien que son autorité s'étendît sur toute cette étendue de pays, qui était au-deçà de l'Euphrate ; et d'ailleurs Néhémie n'a pas coutume de se déguiser, ni de parler de lui-même en tierce personne. Grotius [21] croit qu'il y avait plusieurs Officiers, établis de la part du Roi dans Jérusalem, et qu'ils y étaient au nombre de cent cinquante, lorsque Néhémie y arriva, et qu'ils y demeurèrent encore depuis ; ce que nous avons peine à croire. Il nous paraît que l'Officier, dont parle Néhémie, était seul ; et peut-être même qu'il n'y en avait point eu depuis Esdras, comme nous l'avons déjà remarqué."
@@ -65,7 +65,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DIMISERUNT JERUSALEM USQUE AD MURUM PLATEÆ LATIONIS.",
       "lemma": "Ils laissèrent cette partie de Jérusalem, qui s'étend jusqu'à la",
       "text": "muraille de la grande place ; parce que cet espace n'avait pas besoin de réparation, [23] n'ayant pas été détruit par les Chaldéens. Mais d'autres [24] soutiennent qu'il faut traduire autrement le texte original : [25] _ils poussèrent_, ils avancèrent, ils rétablirent, ils fermèrent ; ou, selon Louis de Dieu, _ils pavèrent Jérusalem, jusqu'au large mur_."
@@ -85,13 +85,6 @@
       "text": "L'hébreu : [28] _Melchia fortifia, ou répara l'autre partie, ou l'autre mesure._ Il eut pour sa part la portion du mur, qui joignait celle de Hattus. Il en rétablit une partie égale à celle de son voisin. _L'autre partie, ou la seconde partie_, en cet endroit ; et aux versets 12. 15. 16. 17. 18. 19. 20."
     },
     {
-      "verse": 21,
-      "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "signifie la partie voisine, une semblable partie, un espace égal, une pareille mesure de muraille, par rapport à la précédente, dont on a parlé."
-    },
-    {
       "verse": 12,
       "sub": false,
       "latin_lemma": "PRINCEPS DIMIDIÆ PARTIS.",
@@ -100,7 +93,7 @@
     },
     {
       "verse": 12,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SELLUM, FILIUS ALOHES.",
       "lemma": "Sellum, fils d'Alohés.",
       "text": "Ce dernier mot en Hébreu, [30] signifie un Enchanteur. Ainsi on peut traduire: _Sellum, fils de l'Enchanteur_. Son père était connu sous ce surnom, peut-être parce qu'il avait le secret d'enchanter les serpents. [31]"
@@ -110,25 +103,18 @@
       "sub": false,
       "latin_lemma": "PORTAM VALLIS.",
       "lemma": "La porte de la vallée.",
-      "text": "Ci-devant, Ch. II."
+      "text": "Ci-devant, Ch. II.\n\nZANOE, ville de la tribu de Juda. Josué xv. 34."
     },
     {
       "verse": 13,
       "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "ZANOE, ville de la tribu de Juda. Josué xv. 34."
-    },
-    {
-      "verse": 13,
-      "sub": true,
       "latin_lemma": "BETHACARAM.",
       "lemma": null,
       "text": "Dans la tribu de Benjamin. Voyez Jérem. vi. I."
     },
     {
       "verse": 13,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MUROS PISCINÆ SILOE.",
       "lemma": "Les murailles de la piscine de Siloé.",
       "text": "Vatable traduit: [32] _La fontaine du verger_. D'autres : _La fontaine de Sélach_. Il n'y a point de doute qu'elle ne soit la même, qui est nommée _Siloë_ dans le nouveau Testament, [33] et qui se trouve encore sous ce nom dans Isaïe. [34]"
@@ -142,7 +128,7 @@
     },
     {
       "verse": 15,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "USQUE AD GRADUS QUI DESCENDUNT.",
       "lemma": "Jusqu'aux degrés par où l'on descend de la ville de David.",
       "text": "L'inégalité du terrain, où était bâtie Jérusalem, exigeait qu'en plusieurs endroits il y eût des degrés, surtout pour descendre de la ville de David, dans le Mello, ou la ville basse. Il est encore parlé de ces degrés ci-après, Ch. XII. ℣. 36."
@@ -156,7 +142,7 @@
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DOMUM FORTIUM.",
       "lemma": "La maison des forts.",
       "text": "Nous croyons que c'était l'appartement des gardes de David, et des braves de ses armées, dont il est parlé dans les Rois, et dans les Paralipomènes.[36]"
@@ -183,6 +169,13 @@
       "text": "L'Hébreu : [39] _Baruc s'enflamma , et bâtit après lui._ Baruc se mit en colère contre Azer , et se mit à bâtir après lui. Il se fâcha apparemment de ce que son voisin s'acquittait mal de son devoir , et négligeait de rétablir l'espace qui lui était échu. Ou simplement : Baruc se porta au travail avec une très-grande ardeur, et se mit à réparer cette partie des murs qui lui était échue. Le Syriaque : _Après lui , s'avança Baruc , et rebâtit la mesure suivante._ L'Arabe : _Après lui , fortifia Baruc._ Les Septante : _Après lui , tint Baruc._ Il occupa le poste suivant."
     },
     {
+      "verse": 21,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "signifie la partie voisine, une semblable partie, un espace égal, une pareille mesure de muraille, par rapport à la précédente, dont on a parlé."
+    },
+    {
       "verse": 22,
       "sub": false,
       "latin_lemma": "SACERDOTES, VIRI DE CAMPESTRIBUS JORDANIS.",
@@ -198,7 +191,7 @@
     },
     {
       "verse": 26,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PORTAM AQUARUM.",
       "lemma": "La porte des eaux.",
       "text": "Il y avait devant cette porte une place, où Esdras lut la Loi du Seigneur, sur une tribune préparée exprès, devant tout le peuple assemblé. [44] Cette porte ne devait pas être éloignée du Temple. Elle répondait à la porte orientale du grand parvis. Voyez 2. Esdr. xii. 36."
@@ -219,7 +212,7 @@
     },
     {
       "verse": 30,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CONTRA PORTAM JUDICIALEM.",
       "lemma": "Vers la porte des Juges.",
       "text": "On peut traduire l'Hébreu[49] par : _Vis-à-vis la porte du commandement_, ou de la revue, ou de la visite. Il faudrait être devin, pour déterrer les raisons de cette dénomination. Les Septante,[50] et quelques Interprètes nouveaux, ont conservé dans leur version le terme de l'Original : _Vis-à-vis la porte de Maphcad_, ou de _Miphcad_."
@@ -248,6 +241,13 @@
       "after": "muraille de la grande place ; parce que cet espace n'avait"
     },
     {
+      "seam": "page_0026>page_0026",
+      "verse": 13,
+      "mode": "para",
+      "before": "Ci-devant, Ch. II.",
+      "after": "ZANOE, ville de la tribu de Juda. Josué xv. 34."
+    },
+    {
       "seam": "page_0027>page_0028",
       "verse": 19,
       "mode": "flow",
@@ -270,7 +270,7 @@
     {
       "key": "page_0022-a",
       "n": 1,
-      "text": "Ita Tir. Cornel. Sanct. Eſt."
+      "text": "Ita Tir. Cornel. Sanct. Est."
     },
     {
       "key": "page_0022-b",
@@ -295,7 +295,7 @@
     {
       "key": "page_0022-f",
       "n": 6,
-      "text": "Vat. Munoch. Munſt."
+      "text": "Vat. Munoch. Munst."
     },
     {
       "key": "page_0023-a",
@@ -310,7 +310,7 @@
     {
       "key": "page_0023-c",
       "n": 9,
-      "text": "_2. Eſdr. XII. 27._"
+      "text": "_2. Esdr. XII. 27._"
     },
     {
       "key": "page_0023-d",
@@ -340,7 +340,7 @@
     {
       "key": "page_0023-i",
       "n": 15,
-      "text": "_Iſai. XXII. II. Lacum feciſtis inter duos muros, ad aquam Piſcinæ veteris_"
+      "text": "_Isai. XXII. II. Lacum fecistis inter duos muros, ad aquam Piscinæ veteris_"
     },
     {
       "key": "page_0024-a",
@@ -355,12 +355,12 @@
     {
       "key": "page_0024-c",
       "n": 18,
-      "text": "2. Eſdr. V. 15."
+      "text": "2. Esdr. V. 15."
     },
     {
       "key": "page_0024-d",
       "n": 19,
-      "text": "1. Eſdr. VII. 25. 26."
+      "text": "1. Esdr. VII. 25. 26."
     },
     {
       "key": "page_0024-e",
@@ -370,7 +370,7 @@
     {
       "key": "page_0024-f",
       "n": 21,
-      "text": "Grot. ad cap. II. ℣. 16. & ad c. V. ℣. 14."
+      "text": "Grot. ad cap. II. ℣. 16. et ad c. V. ℣. 14."
     },
     {
       "key": "page_0024-g",
@@ -385,7 +385,7 @@
     {
       "key": "page_0025-b",
       "n": 24,
-      "text": "Munſt. Kimchi, Lud. de Dieu, Pagn."
+      "text": "Munst. Kimchi, Lud. de Dieu, Pagn."
     },
     {
       "key": "page_0025-c",
@@ -430,22 +430,22 @@
     {
       "key": "page_0026-e",
       "n": 33,
-      "text": "_Luc._ XIII. 4. _Johan._ IX. 7. & 11."
+      "text": "_Luc._ XIII. 4. _Johan._ IX. 7. et 11."
     },
     {
       "key": "page_0026-f",
       "n": 34,
-      "text": "_Iſai._ VIII. 6. _Pro eo quod abjecit populus iſte aquas Siloë_; Hebr. _aquas Schilnach_."
+      "text": "_Isai._ VIII. 6. _Pro eo quod abjecit populus iste aquas Siloë_; Hebr. _aquas Schilnach_."
     },
     {
       "key": "page_0027-a",
       "n": 35,
-      "text": "Voyez 2. Par. XXXII. 4. & 4. Reg. XX. 20. _Quomodo fecerit piſcinam, & aqua-ductum, & introduxerit aquas in civitatem._"
+      "text": "Voyez 2. Par. XXXII. 4. et 4. Reg. XX. 20. _Quomodo fecerit piscinam, et aqua-ductum, et introduxerit aquas in civitatem._"
     },
     {
       "key": "page_0027-b",
       "n": 36,
-      "text": "Voyez 2. Reg. XXIII. 8. & 1. Par. XI. 10."
+      "text": "Voyez 2. Reg. XXIII. 8. et 1. Par. XI. 10."
     },
     {
       "key": "page_0027-c",
@@ -485,7 +485,7 @@
     {
       "key": "page_0029-c",
       "n": 44,
-      "text": "2. Eſdr. VIII. 1. 3."
+      "text": "2. Esdr. VIII. 1. 3."
     },
     {
       "key": "page_0029-d",
@@ -500,87 +500,22 @@
     {
       "key": "page_0030-a",
       "n": 47,
-      "text": "(a) אחריו החזיק חנניה 70. μετ᾽ ἀυτὸν ἐκράτησε, &c."
+      "text": " אחריו החזיק חנניה 70. μετ᾽ ἀυτὸν ἐκράτησε, etc."
     },
     {
       "key": "page_0030-b",
       "n": 48,
-      "text": "(b) אחרי החזיק Ita Jun. & Grot."
+      "text": " אחרי החזיק Ita Jun. et Grot."
     },
     {
       "key": "page_0030-c",
       "n": 49,
-      "text": "(c) נגד שער המפקד"
+      "text": " נגד שער המפקד"
     },
     {
       "key": "page_0030-d",
       "n": 50,
-      "text": "(d) Ἀπέναντι πύλης τῆς μαφεκάδ. Ita Munſt. Tigur."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0022",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0023",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0024",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0025",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0026",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0027",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0028",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0029",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0030",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": " Ἀπέναντι πύλης τῆς μαφεκάδ. Ita Munst. Tigur."
     }
   ],
   "missing_footnotes": []

@@ -140,15 +140,6 @@
     },
     {
       "verse_number": 16,
-      "latin": "Octoginta et sex annorum erat Abram quando peperit ei Agar Ismaelem.",
-      "french": "Abram avait quatre-vingt-six ans, lorsqu'Agar lui enfanta Ismaël.",
-      "annotations": null,
-      "source_pages": [
-        "page_0485.json"
-      ]
-    },
-    {
-      "verse_number": 16,
       "latin": "Et benedicam ei, et ex illa dabo tibi filium cui benedictus sum, eritque in nationes, et reges populorum orientur ex eo.",
       "french": "Je la bénirai, et elle vous donnera un fils, à qui je donnerai ma bénédiction, et il sera le père de plusieurs peuples ; et il sortira de lui des Rois qui gouverneront des peuples.",
       "annotations": null,
@@ -244,6 +235,15 @@
       "annotations": null,
       "source_pages": [
         "page_0497.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et omnes viri domus illius, tam vernaculi, quam emptitii et alienigenae pariter circumcisi sunt.",
+      "french": "Et tous les mâles de la maison d'Abraham, furent circoncis en même temps: Tant les esclaves achetés, que ceux qui étaient nés chez lui, et ceux qui étaient étrangers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0498.json"
       ]
     }
   ]

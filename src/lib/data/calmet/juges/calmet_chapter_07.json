@@ -9,14 +9,14 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ERANT CASTRA MADIAN IN VALLE AD SEPTENTRIO-",
       "lemma": null,
       "text": ""
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NALEM PLAGAM COLLIS EXCELSI.",
       "lemma": "Les Madianites étaient campés dans la vallée, vers le côté septentrional d’une colline fort élevée.",
       "text": "Le Texte original porte, que _Madian était à l’égard de Gédéon, au septentrion du côté de la hauteur de Moré dans la vallée._ On ignore quelle était cette hauteur de Moré ;[3] mais on convient qu’elle devait être au nord de la vallée de Jézraël, laquelle était entre les montagnes de Gelboé au midi, et celles d’Hermon au septentrion."
@@ -30,7 +30,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "RECESSERUNT DE MONTE GALAAD.",
       "lemma": "Ils se retirèrent de la montagne de Galaad.",
       "text": "Si le Texte Hébreu, sur lequel cette version est faite, n’est point corrompu, il faut reconnaître deux montagnes de Galaad, l'une en deçà, et l'autre au-delà du Jourdain, [6] et dire que le coteau du mont Gelboé, auprès duquel l'armée d'Israël était campée, se nommait Galaad. Il ne paraît pas par le Texte, et par toute la suite du discours, qu'il y ait eu dans l'armée de Gédéon un seul Israélite du pays de Galaad; ainsi on ne peut pas traduire; ceux qui étaient de la montagne de Galaad [7] se retirèrent; mais on peut lire Gelboé, au lieu de Galaad, et la difficulté s'évanouira."
@@ -114,17 +114,17 @@
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET CUSTODIBUS SUSCITATIS.",
       "lemma": "Et les gardes s'étant éveillées au bruit des trompettes.",
-      "text": "On peut entendre le Texte en deux manières. [29] 1°. En disant que Gédéon ayant trouvé les gardes endormies, les éveilla, et les étourdit par le bruit des trompettes, et des pots cassés. 2°. On peut croire qu'étant arrivé au camp, dans le temps qu'on relevait les gardes de la première veille, et qu'on plaçait celles de la seconde, il parut tout à coup avec des falots, et en jetant de grands cris, il répandit l'effroi, premièrement dans le cœur des gardes, et ensuite dans tout le camp.\nOn remarque dans l'Histoire Romaine, quelques stratagèmes semblables à peu près à celui que Gédéon emploie ici contre les Madianites. Les Falisques étant en guerre avec les Romains, firent prendre à plusieurs de leurs gens des habits lugubres, avec des flambeaux et des serpents ; et comme ils parurent en cet état devant l'armée Romaine, ils y jetèrent l'épouvante. Ceux de Véies, et de Fidènes en firent de même ayant pris en main des flambeaux allumés. [30]"
+      "text": "On peut entendre le Texte en deux manières. [29] \n1°. En disant que Gédéon ayant trouvé les gardes endormies, les éveilla, et les étourdit par le bruit des trompettes, et des pots cassés. \n2°. On peut croire qu'étant arrivé au camp, dans le temps qu'on relevait les gardes de la première veille, et qu'on plaçait celles de la seconde, il parut tout à coup avec des falots, et en jetant de grands cris, il répandit l'effroi, premièrement dans le cœur des gardes, et ensuite dans tout le camp.\nOn remarque dans l'Histoire Romaine, quelques stratagèmes semblables à peu près à celui que Gédéon emploie ici contre les Madianites. Les Falisques étant en guerre avec les Romains, firent prendre à plusieurs de leurs gens des habits lugubres, avec des flambeaux et des serpents ; et comme ils parurent en cet état devant l'armée Romaine, ils y jetèrent l'épouvante. Ceux de Véies, et de Fidènes en firent de même ayant pris en main des flambeaux allumés. [30]"
     },
     {
       "verse": 21,
       "sub": false,
       "latin_lemma": "STANTES SINGULI IN LOCO SUO.",
       "lemma": "Chacun demeura en son poste.",
-      "text": "Ils n'avancèrent pas dans le milieu du camp, afin que les ennemis crussent que ces trois troupes n'étaient que de simples trompettes, pour animer et pour éclairer le reste de l'armée, qu'ils ne doutèrent pas qui ne fût entrée dans le camp ; ainsi ils prenaient tout ce qu'ils rencontraient. pour autant d'ennemis, et ils frappaient indifféremment tout ce qui s'opposait à leur fuite."
+      "text": "Ils n'avancèrent pas dans le milieu du camp, afin que les ennemis crussent que ces trois troupes n'étaient que de simples trompettes, pour animer et pour éclairer le reste de l'armée, qu'ils ne doutèrent pas qui ne fût entrée dans le camp ; ainsi ils prenaient tout ce qu'ils rencontraient pour autant d'ennemis, et ils frappaient indifféremment tout ce qui s'opposait à leur fuite."
     },
     {
       "verse": 22,
@@ -208,8 +208,8 @@
     {
       "seam": "page_0150>page_0151",
       "verse": 21,
-      "mode": "hyphen",
-      "before": "e camp ; ainsi ils prenaient tout ce qu'ils rencontraient.",
+      "mode": "splice",
+      "before": " dans le camp ; ainsi ils prenaient tout ce qu'ils rencon-",
       "after": "traient pour autant d'ennemis, et ils frappaient indiffére"
     },
     {
@@ -247,17 +247,17 @@
     {
       "key": "page_0143-a",
       "n": 3,
-      "text": "(a) גבעת מורה"
+      "text": " גבעת מורה"
     },
     {
       "key": "page_0143-b",
       "n": 4,
-      "text": "(b) _Deut._ XX. 8."
+      "text": " _Deut._ XX. 8."
     },
     {
       "key": "page_0143-c",
       "n": 5,
-      "text": "(c) _Livius l._ 29."
+      "text": " _Livius l._ 29."
     },
     {
       "key": "page_0144-a",
@@ -282,17 +282,17 @@
     {
       "key": "page_0145-a",
       "n": 10,
-      "text": "Macrob. l. 2. c. 2. Poſt Mutinenſem fugam quærentibus quid ageret Antonius, reſpondiſſe familiaris ejus ferebatur; quod canis in Ægypto: Bibit & fugit: quoniam in illis regionibus conſtat canes raptu crocodilorum exterritos currere & bibere."
+      "text": "Macrob. l. 2. c. 2. Post Mutinensem fugam quærentibus quid ageret Antonius, respondisse familiaris ejus ferebatur; quod canis in Ægypto: Bibit et fugit: quoniam in illis regionibus constat canes raptu crocodilorum exterritos currere et bibere."
     },
     {
       "key": "page_0145-b",
       "n": 11,
-      "text": "Ita Joſeph l. 5. Antiq. c. 8. Theodoret qu. 15. Munſt."
+      "text": "Ita Joseph l. 5. Antiq. c. 8. Theodoret qu. 15. Munst."
     },
     {
       "key": "page_0145-c",
       "n": 12,
-      "text": "Ita Serar. Bonfr. Lyr. Arias, &c."
+      "text": "Ita Serar. Bonfr. Lyr. Arias, etc."
     },
     {
       "key": "page_0145-d",
@@ -322,12 +322,12 @@
     {
       "key": "page_0147-b",
       "n": 18,
-      "text": "חנה צלול לחם שעורים מתהפך במחנה מדין\n133 70. μαχλη Αρτε τ8 κριθινε κυλιομ[ILLEGIBLE] εις τ[ILLEGIBLE] παρεμβολην, &c."
+      "text": "חנה צלול לחם שעורים מתהפך במחנה מדין\n133 70. μαχλη Αρτε τ8 κριθινε κυλιομ[ILLEGIBLE] εις τ[ILLEGIBLE] παρεμβολην, etc."
     },
     {
       "key": "page_0147-c",
       "n": 19,
-      "text": "לחם _panis, & bellum gerere._ Dans la langue Grecque on dit ſouvent Αρτον εσθιειν, manger du pain, pour marquer dîner, ou ſe préparer à dîner, quoique εσθιειν ſignifie, s'armer."
+      "text": "לחם _panis, et bellum gerere._ Dans la langue Grecque on dit souvent Αρτον εσθιειν, manger du pain, pour marquer dîner, ou se préparer à dîner, quoique εσθιειν signifie, s'armer."
     },
     {
       "key": "page_0147-d",
@@ -347,7 +347,7 @@
     {
       "key": "page_0148-c",
       "n": 23,
-      "text": "Carmine advers. Marcion. l. 3.\nHoc etenim signo praedonum stravit acervos,\nCongressus populo Christi, sine milite multo,\nTrecenteno equite, numerus Tau, littera graeca,\nArmatis facibusque & cornibus ore canentum."
+      "text": "Carmine advers. Marcion. l. 3.\nHoc etenim signo praedonum stravit acervos,\nCongressus populo Christi, sine milite multo,\nTrecenteno equite, numerus Tau, littera graeca,\nArmatis facibusque et cornibus ore canentum."
     },
     {
       "key": "page_0149-a",
@@ -362,27 +362,27 @@
     {
       "key": "page_0150-a",
       "n": 26,
-      "text": "(a) Jérémie 2,19. ראש אשמרות"
+      "text": " Jérémie 2,19. ראש אשמרות"
     },
     {
       "key": "page_0150-b",
       "n": 27,
-      "text": "(b) Exode 14,24. אשמרת הבקר"
+      "text": " Exode 14,24. אשמרת הבקר"
     },
     {
       "key": "page_0150-c",
       "n": 28,
-      "text": "(c) Matthieu 14,25. Marc 6,48."
+      "text": " Matthieu 14,25. Marc 6,48."
     },
     {
       "key": "page_0150-d",
       "n": 29,
-      "text": "(d) אך הקם הקימו את השמרים"
+      "text": " אך הקם הקימו את השמרים"
     },
     {
       "key": "page_0150-e",
       "n": 30,
-      "text": "(e) Vide Grot. hic. & Frontin. lib. 2, c. 4. Stratag. & Polyen. l. 2, § 7."
+      "text": " Vide Grot. hic. et Frontin. lib. 2, c. 4. Stratag. et Polyen. l. 2, § 7."
     },
     {
       "key": "page_0151-a",
@@ -438,85 +438,6 @@
       "key": "page_0152-g",
       "n": 41,
       "text": "Aggée 2,17."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0142",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0143",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0144",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0145",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0146",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0147",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0148",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0149",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0150",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0151",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0152",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

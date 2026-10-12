@@ -44,14 +44,14 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PROPTER VIAS DOMINI.",
       "lemma": "Son cœur étant rempli de confiance, à cause de l'observation des préceptes du Seigneur.",
       "text": "Josaphat se sentit plein de force, et de hardiesse pour entreprendre la réforme des mœurs de son peuple, et pour bannir l'idolâtrie de ses États, parce qu'il observait les Lois du Seigneur. Il se crut invincible avec le secours du Seigneur ; et il ne douta point de ce secours, n'ayant pas manqué de fidélité au service de son Dieu. Rien n'est plus intrépide qu'une bonne conscience. _Si cor nostrum non arguat nos, fiduciam habemus apud Deum._ [4]"
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ETIAM EXCELSA ET LUCOS DE JUDA ABSTULIT.",
       "lemma": "Il fit abattre dans Juda tous les hauts lieux.",
       "text": "Cela paraît contraire à ce qu'on lit dans les livres des Rois, [5] et ci-après, [6] qu'il ne démolit pas les hauteurs de Juda : _Verumtamen excelsa non abstulit, et adhuc populus non direxerat cor suum ad Dominum._ Voyez notre Commentaire sur les livres des Rois."
@@ -93,7 +93,7 @@
     },
     {
       "verse": 12,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "URBESQUE MURATAS.",
       "lemma": "Des villes fermées de murailles.",
       "text": "Plusieurs traduisent l'Hébreu [18] par : _Des villes de magasins._ Voyez ci-devant Chap. xv. 4. et Exod. I. II."
@@ -121,7 +121,7 @@
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET CUM EO TENENTIUM ARCUM ET CLYPEUM.",
       "lemma": null,
       "text": "Armés d’arcs, et de boucliers. L’Hébreu à la lettre : [21] _Qui baisent_, ou qui embrassent l’arc, et le bouclier. Qui appliquent l’arc auprès de leur visage pour le bander et le tirer."
@@ -131,7 +131,7 @@
       "sub": false,
       "latin_lemma": "HI OMNES ERANT AD MANUM REGIS.",
       "lemma": "Toutes ces troupes étaient auprès de la personne du Roi.",
-      "text": "Est-il croyable que Josaphat entretint auprès de sa personne, onze cent soixante mille hommes, sans compter les troupes qu’il avait dans ses places ? L’Hébreu peut recevoir un autre sens, qui paraît plus naturel : [22] _Tous ceux-là servaient le Roi, sans ceux qu’il mettait dans les villes fortes de Juda._ Ainsi je voudrais traduire la Vulgate de cette sorte: _Toutes ces troupes étaient sous les ordres du Roi, sans celles qu’il avait dans ses places._ Il pouvait mettre sur pied onze cent soixante mille hommes de ses sujets, sans ses garnisons, et ses troupes réglées. Il y a beaucoup d’apparence qu’il avait toujours auprès de sa personne un grand nombre de ces troupes, qui le servaient par quartier, comme on a vu sous David, et sous Salomon. [23] Si ce nombre de troupes surprend, on doit faire attention que les États du Roi de Juda sous Josaphat, ne doivent point être bornés dans les limites de Juda, et de Benjamin. Ils s’étendaient dans les tribus de Dan, d’Ephraïm, et de Siméon, et dans l’Arabie, et le pays des Philistins ; en un mot, depuis Bersabée, et depuis Péluse, jusqu’aux montagnes d’Ephraïm ; [24] et depuis le Jourdain, jusqu’à la Méditerranée. Le pays était parfai-"
+      "text": "Est-il croyable que Josaphat entretint auprès de sa personne, onze cent soixante mille hommes, sans compter les troupes qu’il avait dans ses places ? L’Hébreu peut recevoir un autre sens, qui paraît plus naturel : [22] _Tous ceux-là servaient le Roi, sans ceux qu’il mettait dans les villes fortes de Juda._ Ainsi je voudrais traduire la Vulgate de cette sorte: _Toutes ces troupes étaient sous les ordres du Roi, sans celles qu’il avait dans ses places._ Il pouvait mettre sur pied onze cent soixante mille hommes de ses sujets, sans ses garnisons, et ses troupes réglées. Il y a beaucoup d’apparence qu’il avait toujours auprès de sa personne un grand nombre de ces troupes, qui le servaient par quartier, comme on a vu sous David, et sous Salomon. [23] Si ce nombre de troupes surprend, on doit faire attention que les États du Roi de Juda sous Josaphat, ne doivent point être bornés dans les limites de Juda, et de Benjamin. Ils s’étendaient dans les tribus de Dan, d’Ephraïm, et de Siméon, et dans l’Arabie, et le pays des Philistins ; en un mot, depuis Bersabée, et depuis Péluse, jusqu’aux montagnes d’Ephraïm ; [24] et depuis le Jourdain, jusqu’à la Méditerranée. Le pays était parfaitement cultivé, et peuplé au-delà de ce qu'on peut s'imaginer. Il fallait même qu'il y eût beaucoup de commerce ; car quelque abondant qu'ait été ce terrain, il n'aurait pu nourrir un si grand nombre de peuple. Dans un pays qui donne douze cent mille hommes capables de porter les armes, il doit y avoir près de six millions de personnes : or le Royaume de Juda pris dans les limites que nous lui avons données, ne paraît pas avoir pu fournir à tout cela, sans les secours de ses voisins. Il y avait autrefois dans la seule ville de Rome jusqu'à trois ou quatre millions de personnes. On comptait dans Carthage lorsqu'elle fut assiégée par Scipion, jusqu'à sept cent mille hommes ; et on dit qu'il y a dans la ville de Caire jusqu'à sept millions d'âmes, à la Chine jusqu'à deux cents millions d'hommes."
     }
   ],
   "joins": [
@@ -162,6 +162,13 @@
       "mode": "flow",
       "before": "",
       "after": "Armés d’arcs, et de boucliers. L’Hébreu à la lettre : ^{(a"
+    },
+    {
+      "seam": "page_0113>page_0114",
+      "verse": 19,
+      "mode": "splice",
+      "before": "e Jourdain, jusqu’à la Méditerranée. Le pays était parfai-",
+      "after": "tement cultivé, et peuplé au-delà de ce qu'on peut s'imagi"
     }
   ],
   "pages_used": [
@@ -171,7 +178,8 @@
     "page_0110",
     "page_0111",
     "page_0112",
-    "page_0113"
+    "page_0113",
+    "page_0114"
   ],
   "footnotes": [
     {
@@ -187,7 +195,7 @@
     {
       "key": "page_0108-b",
       "n": 3,
-      "text": "Vide 1. Reg. x. 27. Filii Belial dixerunt : Num ſalvare nos poterit iſte ? Et deſpexerunt eum, & non attulerunt ei munera."
+      "text": "Vide 1. Reg. x. 27. Filii Belial dixerunt : Num salvare nos poterit iste ? Et despexerunt eum, et non attulerunt ei munera."
     },
     {
       "key": "page_0109-a",
@@ -197,7 +205,7 @@
     {
       "key": "page_0109-b",
       "n": 5,
-      "text": "3. Reg. XXII. 43. Verumtamen excelſa non abſtulit."
+      "text": "3. Reg. XXII. 43. Verumtamen excelsa non abstulit."
     },
     {
       "key": "page_0109-c",
@@ -212,22 +220,22 @@
     {
       "key": "page_0110-a",
       "n": 8,
-      "text": "Vide 2. Reg. VIII. 2. & Pſal. LIX. 10."
+      "text": "Vide 2. Reg. VIII. 2. et Psal. LIX. 10."
     },
     {
       "key": "page_0111-a",
       "n": 9,
-      "text": "1. Par. XXI. 18. _Arabes qui conſines ſunt Æthiopibus._ L’Hébreu : _Qui ſont à la main_, ou _à côté des Cuſchim._"
+      "text": "1. Par. XXI. 18. _Arabes qui consines sunt Æthiopibus._ L’Hébreu : _Qui sont à la main_, ou _à côté des Cuschim._"
     },
     {
       "key": "page_0111-b",
       "n": 10,
-      "text": "Voyez Iſaï. XXI. 13. & Jerem XXV. 24."
+      "text": "Voyez Isaï. XXI. 13. et Jerem XXV. 24."
     },
     {
       "key": "page_0111-c",
       "n": 11,
-      "text": "3. Reg. X. 15. & 2. Par. IX 14. Pſal. XCI. 11."
+      "text": "3. Reg. X. 15. et 2. Par. IX 14. Psal. XCI. 11."
     },
     {
       "key": "page_0111-d",
@@ -247,17 +255,17 @@
     {
       "key": "page_0111-g",
       "n": 15,
-      "text": "Vide & 2. Par. XVII. 12. οἰκοδομειν ἐν τῆ Ι’υδαίᾳ οἰκήσεις."
+      "text": "Vide et 2. Par. XVII. 12. οἰκοδομειν ἐν τῆ Ι’υδαίᾳ οἰκήσεις."
     },
     {
       "key": "page_0111-h",
       "n": 16,
-      "text": "2. Eſdr. 1. 1. Dan. VIII. 2. Eſther. I. 2. &c."
+      "text": "2. Esdr. 1. 1. Dan. VIII. 2. Esther. I. 2. etc."
     },
     {
       "key": "page_0111-i",
       "n": 17,
-      "text": "_Jeron. ad Principiam ; cum Baquis ſit verbum ἐγχώριον Paleſtinæ, & uſque ho ie ſutur ex omni parte conſcripta & in modum ædificatæ turrium, Baquis appellantur._"
+      "text": "_Jeron. ad Principiam ; cum Baquis sit verbum ἐγχώριον Palestinæ, et usque ho ie sutur ex omni parte conscripta et in modum ædificatæ turrium, Baquis appellantur._"
     },
     {
       "key": "page_0112-a",
@@ -293,57 +301,6 @@
       "key": "page_0113-d",
       "n": 24,
       "text": "Vide infra c. XIX. 4."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0107",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0108",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0109",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0110",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0111",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0112",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0113",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

@@ -254,6 +254,24 @@
       "source_pages": [
         "page_0089.json"
       ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Omnis masculus de genere Sacerdotali, vescetur de carnibus ejus, quia sanctum sanctorum est.",
+      "french": "Tout mâle de la race sacerdotale, mangera de la chair de cette hostie, parce qu'elle est très sainte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Hostia enim quae caeditur pro peccato, cujus sanguis infertur in Tabernaculum testimonii, ad expiandum in Sanctuario, non comeditur, sed comburetur igni.",
+      "french": "Et on ne mangera pas de l'hostie qui est immolée pour le péché, et dont on porte le sang dans le Tabernacle du témoignage, pour faire l'expiation dans le Sanctuaire; mais elle sera brûlée au feu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
     }
   ]
 }

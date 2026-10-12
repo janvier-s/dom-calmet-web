@@ -44,7 +44,7 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET EXEMPLUM SUM CORAM EIS.",
       "lemma": "Il m'a rendu comme la fable du peuple ; je suis devenu à leurs yeux un exemple de la justice de Dieu.",
       "text": "Mes faux amis me regardent comme un malheureux, devenu par sa faute la fable du peuple, et digne d'être cité pour exemple de la juste sévérité de Dieu. Quand ils veulent marquer un homme frappé de Dieu pour ses péchés, et humilié par un effet de la juste vengeance, ils citent l'exemple de Job. Voilà la justice qu'on me rend. L'Hébreu : [10] _Il m'a exposé à la vue des peuples comme un proverbe, une fable, un sujet de raillerie ; et je suis un sujet de chansons devant eux ; ou, je suis comme leur cymbale, comme leur instrument de musique, et de divertissement._ Ils se divertissent à conter ma fortune, ma chute, et mes aventures, comme on conte les choses extraordinaires, et les événements fameux sur les instruments de musique. Jérémie parlant en la personne de son peuple captif, a dit dans le même sens : _je suis leur chanson tout le jour_ : [11] _Factus sum in derisum omni populo, canticum eorum totâ die._ Les Septante : [12] _Vous m'avez mis comme un homme dont tout le monde parle ; je suis devenu le sujet de leur risée._"
@@ -71,8 +71,8 @@
       "text": "Job parle ici avec autorité. Il exhorte ses amis à réformer leur jugement, et à mieux prendre leur parti ; et il s'engage à leur montrer, s'ils veulent l'écouter sans préjugé, que seul d'entre eux n'a encore raisonné juste sur son sujet, et qu'ils manquent de sagesse, et de lumière. On peut aussi le prendre comme la conclusion de ce qu'il a dit jusqu'ici. Approchez-vous donc, et changez de sentiment ; car jusqu'ici je n'ai trouvé aucun sage parmi vous. [15] Cela revient mieux à ce qui suit, puisque dans le reste du discours il ne parle plus à ses amis, comme il l'aurait dû faire, s'il eût voulu leur montrer qu'ils manquaient de sagesse."
     },
     {
-      "verse": 10,
-      "sub": true,
+      "verse": 11,
+      "sub": false,
       "latin_lemma": "COGITATIONES MEÆ DISSIPATÆ SUNT, TORQUENTES COR MEUM.",
       "lemma": "Toutes les pensées que j'avais ayant été renversées, ne servent qu'à me déchirer le cœur.",
       "text": "Les projets que j'avais formés pour l'établissement de ma famille; les desseins que j'avais pris, dans l'espérance d'une longue vie; tout cela est évanoui. Il ne me reste que la douleur de me voir dépouillé, méprisé, accablé de maux, abandonné, insulté de mes meilleurs amis. L'Hébreu : [16]\nMes pensées, qui occupaient mon cœur, sont dissipées, évanouies, renversées. Les Septante : [17] _Les nerfs de mon cœur sont brisés._ Ce qui soutenait mon cœur, et mon estomac, est renversé, et rompu. Je ne me sens plus ni vigueur, ni force."
@@ -181,7 +181,7 @@
     {
       "key": "page_0232-c",
       "n": 6,
-      "text": "Voyez ci-devant XVI. 4. _Atque utinam eſſes anima veſtra, pro anima mea._"
+      "text": "Voyez ci-devant XVI. 4. _Atque utinam esses anima vestra, pro anima mea._"
     },
     {
       "key": "page_0232-d",
@@ -191,7 +191,7 @@
     {
       "key": "page_0233-a",
       "n": 8,
-      "text": "[UNCERTAIN HEBREW] _id iſt iudæis irridetur. Complut. O'q'Sαμλμ[ILLEGIBLE]_"
+      "text": "[UNCERTAIN HEBREW] _id ist iudæis irridetur. Complut. O'q'Sαμλμ[ILLEGIBLE]_"
     },
     {
       "key": "page_0233-b",
@@ -206,7 +206,7 @@
     {
       "key": "page_0234-b",
       "n": 11,
-      "text": "Thren. III. 14. Vide & Jerem. XXIV. 7."
+      "text": "Thren. III. 14. Vide et Jerem. XXIV. 7."
     },
     {
       "key": "page_0234-c",
@@ -246,63 +246,12 @@
     {
       "key": "page_0237-a",
       "n": 19,
-      "text": "_Mercer. Menoch. Tÿrin. Oleaſt. alii paſſim._"
+      "text": "_Mercer. Menoch. Tÿrin. Oleast. alii passim._"
     },
     {
       "key": "page_0237-b",
       "n": 20,
       "text": "_Horat._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0231",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0232",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0233",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0234",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0235",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0236",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0237",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

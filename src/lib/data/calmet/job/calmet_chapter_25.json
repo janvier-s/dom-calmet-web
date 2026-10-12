@@ -65,7 +65,7 @@
     {
       "key": "page_0321-b",
       "n": 5,
-      "text": "_Pſal._ XVII. 14. 35. 2. _Reg._ XXII. 1. _Judic._ 60. _Job._ XXXVIII. 22. 34. _Pſal._ CXLVI. 4."
+      "text": "_Psal._ XVII. 14. 35. 2. _Reg._ XXII. 1. _Judic._ 60. _Job._ XXXVIII. 22. 34. _Psal._ CXLVI. 4."
     },
     {
       "key": "page_0321-c",
@@ -75,23 +75,7 @@
     {
       "key": "page_0321-d",
       "n": 7,
-      "text": "_Pſal._ IV. 7."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0320",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0321",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "_Psal._ IV. 7."
     }
   ],
   "missing_footnotes": []

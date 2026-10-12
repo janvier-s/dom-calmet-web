@@ -23,7 +23,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ATHALIA REGNAVIT SUPER TERRAM.",
       "lemma": "Athalie régnait sur la terre de Juda.",
       "text": "Athalie ayant, comme elle croyait, éteint la race royale de Juda, par la mort de tous les princes de la famille de David, s'empara du gouvernement sans aucun droit, et s'y maintint par la force et par l'intrigue. Les femmes en général étaient exclues du gouvernement. Dieu avait ordonné que les Israélites prendraient du nombre de leurs frères, celui qu'ils devaient établir roi. Athalie était déjà exclue de la royauté par cet endroit ; elle l'était encore, parce qu'elle n'était ni de la tribu de Juda, ni de la race de David, à qui Dieu avait promis le royaume. [7] Elle ne laissa pas de régner pendant six ans."
@@ -44,10 +44,10 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CUSTODIETIS CUSTODIAS DOMÛS MESSA.",
       "lemma": "Vous ferez garde à la porte de Messa.",
-      "text": "Cette maison de Messa ne nous est guère moins inconnue que la porte de _Sur_, dont nous venons de parler. Quelques-uns la prennent pour le lieu où l'on jetait les cendres qu'on ôtait de l'autel. Nous croyons que c'est la même que _Musach_, dont il est parlé ci-après au chapitre xvi. 18. C'était apparemment quelque édifice, ou quelque couvert joignant le Temple, et au dehors, ou au dedans du parvis du peuple. Entre Musach, et Mesach, il n'y a dans l'hébreu qu'une assez petite différence.[11]"
+      "text": "Cette maison de Messa ne nous est guère moins inconnue que la porte de _Sur_, dont nous venons de parler. Quelques-uns la prennent pour le lieu où l'on jetait les cendres qu'on ôtait de l'autel. Nous croyons que c'est la même que _Musach_, dont il est parlé ci-après au chapitre xvi. 18. C'était apparemment quelque édifice, ou quelque couvert joignant le Temple, et au-dehors, ou au-dedans du parvis du peuple. Entre Musach, et Mesach, il n'y a dans l'hébreu qu'une assez petite différence.[11]"
     },
     {
       "verse": 7,
@@ -82,14 +82,14 @@
       "sub": false,
       "latin_lemma": "PRODUXITQUE FILIUM REGIS, ET POSUIT SUPER EUM DIADEMA ET TESTIMONUM.",
       "lemma": "Le grand Prêtre mit ensuite le diadème et le livre de la Loi sur la tête du fils du Roi, qu'il avait amené.",
-      "text": "Il y en a qui croient qu'on lui mit le diadème sur la tête, et le livre de la Loi à la main, comme un sceptre ; c'était, dit-on, un rouleau de vélin, sur lequel était écrit l'Article du Deutéronome, qui regarde l'élection et les devoirs des Rois ;[20] ce vélin ainsi roulé était assez approchant d'un sceptre ou d'un bâton. D'autres veulent qu'on lui ait mis une couronne sur la tête, dans laquelle étaient enchâssés par devant les _phylactères_, ou les paroles de la Loi, que chaque Israélite devait porter sur le front. [21] D'autres [22] croient qu'on lui mit le diadème sur la tête, et qu'on le revêtit des ornements Royaux. Ils traduisent : _On lui donna la couronne, et l'ornement._ Josèphe dit que lui ayant mis la couronne Royale, Joïda lui donna l'onction, et le déclara Roi. [23] Mais nous prenons le Texte à la lettre ; on mit sur la tête du jeune Roi le diadème, ou bandeau Royal, qui lui ceignait le front ; ensuite on imposa sur lui le livre de la Loi, à peu près de même que Job aurait souhaité de mettre sur sa têtete la sentence de son souverain Juge : [24] _Plût à Dieu que mon Juge écrivît ma sentence, afin que je la portasse sur mon épaule, et que je la misse sur ma tête comme une couronne._ Les Orientaux, lorsqu'ils reçoivent une lettre de quelque personne pour qui ils ont un respect extraordinaire, ils la portent à leur tête avant que de l'ouvrir. [25] On a déjà remarqué ailleurs la coutume des rois d'Orient de porter le diadème. L'Amalécite apporta à David le diadème du roi Saül; [26] David se fit faire une couronne, de celle qu'il avait prise à Melchom Dieu des Ammonites. [27] L'épouse invite ses compagnes à venir voir le roi Salomon, avec la belle couronne que la reine sa mère lui avait donnée. [28]"
+      "text": "Il y en a qui croient qu'on lui mit le diadème sur la tête, et le livre de la Loi à la main, comme un sceptre ; c'était, dit-on, un rouleau de vélin, sur lequel était écrit l'Article du Deutéronome, qui regarde l'élection et les devoirs des Rois ;[20] ce vélin ainsi roulé était assez approchant d'un sceptre ou d'un bâton. D'autres veulent qu'on lui ait mis une couronne sur la tête, dans laquelle étaient enchâssés par devant les _phylactères_, ou les paroles de la Loi, que chaque Israélite devait porter sur le front. [21] D'autres [22] croient qu'on lui mit le diadème sur la tête, et qu'on le revêtit des ornements Royaux. Ils traduisent : _On lui donna la couronne, et l'ornement._ Josèphe dit que lui ayant mis la couronne Royale, Joïda lui donna l'onction, et le déclara Roi. [23] Mais nous prenons le Texte à la lettre ; on mit sur la tête du jeune Roi le diadème, ou bandeau Royal, qui lui ceignait le front ; ensuite on imposa sur lui le livre de la Loi, à peu près de même que Job aurait souhaité de mettre sur sa têtete la sentence de son souverain Juge : [24] _Plût à Dieu que mon Juge écrivît ma sentence, afin que je la portasse sur mon épaule, et que je la misse sur ma tête comme une couronne._ Les Orientaux, lorsqu'ils reçoivent une lettre de quelque personne pour qui ils ont un respect extraordinaire, la portent à leur tête avant de l'ouvrir. [25] On a déjà remarqué ailleurs la coutume des rois d'Orient de porter le diadème. L'Amalécite apporta à David le diadème du roi Saül ; [26] David se fit faire une couronne, de celle qu'il avait prise à Melchom, dieu des Ammonites. [27] L'épouse invite ses compagnes à venir voir le roi Salomon, avec la belle couronne que la reine sa mère lui avait donnée. [28]"
     },
     {
       "verse": 12,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FECERUNT EUM REGEM ET UNXERUNT.",
       "lemma": "Ils le sacrèrent. Ils lui donnèrent l'onction royale.",
-      "text": "Ce fut sans doute le grand prêtre qui fit la cérémonie de son sacre, et on y employa l'huile sacrée, qui se conservait dans le Temple. Ce n'était point la coutume de donner l'onction à tous les rois de Juda; cela ne se faisait que lorsqu'il y avait quelque difficulté sur leur élection, ou sur leur possession. On oignit Salomon, par exemple, à cause des prétentions d'Adonias : [29] on oint Joas, à cause de l'usurpation d'Athalie."
+      "text": "Ce fut sans doute le grand prêtre qui fit la cérémonie de son sacre, et on y employa l'huile sacrée, qui se conservait dans le Temple. Ce n'était point la coutume de donner l'onction à tous les rois de Juda ; cela ne se faisait que lorsqu'il y avait quelque difficulté sur leur élection, ou sur leur possession. On oignit Salomon, par exemple, à cause des prétentions d'Adonias : [29] on oignit Joas, à cause de l'usurpation d'Athalie."
     },
     {
       "verse": 14,
@@ -117,7 +117,7 @@
       "sub": false,
       "latin_lemma": "PEPICIT JOÏADA FOEDUS INTER DOMINUM ET INTER REGEM, ET INTER POPULUM.",
       "lemma": "Joiada fit alliance entre le Seigneur, le Roi, et le peuple.",
-      "text": "Joiada, comme médiateur de cette alliance, engagea le Roi à promettre à Dieu une fidélité inviolable, conformément à ses Lois,[34] et un attachement fidèle à son culte, et à promettre au peuple d'observer les Lois du Royaume, et de défendre l'État contre ses ennemis, tandis qu'il lui demeurerait soumis et fidèle: enfin, il obligea les principaux du peuple de promettre réciproquement au Roi, au nom de la République, une obéissance parfaite et conforme aux ordres du Seigneur, et aux Lois de l'État, de faire une nouvelle profession de demeurer toujours fidèle au Seigneur, suivant les termes de l'alliance qu'il avait faite autrefois avec leurs pères au Sinaï.[35]"
+      "text": "Joiada, comme médiateur de cette alliance, engagea le roi à promettre à Dieu une fidélité inviolable, conformément à ses lois,[34] et un attachement fidèle à son culte, et à promettre au peuple d'observer les lois du royaume, et de défendre l'État contre ses ennemis, tandis qu'il lui demeurerait soumis et fidèle : enfin, il obligea les principaux du peuple de promettre réciproquement au roi, au nom de la République, une obéissance parfaite et conforme aux ordres du Seigneur, et aux lois de l'État, de faire une nouvelle profession de demeurer toujours fidèle au Seigneur, suivant les termes de l'alliance qu'il avait faite autrefois avec leurs pères au Sinaï.[35]"
     },
     {
       "verse": 18,
@@ -128,7 +128,7 @@
     },
     {
       "verse": 18,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "POSUIT SACERDOS CUSTODIAS IN DOMO DOMINI.",
       "lemma": "Le Pontife mit des gardes à la maison du Seigneur.",
       "text": "Il rétablit l'ancien ordre d'avoir des gardes à l'entrée du Temple, afin qu'il n'y entrât rien de souillé. Voyez les Paralipomènes. [38] Sous les règnes précédents, on n'avait pu observer si librement, ni si facilement l'ordre des cérémonies dans le Temple, à cause du peu de respect des princes pour la religion."
@@ -138,11 +138,11 @@
       "sub": false,
       "latin_lemma": "TULIT QUOQUE CENTURIONES, ET CERETHI, ET PHELETHI LEGIONES.",
       "lemma": "Il prit avec lui les Centeniers, et les légions de Céreth, et de Phéleth.",
-      "text": "L'Hébreu [39] ne parle pas des Cérethiens ni des Phélethiens ; il met simplement les _Centeniers_, ou les Princes de cent, _les béliers et les coureurs_. Nous avons déjà vu ces termes ci-devant au ℣. 4. de ce Chapitre. On ne trouve rien des Cérethiens et des Phélethiens dans le Texte original des Livres des Rois, depuis le règne de David."
+      "text": "L'Hébreu [39] ne parle pas des Cérethiens ni des Phélethiens ; il met simplement les _Centeniers_, ou les princes de cent, _les béliers et les coureurs_. Nous avons déjà vu ces termes ci-devant au ℣. 4. de ce chapitre. On ne trouve rien des Cérethiens et des Phélethiens dans le texte original des livres des Rois, depuis le règne de David."
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SEDIT SUPER THRONUM REGUM.",
       "lemma": "Le Roi fut assis sur le trône des Rois de Juda.",
       "text": "Sur le magnifique trône d'ivoire que Salomon avait fait pour lui, et pour les Rois ses successeurs. [40] Athalie était entrée dans le Temple apparemment par la porte du midi, et elle en sortit par la même porte. Joas fut conduit au Palais par la porte des gardes, c'est-à-dire, par la porte occidentale."
@@ -208,8 +208,8 @@
     {
       "seam": "page_0163>page_0164",
       "verse": 16,
-      "mode": "hyphen",
-      "before": "emple, ils la laissèrent sortir, ils ouvrirent leurs rangs",
+      "mode": "flow",
+      "before": "s le Temple, ils la laissèrent sortir, ils ouvrirent leurs",
       "after": "rangs pour lui donner passage, et dès qu'à la porte aux ch"
     },
     {
@@ -243,7 +243,7 @@
     {
       "key": "page_0155-b",
       "n": 2,
-      "text": "Joſeph. Antiq. l. 9. c. 7. & Ο'ζολίας ἱερεως & ἀδελφη Ἰωσαβεθὴ ὄνομα"
+      "text": "Joseph. Antiq. l. 9. c. 7. et Ο'ζολίας ἱερεως et ἀδελφη Ἰωσαβεθὴ ὄνομα"
     },
     {
       "key": "page_0155-c",
@@ -258,22 +258,22 @@
     {
       "key": "page_0155-e",
       "n": 5,
-      "text": "Lyr. Tir. Mar. Cornel. Vat. Piſc."
+      "text": "Lyr. Tir. Mar. Cornel. Vat. Pisc."
     },
     {
       "key": "page_0155-f",
       "n": 6,
-      "text": "Ita Eraſm. & Baber. & Mart. ex pſeudo-Philone Annii. Vide Sanst. ad 4. Reg. XIV. 18. & Can. l. XI. de locis,"
+      "text": "Ita Erasm. et Baber. et Mart. ex pseudo-Philone Annii. Vide Sanst. ad 4. Reg. XIV. 18. et Can. l. XI. de locis,"
     },
     {
       "key": "page_0156-a",
       "n": 7,
-      "text": "Geneſ. XLIV. v. 6. & 2. Reg. VIII. II."
+      "text": "Genes. XLIV. v. 6. et 2. Reg. VIII. II."
     },
     {
       "key": "page_0157-a",
       "n": 8,
-      "text": "2. Par. XXIII. 1. '2. _Joïada aſſumpſit Centuriones, & iniit cum iis fœdus ; qui circumeuntes Judam, congregaverunt Levitas de cunctis urbibus Juda, & principes familiarum Iſraël, veneruntque in Jeruſalem._"
+      "text": "2. Par. XXIII. 1. '2. _Joïada assumpsit Centuriones, et iniit cum iis fœdus ; qui circumeuntes Judam, congregaverunt Levitas de cunctis urbibus Juda, et principes familiarum Israël, veneruntque in Jerusalem._"
     },
     {
       "key": "page_0157-b",
@@ -283,7 +283,7 @@
     {
       "key": "page_0158-a",
       "n": 10,
-      "text": "2. Par. XXIII. 5. בשער היסוד. & 4. Reg. XI. 6. בשער סור."
+      "text": "2. Par. XXIII. 5. בשער היסוד. et 4. Reg. XI. 6. בשער סור."
     },
     {
       "key": "page_0159-a",
@@ -293,17 +293,17 @@
     {
       "key": "page_0159-c",
       "n": 12,
-      "text": "Ita Jonath. Syr. Arab. & Interpr. plerique."
+      "text": "Ita Jonath. Syr. Arab. et Interpr. plerique."
     },
     {
       "key": "page_0160-a",
       "n": 13,
-      "text": "Joſeph. l. 6. de bello c. 18. p. 916. c. d. Et Antiq. l. 15. c. 14. p. 545. D. E."
+      "text": "Joseph. l. 6. de bello c. 18. p. 916. c. d. Et Antiq. l. 15. c. 14. p. 545. D. E."
     },
     {
       "key": "page_0160-b",
       "n": 14,
-      "text": "Ezech. XLI. 9. 10. Et Joſeph. Antiq. l. 8. c. 2. p. 262."
+      "text": "Ezech. XLI. 9. 10. Et Joseph. Antiq. l. 8. c. 2. p. 262."
     },
     {
       "key": "page_0160-c",
@@ -313,12 +313,12 @@
     {
       "key": "page_0160-d",
       "n": 16,
-      "text": "1. Par. XXVI. 22. Ipſe Selemiih & fratres ejus ſuper theſauros Sanctorum, quæ ſanctificavit David Rex, & principes familiarum, & tribuni, & Centuriones, & duces exercitûs."
+      "text": "1. Par. XXVI. 22. Ipse Selemiih et fratres ejus super thesauros Sanctorum, quæ sanctificavit David Rex, et principes familiarum, et tribuni, et Centuriones, et duces exercitûs."
     },
     {
       "key": "page_0160-e",
       "n": 17,
-      "text": "[UNCERTAIN HEBREW] Et dedit Sacerdos Centurionibus haſtas & ſcuta Regis David."
+      "text": "[UNCERTAIN HEBREW] Et dedit Sacerdos Centurionibus hastas et scuta Regis David."
     },
     {
       "key": "page_0160-f",
@@ -328,7 +328,7 @@
     {
       "key": "page_0160-g",
       "n": 19,
-      "text": "Joſeph. Antiq. l. 9. c. 7. ἀνέῳξε δὲ Ἰώδαδος τὸν ἐν τῷ ἱερῷ ὁπλοθήκην, ἐν ᾗ Δαβίδης κατεσκεύασε."
+      "text": "Joseph. Antiq. l. 9. c. 7. ἀνέῳξε δὲ Ἰώδαδος τὸν ἐν τῷ ἱερῷ ὁπλοθήκην, ἐν ᾗ Δαβίδης κατεσκεύασε."
     },
     {
       "key": "page_0161-a",
@@ -338,7 +338,7 @@
     {
       "key": "page_0161-b",
       "n": 21,
-      "text": "Exod. XIII. 9. Erit quaſi monumentum ante oculos tuos. Ita Grot. ex Rabb."
+      "text": "Exod. XIII. 9. Erit quasi monumentum ante oculos tuos. Ita Grot. ex Rabb."
     },
     {
       "key": "page_0161-c",
@@ -348,7 +348,7 @@
     {
       "key": "page_0161-d",
       "n": 23,
-      "text": "Joſeph. loco cit. ἐπιθεὶς ἀυτῷ τὸν στέφανον τὸν βασιλικὸν, τῇ τῆς ἐλαίῳ χείσας l' ἀπέδειξε βασιλέα."
+      "text": "Joseph. loco cit. ἐπιθεὶς ἀυτῷ τὸν στέφανον τὸν βασιλικὸν, τῇ τῆς ἐλαίῳ χείσας l' ἀπέδειξε βασιλέα."
     },
     {
       "key": "page_0162-a",
@@ -358,7 +358,7 @@
     {
       "key": "page_0162-b",
       "n": 25,
-      "text": "Voyez Paul Luca, tom. 1. c. 8. Voyage du Levant, & Thevenot, c. 46. p. 121. Bernier, t. 1. Evénement des Etats du Mogol, p. 70. &c."
+      "text": "Voyez Paul Luca, tom. 1. c. 8. Voyage du Levant, et Thevenot, c. 46. p. 121. Bernier, t. 1. Evénement des Etats du Mogol, p. 70. etc."
     },
     {
       "key": "page_0162-c",
@@ -373,7 +373,7 @@
     {
       "key": "page_0162-e",
       "n": 28,
-      "text": "Cant. III. 3. _Videte Regem Salomonem in diademate, quo coronavit eum mater ſua._"
+      "text": "Cant. III. 3. _Videte Regem Salomonem in diademate, quo coronavit eum mater sua._"
     },
     {
       "key": "page_0162-f",
@@ -388,7 +388,7 @@
     {
       "key": "page_0163-a",
       "n": 31,
-      "text": "2. Par. VI. 13. & 4. Reg.XXIII. 3. Statitque Rex ſuper gradum."
+      "text": "2. Par. VI. 13. et 4. Reg.XXIII. 3. Statitque Rex super gradum."
     },
     {
       "key": "page_0163-b",
@@ -403,7 +403,7 @@
     {
       "key": "page_0164-a",
       "n": 34,
-      "text": "Deut. XVII. 16. & ſeq."
+      "text": "Deut. XVII. 16. et seq."
     },
     {
       "key": "page_0164-b",
@@ -413,7 +413,7 @@
     {
       "key": "page_0164-c",
       "n": 36,
-      "text": "3. Reg. XI. v. 7. Voyez auſſi 4. Reg. XXIII. 13."
+      "text": "3. Reg. XI. v. 7. Voyez aussi 4. Reg. XXIII. 13."
     },
     {
       "key": "page_0164-d",
@@ -423,7 +423,7 @@
     {
       "key": "page_0165-a",
       "n": 38,
-      "text": "2. Par. XXIII. 19. Conſtituit janitores in portis domûs Domini, ut non ingrederetur eam immundus in omni re."
+      "text": "2. Par. XXIII. 19. Constituit janitores in portis domûs Domini, ut non ingrederetur eam immundus in omni re."
     },
     {
       "key": "page_0165-b",
@@ -434,92 +434,6 @@
       "key": "page_0165-c",
       "n": 40,
       "text": "3. Reg. X. 18."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0154",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0155",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0156",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0157",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0158",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0159",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0160",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0161",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0162",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0163",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0164",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0165",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": [

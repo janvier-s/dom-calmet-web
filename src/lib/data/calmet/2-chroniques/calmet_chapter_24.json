@@ -16,7 +16,7 @@
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AD SARTA-TECTA TEMPLI... PER SINGULOS ANNOS.",
       "lemma": "Ramassez tous les ans dans tout Israël de l'argent pour les réparations du Temple. Allez dans tout le pays ordonner au peuple, d'apporter au Temple pour les réparations de ce saint Lieu, l'argent qu'ils doivent tous les ans au Seigneur; c'est-à-dire, le demi-sicle par tête, que Moïse avait ordonné à chaque Israélite, [2] et qu'on avait négligé de payer par le passé, sous les règnes précédents.",
       "text": ""
@@ -44,7 +44,7 @@
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UT IMPLERETUR.",
       "lemma": "Ils mirent l'argent dans le coffre du Seigneur, et ils y en jetèrent tant, qu'il en fut rempli.",
       "text": "L'Hébreu : [7] Ils y en jetèrent jusqu'à ce que ce fût fait. Jusqu'à ce que tous ceux qui en devaient apporter, y eussent mis. [8] Mais les Septante, le Syriaque, et la plupart des Interprètes suivent la Vulgate : Ils y en jetèrent jusqu'à ce que le coffre fût plein."
@@ -58,7 +58,7 @@
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VASA AD HOLOCAUSTA.",
       "lemma": "Des vaisseaux pour les holocaustes.",
       "text": "Plusieurs nouveaux Interprètes [10] traduisent l'Hébreu [11] par, un mortier, ou un pilon, ou une patère, [12] un plat."
@@ -121,7 +121,7 @@
     },
     {
       "verse": 25,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SED NON IN SEPULCHRIS REGUM.",
       "lemma": "Il fut enterré dans la ville de David, mais non pas dans les tombeaux des Rois.",
       "text": "C'est ainsi qu'on punissait après leur mort, les Princes dont la vie n'avait point été louable. Le peuple vengeait sur leurs corps morts, les injustices que leur autorité n'avait point permis de venger pendant leur vie. Les voyageurs [29] nous décrivent les tombeaux des Rois de Juda, comme quelque chose de merveilleux. Ils sont creusés dans le roc ; les portes qui les ferment sont un prodige de l'art. Elles ont six pieds de haut, plus de deux de large, et deux tiers d'épaisseur. Elles ont leurs panneaux, leurs moulures, et tout ce que les menuisiers les plus habiles y pourraient faire pour l'ornement, et pour la propreté. Elles sont du roc même, aussi bien que les pierres sur lesquelles elles tournent. Elles sont placées, et dressées avec tant d'industrie, qu'il est très difficile de comprendre comment ces portes, dont les deux pivots ajoutent chacun deux pouces à la hauteur de la porte, ont pu être emboîtées dans leurs trous, qu'elles remplissent partout sans laisser aucun vide. Ces portes sont d'une seule pièce, et les trous d'en haut, et d'en bas qu'elles remplissent, sont du même roc. Quelques-uns veulent même que les portes soient de la même pierre que le reste, ce qui paraît incompréhensible. Les chambres où les corps étaient placés, sont creusées dans le roc; elles sont larges et spacieuses, avec une beauté proportionnée à ce qu'on vient de dire."
@@ -142,7 +142,7 @@
     },
     {
       "verse": 27,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN LIBRO REGUM.",
       "lemma": "Dans le livre des Rois.",
       "text": "L'Hébreu : [35] _Dans les recherches du livre des Rois._ On a vu ci-devant un livre du Prophète Addo, qui portait ce nom de _midras_, ou de recherches [36] Ces livres sont perdus ; il ne nous en reste que quelques Extraits dans les livres des Rois, et des Paralipomènes ; il paraît certain qu’Esdras les avait en main. Il est arrivé à ces anciens Mémoires, ce qui est arrivé à quantité d’excellents ouvrages ; les abrégés ont fait perdre les ouvrages entiers. Cela était aisé dans les temps où l’on écrivait peu, et où les livres étaient extrêmement rares."
@@ -216,12 +216,12 @@
     {
       "key": "page_0157-a",
       "n": 1,
-      "text": "וישא לו יהוידע נשים שתים (b) à l'Hébreu ſuivant l'ordre des paroles."
+      "text": "וישא לו יהוידע נשים שתים (b) à l'Hébreu suivant l'ordre des paroles."
     },
     {
       "key": "page_0158-a",
       "n": 2,
-      "text": "Voyez Exod. xxx. 13. & 4. Reg. XII. 4."
+      "text": "Voyez Exod. xxx. 13. et 4. Reg. XII. 4."
     },
     {
       "key": "page_0158-b",
@@ -236,7 +236,7 @@
     {
       "key": "page_0159-a",
       "n": 5,
-      "text": "2. Par. XXI. 17. & XXII. 1. II. Livre des Paralip."
+      "text": "2. Par. XXI. 17. et XXII. 1. II. Livre des Paralip."
     },
     {
       "key": "page_0159-b",
@@ -261,12 +261,12 @@
     {
       "key": "page_0160-d",
       "n": 10,
-      "text": "Pagn. Mont. Caſt. Belg. Vide Prov."
+      "text": "Pagn. Mont. Cast. Belg. Vide Prov."
     },
     {
       "key": "page_0160-e",
       "n": 11,
-      "text": "XXVII. 22. ubi העלי pro mortario, vel piſtillo uſurpatur. (e) עליות"
+      "text": "XXVII. 22. ubi העלי pro mortario, vel pistillo usurpatur.  עליות"
     },
     {
       "key": "page_0160-f",
@@ -286,7 +286,7 @@
     {
       "key": "page_0161-c",
       "n": 15,
-      "text": "Reg. & Eſ. hic. ויעבדו את האשרים ואת העצבים"
+      "text": "Reg. et Es. hic. ויעבדו את האשרים ואת העצבים"
     },
     {
       "key": "page_0161-d",
@@ -316,12 +316,12 @@
     {
       "key": "page_0162-e",
       "n": 21,
-      "text": "Matt. XXIII. 35. _A ſanguine Abel juſti uſque ad ſanguinem Zachariæ, filii Barachiæ, quem occidiſtis inter templum & altare._"
+      "text": "Matt. XXIII. 35. _A sanguine Abel justi usque ad sanguinem Zachariæ, filii Barachiæ, quem occidistis inter templum et altare._"
     },
     {
       "key": "page_0163-a",
       "n": 22,
-      "text": "Ita Salian. Menoch. Cleric. alii hic. & plures ad Matt. XXIII. 35. ut Janſen. Maldonat, Salmeron, Toſt Lyr. & ex antiquioribus, Beda. D. Thom. Albert. &c."
+      "text": "Ita Salian. Menoch. Cleric. alii hic. et plures ad Matt. XXIII. 35. ut Jansen. Maldonat, Salmeron, Tost Lyr. et ex antiquioribus, Beda. D. Thom. Albert. etc."
     },
     {
       "key": "page_0163-b",
@@ -331,7 +331,7 @@
     {
       "key": "page_0163-c",
       "n": 24,
-      "text": "℣. 20. _Stetit in conſpectu populi._ Hebr. וַיַעֲמֹד מֵעַל לָעָם. Il ſe tint au-deſſus du peuple; il lui parla de quelque endroit élevé; il ſortit du parvis des Prêtres, ou peut-être il ſe tint ſur les degrez de la porte de ce parvis, qui donnoit ſur celui d'Iſraël."
+      "text": "℣. 20. _Stetit in conspectu populi._ Hebr. וַיַעֲמֹד מֵעַל לָעָם. Il se tint au-dessus du peuple; il lui parla de quelque endroit élevé; il sortit du parvis des Prêtres, ou peut-être il se tint sur les degrez de la porte de ce parvis, qui donnoit sur celui d'Israël."
     },
     {
       "key": "page_0164-a",
@@ -356,7 +356,7 @@
     {
       "key": "page_0165-b",
       "n": 29,
-      "text": "Voyez Doubdan c. 26. & Morizon Voyage de Jéruſalem, & le plan qu'on en trouve dans le Traité Italien du R. P. Bernar. Amico de Gallipoli, intitulé, Tratta delle piante & imagini de ſacri edificii di Terra ſancta, c. 46. 47."
+      "text": "Voyez Doubdan c. 26. et Morizon Voyage de Jérusalem, et le plan qu'on en trouve dans le Traité Italien du R. P. Bernar. Amico de Gallipoli, intitulé, Tratta delle piante et imagini de sacri edificii di Terra sancta, c. 46. 47."
     },
     {
       "key": "page_0166-a",
@@ -366,7 +366,7 @@
     {
       "key": "page_0166-b",
       "n": 31,
-      "text": "Ita Vat. Caſtal. &c."
+      "text": "Ita Vat. Castal. etc."
     },
     {
       "key": "page_0166-c",
@@ -376,12 +376,12 @@
     {
       "key": "page_0166-d",
       "n": 33,
-      "text": "Voyez les ℣. 23, 24. & 4. Reg. XII."
+      "text": "Voyez les ℣. 23, 24. et 4. Reg. XII."
     },
     {
       "key": "page_0166-e",
       "n": 34,
-      "text": "18. Ita Jun. Piſc. Mariana. (e) משא onus, ſe prend ſouvent pour des prédictions triſtes & fâcheuſes."
+      "text": "18. Ita Jun. Pisc. Mariana.  משא onus, se prend souvent pour des prédictions tristes et fâcheuses."
     },
     {
       "key": "page_0166-f",
@@ -392,85 +392,6 @@
       "key": "page_0167-a",
       "n": 36,
       "text": "2. Par. XXII. 12. II. Livre des Paralip."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0157",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0158",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0159",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0160",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0161",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0162",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0163",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0164",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0165",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0166",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0167",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": [

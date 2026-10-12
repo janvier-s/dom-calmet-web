@@ -37,7 +37,7 @@
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IPSE INCIPIET LIBERARE ISRAEL.",
       "lemma": "Il commença à délivrer Israël.",
       "text": "Il commença, mais il n'acheva pas de délivrer les Israélites de l'oppression des Philistins ; la parfaite délivrance ne s'exécuta que sous Samuel et sous Saül. Les Philistins furent les plus forts pendant tout le temps de Samson ; ils furent fort puissants encore dans les dernières années du grand-Prêtre Héli, comme on le verra dans la suite."
@@ -51,7 +51,7 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUEM CUM INTERROGASSEM QUIS ESSET.",
       "lemma": "Je lui ai demandé qui il était.",
       "text": "L'Hébreu lit au contraire : [10] _Je ne lui ai point demandé d'où il venait, et il ne m'a pas dit son nom._ Les Septante [11] de l'Édition Romaine, le Chaldéen, le Syriaque et l'Arabe lisent aussi cette négation ; mais les Septante de l'Édition Royale et de celle de Bâle, [12] S. Augustin, [13] et d'autres ne la lisent point. Saint Augustin a entrevu la nécessité d'une négation en cet endroit, puisqu'il remarque premièrement qu'on ne lit point au ℣. précédent que la femme de Manuë ait fait cette interrogation à l'Ange : Et secondement, qu'il y a quelque espèce d'incongruité à dire ; _Je lui ai demandé d'où il était, et il ne m'a pas dit son nom._ Comme si l'Ange eût dû lui dire ce qu'elle ne lui demandait pas ?"
@@ -121,7 +121,7 @@
     },
     {
       "verse": 24,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BENEDIXIT EI DOMINUS.",
       "lemma": "Le Seigneur le bénit.",
       "text": "Il lui donna des marques de sa protection, et il le combla de ses grâces ; il le prépara aux grands desseins qu'il avait sur sa personne, par les grâces qu'il lui communiqua, par la force étonnante dont il le revêtit."
@@ -166,8 +166,8 @@
     {
       "seam": "page_0240>page_0241",
       "verse": 15,
-      "mode": "hyphen",
-      "before": "ifice. ^{fn:page_0240-c} Manuë ne connaissait point encore",
+      "mode": "flow",
+      "before": "un sacrifice. ^{fn:page_0240-c} Manuë ne connaissait point",
       "after": "encore l'Ange pour ce qu'il était, il voulait simplement l"
     },
     {
@@ -194,17 +194,17 @@
     {
       "key": "page_0235-a",
       "n": 1,
-      "text": "Marsham ſæcul. XI. pag. 293. édit. Londin."
+      "text": "Marsham sæcul. XI. pag. 293. édit. Londin."
     },
     {
       "key": "page_0235-b",
       "n": 2,
-      "text": "Euſeb. Geneb. Lyr. Toſtat. &c."
+      "text": "Euseb. Geneb. Lyr. Tostat. etc."
     },
     {
       "key": "page_0235-c",
       "n": 3,
-      "text": "Torniel. Salian. Bonfr. &c."
+      "text": "Torniel. Salian. Bonfr. etc."
     },
     {
       "key": "page_0236-a",
@@ -219,7 +219,7 @@
     {
       "key": "page_0236-c",
       "n": 6,
-      "text": "Vide August. qu. 50. & Strat. qu. 4."
+      "text": "Vide August. qu. 50. et Strat. qu. 4."
     },
     {
       "key": "page_0237-a",
@@ -229,7 +229,7 @@
     {
       "key": "page_0238-a",
       "n": 8,
-      "text": "Jonath. Vatab. Druſ. alii paſſim."
+      "text": "Jonath. Vatab. Drus. alii passim."
     },
     {
       "key": "page_0238-b",
@@ -259,17 +259,17 @@
     {
       "key": "page_0239-e",
       "n": 14,
-      "text": "Joſeph l. 5. Antiq. c. 10. ὅτι μανόης δι' ἔρωτος ἀεὶ τῇ γυναικὶ, ὃς διὰ ταῦτα ζηλότυπος ἀνεφύη."
+      "text": "Joseph l. 5. Antiq. c. 10. ὅτι μανόης δι' ἔρωτος ἀεὶ τῇ γυναικὶ, ὃς διὰ ταῦτα ζηλότυπος ἀνεφύη."
     },
     {
       "key": "page_0239-f",
       "n": 15,
-      "text": "Ambroſ. Ep. 79."
+      "text": "Ambros. Ep. 79."
     },
     {
       "key": "page_0240-a",
       "n": 16,
-      "text": "[UNCERTAIN HEBREW] Quid erit jus pueri, & quod opus ejus. 70. τί ἔςαι τὸ κρίμα τῦ παιδαρίου, & τὰ ἔργα ἀυτῦ."
+      "text": "[UNCERTAIN HEBREW] Quid erit jus pueri, et quod opus ejus. 70. τί ἔςαι τὸ κρίμα τῦ παιδαρίου, et τὰ ἔργα ἀυτῦ."
     },
     {
       "key": "page_0240-b",
@@ -279,12 +279,12 @@
     {
       "key": "page_0240-c",
       "n": 18,
-      "text": "Vide Exod. XXII. 36. & XII. 47. Genef. XVIII. 7. &c. Virgil. Eclog. III. Cras faciam vitulâ."
+      "text": "Vide Exod. XXII. 36. et XII. 47. Genef. XVIII. 7. etc. Virgil. Eclog. III. Cras faciam vitulâ."
     },
     {
       "key": "page_0241-a",
       "n": 19,
-      "text": "Vide Boch. de anim. ſacr. parte 1. lib. 2. c. 51."
+      "text": "Vide Boch. de anim. sacr. parte 1. lib. 2. c. 51."
     },
     {
       "key": "page_0241-b",
@@ -299,22 +299,22 @@
     {
       "key": "page_0241-d",
       "n": 22,
-      "text": "Vide Serrar. qu. 15. & apud eum, Cabaliſtas. Item Leon. Caſtr. in Iſai. IX. Apud eumdem qu. 17."
+      "text": "Vide Serrar. qu. 15. et apud eum, Cabalistas. Item Leon. Castr. in Isai. IX. Apud eumdem qu. 17."
     },
     {
       "key": "page_0242-a",
       "n": 23,
-      "text": "Jun. & Tremel."
+      "text": "Jun. et Tremel."
     },
     {
       "key": "page_0243-b",
       "n": 24,
-      "text": "_Vat. Druſ. Piſc. Kimchi, &c._"
+      "text": "_Vat. Drus. Pisc. Kimchi, etc._"
     },
     {
       "key": "page_0243-c",
       "n": 25,
-      "text": "_Joſeph Antiq. l. 5. c. 10._ Κατέβη ὑπ' ῥάβδῳ ἡ ἄκρα αὐτῆς. τὸ δὲ Ν, λαμψάντος πυρὸς, ἅμα σὺν τῷ καπνῷ ἀνέβη. _Idem._ ἀκραν αὐτῆς. τῷ δὲ ἀγγέλῳ διὰ τοῦ καπνοῦ ἄνοδον ἐς τὸν οὐρανὸν, ἅμα τοῖς θύμασι γίνεται."
+      "text": "_Joseph Antiq. l. 5. c. 10._ Κατέβη ὑπ' ῥάβδῳ ἡ ἄκρα αὐτῆς. τὸ δὲ Ν, λαμψάντος πυρὸς, ἅμα σὺν τῷ καπνῷ ἀνέβη. _Idem._ ἀκραν αὐτῆς. τῷ δὲ ἀγγέλῳ διὰ τοῦ καπνοῦ ἄνοδον ἐς τὸν οὐρανὸν, ἅμα τοῖς θύμασι γίνεται."
     },
     {
       "key": "page_0243-d",
@@ -334,84 +334,12 @@
     {
       "key": "page_0244-b",
       "n": 29,
-      "text": "Vide Geneſ. IV. 1. 25. & XXX. 7. 8. 13. 13. & XXXV. 18."
+      "text": "Vide Genes. IV. 1. 25. et XXX. 7. 8. 13. 13. et XXXV. 18."
     },
     {
       "key": "page_0244-c",
       "n": 30,
-      "text": "I. Reg. XI. 11. _Miſit Dominus Jerobaal & Badan, & Jephte & Samuel._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0235",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0236",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0237",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0238",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0239",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0240",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0241",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0242",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0243",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0244",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "I. Reg. XI. 11. _Misit Dominus Jerobaal et Badan, et Jephte et Samuel._"
     }
   ],
   "missing_footnotes": []

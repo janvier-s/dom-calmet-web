@@ -38,14 +38,14 @@
     {
       "verse": 10,
       "sub": false,
-      "latin_lemma": "NIhil aliud erat in arca niſi duæ tabulæ.",
+      "latin_lemma": "NIhil aliud erat in arca nisi duæ tabulæ.",
       "lemma": "Il n'y avait dans l'arche que les deux tables de la loi, etc.",
       "text": "Voyez 3. Reg. VIII. 9."
     },
     {
       "verse": 11,
       "sub": false,
-      "latin_lemma": "Nec adhuc in illo tempore vices et miniſteriorum ordo inter eos diviſus erat.",
+      "latin_lemma": "Nec adhuc in illo tempore vices et ministeriorum ordo inter eos divisus erat.",
       "lemma": "Les fonctions et l'ordre des ministères, n'ayant pas été distribués entre eux jusqu'à ce temps-là.",
       "text": "David avait bien réglé l'ordre des ministres du temple, mais jusqu'alors on n'en avait pas vu la parfaite exécution, le temple n'étant point bâti. L'Hébreu porte: [5] _Tous les Prêtres qui se trouvèrent, se sanctifièrent, se disposèrent à servir dans la solennité de la dédicace du temple ; et on n'observa point leur partage_, ou les distributions des offices qu'on leur avait donnés. Régulièrement ils ne servaient que par semaines, et chacun à leur tour ; mais dans cette occasion, tout ce qui s'en trouva, servit au temple."
     }
@@ -91,42 +91,12 @@
     {
       "key": "page_0033-a",
       "n": 4,
-      "text": "Jun. & Tremell. Piſc."
+      "text": "Jun. et Tremell. Pisc."
     },
     {
       "key": "page_0034-a",
       "n": 5,
       "text": "כי כל הכהנים הנמצאים התקדשו אין לשמור למחלקות (י)"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0031",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0032",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0033",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0034",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

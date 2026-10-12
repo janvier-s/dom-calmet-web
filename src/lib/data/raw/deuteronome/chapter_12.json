@@ -22,6 +22,33 @@
       ]
     },
     {
+      "verse_number": 3,
+      "latin": "Dissipate aras eorum, et confringite statuas, lucos igne comburite, et idola comminuite : disperdite nomina eorum de locis illis.",
+      "french": "Détruisez leurs bois profanes, réduisez en poudre leurs idoles, et effacez de tous ces lieux la mémoire de leur nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0182.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Non facietis ita Domino Deo vestro.",
+      "french": "Vous ne vous conduirez pas de même, à l'égard du Seigneur votre Dieu ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0182.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Sed ad locum, quem elegerit Dominus Deus vester, de cunctis tribubus vestris, ut ponat nomen suum ibi, et habitet in eo, venietis :",
+      "french": "Mais vous viendrez au lieu que le Seigneur votre Dieu aura choisi au milieu de toutes vos Tribus, pour y établir son nom, et pour y habiter ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0182.json"
+      ]
+    },
+    {
       "verse_number": 6,
       "latin": "Et offeretis in loco illo holocausta et victimas vestras, et decimas, et primitias manuum vestrarum, et vota atque donaria, primogenita boum et ovium.",
       "french": "Et vous offrirez dans ce lieu-là vos holocaustes et vos victimes, les dîmes et les prémices des ouvrages de vos mains, vos vœux et vos dons, les premiers-nés de vos bœufs et de vos brebis.",
@@ -130,6 +157,69 @@
       ]
     },
     {
+      "verse_number": 18,
+      "latin": "Sed coram Domino Deo tuo comedes ea, in loco quem elegerit Dominus Deus tuus, tu et filius tuus et filia tua, et servus et famula, atque Levites qui manet in urbibus tuis : et laetaberis et reficieris coram Domino Deo tuo, in cunctis ad quae extenderis manum tuam.",
+      "french": "Mais vous mangerez de ces choses devant le Seigneur votre Dieu, dans le lieu que le Seigneur votre Dieu aura choisi, vous, votre fils et votre fille, votre serviteur, et votre servante, et les Lévites qui demeurent dans vos villes ; et vous prendrez votre nourriture avec joie devant le Seigneur votre Dieu, en recueillant le fruit de tous les travaux de vos mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0189.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Cave ne derelinquas Levitem, in omni tempore quo versaris in terra.",
+      "french": "Prenez bien garde de ne pas abandonner le Lévite, pendant tout le temps que vous serez sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0189.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Quando dilataverit Dominus Deus tuus terminos tuos, sicut locutus est tibi, et volueris vesci carnibus, quas desiderat anima tua:",
+      "french": "Quand le Seigneur votre Dieu aura étendu vos limites, selon qu'il vous l'a promis, et que vous voudrez manger de la chair dont vous aurez envie ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0189.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Locus autem, quem elegerit Dominus Deus tuus ut sit nomen ejus ibi, si procul fuerit, occides de armentis et pecoribus, quae habueris, sicut praecepi tibi, et comedes in oppidis, ut tibi placet.",
+      "french": "Si le lieu que le Seigneur votre Dieu aura choisi pour y établir son nom, est éloigné, vous pourrez tuer des bœufs et des brebis que vous aurez, selon que je vous l'ai ordonné, et vous en mangerez dans vos villes, comme vous le désirerez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0190.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Sicut comeditur caprea et cervus, ita vesceris eis: et mundus et immundus in commune vescentur.",
+      "french": "Vous mangerez de cette chair, comme vous mangez de celle des chevreuils et des cerfs ; et le pur et l'impur en mangeront indifféremment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0190.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Hoc solum cave, ne sanguinem comedas : sanguis enim eorum pro anima est : idcirco non debes animam comedere cum carnibus :",
+      "french": "Gardez-vous seulement de manger du sang de ces bêtes ; car leur vie est dans leur sang : et ainsi vous ne devez pas manger avec leur chair ce qui est leur vie :",
+      "annotations": null,
+      "source_pages": [
+        "page_0190.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Sed super terram fundes quasi aquam.",
+      "french": "Mais vous répandrez ce sang sur la terre, comme de l'eau,",
+      "annotations": null,
+      "source_pages": [
+        "page_0190.json"
+      ]
+    },
+    {
       "verse_number": 25,
       "latin": "Ut bene sit tibi, et filiis tuis post te, cum feceris quod placet in conspectu Domini.",
       "french": "Afin que vous soyez heureux, vous et vos enfants après vous, ayant fait ce qui est agréable aux yeux du Seigneur.",
@@ -181,6 +271,24 @@
       "annotations": null,
       "source_pages": [
         "page_0191.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Non facies similiter Domino Deo tuo. Omnes enim abominationes, quas aversatur Dominus, fecerunt diis suis, offerentes filios et filias, et comburentes igni.",
+      "french": "Vous ne rendrez point de semblable culte au Seigneur votre Dieu. Car elles ont fait, pour honorer leurs dieux, toutes les abominations que le Seigneur a en horreur, en leur offrant en sacrifice leurs fils et leurs filles, et les brûlant dans le feu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0192.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Quod praecipio tibi, hoc tantum facite Domino: nec addas quidquam, nec minuas.",
+      "french": "Faites seulement en l'honneur du Seigneur ce que je vous ordonne, sans y rien ajouter ni en rien ôter.",
+      "annotations": null,
+      "source_pages": [
+        "page_0192.json"
       ]
     }
   ]

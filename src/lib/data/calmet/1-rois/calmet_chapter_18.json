@@ -75,7 +75,7 @@
       "sub": false,
       "latin_lemma": "EGO REMANSI PROPHETA DOMINI SOLUS; PROPHETÆ AUTEM BAAL QUADRINGENTI ET QUINQUAGINTA VIRI.",
       "lemma": "Je suis demeuré tout seul d'entre les Prophètes du Seigneur; au lieu que les Prophètes de Baal sont au nombre de quatre cent cinquante.",
-      "text": "Il n'y a que moi qui ose paraître, des Prophètes du Seigneur. Tous les autres sont ou mis à mort, ou dissipés par la fuite. Élie n'ignorait pas qu'Abdias seul n'en eût sauvé dans des cavernes jusqu'au nombre de cent. Mais il parle de ceux qui paraissaient en public. pour soutenir la cause du Seigneur. Les faux Prophètes étaient, comme on l'a vu ci-devant,[18] jusqu'au nombre de huit cent cinquante. Mais les quatre cents Prophètes de la Reine, ne s'étaient pas trouvés à l'assemblée du Carmel.[19]"
+      "text": "Il n'y a que moi qui ose paraître, des Prophètes du Seigneur. Tous les autres sont ou mis à mort, ou dissipés par la fuite. Élie n'ignorait pas qu'Abdias seul n'en eût sauvé dans des cavernes jusqu'au nombre de cent. Mais il parle de ceux qui paraissaient en public, pour soutenir la cause du Seigneur. Les faux Prophètes étaient, comme on l'a vu ci-devant,[18] jusqu'au nombre de huit cent cinquante. Mais les quatre cents Prophètes de la Reine, ne s'étaient pas trouvés à l'assemblée du Carmel.[19]"
     },
     {
       "verse": 24,
@@ -100,7 +100,7 @@
     },
     {
       "verse": 27,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AUT IN DIVERSORIO EST.",
       "lemma": "Ou il est dans une Hôtellerie.",
       "text": "On traduit l'Hébreu diversement. [30] Les Septante: [31] _Peut-être qu'il rend des oracles, ou des réponses_. D'autres : [32] _Il est à la poursuite de quelque chose, ou il est à la chasse, ou il poursuit ses ennemis_. D'autres [33] enfin: _Il a quelque occupation qui le retient; criez fort_."
@@ -208,8 +208,8 @@
     {
       "seam": "page_0367>page_0368",
       "verse": 10,
-      "mode": "hyphen",
-      "before": " ou pour le faire mourir, s'il ne pouvait l'y contraindre.",
+      "mode": "splice",
+      "before": "a pluie; ou pour le faire mourir, s'il ne pouvait l'y con-",
       "after": "traindre. Il faut qu'Elie ait vécu chez la veuve de Sarept"
     },
     {
@@ -236,8 +236,8 @@
     {
       "seam": "page_0371>page_0372",
       "verse": 22,
-      "mode": "hyphen",
-      "before": "de cent. Mais il parle de ceux qui paraissaient en public.",
+      "mode": "splice",
+      "before": "bre de cent. Mais il parle de ceux qui paraissaient en pu-",
       "after": "blic, pour soutenir la cause du Seigneur. Les faux Prophèt"
     },
     {
@@ -337,12 +337,12 @@
     {
       "key": "page_0366-a",
       "n": 3,
-      "text": "Ita Hebræi plerique Syr. Vide Ierem. in Abdiam, &c."
+      "text": "Ita Hebræi plerique Syr. Vide Ierem. in Abdiam, etc."
     },
     {
       "key": "page_0366-b",
       "n": 4,
-      "text": "Pſeudo-Epiphan. & Pſeudo-Doroth. Iohan. Ieroſolym."
+      "text": "Pseudo-Epiphan. et Pseudo-Doroth. Iohan. Ierosolym."
     },
     {
       "key": "page_0367-a",
@@ -357,12 +357,12 @@
     {
       "key": "page_0367-c",
       "n": 7,
-      "text": "Ita Joſeph. Antiq. lib. 8. c. 7. ἀρτῳ κρεῶν πλῆθος ὕδωρ."
+      "text": "Ita Joseph. Antiq. lib. 8. c. 7. ἀρτῳ κρεῶν πλῆθος ὕδωρ."
     },
     {
       "key": "page_0368-a",
       "n": 8,
-      "text": "Marc. IV. 1. Tunc Jeſus ductus eſt in cum in deſertum. Vide Joſeph. & Grot. hic, deſertum. Marc. I. 12. Statim ſpiritus expulit }"
+      "text": "Marc. IV. 1. Tunc Jesus ductus est in cum in desertum. Vide Joseph. et Grot. hic, desertum. Marc. I. 12. Statim spiritus expulit }"
     },
     {
       "key": "page_0368-b",
@@ -377,7 +377,7 @@
     {
       "key": "page_0370-a",
       "n": 11,
-      "text": "Luc XXIII. 5. _Commovet populum_, &c."
+      "text": "Luc XXIII. 5. _Commovet populum_, etc."
     },
     {
       "key": "page_0370-b",
@@ -392,7 +392,7 @@
     {
       "key": "page_0371-a",
       "n": 14,
-      "text": "Voyez ce que nous avons dit ſur Joſué. XIX. 26."
+      "text": "Voyez ce que nous avons dit sur Josué. XIX. 26."
     },
     {
       "key": "page_0371-b",
@@ -422,7 +422,7 @@
     {
       "key": "page_0372-c",
       "n": 20,
-      "text": "Geneſ. XV. 17."
+      "text": "Genes. XV. 17."
     },
     {
       "key": "page_0372-d",
@@ -437,7 +437,7 @@
     {
       "key": "page_0373-a",
       "n": 23,
-      "text": "_Vide Epigram Græc. apud Grot. & Virgil Æneid. 4. Pingues ſpatiatur ad aras._ Plin. lib. 2. c. 107. _In Salentino oppido Egnatia impoſito ligno, in ſaxum quoddam ibi ſacrum, protinùs flammam exiſtere._"
+      "text": "_Vide Epigram Græc. apud Grot. et Virgil Æneid. 4. Pingues spatiatur ad aras._ Plin. lib. 2. c. 107. _In Salentino oppido Egnatia imposito ligno, in saxum quoddam ibi sacrum, protinùs flammam existere._"
     },
     {
       "key": "page_0373-b",
@@ -447,7 +447,7 @@
     {
       "key": "page_0373-c",
       "n": 25,
-      "text": "_Jun. Tremel. Glaſſ. Piſcat._"
+      "text": "_Jun. Tremel. Glass. Piscat._"
     },
     {
       "key": "page_0373-d",
@@ -457,12 +457,12 @@
     {
       "key": "page_0373-e",
       "n": 27,
-      "text": "_Horat. Serm. lib. I. Satyr. 5. Vide &_"
+      "text": "_Horat. Serm. lib. I. Satyr. 5. Vide et_"
     },
     {
       "key": "page_0373-f",
       "n": 28,
-      "text": "שִׂיחַ לוֹ _Ita Montan. Caſtal. aliquid contemplatur._"
+      "text": "שִׂיחַ לוֹ _Ita Montan. Castal. aliquid contemplatur._"
     },
     {
       "key": "page_0373-g",
@@ -482,12 +482,12 @@
     {
       "key": "page_0374-c",
       "n": 32,
-      "text": "Pagn. Mons. Jun. Munſt."
+      "text": "Pagn. Mons. Jun. Munst."
     },
     {
       "key": "page_0374-d",
       "n": 33,
-      "text": "Syr. Arab. Mart. &c."
+      "text": "Syr. Arab. Mart. etc."
     },
     {
       "key": "page_0374-e",
@@ -497,7 +497,7 @@
     {
       "key": "page_0374-f",
       "n": 35,
-      "text": "Plutarc. de Superſtitione. Vide & Martial. Epigr. & Lactant. de falſa Relig. lib. 1. c. 21. Sciſsis namque humeris, & utraque manu diſſtrictos gladios exerentes currunt, efferantur, inſaniunt."
+      "text": "Plutarc. de Superstitione. Vide et Martial. Epigr. et Lactant. de falsa Relig. lib. 1. c. 21. Scissis namque humeris, et utraque manu disstrictos gladios exerentes currunt, efferantur, insaniunt."
     },
     {
       "key": "page_0374-g",
@@ -507,7 +507,7 @@
     {
       "key": "page_0374-h",
       "n": 37,
-      "text": "Apul. lib. 8. Vide & Lucian, de Dea Syr."
+      "text": "Apul. lib. 8. Vide et Lucian, de Dea Syr."
     },
     {
       "key": "page_0375-a",
@@ -522,17 +522,17 @@
     {
       "key": "page_0375-c",
       "n": 40,
-      "text": "2. Eſdr. IV. 7."
+      "text": "2. Esdr. IV. 7."
     },
     {
       "key": "page_0376-a",
       "n": 41,
-      "text": "Tacit. Hiſt. lib. 2. cap. 78."
+      "text": "Tacit. Hist. lib. 2. cap. 78."
     },
     {
       "key": "page_0376-b",
       "n": 42,
-      "text": "Sueton. in Veſpaſ."
+      "text": "Sueton. in Vespas."
     },
     {
       "key": "page_0376-c",
@@ -542,12 +542,12 @@
     {
       "key": "page_0376-d",
       "n": 44,
-      "text": "Exod. XXIV. Joſue IV."
+      "text": "Exod. XXIV. Josue IV."
     },
     {
       "key": "page_0377-a",
       "n": 45,
-      "text": "Chryſoſt. apud Metaphraſt. & Surium. tom. 4. menſe Auguſt. Vide Sand. hic."
+      "text": "Chrysost. apud Metaphrast. et Surium. tom. 4. mense August. Vide Sand. hic."
     },
     {
       "key": "page_0378-a",
@@ -572,12 +572,12 @@
     {
       "key": "page_0380-a",
       "n": 50,
-      "text": "ככף איש עלה מים 70. &c. Hebr. deest."
+      "text": "ככף איש עלה מים 70. etc. Hebr. deest."
     },
     {
       "key": "page_0380-b",
       "n": 51,
-      "text": "Ita Chald. Vat. Jun. Malv. &c."
+      "text": "Ita Chald. Vat. Jun. Malv. etc."
     },
     {
       "key": "page_0380-c",
@@ -587,7 +587,7 @@
     {
       "key": "page_0380-d",
       "n": 53,
-      "text": "Amos V. 8. & IX. 6."
+      "text": "Amos V. 8. et IX. 6."
     },
     {
       "key": "page_0381-a",
@@ -603,127 +603,6 @@
       "key": "page_0381-c",
       "n": 56,
       "text": "3. Reg. XXI. 18."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0365",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0366",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0367",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0368",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0369",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0370",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0371",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0372",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0373",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0374",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0375",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0376",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0377",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0378",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0379",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0380",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0381",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": [

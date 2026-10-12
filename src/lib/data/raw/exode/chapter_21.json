@@ -103,6 +103,15 @@
       ]
     },
     {
+      "verse_number": 12,
+      "latin": "Qui percusserit hominem volens occidere, morte moriatur.",
+      "french": "Quiconque tuera un homme de dessein prémédité, sera mis à mort.   ",
+      "annotations": null,
+      "source_pages": [
+        "page_0340.json"
+      ]
+    },
+    {
       "verse_number": 13,
       "latin": "Qui autem non est insidiatus, sed Deus illum tradidit in manus ejus : constituam tibi locum in quem fugere debeat.",
       "french": "Mais s'il le tue, par une rencontre imprévue, et sans lui avoir dressé d'embûche, et que Dieu l'ait fait tomber entre ses mains, je vous marquerai un lieu, où il pourra se réfugier.",
@@ -307,6 +316,15 @@
       "annotations": null,
       "source_pages": [
         "page_0358.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Sin autem sciebat quod bos cornupeta esset ab heri et nudiustertius, et non custodivit eum Dominus suus ; reddet bovem pro bove, et cadaver integrum accipiet.",
+      "french": "Que si le maître du bœuf qui aura blessé, savait qu'il y a déjà quelque temps que cet animal frappait de la corne, et qu'il ne l'ait pas gardé, il rendra bœuf pour bœuf, et toute la chair du bœuf tué sera à lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json"
       ]
     }
   ]

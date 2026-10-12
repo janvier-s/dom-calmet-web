@@ -239,29 +239,11 @@
     },
     {
       "verse_number": 27,
-      "latin": "Fecisque ei coronam aureolam per gyrum, et duos annulos aureos sub corona per singula latera, ut mittantur in eos vectes, et possit Altare portari.",
-      "french": "Il y fit une petite couronne d'or qui régnait tout autour, et deux anneaux d'or qui étaient sous cette couronne, dans lesquels on faisait entrer les bâtons, qui servaient à porter l'Autel.",
-      "annotations": null,
-      "source_pages": [
-        "page_0602.json"
-      ]
-    },
-    {
-      "verse_number": 27,
       "latin": "Centum bases factæ sunt de talentis centum, singulis talentis per bases singulas supputatis.",
       "french": "On employa un talent pour chaque base. Cent talents pour cent bases ;",
       "annotations": null,
       "source_pages": [
         "page_0608.json"
-      ]
-    },
-    {
-      "verse_number": 28,
-      "latin": "Ipsos autem vectes fecit de lignis setim, et operuit laminis aureis.",
-      "french": "Ces bâtons étaient de bois de setim, couverts de lames d'or.",
-      "annotations": null,
-      "source_pages": [
-        "page_0602.json"
       ]
     },
     {
@@ -275,20 +257,29 @@
     },
     {
       "verse_number": 29,
-      "latin": "Composuit et oleum ad sanctificationis unguentum, et thymiama de aromatibus mundissimis, opere pigmentarii.",
-      "french": "Il composa aussi l'huile pour servir à l'onction, et à la consécration des choses destinées au culte du Seigneur ; et un parfum composé des plus excellents aromates, selon l'art des plus habiles parfumeurs.",
-      "annotations": null,
-      "source_pages": [
-        "page_0602.json"
-      ]
-    },
-    {
-      "verse_number": 29,
       "latin": "Æris quoque oblata sunt talenta septuaginta: duo millia, et quadringenti supra sicli,",
       "french": "On offrit aussi soixante et dix talents d'airain ; et de plus deux mille quatre cents sicles de même métal,",
       "annotations": null,
       "source_pages": [
         "page_0608.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Ex quibus fusa sunt bases in introitu Tabernaculi testimonii, et Altare æneum cum craticula sua, omniaque vasa quæ ad usum ejus pertinent,",
+      "french": "Dont on fit des bases jetées en fonte pour l'entrée du Tabernacle du témoignage ; on en fit aussi l'Autel de cuivre avec la grille, et tous les vases qui devaient servir à son usage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0609.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Et bases atrii, tam in circuitu, quam in ingressu ejus, et paxilli Tabernaculi atque atrii per gyrum.",
+      "french": "Et les bases du parvis, tant celles qui étaient tout autour, que celles qui étaient à l'entrée, avec les pieux du Tabernacle, et du parvis, dans tout son contour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0609.json"
       ]
     }
   ]

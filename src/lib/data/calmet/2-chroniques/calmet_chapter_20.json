@@ -9,7 +9,7 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUAM AUTEM. Oû cette guerre arriva.",
       "lemma": null,
       "text": "Il semble qu'elle est antérieure à celle qui est racontée 4. Reg III. 12. où les Moabites furent si fort humiliés sous le règne de Joram fils d'Achab Roi d'Israël ; car depuis cette affaire, qui arriva vers l'an du monde 3109. jusqu'en 3115. qui est celle de la mort de Josaphat, il est malaisé qu'ils aient pu se remettre de leur perte. Il est vrai que l'on voit ici avec les Moabites et les Ammonites, le Roi d'Idumée, ou de Séir, qui était alors tributaire à Josaphat, et qui ne se révolta que contre Joram son fils. Mais ce roi de Séir est apparemment celui de Séir du mont de Galaad, fort différent de celui qui est au midi de la Judée, et qui était alors tributaire de Josaphat. Voyez sur cette différence des deux Idumées, notre Commentaire sur la Genèse, et notre Dissert. sur la Géographie"
@@ -23,7 +23,7 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ECCE CONSISTUNT IN ASASON-THAMAR, QUÆ EST ENGADDI.",
       "lemma": "Ils sont campés à Asason-Thamar, qui est Engaddi.",
       "text": "Engaddi était située entre Jéricho, et la mer Morte. Asason-Thamar, [11] signifie une demeure sous des palmiers : ou un lieu arrosé, où il y a quantité de palmiers. Josèphe dit [12] que ces peuples avaient passé la mer Morte ; ce qui est assez probable, puisque les Arabes la passent tous les jours avec leurs chameaux."
@@ -93,7 +93,7 @@
     },
     {
       "verse": 20,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET STATUIT CANTORES DOMINI, UT LAUDARENT EUM IN TURMIS SUIS.",
       "lemma": "Il établit par troupes des Chantres pour louer le Seigneur.",
       "text": "Voici l'Hébreu : [27] _Josaphat, avec le conseil du peuple, plaça des Chantres pour chanter les louanges du Seigneur, et pour louer la beauté de son Sanctuaire ; il les plaça devant l'armée._ En sorte que cette marche avait plutôt l'air d'un triomphe, et d'une armée qui revient victorieuse du combat, que d'une armée qui marche contre l'ennemi. On voyait à la tête de l'armée, les Lévites avec les instruments de musique du temple, qui entonnaient, et qui chantaient à haute voix le Psaume 135. _Louez le Seigneur, parce qu'il est bon, parce que sa miséricorde est éternelle_, qu'on avait accoutumé de chanter dans les solennités de réjouissance. [28] Ils revinrent dans le même ordre à Jérusalem, après la défaite de l'ennemi. [29]"
@@ -121,7 +121,7 @@
     },
     {
       "verse": 25,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ITA UT OMNIA PORTARE NON POSSENT.",
       "lemma": "En sorte qu'ils ne purent emporter tout.",
       "text": "L'Hébreu : [38] _Le butin était sans poids. Ils trouvèrent tant de richesses, qu'on n'en peut dire ni le poids, ni la valeur_."
@@ -255,12 +255,12 @@
     {
       "key": "page_0126-c",
       "n": 3,
-      "text": "Judi. x. 11. au lieu de Canaan, l'Hébreu lit Maon. מעון & I. Par. IV. 40. 41."
+      "text": "Judi. x. 11. au lieu de Canaan, l'Hébreu lit Maon. מעון et I. Par. IV. 40. 41."
     },
     {
       "key": "page_0126-d",
       "n": 4,
-      "text": "Hebr. מהעמונים au lieu de מהמעונים 70. & μετ' ἀυτῶν ἐκ τῶν Μιναίων. Ils ont lû מהמעונים"
+      "text": "Hebr. מהעמונים au lieu de מהמעונים 70. et μετ' ἀυτῶν ἐκ τῶν Μιναίων. Ils ont lû מהמעונים"
     },
     {
       "key": "page_0127-a",
@@ -270,17 +270,17 @@
     {
       "key": "page_0127-b",
       "n": 6,
-      "text": "Ita unum è noſtris S. Michaëlis ad Moſam."
+      "text": "Ita unum è nostris S. Michaëlis ad Mosam."
     },
     {
       "key": "page_0127-c",
       "n": 7,
-      "text": "Ita legit Lyran. & ita habent plerique Latini libri apud Atenorb. at ex iis quos vidi, nullos in textu, paucos in margine id habere comperi. Ita corrigit & Caſtal."
+      "text": "Ita legit Lyran. et ita habent plerique Latini libri apud Atenorb. at ex iis quos vidi, nullos in textu, paucos in margine id habere comperi. Ita corrigit et Castal."
     },
     {
       "key": "page_0127-d",
       "n": 8,
-      "text": "Vide Pſal. LXXXII. ℣. 7. 8. 9."
+      "text": "Vide Psal. LXXXII. ℣. 7. 8. 9."
     },
     {
       "key": "page_0128-a",
@@ -290,22 +290,22 @@
     {
       "key": "page_0128-b",
       "n": 10,
-      "text": "Vide 4 Reg. xvi. 6. Reſtituit Ailat Syriæ. & חטוב את אילת לארם au lieu de לאדום Idumæa."
+      "text": "Vide 4 Reg. xvi. 6. Restituit Ailat Syriæ. et חטוב את אילת לארם au lieu de לאדום Idumæa."
     },
     {
       "key": "page_0128-c",
       "n": 11,
-      "text": "Tugurium, חצצון vel locus irriguus, & חמר palma. Vide Boch. de animal. parte I. l. 2. c. 52. & parte 2. l. 6. c. 5."
+      "text": "Tugurium, חצצון vel locus irriguus, et חמר palma. Vide Boch. de animal. parte I. l. 2. c. 52. et parte 2. l. 6. c. 5."
     },
     {
       "key": "page_0128-d",
       "n": 12,
-      "text": "Joſeph. Antiq. lib. 9. c. 2. pag. 298."
+      "text": "Joseph. Antiq. lib. 9. c. 2. pag. 298."
     },
     {
       "key": "page_0129-a",
       "n": 13,
-      "text": "וַיִּתֵּן אֶת־פָּנָיו לִדְרוֹשׁ לַיהוָה וַיִּקְרָא־צוֹם ſur cet endroit."
+      "text": "וַיִּתֵּן אֶת־פָּנָיו לִדְרוֹשׁ לַיהוָה וַיִּקְרָא־צוֹם sur cet endroit."
     },
     {
       "key": "page_0129-b",
@@ -330,12 +330,12 @@
     {
       "key": "page_0130-c",
       "n": 18,
-      "text": "Vide Salian. ad an. 3143. Menoch. & alios apud Salian."
+      "text": "Vide Salian. ad an. 3143. Menoch. et alios apud Salian."
     },
     {
       "key": "page_0130-d",
       "n": 19,
-      "text": "Jun. Malv. Oſiand."
+      "text": "Jun. Malv. Osiand."
     },
     {
       "key": "page_0130-e",
@@ -345,12 +345,12 @@
     {
       "key": "page_0131-a",
       "n": 21,
-      "text": "Jonas III. 7. Homines, & jumenta, & boves, & pecora non guſtent quidquam, nec paſcantur, & aquam non bibant."
+      "text": "Jonas III. 7. Homines, et jumenta, et boves, et pecora non gustent quidquam, nec pascantur, et aquam non bibant."
     },
     {
       "key": "page_0131-b",
       "n": 22,
-      "text": "Judith. IV. 8. Humiliaverunt animas ſuas in jejuniis & orationibus, ipſi & mulieres eorum, & induerunt ſe ſacerdotes ciliciis, & infantes proſtraverunt contra faciem templi Domini, & altare Domini operuerunt cilicio."
+      "text": "Judith. IV. 8. Humiliaverunt animas suas in jejuniis et orationibus, ipsi et mulieres eorum, et induerunt se sacerdotes ciliciis, et infantes prostraverunt contra faciem templi Domini, et altare Domini operuerunt cilicio."
     },
     {
       "key": "page_0131-c",
@@ -370,12 +370,12 @@
     {
       "key": "page_0133-a",
       "n": 26,
-      "text": "(a) האמינו ביהוה אלהיכם ותאמנו _ἱμεις δ'εσεσθε εν κυριῳ... & ἱμεις εσεσθε._"
+      "text": " האמינו ביהוה אלהיכם ותאמנו _ἱμεις δ'εσεσθε εν κυριῳ... et ἱμεις εσεσθε._"
     },
     {
       "key": "page_0133-b",
       "n": 27,
-      "text": "(b) ויעמד משררים ליהוה ומהללים להדרת קדש בצאת לפני החלוץ"
+      "text": " ויעמד משררים ליהוה ומהללים להדרת קדש בצאת לפני החלוץ"
     },
     {
       "key": "page_0134-a",
@@ -415,7 +415,7 @@
     {
       "key": "page_0135-c",
       "n": 35,
-      "text": "Joſue XVIII. 26."
+      "text": "Josue XVIII. 26."
     },
     {
       "key": "page_0135-d",
@@ -446,92 +446,6 @@
       "key": "page_0137-c",
       "n": 41,
       "text": "Voyez chap. xxi. 2. xxiii. 2. xxiv. 16."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0126",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0127",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0128",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0129",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0130",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0131",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0132",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0133",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0134",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0135",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0136",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0137",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

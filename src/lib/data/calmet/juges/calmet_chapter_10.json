@@ -9,14 +9,14 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "THOLA FILIUS PHUA, PATRUI ABIMELEC.",
       "lemma": "Thola fils de Phua, (lequel Phua) était oncle paternel d'Abimélec.",
       "text": "Phua était donc le frère de Gédéon; peut-être qu'on le choisit à cause de la jeunesse de Joatham, qui était resté seul des enfants de Gédéon, et qui était le plus jeune de tous. Moïse avait ordonné qu'au défaut d'héritiers directs, la succession passât aux frères du mort, et au défaut de ses frères, qu'elle passât aux frères de son père. [2] C'est peut-être pour obéir à cette loi, qu'on défère la judicature à Thola, fils du frère de Gédéon.\nMais si Phua est frère de Gédéon, comment peut-il être de la tribu d'Issachar, Gédéon étant de celle de Manassé? On répond [3] que Gédéon et Phua pouvaient être frères utérins, nés de la même mère, qui aurait successivement épousé un homme de la tribu de Manassé, d'où serait sorti Gédéon, et ensuite un autre mari de la tribu d'Issachar, qui aurait été père de Phua.\nLes Septante, [4] et le Caldéen [5] portent, que _Thola était fils de Phua, son oncle paternel._ Mais comment est-il possible qu'un homme soit fils de son oncle paternel ? Cette proposition enferme de la contradiction dans son sens littéral. Pour sauver cette difficulté on peut dire, qu'il n'est pas impossible que l'oncle paternel adopte le fils de son frère, et en ce sens Thola fils de Gédéon, aura pu être adopté par Phua frère de Gédéon, son oncle paternel. Il y en a qui l'expliquent ainsi : _Thola fils de Phua,_ lequel Thola était aussi _fils de l'oncle paternel d'Abimélec;_ en sorte que Phua père de Thola, aurait été frère de Gédéon, et oncle paternel d'Abimélec.\nL'équivoque du terme Hébreu _Dod_, a donné lieu à toutes ces difficultés. Voici le Texte à la lettre : [6] _Thola fils de Phua, fils de Dodo._ Ce dernier mot se peut prendre comme un nom propre, ou comme un nom générique. Ceux qui l'entendent au premier sens, [7] croient que Phua, ou Thola étaient fils d'un nommé _Dodo_. Les autres [8] l'expliquent ou de l'oncle paternel d'Abimélec, ou de celui de Thola, comme nous l'avons marqué ci-devant."
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUI HABITAVIT IN SAMIR.",
       "lemma": "Qui demeurait à Samir dans la montagne d'Ephraïm.",
       "text": "On ne doit pas être surpris de voir un homme de la tribu d'Issachar, demeurer dans le partage d'Ephraïm. Les Israélites n'ont jamais été obligés de fixer leur demeure dans leur propre tribu; il n'y avait que les biens en fonds, qui ne pouvaient être vendus pour toujours à des personnes d'une autre tribu. La ville de Samir est inconnue. On trouve une ville et une montagne de ce nom dans la tribu de Juda. [9]"
@@ -37,7 +37,7 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PRINCIPES TRIGINTA CIVITATUM, QUÆ EX NOMINE EJUS SUNT APPELLATÆ HAVOTH-JAIR.",
       "lemma": "Princes de trente villes, qui de son nom sont appelées Havoth-Jaïr.",
       "text": "On connaît dans le même pays soixante villes [17] nommées aussi _Havoth-Jaïr,_ ou métairies de Jaïr, qui tiraient leur nom du premier Jaïr fils de Manassé. On ignore si ces trente métairies du second Jaïr, sont toutes différentes de celles du premier, ou si ce Juge d'Israël n'a fait que confirmer, continuer, ou renouveler le nom d'_Havoth-Jaïr,_ à trente endroits qui portaient ce nom dès le temps d'un de ses aïeux. Grotius croit que Jaïr dont nous parlons dans ce Chapitre, était fils de Segub qui est marqué dans les Paralipomènes,[18] et qui laissa en héritage à son fils, vingt-trois métairies, ou _Havoth_ dans le pays de Galaad : lesquelles avec sept autres qu'il put avoir d'Esron son aïeul, font le nombre de trente. On pourrait éviter toutes ces difficultés; en traduisant ainsi l'Hébreu :[19] _Il avait trente fils, montés sur trente ânes, et ces fils avaient trente villes, appelées Havoth-Jaïr, jusqu'aujourd'hui._ Le Texte ne dit point qu'elles aient pris ce nom, du Juge d'Israël, elles l'avaient auparavant, de l'ancien Jaïr."
@@ -65,7 +65,7 @@
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "RUM AMMON.",
       "lemma": "Dieu les livra entre les mains des Philistins et des enfants d'Ammon.",
       "text": "Il ne paraît pas par la suite que les Israélites aient été assujettis à ces peuples; mais ils étaient exposés à leurs pilleries, et à leurs ravages, n'ayant pas assez de force pour leur résister. L'Historien sacré nous dispose par ce prélude à l'histoire de Jephté, de Jaïr, d'Abésan, d'Ahialon, et d'Abdon, dont l'un qui fut Jephté, délivra les Israélites des vexations des Ammonites, et les autres les protégèrent contre les Philistins."
@@ -93,8 +93,8 @@
     },
     {
       "verse": 11,
-      "sub": true,
-      "latin_lemma": "ÆGYPTII, AMORRHÆI, &c.",
+      "sub": false,
+      "latin_lemma": "ÆGYPTII, AMORRHÆI, etc.",
       "lemma": "Les Égyptiens, les Amorrhéens, etc. ne vous ont-ils pas autrefois opprimés ?",
       "text": "L'oppression que les Hébreux souffrirent dans l'Égypte n'est que trop connue : mais on ne lit point que les Amorrhéens les aient persécutés; à moins que sous le nom d'Amorrhéens, on n'entende les Cananéens qui les opprimèrent sous Jabin Roi d'Asor. [26] D'autres l'entendent d'Og et de Séhon Roi des Amorrhéens, qui traitèrent les Israélites en ennemis ; [27] et les persécutèrent autant qu'il fut en leur pouvoir.\nLes Ammonites persécutaient actuellement les Israélites, et ils s'étaient joints dès auparavant à Eglon Roi de Moab contre les Hébreux. [28] Les Philistins étaient aussi actuellement en guerre avec les enfants d'Israël, et Samgar [29] avait déjà auparavant réprimé leur insolence, et les actes d'hostilité qu'ils exerçaient dans leur pays.\nLes Sidoniens étant aussi puissants qu'ils l'étaient dans la terre de Canaan, ne manquèrent pas sans doute de maltraiter les Israélites leurs voisins, autant qu'ils en eurent l'occasion ; mais l'Écriture ne nous marque aucune persécution en particulier, qu'ils aient exercée contre eux. On sait en général que les Sidoniens étaient du nombre de ces peuples, que Dieu avait laissés pour exercer et pour éprouver la fidélité de son peuple ; [30] et il y a beaucoup d'apparence que Sidon était liguée avec le Roi d'Asor, qui traita les Israélites avec tant de rigueur.\nLes Amalécites furent toujours ennemis des Hébreux ; ils étaient joints avec Eglon leur persécuteur, [31] et dans la servitude sous les Madianites, ils étaient du nombre de ces Orientaux, qui venaient faire le ravage dans les terres d'Israël. [32]\nEnfin les Cananéens persécutèrent les Israélites dans tous les endroits du pays, et en commun, et en particulier, autant qu'ils purent, et par la force, et par l'artifice ; ils corrompirent leurs cœurs et leurs esprits, et au lieu que les autres peuples voisins n'étaient des ennemis que de quelque temps et de quelques rencontres, les Cananéens étaient des ennemis continuels. Ils étaient, selon l'expression de Josué, comme des aiguillons dans leurs côtés, et comme des épines dans leurs yeux, [33] qui ne leur donnaient point de repos.\nAu lieu de Canaan qu'on lit dans la Vulgate, et dans le Grec de l'Édition de Complute et d'Alde, le Grec du manuscrit Alexandrin et de l'Édition Romaine portent _Madian_ : l'Hébreu lit _Maon_ : [34] Le Chaldéen, l'_homme de Maon_. Nous ne connaissons ni peuple, ni Prince de ce nom, qui ait persécuté les Israélites avant ce temps. On lit dans les Paralipomènes [35] le nom de _Maonim_ comme d'un peuple descendu de Cham, qui possédait un fort bon pays, dont ceux de la tribu de Siméon se rendirent les maîtres. Les Septante leur donnent le nom de _Minéens_. Or les Minéens étaient des peuples d'Arabie connus dans Strabon,[36] et dans Diodore de Sicile ; [37] ainsi on peut fort bien joindre ces Maonim avec les Madianites, les Amalécites, et les autres peuples Orientaux, qui ravagèrent pendant plusieurs années la terre d'Israël. On voit par tout ce dénombrement que l'Écriture n'a pas rapporté dans ce Livre, toutes les persécutions des Israélites."
     },
@@ -102,7 +102,7 @@
       "verse": 13,
       "sub": false,
       "latin_lemma": "NON ADDAM UT ULTRA VOS LIBEREM.",
-      "lemma": "Je ne vous délivrerai plus, à moins que vous ne changiez de conduite.",
+      "lemma": "_Je ne vous délivrerai plus_, à moins que vous ne changiez de conduite.",
       "text": ""
     },
     {
@@ -121,7 +121,7 @@
     },
     {
       "verse": 17,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FILII ISRAEL IN MASPHA CASTRAMETATI SUNT.",
       "lemma": "Les enfants d'Israël se campèrent à Maspha de Galaad, vers les sources du torrent de Jabok, à peu près au milieu de la longueur des montagnes de Galaad.",
       "text": "Il est souvent parlé de cette ville de Maspha. Voyez ce qu'on en a dit sur Josué.[40]"
@@ -138,8 +138,8 @@
     {
       "seam": "page_0197>page_0198",
       "verse": 1,
-      "mode": "hyphen",
-      "before": "vement épousé un homme de la tribu de Manassé, d'où serait",
+      "mode": "splice",
+      "before": "ssivement épousé un homme de la tribu de Manassé, d'où se-",
       "after": "rait sorti Gédéon, et ensuite un autre mari de la tribu d'"
     },
     {
@@ -208,17 +208,17 @@
     {
       "key": "page_0197-a",
       "n": 1,
-      "text": "(a) ויקם להושיע את ישראל 70. & alii ſive ſecundùm."
+      "text": " ויקם להושיע את ישראל 70. et alii sive secundùm."
     },
     {
       "key": "page_0197-b",
       "n": 2,
-      "text": "(b) Num. XXVII. 9. 10. Si filiam non habuerit, habebit ſucceſſores fratres ſuos : quod ſi & fratres non fuerint, dabitis hæreditatem fratribus patris ejus."
+      "text": " Num. XXVII. 9. 10. Si filiam non habuerit, habebit successores fratres suos : quod si et fratres non fuerint, dabitis hæreditatem fratribus patris ejus."
     },
     {
       "key": "page_0197-c",
       "n": 3,
-      "text": "(c) Aug. qu. 47. in Judic. & alii paſſim."
+      "text": " Aug. qu. 47. in Judic. et alii passim."
     },
     {
       "key": "page_0198-a",
@@ -238,17 +238,17 @@
     {
       "key": "page_0198-d",
       "n": 7,
-      "text": "Caiet. Pagn. Mont. Vatab. Rabb. &c."
+      "text": "Caiet. Pagn. Mont. Vatab. Rabb. etc."
     },
     {
       "key": "page_0198-e",
       "n": 8,
-      "text": "Manſt. Bonfr. Cornel."
+      "text": "Manst. Bonfr. Cornel."
     },
     {
       "key": "page_0198-f",
       "n": 9,
-      "text": "Joſue ṿ. 48."
+      "text": "Josue ṿ. 48."
     },
     {
       "key": "page_0198-g",
@@ -263,17 +263,17 @@
     {
       "key": "page_0199-a",
       "n": 12,
-      "text": "Sextv. Uſſer. & alii."
+      "text": "Sextv. Usser. et alii."
     },
     {
       "key": "page_0199-b",
       "n": 13,
-      "text": "1. Reg. XII. 11. & 1. Par. VII. 17."
+      "text": "1. Reg. XII. 11. et 1. Par. VII. 17."
     },
     {
       "key": "page_0199-c",
       "n": 14,
-      "text": "Præceptum eſt in lege ut non Hebræus habeat equos. Ierom. in Pſalm. 75. Idem in Iſai, XXXI. 7."
+      "text": "Præceptum est in lege ut non Hebræus habeat equos. Ierom. in Psalm. 75. Idem in Isai, XXXI. 7."
     },
     {
       "key": "page_0199-d",
@@ -293,7 +293,7 @@
     {
       "key": "page_0200-a",
       "n": 18,
-      "text": "1. Par. II. 22. _Sed & Segub genuit Jaïr, & poſſedit viginti tres civitates in terra Galaad._"
+      "text": "1. Par. II. 22. _Sed et Segub genuit Jaïr, et possedit viginti tres civitates in terra Galaad._"
     },
     {
       "key": "page_0200-b",
@@ -323,12 +323,12 @@
     {
       "key": "page_0202-a",
       "n": 24,
-      "text": "Uſſer. Salian. Torniel."
+      "text": "Usser. Salian. Torniel."
     },
     {
       "key": "page_0202-b",
       "n": 25,
-      "text": "Euſeb. Geneb. ex tradit. Heb."
+      "text": "Euseb. Geneb. ex tradit. Heb."
     },
     {
       "key": "page_0202-c",
@@ -368,7 +368,7 @@
     {
       "key": "page_0203-e",
       "n": 33,
-      "text": "Joſue XXIII. 13."
+      "text": "Josue XXIII. 13."
     },
     {
       "key": "page_0203-f",
@@ -378,7 +378,7 @@
     {
       "key": "page_0203-g",
       "n": 35,
-      "text": "I. Par. IV. 40. 41. Vide & 2. Par. XXVI, 7."
+      "text": "I. Par. IV. 40. 41. Vide et 2. Par. XXVI, 7."
     },
     {
       "key": "page_0204-a",
@@ -398,89 +398,17 @@
     {
       "key": "page_0204-d",
       "n": 39,
-      "text": "Vide Vatab, Druſ. &c."
+      "text": "Vide Vatab, Drus. etc."
     },
     {
       "key": "page_0205-a",
       "n": 40,
-      "text": "Joſue XI, 3. & XIII, 26."
+      "text": "Josue XI, 3. et XIII, 26."
     },
     {
       "key": "page_0205-b",
       "n": 41,
       "text": "Judic. I. 1."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0197",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0198",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0199",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0200",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0201",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0202",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0203",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0204",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0205",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0206",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

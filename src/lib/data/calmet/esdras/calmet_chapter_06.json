@@ -30,7 +30,7 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SUMPTUS DE DOMO REGIS DABUNTUR.",
       "lemma": "L'argent pour cette dépense sera fourni de la maison du Roi.",
       "text": "Il ne paraît pas par ce qui est rapporté ci-devant, que Cyrus ait fourni l'argent pour tout le bâtiment du Temple. Il avait seulement ordonné qu'on donnât des bois du mont Liban, et qu'on les conduisît jusqu'à Joppé: mais les Juifs fournissaient la nourriture, et le paiement aux ouvriers.[14] Ce qui est donc marqué ici de l'argent fourni par Cyrus, se doit entendre de quelque somme qu'il donnait par an pour cet édifice, ou de ce qu'il fournissait pour les holocaustes de tous les jours."
@@ -44,7 +44,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DE ARCA REGIS, ID EST, DE TRIBUTIS, QUÆ DANTUR DE REGIONE TRANS FLUMEN.",
       "lemma": "Que des coffres du Roi, et des tributs qui se lèvent sur les pays qui sont au-delà du fleuve, on fournisse.",
       "text": "sieurs (1) traduisent le Texte de cette sorte : _Que des trésors, ou des richesses du Roi, c'est-à-dire, des tributs de delà le fleuve, on fournisse, etc._"
@@ -65,7 +65,7 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DOMUS EJUS PUBLICETUR.",
       "lemma": "Que sa maison soit confisquée, au profit du Roi.",
       "text": "[24] Plusieurs nouveaux Interprètes traduisent ainsi le Texte, [25] après le Syriaque : _Que sa maison soit convertie en un lieu commun, destinée aux ordures, et aux immondices_ : Sterquilinium fiat propter hoc. [26] Dans d'autres occasions, on a vu de pareils châtiments. Sous le règne de Jéhu, Roi d'Israël, on abandonna le Temple de Baal, pour en faire des lieux d'ordures : _Destruxerunt Ædem Baal, et fecerunt pro ea latrinas_. [27] Nabuchodonosor faisait la même menace aux Devins de Chaldée, s'ils ne lui expliquaient son songe. [28] Il ordonna ensuite la même peine contre ceux qui ne reconnaîtraient point le Dieu de Sidrac, Misac, et Abdenago. [29] Il y en a qui traduisent : _Sa maison sera abandonnée au pillage_ ; [30] ou elle sera rasée, et abattue. Ceux qui l'expliquent du pillage, et de la confiscation, paraissent les mieux fondés. Ceux qui étaient condamnés à mort parmi les Perses, étaient aussi pour l'ordinaire privés de leurs biens. Nous en voyons quelques exemples dans Esther, dans l'Ordonnance obtenue par Aman contre les Juifs, et dans celle de Mardochée, contre les ennemis de cette Nation. [31]"
@@ -194,7 +194,7 @@
     {
       "key": "page_0091-a",
       "n": 1,
-      "text": "Εἰς τῷ οἶκον τῆς γάζης. בבית גנזיא חמן ספריא ובקרו בבית ספריא די גנזיא מהחתין תמן 70. ce ſont Biblio-thécaires ὅπου ἡ Γάζα καίται ἐν Βαβυλῶνι."
+      "text": "Εἰς τῷ οἶκον τῆς γάζης. בבית גנזיא חמן ספריא ובקרו בבית ספריא די גנזיא מהחתין תמן 70. ce sont Biblio-thécaires ὅπου ἡ Γάζα καίται ἐν Βαβυλῶνι."
     },
     {
       "key": "page_0091-d",
@@ -204,12 +204,12 @@
     {
       "key": "page_0091-f",
       "n": 3,
-      "text": "Ita Menoch. Jun. Piſc. Sanst. Lyran, Malv."
+      "text": "Ita Menoch. Jun. Pisc. Sanst. Lyran, Malv."
     },
     {
       "key": "page_0092-a",
       "n": 4,
-      "text": "Vide Munſt. & Malv."
+      "text": "Vide Munst. et Malv."
     },
     {
       "key": "page_0092-b",
@@ -224,7 +224,7 @@
     {
       "key": "page_0092-d",
       "n": 7,
-      "text": "Munſt Mont Pagn. &c."
+      "text": "Munst Mont Pagn. etc."
     },
     {
       "key": "page_0092-e",
@@ -234,7 +234,7 @@
     {
       "key": "page_0092-f",
       "n": 9,
-      "text": "אחמתא Pagn. in lagena. Mont. in ſcrinio ſcripturarum."
+      "text": "אחמתא Pagn. in lagena. Mont. in scrinio scripturarum."
     },
     {
       "key": "page_0093-a",
@@ -244,12 +244,12 @@
     {
       "key": "page_0093-b",
       "n": 11,
-      "text": "Tract. Middot. cap. 4. ſect. 6."
+      "text": "Tract. Middot. cap. 4. sect. 6."
     },
     {
       "key": "page_0093-c",
       "n": 12,
-      "text": "Joſeph. de Bello lib. 6. c. 6. in Lat. pag. 918. Συνάγεται γὰρ ἄνω πρὸς ἑξήκοντα πήχεις εἰς ὕψος, τὸ δὲ εὖρος ἑκατὸν τὸ κατὰ ἀνατολὴν."
+      "text": "Joseph. de Bello lib. 6. c. 6. in Lat. pag. 918. Συνάγεται γὰρ ἄνω πρὸς ἑξήκοντα πήχεις εἰς ὕψος, τὸ δὲ εὖρος ἑκατὸν τὸ κατὰ ἀνατολὴν."
     },
     {
       "key": "page_0093-d",
@@ -259,12 +259,12 @@
     {
       "key": "page_0094-a",
       "n": 14,
-      "text": "Vide I Eſdr. III. 7. De'erant autem pecunias latomis & cæmentariis ; cibum quoque, & potum Sidoniis Tyriíſque, ut deferrent ligna cedrina de Libano. Voyez auſſi I. Eſdr. I. 4 & Grot. ad ℣. 8. huj. cap."
+      "text": "Vide I Esdr. III. 7. De'erant autem pecunias latomis et cæmentariis ; cibum quoque, et potum Sidoniis Tyriísque, ut deferrent ligna cedrina de Libano. Voyez aussi I. Esdr. I. 4 et Grot. ad ℣. 8. huj. cap."
     },
     {
       "key": "page_0094-b",
       "n": 15,
-      "text": "Καὶ ἀπ᾽ ἐμᾶ ἐτέθη γνώμη, ἵνα μὴ ποτε τι ποιῆτε μετὰ τῶν πρεσβυτέρων, &c."
+      "text": "Καὶ ἀπ᾽ ἐμᾶ ἐτέθη γνώμη, ἵνα μὴ ποτε τι ποιῆτε μετὰ τῶν πρεσβυτέρων, etc."
     },
     {
       "key": "page_0094-c",
@@ -279,22 +279,22 @@
     {
       "key": "page_0095-c",
       "n": 18,
-      "text": "Pag. Jun. Piſc. Tigur. Not."
+      "text": "Pag. Jun. Pisc. Tigur. Not."
     },
     {
       "key": "page_0095-d",
       "n": 19,
-      "text": "Munſt. Ludov. de Dieu, Tig. Mont."
+      "text": "Munst. Ludov. de Dieu, Tig. Mont."
     },
     {
       "key": "page_0095-e",
       "n": 20,
-      "text": "Eſth. VII. 9."
+      "text": "Esth. VII. 9."
     },
     {
       "key": "page_0095-f",
       "n": 21,
-      "text": "Vide Schindler. & Lud. de Dieu his."
+      "text": "Vide Schindler. et Lud. de Dieu his."
     },
     {
       "key": "page_0096-a",
@@ -344,17 +344,17 @@
     {
       "key": "page_0097-a",
       "n": 31,
-      "text": "Voyez Eſth. III. 13. & VIII. II. & IX. 14. 15."
+      "text": "Voyez Esth. III. 13. et VIII. II. et IX. 14. 15."
     },
     {
       "key": "page_0097-b",
       "n": 32,
-      "text": "Abenezra, & R. Salom."
+      "text": "Abenezra, et R. Salom."
     },
     {
       "key": "page_0097-c",
       "n": 33,
-      "text": "Vide Uſſer. ab an. 3485."
+      "text": "Vide Usser. ab an. 3485."
     },
     {
       "key": "page_0097-d",
@@ -364,27 +364,27 @@
     {
       "key": "page_0097-e",
       "n": 35,
-      "text": "Johan. II. 20. _Quadraginta & ſex annis ædificatum eſt Templum hoc._"
+      "text": "Johan. II. 20. _Quadraginta et sex annis ædificatum est Templum hoc._"
     },
     {
       "key": "page_0098-a",
       "n": 36,
-      "text": "Grot. ad Iohan. II. 20. & Salian ad an. 3137."
+      "text": "Grot. ad Iohan. II. 20. et Salian ad an. 3137."
     },
     {
       "key": "page_0098-b",
       "n": 37,
-      "text": "Baron. tom. I. Annal. Tirin. & Eſt. ad Ioh. II. 20. Lud. Capell. Clar. alii in Iohan."
+      "text": "Baron. tom. I. Annal. Tirin. et Est. ad Ioh. II. 20. Lud. Capell. Clar. alii in Iohan."
     },
     {
       "key": "page_0098-c",
       "n": 38,
-      "text": "I. Eſdr. IIII. 1. 2. 3. & ſeq. IV. I. 5."
+      "text": "I. Esdr. IIII. 1. 2. 3. et seq. IV. I. 5."
     },
     {
       "key": "page_0098-d",
       "n": 39,
-      "text": "I. Eſdr. VI. 15. 18."
+      "text": "I. Esdr. VI. 15. 18."
     },
     {
       "key": "page_0098-e",
@@ -414,84 +414,12 @@
     {
       "key": "page_0099-b",
       "n": 45,
-      "text": "Levit. paſſim, & Num. III. 6. & ſeq. & VIII. 9. & ſequ."
+      "text": "Levit. passim, et Num. III. 6. et seq. et VIII. 9. et sequ."
     },
     {
       "key": "page_0099-c",
       "n": 46,
-      "text": "Exod. XII. 48. _Quod ſi quis peregrinorum in veſtram voluerit tranſire coloniam, & facere Phaſe Domini, circumcidatur priùs omne maſculinum ejus, &c._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0091",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0092",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0093",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0094",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0095",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0096",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0097",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0098",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0099",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0100",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Exod. XII. 48. _Quod si quis peregrinorum in vestram voluerit transire coloniam, et facere Phase Domini, circumcidatur priùs omne masculinum ejus, etc._"
     }
   ],
   "missing_footnotes": []

@@ -24,9 +24,9 @@
     {
       "verse": 7,
       "sub": false,
-      "latin_lemma": "CUM AUTEM IN MANU JEHU....VERBUM DOMINI FACTUM ESSET CONTRA BAASA,....OB HANC CAUSAM OCCIDIT EUM, HOC EST JEHU, &c.",
+      "latin_lemma": "CUM AUTEM IN MANU JEHU....VERBUM DOMINI FACTUM ESSET CONTRA BAASA,....OB HANC CAUSAM OCCIDIT EUM, HOC EST JEHU, etc.",
       "lemma": "Mais le Prophète Jéhu ayant déclaré à Baasa ce que le Seigneur avait prononcé contre lui,... Baasa tua ce même Prophète Jéhu.",
-      "text": "Nous avons déjà remarqué que ces dernières paroles : _Il tua le Prophète Jéhu, fils d'Hanani_, ne se lisent point dans le Texte original. Voici le sens qu'on peut donner à tout le verset. Après avoir raconté la mort de Baasa, et l'extinction de sa famille, l'Auteur sacré conclut : [6] _Car le Seigneur avait adressé sa parole à Jéhu, fils d'Hanani, contre Baasa, et contre sa maison, à cause du mal qu'il avait fait aux yeux du Seigneur, l'ayant irrité par les œuvres de ses mains, en se rendant semblable à la maison de Jéroboam. C'est pourquoi le Seigneur le fit mourir. Il fit mourir Baasa._ Ou, selon d'autres : _À cause du mal qu'il avait fait aux yeux du Seigneur_ pour se mettre en la place de la maison de Jéroboam; et parce qu'il l'avait mis à mort.[7] Dieu le punit de son usurpation, et du meurtre commis par lui en la personne de Nadad, fils de Jéroboam, et de ses enfants."
+      "text": "Nous avons déjà remarqué que ces dernières paroles : _Il tua le Prophète Jéhu, fils d'Hanani_, ne se lisent point dans le Texte original. Voici le sens qu'on peut donner à tout le verset. Après avoir raconté la mort de Baasa, et l'extinction de sa famille, l'Auteur sacré conclut : [6] _Car le Seigneur avait adressé sa parole à Jéhu, fils d'Hanani, contre Baasa, et contre sa maison, à cause du mal qu'il avait fait aux yeux du Seigneur, l'ayant irrité par les œuvres de ses mains, en se rendant semblable à la maison de Jéroboam. C'est pourquoi le Seigneur le fit mourir. Il fit mourir Baasa._ Ou, selon d'autres : _À cause du mal qu'il avait fait aux yeux du Sei-_ _gneur, pour se mettre en la place de la maison de Jéroboam; et parce qu'il l'avait mis à mort._[7] Dieu le punit de son usurpation, et du meurtre commis par lui en la personne de Nadad, fils de Jéroboam, et de ses enfants."
     },
     {
       "verse": 8,
@@ -44,7 +44,7 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN DOMO ARSA, PRÆFECTI THERSA.",
       "lemma": "Dans la maison d'Arsa, Gouverneur de Thersa.",
       "text": "L'Hébreu:[11] _Dans la maison d'Arsa, qui était Intendant du Palais de Thersa._ Le Caldéen, et l'Arabe: Il était dans le Temple de l'Idole Arsa, qui était à Thersa. Mais quelle était cette Idole d'Arsa? Ce terme signifie la terre; les Païens l'adoraient comme la mère des Dieux et des hommes, ou bien _Arsa_, est mis pour _Asera_, Astarte."
@@ -117,15 +117,15 @@
       "sub": false,
       "latin_lemma": "IN DIEBUS EJUS ÆDIFICAVIT HIEL DE BETHEL, JERICHO.",
       "lemma": "Pendant son règne, Hiel, qui était de Béthel, bâtit Jéricho.",
-      "text": "On sait que Josué, après avoir pris et ruiné la ville de Jéricho, prononça une malédiction contre celui qui la rebâtirait. [27] Hiel, natif de Béthel, sans craindre ces menaces, se mit à la rétablir sous le règne d'Achab. Ce prince n'avait pas assez de zèle, pour emempêcher l'exécution de ce dessein ; et Hiel, qui était un Idolâtre déclaré, ne se mettait guères en peine de tout ce que Josué avait dit. Mais la vengeance de Dieu éclata sur la famille de Hiel, d'une manière très sensible. Cet impie perdit tous ses enfants, pendant qu'il rebâtissait Jéricho. Abiram son fils aîné, mourut pendant qu'on en posait les fondements. Ses autres fils moururent pendant qu'on construisait le corps de la ville ; et Ségub, le dernier de ses enfants, mourut lorsqu'elle fut achevée, et qu'on y pendit les portes. On peut voir ce que nous avons remarqué sur la ville de Jéricho, et sur sa situation, dans le Commentaire, sur Josué, VI. 26."
+      "text": "On sait que Josué, après avoir pris et ruiné la ville de Jéricho, prononça une malédiction contre celui qui la rebâtirait. [27] Hiel, natif de Béthel, sans craindre ces menaces, se mit à la rétablir sous le règne d'Achab. Ce prince n'avait pas assez de zèle, pour empêcher l'exécution de ce dessein ; et Hiel, qui était un Idolâtre déclaré, ne se mettait guères en peine de tout ce que Josué avait dit. Mais la vengeance de Dieu éclata sur la famille de Hiel, d'une manière très sensible. Cet impie perdit tous ses enfants, pendant qu'il rebâtissait Jéricho. Abiram son fils aîné, mourut pendant qu'on en posait les fondements. Ses autres fils moururent pendant qu'on construisait le corps de la ville ; et Ségub, le dernier de ses enfants, mourut lorsqu'elle fut achevée, et qu'on y pendit les portes. On peut voir ce que nous avons remarqué sur la ville de Jéricho, et sur sa situation, dans le Commentaire, sur Josué, VI. 26."
     }
   ],
   "joins": [
     {
       "seam": "page_0346>page_0347",
       "verse": 1,
-      "mode": "hyphen",
-      "before": " fait tuer Jéhu, c’est que du tems de Josaphat, qui vivait",
+      "mode": "flow",
+      "before": "asa eût fait tuer Jéhu, c’est que du tems de Josaphat, qui",
       "after": "vivait après Baasa, nous voyons le Prophète Jéhu, fils d'H"
     },
     {
@@ -138,9 +138,9 @@
     {
       "seam": "page_0348>page_0349",
       "verse": 7,
-      "mode": "hyphen",
-      "before": "s : _À cause du mal qu'il avait fait aux yeux du Seigneur_",
-      "after": "gneur, pour se mettre en la place de la maison de Jéroboam"
+      "mode": "flow",
+      "before": "utres : _À cause du mal qu'il avait fait aux yeux du Sei-_",
+      "after": "_gneur, pour se mettre en la place de la maison de Jéroboa"
     },
     {
       "seam": "page_0349>page_0350",
@@ -180,7 +180,7 @@
     {
       "seam": "page_0355>page_0356",
       "verse": 34,
-      "mode": "splice",
+      "mode": "refrag",
       "before": "gne d'Achab. Ce prince n'avait pas assez de zèle, pour em-",
       "after": "empêcher l'exécution de ce dessein ; et Hiel, qui était un"
     }
@@ -207,17 +207,17 @@
     {
       "key": "page_0347-a",
       "n": 2,
-      "text": "2. Par. XIX. 2. Cui occurrit Jehu filius Hanani videns, & ait ad eum ; impio præbes auxilium, &c."
+      "text": "2. Par. XIX. 2. Cui occurrit Jehu filius Hanani videns, et ait ad eum ; impio præbes auxilium, etc."
     },
     {
       "key": "page_0347-b",
       "n": 3,
-      "text": "Ita Malu. & alii nonnulli."
+      "text": "Ita Malu. et alii nonnulli."
     },
     {
       "key": "page_0347-c",
       "n": 4,
-      "text": "Ita Hebræi Lyr. Caiet. Vatab. Munſt. & plerique."
+      "text": "Ita Hebræi Lyr. Caiet. Vatab. Munst. et plerique."
     },
     {
       "key": "page_0347-d",
@@ -237,12 +237,12 @@
     {
       "key": "page_0349-b",
       "n": 8,
-      "text": "℣. 8. Anno vigesimo ſexto Aſa, regnavit Ela."
+      "text": "℣. 8. Anno vigesimo sexto Asa, regnavit Ela."
     },
     {
       "key": "page_0349-c",
       "n": 9,
-      "text": "℣. 10. Zambri percuſſit eum anno vigesimo ſeptimo Aſa."
+      "text": "℣. 10. Zambri percussit eum anno vigesimo septimo Asa."
     },
     {
       "key": "page_0349-d",
@@ -257,22 +257,22 @@
     {
       "key": "page_0350-a",
       "n": 12,
-      "text": "Philo _Vita Joſeph. apud Grot. hic._"
+      "text": "Philo _Vita Joseph. apud Grot. hic._"
     },
     {
       "key": "page_0351-a",
       "n": 13,
-      "text": "_Juſtin. lib. 1. & Athen. lib. XIII. c. 7. Vide Caſaubon. in hunc lib. Athen. &c._"
+      "text": "_Justin. lib. 1. et Athen. lib. XIII. c. 7. Vide Casaubon. in hunc lib. Athen. etc._"
     },
     {
       "key": "page_0351-b",
       "n": 14,
-      "text": "_Kimchi in Munſt. alii in Vat._"
+      "text": "_Kimchi in Munst. alii in Vat._"
     },
     {
       "key": "page_0351-c",
       "n": 15,
-      "text": "_Vide, ſi lubet, Sanct._"
+      "text": "_Vide, si lubet, Sanct._"
     },
     {
       "key": "page_0352-a",
@@ -282,12 +282,12 @@
     {
       "key": "page_0352-b",
       "n": 17,
-      "text": "Vide Uſſer. Sanst. Vasab. &c."
+      "text": "Vide Usser. Sanst. Vasab. etc."
     },
     {
       "key": "page_0353-a",
       "n": 18,
-      "text": "3. Reg. XXII. 39. Domus eburnea quam ædificavit, cunctarumque urbium quas extruexit, &c."
+      "text": "3. Reg. XXII. 39. Domus eburnea quam ædificavit, cunctarumque urbium quas extruexit, etc."
     },
     {
       "key": "page_0353-b",
@@ -302,12 +302,12 @@
     {
       "key": "page_0354-b",
       "n": 21,
-      "text": "3. Reg. XI. 1. Salomon adamavit mulieres alienigenas.... Idumæas, Sidonias, & Hethæas."
+      "text": "3. Reg. XI. 1. Salomon adamavit mulieres alienigenas.... Idumæas, Sidonias, et Hethæas."
     },
     {
       "key": "page_0355-a",
       "n": 22,
-      "text": "Vide Apocal. II. 20. Hab.o adverſum te pauca, quia permittis mulierem Jezabel, quæ ſe dicit Propheten, docere & ſeducere ſervos meos, fornicari, & manducare de Idolothytis."
+      "text": "Vide Apocal. II. 20. Hab.o adversum te pauca, quia permittis mulierem Jezabel, quæ se dicit Propheten, docere et seducere servos meos, fornicari, et manducare de Idolothytis."
     },
     {
       "key": "page_0355-b",
@@ -317,12 +317,12 @@
     {
       "key": "page_0355-c",
       "n": 24,
-      "text": "Menander Epheſ. apud Joſeph. lib. 1. contra Appion."
+      "text": "Menander Ephes. apud Joseph. lib. 1. contra Appion."
     },
     {
       "key": "page_0355-d",
       "n": 25,
-      "text": "Vide Joſeph. Antiq. lib. 8. c. 7."
+      "text": "Vide Joseph. Antiq. lib. 8. c. 7."
     },
     {
       "key": "page_0355-e",
@@ -332,86 +332,7 @@
     {
       "key": "page_0355-f",
       "n": 27,
-      "text": "Joſue VI. 26."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0346",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0347",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0348",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0349",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0350",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0351",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0352",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0353",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0354",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0355",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0356",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Josue VI. 26."
     }
   ],
   "missing_footnotes": []

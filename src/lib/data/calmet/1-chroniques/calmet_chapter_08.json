@@ -121,7 +121,7 @@
     },
     {
       "verse": 33,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ABINADAB",
       "lemma": null,
       "text": "c'est comme on croit le même que _Jesui_.[22] ESBAAL, c'est Isboseth. Les Hébreux évitaient de prononcer le nom de _Baal_, qui était un faux Dieu, et substituaient en sa place _Boseth_, qui signifie, la _confusion_."
@@ -196,7 +196,7 @@
     {
       "key": "page_0143-b",
       "n": 2,
-      "text": "Comparez ce chap. avec I. Eſdr. X. 21."
+      "text": "Comparez ce chap. avec I. Esdr. X. 21."
     },
     {
       "key": "page_0143-c",
@@ -211,12 +211,12 @@
     {
       "key": "page_0143-e",
       "n": 5,
-      "text": "Geneſ. XLVI. 21."
+      "text": "Genes. XLVI. 21."
     },
     {
       "key": "page_0144-a",
       "n": 6,
-      "text": "Geneſ. XLVI. ℣. 21."
+      "text": "Genes. XLVI. ℣. 21."
     },
     {
       "key": "page_0144-b",
@@ -226,7 +226,7 @@
     {
       "key": "page_0144-c",
       "n": 8,
-      "text": "Geneſ. XLVI. ℣. 21."
+      "text": "Genes. XLVI. ℣. 21."
     },
     {
       "key": "page_0144-d",
@@ -246,12 +246,12 @@
     {
       "key": "page_0145-a",
       "n": 12,
-      "text": "Vide Jun. & Tremell. Belgic, Verſ. &c. dimiſit eos, nempe Naaman, Ahia, & Géra."
+      "text": "Vide Jun. et Tremell. Belgic, Vers. etc. dimisit eos, nempe Naaman, Ahia, et Géra."
     },
     {
       "key": "page_0145-b",
       "n": 13,
-      "text": "[UNCERTAIN HEBREW] Poſtquam"
+      "text": "[UNCERTAIN HEBREW] Postquam"
     },
     {
       "key": "page_0145-c",
@@ -261,17 +261,17 @@
     {
       "key": "page_0146-a",
       "n": 15,
-      "text": "1. Eſdr. II. 33. _Filii Lod, Hadid, & Ono._ Ibi & 2. Eſdr. VII. 37. & XI. 34. 35."
+      "text": "1. Esdr. II. 33. _Filii Lod, Hadid, et Ono._ Ibi et 2. Esdr. VII. 37. et XI. 34. 35."
     },
     {
       "key": "page_0147-a",
       "n": 16,
-      "text": "Voyez ce qu'on a dit ſur Joſué xv. 63."
+      "text": "Voyez ce qu'on a dit sur Josué xv. 63."
     },
     {
       "key": "page_0147-b",
       "n": 17,
-      "text": "ושמו אשתו מעכה אבי גבעון 70. & ſa-bavit anteaſes auti; Gabaon."
+      "text": "ושמו אשתו מעכה אבי גבעון 70. et sa-bavit anteases auti; Gabaon."
     },
     {
       "key": "page_0147-c",
@@ -281,7 +281,7 @@
     {
       "key": "page_0147-d",
       "n": 19,
-      "text": "Geneſ. XVI. 12."
+      "text": "Genes. XVI. 12."
     },
     {
       "key": "page_0148-a",
@@ -291,7 +291,7 @@
     {
       "key": "page_0148-b",
       "n": 21,
-      "text": "Ita Autor Tradit. Hebr. in libb. Paralipp. & Lyr. alii paſſim."
+      "text": "Ita Autor Tradit. Hebr. in libb. Paralipp. et Lyr. alii passim."
     },
     {
       "key": "page_0148-c",
@@ -322,57 +322,6 @@
       "key": "page_0149-e",
       "n": 27,
       "text": "_2. Reg. I. 22._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0143",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0144",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0145",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0146",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0147",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0148",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0149",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

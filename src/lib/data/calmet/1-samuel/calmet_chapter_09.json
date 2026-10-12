@@ -1,8 +1,768 @@
 {
-  "notes": [],
-  "joins": [],
-  "pages_used": [],
-  "footnotes": [],
-  "decisions": [],
+  "notes": [
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "ELECTUS ET BONUS, ET NON ERAT.... MELIOR ILLO.",
+      "lemma": "Parfaitement bien fait, et il n'y en avait point de mieux fait que lui.",
+      "text": "L'Hébreu à la lettre [3] de même que la Vulgate. _C'était un jeune homme bon, et il n'y en avait point de meilleur que lui dans tout Israël._ Mais on sait que le même nom qui signifie _bon_, signifie aussi _beau_; on dit par exemple, que les filles des hommes étaient _bonnes_; [4] et pour le contraire, on dit que les vaches que Pharaon vit en second lieu étaient _mauvaises_. [5] Homère s'explique quelquefois de même, pour dire _beau et grand_, il dit, _bon et grand_. [6]"
+    },
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "AB HUMERO ET SURSUM EMINEBAT SUPER OMNEM POPULUM.",
+      "lemma": "Plus haut de toute la tête que tout le reste du peuple.",
+      "text": "D'une taille avantageuse et digne de la royauté. Cet air noble et majestueux, inspire du respect et de la vénération; les peuples ont toujours souhaité, autant qu'il a été possible, de belles qualités du corps dans ceux qui devaient commander. Les Éthiopiens donnaient les plus grands emplois à ceux qui étaient les mieux faits ; [7] et l'on sait qu'un Roi de Lacédémone fut mis à l'amende, pour avoir pris une petite femme, dont on ne pouvait espérer que des Rois d'une taille peu avantageuse. [8] Les Poètes nous dépeignent toujours les Dieux et les Héros d'une grandeur au-dessus de l'ordinaire. Virgile en parlant de Diane ; _Gradiensque Deas supereminet omnes_; et en parlant de Turnus; [9] _Et toto vertice supra est._"
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "VADE, ET QUÆRE ASINAS.",
+      "lemma": "Allez chercher ces ânesses.",
+      "text": "On voit dans toute cette histoire divers traits des mœurs anciennes, et de cette première et vénérable simplicité. Alors le grand, le héros et le particulier s'appliquaient également à l'agriculture et à la nourriture des animaux ; comme aujourd'hui les princes et les nobles s'appliquent à la chasse, à la guerre, et à d'autres occupations pénibles et laborieuses. Abraham, les patriarches et les juges d'Israël, qu'on ne doit certainement pas regarder comme de petits génies ou de pauvres bergers, faisaient pour la plupart leur principale occupation de paître des troupeaux et de cultiver la terre. C'était l'application et le commerce des Arabes, des Iduméens, des Moabites, et de tant d'autres peuples. Les dieux mêmes et les héros anciens, et les fils de princes, n'ont point eu honte d'exercer ce métier. [10] Garder les ânesses et aller les chercher n'était point une chose basse ou honteuse parmi des peuples où tout le monde était également noble, et où chacun s'appliquait aux mêmes exercices. Nous connaissons dans l'Écriture un des descendants d'Ésaü, [11] qui était chef et prince d'un canton, et qui gardait les ânes de son père. Les ânes dans la Palestine étaient la monture ordinaire des princes et des grands. Débora désigne les princes d'Israël par ces mots : [12] _Vous qui montez des ânes luisants et polis_."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "PER TERRAM SALISA.",
+      "lemma": "Par le pays de Salisa.",
+      "text": "On croit que Salisa, ou Salissa, ou Baal-salissa, est la même que Ségor, célèbre par la retraite de Loth au sortir de Sodome. On prétend, selon la tradition des Juifs, [13] que cette ville est nommée _Salissa_, ou la _Génisse de trois ans_, dans les prophètes Isaïe [14] et Jérémie. [15] Le Chaldéen traduit : _La terre Australe_, ou méridionale. En effet _Salisa_, ou Ségor, était vers la pointe méridionale de la mer Morte, en tirant vers l'orient. Mais Eusèbe et saint Jérôme placent _Baal-salisa_ dans le canton de Diospolis, à quinze mille de cette ville, au septentrion de Jérusalem, et c'est ce qui nous paraît le plus certain."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "TERRAM SALIM.",
+      "lemma": "La terre de Salim.",
+      "text": "Quelques-uns ont cru que c'était la même que _Salim_ près d'Aennon, dont il est parlé dans l'Évangile; [16] mais la manière dont _Salim_ est écrit en cet endroit, [17] peut faire croire que c'est la terre de _Sual_, qui se trouve marquée ci-après, [18] et qui était située vers le Jourdain, peu éloignée de Galgal. [19]"
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "TERRAM JEMINI.",
+      "lemma": "Le pays de Jémini, ou le canton de Benjamin.",
+      "text": "Peut-être même que c'est Jérusalem, dont il veut parler; en sorte qu'il alla d'abord de Gabaa au couchant vers _Salisa_ dans la tribu de Dan, ensuite il passa près de _Salim_, ou Jérusalem, et de là parcoururent la tribu de Benjamin, qui est à l'orient de cette ville; comme ils s'en retournaient à Gabaa, passant par la terre de _Suph_ où était située Ramatha patrie de Saül, ils résolurent d'aller consulter ce Prophète. Ainsi ils n'auraient pas fait plus de vingt-cinq lieues en trois jours de marche."
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "IN TERRAM SUPH.",
+      "lemma": "Dans la terre de Suph.",
+      "text": "Dans le territoire de Ramatha, patrie de Samuël, habitée par les descendants de Suph. Voyez ce qu'on a dit ci-devant Chap. I. 1."
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "NE FORTE DIMISERIT ASINAS, ET SOLICITUS SIT PRO NOBIS.",
+      "lemma": "De peur qu'il ne soit plus en peine de nous, que des",
+      "text": "ânesses. A la lettre: De peur que mon père n'ait abandonné le soin de ses ânesses, et qu'il ne soit en peine de nous."
+    },
+    {
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": "VIR DEI... VIR NOBILIS.",
+      "lemma": "Un homme de Dieu, qui est fort célèbre.",
+      "text": "L'Hébreu;[20] _Un homme de Dieu, un homme glorieux, illustre, vénérable._"
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "QUID FEREMUS AD VIRUM DEI?",
+      "lemma": "Que porterons-nous à l'homme de Dieu?",
+      "text": "Saül et son serviteur pouvaient-ils ignorer le désintéressement de Samuël, qui était si connu de tout Israël? Croyaient-ils que ce Prophète vendît comme les Devins ordinaires, ses prédictions pour de l'argent? Non, sans doute. Mais on voit par toute l'Écriture, que l'on n'allait point voir les Prophètes qu'on ne leur portât quelques présents, pour leur marquer son respect et sa reconnaissance. Les anciens étaient d'un goût fort différent du nôtre dans ces sortes de choses. Dieu ne voulait pas qu'on se présentât devant lui les mains vides. Les Rois et les Princes en usaient à peu près de même envers leurs sujets. C'est l'usage encore à présent parmi les peuples de Syrie, de ne faire jamais de visites sans offrir quelques présents à ceux qu'on va voir; c'est parmi eux une marque d'impolitesse et de dureté d'en agir autrement.[21] Quoique les Prophètes n'exigeassent rien, la vénération qu'on avait pour leur personne, ne permettait pas qu'on s'en approchât sans quelques présents. C'était une manière d'hommage; y aller les mains vides, aurait été une incivilité. Balaam recevait des présents, et une récompense de ceux qui le consultaient.[22] Abia fils du Roi de Jéroboam étant tombé malade, ce Prince envoya sa femme au Prophète Ahias, et lui dit; _Déguisez-vous, afin qu'on ne vous prenne pas pour la femme de Jéroboam; et prenez dix pains, des gâteaux, et un pot de miel, et allez consulter le Prophète._[23] Le Prophète Élisée recevait aussi de pareils présents. Un homme de _Baal-salisa_ lui apporta vingt pains d'orge, et du froment nouveau, comme des prémices. Naaman après sa guérison lui offrit de grands présents ; mais ce Prophète ne les accepta pas. Dieu se plaint par ses Prophètes, que les Devins ne prophétisaient que pour de l'argent. _Prophetæ ejus in pecunia divinabant._ [24]"
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "PANIS DEFECIT IN SISTARCIIS NOSTRIS.",
+      "lemma": "Le pain qui était dans nos sacs, nous a manqué.",
+      "text": "On portait communément sa provision en voyage, parce qu'on ne trouvait pas d'hôtelleries qui donnassent à boire et à manger. Saül aurait offert quelques pains à Samuel, s'il en eût eu encore dans son sac. Ce présent n'était pas indigne de Samuel ; Saül lui-même en reçut deux de la main de quelques personnes qu'il rencontra le même jour qu'il quitta Samuël. [25] David mena une charge de pains à Saül déjà Roi ; [26] ces sortes de présents sont communs dans l'Écriture, et nous donnent une idée de la bonne simplicité de ces siècles."
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "SPORTULAM NON HABEMUS UT DEMUS HOMINI DEI.",
+      "lemma": "Nous n'avons ni argent, ni quoi que ce soit pour donner à l'homme de Dieu.",
+      "text": "On peut traduire ainsi l'Hébreu:[27] _Nous n'avons aucun présent pour offrir à l'homme de Dieu ; et qu'avons-nous?_ Ou plutôt, selon les Septante : [28] _Nous n'avons plus rien pour porter à l'homme de Dieu, que ce peu qui nous reste._ Ou enfin, _il ne nous reste rien à présenter à l'homme de Dieu ; car, qu'avons-nous de reste?_ Le Syriaque : _Il ne nous reste plus rien de notre provision_, etc."
+    },
+    {
+      "verse": 8,
+      "sub": false,
+      "latin_lemma": "QUARTA PARS STATERIS.",
+      "lemma": "Le quart d'un sicle d'argent.",
+      "text": "Le quart d'un sicle valait huit sols un denier, et un peu plus."
+    },
+    {
+      "verse": 9,
+      "sub": false,
+      "latin_lemma": "OLIM IN ISRAËL..., SIC LOQUEBATUR: VENITE ET EAMUS AD VIDENTEM.",
+      "lemma": "Autrefois dans Israël ceux qui allaient consulter Dieu, s'entredisaient : Venez, allons au Voyant.",
+      "text": "Il est visible que celui qui a écrit ce passage, ne vivait pas du temps auquel ceci se passa ; car comment aurait-il pu deviner qu'une manière de parler commune de son temps, changerait, et qu'une autre prendrait sa place dans l'usage commun des Juifs ? Aussi la plupart des Interprètes veulent que ces paroles aient été ajoutées ici longtemps après Samuël, par Esdras, ou par quelque autre Prophète, qui a remanié ses écrits. D'autres [29] veulent que Samuël ait écrit ces paroles ; mais sur la fin de sa vie, et dans un temps où cette expression de _Voyant_ était vieillie, et qu'on lui avait substitué celle de _Prophète_. Mais quoique du temps de Samuël l'usage se fût introduit d'appeler communément les Voyants, Prophètes, on ne laissa pas encore longtemps après, de leur donner quelquefois le nom de _Voyants_. Par exemple sous David : [30] _O Voyant, retournez en paix dans la ville_. Et Gad est nommé, [31] _le Voyant de David_ : Et [32] _Addon le Voyant prophétisa contre Jéroboam_. Et le Roi Asa fit mettre dans les entraves [33] _Hanani le Voyant_, qui ne lui prédisait pas ce qu'il souhaitait.\nAu reste le nom de _Voyant_ pour marquer un Devin, ou un Prophète, et celui de _voir_ pour signifier _prédire_, et _prophétiser_, sont tout communs chez les Profanes. Balaam se qualifie, [34] _celui qui voit les visions du Très-Haut_. Et Jérémie [35] dit que les faux Prophètes voient des visions de mensonges, et qu'ils prophétisent de leurs propres cœurs. Les Égyptiens appelaient [36] _Voyants des dieux_ ceux qu'ils croyaient gens à révélations. Les devins, dans leurs enthousiasmes, se vantaient de voir devant leurs yeux les choses qui devaient arriver. _Je vois_, dit la Sibylle dans Virgile ; [37] _je vois des guerres sanglantes, et le Tibre enflé et tout écumant de sang._\n..... _Bella horrida, bella,\nEt Tiberim multo spumantem sanguine cerno._"
+    },
+    {
+      "verse": 12,
+      "sub": false,
+      "latin_lemma": "QUÆ DIXERUNT ILLIS : HIC EST. ECCE ANTE TE, FESTINA NUNC, HODIE ENIM VENIT IN CIVITATEM.",
+      "lemma": "Elles lui répondirent : Il y est ; le voilà devant vous : Allez vite ; car il est venu aujourd'hui dans la ville.",
+      "text": "Pour bien comprendre le récit que nous lisons en cet endroit, on doit remarquer que, quoique la maison de Samuël fût dans la ville de Ramatha, il vivait ordinairement à la campagne, en un lieu nommé _Najot_, avec d'autres prophètes qu'il élevait et qu'il instruisait ; c'est ce qu'on verra ci-après. [38] Samuël était donc venu ce jour-là dans la ville, et il devait assister à un sacrifice et à un repas avec les principaux du peuple. Ces filles à qui Saül en demande des nouvelles lui disent _qu'il est devant lui_ ; elles le lui montrèrent qui montait à la ville et qui le précédait. En effet, Samuël était à peine entré dans la ville qu'ayant tourné son visage du côté de la porte, il aperçut Saül avec son serviteur, qui le cherchaient. En même temps Dieu lui révéla que c'était cet homme qu'il destinait pour roi à son peuple : Samuël vint au-devant d'eux, et les reçut, comme on le verra ci-après. Ces filles qui sortent pour puiser de l'eau méritent attention. C'était l'ancienne coutume, bien marquée dans l'Écriture [39] et chez les profanes. Fabius Victor dit que _Rhéa_, suivant l'usage établi, par lequel les filles allaient quérir de l'eau pour les sacrifices, sortit pour aller à la fontaine qui était au bocage de Mars."
+    },
+    {
+      "verse": 12,
+      "sub": false,
+      "latin_lemma": "SACRIFICIUM EST HODIE POPULI IN EXCELSO.",
+      "lemma": "Il y a aujourd'hui un sacrifice du peuple sur le lieu haut.",
+      "text": "On verra dans la suite par plusieurs exemples, que l'on ne se faisait aucun scrupule, pendant tout le temps que le lieu du Tabernacle ne fut point fixé, de sacrifier au Seigneur sur les hauteurs. [40] Samuël avait érigé un autel sur une butte au-dessus de la ville de Ramatha ; c'est là qu'on devait offrir le sacrifice dont il est parlé ici, lequel devait être suivi d'un festin des principaux du lieu avec Samuël, où l'on servit les viandes des victimes immolées, parce que ce n'était qu'un sacrifice pacifique. Quelques-uns [41] croient que le nom de _sacrifice_ est mis ici pour un simple repas. Il est certain que souvent _sacrifier_ signifie simplement, tuer des animaux pour un festin ; [42] mais la suite de la narration fait voir que c'était un sacrifice, accompagné d'un repas de Religion, et qu'ils mangèrent dans le lieu haut, [43] où le sacrifice avait été offert."
+    },
+    {
+      "verse": 13,
+      "sub": false,
+      "latin_lemma": "QUIA IPSE BENEDICIT HOSTIÆ.",
+      "lemma": "C'est lui qui bénit l'hostie.",
+      "text": "Il fera les prières et les bénédictions usitées dans ces cérémonies. On déférait au plus ancien et au plus qualifié l'honneur de bénir les viandes qu'on servait, et de former les prières et les vœux de l'assemblée, au commencement et à la fin du repas. On voit ces usages dans toute l'Écriture."
+    },
+    {
+      "verse": 13,
+      "sub": false,
+      "latin_lemma": "QUIA HODIE REPERIETIS EUM.",
+      "lemma": "Car aujourd'hui vous le trouverez.",
+      "text": "L'Hébreu [44] _Car vous le trouverez comme aujourd'hui_. Vous le trouverez assurément aujourd'hui ; ou vous le trouverez tout à cette heure. Ou enfin vous le trouverez, vrai comme il fait jour. [45]"
+    },
+    {
+      "verse": 14,
+      "sub": false,
+      "latin_lemma": "CUM AMBULARENT IN MEDIO URBIS.",
+      "lemma": "Et comme ils s'avançaient.",
+      "text": "À la lettre : Comme ils marchaient au milieu de la ville. L'Hébreu : [46] _Comme ils entraient dans le milieu de la ville ;_ c'est-à-dire simplement, _dans la ville._ Car cette expression, _le milieu_, ne dit souvent qu'_au dedans_, soit qu'on soit beaucoup, ou peu avancé.[47] Il paraît par le ℣. 18. qu'ils n'étaient encore que sous la porte, lorsque Samuel les vint joindre."
+    },
+    {
+      "verse": 14,
+      "sub": false,
+      "latin_lemma": "SAMUEL EGREDIENS OBVIAM EIS.",
+      "lemma": "Samuel venait au-devant d'eux.",
+      "text": "Il ne faut pas croire qu'il soit sorti de la maison, pour venir au-devant d'eux ; il se tourna, et les ayant aperçus, il leur vint au-devant. Il s'avança, et alla les saluer."
+    },
+    {
+      "verse": 15,
+      "sub": false,
+      "latin_lemma": "DOMINUS AUTEM REVELAVERAT AURICULAM SAMUELIS.",
+      "lemma": "Le Seigneur avait révélé à Samuel.",
+      "text": "À la lettre : _Le Seigneur lui avait découvert l'oreille._ Manière de parler des Hébreux pour marquer, _dire en secret, dire à l'oreille._"
+    },
+    {
+      "verse": 16,
+      "sub": false,
+      "latin_lemma": "UNGES EUM DUCEM.",
+      "lemma": "Vous le sacrerez chef de mon peuple.",
+      "text": "L'Hébreu [48] _Nagid_, signifie proprement celui qui précède et qui marche à la tête d'une troupe. Les Septante, [49] _un Prince._ Le Chaldéen, _un Roi._ Les Hébreux dans le Chapitre précédent disaient à Samuel : [50] _Nous aurons un Roi qui marchera à notre tête, et qui combattra pour nous._ Un Prince doit être bon Roi, et bon guerrier ; c'est l'idée qu'en donne Homère, [51] et qu'Alexandre le Grand regardait comme la plus belle expression de ce Poète si judicieux.[52] Le Roi d'Israël devait faire les guerres du Seigneur, et combattre les ennemis du peuple de Dieu ; c'était là son principal emploi. SALVABIT POPULUM. _Il sauvera mon peuple._ Saül remporta de grands avantages sur les Philistins au commencement de son règne,[53] il réduisit ces peuples à demeurer en repos, et à n'inquiéter plus les Israélites; il fit aussi très heureusement la guerre aux Ammonites, aux Amalécites, aux Iduméens, aux Moabites, et aux Syriens. L'Écriture ne nous apprend pas le détail de toutes ces guerres ; mais elle dit en général que, lorsqu'il fut affermi dans le Royaume, _il fit la guerre à tous les ennemis qui étaient aux environs, contre Moab, contre les enfants d'Ammon, et d'Edom, contre Soba et les Philistins._ Il est à remarquer que depuis le commencement de Samuel, et depuis cette grande victoire que nous avons vue ci-devant,[54] le pays fut en paix pendant environ vingt ans, jusqu'au règne de Saül : mais cette paix ne fut pas complète; les Philistins avaient repris le dessus petit à petit, ils avaient désarmé les Israélites, et les avaient réduits à n'avoir aucuns maréchaux dans leur pays, et à venir chercher chez les Philistins des ouvriers pour faire tous les instruments du labourage, jusqu'à une pointe d'aiguillon. Ils avaient des troupes à la Colline de Dieu ;[55] ils en avaient aussi à Gabaa,[56] au commencement du règne de Saül ; de sorte que la condition des Israélites était très malheureuse ; c'est ce qui les obligea à pousser les cris dont il est parlé ci-après ; et ce fut peut-être une des raisons qui les obligea à demander un Roi."
+    },
+    {
+      "verse": 18,
+      "sub": false,
+      "latin_lemma": "IN MEDIO PORTÆ.",
+      "lemma": "Au milieu de la porte.",
+      "text": "Saül entrant dans la ville, et étant encore sous la porte, ou dans la place qui était à l'entrée de la ville, où se tenaient les assemblées, muel vint à sa rencontre, et Saül lui demanda des nouvelles du Voyant. Les Septante : [57] _Au milieu de la ville._ Le Chaldéen : _Au dedans de la porte._"
+    },
+    {
+      "verse": 19,
+      "sub": false,
+      "latin_lemma": "ASCENDE ANTE ME.",
+      "lemma": "Montez devant moi sur le haut lieu.",
+      "text": "Samuël ne voulait point encore monter au lieu où était l’assemblée, il y envoie toujours Saül devant. Comme ce Prophète ne faisait que d’arriver dans la ville, il s’arrêta quelque temps dans sa maison."
+    },
+    {
+      "verse": 20,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "un Roi ; ferons-nous plus malheureux que tant d'autres peuples ? Si c'est un bien, pourquoi en serions-nous privés ? Extravagance d'un peuple qui ne peut demeurer dans un état heureux, et qui renonce à ce qui fait son bonheur et sa gloire, pour courir à la servitude, et à l'indigence ; qui quitte Dieu pour avoir un homme pour chef nant la naissance, et l'autre l'éducation. [1]"
+    },
+    {
+      "verse": 20,
+      "sub": false,
+      "latin_lemma": "FORTIS ROBORE.",
+      "lemma": "Puissant et fort.",
+      "text": "L'Hébreu : [2] _homme fort_, ou robuste; ou _homme riche_, homme puissant."
+    },
+    {
+      "verse": 20,
+      "sub": false,
+      "latin_lemma": "CUJUS ERUNT OPTIMA QUÆQUE ISRAEL?",
+      "lemma": "Et à qui sera tout ce qu’il y a de meilleur dans Israël?",
+      "text": "Il marque en termes couverts le Royaume qui était l’objet des désirs et de l’ambition de tout Israël, et qu’on regardait comme le comble du bonheur et de la gloire. L’Hébreu : [58] _A qui sera tout le désir d’Israël?_ Le désir est mis pour une chose très désirable et très heureuse; le Messie est nommé [59] _le désiré des Nations_, et Daniel, [60] _l’homme des désirs_; et l’Époux du Cantique : [61] _Il est tout désirs._ Les Septante : [62] _Et à qui appartiendra tout ce qu’il y a de plus beau dans Israël?_"
+    },
+    {
+      "verse": 21,
+      "sub": false,
+      "latin_lemma": "FILIUS JEMINI.",
+      "lemma": "Fils de Jémini.",
+      "text": "C’est-à-dire de la tribu de Benjamin. _Jémini_ signifie _ma droite_, Benjamin, le fils de la droite: Cette tribu de Benjamin était une des plus petites tribus d'Israël : et depuis la guerre qu'elle soutint contre toutes les autres tribus,[63] elle était encore de beaucoup affaiblie. Il semble que Dieu par un effet de sa sagesse voulut éloigner toutes les occasions de jalousie entre les tribus d'Israël, en choisissant le Roi dans celle qui ne pouvait faire ombrage à aucune autre."
+    },
+    {
+      "verse": 21,
+      "sub": false,
+      "latin_lemma": "ET COGNATIO MEA NOVISSIMA.",
+      "lemma": "Et ma famille la moindre de toutes.",
+      "text": "Quoique tous les Israélites par leur naissance fussent également nobles, et également libres, il y avait pourtant parmi les familles certaines maisons plus illustrées, et plus élevées que les autres ; soit qu'on eût égard aux grands biens, ou au grand nombre des personnes, ou aux grands emplois qu'avaient eus les chefs de ces familles. Au reste, rien n'est plus beau que la modestie et l'humilité de Saül en cet endroit."
+    },
+    {
+      "verse": 22,
+      "sub": false,
+      "latin_lemma": "DEDIT EIS LOCUM IN CAPITE.",
+      "lemma": "Il les fit asseoir au-dessus de tous les conviés.",
+      "text": "A la tête de toute la compagnie ; les Septante :[64] Il ordonna qu'on leur donnât place parmi les premiers des conviés ; mais l'Hébreu, le Chaldéen et la Vulgate portent qu'on les mit à la tête de tous ; on ne sépara point Saül de son serviteur ; apparemment que ce serviteur n'était point un esclave, ni un étranger ; mais un Israélite qui était au service de Cis, et qui avait engagé sa liberté pour un temps. La place d'honneur à table parmi les Hébreux, était celle du haut bout ; cela paraît clairement par cet endroit, et par la parabole de J. C. dans l'Évangile, où il dit qu'il ne faut jamais prendre la première place, de peur qu'on ne soit obligé d'en descendre.[65] La chaise de Saül dans sa famille, lorsqu'il fut Roi, était près de la muraille, ou au fond de la salle : Abner et David étaient à ses côtés. Chez les Grecs, le plus distingué s'asseyait vis-à-vis de la muraille,[66] ou contre la muraille. Parmi les Perses, le Roi était à la tête, et les conviés à ses côtés, chacun selon son rang ; il mettait toujours à sa gauche [67] ceux auxquels il se fiait davantage, et après ceux-là, les plus qualifiés à sa droite. Le Texte Hébreu et la Vulgate portent que les conviés étaient au nombre de trente. Mais les Septante de l'Édition Romaine et Joseph lisent soixante et dix hommes."
+    },
+    {
+      "verse": 23,
+      "sub": false,
+      "latin_lemma": "DA PARTEM QUAM DEDI TIBI.",
+      "lemma": "Servez ce morceau de viande que je vous ai donné.",
+      "text": "Samuel qui faisait les honneurs de cette fête, et qui y présidait par une prérogative de sa dignité de Juge, et de son âge, avait fait partager la viande, et avait ordonné au cuisinier de réserver une épaule, parce qu'il avait du monde d'extraordinaire. Aussitôt qu'on fut à table, et que selon la coutume des Anciens, le premier de la fête commença à distribuer la viande aux conviés, [68] Samuel dit au cuisinier d'apporter cette épaule qu'il lui avait dit de mettre à part, et de la servir devant Saül, ce qu'il fit aussitôt. Il y en a qui croient que cette épaule que Samuel donne au cuisinier, était celle qu'il avait reçue pour sa part en qualité de Sacrificateur ; mais tout le monde sait que Samuel n'était point Prêtre, ainsi cette opinion ne peut subsister ; d'ailleurs il n'était point permis aux laïques, comme était Saül, de goûter des parties destinées aux Prêtres ; enfin l'Écriture ne dit en aucun endroit que cette épaule fût l'épaule droite, qui était la seule réservée au Prêtre."
+    },
+    {
+      "verse": 24,
+      "sub": false,
+      "latin_lemma": "LEVAVIT AUTEM COQUUS ARMUM, ET POSUIT ANTE SAUL.",
+      "lemma": "Le cuisinier prit donc l'épaule, et la servit devant Saül.",
+      "text": "L'Hébreu: [69] _Il leva l'épaule et ce qui est sur elle, et la mis_ devant Saül. Ou, _il leva l'épaule et la haussa, et la servit devant Saül_. La coutume de présenter devant les principaux et les plus distingués des conviés de gros et grands morceaux de viande rôtie est connue par l'Écriture [70] et par les auteurs profanes. Elle se voit dans la Grèce et dans les Gaules, [71] parmi les Égyptiens, et parmi les Hébreux. Agamemnon sert à Ajax un grand morceau de l'échine d'un bœuf, après son combat contre Hector. Ménélas en use de même envers Télémaque. [72] Homère est plein de ces exemples. _L'épaule et ce qui est par-dessus_ signifie le quartier entier de l'animal. Les Septante, Aquila et les autres interprètes [73] traduisent _la cuisse_ au lieu de _l'épaule_."
+    },
+    {
+      "verse": 24,
+      "sub": false,
+      "latin_lemma": "ECCE QUOD REMANSIT.",
+      "lemma": "Voilà ce qui est demeuré.",
+      "text": "J'aimerais mieux traduire l'hébreu : [74] _voilà ce qui vous a été réservé_ ; car, en suivant la Vulgate, il semblerait que ce morceau fût resté d'un repas précédent."
+    },
+    {
+      "verse": 24,
+      "sub": false,
+      "latin_lemma": "QUIA DE INDUSTRIA SER VATUM EST TIBI QUANDO POPULUM ROGAVI.",
+      "lemma": "Parce que je vous l'ai gardé exprès lorsque j'ai invité le peuple.",
+      "text": "Ce texte est fort aisé ; mais l'hébreu est plus obscur : [75] _il a été gardé pour ce temps précis_, ou _pour cette fête, disant : j'ai appelé le peuple_, ou _j'ai invité du monde_. Ce morceau a été mis exprès en réserve par mes ordres ; j'ai dit que j'avais invité du monde, outre la compagnie qui était de trente personnes. [76] Ou autrement : Je vous ai fait réserver ce quartier pour cette fête, lorsque j'ai ordonné qu'on préparât à manger à tout ce monde, à ces trente conviés. Les Septante : [77] _Ce morceau vous est présenté par le peuple comme un témoignage, prenez_. C'est pour vous marquer la considération particulière qu'on a pour vous qu'on vous sert ce morceau."
+    },
+    {
+      "verse": 25,
+      "sub": false,
+      "latin_lemma": "LOCUTUS EST CUM SAÜLE IN SOLARIO.",
+      "lemma": "Samuel parla à Saül sur la terrasse du logis,",
+      "text": "ou, où il l'avait mené pour le: faire coucher. On ne sait pas ce que Samuel lui dit en cet endroit ; mais on ne doute pas qu'il ne lui ait fait quelque ouverture du dessein de Dieu sur sa personne, et qu'il ne lui ait donné de bonnes instructions sur ses devoirs."
+    },
+    {
+      "verse": 25,
+      "sub": false,
+      "latin_lemma": "STRAVIT QUE SAÜL IN SOLARIO, ET DORMIVIT.",
+      "lemma": "Il y fit préparer un lit, où Saül dormit.",
+      "text": "Ces paroles ne sont ni dans l'hébreu, ni dans plusieurs Exemplaires latins. On ne les lit point dans la nouvelle Édition de S. Jérôme : elles sont prises des Septante, [78] qui ont donné ce sens à ce que S. Jérôme a traduit suivant l'hébreu, par : _Samuel lui parla sur la terrasse du logis._ Mais il n'était pas nécessaire de joindre dans la Vulgate ces deux traductions. On peut remarquer ici une coutume singulière à ces pays-là, de mettre coucher les hôtes sur le toit, ou sur la terrasse des maisons. On l'a déjà vu dans les espions que Rahab reçut dans sa maison, et qu'elle mit coucher sur la terrasse ; [79] on le voit aussi dans l'exemple d'Absalom, qui fit tendre une tente sur le toit du Palais, et qui y coucha. [80] Encore aujourd'hui les peuples de la Syrie et de la Palestine ont accoutumé de dormir sur leurs terrasses, afin de prendre le frais au haut de leur maison. Les plus pauvres et le menu peuple couchent sur un matelas avec quelques nattes par-dessous, et se couvrent la nuit d'un drap de lin, ou de coton. Dans Homère on fait coucher les étrangers sous la galerie qui est au-devant de la maison ; on étend leur lit sur le pavé sans autre cérémonie. Aristophane [81] nous fait voir chez"
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0181>page_0182",
+      "verse": 20,
+      "mode": "mend",
+      "before": "indigence ; qui quitte Dieu pour avoir un homme pour chef.",
+      "after": "nant la naissance, et l'autre l'éducation. ^{(a)}"
+    },
+    {
+      "seam": "page_0182>page_0183",
+      "verse": 3,
+      "mode": "flow",
+      "before": "ns toute cette histoire divers traits des mœurs anciennes,",
+      "after": "et de cette première et vénérable simplicité. Alors le gra"
+    },
+    {
+      "seam": "page_0183>page_0184",
+      "verse": 4,
+      "mode": "flow",
+      "before": "s Isaïe ^{fn:page_0183-e} et Jérémie. ^{fn:page_0183-f} Le",
+      "after": "Chaldéen traduit : _La terre Australe_, ou méridionale. En"
+    },
+    {
+      "seam": "page_0184>page_0185",
+      "verse": 5,
+      "mode": "hyphen",
+      "before": "De peur qu'il ne soit plus en peine de nous, que des",
+      "after": "des ânesses. A la lettre: De peur que mon père n'ait aband"
+    },
+    {
+      "seam": "page_0185>page_0186",
+      "verse": 7,
+      "mode": "flow",
+      "before": " homme de _Baal-salisa_ lui apporta vingt pains d'orge, et",
+      "after": "du froment nouveau, comme des prémices. Naaman après sa gu"
+    },
+    {
+      "seam": "page_0187>page_0188",
+      "verse": 9,
+      "mode": "flow",
+      "before": " des visions de mensonges, et qu'ils prophétisent de leurs",
+      "after": "propres cœurs. Les Égyptiens appelaient ^{(a)} _Voyants de"
+    },
+    {
+      "seam": "page_0190>page_0191",
+      "verse": 16,
+      "mode": "flow",
+      "before": "n donne Homère, ^{fn:page_0190-f} et qu'Alexandre le Grand",
+      "after": "regardait comme la plus belle expression de ce Poète si ju"
+    },
+    {
+      "seam": "page_0191>page_0192",
+      "verse": 18,
+      "mode": "flow",
+      "before": "ait à l'entrée de la ville, où se tenaient les assemblées,",
+      "after": "muel vint à sa rencontre, et Saül lui demanda des nouvelle"
+    },
+    {
+      "seam": "page_0192>page_0193",
+      "verse": 21,
+      "mode": "splice",
+      "before": "C’est-à-dire de la tri-",
+      "after": "bu de Benjamin. _Jémini_ signifie _ma droite_, Benjamin, l"
+    },
+    {
+      "seam": "page_0193>page_0194",
+      "verse": 22,
+      "mode": "flow",
+      "before": "3-d} ou contre la muraille. Parmi les Perses, le Roi était",
+      "after": "à la tête, et les conviés à ses côtés, chacun selon son ra"
+    },
+    {
+      "seam": "page_0194>page_0195",
+      "verse": 24,
+      "mode": "flow",
+      "before": "94-c} _Il leva l'épaule et ce qui est sur elle, et la mis_",
+      "after": "devant Saül. Ou, _il leva l'épaule et la haussa, et la ser"
+    },
+    {
+      "seam": "page_0195>page_0196",
+      "verse": 25,
+      "mode": "flow",
+      "before": "ou, où il l'avait mené pour le:",
+      "after": "faire coucher. On ne sait pas ce que Samuel lui dit en cet"
+    }
+  ],
+  "pages_used": [
+    "page_0181",
+    "page_0182",
+    "page_0183",
+    "page_0184",
+    "page_0185",
+    "page_0186",
+    "page_0187",
+    "page_0188",
+    "page_0189",
+    "page_0190",
+    "page_0191",
+    "page_0192",
+    "page_0193",
+    "page_0194",
+    "page_0195",
+    "page_0196"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0182-a",
+      "n": 1,
+      "text": "Aut. tradit. in Reg. et Par. Hug. Lyr."
+    },
+    {
+      "key": "page_0182-b",
+      "n": 2,
+      "text": "גבור חיל ἀνὴρ δυνατὸς ixvii."
+    },
+    {
+      "key": "page_0182-c",
+      "n": 3,
+      "text": "בחור וטוב ואין איש מבני"
+    },
+    {
+      "key": "page_0182-d",
+      "n": 4,
+      "text": "Genes. VI. I. Quod essent pulchræ. Heb. Bonæ."
+    },
+    {
+      "key": "page_0182-e",
+      "n": 5,
+      "text": "Genes. XLI. 53."
+    },
+    {
+      "key": "page_0182-f",
+      "n": 6,
+      "text": "Iliad. B. H'οι υιγασι...."
+    },
+    {
+      "key": "page_0182-g",
+      "n": 7,
+      "text": "Herodot. lib. 3. c. 20."
+    },
+    {
+      "key": "page_0182-h",
+      "n": 8,
+      "text": "Aristot. Politic. 4. c, 4. apud Grot. et Cler."
+    },
+    {
+      "key": "page_0182-i",
+      "n": 9,
+      "text": "Æneid. 7."
+    },
+    {
+      "key": "page_0183-a",
+      "n": 10,
+      "text": "Vide Homer. Iliad. A. et passim."
+    },
+    {
+      "key": "page_0183-b",
+      "n": 11,
+      "text": "Genes. XXX. 24."
+    },
+    {
+      "key": "page_0183-c",
+      "n": 12,
+      "text": "Judic. V. 10."
+    },
+    {
+      "key": "page_0183-d",
+      "n": 13,
+      "text": "Ieron. tradit. Hebr. in Genes."
+    },
+    {
+      "key": "page_0183-e",
+      "n": 14,
+      "text": "Isai. XV. 5. Vslos ejus usque ad Segor vitulam conternantem."
+    },
+    {
+      "key": "page_0183-f",
+      "n": 15,
+      "text": "Jerem. XLVIII. 34. A Segor usque ad Oronaim, vitula conternante."
+    },
+    {
+      "key": "page_0184-a",
+      "n": 16,
+      "text": "Johan. III. 23."
+    },
+    {
+      "key": "page_0184-b",
+      "n": 17,
+      "text": "שועל"
+    },
+    {
+      "key": "page_0184-c",
+      "n": 18,
+      "text": "I. Reg. XIII. 17."
+    },
+    {
+      "key": "page_0184-d",
+      "n": 19,
+      "text": "Isa Jun. Piso."
+    },
+    {
+      "key": "page_0185-a",
+      "n": 20,
+      "text": " איש אלהים נכבד. איש גדול. Vir Dei honorabilis, vir magnus. Chald. etc. ... Arspex, vaticinator."
+    },
+    {
+      "key": "page_0185-b",
+      "n": 21,
+      "text": " Vie de Mr. de Chasteüil c. 17."
+    },
+    {
+      "key": "page_0185-c",
+      "n": 22,
+      "text": " Num. XXII. 7. 17."
+    },
+    {
+      "key": "page_0185-d",
+      "n": 23,
+      "text": " 3. Reg. XIV. 1. 2. 3."
+    },
+    {
+      "key": "page_0186-a",
+      "n": 24,
+      "text": "Vide Mich. III. 11. et Ezech. XXII. 25."
+    },
+    {
+      "key": "page_0186-b",
+      "n": 25,
+      "text": "I. Reg. x. 4."
+    },
+    {
+      "key": "page_0186-c",
+      "n": 26,
+      "text": "I. Reg. XVI. 20."
+    },
+    {
+      "key": "page_0186-d",
+      "n": 27,
+      "text": "השורה אין להביא לאיש האלהים מה נגיש"
+    },
+    {
+      "key": "page_0186-e",
+      "n": 28,
+      "text": "70. Πλὴν ὅτι ἐςι μεθ' ἡμῶν εἰς τὸ εἰσενεγ-ϰεῖν τῷ ἀνθρώπῳ τῶ Θεῦ, ἢ τῦτο τὸ ὑπάρχον ἐ-μὶν. Alius ; ὑπάρχον ἐν ἀγροῖς."
+    },
+    {
+      "key": "page_0187-a",
+      "n": 29,
+      "text": "Vide Drus. Sancl. Mendoz."
+    },
+    {
+      "key": "page_0187-b",
+      "n": 30,
+      "text": "2. Reg. XV. 27."
+    },
+    {
+      "key": "page_0187-c",
+      "n": 31,
+      "text": "1. Par. XXI. 9."
+    },
+    {
+      "key": "page_0187-d",
+      "n": 32,
+      "text": "2. Par. IX. 29."
+    },
+    {
+      "key": "page_0187-e",
+      "n": 33,
+      "text": "2. Par. XVI. 10."
+    },
+    {
+      "key": "page_0187-f",
+      "n": 34,
+      "text": "Num. XXIV. 4. 16."
+    },
+    {
+      "key": "page_0187-g",
+      "n": 35,
+      "text": "Jerem. XIV. 14."
+    },
+    {
+      "key": "page_0188-a",
+      "n": 36,
+      "text": "_Vide Maneth. apud Joseph lib. 1. Contr. Appion._"
+    },
+    {
+      "key": "page_0188-b",
+      "n": 37,
+      "text": "_Virgil. Æneid. 1._"
+    },
+    {
+      "key": "page_0188-c",
+      "n": 38,
+      "text": "_1. Reg. XIX. 19._"
+    },
+    {
+      "key": "page_0188-d",
+      "n": 39,
+      "text": "_Genes. XXIV. 11._"
+    },
+    {
+      "key": "page_0189-a",
+      "n": 40,
+      "text": "Vide Grot. Sanct."
+    },
+    {
+      "key": "page_0189-b",
+      "n": 41,
+      "text": "Rupert. Hugo, pleriq. apud Mald. Vide Jun. Ser. Hebræos."
+    },
+    {
+      "key": "page_0189-c",
+      "n": 42,
+      "text": "Vide Genes. XXXI. 54. XLIII. 16. I. Reg. XXVIII. 24. et I. Reg. XIX. 21."
+    },
+    {
+      "key": "page_0189-d",
+      "n": 43,
+      "text": "Voyez les ℣. 12. 19. 23."
+    },
+    {
+      "key": "page_0189-e",
+      "n": 44,
+      "text": "[UNCERTAIN HEBREW] כי אתו תמצאון כהיום"
+    },
+    {
+      "key": "page_0189-f",
+      "n": 45,
+      "text": "Cajet. Tost. Drus. Mend."
+    },
+    {
+      "key": "page_0190-a",
+      "n": 46,
+      "text": "[UNCERTAIN HEBREW] חמה באים בתוך העיר"
+    },
+    {
+      "key": "page_0190-b",
+      "n": 47,
+      "text": "Vide Isai. VI. 5. Jerem. L. 8. Mich. III.3."
+    },
+    {
+      "key": "page_0190-c",
+      "n": 48,
+      "text": "[UNCERTAIN HEBREW] משחהו לנגיד"
+    },
+    {
+      "key": "page_0190-d",
+      "n": 49,
+      "text": "Χρίσεις αυτὸν εἰς ἄρχοντα."
+    },
+    {
+      "key": "page_0190-e",
+      "n": 50,
+      "text": "I. Reg. VIII. 20."
+    },
+    {
+      "key": "page_0190-f",
+      "n": 51,
+      "text": "Iliad. I.\nἈμφότερον, Βασιλεύς ἀγαθὸς, κρατερός τ' αἰχμητής."
+    },
+    {
+      "key": "page_0191-a",
+      "n": 52,
+      "text": "Plut. Libel. de fort. Alex."
+    },
+    {
+      "key": "page_0191-b",
+      "n": 53,
+      "text": "I. Reg. XIII. XIV."
+    },
+    {
+      "key": "page_0191-c",
+      "n": 54,
+      "text": "I. Reg. VII."
+    },
+    {
+      "key": "page_0191-d",
+      "n": 55,
+      "text": "I. Reg. X. 5."
+    },
+    {
+      "key": "page_0191-e",
+      "n": 56,
+      "text": "I. Reg. XIII. 3."
+    },
+    {
+      "key": "page_0192-a",
+      "n": 57,
+      "text": "εις μεσον της πολεως. Heb. בתוך העיר"
+    },
+    {
+      "key": "page_0192-b",
+      "n": 58,
+      "text": "למי כל חמדת ישראל"
+    },
+    {
+      "key": "page_0192-c",
+      "n": 59,
+      "text": "Agg. II. 8."
+    },
+    {
+      "key": "page_0192-d",
+      "n": 60,
+      "text": "Dan. IX. 23. X. 11: et 19."
+    },
+    {
+      "key": "page_0192-e",
+      "n": 61,
+      "text": "Cant. v. 16."
+    },
+    {
+      "key": "page_0192-f",
+      "n": 62,
+      "text": "Και τινι τα ωραια τε Ισραηλ;"
+    },
+    {
+      "key": "page_0193-a",
+      "n": 63,
+      "text": "Judic. xx."
+    },
+    {
+      "key": "page_0193-b",
+      "n": 64,
+      "text": "Εδωκεν αυτοις τοπον εν πρωτοις. Septant. Edit. Rom."
+    },
+    {
+      "key": "page_0193-c",
+      "n": 65,
+      "text": "Luc. xiv 8."
+    },
+    {
+      "key": "page_0193-d",
+      "n": 66,
+      "text": "Iliad. Ω. En parlant d'Achilles ; Εξετο δ' εν κλισμω πιλναμενος, τοιχε αντιον αλλου. Τοιχω τω ετερῳ. Et ailleurs : Αυτος δ' αντικρυ ιδρυθη θεοειδης Αχιλλευς Τοιχω τω ετερῳ."
+    },
+    {
+      "key": "page_0194-a",
+      "n": 67,
+      "text": "Xenophon. lib. 7. Cyrop. Vide et Plutarch. qu. Convivial. lib. 1. c. 3."
+    },
+    {
+      "key": "page_0194-b",
+      "n": 68,
+      "text": "Homer. Iliad. Ω."
+    },
+    {
+      "key": "page_0194-c",
+      "n": 69,
+      "text": "......... Αὓτη ἐςὶ τιμὴ βασιλέως. וירם את השוק והעליה"
+    },
+    {
+      "key": "page_0195-a",
+      "n": 70,
+      "text": "Voyez nôtre Commentaire sur la Genese XVIII. 6."
+    },
+    {
+      "key": "page_0195-b",
+      "n": 71,
+      "text": "Vide Diodor. Sicul. l. 5."
+    },
+    {
+      "key": "page_0195-c",
+      "n": 72,
+      "text": "Vide Athen. l. 1. c. 8."
+    },
+    {
+      "key": "page_0195-d",
+      "n": 73,
+      "text": "70. τῆ κνήμη. Aq. Τὸ κνήμη. Crus. הנשאר 70. Idem τὸ ἐπίκνημα. Symmach. ἐπίκνημις."
+    },
+    {
+      "key": "page_0195-e",
+      "n": 74,
+      "text": "הנשאר"
+    },
+    {
+      "key": "page_0195-f",
+      "n": 75,
+      "text": "כי לכך שמר לך לאמר העם קראתי"
+    },
+    {
+      "key": "page_0195-g",
+      "n": 76,
+      "text": "Vide Lud. de Dieu. Var. Cajet."
+    },
+    {
+      "key": "page_0195-h",
+      "n": 77,
+      "text": "Οτι εἰς μαρτύριον τέθηταί σοι παρὰ τῶ λαῶ, ἀπέκειτο."
+    },
+    {
+      "key": "page_0196-a",
+      "n": 78,
+      "text": "70. Edit. Rom. Καὶ διέστρωσαν τῷ Σαὺλ ἐπὶ τῷ δώματι."
+    },
+    {
+      "key": "page_0196-b",
+      "n": 79,
+      "text": "Josue II. 6."
+    },
+    {
+      "key": "page_0196-c",
+      "n": 80,
+      "text": "2. Reg. XVI. 22."
+    },
+    {
+      "key": "page_0196-d",
+      "n": 81,
+      "text": "Aristoph. in Vespis act. 1. Εἶτ᾽ οὐχ ὕπνος σ᾽ ἔλαβε; ΟΛ. ἐμοὶ μεν οὔκ· Αλλ᾽ ἠρόμην, ὁπόσαι ὦσιν αἱ φυλαί."
+    }
+  ],
   "missing_footnotes": []
 }

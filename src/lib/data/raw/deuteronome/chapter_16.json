@@ -13,6 +13,15 @@
       ]
     },
     {
+      "verse_number": 2,
+      "latin": "Immolabisque Phase Domino Deo tuo de ovibus, et de bobus, in loco quem elegerit Dominus Deus tuus, ut habitet nomen ejus ibi.",
+      "french": "Vous immolerez la Pâque au Seigneur votre Dieu, en lui sacrifiant des brebis et des bœufs, dans le lieu que le Seigneur votre Dieu aura choisi, pour y établir la gloire de son nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0223.json"
+      ]
+    },
+    {
       "verse_number": 3,
       "latin": "Non comedes in eo panem fermentatum : Septem diebus comedes absque fermento afflictionis panem, quoniam in pavore egressus es de Aegypto : ut memineris diei egressionis tuae de Aegypto, omnibus diebus vitae tuae.",
       "french": "Vous ne mangerez point pendant cette Fête, du pain avec du levain : mais pendant sept jours vous mangerez du pain d'affliction, du pain sans levain ; parce que vous êtes sortis de l'Égypte dans la crainte, afin que vous vous souveniez du jour de votre sortie d'Égypte, tous les jours de votre vie.",
@@ -55,6 +64,15 @@
       "annotations": null,
       "source_pages": [
         "page_0227.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Sex diebus comedes azyma, et in die septima, quia collecta est Domini Dei tui, non facies opus.",
+      "french": "Vous mangerez des pains sans levain pendant six jours ; et le septième jour vous ne ferez point d'œuvre servile, parce que ce sera le jour de l'assemblée solennelle instituée en l'honneur du Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0228.json"
       ]
     },
     {
@@ -176,29 +194,11 @@
     },
     {
       "verse_number": 22,
-      "latin": "Sed intra portas urbis tuae comedes illud : tam mundus quam immundus pariter vescentur eis, quasi caprea et cervo.",
-      "french": "Mais vous le mangerez dans l'enceinte des murailles de votre Ville ; le pur et l'impur en mangeront indifféremment, comme on mange du chevreuil et du cerf.",
-      "annotations": null,
-      "source_pages": [
-        "page_0222.json"
-      ]
-    },
-    {
-      "verse_number": 22,
       "latin": "Nec facies tibi, neque constitues statuam : quae odit Dominus Deus tuus.",
       "french": "Vous ne vous ferez, et ne vous dresserez point de statue ; parce que le Seigneur votre Dieu hait toutes ces choses.",
       "annotations": null,
       "source_pages": [
         "page_0234.json"
-      ]
-    },
-    {
-      "verse_number": 23,
-      "latin": "Hoc solum observabis, ut sanguinem eorum non comedas, sed effundes in terram quasi aquam.",
-      "french": "Vous prendrez garde seulement de ne manger point de leur sang, mais vous le répandrez sur la terre comme de l'eau.",
-      "annotations": null,
-      "source_pages": [
-        "page_0222.json"
       ]
     }
   ]

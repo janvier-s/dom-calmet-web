@@ -9,14 +9,14 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "JOSUE.",
       "lemma": null,
       "text": "C'est le grand-Prêtre Josué, ou Jésus, fils de Salathiel."
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ESDRAS.",
       "lemma": null,
       "text": "On croit [1] que c'est le fameux Scribe de ce nom, qui étant venu à Jérusalem, sous Cyrus, avec Zorobabel, s'en retourna ensuite à Babylone, pour solliciter à la Cour une permission de continuer le bâtiment du Temple. Il en revint après, avec des lettres favorables d'Artaxercès. Ce sentiment souffre néanmoins de grandes difficultés. Zorobabel revint de Babylone l'an du monde 3469. Esdras en revint en 3537. Il vivait encore sous Néhémie ; et on le voit ici [2] dans la cérémonie de la Dédicace des murs de Jérusalem, en 3550. Ainsi depuis le retour de Zorobabel, jusqu'à celui de Néhémie, il y a quatre-vingt-un ans. Quand on ne donnerait que vingt ans à Esdras, lorsqu'il revint avec Zorobabel, il faudra le faire vivre jusqu'à l'âge de cent ans, et plus. Ce qui n'est pas fort croyable. Mais cette difficulté ne rebute point ceux qui soutiennent qu'il s'agit ici du grand Esdras. Si c'en eût été un autre, l'Écriture ne l'aurait-elle pas distingué du premier ? Est-il impossible qu'un homme en ce temps-là ait vécu jusqu'à cent ans, et au-delà ?"
@@ -128,9 +128,9 @@
     },
     {
       "verse": 36,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN GRADIBUS CIVITATIS DAVID.",
-      "lemma": "de David. Sur les degrés, par où l'on monte de la ville basse à la ville de David.",
+      "lemma": "_de David_. Sur les degrés, par où l'on monte de la ville basse à la ville de David._",
       "text": "[41]"
     },
     {
@@ -149,7 +149,7 @@
     },
     {
       "verse": 38,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "STETERUNT IN PORTA CUSTODIÆ.",
       "lemma": "Ils s'arrêtèrent à la porte de la prison.",
       "text": "Le Syriaque et l'Arabe, _à la grande porte._ C'est là où le second Chœur s'arrêta, et où il descendit de la muraille."
@@ -281,12 +281,12 @@
     {
       "key": "page_0094-a",
       "n": 1,
-      "text": "Ita Lyran. Sanƈt. Malv. Cornel. Vvlph. Minor. Toſt."
+      "text": "Ita Lyran. Sanƈt. Malv. Cornel. Vvlph. Minor. Tost."
     },
     {
       "key": "page_0094-b",
       "n": 2,
-      "text": "℣. 35. Eſdras Scriba ante eos."
+      "text": "℣. 35. Esdras Scriba ante eos."
     },
     {
       "key": "page_0095-a",
@@ -306,12 +306,12 @@
     {
       "key": "page_0095-d",
       "n": 6,
-      "text": "Joſeph. Antiq. lib. XI. cap. 7."
+      "text": "Joseph. Antiq. lib. XI. cap. 7."
     },
     {
       "key": "page_0095-e",
       "n": 7,
-      "text": "Euſeb. in Chronico & Demonſtr. lib. 8."
+      "text": "Euseb. in Chronico et Demonstr. lib. 8."
     },
     {
       "key": "page_0095-f",
@@ -321,17 +321,17 @@
     {
       "key": "page_0096-a",
       "n": 9,
-      "text": "_Joſeph Antiq. lib. XI. c. 8._"
+      "text": "_Joseph Antiq. lib. XI. c. 8._"
     },
     {
       "key": "page_0096-b",
       "n": 10,
-      "text": "_Vide Cornel. & Tirin, Petav. lib. 12. de Doctr. temporum cap. 25. Natal. Alex. Hiſt. V.T. tom. 2. Diſſert. 7._"
+      "text": "_Vide Cornel. et Tirin, Petav. lib. 12. de Doctr. temporum cap. 25. Natal. Alex. Hist. V.T. tom. 2. Dissert. 7._"
     },
     {
       "key": "page_0096-c",
       "n": 11,
-      "text": "_2. Eſdr. XIII. 28._"
+      "text": "_2. Esdr. XIII. 28._"
     },
     {
       "key": "page_0097-a",
@@ -341,12 +341,12 @@
     {
       "key": "page_0097-b",
       "n": 13,
-      "text": "1 Eſdr. x. 6 & 2. Eſdr. xii 23."
+      "text": "1 Esdr. x. 6 et 2. Esdr. xii 23."
     },
     {
       "key": "page_0097-c",
       "n": 14,
-      "text": "Les Manuſcrits Latins, le Syriaque & les Septante liſent, _Amaria_. Mais l'Hébreu porte, _Maraia_."
+      "text": "Les Manuscrits Latins, le Syriaque et les Septante lisent, _Amaria_. Mais l'Hébreu porte, _Maraia_."
     },
     {
       "key": "page_0098-a",
@@ -366,22 +366,22 @@
     {
       "key": "page_0098-d",
       "n": 18,
-      "text": "Uſſer. ad an. mund. 3553."
+      "text": "Usser. ad an. mund. 3553."
     },
     {
       "key": "page_0098-e",
       "n": 19,
-      "text": "Joſeph contra Appion lib. 1."
+      "text": "Joseph contra Appion lib. 1."
     },
     {
       "key": "page_0098-f",
       "n": 20,
-      "text": "2. Eſdr. II. 61. 62."
+      "text": "2. Esdr. II. 61. 62."
     },
     {
       "key": "page_0099-a",
       "n": 21,
-      "text": "Ezech. XL. 8. 9. 31. 34. & paſſim. אולם Ulam."
+      "text": "Ezech. XL. 8. 9. 31. 34. et passim. אולם Ulam."
     },
     {
       "key": "page_0099-b",
@@ -406,37 +406,37 @@
     {
       "key": "page_0100-a",
       "n": 26,
-      "text": "_Joſeph Antiq. lib._ XI. _cap._ 5. Επ᾽ ἴση δ᾽ ἡμέρας δ. τε τείχη ηὐτὸ τὸ χρέος τοῖς Ἰεροσολύμοις ἀνῳκοδομήθη τι τέχνη."
+      "text": "_Joseph Antiq. lib._ XI. _cap._ 5. Επ᾽ ἴση δ᾽ ἡμέρας δ. τε τείχη ηὐτὸ τὸ χρέος τοῖς Ἰεροσολύμοις ἀνῳκοδομήθη τι τέχνη."
     },
     {
       "key": "page_0100-b",
       "n": 27,
-      "text": "_Beda Venerab. Jamdudum ædificata erat civitas, ſed non decebat eam dedicari, priuſquam habitatoribus aggregatis, & miniſtri Templo Idonei, & portis ac veſtibulis eſſent cuſtodes deputati._"
+      "text": "_Beda Venerab. Jamdudum ædificata erat civitas, sed non decebat eam dedicari, priusquam habitatoribus aggregatis, et ministri Templo Idonei, et portis ac vestibulis essent custodes deputati._"
     },
     {
       "key": "page_0100-c",
       "n": 28,
-      "text": "_Juſtinian. Imper. l. Sacra loca._"
+      "text": "_Justinian. Imper. l. Sacra loca._"
     },
     {
       "key": "page_0100-d",
       "n": 29,
-      "text": "_Vide Alex. ab Alex lib._ 6. _c._ 14. _Genial. Dier. & Servium in_ 6. _Æneid._"
+      "text": "_Vide Alex. ab Alex lib._ 6. _c._ 14. _Genial. Dier. et Servium in_ 6. _Æneid._"
     },
     {
       "key": "page_0100-e",
       "n": 30,
-      "text": "_Ovid. lib._ 4. _Faſt._"
+      "text": "_Ovid. lib._ 4. _Fast._"
     },
     {
       "key": "page_0101-a",
       "n": 31,
-      "text": "Vide 2. Reg. XXIII. 31. 1. Eſdr. II. 24. 1. Par. VIII. 36. & XXVII. 25."
+      "text": "Vide 2. Reg. XXIII. 31. 1. Esdr. II. 24. 1. Par. VIII. 36. et XXVII. 25."
     },
     {
       "key": "page_0101-b",
       "n": 32,
-      "text": "Voyez 2. Par. XXIX. 34. & XXX. 3. & XXXV. 2. 3. 4. 5."
+      "text": "Voyez 2. Par. XXIX. 34. et XXX. 3. et XXXV. 2. 3. 4. 5."
     },
     {
       "key": "page_0101-c",
@@ -446,7 +446,7 @@
     {
       "key": "page_0101-d",
       "n": 34,
-      "text": "Vide Levit. v. 2. Præcipe filiis Iſraël ut ejiciant de caſtris omnem leproſum, & qui ſemine fluit, pollutúſque eſt ſuper mortuo. Et ℣. 6, 7. & Num. XIX. 16. 17. ... 19. 20."
+      "text": "Vide Levit. v. 2. Præcipe filiis Israël ut ejiciant de castris omnem leprosum, et qui semine fluit, pollutúsque est super mortuo. Et ℣. 6, 7. et Num. XIX. 16. 17. ... 19. 20."
     },
     {
       "key": "page_0102-a",
@@ -461,7 +461,7 @@
     {
       "key": "page_0102-c",
       "n": 37,
-      "text": "Num. X. 8. _Filii Aaron Sacerdotes clangent tubis ; eritque hoc legitimum ſemperſernum._"
+      "text": "Num. X. 8. _Filii Aaron Sacerdotes clangent tubis ; eritque hoc legitimum sempersernum._"
     },
     {
       "key": "page_0103-a",
@@ -476,17 +476,17 @@
     {
       "key": "page_0103-c",
       "n": 40,
-      "text": "Voyez 2. Eſdr. III. 26. & VIII. 3. 16."
+      "text": "Voyez 2. Esdr. III. 26. et VIII. 3. 16."
     },
     {
       "key": "page_0103-d",
       "n": 41,
-      "text": "Sup. 2. Eſdr. III. 15."
+      "text": "Sup. 2. Esdr. III. 15."
     },
     {
       "key": "page_0104-a",
       "n": 42,
-      "text": "12. Eſdr. III. 8. In Hebr. עד החומה הרחבה Vulg. _Uſque ad murum plateæ latioris._"
+      "text": "12. Esdr. III. 8. In Hebr. עד החומה הרחבה Vulg. _Usque ad murum plateæ latioris._"
     },
     {
       "key": "page_0104-b",
@@ -496,115 +496,22 @@
     {
       "key": "page_0105-a",
       "n": 44,
-      "text": "(a) זבחים גדולים וגו׳. Θυσίαν μεγάλην. Ils ſacrifièrent de grands ſacrifices, & devinrent joyeux. Vulg. immolaverunt victimas multas."
+      "text": " זבחים גדולים וגו׳. Θυσίαν μεγάλην. Ils sacrifièrent de grands sacrifices, et devinrent joyeux. Vulg. immolaverunt victimas multas."
     },
     {
       "key": "page_0105-b",
       "n": 45,
-      "text": "(b) ויפקידו ביום ההוא אנשים על לשכות לאוצרות לתרומה לראשית ולמעשרות לכנוס בהם לשדי הערים מנאות התורה לכהנים וללוים. Tois ἀνδράσιν τοῖς ἐπὶ τῶν γαζοφυλακίων τοῖς θησαυροῖς. ce αὐτοῖς ἀρχαὶ τῶν πόλεων μερίδας τοῖς ἱερεῦσι."
+      "text": " ויפקידו ביום ההוא אנשים על לשכות לאוצרות לתרומה לראשית ולמעשרות לכנוס בהם לשדי הערים מנאות התורה לכהנים וללוים. Tois ἀνδράσιν τοῖς ἐπὶ τῶν γαζοφυλακίων τοῖς θησαυροῖς. ce αὐτοῖς ἀρχαὶ τῶν πόλεων μερίδας τοῖς ἱερεῦσι."
     },
     {
       "key": "page_0105-c",
       "n": 46,
-      "text": "(c) Le Syriaque à lû שרי sarei, au lieu de שדי sadai, de même que les Septante, & Saint Jérôme. Ce dernier a encore lû תודה toda, loüange, au lieu de תורה tora, la Loi."
+      "text": " Le Syriaque à lû שרי sarei, au lieu de שדי sadai, de même que les Septante, et Saint Jérôme. Ce dernier a encore lû תודה toda, loüange, au lieu de תורה tora, la Loi."
     },
     {
       "key": "page_0106-a",
       "n": 47,
-      "text": "Num. XVIII. 26. _Præcipe Levitis atque denuntia : Cum acceperitis à filiis Iſraël decimas quas dedi vobis, primitias earum offerte Domino, id eſt, decimam partem decimæ._ Voyez auſſi ci-devant chap. x. 38."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0094",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0095",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0096",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0097",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0098",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0099",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0100",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0101",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0102",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0103",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0104",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0105",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0106",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Num. XVIII. 26. _Præcipe Levitis atque denuntia : Cum acceperitis à filiis Israël decimas quas dedi vobis, primitias earum offerte Domino, id est, decimam partem decimæ._ Voyez aussi ci-devant chap. x. 38."
     }
   ],
   "missing_footnotes": []

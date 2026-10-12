@@ -9,7 +9,7 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FILII AUTEM ISRAEL ERANT IN CIVITATIBUS SUIS.",
       "lemma": "Les enfants d'Israël, qui étaient dans leurs villes.",
       "text": "Ils s'étaient retirés chacun dans le lieu de sa demeure, après la construction, et la dédicace des murs de Jérusalem. Ils se trouvèrent dans cette ville au commencement de l'année, et s'assemblèrent dans la place qui _était devant la porte des eaux_, ℣. 3. c'est-à-dire, vers cette porte, qui conduisait du Temple au torrent de Cédron. [1] La suite fait croire qu'ils s'assemblèrent dans une place voisine du Temple, ou peut-être dans un des parvis."
@@ -23,7 +23,7 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN DIE PRIMA MENSIS SEPTIMI.",
       "lemma": "Le premier jour du septième mois.",
       "text": "Ce jour était le premier de l'année civile.[3] On y faisait la Fête des Trompettes ; on y annonçait la nouvelle année au son des trompettes ; c'était un jour de réjouissance.[4]"
@@ -72,14 +72,14 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "INTERPRETANTES UNIVERSO POPULO.",
       "lemma": "Les Lévites interprétaient la Loi à tout le peuple.",
       "text": "S. Jérôme traduit le même terme de l'Original, au ℣. 7. par : _Imposant silence._ En effet, c'était l'office de ces Lévites, de contenir le peuple dans le respect, et dans le silence. Voyez ci-après, ℣. 11."
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DIES SANCTIFICATUS EST, NOLITE LUGERE.",
       "lemma": "Ce jour est un jour saint, ne vous attristez point.",
       "text": "Les jours de Fête, dans la Religion des Juifs, étaient destinés à la joie. Les festins, et les réjouissances accompagnaient ordinairement les assemblées de Religion. Les Juifs n'avaient qu'un seul jour de l'année, auquel ils s'assemblaient, pour s'affliger devant le Seigneur. Les autres peuples ont été dans les mêmes principes ; et l'Église Chrétienne veut que les Fêtes soient accompagnées d'une joie sainte, et intérieure. Elle ne permet pas les jeûnes, et les autres marques de pénitence aux jours de Dimanche."
@@ -93,14 +93,14 @@
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MITTITE PARTES HIS QUI NON PRÆPARAVERUNT.",
       "lemma": "Envoyez des parts à ceux qui n'ont pas préparé à manger.",
       "text": "Cet usage d'envoyer des présents de ce qu'on avait à manger, à ses amis, et aux pauvres, se voit chez les Juifs, chez les Chrétiens, et chez les Païens. Les Hébreux, dans leurs jours de réjouissances, s'envoyaient l'un à l'autre des viandes, et d'autres choses à manger. [16] Moïse recommande en plus d'un endroit, à ceux qui sont riches, d'appeler à leurs festins, dans les Fêtes de Religion, les pauvres, les orphelins, les veuves, et les Lévites. [17] On appelait _sportulæ_ chez les Latins, et _merides_ chez les Grecs, ce qu'on envoyait du repas aux absents, comme on le peut voir dans ceux qui ont écrit des _festins des anciens_. S. Paul accuse les Chrétiens de Corinthe de ce qu'ils ne donnaient rien aux pauvres, dans les repas de Religion, qui se faisaient dans l'Église. [18]"
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "GAUDIUM DOMINI EST FORTITUDO NOSTRA.",
       "lemma": "Car la joie du Seigneur est notre force.",
       "text": "Vous trouverez votre consolation, et votre force, dans la joie de cette Fête consacrée au Seigneur. Ce n'est point une joie profane, et de dissolution, capable d'énerver, et d'affaiblir le courage. Cette réjouissance dans le Seigneur, vous remplira de force, pour exécuter plus volontiers ses volontés saintes."
@@ -114,7 +114,7 @@
     },
     {
       "verse": 15,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FRONDES LIGNI PULCHERRIMI.",
       "lemma": "Des branches des plus beaux arbres.",
       "text": "L'Hébreu :[20] _Des branches du bois huileux_, ou du bois gras. Ce que les uns entendent du pin ;[21] les autres, du cyprès ;[22] et d'autres, du baume ;[23] le Syriaque, et l'Arabe, du noyer. On pouvait employer toutes sortes d'arbres touffus, pour faire les tentes dans cette solennité."
@@ -131,7 +131,7 @@
       "sub": false,
       "latin_lemma": "NON FECERANT A DIEBUS JOSUE, FILII NUN TALITER.",
       "lemma": "Ils n'avaient point célébré ainsi cette Fête, depuis le temps de Josué.",
-      "text": "Ils ne l'avaient point fait avec tant d'ardeur, et d'allégresse : mais ils l'aavaient faite avec plus de pompe, et de magnificence. Sur ces expressions exagérées, voyez 4. Reg. XXIII. 22."
+      "text": "Ils ne l'avaient point fait avec tant d'ardeur, et d'allégresse : mais ils l' avaient faite avec plus de pompe, et de magnificence. Sur ces expressions exagérées, voyez 4. Reg. XXIII. 22."
     },
     {
       "verse": 18,
@@ -173,7 +173,7 @@
     {
       "seam": "page_0065>page_0066",
       "verse": 17,
-      "mode": "splice",
+      "mode": "refrag",
       "before": "t fait avec tant d'ardeur, et d'allégresse : mais ils l'a-",
       "after": "avaient faite avec plus de pompe, et de magnificence. Sur "
     },
@@ -211,7 +211,7 @@
     {
       "key": "page_0061-a",
       "n": 2,
-      "text": "Voyez ci-aprés les verſets 10. & 28."
+      "text": "Voyez ci-aprés les versets 10. et 28."
     },
     {
       "key": "page_0061-b",
@@ -221,12 +221,12 @@
     {
       "key": "page_0061-c",
       "n": 4,
-      "text": "Voyez ci-aprés les verſets 9. 10."
+      "text": "Voyez ci-aprés les versets 9. 10."
     },
     {
       "key": "page_0061-d",
       "n": 5,
-      "text": "Cornel. Tir. Mart. Oſiand."
+      "text": "Cornel. Tir. Mart. Osiand."
     },
     {
       "key": "page_0061-e",
@@ -251,7 +251,7 @@
     {
       "key": "page_0062-a",
       "n": 10,
-      "text": "Num. XXIII. 18. Sta Balac, & auſculta, audi, fili Sephor."
+      "text": "Num. XXIII. 18. Sta Balac, et ausculta, audi, fili Sephor."
     },
     {
       "key": "page_0062-b",
@@ -271,7 +271,7 @@
     {
       "key": "page_0063-a",
       "n": 14,
-      "text": "Grot. Cornel. Sa. &c."
+      "text": "Grot. Cornel. Sa. etc."
     },
     {
       "key": "page_0064-a",
@@ -281,7 +281,7 @@
     {
       "key": "page_0064-b",
       "n": 16,
-      "text": "Esther IX. 19. _Judæi quartum decimum menſis Adar conviviorum & gaudii decreverunt. Ita ut exultent in eo, & mittant ſibi mutud partes epularum & ciborum._"
+      "text": "Esther IX. 19. _Judæi quartum decimum mensis Adar conviviorum et gaudii decreverunt. Ita ut exultent in eo, et mittant sibi mutud partes epularum et ciborum._"
     },
     {
       "key": "page_0064-c",
@@ -306,7 +306,7 @@
     {
       "key": "page_0065-c",
       "n": 21,
-      "text": "Pagn. Oſiand."
+      "text": "Pagn. Osiand."
     },
     {
       "key": "page_0065-d",
@@ -331,7 +331,7 @@
     {
       "key": "page_0066-c",
       "n": 26,
-      "text": "2. Macc. I, 18. & ſequ."
+      "text": "2. Macc. I, 18. et sequ."
     },
     {
       "key": "page_0066-d",
@@ -352,64 +352,6 @@
       "key": "page_0067-b",
       "n": 30,
       "text": "2. Macc. II. 4. 5."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0060",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0061",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0062",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0063",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0064",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0065",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0066",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0067",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

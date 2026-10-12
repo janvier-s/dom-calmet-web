@@ -587,6 +587,24 @@
       "source_pages": [
         "page_0606.json"
       ]
+    },
+    {
+      "verse_number": 66,
+      "latin": "Servus autem cuncta quæ gesserat, narravit Isaac.",
+      "french": "Et le serviteur raconta à Isaac tout ce qu'il avait fait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0607.json"
+      ]
+    },
+    {
+      "verse_number": 67,
+      "latin": "Qui introduxit eam in tabernaculum Sarae matris suæ, et accepit eam uxorem : et in tantum dilexit eam, ut dolorem, qui ex morte matris ejus acciderat, temperaret.",
+      "french": "Alors Isaac fit entrer Rebecca dans la tente de Sara sa mère, et il la prit pour femme ; et l'affection qu'il eut pour elle, fut si grande, qu'elle tempéra la douleur que la mort de sa mère lui avait causée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0607.json"
+      ]
     }
   ]
 }

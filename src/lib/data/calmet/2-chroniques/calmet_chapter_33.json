@@ -37,7 +37,7 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CEPERUNT MANASSEN, ET VINCTUM CATENIS ATQUE COMPEDIBUS DUXERUNT IN BABYLONEM.",
       "lemma": "Après avoir pris Manassé, ils lui mirent les fers aux pieds, et aux mains, et l'emmenèrent à Babylone.",
       "text": "Quelques-uns traduisent ainsi l'Hébreu: [10] _Ils prirent Manassé caché dans des épines, et le lièrent de chaînes d'airain._ [11] Ce terme original signifie souvent des épines, ou des lieux incultes, où il ne croît que des ronces. L'Écriture remarque dans le premier livre des Rois, [12] que le peuple en d'autres occasions, pour éviter les violences des Philistins, se retirait dans des rochers, dans des antres, dans des épines. [13] On peut aussi traduire : _Ils prirent Manassé à l'hameçon, ils le trompèrent, ils le surprirent par de belles paroles, par des promesses trompeuses_, etc."
@@ -79,7 +79,7 @@
     },
     {
       "verse": 18,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN SERMONIBUS HOZAI.",
       "lemma": "Dans les livres d'Hosaï.",
       "text": "Quelques-uns [22] veulent que ce Prophète soit le même qu'Isaïe, qui vécut sous Manassé. D'autres [23] le prennent dans un sens générique; _Dans les livres des Prophètes_, ou des Voyans. C'est la signification littérale d'Hosaï. Les Septante le prennent en ce sens ; [24] mais il est plus probable que l'Écriture nous désigne ici un Prophète particulier, comme elle a accoutumé d'en user dans toutes les occasions pareilles, renvoyant au Prophète qui a écrit la vie de chaque Roi. Le Syriaque l'appelle _Hanan_, et l'Arabe _Saphan_."
@@ -152,7 +152,7 @@
     {
       "seam": "page_0239>page_0240",
       "verse": 20,
-      "mode": "splice",
+      "mode": "refrag",
       "before": "Il fut en-",
       "after": "enseveli dans sa maison. Non pas dans les sépulcres des Ro"
     }
@@ -171,7 +171,7 @@
     {
       "key": "page_0233-a",
       "n": 1,
-      "text": "Voyez 3. Reg. xxi. 26. & ci-aprés le ℣. 10."
+      "text": "Voyez 3. Reg. xxi. 26. et ci-aprés le ℣. 10."
     },
     {
       "key": "page_0233-b",
@@ -196,7 +196,7 @@
     {
       "key": "page_0235-a",
       "n": 6,
-      "text": "Baſil. Homil. de Pœnit. τιτεαμδρωνα ſuturæ, Vide & Cedren. Syncel. Suid."
+      "text": "Basil. Homil. de Pœnit. τιτεαμδρωνα suturæ, Vide et Cedren. Syncel. Suid."
     },
     {
       "key": "page_0235-b",
@@ -211,7 +211,7 @@
     {
       "key": "page_0236-a",
       "n": 9,
-      "text": "Iſai. xx. 1."
+      "text": "Isai. xx. 1."
     },
     {
       "key": "page_0236-b",
@@ -221,7 +221,7 @@
     {
       "key": "page_0236-c",
       "n": 11,
-      "text": "Ita Iun. Trem. Piſc. Vſer. Boch. de animal. ſacr. parte 1. l. 5. c. 4. p. 765."
+      "text": "Ita Iun. Trem. Pisc. Vser. Boch. de animal. sacr. parte 1. l. 5. c. 4. p. 765."
     },
     {
       "key": "page_0236-d",
@@ -231,17 +231,17 @@
     {
       "key": "page_0236-e",
       "n": 13,
-      "text": "בחוחים Vulg. _In abditis_. 70. & _eis audiens_."
+      "text": "בחוחים Vulg. _In abditis_. 70. et _eis audiens_."
     },
     {
       "key": "page_0237-a",
       "n": 14,
-      "text": "Ci-devant ℣. 1. _Quinquaginta quinque annis regnavit in Jeruſalem._"
+      "text": "Ci-devant ℣. 1. _Quinquaginta quinque annis regnavit in Jerusalem._"
     },
     {
       "key": "page_0237-b",
       "n": 15,
-      "text": "Ci-aprés ℣. 19. _Obſecratio ejus ad Deum ſuum : : : : conſinentur in ſermonibus Regum Iſraël._"
+      "text": "Ci-aprés ℣. 19. _Obsecratio ejus ad Deum suum : : : : consinentur in sermonibus Regum Israël._"
     },
     {
       "key": "page_0237-c",
@@ -256,7 +256,7 @@
     {
       "key": "page_0238-a",
       "n": 18,
-      "text": "4. Reg. XIV. 13. & 2. Par. XXV. 23."
+      "text": "4. Reg. XIV. 13. et 2. Par. XXV. 23."
     },
     {
       "key": "page_0238-b",
@@ -281,7 +281,7 @@
     {
       "key": "page_0239-d",
       "n": 23,
-      "text": "Ita Græt. Munſt. Tig. &c."
+      "text": "Ita Græt. Munst. Tig. etc."
     },
     {
       "key": "page_0239-e",
@@ -291,70 +291,12 @@
     {
       "key": "page_0240-a",
       "n": 25,
-      "text": "Grot. Eſt. Mariana."
+      "text": "Grot. Est. Mariana."
     },
     {
       "key": "page_0240-b",
       "n": 26,
-      "text": "Vide 4. Reg. XXI. 18. Sepultus eſt in horto domûs ſuæ, in horto Oza."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0233",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0234",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0235",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0236",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0237",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0238",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0239",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0240",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Vide 4. Reg. XXI. 18. Sepultus est in horto domûs suæ, in horto Oza."
     }
   ],
   "missing_footnotes": []

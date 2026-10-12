@@ -23,7 +23,7 @@
     },
     {
       "verse_number": 3,
-      "latin": "Henoch, Mathuſale, Lamech.",
+      "latin": "Henoch, Mathusale, Lamech.",
       "french": "Hénoch, Mathusalé, Lamech.",
       "annotations": null,
       "source_pages": [
@@ -32,8 +32,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "_Nœ, Sem, Cham, & Japheth._",
-      "french": "_Noé fut père de Sem, de Cham, et de Japheth._",
+      "latin": "Nœ, Sem, Cham, et Japheth.",
+      "french": "Noé fut père de Sem, de Cham, et de Japheth.",
       "annotations": null,
       "source_pages": [
         "page_0064.json"
@@ -41,8 +41,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "_Filii Japheth : Gomer, & Magog, & Madai, & Javan, Thubal, Mofoch, Thiras._",
-      "french": "_Les fils de Japheth, sont Gomer, et Magog, et Madaï, et Javan, Thubal, Mosoch, Thiras._",
+      "latin": "Filii Japheth : Gomer, et Magog, et Madai, et Javan, Thubal, Mofoch, Thiras.",
+      "french": "Les fils de Japheth, sont Gomer, et Magog, et Madaï, et Javan, Thubal, Mosoch, Thiras.",
       "annotations": null,
       "source_pages": [
         "page_0064.json"
@@ -50,8 +50,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "_Porrò filii Gomer : Aſcenex, & Riphath, & Thogorma._",
-      "french": "_Les fils de Gomer : Ascenex, et Riphath, et Thogorma._",
+      "latin": "Porrò filii Gomer : Ascenex, et Riphath, et Thogorma.",
+      "french": "Les fils de Gomer : Ascenex, et Riphath, et Thogorma.",
       "annotations": null,
       "source_pages": [
         "page_0064.json"
@@ -59,8 +59,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "_Filii autem Javan : Eliſa & Tharſis, Cethim & Dodanim._",
-      "french": "_Les fils de Javan : Elisa et Tharsis, Cethim et Dodanim._",
+      "latin": "Filii autem Javan : Elisa et Tharsis, Cethim et Dodanim.",
+      "french": "Les fils de Javan : Elisa et Tharsis, Cethim et Dodanim.",
       "annotations": null,
       "source_pages": [
         "page_0064.json"
@@ -68,8 +68,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "_Filii Cham : Chus, & Meſraïm, & Phut, & Chanaan._",
-      "french": "_Les fils de Cham : Chus, et Mesraïm, et Phut, et Chanaan._",
+      "latin": "Filii Cham : Chus, et Mesraïm, et Phut, et Chanaan.",
+      "french": "Les fils de Cham : Chus, et Mesraïm, et Phut, et Chanaan.",
       "annotations": null,
       "source_pages": [
         "page_0064.json"
@@ -77,8 +77,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "_Filii autem Chus : Saba & Hevila, Sabatha, & Regma, & Sabathaca. Porrò filii Regma : Saba & Dadan._",
-      "french": "_Les fils de Chus : Saba, et Hevila, Sabatha, et Regma, et Sabathaca. Regma eut aussi pour fils Saba et Dadan._",
+      "latin": "Filii autem Chus : Saba et Hevila, Sabatha, et Regma, et Sabathaca. Porrò filii Regma : Saba et Dadan.",
+      "french": "Les fils de Chus : Saba, et Hevila, Sabatha, et Regma, et Sabathaca. Regma eut aussi pour fils Saba et Dadan.",
       "annotations": null,
       "source_pages": [
         "page_0064.json"
@@ -86,8 +86,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "_Chus autem genuit Nemrod : iſte cœpit eſſe potens in terra._",
-      "french": "_Mais Chus engendra Nemrod ; et celui-ci commença à être puissant sur la terre._",
+      "latin": "Chus autem genuit Nemrod : iste cœpit esse potens in terra.",
+      "french": "Mais Chus engendra Nemrod ; et celui-ci commença à être puissant sur la terre.",
       "annotations": null,
       "source_pages": [
         "page_0064.json"
@@ -95,7 +95,7 @@
     },
     {
       "verse_number": 11,
-      "latin": "Meſraïm verò genuit Ludim, & Anamin, & Laabim, & Nephthuim,",
+      "latin": "Mesraïm verò genuit Ludim, et Anamin, et Laabim, et Nephthuim,",
       "french": "Mesraïm engendra Ludim et Anamin, et Laabim et Nephthuim.",
       "annotations": null,
       "source_pages": [
@@ -104,7 +104,7 @@
     },
     {
       "verse_number": 12,
-      "latin": "Phetruſim quoque & Caſluim, de quibus egreſſi ſunt Philiſthiim, & Caphtorim.",
+      "latin": "Phetrusim quoque et Casluim, de quibus egressi sunt Philisthiim, et Caphtorim.",
       "french": "Phetrusim et Casluim, d'où sont sortis les Philistins et les Caphtoriens.",
       "annotations": null,
       "source_pages": [
@@ -113,7 +113,7 @@
     },
     {
       "verse_number": 13,
-      "latin": "Chanaan verò genuit Sidonem primogenitum ſuum, Hethæum quoque,",
+      "latin": "Chanaan verò genuit Sidonem primogenitum suum, Hethæum quoque,",
       "french": "Chanaan engendra Sidon son aîné, et il fut aussi père des Hethéens,",
       "annotations": null,
       "source_pages": [
@@ -122,7 +122,7 @@
     },
     {
       "verse_number": 14,
-      "latin": "Et Jebuſæum, & Amorrhæum, & Gergeſæum,",
+      "latin": "Et Jebusæum, et Amorrhæum, et Gergesæum,",
       "french": "Des Jébuséens, des Amorrhéens et des Gergéséens,",
       "annotations": null,
       "source_pages": [
@@ -131,7 +131,7 @@
     },
     {
       "verse_number": 15,
-      "latin": "Hevæumque, & Aracæum, & Sinæum.",
+      "latin": "Hevæumque, et Aracæum, et Sinæum.",
       "french": "Des Hévéens, des Aracéens, et des Sinéens.",
       "annotations": null,
       "source_pages": [
@@ -140,7 +140,7 @@
     },
     {
       "verse_number": 16,
-      "latin": "Aradium quoque & Samaræum, & Hamathæum.",
+      "latin": "Aradium quoque et Samaræum, et Hamathæum.",
       "french": "Des Aradiens, des Samaréens, et des Hamathéens.",
       "annotations": null,
       "source_pages": [
@@ -149,7 +149,7 @@
     },
     {
       "verse_number": 17,
-      "latin": "Filii Sem, Elam, & Aſſur, & Arphaxad, & Lud, & Aram, & Hus, & Hul, & Gether, & Moſoch.",
+      "latin": "Filii Sem, Elam, et Assur, et Arphaxad, et Lud, et Aram, et Hus, et Hul, et Gether, et Mosoch.",
       "french": "Les fils de Sem, sont Elam, Assur, Arphaxad, Lud, Aram, Hus, Hul, Gether et Mosoch.",
       "annotations": null,
       "source_pages": [
@@ -158,7 +158,7 @@
     },
     {
       "verse_number": 18,
-      "latin": "Arphaxad autem genuit Sale, qui & ipſe genuit Heber.",
+      "latin": "Arphaxad autem genuit Sale, qui et ipse genuit Heber.",
       "french": "Arphaxad engendra Salé qui fut père d'Heber.",
       "annotations": null,
       "source_pages": [
@@ -167,7 +167,7 @@
     },
     {
       "verse_number": 19,
-      "latin": "Porrò Heber nati ſunt duo filii : nomen uni Phaleg, quia in diebus ejus diviſa eſt terra ; & nomen fratris ejus Jectan.",
+      "latin": "Porrò Heber nati sunt duo filii : nomen uni Phaleg, quia in diebus ejus divisa est terra ; et nomen fratris ejus Jectan.",
       "french": "Heber eut deux fils, dont l'un fut nommé Phalog, parce que la terre fut divisée de son temps ; et le nom de son frère est Jectan.",
       "annotations": null,
       "source_pages": [
@@ -176,7 +176,7 @@
     },
     {
       "verse_number": 20,
-      "latin": "Jectan autem genuit Elmodad, & Saleph, & Aſarmoth, & Jare,",
+      "latin": "Jectan autem genuit Elmodad, et Saleph, et Asarmoth, et Jare,",
       "french": "Jectan engendra Elmodad, Saleph, Asarmoth, et Jaré,",
       "annotations": null,
       "source_pages": [
@@ -185,7 +185,7 @@
     },
     {
       "verse_number": 21,
-      "latin": "Adoram quoque, & Hazal, & Decla,",
+      "latin": "Adoram quoque, et Hazal, et Decla,",
       "french": "avec Adoram, Husal et Décla,",
       "annotations": null,
       "source_pages": [
@@ -194,7 +194,7 @@
     },
     {
       "verse_number": 22,
-      "latin": "Hebal etiam, & Abimaël, & Saba, nec non",
+      "latin": "Hebal etiam, et Abimaël, et Saba, nec non",
       "french": "comme aussi Hebal, Abimaël et Saba,",
       "annotations": null,
       "source_pages": [
@@ -203,7 +203,7 @@
     },
     {
       "verse_number": 23,
-      "latin": "& Ophir, & Hevila, & Jobab : omnes iſti filii Jectan.",
+      "latin": "et Ophir, et Hevila, et Jobab : omnes isti filii Jectan.",
       "french": "et encore Ophir, Hevila, et Jobab: tous ceux-ci étaient fils de Jectan.",
       "annotations": null,
       "source_pages": [
@@ -239,7 +239,7 @@
     },
     {
       "verse_number": 27,
-      "latin": "Abram, iſte eſt Abraham.",
+      "latin": "Abram, iste est Abraham.",
       "french": "Abram : celui-ci est le même qu'Abraham.",
       "annotations": null,
       "source_pages": [
@@ -248,7 +248,7 @@
     },
     {
       "verse_number": 28,
-      "latin": "Filii autem Abraham, Iſaac & Iſmaël.",
+      "latin": "Filii autem Abraham, Isaac et Ismaël.",
       "french": "Les enfants d'Abraham, sont Isaac, et Ismaël.",
       "annotations": null,
       "source_pages": [
@@ -257,7 +257,7 @@
     },
     {
       "verse_number": 29,
-      "latin": "Et he generationes eorum. Primogenitus Iſmaëlis, Nabajoth, & Cedar, & Abdeel, & Mabſam,",
+      "latin": "Et he generationes eorum. Primogenitus Ismaëlis, Nabajoth, et Cedar, et Abdeel, et Mabsam,",
       "french": "Et voici leur postérité. Ismaël eut Nabajot l'aîné de tous, Cedar, Abdeel, Mabsam,",
       "annotations": null,
       "source_pages": [
@@ -266,7 +266,7 @@
     },
     {
       "verse_number": 30,
-      "latin": "Et Maſma, & Duma, Maſſa, Hadad, & Thema,",
+      "latin": "Et Masma, et Duma, Massa, Hadad, et Thema,",
       "french": "Masma, Duma, Massa, Hadad, et Thema,",
       "annotations": null,
       "source_pages": [
@@ -275,7 +275,7 @@
     },
     {
       "verse_number": 31,
-      "latin": "Jetur, Naphis, Cedma : hi ſunt filii Iſmaëlis.",
+      "latin": "Jetur, Naphis, Cedma : hi sunt filii Ismaëlis.",
       "french": "Jetur, Naphis, Cedma ; ce sont là les fils d'Ismaël.",
       "annotations": null,
       "source_pages": [
@@ -284,8 +284,8 @@
     },
     {
       "verse_number": 32,
-      "latin": "_Filii autem Ceturæ concubinæ Abraham, quos genuit: Zamran, Jecſan, Madan, Madian, Jeſboc, & Sue. Porrò filii Jecſan: Saba, & Dadan. Filii autem Dadan: Aſſurim, & Latuſim, & Laomim._",
-      "french": "_Mais les enfants qu'eut Abraham de Cétura sa concubine, furent Zamram, Jecsan, Madan, Madian, Jesboc et Sué. Les fils de Jecsan furent Saba, et Dadan. Ceux de Dadan, Assurim, Latussim et Laomim._",
+      "latin": "Filii autem Ceturæ concubinæ Abraham, quos genuit: Zamran, Jecsan, Madan, Madian, Jesboc, et Sue. Porrò filii Jecsan: Saba, et Dadan. Filii autem Dadan: Assurim, et Latusim, et Laomim.",
+      "french": "Mais les enfants qu'eut Abraham de Cétura sa concubine, furent Zamram, Jecsan, Madan, Madian, Jesboc et Sué. Les fils de Jecsan furent Saba, et Dadan. Ceux de Dadan, Assurim, Latussim et Laomim.",
       "annotations": null,
       "source_pages": [
         "page_0067.json"
@@ -293,8 +293,8 @@
     },
     {
       "verse_number": 33,
-      "latin": "_Filii autem Madian, Epha, & Epher, & Henoch, & Abida, & Eldaa: omnes hi, filii Ceturæ._",
-      "french": "_Les enfants de Madian sont Epha, Epher, Henoch, Abida, Eldaa: tous ceux-là étaient descendus de Cétura._",
+      "latin": "Filii autem Madian, Epha, et Epher, et Henoch, et Abida, et Eldaa: omnes hi, filii Ceturæ.",
+      "french": "Les enfants de Madian sont Epha, Epher, Henoch, Abida, Eldaa: tous ceux-là étaient descendus de Cétura.",
       "annotations": null,
       "source_pages": [
         "page_0067.json"
@@ -302,8 +302,8 @@
     },
     {
       "verse_number": 34,
-      "latin": "_Genuit autem Abraham Iſaac: cujus fuerunt filii, Eſaü & Iſraël._",
-      "french": "_Abraham engendra Isaac, qui eut deux fils, Ésaü et Israël._",
+      "latin": "Genuit autem Abraham Isaac: cujus fuerunt filii, Esaü et Israël.",
+      "french": "Abraham engendra Isaac, qui eut deux fils, Ésaü et Israël.",
       "annotations": null,
       "source_pages": [
         "page_0067.json"
@@ -311,8 +311,8 @@
     },
     {
       "verse_number": 35,
-      "latin": "_Filii Eſaü: Eliphaz, Rahuel, Jehus, Ihelom, & Core._",
-      "french": "_Les fils d'Ésaü sont, Éliphaz, Rahuel, Jehus, Ihelom, et Coré._",
+      "latin": "Filii Esaü: Eliphaz, Rahuel, Jehus, Ihelom, et Core.",
+      "french": "Les fils d'Ésaü sont, Éliphaz, Rahuel, Jehus, Ihelom, et Coré.",
       "annotations": null,
       "source_pages": [
         "page_0067.json"
@@ -320,8 +320,8 @@
     },
     {
       "verse_number": 36,
-      "latin": "_Filii Eliphaz: Theman, Omar, Sephi, Gathan, Cenez, Thamna, Amalec._",
-      "french": "_Ceux d'Éliphaz: Theman, Omar, Sephi, Gathan, Cenez, et Amalec né de Thamna._",
+      "latin": "Filii Eliphaz: Theman, Omar, Sephi, Gathan, Cenez, Thamna, Amalec.",
+      "french": "Ceux d'Éliphaz: Theman, Omar, Sephi, Gathan, Cenez, et Amalec né de Thamna.",
       "annotations": null,
       "source_pages": [
         "page_0067.json"
@@ -329,8 +329,8 @@
     },
     {
       "verse_number": 37,
-      "latin": "_Filii Rahuel: Nahath, Zara, Samma, Meza._",
-      "french": "_Ceux de Rahuel: Nahat, Zara, Samma, Méza._",
+      "latin": "Filii Rahuel: Nahath, Zara, Samma, Meza.",
+      "french": "Ceux de Rahuel: Nahat, Zara, Samma, Méza.",
       "annotations": null,
       "source_pages": [
         "page_0067.json"
@@ -338,7 +338,7 @@
     },
     {
       "verse_number": 38,
-      "latin": "Filii Seir : Lotan, Sobal, Sebeon, Ana, Diſon, Eſer, Diſan.",
+      "latin": "Filii Seir : Lotan, Sobal, Sebeon, Ana, Dison, Eser, Disan.",
       "french": "Les fils de Seïr sont, Lotan, Sobal, Sébéon, Ana, Dison, Eser, Disan.",
       "annotations": null,
       "source_pages": [
@@ -356,7 +356,7 @@
     },
     {
       "verse_number": 40,
-      "latin": "Filii Sobal : Alian, & Manahath, & Ebal, Sephi, & Onam. Filii Sebeon : Aia & Ana. Filii Ana : Diſon.",
+      "latin": "Filii Sobal : Alian, et Manahath, et Ebal, Sephi, et Onam. Filii Sebeon : Aia et Ana. Filii Ana : Dison.",
       "french": "Les enfants de Sobal étaient Alian, Manahath, Ebal, Sephi et Onam. Ceux de Sébéon : Aïa et Ana. Ceux d'Ana, Dison.",
       "annotations": null,
       "source_pages": [
@@ -365,7 +365,7 @@
     },
     {
       "verse_number": 41,
-      "latin": "Filii Diſon : Hamram & Eſeban, & Jethram, & Charan.",
+      "latin": "Filii Dison : Hamram et Eseban, et Jethram, et Charan.",
       "french": "Les fils de Dison, étaient Hamram, Eseban, Jethan, et Charan.",
       "annotations": null,
       "source_pages": [
@@ -374,7 +374,7 @@
     },
     {
       "verse_number": 42,
-      "latin": "Filii Eſer : Balaan, & Zavan, & Jacan. Filii Diſan : Hus & Aran.",
+      "latin": "Filii Eser : Balaan, et Zavan, et Jacan. Filii Disan : Hus et Aran.",
       "french": "Ceux d'Eser : Balaan, Zavan, Jacan. Ceux de Disan : Hus et Aran.",
       "annotations": null,
       "source_pages": [
@@ -383,7 +383,7 @@
     },
     {
       "verse_number": 43,
-      "latin": "Iſti ſunt Reges, qui imperaverunt in terra Edom, antequam eſſet Rex ſuper filios Iſrael : Bale filius Beor, & nomen civitatis ejus Denaba.",
+      "latin": "Isti sunt Reges, qui imperaverunt in terra Edom, antequam esset Rex super filios Israel : Bale filius Beor, et nomen civitatis ejus Denaba.",
       "french": "Voici les Rois qui régnèrent au pays d'Édom, avant qu'il y eût un Roi établi sur les enfants d'Israël : Balé fils de Beor, dont la ville s'appelait Dénaba.",
       "annotations": null,
       "source_pages": [
@@ -392,7 +392,7 @@
     },
     {
       "verse_number": 44,
-      "latin": "Mortuus eſt autem Bale, & regnavit pro eo Jobab filius Zare de Boſra.",
+      "latin": "Mortuus est autem Bale, et regnavit pro eo Jobab filius Zare de Bosra.",
       "french": "Balé étant mort, Jobab fils de Zare de Bosra régna en sa place.",
       "annotations": null,
       "source_pages": [
@@ -401,7 +401,7 @@
     },
     {
       "verse_number": 45,
-      "latin": "Cúmque & Jobab ſuiſſet mortuus, regnavit pro eo Huſam de terra Themanorum.",
+      "latin": "Cúmque et Jobab suisset mortuus, regnavit pro eo Husam de terra Themanorum.",
       "french": "Après la mort de Jobab, Husam qui était du pays de Theman, succéda à la couronne.",
       "annotations": null,
       "source_pages": [
@@ -410,7 +410,7 @@
     },
     {
       "verse_number": 46,
-      "latin": "Obiit quoque & Huſam; & regnavit pro eo Adad filius Badad, qui percuſſit Madian in terra Moab: & nomen civitatis ejus, Avith.",
+      "latin": "Obiit quoque et Husam; et regnavit pro eo Adad filius Badad, qui percussit Madian in terra Moab: et nomen civitatis ejus, Avith.",
       "french": "Husam étant mort aussi, Adad fils de Badad régna en sa place. Ce fut lui qui défit les Madianites dans le pays de Moab. Sa ville s'appelait Avith.",
       "annotations": null,
       "source_pages": [
@@ -419,7 +419,7 @@
     },
     {
       "verse_number": 47,
-      "latin": "Cumque & Adad fuiſſet mortuus, regnavit pro eo Semla de Maſreca.",
+      "latin": "Cumque et Adad fuisset mortuus, regnavit pro eo Semla de Masreca.",
       "french": "Après la mort d'Adad, Semla qui était de Masreca lui succéda au royaume.",
       "annotations": null,
       "source_pages": [
@@ -428,7 +428,7 @@
     },
     {
       "verse_number": 48,
-      "latin": "Sed & Semla mortuus eſt, & regnavit pro eo Saül de Rohoboth, quæ juxta amnem ſita eſt.",
+      "latin": "Sed et Semla mortuus est, et regnavit pro eo Saül de Rohoboth, quæ juxta amnem sita est.",
       "french": "Semla étant mort aussi, Saül de Rohoboth, ville située sur le fleuve d'Euphrate, régna après lui.",
       "annotations": null,
       "source_pages": [
@@ -446,7 +446,7 @@
     },
     {
       "verse_number": 50,
-      "latin": "Sed & hic mortuus eſt, & regnavit pro eo Adad; cujus urbis nomen fuit Phau, & appellata eſt uxor ejus Meetabel filia Matred, filiæ Mezaab.",
+      "latin": "Sed et hic mortuus est, et regnavit pro eo Adad; cujus urbis nomen fuit Phau, et appellata est uxor ejus Meetabel filia Matred, filiæ Mezaab.",
       "french": "Celui-ci mourut aussi, et Adad lui succéda. Sa ville s'appelait Phaü, et sa femme se nommait Méetabel, fille de Matred, qui était fille de Mézaab.",
       "annotations": null,
       "source_pages": [
@@ -455,7 +455,7 @@
     },
     {
       "verse_number": 51,
-      "latin": "Adad autem mortuo, duces pro Regibus in Edom eſſe cœperunt : dux Thamna, dux Alva, dux Jetheth.",
+      "latin": "Adad autem mortuo, duces pro Regibus in Edom esse cœperunt : dux Thamna, dux Alva, dux Jetheth.",
       "french": "Après la mort d'Adad le pays d'Edom n'eut plus de rois, mais des gouverneurs ; savoir le gouverneur de Thamna, le gouverneur d'Alva, le gouverneur de Jetheth,",
       "annotations": null,
       "source_pages": [
@@ -473,7 +473,7 @@
     },
     {
       "verse_number": 53,
-      "latin": "Dux Cenez, dux Theman, dux Mabſar,",
+      "latin": "Dux Cenez, dux Theman, dux Mabsar,",
       "french": "Le gouverneur de Cenez, le gouverneur de Théman, le gouverneur de Mabsar ;",
       "annotations": null,
       "source_pages": [

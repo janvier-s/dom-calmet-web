@@ -10,9 +10,9 @@
     {
       "verse": 2,
       "sub": false,
-      "latin_lemma": "QUIA CUM ESSET VIRGO, &c.",
+      "latin_lemma": "QUIA CUM ESSET VIRGO, etc.",
       "lemma": "Parce que comme elle était vierge, il paraissait difficile à Amnon de rien faire avec elle contre l'honnêteté.",
-      "text": "Les filles étaient resserrées dans des appartements éloignés des hommes, et l'on n'en permettait l'entrée ni aux étrangers, ni même aux parents d'un autre sexe; ainsi Amnon ne pouvait espérer de découvrir sa passion à sa sœur, et moins encore de la satisfaire. ; c'est ce qui lui causa une langueur, qui se fit bientôt remarquer sur son visage. Il fallait pourtant qu'il eût vu Thamar, puisqu'il avait conçu pour elle un amour si violent. Les filles sortaient quelquefois dans certaines cérémonies, mais toujours bien accompagnées."
+      "text": "Les filles étaient resserrées dans des appartements éloignés des hommes, et l'on n'en permettait l'entrée ni aux étrangers, ni même aux parents d'un autre sexe; ainsi Amnon ne pouvait espérer de découvrir sa passion à sa sœur, et moins encore de la satisfaire ; c'est ce qui lui causa une langueur, qui se fit bientôt remarquer sur son visage. Il fallait pourtant qu'il eût vu Thamar, puisqu'il avait conçu pour elle un amour si violent. Les filles sortaient quelquefois dans certaines cérémonies, mais toujours bien accompagnées."
     },
     {
       "verse": 3,
@@ -79,7 +79,7 @@
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IMPOSITISQUE MANIBUS SUPER CAPUT SUUM.",
       "lemma": "Tenant sa tête couverte de ses deux mains, comme pour se cacher le visage, après une telle infamie.",
       "text": "Un Prophète [23] parlant à la Judée, qui mettait sa confiance dans l’Égypte : _Vous en sortirez_, lui dit-il, _et vos mains seront sur votre tête, parce que le Seigneur a brisé l’objet de votre confiance._"
@@ -94,7 +94,7 @@
     {
       "verse": 21,
       "sub": false,
-      "latin_lemma": "NOLUIT CONTRISTARE SPIRITUM AMNON, &c.",
+      "latin_lemma": "NOLUIT CONTRISTARE SPIRITUM AMNON, etc.",
       "lemma": "Il ne voulut point attrister Amnon son fils, parce qu’il l’aimait comme étant son aîné.",
       "text": "Cela ne se trouve ni dans l’Hébreu, ni dans les Versions qu’on a faites sur ce Texte. Saint Jérôme ne l’a pas mis dans sa Version. Les Grecs l’ont ajouté dans quelques-uns de leurs Exemplaires,[24] et Joseph le lisait dans les siens ; peut-être même qu’il a donné occasion aux Grecs de l’ajouter dans les leurs. On ne peut excuser le silence et la dissimulation de David dans cette rencontre, surtout si on ne lui donne point d’autre motif, que l’amitié particulière qu’il avait pour Amnon. Comme il se connaissait lui-même coupable, il n’eut pas la force de châtier un crime, auquel son exemple avait pu donner occasion.[25]"
     },
@@ -107,7 +107,7 @@
     },
     {
       "verse": 23,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN BAL-HASOR, QUÆ EST IUXTA EPHRAIM.",
       "lemma": "À Bal-Hasor, qui est près d'Éphraïm ; près de la ville du nom d'Éphraïm, ou Éphræm ; elle est marquée dans saint Jean,[28] et il est dit qu'elle était près du désert. Ce qu'on peut entendre du désert de Béthel, ou de Jéricho, puisque Josèphe[29] met ensemble Éphræm et Béthel, comme deux lieux assez près de Jérusalem. Bal-Hasor était près d'Éphræm ; on n'en sait pas davantage.",
       "text": ""
@@ -117,7 +117,7 @@
       "sub": false,
       "latin_lemma": "VENIAT, OBSECRO, NOBISCUM SALTEM AMNON.",
       "lemma": "Je vous supplie au moins que mon frère Amnon vienne avec nous.",
-      "text": "Il insiste principalement sur Amnon, comme étant l'aîné des enfants du Roi, et pour persuader à David qu'il n'avait aucun ressentiment contre. lui. Il ne parle pas des autres Princes ; il est pourtant vrai qu’ils étaient de la fête. [30]"
+      "text": "Il insiste principalement sur Amnon, comme étant l'aîné des enfants du Roi, et pour persuader à David qu'il n'avait aucun ressentiment contre lui. Il ne parle pas des autres Princes ; il est pourtant vrai qu’ils étaient de la fête. [30]"
     },
     {
       "verse": 29,
@@ -159,8 +159,8 @@
     {
       "seam": "page_0128>page_0129",
       "verse": 2,
-      "mode": "hyphen",
-      "before": "ir sa passion à sa sœur, et moins encore de la satisfaire.",
+      "mode": "splice",
+      "before": " découvrir sa passion à sa sœur, et moins encore de la sa-",
       "after": "tisfaire ; c'est ce qui lui causa une langueur, qui se fit"
     },
     {
@@ -194,8 +194,8 @@
     {
       "seam": "page_0136>page_0137",
       "verse": 26,
-      "mode": "hyphen",
-      "before": "persuader à David qu'il n'avait aucun ressentiment contre.",
+      "mode": "flow",
+      "before": "et pour persuader à David qu'il n'avait aucun ressentiment",
       "after": "contre lui. Il ne parle pas des autres Princes ; il est po"
     },
     {
@@ -254,7 +254,7 @@
     {
       "key": "page_0130-d",
       "n": 7,
-      "text": "Vide ad ℣. 9. Joſeph Antiq. lib. 7. c. 7. Ap. 25 [ILLEGIBLE]"
+      "text": "Vide ad ℣. 9. Joseph Antiq. lib. 7. c. 7. Ap. 25 [ILLEGIBLE]"
     },
     {
       "key": "page_0130-e",
@@ -264,7 +264,7 @@
     {
       "key": "page_0130-f",
       "n": 9,
-      "text": "Geneſ. XVIII. 6."
+      "text": "Genes. XVIII. 6."
     },
     {
       "key": "page_0130-g",
@@ -279,12 +279,12 @@
     {
       "key": "page_0131-b",
       "n": 12,
-      "text": "Vide _Exod._ VIII. 3. _Judic._ XV. 1. & XVI. 9. _Reg._ IV. 7. 4. _Reg. XI._ 2. _Eccle._ X. 20. _Cant._ I. 4. _Joël._ II. 16."
+      "text": "Vide _Exod._ VIII. 3. _Judic._ XV. 1. et XVI. 9. _Reg._ IV. 7. 4. _Reg. XI._ 2. _Eccle._ X. 20. _Cant._ I. 4. _Joël._ II. 16."
     },
     {
       "key": "page_0132-a",
       "n": 13,
-      "text": "Levit. XVIII. 11. Turpitudinem filiæ uxoris patris tui, quam peperit patri tuo, & eſt ſoror tua, non revelabis."
+      "text": "Levit. XVIII. 11. Turpitudinem filiæ uxoris patris tui, quam peperit patri tuo, et est soror tua, non revelabis."
     },
     {
       "key": "page_0132-b",
@@ -299,7 +299,7 @@
     {
       "key": "page_0133-a",
       "n": 16,
-      "text": "Vide ſi lubet Grot. Tyr. Cornel. à Lap. &c."
+      "text": "Vide si lubet Grot. Tyr. Cornel. à Lap. etc."
     },
     {
       "key": "page_0133-b",
@@ -314,7 +314,7 @@
     {
       "key": "page_0134-a",
       "n": 19,
-      "text": "_Geneſ._ XXXVIII. 3."
+      "text": "_Genes._ XXXVIII. 3."
     },
     {
       "key": "page_0134-b",
@@ -339,7 +339,7 @@
     {
       "key": "page_0135-a",
       "n": 24,
-      "text": "Ita Edit. Nobilii. Abeſt à Complut. Joſeph. lib. 7. c. 7. Φίλος δὲ τῷ Ἀμνῶνι σφόδρα, κηδόμενός τε ὡς ἠδίκηντο, μὴ λυπεῖν αὐτὸν ἠξίου."
+      "text": "Ita Edit. Nobilii. Abest à Complut. Joseph. lib. 7. c. 7. Φίλος δὲ τῷ Ἀμνῶνι σφόδρα, κηδόμενός τε ὡς ἠδίκηντο, μὴ λυπεῖν αὐτὸν ἠξίου."
     },
     {
       "key": "page_0135-b",
@@ -349,7 +349,7 @@
     {
       "key": "page_0136-a",
       "n": 26,
-      "text": "Vide Geneſ. XXXVIII. 12. & 1. Reg. XXV. 8."
+      "text": "Vide Genes. XXXVIII. 12. et 1. Reg. XXV. 8."
     },
     {
       "key": "page_0136-b",
@@ -359,12 +359,12 @@
     {
       "key": "page_0136-c",
       "n": 28,
-      "text": "Johan. XI. 54. Abiit in regionem juxtà deſertum in civitatem quæ dicitur Ephram."
+      "text": "Johan. XI. 54. Abiit in regionem juxtà desertum in civitatem quæ dicitur Ephram."
     },
     {
       "key": "page_0136-d",
       "n": 29,
-      "text": "Joſeph. lib. 5. c. 33. de Bello."
+      "text": "Joseph. lib. 5. c. 33. de Bello."
     },
     {
       "key": "page_0137-a",
@@ -389,27 +389,27 @@
     {
       "key": "page_0137-e",
       "n": 34,
-      "text": "Ariſtot. lib. 6. cap. 24. Hiſtor animal. Αἱ δὲ ἐν Συρίᾳ τῷ ἰδίῳ Φοινίκης καλέσι, γίνονται ἐξ ἡμιόνων, ἀλλ᾽ ἐκ ἵππε καὶ ὄνε ὡς παρ᾽ ἡμῖν."
+      "text": "Aristot. lib. 6. cap. 24. Histor animal. Αἱ δὲ ἐν Συρίᾳ τῷ ἰδίῳ Φοινίκης καλέσι, γίνονται ἐξ ἡμιόνων, ἀλλ᾽ ἐκ ἵππε καὶ ὄνε ὡς παρ᾽ ἡμῖν."
     },
     {
       "key": "page_0138-a",
       "n": 35,
-      "text": "Idem lib. 6. c. 36. Kiri & de Zveija δι καλαφθεῖσαι ἀφαίρεσιν ἔνεμον ἦσαν τῆς εἰς συνουσιασμὸν ἀλογοφόρου ὁρμῆς, ὅμοιοι δὲ καὶ ὀψιν ...... τὴν ἰσχυρότητα διαφέροντες."
+      "text": "Idem lib. 6. c. 36. Kiri et de Zveija δι καλαφθεῖσαι ἀφαίρεσιν ἔνεμον ἦσαν τῆς εἰς συνουσιασμὸν ἀλογοφόρου ὁρμῆς, ὅμοιοι δὲ καὶ ὀψιν ...... τὴν ἰσχυρότητα διαφέροντες."
     },
     {
       "key": "page_0138-b",
       "n": 36,
-      "text": "Num. III. 16. IX. 18. 20. & paſſim."
+      "text": "Num. III. 16. IX. 18. 20. et passim."
     },
     {
       "key": "page_0138-c",
       "n": 37,
-      "text": "Jun. Piſc. Malv."
+      "text": "Jun. Pisc. Malv."
     },
     {
       "key": "page_0138-d",
       "n": 38,
-      "text": "Aq. Sym. Ὅτι ἐν ἀγρῷ ἦν αὐτῳ Αβεσσαλὼμ ἀπὸ τῆς ἡμέρας, &c."
+      "text": "Aq. Sym. Ὅτι ἐν ἀγρῷ ἦν αὐτῳ Αβεσσαλὼμ ἀπὸ τῆς ἡμέρας, etc."
     },
     {
       "key": "page_0139-a",
@@ -429,93 +429,7 @@
     {
       "key": "page_0139-d",
       "n": 42,
-      "text": "Jonath. Grot. Jun. Forſter. Glaſſ. Vattab. Malv. aliis in Synopſi."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0128",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0129",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0130",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0131",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0132",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0133",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0134",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0135",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0136",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0137",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0138",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0139",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Jonath. Grot. Jun. Forster. Glass. Vattab. Malv. aliis in Synopsi."
     }
   ],
   "missing_footnotes": []

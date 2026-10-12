@@ -13,7 +13,7 @@
       ]
     },
     {
-      "verse_number": 1,
+      "verse_number": 2,
       "latin": "Non sequeris turbam ad faciendum malum : nec in judicio, plurimorum acquiesci sententiæ, ut a vero devies.",
       "french": "Vous ne suivrez point la foule pour faire le mal. Et dans votre jugement, vous ne vous rendrez point à l'avis du plus grand nombre, pour vous écarter de la vérité.",
       "annotations": null,
@@ -280,6 +280,24 @@
       "annotations": null,
       "source_pages": [
         "page_0399.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Non inibis cum eis fœdus, nec cum Diis eorum.",
+      "french": "Vous ne ferez point d'alliance avec eux, ni avec leurs Dieux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0400.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Non habitent in terra tua, ne forte peccare te faciant in me, si servieris Diis eorum: quod tibi certe erit in scandalum.",
+      "french": "Qu'ils n'habitent point dans votre terre, de peur qu'ils ne vous engagent à m'offenser, en servant leurs faux Dieux ; ce qui serait certainement pour vous un sujet de chute et de ruine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0400.json"
       ]
     }
   ]

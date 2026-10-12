@@ -16,9 +16,9 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SUBVERTIT ALTARIA PEREGRINI CULTUS, ET EXCELSA.",
-      "lemma": "Il détruisit les autels des cultes superstitieux, et les hauts lieux dédiés aux Idoles ; mais il ne démolit pas les hauteurs consacrées au Seigneur, où le peuple allait sacrifier.[3]",
+      "lemma": "_Il détruisit les autels des cultes superstitieux, et les hauts lieux dédiés aux Idoles ; mais il ne démolit pas les hauteurs consacrées au Seigneur, où le peuple allait sacrifier._[3]",
       "text": ""
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET CURRIBUS TRECENTIS.",
       "lemma": "Et trois cents chariots de guerre.",
       "text": "Quelques-uns [9] prétendent qu’il y avait treize cents chariots : le Prophète Anani relève ci-après le grand nombre de ces chariots, [10] ce qu’il n’aurait pas lieu de faire, s’il n’y en eût eu que trois cents."
@@ -65,7 +65,7 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN PAUCIS AUXILIERIS AN IN PLURIBUS.",
       "lemma": "Quand vous voulez secourir, le petit nombre, et le grand nombre sont la même chose devant vous.",
       "text": "C'est le même sens que ce que Jonathas disait en parlant à son Écuyer :[12] _Non est difficile Domino salvare vel in multis, vel in paucis._ Le texte Hébreu à la lettre :[13] _Il n'y a point chez vous de différence entre secourir le grand nombre, et celui qui manque de force._ On est assuré de la victoire dès qu'on est soutenu de votre secours, soit qu'on soit en grand, ou en petit nombre. Ou bien, il vous est égal de secourir ceux qui sont en grand, ou en petit nombre. Mais quiconque a votre secours, ne peut manquer de remporter la victoire."
@@ -100,7 +100,7 @@
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "GRANDIS TERROR.",
       "lemma": "Une grande épouvante.",
       "text": "L'Hébreu : [18] _Parce que la frayeur du Seigneur fut sur eux._ Une frayeur envoyée de Dieu; ℣. 12. ou une frayeur extraordinaire, une extrême frayeur."
@@ -156,7 +156,7 @@
     {
       "key": "page_0085-a",
       "n": 1,
-      "text": "2. Par. xv. 10. Cùm veniſſent in Jeruſalem in menſe tertio, anno decimo quinto regni Aſa."
+      "text": "2. Par. xv. 10. Cùm venissent in Jerusalem in mense tertio, anno decimo quinto regni Asa."
     },
     {
       "key": "page_0086-a",
@@ -166,32 +166,32 @@
     {
       "key": "page_0086-b",
       "n": 3,
-      "text": "Voyez 3. Reg. xv. 14. Excelſa autem non abſtulit. Et 2. Par. xv. 17. Excelſa autem derelicta ſunt in Iſraël."
+      "text": "Voyez 3. Reg. xv. 14. Excelsa autem non abstulit. Et 2. Par. xv. 17. Excelsa autem derelicta sunt in Israël."
     },
     {
       "key": "page_0086-c",
       "n": 4,
-      "text": "Vide 2. Par. xv. 8. Cùm audiſſet Aſa verba & prophetiam Azariæ... confortatus eſt, & abſtulit idola de omni terra Juda, & ex Benjamin, & ex urbibus quas ceperat montis Ephraïm."
+      "text": "Vide 2. Par. xv. 8. Cùm audisset Asa verba et prophetiam Azariæ... confortatus est, et abstulit idola de omni terra Juda, et ex Benjamin, et ex urbibus quas ceperat montis Ephraïm."
     },
     {
       "key": "page_0087-a",
       "n": 5,
-      "text": "Ci-aprés ℣. 9. 10. & cap. xvi. 1. & 9. _Ex præſenti tempore adverſum ſe bella cinſurgent._"
+      "text": "Ci-aprés ℣. 9. 10. et cap. xvi. 1. et 9. _Ex præsenti tempore adversum se bella cinsurgent._"
     },
     {
       "key": "page_0087-b",
       "n": 6,
-      "text": "Toſtat. Solian. Menech. Tirin. Mariana. Grotius."
+      "text": "Tostat. Solian. Menech. Tirin. Mariana. Grotius."
     },
     {
       "key": "page_0087-c",
       "n": 7,
-      "text": "Marſham ſaculo xv. Boch. Phaleg. lib. 4. c. 2. Eſt. Torniel. &c."
+      "text": "Marsham saculo xv. Boch. Phaleg. lib. 4. c. 2. Est. Torniel. etc."
     },
     {
       "key": "page_0088-a",
       "n": 8,
-      "text": "Vatab. Vide ſi placet Tirin. hic & Sanst."
+      "text": "Vatab. Vide si placet Tirin. hic et Sanst."
     },
     {
       "key": "page_0088-b",
@@ -206,7 +206,7 @@
     {
       "key": "page_0088-d",
       "n": 11,
-      "text": "Vide Num. XXI. 1. & Judic. I. 17."
+      "text": "Vide Num. XXI. 1. et Judic. I. 17."
     },
     {
       "key": "page_0089-a",
@@ -216,22 +216,22 @@
     {
       "key": "page_0089-b",
       "n": 13,
-      "text": "[UNCERTAIN HEBREW] 70. in, Vs, adiuvans eſt in robori & in nullo, & in paucis."
+      "text": "[UNCERTAIN HEBREW] 70. in, Vs, adiuvans est in robori et in nullo, et in paucis."
     },
     {
       "key": "page_0089-c",
       "n": 14,
-      "text": "[UNCERTAIN HEBREW] 70. & induxit Dominus Æthiopes."
+      "text": "[UNCERTAIN HEBREW] 70. et induxit Dominus Æthiopes."
     },
     {
       "key": "page_0089-d",
       "n": 15,
-      "text": "Geneſ. XX. 1. Abraham habitavit inter Cades & Sur, & peregrinatus eſt in Geraris."
+      "text": "Genes. XX. 1. Abraham habitavit inter Cades et Sur, et peregrinatus est in Geraris."
     },
     {
       "key": "page_0090-a",
       "n": 16,
-      "text": "ויפל הכושים לאין להם מחיה. ſur Joſué VIII. 3. Καὶ ἔπεσον Αἰθίοπες ὥςε μὴ εἶναι ἐν αὐτοῖς σωτηρίαν."
+      "text": "ויפל הכושים לאין להם מחיה. sur Josué VIII. 3. Καὶ ἔπεσον Αἰθίοπες ὥςε μὴ εἶναι ἐν αὐτοῖς σωτηρίαν."
     },
     {
       "key": "page_0090-b",
@@ -251,58 +251,7 @@
     {
       "key": "page_0091-a",
       "n": 20,
-      "text": "70. ἡ τῆς ἀλιμαζονίας ἐπέκλειαν, ἡ ὅλα- | ſens ; car ſouvent on trouve les _Minéens_, peuples Arabes, dans ces Livres. Voyez I. Par. IV. 41. Judic. X. II, 2. Par. XX. I. & XXVI. 7. Les tentes des _Minéens_ : ce qui fait un fort bon [UNCERTAIN HEBREW] [UNCERTAIN HEBREW] [UNCERTAIN HEBREW] [UNCERTAIN HEBREW] [UNCERTAIN HEBREW] [UNCERTAIN HEBREW]"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0085",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0086",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0087",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0088",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0089",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0090",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0091",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "70. ἡ τῆς ἀλιμαζονίας ἐπέκλειαν, ἡ ὅλα- | sens ; car souvent on trouve les _Minéens_, peuples Arabes, dans ces Livres. Voyez I. Par. IV. 41. Judic. X. II, 2. Par. XX. I. et XXVI. 7. Les tentes des _Minéens_ : ce qui fait un fort bon [UNCERTAIN HEBREW] [UNCERTAIN HEBREW] [UNCERTAIN HEBREW] [UNCERTAIN HEBREW] [UNCERTAIN HEBREW] [UNCERTAIN HEBREW]"
     }
   ],
   "missing_footnotes": []

@@ -141,7 +141,7 @@
     {
       "verse_number": 16,
       "latin": "Ex eo loco apparuit puteus, super quo locutus est Dominus ad Moysen : Congrega populum, et dabo ei aquam.",
-      "french": "Étant parti de ce lieu-là, on vit le puits^{g} dont le Seigneur parla à Moïse, en lui disant : Assemblez le peuple, et je lui donnerai de l'eau.",
+      "french": "Étant parti de ce lieu-là, on vit le puits^{(g)} dont le Seigneur parla à Moïse, en lui disant : Assemblez le peuple, et je lui donnerai de l'eau.",
       "annotations": null,
       "source_pages": [
         "page_0262.json"
@@ -163,6 +163,15 @@
       "annotations": null,
       "source_pages": [
         "page_0262.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "De Matthana in Nahaliel : de Nahaliel in Bamoth.",
+      "french": "De Matthana Nahaliel ; de NahalieI à Bamoth.",
+      "annotations": null,
+      "source_pages": [
+        "page_0264.json"
       ]
     },
     {
@@ -230,37 +239,21 @@
     },
     {
       "verse_number": 27,
-      "latin": "Idcirco dicitur in Proverbio : Venite in Hesebon, ædificetur, et construatur civitas Sehon :",
-      "french": "D'où vient qu'on dit en Proverbe : Venez à Hésebon ; qu'on bâtisse, et qu'on élève la ville de Sihon.",
+      "latin": "Idcirco dicitur in Proverbio : Venite in Hesebon, ædificetur, et construatur civitas Sehon : Idcirco dicitur in Proverbio : Venite in Hesebon, ædificetur, et construatur civitas Sehon :",
+      "french": "D'où vient qu'on dit en Proverbe : Venez à Hésebon ; qu'on bâtisse, et qu'on élève la ville de Sihon. D'où vient qu'on dit en Proverbe : Venez à Hésebon ; qu'on bâtisse, et qu'on élève la ville de Sihon.",
       "annotations": null,
       "source_pages": [
-        "page_0268.json"
-      ]
-    },
-    {
-      "verse_number": 27,
-      "latin": "Idcirco dicitur in Proverbio : Venite in Hesebon, ædificetur, et construatur civitas Sehon :",
-      "french": "D'où vient qu'on dit en Proverbe : Venez à Hésebon ; qu'on bâtisse, et qu'on élève la ville de Sihon.",
-      "annotations": null,
-      "source_pages": [
+        "page_0268.json",
         "page_0269.json"
       ]
     },
     {
       "verse_number": 28,
-      "latin": "Ignis egressus est de Hesebon, flamma de oppido Sehon, et devoravit Ar Moabitarum, et habitatores excelsorum Arnon.",
-      "french": "Le feu est sorti de Hésebon, et la flamme de la ville de Sihon : Elle a dévoré Ar des Moabites, et les habitants des hauteurs de l'Arnon.",
+      "latin": "Ignis egressus est de Hesebon, flamma de oppido Sehon, et devoravit Ar Moabitarum, et habitatores excelsorum Arnon. Ignis egressus est de Hesebon, flamma de oppido Sehon, et devoravit Ar Moabitarum, et habitatores excelsorum Arnon.",
+      "french": "Le feu est sorti de Hésebon, et la flamme de la ville de Sihon : Elle a dévoré Ar des Moabites, et les habitants des hauteurs de l'Arnon. Le feu est sorti de Hésebon, et la flamme de la ville de Sihon : Elle a dévoré Ar des Moabites, et les habitants des hauteurs de l'Arnon.",
       "annotations": null,
       "source_pages": [
-        "page_0268.json"
-      ]
-    },
-    {
-      "verse_number": 28,
-      "latin": "Ignis egressus est de Hesebon, flamma de oppido Sehon, et devoravit Ar Moabitarum, et habitatores excelsorum Arnon.",
-      "french": "Le feu est sorti de Hésebon, et la flamme de la ville de Sihon : Elle a dévoré Ar des Moabites, et les habitants des hauteurs de l'Arnon.",
-      "annotations": null,
-      "source_pages": [
+        "page_0268.json",
         "page_0269.json"
       ]
     },

@@ -9,14 +9,14 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NUM SACRIFICABUNT, ET COMPLEBUNT IN UNA DIE?",
       "lemma": "Sacrifieront-ils, et achèveront-ils leur ouvrage en un même jour ?",
       "text": "Espèrent-ils d'achever si promptement leur ouvrage, que nous leur laissions le temps de le dédier, et d'offrir des sacrifices dans la cérémonie de sa dédicace ? Ou bien : Achèveront-ils tranquillement cet ouvrage ? Et quelque jour offriront-ils en sûreté, comme autrefois, leur sacrifice dans leur Temple ? Enfin ; est-ce l'ouvrage d'un jour, que celui qu'ils entreprennent ? Espèrent-ils d'en venir à bout, et de sacrifier à leur Dieu au jour de la dédicace de leurs murs ?"
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NUMQUID ÆDIFICARE POTERUNT LAPIDES DE ACERVIS PULVERIS?",
       "lemma": "Bâtiront-ils avec des pierres, que le feu a réduites en un grand monceau de poussière ? Se contentent-ils de faire servir à leurs murailles, des pierres calcinées, et réduites en poussière par le feu ?",
       "text": "L'Hébreu à la lettre : [4] _Rendront-ils la vie à des pierres tirées des monceaux de poussière, et qui sont toutes brûlées ?_ Les Septante : [5] _Guériront-ils des pierres brûlées, et réduites en un amas de terre ?_ Les Hébreux emploient le verbe, _rendre la vie_, non seulement pour marquer la délivrance d'un grand danger, mais aussi pour le rétablissement d'une ville, d'une maison, d'une muraille. [6]"
@@ -58,7 +58,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "RENT CONTRA JERUSALEM.",
       "lemma": "Ils s'assemblèrent tous d'un commun accord, pour venir attaquer Jérusalem.",
       "text": "Les Juifs racontent que cent quatre-vingt mille Samaritains étant venus contre Jérusalem, Esdras, et Néhémie assemblèrent trois cents Prêtres, qui les excommunièrent de l'excommunication majeure. Ces Prêtres étaient suivis de trois cents jeunes hommes, qui tenaient d'une main un Exemplaire de la Loi, et de l'autre, une trompette. Ils sonnaient de la trompette, en même temps que l'on lançait l'excommunication contre les Cuthéens, et qu'on maudissait celui qui mangeait du pain avec eux, comme s'il avait mangé de la chair de pourceau. On demandait aussi à Dieu qu'ils n'eussent aucune part à la Résurrection, et qu'il ne fût jamais permis de les recevoir au Judaïsme. Ces menaces effrayèrent tellement les Samaritains, qu'ils prirent la fuite, et laissèrent Néhémie, et les siens, continuer leur ouvrage. C'est dommage que cette Histoire n'ait aucun fondement dans l'Écriture."
@@ -197,7 +197,7 @@
     {
       "key": "page_0033-a",
       "n": 9,
-      "text": "Vide Eſtium hic."
+      "text": "Vide Estium hic."
     },
     {
       "key": "page_0034-a",
@@ -212,7 +212,7 @@
     {
       "key": "page_0035-a",
       "n": 12,
-      "text": "Vatab. Manſi."
+      "text": "Vatab. Mansi."
     },
     {
       "key": "page_0035-b",
@@ -227,7 +227,7 @@
     {
       "key": "page_0035-d",
       "n": 15,
-      "text": "Iez. & Jun."
+      "text": "Iez. et Jun."
     },
     {
       "key": "page_0035-e",
@@ -252,7 +252,7 @@
     {
       "key": "page_0037-b",
       "n": 20,
-      "text": "Sanct. Eſt. alii."
+      "text": "Sanct. Est. alii."
     },
     {
       "key": "page_0037-c",
@@ -267,7 +267,7 @@
     {
       "key": "page_0038-b",
       "n": 23,
-      "text": "l’_Opuſalav_ חרב"
+      "text": "l’_Opusalav_ חרב"
     },
     {
       "key": "page_0038-c",
@@ -277,70 +277,12 @@
     {
       "key": "page_0038-d",
       "n": 25,
-      "text": "Ita _Quid. in Munſt. Ludov. de Dieu_, Tig."
+      "text": "Ita _Quid. in Munst. Ludov. de Dieu_, Tig."
     },
     {
       "key": "page_0038-e",
       "n": 26,
       "text": "Hebræi in Mat."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0031",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0032",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0033",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0034",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0035",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0036",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0037",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0038",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

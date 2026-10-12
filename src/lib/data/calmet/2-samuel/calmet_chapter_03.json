@@ -17,16 +17,16 @@
     {
       "verse": 3,
       "sub": false,
-      "latin_lemma": "CHELEAB, autrement Daniel. I. Par. III. I. Les Septante: Dalnia; les autres Interprétes Grecs. Abia.",
+      "latin_lemma": "CHELEAB,",
       "lemma": null,
-      "text": ""
+      "text": "autrement Daniel. I. Par. III. I. Les Septante: Dalnia; les autres Interprétes Grecs. Abia."
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ABSALOM, FILIUS MAACHA, FILIÆ THOLMAI REGIS GESSUR.",
-      "lemma": null,
-      "text": "Absalon, fils de Maacha, fille de Tholmaï, Roi de Gessur. On croit que Tholmaï était Roi du pays de Gessur, frontière de Syrie, vers Damas. David observa apparemment tout ce que la Loi ordonnait à l'égard des femmes étrangères ; il n'épousa Maacha qu'après lui avoir fait changer de Religion. L'Écriture entre rarement dans ces sortes de petits détails."
+      "lemma": "Absalon, fils de Maacha, fille de Tholmaï, Roi de Gessur.",
+      "text": "On croit que Tholmaï était Roi du pays de Gessur, frontière de Syrie, vers Damas. David observa apparemment tout ce que la Loi ordonnait à l'égard des femmes étrangères ; il n'épousa Maacha qu'après lui avoir fait changer de Religion. L'Écriture entre rarement dans ces sortes de petits détails."
     },
     {
       "verse": 7,
@@ -44,7 +44,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NUMQUID CAPUT CANIS EGO SUM ADVERSUS JUDAM HODIE.",
       "lemma": "Suis-je un homme à être traité comme un chien aujourd'hui, moi qui me suis déclaré contre Juda ?",
       "text": "À la lettre : _Suis-je une tête de chien contre Juda ; ou un chef d'une meute de chiens contre Juda ?_ [7] _Méritais-je d'être traité comme un misérable, comme un valet qui mène des chiens ?_ Autrement : _Je vous apprendrai si je suis Général d'armée, ou chef de chiens aujourd'hui contre Juda ; etc._ en me rangeant contre vous dans le parti de David, je serai regardé de vos ennemis comme un misérable, ou un homme de rien, et qui ne mérite aucun ménagement. On verra aujourd'hui si je vous suis si inutile contre Juda, et si mes services doivent vous être si indifférents ; si je suis un chien, un animal impur, et méprisable. L'Hébreu : [8] _Suis-je une tête de chien, moi qui ai fait aujourd'hui miséricorde à la maison de Saül contre Juda ?_ Ou autrement : _Suis-je un chien de Juda, moi qui ai fait aujourd'hui miséricorde à votre maison ?_ Une tête de chien se peut prendre pour un chien ; de même qu'on dit, vingt têtes d'hommes, ou de bœufs, pour vingt hommes, et vingt bœufs. Le chien est mis dans l'Écriture pour le plus vil des animaux ; [9] et le chien de nos ennemis est encore plus méprisé, et plus en horreur. Ainsi, _Suis-je une tête de chien de Juda ?_ marque, _Suis-je le chien de votre ennemi, pour me traiter de la sorte ?_ Les Septante [10] n'ont point lu Juda dans cet endroit : _Suis-je une tête de chien ? et j'ai fait miséricorde envers la maison de Saül votre père._ Il y en a qui voudraient lire dans l'Hébreu : _Suis-je une tête de chien, pour être jeté aujourd'hui ?_ [11]"
@@ -72,7 +72,7 @@
     },
     {
       "verse": 13,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ANTEQUAM ADDUXERIS MIHI MICHOL.",
       "lemma": "Que vous ne m'ayez ramené auparavant Michol.",
       "text": "L'Hébreu à la lettre : _Si vous ne me ramenez en présence Michol_. Si vous-même ne me la représentez. David crut apparemment que ceux qui étaient affectionnés à la maison de Saül, auraient moins de répugnance à le reconnaître pour Roi, s'il avait pour femme une des filles de ce Prince. Le gendre du Roi est moins étranger à la famille Royale. La Loi [17] défend de reprendre une femme répudiée, qui a épousé un autre homme : mais Michol n'était pas dans ce cas, elle n'avait point été répudiée par David."
@@ -121,14 +121,14 @@
     },
     {
       "verse": 27,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UT LOQUERETUR IN DOLO.",
       "lemma": "Pour lui parler en trahison.",
       "text": "L'Hébreu : [26] _Pour lui parler en repos, en secret._ Autrement : _Pour lui parler dans l'erreur, sans qu'il se doutât de rien._ Il lui parla en trahison."
     },
     {
       "verse": 27,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN INGUINE.",
       "lemma": "Dans l'aine.",
       "text": "Au même endroit où Abner avait percé Asaël. Voyez ci-devant, Chap. II. ℣. 23. On voit ici le caractère d'esprit de Joab. Il fit la même chose à Amasa quelque temps après. [27] Cet homme n'avait ni honneur, ni religion. Son ambition était son Dieu."
@@ -149,14 +149,14 @@
     },
     {
       "verse": 29,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TENENS FUSUM.",
       "lemma": "Qui tiennent le fuseau.",
       "text": "Expression proverbiale, pour marquer un homme efféminé, plus propre à manier le fuseau, qu'à porter les armes. Quelques-uns traduisent l'Hébreu par :[30] _Tenant le bâton_ ;[31] _des boiteux, des languissants, qui ne peuvent marcher sans s'appuyer sur leurs bâtons_ ; ou _des aveugles, qui vont tâtonnant avec leurs bâtons_ ;[32] ou _des lépreux, qui portaient autrefois des cliquettes, pour se faire remarquer_ ;[33] ou _des eunuques, qui sont occupés à filer, et à faire de la toile_.[34]"
     },
     {
       "verse": 29,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "INDIGENS PANE.",
       "lemma": "Qui demandent leur pain.",
       "text": "Qui soient réduits à la dernière pauvreté. On regardait cela comme une malédiction de Dieu. Dans les Psaumes, on souhaite la famine aux méchants, comme un des plus grands fléaux de Dieu.[35] _Convertentur ad vesperam_, etc et famem patientur ut canes. On prédit à l'impie que ses enfants seront réduits à la mendicité : [36] _Nutantes transferantur filii ejus, et mendicent_. Dans tout ceci, David marque assez l'horreur qu'il avait de l'action de Joab. Ces imprécations sont moins des effets de sa colère, que des prédictions de ce qui devait arriver à Joab."
@@ -170,7 +170,7 @@
     },
     {
       "verse": 31,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "REX DAVID SEQUEBATUR FERETRUM.",
       "lemma": "Le Roi David marchait après le cercueil.",
       "text": "L'Hébreu : [37] _Il suivait le lit_. On dit que les femmes marchaient devant le lit sur lequel était le mort, et les hommes derrière. [38] Les Rois n'assistaient point ordinairement aux funérailles. David voulut faire cet honneur à Abner. Quelques éditions des Septante [39] portent qu'il marchait devant le cercueil."
@@ -191,14 +191,14 @@
     },
     {
       "verse": 34,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SICUT SOLENT CADERE CORAM FILIIS INIQUITATIS.",
       "lemma": "Comme ceux qui tombent devant les enfants d'iniquité.",
       "text": "Il est mort sans pouvoir se défendre, parce qu'il a été surpris par des traîtres. David ne ménageait assurément guère la délicatesse de Joab dans ce Cantique, qui fut chanté par tout le peuple."
     },
     {
       "verse": 34,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CONGEMINANS OMNIS POPULUS FLEVIT SUPER EUM.",
       "lemma": "Tout le monde à ces mots redoubla ses larmes.",
       "text": "Ou plutôt : _Tout le peuple répéta ce Cantique après David, et pleura sur Abner._ Les Septante : [41] _Et tout le peuple s'assembla pour le pleurer._ On peut traduire l'Hébreu par : [42] _Et tout le peuple continua de le pleurer._"
@@ -219,7 +219,7 @@
     },
     {
       "verse": 39,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DURI SUNT MIHI.",
       "lemma": "Sont trop violents pour moi...",
       "text": "À la lettre: _Ils sont durs pour moi._ me sont durs, Ils me traitent violemment. L'Hébreu : [46] Ils sont plus durs que moi ; plus puissants, plus accrédités. Ou bien : Je ne puis supporter leurs violences. David marque assez, que s'il ne venge pas l'action de Joab, ce n'est que parce qu'il ne le peut pas. Il vaut mieux temporiser, que d'aigrir le mal par une punition précipitée."
@@ -302,7 +302,7 @@
     {
       "key": "page_0027-a",
       "n": 1,
-      "text": "ותהי המלחמה ארכה. (a)"
+      "text": "ותהי המלחמה ארכה. "
     },
     {
       "key": "page_0027-b",
@@ -312,7 +312,7 @@
     {
       "key": "page_0028-a",
       "n": 3,
-      "text": "Tacit. hiſt. lib. 5. apud Grot."
+      "text": "Tacit. hist. lib. 5. apud Grot."
     },
     {
       "key": "page_0029-a",
@@ -332,7 +332,7 @@
     {
       "key": "page_0029-d",
       "n": 7,
-      "text": "Ita Rabb. Kim. Jarchi alii. Vat. Munſt"
+      "text": "Ita Rabb. Kim. Jarchi alii. Vat. Munst"
     },
     {
       "key": "page_0030-a",
@@ -342,7 +342,7 @@
     {
       "key": "page_0030-b",
       "n": 9,
-      "text": "1. Reg. XXIV. 15. & 2. Reg. IX. 8. XVI. 9. Job. XXX. 1. Eccle. IX. 4."
+      "text": "1. Reg. XXIV. 15. et 2. Reg. IX. 8. XVI. 9. Job. XXX. 1. Eccle. IX. 4."
     },
     {
       "key": "page_0030-c",
@@ -357,7 +357,7 @@
     {
       "key": "page_0030-e",
       "n": 12,
-      "text": "Tacit. lib I. Hiſt. apud Grot."
+      "text": "Tacit. lib I. Hist. apud Grot."
     },
     {
       "key": "page_0030-f",
@@ -367,7 +367,7 @@
     {
       "key": "page_0031-a",
       "n": 14,
-      "text": "Piſtat."
+      "text": "Pistat."
     },
     {
       "key": "page_0031-b",
@@ -417,7 +417,7 @@
     {
       "key": "page_0034-b",
       "n": 24,
-      "text": "Joſeph Antiq. lib. VII. c. 2."
+      "text": "Joseph Antiq. lib. VII. c. 2."
     },
     {
       "key": "page_0034-c",
@@ -467,17 +467,17 @@
     {
       "key": "page_0035-g",
       "n": 34,
-      "text": "Delrio Adag. 190. Claudian. de Eutrop. Tu telas, non tela pati, tu flamina neſſe, &c."
+      "text": "Delrio Adag. 190. Claudian. de Eutrop. Tu telas, non tela pati, tu flamina nesse, etc."
     },
     {
       "key": "page_0035-h",
       "n": 35,
-      "text": "Pſal. LVIII. 7. 15."
+      "text": "Psal. LVIII. 7. 15."
     },
     {
       "key": "page_0036-a",
       "n": 36,
-      "text": "Pſal. CVIII. 10."
+      "text": "Psal. CVIII. 10."
     },
     {
       "key": "page_0036-b",
@@ -512,12 +512,12 @@
     {
       "key": "page_0038-a",
       "n": 43,
-      "text": "Commentaire ſur la Genèſe chap. L. ℣. 3."
+      "text": "Commentaire sur la Genèse chap. L. ℣. 3."
     },
     {
       "key": "page_0038-b",
       "n": 44,
-      "text": "רך ומשה Aq. Sym. A'παλὸς καὶ τρυφερὸς. Tener & unctus."
+      "text": "רך ומשה Aq. Sym. A'παλὸς καὶ τρυφερὸς. Tener et unctus."
     },
     {
       "key": "page_0038-c",
@@ -528,99 +528,6 @@
       "key": "page_0039-a",
       "n": 46,
       "text": "קשים ממני 70. Σκληρότεροι μὲ. ὶ ναι."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0027",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0028",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0029",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0030",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0031",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0032",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0033",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0034",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0035",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0036",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0037",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0038",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0039",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

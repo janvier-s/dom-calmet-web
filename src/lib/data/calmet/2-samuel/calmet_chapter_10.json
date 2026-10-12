@@ -25,29 +25,36 @@
       "verse": 6,
       "sub": false,
       "latin_lemma": "SYRUM ROOB, ET SYRUM SOBA.",
-      "lemma": "Les Syriens de.",
+      "lemma": "Les Syriens de",
       "text": ""
     },
     {
       "verse": 6,
-      "sub": true,
-      "latin_lemma": "Roob, & les Syriens de Soba.",
-      "lemma": null,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "Roob, et les Syriens de Soba.",
       "text": "Les premiers avaient pour leur capitale Roob, située à l'extrémité de la vallée, entre le Liban et l'Antiliban. Les Syriens de Soba sont sujets d'Adarézer, dont on a parlé ci-devant au chap. VIII. ℣. 3."
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MAACHA.",
       "lemma": null,
       "text": "Le pays de Maacha était aux environs du mont Hermon au-delà du Jourdain, dans la Trachonite."
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "HISTOB.",
       "lemma": null,
       "text": "On connaît le pays de Tob dans les montagnes de Galaad, où Jephté se retira ; [8] ce pays est appelé Tubin dans les Maccabées. [9] _If-tob_ [10] à la lettre, signifie _un homme beau_, ou _bon_ ; ou l'_homme_, _le maître de Tob_ ; le petit Prince qui gouvernait ce pays."
+    },
+    {
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "Paralipomènes[14] qu'outre les trente-trois mille hommes qu'on a vus ci-devant, ℣. 6. Et les troupes des Ammonites naturelles du pays. Ils avaient trente-deux mille chariots de guerre, qu'ils avaient fait venir de de-là l'Euphra-"
     },
     {
       "verse": 7,
@@ -60,15 +67,15 @@
       "verse": 8,
       "sub": false,
       "latin_lemma": "DIREXERUNT ACIEM ANTE IPSUM INTROITUM PORTÆ.",
-      "lemma": "Ils rangèrent leur armée en bataille devant l'entrée de la porte de la ville de Médaba, où se donna la bataille, comme on le voit aux Paralipomènes.",
-      "text": "[13] Les Ammonites ne jugèrent pas à propos de se laisser assiéger, ni aussi de s'exposer en pleine campagne; ils se rangèrent en bataille au pied de leurs murailles. On lit dans les"
+      "lemma": "Ils rangèrent leur armée en bataille devant l'entrée de la porte",
+      "text": "de la ville de Médaba, où se donna la bataille, comme on le voit aux Paralipomènes.[13] Les Ammonites ne jugèrent pas à propos de se laisser assiéger, ni aussi de s'exposer en pleine campagne; ils se rangèrent en bataille au pied de leurs murailles. On lit dans les"
     },
     {
-      "verse": 6,
+      "verse": 9,
       "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "Paralipomènes[14] qu'outre les trente-trois mille hommes qu'on a vus ci-devant, ℣. 6. Et les troupes des Ammonites naturelles du pays. Ils avaient trente-deux mille chariots de guerre, qu'ils avaient fait venir de de-là l'Euphrate."
+      "latin_lemma": "VIDENTES UNIVERSI REGES, QUI ERANT IN PRÆSIDIO ADAREZER.",
+      "lemma": "Les Rois qui étaient venus au secours d'Adarézer, se voyant vaincus.",
+      "text": "L'Hébreu, [19] le Caldéen, et les Septante : _Les Rois serviteurs d'Adarézer, voyant qu'ils étaient battus par Israël, fuirent dans leur pays, et se soumirent._ Ces Rois serviteurs d'Adarézer, sont ceux de la Syrie qui lui obéissaient ; car on n'a point de preuves que ce Prince ait eu des Rois assujettis au-delà de l'Euphrate ; mais s'il y en avait, ils se soumirent à David, comme les autres, et lui payèrent le tribut. La Vulgate ajoute, que les Syriens furent saisis de crainte, et prirent la fuite devant Israël, au nombre de cinquante-huit mille hommes, ce qui n'est ni dans l'Hébreu, ni dans les Septante, ni dans l'ancienne Version de saint Jérôme. On voit par cet endroit, que David avait des peuples tributaires et assujettis jusqu'au-delà de l'Euphrate, ce qui est à remarquer. Voyez le titre du Psaume LIX."
     },
     {
       "verse": 16,
@@ -90,13 +97,6 @@
       "latin_lemma": "OCCIDIT DAVID DE SYRIS SEPTINGENTOS CURRUS, ET QUADRAGINTA MILLIA EQUITUM.",
       "lemma": "David tailla en pièces sept cents chariots de leurs troupes, et quarante mille chevaux.",
       "text": "Dans les Paralipomènes, [17] on lit que David défit _sept mille chariots_, et _quarante mille hommes de pied_. Comment concilier tout cela ? À l'égard des sept cents, et des sept mille chariots, on peut dire qu'en supposant dix hommes qui accompagnaient chacun des sept cents chariots, de la manière que nous l'avons dit ailleurs, [18] la difficulté s'évanouit. Mais pour les quarante mille hommes de pied, opposés aux quarante mille hommes de cheval, il faut reconnaître qu'il y a une faute de Copiste dans l'un ou dans l'autre endroit ; ou dire que les Paralipomènes suppléent le nombre de quarante mille hommes de pied, qui avaient été omis dans les Livres des Rois. En sorte que la défaite des Syriens aurait été de quarante mille cavaliers, d'autant d'infanterie, et de sept mille hommes qui montaient, et qui accompagnaient les sept cents chariots."
-    },
-    {
-      "verse": 9,
-      "sub": false,
-      "latin_lemma": "VIDENTES UNIVERSI REGES, QUI ERANT IN PRÆSIDIO ADAREZER.",
-      "lemma": "Les Rois qui étaient venus au secours d'Adarézer, se voyant vaincus.",
-      "text": "L'Hébreu, [19] le Caldéen, et les Septante : _Les Rois serviteurs d'Adarézer, voyant qu'ils étaient battus par Israël, fuirent dans leur pays, et se soumirent._ Ces Rois serviteurs d'Adarézer, sont ceux de la Syrie qui lui obéissaient ; car on n'a point de preuves que ce Prince ait eu des Rois assujettis au-delà de l'Euphrate ; mais s'il y en avait, ils se soumirent à David, comme les autres, et lui payèrent le tribut. La Vulgate ajoute, que les Syriens furent saisis de crainte, et prirent la fuite devant Israël, au nombre de cinquante-huit mille hommes, ce qui n'est ni dans l'Hébreu, ni dans les Septante, ni dans l'ancienne Version de saint Jérôme. On voit par cet endroit, que David avait des peuples tributaires et assujettis jusqu'au-delà de l'Euphrate, ce qui est à remarquer. Voyez le titre du Psaume LIX."
     }
   ],
   "joins": [
@@ -145,7 +145,7 @@
     {
       "key": "page_0100-a",
       "n": 3,
-      "text": "Voyez Iſai. xv. 2."
+      "text": "Voyez Isai. xv. 2."
     },
     {
       "key": "page_0100-b",
@@ -155,17 +155,17 @@
     {
       "key": "page_0100-c",
       "n": 5,
-      "text": "Plutarc. in Ageſil. Στράβων μὲν γὰρ νικήσας, μάχῃ δὲ τρέψας."
+      "text": "Plutarc. in Agesil. Στράβων μὲν γὰρ νικήσας, μάχῃ δὲ τρέψας."
     },
     {
       "key": "page_0101-a",
       "n": 6,
-      "text": "(a) מַדֵּיהֶם 70. A'υτῶν τὰς Μανδύας ἀυτῶν τὰς μεσοπορν́ρους. Aqu. Στολὰς αὐτῶν."
+      "text": " מַדֵּיהֶם 70. A'υτῶν τὰς Μανδύας ἀυτῶν τὰς μεσοπορν́ρους. Aqu. Στολὰς αὐτῶν."
     },
     {
       "key": "page_0101-b",
       "n": 7,
-      "text": "(b) Joſue VI. 26."
+      "text": " Josue VI. 26."
     },
     {
       "key": "page_0102-a",
@@ -190,7 +190,7 @@
     {
       "key": "page_0102-e",
       "n": 12,
-      "text": "Vide Grot. de jure Belli & Pac. lib. 2. c. 18."
+      "text": "Vide Grot. de jure Belli et Pac. lib. 2. c. 18."
     },
     {
       "key": "page_0102-f",
@@ -210,7 +210,7 @@
     {
       "key": "page_0104-b",
       "n": 16,
-      "text": "ויבא הלהם Les Septante de l'édition Romaine ℣. 16. Il aſſembla les Syriens de l'Iſmac au de là du fleuve; & ils vinrent à Elam."
+      "text": "ויבא הלהם Les Septante de l'édition Romaine ℣. 16. Il assembla les Syriens de l'Ismac au de là du fleuve; et ils vinrent à Elam."
     },
     {
       "key": "page_0104-c",
@@ -226,57 +226,6 @@
       "key": "page_0105-b",
       "n": 19,
       "text": "ויראו כל המלכים עבדי הדרעזר"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0099",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0100",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0101",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0102",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0103",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0104",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0105",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

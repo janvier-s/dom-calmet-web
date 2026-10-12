@@ -107,7 +107,7 @@
     },
     {
       "verse": 17,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET USQUE AD INFEROS PECCATUM ILLIUS.",
       "lemma": null,
       "text": "Et son péché le conduira jusqu’aux enfers. L’Hébreu: [37] _ils ont péché l’enfer, ou le tombeau._ Leur péché mérite la mort, ou l’enfer. On le peut joindre à ce qui suit de cette sorte: La chaleur, et la sécheresse ont fait écouler les eaux de neige; elles se sont perdues jusqu’au fond de la terre. Ou bien: Les eaux de neige se sont fondues par la chaleur, et les méchants sont consumés dans l’enfer. À la lettre: Et l’enfer dissipe ceux qui pèchent. Les Septante: [38] _Leur péché a été rappelé en mémoire. Le Seigneur s’est souvenu de leurs crimes._"
@@ -121,7 +121,7 @@
     },
     {
       "verse": 20,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CONTERATUR SICUT LIGNUM INFRUCTUOSUM.",
       "lemma": "Qu'il soit brisé comme un arbre qui ne porte point de fruit.",
       "text": "L'Hébreu : [40] _il sera brisé comme un bois, ou comme un arbre d'iniquité_ ; un mauvais arbre, qui ne produit que de méchants fruits. Les Septante : [41] _Tout méchant sera brisé comme un arbre qui ne peut être guéri_ ; un arbre mort, qui n'est plus bon qu'à être mis au feu. Quelques-uns traduisent : _L'iniquité sera détruite comme le bois._ Le méchant, et son crime seront consumés avec autant de promptitude, qu'un bois sec, qu'on a mis dans le feu."
@@ -284,22 +284,22 @@
     {
       "key": "page_0308-c",
       "n": 3,
-      "text": "_Auguſt. & antiq. verſ. Lat. Quare Dominum non latuerunt horæ? Complut. Διὰτὶ δὲ Κύριον ἐκ ἔλαθον ὧραι;_"
+      "text": "_August. et antiq. vers. Lat. Quare Dominum non latuerunt horæ? Complut. Διὰτὶ δὲ Κύριον ἐκ ἔλαθον ὧραι;_"
     },
     {
       "key": "page_0308-d",
       "n": 4,
-      "text": "_Deut. XIX. 14. & XXVII. 17._"
+      "text": "_Deut. XIX. 14. et XXVII. 17._"
     },
     {
       "key": "page_0308-e",
       "n": 5,
-      "text": "_Dionyſ. Halycarn. lib. I. & Feſtus. Numa ſtatuit eum qui terminum exaraſſet, & ipſum, & bovem ſacros eſſe._"
+      "text": "_Dionys. Halycarn. lib. I. et Festus. Numa statuit eum qui terminum exarasset, et ipsum, et bovem sacros esse._"
     },
     {
       "key": "page_0309-a",
       "n": 6,
-      "text": "עדר ורעה גזלו. Ποίμνιον σὺν ποιμένι. ſcilicet ἀφείλοντο. Comme s’il y avoit, עדר גזלו ורעהו ואשר ידעהו"
+      "text": "עדר ורעה גזלו. Ποίμνιον σὺν ποιμένι. scilicet ἀφείλοντο. Comme s’il y avoit, עדר גזלו ורעהו ואשר ידעהו"
     },
     {
       "key": "page_0309-b",
@@ -344,7 +344,7 @@
     {
       "key": "page_0311-b",
       "n": 15,
-      "text": "פורם תרים ירטבו ומבלי מחסה חבקו צור pére &c. transibunt."
+      "text": "פורם תרים ירטבו ומבלי מחסה חבקו צור pére etc. transibunt."
     },
     {
       "key": "page_0311-c",
@@ -354,7 +354,7 @@
     {
       "key": "page_0311-d",
       "n": 17,
-      "text": "d'autres leſquels ont porté, cum eſſent ſiti."
+      "text": "d'autres lesquels ont porté, cum essent siti."
     },
     {
       "key": "page_0312-a",
@@ -374,7 +374,7 @@
     {
       "key": "page_0312-d",
       "n": 21,
-      "text": "בין שורתם יצהירו יקבים דרכו ויצמאו Intra parietes eorum faciunt oleum. Et torcular calcant & ſitiunt."
+      "text": "בין שורתם יצהירו יקבים דרכו ויצמאו Intra parietes eorum faciunt oleum. Et torcular calcant et sitiunt."
     },
     {
       "key": "page_0313-a",
@@ -384,7 +384,7 @@
     {
       "key": "page_0313-b",
       "n": 23,
-      "text": "70. Et _creaturas abiens ἀνδρόφονους, id_èſt _hominum interfectrices, & divinitùs in hoſtium manus traditas._"
+      "text": "70. Et _creaturas abiens ἀνδρόφονους, id_èst _hominum interfectrices, et divinitùs in hostium manus traditas._"
     },
     {
       "key": "page_0313-c",
@@ -394,7 +394,7 @@
     {
       "key": "page_0313-d",
       "n": 25,
-      "text": "_Ita Mont. Jun. Druſ. Munſt. alii._"
+      "text": "_Ita Mont. Jun. Drus. Munst. alii._"
     },
     {
       "key": "page_0313-e",
@@ -434,7 +434,7 @@
     {
       "key": "page_0315-b",
       "n": 33,
-      "text": "Iſai. LVII. 20."
+      "text": "Isai. LVII. 20."
     },
     {
       "key": "page_0315-c",
@@ -479,7 +479,7 @@
     {
       "key": "page_0317-d",
       "n": 42,
-      "text": "Philo de ſpecialib. legib. pag. 782."
+      "text": "Philo de specialib. legib. pag. 782."
     },
     {
       "key": "page_0317-e",
@@ -510,99 +510,6 @@
       "key": "page_0319-b",
       "n": 48,
       "text": "Voyez ci-devant Job. IX. 25. XVII. 15."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0307",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0308",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0309",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0310",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0311",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0312",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0313",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0314",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0315",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0316",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0317",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0318",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0319",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

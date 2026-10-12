@@ -17,9 +17,9 @@
     {
       "verse": 4,
       "sub": false,
-      "latin_lemma": "ET NUNC QUIA VOBIS SORTE DIVISIT OMNEM TERRAM, &c.",
+      "latin_lemma": "ET NUNC QUIA VOBIS SORTE DIVISIT OMNEM TERRAM, etc.",
       "lemma": "À présent qu'il vous a partagé par le sort toute la terre.",
-      "text": "Voici l'Hébreu à la lettre : [3] _Et voyez que je vous ai partagé ces nations qui restent à assujettir, pour être l'héritage de vos tribus, aussi bien que celles que j'ai détruites, depuis le Jourdain jusqu'à la grande mer._ Josué représente au peuple qu'il leur a partagé tout ce pays, qui est depuis le Jourdain jusqu'à la mer Méditerranée, tant celui qui est déjà assujetti, que celui qui reste à soumettre : il leur promet ensuite la protection et le secours de Dieu, pourvu qu'ils persévèrent dans son culte, et dans son service ; tout cela pour leur faire un reproche secret de leur indolence à achever la conquête de ce pays, et pour les porter à exterminer à exterminer les Cananéens, qu'ils ne devaient plus considérer que comme, non seulement les ennemis de Dieu, mais aussi d'injustes possesseurs de l'héritage de leurs tribus."
+      "text": "Voici l'Hébreu à la lettre : [3] _Et voyez que je vous ai partagé ces nations qui restent à assujettir, pour être l'héritage de vos tribus, aussi bien que celles que j'ai détruites, depuis le Jourdain jusqu'à la grande mer._ Josué représente au peuple qu'il leur a partagé tout ce pays, qui est depuis le Jourdain jusqu'à la mer Méditerranée, tant celui qui est déjà assujetti, que celui qui reste à soumettre : il leur promet ensuite la protection et le secours de Dieu, pourvu qu'ils persévèrent dans son culte, et dans son service ; tout cela pour leur faire un reproche secret de leur indolence à achever la conquête de ce pays, et pour les porter à exterminer les Cananéens, qu'ils ne devaient plus considérer que comme, non seulement les ennemis de Dieu, mais aussi d'injustes possesseurs de l'héritage de leurs tribus."
     },
     {
       "verse": 7,
@@ -46,12 +46,12 @@
       "verse": 14,
       "sub": false,
       "latin_lemma": "EN EGO HODIE INGREDIOR VIAM UNIVERSÆ TERRÆ.",
-      "lemma": "Je suis aujourd'hui sur le point d'entrer dans la voie de toute la terre ; je ne suis pas loin de ma fin. Aujourd'hui est mis pour bientôt ;",
-      "text": "de même qu'ailleurs demain est mis pour dans quelque temps d'ici. _Entrer dans la voie de toute la terre_, est subir la mort à laquelle tous les hommes sont condamnés, _entrer dans un chemin que tout le monde est obligé de prendre_, arriver à un point où nous devons tous nous rendre. Les profanes disaient ; aller dans la place commune, _abire in communem locum_ ; ou aller où plusieurs sont déjà. _Quin prius me ad plures penetravi_.[21]"
+      "lemma": "Je suis aujourd'hui sur le point d'entrer dans la voie de toute la terre ;",
+      "text": "je ne suis pas loin de ma fin. _Aujourd'hui_ est mis pour bientôt ; de même qu'ailleurs demain est mis pour dans quelque temps d'ici. _Entrer dans la voie de toute la terre_, est subir la mort à laquelle tous les hommes sont condamnés, _entrer dans un chemin que tout le monde est obligé de prendre_, arriver à un point où nous devons tous nous rendre. Les profanes disaient ; aller dans la place commune, _abire in communem locum_ ; ou aller où plusieurs sont déjà. _Quin prius me ad plures penetravi_.[21]"
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TOTO ANIMO COGNOSCETIS.",
       "lemma": "Vous savez parfaitement.",
       "text": "L'Hébreu :[22] _Vous savez de tout votre cœur et de toute votre âme_. Vous êtes pleinement convaincus et persuadés ; vous avez été témoins, et vous ne pouvez ignorer que le Seigneur n'ait pleinement exécuté toutes ses promesses."
@@ -76,7 +76,7 @@
       "seam": "page_0384>page_0385",
       "verse": 4,
       "mode": "flow",
-      "before": "er la conquête de ce pays, et pour les porter à exterminer",
+      "before": "lence à achever la conquête de ce pays, et pour les porter",
       "after": "à exterminer les Cananéens, qu'ils ne devaient plus consid"
     },
     {
@@ -96,8 +96,8 @@
     {
       "seam": "page_0387>page_0388",
       "verse": 14,
-      "mode": "hyphen",
-      "before": "de même",
+      "mode": "splice",
+      "before": "oin de ma fin. _Aujourd'hui_ est mis pour bientôt ; de mê-",
       "after": "me qu'ailleurs demain est mis pour dans quelque temps d'ic"
     }
   ],
@@ -118,12 +118,12 @@
     {
       "key": "page_0383-b",
       "n": 2,
-      "text": "Maſ. Cornel. Bonfr."
+      "text": "Mas. Cornel. Bonfr."
     },
     {
       "key": "page_0384-a",
       "n": 3,
-      "text": "ראו הפלתי לכם את הגוים הנשארים האלה בנחלה לשבטיכם מן הירדן וכל הגוים אשר הכרתי והים הגדול מבוא השמש. Il y a une ſection dans ce Texte, il faut joindre le mot ירדן avec השמש מבוא."
+      "text": "ראו הפלתי לכם את הגוים הנשארים האלה בנחלה לשבטיכם מן הירדן וכל הגוים אשר הכרתי והים הגדול מבוא השמש. Il y a une section dans ce Texte, il faut joindre le mot ירדן avec השמש מבוא."
     },
     {
       "key": "page_0385-a",
@@ -133,12 +133,12 @@
     {
       "key": "page_0385-b",
       "n": 5,
-      "text": "Pſalm. xv. 4."
+      "text": "Psalm. xv. 4."
     },
     {
       "key": "page_0385-c",
       "n": 6,
-      "text": "Oſee II. 16. Et erit in die illa, dicit Dominus, vocabit me, vir meus, & non vocabis me Baali."
+      "text": "Osee II. 16. Et erit in die illa, dicit Dominus, vocabit me, vir meus, et non vocabis me Baali."
     },
     {
       "key": "page_0385-d",
@@ -148,12 +148,12 @@
     {
       "key": "page_0385-e",
       "n": 8,
-      "text": "Epheſ. v. 3. Fornicatio autem & omnis immunditia, aut avaritia, nec nominentur in vobis."
+      "text": "Ephes. v. 3. Fornicatio autem et omnis immunditia, aut avaritia, nec nominentur in vobis."
     },
     {
       "key": "page_0385-f",
       "n": 9,
-      "text": "Vide Druſ. hic & Serar."
+      "text": "Vide Drus. hic et Serar."
     },
     {
       "key": "page_0386-a",
@@ -163,12 +163,12 @@
     {
       "key": "page_0386-b",
       "n": 11,
-      "text": "Pſalm. XIX. 8. Nos autem in nomine Domini Dei noſtri invocabimus. נזכיר Recordabimur."
+      "text": "Psalm. XIX. 8. Nos autem in nomine Domini Dei nostri invocabimus. נזכיר Recordabimur."
     },
     {
       "key": "page_0386-c",
       "n": 12,
-      "text": "Pſalm. XXI. 28. Reminiſcentur & convertentur ad Dominum. ויזכרו וישבו"
+      "text": "Psalm. XXI. 28. Reminiscentur et convertentur ad Dominum. ויזכרו וישבו"
     },
     {
       "key": "page_0386-d",
@@ -188,17 +188,17 @@
     {
       "key": "page_0386-g",
       "n": 16,
-      "text": "Vide Joſeph. l. 1. contra Appion. ἔννοιας ἔχοντες ὁμοίας,"
+      "text": "Vide Joseph. l. 1. contra Appion. ἔννοιας ἔχοντες ὁμοίας,"
     },
     {
       "key": "page_0387-a",
       "n": 17,
-      "text": "Levit. XXVI. 13. 7. 8. Deut. XXVIII. 7. & XXXII. 30."
+      "text": "Levit. XXVI. 13. 7. 8. Deut. XXVIII. 7. et XXXII. 30."
     },
     {
       "key": "page_0387-b",
       "n": 18,
-      "text": "היו לכם לפח ולמוקש ולשטט בצדיכם ולצנינים בעיניכם un filet. Saint Jerôme a lû פחח une foſſe, au lieu de פח"
+      "text": "היו לכם לפח ולמוקש ולשטט בצדיכם ולצנינים בעיניכם un filet. Saint Jerôme a lû פחח une fosse, au lieu de פח"
     },
     {
       "key": "page_0387-c",
@@ -208,12 +208,12 @@
     {
       "key": "page_0387-d",
       "n": 20,
-      "text": "Eccli. XXX. 12. & XLII. 5. Vide Grot. & Druſ."
+      "text": "Eccli. XXX. 12. et XLII. 5. Vide Grot. et Drus."
     },
     {
       "key": "page_0388-a",
       "n": 21,
-      "text": "Plaut. in Trinum. Vide Druſ hic."
+      "text": "Plaut. in Trinum. Vide Drus hic."
     },
     {
       "key": "page_0388-b",
@@ -223,51 +223,7 @@
     {
       "key": "page_0388-c",
       "n": 23,
-      "text": "Deut. XXXI. & XXXII."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0383",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0384",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0385",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0386",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0387",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0388",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Deut. XXXI. et XXXII."
     }
   ],
   "missing_footnotes": []

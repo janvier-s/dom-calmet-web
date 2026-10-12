@@ -191,6 +191,24 @@
       "source_pages": [
         "page_0221.json"
       ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Sed intra portas urbis tuae comedes illud : tam mundus quam immundus pariter vescentur eis, quasi caprea et cervo.",
+      "french": "Mais vous le mangerez dans l'enceinte des murailles de votre Ville ; le pur et l'impur en mangeront indifféremment, comme on mange du chevreuil et du cerf.",
+      "annotations": null,
+      "source_pages": [
+        "page_0222.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Hoc solum observabis, ut sanguinem eorum non comedas, sed effundes in terram quasi aquam.",
+      "french": "Vous prendrez garde seulement de ne manger point de leur sang, mais vous le répandrez sur la terre comme de l'eau.",
+      "annotations": null,
+      "source_pages": [
+        "page_0222.json"
+      ]
     }
   ]
 }

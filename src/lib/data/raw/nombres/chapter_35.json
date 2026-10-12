@@ -289,6 +289,24 @@
       "source_pages": [
         "page_0420.json"
       ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Ne polluatis terram habitationis vestræ, quæ infontium cruore maculatur : nec aliter expiari potest nisi per ejus sanguinem, qui alterius sanguinem fuderit.",
+      "french": "De peur que vous ne souilliez la terre où vous habiterez, et qu'elle ne demeure impure par le sang impuni des innocents qu'on a répandu : parce qu'elle ne peut être autrement purifiée que par l'effusion du sang, de celui qui aura versé le sang.",
+      "annotations": null,
+      "source_pages": [
+        "page_0421.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Atque ita emundabitur vestra possessio, me commorante vobiscum : ego enim sum Dominus, qui habito inter filios Israël.",
+      "french": "C'est ainsi que votre terre deviendra pure, et que je demeurerai parmi vous. Car c'est moi qui suis le Seigneur, qui habite au milieu des enfants d'Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0421.json"
+      ]
     }
   ]
 }

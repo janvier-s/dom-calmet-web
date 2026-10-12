@@ -19,7 +19,7 @@
       "sub": false,
       "latin_lemma": "STETIT REX JUXTA PORTAM.",
       "lemma": "Le Roi se tint à la porte de la ville de Mahanaïm.",
-      "text": "L’Hébreu : [5] _Il se tint à la main de la porte._ Les Septante, [6] _à côté de la porte, dans un lieu à côté de la porte, où l’on rendait la justice._ On voit ci-après, [7] qu’il était assis entre les deux portes, et qu’au-dessus il y avait une salle, où il monta pour pleurer Absalon. David déféra donc au conseil de ses gens, et demeura dans Mahanaïm avec quelques troupes, afin que si son armée était défaite, toute espérance ne fût pas pour cela entièrement perdue pour son parti, et qu’il pût se réserver pour une meilleure occasion. _Dubiis præliorum exemplis, summa rerum et imperii seipsum_ reservaret, dit Tacite en parlant d'Othon.[8]"
+      "text": "L’Hébreu : [5] _Il se tint à la main de la porte._ Les Septante, [6] _à côté de la porte, dans un lieu à côté de la porte, où l’on rendait la justice._ On voit ci-après, [7] qu’il était assis entre les deux portes, et qu’au-dessus il y avait une salle, où il monta pour pleurer Absalon. David déféra donc au conseil de ses gens, et demeura dans Mahanaïm avec quelques troupes, afin que si son armée était défaite, toute espérance ne fût pas pour cela entièrement perdue pour son parti, et qu’il pût se réserver pour une meilleure occasion. _Dubiis præliorum exemplis, summa rerum et imperii_ seipsum reservaret_, dit Tacite en parlant d'Othon.[8]_"
     },
     {
       "verse": 5,
@@ -44,7 +44,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MULUS CUI INSEDERAT, PERTRANSIVIT.",
       "lemma": "Son mulet passa outre.",
       "text": "Les Anciens n'avaient point d'étriers, ni de selles, comme nous en avons, pour leurs montures. Ils ne pouvaient être si fermes à cheval. Absalon quitta apparemment la bride de son mulet, pour se débarrasser, lorsqu'il se sentit pris ; et pendant ce temps, le mulet s'échappa."
@@ -57,20 +57,6 @@
       "text": "Il y demeura donc un espace considérable, puisqu'on eut le temps d'en aller donner avis à Joab, et qu'il eut le loisir de venir lui-même le percer de son javelot."
     },
     {
-      "verse": 11,
-      "sub": false,
-      "latin_lemma": "DEDISSEM TIBI DECEM ARGENTI SICLOS, ET UNUM BALTEUM.",
-      "lemma": "Je t'aurais donné dix sicles d'argent, et un baudrier.",
-      "text": "Les dix sicles d'argent font environ seize livres de notre monnaie sent soutenir longtemps le poids de son corps, et de ses armes, et l’agitation qu’il se donnait dans une situation si douloureuse : Aussi l’Écriture ne dit-elle point qu’il demeura pendu par les cheveux ; mais par la tête *Adhæsit caput ejus quercui*. En courant, il donna de la tête entre deux branches, qui le serrèrent par le col de telle manière, qu’il ne put se dégager, ni se servir de ses mains pour se détacher. [16]"
-    },
-    {
-      "verse": 11,
-      "sub": true,
-      "latin_lemma": "MULUS CUI INSEDERAT, PERTRANSIVIT.",
-      "lemma": "Son mulet passa outre.",
-      "text": "Les Anciens n’avaient point d’étriers, ni de selles, comme nous en avons, pour leurs montures. Ils ne pouvaient être si fermes à cheval. Absalon quitta apparemment la bride de son mulet, pour se débarrasser, lorsqu’il se sentit pris; et pendant ce temps, le mulet s’échappa."
-    },
-    {
       "verse": 10,
       "sub": false,
       "latin_lemma": "VIDI ABSALOM PENDERE DE QUERCU.",
@@ -81,22 +67,22 @@
       "verse": 11,
       "sub": false,
       "latin_lemma": "DEDISSEM TIBI DECEM ARGENTI SICLOS, ET UNUM BALTEUM.",
+      "lemma": "Je t'aurais donné dix sicles d'argent, et un baudrier.",
+      "text": "Les dix sicles d'argent font environ seize livres de notre monnaie sent soutenir longtemps le poids de son corps, et de ses armes, et l’agitation qu’il se donnait dans une situation si douloureuse : Aussi l’Écriture ne dit-elle point qu’il demeura pendu par les cheveux ; mais par la tête *Adhæsit caput ejus quercui*. En courant, il donna de la tête entre deux branches, qui le serrèrent par le col de telle manière, qu’il ne put se dégager, ni se servir de ses mains pour se détacher. [16]"
+    },
+    {
+      "verse": 11,
+      "sub": false,
+      "latin_lemma": "MULUS CUI INSEDERAT, PERTRANSIVIT.",
+      "lemma": "Son mulet passa outre.",
+      "text": "Les Anciens n’avaient point d’étriers, ni de selles, comme nous en avons, pour leurs montures. Ils ne pouvaient être si fermes à cheval. Absalon quitta apparemment la bride de son mulet, pour se débarrasser, lorsqu’il se sentit pris; et pendant ce temps, le mulet s’échappa."
+    },
+    {
+      "verse": 11,
+      "sub": false,
+      "latin_lemma": "DEDISSEM TIBI DECEM ARGENTI SICLOS, ET UNUM BALTEUM.",
       "lemma": "Je t’aurais donné dix sicles d’argent, et un baudrier.",
-      "text": "Les dix sicles d’argent font environ seize livres de notre monnaie. Le baudrier était une des principales, et des plus riches pièces de l'armure. Jonathas donna le sien à David pour gage de son amitié.[17] Ajax donne le sien à Hector.[18] Dieu ôte le baudrier aux Rois, dit Job,[19] et il ceint leurs reins d'une corde. C'était une ignominie, et un supplice militaire d'être dépouillé de son baudrier. Les Parthes se distinguaient par la richesse, et par la magnificence des leurs.[20]"
-    },
-    {
-      "verse": 11,
-      "sub": true,
-      "latin_lemma": "Parthica qua tantis variantur cingula gemmis.",
-      "lemma": "Les anciens Romains en portaient de fort riches, ornés de boutons et de lames d'argent.[21]",
-      "text": ""
-    },
-    {
-      "verse": 11,
-      "sub": true,
-      "latin_lemma": "Balteus, & notis fulſerunt cingula bullis.",
-      "lemma": null,
-      "text": ""
+      "text": "Les dix sicles d’argent font environ seize livres de notre monnaie. Le baudrier était une des principales, et des plus riches pièces de l'armure. Jonathas donna le sien à David pour gage de son amitié.[17] Ajax donne le sien à Hector.[18] Dieu ôte le baudrier aux Rois, dit Job,[19] et il ceint leurs reins d'une corde. C'était une ignominie, et un supplice militaire d'être dépouillé de son baudrier. Les Parthes se distinguaient par la richesse, et par la magnificence des leurs.[20] \n_Parthica qua tantis variantur cingula gemmis._ \nLes anciens Romains en portaient de fort riches, ornés de boutons et de lames d'argent.[21] \n_Balteus, et notis fulserunt cingula bullis._"
     },
     {
       "verse": 13,
@@ -107,7 +93,7 @@
     },
     {
       "verse": 13,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TU STARES EX ADVERSO.",
       "lemma": "Vous seriez vous-même contre moi.",
       "text": "Ou avec une interrogation: _Prendriez-vous ma défense contre lui ?_ peut traduire l'Hébreu [24] par : _Vous vous tiendriez bien loin de moi_. Vous me laisseriez dans l'embarras."
@@ -121,7 +107,7 @@
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CUMQUE ADHUC PALPITARET.",
       "lemma": "Et lorsqu'il respirait encore.",
       "text": "On peut joindre l'Hébreu à ce qui précède : _Il le perça de trois dards, comme il vivait encore ; n'étant point encore mort depuis le temps qu'il était pendu._ On demande si Joab ne fit pas mal de tuer Absalon contre la défense expresse de David. On répond [27] que Joab dans cette rencontre, devait plutôt faire attention à ce qui était de l'intérêt de l'État, et du Roi lui-même, qu'à l'inclination, et aux ordres de ce Prince, qui étaient visiblement contraires à la justice rigoureuse, et au bien de ses affaires. Absalon était un perfide, un rebelle, et le plus dangereux ennemi de la République. La Loi de Dieu le condamnait à mort comme un fils révolté contre son père, [28] et comme un incestueux. [29] Le Roi ne devait point être ouï dans cette affaire, où il témoignait plus d'égard à son inclination particulière, qu'à l'utilité commune de ses sujets. On a toujours loué les pères, qui ont sacrifié leur tendresse paternelle, aux intérêts de leurs États. Ce sont là les raisons qui durent déterminer Joab à tuer Absalon, comme ennemi du Roi et de sa patrie. Ce jeune Prince avait déjà mérité la mort, par le meurtre d'Amnon. Quoique David l'eût reçu avec une bonté extraordinaire, et qu'il eût eu pour lui toute l'indulgence qu'il pouvait désirer, il s'était soulevé contre lui, et avait porté les choses à la dernière extrémité. Que pouvait-on attendre de bon d'un pareil esprit ? Et quelle espérance qu'il dût se corriger ?"
@@ -138,7 +124,7 @@
       "sub": false,
       "latin_lemma": "COMPORTAVERUNT SUPER EUM ACERVUM LAPIDUM.",
       "lemma": "On amassa sur sa fosse un grand monceau de pierres.",
-      "text": "On en fit autant sur le corps d'Achan, qui avait été lapidé dans la vallée d'Achor.[35] On ne porta point Absalon dans le tombeau qu'il s'était préparé. À quelque dessein qu'on ait fait cet amas de pierres sur son corps, il ne peut tourner qu'à sa confusion éternelle, puisque c'était un monument de sa révolte, et de la vengeance de Dieu sur lui. L'Histoire sacrée et profane nous offrent peu de sujets aussi odieux, et aussi méchants qu'Absalon; et si l'on doit principalement faire usage des mauvais exemples dans l'Histoire, pour concevoir de l'horreur du mal, et pour en éviter les funestes suites, on trouvera dans Absalon de quoi s'instruire, et de quoi s'effrayer. Ce Prince, fils du plus doux, et du meilleur de tous les pères, abuse de la clémence et de la bonté de David, pour se soulever contre lui, pour le combattre, pour le chasser, pour le déshonorer. Mais Dieu attentif à punir l'iniquité, renverse l'esprit d'Absalon, lui fait préférer les mauvais conseils aux meilleurs. Ce Prince s'engage témérairement dans un combat; et après avoir été témoin de la défaite de son armée, la main de Dieu l'attache tout vivant à un arbre, entre le ciel et la terre, également en horreur à l'un et à l'autre. Ses ennemis ne le respectent pour un temps, que pour le laisser languir avec plus de douleur ; et l'extrême bonté de son père, qui prie qu'on lui sauve la vie, ne sert qu'à mettre sa perfidie et son crime dans un plus grand jour, et à le faire regarder dans tous les siècles comme un objet d'horreur et d'indignation.\nLa persécution, et la révolte de ce fils dénaturé contre son père, est une des plus vives figures de la persécution des Juifs contre JESUS-CHRIST. David est chassé par un fils qu'il avait comblé de grâces, et qui suivant l'ordre naturel, devait lui succéder au Royaume; il prie pour lui, il demande qu'on l'épargne, il s'afflige de sa perte, il souhaite de donner sa vie pour lui : Tout cela nous fait voir JESUS-CHRIST qui est chassé, persécuté, crucifié par les Juifs, qui étaient les héritiers présomptifs du Royaume des Cieux. Il prie pour eux, il donne son sang et sa vie pour leur rachat. Mais ce peuple impie et ingrat ayant mis le comble à ses crimes, est enfin puni de son infidélité, et de sa rébellion. Battu, défait, dissipé, abandonné, poursuivi partout, il est encore aujourd'hui comme suspendu entre le ciel et la terre, également l'objet du courroux du Ciel, et du mépris des Nations."
+      "text": "On en fit autant sur le corps d'Achan, qui avait été lapidé dans la vallée d'Achor.[35] On ne porta point Absalon dans le tombeau qu'il s'était préparé. À quelque dessein qu'on ait fait cet amas de pierres sur son corps, il ne peut tourner qu'à sa confusion éternelle, puisque c'était un monument de sa révolte, et de la vengeance de Dieu sur lui. L'Histoire sacrée et profane nous offrent peu de sujets aussi odieux, et aussi méchants qu'Absalon; et si l'on doit principalement faire usage des mauvais exemples dans l'Histoire, pour concevoir de l'horreur du mal, et pour en éviter les funestes suites, on trouvera dans Absalon de quoi s'instruire, et de quoi s'effrayer. Ce Prince, fils du plus doux, et du meilleur de tous les pères, abuse de la clémence et de la bonté de David, pour se soulever contre lui, pour le combattre, pour le chasser, pour le déshonorer. Mais Dieu attentif à punir l'iniquité, renverse l'esprit d'Absalon, lui fait préférer les mauvais conseils aux meilleurs. Ce Prince s'engage témérairement dans un combat; et après avoir été témoin de la défaite de son armée, la main de Dieu l'attache tout vivant à un arbre, entre le ciel et la terre, également en horreur à l'un et à l'autre. Ses ennemis ne le respectent pour un temps, que pour le laisser languir avec plus de douleur ; et l'extrême bonté de son père, qui prie qu'on lui sauve la vie, ne sert qu'à mettre sa perfidie et son crime dans un plus grand jour, et à le faire regarder dans tous les siècles comme un objet d'horreur et d'indignation.\nLa persécution, et la révolte de ce fils dénaturé contre son père, est une des plus vives figures de la persécution des Juifs contre Jésus-Christ. David est chassé par un fils qu'il avait comblé de grâces, et qui suivant l'ordre naturel, devait lui succéder au Royaume; il prie pour lui, il demande qu'on l'épargne, il s'afflige de sa perte, il souhaite de donner sa vie pour lui : Tout cela nous fait voir Jésus-Christ qui est chassé, persécuté, crucifié par les Juifs, qui étaient les héritiers présomptifs du Royaume des Cieux. Il prie pour eux, il donne son sang et sa vie pour leur rachat. Mais ce peuple impie et ingrat ayant mis le comble à ses crimes, est enfin puni de son infidélité, et de sa rébellion. Battu, défait, dissipé, abandonné, poursuivi partout, il est encore aujourd'hui comme suspendu entre le ciel et la terre, également l'objet du courroux du Ciel, et du mépris des Nations."
     },
     {
       "verse": 18,
@@ -149,7 +135,7 @@
     },
     {
       "verse": 18,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MANUS ABSALOM.",
       "lemma": null,
       "text": "La main d'Absalon. Son ouvrage, l'œuvre de ses mains. Autrement, sa place, [39] son monument; ou le lieu où il avait fait éclater sa force, sa magnificence, sa main. Nous lisons dans le Texte Hébreu du chap. xv. ℣. 12. du premier Livre des Rois, [40] que Saül s'était érigé une main sur le mont Carmel; ce que l'Auteur de la Vulgate a entendu d'un arc triomphal, et d'un monument de sa victoire contre les Amalécites. Les Hébreux [41] croient qu'Absalon obtint du temps, après avoir été détaché du chêne, pour ériger ce monument, qui fut nommé _Main d'Absalon_, parce qu'il y avait fait graver une main."
@@ -177,7 +163,7 @@
     },
     {
       "verse": 24,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SPECULATOR IN FASTIGIO PORTÆ SUPER MURUM.",
       "lemma": "La sentinelle était sur la muraille au haut de la porte.",
       "text": "Au-dessus de la porte, il y avait une salle, ou une chambre, et sur cette salle une plate-forme, environnée d'un petit mur, comme dans tous les autres édifices de ce pays. C'est sur ce toit, ou peut-être dans une guérite placée sur ce mur, qu'était la sentinelle."
@@ -205,7 +191,7 @@
     },
     {
       "verse": 33,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUIS MIHI TRIBUAT UT MORIAR PRO TE.",
       "lemma": "Que ne puis-je donner ma vie pour la vôtre.",
       "text": "David faisait attention au malheur éternel d'Absalon, qui était mort dans un état, qui ne pouvait donner que de très grandes, et très justes inquiétudes à ce père pour le salut de son fils. David s'était consolé dans le moment qu'il apprit que le premier fils qu'il avait eu de Bethsabée, était mort; parce qu'il avait des assurances de son salut : mais il pleure Absalon, parce qu'il sait à quels supplices est réservée une âme si criminelle.[45] Ce qui l'afflige principalement, c'est qu'il se considère comme la première cause, ou du moins comme l'occasion de tous ces malheurs qui arrivaient à sa famille, puisqu'ils n'étaient que des suites, et des châtiments de son crime."
@@ -215,9 +201,9 @@
     {
       "seam": "page_0192>page_0193",
       "verse": 4,
-      "mode": "hyphen",
-      "before": "Dubiis præliorum exemplis, summa rerum et imperii seipsum_",
-      "after": "seipsum reservaret, dit Tacite en parlant d'Othon.^{(a)}"
+      "mode": "flow",
+      "before": "asion. _Dubiis præliorum exemplis, summa rerum et imperii_",
+      "after": "seipsum reservaret_, dit Tacite en parlant d'Othon.^{(a)}"
     },
     {
       "seam": "page_0193>page_0194",
@@ -281,7 +267,7 @@
     {
       "key": "page_0191-b",
       "n": 1,
-      "text": "Joſeph Antiq. lib. 7. c. 9. Περὶ τῆς"
+      "text": "Joseph Antiq. lib. 7. c. 9. Περὶ τῆς"
     },
     {
       "key": "page_0191-c",
@@ -291,27 +277,27 @@
     {
       "key": "page_0192-a",
       "n": 3,
-      "text": "(a) ועתה כנו עשרה אלפים La Vulgate & les Septante ont lû אתה vous, au lieu de עתה à preſent. Symmac. Σὺ δὲ ἡμῖν δ’ ίσοις χιλιάσιν."
+      "text": " ועתה כנו עשרה אלפים La Vulgate et les Septante ont lû אתה vous, au lieu de עתה à present. Symmac. Σὺ δὲ ἡμῖν δ’ ίσοις χιλιάσιν."
     },
     {
       "key": "page_0192-b",
       "n": 4,
-      "text": "(b) Fun. Piſcat. Buxtorf. Heb. in Vat."
+      "text": " Fun. Piscat. Buxtorf. Heb. in Vat."
     },
     {
       "key": "page_0192-c",
       "n": 5,
-      "text": "(c) ויעמד על יד השער"
+      "text": " ויעמד על יד השער"
     },
     {
       "key": "page_0192-d",
       "n": 6,
-      "text": "(d) Παρὰ τὸ πλάγος τῆς πύλης."
+      "text": " Παρὰ τὸ πλάγος τῆς πύλης."
     },
     {
       "key": "page_0192-e",
       "n": 7,
-      "text": "(e) Ci après. ℣. 24."
+      "text": " Ci après. ℣. 24."
     },
     {
       "key": "page_0193-a",
@@ -336,7 +322,7 @@
     {
       "key": "page_0193-e",
       "n": 12,
-      "text": "Judic. VIII. & VI."
+      "text": "Judic. VIII. et VI."
     },
     {
       "key": "page_0193-f",
@@ -351,17 +337,17 @@
     {
       "key": "page_0194-a",
       "n": 15,
-      "text": "Chryſoſt. ſive quis alius Autor homil. 1. Sam. 2. hic. de Abſalon. perſeq. Theodoret. qu. 25. Vide."
+      "text": "Chrysost. sive quis alius Autor homil. 1. Sam. 2. hic. de Absalon. perseq. Theodoret. qu. 25. Vide."
     },
     {
       "key": "page_0195-a",
       "n": 16,
-      "text": "Chryſoſt. ſive quis alius Autor homil. 1. Sam.8. hic. de Abſalon. perſeq. Theodoret. qu. 25. Vide."
+      "text": "Chrysost. sive quis alius Autor homil. 1. Sam.8. hic. de Absalon. perseq. Theodoret. qu. 25. Vide."
     },
     {
       "key": "page_0196-a",
       "n": 17,
-      "text": "I. Reg. XVIII. 4. Dedit ei uſque ad balteum."
+      "text": "I. Reg. XVIII. 4. Dedit ei usque ad balteum."
     },
     {
       "key": "page_0196-b",
@@ -376,22 +362,22 @@
     {
       "key": "page_0196-d",
       "n": 20,
-      "text": "Claudian. de raptu Proſerp. lib. 2."
+      "text": "Claudian. de raptu Proserp. lib. 2."
     },
     {
       "key": "page_0196-e",
       "n": 21,
-      "text": "Virgil. Vide Lipſ. Analect. ad Milit. Rom. Dialog. 3."
+      "text": "Virgil. Vide Lips. Analect. ad Milit. Rom. Dialog. 3."
     },
     {
       "key": "page_0196-f",
       "n": 22,
-      "text": "או עשיתי בנפשו שקר. Contre ſon ame."
+      "text": "או עשיתי בנפשו שקר. Contre son ame."
     },
     {
       "key": "page_0196-g",
       "n": 23,
-      "text": "Καὶ πῶς ποιήσω τὸ ψυχῇ μου ἄδικον. D'autres Exemplaires. Εἰ ψυχῇ αὐτῷ. Contre ſon ame."
+      "text": "Καὶ πῶς ποιήσω τὸ ψυχῇ μου ἄδικον. D'autres Exemplaires. Εἰ ψυχῇ αὐτῷ. Contre son ame."
     },
     {
       "key": "page_0197-a",
@@ -411,7 +397,7 @@
     {
       "key": "page_0197-d",
       "n": 27,
-      "text": "Vide Grot. hic. & in ℣. 9."
+      "text": "Vide Grot. hic. et in ℣. 9."
     },
     {
       "key": "page_0197-e",
@@ -446,32 +432,32 @@
     {
       "key": "page_0198-e",
       "n": 34,
-      "text": "2. Reg. XXIII. 37. & I. Par. XI. 39."
+      "text": "2. Reg. XXIII. 37. et I. Par. XI. 39."
     },
     {
       "key": "page_0198-f",
       "n": 35,
-      "text": "Joſue VII. 26."
+      "text": "Josue VII. 26."
     },
     {
       "key": "page_0199-a",
       "n": 36,
-      "text": "Doubdan, voyage de la Terre-ſainte, chap. 15."
+      "text": "Doubdan, voyage de la Terre-sainte, chap. 15."
     },
     {
       "key": "page_0200-a",
       "n": 37,
-      "text": "Joſeph. Antiq. lib. 7. c. 9. Εστησε γάρλας δύο παμμεγέθεις δύο σταδίοις ἀπέχουσας ἱεροσολύμων."
+      "text": "Joseph. Antiq. lib. 7. c. 9. Εστησε γάρλας δύο παμμεγέθεις δύο σταδίοις ἀπέχουσας ἱεροσολύμων."
     },
     {
       "key": "page_0200-b",
       "n": 38,
-      "text": "Sanct. & Tirin."
+      "text": "Sanct. et Tirin."
     },
     {
       "key": "page_0200-c",
       "n": 39,
-      "text": "Vide Deut. XXIII. 12. in ℣. 4. Jonat. Grot. &c."
+      "text": "Vide Deut. XXIII. 12. in ℣. 4. Jonat. Grot. etc."
     },
     {
       "key": "page_0200-d",
@@ -496,105 +482,12 @@
     {
       "key": "page_0201-c",
       "n": 44,
-      "text": "ולכה אין בשרה מצאת. Kaj ou eēe Daylim eis iſtimus noel caſch."
+      "text": "ולכה אין בשרה מצאת. Kaj ou eēe Daylim eis istimus noel casch."
     },
     {
       "key": "page_0203-a",
       "n": 45,
-      "text": "Theodoret. qu. 35. Aug. lib. 3. de doctrinâ Chriſt. & lib. 22. c. 66. contrà Fauſt. & Ambroſ. de obitu Valentin. Vide Sanct. hic."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0191",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0192",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0193",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0194",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0195",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0196",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0197",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0198",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0199",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0200",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0201",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0202",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0203",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Theodoret. qu. 35. Aug. lib. 3. de doctrinâ Christ. et lib. 22. c. 66. contrà Faust. et Ambros. de obitu Valentin. Vide Sanct. hic."
     }
   ],
   "missing_footnotes": []

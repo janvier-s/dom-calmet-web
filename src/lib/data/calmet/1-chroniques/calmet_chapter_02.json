@@ -9,7 +9,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FUIT AUTEM HER MALUS CORAM DOMINO.",
       "lemma": "Mais Her fut méchant en la présence du Seigneur.",
       "text": "On croit que son crime était le même que celui d'Onan, marqué dans la Genèse[1] L'Écriture n'exprime en aucun endroit, en quoi consistait cette extrême malice exprimée par ces termes, _méchant devant le Seigneur_. On dit qu'il fut mis à mort par un démon, de même que les Époux de Sara, fille de Raguël qui épousa le jeune Tobie.[2]"
@@ -23,17 +23,38 @@
     },
     {
       "verse": 6,
-      "sub": true,
-      "latin_lemma": "Chalchal & Dara.",
-      "lemma": null,
-      "text": "On trouve dans les Livres des Rois quatre personnes à peu près du même nom que ceux-ci ; savoir, [3] _Ethan, Eman, Chalchol et Dorda_, fils de Machol, illustres par leur sagesse, et fameux Musiciens du Temple de Jérusalem, mais qui paraissent avoir été contemporains de Salomon. Ainsi ils étaient selon toutes les apparences différents des fils de Zara ; premièrement, parce que ceux dont il est parlé ici, étaient de la tribu de Juda, et les autres de celle de Lévi ; 2°. Les premiers étaient fils de Machol, et ceux-ci fils de Zara ; 3°. Ceux-ci vivaient en Égypte, et avant Moïse, et il paraît que ceux-là vivaient en Judée sous Salomon ; 4°. Enfin nous lisons ici cinq frères, et on n’en voit que quatre dans les livres des Rois, et encore de ces quatre frères dont les noms sont assez ressemblants, il s’en trouve un nommé ici _Dara_, et celui des Livres des Rois, s’appelle Dorda : Celui qui porte ici le nom de Zamri est appelé _Zabdi_ dans Josué. [4]"
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "Chalchal et Dara.",
+      "text": "On trouve dans les Livres des Rois quatre personnes à peu près du même nom que ceux-ci ; savoir, [3] _Ethan, Eman, Chalchol et Dorda_, fils de Machol, illustres par leur sagesse, et fameux Musiciens du Temple de Jérusalem, mais qui paraissent avoir été contemporains de Salomon. Ainsi ils étaient selon toutes les apparences différents des fils de Zara ; premièrement, parce que ceux dont il est parlé ici, étaient de la tribu de Juda, et les autres de celle de Lévi ; \n2°. Les premiers étaient fils de Machol, et ceux-ci fils de Zara ; \n3°. Ceux-ci vivaient en Égypte, et avant Moïse, et il paraît que ceux-là vivaient en Judée sous Salomon ; \n4°. Enfin nous lisons ici cinq frères, et on n’en voit que quatre dans les livres des Rois, et encore de ces quatre frères dont les noms sont assez ressemblants, il s’en trouve un nommé ici _Dara_, et celui des Livres des Rois, s’appelle Dorda : Celui qui porte ici le nom de Zamri est appelé _Zabdi_ dans Josué. [4]"
     },
     {
       "verse": 7,
       "sub": false,
       "latin_lemma": "FILII CHARMI : ACHAR QUI TURBAVIT ISRAËL.",
       "lemma": "Charmi n’eut d’enfants qu’Achar qui troubla Israël.",
-      "text": "Nous voyons par le Livre de Josué, [5] que Charmi était fils de Zamri, et petit-fils de Zara, et arrière-petit-fils de Juda ; on ne touche cette généalogie que superficiellement. _Achar_ est nommé _Achan_ dans le même Livre ; ce fut depuis son péché qu’on lui donna le nom d’_Achar_, qui signifie _troubler_, parce qu’il avait mis le trouble dans Israël ; son véritable nom était Achan.\nRAM est appelé _Aram_ en d’autres endroits. [6] CALUBI est nommé ci-après _Caleb_. ℣. 18.\n\nMoïse ayant établi à la tête de chaque tribu, un Chef ou un Prince pour les gouverner dans le désert, Nahasson se trouva pendant tout ce temps à la tête de celle de Juda. (a) C’est apparemment le premier Prince qu’ait eu cette tribu.\n\n(a) _Num._ I. 7. VII. 12. X. 14."
+      "text": "Nous voyons par le Livre de Josué, [5] que Charmi était fils de Zamri, et petit-fils de Zara, et arrière-petit-fils de Juda ; on ne touche cette généalogie que superficiellement. _Achar_ est nommé _Achan_ dans le même Livre ; ce fut depuis son péché qu’on lui donna le nom d’_Achar_, qui signifie _troubler_, parce qu’il avait mis le trouble dans Israël ; son véritable nom était Achan."
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "RAM",
+      "lemma": null,
+      "text": "est appelé _Aram_ en d’autres endroits. [6]"
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "CALUBI",
+      "lemma": null,
+      "text": "est nommé ci-après _Caleb_. ℣. 18."
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "NAHASSON, PRINCIPEM FILIORUM JUDA.",
+      "lemma": "Nahasson prince des fils de Juda.",
+      "text": "Moïse ayant établi à la tête de chaque tribu, un Chef ou un Prince pour les gouverner dans le désert, Nahasson se trouva pendant tout ce temps à la tête de celle de Juda. (a) C’est apparemment le premier Prince qu’ait eu cette tribu.\n\n(a) _Num._ I. 7. VII. 12. X. 14."
     },
     {
       "verse": 11,
@@ -47,7 +68,14 @@
       "sub": false,
       "latin_lemma": "BOOZ GENUIT OBED.",
       "lemma": "Booz engendra Obed.",
-      "text": "On a examiné dans le Livre de Ruth, (b) si l’on doit admettre plus d’un homme du nom de Booz.\n(b) _Vide Ruth._ II. 1.\n\nOn voit par les Livres des Rois, (c) qu’Isaï avait huit fils. Car après que ce bon vieillard eut présenté ses sept fils à Samuel, le Prophète lui dit que le Seigneur n’en avait choisi aucun d’eux ; alors on envoya quérir David qui paissait les troupeaux ; et au chap. suivant (d) il est dit expressément qu’Isaï avait huit fils ; il faut donc que l’un de ces huit enfants soit mort sans lignée, ou qu’Isaï ait adopté un enfant de quelqu’un de ses fils mort jeune. Les Rabbins croient qu’il adopta, et qu’il éleva comme sien, Jonathan, autrement Jonadab fils de Samaa. C’est aussi le sentiment d’un grand nombre (c) I. _Reg._ XVI. 10. _Adduxit itaque Isaï septem filios suos coram Samuele, et ait Samuel : Non elegit Dominus ex istis... et respondit ( Isaï : ) Adhuc reliquus est parvulus, et pascit oves._ (d) I. _Reg._ XVII. 12. _David erat filius viri Ephratæi... qui habebat octo filios._ d'Interprètes. [7] Ce Jonathan est connu dans l'Écriture par sa prudence et par sa valeur. [8] Le Syriaque et l'Arabe portent ici : Le septième _Elim_, et le huitième _David_. Eliu est nommé ci-après, ch. XXVII. 18."
+      "text": "On a examiné dans le Livre de Ruth, (b) si l’on doit admettre plus d’un homme du nom de Booz.\n(b) _Vide Ruth._ II. 1."
+    },
+    {
+      "verse": 12,
+      "sub": false,
+      "latin_lemma": "ISAI GENUIT PRIMOGENITUM ELIAB... SEPTIMUM DAVID.",
+      "lemma": "Isaï eut pour fils aîné Éliab, son septième fils fut David.",
+      "text": "On voit par les Livres des Rois, (c) qu’Isaï avait huit fils. Car après que ce bon vieillard eut présenté ses sept fils à Samuel, le Prophète lui dit que le Seigneur n’en avait choisi aucun d’eux ; alors on envoya quérir David qui paissait les troupeaux ; et au chap. suivant (d) il est dit expressément qu’Isaï avait huit fils ; il faut donc que l’un de ces huit enfants soit mort sans lignée, ou qu’Isaï ait adopté un enfant de quelqu’un de ses fils mort jeune. Les Rabbins croient qu’il adopta, et qu’il éleva comme sien, Jonathan, autrement Jonadab fils de Samaa. C’est aussi le sentiment d’un grand nombre (c) I. _Reg._ XVI. 10. _Adduxit itaque Isaï septem filios suos coram Samuele, et ait Samuel : Non elegit Dominus ex istis... et respondit ( Isaï : ) Adhuc reliquus est parvulus, et pascit oves._ (d) I. _Reg._ XVII. 12. _David erat filius viri Ephratæi... qui habebat octo filios._ d'Interprètes. [7] Ce Jonathan est connu dans l'Écriture par sa prudence et par sa valeur. [8] Le Syriaque et l'Arabe portent ici : Le septième _Elim_, et le huitième _David_. Eliu est nommé ci-après, ch. XXVII. 18."
     },
     {
       "verse": 16,
@@ -72,7 +100,7 @@
     },
     {
       "verse": 18,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FUERUNTQUE FILII EIUS JASER, ET SOBAB, ET ARDON.",
       "lemma": "Ses fils furent Jaser, Sobab et Ardon.",
       "text": "Le pronom _ejus_ est au féminin dans le texte, [14] il se rapporte apparemment à _Azuba_."
@@ -100,7 +128,7 @@
     },
     {
       "verse": 23,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CANATH ET VICULOS EJUS.",
       "lemma": "Canath avec sa dépendance.",
       "text": "Canath était une ville ou un canton de Galaad, qui avait été conquis autrefois par Nobé, qui lui donna son nom.[20]"
@@ -163,7 +191,7 @@
     },
     {
       "verse": 49,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FILIA CALEB FUIT ACHSA.",
       "lemma": "Caleb eut une fille nommée Achsa.",
       "text": "Nous connaissons une fille du nom d'Achsa, que Caleb donna en mariage à Othoniel. Mais comme Caleb dont nous parlons ici, est le fils d'Hesron, il faut dire qu'Achsa sa fille, est différente d'Achsa fille de Caleb, fils de Jephoné."
@@ -198,7 +226,7 @@
     },
     {
       "verse": 55,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "HI SUNT CINÆI, QUI VENERUNT DE CALORE PATRIS DOMUS RECHAB.",
       "lemma": "Ce sont eux qu'on nomme Cinéens, qui sont descendus de Chamath, chef de la maison de Réchab.",
       "text": "Chamath, signifie la chaleur ; les Cinéens ses descendants, ancien peuple de la Palestine, demeurèrent parmi les Israélites ; une partie d'entre eux fut connue sous le nom de Réchabites, principalement depuis le temps de Jéhu Roi d'Israël, [45] et sur la fin de la Monarchie de Juda. [46] Je ne vois pas pourquoi on parle ici des Cinéens, et des Réchabites, puisque de l'aveu de tout le monde, ils ne sont point de la tribu de Juda, ni descendus d'aucune de ses branches ; ils ne demeuraient point dans des villes, ayant reçu ordre de leur père de ne loger que dans des tentes. L'Écriture loue leur obéissance, ce qui a pu faire donner à quelques-uns d'entre eux le nom de _Schemathéens obéissants_ ; leur demeure sous des tentes, est marquée par le nom de _Socothéens_ ; leur profession les éloignant de la culture de la terre, et de la propriété des fonds et des héritages ; [47] leur donnait de la facilité à étudier, et à faire le métier de _Scribes_, ou d'_Écrivains_ ; enfin Jérémie, [48] leur promet de la part de Dieu, qu'il y aura toujours des hommes de leur race qui serviront en sa présence ; et peut-être qu'on les employa avec les _Lévites_, à garder les portes du Temple, d'où leur vint le nom de _Tirathéens_, ou portiers."
@@ -206,32 +234,11 @@
   ],
   "joins": [
     {
-      "seam": "page_0075>page_0076",
-      "verse": 7,
-      "mode": "flow",
-      "before": " est appelé _Aram_ en d’autres endroits. ^{fn:page_0075-d}",
-      "after": "CALUBI est nommé ci-après _Caleb_. ℣. 18."
-    },
-    {
-      "seam": "page_0076>page_0076",
-      "verse": 7,
-      "mode": "para",
-      "before": "{fn:page_0075-d} CALUBI est nommé ci-après _Caleb_. ℣. 18.",
-      "after": "Moïse ayant établi à la tête de chaque tribu, un Chef ou u"
-    },
-    {
       "seam": "page_0076>page_0076",
       "verse": 7,
       "mode": "para",
       "before": "C’est apparemment le premier Prince qu’ait eu cette tribu.",
       "after": "(a) _Num._ I. 7. VII. 12. X. 14."
-    },
-    {
-      "seam": "page_0076>page_0076",
-      "verse": 12,
-      "mode": "para",
-      "before": "re plus d’un homme du nom de Booz.\n(b) _Vide Ruth._ II. 1.",
-      "after": "On voit par les Livres des Rois, (c) qu’Isaï avait huit fi"
     },
     {
       "seam": "page_0076>page_0076",
@@ -373,7 +380,7 @@
     {
       "key": "page_0074-a",
       "n": 1,
-      "text": "Geneſ. XXXVIII. 9. _Introiens ad uxorem fratris ſui, ſemen fundebat in terram._"
+      "text": "Genes. XXXVIII. 9. _Introiens ad uxorem fratris sui, semen fundebat in terram._"
     },
     {
       "key": "page_0074-b",
@@ -388,32 +395,32 @@
     {
       "key": "page_0075-b",
       "n": 4,
-      "text": "Joſué VII. 1."
+      "text": "Josué VII. 1."
     },
     {
       "key": "page_0075-c",
       "n": 5,
-      "text": "Joſué VII. 1."
+      "text": "Josué VII. 1."
     },
     {
       "key": "page_0075-d",
       "n": 6,
-      "text": "Ruth. IV. 19. & Matt. I. 3."
+      "text": "Ruth. IV. 19. et Matt. I. 3."
     },
     {
       "key": "page_0077-a",
       "n": 7,
-      "text": "Ita Lyran. Eſt. Tir. Rupert. Magiſt. Hiſt. Scol."
+      "text": "Ita Lyran. Est. Tir. Rupert. Magist. Hist. Scol."
     },
     {
       "key": "page_0077-b",
       "n": 8,
-      "text": "2. Reg. XIII. 3. & XXI. 21."
+      "text": "2. Reg. XIII. 3. et XXI. 21."
     },
     {
       "key": "page_0077-c",
       "n": 9,
-      "text": "2. Reg. XVII. 25. _Amaſa erat filius viri qui vocabatur Jetra de Jezraheli_. Hebr. ישראלי"
+      "text": "2. Reg. XVII. 25. _Amasa erat filius viri qui vocabatur Jetra de Jezraheli_. Hebr. ישראלי"
     },
     {
       "key": "page_0078-a",
@@ -428,12 +435,12 @@
     {
       "key": "page_0078-c",
       "n": 12,
-      "text": "Caſtalio, Mal M. v1."
+      "text": "Castalio, Mal M. v1."
     },
     {
       "key": "page_0078-d",
       "n": 13,
-      "text": "I. Par. II. ℣. 19. Cúmque mortua fuiſſet Azuba, accepit Ephrata."
+      "text": "I. Par. II. ℣. 19. Cúmque mortua fuisset Azuba, accepit Ephrata."
     },
     {
       "key": "page_0078-e",
@@ -448,22 +455,22 @@
     {
       "key": "page_0079-a",
       "n": 16,
-      "text": "Les Rabbins diſent que Caleb âgé de dix ans épouſa Marie ſœur de Moyſe, nommée autrement Ephrata ; de ce mariage ſortit Ur dans la même année, & Ur âgé de huit ans engendra Uri ; celui-ci au même âge engendra Béſéléel, & Béſéléel commença à travailler au Tabernacle, n'ayant pas dix ans. Voyez Liran ſur cet endroit."
+      "text": "Les Rabbins disent que Caleb âgé de dix ans épousa Marie sœur de Moyse, nommée autrement Ephrata ; de ce mariage sortit Ur dans la même année, et Ur âgé de huit ans engendra Uri ; celui-ci au même âge engendra Béséléel, et Béséléel commença à travailler au Tabernacle, n'ayant pas dix ans. Voyez Liran sur cet endroit."
     },
     {
       "key": "page_0079-b",
       "n": 17,
-      "text": "Voyez ce qu'on a dit ſur la généalogie de Machir, Num. XXXII. 41. & Joſue XIII. 30."
+      "text": "Voyez ce qu'on a dit sur la généalogie de Machir, Num. XXXII. 41. et Josue XIII. 30."
     },
     {
       "key": "page_0079-c",
       "n": 18,
-      "text": "4. Reg. X. 32. 33. & Amos I. 3."
+      "text": "4. Reg. X. 32. 33. et Amos I. 3."
     },
     {
       "key": "page_0080-a",
       "n": 19,
-      "text": "_Joſue_ XIII. II. 13."
+      "text": "_Josue_ XIII. II. 13."
     },
     {
       "key": "page_0080-b",
@@ -508,7 +515,7 @@
     {
       "key": "page_0083-a",
       "n": 28,
-      "text": "Joſue xv. 31."
+      "text": "Josue xv. 31."
     },
     {
       "key": "page_0084-a",
@@ -518,7 +525,7 @@
     {
       "key": "page_0084-b",
       "n": 30,
-      "text": "Ita Vat. Jun. Malv. & clariſſimè Hebr. ויהיו בנים לשובל אבי קרית יערים יתרו וגו׳ אלה היו בני כלב בן חור בכור אפרתה Ita & 70."
+      "text": "Ita Vat. Jun. Malv. et clarissimè Hebr. ויהיו בנים לשובל אבי קרית יערים יתרו וגו׳ אלה היו בני כלב בן חור בכור אפרתה Ita et 70."
     },
     {
       "key": "page_0084-c",
@@ -543,7 +550,7 @@
     {
       "key": "page_0085-b",
       "n": 35,
-      "text": "Joſue XV. 48. & XXI. 14."
+      "text": "Josue XV. 48. et XXI. 14."
     },
     {
       "key": "page_0085-c",
@@ -568,22 +575,22 @@
     {
       "key": "page_0086-b",
       "n": 40,
-      "text": "2. Eſdr. VII. 26."
+      "text": "2. Esdr. VII. 26."
     },
     {
       "key": "page_0086-c",
       "n": 41,
-      "text": "Joſuë XVI. 2. 5. 7."
+      "text": "Josuë XVI. 2. 5. 7."
     },
     {
       "key": "page_0086-d",
       "n": 42,
-      "text": "2. Reg. XIV. 30. Scitis agrum Ioab juxta agrum meum, habentem meſſem hordei; ite & ſuccendite eum igni."
+      "text": "2. Reg. XIV. 30. Scitis agrum Ioab juxta agrum meum, habentem messem hordei; ite et succendite eum igni."
     },
     {
       "key": "page_0086-e",
       "n": 43,
-      "text": "2. Reg. XIII. 23. Factum eſt ut tonderentur oves Abſalon in Baal-hazor, qui eſt juxta Ephraïm."
+      "text": "2. Reg. XIII. 23. Factum est ut tonderentur oves Absalon in Baal-hazor, qui est juxta Ephraïm."
     },
     {
       "key": "page_0087-a",
@@ -593,122 +600,22 @@
     {
       "key": "page_0087-b",
       "n": 45,
-      "text": "4. Reg. x 18. _Invenerit Ionadab filium Rechab in occurſum ſibi, & benedixit ei, &c._"
+      "text": "4. Reg. x 18. _Invenerit Ionadab filium Rechab in occursum sibi, et benedixit ei, etc._"
     },
     {
       "key": "page_0087-c",
       "n": 46,
-      "text": "_Vide Ierem._ xxxv. ℣. 6. &c."
+      "text": "_Vide Ierem._ xxxv. ℣. 6. etc."
     },
     {
       "key": "page_0087-d",
       "n": 47,
-      "text": "_Ierem. ibid. ℣. 7. Domum non ædificabitis, & ſementem non ſeretis, & vineas non plantabitis, nec habebitis, ſed in tabernaculis habitabitis, &c._"
+      "text": "_Ierem. ibid. ℣. 7. Domum non ædificabitis, et sementem non seretis, et vineas non plantabitis, nec habebitis, sed in tabernaculis habitabitis, etc._"
     },
     {
       "key": "page_0087-e",
       "n": 48,
       "text": "_Ierem._ xxxv. 19."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0074",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0075",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0076",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0077",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0078",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0079",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0080",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0081",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0082",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0083",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0084",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0085",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0086",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0087",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": [

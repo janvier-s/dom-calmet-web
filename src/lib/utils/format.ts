@@ -44,3 +44,22 @@ export function formatCommentaryText(text: string): string {
     
     return formatted;
 }
+
+// Each line break in the commentary starts a paragraph, except inside italics
+// (quoted verse), where it stays a line break within the paragraph.
+export function paragraphs(text: string): string[] {
+    if (!text) return [];
+    const out: string[] = [];
+    let cur = "";
+    let italic = false;
+    for (const line of text.split(/[ \t ]*\n[ \t ]*/)) {
+        if (cur && !italic) {
+            out.push(cur);
+            cur = "";
+        }
+        cur = cur ? cur + "\n" + line : line;
+        if ((line.match(/_/g) || []).length % 2) italic = !italic;
+    }
+    if (cur) out.push(cur);
+    return out.filter((p) => p.trim());
+}

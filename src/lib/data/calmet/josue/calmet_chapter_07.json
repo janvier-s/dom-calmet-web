@@ -9,21 +9,21 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PREVARICATI SUNT MANDATUM, ET USURPAVERUNT DE ANATHEMATE.",
       "lemma": "Ils violèrent la défense qui leur avait été faite, et ils prirent quelque chose de l’anathème.",
       "text": "L’Hébreu est plus court:[4] _Les enfants d’Israël commirent une prévarication dans l’anathème_, ou contre l’anathème, contre la défense de toucher aux choses dévouées à l’anathème. Les Septante :[5] _Les enfants d’Israël commirent une mauvaise action, et mirent à part quelque chose de l’anathème._"
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IRATUSQUE EST DOMINUS CONTRA FILIOS ISRAEL.",
       "lemma": "Le Seigneur entra en colère contre les enfants d’Israël.",
       "text": "Il les traita comme si véritablement il eût été en colère contre eux tous, il les châtia comme un père, qui pour inspirer à ses fils un plus grand éloignement du mal, ou pour prévenir de plus grands désordres dans sa famille, punit tous ses fils pour un crime, dont il sait qu’un seul est coupable. Les châtiments sont des signes, mais non pas toujours certains, de la colère de Dieu; il châtie dans sa bonté, et dans sa miséricorde, comme dans sa fureur."
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ACHAN FILIUS CHARMI, FILII ZABDI, FILII ZARE.",
       "lemma": "Achan fils de Charmi, qui était fils de Zabdi, fils de Zaré.",
       "text": "Judas eut de Thamar deux fils, _Pharez et Zaré_. Zaré fut père de Zabdi, et Zabdi de Charmi; celui-ci engendra Achan; voilà cinq personnes pour un espace de 265 ans; ainsi on ne peut guère leur donner des enfants avant l'âge de 50 ou 55 ans. Le même Achan est nommé dans les Paralipomènes, [6] _Achar fils de Zamri, ou de Zambri._"
@@ -58,7 +58,7 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CORAM ARCA DOMINI.",
       "lemma": "Devant l'Arche du Seigneur.",
       "text": "Non pas dans le Sanctuaire, il n'était permis qu'au grand Prêtre d'y entrer : mais devant le Saint, devant le Vestibule, entre le Temple et l'Autel des holocaustes, comme ces Prêtres et ces ministres du Seigneur dont parle Joël :[27] _Inter vestibulum et altare plorabunt Sacerdotes ministri Domini_, etc."
@@ -79,7 +79,7 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUID FACIES NOMINI MAGNO TUO ?",
       "lemma": "Que deviendra la gloire de votre grand nom ?",
       "text": "À la lettre : Que ferez-vous à votre nom ? comment en sauverez-vous la gloire, et comment le mettrez-vous à couvert des insultes des impies ?"
@@ -93,7 +93,7 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FURATI SUNT ATQUE MENTITI.",
       "lemma": "Ils ont menti.",
       "text": "Ils ont manqué à la promesse qu'ils m'avaient faite de me réserver tous les métaux qu'on trouverait dans la place. Ils ont été infidèles, et désobéissants à mes ordres, à la loi par laquelle je me réserve les choses dévouées à l'anathème.[31] Il y a beaucoup d'apparence qu'après le pillage de la ville, chacun était venu apporter ce qu'il avait trouvé parmi les dépouilles, de propre à être mis dans les trésors du Seigneur, et qu'on les avait obligés d'affirmer qu'ils n'avaient rien autre chose. Achan fit comme les autres ; mais il ne donna pas tout ; il mentit au Seigneur ; il crut le pouvoir tromper. Je sais que le mot de _mentir_, ne se prend pas toujours dans l'Ecriture pour un mensonge verbal, et réel, et que souvent il signifie l'infidélité, la révolte, la mauvaise foi ; mais je ne vois rien qui empêche de le prendre ici dans son sens naturel."
@@ -142,28 +142,28 @@
     },
     {
       "verse": 21,
-      "sub": true,
-      "latin_lemma": "Non ego prætulerim Babylonica picta ſuperbè Texta, ſemiramia quæ variantur acu.",
+      "sub": false,
+      "latin_lemma": "Non ego prætulerim Babylonica picta superbè Texta, semiramia quæ variantur acu.",
       "lemma": null,
       "text": "Pline [66] et Apulée [67] semblent être pour la peinture. _Colores diversos picturæ intexere Babylon maximè celebravit, et nomen imposuit._ Les Septante traduisent, [68] _un habit fin, de diverses couleurs._ Aquila, [69] _un habit long Babylonien._ L'Auteur de la Vulgate qui a écrit que ce manteau de Babylone, était de couleur d'écarlate, ou de cramoisi, a voulu apparemment marquer des vêtements de pourpre variés et enrichis par un tissu de diverses autres couleurs, car la pourpre de Babylone n'est nullement fameuse dans l'antiquité."
     },
     {
       "verse": 21,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DUCENTOS SICLOS.",
       "lemma": "Deux cents sicles.",
       "text": "De l'argent du poids de deux cents sicles, qui revient environ à trois cent vingt-cinq livres de notre monnaie."
     },
     {
       "verse": 21,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "REGULAM AUREAM.",
       "lemma": "Une règle d'or.",
       "text": "L'Hébreu, [70] _une langue d'or,_ une masse, une lame, un lingot d'or, en forme de langue. Du temps de Josué on n'avait ni or, ni argent monnayé. On le conservait en barres et en lingot. Piscator veut que cette langue d'or, ait été une agrafe antique d'un manteau, à qui on donne le nom de langue, à cause de la forme. C'est une conjecture un peu hardie."
     },
     {
       "verse": 21,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ARGENTUMQUE FOSSA HUMO OPERUI.",
       "lemma": "Je cachai aussi l'argent dans une fosse que j'y fis.",
       "text": "On peut donner deux sens à l'Hébreu : [71] _Et j'ai mis l'argent sous lui,_ [72] _sous cet habit babylonien ;_ ou _sous la terre ;_ ou enfin _j'ai caché l'argent sous tout cela._ [73]"
@@ -184,7 +184,7 @@
     },
     {
       "verse": 24,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DUXERUNT EOS AD VALLEM ACHOR.",
       "lemma": "Ils les menèrent à la vallée d'Achor.",
       "text": "Les Septante : _Il le mena, etc._ La vallée d'Achor était dans le territoire de Jéricho, dit Eusèbe,[78] et elle était encore de son temps connue sous son ancien nom. Il dit ailleurs qu'Achor était un village désert, dont la place se nommait _Maé-dommei_, ou comme lit saint Jérôme, _Maledommim_, où il y avait ordinairement des gardes, sur le chemin de Jérusalem à Jéricho. Saint Jérôme[79] place la vallée d'Achor au septentrion de Jéricho, et le village d'Achor dans la tribu de Juda : il met _Maledommim_ sur les confins des tribus de Juda et de Benjamin, et il remarque que c'est de ce lieu que le Sauveur fait mention dans l'Évangile, lorsqu'il parle d'un homme qui fut blessé et laissé pour mort par des voleurs, comme il allait de Jérusalem à Jéricho :[80] C'était pour la sûreté des voyageurs qu'on avait bâti dans ce dangereux défilé un petit fort pour y tenir des soldats. Mais si la vallée d'Achor était dans la tribu de Juda, ou même sur les confins des deux tribus ; et si le village d'Achor était sur le chemin de Jérusalem à Jéricho, il est visible qu'il était plutôt au couchant et au midi qu'au septentrion de Jéricho, comme le remarque fort bien Bonfrerius, et comme il le prouve par Josué, qui en décrivant la ligne qui s'étend du côté du midi de Benjamin, dit : _[81] Depuis la vallée d'Achor, qui regarde Galgal du côté du midi, et qui est vis-à-vis la montée d'Adommim._"
@@ -198,7 +198,7 @@
     },
     {
       "verse": 25,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "LAPIDAVIT EUM OMNIS ISRAEL, ET CUNCTA QUÆ ILLIUS ERANT IGNE CONSUMPTA SUNT.",
       "lemma": "Tout Israël le lapida, et tout ce qui avait été à lui, fut consumé par le feu.",
       "text": "C'est sur ce passage qu'est fondée l'opinion de ceux qui veulent qu'Achan seul ait souffert la mort; l'Écriture ne marquant point que ses enfants aient été ni lapidés, ni brûlés: mais le Texte Hébreu ne favorise pas ce sentiment; il paraît même bien positif pour le contraire : [85] _Et tout Israël l'écrasa de pierres, et ils les brûlèrent dans le feu, et ils les lapidèrent à coups de pierres._ Les Septante et le Chaldéen ont lu de même ; et ce dernier dit, qu'ils furent brûlés après avoir été lapidés. Les Juifs [86] disent qu'Achan fut brûlé comme sacrilège, et qu'il fut lapidé pour avoir violé le Sabbat, en faisant ce vol, et en le cachant ce jour-là. On sait que la violation du Sabbat fut autrefois punie dans le désert, par la lapidation, [87] et que la peine de l'anathème et du sacrilège, dont il s'était rendu coupable, était le feu ; on consumait par le feu les choses dévouées à l'Anathème, [88] et on punissait de la même peine les violateurs superbes et insolents des Préceptes divins : [89] Mais pourquoi ces subtilités ? Ce cas était singulier, et Dieu ordonna apparemment à Josué le supplice particulier dont il voulait que ce crime fût expié, sans avoir égard aux Lois communes et ordinaires."
@@ -334,17 +334,17 @@
     {
       "key": "page_0146-a",
       "n": 1,
-      "text": "Johan. XII. 4. compa:é avec Matt. XXVI. 6. & Marc. XIV. 3."
+      "text": "Johan. XII. 4. compa:é avec Matt. XXVI. 6. et Marc. XIV. 3."
     },
     {
       "key": "page_0146-b",
       "n": 2,
-      "text": "Donat. in Terent. Hecyr. act. 2. ſcen. 1. Qui illum decreverunt dignum cui ſuos liberos committerent. Multum ſonanter, & accuſatorio ſtrepitu, nec maſculinum genus, nec fœminum poſuit, nec unam, ſed liberos. Sic Cicero ; en cui tuos liberos committas ; cum de uno ageret ; &. habemus enim liberos omnes, de puella."
+      "text": "Donat. in Terent. Hecyr. act. 2. scen. 1. Qui illum decreverunt dignum cui suos liberos committerent. Multum sonanter, et accusatorio strepitu, nec masculinum genus, nec fœminum posuit, nec unam, sed liberos. Sic Cicero ; en cui tuos liberos committas ; cum de uno ageret ; et. habemus enim liberos omnes, de puella."
     },
     {
       "key": "page_0147-a",
       "n": 3,
-      "text": "On peut voir Maſius & Serarius ſur cet endroit."
+      "text": "On peut voir Masius et Serarius sur cet endroit."
     },
     {
       "key": "page_0147-b",
@@ -369,57 +369,57 @@
     {
       "key": "page_0148-c",
       "n": 8,
-      "text": "Geneſ. XII. 8. & XIII. 3. ἀγγαὶ, ſed hic ut καὶ Ira & Euſeb. & Jeron. in locis. Joſeph. legit ἀιναν."
+      "text": "Genes. XII. 8. et XIII. 3. ἀγγαὶ, sed hic ut καὶ Ira et Euseb. et Jeron. in locis. Joseph. legit ἀιναν."
     },
     {
       "key": "page_0148-d",
       "n": 9,
-      "text": "Euſeb. & Jeron. in locis de Geneſi. Adrichom."
+      "text": "Euseb. et Jeron. in locis de Genesi. Adrichom."
     },
     {
       "key": "page_0148-e",
       "n": 10,
-      "text": "Maſ. Bonf. Cellarius."
+      "text": "Mas. Bonf. Cellarius."
     },
     {
       "key": "page_0148-f",
       "n": 11,
-      "text": "Vid. Oſee IV. 15. & X. 5. Amos. v. 5. Joſue VII. 22."
+      "text": "Vid. Osee IV. 15. et X. 5. Amos. v. 5. Josue VII. 22."
     },
     {
       "key": "page_0148-g",
       "n": 12,
-      "text": "Aqu. S... [ILLEGIBLE] οἶκος ἀδικίας. La maiſon de l'injuſtice. Theod. ἔνοικος ἀδικίας. La maiſon d'injuſtice."
+      "text": "Aqu. S... [ILLEGIBLE] οἶκος ἀδικίας. La maison de l'injustice. Theod. ἔνοικος ἀδικίας. La maison d'injustice."
     },
     {
       "key": "page_0148-h",
       "n": 13,
-      "text": "Euſeb. & Ieronim. in locis, ad Bethel."
+      "text": "Euseb. et Ieronim. in locis, ad Bethel."
     },
     {
       "key": "page_0148-i",
       "n": 14,
-      "text": "Euſeb. in locis, Serar. Bonfr. Cellar."
+      "text": "Euseb. in locis, Serar. Bonfr. Cellar."
     },
     {
       "key": "page_0149-a",
       "n": 15,
-      "text": "Joſue XVIII. 12.... perveniens ad ſolitudinem. Bethaven 13. atque pertranſiens juxta Luzam ad meridiem, ipſa eſt Bethel."
+      "text": "Josue XVIII. 12.... perveniens ad solitudinem. Bethaven 13. atque pertransiens juxta Luzam ad meridiem, ipsa est Bethel."
     },
     {
       "key": "page_0149-b",
       "n": 16,
-      "text": "I. Reg. XIII. 2. & 5."
+      "text": "I. Reg. XIII. 2. et 5."
     },
     {
       "key": "page_0149-c",
       "n": 17,
-      "text": "Jeronym. in locis. & Hebræi apud Eund. & Grot. ad cap. VIII. ℣. 12."
+      "text": "Jeronym. in locis. et Hebræi apud Eund. et Grot. ad cap. VIII. ℣. 12."
     },
     {
       "key": "page_0150-a",
       "n": 18,
-      "text": "Joſue VIII. 25."
+      "text": "Josue VIII. 25."
     },
     {
       "key": "page_0150-b",
@@ -429,7 +429,7 @@
     {
       "key": "page_0150-c",
       "n": 20,
-      "text": "Jonath. Syr. Arab. &c."
+      "text": "Jonath. Syr. Arab. etc."
     },
     {
       "key": "page_0150-d",
@@ -439,7 +439,7 @@
     {
       "key": "page_0151-a",
       "n": 22,
-      "text": "Geneſ. XXXII. 34."
+      "text": "Genes. XXXII. 34."
     },
     {
       "key": "page_0151-b",
@@ -479,7 +479,7 @@
     {
       "key": "page_0152-a",
       "n": 30,
-      "text": "Deut. VII. 24. IX. 14. XII. 3. XXIV. 19. | & paſſim, XXII. 20. Pſal. IX. 6. LXXXII. 5. Iſai. XIV. 22."
+      "text": "Deut. VII. 24. IX. 14. XII. 3. XXIV. 19. | et passim, XXII. 20. Psal. IX. 6. LXXXII. 5. Isai. XIV. 22."
     },
     {
       "key": "page_0153-a",
@@ -514,7 +514,7 @@
     {
       "key": "page_0154-d",
       "n": 37,
-      "text": "Joſeph. Antiq. l. 5. c. 1. Vatab, Maſ. Druſ. Bonfr. Serar. &c."
+      "text": "Joseph. Antiq. l. 5. c. 1. Vatab, Mas. Drus. Bonfr. Serar. etc."
     },
     {
       "key": "page_0154-e",
@@ -529,12 +529,12 @@
     {
       "key": "page_0154-g",
       "n": 40,
-      "text": "Num. XXIV. 55. XXXIII, 54. Deut. I. 38. &c."
+      "text": "Num. XXIV. 55. XXXIII, 54. Deut. I. 38. etc."
     },
     {
       "key": "page_0154-h",
       "n": 41,
-      "text": "I. Par. XXIV. 5. 7. 8. 9. & ſeq."
+      "text": "I. Par. XXIV. 5. 7. 8. 9. et seq."
     },
     {
       "key": "page_0154-i",
@@ -559,17 +559,17 @@
     {
       "key": "page_0155-d",
       "n": 46,
-      "text": "_Prov. XVIII. 18. Contradictiones comprimit fors, & inter potentes quoque dijudicat._"
+      "text": "_Prov. XVIII. 18. Contradictiones comprimit fors, et inter potentes quoque dijudicat._"
     },
     {
       "key": "page_0155-e",
       "n": 47,
-      "text": "_Orig. homil. 23. in Joſue. Nobis ab Apoſtolis fors dubia deſignat, quia ubi ex fide integra, & oratione præmiſſa fors ducitur, ea quæ Dei voluntas continet in occulto, fors hominibus declarat in manifeſto._"
+      "text": "_Orig. homil. 23. in Josue. Nobis ab Apostolis fors dubia designat, quia ubi ex fide integra, et oratione præmissa fors ducitur, ea quæ Dei voluntas continet in occulto, fors hominibus declarat in manifesto._"
     },
     {
       "key": "page_0155-f",
       "n": 48,
-      "text": "_Vide C. Eccleſia veſtra, tit. de ſortilegiis. Item C. non ſtatim, & C. non exemplo._"
+      "text": "_Vide C. Ecclesia vestra, tit. de sortilegiis. Item C. non statim, et C. non exemplo._"
     },
     {
       "key": "page_0156-a",
@@ -584,7 +584,7 @@
     {
       "key": "page_0157-b",
       "n": 51,
-      "text": "Rabb. a`ud Maſ. nec repugnat Grot."
+      "text": "Rabb. a`ud Mas. nec repugnat Grot."
     },
     {
       "key": "page_0157-c",
@@ -599,7 +599,7 @@
     {
       "key": "page_0157-e",
       "n": 54,
-      "text": "Maſ. Caiet. Toſt. Vatab. Rabb."
+      "text": "Mas. Caiet. Tost. Vatab. Rabb."
     },
     {
       "key": "page_0157-f",
@@ -614,17 +614,17 @@
     {
       "key": "page_0158-b",
       "n": 57,
-      "text": "Aq. στολην Βαβυλωνικήν. Sym ἔνδυμα σινάp. Un habit de ſennar. 70. Ψίλην ποικίλην. Un habit de diverſes couleurs."
+      "text": "Aq. στολην Βαβυλωνικήν. Sym ἔνδυμα σινάp. Un habit de sennar. 70. Ψίλην ποικίλην. Un habit de diverses couleurs."
     },
     {
       "key": "page_0158-c",
       "n": 58,
-      "text": "Geneſ. XI. 2. 4 5."
+      "text": "Genes. XI. 2. 4 5."
     },
     {
       "key": "page_0158-d",
       "n": 59,
-      "text": "Geneſ. XXV. 25. באדרת שער"
+      "text": "Genes. XXV. 25. באדרת שער"
     },
     {
       "key": "page_0158-e",
@@ -644,7 +644,7 @@
     {
       "key": "page_0158-h",
       "n": 63,
-      "text": "Vide B nſ. cr. in hunc loc."
+      "text": "Vide B ns. cr. in hunc loc."
     },
     {
       "key": "page_0158-i",
@@ -654,7 +654,7 @@
     {
       "key": "page_0158-l",
       "n": 65,
-      "text": "Martial. l. 8. Epig. 28. Vide eumdem in apophoretis & Petron. Plumato amictus auro Babylonico."
+      "text": "Martial. l. 8. Epig. 28. Vide eumdem in apophoretis et Petron. Plumato amictus auro Babylonico."
     },
     {
       "key": "page_0159-a",
@@ -669,7 +669,7 @@
     {
       "key": "page_0159-c",
       "n": 68,
-      "text": "Χιτῶνα ποικίλον μίαν κώδην. Gloſſa Cyrill. κώδης χιτὼν ἐξ ἐρίων. Lucifer : ſtolam variam optimam. Int. Origen. dextralia pura."
+      "text": "Χιτῶνα ποικίλον μίαν κώδην. Glossa Cyrill. κώδης χιτὼν ἐξ ἐρίων. Lucifer : stolam variam optimam. Int. Origen. dextralia pura."
     },
     {
       "key": "page_0159-d",
@@ -689,12 +689,12 @@
     {
       "key": "page_0159-g",
       "n": 72,
-      "text": "Pagn. Montan. Vat. Druſ. Maſ."
+      "text": "Pagn. Montan. Vat. Drus. Mas."
     },
     {
       "key": "page_0159-h",
       "n": 73,
-      "text": "70. Jonath. Arab. &c."
+      "text": "70. Jonath. Arab. etc."
     },
     {
       "key": "page_0159-i",
@@ -704,27 +704,27 @@
     {
       "key": "page_0159-l",
       "n": 75,
-      "text": "Talmudici apud Maſ."
+      "text": "Talmudici apud Mas."
     },
     {
       "key": "page_0160-a",
       "n": 76,
-      "text": "Aug. qu. 8. in Joſue. Maſ. Cornel. Menoch. Bonfr."
+      "text": "Aug. qu. 8. in Josue. Mas. Cornel. Menoch. Bonfr."
     },
     {
       "key": "page_0160-b",
       "n": 77,
-      "text": "Tull. Tuſculan. qu. h. 1."
+      "text": "Tull. Tusculan. qu. h. 1."
     },
     {
       "key": "page_0160-c",
       "n": 78,
-      "text": "Euſeb. in locis, primo loco in Acher, &c."
+      "text": "Euseb. in locis, primo loco in Acher, etc."
     },
     {
       "key": "page_0160-d",
       "n": 79,
-      "text": "In locis, ſub voce Achor ſecundo loco."
+      "text": "In locis, sub voce Achor secundo loco."
     },
     {
       "key": "page_0160-e",
@@ -734,12 +734,12 @@
     {
       "key": "page_0161-a",
       "n": 81,
-      "text": "Joſue. xv. 7."
+      "text": "Josue. xv. 7."
     },
     {
       "key": "page_0161-b",
       "n": 82,
-      "text": "מה עכרתנו יעכרך יהוה _Quid turbâſti nos? turbet te Dominus, uti & ſequitur._"
+      "text": "מה עכרתנו יעכרך יהוה _Quid turbâsti nos? turbet te Dominus, uti et sequitur._"
     },
     {
       "key": "page_0161-c",
@@ -749,7 +749,7 @@
     {
       "key": "page_0161-d",
       "n": 84,
-      "text": "Vide Mal. & Druſ."
+      "text": "Vide Mal. et Drus."
     },
     {
       "key": "page_0161-e",
@@ -759,7 +759,7 @@
     {
       "key": "page_0161-f",
       "n": 86,
-      "text": "Munſt. ex Hebr."
+      "text": "Munst. ex Hebr."
     },
     {
       "key": "page_0162-a",
@@ -784,7 +784,7 @@
     {
       "key": "page_0162-e",
       "n": 91,
-      "text": "Joſue VIII. 29."
+      "text": "Josue VIII. 29."
     },
     {
       "key": "page_0162-f",
@@ -794,128 +794,7 @@
     {
       "key": "page_0162-g",
       "n": 93,
-      "text": "Voyez Roger, Terre ſainte, l. 2. c. 27. p. 326."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0146",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0147",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0148",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0149",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0150",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0151",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0152",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0153",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0154",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0155",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0156",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0157",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0158",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0159",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0160",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0161",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0162",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Voyez Roger, Terre sainte, l. 2. c. 27. p. 326."
     }
   ],
   "missing_footnotes": []

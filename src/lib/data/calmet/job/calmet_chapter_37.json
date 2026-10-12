@@ -51,10 +51,10 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET AB ARCTURO FRIGUS.",
       "lemma": "Et le froid vient des vents d'aquilon.",
-      "text": "On prétend que le froid venait dans la Judée, comme dans les autres parties du monde, du côté du Septentrion. L'Hébreu :[14] _Le froid vient des vents qui dispersent_ ; des vents de bise, qui amènent.\n\nCOMMENTAIRE.\n\nment la gelée, et qui purifient l'air. D'où leur viennent les épithètes de _Boréas le balayeur du Ciel_,[15] et le producteur du Ciel net, et serein.[16] Et dans Ovide,[17] ce vent parle ainsi de lui-même :\n_Apta mihi vis est, hac tristia nubila pello,_\n_Induróque nives, et terras grandine pulso._\nMais nous croyons que l'Hébreu _Mazarim_, signifie précisément le midi, et est la même chose que Mazaloth[18] du quatrième Livre des Rois, que l'on traduit par : _Les Planètes, ou les signes du Zodiaque, ou même les influences._ Mais il signifie constamment le midi, comme il paraît, en comparant le ℣. 32. du Chap. XXXVIII. avec le ℣. 9. du Chap. IX. où l'intérieur du midi, est équivalent à Mazéroth du Chap. XXXVIII. Ainsi voici comment je traduis ce passage : _La tempête viendra de l'intérieur du midi, et le froid des Mazéroth._ Le froid, et la tempête sont ici synonymes, de même que l'intérieur, et les Mazéroth. On a montré un peu plus haut, que les tempêtes, les pluies froides, et les vents froids venaient du midi dans la Judée. Cela paraît encore ici au verset 17. _Vos habits ne sont-ils pas trop chauds, lorsque la terre du midi est tranquille_, lorsqu'il ne vient ni tempête, ni bruine, ni vent impétueux, ni pluie du côté du midi. L'Hébreu _Darom_, signifie le midi, le côté de l'Arabie Pétrée, par rapport à la Judée, du consentement de tous les Interprètes."
+      "text": "On prétend que le froid venait dans la Judée, comme dans les autres parties du monde, du côté du Septentrion. L'Hébreu :[14] _Le froid vient des vents qui dispersent_ ; des vents de bise, qui amènent.\n\nCOMMENTAIRE.\nment la gelée, et qui purifient l'air. D'où leur viennent les épithètes de _Boréas le balayeur du Ciel_,[15] et le producteur du Ciel net, et serein.[16] Et dans Ovide,[17] ce vent parle ainsi de lui-même :\n_Apta mihi vis est, hac tristia nubila pello,_\n_Induróque nives, et terras grandine pulso._\nMais nous croyons que l'Hébreu _Mazarim_, signifie précisément le midi, et est la même chose que Mazaloth[18] du quatrième Livre des Rois, que l'on traduit par : _Les Planètes, ou les signes du Zodiaque, ou même les influences._ Mais il signifie constamment le midi, comme il paraît, en comparant le ℣. 32. du Chap. XXXVIII. avec le ℣. 9. du Chap. IX. où l'intérieur du midi, est équivalent à Mazéroth du Chap. XXXVIII. Ainsi voici comment je traduis ce passage : _La tempête viendra de l'intérieur du midi, et le froid des Mazéroth._ Le froid, et la tempête sont ici synonymes, de même que l'intérieur, et les Mazéroth. On a montré un peu plus haut, que les tempêtes, les pluies froides, et les vents froids venaient du midi dans la Judée. Cela paraît encore ici au verset 17. _Vos habits ne sont-ils pas trop chauds, lorsque la terre du midi est tranquille_, lorsqu'il ne vient ni tempête, ni bruine, ni vent impétueux, ni pluie du côté du midi. L'Hébreu _Darom_, signifie le midi, le côté de l'Arabie Pétrée, par rapport à la Judée, du consentement de tous les Interprètes."
     },
     {
       "verse": 10,
@@ -150,7 +150,7 @@
     {
       "verse": 24,
       "sub": false,
-      "latin_lemma": "IDEO TIMEBUNT EUM VIRI, &c.",
+      "latin_lemma": "IDEO TIMEBUNT EUM VIRI, etc.",
       "lemma": "Les hommes le craindront, et nul de ceux qui se croient sages, n'osera envisager sa grandeur.",
       "text": "Voici l'Hébreu à la lettre : [43] _C'est pourquoi les hommes le craignent ; il ne craint point ceux qui sont sages de cœur. Dieu ne craint point que ceux qui se croient intelligents, et éclairés, découvrent_ jamais la profondeur de ses desseins, et de sa sagesse, quelques efforts qu'ils fassent pour cela. Dans lui sont cachées les causes de toutes les vicissitudes, les sources de tous les changements, les raisons de tous les événements. [44]"
     }
@@ -189,7 +189,7 @@
       "verse": 8,
       "mode": "para",
       "before": "es vents qui dispersent_ ; des vents de bise, qui amènent.",
-      "after": "COMMENTAIRE.\n\nment la gelée, et qui purifient l'air. D'où "
+      "after": "COMMENTAIRE.\nment la gelée, et qui purifient l'air. D'où l"
     },
     {
       "seam": "page_0439>page_0440",
@@ -272,12 +272,12 @@
     {
       "key": "page_0436-b",
       "n": 5,
-      "text": "Vide Franc. Valleſ. de Sacra Philoſoph. c. 11. & Franc. Titelman. hic, & Script. Chiromantiæ."
+      "text": "Vide Franc. Valles. de Sacra Philosoph. c. 11. et Franc. Titelman. hic, et Script. Chiromantiæ."
     },
     {
       "key": "page_0436-c",
       "n": 6,
-      "text": "Iſai. XLIV. 5."
+      "text": "Isai. XLIV. 5."
     },
     {
       "key": "page_0436-d",
@@ -287,12 +287,12 @@
     {
       "key": "page_0436-e",
       "n": 8,
-      "text": "Apoc. XIII. 6. Vide & VII. 3."
+      "text": "Apoc. XIII. 6. Vide et VII. 3."
     },
     {
       "key": "page_0436-f",
       "n": 9,
-      "text": "Veget. lib. I. cap. 8. & lib. 2. cap. 54."
+      "text": "Veget. lib. I. cap. 8. et lib. 2. cap. 54."
     },
     {
       "key": "page_0437-a",
@@ -302,17 +302,17 @@
     {
       "key": "page_0437-b",
       "n": 11,
-      "text": "Voyez Job. IX. 9. & XXXII. 9."
+      "text": "Voyez Job. IX. 9. et XXXII. 9."
     },
     {
       "key": "page_0437-c",
       "n": 12,
-      "text": "Voyez Pſal. LXXVII. 26. Jerem. IV. 11. 12. Zach. IX. 14."
+      "text": "Voyez Psal. LXXVII. 26. Jerem. IV. 11. 12. Zach. IX. 14."
     },
     {
       "key": "page_0437-d",
       "n": 13,
-      "text": "Iſaï. XXI. 1."
+      "text": "Isaï. XXI. 1."
     },
     {
       "key": "page_0437-e",
@@ -322,7 +322,7 @@
     {
       "key": "page_0438-a",
       "n": 15,
-      "text": "Rab. Levi, & David. & Vat. hic."
+      "text": "Rab. Levi, et David. et Vat. hic."
     },
     {
       "key": "page_0438-b",
@@ -362,7 +362,7 @@
     {
       "key": "page_0439-c",
       "n": 23,
-      "text": "_Tun. Piſt. Scultet._"
+      "text": "_Tun. Pist. Scultet._"
     },
     {
       "key": "page_0439-d",
@@ -372,7 +372,7 @@
     {
       "key": "page_0439-e",
       "n": 25,
-      "text": "νιφὸς νίφε φὰς ἀπλεῖ. Alii codices : Κατακλυσμὸς Obſtupefacit. (e) Διὰ τοῦ καρποῦ ἐπιβρίθει νεφέλη."
+      "text": "νιφὸς νίφε φὰς ἀπλεῖ. Alii codices : Κατακλυσμὸς Obstupefacit.  Διὰ τοῦ καρποῦ ἐπιβρίθει νεφέλη."
     },
     {
       "key": "page_0440-a",
@@ -387,7 +387,7 @@
     {
       "key": "page_0440-c",
       "n": 28,
-      "text": "_Vat. Codovc, Grot, Saules. Piſc. &c._"
+      "text": "_Vat. Codovc, Grot, Saules. Pisc. etc._"
     },
     {
       "key": "page_0441-a",
@@ -412,7 +412,7 @@
     {
       "key": "page_0441-e",
       "n": 33,
-      "text": "[Scultet. Oſiand. Cocc.]"
+      "text": "[Scultet. Osiand. Cocc.]"
     },
     {
       "key": "page_0442-a",
@@ -442,7 +442,7 @@
     {
       "key": "page_0444-a",
       "n": 39,
-      "text": "Geneſ. II. II. 12."
+      "text": "Genes. II. II. 12."
     },
     {
       "key": "page_0444-b",
@@ -467,93 +467,7 @@
     {
       "key": "page_0445-a",
       "n": 44,
-      "text": "_Auguſt. Confeſſ. lib. 1. cap. 6. Apud te rerum omnium inſtabilium ſtant cauſa, & rerum omnium mutabilium immutabiles manent origines, omnium irrationalium, & temporalium ſempiternæ vivunt rationes._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0434",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0435",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0436",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0437",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0438",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0439",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0440",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0441",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0442",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0443",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0444",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0445",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "_August. Confess. lib. 1. cap. 6. Apud te rerum omnium instabilium stant causa, et rerum omnium mutabilium immutabiles manent origines, omnium irrationalium, et temporalium sempiternæ vivunt rationes._"
     }
   ],
   "missing_footnotes": []

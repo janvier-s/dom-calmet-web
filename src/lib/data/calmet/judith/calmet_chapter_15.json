@@ -51,7 +51,7 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UT VIDERET JUDITH.",
       "lemma": "Pour voir Judith.",
       "text": "Le Grec de l’Édition Romaine : [6] _Pour voir les biens que le Seigneur avait faits à Israël ; pour voir Judith, et pour lui souhaiter la paix, ou pour la saluer._ L’Édition de Complute : _Ils vinrent pour sonder les biens que le Seigneur avait faits à Israël, etc._ Le Syriaque lit tout simplement : _Ils vinrent pour saluer Judith._ La leçon de l’Édition Romaine paraît la plus naturelle."
@@ -59,7 +59,7 @@
     {
       "verse": 11,
       "sub": false,
-      "latin_lemma": "EO QUOD CASTITATEM AMAVERIS ; &c.",
+      "latin_lemma": "EO QUOD CASTITATEM AMAVERIS ; etc.",
       "lemma": "Parce que vous avez aimé la chasteté, etc.",
       "text": "Ces paroles ne sont pas dans le Grec, ni dans le Syriaque. Quoique généralement parlant, la viduité, et le célibat ne fussent pas en honneur parmi les Hébreux, la chasteté, et la continence y étaient d'autant plus honorées, et respectées, qu'elles y étaient rares. Il était toujours louable à une veuve de ne pas passer légèrement à de secondes noces. Chez les Romains, on honorait, et on traitait comme vierges, celles qui demeuraient sans se remarier, après la mort de leur premier mari.[7]"
     },
@@ -80,9 +80,9 @@
     {
       "verse": 15,
       "sub": false,
-      "latin_lemma": "ET OMNES POPULI GAUDEBANT, &c.",
+      "latin_lemma": "ET OMNES POPULI GAUDEBANT, etc.",
       "lemma": null,
-      "text": "Tous les hommes étaient dans des transports de joie, etc. Ce verset n'est point dans le Grec, qui ne parle ni des jeunes gens, ni des jeunes filles qui assistèrent à cette fête, ni des instruments de musique, dont on y joua. Mais le Texte en parle clairement au Chap. suivant, ℣. 2. et on sait que cela ne manquait jamais d'accompagner ces sortes de réjouissances. Les branches de verdure sont marquées dans plus d'un endroit de l'Écriture. On en portait en solennité ; et les Juifs en portent encore aujourd'hui à la fête des Tabernacles, dans leurs Synagogues.[11] Plutarque[12] parle de ces fêtes des Juifs, dans lesquelles ils entrent dans le Temple, avec des rameaux de feuillages dans 'An du M. 3348. leurs mains. Judas Maccabée ayant nettoyé le Temple des souillures que les gens d'Antiochus Épiphane y avaient faites , tout le peuple, pour lui faire honneur , porta devant lui des thyrses, des branches de palmiers, et d'autres arbres verts.[13] JÉSUS-CHRIST, notre Sauveur, fut reçu dans Jérusalem avec de pareilles démonstrations de joie.[14] Tacite[15] parlant des Juifs, dit qu'on a cru qu'ils adoraient Bacchus, parce qu'à l'imitation des Bacchantes, leurs Prêtres portaient des _thyrses_, et jouaient de la flûte, et du tambour dans leurs solennités. Le _thyrse_, est le mot dont le Grec se sert ici. C'était une baguette environnée de lierre, ou d'autres feuillages. L'usage des tambours, et des instruments de musique, des danses, et des chants, dans les cérémonies de joie, se voit dans toute l'Écriture. Les couronnes, et surtout les couronnes de branches d'olivier, sont plus rares, principalement pour les femmes. Voici le seul exemple que nous en remarquions parmi les Hébreux. Mais rien n'était plus convenable au triomphe de Judith, que cette couronne. L'olivier était un arbre heureux :[16]\n_Ramo felicis olivæ_.\nEt Servius : Un arbre propre aux fêtes : _Olivæ, arboris festæ_. On l'employait autrefois dans les triomphes.[17] Dans certains jeux de la Grèce, où les femmes s'exerçaient à la course, le prix de la victoire était une couronne de branches d'olivier.[18]"
+      "text": "Tous les hommes étaient dans des transports de joie, etc. Ce verset n'est point dans le Grec, qui ne parle ni des jeunes gens, ni des jeunes filles qui assistèrent à cette fête, ni des instruments de musique, dont on y joua. Mais le Texte en parle clairement au Chap. suivant, ℣. 2. et on sait que cela ne manquait jamais d'accompagner ces sortes de réjouissances. Les branches de verdure sont marquées dans plus d'un endroit de l'Écriture. On en portait en solennité ; et les Juifs en portent encore aujourd'hui à la fête des Tabernacles, dans leurs Synagogues.[11] Plutarque[12] parle de ces fêtes des Juifs, dans lesquelles ils entrent dans le Temple, avec des rameaux de feuillages dans 'An du M. 3348. leurs mains. Judas Maccabée ayant nettoyé le Temple des souillures que les gens d'Antiochus Épiphane y avaient faites , tout le peuple, pour lui faire honneur , porta devant lui des thyrses, des branches de palmiers, et d'autres arbres verts.[13] Jésus-Christ, notre Sauveur, fut reçu dans Jérusalem avec de pareilles démonstrations de joie.[14] Tacite[15] parlant des Juifs, dit qu'on a cru qu'ils adoraient Bacchus, parce qu'à l'imitation des Bacchantes, leurs Prêtres portaient des _thyrses_, et jouaient de la flûte, et du tambour dans leurs solennités. Le _thyrse_, est le mot dont le Grec se sert ici. C'était une baguette environnée de lierre, ou d'autres feuillages. L'usage des tambours, et des instruments de musique, des danses, et des chants, dans les cérémonies de joie, se voit dans toute l'Écriture. Les couronnes, et surtout les couronnes de branches d'olivier, sont plus rares, principalement pour les femmes. Voici le seul exemple que nous en remarquions parmi les Hébreux. Mais rien n'était plus convenable au triomphe de Judith, que cette couronne. L'olivier était un arbre heureux :[16]\n_Ramo felicis olivæ_.\nEt Servius : Un arbre propre aux fêtes : _Olivæ, arboris festæ_. On l'employait autrefois dans les triomphes.[17] Dans certains jeux de la Grèce, où les femmes s'exerçaient à la course, le prix de la victoire était une couronne de branches d'olivier.[18]"
     }
   ],
   "joins": [
@@ -127,7 +127,7 @@
     {
       "key": "page_0145-a",
       "n": 1,
-      "text": "Καὶ ὐκ ἦν ἄνθρωπῳ πρὸς τὸν πλησίον αὐτῦ μεῖναι, ἀλλὰ σπεύδοντες ὁμοθυμαδὸν ἔφυγον, &c. Grotius veut que S. Jérôme ait lû dans le Grec σπεύδοντες, au lieu de σπεύδοντες, parce qu'il traduit ; _inclinato capite_, comme s'il avoit traduit ſur le Grec, & non ſur le Caldéen."
+      "text": "Καὶ ὐκ ἦν ἄνθρωπῳ πρὸς τὸν πλησίον αὐτῦ μεῖναι, ἀλλὰ σπεύδοντες ὁμοθυμαδὸν ἔφυγον, etc. Grotius veut que S. Jérôme ait lû dans le Grec σπεύδοντες, au lieu de σπεύδοντες, parce qu'il traduit ; _inclinato capite_, comme s'il avoit traduit sur le Grec, et non sur le Caldéen."
     },
     {
       "key": "page_0145-b",
@@ -152,7 +152,7 @@
     {
       "key": "page_0147-d",
       "n": 6,
-      "text": "Τὰ ἀγαθὰ ἃ ἐποίησε, &c. Complut. Τὰ ἀγαθὰ ἃ ἐποίησε."
+      "text": "Τὰ ἀγαθὰ ἃ ἐποίησε, etc. Complut. Τὰ ἀγαθὰ ἃ ἐποίησε."
     },
     {
       "key": "page_0148-a",
@@ -167,7 +167,7 @@
     {
       "key": "page_0148-c",
       "n": 9,
-      "text": "Vide Num. XXXI. 27. & 1. Reg. XXX. 24."
+      "text": "Vide Num. XXXI. 27. et 1. Reg. XXX. 24."
     },
     {
       "key": "page_0149-a",
@@ -177,27 +177,27 @@
     {
       "key": "page_0149-b",
       "n": 11,
-      "text": "Voyez nôtre Commentaire ſur le Lévitique Chap. XXIII. ℣. 40."
+      "text": "Voyez nôtre Commentaire sur le Lévitique Chap. XXIII. ℣. 40."
     },
     {
       "key": "page_0149-c",
       "n": 12,
-      "text": "Plutar. Sympoſiac. Probl. 5."
+      "text": "Plutar. Symposiac. Probl. 5."
     },
     {
       "key": "page_0150-a",
       "n": 13,
-      "text": "2. Macc. x. 7. Propter quod Thyrſos, & ramos virides, & palmas præferebant ei."
+      "text": "2. Macc. x. 7. Propter quod Thyrsos, et ramos virides, et palmas præferebant ei."
     },
     {
       "key": "page_0150-b",
       "n": 14,
-      "text": "Matt. xxi. 8. Alii autem cædebant ramos de arboribus & ſternebant in via."
+      "text": "Matt. xxi. 8. Alii autem cædebant ramos de arboribus et sternebant in via."
     },
     {
       "key": "page_0150-c",
       "n": 15,
-      "text": "Tacit. Hiſtor. lib. 5."
+      "text": "Tacit. Histor. lib. 5."
     },
     {
       "key": "page_0150-d",
@@ -207,56 +207,12 @@
     {
       "key": "page_0150-e",
       "n": 17,
-      "text": "Plin. lib. 15. cap. 4. Olea honorem Romanæ majeſtati magnum tribuit, turmas equitum idibus Juliis ex eis coronando, item minoribus triumphis ovantes."
+      "text": "Plin. lib. 15. cap. 4. Olea honorem Romanæ majestati magnum tribuit, turmas equitum idibus Juliis ex eis coronando, item minoribus triumphis ovantes."
     },
     {
       "key": "page_0150-f",
       "n": 18,
       "text": "Vide Alexand. ab Alex. Genial. Dier lib 5. cap. 8."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0145",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0146",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0147",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0148",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0149",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0150",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

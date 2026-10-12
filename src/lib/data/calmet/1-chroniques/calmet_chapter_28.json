@@ -16,21 +16,21 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "COGITAVI UT AEDIFICAREM DOMUM, IN QUA REQUIESCERET ARCA FOEDERIS DOMINI, ET SCABELLUM PEDUM DEI NOSTRI.",
       "lemma": "J’avais eu la pensée de bâtir un temple, pour y faire reposer l’Arche du Seigneur, qui est comme le marchepied de notre Dieu.",
       "text": "Le texte hébreu à la lettre ;[7] _Moi avec mon cœur, j’ai pensé de bâtir une maison de repos à l’Arche, etc._ L’Arche d’alliance est appelée, le marchepied du Seigneur, dans plus d’un endroit de l’Écriture,[8] parce qu’on concevait le Seigneur, comme assis sur les Chérubins, qui étaient aux deux extrémités de 'Arche, et qui en avançant leurs ailes, semblaient lui former une espèce de trône, dont le couvercle de l'Arche, était comme le marche-pied."
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AD ÆDIFICANDUM OMNIA PRÆPARAVI.",
       "lemma": "J'ai tout préparé pour la construction de cet édifice.",
       "text": "Les grandes richesses que David avait amassées, et les provisions qu'il avait faites, auraient sans doute été suffisantes pour l'exécution du temple, dont il donne le modèle à Salomon : Mais apparemment que Salomon crut y pouvoir faire quelque changement en mieux, pour le rendre plus grand et plus magnifique."
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UT ESSEM REX SUPER ISRAEL IN SEMPITERNUM.",
       "lemma": "Pour me faire Roi à jamais sur Israël.",
       "text": "Pour me donner un long et florissant règne ; pour le laisser à ma postérité _pour toujours_ ; c'est-à-dire, pour un très long temps. Enfin, pour le donner au Messie : _pour toujours_, sans limitation et sans fin ; _in sempiternum_, ne doit pas toujours être pris dans toute la rigueur."
@@ -58,28 +58,28 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CELLARIORUM.",
       "lemma": "Des celliers.",
       "text": "L'Hébreu, [14] _Ganskim_, ce terme n'est point proprement hébreu : on trouve le mot _Gans_, ou _Ganas_, dans Esther, [15] pour signifier des trésors ; ainsi _Ganskim_ signifie apparemment les chambres du trésor, les lieux où l'on serrait les richesses du temple. Plusieurs en suivant la Vulgate, entendent par _cellarii_, des caves, ou des lieux souterrains, propres à y conserver le vin et l'huile : d'autres l'entendent du second étage des appartements du temple."
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CÆNACULI.",
       "lemma": "Des salles à manger.",
       "text": "Le terme hébreu [16] s'entend de l'appartement qui est immédiatement sous le toit des chambres où l'on mangeait, et où l'on logeait."
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CUBICULORUM IN ADYTIS.",
       "lemma": "Des chambres secrètes.",
       "text": "L'Hébreu à la lettre. [17] _Des chambres intérieures_, ou des cabinets secrets ; le fond d'un appartement où on loge, et où l'on demeure. [18] Je pense que c'est ce qui est quelquefois appelé, [19] _cubiculum intra cubiculum_, une chambre dans une autre ; la chambre la plus cachée, la plus intérieure."
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DOMUS PROPITIATIONIS.",
       "lemma": "Le sanctuaire ; le lieu où l'on expie les péchés d'Israël, où le seul Grand-Prêtre peut entrer.",
       "text": ""
@@ -128,7 +128,7 @@
     },
     {
       "verse": 18,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UT EX IPSO FIERET SIMILITUDO QUADRIGÆ CHERUBIM.",
       "lemma": "Pour faire ces Chérubins, qui formaient la ressemblance d'un char.",
       "text": "On concevait le Seigneur, le Dieu d'Israël, comme porté par un chariot, conduit par des animaux, ailés, nommés Chérubins. _Ascendit super Cherubim, et volavit._ [29] Ézéchiel nous en donne la même idée : [30] L'or que David donna à Salomon, pour former les Chérubins, n'était pas pour l'Autel des parfums, ni pour faire les Chérubins, qui étaient attachés à l'Arche. On ne mit point de Chérubins à cet Autel, et on ne toucha point à ceux que Moïse avait faits sur le propitiatoire, ou sur le couvercle de l'Arche. Mais Salomon fit d'autres Chérubins, qui ornaient tout le contour du Sanctuaire, et en particulier il en mit deux au milieu de ce lieu saint, qui couvraient l'Arche de leurs ailes ; [31] ce sont eux dont il s'agit ici."
@@ -208,12 +208,12 @@
     {
       "key": "page_0304-a",
       "n": 1,
-      "text": "I. Par. XXVII. 16. & ſequ."
+      "text": "I. Par. XXVII. 16. et sequ."
     },
     {
       "key": "page_0304-b",
       "n": 2,
-      "text": "Ibid. ℣. 1. & ſequ."
+      "text": "Ibid. ℣. 1. et sequ."
     },
     {
       "key": "page_0304-c",
@@ -243,7 +243,7 @@
     {
       "key": "page_0305-e",
       "n": 8,
-      "text": "Pſal. LXXXVIII. 1. _Dominus regnavit... qui ſedes ſuper Cherubim._ (g) _Adorate ſcabellum pedum ejus, quoniam ſanctum eſt._ Vide & Pſal. LXIII I. & CXXXI. 7."
+      "text": "Psal. LXXXVIII. 1. _Dominus regnavit... qui sedes super Cherubim._ (g) _Adorate scabellum pedum ejus, quoniam sanctum est._ Vide et Psal. LXIII I. et CXXXI. 7."
     },
     {
       "key": "page_0306-a",
@@ -253,22 +253,22 @@
     {
       "key": "page_0306-b",
       "n": 10,
-      "text": "_Vide Judic. I. I. & 2. Reg. XVI. I. & 2. & III. 18. & v. I. & VII. 13._"
+      "text": "_Vide Judic. I. I. et 2. Reg. XVI. I. et 2. et III. 18. et v. I. et VII. 13._"
     },
     {
       "key": "page_0306-c",
       "n": 11,
-      "text": "_Geneſ. XLIX. 10. Nam auferetur ſceptrum de Juda , & dux de femore ejus._"
+      "text": "_Genes. XLIX. 10. Nam auferetur sceptrum de Juda , et dux de femore ejus._"
     },
     {
       "key": "page_0307-a",
       "n": 12,
-      "text": "2. Reg. VII. 12. 13. 14. & XII. 24. | 13. & XXII. 9. &c. 25. & 3. Reg. I. 13. & I. Par. XVII. 11. 12."
+      "text": "2. Reg. VII. 12. 13. 14. et XII. 24. | 13. et XXII. 9. etc. 25. et 3. Reg. I. 13. et I. Par. XVII. 11. 12."
     },
     {
       "key": "page_0308-a",
       "n": 13,
-      "text": "Vide Eſt. liv. ad ℣. 19."
+      "text": "Vide Est. liv. ad ℣. 19."
     },
     {
       "key": "page_0308-b",
@@ -278,7 +278,7 @@
     {
       "key": "page_0308-c",
       "n": 15,
-      "text": "Eſther. III. 9. Appendam arcariis gazæ tuæ. Et IV. 7. Ut in theſauros Regis inferret argentum. Le mot Ganas eſt mis pour Gaza, qui eſt paſſé des Perſes aux Grecs, & même aux Hébreux."
+      "text": "Esther. III. 9. Appendam arcariis gazæ tuæ. Et IV. 7. Ut in thesauros Regis inferret argentum. Le mot Ganas est mis pour Gaza, qui est passé des Perses aux Grecs, et même aux Hébreux."
     },
     {
       "key": "page_0308-d",
@@ -293,17 +293,17 @@
     {
       "key": "page_0309-b",
       "n": 18,
-      "text": "_Vide Judic. XV. I. & XVI. 9. & Cant. III. 4._"
+      "text": "_Vide Judic. XV. I. et XVI. 9. et Cant. III. 4._"
     },
     {
       "key": "page_0309-c",
       "n": 19,
-      "text": "_3. Reg. XX. 30. & XXII. 25. Vide & 4. Reg. IX. 2._"
+      "text": "_3. Reg. XX. 30. et XXII. 25. Vide et 4. Reg. IX. 2._"
     },
     {
       "key": "page_0310-a",
       "n": 20,
-      "text": "3. Reg. VII. 49. _Candelabra aurea_, quinque ad dexteram, & quinque ad ſiniſtram."
+      "text": "3. Reg. VII. 49. _Candelabra aurea_, quinque ad dexteram, et quinque ad sinistram."
     },
     {
       "key": "page_0310-b",
@@ -318,7 +318,7 @@
     {
       "key": "page_0310-d",
       "n": 23,
-      "text": "3 Reg. X. 27. & 2. Par. IX. 20."
+      "text": "3 Reg. X. 27. et 2. Par. IX. 20."
     },
     {
       "key": "page_0310-e",
@@ -333,7 +333,7 @@
     {
       "key": "page_0311-b",
       "n": 26,
-      "text": "I. Eſdr. I. 10. & VIII. 27."
+      "text": "I. Esdr. I. 10. et VIII. 27."
     },
     {
       "key": "page_0311-c",
@@ -348,17 +348,17 @@
     {
       "key": "page_0311-e",
       "n": 29,
-      "text": "Pſal. XVII. II."
+      "text": "Psal. XVII. II."
     },
     {
       "key": "page_0311-f",
       "n": 30,
-      "text": "Ezech. I. & X. 8. 9. &c."
+      "text": "Ezech. I. et X. 8. 9. etc."
     },
     {
       "key": "page_0312-a",
       "n": 31,
-      "text": "3 Reg. VII. 23. & VIII. 7."
+      "text": "3 Reg. VII. 23. et VIII. 7."
     },
     {
       "key": "page_0312-b",
@@ -368,84 +368,12 @@
     {
       "key": "page_0312-c",
       "n": 33,
-      "text": "Ita Eſt. Caiet. Salian. Vat. Grob."
+      "text": "Ita Est. Caiet. Salian. Vat. Grob."
     },
     {
       "key": "page_0313-a",
       "n": 34,
       "text": "לכל עבודה ותשרים וכל העם לכל דבריך ועמך בכל מלאכה לכל נדיב בחכמה"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0304",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0305",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0306",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0307",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0308",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0309",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0310",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0311",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0312",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0313",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

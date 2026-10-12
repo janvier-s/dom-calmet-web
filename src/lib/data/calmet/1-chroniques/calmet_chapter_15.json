@@ -9,7 +9,7 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TETENDIT EI TABERNACULUM.",
       "lemma": "Il lui dressa un Tabernacle, ou une tente toute neuve.",
       "text": "On laissa à Gabaon le Tabernacle ancien, que Moïse avait fait faire dans le désert, aussi bien que l'autel des holocaustes, qui avait servi depuis la sortie d'Égypte : Les habitants de Gabaon n'avaient pas apparemment voulu consentir qu'on leur ôtât ces monuments si précieux, et si respectables. Ils demeurèrent chez eux pendant tout le règne de David, et même encore après que le temple de Salomon fut bâti. Depuis que l'Arche avait été transférée à Cariath-iarim, on avait bâti tout autour des murailles pour la fermer ; c’est de là que David la tira, pour la placer dans la tente qu’il lui avait fait dresser à Jérusalem, sur le modèle du Tabernacle de Moïse."
@@ -93,7 +93,7 @@
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PRÆERAT, AD PRÆCINENDAM MELODIAM, ERAT QUIPPE VALDE SAPIENS.",
       "lemma": "Chonénias chef des Lévites présidait à toute cette musique, pour commencer le premier la symphonie, parce qu'il était très sage, et très habile.",
       "text": "On peut traduire ainsi le texte Hébreu : [18] _Et Chonénias Prince des Lévites présidait à l'élévation, et corrigeait l'élévation des voix, parce qu'il était très sage._ Cette présidence à l'élévation des voix, peut marquer qu'il réglait la mesure, et qu'il corrigeait les voix discordantes, trop basses, ou trop élevées. Les Septante [19] lisent simplement : _Et Chonénias Prince des Lévites, était chef des Musiciens, parce qu'il était intelligent._ Et ci-après au ℣. 27. Chonénias est nommé dans l'Hébreu [20] simplement chef, ou Prince de l'élévation des chantres. Ce qui a donné lieu à l'Auteur de la Vulgate de l'appeler _président de la Prophétie_ ; c'est que dans l'Écriture, l'Hébreu _Masha_, se prend souvent pour une prophétie. Par exemple, où nous lisons dans la Vulgate, _onus Moab, onus Babylonis, onus Duma_ ; prophétie fâcheuse contre Moab, contre Babylone, ou contre Duma. L'Hébreu porte : _Masha Moab_, etc. Le Syriaque a pris ce dernier terme pour un poids, une chose qu'on porte avec peine. Il traduit ainsi le passage. _Benaïa ( c'est ainsi qu'il l'appelle ) Prince des Lévites, portait tous les jours sa charge, parce qu'il y avait un lieu préparé pour lui._ Il faut s'en tenir à la première explication ; le verbe _nasa_, qui est le primitif de _Masah_, se prend souvent pour élever la voix, continuer un discours, une lamentation, une oraison, dire une prière, une parabole, prononcer les termes d'une alliance, etc.  il se prend aussi pour entonner,  chanter, conduire un chœur de musique."
@@ -227,12 +227,12 @@
     {
       "key": "page_0201-a",
       "n": 6,
-      "text": "Voyez ce que l'on a remarqué ſur I. Par. VI. 31."
+      "text": "Voyez ce que l'on a remarqué sur I. Par. VI. 31."
     },
     {
       "key": "page_0201-b",
       "n": 7,
-      "text": "Caſtal. Strigel. Mariana, Tigur. Verſ."
+      "text": "Castal. Strigel. Mariana, Tigur. Vers."
     },
     {
       "key": "page_0202-a",
@@ -247,7 +247,7 @@
     {
       "key": "page_0203-a",
       "n": 10,
-      "text": "Voyez nôtre Diſſertation ſur les inſtrumens de muſique des Hébreux ſur les Pſeaumes."
+      "text": "Voyez nôtre Dissertation sur les instrumens de musique des Hébreux sur les Pseaumes."
     },
     {
       "key": "page_0203-b",
@@ -262,7 +262,7 @@
     {
       "key": "page_0203-d",
       "n": 13,
-      "text": "_Pſal._ VI. I. XI. I."
+      "text": "_Psal._ VI. I. XI. I."
     },
     {
       "key": "page_0203-e",
@@ -292,7 +292,7 @@
     {
       "key": "page_0204-b",
       "n": 19,
-      "text": "Vide Pſal. LXXX. 3. שאו זמרה ותנו תף"
+      "text": "Vide Psal. LXXX. 3. שאו זמרה ותנו תף"
     },
     {
       "key": "page_0204-c",
@@ -302,12 +302,12 @@
     {
       "key": "page_0205-a",
       "n": 21,
-      "text": "℣. 18. & 21."
+      "text": "℣. 18. et 21."
     },
     {
       "key": "page_0205-b",
       "n": 22,
-      "text": "2. Reg. VI. 13. Cumque tranſcendiſſent qui portabant arcam Domini ſix paſſus, immolabat bovem & arietem."
+      "text": "2. Reg. VI. 13. Cumque transcendissent qui portabant arcam Domini six passus, immolabat bovem et arietem."
     },
     {
       "key": "page_0206-a",
@@ -317,22 +317,22 @@
     {
       "key": "page_0206-b",
       "n": 24,
-      "text": "_Athen. l. 3. c. 11. ἡ δὲ πίννα ὀρθὴ φύεται ἐκ τῷ βυθῷ, ἐχόμενη δὲ αὐτῆς πινοφύλακα, &c._"
+      "text": "_Athen. l. 3. c. 11. ἡ δὲ πίννα ὀρθὴ φύεται ἐκ τῷ βυθῷ, ἐχόμενη δὲ αὐτῆς πινοφύλακα, etc._"
     },
     {
       "key": "page_0206-c",
       "n": 25,
-      "text": "_Jerem. Lament. IV. 7._ אָדְמוּ עֶצֶם מִפְּנִינִים _Vulg. Rubicundiores ebore antiquo._ L'Hébreu à la lettre : _Dont le corps eſt plus rouge que les Péninim._"
+      "text": "_Jerem. Lament. IV. 7._ אָדְמוּ עֶצֶם מִפְּנִינִים _Vulg. Rubicundiores ebore antiquo._ L'Hébreu à la lettre : _Dont le corps est plus rouge que les Péninim._"
     },
     {
       "key": "page_0206-d",
       "n": 26,
-      "text": "_Cauſabon. Not. in Athen. l. 9. c. 11._"
+      "text": "_Causabon. Not. in Athen. l. 9. c. 11._"
     },
     {
       "key": "page_0207-a",
       "n": 27,
-      "text": "Baſil. in Hexaemer. Orat. 7. πόθεν τὸ πορφύριον, ἵνα καὶ ἐγὼ σοι εἴπω, πόθεν αἱ κῆναι τρίχες, ἐπιφύσεις τῶν θαλάσσης συντριμμάτων, ἃ δὴ καὶ κόχλοι εἰς βασιλικὴν ἀλουργίδα ἀνευρόντες χρωίζονται; ἀφ᾽ ὧν τὰ ἄνθη τῶν λειμώνων τῇ εὐχρείᾳ παρίβλεπται."
+      "text": "Basil. in Hexaemer. Orat. 7. πόθεν τὸ πορφύριον, ἵνα καὶ ἐγὼ σοι εἴπω, πόθεν αἱ κῆναι τρίχες, ἐπιφύσεις τῶν θαλάσσης συντριμμάτων, ἃ δὴ καὶ κόχλοι εἰς βασιλικὴν ἀλουργίδα ἀνευρόντες χρωίζονται; ἀφ᾽ ὧν τὰ ἄνθη τῶν λειμώνων τῇ εὐχρείᾳ παρίβλεπται."
     },
     {
       "key": "page_0207-b",
@@ -352,12 +352,12 @@
     {
       "key": "page_0207-e",
       "n": 31,
-      "text": "Voyez la ſuite du ℣. 17. de ce chapitre."
+      "text": "Voyez la suite du ℣. 17. de ce chapitre."
     },
     {
       "key": "page_0207-f",
       "n": 32,
-      "text": "2. Par. II. 14. & III. 14. ועם תכלת ועם ארגמן... ובצן"
+      "text": "2. Par. II. 14. et III. 14. ועם תכלת ועם ארגמן... ובצן"
     },
     {
       "key": "page_0208-a",
@@ -372,7 +372,7 @@
     {
       "key": "page_0208-c",
       "n": 35,
-      "text": "Eſther. I. 6."
+      "text": "Esther. I. 6."
     },
     {
       "key": "page_0208-d",
@@ -382,7 +382,7 @@
     {
       "key": "page_0208-e",
       "n": 37,
-      "text": "Pauſan. in Eliac. Η' βυσσος η εν τη Ασιατιδος ωδε ινικα υακινθι τις ιφεσιν, η δι' υακινθος ξανθη."
+      "text": "Pausan. in Eliac. Η' βυσσος η εν τη Ασιατιδος ωδε ινικα υακινθι τις ιφεσιν, η δι' υακινθος ξανθη."
     },
     {
       "key": "page_0208-f",
@@ -392,96 +392,17 @@
     {
       "key": "page_0208-g",
       "n": 39,
-      "text": "1. Reg. II. 18. Samuël autem miniſtrabat ante faciem Domini, puer accinctus ephod lineo."
+      "text": "1. Reg. II. 18. Samuël autem ministrabat ante faciem Domini, puer accinctus ephod lineo."
     },
     {
       "key": "page_0208-h",
       "n": 40,
-      "text": "Exod. XXV. 7. pag. 339. & ſuiv."
+      "text": "Exod. XXV. 7. pag. 339. et suiv."
     },
     {
       "key": "page_0208-i",
       "n": 41,
-      "text": "2. Reg. VI. 20. Quàm glorioſus fuit hodie Rex Iſraël, diſcooperiens ſe ante ancillas ſervorum ſuorum, & nudatus eſt, quaſi ſi nudetur unus de ſcurris."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0198",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0199",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0200",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0201",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0202",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0203",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0204",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0205",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0206",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0207",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0208",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "2. Reg. VI. 20. Quàm gloriosus fuit hodie Rex Israël, discooperiens se ante ancillas servorum suorum, et nudatus est, quasi si nudetur unus de scurris."
     }
   ],
   "missing_footnotes": [

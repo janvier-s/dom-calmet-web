@@ -13,6 +13,15 @@
       ]
     },
     {
+      "verse_number": 2,
+      "latin": "Quæ peperit ei Zamran et Jecsan, et Madan, et Madian, et Jesboc, et Sue.",
+      "french": "Qui fut mère de Zamra, de Jecsan, de Madan, de Madian, de Jesboc, et Sué.",
+      "annotations": null,
+      "source_pages": [
+        "page_0608.json"
+      ]
+    },
+    {
       "verse_number": 3,
       "latin": "Jecsan quoque genuit Saba, et Dadan. Filii Dadan fuerunt Assurim, et Latusim, et Loomim.",
       "french": "Jecsan engendra Saba et Dadan. Les enfants de Dadan furent Assurim, Latusim et Loomim.",
@@ -292,21 +301,12 @@
       ]
     },
     {
-      "verse_number": 66,
-      "latin": "Servus autem cuncta quæ gesserat, narravit Isaac.",
-      "french": "Et le serviteur raconta à Isaac tout ce qu'il avait fait.",
+      "verse_number": 34,
+      "latin": "Et sic accepto pane et lentis edulio, comedit, et bibit, et abiit : parvipendens quòd primogenita vendisset.",
+      "french": "Et ainsi ayant pris du pain et ce mets de lentilles, il mangea et but, et s'en alla : se souciant fort peu de la vente qu'il venait de faire de son droit d'aînesse.",
       "annotations": null,
       "source_pages": [
-        "page_0607.json"
-      ]
-    },
-    {
-      "verse_number": 67,
-      "latin": "Qui introduxit eam in tabernaculum Sarae matris suæ, et accepit eam uxorem : et in tantum dilexit eam, ut dolorem, qui ex morte matris ejus acciderat, temperaret.",
-      "french": "Alors Isaac fit entrer Rebecca dans la tente de Sara sa mère, et il la prit pour femme ; et l'affection qu'il eut pour elle, fut si grande, qu'elle tempéra la douleur que la mort de sa mère lui avait causée.",
-      "annotations": null,
-      "source_pages": [
-        "page_0607.json"
+        "page_0629.json"
       ]
     }
   ]

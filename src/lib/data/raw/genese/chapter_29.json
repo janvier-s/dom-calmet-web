@@ -175,15 +175,6 @@
       ]
     },
     {
-      "verse_number": 19,
-      "latin": "Respondit Laban : Melius est ut tibi eam dem quam alteri viro ; mane apud me.",
-      "french": "Laban lui répondit : Il vaut mieux que je vous la donne qu'à un autre ; Demeurez avec moi.",
-      "annotations": null,
-      "source_pages": [
-        "page_0673.json"
-      ]
-    },
-    {
       "verse_number": 20,
       "latin": "Servivit ergo Jacob pro Rachel septem annis : Et videbantur illi pauci dies prae amoris magnitudine.",
       "french": "Jacob servit donc Laban sept ans pour Rachel ; et ce temps lui parut court, tant l'affection qu'il avait pour elle était grande.",
@@ -193,9 +184,27 @@
       ]
     },
     {
-      "verse_number": 20,
-      "latin": "Servivit ergo Jacob pro Rachel septem annis : Et videbantur illi pauci dies prae amoris magnitudine.",
-      "french": "Jacob servit donc Laban sept ans pour Rachel ; et ce temps lui parut court, tant l'affection qu'il avait pour elle était grande.",
+      "verse_number": 21,
+      "latin": "Dixitque ad Laban : Da mihi uxorem meam : quia jam tempus impletum est, ut ingrediar ad illam.",
+      "french": "Après cela, il dit à Laban : Donnez-moi ma femme, afin que je l'épouse, parce que mon temps est accompli.",
+      "annotations": null,
+      "source_pages": [
+        "page_0673.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Qui vocatis multis amicorum turbis ad convivium, fecit nuptias.\n\n",
+      "french": "Laban ayant invité un grand nombre de ses amis, fit le festin des noces [de sa fille.]",
+      "annotations": null,
+      "source_pages": [
+        "page_0673.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et vespere Liam filiam suam introduxit ad eum,\n\n",
+      "french": "Et le soir il fit entrer Lia dans la chambre de Jacob.",
       "annotations": null,
       "source_pages": [
         "page_0673.json"
@@ -289,6 +298,24 @@
       "annotations": null,
       "source_pages": [
         "page_0676.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Concepitque tertio, et genuit alium filium, dixitque : Nunc quoque copulabitur mihi maritus meus, eo quod pepererim ei tres filios : idcirco appellavit nomen ejus, Levi.",
+      "french": "Elle conçut et enfanta un troisième fils, et elle dit : Mon mari s'attachera encore plus à moi, puisque je lui ai donné trois fils ; et c'est pour cette raison qu'elle le nomma Levi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0677.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Quarto concepit, et peperit filium, et ait : Modo confitebor Domino. Et ob hoc vocavit eum Judam : cessavitque parere.",
+      "french": "Elle conçut pour la quatrième fois, et elle accoucha d'un fils, qu'elle nomma Juda, disant : Maintenant je louerai le Seigneur : Et alors elle cessa d'avoir des enfants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0677.json"
       ]
     }
   ]

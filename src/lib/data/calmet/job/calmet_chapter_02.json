@@ -51,7 +51,7 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NON PECCAVIT JOB LABIIS SUIS.",
       "lemma": "Job ne pécha point par ses lèvres.",
       "text": "Il ne proféra pas une parole que l’on puisse reprendre, ni lui imputer à péché. Les Hébreux[33] soutiennent qu’il pécha dans son cœur, et que l’Écriture l’insinue, en disant qu’il ne pécha point par ses lèvres. Il ne commença à offenser Dieu par ses discours, que lorsqu’il parla avec ses amis. Voyez le Chap. XLII. 2. 3. où il avoue qu’il a parlé imprudemment : _Insipienter locutus sum_, etc. Mais cette censure des Juifs est sans fondement."
@@ -65,14 +65,14 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BALDAD SUHITES.",
       "lemma": "Baldad de Such, était un des descendants de Suë, ou Suach, fils d'Abraham, et de Céthura, qui habitait dans l'Arabie déserte.",
       "text": "[42] Nous ne réfutons pas ceux qui font sortir Baldad de _Suéte_, dans la Cœlé-Syrie, ou dans la Trachonite. Ce sentiment n'a pas la moindre bonne preuve, quoiqu'il soit suivi par un assez bon nombre de Géographes, et d'Interprètes. [43] Un ancien Scholiaste Grec dit que Sauchopolis est dans le pays de Moab."
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SOPHAR NAAMATHITES.",
       "lemma": "Sophar de Naamath. On ne sait si ce dernier nom est celui du père, ou du pays, ou de la ville de Sophar.",
       "text": "Il y en a qui croient que c'est le même que _Sépho_, ou _Séphi_, frère de Théman, et petit-fils d'Eliphaz, fils d'Ésaü. Il est appelé _Sophar_ dans le Texte des Septante, dans la Genèse, et dans les Paralipomènes, [44] et il y a au moins beaucoup d'apparence que c'est un des descendants de ce premier Sophar, ou Sépho.\nQuant à _Naamath_, les Septante ont lu apparemment _Maanath_, puisqu'ils traduisent: _Sophar, Roi des Minéens_. Or les Minéens sont des Peuples de l'Arabie heureuse; mais très-éloignés de l'Idumée, vers le midi. L'Interprète d'Origène lit: _Les Nomades_; c'est-à-dire, des Peuples de l'Arabie déserte, qui était presque toute occupée par des peuples vagabonds. L'Écriture [45] nous parle encore de certains Minéens, plus proche de l'Idumée, nommés dans l'Hébreu _Meonim_; ou _Meonenim_. Ils n'étaient pas loin des Thémanites.\n\nIls n'osèrent s'en approcher, peut-être à cause de sa puanteur, ou de crainte de se souiller; ou plutôt, ils se firent conduire au lieu où il était, et se le firent montrer de loin; mais ils ne le reconnurent point, tant il était défiguré.[46] On a déjà remarqué que Job était hors la ville, et dans un lieu impur, et écarté du commerce du monde. Ils ne le remirent qu'après l'avoir vu de près, et après lui avoir parlé.\n\nSPARSERUNT PULVEREM SUPER CAPUT SUUM, IN COELUM. _Ils jetèrent de la poussière en l'air, pour la faire retomber sur leur tête._ Ou simplement: _Ils jetèrent de la poussière en l'air par-dessus leur tête._ Cette cérémonie de jeter la poussière en l'air, se voit dans quelques endroits de l'Écriture, pour marquer de l'impatience, et de l'indignation. Les Juifs entendant S. Paul haranguer sur les degrés du Temple, en usaient ainsi, en demandant qu'on le fît mourir.[47] On sait d'ailleurs que se jeter de la poussière sur la tête, est une marque ordinaire de deuil.[48]"
@@ -195,12 +195,12 @@
     {
       "key": "page_0079-a",
       "n": 1,
-      "text": "Rab. Abrah. Ben, Periſol."
+      "text": "Rab. Abrah. Ben, Perisol."
     },
     {
       "key": "page_0080-a",
       "n": 2,
-      "text": "_Chryſoſt. Olympiod. in Catena. Gregor. Magn._"
+      "text": "_Chrysost. Olympiod. in Catena. Gregor. Magn._"
     },
     {
       "key": "page_0080-b",
@@ -220,17 +220,17 @@
     {
       "key": "page_0081-a",
       "n": 6,
-      "text": "Cyprian. Ciſtercienſ."
+      "text": "Cyprian. Cisterciens."
     },
     {
       "key": "page_0081-e",
       "n": 7,
-      "text": "Vide Chryſoſt. Polychronius, Apollinaris plerique. Interp. Gr. [UNCERTAIN GREEK]."
+      "text": "Vide Chrysost. Polychronius, Apollinaris plerique. Interp. Gr. [UNCERTAIN GREEK]."
     },
     {
       "key": "page_0081-c",
       "n": 8,
-      "text": "Vatab. Tirin. Diuſ. Mercer. Jun. Piſc. &c."
+      "text": "Vatab. Tirin. Dius. Mercer. Jun. Pisc. etc."
     },
     {
       "key": "page_0081-d",
@@ -240,7 +240,7 @@
     {
       "key": "page_0082-a",
       "n": 10,
-      "text": "ויקח לו חרש להתגרד בו והוא ישב בתוך האפר _Sym E'υλαϐῶς._ _Complus. E'υλαϐῶς τοῖς ςώμασι._ Edit. Rom. _E'πὶ τῆς Κοπρίας ἔξω τῆς πόλεως._ Ita & Mſ. Alexand. & antiq. Vulg. _Sedebat in ſtercore extra civitatem._ Aq. _E'ν τῆς ςποδῶ._"
+      "text": "ויקח לו חרש להתגרד בו והוא ישב בתוך האפר _Sym E'υλαϐῶς._ _Complus. E'υλαϐῶς τοῖς ςώμασι._ Edit. Rom. _E'πὶ τῆς Κοπρίας ἔξω τῆς πόλεως._ Ita et Ms. Alexand. et antiq. Vulg. _Sedebat in stercore extra civitatem._ Aq. _E'ν τῆς ςποδῶ._"
     },
     {
       "key": "page_0082-b",
@@ -255,7 +255,7 @@
     {
       "key": "page_0082-d",
       "n": 13,
-      "text": "_Chryſoſt. Homil. 5. ad Popul. Antioch. initio. Et in Caten. pag. 78._"
+      "text": "_Chrysost. Homil. 5. ad Popul. Antioch. initio. Et in Caten. pag. 78._"
     },
     {
       "key": "page_0083-a",
@@ -275,37 +275,37 @@
     {
       "key": "page_0083-d",
       "n": 17,
-      "text": "_Pſeudo-Philo in antiquis. & Chald. Interpp. alii quidam._"
+      "text": "_Pseudo-Philo in antiquis. et Chald. Interpp. alii quidam._"
     },
     {
       "key": "page_0083-e",
       "n": 18,
-      "text": "_Geneſ._ XXXIV. 2. 3."
+      "text": "_Genes._ XXXIV. 2. 3."
     },
     {
       "key": "page_0083-f",
       "n": 19,
-      "text": "_Geneſ._ XLI. 45."
+      "text": "_Genes._ XLI. 45."
     },
     {
       "key": "page_0084-a",
       "n": 20,
-      "text": "Chryſoſt. in Catena. pag. 92."
+      "text": "Chrysost. in Catena. pag. 92."
     },
     {
       "key": "page_0084-b",
       "n": 21,
-      "text": "Tertull. Cyprian. Aug. Chryſoſt. Nazianz. Proſper. Gaudent. apud Pined. hic."
+      "text": "Tertull. Cyprian. Aug. Chrysost. Nazianz. Prosper. Gaudent. apud Pined. hic."
     },
     {
       "key": "page_0084-c",
       "n": 22,
-      "text": "Gregor. Magn. Baſil. Chryſoſt."
+      "text": "Gregor. Magn. Basil. Chrysost."
     },
     {
       "key": "page_0084-d",
       "n": 23,
-      "text": "Chryſoſt. Homil. 5. ad Popul. Antioch. & Homil. 1. ſuper 1. Corint. & in Catena. hic."
+      "text": "Chrysost. Homil. 5. ad Popul. Antioch. et Homil. 1. super 1. Corint. et in Catena. hic."
     },
     {
       "key": "page_0084-e",
@@ -315,12 +315,12 @@
     {
       "key": "page_0084-f",
       "n": 25,
-      "text": "Suidas & Olympiodor. in Catena circa finem, & Salian. ad an. mund. 2398. n.10. & Torniel. an mund. 2399. & 1406."
+      "text": "Suidas et Olympiodor. in Catena circa finem, et Salian. ad an. mund. 2398. n.10. et Torniel. an mund. 2399. et 1406."
     },
     {
       "key": "page_0084-g",
       "n": 26,
-      "text": "Caiet. Caſtal. Eugub."
+      "text": "Caiet. Castal. Eugub."
     },
     {
       "key": "page_0084-h",
@@ -330,17 +330,17 @@
     {
       "key": "page_0084-i",
       "n": 28,
-      "text": "Baſil. in Caten."
+      "text": "Basil. in Caten."
     },
     {
       "key": "page_0084-k",
       "n": 29,
-      "text": "Vide Job. 1. 5. & 11."
+      "text": "Vide Job. 1. 5. et 11."
     },
     {
       "key": "page_0085-a",
       "n": 30,
-      "text": "Baſil. Chryſoſt."
+      "text": "Basil. Chrysost."
     },
     {
       "key": "page_0085-b",
@@ -350,17 +350,17 @@
     {
       "key": "page_0085-c",
       "n": 32,
-      "text": "Grot. Druſ. Cocce. Mercer. Aqu. Sts pln [UNCERTAIN GREEK]. Quaſi una delirantium. Vide Pſ. XIII. 1. LXXIII. 18. Jerem. XXIX. 23. Job. 1. 22."
+      "text": "Grot. Drus. Cocce. Mercer. Aqu. Sts pln [UNCERTAIN GREEK]. Quasi una delirantium. Vide Ps. XIII. 1. LXXIII. 18. Jerem. XXIX. 23. Job. 1. 22."
     },
     {
       "key": "page_0085-d",
       "n": 33,
-      "text": "Chald. Interp. & Thalmudist."
+      "text": "Chald. Interp. et Thalmudist."
     },
     {
       "key": "page_0085-e",
       "n": 34,
-      "text": "Vide Origen. & Olympiodor."
+      "text": "Vide Origen. et Olympiodor."
     },
     {
       "key": "page_0086-a",
@@ -370,7 +370,7 @@
     {
       "key": "page_0086-b",
       "n": 36,
-      "text": "_Tob. II. 15. Sicut beata Job inſultabant Reges._"
+      "text": "_Tob. II. 15. Sicut beata Job insultabant Reges._"
     },
     {
       "key": "page_0086-c",
@@ -380,7 +380,7 @@
     {
       "key": "page_0086-d",
       "n": 38,
-      "text": "_Geneſ. XXXVI. 4._"
+      "text": "_Genes. XXXVI. 4._"
     },
     {
       "key": "page_0086-e",
@@ -400,22 +400,22 @@
     {
       "key": "page_0087-b",
       "n": 42,
-      "text": "_Geneſ. XXV. 1. 6._"
+      "text": "_Genes. XXV. 1. 6._"
     },
     {
       "key": "page_0087-c",
       "n": 43,
-      "text": "_Hegeſipp. Brocard. Adrich. Torniel. Menoc. Tir. Cſtevis._"
+      "text": "_Hegesipp. Brocard. Adrich. Torniel. Menoc. Tir. Cstevis._"
     },
     {
       "key": "page_0087-d",
       "n": 44,
-      "text": "_Geneſ. XXXVI. 11. & I. Par. I. 36. Sophi. 70. Σωφὰρ ὁ βασιλεὺς Βασιλίδος Hebr. [UNCERTAIN HEBREW]_"
+      "text": "_Genes. XXXVI. 11. et I. Par. I. 36. Sophi. 70. Σωφὰρ ὁ βασιλεὺς Βασιλίδος Hebr. [UNCERTAIN HEBREW]_"
     },
     {
       "key": "page_0087-e",
       "n": 45,
-      "text": "_I. Par. IV. 41. Judit. X. 11. I. Par. XX. & XXVI. 7; XIV. 15. in 70._"
+      "text": "_I. Par. IV. 41. Judit. X. 11. I. Par. XX. et XXVI. 7; XIV. 15. in 70._"
     },
     {
       "key": "page_0088-a",
@@ -425,12 +425,12 @@
     {
       "key": "page_0088-c",
       "n": 47,
-      "text": "_Hebr. [UNCERTAIN HEBREW] apud Polychron. [UNCERTAIN GREEK] [UNCERTAIN HEBREW] 70. Edit. Rom. & Complut. [UNCERTAIN GREEK] Quidam libri_"
+      "text": "_Hebr. [UNCERTAIN HEBREW] apud Polychron. [UNCERTAIN GREEK] [UNCERTAIN HEBREW] 70. Edit. Rom. et Complut. [UNCERTAIN GREEK] Quidam libri_"
     },
     {
       "key": "page_0088-d",
       "n": 48,
-      "text": "_Thren. II. 10. Joſue VII, 6. & paſſim._"
+      "text": "_Thren. II. 10. Josue VII, 6. et passim._"
     },
     {
       "key": "page_0088-e",
@@ -440,7 +440,7 @@
     {
       "key": "page_0089-a",
       "n": 50,
-      "text": "_In Catena, ita & Msrcst. Sanct. Lir._"
+      "text": "_In Catena, ita et Msrcst. Sanct. Lir._"
     },
     {
       "key": "page_0089-b",
@@ -451,85 +451,6 @@
       "key": "page_0089-c",
       "n": 52,
       "text": "_Origen. hic. Lib. 3. pag. 269._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0079",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0080",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0081",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0082",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0083",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0084",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0085",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0086",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0087",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0088",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0089",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": [

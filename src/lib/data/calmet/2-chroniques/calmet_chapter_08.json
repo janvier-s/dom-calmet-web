@@ -16,7 +16,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ALIAS CIVITATES MUNITISSIMAS ÆDIFICAVIT.",
       "lemma": "Il fit bâtir plusieurs villes très fortes.",
       "text": "Dans l'Hébreu on lit les mêmes termes, [5] qui sont rendus dans l'Exode, [6] par des villes des tentes : _Urbes tabernaculorum_. Plusieurs Interprètes [7] traduisent : _Urbes thesaurorum_, des villes où l'on serrait les trésors, ou les revenus du Roi, en froment, en vin, en huile, etc. D'autres, [8] des villes fortes, bien munies. On peut voir sur toutes ces villes en particulier le Commentaire sur les Rois. [9]"
@@ -65,7 +65,7 @@
     },
     {
       "verse": 18,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TULERUNT INDE QUADRINGENTA QUINQUAGINTA TALENTA AURI",
       "lemma": "Ils en rapportèrent au Roi quatre cent cinquante talents d'or.",
       "text": "Nous n'en lisons que quatre cent vingt dans les livres des Rois. [26] Les trente talents de plus que nous trouvons ici, étaient"
@@ -118,12 +118,12 @@
     {
       "key": "page_0049-b",
       "n": 2,
-      "text": "_Vide Jun. Tremell. Malv. & ſupr. ad I. Reg. IX. II._"
+      "text": "_Vide Jun. Tremell. Malv. et supr. ad I. Reg. IX. II._"
     },
     {
       "key": "page_0049-c",
       "n": 3,
-      "text": "_Vide I. Reg. VIII. 9. & I. Par. XVIII. I._"
+      "text": "_Vide I. Reg. VIII. 9. et I. Par. XVIII. I._"
     },
     {
       "key": "page_0050-a",
@@ -183,12 +183,12 @@
     {
       "key": "page_0053-a",
       "n": 15,
-      "text": "Voyez Mr Huet, Diſſert. des navigations de Salomon."
+      "text": "Voyez Mr Huet, Dissert. des navigations de Salomon."
     },
     {
       "key": "page_0053-b",
       "n": 16,
-      "text": "Ita Ariſtotel. Meteoro. l. 1. c. ult. & Strabo, lib. 7. Vide Marſham Canon. Ægypt. ſæcul. 15."
+      "text": "Ita Aristotel. Meteoro. l. 1. c. ult. et Strabo, lib. 7. Vide Marsham Canon. Ægypt. sæcul. 15."
     },
     {
       "key": "page_0053-c",
@@ -203,17 +203,17 @@
     {
       "key": "page_0053-e",
       "n": 19,
-      "text": "Marſham Can. Chronic. l. 3. ivit. ſæcul. 14."
+      "text": "Marsham Can. Chronic. l. 3. ivit. sæcul. 14."
     },
     {
       "key": "page_0054-a",
       "n": 20,
-      "text": "Uſſer. ſur l'an du monde 2513. croit que Séſoſtris eſt le même que Séthoſis fils de Pharaon, qui fut ſubmergé dans la mer rouge."
+      "text": "Usser. sur l'an du monde 2513. croit que Sésostris est le même que Séthosis fils de Pharaon, qui fut submergé dans la mer rouge."
     },
     {
       "key": "page_0054-b",
       "n": 21,
-      "text": "Plin. lib. 2. c. 68. Centum'rv. M. paſsuum Arabicus ſinus diſtat ab Ægyptio mari."
+      "text": "Plin. lib. 2. c. 68. Centum'rv. M. passuum Arabicus sinus distat ab Ægyptio mari."
     },
     {
       "key": "page_0054-c",
@@ -233,56 +233,12 @@
     {
       "key": "page_0054-f",
       "n": 25,
-      "text": "3. Reg. X. 22. Quia claſſis Regis per mare cum claſſe Hiram, ſemel per tres annos ibat in Tharſis."
+      "text": "3. Reg. X. 22. Quia classis Regis per mare cum classe Hiram, semel per tres annos ibat in Tharsis."
     },
     {
       "key": "page_0054-g",
       "n": 26,
       "text": "3. Reg. IX. 28."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0049",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0050",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0051",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0052",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0053",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0054",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

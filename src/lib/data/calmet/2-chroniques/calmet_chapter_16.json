@@ -37,7 +37,7 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ADVERSUM TE BELLA CONSURGENT.",
       "lemma": "Il va s'allumer des guerres contre vous.",
       "text": "Depuis ce temps jusqu'à la fin du règne de Baasa, il y eut toujours guerre entre les Royaumes de Juda, et d'Israël.[18]"
@@ -51,7 +51,7 @@
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "INTERFECIT DE POPULO IN TEMPORE ILLO PLURIMOS.",
       "lemma": "Dans ce même temps il fit mourir plusieurs personnes.",
       "text": "d'entre le peuple. On ne sait ni à quelle occasion, ni sous quel prétexte ; si ce fut parce qu'ils désapprouvaient la conduite du Roi, de même que le Prophète, ou si ce fut à l'occasion de l'emprisonnement d'Hanani."
@@ -65,7 +65,7 @@
     },
     {
       "verse": 12,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NEC IN INFIRMITATE SUA QUÆSIVIT DOMINUM, SED MAGIS IN MEDICORUM ARTE CONFISUS EST.",
       "lemma": "Il n'eut point recours au Seigneur dans son mal, mais il mit plutôt sa confiance dans la science des médecins.",
       "text": "Le mal qu'il fit n'est pas d'avoir employé les secrets de la médecine, et d'y avoir eu quelque confiance. Qui voudrait s'en servir, si on n'y mettait quelque espérance ? Mais c'est de s'y être plutôt fié, qu'au secours de Dieu ; d'avoir négligé de recourir au Seigneur, pendant qu'il avait recours à la médecine."
@@ -79,21 +79,21 @@
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUOD FODERAT SIBI.",
       "lemma": "Il fut enterré dans le sépulcre qu'il s'était fait.",
       "text": "L'Hébreu : [25] _Dans les sépulcres qu'il s'était creusés._ Les tombeaux dans ce pays-là étaient dans des rochers creusés : une même caverne contenait plusieurs tombeaux, dans chacun desquels on mettait un corps mort. La disposition de ces tombeaux, fait que l'Écriture en désigne un seul sous un nom pluriel."
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "POSUERUNT EUM SUPER LECTUM SUUM, PLENUM AROMATIBUS ET UNGUENTIS MERETRICIIS.",
       "lemma": "On le mit sur son lit tout rempli d'odeurs, et de parfums les plus excellents.",
       "text": "L'Hébreu : [26] _On le coucha dans le lit qu'il avait rempli de parfums, et de diverses espèces d'aromates_, ou, de drogues. Par le lit, on peut entendre ou un lit de parade, sur lequel il demeura quelque temps exposé, au milieu d'une quantité de drogues odoriférantes, pour surmonter la mauvaise odeur de son cadavre; ou la niche dans laquelle son corps fut placé et couché dans son tombeau; peut-être aussi veut-on marquer qu'il fut embaumé, et enveloppé de linges, couverts et pénétrés de drogues odoriférantes, et astringentes. Ce que l'Auteur de la Vulgate appelle _unguenta meretricia_, des parfums de Courtisanes, n'est autre chose, suivant l'Hébreu, les Septante, [27] et la plupart des Interprètes, [28] qu'une grande variété d'onguents, et de parfums, et diverses espèces de drogues odoriférantes."
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET COMBUSSERUNT SUPER EUM AMBITIONE NIMIA.",
       "lemma": "Et ils les brûlèrent sur lui avec beaucoup d'appareil, et de pompe.",
       "text": "Ces paroles semblent dire qu'on jeta toutes ces espèces d'aromates sur le corps du Roi, et qu'on les y consuma avec le corps. Mais l'Hébreu lit simplement : [29] _Qu'on les lui brûla dans un très grand feu_, qu'on les brûla en son honneur, en sa présence ; on érigea un grand bûcher, sur lequel on brûla tout cela.\n... _Congesta cremantur\nThurea dona, dapes fuso crateres olivo._ [30]\nC'est ainsi que l'expliquent plusieurs Interprètes ; [31] il paraît par Tacite, que communément parmi les Hébreux c'était plutôt la coutume d'enterrer, que de brûler les corps, selon l'usage des Égyptiens. _Corpora condere, quàm cremare, è more Egyptio._ Histor. lib. 5.\nMais nous croyons avec beaucoup d'autres habiles Commentateurs,[32] que tout cela fut brûlé sur, et avec le corps d'Asa. Joram Roi de Juda, fut privé de cet honneur, comme le remarque l'Écriture ;[33] on ne brûla pas son corps, comme on avait fait de ceux de ses ancêtres ; Jérémie promet à Sédécias qu'on lui rendra ce dernier devoir, comme aux Rois ses prédécesseurs.[34] Longtemps auparavant le corps de Saül avait été brûlé ;[35] il semble que la chose ne passa en coutume que depuis Asa. Amos dit, qu'on brûlera les corps des Israélites dans la maison, et qu'ensuite on emportera leurs os.[36]."
@@ -162,12 +162,12 @@
     {
       "key": "page_0099-a",
       "n": 2,
-      "text": "Voyez 3. Reg. xv. 16. & la fin du chapitre précédent."
+      "text": "Voyez 3. Reg. xv. 16. et la fin du chapitre précédent."
     },
     {
       "key": "page_0100-b",
       "n": 3,
-      "text": "_Vide ad ℣. 7. & 8._"
+      "text": "_Vide ad ℣. 7. et 8._"
     },
     {
       "key": "page_0100-c",
@@ -182,22 +182,22 @@
     {
       "key": "page_0100-e",
       "n": 6,
-      "text": "_Vide Grot. de jure belli & pacis, lib. 2. cap. 15. art. 9. & Maſ. in Joſue_ ix. 1."
+      "text": "_Vide Grot. de jure belli et pacis, lib. 2. cap. 15. art. 9. et Mas. in Josue_ ix. 1."
     },
     {
       "key": "page_0100-f",
       "n": 7,
-      "text": "_Geneſ._ xiv. 13. _& ſequ._"
+      "text": "_Genes._ xiv. 13. _et sequ._"
     },
     {
       "key": "page_0100-g",
       "n": 8,
-      "text": "1. _Reg._ xxvii. 2. 12. _&_ xxviii. 1."
+      "text": "1. _Reg._ xxvii. 2. 12. _et_ xxviii. 1."
     },
     {
       "key": "page_0100-h",
       "n": 9,
-      "text": "1. _Macch._ viii. 20. _&_ xii. 1. 2. _& ſequ._"
+      "text": "1. _Macch._ viii. 20. _et_ xii. 1. 2. _et sequ._"
     },
     {
       "key": "page_0100-i",
@@ -232,7 +232,7 @@
     {
       "key": "page_0102-a",
       "n": 16,
-      "text": "2. Par. xv. 17. _Attamen cor Aſa erat perfectum cunctis diebus ejus._"
+      "text": "2. Par. xv. 17. _Attamen cor Asa erat perfectum cunctis diebus ejus._"
     },
     {
       "key": "page_0102-b",
@@ -242,12 +242,12 @@
     {
       "key": "page_0103-a",
       "n": 18,
-      "text": "3. Reg. xv. 32. Fuitque bellum inter Aſa & Baaſa Regem Iſraël, cunctis diebus eorum."
+      "text": "3. Reg. xv. 32. Fuitque bellum inter Asa et Baasa Regem Israël, cunctis diebus eorum."
     },
     {
       "key": "page_0103-b",
       "n": 19,
-      "text": "Iſidor. orig. l. 5. c. ult. Nervus eſt vinculum ferreum, quo pedes, vel cervices impediuntur."
+      "text": "Isidor. orig. l. 5. c. ult. Nervus est vinculum ferreum, quo pedes, vel cervices impediuntur."
     },
     {
       "key": "page_0103-c",
@@ -267,12 +267,12 @@
     {
       "key": "page_0104-a",
       "n": 23,
-      "text": "(a) ויחלא ברגליו עד למעלה חליו. Vat. Eſt. Menoch. Cornel. &c."
+      "text": " ויחלא ברגליו עד למעלה חליו. Vat. Est. Menoch. Cornel. etc."
     },
     {
       "key": "page_0104-c",
       "n": 24,
-      "text": "(c) ἐμαλακίσθη ἀπὸ τῆς πόδας, ἕως σφόδρα ἐμαλακίσθη."
+      "text": " ἐμαλακίσθη ἀπὸ τῆς πόδας, ἕως σφόδρα ἐμαλακίσθη."
     },
     {
       "key": "page_0105-a",
@@ -292,7 +292,7 @@
     {
       "key": "page_0105-d",
       "n": 28,
-      "text": "Pagn. Mont. Jun. & Tremell. Mariana,"
+      "text": "Pagn. Mont. Jun. et Tremell. Mariana,"
     },
     {
       "key": "page_0105-e",
@@ -312,85 +312,27 @@
     {
       "key": "page_0106-a",
       "n": 32,
-      "text": "_Pagn. Mont. Caiet. Vatab. Mereer. Bertr. Avenar._ Voyez ce que nous avons dit ſur la Geneſe l. 3. p. 844."
+      "text": "_Pagn. Mont. Caiet. Vatab. Mereer. Bertr. Avenar._ Voyez ce que nous avons dit sur la Genese l. 3. p. 844."
     },
     {
       "key": "page_0106-b",
       "n": 33,
-      "text": "_2. Par. XXI. 19. Non fecit ei populus ſecundum morem combuſtionis, exequias, ſicut fecerat majoribus ſuis._"
+      "text": "_2. Par. XXI. 19. Non fecit ei populus secundum morem combustionis, exequias, sicut fecerat majoribus suis._"
     },
     {
       "key": "page_0106-c",
       "n": 34,
-      "text": "_Jerem. XXXIV. 5. Secundum combuſtionem patrum tuorum Regum priorum, ſic comburent te._"
+      "text": "_Jerem. XXXIV. 5. Secundum combustionem patrum tuorum Regum priorum, sic comburent te._"
     },
     {
       "key": "page_0106-d",
       "n": 35,
-      "text": "_1. Reg. XXXI. 12. Tulerunt cadaver Saül, & cadavera filiorum ejus... veneruntque Jabes Galaad, & combuſſerunt ea ibi._"
+      "text": "_1. Reg. XXXI. 12. Tulerunt cadaver Saül, et cadavera filiorum ejus... veneruntque Jabes Galaad, et combusserunt ea ibi._"
     },
     {
       "key": "page_0106-e",
       "n": 36,
       "text": "_Amos VI. 10._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0099",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0100",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0101",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0102",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0103",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0104",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0105",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0106",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": [

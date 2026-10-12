@@ -16,7 +16,7 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SI EST POENITENTIA IN ISRAEL SUPER HOC.",
       "lemma": "Si Israël est touché du repentir de ce péché.",
       "text": "L'Hébreu : [2] Et à présent il y a espérance dans Israël sur cela. Le peuple doit espérer que Dieu lui pardonnera cette faute ; le mal n'est pas sans remède. On peut aussi traduire : _Il y a une assemblée dans Israël pour cela._ [3] Le peuple est assemblé, ou il faut assembler le peuple, pour réparer ce désordre. Il est dit au ℣. 1. que le peuple s'assembla autour d'Esdras, lorsqu'il le vit affligé de ce péché."
@@ -30,7 +30,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UT PROJICIAMUS UNIVERSAS UXORES, ET EOS QUI DE HIS NATI SUNT.",
       "lemma": "Chassons toutes ces femmes, et tous ceux qui en sont nés.",
       "text": "On jugea que les mariages contractés avec ces femmes étrangères, contre l'ordre exprès de Dieu, [4] étaient non seulement illicites, mais même nuls, et sans force ; et qu'ainsi les Israélites pouvaient, et étaient même obligés de renvoyer ces femmes, et leurs enfants. Grotius croit que parmi les Hébreux, on avait pour maxime, de regarder comme nul, et non arrivé, tout ce qui s'était fait contre les Lois ; maxime qui se voit renouvelée dans le Code Théodosien. Le divorce, qui était en usage parmi les Hébreux, était une autre Loi, qui rendait permis ce qu'ils firent à l'égard de ces femmes. La disparité du culte, et les défenses du Seigneur, étaient des raisons plus que suffisantes, pour autoriser le divorce dans cette rencontre : et à l'égard des enfants, on les obligeait de suivre la condition de la mère, comme il arrive dans les mariages illicites ; outre qu'il y avait un danger évident, et actuel, s'ils demeuraient dans la famille de leurs pères, qu'ils ne communiquassent aux autres enfants les erreurs qu'ils avaient sucées avec le lait de leurs mères. Enfin l'Écriture remarque ici expressément, qu'ils se conformèrent à la volonté du Seigneur ; qu'ils suivirent les ordres, et les avis de ceux qui étaient revêtus de son autorité ; et enfin, que tout se fit selon la Loi.\nQuelques-uns [5] croient que l'on ne chassa point les enfants avec leurs mères ; mais qu'on les fit circoncire, et élever selon la Loi, dans des Écoles publiques, éloignés de la vue de leurs pères ; de peur que ceux-ci voyant ces enfants, ne se laissassent toucher de compassion pour les mères, qu'ils avaient si courageusement éloignées. Mais tout cela est assez mal appuyé. L'Écriture remarque ci-après, [6] qu'un nombre de ces femmes, qu'ils renvoyèrent, avaient des enfants : ce qui insinue qu'on n'eut aucun égard à cela, et qu'on fut inexorable sur leur expulsion. Il est à croire toutefois qu'on tempéra cette rigueur, quant aux manières, par tous les adoucissements que la Loi de Dieu put permettre, et que l'humanité put demander."
@@ -65,7 +65,7 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN PLATEA DOMUS.",
       "lemma": "Dans la place de devant le Temple ;",
       "text": "dans le parvis du peuple, qui n'était point encore environné de bâtiments, [12] ni de galeries, pour se mettre à couvert des pluies, qui étaient grandes dans cette saison."
@@ -108,7 +108,14 @@
     {
       "verse": 43,
       "sub": false,
-      "latin_lemma": "GEDDU. L'Hébreu, & les Septante : Jeddai.",
+      "latin_lemma": "GEDDU. L'Hébreu, et les Septante : Jeddai.",
+      "lemma": null,
+      "text": ""
+    },
+    {
+      "verse": 43,
+      "sub": false,
+      "latin_lemma": "GEDDU. L'Hébreu, et les Septante : Jeddai.",
       "lemma": null,
       "text": ""
     },
@@ -118,13 +125,6 @@
       "latin_lemma": "FUERUNT EX EIS MULIERES QUÆ PEPERERANT FILIOS.",
       "lemma": "Il y en avait qui avaient eu des enfants.",
       "text": "Pourquoi cette remarque? Pour faire voir qu'on exécuta dans la rigueur la Sentence des Juges; et que quoiqu'il y eût plusieurs de ces femmes étrangères qui avaient des enfants, on n'y eut aucun égard, et qu'on les chassa elles, et leurs enfants. Le troisième Livre d'Esdras l'exprime fort clairement : [19] _Omnes isti conjunxerant sibi uxores alienigenas, et dimiserunt eas cum filiis._ Le Texte Hébreu [20] se peut traduire ainsi : _Il y avait entre elles des femmes, qui exposèrent leurs enfants._ Mais la plupart suivent le sens qui est exprimé dans la Vulgate, et dans les Septante. [21] M. le Clerc : _Il y avait plusieurs de ces hommes, qui avaient des enfants nés de ces femmes._ Laïcs ; pour les distinguer de ceux qui précèdent, et qui étaient tous ou Prêtres, ou Lévites."
-    },
-    {
-      "verse": 43,
-      "sub": false,
-      "latin_lemma": "GEDDU. L'Hébreu, & les Septante : Jeddai.",
-      "lemma": null,
-      "text": ""
     },
     {
       "verse": 44,
@@ -194,7 +194,7 @@
     {
       "key": "page_0123-a",
       "n": 1,
-      "text": "Eſdr. VIII. 33."
+      "text": "Esdr. VIII. 33."
     },
     {
       "key": "page_0124-a",
@@ -214,7 +214,7 @@
     {
       "key": "page_0125-a",
       "n": 5,
-      "text": "Vide Bedam apud Eſt. Caiet. Cornel. Tirin."
+      "text": "Vide Bedam apud Est. Caiet. Cornel. Tirin."
     },
     {
       "key": "page_0125-b",
@@ -224,17 +224,17 @@
     {
       "key": "page_0125-c",
       "n": 7,
-      "text": "2. Eſdr. XII: 10."
+      "text": "2. Esdr. XII: 10."
     },
     {
       "key": "page_0126-a",
       "n": 8,
-      "text": "3 Eſdr. IX. 1."
+      "text": "3 Esdr. IX. 1."
     },
     {
       "key": "page_0126-b",
       "n": 9,
-      "text": "Joſeph. Antiq. lib. XI. c. 5."
+      "text": "Joseph. Antiq. lib. XI. c. 5."
     },
     {
       "key": "page_0126-c",
@@ -244,17 +244,17 @@
     {
       "key": "page_0126-d",
       "n": 11,
-      "text": "Ita 70. Edit. Rom. ἀναθεματισθήσεται πᾶσα ἡ ὕπαρξις αὐτῆ. Joſeph. lib. XI. c. 5. Κληρονομήσει. Aliæ edit. 70. Ἀναθεματισθήσεται πᾶσα ἡ ὕπαρξις αὐτῶ."
+      "text": "Ita 70. Edit. Rom. ἀναθεματισθήσεται πᾶσα ἡ ὕπαρξις αὐτῆ. Joseph. lib. XI. c. 5. Κληρονομήσει. Aliæ edit. 70. Ἀναθεματισθήσεται πᾶσα ἡ ὕπαρξις αὐτῶ."
     },
     {
       "key": "page_0126-e",
       "n": 12,
-      "text": "2. Eſdr. II. 8."
+      "text": "2. Esdr. II. 8."
     },
     {
       "key": "page_0127-a",
       "n": 13,
-      "text": "Vide ſi lubet 3. Eſdr. IX. 12. 13. & Joſeph. lib. XI. c. 5. Antiq."
+      "text": "Vide si lubet 3. Esdr. IX. 12. 13. et Joseph. lib. XI. c. 5. Antiq."
     },
     {
       "key": "page_0128-a",
@@ -264,7 +264,7 @@
     {
       "key": "page_0128-b",
       "n": 15,
-      "text": "_2. Eſdr. XIII. 23._"
+      "text": "_2. Esdr. XIII. 23._"
     },
     {
       "key": "page_0128-c",
@@ -274,17 +274,17 @@
     {
       "key": "page_0129-a",
       "n": 17,
-      "text": "3. Eſdr. IX. 16. Καὶ ἐπελέξατο ἀυτῷ ὁ Ἰζδρας ἄνδρας πατριάρχας ἐξ ἑκάσης πατριᾶς κατ' ὄνομα, καὶ συνεκλείσθησαν, &c."
+      "text": "3. Esdr. IX. 16. Καὶ ἐπελέξατο ἀυτῷ ὁ Ἰζδρας ἄνδρας πατριάρχας ἐξ ἑκάσης πατριᾶς κατ' ὄνομα, καὶ συνεκλείσθησαν, etc."
     },
     {
       "key": "page_0129-b",
       "n": 18,
-      "text": "1. Eſdr. VIII. 24."
+      "text": "1. Esdr. VIII. 24."
     },
     {
       "key": "page_0131-a",
       "n": 19,
-      "text": "3. Eſdr. IX. 36."
+      "text": "3. Esdr. IX. 36."
     },
     {
       "key": "page_0131-b",
@@ -294,12 +294,12 @@
     {
       "key": "page_0131-c",
       "n": 21,
-      "text": "70. Καὶ ἐγένοντο ἐξ αὐτῶν υἱοί. Ita 7un. Piſc. Tig. Munſt. Vatab. Pagn. Lud. de Dieu, aliique."
+      "text": "70. Καὶ ἐγένοντο ἐξ αὐτῶν υἱοί. Ita 7un. Pisc. Tig. Munst. Vatab. Pagn. Lud. de Dieu, aliique."
     },
     {
       "key": "page_0132-a",
       "n": 22,
-      "text": "3. Eſdr. IX. 36."
+      "text": "3. Esdr. IX. 36."
     },
     {
       "key": "page_0132-b",
@@ -309,79 +309,7 @@
     {
       "key": "page_0132-c",
       "n": 24,
-      "text": "70. Καὶ ἐγένοντο ἐξ αὐτῶν υἱοί. Ita 7un. Piſc. Tig. Munſt. Vatab. Pagn. Lud. de Dieu, aliique."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0123",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0124",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0125",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0126",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0127",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0128",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0129",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0130",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0131",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0132",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "70. Καὶ ἐγένοντο ἐξ αὐτῶν υἱοί. Ita 7un. Pisc. Tig. Munst. Vatab. Pagn. Lud. de Dieu, aliique."
     }
   ],
   "missing_footnotes": []

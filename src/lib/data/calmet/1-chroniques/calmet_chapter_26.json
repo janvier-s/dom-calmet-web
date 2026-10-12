@@ -9,10 +9,17 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FILIUS CORE DE FILIIS ASAPH.",
       "lemma": "Fils de Coré d'entre les fils d'Asaph.",
       "text": "Coré était de la race de Lévi, et de la branche de Caath. Mésélémie, dont il est parlé ici, était de la famille de Coré, et de la branche d'Asaph, nommé autrement Abi asaph, [5] fort différent d'Asaph célèbre Musicien. Nous ne lisons ici dans le ℣. 2. et 3. que sept fils de Mésélémie, et nous en trouvons dix-huit au ℣. 9. Mais au ℣. 9. on comprend les fils et les parents de Mésélémie. _Filii Meselemia, et fratres eorum robustissimi, decem et octo._"
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "SUBAEL FILIUS GERSON, FILII MOYSI.",
+      "lemma": "Subaël fils de Gerson, fils de Moïse.",
+      "text": "Subaël ne peut être fils immédiat de Gerson. De Moïse à David, il y a une trop longue distance ; Subaël était donc un des descendants de ce Gerson."
     },
     {
       "verse": 5,
@@ -51,7 +58,7 @@
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ZACHARIÆ FILIO EJUS PRUDENTISSIMO ET ERUDITO.",
       "lemma": "Zacharie son fils, qui était un homme très-sage et fort habile.",
       "text": "L'Hébreu. C'était un Conseiller intelligent. [10] _Consiliarius in intellectu._ Zacharie était fils de Mésélémie, ℣. 2."
@@ -72,7 +79,7 @@
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CUSTODIA CONTRA CUSTODIAM.",
       "lemma": "Ces Corps-de-gardes se répondaient l'un à l'autre, étaient postés vis-à-vis l'un de l'autre, ou à égale distance l'un de l'autre ; ou bien tous ces corps-de-gardes étaient disposés, et réglés de telle sorte, qu'ils suivaient tous le même ordre pour monter et pour relever la garde : ils entraient au service, et en sortaient tous en même temps, et dans une parfaite conformité.",
       "text": ""
@@ -86,7 +93,7 @@
     },
     {
       "verse": 17,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET UBI ERAT CONSILIUM BINI ET BINI.",
       "lemma": "Là où se tenait le conseil, ils étaient deux à deux.",
       "text": "C'est dans l'Hébreu, [18] le même terme qui a été examiné sur le ℣. 15. On pourrait traduire, et pour les offrandes qu'on faisait à la porte, deux à deux. Deux à chaque porte pour la garde des offrandes, et pour recevoir celles qu'on y venait présenter. Ces deux gardes étaient différents de ceux qui étaient simplement Portiers."
@@ -107,31 +114,17 @@
     },
     {
       "verse": 21,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FILII JEHIELI, ZATHAN ET JOEL FRATRES EJUS.",
       "lemma": null,
-      "text": "fils de Jéhiel, sont Zathan et Joël ses frères. Il paraît en effet par le chap. XXIII. des Paralipomènes, que Zathan et Joël étaient frères de Jahiel, et fils de Lédan ; comment donc peuvent-ils être en même temps fils de Jahiel ? Voici comme on pourrait traduire les"
-    },
-    {
-      "verse": 21,
-      "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "pour sauver cette contrariété ; _Voici les fils de Lédan Gersonite : De Lédan Gersonite sont sortis des chefs de famille, qui sont Jéhiel, et les fils de Jéhiel ; Zathan et Joël ses frères, ( frères de Jéhiel ) avaient la garde du trésor ; Jéhiel lui-même était aussi trésorier_, comme on le voit ci-après.[25]"
+      "text": "fils de Jéhiel, sont Zathan et Joël ses frères. Il paraît en effet par le chap. XXIII. des Paralipomènes, que Zathan et Joël étaient frères de Jahiel, et fils de Lédan ; comment donc peuvent-ils être en même temps fils de Jahiel ? Voici comme on pourrait traduire les pour sauver cette contrariété ; _Voici les fils de Lédan Gersonite : De Lédan Gersonite sont sortis des chefs de famille, qui sont Jéhiel, et les fils de Jéhiel ; Zathan et Joël ses frères, ( frères de Jéhiel ) avaient la garde du trésor ; Jéhiel lui-même était aussi trésorier_, comme on le voit ci-après.[25]"
     },
     {
       "verse": 23,
       "sub": false,
-      "latin_lemma": "AMRAMITIS, ET ISAARITIS, &c.",
+      "latin_lemma": "AMRAMITIS, ET ISAARITIS, etc.",
       "lemma": "avec ceux de la famille d'Amram et d'Isaar, etc.",
       "text": "Ceux-ci étaient aussi gardes du trésor. Caath fils de Lévi, eut pour fils Amram, Isaar, Hébron, et Oziel.[26] chefs des familles marquées ici."
-    },
-    {
-      "verse": 4,
-      "sub": false,
-      "latin_lemma": "SUBAEL FILIUS GERSON, FILII MOYSI.",
-      "lemma": "Subaël fils de Gerson, fils de Moïse.",
-      "text": "Subaël ne peut être fils immédiat de Gerson. De Moïse à David, il y a une trop longue distance ; Subaël était donc un des descendants de ce Gerson."
     },
     {
       "verse": 25,
@@ -163,7 +156,7 @@
     },
     {
       "verse": 30,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN CUNCTIS OPERIBUS DOMINI, ET IN MINISTERIUM REGIS.",
       "lemma": "Soit dans les choses qui regardaient le service du Seigneur, ou dans celles qui regardaient le service du Roi.",
       "text": "Puisque les Lévites étaient établis Juges, et officiers de justice, il faut limiter leurs fonctions à l'exercice de la justice contentieuse, tant pour ce qui regarde la religion, que pour ce qui regarde la police. Grotius veut qu'ils aient eu l'intendance sur les ouvriers qui travaillaient à préparer les bois et les pierres pour la structure du temple, et qu'ils aient exigé les tributs de la part du Roi."
@@ -211,6 +204,13 @@
       "mode": "flow",
       "before": "",
       "after": "fils de Jéhiel, sont Zathan et Joël ses frères. Il paraît "
+    },
+    {
+      "seam": "page_0288>page_0288",
+      "verse": 21,
+      "mode": "flow",
+      "before": "emps fils de Jahiel ? Voici comme on pourrait traduire les",
+      "after": "pour sauver cette contrariété ; _Voici les fils de Lédan G"
     },
     {
       "seam": "page_0289>page_0290",
@@ -282,7 +282,7 @@
     {
       "key": "page_0283-a",
       "n": 7,
-      "text": "Eſt. Lyr. Jun."
+      "text": "Est. Lyr. Jun."
     },
     {
       "key": "page_0283-b",
@@ -292,47 +292,47 @@
     {
       "key": "page_0284-a",
       "n": 9,
-      "text": "(a) אלה מחלקות השוערים לראשי הגברים משמרות לעמת אחיהם לשרת בבית יהוה"
+      "text": " אלה מחלקות השוערים לראשי הגברים משמרות לעמת אחיהם לשרת בבית יהוה"
     },
     {
       "key": "page_0284-b",
       "n": 10,
-      "text": "(b) יועץ בשכל"
+      "text": " יועץ בשכל"
     },
     {
       "key": "page_0284-c",
       "n": 11,
-      "text": "(c) בית האספים"
+      "text": " בית האספים"
     },
     {
       "key": "page_0284-d",
       "n": 12,
-      "text": "(d) 2. Eſdr. XII. 15. מספר באספי"
+      "text": " 2. Esdr. XII. 15. מספר באספי"
     },
     {
       "key": "page_0285-a",
       "n": 13,
-      "text": "4. Reg. XII. 10. & XXV. 18. & I. Par. IX. 11. & 2. Par. XXIII. 9. אספי שער ou אספי הסף 1. Par. IX. 23. & 2. Par. XXIII. 4."
+      "text": "4. Reg. XII. 10. et XXV. 18. et I. Par. IX. 11. et 2. Par. XXIII. 9. אספי שער ou אספי הסף 1. Par. IX. 23. et 2. Par. XXIII. 4."
     },
     {
       "key": "page_0285-b",
       "n": 14,
-      "text": "אסף Signifie le revenu de la terre dans Iſaïe XXIII. 10. & Mich. VII. 1. & Exod. XXXIV. 22. & XXIII. 16."
+      "text": "אסף Signifie le revenu de la terre dans Isaïe XXIII. 10. et Mich. VII. 1. et Exod. XXXIV. 22. et XXIII. 16."
     },
     {
       "key": "page_0285-c",
       "n": 15,
-      "text": "4. Reg. X. 12. XII. 10. Voyez auſſi 2. Par. IX. 11."
+      "text": "4. Reg. X. 12. XII. 10. Voyez aussi 2. Par. IX. 11."
     },
     {
       "key": "page_0285-d",
       "n": 16,
-      "text": "למערב עם שער שלכת במסלה העולה On dérive שלכת de שלך envoyer, rejetter, ou de qui, & לך aller."
+      "text": "למערב עם שער שלכת במסלה העולה On dérive שלכת de שלך envoyer, rejetter, ou de qui, et לך aller."
     },
     {
       "key": "page_0285-e",
       "n": 17,
-      "text": "Vide Iſaï VI. 13. והיתה לבער כאלה וכאלון אשר בשלכת _Vulg. Erit in oſtenſionem, ſicut terebinthus, & ſicut quercus quæ expandit ramos ſuos._"
+      "text": "Vide Isaï VI. 13. והיתה לבער כאלה וכאלון אשר בשלכת _Vulg. Erit in ostensionem, sicut terebinthus, et sicut quercus quæ expandit ramos suos._"
     },
     {
       "key": "page_0286-a",
@@ -367,7 +367,7 @@
     {
       "key": "page_0287-e",
       "n": 24,
-      "text": "1. Par. XXIII. 8. Filii Ledan, princeps Jehiel, & Zethan, & Joël, tres."
+      "text": "1. Par. XXIII. 8. Filii Ledan, princeps Jehiel, et Zethan, et Joël, tres."
     },
     {
       "key": "page_0288-a",
@@ -392,7 +392,7 @@
     {
       "key": "page_0289-c",
       "n": 29,
-      "text": "4. Reg. XI, 10. _Dedit eis haſtas & ar._"
+      "text": "4. Reg. XI, 10. _Dedit eis hastas et ar._"
     },
     {
       "key": "page_0289-d",
@@ -417,17 +417,17 @@
     {
       "key": "page_0290-a",
       "n": 34,
-      "text": "Serv. in Æneid. 3. Romani bella geſturi de parte prædæ aliquid Numinibus pollicebantur, unde Romæ templum fuit Jovis Prædatoris; non quòd præſit prædæ, ſed quia ex præda ei dabatur."
+      "text": "Serv. in Æneid. 3. Romani bella gesturi de parte prædæ aliquid Numinibus pollicebantur, unde Romæ templum fuit Jovis Prædatoris; non quòd præsit prædæ, sed quia ex præda ei dabatur."
     },
     {
       "key": "page_0290-b",
       "n": 35,
-      "text": "Jul. Cæſ. Comment. lib. 6."
+      "text": "Jul. Cæs. Comment. lib. 6."
     },
     {
       "key": "page_0290-c",
       "n": 36,
-      "text": "Juſtin. lib. 20."
+      "text": "Justin. lib. 20."
     },
     {
       "key": "page_0290-d",
@@ -452,98 +452,12 @@
     {
       "key": "page_0292-a",
       "n": 41,
-      "text": "Jun. Malv. Piſc."
+      "text": "Jun. Malv. Pisc."
     },
     {
       "key": "page_0292-b",
       "n": 42,
       "text": "מעבר לירדן מערבה"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0281",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0282",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0283",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0284",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0285",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0286",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0287",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0288",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0289",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0290",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0291",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0292",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

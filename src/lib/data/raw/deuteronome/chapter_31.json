@@ -176,15 +176,6 @@
     },
     {
       "verse_number": 20,
-      "latin": "Et diligas Dominum Deum tuum, atque obedias voci ejus, et illi adhaereas (ipse est enim vita tua, et longitudo dierum tuorum) ut habites in terra, pro qua juravit Dominus patribus tuis, Abraham, Isaac, et Jacob, ut daret eam illis.",
-      "french": "Que vous aimiez le Seigneur votre Dieu, que vous obéissiez à sa voix, et que vous demeuriez attachés à lui (comme étant votre vie, et celui qui vous doit donner une longue suite d'années) afin que vous habitiez le pays que le Seigneur a promis avec serment à vos pères Abraham, Isaac et Jacob.",
-      "annotations": null,
-      "source_pages": [
-        "page_0395.json"
-      ]
-    },
-    {
-      "verse_number": 20,
       "latin": "Introducam enim eum in terram, pro qua juravi patribus ejus, lacte et melle manantem: Cumque comederint, et saturati, crassique fuerint, avertentur ad deos alienos, et servient eis ; detrahentque mihi, et irritum facient pactum meum.",
       "french": "Car je les ferai entrer dans la terre que j'ai juré de donner à leurs pères, où coulent des ruisseaux de lait et de miel. Et lorsqu'ils auront mangé, et qu'ils se feront rassasiés et engraissés, ils se détourneront de moi pour aller après des dieux étrangers ; ils les adoreront, ils parleront contre moi, et ils violeront mon alliance.",
       "annotations": null,
@@ -260,6 +251,24 @@
       "annotations": null,
       "source_pages": [
         "page_0403.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Novi enim quod post mortem meam inique agetis, et declinabitis cito de via quam præcepi vobis : et occurrent vobis mala in extremo tempore, quando feceritis malum in conspectu Domini, ut irritetis eum per opera manuum vestrarum.",
+      "french": "Car je sais qu'après ma mort vous vous conduirez fort mal, que vous vous détournerez bientôt de la voie que je vous ai prescrite: et vous vous trouverez enfin surpris de beaucoup de maux, lorsque vous aurez péché devant le Seigneur, en l'irritant par les œuvres de vos mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0404.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Locutus est ergo Moyses, audiente universo cœtu Israël, verba carminis hujus, et ad finem usque complevit.",
+      "french": "Moïse prononça donc les paroles de ce cantique, et il le récita jusqu'à la fin, devant tout le peuple d'Israël qui l'écoutait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0404.json"
       ]
     }
   ]

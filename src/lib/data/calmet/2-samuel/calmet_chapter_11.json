@@ -9,7 +9,7 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VASTAVERUNT FILIOS AMMON.",
       "lemma": "Ils ravagèrent le pays des Ammonites.",
       "text": "L'affront que les Ammonites avaient fait à David dans la personne de ses Ambassadeurs, n'avait point été assez puni par la guerre qu'on leur avait faite deux ans auparavant. Tout l'effort de cette guerre était tombé sur les troupes auxiliaires venues de Syrie et des environs. Les enfants d'Ammon s'étaient sauvés dans leur ville, [2] et leur défaite n'avait pas été considérable. L'année suivante David crut qu'il fallait achever de dompter la Syrie, qui s'était révoltée, et dont les forces étaient plus redoutables que celles des Ammonites. Mais il n'oublia point les premiers auteurs de ces troubles ; aussitôt que la saison de se mettre en campagne fut arrivée, il envoya Joab contre Ammon, qui avait ajouté à la violation du droit des gens, le crime de susciter contre David les Syriens, et les peuples de Mésopotamie. Voilà le sujet de la guerre que nous allons voir."
@@ -23,14 +23,14 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VIDIT MULIEREM SE LAVANTEM EX ADVERSO SUPER SOLARIUM SUUM.",
       "lemma": "Il vit une femme vis-à-vis de lui, qui se baignait sur sa terrasse.",
       "text": "David étant monté sur le toit, ou sur la terrasse de sa maison, vit sur le toit d'une autre maison, Bethsabée qui se baignait dans un bain domestique, selon la coutume des Hébreux, qui sont obligés d'user du bain dans plusieurs rencontres, pour se purifier de leurs souillures légales. Le Texte Hébreu ne dit pas que Bethsabée se baignât sur son toit ; [4] mais seulement que David de dessus le toit de son Palais, la vit qui se baignait ; elle pouvait être ou dans son jardin, ou dans sa cour ; car les Juifs ont ordinairement leurs bains, dans des lieux exposés à l'air.\n\nLe père de Bethsabée est nommé Ammiel dans les Paralipomènes,[5] par une transposition de lettre, qui ne change rien à la signification littérale de ce terme; Eliam et Ammiel signifient l'un et l'autre, _mon peuple est à Dieu_. Les Juifs [6] croient qu'Achitophel était père d'Ammiel, et par conséquent aïeul de Bethsabée; ce qui est confirmé par l'Écriture, [7] qui appelle Eliam fils d'Achitophel. Il y en a même [8] qui poussent la conjecture jusqu'à dire, que ce fut pour venger l'outrage que David avait fait à l'honneur de Bethsabée, qu'Achitophel se rangea dans la suite contre lui dans le parti d'Absalom."
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UXOR URIÆ HETHÆI.",
       "lemma": "Femme d'Urie Héthéen.",
       "text": "Urie fut surnommé Héthéen, ou à cause de son origine, ayant pu quitter la Religion des Cananéens, pour prendre celle des Hébreux; ou pour avoir demeuré longtemps, lui, ou quelques-uns de ses aïeux, avec les Héthéens; ou enfin pour avoir fait quelque action de valeur contre eux : c'est ainsi qu'on a vu des Romains surnommés _Africanus_, _Germanicus_, _Parthicus_, à cause de leurs victoires contre les Africains, les Germains, et les Parthes."
@@ -44,8 +44,8 @@
     },
     {
       "verse": 4,
-      "sub": true,
-      "latin_lemma": "Dedecus hoc ſumptâ diſſimulavit aquâ.",
+      "sub": false,
+      "latin_lemma": "Dedecus hoc sumptâ dissimulavit aquâ.",
       "lemma": null,
       "text": "D'autres traduisent l'Hébreu [10] par : _Et elle s'était purifiée par le bain de sa souillure, ou de l'incommodité propre à son sexe._ [11] _Hoc ideò additum_, dit Grotius, _ne miraremur illicò eam concepisse._ [12]"
     },
@@ -95,8 +95,8 @@
       "verse": 21,
       "sub": false,
       "latin_lemma": "ABIMELECH FILIUM JEROBAAL.",
-      "lemma": "Abimélech fils de Jérobaal, ou de Gédéon, car on sait que Gédéon avait deux noms.",
-      "text": "Le Texte Hébreu au lieu de Jérobaal, lit, _Jérobéset_ ; les Juifs évitaient de prononcer le nom de Baal, parce qu'il leur rappelait le nom d'une idole; ils lui substituaient celui de _Béset_, qui signifie confusion. honte, ignominie. Miphiboseth et Isboseth s'appelaient de leur nom Miphibaal, et Isbaal ; on les a défigurés, de même que Jéroboset."
+      "lemma": "_Abimélech fils de Jérobaal_, ou de Gédéon, car on sait que Gédéon avait deux noms.",
+      "text": "Le Texte Hébreu au lieu de Jérobaal, lit, _Jérobéset_ ; les Juifs évitaient de prononcer le nom de Baal, parce qu'il leur rappelait le nom d'une idole; ils lui substituaient celui de _Béset_, qui signifie confusion, honte, ignominie. Miphiboseth et Isboseth s'appelaient de leur nom Miphibaal, et Isbaal ; on les a défigurés, de même que Jéroboset."
     },
     {
       "verse": 26,
@@ -159,8 +159,8 @@
     {
       "seam": "page_0112>page_0113",
       "verse": 21,
-      "mode": "hyphen",
-      "before": "ui substituaient celui de _Béset_, qui signifie confusion.",
+      "mode": "flow",
+      "before": "dole; ils lui substituaient celui de _Béset_, qui signifie",
       "after": "confusion, honte, ignominie. Miphiboseth et Isboseth s'app"
     },
     {
@@ -191,7 +191,7 @@
     {
       "key": "page_0107-a",
       "n": 2,
-      "text": "2. Reg. X. 14. Filii autem Ammon videntes quod fugiſſent Syri, fugerunt & ipſi à facie Abiſaï."
+      "text": "2. Reg. X. 14. Filii autem Ammon videntes quod fugissent Syri, fugerunt et ipsi à facie Abisaï."
     },
     {
       "key": "page_0107-b",
@@ -226,7 +226,7 @@
     {
       "key": "page_0108-e",
       "n": 9,
-      "text": "Levit. XV. 16. _Vir de quo egreditur ſemen coitûs, lavabit aquâ omne corpus ſuum, & immundus erit uſque ad veſperum._ 18. _Mulier cum quâ coierit, lavabitur aquâ, & immunda erit uſque ad veſperum._"
+      "text": "Levit. XV. 16. _Vir de quo egreditur semen coitûs, lavabit aquâ omne corpus suum, et immundus erit usque ad vesperum._ 18. _Mulier cum quâ coierit, lavabitur aquâ, et immunda erit usque ad vesperum._"
     },
     {
       "key": "page_0109-a",
@@ -241,17 +241,17 @@
     {
       "key": "page_0109-c",
       "n": 12,
-      "text": "Ariſtot. Hiſt. Animant. lib. 7. c. 20, §. 6."
+      "text": "Aristot. Hist. Animant. lib. 7. c. 20, §. 6."
     },
     {
       "key": "page_0109-d",
       "n": 13,
-      "text": "Jun. Piſc. Malv. Mart."
+      "text": "Jun. Pisc. Malv. Mart."
     },
     {
       "key": "page_0110-a",
       "n": 14,
-      "text": "Vide Athen. lib. 5. c. 2. Η' τῶ βασιλέως ξενῶν, καὶ παρεπιδημούντων τοῖς δεριφόροις πιςεύεται. Vide & Cteſiam de Perſis."
+      "text": "Vide Athen. lib. 5. c. 2. Η' τῶ βασιλέως ξενῶν, καὶ παρεπιδημούντων τοῖς δεριφόροις πιςεύεται. Vide et Ctesiam de Persis."
     },
     {
       "key": "page_0110-b",
@@ -286,82 +286,17 @@
     {
       "key": "page_0114-b",
       "n": 21,
-      "text": "Vide apud Toſt. Sand. Grot. ad. 7. 4."
+      "text": "Vide apud Tost. Sand. Grot. ad. 7. 4."
     },
     {
       "key": "page_0114-c",
       "n": 22,
-      "text": "Voyez le chap. XII. ℣. 1. 2. & ſuiv."
+      "text": "Voyez le chap. XII. ℣. 1. 2. et suiv."
     },
     {
       "key": "page_0114-d",
       "n": 23,
-      "text": "Vide Pſal. L."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0106",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0107",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0108",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0109",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0110",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0111",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0112",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0113",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0114",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Vide Psal. L."
     }
   ],
   "missing_footnotes": []

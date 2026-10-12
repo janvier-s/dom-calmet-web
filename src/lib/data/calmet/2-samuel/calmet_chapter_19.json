@@ -16,7 +16,7 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ABSALOM FILI MI.",
       "lemma": "Absalon mon fils, etc.",
       "text": "L'Hébreu : _Absalon mon fils, mon fils Absalon, mon fils._ Voyez ci-devant, chapitre XVIII. 30. Ces répétitions sont du stile des Cantiques du deüil. Virgile : [2]\n. . . . . . _Daphninque tuum tollemus ad astra_,\n_Daphnin ad astra feremus, amavit nos quoque Daphnis._"
@@ -107,7 +107,7 @@
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AN IGNORO ME HODIE FACTUM REGEM?",
       "lemma": "Puis-je oublier que je deviens aujourd'hui Roi d'Israël ?",
       "text": "Je ne veux pas que ce jour soit troublé par le supplice de qui que ce soit. C'est comme le premier jour de mon avènement à la Couronne. On avait accoutumé anciennement de délivrer les prisonniers au jour que les Princes montaient sur le trône. On s'abstenait de faire mourir les criminels les jours de bonne Fête ; et nous voyons que dans la fête de Pâque, le Gouverneur de la Judée donnait la vie à un criminel, au choix du peuple.[21] On avait ce respect pour l'Empereur Auguste, de ne faire mourir personne, le jour qu'il entrait dans la ville de Rome.[22]"
@@ -124,7 +124,28 @@
       "sub": false,
       "latin_lemma": "ILLOTIS PEDIBUS, ET INTONSA BARBA.",
       "lemma": null,
-      "text": "S'abstenir du bain, et surtout de se laver les pieds, était une grande mortification, et une marque de deuil. Les Hébreux coupaient la barbe de la lèvre d'en haut, et celles des joues, mais non pas celle du menton, et depuis le menton, jusqu'aux oreilles. C'est donc ce que les Juifs avaient coutume de couper, que Miphiboseth n'avait pas fait. On sait d'ailleurs que se couper toute la barbe parmi eux, était une marque de deuil défendue par la Loi, [26] surtout lorsque cela se faisait en l'honneur des fausses Divinités. Ainsi c'était parmi les Hébreux, de même que parmi les Romains, également une cérémonie lugubre, et de se couper entièrement les cheveux, et la barbe, et de les laisser croître négligemment, sans les faire.\n\nL'Hébreu à la lettre : L'Auteur des Traditions Hébraïques sur les Livres des Rois, dit, après les Rabbins, que Miphiboseth n'avait pas ses pieds postiches, ou ses jambes de bois, pendant tout le temps de l'absence de David. D'autres [27] croient que ce Prince s'était simplement abstenu de laver ses pieds ; ce que les Juifs avaient accoutumé de faire souvent, à cause de la mauvaise odeur qui leur est naturelle, comme un effet de leur tempérament, de même qu'à quelques Arabes, et à quelques autres peuples. D'où vient que les Anciens les appellent _Puants_ ; [28] et que quelques Pères ont cru que le baptême leur ôtait cette mauvaise odeur. [29] Les Septante de l'Édition Romaine portent : Le Texte Hébreu, ni la Vulgate, ni les Septante de l'Éédition de Complute ; ne parlent point de faire ses ongles."
+      "text": ""
+    },
+    {
+      "verse": 24,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "n'avait ni lavé ses pieds, ni fait sa barbe.",
+      "text": "S'abstenir du bain, et surtout de se laver les pieds, était une grande mortification, et une marque de deuil. Les Hébreux coupaient la barbe de la lèvre d'en haut, et celles des joues, mais non pas celle du menton, et depuis le menton, jusqu'aux oreilles. C'est donc ce que les Juifs avaient coutume de couper, que Miphiboseth n'avait pas fait. On sait d'ailleurs que se couper toute la barbe parmi eux, était une marque de deuil défendue par la Loi, [26] surtout lorsque cela se faisait en l'honneur des fausses Divinités. Ainsi c'était parmi les Hébreux, de même que parmi les Romains, également une cérémonie lugubre, et de se couper entièrement les cheveux, et la barbe, et de les laisser croître négligemment, sans les faire."
+    },
+    {
+      "verse": 24,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "(b) Il n'avait point fait ses pieds, et il n'avait point sa lèvre.",
+      "text": "L'Hébreu à la lettre : L'Auteur des Traditions Hébraïques sur les Livres des Rois, dit, après les Rabbins, que Miphiboseth n'avait pas ses pieds postiches, ou ses jambes de bois, pendant tout le temps de l'absence de David. D'autres [27] croient que ce Prince s'était simplement abstenu de laver ses pieds ; ce que les Juifs avaient accoutumé de faire souvent, à cause de la mauvaise odeur qui leur est naturelle, comme un effet de leur tempérament, de même qu'à quelques Arabes, et à quelques autres peuples. D'où vient que les Anciens les appellent _Puants_ ; [28] et que quelques Pères ont cru que le baptême leur ôtait cette mauvaise odeur. [29]"
+    },
+    {
+      "verse": 24,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "(f) Il n'avait pas pansé ses pieds, ni fait ses ongles, ni fait sa moustache, ou sa lèvre d'en haut.",
+      "text": "Les Septante de l'Édition Romaine portent : Le Texte Hébreu, ni la Vulgate, ni les Septante de l' édition de Complute ; ne parlent point de faire ses ongles."
     },
     {
       "verse": 25,
@@ -163,7 +184,7 @@
     },
     {
       "verse": 31,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PARATUS ETIAM VLTRA FLUVIUM PROSEQUI.",
       "lemma": "Berzellaï aida le Roi à passer le Jourdain, et il était prêt à le conduire encore au-delà du fleuve.",
       "text": "Ce bon vieillard passa le fleuve, comme il est marqué au ℣. 36. et accompagna le Roi encore un peu au-delà ; ce fut alors qu'il prit congé du Roi, et qu'il lui dit avec cette admirable naïveté, qu'on ne voit plus nulle part, qu'il est trop vieux pour goûter les plaisirs de la Cour."
@@ -205,7 +226,7 @@
     },
     {
       "verse": 43,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET NON MIHI NUNTIATUM EST PRIORI?",
       "lemma": "Pourquoi n'avons-nous pas été avertis les premiers?",
       "text": "On peut traduire l'Hébreu par : [36] _N'ai-je pas parlé le premier pour ramener le Roi?_ Il était vrai que les tribus d'Israël avaient commencé à parler de ramener le Roi, avant que Juda se fût mis en devoir de le faire; d'où vient que David envoya dire à cette tribu: _Pourquoi voulez-vous venir les derniers pour ramener le Roi?_"
@@ -236,8 +257,8 @@
     {
       "seam": "page_0208>page_0209",
       "verse": 16,
-      "mode": "hyphen",
-      "before": "s contre David, lorsque ce Prince fut obligé de se sauver.",
+      "mode": "flow",
+      "before": "récations contre David, lorsque ce Prince fut obligé de se",
       "after": "sauver. Pour tâcher d'effacer sa faute, il se hâte de veni"
     },
     {
@@ -255,38 +276,17 @@
       "after": "le Gouverneur de la Judée donnait la vie à un criminel, au"
     },
     {
-      "seam": "page_0211>page_0212",
-      "verse": 24,
-      "mode": "flow",
-      "before": "",
-      "after": "S'abstenir du bain, et surtout de se laver les pieds, étai"
-    },
-    {
-      "seam": "page_0212>page_0212",
-      "verse": 24,
-      "mode": "para",
-      "before": "e, et de les laisser croître négligemment, sans les faire.",
-      "after": "L'Hébreu à la lettre : L'Auteur des Traditions Hébraïques "
-    },
-    {
-      "seam": "page_0212>page_0212",
-      "verse": 24,
-      "mode": "flow",
-      "before": "baptême leur ôtait cette mauvaise odeur. ^{fn:page_0212-e}",
-      "after": "Les Septante de l'Édition Romaine portent : Le Texte Hébre"
-    },
-    {
       "seam": "page_0212>page_0213",
       "verse": 24,
-      "mode": "splice",
+      "mode": "refrag",
       "before": " : Le Texte Hébreu, ni la Vulgate, ni les Septante de l'É-",
       "after": "édition de Complute ; ne parlent point de faire ses ongles"
     },
     {
       "seam": "page_0216>page_0217",
       "verse": 42,
-      "mode": "hyphen",
-      "before": "Est-ce l’intérêt qui nous",
+      "mode": "flow",
+      "before": "Est-ce l’intérêt qui",
       "after": "nous a porté à venir chercher le Roi? Pourquoi êtes-vous j"
     }
   ],
@@ -310,12 +310,12 @@
     {
       "key": "page_0204-a",
       "n": 1,
-      "text": "70, ויחגנב העם לבוא העיר. Δικλίωισιν. Alias. Δικείωσιν. Il ſe ſépara."
+      "text": "70, ויחגנב העם לבוא העיר. Δικλίωισιν. Alias. Δικείωσιν. Il se sépara."
     },
     {
       "key": "page_0205-a",
       "n": 2,
-      "text": "Virgil. Eclog. V. & Bionis Idyll. 1. ¦ [UNCERTAIN GREEK] Αἰάζω τω Ἄδωνιν. Αἰάζειν καλὸς Ἄδωνις. Ω- ¦ Ita ſapius in hoc poëma"
+      "text": "Virgil. Eclog. V. et Bionis Idyll. 1. ¦ [UNCERTAIN GREEK] Αἰάζω τω Ἄδωνιν. Αἰάζειν καλὸς Ἄδωνις. Ω- ¦ Ita sapius in hoc poëma"
     },
     {
       "key": "page_0206-a",
@@ -325,7 +325,7 @@
     {
       "key": "page_0206-b",
       "n": 4,
-      "text": "Tacit. de primo Anton'o, lib. 4. Hiſt. Immodicus linguâ, obſequii inſolens, nimius commemorandis quæ meruiſſet."
+      "text": "Tacit. de primo Anton'o, lib. 4. Hist. Immodicus linguâ, obsequii insolens, nimius commemorandis quæ meruisset."
     },
     {
       "key": "page_0206-c",
@@ -340,12 +340,12 @@
     {
       "key": "page_0206-e",
       "n": 7,
-      "text": "Joſue X. 12."
+      "text": "Josue X. 12."
     },
     {
       "key": "page_0206-f",
       "n": 8,
-      "text": "Pſal. XXXIV. 22. Vide & XXXVIII. 13. & XLIX. 3."
+      "text": "Psal. XXXIV. 22. Vide et XXXVIII. 13. et XLIX. 3."
     },
     {
       "key": "page_0207-a",
@@ -365,17 +365,17 @@
     {
       "key": "page_0209-a",
       "n": 12,
-      "text": "Ita ſonat ועברה העברה להעביר את בית המלך 70. Kai διέβη ἡ διάβασις τõ διαβιβάσαι τὸν Βασιλέα."
+      "text": "Ita sonat ועברה העברה להעביר את בית המלך 70. Kai διέβη ἡ διάβασις τõ διαβιβάσαι τὸν Βασιλέα."
     },
     {
       "key": "page_0209-b",
       "n": 13,
-      "text": "Ita & Pagn. Mont. Jun."
+      "text": "Ita et Pagn. Mont. Jun."
     },
     {
       "key": "page_0210-a",
       "n": 14,
-      "text": "Vide Pſal. LXXIX. I. LXXX. 6. LXXVI. 16. Zach. x. 6."
+      "text": "Vide Psal. LXXIX. I. LXXX. 6. LXXVI. 16. Zach. x. 6."
     },
     {
       "key": "page_0210-b",
@@ -400,12 +400,12 @@
     {
       "key": "page_0210-f",
       "n": 19,
-      "text": "Vide I. Par. XXI. I. I. Eſdr. IV. 6. Pſal. CVIII 6. Zach. III. I. 2."
+      "text": "Vide I. Par. XXI. I. I. Esdr. IV. 6. Psal. CVIII 6. Zach. III. I. 2."
     },
     {
       "key": "page_0210-g",
       "n": 20,
-      "text": "Apoc. XII. 10. _Projectus eſt accuſator fratrum noſtrorum, qui accuſabat illos antè conſpectum Dei noſtri_."
+      "text": "Apoc. XII. 10. _Projectus est accusator fratrum nostrorum, qui accusabat illos antè conspectum Dei nostri_."
     },
     {
       "key": "page_0211-a",
@@ -415,12 +415,12 @@
     {
       "key": "page_0211-b",
       "n": 22,
-      "text": "Sueton. in Aug. c. 57. _Obſervatum eſt ne quoties introiret urbem, ſupplicium de quoquam ſumeretur._"
+      "text": "Sueton. in Aug. c. 57. _Observatum est ne quoties introiret urbem, supplicium de quoquam sumeretur._"
     },
     {
       "key": "page_0211-c",
       "n": 23,
-      "text": "3. Reg. II. 8. 9. _Tu noli pati cum eſſe innoxium .... deducéſque canos ejus cum ſanguine ad inferos._"
+      "text": "3. Reg. II. 8. 9. _Tu noli pati cum esse innoxium .... deducésque canos ejus cum sanguine ad inferos._"
     },
     {
       "key": "page_0211-d",
@@ -430,12 +430,12 @@
     {
       "key": "page_0211-e",
       "n": 25,
-      "text": "Idem de jure Belli & Pac. lib. 2. c. 13. art. 17."
+      "text": "Idem de jure Belli et Pac. lib. 2. c. 13. art. 17."
     },
     {
       "key": "page_0212-a",
       "n": 26,
-      "text": "Levit. XXI. 5. Voyez ce qu'on a dit dans la Diſſertation ſur Chamos."
+      "text": "Levit. XXI. 5. Voyez ce qu'on a dit dans la Dissertation sur Chamos."
     },
     {
       "key": "page_0212-c",
@@ -445,12 +445,12 @@
     {
       "key": "page_0212-d",
       "n": 28,
-      "text": "Martial. lib. 4. c. 4. Quod ficca redolent palus lacuna, Quod jejunia Sabbatoriorum; Mallem quàm quod oles, olere, Baſſa. Ammian. lib. 2. de Marco Imper. Cum Palæſtinam tranſiret, ſatentium Judæorum & tumultuantium ſape tædio percitur, &c."
+      "text": "Martial. lib. 4. c. 4. Quod ficca redolent palus lacuna, Quod jejunia Sabbatoriorum; Mallem quàm quod oles, olere, Bassa. Ammian. lib. 2. de Marco Imper. Cum Palæstinam transiret, satentium Judæorum et tumultuantium sape tædio percitur, etc."
     },
     {
       "key": "page_0212-e",
       "n": 29,
-      "text": "Voyez Baſnage, Hiſtoire des Juifs, tom. 3. pag. 194. 195."
+      "text": "Voyez Basnage, Histoire des Juifs, tom. 3. pag. 194. 195."
     },
     {
       "key": "page_0213-a",
@@ -465,7 +465,7 @@
     {
       "key": "page_0214-a",
       "n": 32,
-      "text": "Vide ſi lubet Lir. Menoc. Eſt. Grot. Cornel."
+      "text": "Vide si lubet Lir. Menoc. Est. Grot. Cornel."
     },
     {
       "key": "page_0214-b",
@@ -486,106 +486,6 @@
       "key": "page_0217-a",
       "n": 36,
       "text": "ולא היה דברי ראשון לי להשיב את מלכי"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0204",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0205",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0206",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0207",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0208",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0209",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0210",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0211",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0212",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0213",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0214",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0215",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0216",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0217",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

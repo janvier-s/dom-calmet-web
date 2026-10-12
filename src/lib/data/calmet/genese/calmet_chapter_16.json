@@ -5,7 +5,7 @@
       "sub": false,
       "latin_lemma": "HABENS ANCILLAM ÆGYPTIAM NOMINE AGAR.",
       "lemma": "Elle avait une servante Égyptienne nommée Agar.",
-      "text": "Saint Chrysostome [1] croit qu'Agar était une des esclaves que Pharaon avait données à Abraham, pendant que ce Patriarche était en Égypte. Les Rabbins assurent même qu'Agar était fille de Pharaon : Mais on sait quelle est l'exactitude et l'habileté des Rabbins en fait d'histoire. Agar a donné son nom à la ville d'Agar ou Petra, capitale de l'Arabie Pétrée ; et aux peuples nommés anciennement _Agareni_ [2], ou _Agrai_, et aujourd'hui Sarrasins ; non pas à cause de Sara, comme le veulent quelques-uns, mais plutôt à cause de leurs brigandages. L'Arabe _Saraka_ [3], signifie, voler, dérober."
+      "text": "Saint Chrysostome [1] croit qu'Agar était une des esclaves que Pharaon avait données à Abraham, pendant que ce Patriarche était en Égypte. Les Rabbins assurent même qu'Agar était fille de Pharaon : Mais on sait quelle est l'exactitude et l'habileté des Rabbins en fait d'histoire. Agar a donné son nom à la ville d'Agar ou Petra, capitale de l'Arabie Pétrée ; et aux peuples nommés anciennement _Agareni_ [2], ou _Agrai_, et aujourd'hui Sarrasins ; non pas à cause de Sara, comme le veulent quelques-uns, mais plutôt à cause de leurs brigandages. L'Arabe _Saraka_ [3], signifie, voler, dérober."
     },
     {
       "verse": 2,
@@ -16,59 +16,66 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CUMQUE ACQUIESCERET DEPRECANTI.",
       "lemma": "Abraham s'étant rendu",
-      "text": "sa prière. Abraham ne se porte à épouser Agar, que pressé par les sollicitations de Sara son épouse ; et ce n'est que par un mouvement de l'Esprit de Dieu que Sara engage Abraham dans ce second mariage ; si on en croit Joseph [6]. Ce ne fut ni par mépris pour Sara, ni pour satisfaire son incontinence, qu'Abraham se détermine à épouser cette Égyptienne. Son premier motif [7] fut d'avoir des enfants, sur qui les promesses de Dieu pussent tomber ; et il ne fit rien dans cette rencontre, qu'après avoir consulté le Seigneur : Enfin dans ce temps-là la Polygamie était autorisée par la coutume, et tolérée de Dieu même ; sans quoi elle n'aurait pu être justifiée par aucun bon motif [8], selon cette règle de Morale, que les choses mauvaises de leur nature, ne peuvent jamais devenir bonnes par l'intention de celui qui les fait. On a montré en parlant de Lamech, que la Polygamie n'est point contraire au Droit naturel, quoiqu'elle soit opposée à la première institution du Mariage. Dieu jugea à propos de changer pour un temps cette disposition primitive, en transportant, dit Grotius, à plusieurs femmes, le droit qu'il n'avait donné dans les commencements, qu'à une femme sur son mari. Les Juifs n'ont plus à présent la liberté d'avoir plusieurs femmes, ni dans l'Orient, ni dans l'Occident ; les Empereurs Théodose, Arcade et Honorius le leur défendirent par leurs rescrits. Les Mahométans, qui se la permettent à eux-mêmes, ne la permettent pas aux Juifs dans leur Empire."
+      "text": ""
+    },
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "à sa prière.",
+      "text": "Abraham ne se porte à épouser Agar, que pressé par les sollicitations de Sara son épouse ; et ce n'est que par un mouvement de l'Esprit de Dieu que Sara engage Abraham dans ce second mariage ; si on en croit Joseph [6]. Ce ne fut ni par mépris pour Sara, ni pour satisfaire son incontinence, qu'Abraham se détermine à épouser cette Égyptienne. Son premier motif [7] fut d'avoir des enfants, sur qui les promesses de Dieu pussent tomber ; et il ne fit rien dans cette rencontre, qu'après avoir consulté le Seigneur : Enfin dans ce temps-là la Polygamie était autorisée par la coutume, et tolérée de Dieu même ; sans quoi elle n'aurait pu être justifiée par aucun bon motif [8], selon cette règle de Morale, que les choses mauvaises de leur nature, ne peuvent jamais devenir bonnes par l'intention de celui qui les fait. On a montré en parlant de Lamech, que la Polygamie n'est point contraire au Droit naturel, quoiqu'elle soit opposée à la première institution du Mariage. Dieu jugea à propos de changer pour un temps cette disposition primitive, en transportant, dit Grotius, à plusieurs femmes, le droit qu'il n'avait donné dans les commencements, qu'à une femme sur son mari. Les Juifs n'ont plus à présent la liberté d'avoir plusieurs femmes, ni dans l'Orient, ni dans l'Occident ; les Empereurs Théodose, Arcade et Honorius le leur défendirent par leurs rescrits. Les Mahométans, qui se la permettent à eux-mêmes, ne la permettent pas aux Juifs dans leur Empire."
     },
     {
       "verse": 3,
       "sub": false,
-      "latin_lemma": "POST ANNOS DECEM QUAM HABITARE COeperant IN TERRA CANAAN, ET DEDIT EAM VIRO SUO UXO-",
+      "latin_lemma": "POST ANNOS DECEM QUAM HABITARE COEPERANT IN TERRA CANAAN, ET DEDIT EAM VIRO SUO UXO-",
       "lemma": null,
-      "text": "REM. Elle la donna pour femme à son mari, dix ans après qu'ils eurent commencé de demeurer dans le pays de Canaan. Les Rabbins [9] assurent que c'est une loi très ancienne parmi ceux de leur nation, que si une femme n'a point eu d'enfants durant les dix premières années de son mariage, le mari en doit prendre une seconde. Je ne sais si la conduite d'Abraham a donné lieu à cette loi, dont l'antiquité m'est fort suspecte. Abraham avait alors quatre-vingt-cinq ans, et Sara soixante-quinze."
+      "text": ""
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "REM.",
+      "lemma": "Elle la donna pour femme à son mari, dix ans après qu'ils eurent commencé de demeurer dans le pays de Canaan.",
+      "text": "Les Rabbins [9] assurent que c'est une loi très ancienne parmi ceux de leur nation, que si une femme n'a point eu d'enfants durant les dix premières années de son mariage, le mari en doit prendre une seconde. Je ne sais si la conduite d'Abraham a donné lieu à cette loi, dont l'antiquité m'est fort suspecte. Abraham avait alors quatre-vingt-cinq ans, et Sara soixante-quinze."
     },
     {
       "verse": 5,
       "sub": false,
       "latin_lemma": "INIQUE AGIS CONTRA ME.",
-      "lemma": "Vous ne me faites pas justice; l'Hébreu porte [12] : Vous êtes coupable de l'injure que l'on me fait; ou, l'injure que l'on me fait retombe sur vous.",
-      "text": "Le mépris qu'Agar fait de ma personne, est un mépris qu'elle fait de vous-même, qui êtes mon frère et mon époux : Ou plutôt, selon les 70. [10] _Je souffre cette injure, cet outrage à votre occasion, ou de votre part._ Saint Chrysostome [11] croit que Sara par une faiblesse assez naturelle à son sexe, se plaint de la trop grande indulgence d'Abraham pour Agar; comme si par un mépris qu'elle s'imaginait qu'il eût pour elle, il autorisait sa servante dans celui qu'elle témoignait à sa maîtresse. Le Chaldéen l'entend de cette sorte : _Judicium habeo contra te, ou super te._ J'ai à me plaindre de vous, etc. _J'ai une affaire, un procès à vider avec vous. Judicet Dominus inter me et te_ : Que le Seigneur soit Juge entre vous et moi. Ces paroles marquent de l'émotion et du chagrin dans Sara, et même quelque espèce de menace. On peut traduire l'Hébreu, _Judicabit Dominus_, etc. Le Seigneur me vengera, etc."
+      "lemma": "Vous ne me faites pas justice ; l'Hébreu porte [12] : Vous êtes coupable de l'injure que l'on me fait ; ou, l'injure que l'on me fait retombe sur vous.",
+      "text": "Le mépris qu'Agar fait de ma personne, est un mépris qu'elle fait de vous-même, qui êtes mon frère et mon époux : Ou plutôt, selon les 70. [10] _Je souffre cette injure, cet outrage à votre occasion, ou de votre part._ Saint Chrysostome [11] croit que Sara par une faiblesse assez naturelle à son sexe, se plaint de la trop grande indulgence d'Abraham pour Agar ; comme si par un mépris qu'elle s'imaginait qu'il eût pour elle, il autorisait sa servante dans celui qu'elle témoignait à sa maîtresse. Le Chaldéen l'entend de cette sorte : _Judicium habeo contra te, ou super te._ J'ai à me plaindre de vous, etc. _J'ai une affaire, un procès à vider avec vous. Judicet Dominus inter me et te_ : Que le Seigneur soit Juge entre vous et moi. Ces paroles marquent de l'émotion et du chagrin dans Sara, et même quelque espèce de menace. On peut traduire l'Hébreu, _Judicabit Dominus_, etc. Le Seigneur me vengera, etc."
     },
     {
       "verse": 6,
       "sub": false,
-      "latin_lemma": "ECCE ANCILLA TUA IN MANU TUA EST; UTERE EA UT LIBET.",
-      "lemma": "Voilà votre servante; elle est entre vos mains : usez-en avec elle comme il vous plaira.",
-      "text": "On voit par ce passage et par tout ce qui suit, que les esclaves que leur maître épousait et qu'il prenait en qualité de femmes du second rang, _Uxor secundaria_, n'étaient pas pour cela affranchies de la dépendance qu'elles devaient à leur maître et à leur maîtresse, qui était la femme principale et la mère de famille: Abraham laisse à Sara le droit de vie et de mort [13] qu'il avait sur Agar en qualité de maître et d'époux. Tel était l'ancien droit chez presque tous les peuples. Abraham pour guérir l'esprit de Sara, et pour lui persuader qu'il n'a point de part aux insolences d'Agar, lui remet cette servante entre les mains; il lui en laisse le jugement et la punition. [14]"
+      "latin_lemma": "ECCE ANCILLA TUA IN MANU TUA EST ; UTERE EA UT LIBET.",
+      "lemma": "Voilà votre servante ; elle est entre vos mains : usez-en avec elle comme il vous plaira.",
+      "text": "On voit par ce passage et par tout ce qui suit, que les esclaves que leur maître épousait et qu'il prenait en qualité de femmes du second rang, _Uxor secundaria_, n'étaient pas pour cela affranchies de la dépendance qu'elles devaient à leur maître et à leur maîtresse, qui était la femme principale et la mère de famille : Abraham laisse à Sara le droit de vie et de mort [13] qu'il avait sur Agar en qualité de maître et d'époux. Tel était l'ancien droit chez presque tous les peuples. Abraham pour guérir l'esprit de Sara, et pour lui persuader qu'il n'a point de part aux insolences d'Agar, lui remet cette servante entre les mains ; il lui en laisse le jugement et la punition. [14]"
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AFFLIGENTE EAM SARAI, FUGAM INIIT.",
       "lemma": "Saraï la traitant mal, elle s'enfuit.",
-      "text": "Saint Augustin [15] excuse la sévérité de Sara envers Agar: il dit que cette sage matrone corrigeait l'orgueil et l'insolence de sa servante, par une punition salutaire, et non pas par un esprit de cruauté et de haine. L'approbation que Dieu donne à la conduite de Sara la justifie assez. Voyez le verset 9. Saint Ambroise [16] dit au contraire, que dans cette occasion Sara poussa trop loin son ressentiment."
+      "text": "Saint Augustin [15] excuse la sévérité de Sara envers Agar : il dit que cette sage matrone corrigeait l'orgueil et l'insolence de sa servante, par une punition salutaire, et non pas par un esprit de cruauté et de haine. L'approbation que Dieu donne à la conduite de Sara la justifie assez. Voyez le verset 9. Saint Ambroise [16] dit au contraire, que dans cette occasion Sara poussa trop loin son ressentiment."
     },
     {
       "verse": 7,
       "sub": false,
       "latin_lemma": "JUXTA FONTEM AQUÆ IN SOLITUDINE, QUÆ EST IN VIA SUR IN DESERTO.",
       "lemma": "Auprès de la fontaine qui est dans le désert, sur le chemin de Sur.",
-      "text": "Ce dernier mot, _in deserto_, n'est point dans le texte Hébreu, ni dans la version de saint Jérôme [17]; c'est une répétition de, _in solitudine_, qui est un peu auparavant. La fontaine ou le puits où l'Ange apparut à Agar, est sur le chemin qui conduit d'Hebron en Égypte par le désert de Sur, qui est vers le fond de la mer Rouge."
+      "text": "Ce dernier mot, _in deserto_, n'est point dans le texte Hébreu, ni dans la version de saint Jérôme [17] ; c'est une répétition de, _in solitudine_, qui est un peu auparavant. La fontaine ou le puits où l'Ange apparut à Agar, est sur le chemin qui conduit d'Hebron en Égypte par le désert de Sur, qui est vers le fond de la mer Rouge."
     },
     {
       "verse": 11,
       "sub": false,
-      "latin_lemma": "ISMAEL",
-      "lemma": "Le Seigneur a écouté.",
-      "text": "signifie:"
-    },
-    {
-      "verse": 12,
-      "sub": false,
-      "latin_lemma": "ERIT FERUS HOMO.",
-      "lemma": "Ce sera un homme fier et sauvage.",
-      "text": "L'Hébreu[18] à la lettre porte: _Il sera un âne sauvage._ Le Paraphraste Chaldéen: _il sera parmi les hommes comme un âne sauvage, [ féroce, indomp-_"
+      "latin_lemma": "ISMÆL",
+      "lemma": null,
+      "text": "signifie : _Le Seigneur a écouté._"
     },
     {
       "verse": 11,
@@ -79,62 +86,62 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MANUS EJUS CONTRA OMNES, ET MANUS OMNIUM CONTRA EUM.",
       "lemma": "Il levera la main contre tous, et tous leveront la main contre lui.",
-      "text": "Il aura tout le monde pour ennemi, et sera l'ennemi de tout le monde. Il sera toujours en guerre, soit en attaquant, soit en se défendant. Toujours prêt à dépouiller le premier qu'il rencontrera. Les Arabes ont pleinement rempli cet horoscope de leur père : Ils ont toujours été, et sont encore aujourd'hui, voleurs, guerriers, remuants, trompeurs, sans demeure fixe, pauvres, sauvages, cruels, inconstants. Le Chaldéen entend ainsi ce passage : Il aura besoin de tout le monde, et tout le monde aura besoin de lui ; comme s'il voulait dire: Il étendra sa main pour demander à tout le monde, et tout le monde tendra la main pour lui demander ; ou, il s'appuiera sur tout le monde, et tout le monde s'appuiera sur lui. L'Hébreu à la lettre[19] : _Manus ejus in omnibus, et manus omnium in eo._ Cette expression marque ordinairement attaquer, battre, tuer. Voyez Genes. 37:27. Deut. 13:9. et 17:7."
+      "text": "Il aura tout le monde pour ennemi, et sera l'ennemi de tout le monde. Il sera toujours en guerre, soit en attaquant, soit en se défendant. Toujours prêt à dépouiller le premier qu'il rencontrera. Les Arabes ont pleinement rempli cet horoscope de leur père : Ils ont toujours été, et sont encore aujourd'hui, voleurs, guerriers, remuants, trompeurs, sans demeure fixe, pauvres, sauvages, cruels, inconstants. Le Chaldéen entend ainsi ce passage : Il aura besoin de tout le monde, et tout le monde aura besoin de lui ; comme s'il voulait dire : Il étendra sa main pour demander à tout le monde, et tout le monde tendra la main pour lui demander ; ou, il s'appuiera sur tout le monde, et tout le monde s'appuiera sur lui. L'Hébreu à la lettre[19] : _Manus ejus in omnibus, et manus omnium in eo._ Cette expression marque ordinairement attaquer, battre, tuer. Voyez Genèse 37:27. Deutéronome 13:9. et 17:7."
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "E REGIONE UNIVERSORUM FRATRUM SUORUM FIGET TENTORIA.",
       "lemma": "Il dressera ses pavillons aux yeux de tous ses frères.",
-      "text": "Il occupera le pays voisin de celui de ses frères ; il demeurera sur les frontières de ses frères, qui n'oseront empêcher son établissement. Les Ismaëlites s'étant répandus dans l'Arabie, se trouvèrent tout au tour du partage de leurs frères. La Judée et l'Idumée, le pays des Moabites et des Ammonites sont environnez des peuples d'Arabie, descendus d'Ismaël. Les Scenites ou _Agrai_, habitaient vers l'Orient. Les autres Ismaëlites dans l'Arabie Petrée et dans l'Arabie Heureuse. Autrement, nonobstant sa férocité, il vivra en paix avec ses frères ; ou enfin tout le monde l'attaquera, et il attaquera tout le monde: Il fera la guerre à ses frères, il dressera ses tentes, il posera son camp à leur vue, en leur présence."
+      "text": "Il occupera le pays voisin de celui de ses frères ; il demeurera sur les frontières de ses frères, qui n'oseront empêcher son établissement. Les Ismaëlites s'étant répandus dans l'Arabie, se trouvèrent tout au tour du partage de leurs frères. La Judée et l'Idumée, le pays des Moabites et des Ammonites sont environnez des peuples d'Arabie, descendus d'Ismaël. Les Scenites ou _Agrai_, habitaient vers l'Orient. Les autres Ismaëlites dans l'Arabie Petrée et dans l'Arabie Heureuse. Autrement, nonobstant sa férocité, il vivra en paix avec ses frères ; ou enfin tout le monde l'attaquera, et il attaquera tout le monde : Il fera la guerre à ses frères, il dressera ses tentes, il posera son camp à leur vue, en leur présence."
+    },
+    {
+      "verse": 12,
+      "sub": false,
+      "latin_lemma": "ERIT FERUS HOMO.",
+      "lemma": "Ce sera un homme fier et sauvage.",
+      "text": "L'Hébreu[18] à la lettre porte : _Il sera un âne sauvage._ Le Paraphraste Chaldéen : _il sera parmi les hommes comme un âne sauvage, [ féroce, indompté ]_"
     },
     {
       "verse": 13,
       "sub": false,
       "latin_lemma": "TU DEUS QUI VIDISTI ME.",
       "lemma": "Vous êtes le Dieu qui m'avez vu.",
-      "text": "L'Hébreu [20] : _Le Dieu qui me voyez._ Le Chaldéen : _Le Dieu qui voit tout._ On peut aussi traduire : _Vous êtes un Dieu qui vous faites voir ; qui conversez parmi les hommes._ Vatable : _Le Dieu de vision, un Dieu dont la providence s'étend sur les choses humaines, un Dieu clairvoyant, attentif à tout ce qui se passe dans le monde._"
+      "text": "L'Hébreu [20] : _Le Dieu qui me voyez._ Le Chaldéen : _Le Dieu qui voit tout._ On peut aussi traduire : _Vous êtes un Dieu qui vous faites voir ; qui conversez parmi les hommes._ Vatable : _Le Dieu de vision, un Dieu dont la providence s'étend sur les choses humaines, un Dieu clairvoyant, attentif à tout ce qui se passe dans le monde._"
     },
     {
       "verse": 13,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PROFECTO HIC VIDI POSTERIORA VIDENTIS ME.",
       "lemma": "J'ai vu ici par derriere celui qui me voit.",
-      "text": "Agar crut d'abord parler à un homme ; mais ayant vu que celui qui l'entretenait, tournait le dos, et disparaissait en l'air ; elle jugea [21] que c'était Dieu ou un Ange, et elle s'écria : J'ai eu le bonheur de voir le dos de l'Ange qui m'a apparu ; ou bien, j'ai vu le dos de Dieu qui m'a apparu, ou qui me regarde des yeux de sa providence. Les Anciens étaient dans la persuasion que les Dieux n'apparaissaient jamais à découvert, et ne se laissaient pas voir le visage. Cela se voit par Callimaque, dans son épigramme sur la statuë de Jupiter, qui tourne le dos. Le Chaldéen traduit : _J'ai ouvert les yeux, [ j'ai reconnu qui il était, ] depuis qu'il m'a apparu ; ou, j'ai rentré dans moi-même, [ je me suis reconnue, ] depuis qu'il m'a parlé._ L'Hébreu porte [22] : _Etiamne video post videntem me ? Puis-je encore voir, puis-je encore être en vie, après avoir eu une vision de Dieu, ou d'un Ange ? Voir, est mis ici pour Vivre ;_ une fonction de la vie, pour la vie elle-même. C'est ainsi que dans l'Exode [23] il est dit, que les Israélites burent et mangèrent après avoir vu le Seigneur ; c'est-à-dire, que la vue d'une si redoutable majesté ne leur ôta pas la vie. C'était l'opinion des Hébreux, que ceux qui avaient eu quelque vision extraordinaire, étaient en danger de perdre la vie. Cela paraît par plusieurs endroits de l'Ecriture. Par exemple Jacob, après avoir lutté avec un Ange [24] toute la nuit, et n'en ayant ressenti aucun mal, donne le nom de Phanuel à l'endroit où ce combat s'était passé, en mémoire de ce qu'il n'en avait éprouvé aucune incommodité. Les Israélites prient Moïse de leur parler [25] de peur qu'ils ne meurent, si Dieu lui-même se faisait entendre à eux. Dieu dit à Moïse qu'il ne doit pas souhaiter de voir la face du Seigneur[26] ; parce qu'aucun mortel ne le peut voir sans mourir. Gédéon ayant eu une vision d'un Ange, s'écria ; _Helas, Seigneur mon Dieu ! j'ai vu l'Ange du Seigneur face à face ! Mais le Seigneur lui dit : Ne craignez point[27], vous ne mourrez pas._ Dans le premier Livre des Rois[28], Dieu frappe de mort cinquante mille et soixante-dix hommes des habitants de Bethsames, pour avoir vu l'Arche du Seigneur.\nLes Païens étaient dans les mêmes sentiments à l'égard des apparitions de leurs Dieux ; ils croyaient qu'ils n'apparaissaient jamais aux hommes qu'il n'en arrivât quelque malheur à ceux auxquels ils se faisaient voir[29]. Les Histoires et les Fables qu'ils racontent, semblent donner à connaître qu'ils avaient là-dessus quelque expérience[30]. Tirésias devint aveugle pour avoir vu Minerve, qui se baignait dans la fontaine du mont Helicon. Acteon fut déchiré par ses chiens, pour avoir regardé Diane qui se baignait. Polyzelus, un des Capitaines Athéniens, qui avait combattu à Marathon, devint aveugle après avoir vu un Spectre. Plutarque[31] dit que Diane adorée par les Palléniens, était non seulement redoutable aux hommes, mais aussi qu'elle rendait les arbres stériles, et faisait avorter les animaux, partout où on portait sa statue. Lucien[32] dit que les Gorgones sont invisibles, et que quiconque les a vus une fois, ne peut plus rien voir après. Voyez aussi Porphyre dans Eusèbe[33], qui raconte la mort subite de neuf personnes, pour avoir vu le Dieu Pan. Horace fait cette prière au Dieu Faune.\n_Per meos Fines & aprica rura_\n_Lenis incedas, abeasque parvis_\n_Æquus alumnis._"
+      "text": "Agar crut d'abord parler à un homme ; mais ayant vu que celui qui l'entretenait, tournait le dos, et disparaissait en l'air ; elle jugea [21] que c'était Dieu ou un Ange, et elle s'écria : J'ai eu le bonheur de voir le dos de l'Ange qui m'a apparu ; ou bien, j'ai vu le dos de Dieu qui m'a apparu, ou qui me regarde des yeux de sa providence. Les Anciens étaient dans la persuasion que les Dieux n'apparaissaient jamais à découvert, et ne se laissaient pas voir le visage. Cela se voit par Callimaque, dans son épigramme sur la statuë de Jupiter, qui tourne le dos. Le Chaldéen traduit : _J'ai ouvert les yeux, [ j'ai reconnu qui il était, ] depuis qu'il m'a apparu ; ou, j'ai rentré dans moi-même, [ je me suis reconnue, ] depuis qu'il m'a parlé._ L'Hébreu porte [22] : _Etiamne video post videntem me ? Puis-je encore voir, puis-je encore être en vie, après avoir eu une vision de Dieu, ou d'un Ange ? Voir, est mis ici pour Vivre ;_ une fonction de la vie, pour la vie elle-même. C'est ainsi que dans l'Exode [23] il est dit, que les Israélites burent et mangèrent après avoir vu le Seigneur ; c'est-à-dire, que la vue d'une si redoutable majesté ne leur ôta pas la vie. C'était l'opinion des Hébreux, que ceux qui avaient eu quelque vision extraordinaire, étaient en danger de perdre la vie. Cela paraît par plusieurs endroits de l'Ecriture. Par exemple Jacob, après avoir lutté avec un Ange [24] toute la nuit, et n'en ayant ressenti aucun mal, donne le nom de Phanuel à l'endroit où ce combat s'était passé, en mémoire de ce qu'il n'en avait éprouvé aucune incommodité. Les Israélites prient Moïse de leur parler, [25] de peur qu'ils ne meurent, si Dieu lui-même se faisait entendre à eux. Dieu dit à Moïse qu'il ne doit pas souhaiter de voir la face du Seigneur[26] ; parce qu'aucun mortel ne le peut voir sans mourir. Gédéon ayant eu une vision d'un Ange, s'écria ; _Helas, Seigneur mon Dieu ! j'ai vu l'Ange du Seigneur face à face ! Mais le Seigneur lui dit : Ne craignez point[27], vous ne mourrez pas._ Dans le premier Livre des Rois[28], Dieu frappe de mort cinquante mille et soixante-dix hommes des habitants de Bethsames, pour avoir vu l'Arche du Seigneur.\nLes Païens étaient dans les mêmes sentiments à l'égard des apparitions de leurs Dieux ; ils croyaient qu'ils n'apparaissaient jamais aux hommes qu'il n'en arrivât quelque malheur à ceux auxquels ils se faisaient voir[29]. Les Histoires et les Fables qu'ils racontent, semblent donner à connaître qu'ils avaient là-dessus quelque expérience[30]. Tirésias devint aveugle pour avoir vu Minerve, qui se baignait dans la fontaine du mont Helicon. Acteon fut déchiré par ses chiens, pour avoir regardé Diane qui se baignait. Polyzelus, un des Capitaines Athéniens, qui avait combattu à Marathon, devint aveugle après avoir vu un Spectre. Plutarque[31] dit que Diane adorée par les Palléniens, était non seulement redoutable aux hommes, mais aussi qu'elle rendait les arbres stériles, et faisait avorter les animaux, partout où on portait sa statue. Lucien[32] dit que les Gorgones sont invisibles, et que quiconque les a vus une fois, ne peut plus rien voir après. Voyez aussi Porphyre dans Eusèbe[33], qui raconte la mort subite de neuf personnes, pour avoir vu le Dieu Pan. Horace fait cette prière au Dieu Faune.\n_Per meos Fines et aprica rura_\n_Lenis incedas, abeasque parvis_\n_Æquus alumnis._"
     },
     {
       "verse": 14,
       "sub": false,
       "latin_lemma": "PUTEUM VIVENTIS, ET VIDENTIS ME.",
       "lemma": "Le puits de ce-",
-      "text": "lui qui est vivant, et qui me voit. Le puits ou la fontaine du Dieu vivant, qui s'est apparu à moi ; ou, la fontaine où j'ai vu le Seigneur sans perdre la vie. Le Chaldéen : _Le puits sur lequel l'Ange de vie m'a apparu._"
+      "text": ""
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "lui qui est vivant, et qui me voit.",
+      "text": "Le puits ou la fontaine du Dieu vivant, qui s'est apparu à moi ; ou, la fontaine où j'ai vu le Seigneur sans perdre la vie. Le Chaldéen : _Le puits sur lequel l'Ange de vie m'a apparu._"
+    },
+    {
+      "verse": 14,
+      "sub": false,
       "latin_lemma": "IPSE EST INTER CADES ET BARAD.",
-      "lemma": "C'est le puits qui est entre Cadès & Barad.",
-      "text": "On connaît deux lieux nommés Cadès. On a tâché de marquer leur situation sur le chapitre 20. 1. des nombres. On ne sait pas bien où était Barad. Onkelos traduit ici : _Entre Recem & Agara._ Le Syriaque : _Entre Recem & Gedar._ L'Arabe : _Entre Recem & Jared._ Bochart montre que Racem ou Recem, ou Arce est la ville de Petra, capitale de l'Arabie petrée. Agara signifie la même chose ; ainsi on ne voit pas pourquoi Onkelos met la fontaine du Voiant, entre Racem & Hagara, comme si Recem & Agara étaient des lieux différents. Il a pu prendre Hagara pour Adar ou Adara, marqués dans les nombres chapitre 34. 4. C'est aussi apparemment ce qu'ont voulu dire le Syriaque et l'Arabe par Gedar et Jared. Eusèbe et saint Jérôme mettent Arad dans le désert de Cadès, à vingt milles d'Hebron, dans la Tribu de Juda. Jonathan traduit : _Entre Recem & Aluza._ Cette derniere est une ville celebre de l'Idumée."
+      "lemma": "C'est le puits qui est entre Cadès et Barad.",
+      "text": "On connaît deux lieux nommés Cadès. On a tâché de marquer leur situation sur le chapitre 20. 1. des nombres. On ne sait pas bien où était Barad. Onkelos traduit ici : _Entre Recem et Agara._ Le Syriaque : _Entre Recem et Gedar._ L'Arabe : _Entre Recem et Jared._ Bochart montre que Racem ou Recem, ou Arce est la ville de Petra, capitale de l'Arabie petrée. Agara signifie la même chose ; ainsi on ne voit pas pourquoi Onkelos met la fontaine du Voiant, entre Racem et Hagara, comme si Recem et Agara étaient des lieux différents. Il a pu prendre Hagara pour Adar ou Adara, marqués dans les nombres chapitre 34. 4. C'est aussi apparemment ce qu'ont voulu dire le Syriaque et l'Arabe par Gedar et Jared. Eusèbe et saint Jérôme mettent Arad dans le désert de Cadès, à vingt milles d'Hebron, dans la Tribu de Juda. Jonathan traduit : _Entre Recem et Aluza._ Cette derniere est une ville celebre de l'Idumée."
     }
   ],
   "joins": [
-    {
-      "seam": "page_0478>page_0479",
-      "verse": 2,
-      "mode": "flow",
-      "before": "Abraham s'étant rendu",
-      "after": "sa prière. Abraham ne se porte à épouser Agar, que pressé "
-    },
-    {
-      "seam": "page_0479>page_0480",
-      "verse": 3,
-      "mode": "flow",
-      "before": "",
-      "after": "REM. Elle la donna pour femme à son mari, dix ans après qu"
-    },
     {
       "seam": "page_0480>page_0481",
       "verse": 6,
@@ -145,16 +152,9 @@
     {
       "seam": "page_0483>page_0484",
       "verse": 13,
-      "mode": "mend",
-      "before": " Israélites prient Moïse de leur parler ^{fn:page_0483-f}.",
+      "mode": "flow",
+      "before": " Israélites prient Moïse de leur parler, ^{fn:page_0483-f}",
       "after": "de peur qu'ils ne meurent, si Dieu lui-même se faisait ent"
-    },
-    {
-      "seam": "page_0484>page_0485",
-      "verse": 14,
-      "mode": "splice",
-      "before": "Le puits de ce-",
-      "after": "lui qui est vivant, et qui me voit. Le puits ou la fontain"
     }
   ],
   "pages_used": [
@@ -241,7 +241,7 @@
     {
       "key": "page_0481-c",
       "n": 15,
-      "text": "S. August. Ep. 48."
+      "text": "Saint August. Ep. 48."
     },
     {
       "key": "page_0481-d",
@@ -332,79 +332,6 @@
       "key": "page_0484-h",
       "n": 33,
       "text": "Præp. l. 5. c. 6."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0478",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0479",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": "head: +2 words",
-      "verse_gap": []
-    },
-    {
-      "page": "page_0480",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": "head: +23 words",
-      "verse_gap": []
-    },
-    {
-      "page": "page_0481",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0482",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0483",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0484",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0485",
-      "chosen": "gemini",
-      "rejected": [],
-      "edge_gap": "head: +8 words",
-      "verse_gap": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15
-      ]
     }
   ],
   "missing_footnotes": []

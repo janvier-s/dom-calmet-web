@@ -3,7 +3,7 @@
     {
       "verse": 1,
       "sub": false,
-      "latin_lemma": "RELIQUA PLEBS MISIT SORTEM, UT TOLLERENT UNAM DE DECEM, &c.",
+      "latin_lemma": "RELIQUA PLEBS MISIT SORTEM, UT TOLLERENT UNAM DE DECEM, etc.",
       "lemma": "Pour le reste du peuple, on jeta au sort, afin que la dixième partie fixât sa demeure dans Jérusalem.",
       "text": "Cette ville avait déjà un assez grand nombre d'anciens habitants: [1] mais pour son étendue, et pour la mettre en état de défense contre les ennemis, c'était trop peu de choses. Néhémie, qui souhaitait lui rendre son ancienne splendeur, et en faire le boulevard, et la métropole de toute la Nation, oblige tout le peuple de la campagne à tirer au sort, pour y laisser la dixième de toutes les familles. Ce nombre de familles jointes aux anciens habitants, aux principaux de la Nation, aux Prêtres, aux Lévites, et à ceux du peuple, qui s'engagèrent volontairement à y fixer leur demeure, fit bientôt de Jérusalem une grande, et bonne ville, et qui alla toujours en s'augmentant. Josèphe dit que Néhémie fit la dépense de bâtir des maisons aux Prêtres, et aux Lévites, à qui il avait persuadé de venir s'établir à Jérusalem. [2]"
     },
@@ -23,7 +23,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NATHINÆI, ET FILII SERVORUM SALOMONIS.",
       "lemma": "Les Nathinéens, et les descendants des esclaves de Salomon.",
       "text": "Voyez ce qu'on a dit ailleurs [4] sur les Nathinéens, et sur les Cananéens, que Salomon réduisit en servitude, et qu'il donna au Temple. Ils furent dispersés dans Jérusalem, et dans les villes de Juda, chacun dans la ville qui lui fut assignée."
@@ -37,7 +37,7 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET DE FILIIS BENJAMIN.",
       "lemma": "Voici les enfants de Juda, et les enfants de Benjamin, qui demeurèrent à Jérusalem.",
       "text": "Le dénombrement qui se trouve ici des habitants de Jérusalem, est assez différent de celui qu'on lit dans les Paralipomènes.[5] La différence vient de ce que les Paralipomènes nomment seulement ceux qui s'étaient les premiers habitués dans la Capitale, sous Zorobabel, aussitôt après le retour de la Captivité. Mais Néhémie renferme ici tous ceux qui s'y trouvèrent de son temps, où le nombre s'en était considérablement grossi par les bandes qu'Esdras, et lui, avaient ramenées de Babylone. Outre ceux de Juda, et de Benjamin, il s'y en était établi des tribus d'Ephraïm, et de Manassé.[6]"
@@ -93,7 +93,7 @@
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SUPER OMNIA OPERA QUÆ ERANT FORINSECUS IN DOMO DOMINI.",
       "lemma": "Intendant de tous les ouvrages qui se faisaient au dehors pour la Maison de Dieu.",
       "text": "Il avait soin d'acheter les provisions pour la nourriture des Prêtres, les victimes pour le sacrifice, les habits, les vases, et les autres choses nécessaires au Temple. Peut-être aussi était-il chargé des réfections du Temple, et de la culture des champs, qui avaient été voués au Seigneur."
@@ -135,7 +135,7 @@
     },
     {
       "verse": 24,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET IN DOMIBUS PER OMNES REGIONES EORUM.",
       "lemma": "Et pour leurs demeures, où ils s'établirent dans tout le pays.",
       "text": "Pathaïa était établi sur tout ce qui regardait le peuple dispersé dans les lieux de leurs demeures. L'Hébreu[25] à la lettre : _Pathaïa était à la main du Roi pour tout ce qui regardait le peuple, et sur leurs demeures dans leurs champs_. Le Syriaque: _Il était chargé du soin de tout ce que le Roi avait ordonné sur tous les hommes, sur le dénombrement du peuple, sur leurs Princes, et sur leurs champs_."
@@ -242,12 +242,12 @@
     {
       "key": "page_0085-b",
       "n": 1,
-      "text": "Voyez 2. Eſdr. VII. 3. & I. Par. IX. 3. 4."
+      "text": "Voyez 2. Esdr. VII. 3. et I. Par. IX. 3. 4."
     },
     {
       "key": "page_0085-c",
       "n": 2,
-      "text": "Joſeph Antiq. lib. XI. cap. 5. Κατεσκέυασας οἰκίας ἀυτοῖς, εκ των ἰδίων ἀναλωμάτων."
+      "text": "Joseph Antiq. lib. XI. cap. 5. Κατεσκέυασας οἰκίας ἀυτοῖς, εκ των ἰδίων ἀναλωμάτων."
     },
     {
       "key": "page_0086-a",
@@ -257,17 +257,17 @@
     {
       "key": "page_0086-b",
       "n": 4,
-      "text": "Voyez I. Par. IX. 2. & I. Eſdr. II. 55."
+      "text": "Voyez I. Par. IX. 2. et I. Esdr. II. 55."
     },
     {
       "key": "page_0087-a",
       "n": 5,
-      "text": "1. Par. IX. 2. 3. & ſeq."
+      "text": "1. Par. IX. 2. 3. et seq."
     },
     {
       "key": "page_0087-b",
       "n": 6,
-      "text": "1. Par. IX. 3. _Commorati ſunt in Jeruſalem de filiis Juda & Benjamin, de filiis quoque Ephraïm & Manaſſe._"
+      "text": "1. Par. IX. 3. _Commorati sunt in Jerusalem de filiis Juda et Benjamin, de filiis quoque Ephraïm et Manasse._"
     },
     {
       "key": "page_0087-c",
@@ -282,7 +282,7 @@
     {
       "key": "page_0088-a",
       "n": 9,
-      "text": "Syr. Tigur. _Vide 1. Eſdr. III. 16. 17. 18._"
+      "text": "Syr. Tigur. _Vide 1. Esdr. III. 16. 17. 18._"
     },
     {
       "key": "page_0088-b",
@@ -302,7 +302,7 @@
     {
       "key": "page_0089-b",
       "n": 13,
-      "text": "_Vide ſi lubet Ruth._ II. 1. _Deut._ VIII. 17. 18. & 4. _Reg._ V. 1."
+      "text": "_Vide si lubet Ruth._ II. 1. _Deut._ VIII. 17. 18. et 4. _Reg._ V. 1."
     },
     {
       "key": "page_0089-c",
@@ -322,7 +322,7 @@
     {
       "key": "page_0090-a",
       "n": 17,
-      "text": "ראש התהלה יהודה לתפלה Saint Jérôme ſemble avoir lû התהלה"
+      "text": "ראש התהלה יהודה לתפלה Saint Jérôme semble avoir lû התהלה"
     },
     {
       "key": "page_0090-b",
@@ -337,22 +337,22 @@
     {
       "key": "page_0091-a",
       "n": 20,
-      "text": "_Vide ſi placet Grot. hic & Eſt. & Digeſt. tit. de muneribus & honoribus._"
+      "text": "_Vide si placet Grot. hic et Est. et Digest. tit. de muneribus et honoribus._"
     },
     {
       "key": "page_0091-b",
       "n": 21,
-      "text": "I. _Par. XXV. 1. 2. & ſeq. Ita Menoch. Eſtius._"
+      "text": "I. _Par. XXV. 1. 2. et seq. Ita Menoch. Estius._"
     },
     {
       "key": "page_0091-c",
       "n": 22,
-      "text": "I. _Eſdr. VI. 8. Ita Caiet. Munſt._"
+      "text": "I. _Esdr. VI. 8. Ita Caiet. Munst._"
     },
     {
       "key": "page_0091-d",
       "n": 23,
-      "text": "I. _Eſdr. VII. 21. 22. Ita Vatab. Tir._"
+      "text": "I. _Esdr. VII. 21. 22. Ita Vatab. Tir._"
     },
     {
       "key": "page_0091-e",
@@ -372,12 +372,12 @@
     {
       "key": "page_0093-b",
       "n": 27,
-      "text": "1. Eſdr. II. 33. & 2. Eſdr. VII. 37."
+      "text": "1. Esdr. II. 33. et 2. Esdr. VII. 37."
     },
     {
       "key": "page_0093-c",
       "n": 28,
-      "text": "2. Eſdr. VI. 2."
+      "text": "2. Esdr. VI. 2."
     },
     {
       "key": "page_0093-d",
@@ -392,72 +392,7 @@
     {
       "key": "page_0093-f",
       "n": 31,
-      "text": "_Ita Syr. Vat. Piſc._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0085",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0086",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0087",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0088",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0089",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0090",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0091",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0092",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0093",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "_Ita Syr. Vat. Pisc._"
     }
   ],
   "missing_footnotes": []

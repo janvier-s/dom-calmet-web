@@ -37,7 +37,7 @@
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ROBOAM ERAT RUDIS, ET CORDE PAVIDO.",
       "lemma": "Roboam était un homme sans expérience, et sans cœur.",
       "text": "L'Hébreu : [15] _Il était enfant, et tendre de cœur, ou timide,_ selon les Septante ; _ou simplement enfant, et jeune d'âge,_ suivant le Syriaque et l'Arabe. Mais Roboam n'était pas si jeune homme, lorsqu'il commença à régner; il avait quarante ans, selon l'Ecriture. [16] Ainsi il faut l'expliquer dans le sens de la Vulgate, du peu d'expérience, et du peu de cœur, ou de sagesse de Roboam. Abia parle ici de son père avec peu de respect ; il ignore, ou plutôt il feint d'ignorer que ce Prince s'était mis en devoir de réduire ses sujets rebelles. mais qu'il avait été arrêté par l'ordre de Dieu, qui lui fut signifié par le Prophète Séméïas. [17]"
@@ -45,7 +45,7 @@
     {
       "verse": 8,
       "sub": false,
-      "latin_lemma": "HABETIS GRANDEM POPULI MULTITUDINEM, ATQUE VITULOS AUREOS, &c.",
+      "latin_lemma": "HABETIS GRANDEM POPULI MULTITUDINEM, ATQUE VITULOS AUREOS, etc.",
       "lemma": "Vous avez une grande multitude de peuples, et des veaux d'or.",
       "text": "On peut traduire l'hébreu : _Vous avez une grande multitude de peuples, mais vous avez des veaux d'or._ [18] Toute votre multitude ne nous effraye pas ; nous savons que Dieu ne peut approuver l'idolâtrie, et le mépris de ses lois ; nous sommes persuadés qu'ayant à combattre contre des méchants, nous remporterons la victoire, surtout ayant de notre côté la justice, le bon droit, et la Religion."
     },
@@ -79,7 +79,7 @@
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EPHRON.",
       "lemma": null,
       "text": "La situation de cette ville n'est pas bien connue. Josué [24] parle de la montagne d'Ephron, qui sert de limite entre Juda et Ephraïm. Les Massorètes lisent ici _Ephraïm_. Les Maccabées [25] marquent en deux endroits une ville d'Ephron, mais qui était au-delà du Jourdain."
@@ -165,22 +165,22 @@
     {
       "key": "page_0076-a",
       "n": 1,
-      "text": "3. Reg. xv. 2. & 2. Par. xi. 20."
+      "text": "3. Reg. xv. 2. et 2. Par. xi. 20."
     },
     {
       "key": "page_0076-b",
       "n": 2,
-      "text": "Mſ. ſeu apud Autor. novæ edit. S. Ieronymi, tom. I."
+      "text": "Ms. seu apud Autor. novæ edit. S. Ieronymi, tom. I."
     },
     {
       "key": "page_0077-a",
       "n": 3,
-      "text": "_Editio Veneta 1478. alia an. 1489. altera Nurembeg. 1521. Baſil. Froben 1538. Parif. Rob. Step. 1546. & aliæ plures. Quam lectionem ſequitur Caſtalio, falſò Joſephum & Græcos pro ſe adducens._"
+      "text": "_Editio Veneta 1478. alia an. 1489. altera Nurembeg. 1521. Basil. Froben 1538. Parif. Rob. Step. 1546. et aliæ plures. Quam lectionem sequitur Castalio, falsò Josephum et Græcos pro se adducens._"
     },
     {
       "key": "page_0077-b",
       "n": 4,
-      "text": "1. Par. XXI. 5. _Inventus eſt omnis numerus Iſraël, mille millia & centum millia virorum educentium gladium ; de Juda autem, quadringenta ſeptuaginta millia bellatorum. Nam Levi & Benjamin non numeravit._"
+      "text": "1. Par. XXI. 5. _Inventus est omnis numerus Israël, mille millia et centum millia virorum educentium gladium ; de Juda autem, quadringenta septuaginta millia bellatorum. Nam Levi et Benjamin non numeravit._"
     },
     {
       "key": "page_0077-c",
@@ -210,12 +210,12 @@
     {
       "key": "page_0078-d",
       "n": 10,
-      "text": "Vide Abrab. Echell. Arabiæ. Voyez auſſi l'hiſtoire de S. Louis par Joinville, page 65. édition de Mr du Cange."
+      "text": "Vide Abrab. Echell. Arabiæ. Voyez aussi l'histoire de S. Louis par Joinville, page 65. édition de Mr du Cange."
     },
     {
       "key": "page_0079-a",
       "n": 11,
-      "text": "3. Reg. xv. 3. _Ambulavit Abia in omnibus peccatis patris ſui... nec erat cor ejus perfectum cum Domino, &c._"
+      "text": "3. Reg. xv. 3. _Ambulavit Abia in omnibus peccatis patris sui... nec erat cor ejus perfectum cum Domino, etc._"
     },
     {
       "key": "page_0079-b",
@@ -240,17 +240,17 @@
     {
       "key": "page_0079-f",
       "n": 16,
-      "text": "3. Reg. xiv. 21. _Quadraginta & unius anni erat Roboam, cùm regnare cœpiſſet._"
+      "text": "3. Reg. xiv. 21. _Quadraginta et unius anni erat Roboam, cùm regnare cœpisset._"
     },
     {
       "key": "page_0080-a",
       "n": 17,
-      "text": "3. Reg. XII. 21. & ſequ."
+      "text": "3. Reg. XII. 21. et sequ."
     },
     {
       "key": "page_0080-b",
       "n": 18,
-      "text": "Ita Grot. Piſcat."
+      "text": "Ita Grot. Piscat."
     },
     {
       "key": "page_0080-c",
@@ -270,7 +270,7 @@
     {
       "key": "page_0082-a",
       "n": 22,
-      "text": "Salian. Menoch. Toſt."
+      "text": "Salian. Menoch. Tost."
     },
     {
       "key": "page_0082-b",
@@ -280,12 +280,12 @@
     {
       "key": "page_0082-c",
       "n": 24,
-      "text": "Joſue XV. 9."
+      "text": "Josue XV. 9."
     },
     {
       "key": "page_0082-d",
       "n": 25,
-      "text": "I. Macc. V. 46. & 2. Macc. XII. 27."
+      "text": "I. Macc. V. 46. et 2. Macc. XII. 27."
     },
     {
       "key": "page_0083-a",
@@ -295,12 +295,12 @@
     {
       "key": "page_0083-b",
       "n": 27,
-      "text": "3. Reg. XIV. 20. & XV. 9."
+      "text": "3. Reg. XIV. 20. et XV. 9."
     },
     {
       "key": "page_0083-c",
       "n": 28,
-      "text": "Toſt. Menoch. &c."
+      "text": "Tost. Menoch. etc."
     },
     {
       "key": "page_0084-a",
@@ -311,71 +311,6 @@
       "key": "page_0084-b",
       "n": 30,
       "text": "2. Par. XII. 15."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0076",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0077",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0078",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0079",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0080",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0081",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0082",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0083",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0084",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

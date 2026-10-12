@@ -4,14 +4,6 @@
   "chapter_summary": "Peines portées contre ceux qui donnent leurs enfants à Moloch, qui consultent les devins, qui outragent de paroles leurs pères, ou leurs mères, contre les adultères, contre ceux qui contractent des mariages incestueux, ou qui tombent dans des impuretés contre nature.",
   "verses": [
     {
-      "verse_number": "",
-      "latin": "",
-      "french": "",
-      "source_pages": [
-        "page_0261.json"
-      ]
-    },
-    {
       "verse_number": 1,
       "latin": "Locutusque est Dominus ad Moysen, dicens:",
       "french": "Le Seigneur parla encore à Moïse, et lui dit :",
@@ -220,11 +212,11 @@
       ]
     },
     {
-      "verse_number": 37,
-      "latin": "Custodite omnia præcepta mea, et universa judicia, et facite ea. Ego Dominus.",
-      "french": "Gardez tous mes préceptes, et toutes mes ordonnances, et exécutez-les. Je suis le Seigneur.",
+      "verse_number": 27,
+      "latin": "Vir, sive mulier, in quibus pythonicus, vel divinationis fuerit spiritus, morte moriantur, lapidibus obruent eos : sanguis eorum sit super illos.",
+      "french": "Si un homme ou une femme a un esprit de Python, ou un esprit de divination, qu'ils soient punis de mort ; ils seront lapidés, et leur sang retombera sur leur tête.",
       "source_pages": [
-        "page_0258.json"
+        "page_0267.json"
       ]
     }
   ]

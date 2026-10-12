@@ -5,8 +5,17 @@
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Dixit ergò Achitophel ad Abſalom : Eligam mihi duodecim millia virorum, & conſurgens perſequar David hac nocte: 2. Et irruens ſuper eum, quippè qui laſſus eſt, & ſolutis manibus, percutiam eum : cùmque fugerit omnis populus qui cum eo eſt, percutiam Regem deſolatum.",
-      "french": "Achitophel dit donc à Absalon: Si vous l'agréez, je m'en vais prendre douze mille hommes choisis ; j'irai poursuivre David cette même nuit ; 2. Et fondant sur lui pendant qu'il est las, et hors de défense, je le battrai sans peine. Et lorsque tout son monde aura pris la fuite, et l'aura abandonné, je le ferai mourir.",
+      "latin": "Dixit ergò Achitophel ad Absalom : Eligam mihi duodecim millia virorum, et consurgens persequar David hac nocte:",
+      "french": "Achitophel dit donc à Absalon: Si vous l'agréez, je m'en vais prendre douze mille hommes choisis ; j'irai poursuivre David cette même nuit ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0178.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et irruens super eum, quippe qui lassus est, et solutis manibus, percutiam eum : cumque fugerit omnis populus qui cum eo est, percutiam Regem desolatum.",
+      "french": "Et fondant sur lui pendant qu'il est las, et hors de défense, je le battrai sans peine. Et lorsque tout son monde aura pris la fuite, et l'aura abandonné, je le ferai mourir.",
       "annotations": null,
       "source_pages": [
         "page_0178.json"
@@ -14,7 +23,7 @@
     },
     {
       "verse_number": 3,
-      "latin": "Et reducam univerſum populum, quomodo unus homo reverti ſolet : unum enim virum tu quæris, & omnis populus erit in pace.",
+      "latin": "Et reducam universum populum, quomodo unus homo reverti solet : unum enim virum tu quæris, et omnis populus erit in pace.",
       "french": "Je ramènerai tout ce peuple, comme si ce n’était qu’un seul homme : car vous ne cherchez qu’une personne ; et après cela, tout sera en paix.",
       "annotations": "An. du Monde 2984.",
       "source_pages": [
@@ -23,7 +32,7 @@
     },
     {
       "verse_number": 4,
-      "latin": "Placuitque ſermo ejus Abſalom, & cunctis majoribus natu Iſraël.",
+      "latin": "Placuitque sermo ejus Absalom, et cunctis majoribus natu Israël.",
       "french": "Cet avis plut à Absalon, et à tous les Anciens d’Israël.",
       "annotations": null,
       "source_pages": [
@@ -32,7 +41,7 @@
     },
     {
       "verse_number": 5,
-      "latin": "Ait autem Abſalom : vocate Chuſaï Arachiten, & audiamus quid etiam ipſe dicat.",
+      "latin": "Ait autem Absalom : vocate Chusaï Arachiten, et audiamus quid etiam ipse dicat.",
       "french": "Néanmoins Absalon dit : Faites venir Chusaï d’Arach, afin que nous sachions aussi son avis.",
       "annotations": null,
       "source_pages": [
@@ -41,7 +50,7 @@
     },
     {
       "verse_number": 6,
-      "latin": "Cúmque veniſſet Chuſaï ad Abſalom, ait Abſalom ad eum: Hujuſcemodi ſermonem locutus eſt Achitophel: facere debemus an non? Quod das conſilium?",
+      "latin": "Cúmque venisset Chusaï ad Absalom, ait Absalom ad eum: Hujuscemodi sermonem locutus est Achitophel: facere debemus an non? Quod das consilium?",
       "french": "Chusaï étant venu devant Absalon, Absalon lui dit : Voici le conseil qu'Achitophel vient de nous donner ; le devons-nous suivre ? Que nous conseillez-vous ?",
       "annotations": "An. du Monde 2984.",
       "source_pages": [
@@ -50,7 +59,7 @@
     },
     {
       "verse_number": 7,
-      "latin": "Et dixit Chuſaï ad Abſalom: Non eſt bonum conſilium, quod dedit Achitophel hac vice.",
+      "latin": "Et dixit Chusaï ad Absalom: Non est bonum consilium, quod dedit Achitophel hac vice.",
       "french": "Chusaï répondit à Absalon : Le conseil qu'a donné Achitophel ne me paraît pas bon pour cette fois.",
       "annotations": null,
       "source_pages": [
@@ -59,7 +68,7 @@
     },
     {
       "verse_number": 8,
-      "latin": "Et rurſum intulit Chuſaï: Tu noſti, patrem tuum & viros qui cum eo ſunt, eſſe fortiſſimos & amaro animo, veluti ſi urſa raptis catulis in ſaltu ſæviat: ſed & pater tuus vir bellator eſt, nec morabitur cum populo.",
+      "latin": "Et rursum intulit Chusaï: Tu nosti, patrem tuum et viros qui cum eo sunt, esse fortissimos et amaro animo, veluti si ursa raptis catulis in saltu sæviat: sed et pater tuus vir bellator est, nec morabitur cum populo.",
       "french": "Vous n'ignorez pas, ajouta-t-il, quel est votre père ; que les gens qui sont avec lui sont très vaillants ; et que maintenant ils ont le cœur outré, comme une ourse qui est en furie dans un bois, après qu'on lui a ravi ses petits. Votre père aussi qui sait parfaitement la guerre, ne s'arrêtera point avec les gens.",
       "annotations": null,
       "source_pages": [
@@ -68,7 +77,7 @@
     },
     {
       "verse_number": 9,
-      "latin": "Forſitan nunc latitat in ſoveis, aut in uno, quo voluerit, loco : & cùm ceciderit unus quilibet in principio, audiet quicumque audierit, & dicet : Facta eſt plaga in populo qui ſequebatur Abſalom.",
+      "latin": "Forsitan nunc latitat in soveis, aut in uno, quo voluerit, loco : et cùm ceciderit unus quilibet in principio, audiet quicumque audierit, et dicet : Facta est plaga in populo qui sequebatur Absalom.",
       "french": "Il est peut-être maintenant caché dans une caverne, ou dans quelque autre lieu qu’il aura choisi. Que si quelqu’un de vos gens est tué d’abord, on publiera aussitôt partout que le parti d’Absalon a été battu.",
       "annotations": "An. du Monde 2984.",
       "source_pages": [
@@ -77,7 +86,7 @@
     },
     {
       "verse_number": 10,
-      "latin": "Et fortiffimus quiſque, cujus cor eſt quaſi leonis, pavore ſolvetur : ſcit enim omnis populus Iſraël, fortem eſſe patrem tuum, & robuſtos omnes qui cum eo ſunt.",
+      "latin": "Et fortiffimus quisque, cujus cor est quasi leonis, pavore solvetur : scit enim omnis populus Israël, fortem esse patrem tuum, et robustos omnes qui cum eo sunt.",
       "french": "Et en même temps les plus hardis de ceux qui vous suivent, et qui ont des cœurs de lion, seront saisis d’effroi : car tout le peuple d’Israël sait que votre père, et tous ceux qui sont avec lui, sont très vaillants.",
       "annotations": null,
       "source_pages": [
@@ -86,7 +95,7 @@
     },
     {
       "verse_number": 11,
-      "latin": "Sed hoc mihi videtur rectum eſſe conſilium : Congregetur ad te univerſus Iſraël, à Dan uſque Berſabee, quaſi arena maris innumerabilis : & tu eris in medio eorum.",
+      "latin": "Sed hoc mihi videtur rectum esse consilium : Congregetur ad te universus Israël, à Dan usque Bersabee, quasi arena maris innumerabilis : et tu eris in medio eorum.",
       "french": "Voici donc, ce me semble, le meilleur conseil que vous puissiez suivre : Faites assembler tout Israël, depuis Dan jusqu’à Bersabée, comme le sable de la mer qui est innombrable, et mettez-vous au milieu d’eux.",
       "annotations": null,
       "source_pages": [
@@ -95,7 +104,7 @@
     },
     {
       "verse_number": 12,
-      "latin": "Et irruemus ſuper eum in quocumque loco inventus fuerit : & operiemus eum, ſicut cadere ſolet ros ſuper terram : & non relinquemus de viris qui cum eo ſunt, ne unum quidem.",
+      "latin": "Et irruemus super eum in quocumque loco inventus fuerit : et operiemus eum, sicut cadere solet ros super terram : et non relinquemus de viris qui cum eo sunt, ne unum quidem.",
       "french": "Et en quelque lieu qu'il puisse être ; nous irons nous jeter sur lui ; nous l'accablerons par notre grand nombre, comme quand la rosée tombe sur la terre ; et nous ne laisserons pas un seul de tous les gens qui sont avec lui.",
       "annotations": "An. du Monde 2984.",
       "source_pages": [
@@ -104,7 +113,7 @@
     },
     {
       "verse_number": 13,
-      "latin": "Quòd ſi urbem aliquam fuerit ingreſſus, circumdabit omnis Iſraël civitati illi funes, & trahemus eam in torrentem, ut non reperiatur ne calculus quidem ex ea.",
+      "latin": "Quòd si urbem aliquam fuerit ingressus, circumdabit omnis Israël civitati illi funes, et trahemus eam in torrentem, ut non reperiatur ne calculus quidem ex ea.",
       "french": "Que s'il se retire dans quelque ville, tout Israël en environnera les murailles de cordes, et nous l'entraînerons dans un torrent, sans qu'il en reste seulement une petite pierre.",
       "annotations": null,
       "source_pages": [
@@ -113,7 +122,7 @@
     },
     {
       "verse_number": 14,
-      "latin": "Dixítque Abſalom, & omnes viri Iſraël: Melius eſt conſilium Chuſaï Arachitæ, conſilio Achitophel. Dominus autem nutu diſſipatum eſt conſilium Achitophel utile, ut induceret Dominus ſuper Abſalom malum.",
+      "latin": "Dixítque Absalom, et omnes viri Israël: Melius est consilium Chusaï Arachitæ, consilio Achitophel. Dominus autem nutu dissipatum est consilium Achitophel utile, ut induceret Dominus super Absalom malum.",
       "french": "Alors Absalon, et tous les principaux d'Israël dirent : L'avis de Chusaï d'Arach est meilleur que celui d'Achitophel. Mais ce fut par la volonté du Seigneur que le conseil d'Achitophel, qui était le plus utile, fut ainsi détruit; afin que le Seigneur fît tomber Absalon dans son malheur.",
       "annotations": "An. de Monde 2984.",
       "source_pages": [
@@ -122,7 +131,7 @@
     },
     {
       "verse_number": 15,
-      "latin": "Et ait Chuſaï Sadoc & Abiathar Sacerdotibus: Hoc & hoc modo conſilium dedit Achitophel Abſalom, & ſenioribus Iſraël: & ego tale & tale dedi conſilium.",
+      "latin": "Et ait Chusaï Sadoc et Abiathar Sacerdotibus: Hoc et hoc modo consilium dedit Achitophel Absalom, et senioribus Israël: et ego tale et tale dedi consilium.",
       "french": "Alors Chusaï dit aux grands-prêtres Sadoc et Abiathar : Voici l'avis qu'Achitophel a donné à Absalon et aux Anciens d'Israël : et voici celui que j'ai donné.",
       "annotations": null,
       "source_pages": [
@@ -131,7 +140,7 @@
     },
     {
       "verse_number": 16,
-      "latin": "Nunc ergò mittite citò & nuntiate David, dicentes : Ne moreris nocte hac in campestribus deserti, sed absque dilatione transfredere, ne fortè absorbeatur Rex, & omnis populus qui cum eo est.",
+      "latin": "Nunc ergò mittite citò et nuntiate David, dicentes : Ne moreris nocte hac in campestribus deserti, sed absque dilatione transfredere, ne fortè absorbeatur Rex, et omnis populus qui cum eo est.",
       "french": "Envoyez donc en diligence à David, pour l'en informer ; et faites-lui dire, qu'il ne demeure point cette nuit dans les plaines du désert; mais qu'il passe au plutôt le Jourdain, de peur qu'il ne périsse, et tous ses gens.",
       "annotations": "An du Monde 2984.",
       "source_pages": [
@@ -140,7 +149,7 @@
     },
     {
       "verse_number": 17,
-      "latin": "Jonathas autem & Achimaas stabant juxtà fontem Rogel : abiit ancilla & nuntiavit eis : & illi profecti sunt ut referrent ad Regem David nuntium : non enim poterant videri, aut introire civitatem.",
+      "latin": "Jonathas autem et Achimaas stabant juxtà fontem Rogel : abiit ancilla et nuntiavit eis : et illi profecti sunt ut referrent ad Regem David nuntium : non enim poterant videri, aut introire civitatem.",
       "french": "Jonathas et Achimaas étaient près de la fontaine de Rogel, n'osant se montrer, ni entrer dans la ville : et une servante les alla avertir de tout ceci. Ils partirent en même temps pour en porter la nouvelle au Roi David.",
       "annotations": null,
       "source_pages": [
@@ -149,8 +158,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "Vidit autem eos quidam puer, & indicavit Abſalom : illi verò concito gradu ingreſſi ſunt domum cujuſdam viri in Bahurim, qui habebat puteum in veſtibulo ſuo, & deſcenderunt in eum.",
-      "french": "Il arriva néanmoins qu'un garçon les vit, et en donna avis à Absalon: An. du Monde 2984. ils coururent et entrèrent chez un homme de Bahurim, qui avait un puits à l'entrée de sa maison, dans lequel ils descendirent.",
+      "latin": "Vidit autem eos quidam puer, et indicavit Absalom : illi verò concito gradu ingressi sunt domum cujusdam viri in Bahurim, qui habebat puteum in vestibulo suo, et descenderunt in eum.",
+      "french": "Il arriva néanmoins qu'un garçon les vit, et en donna avis à Absalon: ils coururent et entrèrent chez un homme de Bahurim, qui avait un puits à l'entrée de sa maison, dans lequel ils descendirent.",
       "annotations": null,
       "source_pages": [
         "page_0185.json"
@@ -158,7 +167,7 @@
     },
     {
       "verse_number": 19,
-      "latin": "Tulit autem mulier, & expandit velamen ſuper os putei, quaſi ſiccans piſanas : & ſic latuit res.",
+      "latin": "Tulit autem mulier, et expandit velamen super os putei, quasi siccans pisanas : et sic latuit res.",
       "french": "Et la femme de cet homme étendit une couverture sur la bouche du puits, comme si elle eût fait sécher des grains pilés : ainsi la chose demeura cachée.",
       "annotations": null,
       "source_pages": [
@@ -167,7 +176,7 @@
     },
     {
       "verse_number": 20,
-      "latin": "Cúmque veniſſent ſervi Abſalom in domum, ad mulierem dixerunt : Ubi eſt Achimaas & Jonathas? Et reſpondit eis mulier : Tranſierunt feſtinanter, guſtatâ paululùm aquâ. At hi qui quærebant, cùm non reperiſſent, reverſi ſunt in Jeruſalem.",
+      "latin": "Cúmque venissent servi Absalom in domum, ad mulierem dixerunt : Ubi est Achimaas et Jonathas? Et respondit eis mulier : Transierunt festinanter, gustatâ paululùm aquâ. At hi qui quærebant, cùm non reperissent, reversi sunt in Jerusalem.",
       "french": "Les gens d'Absalon étant venus dans cette maison, dirent à la femme : Où sont Achimaas et Jonathas? Elle leur répondit : Ils ont pris un peu d'eau, et s'en sont allés bien vite. Ainsi ceux qui les cherchaient, ne les ayant point trouvés, revinrent à Jérusalem.",
       "annotations": null,
       "source_pages": [
@@ -176,7 +185,7 @@
     },
     {
       "verse_number": 21,
-      "latin": "Cùmque abiiffent, aſcenderunt illi de puteo, & pergentes nuntiaverunt Regi David, & dixerunt: Surgite, & tranſite citò fluvium: quoniam hujufcemodi dedit conſilium contra vos Achitophel.",
+      "latin": "Cùmque abiiffent, ascenderunt illi de puteo, et pergentes nuntiaverunt Regi David, et dixerunt: Surgite, et transite citò fluvium: quoniam hujufcemodi dedit consilium contra vos Achitophel.",
       "french": "Après qu'ils s'en furent retournés, Achimaas et Jonathas sortirent du puits, continuèrent leur chemin, et vinrent dire à David: Décampez et passez le fleuve au plus tôt; parce qu'Achitophel a donné un tel conseil contre vous.",
       "annotations": "An. du Monde 2984.",
       "source_pages": [
@@ -185,7 +194,7 @@
     },
     {
       "verse_number": 22,
-      "latin": "Surrexit ergò David, & omnis populus qui cum eo erat, & tranſierunt Jordanem, donec diluceſceret: & ne unus quidem reſiduus fuit, qui non tranſiſſet fluvium.",
+      "latin": "Surrexit ergò David, et omnis populus qui cum eo erat, et transierunt Jordanem, donec dilucesceret: et ne unus quidem residuus fuit, qui non transisset fluvium.",
       "french": "David marcha donc aussitôt avec tous ses gens, et passa le Jourdain avant la pointe du jour, sans qu'il en demeurât un seul au-deçà du fleuve.",
       "annotations": null,
       "source_pages": [
@@ -194,7 +203,7 @@
     },
     {
       "verse_number": 23,
-      "latin": "Porrò Achitophel videns quòd non fuiſſet factum conſilium ſuum, ſtravit aſinum ſuum, ſurrexitque & abiit in domum ſuam, & in civitatem ſuam: & diſpoſitâ domo ſuâ, ſuſpendio interiit, & ſepultus eſt in ſepulchro patris ſui.",
+      "latin": "Porrò Achitophel videns quòd non fuisset factum consilium suum, stravit asinum suum, surrexitque et abiit in domum suam, et in civitatem suam: et dispositâ domo suâ, suspendio interiit, et sepultus est in sepulchro patris sui.",
       "french": "Achitophel voyant qu'on n'avait point suivi le conseil qu'il avait donné, fit seller son âne, s'en alla à sa maison qu'il avait dans la ville de Gilo, et ayant mis ordre à toutes ses affaires, il se pendit, et fut enseveli dans le sépulcre de son père.",
       "annotations": null,
       "source_pages": [
@@ -203,7 +212,7 @@
     },
     {
       "verse_number": 24,
-      "latin": "David autem venit in caſtra; & Abſalom tranſivit Jordanem, ipſe & omnes viri Iſraël cum eo.",
+      "latin": "David autem venit in castra; et Absalom transivit Jordanem, ipse et omnes viri Israël cum eo.",
       "french": "David vint ensuite au camp, et Absalon suivi de tout Israël passa aussi le Jourdain.",
       "annotations": "2984",
       "source_pages": [
@@ -212,7 +221,7 @@
     },
     {
       "verse_number": 25,
-      "latin": "Amaſam verò conſtituit Abſalom pro Joab ſuper exercitum : Amaſa autem erat filius viri, qui vocabatur Jethra de Jezraëli, qui ingreſſus eſt ad Abigail filiam Naas, ſororem Sarviæ, quæ fuit mater Joab.",
+      "latin": "Amasam verò constituit Absalom pro Joab super exercitum : Amasa autem erat filius viri, qui vocabatur Jethra de Jezraëli, qui ingressus est ad Abigail filiam Naas, sororem Sarviæ, quæ fuit mater Joab.",
       "french": "Absalon fit Général de son armée au lieu de Joab, Amasa fils d'un homme de Jezraël, nommé Jétra, qui avait épousé Abigaïl fille de Naas, et sœur de Sarvia mère de Joab.",
       "annotations": "An. du Monde 2984.",
       "source_pages": [
@@ -221,7 +230,7 @@
     },
     {
       "verse_number": 26,
-      "latin": "Et caſtrametatus eſt Iſraël cum Abſalom in terra Galaad.",
+      "latin": "Et castrametatus est Israël cum Absalom in terra Galaad.",
       "french": "Et Israël se campa avec Absalon dans le pays de Galaad.",
       "annotations": null,
       "source_pages": [
@@ -230,7 +239,7 @@
     },
     {
       "verse_number": 27,
-      "latin": "Cùmque veniſſet David in caſtra, Sobi filius Naas de Rabbath filiorum Ammon, & Machir filius Ammihel de Lodabar, & Berzillai Galaadites de Rogelim,",
+      "latin": "Cùmque venisset David in castra, Sobi filius Naas de Rabbath filiorum Ammon, et Machir filius Ammihel de Lodabar, et Berzillai Galaadites de Rogelim,",
       "french": "David étant venu au camp, Sobi fils de Naas, de Rabbath, ville des Ammonites, Machir fils d'Ammiel de Lodobar, et Berzellaï de Rogelim en Galaad,",
       "annotations": null,
       "source_pages": [
@@ -239,7 +248,7 @@
     },
     {
       "verse_number": 28,
-      "latin": "Obtulerunt ei ſtratoria, & tapetia, & vaſa fictilia, frumentum, & hordeum, & farinam, & polentam, & fabam, & lentem, & frixum cicer.",
+      "latin": "Obtulerunt ei stratoria, et tapetia, et vasa fictilia, frumentum, et hordeum, et farinam, et polentam, et fabam, et lentem, et frixum cicer.",
       "french": "Lui offrirent des lits, des tapis, des vaisseaux de terre, du blé, de l'orge, de la farine, de l'orge séché au feu, des féves, des lentilles, et des pais grillez,",
       "annotations": "An. du Monde 2984.",
       "source_pages": [
@@ -248,7 +257,7 @@
     },
     {
       "verse_number": 29,
-      "latin": "Et mel, & butyrum; oves, & pingues vitulos, dederúntque David, & populo qui cum eo erat, ad veſcendum: ſuſpicati enim ſunt, populum fame & ſiti fatigari in deſerto.",
+      "latin": "Et mel, et butyrum; oves, et pingues vitulos, dederúntque David, et populo qui cum eo erat, ad vescendum: suspicati enim sunt, populum fame et siti fatigari in deserto.",
       "french": "Du miel, du beurre, des brebis, et des veaux gras. Ils apportèrent tout ceci à David, et à ceux qui le suivaient; parce qu'ils se doutèrent bien que le peuple se trouvant dans un désert, était abattu de faim, de soif, et de lassitude.",
       "annotations": "An. du Monde 2984.",
       "source_pages": [

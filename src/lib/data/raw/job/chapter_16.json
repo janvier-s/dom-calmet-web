@@ -5,7 +5,7 @@
   "verses": [
     {
       "verse_number": 1,
-      "latin": "REspondens autem Job, dixit :",
+      "latin": "Respondens autem Job, dixit :",
       "french": "Job répondit à Eliphaz :",
       "annotations": [],
       "source_pages": [
@@ -14,8 +14,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "_Audivi frequenter talia : consolatores onerosi omnes vos estis._",
-      "french": "_J'ai entendu souvent de pareils discours ; vous êtes tous des consolateurs importuns._",
+      "latin": "Audivi frequenter talia : consolatores onerosi omnes vos estis.",
+      "french": "J'ai entendu souvent de pareils discours ; vous êtes tous des consolateurs importuns.",
       "annotations": [],
       "source_pages": [
         "page_0224.json"
@@ -23,8 +23,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "_Numquid habebunt finem verba ventosa ? Aut aliquid tibi molestum est si loquaris ?_",
-      "french": "_Ces discours en l'air ne finiront-ils jamais ? Et qu'y a-t-il de plus aisé que de parler de la sorte ?_",
+      "latin": "Numquid habebunt finem verba ventosa ? Aut aliquid tibi molestum est si loquaris ?",
+      "french": "Ces discours en l'air ne finiront-ils jamais ? Et qu'y a-t-il de plus aisé que de parler de la sorte ?",
       "annotations": [],
       "source_pages": [
         "page_0224.json"
@@ -32,7 +32,7 @@
     },
     {
       "verse_number": 4,
-      "latin": "Poteram & ego ſimilia veſtri loqui: atque utinam eſſet anima veſtra pro anima mea!",
+      "latin": "Poteram et ego similia vestri loqui: atque utinam esset anima vestra pro anima mea!",
       "french": "Je pourrais aussi moi-même parler comme vous : et plût à Dieu que votre âme fût au même état que la mienne !",
       "annotations": [],
       "source_pages": [
@@ -41,7 +41,7 @@
     },
     {
       "verse_number": 5,
-      "latin": "Conſolarer & ego vos ſermonibus, & moverem caput meum ſuper vos;",
+      "latin": "Consolarer et ego vos sermonibus, et moverem caput meum super vos;",
       "french": "Je vous consolerais aussi par mes discours, et je témoignerais par le mouvement de ma tête, ce que je ressentirais pour vous.",
       "annotations": [],
       "source_pages": [
@@ -50,7 +50,7 @@
     },
     {
       "verse_number": 6,
-      "latin": "Roborarem vos ore meo, & moverem labia mea, quaſi parcens vobis.",
+      "latin": "Roborarem vos ore meo, et moverem labia mea, quasi parcens vobis.",
       "french": "Je vous fortifierais par mes paroles et je vous épargnerais dans tout ce qui sortirait de ma bouche.",
       "annotations": [],
       "source_pages": [
@@ -59,7 +59,7 @@
     },
     {
       "verse_number": 7,
-      "latin": "Sed quid agam? Si locutus fuero, non quieſcet dolor meus: & ſi tacuero, non recedet à me.",
+      "latin": "Sed quid agam? Si locutus fuero, non quiescet dolor meus: et si tacuero, non recedet à me.",
       "french": "Mais que ferai-je ? Si je parle, ma douleur ne s'apaisera point; et si je demeure dans le silence, elle ne me quittera point.",
       "annotations": [],
       "source_pages": [
@@ -68,7 +68,7 @@
     },
     {
       "verse_number": 8,
-      "latin": "Nunc autem oppreſſit me dolor meus, & in nihilum redacti ſunt omnes artus mei.",
+      "latin": "Nunc autem oppressit me dolor meus, et in nihilum redacti sunt omnes artus mei.",
       "french": "Ma douleur me presse et m'accable maintenant; et tous les membres de mon corps sont réduits à rien.",
       "annotations": [],
       "source_pages": [
@@ -77,7 +77,7 @@
     },
     {
       "verse_number": 9,
-      "latin": "Rugæ meæ teſtimonium dicunt contra me, & ſuſcitatur falſiloquus adverſus faciem meam contradicens mihi.",
+      "latin": "Rugæ meæ testimonium dicunt contra me, et suscitatur falsiloquus adversus faciem meam contradicens mihi.",
       "french": "Les rides qui paraissent sur ma peau, rendent témoignage contre moi; et un homme s'élève en même temps contre moi pour me contredire, et me résister en face par de faux discours.",
       "annotations": [],
       "source_pages": [
@@ -86,8 +86,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Collegit furorem ſuum in me, & comminans in bi, infremuit contra me dentibus ſuis; hoſtis meus terribilibus oculis me intuitus eſt.",
-      "french": "10. Il s’est armé contre moi de toute sa fureur; il a grincé les dents en me menaçant; mon ennemi m’a envisagé avec un regard terrible.",
+      "latin": "Collegit furorem suum in me, et comminans in bi, infremuit contra me dentibus suis; hostis meus terribilibus oculis me intuitus est.",
+      "french": "Il s’est armé contre moi de toute sa fureur; il a grincé les dents en me menaçant; mon ennemi m’a envisagé avec un regard terrible.",
       "annotations": [],
       "source_pages": [
         "page_0227.json"
@@ -95,8 +95,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Aperuerunt ſuper me ora ſua, & exprobrantes percuſſerunt maxillam meam, ſatiati ſunt pœnis meis.",
-      "french": "11. Ils ont ouvert leurs bouches contre moi, et en me couvrant d’opprobres, ils m’ont frappé sur la joue, et se sont soûlés de mes peines.",
+      "latin": "Aperuerunt super me ora sua, et exprobrantes percusserunt maxillam meam, satiati sunt pœnis meis.",
+      "french": "Ils ont ouvert leurs bouches contre moi, et en me couvrant d’opprobres, ils m’ont frappé sur la joue, et se sont soûlés de mes peines.",
       "annotations": [],
       "source_pages": [
         "page_0227.json"
@@ -104,7 +104,7 @@
     },
     {
       "verse_number": 12,
-      "latin": "Conclufit me Deus apud iniquum, & manibus impiorum me tradidit.",
+      "latin": "Conclufit me Deus apud iniquum, et manibus impiorum me tradidit.",
       "french": "Dieu m'a tenu lié sous la puissance de l'injuste; il m'a livré entre les mains des impies.",
       "annotations": [],
       "source_pages": [
@@ -113,7 +113,7 @@
     },
     {
       "verse_number": 13,
-      "latin": "Ego ille quondam opulentus, repente contritus ſum: tenuit cervicem meam, confregit me, & poſuit me ſibi in ſignum.",
+      "latin": "Ego ille quondam opulentus, repente contritus sum: tenuit cervicem meam, confregit me, et posuit me sibi in signum.",
       "french": "J'ai été tout d'un coup réduit en poudre, moi qui étais si puissant autrefois. Le Seigneur m'a fait plier le col sous sa violence, il m'a brisé, et il m'a mis comme en butte à tous ses traits.",
       "annotations": [],
       "source_pages": [
@@ -122,7 +122,7 @@
     },
     {
       "verse_number": 14,
-      "latin": "Circumdedit me lanceis ſuis, convulneravit lumbos meos, non pepercit, & effudit in terra viſcera mea.",
+      "latin": "Circumdedit me lanceis suis, convulneravit lumbos meos, non pepercit, et effudit in terra viscera mea.",
       "french": "Il m'a environné des pointes de ses lances, il m'en a percé les reins de toutes parts; il ne m'a point épargné, et il a répandu mes entrailles sur la terre.",
       "annotations": [],
       "source_pages": [
@@ -131,7 +131,7 @@
     },
     {
       "verse_number": 15,
-      "latin": "Concidit me vulnere ſuper vulnus, irruit in me quaſi gigas.",
+      "latin": "Concidit me vulnere super vulnus, irruit in me quasi gigas.",
       "french": "Il m'a déchiré, il m'a fait plaie sur plaie, il est venu fondre sur moi, comme un géant.",
       "annotations": [],
       "source_pages": [
@@ -140,7 +140,7 @@
     },
     {
       "verse_number": 16,
-      "latin": "Saccum conſui ſuper cutem meam, & operui cinere carnem meam.",
+      "latin": "Saccum consui super cutem meam, et operui cinere carnem meam.",
       "french": "J'ai étendu un sac sur ma chair, et j'ai couvert ma tête de cendre.",
       "annotations": [],
       "source_pages": [
@@ -149,8 +149,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "17. Facies mea intumuit à fletu, & palpebræ meæ caligaverunt.",
-      "french": "17. Mon visage s'est bouffi à force de pleurer, et mes paupières sont couvertes de ténèbres.",
+      "latin": "Facies mea intumuit à fletu, et palpebræ meæ caligaverunt.",
+      "french": "Mon visage s'est bouffi à force de pleurer, et mes paupières sont couvertes de ténèbres.",
       "annotations": [],
       "source_pages": [
         "page_0229.json"
@@ -158,8 +158,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "18. Hæc paſſus ſum abſque iniquitate manûs meæ, cùm haberem mundas ad Deum preces.",
-      "french": "18. J'ai souffert tout cela sans que ma main fût souillée par l'iniquité, lorsque j'offrais à Dieu des prières pures.",
+      "latin": "Hæc passus sum absque iniquitate manûs meæ, cùm haberem mundas ad Deum preces.",
+      "french": "J'ai souffert tout cela sans que ma main fût souillée par l'iniquité, lorsque j'offrais à Dieu des prières pures.",
       "annotations": [],
       "source_pages": [
         "page_0229.json"
@@ -167,8 +167,8 @@
     },
     {
       "verse_number": 19,
-      "latin": "19. Terra, ne operias ſanguinem meum, neque invenias in te locum latendi clamor meus.",
-      "french": "19. Terre, ne couvre point mon sang, et que mes cris ne soient point étouffés dans ton sein.",
+      "latin": "Terra, ne operias sanguinem meum, neque invenias in te locum latendi clamor meus.",
+      "french": "Terre, ne couvre point mon sang, et que mes cris ne soient point étouffés dans ton sein.",
       "annotations": [],
       "source_pages": [
         "page_0229.json"
@@ -176,8 +176,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Ecce enim in cœlo teſtis meus , & conſcius meus in excelſis.",
-      "french": "20. Car le témoin de mon innocence est dans le Ciel, et celui qui connaît le fond de mon cœur, réside en ces lieux sublimes.",
+      "latin": "Ecce enim in cœlo testis meus , et conscius meus in excelsis.",
+      "french": "Car le témoin de mon innocence est dans le Ciel, et celui qui connaît le fond de mon cœur, réside en ces lieux sublimes.",
       "annotations": [],
       "source_pages": [
         "page_0230.json"
@@ -185,8 +185,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Verboſi amici mei : ad Deum ſtillat oculus meus.",
-      "french": "21. Mes amis se répandent en paroles ; mais mes yeux fondent en larmes devant mon Dieu.",
+      "latin": "Verbosi amici mei : ad Deum stillat oculus meus.",
+      "french": "Mes amis se répandent en paroles ; mais mes yeux fondent en larmes devant mon Dieu.",
       "annotations": [],
       "source_pages": [
         "page_0230.json"
@@ -194,8 +194,8 @@
     },
     {
       "verse_number": 22,
-      "latin": "Atque utinam ſic judicaretur vir cum Deo , quomodo judicatur filius hominis cum collega ſuo.",
-      "french": "22. Que je souhaiterais qu'un homme pût se justifier devant Dieu, comme il peut se justifier devant un homme comme lui.",
+      "latin": "Atque utinam sic judicaretur vir cum Deo , quomodo judicatur filius hominis cum collega suo.",
+      "french": "Que je souhaiterais qu'un homme pût se justifier devant Dieu, comme il peut se justifier devant un homme comme lui.",
       "annotations": [],
       "source_pages": [
         "page_0230.json"
@@ -203,8 +203,8 @@
     },
     {
       "verse_number": 23,
-      "latin": "Ecce enim breves anni tranſeunt, & ſemitam , per quam non revertar , ambulo.",
-      "french": "23. Car mes années coulent et passent vite, et je marche par un sentier, par lequel je ne reviendrai jamais.",
+      "latin": "Ecce enim breves anni transeunt, et semitam , per quam non revertar , ambulo.",
+      "french": "Car mes années coulent et passent vite, et je marche par un sentier, par lequel je ne reviendrai jamais.",
       "annotations": [],
       "source_pages": [
         "page_0230.json"

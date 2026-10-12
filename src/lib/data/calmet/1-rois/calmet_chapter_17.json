@@ -9,21 +9,21 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VIVIT DOMINUS, IN CUJUS CONSPECTU STO.",
       "lemma": "Vive le Seigneur, devant lequel je suis.",
-      "text": "L’Écriture ne nous dit point à quelle occasion, ni ensuite de quoi Élie dit ceci à Achab : mais il paraît que c’est la continuation d’un discours qu’il lui avait fait. On peut donner plus d’un sens à ces paroles : _Vive le Seigneur, devant lequel je suis_. 1°. Comme si c’était une espèce de serment. Je prends Dieu à témoin, ce Dieu, qui est présent à toutes choses ; dans le même sens que S. Paul disait : [5] _Ecce coram Deo, quia non mentior_. 2°. Vive le Seigneur, dont je suis le Ministre, en présence duquel je suis, pour exécuter ses ordonnances. _Être en présence de quelqu’un_, [6] signifie le servir, être à son service. 3°. Vive le Seigneur, devant lequel j’ai accoutumé de me présenter, pour prier. [7]"
+      "text": "L’Écriture ne nous dit point à quelle occasion, ni ensuite de quoi Élie dit ceci à Achab : mais il paraît que c’est la continuation d’un discours qu’il lui avait fait. On peut donner plus d’un sens à ces paroles : _Vive le Seigneur, devant lequel je suis_. \n1°. Comme si c’était une espèce de serment. Je prends Dieu à témoin, ce Dieu, qui est présent à toutes choses ; dans le même sens que S. Paul disait : [5] _Ecce coram Deo, quia non mentior_. \n2°. Vive le Seigneur, dont je suis le Ministre, en présence duquel je suis, pour exécuter ses ordonnances. _Être en présence de quelqu’un_, [6] signifie le servir, être à son service. \n3°. Vive le Seigneur, devant lequel j’ai accoutumé de me présenter, pour prier. [7]"
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SI ERIT ANNIS HIS ROS, ET PLUVIA, NISI JUXTA",
       "lemma": null,
       "text": ""
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ORIS MEI VERBA.",
       "lemma": "Il ne tombera pendant ces années ni rosée, ni pluie, que selon la parole qui sortira de ma bouche.",
       "text": "Merveilleuse assurance de ce Prophète ! Qu'on compare tout ce que le Paganisme a pu inventer de plus prodigieux, avec ce trait de l'autorité prophétique. Elie tient le ciel fermé pendant trois ans et demi ; et cela, d'une manière si absolue, et avec un pouvoir si entier, qu'il déclare au Roi, qu'il n'en tombera pas une goutte, ni de pluie, ni de rosée sans son ordre : _Verbo Domini continuit cælum_.[8] Il était facile à Achab de conclure que cette sécheresse ne pouvait être un effet naturel des causes secondes, puisqu'Elie lui déclarait que Dieu l'avait comme laissé le maître de faire pleuvoir, ou d'arrêter la pluie. On a déjà remarqué que l'Historien Ménandre a parlé d'une sécheresse qui désola le pays, sous le règne d'Ethbaal, Roi de Tyr : mais cet Historien ne la fait durer qu'un an.[9] Il dit qu'elle fut suivie de grands tonnerres, et de foudres après qu'Ithobalus eut ordonné des supplications publiques."
@@ -79,7 +79,7 @@
     },
     {
       "verse": 17,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ITA UT NON REMANERET IN EO HALITUS.",
       "lemma": "D'une maladie si violente, qu'il en mourut.",
       "text": "À la lettre, _qu'il ne lui restait plus de respiration ; que la respiration lui manqua avec la vie._"
@@ -166,37 +166,37 @@
     {
       "key": "page_0357-a",
       "n": 1,
-      "text": "(a) Vide, ſi lubet, Metaphraſt. apud Suri. Pſeudo-Doxath. in Synapſ. Iohan. Ieroſolym. cap. 1. tom. 9. Bibl. PP. Iſidor. de vita & morte SS. Epiphan. de vita & interitu SS. & Sanct. hic. &c."
+      "text": " Vide, si lubet, Metaphrast. apud Suri. Pseudo-Doxath. in Synaps. Iohan. Ierosolym. cap. 1. tom. 9. Bibl. PP. Isidor. de vita et morte SS. Epiphan. de vita et interitu SS. et Sanct. hic. etc."
     },
     {
       "key": "page_0357-b",
       "n": 2,
-      "text": "(b) Chryſoſt. homil. 3. de Elia, Sedulius, Beda, Anſelmus."
+      "text": " Chrysost. homil. 3. de Elia, Sedulius, Beda, Anselmus."
     },
     {
       "key": "page_0357-c",
       "n": 3,
-      "text": "(c) Ambroſ. lib. 1. de Virgin. Ierom. lib. 1. adverſ. Iovinian. & ad Euſtoch. de cuſtodia Virginit. & S. Ephræm. lib. 1. Paræn. 1. &c."
+      "text": " Ambros. lib. 1. de Virgin. Ierom. lib. 1. advers. Iovinian. et ad Eustoch. de custodia Virginit. et S. Ephræm. lib. 1. Paræn. 1. etc."
     },
     {
       "key": "page_0357-d",
       "n": 4,
-      "text": "(d) Vide 3. Reg. XVIII. 13. & XIX. 10."
+      "text": " Vide 3. Reg. XVIII. 13. et XIX. 10."
     },
     {
       "key": "page_0357-e",
       "n": 5,
-      "text": "(e) Galat. 1. 20."
+      "text": " Galat. 1. 20."
     },
     {
       "key": "page_0357-f",
       "n": 6,
-      "text": "(f) Num. III. 6. Deut. XV. 1. & XVIII. 5."
+      "text": " Num. III. 6. Deut. XV. 1. et XVIII. 5."
     },
     {
       "key": "page_0357-g",
       "n": 7,
-      "text": "(g) Ita Vat. Jun. Piſc. Menoch. Vide, ſi lubet, Jacob. V. 17. Elias oratione oravit ut non plueret ſuper terram, & non pluit annos tres, & menſes ſex, Vide & Luc. IV. 25."
+      "text": " Ita Vat. Jun. Pisc. Menoch. Vide, si lubet, Jacob. V. 17. Elias oratione oravit ut non plueret super terram, et non pluit annos tres, et menses sex, Vide et Luc. IV. 25."
     },
     {
       "key": "page_0358-a",
@@ -206,12 +206,12 @@
     {
       "key": "page_0358-b",
       "n": 9,
-      "text": "Apud Joſeph. Antiq. lib. 8. c. 7. Λέγεται χ᾽ ἐπ᾽ αὐτῷ ἀνίαυτον ἑνὰ μὴ ὑεθῆναι τὴν γῆν, ἕως τῇ ἐχεσθέντος ὑπὸ τῶν ἱερέων διὰ λιμὸν, ἱκεσίας δὲ ποιησαμένου μεγάλαι βρονταὶ γίνονται."
+      "text": "Apud Joseph. Antiq. lib. 8. c. 7. Λέγεται χ᾽ ἐπ᾽ αὐτῷ ἀνίαυτον ἑνὰ μὴ ὑεθῆναι τὴν γῆν, ἕως τῇ ἐχεσθέντος ὑπὸ τῶν ἱερέων διὰ λιμὸν, ἱκεσίας δὲ ποιησαμένου μεγάλαι βρονταὶ γίνονται."
     },
     {
       "key": "page_0358-c",
       "n": 10,
-      "text": "בנחל כרית. LXX. ἐν τῷ χειμάῤῥῳ χοῤῥάθ, Joſeph. κατὰ χειμάῤῥουν."
+      "text": "בנחל כרית. LXX. ἐν τῷ χειμάῤῥῳ χοῤῥάθ, Joseph. κατὰ χειμάῤῥουν."
     },
     {
       "key": "page_0358-d",
@@ -221,17 +221,17 @@
     {
       "key": "page_0358-e",
       "n": 12,
-      "text": "Vide 2. Par. XXI. 16. & 2, Eſdr. 17. 7."
+      "text": "Vide 2. Par. XXI. 16. et 2, Esdr. 17. 7."
     },
     {
       "key": "page_0359-a",
       "n": 13,
-      "text": "Bereſchit Rabba c. 33. Vide, ſi placet, Euſeb. in locis in Arava."
+      "text": "Bereschit Rabba c. 33. Vide, si placet, Euseb. in locis in Arava."
     },
     {
       "key": "page_0359-b",
       "n": 14,
-      "text": "Vide Boch. de animal. ſacr. parte 2. lib. 2. c. 3."
+      "text": "Vide Boch. de animal. sacr. parte 2. lib. 2. c. 3."
     },
     {
       "key": "page_0359-c",
@@ -256,22 +256,22 @@
     {
       "key": "page_0360-c",
       "n": 19,
-      "text": "Vide, ſi lubet, Bochart loco citato, Sanxit. hic Toſtat. qu. 11. & 16."
+      "text": "Vide, si lubet, Bochart loco citato, Sanxit. hic Tostat. qu. 11. et 16."
     },
     {
       "key": "page_0360-d",
       "n": 20,
-      "text": "Jun. & Tremell."
+      "text": "Jun. et Tremell."
     },
     {
       "key": "page_0360-e",
       "n": 21,
-      "text": "Vatab. Syr. Arab. Pag. Caſtal."
+      "text": "Vatab. Syr. Arab. Pag. Castal."
     },
     {
       "key": "page_0361-a",
       "n": 22,
-      "text": "Chryſoſt. homil. 3. de Elia Abuſenf. qu. Martyr. Cornel. &c."
+      "text": "Chrysost. homil. 3. de Elia Abusenf. qu. Martyr. Cornel. etc."
     },
     {
       "key": "page_0361-b",
@@ -291,17 +291,17 @@
     {
       "key": "page_0363-b",
       "n": 26,
-      "text": "Jonas 1. 9. Hebræus ego ſum, & Dominum Deum cœli, ego timeo. 4. Reg. XIV. 25. Per ſervum ſuum Jonam filium Amathi, de Geth, quæ eſt in Opher."
+      "text": "Jonas 1. 9. Hebræus ego sum, et Dominum Deum cœli, ego timeo. 4. Reg. XIV. 25. Per servum suum Jonam filium Amathi, de Geth, quæ est in Opher."
     },
     {
       "key": "page_0363-c",
       "n": 27,
-      "text": "Auguſt. Retract. lib. 1. c. 9."
+      "text": "August. Retract. lib. 1. c. 9."
     },
     {
       "key": "page_0364-a",
       "n": 28,
-      "text": "Pat. Eſtius."
+      "text": "Pat. Estius."
     },
     {
       "key": "page_0364-b",
@@ -321,79 +321,7 @@
     {
       "key": "page_0364-e",
       "n": 32,
-      "text": "Vide Cornel. hic, Toſtat. Tirin, Sanct."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0356",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0357",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0358",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0359",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0360",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0361",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0362",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0363",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0364",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0365",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Vide Cornel. hic, Tostat. Tirin, Sanct."
     }
   ],
   "missing_footnotes": []

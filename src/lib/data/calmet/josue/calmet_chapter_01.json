@@ -9,7 +9,7 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "JOSUE FILIUM NUN MINISTRUM MOYSI.",
       "lemma": "Josué fils de Nun ministre de Moïse.",
       "text": "On a parlé au long de la personne et des qualités de Josué dans la préface sur ce Livre, et on a montré ailleurs [5] que la qualité de ministre ou de serviteur de Moïse, n'était point une chose qui rabaissât Josué, ou qui le dût faire considérer avec moins de considération. Les Prophètes avaient ordinairement leurs ministres, qui devenaient souvent leurs successeurs dans la prophétie. Élie eut Élisée qui lui succéda ; Élisée eut Giezi qui se rendit indigne de cet honneur par son avarice ; Jérémie eut Baruc. Les héros de l'antiquité avaient aussi leurs serviteurs, qui étaient des héros comme eux, attachés à leur service par pure inclination et par amitié."
@@ -37,21 +37,21 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "OMNIS TERRA HETHÆORUM.",
       "lemma": "Tout le pays des Héthéens.",
       "text": "Ces Peuples habitaient principalement le pays de montagnes, qui est au midi de la terre de Canaan; [16] c'étaient les plus vaillants des Cananéens, et leurs places étaient les plus fortes du pays. Leur assiette jointe à la valeur des habitants, semblait devoir rendre ce canton inexpugnable; cependant Dieu en promet nommément la conquête à Josué, pour l'encourager dans l'entreprise dont il lui donne la conduite et l'exécution. Plusieurs Interprètes croient que sous le nom de Héthéens, on doit entendre en cet endroit tous les Cananéens, de même qu'ailleurs ils sont compris sous le nom d'Amorrhéens."
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "USQUE AD MARE MAGNUM CONTRA SOLIS OCCASUM.",
       "lemma": "Jusqu'à la grande mer qui est au couchant du pays.",
       "text": "Il parle de la Méditerranée, qui est au couchant de la Palestine. Il l'appelle grande mer, par opposition aux plus petites mers, ou aux lacs du pays de Canaan : comme la mer de Génézaret, la mer Morte. Les Hébreux donnent le nom de mer aux grands amas d'eau, soit d'eau douce ou salée. Souvent sous le nom de mer simplement, on entend le couchant et la Méditerranée."
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NULLUS POTERIT VOBIS RESISTERE.",
       "lemma": "Nul ne pourra vous résister.",
       "text": "Si vous ne vous rendez point indignes de ma protection, aucun de vos ennemis ne tiendra devant vous, nul ne vous résistera, ou s'ils vous résistent, ce sera pour leur plus grand malheur, et pour votre avantage. Il n'y a aucuns peuples Cananéens qui se soient rendus sans résistance, hors les Gabaonites; [17] tous les autres furent pris de vive force, et Dieu lui-même avait permis leur endurcissement, afin qu'ils n'obtinssent aucune composition de la part des Israélites. Ainsi quand Dieu dit à Josué que nul ne lui résistera, cela veut dire que nul ne pourra lui résister jusqu'à la fin, que nul ne sera assez fort pour lui tenir tête, sans être accablé par la force de ses armes."
@@ -79,7 +79,7 @@
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UT INTELLIGAS CUNCTA QUÆ AGIS.",
       "lemma": "Afin que vous fassiez avec intelligence tout ce que vous avez à faire.",
       "text": "Les Septante [23] et plusieurs bons Interprètes [24] suivent ce sens : _Afin que vous vous con_ duisiez avec prudence dans toutes vos entreprises. Mais d’autres traduisent : [25] _Afin que vous réussissiez dans tout ce que vous ferez_, ou dans tous les lieux où vous irez. Il est certain que le même terme de l’original se prend quelquefois pour _réussir_, et plus souvent pour _être prudent_. On trouve la même expression au verset 8."
@@ -93,7 +93,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NON RECEDAT VOLUMEN LEGIS HUJUS AB ORE TUO.",
       "lemma": "Que le livre de cette loi soit continuellement dans votre bouche.",
       "text": "Ne cessez jamais de vous en entretenir, et d’en parler ; ruminez-en les paroles, méditez-la ; comme ceux qui sont fortement occupés de quelque chose, et qui veulent se la graver dans la mémoire, la prononcent, et la répètent continuellement ; ainsi que ma loi ne sorte point de votre bouche."
@@ -114,7 +114,7 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "POST DIEM TERTIUM TRANSIBITIS JORDANEM.",
       "lemma": "Dans trois jours vous passerez le Jourdain.",
       "text": "Si ceci fut publié dans les plaines de Moab après le retour des espions, et avant que le peuple fût décampé de Setim pour venir sur le bord du Jourdain, il est visible par le récit de Josué, que le peuple ne passa pas le Jourdain trois jours après cette publication, mais seulement six jours après, comme nous l'avons expliqué sur le ℣. 1. Ainsi nous croyons que ces trois jours se doivent prendre depuis le premier jour du campement sur le Jourdain, et trois jours après le retour des espions, en un mot du huitième jour du premier mois, puisqu'on ne passa le Jourdain que le dix du même mois."
@@ -135,14 +135,14 @@
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TRANSITE ARMATI ANTE FRATRES VESTROS.",
       "lemma": "Passez à la tête de vos frères les armes à la main.",
       "text": "On pourrait traduire l’Hébreu : [34] _Passez en présence de vos frères en ordre de bataille._ On trouve ici le terme Hébreu _Chamuschim_, dont on a tâché de donner la vraie signification dans l’Exode.[35] Quant à ce qui est dit dans le texte que les guerriers des trois tribus passeront devant leurs frères, ou en présence de leurs frères, les Septante et la Vulgate suivis d’un bon nombre d’habiles Interprètes,[36] soutiennent que les quarante mille hommes de Ruben, de Gad et de Manassé, furent toujours à la tête de l’armée. Mais d’autres[37] veulent qu’ils aient été simplement dans le rang de leurs tribus, comme ils avaient accoutumé de marcher dans le désert. Le premier sentiment nous paraît le plus conforme au Texte, qui s’exprime toujours de la même manière sur leur marche."
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PUGNATE PRO EIS.",
       "lemma": "Combattez pour eux.",
       "text": "L’Hébr. _Secourez-les, aidez-les à combattre leurs ennemis_ : il n’aurait pas été juste que ces troupes auxiliaires fissent plus pour leurs frères, que ceux-ci n’avaient fait pour eux dans la conquête du pays de delà le Jourdain."
@@ -152,7 +152,7 @@
       "sub": false,
       "latin_lemma": "TRANS JORDANEM CONTRA SOLIS ORTUM.",
       "lemma": "Au-delà, et à l’orient du Jourdain.",
-      "text": "Josué écrivit apparemment son Livre après les guerres contre les Cananéens, et étant déjà dans la Palestine ; de là vient que dans cet ouvrage il parle du pays qui est au-delà du Jourdain. comme un homme qui est au deçà de ce fleuve. On peut voir ce que nous avons dit sur le ℣. 1. du chap. 1. du Deutéronome."
+      "text": "Josué écrivit apparemment son Livre après les guerres contre les Cananéens, et étant déjà dans la Palestine ; de là vient que dans cet ouvrage il parle du pays qui est au-delà du Jourdain, comme un homme qui est au deçà de ce fleuve. On peut voir ce que nous avons dit sur le ℣. 1. du chap. 1. du Deutéronome."
     },
     {
       "verse": 17,
@@ -229,8 +229,8 @@
     {
       "seam": "page_0075>page_0076",
       "verse": 15,
-      "mode": "hyphen",
-      "before": " cet ouvrage il parle du pays qui est au-delà du Jourdain.",
+      "mode": "splice",
+      "before": "dans cet ouvrage il parle du pays qui est au-delà du Jour-",
       "after": "dain, comme un homme qui est au deçà de ce fleuve. On peut"
     }
   ],
@@ -252,7 +252,7 @@
     {
       "key": "page_0065-a",
       "n": 1,
-      "text": "Rabb. apud Mss. Vat. &c."
+      "text": "Rabb. apud Mss. Vat. etc."
     },
     {
       "key": "page_0066-a",
@@ -277,22 +277,22 @@
     {
       "key": "page_0067-b",
       "n": 6,
-      "text": "Joſeph de bello Jud. l. 3. c. 33."
+      "text": "Joseph de bello Jud. l. 3. c. 33."
     },
     {
       "key": "page_0067-c",
       "n": 7,
-      "text": "Idem lib. 3. c. 35. & lib. 4. c. 1."
+      "text": "Idem lib. 3. c. 35. et lib. 4. c. 1."
     },
     {
       "key": "page_0067-d",
       "n": 8,
-      "text": "Il paroît par le chap 9. du Livre 13 de la guerre des Juifs, qu'il y avoit une égale diſtance du lac de Semechon à la ſource du Jourdain, & du même lac à la mer de Tiberiade, c'eſt-à-dire 120. ſtades."
+      "text": "Il paroît par le chap 9. du Livre 13 de la guerre des Juifs, qu'il y avoit une égale distance du lac de Semechon à la source du Jourdain, et du même lac à la mer de Tiberiade, c'est-à-dire 120. stades."
     },
     {
       "key": "page_0068-a",
       "n": 9,
-      "text": "Joſue XI. 5."
+      "text": "Josue XI. 5."
     },
     {
       "key": "page_0068-b",
@@ -317,22 +317,22 @@
     {
       "key": "page_0069-d",
       "n": 14,
-      "text": "3. Reg. IX. 19. & 2. par. VIII. 3. & 6."
+      "text": "3. Reg. IX. 19. et 2. par. VIII. 3. et 6."
     },
     {
       "key": "page_0069-e",
       "n": 15,
-      "text": "Vide Deut. 1. 7. & III. 25. & XI. 24. & Joſue 1. 4. & IX. 1."
+      "text": "Vide Deut. 1. 7. et III. 25. et XI. 24. et Josue 1. 4. et IX. 1."
     },
     {
       "key": "page_0070-a",
       "n": 16,
-      "text": "Maſ. Bonfr."
+      "text": "Mas. Bonfr."
     },
     {
       "key": "page_0070-b",
       "n": 17,
-      "text": "Joſue XI. 20. Non fuit civitas quæ ſe traderet filiis Iſraël, præter Hevæum qui habitabat in Gabaon : omnes enim bellando cepit. Domini enim ſententia fuerat ut indurarentur corda eorum, & pugnarent contra Iſraël, &c."
+      "text": "Josue XI. 20. Non fuit civitas quæ se traderet filiis Israël, præter Hevæum qui habitabat in Gabaon : omnes enim bellando cepit. Domini enim sententia fuerat ut indurarentur corda eorum, et pugnarent contra Israël, etc."
     },
     {
       "key": "page_0071-a",
@@ -347,7 +347,7 @@
     {
       "key": "page_0071-c",
       "n": 20,
-      "text": "Rab. Levi. Ben. gerſon. apud Maſ. & Magalim. apud Bonfr."
+      "text": "Rab. Levi. Ben. gerson. apud Mas. et Magalim. apud Bonfr."
     },
     {
       "key": "page_0071-d",
@@ -367,12 +367,12 @@
     {
       "key": "page_0071-g",
       "n": 24,
-      "text": "Munſt. Maſ. Cornel. &c."
+      "text": "Munst. Mas. Cornel. etc."
     },
     {
       "key": "page_0072-a",
       "n": 25,
-      "text": "למען תשכיל בכל אשר תלך Cald. Rib. Druſ. Vaſ. Syr. Arab."
+      "text": "למען תשכיל בכל אשר תלך Cald. Rib. Drus. Vas. Syr. Arab."
     },
     {
       "key": "page_0072-b",
@@ -387,17 +387,17 @@
     {
       "key": "page_0073-b",
       "n": 28,
-      "text": "Joſue v. 12."
+      "text": "Josue v. 12."
     },
     {
       "key": "page_0073-c",
       "n": 29,
-      "text": "Rab. Salom. & Joſeph. lib. 5. c. 1."
+      "text": "Rab. Salom. et Joseph. lib. 5. c. 1."
     },
     {
       "key": "page_0073-d",
       "n": 30,
-      "text": "Kimchi. Toſt. Maſ."
+      "text": "Kimchi. Tost. Mas."
     },
     {
       "key": "page_0073-e",
@@ -407,12 +407,12 @@
     {
       "key": "page_0074-a",
       "n": 32,
-      "text": "(a) נתן לכם את הארץ הזות"
+      "text": " נתן לכם את הארץ הזות"
     },
     {
       "key": "page_0074-b",
       "n": 33,
-      "text": "(b) _Vide Num._ XXXII. 17. 20. 21."
+      "text": " _Vide Num._ XXXII. 17. 20. 21."
     },
     {
       "key": "page_0075-a",
@@ -432,17 +432,17 @@
     {
       "key": "page_0075-d",
       "n": 37,
-      "text": "Jun. Druſ. Maſ."
+      "text": "Jun. Drus. Mas."
     },
     {
       "key": "page_0076-a",
       "n": 38,
-      "text": "Ita Talmudiri, Kimchi, &c."
+      "text": "Ita Talmudiri, Kimchi, etc."
     },
     {
       "key": "page_0076-b",
       "n": 39,
-      "text": "Maſ. Menor. Grot."
+      "text": "Mas. Menor. Grot."
     },
     {
       "key": "page_0076-c",
@@ -468,92 +468,6 @@
       "key": "page_0076-g",
       "n": 44,
       "text": "3. Reg. XXI. 15."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0065",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0066",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0067",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0068",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0069",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0070",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0071",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0072",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0073",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0074",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0075",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0076",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

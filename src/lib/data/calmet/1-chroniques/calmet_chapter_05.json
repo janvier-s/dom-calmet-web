@@ -186,22 +186,22 @@
     {
       "key": "page_0108-a",
       "n": 1,
-      "text": "Geneſ. XXXV. 22. & XLIX. 4."
+      "text": "Genes. XXXV. 22. et XLIX. 4."
     },
     {
       "key": "page_0108-b",
       "n": 2,
-      "text": "Vide Geneſ. XLVIII. 5. & Deut. XXI. 17."
+      "text": "Vide Genes. XLVIII. 5. et Deut. XXI. 17."
     },
     {
       "key": "page_0109-a",
       "n": 3,
-      "text": "Voyez ce qu'on a dit ſur la Geneſe xxv. 31."
+      "text": "Voyez ce qu'on a dit sur la Genese xxv. 31."
     },
     {
       "key": "page_0109-b",
       "n": 4,
-      "text": "נגיד ממנו 70. & in Sýlveira & aliis."
+      "text": "נגיד ממנו 70. et in Sýlveira et aliis."
     },
     {
       "key": "page_0109-c",
@@ -216,12 +216,12 @@
     {
       "key": "page_0111-a",
       "n": 7,
-      "text": "(a) מלחמתם עם הגראים 70. avoient la guerre des étrangers. πόλεμον εποίησαν πρὸς τοὺς τρωγλοδύτας. Comme s'ils"
+      "text": " מלחמתם עם הגראים 70. avoient la guerre des étrangers. πόλεμον εποίησαν πρὸς τοὺς τρωγλοδύτας. Comme s'ils"
     },
     {
       "key": "page_0111-b",
       "n": 8,
-      "text": "(b) Vide Deut. III. 10."
+      "text": " Vide Deut. III. 10."
     },
     {
       "key": "page_0112-a",
@@ -231,22 +231,22 @@
     {
       "key": "page_0114-a",
       "n": 10,
-      "text": "(a) ויעזרו עליהם וינתנו בידם ההגריאים וכל שעמהם"
+      "text": " ויעזרו עליהם וינתנו בידם ההגריאים וכל שעמהם"
     },
     {
       "key": "page_0114-b",
       "n": 11,
-      "text": "(b) καὶ κατίσχυσαν ἐπ᾽ ἀυτοῖς, καὶ ἐδόθησαν εἰς χεῖρας ἀυτῶν Ἀγαρηνοι."
+      "text": " καὶ κατίσχυσαν ἐπ᾽ ἀυτοῖς, καὶ ἐδόθησαν εἰς χεῖρας ἀυτῶν Ἀγαρηνοι."
     },
     {
       "key": "page_0115-a",
       "n": 12,
-      "text": "Voyez le ℣. 6. & 4. & Reg. xv. 29. naſſe decem, abſque terra Galaad & Baſan"
+      "text": "Voyez le ℣. 6. et 4. et Reg. xv. 29. nasse decem, absque terra Galaad et Basan"
     },
     {
       "key": "page_0115-b",
       "n": 13,
-      "text": "_Joſuæ_ XVII. 5. _Ceciderunt funiculi Matrans Jordanem._"
+      "text": "_Josuæ_ XVII. 5. _Ceciderunt funiculi Matrans Jordanem._"
     },
     {
       "key": "page_0116-b",
@@ -267,71 +267,6 @@
       "key": "page_0116-a",
       "n": 17,
       "text": "וישר אם רוח פול מלך אשור"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0108",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0109",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0110",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0111",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0112",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0113",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0114",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0115",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0116",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

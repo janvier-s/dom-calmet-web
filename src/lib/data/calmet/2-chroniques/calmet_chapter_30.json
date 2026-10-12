@@ -37,7 +37,7 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUÆ EFFUGERUNT MANUM REGIS ASSYRIORUM.",
       "lemma": "Et le Seigneur reviendra aux restes, qui ont échappé à la main du Roi des Assyriens.",
       "text": "Les Rois Phul, et Théglathphalassar avaient affligé le Royaume de Samarie; [10] et ce dernier en avait emmené captives quelques Tribus; [11] Ézéchias appelle les Tribus qui étaient demeurées dans le pays, _les restes qui ont échappé à la main du Roi des Assyriens_. Ou selon l'Hébreu: [12] _A la main des Rois des Assyriens_, de Phul, et de Théglathphalassar."
@@ -86,7 +86,7 @@
     },
     {
       "verse": 17,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SANCTIFICATA NON FUERAT, COMEDIT PHASE....",
       "lemma": "Une grande partie du peuple d'Ephraïm qui ne s'était point sanctifié, ne laissa pas de manger la Pâque ; et Ezéchias pria pour eux en cela.",
       "text": "La Loi ne permettait pas à ceux qui étaient souillés, de participer aux choses saintes, [21] ni de s'approcher du lieu saint, si ce n'est pour se purifier ; et comme il y avait certaines souillures, qui ne pouvaient se nettoyer si promptement, il arriva que plusieurs personnes se trouvèrent hors d'état de participer au sacrifice pascal. Ce furent principalement ceux des Tribus du Royaume de Samarie, qui avaient quitté depuis longtemps l'exercice des cérémonies de la Religion de leurs pères, et qui étant venus avec quelque espèce de précipitation à la fête, n'eurent pas le loisir de se préparer, et de se purifier. Mais Ezéchias crut pouvoir passer par-dessus cette formalité dans une occasion, où il s'agissait de ramener au culte du Seigneur un bon nombre de Tribus qui en étaient séparées depuis si longtemps. Ces Tribus avaient assez marqué leur respect pour les lois, en faisant égorger par les Lévites leurs victimes, qu'ils auraient pu immoler eux-mêmes. Ils crurent avec raison que l'action de sacrifier demandait une plus grande pureté, que celle de participer à la victime; d'ailleurs la nécessité n'était pas égale dans l'un et dans l'autre. On pouvait suppléer à l'offrande de la victime, en la faisant offrir par un autre; mais après la Pâque du deuxième mois, il n'y en avait pas une troisième, pour y pouvoir participer. Enfin les Israélites auraient été obligés sans cette indulgence, de s'en retourner dans leur pays sans participer à la Pâque, avec danger de ne revenir jamais à Jérusalem."
@@ -107,7 +107,7 @@
     },
     {
       "verse": 21,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PER ORGANA, QUÆ SUO OFFICIO CONGRUEBANT.",
       "lemma": "En touchant les instruments, qui étaient convenables à leurs fonctions.",
       "text": "L'Hébreu : [24] _Dans les instruments de force, dans des instruments dont ils jouaient de toutes leurs forces, ou dans des instruments qui_"
@@ -121,7 +121,7 @@
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "COMEDERUNT SEPTEM DIEBUS SOLEMNITATIS.",
       "lemma": "Ils mangèrent durant les sept jours que dura cette fête, des victimes d'actions de grâces.",
       "text": "L'Hébreu : [26] _Ils mangèrent cette solennité pendant sept jours._ Ils mangèrent les victimes de cette fête, ou, _ils mangèrent ce qui était ordonné dans cette fête, pendant sept jours._ Ils usèrent des viandes, et du pain ordonnés par la Loi durant la Pâque. On mangeait du pain sans levain, et ils mangèrent des viandes des hosties pacifiques, dont il est parlé au ℣. 24."
@@ -216,12 +216,12 @@
     {
       "key": "page_0204-a",
       "n": 1,
-      "text": "4. Reg. XVII. 2. _Fecit Oſée malum coram Domino, ſed non ſicut Reges Iſraël, qui ante eum fuerant._"
+      "text": "4. Reg. XVII. 2. _Fecit Osée malum coram Domino, sed non sicut Reges Israël, qui ante eum fuerant._"
     },
     {
       "key": "page_0204-b",
       "n": 2,
-      "text": "_Vide Menoch. &c. Salian._"
+      "text": "_Vide Menoch. etc. Salian._"
     },
     {
       "key": "page_0205-b",
@@ -251,12 +251,12 @@
     {
       "key": "page_0206-b",
       "n": 8,
-      "text": "Ita Pagn. Mar. Jun. Munſt. Grot."
+      "text": "Ita Pagn. Mar. Jun. Munst. Grot."
     },
     {
       "key": "page_0206-c",
       "n": 9,
-      "text": "Oſiand. Caſtal. Piſc. Vatab. (c) ὅτι πλῆθος τοῦ λαοῦ οὐκ ἐποίησεν κατὰ τὴν γραφήν."
+      "text": "Osiand. Castal. Pisc. Vatab.  ὅτι πλῆθος τοῦ λαοῦ οὐκ ἐποίησεν κατὰ τὴν γραφήν."
     },
     {
       "key": "page_0207-a",
@@ -266,7 +266,7 @@
     {
       "key": "page_0207-b",
       "n": 11,
-      "text": "Ibid. ℣. 29. & 1. Par. V. 26."
+      "text": "Ibid. ℣. 29. et 1. Par. V. 26."
     },
     {
       "key": "page_0207-c",
@@ -281,7 +281,7 @@
     {
       "key": "page_0207-e",
       "n": 14,
-      "text": "εἰς ἐρήμωσιν. Au chapitre XXIX. 8. ils traduiſent le même terme Hébreu par, εἰς ἀφανισμὸν."
+      "text": "εἰς ἐρήμωσιν. Au chapitre XXIX. 8. ils traduisent le même terme Hébreu par, εἰς ἀφανισμὸν."
     },
     {
       "key": "page_0208-a",
@@ -296,27 +296,27 @@
     {
       "key": "page_0209-b",
       "n": 17,
-      "text": "_Vide Exod._ XII. 6. _Immolabit eum univerſa multitudo filiorum Iſraël._"
+      "text": "_Vide Exod._ XII. 6. _Immolabit eum universa multitudo filiorum Israël._"
     },
     {
       "key": "page_0209-c",
       "n": 18,
-      "text": "_Grot. hic, & in Matt._ XXVI. 18."
+      "text": "_Grot. hic, et in Matt._ XXVI. 18."
     },
     {
       "key": "page_0209-d",
       "n": 19,
-      "text": "_Joſeph. Antiq. lib_ x. c. 1. _τὰς θυσίας ἐπιτελῶν τῷ Θεῷ, Μωσῆς νόμοις ἑτέροις ἐξηγούμϐυα τὰς ὄχλοις._ Mais il n'eſt pas certain que ce paſſage doive ſe reſtreindre au ſeul agneau paſcal; & quand il s'y reſtreindroit,"
+      "text": "_Joseph. Antiq. lib_ x. c. 1. _τὰς θυσίας ἐπιτελῶν τῷ Θεῷ, Μωσῆς νόμοις ἑτέροις ἐξηγούμϐυα τὰς ὄχλοις._ Mais il n'est pas certain que ce passage doive se restreindre au seul agneau pascal; et quand il s'y restreindroit,"
     },
     {
       "key": "page_0210-a",
       "n": 20,
-      "text": "qu'on pourroit-on conclure ? Chacun des Prêtres, dit-il, étoit à la reſte du peuple dans les ſacrifices. Le même Auteur lib. 6. Α'λῶς. Κεφάλ. με Κισίῳ παραβάλλοι τις τὰς χρείας ὅπως ἄπανσι εἴη τῷ πληθυῒ εὐθυμῆσαι. δι ὃ ἑκάσης ἑορτῆς, μέχρι καὶ νῦν, καθ' ἣν ἦσαν μὲν ἰδιῶται οὐκ ὀλίγοι τὰ χεὶ ἱνδικάσης. Mais ce paſſage n'eſt pas plus déciſif. Joſeph peut marquer ſimplement que les Prêtres offrent le ſang de l'agneau paſcal, lorſqu'il dit que les Prêtres ſacrifient depuis la neuviéme heure, juſqu'à la onziéme. (a) Philo de Decalogo. ἐν πάσῃ δίκαια κωλυθμὸς ἱερᾶς γ'. τὰς ἱερὰς οὐκ ἀναφέροντας ἱεροσύνην ἣ νόμῳ χαλεσωμὸς τὸ ἔθνε πάντα μίαν ἡμέραν ἐξαίρετον ἀνὰ πᾶν ἔτος, εἰς αὐτουργίαν θυσιῶν. Et lib. 3. de vita Moyſis. ἐν ᾗ ( πάχα ) οὐκ οἱ μὲν ἰδιῶται οὐδέποτε τῷ βωμῷ τὰ ἱερεῖα θύουσι δ' οἱ ἱερεῖς, ἀλλὰ νόμῳ πανδημεὶ σύμπαν τὸ ἔθνος ἱερᾶται) ἣ μέρος ἑκάστῳ τῆς ὑπὲρ αὐτῷ θυσίας ἀναθέντος, τότε χρὴ ἀφιερῶντος."
+      "text": "qu'on pourroit-on conclure ? Chacun des Prêtres, dit-il, étoit à la reste du peuple dans les sacrifices. Le même Auteur lib. 6. Α'λῶς. Κεφάλ. με Κισίῳ παραβάλλοι τις τὰς χρείας ὅπως ἄπανσι εἴη τῷ πληθυῒ εὐθυμῆσαι. δι ὃ ἑκάσης ἑορτῆς, μέχρι καὶ νῦν, καθ' ἣν ἦσαν μὲν ἰδιῶται οὐκ ὀλίγοι τὰ χεὶ ἱνδικάσης. Mais ce passage n'est pas plus décisif. Joseph peut marquer simplement que les Prêtres offrent le sang de l'agneau pascal, lorsqu'il dit que les Prêtres sacrifient depuis la neuviéme heure, jusqu'à la onziéme.  Philo de Decalogo. ἐν πάσῃ δίκαια κωλυθμὸς ἱερᾶς γ'. τὰς ἱερὰς οὐκ ἀναφέροντας ἱεροσύνην ἣ νόμῳ χαλεσωμὸς τὸ ἔθνε πάντα μίαν ἡμέραν ἐξαίρετον ἀνὰ πᾶν ἔτος, εἰς αὐτουργίαν θυσιῶν. Et lib. 3. de vita Moysis. ἐν ᾗ ( πάχα ) οὐκ οἱ μὲν ἰδιῶται οὐδέποτε τῷ βωμῷ τὰ ἱερεῖα θύουσι δ' οἱ ἱερεῖς, ἀλλὰ νόμῳ πανδημεὶ σύμπαν τὸ ἔθνος ἱερᾶται) ἣ μέρος ἑκάστῳ τῆς ὑπὲρ αὐτῷ θυσίας ἀναθέντος, τότε χρὴ ἀφιερῶντος."
     },
     {
       "key": "page_0211-a",
       "n": 21,
-      "text": "Vide Levit. XV. 31. & XXII. 4. & Num. IX. 6."
+      "text": "Vide Levit. XV. 31. et XXII. 4. et Num. IX. 6."
     },
     {
       "key": "page_0211-b",
@@ -326,7 +326,7 @@
     {
       "key": "page_0212-a",
       "n": 23,
-      "text": "Vide 2. Par. xxxvi. 16. & Iſai. vi. 10. Vide Schindler. in רפא"
+      "text": "Vide 2. Par. xxxvi. 16. et Isai. vi. 10. Vide Schindler. in רפא"
     },
     {
       "key": "page_0212-b",
@@ -346,91 +346,12 @@
     {
       "key": "page_0214-a",
       "n": 27,
-      "text": "Exod. XII. 48. Quod ſi quis peregrinorum in veſtram voluerit tranſire coloniam, & facere Phaſe Domini, circumcidetur prius omne maſculinum."
+      "text": "Exod. XII. 48. Quod si quis peregrinorum in vestram voluerit transire coloniam, et facere Phase Domini, circumcidetur prius omne masculinum."
     },
     {
       "key": "page_0214-b",
       "n": 28,
       "text": "Num. VI. 24."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0204",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0205",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0206",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0207",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0208",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0209",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0210",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0211",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0212",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0213",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0214",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

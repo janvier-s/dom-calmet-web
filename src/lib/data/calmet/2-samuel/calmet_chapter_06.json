@@ -9,7 +9,7 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TRIGINTA MILLIA.",
       "lemma": "Trente mille hommes.",
       "text": "Quelques Exemplaires des Septante [3] lisent soixante-dix mille. Grotius et Capelle [4] croient qu'il s'y trouva trois cent mille hommes, au lieu de trente mille. Et en effet, comment ne donner que trente mille hommes à une assemblée générale de tout Israël, convoquée exprès depuis le Nil, ou le Sihor, jusqu’à l’entrée d’Hémath, [5] pendant qu’on en voit plus de quatre cent quarante mille, quelques années auparavant, à Hébron, lorsqu’il s’agit de reconnaître David pour Roi ? [6] Ces raisons auraient une plus grande force, si elles étaient appuyées sur quelque Texte ; mais tous les Exemplaires Hébreux portent trente mille en cet endroit ; et les Paralipomènes ne marquent pas le nombre du peuple. Ne pourrait-on pas concilier cette diversité, en disant qu’il y eut trente mille hommes d’élite en armes, pour la sûreté de cette fête, et un bien plus grand nombre de peuple sans armes, et uniquement pour orner la pompe."
@@ -23,14 +23,14 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SUPER QUAM INVOCATUM EST NOMEN DOMINI.",
       "lemma": "Sur laquelle est invoqué le nom du Seigneur. Qui est appelée l’Arche du Seigneur.",
       "text": "C’est ainsi qu’on dit :[12] _Qu’on invoque votre nom sur nous : Qu’on nous reconnaisse pour vos épouses._ Et ailleurs :[13] _Israël, sur lequel votre nom a été invoqué, qui est qualifié votre peuple._ Et Jacob, en parlant d’Ephraïm et de Manassé, qu’il adoptait.[14] _Que mon nom soit invoqué sur eux ; qu’on les appelle fils de Jacob._ L’Hébreu à la lettre :[15] _Sur laquelle est invoqué le nom, le nom de Dieu ; ce nom si digne de respect et de vénération._"
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUI SEDET SUPER CHERUBIN.",
       "lemma": "Qui est assis sur les Chérubins.",
       "text": "Voyez ce qu’on a dit ci-devant, I. Reg. IV. 4."
@@ -44,14 +44,14 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TULERUNT ARCAM DE DOMO ABINADAB, QUI",
       "lemma": null,
       "text": ""
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ERAT IN GABAA.",
       "lemma": null,
       "text": "Ils emmenèrent l'Arche de la maison d'Abinadab, habitant de Gabaa ; ou _plutôt_, de la maison d'Abinadab, qui était sur la hauteur de Cariath iarim.[19] Gabaa signifie une hauteur ; et on a vu ailleurs [20] que l'Arche avait été déposée chez Abinadab, qui demeurait sur la hauteur, de la ville qu'on vient de nommer."
@@ -60,40 +60,40 @@
       "verse": 5,
       "sub": false,
       "latin_lemma": "IN OMNIBUS LIGNIS FABREFACTIS.",
-      "lemma": "De toutes sortes d'instruments de musique. L'Hébreu à la lettre : [21] De tous les bois de sapin ; parce qu'apparemment on faisait ordinairement les instruments de musique, avec cette sorte de bois.",
+      "lemma": "_De toutes sortes d'instruments de musique. L'Hébreu à la lettre :_ [21] _De tous les bois de sapin ; parce qu'apparemment on faisait ordinairement les instruments de musique, avec cette sorte de bois._",
       "text": ""
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CYTHARIS.",
       "lemma": null,
       "text": "De la harpe. L'Hébreu [22] _cinnor_, signifie, comme on croit, une lyre ancienne, fort différente de la harpe. On en parlera plus au long dans le Commentaire sur les Psaumes."
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "LYRIS.",
       "lemma": null,
       "text": "La lyre. L'Hébreu : [23] _Le nable_."
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TYMPANIS.",
       "lemma": null,
       "text": "Le tambour, ou la timbale, ou _plutôt_, la cymbale, ou peut-être un tambour de Basques."
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SISTRIS.",
       "lemma": null,
       "text": "Le sistre. Le mot Hébreu [24] _menanim_, vient de _na_, qui signifie _remuer, agiter_ ; il signifie peut-être une sorte de tambour, dont on jouait avec beaucoup de mouvement. Les Septante, _Cymbala_. Aquila, _Symmaque, Sistra_."
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CYMBALIS.",
       "lemma": null,
       "text": "Timbales. L'Hébreu, [25] _zelzelim_. Les Septante, des flûtes. C'est _plutôt_ le sistre, instrument fort commun parmi les Égyptiens."
@@ -107,7 +107,7 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUONIAM CALCITRABANT BOVES.",
       "lemma": "Parce que les bœufs regimbaient.",
       "text": "On ignore la vraie signification du terme de l'original.[31] Les Septante:[32] _Parce que le bœuf la tirait du chemin._ Le Chaldéen : _Parce que les bœufs l'avaient poussée._ D'autres : _Parce qu'ils s'étaient écartés du chemin._ Bochart croit que les bœufs s'étaient embourbés. Dans l'endroit parallèle des Paralipomènes, il est dit qu'un des bœufs regimbant, avait fait pencher l'Arche:[33] _Bos quippe lasciviens inclinaverat eam._ Les Septante[34] lisent de même en cet endroit : mais l'Hébreu n'est point différent. On peut aussi traduire: _Les bœufs la relâchaient, la laissaient tomber. Ils firent apparemment pencher le chariot._"
@@ -156,7 +156,7 @@
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DAVID ERAT ACCINCTUS EPHOD LINEO.",
       "lemma": "David revêtu d'un Ephod de lin.[63]",
       "text": "Il prit dans cette occasion un habit, qui ne convenait régulièrement qu'aux Prêtres ; mais il n'y avait aucune Loi qui en défendît l'usage au Roi. Cet Ephod n'était apparemment qu'une ceinture de lin, qui serrait les habits de dessous. David avait outre cela un manteau de Byssus, comme on le voit aux Paralipomènes.[61] Cela n'empêcha pas Michol de reprocher au Roi, qu'il s'était découvert devant ses servantes d'une manière indécente, comme on le verra ci-après. Quelques Pères faisant attention à ce que fit David, lorsqu'il mangea les pains de proposition, et à ce qu'il fait ici en se revêtant de l'Ephod, l'ont regardé comme un Prêtre, appartenant au Sacerdoce de la Loi nouvelle, ou comme une figure des Prêtres de la nouvelle alliance. C'est en ce sens que S. Irénée[62] l'appelle un Prêtre, _Sacerdos scitus erat David_."
@@ -177,7 +177,7 @@
     },
     {
       "verse": 17,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BI DAVID.",
       "lemma": "Dans la tente que David avait fait dresser.",
       "text": "David fit faire une nouvelle tente, ou un nouveau Tabernacle, qu'on dressa dans la cité de David; l'ancien Tabernacle demeura à Gabaon."
@@ -198,14 +198,14 @@
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ASSATURAM BUBULÆ CARNIS.",
       "lemma": "Un morceau de bœuf rôti.",
       "text": "De la viande autant qu'il en fallait pour rassasier une personne."
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SIMILAM FRIXAM OLEO.",
       "lemma": "De la farine fritte dans l'huile.",
       "text": "Ce serait pour nous un fort mauvais service, que de la farine fritte dans l'huile; mais les Anciens usaient beaucoup de farine, [68] etc ce n'était pas une petite délicatesse de la frire dans l'huile. Plusieurs nouveaux Interprètes[69] croient que l'Hébreu signifie une bouteille de vin. Les Septante,[70] des beignets frits dans la poêle. Le Chaldéen : _une portion_."
@@ -214,12 +214,12 @@
       "verse": 20,
       "sub": false,
       "latin_lemma": "DISCOOPERIENS SE.",
-      "lemma": "En se découvrant devant les filles de ses serviteurs, ou devant les femmes et les filles de ses sujets.",
+      "lemma": "_En se découvrant devant les filles de ses serviteurs_, ou devant les femmes et les filles de ses sujets.",
       "text": "Michol ajoute ceci du sien ; il n'est nullement croyable que David ait commis aucune indécence contraire à l'honnêteté. Michol exagère ; elle veut peut-être dire simplement que David s'était mis au hasard de se découvrir en sautant de toutes ses forces. D'ailleurs, _se découvrir_ ; ne marque pas toujours une nudité entière ; on a déjà dit en quelque endroit,[71] qu'être nu signifie souvent, n'être pas vêtu à son ordinaire ; être ou mal vêtu, ou peu vêtu. David avait sur lui l'Éphod de lin, comme il est dit au ℣. 14. il avait de plus le manteau de Byssus, comme on le voit dans les Paralipomènes ; il est à croire qu'il avait aussi sa tunique : car l'Éphod n'étant qu'une ceinture, se mettait ordinairement sur la robe, ou sur la tunique. Ainsi le reproche de Michol ne peut tomber que sur quelques mouvements trop vifs et trop violents, qu'elle crut remarquer dans David, qui témoignait son extrême allégresse devant l'Arche."
     },
     {
       "verse": 20,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUASI SI NUDETUR UNUS DE SCURRIS.",
       "lemma": "Comme ferait un bouffon.",
       "text": "Michol outre ce qu'elle dit, et ne ménage point assez le respect qui est dû au Roi. Le Texte à la lettre: [72] _Comme serait un fou_, un de ces hommes fainéants et oisifs, qui amusent le peuple par de vains spectacles. Les Septante: [73] _Comme un danseur_."
@@ -307,7 +307,7 @@
     {
       "key": "page_0059-b",
       "n": 2,
-      "text": "I. Par. XIII. 1. & ſequ."
+      "text": "I. Par. XIII. 1. et sequ."
     },
     {
       "key": "page_0059-c",
@@ -342,7 +342,7 @@
     {
       "key": "page_0060-e",
       "n": 9,
-      "text": "Joſue XV. 60."
+      "text": "Josue XV. 60."
     },
     {
       "key": "page_0060-f",
@@ -357,7 +357,7 @@
     {
       "key": "page_0061-b",
       "n": 12,
-      "text": "Iſai. IV. 1."
+      "text": "Isai. IV. 1."
     },
     {
       "key": "page_0061-c",
@@ -367,7 +367,7 @@
     {
       "key": "page_0061-d",
       "n": 14,
-      "text": "Geneſ. XLVIII. 16."
+      "text": "Genes. XLVIII. 16."
     },
     {
       "key": "page_0061-e",
@@ -392,7 +392,7 @@
     {
       "key": "page_0062-a",
       "n": 19,
-      "text": "Iſa 70. Εἰς ἄλσος Καριαθιαρίμ. G.L."
+      "text": "Isa 70. Εἰς ἄλσος Καριαθιαρίμ. G.L."
     },
     {
       "key": "page_0062-b",
@@ -447,7 +447,7 @@
     {
       "key": "page_0063-e",
       "n": 30,
-      "text": "1. Par. XIII. 9. Cùm perveniſſent ad aream Chidon."
+      "text": "1. Par. XIII. 9. Cùm pervenissent ad aream Chidon."
     },
     {
       "key": "page_0063-f",
@@ -472,7 +472,7 @@
     {
       "key": "page_0063-k",
       "n": 35,
-      "text": "על השל Aq. Ε'πι τη ανοια, pro ignorantia, ou inſania. Alius αμαρτία, temeritate."
+      "text": "על השל Aq. Ε'πι τη ανοια, pro ignorantia, ou insania. Alius αμαρτία, temeritate."
     },
     {
       "key": "page_0064-a",
@@ -487,32 +487,32 @@
     {
       "key": "page_0064-c",
       "n": 38,
-      "text": "Ita Lit. Græt. Men. ad ℣. 3. Malu. Mart. Tir. Eſt. ad 1. Par. XIII."
+      "text": "Ita Lit. Græt. Men. ad ℣. 3. Malu. Mart. Tir. Est. ad 1. Par. XIII."
     },
     {
       "key": "page_0064-d",
       "n": 39,
-      "text": "1. Par. xv. 13. Ne ut à principio, quia non eratis præſentes, percuſſit nos Dominus, &c. Vide & Joſeph lib. 7. c. 4. Antiq. & Theodoret. qu. 19. in 2. Reg."
+      "text": "1. Par. xv. 13. Ne ut à principio, quia non eratis præsentes, percussit nos Dominus, etc. Vide et Joseph lib. 7. c. 4. Antiq. et Theodoret. qu. 19. in 2. Reg."
     },
     {
       "key": "page_0064-e",
       "n": 40,
-      "text": "Joſeph. Antiq. lib. 6. c. 2. Appelle Abinadab pere d'Oza, un Levite illuſtre par ſa juſtice. Voyez auſſi Theodoret qu. 19. où il impoſe à Joſeph de dire qu'Oza n'étoit pas Lévite; Joſeph dit ſeulement, qu'il n'étoit pas Prêtre; Oza οὐκ ἦν ἱερεὺς ἀλλὰ λευίτης."
+      "text": "Joseph. Antiq. lib. 6. c. 2. Appelle Abinadab pere d'Oza, un Levite illustre par sa justice. Voyez aussi Theodoret qu. 19. où il impose à Joseph de dire qu'Oza n'étoit pas Lévite; Joseph dit seulement, qu'il n'étoit pas Prêtre; Oza οὐκ ἦν ἱερεὺς ἀλλὰ λευίτης."
     },
     {
       "key": "page_0064-f",
       "n": 41,
-      "text": "Vide Num. IV. 15. & XVIII. 3."
+      "text": "Vide Num. IV. 15. et XVIII. 3."
     },
     {
       "key": "page_0064-g",
       "n": 42,
-      "text": "Joſue III. 14."
+      "text": "Josue III. 14."
     },
     {
       "key": "page_0064-h",
       "n": 43,
-      "text": "Joſue VI. 6."
+      "text": "Josue VI. 6."
     },
     {
       "key": "page_0064-i",
@@ -527,32 +527,32 @@
     {
       "key": "page_0065-a",
       "n": 46,
-      "text": "(a) [UNCERTAIN HEBREW] 70. 1. _Ainsworth diacowit._"
+      "text": " [UNCERTAIN HEBREW] 70. 1. _Ainsworth diacowit._"
     },
     {
       "key": "page_0065-b",
       "n": 47,
-      "text": "(b) _Vide_ Exod. XIX. 22. & 24."
+      "text": " _Vide_ Exod. XIX. 22. et 24."
     },
     {
       "key": "page_0065-c",
       "n": 48,
-      "text": "(c) Judic. XXI. 15."
+      "text": " Judic. XXI. 15."
     },
     {
       "key": "page_0065-d",
       "n": 49,
-      "text": "(d) _Pſal._ XVI. 4. _Jerem._ VII. 11. _Mich._ II, 13. _&c._"
+      "text": " _Psal._ XVI. 4. _Jerem._ VII. 11. _Mich._ II, 13. _etc._"
     },
     {
       "key": "page_0065-e",
       "n": 50,
-      "text": "(e) 1. _Par._ XV. 18. 21. 24. & XVI. 5. 38; XXVI. 4."
+      "text": " 1. _Par._ XV. 18. 21. 24. et XVI. 5. 38; XXVI. 4."
     },
     {
       "key": "page_0065-f",
       "n": 51,
-      "text": "(f) _Joſue_ XXI. 24. 25."
+      "text": " _Josue_ XXI. 24. 25."
     },
     {
       "key": "page_0066-a",
@@ -572,7 +572,7 @@
     {
       "key": "page_0067-b",
       "n": 55,
-      "text": "Vide Bochart. de animal. ſacris tom. 1. lib. 2. c. 28."
+      "text": "Vide Bochart. de animal. sacris tom. 1. lib. 2. c. 28."
     },
     {
       "key": "page_0067-c",
@@ -587,7 +587,7 @@
     {
       "key": "page_0067-e",
       "n": 58,
-      "text": "Epiſt. Parid. & Helen."
+      "text": "Epist. Parid. et Helen."
     },
     {
       "key": "page_0067-f",
@@ -597,7 +597,7 @@
     {
       "key": "page_0067-g",
       "n": 60,
-      "text": "Ἀνεκρέετο ἐν ὀργάνοις ἐναρμονίοις, &c. Cald. משבח"
+      "text": "Ἀνεκρέετο ἐν ὀργάνοις ἐναρμονίοις, etc. Cald. משבח"
     },
     {
       "key": "page_0068-b",
@@ -607,7 +607,7 @@
     {
       "key": "page_0068-c",
       "n": 62,
-      "text": "Irenæus lib. 4. contra Hæref. Voyez auſſi ſaint Ambroiſe, lib. 5. in Luc. c. 6."
+      "text": "Irenæus lib. 4. contra Hæref. Voyez aussi saint Ambroise, lib. 5. in Luc. c. 6."
     },
     {
       "key": "page_0068-a",
@@ -637,12 +637,12 @@
     {
       "key": "page_0069-d",
       "n": 68,
-      "text": "Voyez ce que nous avons remarqué ſur le Levit. c. II. 1. pag. 10. & 11."
+      "text": "Voyez ce que nous avons remarqué sur le Levit. c. II. 1. pag. 10. et 11."
     },
     {
       "key": "page_0070-a",
       "n": 69,
-      "text": "אששיה Munſt. Kimchi, Vat. Jun. Piſc. Cleric."
+      "text": "אששיה Munst. Kimchi, Vat. Jun. Pisc. Cleric."
     },
     {
       "key": "page_0070-b",
@@ -657,7 +657,7 @@
     {
       "key": "page_0071-a",
       "n": 72,
-      "text": "רקדים Aq. Εἰς κενὸν, inanem. Sym. Εἰκῆλος. vilium. 70. Ὀρχησῶν, ſaltantium."
+      "text": "רקדים Aq. Εἰς κενὸν, inanem. Sym. Εἰκῆλος. vilium. 70. Ὀρχησῶν, saltantium."
     },
     {
       "key": "page_0071-b",
@@ -668,99 +668,6 @@
       "key": "page_0071-c",
       "n": 74,
       "text": "Ci-devant 2. Reg. iii. 5."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0059",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0060",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0061",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0062",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0063",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0064",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0065",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0066",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0067",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0068",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0069",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0070",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0071",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

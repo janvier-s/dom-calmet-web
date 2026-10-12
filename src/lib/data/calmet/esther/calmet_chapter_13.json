@@ -1,39 +1,46 @@
 {
   "notes": [
     {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "REX MAXIMUS ARTAXERCES.",
+      "lemma": "Le grand Roi Artaxerxès, ou Assuérus.",
+      "text": "Nous avons déjà vu le précis de cet Édit dans le Chapitre III. versets 13. et 14. et on le trouve dans les Textes Grecs en cet endroit-là, comme dans sa place naturelle. Josèphe le rapporte aussi tout entier dans son Histoire ; mais avec quelque diversité dans les termes."
+    },
+    {
       "verse": 2,
       "sub": false,
       "latin_lemma": "UNIVERSUM ORBEM.",
       "lemma": "Tout l'univers.",
-      "text": "C'est une exagération. On flatte toujours les Princes dans leurs titres, & dans les qualités qu'on leur donne. Les Orientaux ont donné encore plus d'exemples de cette faiblesse, que les autres Peuples."
+      "text": "C'est une exagération. On flatte toujours les Princes dans leurs titres, et dans les qualités qu'on leur donne. Les Orientaux ont donné encore plus d'exemples de cette faiblesse, que les autres Peuples."
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UT ABSQUE ULLO TERRORE VITAM SILENTIO TRANSIGENTES.",
-      "lemma": "Afin que passant leur vie doucement, & sans aucune crainte.",
-      "text": "Le Grec : [1] _Voulant leur rendre la vie tranquille, & sans agitation ; & notre règne doux, & ouvert à tous ; ou bien, faire que notre Royaume soit paisible, & que chacun y puisse voyager en sûreté, depuis une extrémité, jusqu'à l'autre._"
+      "lemma": "Afin que passant leur vie doucement, et sans aucune crainte.",
+      "text": "Le Grec : [1] _Voulant leur rendre la vie tranquille, et sans agitation ; et notre règne doux, et ouvert à tous ; ou bien, faire que notre Royaume soit paisible, et que chacun y puisse voyager en sûreté, depuis une extrémité, jusqu'à l'autre._"
     },
     {
       "verse": 3,
       "sub": false,
       "latin_lemma": "QUI SAPIENTIA, ET FIDE, CÆTEROS PRÆCELLEBAT, ET ERAT POST REGEM SECUNDUS.",
-      "lemma": "L'un d'entre eux, élevé par sa sagesse, & par sa fidélité au-dessus des autres, & le second après le Roi.",
-      "text": "Le Grec : [2] _L'un d'entre eux, distingué auprès de nous par sa sagesse, connu par son attachement inviolable, & par sa fidélité toujours constante, & qui possédait la seconde Dignité du Royaume._ Joseph : [3] _Qui possède auprès de moi le premier rang d'honneur, & de dignité, à cause de sa sagesse, & de sa justice, & qui est après moi le second du Royaume, en récompense de sa fidélité, & de son affection toujours constante._"
+      "lemma": "L'un d'entre eux, élevé par sa sagesse, et par sa fidélité au-dessus des autres, et le second après le Roi.",
+      "text": "Le Grec : [2] _L'un d'entre eux, distingué auprès de nous par sa sagesse, connu par son attachement inviolable, et par sa fidélité toujours constante, et qui possédait la seconde Dignité du Royaume._ Joseph : [3] _Qui possède auprès de moi le premier rang d'honneur, et de dignité, à cause de sa sagesse, et de sa justice, et qui est après moi le second du Royaume, en récompense de sa fidélité, et de son affection toujours constante._"
     },
     {
       "verse": 4,
       "sub": false,
       "latin_lemma": "UNIVERSARUM CONCORDIAM NATIONUM SUA DISSENSIONE VIOLARET.",
-      "lemma": "Qui trouble par la contrariété de ses sentiments, la paix, & l'union de tous les Peuples.",
-      "text": "Le Grec : [4] _En sorte que no-_ tre Royaume, que nous tâchons de gouverner sans reproche, ne peut se maintenir en paix, à cause de cette Nation toute différente des autres. Joseph est plus court. Voici ce qu'il dit pour les versets 4. & 5. Il nous a donné avis qu'il y a un mauvais Peuple, qui se conduit par des Lois différentes des nôtres; qui n'est point soumis aux Rois; qui a des coutumes éloignées de celles des autres Peuples; qui hait la Monarchie, & qui n'est nullement affectionné à nos intérêts."
+      "lemma": "Qui trouble par la contrariété de ses sentiments, la paix, et l'union de tous les Peuples.",
+      "text": "Le Grec : [4] _En sorte que no-_ tre Royaume, que nous tâchons de gouverner sans reproche, ne peut se maintenir en paix, à cause de cette Nation toute différente des autres. Joseph est plus court. Voici ce qu'il dit pour les versets 4. et 5. Il nous a donné avis qu'il y a un mauvais Peuple, qui se conduit par des Lois différentes des nôtres; qui n'est point soumis aux Rois; qui a des coutumes éloignées de celles des autres Peuples; qui hait la Monarchie, et qui n'est nullement affectionné à nos intérêts."
     },
     {
       "verse": 5,
       "sub": false,
       "latin_lemma": "GENTEM REBELLEM ADVERSUS OMNE HOMINUM GENUS, PERVERSIS UTI LEGIBUS, NOSTRISQUE JUSSIONIBUS CONTRAIRE, ET TURBARE SUBJECTARUM NOBIS PROVINCIARUM PACEM.",
-      "lemma": "Qu'une Nation se révolte contre toutes les autres, suit des Lois injustes, combat nos ordonnances, & trouble la paix des Provinces.",
-      "text": "Le Grec : [5] Une Nation seule, & séparée, opposée à tout le reste du genre humain, qui a une Loi étrangère, & différente des nôtres, mal affectionnée à nos intérêts; qui fait plusieurs grands maux, pour empêcher que notre Royaume ne possède la paix, & le bon ordre."
+      "lemma": "Qu'une Nation se révolte contre toutes les autres, suit des Lois injustes, combat nos ordonnances, et trouble la paix des Provinces.",
+      "text": "Le Grec : [5] Une Nation seule, et séparée, opposée à tout le reste du genre humain, qui a une Loi étrangère, et différente des nôtres, mal affectionnée à nos intérêts; qui fait plusieurs grands maux, pour empêcher que notre Royaume ne possède la paix, et le bon ordre."
     },
     {
       "verse": 6,
@@ -44,24 +51,24 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AMAN, QUI OMNIBUS PROVINCIIS PRÆPOSITUS EST,",
       "lemma": null,
       "text": ""
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET SECUNDUS A REGE, ET QUEM PATRIS LOCO COLIMUS.",
-      "lemma": "Aman, qui commande à toutes les Provinces, qui est le second après le Roi, & que nous honorons comme notre père.",
-      "text": "Le Grec : [7] _Aman, qui a l'intendance de nos affaires, & qui est notre second père._ Ce nom de Père se donnait quelquefois par les Princes à ceux de leurs sujets pour qui ils avaient une considération particulière. Hiram, Roi de Tyr, donne ce nom à un Ouvrier habile qu'il envoyait à Salomon ; [8] ce qui fait voir l'estime qu'on faisait alors de ceux qui se distinguaient dans leur art. Les Rois de Perse avaient un nombre de personnes, à qui ils donnaient le nom de parents. Ils portaient le diadème sur la tiare, de même que le Roi ; [9] ils saluaient le Roi par le baiser, [10] qui était une espèce de marque d'égalité, & assistaient à un repas, qui prenait son nom de la parenté, de ceux qui y assistaient ; comme qui dirait un repas de famille. Les trois gardes du Corps de Darius, qui lui proposèrent le fameux problème rapporté dans le troisième Livre d'Esdras, demandèrent à ce Prince, que celui d'entre eux qui serait vainqueur, portât le titre de parent du Roi : _Cognatus Darii vocabitur._ [11]"
+      "lemma": "Aman, qui commande à toutes les Provinces, qui est le second après le Roi, et que nous honorons comme notre père.",
+      "text": "Le Grec : [7] _Aman, qui a l'intendance de nos affaires, et qui est notre second père._ Ce nom de Père se donnait quelquefois par les Princes à ceux de leurs sujets pour qui ils avaient une considération particulière. Hiram, Roi de Tyr, donne ce nom à un Ouvrier habile qu'il envoyait à Salomon ; [8] ce qui fait voir l'estime qu'on faisait alors de ceux qui se distinguaient dans leur art. Les Rois de Perse avaient un nombre de personnes, à qui ils donnaient le nom de parents. Ils portaient le diadème sur la tiare, de même que le Roi ; [9] ils saluaient le Roi par le baiser, [10] qui était une espèce de marque d'égalité, et assistaient à un repas, qui prenait son nom de la parenté, de ceux qui y assistaient ; comme qui dirait un repas de famille. Les trois gardes du Corps de Darius, qui lui proposèrent le fameux problème rapporté dans le troisième Livre d'Esdras, demandèrent à ce Prince, que celui d'entre eux qui serait vainqueur, portât le titre de parent du Roi : _Cognatus Darii vocabitur._ [11]"
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUARTA-DECIMA DUODECIMI MENSIS ADAR.",
       "lemma": "Le quatorzième jour d'Adar du douzième mois.",
-      "text": "Ceci paraît contradictoire à l'Hébreu, au Chaldéen, au Syriaque, à la Vulgate, aux Chap. III. ℣. 12. & IX. 1. & VIII. 12. où on lit : _Le treizième._ Les Exemplaires Grecs sont pourtant fort uniformes entre eux, & avec Josèphe, pour le quatorzième jour. Il faut donc dire que ce carnage devait commencer le treizième, & finir le quatorzième d'Adar ; en sorte que pendant ces deux jours, on pourrait mettre à mort tout ce qu'on rencontrerait de Juifs; ou plutôt avouer que le Texte Grec est corrompu en cet endroit-ci : car outre l'autorité de l'Hébreu, dont on a parlé, le second Édit d'Assuérus en faveur des Juifs, rapporté dans le Grec au Chap. 8. et dans le Latin, au Chap. 20. marque expressément que le treizième jour d'Adar, les ennemis des Hébreux se préparaient à les mettre à mort. Ce qui se lit encore au ℣. 1. du Chap. IX. dans le Grec, comme dans les autres Textes. Dans le Manuscrit de l'ancienne Vulgate, on lit ici ces paroles à la fin de cette Lettre : Et quiconque cachera quelqu'un de la race des Juifs dans sa maison, non seulement parmi les hommes, mais même parmi les oiseaux, il sera condamné au feu, et tous ses biens seront brûlés avec lui."
+      "text": "Ceci paraît contradictoire à l'Hébreu, au Chaldéen, au Syriaque, à la Vulgate, aux Chap. III. ℣. 12. et IX. 1. et VIII. 12. où on lit : _Le treizième._ Les Exemplaires Grecs sont pourtant fort uniformes entre eux, et avec Josèphe, pour le quatorzième jour. Il faut donc dire que ce carnage devait commencer le treizième, et finir le quatorzième d'Adar ; en sorte que pendant ces deux jours, on pourrait mettre à mort tout ce qu'on rencontrerait de Juifs; ou plutôt avouer que le Texte Grec est corrompu en cet endroit-ci : car outre l'autorité de l'Hébreu, dont on a parlé, le second Édit d'Assuérus en faveur des Juifs, rapporté dans le Grec au Chap. 8. et dans le Latin, au Chap. 20. marque expressément que le treizième jour d'Adar, les ennemis des Hébreux se préparaient à les mettre à mort. Ce qui se lit encore au ℣. 1. du Chap. IX. dans le Grec, comme dans les autres Textes. Dans le Manuscrit de l'ancienne Vulgate, on lit ici ces paroles à la fin de cette Lettre : Et quiconque cachera quelqu'un de la race des Juifs dans sa maison, non seulement parmi les hommes, mais même parmi les oiseaux, il sera condamné au feu, et tous ses biens seront brûlés avec lui."
     },
     {
       "verse": 8,
@@ -83,7 +90,7 @@
       "seam": "page_0152>page_0153",
       "verse": 2,
       "mode": "flow",
-      "before": "oujours les Princes dans leurs titres, & dans les qualités",
+      "before": "ujours les Princes dans leurs titres, et dans les qualités",
       "after": "qu'on leur donne. Les Orientaux ont donné encore plus d'ex"
     },
     {
@@ -128,7 +135,7 @@
     {
       "key": "page_0153-a",
       "n": 1,
-      "text": "Τὰς τῶ ζῶοτελενημένων ἀκυμάντως διὰ παντὸς καταςῆσαι βίας, τήντε Βασιλείαν ἡμῶν, καὶ πορθμὸν ἀχρὶ περάτων παρεξέμεθα, &c. Joſeph. Antiq. lib. XI. cap. 6. met ſimplement : Επαινῶν καὶ πρῶτον ἐμαυτὸν παρεχῶν, κὴ προνοησάμενος εἰρήνης, κὴ δυνομίας αὐτοῖς."
+      "text": "Τὰς τῶ ζῶοτελενημένων ἀκυμάντως διὰ παντὸς καταςῆσαι βίας, τήντε Βασιλείαν ἡμῶν, καὶ πορθμὸν ἀχρὶ περάτων παρεξέμεθα, etc. Joseph. Antiq. lib. XI. cap. 6. met simplement : Επαινῶν καὶ πρῶτον ἐμαυτὸν παρεχῶν, κὴ προνοησάμενος εἰρήνης, κὴ δυνομίας αὐτοῖς."
     },
     {
       "key": "page_0153-b",
@@ -138,12 +145,12 @@
     {
       "key": "page_0153-c",
       "n": 3,
-      "text": "Joſeph. Ibid. Τῷ δὲ διὰ σωφροσύνην, κὴ δικαιοσύνην ἐμοὶ τὴν πρώτην μοῖραν ἀδίης, κὴ τιμῆς ἔχοντι, κὴ καὶ ἐμὲ δευτέραν διὰ πίσιν, κὴ βεβαιόταν."
+      "text": "Joseph. Ibid. Τῷ δὲ διὰ σωφροσύνην, κὴ δικαιοσύνην ἐμοὶ τὴν πρώτην μοῖραν ἀδίης, κὴ τιμῆς ἔχοντι, κὴ καὶ ἐμὲ δευτέραν διὰ πίσιν, κὴ βεβαιόταν."
     },
     {
       "key": "page_0153-d",
       "n": 4,
-      "text": "Πρὸς τὸ μὴ καλατίθεσθαι τὴν ὑφ' ἡμῶν καὶ θεῶν δυναμένην ἀκύμαντος συνεχείαν Alter Edit vet πρὸς τὸ ρεμβεσθαι τὴν Βασιλείαν διχοθεσίας τυγχάνεσαν. Quæ ſunt in fine ℣ ſequ. in Edit. Rom."
+      "text": "Πρὸς τὸ μὴ καλατίθεσθαι τὴν ὑφ' ἡμῶν καὶ θεῶν δυναμένην ἀκύμαντος συνεχείαν Alter Edit vet πρὸς τὸ ρεμβεσθαι τὴν Βασιλείαν διχοθεσίας τυγχάνεσαν. Quæ sunt in fine ℣ sequ. in Edit. Rom."
     },
     {
       "key": "page_0154-a",
@@ -153,12 +160,12 @@
     {
       "key": "page_0154-b",
       "n": 6,
-      "text": "Τὰς σημαινομένας ὑμῖν. Edit. Orig. ὑμῖν, Joſeph ſimplement, Τὰς δηλωθείσας."
+      "text": "Τὰς σημαινομένας ὑμῖν. Edit. Orig. ὑμῖν, Joseph simplement, Τὰς δηλωθείσας."
     },
     {
       "key": "page_0155-a",
       "n": 7,
-      "text": "Ἀμὰν τῷ πράγμαſι καὶ τῷ πατρὶ ἡμῶν. Joſeph. ὑπὸ τῷ δευτέρῳ πατρὸς ἡμῶν."
+      "text": "Ἀμὰν τῷ πράγμαsι καὶ τῷ πατρὶ ἡμῶν. Joseph. ὑπὸ τῷ δευτέρῳ πατρὸς ἡμῶν."
     },
     {
       "key": "page_0155-b",
@@ -173,68 +180,17 @@
     {
       "key": "page_0155-d",
       "n": 10,
-      "text": "δι συγγενεῖς δι ἀυτῷ τὸ στόμα φιλοῦσιν. Arrian _lib._ VI. ſuos cognatis axipnes tutes δι νόμῳ ἐμοίησε φιλειν ἀυτὸ μόνοις."
+      "text": "δι συγγενεῖς δι ἀυτῷ τὸ στόμα φιλοῦσιν. Arrian _lib._ VI. suos cognatis axipnes tutes δι νόμῳ ἐμοίησε φιλειν ἀυτὸ μόνοις."
     },
     {
       "key": "page_0155-e",
       "n": 11,
-      "text": "3. Eſdr. III. 7. _Vide Joſeph Antiq. lib._ XI. _cap._ 7. _Euſebium in Chronico Græco._"
+      "text": "3. Esdr. III. 7. _Vide Joseph Antiq. lib._ XI. _cap._ 7. _Eusebium in Chronico Græco._"
     },
     {
       "key": "page_0157-a",
       "n": 12,
       "text": "Καὶ ἐ ποίησα αὐτὸ, ἐν ὑπερηφανίᾳ, ἐδὲ ἐν φιλοδοξίᾳ."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0152",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0153",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0154",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0155",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0156",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0157",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0158",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

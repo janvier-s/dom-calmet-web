@@ -16,7 +16,7 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUI VIOLATORES EXTITERUNT IN COINQUINATIONE SUA.",
       "lemma": "Qui transportés d'une passion impure, avaient violé une vierge. [7]",
       "text": "On sait l'Histoire de Dina, rapportée dans la Genèse, Ch. XXXIV. 2."
@@ -135,12 +135,12 @@
     {
       "key": "page_0106-a",
       "n": 1,
-      "text": "Καὶ ἐγύμνωσε τὸ ἐνδεδυμένο σάκκον. Grotius corrige ainſi : Καὶ γυμνασαμένη τὸν ἐνδεδυμένον σάκκον : Elle quitta les habits dont elle s'étoit parée, pour recevoir ces trois Magiſtrats, & reprit ſon cilice."
+      "text": "Καὶ ἐγύμνωσε τὸ ἐνδεδυμένο σάκκον. Grotius corrige ainsi : Καὶ γυμνασαμένη τὸν ἐνδεδυμένον σάκκον : Elle quitta les habits dont elle s'étoit parée, pour recevoir ces trois Magistrats, et reprit son cilice."
     },
     {
       "key": "page_0107-a",
       "n": 2,
-      "text": "Voyez nôtre Commentaire ſur la Genéſe ch. XXXIV. 30."
+      "text": "Voyez nôtre Commentaire sur la Genése ch. XXXIV. 30."
     },
     {
       "key": "page_0107-b",
@@ -165,7 +165,7 @@
     {
       "key": "page_0107-f",
       "n": 7,
-      "text": "Οἱ ἐξουσι μίτρην παρθένου εἰς μιασμόν. Grotius hic : _Scripſerat_, Εξουσι μίτρην. Muſæus de Liſandro. Ο δ᾽ ἀυτίκα λύσατο μίτρην. Le Syriaque lit : _Ils lui avoient déliez les cheveux pour la ſoüiller_. Ce qui prouve que ſa traduction eſt faite ſur le Grec."
+      "text": "Οἱ ἐξουσι μίτρην παρθένου εἰς μιασμόν. Grotius hic : _Scripserat_, Εξουσι μίτρην. Musæus de Lisandro. Ο δ᾽ ἀυτίκα λύσατο μίτρην. Le Syriaque lit : _Ils lui avoient déliez les cheveux pour la soüiller_. Ce qui prouve que sa traduction est faite sur le Grec."
     },
     {
       "key": "page_0108-a",
@@ -185,7 +185,7 @@
     {
       "key": "page_0109-a",
       "n": 11,
-      "text": "Pſalm. LVIII. 12."
+      "text": "Psalm. LVIII. 12."
     },
     {
       "key": "page_0109-b",
@@ -205,73 +205,22 @@
     {
       "key": "page_0111-a",
       "n": 15,
-      "text": "Homer. _Hi δόλῳ ἠὲ βίῃ, ἠὲ ἀμφαδὸν ἠὲ κρυφηδόν._ Vide Grot. _de jure Bello & Pac. lib. 3. cap. 1._ qu. 110. art. 1. & 3. Soto _de Juſtitia_ v. qu. 6. art. 2. Leſſ. _lib. 2. de Juſtit. cap. 42._ Grot. _loco citat._"
+      "text": "Homer. _Hi δόλῳ ἠὲ βίῃ, ἠὲ ἀμφαδὸν ἠὲ κρυφηδόν._ Vide Grot. _de jure Bello et Pac. lib. 3. cap. 1._ qu. 110. art. 1. et 3. Soto _de Justitia_ v. qu. 6. art. 2. Less. _lib. 2. de Justit. cap. 42._ Grot. _loco citat._"
     },
     {
       "key": "page_0111-b",
       "n": 16,
-      "text": "Vide ſi placet Auguſt. _Libb. de Mendacio & contra mendac._ D. Thom. _ſecunda Secundæ._"
+      "text": "Vide si placet August. _Libb. de Mendacio et contra mendac._ D. Thom. _secunda Secundæ._"
     },
     {
       "key": "page_0111-c",
       "n": 17,
-      "text": "_Num. XXV. & XXXI._"
+      "text": "_Num. XXV. et XXXI._"
     },
     {
       "key": "page_0112-a",
       "n": 18,
-      "text": "I. Par. XIV. II. _Non eſt apud te ulla diſtantia, utrum in paucis auxilieris an in pluribus._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0106",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0107",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0108",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0109",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0110",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0111",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0112",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "I. Par. XIV. II. _Non est apud te ulla distantia, utrum in paucis auxilieris an in pluribus._"
     }
   ],
   "missing_footnotes": []

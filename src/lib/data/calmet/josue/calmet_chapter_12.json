@@ -9,7 +9,7 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "OMNEM ORIENTALEM PLAGAM, QUÆ RESPICIT SOLITUDINEM.",
       "lemma": "Toute la contrée orientale, qui regarde le désert.",
       "text": "Les Israélites occupaient tout le pays qui est à l'orient du Jourdain, depuis le désert, ou les plaines de Moab, dont on a souvent parlé, jusqu'au mont Hermon. L'Hébreu à la lettre : [5] _Ils possédaient tout l'Araba_, (toute la plaine, tout le plat pays) _qui est du côté de l'orient_. Ni saint Jérôme, ni les Septante n'ont point été assez constants dans leur traduction du terme _Araba_, ils traduisent, tantôt le _désert_, tantôt le conschamp, tantôt une plaine. Mais il est certain qu'ici il signifie une plaine,[6] et que souvent _Arabà_ est distingué du désert et des montagnes ; ces _arabot_ signifiaient des plaines propres aux pâturages, quoiqu'elles ne fussent pas cultivées."
@@ -23,14 +23,14 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DIMIDIÆQUE GALAAD, USQUE AD TORRENTEM JABOC.",
       "lemma": "Dans toute la moitié de Galaad, jusqu'au torrent de Jaboc.",
       "text": "Les montagnes de Galaad s'étendaient du septentrion au midi ; depuis le mont d'Hermon, jusque vers les sources de l'Arnon, qui étaient au milieu de la longueur du pays de Séhon ; ainsi ce Prince possédait la moitié de Galaad, c'est-à-dire, la moitié des montagnes, et du pays qui portaient le nom de Galaad, à l'orient de ses États : ou plutôt il possédait le milieu de Galaad, ses États s'étendaient jusqu'au milieu de la longueur de ces montagnes."
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "USQUE AD TORRENTEM JABOC QUI EST TERMINUS FILIORUM AMMON.",
       "lemma": "Jusqu'au torrent de Jaboc, qui fait les limites des Ammonites.",
       "text": "Ce torrent a sa source dans les montagnes de Galaad, et il va de l'orient au couchant se décharger dans le Jourdain.[7] Il bornait le pays de Séhon au septentrion, et celui des Ammonites au midi."
@@ -44,14 +44,14 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PER VIAM QUÆ DUCIT BETSIMOTH.",
       "lemma": "Par le chemin qui mène à Betsimoth.",
       "text": "Cette ville était à dix milles de Jéricho, selon Eusèbe; nous la plaçons près de la mer morte, dans les plaines de Moab: [9] Elle tombait dans la ligne que Josué décrit, depuis la mer de Tibériade, jusqu'à la mer morte. Betsimoth est autrement appelée Betjesimoth, ou Betsimath."
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AB AUSTRALI PARTE QUÆ SUBJACET ASEDOT, USQUE PHASGA.",
       "lemma": "Et du côté du midi, depuis ce qui est au-dessous d'Asedoth, jusqu'à Phasga.",
       "text": "Voici la description de la partie méridionale du Royaume de Séhon; il s'étendait depuis _Asedoth_, jusqu'à _Phasga_. Ou plutôt depuis _Asedoth-Phasga_, jusqu'à la mer morte; car il ne faut point séparer Asédoth de Phasga. On croit que c'était une ville située au pied du mont Phasga; [10] ou qu'_Asedot_ marque le penchant de ces montagnes, [11] les plaines qui étaient au-dessous, ou même les sources d'eau qui en sortaient. [12] L'Auteur Sacré ne marque qu'un terme de cette étendue méridionale, parce qu'il avait parlé immédiatement auparavant de la mer morte, qui est l'autre point de cette étendue."
@@ -65,21 +65,21 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DE RELIQUIIS RAPHAIM.",
       "lemma": "De la race des Géants de Raphaïm.",
       "text": "Les Raphaïm étaient originaires du pays de Canaan, et leur demeure était en deçà du Jourdain. Quelques-uns d'entre eux étant passés au-delà de ce fleuve, et y ayant établi leur domination, dans le pays de Basan, Moïse en fit la conquête sur Og, qui fut le dernier des Raphaïms, comme on l'a remarqué sur le Deutéronome.[13]"
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUI HABITAVIT IN ASTAROTH, ET IN EDRAI.",
       "lemma": "Qui demeurait à Astaroth, et à Edraï.",
       "text": "Voyez Deut. ch. I. ℣. 4."
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN SALECA.",
       "lemma": "Depuis Saléca.",
       "text": "On ne trouve pas la situation de cette ville ; on sait seulement qu'elle était dans le pays de Basan."
@@ -93,7 +93,7 @@
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DIMIDIÆ PARTIS GALAAD AD TERMINOS SEHON.",
       "lemma": "La moitié de Galaad, qui était les bornes de Séhon.",
       "text": "Le Royaume de ce Prince était borné du côté de l'occident par le torrent de Jaboc, qui prenait sa source dans le milieu de la longueur des montagnes de Galaad : Voyez le ℣. 2."
@@ -129,7 +129,7 @@
     {
       "verse": 14,
       "sub": false,
-      "latin_lemma": "HERMA, ou Horma & Harma.",
+      "latin_lemma": "HERMA, ou Horma et Harma.",
       "lemma": null,
       "text": "Ce nom signifie _anathème_. Il y en a qui croient que c'est le lieu où les Israélites furent poursuivis par les Cananéens, lorsque malgré les défenses du Seigneur, ils voulurent les aller attaquer.[18] Plusieurs années après le Roi d'Arad ayant attaqué les Israélites, ceux-ci dévouèrent au Seigneur tout son pays, et nommèrent le lieu où se fit le dévouement, _Horma_ ;[19] il s'appelait auparavant Séphaat.[20] Voici ce qui peut faire pour l'opinion, qui veut que le Herma dont il est parlé ici, soit le même que celui des Nombres ; c'est, premièrement, qu'il est mis ici avec Arad ou Ared : Secondement, qu'il est attribué à la tribu de Juda :[21] Troisièmement, qu'il est placé avec Sicéleg, dans le Chapitre XIX. ℣. 4. 5. de ce Livre. Horma n'était pas loin d'Arad, ou Ered, ni de Sicéleg.\nARAD, ou _Ered_, ou _Adar_, ou _Arada_,[22] était à vingt milles d'Hébron, et à quatre milles de Malathi, selon Eusèbe, entre Cadesbarné et Asmona."
     },
@@ -149,7 +149,7 @@
     },
     {
       "verse": 17,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "OPHER.",
       "lemma": null,
       "text": "Je pense que c'est la même qu'Ophera dans la tribu de Benjamin. [26] Il y en avait une autre dans la tribu de Zabulon, d'où l'on croit qu'était le Prophète Jonas. Bonfrerius, et Cellarius semblent dire que c'est de celle-là dont Josué parle ici. [27]"
@@ -163,8 +163,8 @@
     },
     {
       "verse": 18,
-      "sub": true,
-      "latin_lemma": "SARON, ou Laſaron,",
+      "sub": false,
+      "latin_lemma": "SARON, ou Lasaron,",
       "lemma": null,
       "text": "[31] comme portent l'Hébreu, le Chaldéen et les Septante. La Vulgate a cru que la lettre L, au commencement de ce mot, était servile, et marquait simplement le rapport qu'elle avait au Roi qui la précède. Les autres ont jugé que _Lasaron_ était le nom propre d'une ville, fort différente de celle de _Saron_, qui est dans le pays de Basan, au-delà du Jourdain, [32] et fameuse par la fertilité de ses campagnes, [33] _Decor Carmeli et Saron_. Celle dont nous parlons ici était près de Lydda, et on croit que c'est _Sarona_ dont il est parlé dans les Actes des Apôtres ; [34] peut-être même que Saron est le nom d'une campagne ou d'un canton, et non pas d'une ville ; ce qu'on lit ci-après au ℣. 22. et 23. favorise cette explication. L'Écriture y parle de Saron plutôt comme d'un canton, que comme d'une ville particulière. Eusèbe dit que la campagne qui s'étend depuis Césarée de Palestine, jusqu'à Joppé, porte le nom de Saron."
     },
@@ -184,7 +184,7 @@
     },
     {
       "verse": 21,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MAGEDDO.",
       "lemma": null,
       "text": "Cette ville était aux environs du torrent de Cisson, où Sisara fut vaincu; elle fut donnée à la tribu de Manassé.[39] Les campagnes de Mageddo sont célèbres par la défaite du Roi Josias, qui voulut s'opposer au passage de Néchao Roi d'Égypte.[40] Débora parle des eaux de Mageddo.[41]"
@@ -198,14 +198,14 @@
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "REX JACHANAN CARMELI.",
       "lemma": null,
       "text": "Le Roi de _Jachanan du Carmel_. On a déjà pu remarquer sur le ℣. 18. que quelquefois Josué désigne le lieu d'où était le Roi dont il parle, par le canton où il régnait. Dans ce ℣. et dans le suivant, il joint le nom de la ville, à celui du canton; mais au ℣. 18. en parlant du Roi de Saron, et au ℣. 23. en parlant de celui des nations, il se contente de dire de l'un, qu'il régnait dans le canton de Saron, et de l'autre, qu'il régnait dans celui de Galgal, sans marquer le nom de leur ville.\n_Jachanan du Carmel_, était près du mont Carmel. On la trouve aussi nommée _Jecnam_, ou _Jéconam_ ; elle fut donnée aux Lévites, [44] dans la tribu de Zabulon."
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "REX DOR, ET PROVINCIÆ DOR.",
       "lemma": "Un Roi de Dor, et de la Province de Dor.",
       "text": "L'Hébreu : [45] _Le Roi de Dor du canton de Dor_. On a déjà parlé du canton, ou du pays de Dor sur la Méditerranée, dans la demi-tribu de Manassé. Les Septante ont conservé les termes hébreux, [46] _Le Roi de Dor, de Naphat-Dor_."
@@ -317,12 +317,12 @@
     {
       "key": "page_0233-a",
       "n": 6,
-      "text": "Voyez Maſius, & comparez ce paſſage avec Deut. III. 8."
+      "text": "Voyez Masius, et comparez ce passage avec Deut. III. 8."
     },
     {
       "key": "page_0233-b",
       "n": 7,
-      "text": "Euſeb. & Ierom. in locis ; Ioſeph. Antiq. l. 4. c. 6. 5."
+      "text": "Euseb. et Ierom. in locis ; Ioseph. Antiq. l. 4. c. 6. 5."
     },
     {
       "key": "page_0234-a",
@@ -332,22 +332,22 @@
     {
       "key": "page_0234-b",
       "n": 9,
-      "text": "Voyez ce qu'on a dit ſur les Nombres chap. XXXIII. 49."
+      "text": "Voyez ce qu'on a dit sur les Nombres chap. XXXIII. 49."
     },
     {
       "key": "page_0234-c",
       "n": 10,
-      "text": "Vide Joſue XIII. 20."
+      "text": "Vide Josue XIII. 20."
     },
     {
       "key": "page_0234-d",
       "n": 11,
-      "text": "Ita Maſ."
+      "text": "Ita Mas."
     },
     {
       "key": "page_0234-e",
       "n": 12,
-      "text": "Pagn. Munſt."
+      "text": "Pagn. Munst."
     },
     {
       "key": "page_0235-a",
@@ -407,7 +407,7 @@
     {
       "key": "page_0237-m",
       "n": 24,
-      "text": "Euseb. & Jeron. in locis Heb."
+      "text": "Euseb. et Jeron. in locis Heb."
     },
     {
       "key": "page_0238-a",
@@ -417,27 +417,27 @@
     {
       "key": "page_0238-b",
       "n": 26,
-      "text": "Joſue XVIII. I."
+      "text": "Josue XVIII. I."
     },
     {
       "key": "page_0238-c",
       "n": 27,
-      "text": "Vide Bonfr. Onomaſtic. & Cellar. L. 3. c. 13. in Epher."
+      "text": "Vide Bonfr. Onomastic. et Cellar. L. 3. c. 13. in Epher."
     },
     {
       "key": "page_0238-d",
       "n": 28,
-      "text": "Joſue XIX. 30."
+      "text": "Josue XIX. 30."
     },
     {
       "key": "page_0238-e",
       "n": 29,
-      "text": "I, Reg. IV. I. & XXIX. I."
+      "text": "I, Reg. IV. I. et XXIX. I."
     },
     {
       "key": "page_0238-f",
       "n": 30,
-      "text": "3. Reg. XX. & 4. Reg. XIII."
+      "text": "3. Reg. XX. et 4. Reg. XIII."
     },
     {
       "key": "page_0238-g",
@@ -452,7 +452,7 @@
     {
       "key": "page_0238-i",
       "n": 33,
-      "text": "Iſai. XXXIII. 9. & XXXV. 2."
+      "text": "Isai. XXXIII. 9. et XXXV. 2."
     },
     {
       "key": "page_0238-k",
@@ -462,7 +462,7 @@
     {
       "key": "page_0239-a",
       "n": 35,
-      "text": "Vide Bonfr. & Cellar. l. 3. c. 13."
+      "text": "Vide Bonfr. et Cellar. l. 3. c. 13."
     },
     {
       "key": "page_0239-b",
@@ -472,7 +472,7 @@
     {
       "key": "page_0239-c",
       "n": 37,
-      "text": "Joſue XXI. 25."
+      "text": "Josue XXI. 25."
     },
     {
       "key": "page_0239-d",
@@ -482,7 +482,7 @@
     {
       "key": "page_0239-e",
       "n": 39,
-      "text": "Joſue XVII. II."
+      "text": "Josue XVII. II."
     },
     {
       "key": "page_0239-f",
@@ -497,7 +497,7 @@
     {
       "key": "page_0239-h",
       "n": 42,
-      "text": "Joſue XX. 7."
+      "text": "Josue XX. 7."
     },
     {
       "key": "page_0239-i",
@@ -507,7 +507,7 @@
     {
       "key": "page_0240-a",
       "n": 44,
-      "text": "Joſue XXI. 34. & XIX. 11."
+      "text": "Josue XXI. 34. et XIX. 11."
     },
     {
       "key": "page_0240-b",
@@ -527,7 +527,7 @@
     {
       "key": "page_0240-e",
       "n": 48,
-      "text": "Iſai. IX. 1. Vide Matth. IV. 15."
+      "text": "Isai. IX. 1. Vide Matth. IV. 15."
     },
     {
       "key": "page_0240-f",
@@ -537,84 +537,12 @@
     {
       "key": "page_0241-a",
       "n": 50,
-      "text": "Strabo lib. 16. ὑπὸ φυλῶν ἐποικύμενα μικτῶν, Ἰνδαίων, Φοινίκων, Ἀράβων, Αἰγυπτίων, ἐκτὸς αἰγυπτίων ἐθνῶν, ἐκ Ἀράβων, ἐκ φοινίκων; &c."
+      "text": "Strabo lib. 16. ὑπὸ φυλῶν ἐποικύμενα μικτῶν, Ἰνδαίων, Φοινίκων, Ἀράβων, Αἰγυπτίων, ἐκτὸς αἰγυπτίων ἐθνῶν, ἐκ Ἀράβων, ἐκ φοινίκων; etc."
     },
     {
       "key": "page_0241-b",
       "n": 51,
-      "text": "Vide Bonfr. in Therſa."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0232",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0233",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0234",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0235",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0236",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0237",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0238",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0239",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0240",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0241",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Vide Bonfr. in Thersa."
     }
   ],
   "missing_footnotes": [

@@ -9,7 +9,7 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MORIERIS TU, ET NON VIVES.",
       "lemma": "Vous ne vivrez pas davantage, et vous mourrez.",
       "text": "La dénonciation qu'Isaïe fait ici à Ézéchias n'était point absolue, ni la sentence irrévocable ; si elle l'eût été, ce prince aurait péché en demandant sa guérison, et ne l'aurait point obtenue, dit Estius ; la déclaration du prophète renfermait une condition secrète et implicite. Vous mourrez assurément de cette maladie ; selon le cours naturel des causes, la maladie est mortelle ; il n'y a que Dieu qui puisse vous en guérir. C'est ainsi qu'Élisée répondit à Hazaël, que le roi de Syrie devait guérir ; [8] mais cependant qu'il savait qu'il mourrait, parce qu'Hazaël le devait étouffer. Il devait guérir, si l'on n'eût eu égard qu'à la nature de sa maladie. De même Jonas [9] prédit la ruine de Ninive ; mais ce malheur fut arrêté par l'efficacité de la pénitence des Ninivites."
@@ -30,17 +30,17 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FLEVIT ITAQUE FLETU MAGNO.",
       "lemma": "Il versa une grande abondance de larmes.",
-      "text": "On est surpris de voir un saint roi, dont tout le règne n'a été qu'un tissu d'actions saintes, et qui était si sûr de son innocence, qu'il prend Dieu à témoin de la manière pleine de fidélité, dont il l'a servi ; on est étonné de le voir abattu de douleur aux approches de la mort, comme si on devait s'attrister de voir bientôt finir son exil, et de recevoir bientôt la récompense de ses bonnes actions. Il était fort éloigné de la confiance de saint Paul, qui insultait pour ainsi dire à la mort, et qui désirait d'être bientôt détaché de son corps, pour aller jouir de Jésus-Christ. [13] Ézéchias mourait sans enfants, et il voyait la race de David finir en sa personne ; et par là, les promesses faites à ce Prince d'un Messie Libérateur d'Israël, devenues inutiles; c'était là, dit-on, [14] le sujet de ses larmes. Manassés qui lui succéda à quinze ans de cette maladie, n'en avait que douze, quand il monta sur le trône."
+      "text": "On est surpris de voir un saint roi, dont tout le règne n'a été qu'un tissu d'actions saintes, et qui était si sûr de son innocence, qu'il prend Dieu à témoin de la manière pleine de fidélité, dont il l'a servi ; on est étonné de le voir abattu de douleur aux approches de la mort, comme si on devait s'attrister de voir bientôt finir son exil, et de recevoir bientôt la récompense de ses bonnes actions. Il était fort éloigné de la confiance de saint Paul, qui insultait pour ainsi dire à la mort, et qui désirait d'être bientôt détaché de son corps, pour aller jouir de Jésus-Christ. [13] Ézéchias mourait sans enfants, et il voyait la race de David finir en sa personne ; et par là, les promesses faites à ce prince d'un Messie libérateur d'Israël, devenues inutiles ; c'était là, dit-on, [14] le sujet de ses larmes. Manassé qui lui succéda à quinze ans de cette maladie, n'en avait que douze, quand il monta sur le trône."
     },
     {
       "verse": 4,
       "sub": false,
       "latin_lemma": "ANTEQUAM EGREDERETUR MEDIAM PARTEM ATRII.",
       "lemma": "Avant qu'Isaïe eût passé la moitié du vestibule.",
-      "text": "L'Hébreu: [15] _Avant qu'il fût au milieu de la ville_: Mais on lit à la marge des exemplaires Hébreux, _le vestibule_, au lieu, _de la ville_; et c'est ainsi que le Chaldéen, et les Septante l'ont lu."
+      "text": "L'hébreu : [15] _Avant qu'il fût au milieu de la ville_ : Mais on lit à la marge des exemplaires hébreux, _le vestibule_, au lieu de _la ville_ ; et c'est ainsi que le Chaldéen, et les Septante l'ont lu."
     },
     {
       "verse": 6,
@@ -79,14 +79,14 @@
     },
     {
       "verse": 13,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DOMUM AROMATUM.",
       "lemma": "Ses parfums.",
       "text": "À la lettre : _La maison de ses parfums_. L'Hébreu se traduit diversement.[30] Le Chaldéen, le Syriaque et l'Arabe : _La maison de ses trésors_. Vatable l'entend de _son cabinet_, de ses raretés, de ses bijoux, de ses pierreries. D'autres ;[31] les chambres où était ce qu'il avait de plus beau, et de plus cher, _domum desiderabilium suorum_."
     },
     {
       "verse": 13,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UNGUENTA QUOQUE, ET DOMUM VASORUM.",
       "lemma": "Ses huiles de senteur, et ses vases précieux.",
       "text": "L'Hébreu,[32] _son excellente huile, et la maison de ses vases_. On croit que par le premier, on doit entendre le baume, la plus précieuse de toutes liqueurs, et de toutes les huiles de senteur ; et par le second, ses arsenaux, ses magasins d'armes, de machines et de provisions de guerre ; ou ses meubles, et autres ornements rares et précieux. Saint Jérôme[33] croit qu'il leur montra aussi les trésors du Temple ; c'est ce qui attira principalement la colère de Dieu sur sa personne."
@@ -110,7 +110,7 @@
       "sub": false,
       "latin_lemma": "BONUS SERMO QUEM LOCUTUS ES; SIT PAX ET VERITAS IN DIEBUS MEIS.",
       "lemma": "Il n'y a rien que de juste dans ce que vous m'annoncez de la part du Seigneur ; que la paix et la vérité règnent pendant les jours de ma vie.",
-      "text": "J'acquiesce, et je me soumets à tout ce que le Seigneur ordonne, je reconnais la justice de sa sentence ; mais je le prie de détourner ce châtiment de dessus ma personne, et que je passe en paix les jours de la vie qu'il a bien voulu m'accorder. Il semble que cet acquiescement limité, et en quelque sorte conditionnel, de la part d'Ézéchias, est un peu trop intéressé,[39] pour un prince qui doit aimer son peuple, sa patrie, et ses enfants autant que lui-même. Eusèbe[40] et saint Jérôme sur cet endroit disent que leur maître hébreu disait que Dieu n'avait pas eu pour agréable la prière d'Ézéchias, et que c'est pour cela qu'aussitôt après le prophète ajoute : _Consolez, consolez mon peuple, dit le Seigneur._ Comme pour réparer la faute d'Ézéchias, et pour faire honte à l'indifférence qu'il avait témoignée pour son peuple.\nL'Hébreu[41] porte : _Ce que vous m'avez dit de la part de Dieu est bon ; je m'y soumets : Et il ajouta : Est-ce que la paix et la vérité régneront pendant ma vie ?_ Dois-je me flatter qu'il me laissera en paix durant ma vie ? Le Seigneur n'aurait-il point révoqué la grâce qu'il m'a faite de me promettre quinze ans de vie ? Ou bien, le Seigneur est juste dans tout ce qu'il a ordonné ; mais s'il voulait suspendre les effets de la vengeance pendant ma vie. Ces menaces regardent-elles ma personne, ou seulement ma postérité ? _Pax et veritas_ signifient une paix solide et durable ; une vraie paix. L'Écriture[42] nous apprend qu'Ézéchias s'humilia devant le Seigneur, lui et les habitants de Jérusalem, et que c'est ce qui éloigna d'eux la colère du Seigneur. JoJosèphe [43] dit que ce Prince ayant appris cette résolution de Dieu, la reçut avec une profonde douleur, disant qu'il souhaiterait pouvoir détourner les malheurs de sa race ; mais que puisque le Seigneur en avait ordonné autrement, il le conjurait de lui donner au moins la paix durant sa vie ; Enfin, saint Ambroise a excusé ce Prince, en disant, qu'il était fort éloigné de souhaiter le malheur de sa famille ; mais comme il n'était point capable de faire changer les décrets de Dieu, il s'y soumettait avec humilité :  _Sed voluntati Domini obviare non poterat, et ideò mandata ejus æquanimiter suscipiebat, ut servulus._"
+      "text": "J'acquiesce, et je me soumets à tout ce que le Seigneur ordonne, je reconnais la justice de sa sentence ; mais je le prie de détourner ce châtiment de dessus ma personne, et que je passe en paix les jours de la vie qu'il a bien voulu m'accorder. Il semble que cet acquiescement limité, et en quelque sorte conditionnel, de la part d'Ézéchias, est un peu trop intéressé,[39] pour un prince qui doit aimer son peuple, sa patrie, et ses enfants autant que lui-même. Eusèbe[40] et saint Jérôme sur cet endroit disent que leur maître hébreu disait que Dieu n'avait pas eu pour agréable la prière d'Ézéchias, et que c'est pour cela qu'aussitôt après le prophète ajoute : _Consolez, consolez mon peuple, dit le Seigneur._ Comme pour réparer la faute d'Ézéchias, et pour faire honte à l'indifférence qu'il avait témoignée pour son peuple.\nL'Hébreu[41] porte : _Ce que vous m'avez dit de la part de Dieu est bon ; je m'y soumets : Et il ajouta : Est-ce que la paix et la vérité régneront pendant ma vie ?_ Dois-je me flatter qu'il me laissera en paix durant ma vie ? Le Seigneur n'aurait-il point révoqué la grâce qu'il m'a faite de me promettre quinze ans de vie ? Ou bien, le Seigneur est juste dans tout ce qu'il a ordonné ; mais s'il voulait suspendre les effets de la vengeance pendant ma vie. Ces menaces regardent-elles ma personne, ou seulement ma postérité ? _Pax et veritas_ signifient une paix solide et durable ; une vraie paix. L'Écriture[42] nous apprend qu'Ézéchias s'humilia devant le Seigneur, lui et les habitants de Jérusalem, et que c'est ce qui éloigna d'eux la colère du Seigneur. Josèphe [43] dit que ce prince ayant appris cette résolution de Dieu, la reçut avec une profonde douleur, disant qu'il souhaiterait pouvoir détourner les malheurs de sa race ; mais que puisque le Seigneur en avait ordonné autrement, il le conjurait de lui donner au moins la paix durant sa vie ; Enfin, saint Ambroise a excusé ce prince, en disant, qu'il était fort éloigné de souhaiter le malheur de sa famille ; mais comme il n'était point capable de faire changer les décrets de Dieu, il s'y soumettait avec humilité :  _Sed voluntati Domini obviare non poterat, et ideò mandata ejus æquanimiter suscipiebat, ut servulus._"
     },
     {
       "verse": 20,
@@ -121,10 +121,10 @@
     },
     {
       "verse": 20,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NONNE HÆC SCRIPTA SUNT IN LIBRO SERMONUM DIERUM?",
       "lemma": "Tout cela est écrit aux Annales des Rois de Juda.",
-      "text": "On lit dans les Paralipomènes, [44] _que le reste des actions d'Ézéchias sont écrites dans la vision d'Isaïe fils d'Amos, et dans le Livre des Rois de Juda et d'Israël._ On trouve en effet quelque chose de la vie d'Ézéchias dans Isaïe ; [45] mais ce n'est qu'une répétition de ce qu'on a vu dans les Livres des Rois, sinon qu'on y lit un cantique, qu'Ézéchias composa pour rendre grâces à Dieu de sa guérison miraculeuse. L'Auteur de l'Ecclésiastique [46] a fait un Éloge historique de ce Prince ; il relève les grands biens qu'il a faits à son pays, surtout en fortifiant Jérusalem, et en y conduisant des eaux à grands frais, puisqu'il fallut rompre les rochers, et y creuser des citernes, pour y conserver l'eau. Il rappelle ce qui se passa à l'occasion de la guerre de Sennachérib, et des blasphèmes de Rabsacés, l'effroi du peuple, leur douleur, leur pénitence, et le secours tout miraculeux qu'ils reçurent de Dieu; il est dit qu'Ézéchias a fait ce qui était agréable à Dieu, qu'il a marché généreusement dans les voies de David son père, et qu'il a obéi fidèlement aux ordres qu'il a reçus du grand Prophète Isaïe. Enfin, [47] le Saint-Esprit lui rend un témoignage glorieux, en disant qu'il n'y a de tous les Rois de Juda, que David, Ézéchias et Josias, qui n'aient point péché. En effet, depuis David, s'était-il élevé un Prince dans Juda, qui eût la force de détruire les hauts lieux consacrés au Seigneur, [48] mais qui étaient contraires à ses Lois ? De briser le serpent d'airain, d'aller jusque dans les Provinces qui n'étaient point de son obéissance, inviter les peuples à venir au Temple du Seigneur; et cela après un règne d'impiété, et malgré la résistance d'un nombre infini de superstitieux et de méchants, qui ne craignaient que de voir la piété et la Religion se rétablir? Quelle fut sa confiance au Seigneur, au milieu des plus éminents dangers ? Il mit sa confiance au Seigneur Dieu d'Israël, dit l'Écriture, [49] et l'on ne vit jamais dans Juda un Roi qui lui fût semblable, et il ne s'en élèvera point de tels après lui. Il demeura fortement attaché au Seigneur. Il suivit ses voies, et ne s'éloigna jamais de ses commandements. Aussi, combien de faveurs reçut-il de la main de Dieu? Je ne parle pas de ses immenses richesses, [50] elles lui furent un sujet de chute, par la complaisance qu'il eut à les montrer; je parle de la gloire et de la prospérité de son règne, qui le firent regarder des Rois les plus éloignés, avec une espèce de vénération et d'admiration; je parle des prodiges arrivés en sa faveur, la mort soudaine de l'armée de Sennachérib, la fuite précipitée de ce Prince, la guérison d'Ézéchias, la rétrogradation du soleil, l'esprit de prophétie que Dieu lui communiqua, pour composer son Cantique; tout cela marque assez, jusqu'à quel point Ézéchias était agréable au Seigneur.\nOn peut remarquer aussi dans ce Prince quelques rapports assez sensibles entre lui et Jésus-Christ. Ézéchias secoue le joug des Assyriens, et s'attire par là une guerre violente et périlleuse, dont enfin il sort glorieux avec le secours du Seigneur. Jésus-Christ s'élève contre le péché, le monde, la chair et le démon. Il soulève contre sa personne, contre sa Doctrine, contre son Église et contre ses Disciples, toutes les Puissances de la terre et de l'enfer; jamais Sennachérib ne fut si irrité, ni Rabsacés ne vomit tant de blasphèmes contre Dieu, que les persécuteurs ont marqué de fureur, et ont répandu de calomnies. et de blasphèmes contre le Fils de Dieu et contre l'Église ; mais la main de Dieu supérieure à tous leurs efforts, les a terrassés. Jésus-Christ et ses Fidèles ont remporté sur eux une victoire entière. Ézéchias conduit jusqu'aux portes du tombeau, et ensuite miraculeusement rétabli en santé, chante un Cantique solennel d'actions de grâces, où il semble avoir eu en vue la Résurrection du Sauveur, dont sa guérison était l'image, en disant : _Vivens, vivens ipse confitebitur tibi, sicut et ego hodie, pater filiis notam faciet veritatem tuam._[51]"
+      "text": "On lit dans les Paralipomènes, [44] _que le reste des actions d'Ézéchias est écrit dans la vision d'Isaïe fils d'Amos, et dans le livre des rois de Juda et d'Israël._ On trouve en effet quelque chose de la vie d'Ézéchias dans Isaïe ; [45] mais ce n'est qu'une répétition de ce qu'on a vu dans les livres des Rois, sinon qu'on y lit un cantique, qu'Ézéchias composa pour rendre grâces à Dieu de sa guérison miraculeuse. L'auteur de l'Ecclésiastique [46] a fait un éloge historique de ce prince ; il relève les grands biens qu'il a faits à son pays, surtout en fortifiant Jérusalem, et en y conduisant des eaux à grands frais, puisqu'il fallut rompre les rochers, et y creuser des citernes, pour y conserver l'eau. Il rappelle ce qui se passa à l'occasion de la guerre de Sennachérib, et des blasphèmes de Rabsacés, l'effroi du peuple, leur douleur, leur pénitence, et le secours tout miraculeux qu'ils reçurent de Dieu; il est dit qu'Ézéchias a fait ce qui était agréable à Dieu, qu'il a marché généreusement dans les voies de David son père, et qu'il a obéi fidèlement aux ordres qu'il a reçus du grand Prophète Isaïe. Enfin, [47] le Saint-Esprit lui rend un témoignage glorieux, en disant qu'il n'y a de tous les Rois de Juda, que David, Ézéchias et Josias, qui n'aient point péché. En effet, depuis David, s'était-il élevé un Prince dans Juda, qui eût la force de détruire les hauts lieux consacrés au Seigneur, [48] mais qui étaient contraires à ses Lois ? De briser le serpent d'airain, d'aller jusque dans les Provinces qui n'étaient point de son obéissance, inviter les peuples à venir au Temple du Seigneur; et cela après un règne d'impiété, et malgré la résistance d'un nombre infini de superstitieux et de méchants, qui ne craignaient que de voir la piété et la Religion se rétablir? Quelle fut sa confiance au Seigneur, au milieu des plus éminents dangers ? Il mit sa confiance au Seigneur Dieu d'Israël, dit l'Écriture, [49] et l'on ne vit jamais dans Juda un Roi qui lui fût semblable, et il ne s'en élèvera point de tels après lui. Il demeura fortement attaché au Seigneur. Il suivit ses voies, et ne s'éloigna jamais de ses commandements. Aussi, combien de faveurs reçut-il de la main de Dieu? Je ne parle pas de ses immenses richesses, [50] elles lui furent un sujet de chute, par la complaisance qu'il eut à les montrer; je parle de la gloire et de la prospérité de son règne, qui le firent regarder des Rois les plus éloignés, avec une espèce de vénération et d'admiration; je parle des prodiges arrivés en sa faveur, la mort soudaine de l'armée de Sennachérib, la fuite précipitée de ce Prince, la guérison d'Ézéchias, la rétrogradation du soleil, l'esprit de prophétie que Dieu lui communiqua, pour composer son Cantique; tout cela marque assez, jusqu'à quel point Ézéchias était agréable au Seigneur.\nOn peut remarquer aussi dans ce Prince quelques rapports assez sensibles entre lui et Jésus-Christ. Ézéchias secoue le joug des Assyriens, et s'attire par là une guerre violente et périlleuse, dont enfin il sort glorieux avec le secours du Seigneur. Jésus-Christ s'élève contre le péché, le monde, la chair et le démon. Il soulève contre sa personne, contre sa Doctrine, contre son Église et contre ses Disciples, toutes les Puissances de la terre et de l'enfer; jamais Sennachérib ne fut si irrité, ni Rabsacés ne vomit tant de blasphèmes contre Dieu, que les persécuteurs ont marqué de fureur, et ont répandu de calomnies. et de blasphèmes contre le Fils de Dieu et contre l'Église ; mais la main de Dieu supérieure à tous leurs efforts, les a terrassés. Jésus-Christ et ses Fidèles ont remporté sur eux une victoire entière. Ézéchias conduit jusqu'aux portes du tombeau, et ensuite miraculeusement rétabli en santé, chante un Cantique solennel d'actions de grâces, où il semble avoir eu en vue la Résurrection du Sauveur, dont sa guérison était l'image, en disant : _Vivens, vivens ipse confitebitur tibi, sicut et ego hodie, pater filiis notam faciet veritatem tuam._[51]"
     }
   ],
   "joins": [
@@ -147,7 +147,7 @@
       "verse": 3,
       "mode": "hyphen",
       "before": "e de David finir en sa personne ; et par là, les promesses",
-      "after": "promesses faites à ce Prince d'un Messie Libérateur d'Isra"
+      "after": "promesses faites à ce prince d'un Messie libérateur d'Isra"
     },
     {
       "seam": "page_0292>page_0293",
@@ -187,9 +187,9 @@
     {
       "seam": "page_0298>page_0299",
       "verse": 19,
-      "mode": "splice",
+      "mode": "refrag",
       "before": " que c'est ce qui éloigna d'eux la colère du Seigneur. Jo-",
-      "after": "Josèphe ^{(a)} dit que ce Prince ayant appris cette résolu"
+      "after": "Josèphe ^{(a)} dit que ce prince ayant appris cette résolu"
     },
     {
       "seam": "page_0299>page_0300",
@@ -225,27 +225,27 @@
     {
       "key": "page_0289-d",
       "n": 1,
-      "text": "4. Reg. XVIII. 2. & 2. Par. XXIX. I."
+      "text": "4. Reg. XVIII. 2. et 2. Par. XXIX. I."
     },
     {
       "key": "page_0289-e",
       "n": 2,
-      "text": "4. Reg. XVIII. 13. & Iſai. XXXVI. 1."
+      "text": "4. Reg. XVIII. 13. et Isai. XXXVI. 1."
     },
     {
       "key": "page_0289-f",
       "n": 3,
-      "text": "4. Reg. XX. 6. & Iſai. XXXVIII. 5."
+      "text": "4. Reg. XX. 6. et Isai. XXXVIII. 5."
     },
     {
       "key": "page_0290-a",
       "n": 4,
-      "text": "2. Par. XXXII. 24. _Non juxta beneficia quæ acceperat, retribuit; quia elevatum eſt cor ejus, & facta eſt contra eum ira, & contra Juda._"
+      "text": "2. Par. XXXII. 24. _Non juxta beneficia quæ acceperat, retribuit; quia elevatum est cor ejus, et facta est contra eum ira, et contra Juda._"
     },
     {
       "key": "page_0290-b",
       "n": 5,
-      "text": "Job. XXI. _Theſauro pauper._ c. 26."
+      "text": "Job. XXI. _Thesauro pauper._ c. 26."
     },
     {
       "key": "page_0290-c",
@@ -255,17 +255,17 @@
     {
       "key": "page_0290-d",
       "n": 7,
-      "text": "Hebrai apud Hieronym. in Iſai. XXXIX."
+      "text": "Hebrai apud Hieronym. in Isai. XXXIX."
     },
     {
       "key": "page_0290-e",
       "n": 8,
-      "text": "4. Reg. VIII. 10. _Dic ei: Sanaberis; porro oſtendit mihi Dominus quia morte morietur._"
+      "text": "4. Reg. VIII. 10. _Dic ei: Sanaberis; porro ostendit mihi Dominus quia morte morietur._"
     },
     {
       "key": "page_0290-f",
       "n": 9,
-      "text": "Jonas III. 4. _Adhuc quadraginta dies, & Ninive ſubvertetur._"
+      "text": "Jonas III. 4. _Adhuc quadraginta dies, et Ninive subvertetur._"
     },
     {
       "key": "page_0291-a",
@@ -275,22 +275,22 @@
     {
       "key": "page_0291-b",
       "n": 11,
-      "text": "Pſal. VII. 9. XXV. I. & II. XL. 13. & ſ. 2."
+      "text": "Psal. VII. 9. XXV. I. et II. XL. 13. et s. 2."
     },
     {
       "key": "page_0291-c",
       "n": 12,
-      "text": "2. Eſdr. XIII. 14."
+      "text": "2. Esdr. XIII. 14."
     },
     {
       "key": "page_0291-d",
       "n": 13,
-      "text": "Philip. I. 23. Deſiderium habens diſſolvi, & eſſe cum Chriſto."
+      "text": "Philip. I. 23. Desiderium habens dissolvi, et esse cum Christo."
     },
     {
       "key": "page_0292-a",
       "n": 14,
-      "text": "Hieron. in Iſai. c. 38. Iſte omnis fletus eſt, quia deſperabat Chriſtum de ſuo ſemine naſciturum. Ita & Menoch. Tir. &c."
+      "text": "Hieron. in Isai. c. 38. Iste omnis fletus est, quia desperabat Christum de suo semine nasciturum. Ita et Menoch. Tir. etc."
     },
     {
       "key": "page_0292-b",
@@ -300,7 +300,7 @@
     {
       "key": "page_0292-c",
       "n": 16,
-      "text": "Iſai. xx. 1. In anno quo ingreſſus eſt Thartan in Azotum, cùm miſiſſet eum Sargon Rex Aſſyriorum."
+      "text": "Isai. xx. 1. In anno quo ingressus est Thartan in Azotum, cùm misisset eum Sargon Rex Assyriorum."
     },
     {
       "key": "page_0293-a",
@@ -310,32 +310,32 @@
     {
       "key": "page_0293-b",
       "n": 18,
-      "text": "Iſai. XXXVIII. 1."
+      "text": "Isai. XXXVIII. 1."
     },
     {
       "key": "page_0293-c",
       "n": 19,
-      "text": "Plin lib. XXIII. c. 3. Sicca fici gutturi & faucibus magnifice utiles. Natura his excalefaciendi... alvum molliunt, &c. Vide & Dioſcorid. lib. I. c. 145."
+      "text": "Plin lib. XXIII. c. 3. Sicca fici gutturi et faucibus magnifice utiles. Natura his excalefaciendi... alvum molliunt, etc. Vide et Dioscorid. lib. I. c. 145."
     },
     {
       "key": "page_0293-d",
       "n": 20,
-      "text": "Aldrovand. de arborib. l. 2. Fici emplastrati pestilentia ulcera molliunt & difrumpunt; quo medicamento ſanatum volunt Ezechiam Regem. Vide si lubit Franciſc. Valeſ. de ſacra Philoſophia, cap. 39."
+      "text": "Aldrovand. de arborib. l. 2. Fici emplastrati pestilentia ulcera molliunt et difrumpunt; quo medicamento sanatum volunt Ezechiam Regem. Vide si lubit Francisc. Vales. de sacra Philosophia, cap. 39."
     },
     {
       "key": "page_0293-e",
       "n": 21,
-      "text": "שחין על עורו ישים inſtituerunt ei ulcus. ℵG."
+      "text": "שחין על עורו ישים instituerunt ei ulcus. ℵG."
     },
     {
       "key": "page_0293-f",
       "n": 22,
-      "text": "Hieron. in Iſai. XXXVIII. Juxta artem medicorum, omnis ſanies ſaccioribus ficis atque contuſis, in cutis ſuperficiem provocatur, ac per hoc non ſpernendam eſſe medicinam, quæ uſu conſtat & experimento."
+      "text": "Hieron. in Isai. XXXVIII. Juxta artem medicorum, omnis sanies saccioribus ficis atque contusis, in cutis superficiem provocatur, ac per hoc non spernendam esse medicinam, quæ usu constat et experimento."
     },
     {
       "key": "page_0294-a",
       "n": 23,
-      "text": "Iſai. XXXIX. 1."
+      "text": "Isai. XXXIX. 1."
     },
     {
       "key": "page_0294-b",
@@ -350,7 +350,7 @@
     {
       "key": "page_0295-b",
       "n": 26,
-      "text": "Jerem. L. 2. _Victus eſt Merodach._"
+      "text": "Jerem. L. 2. _Victus est Merodach._"
     },
     {
       "key": "page_0295-c",
@@ -365,7 +365,7 @@
     {
       "key": "page_0296-a",
       "n": 29,
-      "text": "Iſai. XXXIX. 2. _Lætatus eſt autem ſuper eis Ezechias_, &c."
+      "text": "Isai. XXXIX. 2. _Lætatus est autem super eis Ezechias_, etc."
     },
     {
       "key": "page_0296-b",
@@ -375,7 +375,7 @@
     {
       "key": "page_0296-c",
       "n": 31,
-      "text": "Munſt. Pagn. Mont."
+      "text": "Munst. Pagn. Mont."
     },
     {
       "key": "page_0296-d",
@@ -385,7 +385,7 @@
     {
       "key": "page_0296-e",
       "n": 33,
-      "text": "Hieronym. in Iſai. XXXIX."
+      "text": "Hieronym. in Isai. XXXIX."
     },
     {
       "key": "page_0297-a",
@@ -395,7 +395,7 @@
     {
       "key": "page_0297-b",
       "n": 35,
-      "text": "2. Par. XXXII. 27. & ſeq. ad 31."
+      "text": "2. Par. XXXII. 27. et seq. ad 31."
     },
     {
       "key": "page_0297-c",
@@ -415,12 +415,12 @@
     {
       "key": "page_0298-b",
       "n": 39,
-      "text": "Ita Hebr. apud Hieron. in Iſai. c. 39."
+      "text": "Ita Hebr. apud Hieron. in Isai. c. 39."
     },
     {
       "key": "page_0298-c",
       "n": 40,
-      "text": "Euſeb. item. in Iſai. XXXIX. 7. 8."
+      "text": "Euseb. item. in Isai. XXXIX. 7. 8."
     },
     {
       "key": "page_0298-d",
@@ -435,7 +435,7 @@
     {
       "key": "page_0299-a",
       "n": 43,
-      "text": "_Joſeph. Antiq. lib. 10. c. 1._"
+      "text": "_Joseph. Antiq. lib. 10. c. 1._"
     },
     {
       "key": "page_0299-c",
@@ -445,17 +445,17 @@
     {
       "key": "page_0299-d",
       "n": 45,
-      "text": "_Iſai. cap XXXVI. XXXVII. XXXIX._"
+      "text": "_Isai. cap XXXVI. XXXVII. XXXIX._"
     },
     {
       "key": "page_0299-e",
       "n": 46,
-      "text": "_Eccli. XLVIII. 19. & ſequ._"
+      "text": "_Eccli. XLVIII. 19. et sequ._"
     },
     {
       "key": "page_0300-a",
       "n": 47,
-      "text": "Eccli. XLIX. 5. _Præter David, & Ezechiam, & Joſiam, omnes peccatum commiſerunt._"
+      "text": "Eccli. XLIX. 5. _Præter David, et Ezechiam, et Josiam, omnes peccatum commiserunt._"
     },
     {
       "key": "page_0300-b",
@@ -475,100 +475,7 @@
     {
       "key": "page_0301-a",
       "n": 51,
-      "text": "Iſai. XXXVIII. 19."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0289",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0290",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0291",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0292",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0293",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0294",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0295",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0296",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0297",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0298",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0299",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0300",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0301",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Isai. XXXVIII. 19."
     }
   ],
   "missing_footnotes": [

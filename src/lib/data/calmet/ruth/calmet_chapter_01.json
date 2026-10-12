@@ -16,7 +16,7 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EPHRATÆI DE BETHLEHEM JUDÆ.",
       "lemma": "D'Éphrata, de Bethléhem qui est en Juda.",
       "text": "Le nom d'_Ephratæus_ se prend quelquefois dans l'Écriture pour signifier un homme de la tribu d'Éphraïm ; [4] mais il signifie ici un homme de la ville de Bethléhem. [5] Le nom ancien de Bethléhem était Éphrata, [6] et depuis l'entrée des Hébreux dans le pays de Canaan, on continua d'appeler ses habitants Éphratéens ; et on la trouve sous le nom de _Bethléhem-Éphrata_, dans Michée, [7] L'Écriture lui donne ordinairement le nom de Bethléhem de Juda, pour la distinguer d'une autre ville de Bethléhem, dans la tribu de Zabulon. Quoique Bethléhem soit assez peu de chose par elle-même, elle est devenue une des plus célèbres villes du monde, par la naissance du grand Roi David, et par celle de J. C. Roi et Dominateur de l'Univers. Cette ville est à deux petites lieues de Jérusalem, vers le midi."
@@ -65,7 +65,7 @@
     },
     {
       "verse": 15,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SUUM, ET AD DEOS SUOS.",
       "lemma": "Votre sœur est retournée à son peuple, et à ses Dieux.",
       "text": "On croit qu'Orpha n'était point parente, mais seulement alliée de Ruth. Le terme hébreu [26] qu'on traduit dans la Vulgate, par _cognata_, signifie, dit-on, simplement une belle-sœur. La plupart infèrent de ce passage, qu'Orpha n'avait point quitté le culte des faux Dieux, ou au moins qu'elle ne persévéra point dans la vraie Religion. Il est vrai qu'on pourrait traduire : [27] _Elle est retournée à son Dieu_. Mais quel autre Dieu trouvait-elle dans Moab, que le Dieu Chamos, qu'on adorait dans tout ce pays ?"
@@ -162,12 +162,12 @@
     {
       "key": "page_0004-a",
       "n": 2,
-      "text": "Vide Authorem tradit. Heb. in Paralip. & Iyr. in 1. Par. IV. 22. Et qui ſtare fecit ſolem. Et Bonfr. hic."
+      "text": "Vide Authorem tradit. Heb. in Paralip. et Iyr. in 1. Par. IV. 22. Et qui stare fecit solem. Et Bonfr. hic."
     },
     {
       "key": "page_0004-b",
       "n": 3,
-      "text": "Vide Druſ. hic. & Serar. qu. 2."
+      "text": "Vide Drus. hic. et Serar. qu. 2."
     },
     {
       "key": "page_0004-c",
@@ -177,12 +177,12 @@
     {
       "key": "page_0004-d",
       "n": 5,
-      "text": "Hic & 1. Reg. XVII. 12."
+      "text": "Hic et 1. Reg. XVII. 12."
     },
     {
       "key": "page_0005-a",
       "n": 6,
-      "text": "Geneſ. XXXV. 19. & XLVIII. 7."
+      "text": "Genes. XXXV. 19. et XLVIII. 7."
     },
     {
       "key": "page_0005-b",
@@ -197,7 +197,7 @@
     {
       "key": "page_0005-d",
       "n": 9,
-      "text": "I. Par. IV. 22. Et ſecurus & incendens, qui Principes fuerunt in Moab, & qui reverſi ſunt in Lahem."
+      "text": "I. Par. IV. 22. Et securus et incendens, qui Principes fuerunt in Moab, et qui reversi sunt in Lahem."
     },
     {
       "key": "page_0005-e",
@@ -212,7 +212,7 @@
     {
       "key": "page_0005-g",
       "n": 12,
-      "text": "Vide Munſt. Druſ. Serar."
+      "text": "Vide Munst. Drus. Serar."
     },
     {
       "key": "page_0005-h",
@@ -222,12 +222,12 @@
     {
       "key": "page_0005-i",
       "n": 14,
-      "text": "Toſtat. Vat. Arias."
+      "text": "Tostat. Vat. Arias."
     },
     {
       "key": "page_0006-a",
       "n": 15,
-      "text": "Prudent. in Hamartigen. * * * * * * Sed priſtinus Orpha Fœnorum ritus propatria barbara ſuaſit, Malle & ſemniferi ſtirpem nutrire Goliæ."
+      "text": "Prudent. in Hamartigen. * * * * * * Sed pristinus Orpha Fœnorum ritus propatria barbara suasit, Malle et semniferi stirpem nutrire Goliæ."
     },
     {
       "key": "page_0006-b",
@@ -252,7 +252,7 @@
     {
       "key": "page_0006-f",
       "n": 20,
-      "text": "I. Eſdr. IX. I. 2."
+      "text": "I. Esdr. IX. I. 2."
     },
     {
       "key": "page_0007-a",
@@ -267,12 +267,12 @@
     {
       "key": "page_0008-a",
       "n": 23,
-      "text": "כי אמרתי יש לי תקוה גם הלילה והייתי לאיש וגם ילדתי בנים. _An putas mihi adhuc ſpem eſſe ut hac nocte viro nubam, & pariam filios._"
+      "text": "כי אמרתי יש לי תקוה גם הלילה והייתי לאיש וגם ילדתי בנים. _An putas mihi adhuc spem esse ut hac nocte viro nubam, et pariam filios._"
     },
     {
       "key": "page_0008-b",
       "n": 24,
-      "text": "הלהן תשברנה עד אשר יגדלו הלהן תעגנה לבלתי היות לאיש. _Num propterea expectabitis donec adoleſcant, & propterea claudemini ne viro nubatis._"
+      "text": "הלהן תשברנה עד אשר יגדלו הלהן תעגנה לבלתי היות לאיש. _Num propterea expectabitis donec adolescant, et propterea claudemini ne viro nubatis._"
     },
     {
       "key": "page_0008-c",
@@ -302,65 +302,7 @@
     {
       "key": "page_0010-b",
       "n": 30,
-      "text": "3. Reg. XIX. Vide & 4. Reg. XX. 10."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0003",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0004",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0005",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0006",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0007",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0008",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0009",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0010",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "3. Reg. XIX. Vide et 4. Reg. XX. 10."
     }
   ],
   "missing_footnotes": []

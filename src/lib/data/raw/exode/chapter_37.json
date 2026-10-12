@@ -236,6 +236,33 @@
       "source_pages": [
         "page_0601.json"
       ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Fecisque ei coronam aureolam per gyrum, et duos annulos aureos sub corona per singula latera, ut mittantur in eos vectes, et possit Altare portari.",
+      "french": "Il y fit une petite couronne d'or qui régnait tout autour, et deux anneaux d'or qui étaient sous cette couronne, dans lesquels on faisait entrer les bâtons, qui servaient à porter l'Autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0602.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Ipsos autem vectes fecit de lignis setim, et operuit laminis aureis.",
+      "french": "Ces bâtons étaient de bois de setim, couverts de lames d'or.",
+      "annotations": null,
+      "source_pages": [
+        "page_0602.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Composuit et oleum ad sanctificationis unguentum, et thymiama de aromatibus mundissimis, opere pigmentarii.",
+      "french": "Il composa aussi l'huile pour servir à l'onction, et à la consécration des choses destinées au culte du Seigneur ; et un parfum composé des plus excellents aromates, selon l'art des plus habiles parfumeurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0602.json"
+      ]
     }
   ]
 }

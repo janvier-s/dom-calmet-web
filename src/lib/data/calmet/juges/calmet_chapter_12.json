@@ -9,14 +9,14 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TRANSBUNTES CONTRA AQUILONEM.",
       "lemma": "Passant vers le septentrion.",
       "text": "Il y a assez d'apparence qu'ils furent trouver Jephté, comme il était encore vers _Abel aux Vignes_, à la poursuite des Ammonites, et avant qu'il fût de retour à Maspha. Cette dernière ville est plutôt à l'orient, qu'au septentrion d'Ephraïm ; mais _Abel_ ou _Abila_ tire plus au midi. Les Septante qu'on vient de citer, ont pris _Zephona_, qui signifie le septentrion, pour un nom de lieu : et ils ont été suivis de quelques Interprètes.[4] Il est parlé dans le Livre des Nombres d'un lieu nommé _Sé-phrona_, au nord de la Terre sainte. Et dans Josué [5] d'un lieu nommé _Saphon_, ou _Zéphon_ sur le Jourdain."
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IGITUR INCENDEMUS DOMUM TUAM.",
       "lemma": "Nous allons donc mettre le feu à votre maison.",
       "text": "L'Hébreu : [6] _Nous allons brûler votre maison sur vous_, ou avec vous. Nous allons vous brûler, vous et votre maison."
@@ -30,7 +30,7 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VOCAVIQUE VOS UT PRÆBERETIS MIHI AUXILIUM.",
       "lemma": "Je vous ai prié de nous donner du secours.",
       "text": "Jephté les envoya prier de venir à son secours, pendant que lui-même parcourait tout Galaad et tout Manassé, pour ramasser des troupes.[11] Cette particularité n'est pourtant pas marquée au Chapitre précédent ; il n'y est pas dit que Jephté ait envoyé vers Éphraïm ; et Drusius doute qu'il l'ait fait : autrement quelle raison auraient ceux d'Éphraïm de se plaindre ? L'Hébreu porte : _J'ai crié vers vous, et vous ne m'avez point sauvé ; et voyant qu'il n'y avait personne pour me secourir, j'ai mis mon âme dans ma main._ Ainsi on ne peut nier que Galaad, ou même Jephté en particulier, n'ait imploré le secours d'Éphraïm, dans l'oppression qu'il souffrait, quoique peut-être il ne l'eût pas fait expressément dans cette dernière guerre ; mais ayant remarqué l'indifférence d'Éphraïm dans d'autres circonstances, il ne voulut pas s'exposer à un nouveau refus."
@@ -39,7 +39,7 @@
       "verse": 3,
       "sub": false,
       "latin_lemma": "POSUI ANIMAM MEAM IN MANIBUS MEIS.",
-      "lemma": "J'ai exposé ma vie ; à la lettre : j'ai mis mon âme dans mes mains.",
+      "lemma": "_J'ai exposé ma vie ;_ à la lettre : _j'ai mis mon âme dans mes mains._",
       "text": "[12] Expression qui s'emploie assez souvent dans l'Écriture, pour dire s'exposer au danger, risquer sa vie. Par exemple, Jonathas parlant de David à Saül, lui dit : [13] _C'est un homme qui a mis son âme dans ses mains, et qui a vaincu le Philistin._ Et la Pythonisse parlant à Saül : [14] _j'ai mis mon âme dans ma main pour vous obliger._ Job dit [15] qu'il porte son âme dans sa main ; et David le dit de même. [16] Les Interprètes l'entendent unanimement du danger auquel on s'expose. [17] Mais on ne convient pas de la raison de cette manière de parler. Les uns veulent que comme l'on ne met pas dans les mains une chose fort précieuse, et que l'on veut conserver chèrement ; ainsi quand on porte son âme dans ses mains, qu'on la met en évidence, on marque assez qu'on la ménage peu, et qu'on ne craint pas qu'elle nous soit ravie par nos ennemis.\nOn pourrait dire aussi que mettre son âme dans ses mains, signifie à la lettre, prendre les armes, et combattre contre ses ennemis. Quiconque entre dans le combat met son âme et sa vie dans sa main ; il n'y a que la résistance, la force, la valeur qui puissent le mettre à couvert de la mort, qui puissent le tirer du danger. C'est par une semblable figure, qu'on dit mettre son salut dans son épée, dans sa main, dans ses pieds, dans la fuite. Un Héros qui parle dans Isaïe, dit : [18] _J'ai jeté les yeux de tout côté, et personne n'est venu à mon secours, mais mon bras m'a sauvé, ma colère m'a secouru._ Salomon dit que le Sage [19] _met son cœur dans sa main droite, et l'insensé le met dans sa gauche._ Il veut dire apparemment que le Sage estimant sa vie autant qu'il le doit, la conserve comme une chose très précieuse, et ne néglige rien pour la mettre à couvert ; au lieu que l'insensé la regardant avec indifférence, n'emploie que sa gauche pour la garder ; ainsi quand Jephté dit qu'il a mis son âme dans sa main, il ne veut rien dire autre chose, sinon : J'ai pris les armes pour me défendre ; j'ai tout risqué pour sauver mon peuple. On dit aussi en parlant d'un autre, _Je tiens son âme dans mes mains_, [20] je suis le maître de sa vie."
     },
     {
@@ -186,7 +186,7 @@
     {
       "key": "page_0226-b",
       "n": 5,
-      "text": "Joſue XIII. 27."
+      "text": "Josue XIII. 27."
     },
     {
       "key": "page_0226-c",
@@ -196,7 +196,7 @@
     {
       "key": "page_0226-d",
       "n": 7,
-      "text": "℣. 13. 14. & ſeq."
+      "text": "℣. 13. 14. et seq."
     },
     {
       "key": "page_0226-e",
@@ -206,7 +206,7 @@
     {
       "key": "page_0226-f",
       "n": 9,
-      "text": "Iſai. XLI. 11."
+      "text": "Isai. XLI. 11."
     },
     {
       "key": "page_0226-g",
@@ -241,7 +241,7 @@
     {
       "key": "page_0227-f",
       "n": 16,
-      "text": "Pſalm. CXVIII. 109."
+      "text": "Psalm. CXVIII. 109."
     },
     {
       "key": "page_0227-g",
@@ -251,17 +251,17 @@
     {
       "key": "page_0228-a",
       "n": 18,
-      "text": "Iſai. LXIII. 5."
+      "text": "Isai. LXIII. 5."
     },
     {
       "key": "page_0228-b",
       "n": 19,
-      "text": "Eccleſ. X. 2."
+      "text": "Eccles. X. 2."
     },
     {
       "key": "page_0228-c",
       "n": 20,
-      "text": "Titus apud Joſeph. l. 7. de Bello Jud. c.13. ψυχὴν ἐν τῇ ἐμᾶυτῇ ἔχειν σε χεῖρι."
+      "text": "Titus apud Joseph. l. 7. de Bello Jud. c.13. ψυχὴν ἐν τῇ ἐμᾶυτῇ ἔχειν σε χεῖρι."
     },
     {
       "key": "page_0229-a",
@@ -276,7 +276,7 @@
     {
       "key": "page_0230-a",
       "n": 23,
-      "text": "Geneſ. I. 6."
+      "text": "Genes. I. 6."
     },
     {
       "key": "page_0230-b",
@@ -296,7 +296,7 @@
     {
       "key": "page_0230-e",
       "n": 27,
-      "text": "[UNCERTAIN HEBREW] Sibbolet, vide Lyran hic & Druſ."
+      "text": "[UNCERTAIN HEBREW] Sibbolet, vide Lyran hic et Drus."
     },
     {
       "key": "page_0230-f",
@@ -311,7 +311,7 @@
     {
       "key": "page_0231-b",
       "n": 30,
-      "text": "Ita 70. In Codice Baſileenſi. Καὶ ἦσαν ἀμφότεροι ἄνδρες Ν ἐυνόημα. ἢ, οὕτως, σύχνη. καὶ ἦ κατὰ δυνατὸν λελέσαι τρῦτο."
+      "text": "Ita 70. In Codice Basileensi. Καὶ ἦσαν ἀμφότεροι ἄνδρες Ν ἐυνόημα. ἢ, οὕτως, σύχνη. καὶ ἦ κατὰ δυνατὸν λελέσαι τρῦτο."
     },
     {
       "key": "page_0231-c",
@@ -321,7 +321,7 @@
     {
       "key": "page_0231-d",
       "n": 32,
-      "text": "Geneſ. XIII. 29."
+      "text": "Genes. XIII. 29."
     },
     {
       "key": "page_0231-e",
@@ -331,7 +331,7 @@
     {
       "key": "page_0231-f",
       "n": 34,
-      "text": "Vide Munſter. & Serar. q. 4."
+      "text": "Vide Munster. et Serar. q. 4."
     },
     {
       "key": "page_0231-g",
@@ -346,7 +346,7 @@
     {
       "key": "page_0233-a",
       "n": 37,
-      "text": "Vide Targum Ruth. Talmud. Jeroſol. Rabb. Salom. Kimchi, Rab. Levi filius David, Abrah. Zacc. & alios apud Munſter. & Serar. qu. 5."
+      "text": "Vide Targum Ruth. Talmud. Jerosol. Rabb. Salom. Kimchi, Rab. Levi filius David, Abrah. Zacc. et alios apud Munster. et Serar. qu. 5."
     },
     {
       "key": "page_0233-b",
@@ -356,94 +356,22 @@
     {
       "key": "page_0233-c",
       "n": 39,
-      "text": "Euſebii Chronic."
+      "text": "Eusebii Chronic."
     },
     {
       "key": "page_0233-d",
       "n": 40,
-      "text": "Joſeph. l. c. 9. Κριτων ῖλλον υιός."
+      "text": "Joseph. l. c. 9. Κριτων ῖλλον υιός."
     },
     {
       "key": "page_0233-e",
       "n": 41,
-      "text": "Toſtat. Vide S.r.r qu. 7."
+      "text": "Tostat. Vide S.r.r qu. 7."
     },
     {
       "key": "page_0234-a",
       "n": 42,
-      "text": "Voyez Judith. ℣. v. & x. 4."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0225",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0226",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0227",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0228",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0229",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0230",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0231",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0232",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0233",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0234",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Voyez Judith. ℣. v. et x. 4."
     }
   ],
   "missing_footnotes": []

@@ -168,6 +168,33 @@
       "source_pages": [
         "page_0339.json"
       ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Si fruges collegeris olivarum ; quidquid remanserit in arboribus, non reverteris ut colligas : sed relinques advenae, pupillo, ac viduae.",
+      "french": "Quand vous aurez recueilli les fruits des oliviers, vous ne reviendrez point reprendre ceux qui sont restés sur les arbres ; mais vous les laisserez à l'étranger, à l'orphelin et à la veuve.",
+      "annotations": null,
+      "source_pages": [
+        "page_0340.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Si vindemiaveris vineam tuam, non colliges remanentes racemos, sed cedent in usus advenae, pupilli, ac viduae.",
+      "french": "Quand vous aurez vendangé votre vigne, vous n'irez point recueillir les raisins qui y seront demeurés ; mais ils seront pour l'étranger, pour l'orphelin et pour la veuve.",
+      "annotations": null,
+      "source_pages": [
+        "page_0340.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Memento quod et tu servieris in Aegypto, et idcirco praecipio tibi ut facias hanc rem.",
+      "french": "Souvenez-vous que vous avez été vous-même esclave en Égypte : car c'est pour cela que je vous fais ce commandement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0340.json"
+      ]
     }
   ]
 }

@@ -5,8 +5,8 @@
   "verses": [
     {
       "verse_number": 1,
-      "latin": "CEcidit quoque ſors filiorum Joſeph ab Jordane contra Jericho, & aquas ejus ab oriente : ſolitudo quæ aſcendit de Jericho ad montem Bethel :",
-      "french": "LE partage échu par sort aux enfants de Joseph, fut depuis cette partie du Jourdain, qui coule vis-à-vis de Jéricho, et depuis les eaux de cette ville vers l'orient, le désert qui monte de Jéricho à la montagne de Bethel.",
+      "latin": "Cecidit quoque sors filiorum Joseph ab Jordane contra Jericho, et aquas ejus ab oriente : solitudo quæ ascendit de Jericho ad montem Bethel :",
+      "french": "Le partage échu par sort aux enfants de Joseph, fut depuis cette partie du Jourdain, qui coule vis-à-vis de Jéricho, et depuis les eaux de cette ville vers l'orient, le désert qui monte de Jéricho à la montagne de Bethel.",
       "annotations": null,
       "source_pages": [
         "page_0297.json"
@@ -14,7 +14,7 @@
     },
     {
       "verse_number": 2,
-      "latin": "_Et egreditur de Bethel Luza, tranſitque terminum Archi, Atharoth,_",
+      "latin": "Et egreditur de Bethel Luza, transitque terminum Archi, Atharoth,",
       "french": "Et sort de Bethel, en allant vers Luza, passe le long des confins d'Archi vers Atharoth,",
       "annotations": "An. 2560.",
       "source_pages": [
@@ -23,7 +23,7 @@
     },
     {
       "verse_number": 3,
-      "latin": "Et deſcendit ad occidentem, juxta terminum Jephleti, uſque ad terminos Bethoron inferioris, & Gazer: finiumtúrque regiones ejus mari magno.",
+      "latin": "Et descendit ad occidentem, juxta terminum Jephleti, usque ad terminos Bethoron inferioris, et Gazer: finiumtúrque regiones ejus mari magno.",
       "french": "Descend à l'occident le long des confins de Jephlet, et jusqu'aux confins de Bethoron la basse, et de Gazer ; et son pays finit à la grande mer.",
       "annotations": "An.2560.",
       "source_pages": [
@@ -32,7 +32,7 @@
     },
     {
       "verse_number": 4,
-      "latin": "Poſſederúntque filii Joſeph Manaſſes & Ephraïm.",
+      "latin": "Possederúntque filii Joseph Manasses et Ephraïm.",
       "french": "C'est ce que les enfants de Joseph, Manassé et Éphraïm ont possédé.",
       "annotations": null,
       "source_pages": [
@@ -41,7 +41,7 @@
     },
     {
       "verse_number": 5,
-      "latin": "Et factus eſt terminus filiorum Ephraïm per cognationes ſuas: & poſſeſſio eorum, contra orientem Atharoth-Addar, uſque Bethoron ſuperiorem.",
+      "latin": "Et factus est terminus filiorum Ephraïm per cognationes suas: et possessio eorum, contra orientem Atharoth-Addar, usque Bethoron superiorem.",
       "french": "La frontière des enfants d'Éphraïm divisés par leurs familles dans la terre qu'ils possèdent, est vers l'orient Atharoth-Addar, jusqu'à Bethoron la haute.",
       "annotations": null,
       "source_pages": [
@@ -50,7 +50,7 @@
     },
     {
       "verse_number": 6,
-      "latin": "Egrediuntúrque confinia in mare: Machmethath verò aquilonem reſpicit, & circuit terminos contra orientem in Thanath-ſelo: & pertranſit ab oriente Janoë.",
+      "latin": "Egrediuntúrque confinia in mare: Machmethath verò aquilonem respicit, et circuit terminos contra orientem in Thanath-selo: et pertransit ab oriente Janoë.",
       "french": "Ses limites vont se terminer à la mer. Machmethah regarde vers le septentrion, et tourne vers l'orient à Thanath-selo ;",
       "annotations": null,
       "source_pages": [
@@ -59,7 +59,7 @@
     },
     {
       "verse_number": 7,
-      "latin": "Deſcenditque de Janoë in Atharoth & Naaratha : & pervenit in Jericho, egreditúrque ad Jordanem.",
+      "latin": "Descenditque de Janoë in Atharoth et Naaratha : et pervenit in Jericho, egreditúrque ad Jordanem.",
       "french": "Et passe à l'orient de Janoë ; de Janoë descend jusqu'à Atharoth, et à Naaratha ; vient jusqu'à Jéricho, et se termine au Jourdain.",
       "annotations": null,
       "source_pages": [
@@ -68,7 +68,7 @@
     },
     {
       "verse_number": 8,
-      "latin": "De Taphua pertranſit contra mare in vallem arundineti, ſuntque egreſſus ejus in mare ſalſiſſimum. Hæc eſt poſſeſſio tribus filiorum Ephraïm per familias ſuas.",
+      "latin": "De Taphua pertransit contra mare in vallem arundineti, suntque egressus ejus in mare salsissimum. Hæc est possessio tribus filiorum Ephraïm per familias suas.",
       "french": "De Taphua il passe vers la mer jusqu'à la vallée des Roseaux, et se termine à la mer salée. C'est là l'héritage de la tribu des enfants d'Éphraïm divisés par leurs familles.",
       "annotations": null,
       "source_pages": [
@@ -77,16 +77,16 @@
     },
     {
       "verse_number": 9,
-      "latin": "Urbesque ſeparatæ ſunt filiis Ephraïm, in medio poſſeſſionis filiorum Manaſſe, & villæ earum.",
+      "latin": "Urbesque separatæ sunt filiis Ephraïm, in medio possessionis filiorum Manasse, et villæ earum.",
       "french": "Et il y eut des villes avec les villages de leur dépendance, que l'on sépara du milieu de l'héritage des enfants de Manassé, pour les donner aux enfants d'Éphraïm.",
-      "annotations": "An. 1550.",
+      "annotations": "",
       "source_pages": [
         "page_0301.json"
       ]
     },
     {
       "verse_number": 10,
-      "latin": "Et non interfecerunt filii Ephraim Chananæum, qui habitabat in Gazer : habitavitque Chananæus in medio Ephraim, uſque in diem hanc tributarius.",
+      "latin": "Et non interfecerunt filii Ephraim Chananæum, qui habitabat in Gazer : habitavitque Chananæus in medio Ephraim, usque in diem hanc tributarius.",
       "french": "Les enfants d'Éphraïm n'exterminèrent point les Cananéens qui habitaient dans Gazer ; mais les Cananéens ont habité jusqu'aujourd'hui au milieu d'Éphraïm, et leur sont demeurés tributaires.",
       "annotations": null,
       "source_pages": [

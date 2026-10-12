@@ -1,8 +1,25 @@
 {
-  "notes": [],
-  "joins": [],
-  "pages_used": [],
+  "notes": [
+    {
+      "verse": 22,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "RUM EJUS. _Ils furent tués par David et par ses gens._ C'est-à-dire, ils furent tués dans des guerres où David se trouva en personne, ou dans celles qu'il fit par ses Généraux : il ne paraît pas qu'il en ait tué aucun de ceux-là de sa main.\n\nCE Chapitre n'est point différent du Psaume dix-sept. Nous nous contentons d'en donner ici la traduction; on en trouvera l'explication littérale dans le Livre des Psaumes."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0240>page_0240",
+      "verse": 22,
+      "mode": "para",
+      "before": "e paraît pas qu'il en ait tué aucun de ceux-là de sa main.",
+      "after": "CE Chapitre n'est point différent du Psaume dix-sept. Nous"
+    }
+  ],
+  "pages_used": [
+    "page_0240"
+  ],
   "footnotes": [],
-  "decisions": [],
   "missing_footnotes": []
 }

@@ -239,15 +239,6 @@
     },
     {
       "verse_number": 27,
-      "latin": "Et omnes viri domus illius, tam vernaculi, quam emptitii et alienigenae pariter circumcisi sunt.",
-      "french": "Et tous les mâles de la maison d'Abraham, furent circoncis en même temps: Tant les esclaves achetés, que ceux qui étaient nés chez lui, et ceux qui étaient étrangers.",
-      "annotations": null,
-      "source_pages": [
-        "page_0498.json"
-      ]
-    },
-    {
-      "verse_number": 27,
       "latin": "Respondensque Abraham ait : Quia semel cœpi, loquar ad Dominum meum, cum sim pulvis et cinis.",
       "french": "Abraham ajouta : Puisque j'ai commencé, je parlerai à mon Seigneur, quoi que je ne sois que poudre et que cendre.",
       "annotations": null,
@@ -298,6 +289,15 @@
       "annotations": null,
       "source_pages": [
         "page_0513.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Abiitque Dominus postquam cessavit loqui ad Abraham : et ille reversus est in locum suum.",
+      "french": "Le Seigneur se retira après qu'il eut cessé de parler à Abraham ; et Abraham retourna chez lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0514.json"
       ]
     }
   ]

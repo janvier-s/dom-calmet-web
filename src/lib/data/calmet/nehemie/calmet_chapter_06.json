@@ -37,7 +37,7 @@
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VENI, UT INEAMUS CONSILIUM.",
       "lemma": "Venez, afin que nous en délibérions ensemble.",
       "text": "Venez vous justifier devant nous de ce crime de rébellion ; [5] ou venez, afin que nous puissions délibérer, et prendre ensemble les mesures, pour réprimer ces bruits, et en arrêter le cours, de peur que le Roi n’en conçoive de fâcheux soupçons contre nous, et n’en fasse retomber la peine sur nos têtes, en nous regardant comme fauteurs ; ou comme complices de votre révolte. Le premier sens nous paraît meilleur. La réponse de Néhémie fait voir qu’il ne prit pas l’avis de Sanaballat comme une civilité ; mais comme une accusation, à laquelle il ne voulut pas répondre."
@@ -93,7 +93,7 @@
     },
     {
       "verse": 15,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUINQUAGINTA-DUOBUS DIEBUS.",
       "lemma": "En cinquante-deux jours.",
       "text": "Il paraît presqu'incroyable, que dans si peu de temps, on ait pu achever un si grand ouvrage. Pour rendre ce fait moins difficile à croire, quelques-uns [16] ont cru que le mur ne fut achevé que cinquante-deux jours après les lettres de Sanaballat, dont on a parlé plus haut. D'autres, [17] après Joseph, ont cru que l'on avait été deux ans entiers, et trois mois, à rebâtir les murs de Jérusalem. Mais la plupart des Chronologistes, et des Interprètes [18] prétendent que cet ouvrage fut achevé cinquante-deux jours après qu'il eût été commencé. Le Texte est formel pour ce sentiment. Le grand nombre d'ouvriers, l'ardeur de Néhémie, la diligence des Juifs, toute la Nation occupée à ce travail, la jalousie de leurs ennemis, qui leur faisait encore redoubler leurs efforts ; tout cela joint ensemble, ne permet pas de croire qu'il y ait rien d'impossible dans le récit de Néhémie. Ajoutez que ces murailles ne se bâtissaient pas depuis les fondements ; on en réparait simplement les brèches ; on rétablissait les endroits qui avaient été abattus ; les matériaux étaient tout prêts ; les fondements subsistaient ; il y avait plusieurs endroits escarpés, où il ne fallait que peu, ou point de murailles. Enfin on ne doit pas s'imaginer qu'alors Jérusalem eût toute la grandeur qu'on lui donna dans la suite. On y fit de grandes additions dans les derniers temps.\nLes exemples anciens, et nouveaux de semblables ouvrages entrepris, et exécutés avec une diligence encore plus grande, et par un moindre nombre de personnes, sont fréquents dans l'Histoire. On sait les travaux que fit Jules César devant Alésia, [19] lorsqu'il enveloppa cette ville dans l'espace de onze mille pas, d'un fossé profond de vingt pieds ; et qu'à quatre cents pieds de ce fossé, il en fit creuser deux autres de la largeur de quinze pieds, et d'autant de profondeur ; et derrière eux, une terrasse de douze pieds. Il fortifia le tout de divers ouvrages, et entre autres, de plusieurs tours éloignées de quatre-vingts pieds les unes des autres. Il fit plus : car pour empêcher le secours qui devait venir à la ville, il fit d'autres lignes de circonvallation dans l'espace de quatorze mille pas, qu'il munit des mêmes espèces de fortifications, qu'il avait faites aux premières. Le même César [20]"
@@ -176,7 +176,7 @@
     {
       "key": "page_0049-d",
       "n": 8,
-      "text": "Jun. Tremel. Piſc. Verſ. A gl. Gall. Mart."
+      "text": "Jun. Tremel. Pisc. Vers. A gl. Gall. Mart."
     },
     {
       "key": "page_0050-a",
@@ -186,7 +186,7 @@
     {
       "key": "page_0050-b",
       "n": 10,
-      "text": "והוא עצור וגו ויהי סגור & ἀνὴρ συνιχόμ."
+      "text": "והוא עצור וגו ויהי סגור et ἀνὴρ συνιχόμ."
     },
     {
       "key": "page_0050-c",
@@ -196,7 +196,7 @@
     {
       "key": "page_0050-d",
       "n": 12,
-      "text": "Jun. Piſc. Malv. Vide. I. Reg. XXI. 7. de Doëg, qui erat, נעצר לפני יהוה"
+      "text": "Jun. Pisc. Malv. Vide. I. Reg. XXI. 7. de Doëg, qui erat, נעצר לפני יהוה"
     },
     {
       "key": "page_0050-e",
@@ -206,7 +206,7 @@
     {
       "key": "page_0050-f",
       "n": 14,
-      "text": "Eſt. Malv. Tir. Men."
+      "text": "Est. Malv. Tir. Men."
     },
     {
       "key": "page_0051-a",
@@ -216,71 +216,27 @@
     {
       "key": "page_0051-b",
       "n": 16,
-      "text": "Vat. Mart. Oſiand."
+      "text": "Vat. Mart. Osiand."
     },
     {
       "key": "page_0051-c",
       "n": 17,
-      "text": "Joſeph Antiq. lib. XI. cap. 5. Επ' ἔτη β', ἐφ'ἡμέρας δ', ὡς τέτῳ τῷ χρόνῳ τοῖς Ἱεροσολύμοις ἀνακδομήθη τὸ τεῖχος. Ita Caiet. Hift. Scolaſt."
+      "text": "Joseph Antiq. lib. XI. cap. 5. Επ' ἔτη β', ἐφ'ἡμέρας δ', ὡς τέτῳ τῷ χρόνῳ τοῖς Ἱεροσολύμοις ἀνακδομήθη τὸ τεῖχος. Ita Caiet. Hift. Scolast."
     },
     {
       "key": "page_0051-d",
       "n": 18,
-      "text": "Ita Uſſer. Villalp. Tirin. Lir. Dionyſ. Cornel. Sanct. &c."
+      "text": "Ita Usser. Villalp. Tirin. Lir. Dionys. Cornel. Sanct. etc."
     },
     {
       "key": "page_0052-a",
       "n": 19,
-      "text": "_Vide Jul. Cæſar. Belli Gall. lib. 7._"
+      "text": "_Vide Jul. Cæsar. Belli Gall. lib. 7._"
     },
     {
       "key": "page_0052-b",
       "n": 20,
       "text": "_Idem. lib. 1. de Bello Gallico._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0047",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0048",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0049",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0050",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0051",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0052",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

@@ -193,17 +193,17 @@
     {
       "key": "page_0332-d",
       "n": 4,
-      "text": "_Job_ XL. 3. _Vide Eſtium hic_,"
+      "text": "_Job_ XL. 3. _Vide Estium hic_,"
     },
     {
       "key": "page_0332-e",
       "n": 5,
-      "text": "_Geneſ._ II. 7."
+      "text": "_Genes._ II. 7."
     },
     {
       "key": "page_0333-a",
       "n": 6,
-      "text": "(a) לא יחרף לבבי מימי. 70. Οὐ γὰρ σύνοιδα ἐμαυτῷ ἄτοπα πράξας."
+      "text": " לא יחרף לבבי מימי. 70. Οὐ γὰρ σύνοιδα ἐμαυτῷ ἄτοπα πράξας."
     },
     {
       "key": "page_0334-a",
@@ -223,7 +223,7 @@
     {
       "key": "page_0334-d",
       "n": 10,
-      "text": "אורה אתכם ביד אל אשר עם שדי לא אכחד. Καὶ ἐγὼ δὲ ὑμῖν ἀναγγελῶ ὅσα ἐςὶ παρὰ τῷ Κυρίῳ ; & ἰςὶ παρὰ παντοκράτορι & οὐ ψεύσομαι."
+      "text": "אורה אתכם ביד אל אשר עם שדי לא אכחד. Καὶ ἐγὼ δὲ ὑμῖν ἀναγγελῶ ὅσα ἐςὶ παρὰ τῷ Κυρίῳ ; et ἰςὶ παρὰ παντοκράτορι et οὐ ψεύσομαι."
     },
     {
       "key": "page_0335-a",
@@ -293,7 +293,7 @@
     {
       "key": "page_0337-f",
       "n": 24,
-      "text": "_Exod. X. 13. XIV. 21. &c._"
+      "text": "_Exod. X. 13. XIV. 21. etc._"
     },
     {
       "key": "page_0338-a",
@@ -303,70 +303,12 @@
     {
       "key": "page_0338-b",
       "n": 26,
-      "text": "_Ita Caſ. Vide Grot. & Mercer._"
+      "text": "_Ita Cas. Vide Grot. et Mercer._"
     },
     {
       "key": "page_0338-c",
       "n": 27,
-      "text": "_Vide ſuprà Job._ IX. 23. _Deut._ XXXII. 61. _Prov._ I. 26. _Ezech._ v. 13. _Vide Pined. Scultet. Junium hic._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0331",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0332",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0333",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0334",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0335",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0336",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0337",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0338",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "_Vide suprà Job._ IX. 23. _Deut._ XXXII. 61. _Prov._ I. 26. _Ezech._ v. 13. _Vide Pined. Scultet. Junium hic._"
     }
   ],
   "missing_footnotes": []

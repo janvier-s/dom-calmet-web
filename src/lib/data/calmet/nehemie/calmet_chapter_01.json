@@ -9,14 +9,14 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN MENSE CASLEU.",
       "lemma": "Au mois de Casleu.",
       "text": "C'est le neuvième mois de l'année sacrée, et le troisième de l'année civile. Il répond aux mois de Novembre, et de Décembre. Néhémie demeura dans le deuil, et dans la pénitence, depuis le mois de Casleu, jusqu'au mois de Nisan, c'est-à-dire, plus de trois mois, en attendant que son quartier arrivât, pour servir à la table du Roi."
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EGO ERAM IN SUSIS CASTRO.",
       "lemma": "J'étais dans le Château de Suze,",
       "text": "ou dans le Palais que les Rois de Perse y avaient, et où ils logeaient pendant l'hiver, à cause de la température de l'air de cette ville, [2] dont les chaleurs étaient excessives pendant l'été. L'Ecriture [3] joint ordinairement le nom de _Château_ à la ville de Suze; comme qui dirait: _A Suze le Palais_. Néhémie y était avec la Cour aux mois de Novembre, et de Décembre. Plusieurs Anciens [4] enseignent que les Rois de Perse passaient le printemps à Suze, et l'été à Ecbatane: mais cela n'est point contradictoire à ce que nous venons de dire après Athénée, qu'ils y passaient l'hiver. Ils y étaient pendant l'hiver, et continuaient à y faire leur résidence pendant une partie du printemps. Nous avons fait voir sur Esther qu'apparemment Darius, fils d'Hystaspe, demeurait ordinairement à Suze. [5]"
@@ -117,12 +117,12 @@
     {
       "key": "page_0010-a",
       "n": 2,
-      "text": "Athen. lib. XII. Dipnoſoph. cap. I. C', & Βασιλεὺς ἐχείμαζον μὲν ἐν Σούσοις ἐθέριζον δὲ ἐν Ἐκβατάνοις."
+      "text": "Athen. lib. XII. Dipnosoph. cap. I. C', et Βασιλεὺς ἐχείμαζον μὲν ἐν Σούσοις ἐθέριζον δὲ ἐν Ἐκβατάνοις."
     },
     {
       "key": "page_0010-b",
       "n": 3,
-      "text": "Vide Eſth. I. 2. & paſſim. Dan. VIII. 2."
+      "text": "Vide Esth. I. 2. et passim. Dan. VIII. 2."
     },
     {
       "key": "page_0010-c",
@@ -132,7 +132,7 @@
     {
       "key": "page_0010-d",
       "n": 5,
-      "text": "Vide ad Eſth. I. 2."
+      "text": "Vide ad Esth. I. 2."
     },
     {
       "key": "page_0010-e",
@@ -147,7 +147,7 @@
     {
       "key": "page_0010-g",
       "n": 8,
-      "text": "Joſeph Antiq. lib. XI. c. 5."
+      "text": "Joseph Antiq. lib. XI. c. 5."
     },
     {
       "key": "page_0011-a",
@@ -157,17 +157,17 @@
     {
       "key": "page_0011-b",
       "n": 10,
-      "text": "_Lyr. Jun. Tir. Eſt._"
+      "text": "_Lyr. Jun. Tir. Est._"
     },
     {
       "key": "page_0011-c",
       "n": 11,
-      "text": "_I. Eſdr. c. IV. v. 12. 13. 21._"
+      "text": "_I. Esdr. c. IV. v. 12. 13. 21._"
     },
     {
       "key": "page_0011-d",
       "n": 12,
-      "text": "_I, Eſdr. IX. 9._"
+      "text": "_I, Esdr. IX. 9._"
     },
     {
       "key": "page_0012-a",
@@ -198,43 +198,6 @@
       "key": "page_0013-b",
       "n": 18,
       "text": "Deut. xxx. 4."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0009",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0010",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0011",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0012",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0013",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

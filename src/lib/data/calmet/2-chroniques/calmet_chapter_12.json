@@ -16,7 +16,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "Suchim.",
       "lemma": null,
       "text": "La plupart [6] l'expliquent des Troglodytes, peuples d'Égypte sur la mer Rouge. L'Hébreu _Suchim_, peut signifier ceux qui demeurent cachés, et à couvert sous des tentes, ou dans des cavernes. Le nom de Troglodytes a la même signification en grec ; [7] _Troglodytæ specus excavant, hæc illis domus_. [8] Les Troglodytes n'ont pour demeures que des cavernes, qu'ils se creusent dans le roc. Pline [9] parle de la ville de _Suca_ dans ce pays.\nD'autres sont [10] pour les Arabes Scénites. Le nom de _Suca_ signifie proprement une tente, et _Suchim_, ceux qui habitent sous des tentes. Les Arabes surnommés _Scénites_, sont à la lettre la même chose que _Suchim_ en hébreu. Il y avait de ces Arabes, qui n'avaient point d'autres demeures que des tentes, dans l'Arabie Pétrée, voisine de l'Égypte, [11] aussi bien que dans l'Arabie déserte.\n\nCuschim, sont les Éthiopiens, du consentement de presque tous les Interprètes. On sait pourtant que le nom de _Cusch_, se donne souvent aux peuples arabes de l'extrémité septentrionale de la mer Rouge, et aux Scythes; mais en cet endroit, rien n'empêche de le fixer aux Éthiopiens."
@@ -30,7 +30,7 @@
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NON STILLABIT FUROR MEUS SUPER JERUSALEM.",
       "lemma": "Je ne ferai point tomber ma fureur sur Jérusalem.",
       "text": "Je ne la répandrai point toute entière; je me contenterai d'en faire couler quelques gouttes, pour quelque temps."
@@ -175,17 +175,17 @@
     {
       "key": "page_0074-b",
       "n": 15,
-      "text": "Ita Pagn. Munſt. Vat. Caſtal."
+      "text": "Ita Pagn. Munst. Vat. Castal."
     },
     {
       "key": "page_0074-c",
       "n": 16,
-      "text": "Jun. & Tremell."
+      "text": "Jun. et Tremell."
     },
     {
       "key": "page_0074-d",
       "n": 17,
-      "text": "Voyez ℣. 6. 7. Cúmque vidiſſet Dominus quod humiliati eſſent, &c."
+      "text": "Voyez ℣. 6. 7. Cúmque vidisset Dominus quod humiliati essent, etc."
     },
     {
       "key": "page_0075-a",
@@ -195,44 +195,7 @@
     {
       "key": "page_0075-b",
       "n": 19,
-      "text": "_Vide infra c._ XIII. 22. _& Jun. Grot. Mariana. alios._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0071",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0072",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0073",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0074",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0075",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "_Vide infra c._ XIII. 22. _et Jun. Grot. Mariana. alios._"
     }
   ],
   "missing_footnotes": []

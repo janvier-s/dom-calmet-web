@@ -17,7 +17,7 @@
     {
       "verse": 5,
       "sub": false,
-      "latin_lemma": "CIRCUMDA TIBI DECOREM, &c.",
+      "latin_lemma": "CIRCUMDA TIBI DECOREM, etc.",
       "lemma": "Revêtez-vous d'éclat, etc.",
       "text": "L'Hébreu :[1] _Revêtez-vous de hauteur, et d'élévation; ornez-vous de gloire, et de beauté._ Prenez tout ce que vous avez de plus beau, de plus riche, et de plus grand, pour paraître devant moi ; faites valoir tout ce que vous avez de force, et de pouvoir ; et nous verrons jusqu’où cela ira. Essayez vos forces sur les superbes,"
     },
@@ -37,14 +37,14 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FOENUM QUASI BOS COMEDET.",
       "lemma": "Il mangera le foin comme un bœuf.",
       "text": "L'éléphant n'est pas carnassier. Il se nourrit de fruits, d'herbes, de feuilles, et n'est nullement farouche ; ce qui est assez extraordinaire dans une si grosse machine, et avec de si grandes forces."
     },
     {
-      "verse": 8,
-      "sub": true,
+      "verse": 11,
+      "sub": false,
       "latin_lemma": "FORTITUDO EJUS IN LUMBIS EJUS, ET VIRTUS ILLIUS IN UMBILICO VENTRIS EJUS.",
       "lemma": "Sa force est dans ses reins ; sa vertu est dans le nombril de son ventre.",
       "text": "Les reins de l'éléphant sont très forts, puisqu'il porte un poids si prodigieux. On lui met une tour de bois sur le dos, qu'on remplit de soldats. Ces tours sont liées par-dessous le ventre par une chaîne bien solide. Nous lisons dans le premier Livre des Maccabées, [10] qu'un éléphant de l'armée d'Antiochus portait jusqu'à trente-deux hommes armés. Ce qui est dit ensuite, _que sa force est dans son nombril_, embarrasse les Interprètes, puisqu'on sait que la peau de l'éléphant n'est nulle part si aisée à percer, [11] qu'en cet endroit ; jusque-là qu'Eléazar, fils de Saura, s'étant glissé sous le plus gros des éléphants d'Antiochus, le perça de son épée, et le tua. [12] Pour se tirer de cet embarras, ils traduisent : [13] _Sa force est dans ses reins, et sa douleur dans son ventre_ ; soit à cause que véritablement il n'est pas aisé de le blesser, ou de le tuer, que par-là ; soit parce qu'il est sujet à une inflammation, et à un cours de ventre, [14] qui est la seule maladie qu'il ressente. _Inflammationem, et profluvium alvi, nec alia morborum genera sentiunt_, dit Pline.\nMais nous croyons avec de fort bons Interprètes, que ce passage doit s'entendre des parties naturelles de l'éléphant. On dit que la femelle se couche sur le dos, lorsqu'il la couvre. [15] Il a les parties naturelles comme le cheval, sous le ventre. Ses testicules ne sont point au dehors ; mais cachés au dedans du ventre, vers les reins. [16] Ce qui revient très bien à cet endroit, où nous lisons que la force de l'éléphant est dans ses reins. Dans le style de l'Écriture, [17] la vertu d'engendrer est souvent exprimée par des expressions toutes pareilles à celles-ci. [18]"
@@ -287,22 +287,22 @@
     {
       "key": "page_0479-c",
       "n": 6,
-      "text": "_Boch. de animal. ſacr. part. 2. lib. 5. cap. 15. Ita ante eum BeZa & Diodati._"
+      "text": "_Boch. de animal. sacr. part. 2. lib. 5. cap. 15. Ita ante eum BeZa et Diodati._"
     },
     {
       "key": "page_0479-d",
       "n": 7,
-      "text": "_Hebræi, Munſt. Vatab. Caſtal. Druſ. Grot. Codurc. Jun. Piſc. Cocc, Scult. Cartvrigt, Brought, Mær. Liran. Eſt. Menoch. Mercer. Tir. & alii plures. Vide Pined. hic._"
+      "text": "_Hebræi, Munst. Vatab. Castal. Drus. Grot. Codurc. Jun. Pisc. Cocc, Scult. Cartvrigt, Brought, Mær. Liran. Est. Menoch. Mercer. Tir. et alii plures. Vide Pined. hic._"
     },
     {
       "key": "page_0479-e",
       "n": 8,
-      "text": "_Græci Incliæ. Vide Plut. in Eumene, Suidam in Incliæ. 1. Macc. VI. 35. & 2. Macc. XV. 20. Latini Belluæ. Plin. lib. VIII. cap. 30. Terent. Eunuch. act. 3. ſcen. 1. alii paſſim._"
+      "text": "_Græci Incliæ. Vide Plut. in Eumene, Suidam in Incliæ. 1. Macc. VI. 35. et 2. Macc. XV. 20. Latini Belluæ. Plin. lib. VIII. cap. 30. Terent. Eunuch. act. 3. scen. 1. alii passim._"
     },
     {
       "key": "page_0479-f",
       "n": 9,
-      "text": "_Vide, ſi lubet, Pined. hic ſecund, Explicat. tom. 2. pag. 1089. & ſequ._"
+      "text": "_Vide, si lubet, Pined. hic secund, Explicat. tom. 2. pag. 1089. et sequ._"
     },
     {
       "key": "page_0480-a",
@@ -312,7 +312,7 @@
     {
       "key": "page_0480-b",
       "n": 11,
-      "text": "_Plin._ VIII. _cap._ 10. _Vide_ & _Solin._"
+      "text": "_Plin._ VIII. _cap._ 10. _Vide_ et _Solin._"
     },
     {
       "key": "page_0480-c",
@@ -327,32 +327,32 @@
     {
       "key": "page_0480-e",
       "n": 14,
-      "text": "_Vide Ariſt. Hiſtor. Animal. lib._ 6. _cap._ 27. _Ælian lib._ 17. _cap._ 44. _Plin._ VIII. 10."
+      "text": "_Vide Arist. Histor. Animal. lib._ 6. _cap._ 27. _Ælian lib._ 17. _cap._ 44. _Plin._ VIII. 10."
     },
     {
       "key": "page_0480-f",
       "n": 15,
-      "text": "_Ariſt. lib._ 5. _cap._ 2. _Hiſtor. Anim._ [UNCERTAIN GREEK] Οχεύεται μὲν ἡ θήλεια, συγκαμπτουσα, τῇ διαβαίνειν. Ο᷒ δὲ δι᾽ ἣν ἐπικαταβαίνειν ὀχέια."
+      "text": "_Arist. lib._ 5. _cap._ 2. _Histor. Anim._ [UNCERTAIN GREEK] Οχεύεται μὲν ἡ θήλεια, συγκαμπτουσα, τῇ διαβαίνειν. Ο᷒ δὲ δι᾽ ἣν ἐπικαταβαίνειν ὀχέια."
     },
     {
       "key": "page_0480-g",
       "n": 16,
-      "text": "_Ariſt. Hiſtor. Animal. lib._ 2. _cap._ 1. [UNCERTAIN GREEK] Ἔχει δὲ ὁ ὄνθας τὸ αιδοῖον, ὁμοίον μὲν ἵππω, μικρὸν δὲ, καὶ κατὰ λόγον τῷ σωματῷ. Τους δὲ ὄρχεις ἐν τῷ θαρακι, ἀλλὰ ἐντὸς περὶ τὰς νεφους. _Vide Plin._ XI. 39."
+      "text": "_Arist. Histor. Animal. lib._ 2. _cap._ 1. [UNCERTAIN GREEK] Ἔχει δὲ ὁ ὄνθας τὸ αιδοῖον, ὁμοίον μὲν ἵππω, μικρὸν δὲ, καὶ κατὰ λόγον τῷ σωματῷ. Τους δὲ ὄρχεις ἐν τῷ θαρακι, ἀλλὰ ἐντὸς περὶ τὰς νεφους. _Vide Plin._ XI. 39."
     },
     {
       "key": "page_0480-h",
       "n": 17,
-      "text": "_Vide Geneſ._ XLIX. 3. _Deut._ XXI. 17. _Pſal._ LXXII. 52. _Pſal._ CIV. 36. &c."
+      "text": "_Vide Genes._ XLIX. 3. _Deut._ XXI. 17. _Psal._ LXXII. 52. _Psal._ CIV. 36. etc."
     },
     {
       "key": "page_0480-i",
       "n": 18,
-      "text": "_Vide Sanct._ & _Male. hic. Et Geneſ._ XLIX. 3."
+      "text": "_Vide Sanct._ et _Male. hic. Et Genes._ XLIX. 3."
     },
     {
       "key": "page_0481-a",
       "n": 19,
-      "text": "Sculat. Piſcat. Cocc. Oſiand. Albert Eugub."
+      "text": "Sculat. Piscat. Cocc. Osiand. Albert Eugub."
     },
     {
       "key": "page_0481-b",
@@ -377,12 +377,12 @@
     {
       "key": "page_0482-b",
       "n": 24,
-      "text": "_Jun. Sculter. Piſc._"
+      "text": "_Jun. Sculter. Pisc._"
     },
     {
       "key": "page_0482-c",
       "n": 25,
-      "text": "_Vatab. Merter. Caſtal. Druſ. Oſiand. alii p ſſim._"
+      "text": "_Vatab. Merter. Castal. Drus. Osiand. alii p ssim._"
     },
     {
       "key": "page_0482-d",
@@ -392,7 +392,7 @@
     {
       "key": "page_0483-a",
       "n": 27,
-      "text": "Voyez Ariſt. Hiſtor. Anim. lib. 1. cap. 1. & l. 9. c. 46. Plin. l. VI. c. 9. l. 9. c. 56 & l. 17. c. 7. Et Plin lib. VIII. cap. 10. Ar. l. 2. De partib. Animal. cap. 16. Τῆς δὲ φύσιν ἰδιώτης ἅμα τὸ ζῶον ἐςὶ, καὶ πρᾶον."
+      "text": "Voyez Arist. Histor. Anim. lib. 1. cap. 1. et l. 9. c. 46. Plin. l. VI. c. 9. l. 9. c. 56 et l. 17. c. 7. Et Plin lib. VIII. cap. 10. Ar. l. 2. De partib. Animal. cap. 16. Τῆς δὲ φύσιν ἰδιώτης ἅμα τὸ ζῶον ἐςὶ, καὶ πρᾶον."
     },
     {
       "key": "page_0483-b",
@@ -402,12 +402,12 @@
     {
       "key": "page_0483-c",
       "n": 29,
-      "text": "Ariſtot. lib. 9. cap. 46."
+      "text": "Aristot. lib. 9. cap. 46."
     },
     {
       "key": "page_0483-d",
       "n": 30,
-      "text": "Ælian. lib. 4. cap. 24. Κομίζουσι δὲ ὁ γέλως ἐκείνοις ἃ ἰνδάλλεται χαίρειν, κὶ μαλακὰ, κὶ φίλα τὲ πρὸς δίαιταν, κὶ ὅσα διὰ τῆς ὕλης διαδύεται ῥᾳδίως, κὶ ὡς ἂν εἴποις, ἕλαια, Vide & lib. 13. cap. 8. &"
+      "text": "Ælian. lib. 4. cap. 24. Κομίζουσι δὲ ὁ γέλως ἐκείνοις ἃ ἰνδάλλεται χαίρειν, κὶ μαλακὰ, κὶ φίλα τὲ πρὸς δίαιταν, κὶ ὅσα διὰ τῆς ὕλης διαδύεται ῥᾳδίως, κὶ ὡς ἂν εἴποις, ἕλαια, Vide et lib. 13. cap. 8. et"
     },
     {
       "key": "page_0483-e",
@@ -427,7 +427,7 @@
     {
       "key": "page_0484-c",
       "n": 34,
-      "text": "Ariſtot Hiſtor An mal. lib. 8 cap. 9. L'amphore eſt, ſelon Budée, la huitiéme partie du muid de Paris, ou environ ſept boiſſeaux."
+      "text": "Aristot Histor An mal. lib. 8 cap. 9. L'amphore est, selon Budée, la huitiéme partie du muid de Paris, ou environ sept boisseaux."
     },
     {
       "key": "page_0484-d",
@@ -442,7 +442,7 @@
     {
       "key": "page_0484-f",
       "n": 37,
-      "text": "Ariſtot. lib. 9. cap 46. de Hiſtor. Anim. Item lib. 2. de Partib. cap. 16. & Ælian. lib. 7. cap 15."
+      "text": "Aristot. lib. 9. cap 46. de Histor. Anim. Item lib. 2. de Partib. cap. 16. et Ælian. lib. 7. cap 15."
     },
     {
       "key": "page_0484-g",
@@ -452,7 +452,7 @@
     {
       "key": "page_0485-a",
       "n": 39,
-      "text": "_Plin. lib._ VIII. _cap._ 12 _Oculos maximè petunt inde ſit ut plerumque cæci, & fame ac mæroris tabe confecti reperiantur. Vide & Ælian. lib. 6. cap. 21. Solin cap 38._"
+      "text": "_Plin. lib._ VIII. _cap._ 12 _Oculos maximè petunt inde sit ut plerumque cæci, et fame ac mæroris tabe confecti reperiantur. Vide et Ælian. lib. 6. cap. 21. Solin cap 38._"
     },
     {
       "key": "page_0485-b",
@@ -467,12 +467,12 @@
     {
       "key": "page_0485-d",
       "n": 42,
-      "text": "_Ariſtot lib. 9. cap. 1. Plin. lib._ VIII. _cap 8. Solin lib. 7. cap. 6._"
+      "text": "_Aristot lib. 9. cap. 1. Plin. lib._ VIII. _cap 8. Solin lib. 7. cap. 6._"
     },
     {
       "key": "page_0485-e",
       "n": 43,
-      "text": "_Judith_ X. 17. _Geneſ._ XXXIX. 7. _Num._ XV. 39 _Job._ XXXI. I. 7. _Prov._ XXIII. 33."
+      "text": "_Judith_ X. 17. _Genes._ XXXIX. 7. _Num._ XV. 39 _Job._ XXXI. I. 7. _Prov._ XXIII. 33."
     },
     {
       "key": "page_0485-f",
@@ -482,7 +482,7 @@
     {
       "key": "page_0486-a",
       "n": 45,
-      "text": "Ita PP. paſſim. Vide. ſi lubet, Pined. ſecundâ Explicat. in ℣. 9. cap. 40. pag. 1083. & ſeq. Et hoc loco pag. 1115. & 1116. & SanB. hic. 2. Explicat."
+      "text": "Ita PP. passim. Vide. si lubet, Pined. secundâ Explicat. in ℣. 9. cap. 40. pag. 1083. et seq. Et hoc loco pag. 1115. et 1116. et SanB. hic. 2. Explicat."
     },
     {
       "key": "page_0486-b",
@@ -492,27 +492,27 @@
     {
       "key": "page_0486-c",
       "n": 47,
-      "text": "Munſt. Vatab. Caſtal. Sculset. Piſc. Mercer. Malv. Jun. Cartz. Marian. SanB. Grot."
+      "text": "Munst. Vatab. Castal. Sculset. Pisc. Mercer. Malv. Jun. Cartz. Marian. SanB. Grot."
     },
     {
       "key": "page_0486-d",
       "n": 48,
-      "text": "Ita Boch. fusè de Anim. ſacr. part. 2. lib. 5. cap. 18."
+      "text": "Ita Boch. fusè de Anim. sacr. part. 2. lib. 5. cap. 18."
     },
     {
       "key": "page_0487-a",
       "n": 49,
-      "text": "Geneſ. 1. 21. & Pſal. CIII. 25. 26. 27. _Hoc mare magnum.... Draco iſte (Leviathan) quem formaſti ad illudendum ei. Pſal. LXXIII. 13. 14. Tu confirmaſti in virtute tua mare, contribulaſti capita Draconum in aquis, &c._ Iſai. XXVII 1. _Viſitabit Dominus ſuper Leviathan ſerpentem tortuoſum._"
+      "text": "Genes. 1. 21. et Psal. CIII. 25. 26. 27. _Hoc mare magnum.... Draco iste (Leviathan) quem formasti ad illudendum ei. Psal. LXXIII. 13. 14. Tu confirmasti in virtute tua mare, contribulasti capita Draconum in aquis, etc._ Isai. XXVII 1. _Visitabit Dominus super Leviathan serpentem tortuosum._"
     },
     {
       "key": "page_0487-b",
       "n": 50,
-      "text": "Ezech. XXIX. 3. 4. & XXXII. 2. 3."
+      "text": "Ezech. XXIX. 3. 4. et XXXII. 2. 3."
     },
     {
       "key": "page_0487-c",
       "n": 51,
-      "text": "_Voyez nôtre Commentaire ſur Job, III. 8._"
+      "text": "_Voyez nôtre Commentaire sur Job, III. 8._"
     },
     {
       "key": "page_0487-d",
@@ -522,7 +522,7 @@
     {
       "key": "page_0488-a",
       "n": 53,
-      "text": "Voyez nôtre Commentaire ſur Iſaïe XXXVII. 29."
+      "text": "Voyez nôtre Commentaire sur Isaïe XXXVII. 29."
     },
     {
       "key": "page_0488-b",
@@ -557,7 +557,7 @@
     {
       "key": "page_0489-d",
       "n": 60,
-      "text": "Pſal. LVII. 6."
+      "text": "Psal. LVII. 6."
     },
     {
       "key": "page_0489-e",
@@ -572,7 +572,7 @@
     {
       "key": "page_0490-a",
       "n": 63,
-      "text": "Ariſtot. Hiſtor. Anim. lib. 2. cap. 10. Oî δὲ Κροκόδειλοι ἰχθυσι ἀρθαλμίας μὲν οὐκ, ἀδο[ILLEGIBLE] δὲ μεγάλας, τὴ χανλιδοντας, τὴ ὄνυχας ἰχυρ[ILLEGIBLE] τὸ δέρμα ἀῤῥηκτον Φολιδωτόν. Plin. lib. 8. cap. 25. Unguibus hic armatus eſt, contra omnes iſtus cute invictâ."
+      "text": "Aristot. Histor. Anim. lib. 2. cap. 10. Oî δὲ Κροκόδειλοι ἰχθυσι ἀρθαλμίας μὲν οὐκ, ἀδο[ILLEGIBLE] δὲ μεγάλας, τὴ χανλιδοντας, τὴ ὄνυχας ἰχυρ[ILLEGIBLE] τὸ δέρμα ἀῤῥηκτον Φολιδωτόν. Plin. lib. 8. cap. 25. Unguibus hic armatus est, contra omnes istus cute invictâ."
     },
     {
       "key": "page_0490-b",
@@ -612,119 +612,12 @@
     {
       "key": "page_0491-g",
       "n": 71,
-      "text": "_Cælius Aurelian. de Inſania, apud Boch. De animal. part. 2. l. 5. c. 16._"
+      "text": "_Cælius Aurelian. de Insania, apud Boch. De animal. part. 2. l. 5. c. 16._"
     },
     {
       "key": "page_0491-h",
       "n": 72,
-      "text": "_Plin. lib. VIII. cap. 25. Terribilis hic contra fugaces bellua eſt, fugax contra inſequentes. Sed adverſum ire ſoli hi (Tentyritæ) audent._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0477",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0478",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0479",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0480",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0481",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0482",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0483",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0484",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0485",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0486",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0487",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0488",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0489",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0490",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0491",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "_Plin. lib. VIII. cap. 25. Terribilis hic contra fugaces bellua est, fugax contra insequentes. Sed adversum ire soli hi (Tentyritæ) audent._"
     }
   ],
   "missing_footnotes": []

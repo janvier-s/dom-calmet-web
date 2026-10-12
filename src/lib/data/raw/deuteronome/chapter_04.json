@@ -5,18 +5,11 @@
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Et nunc Israël, audi praecepta et judicia, quae ego doceo te : ut faciens ea, vivas, et ingrediens possideas terram, quam Dominus Deus patrum vestrorum daturus est vobis.",
-      "french": "Maintenant, ô Israël, écoutez les lois et les ordonnances que je vous enseigne ; afin que vous trouviez la vie en les observant, et qu'étant entrés dans la terre que le Seigneur, le Dieu de vos pères vous doit donner, vous la possédiez comme votre héritage.",
+      "latin": "Et nunc Israël, audi praecepta et judicia, quae ego doceo te : ut faciens ea, vivas, et ingrediens possideas terram, quam Dominus Deus patrum vestrorum daturus est vobis. Et nunc Israël, audi praecepta et judicia, quae ego doceo te: ut faciens ea, vivas, et ingrediens possideas terram, quam Dominus Deus patrum vestrorum daturus est vobis.",
+      "french": "Maintenant, ô Israël, écoutez les lois et les ordonnances que je vous enseigne ; afin que vous trouviez la vie en les observant, et qu'étant entrés dans la terre que le Seigneur, le Dieu de vos pères vous doit donner, vous la possédiez comme votre héritage. Maintenant, ô Israël, écoutez les lois et les ordonnances que je vous enseigne ; afin que vous trouviez la vie en les observant, et qu'étant entrés dans la terre que le Seigneur, le Dieu de vos pères, vous doit donner, vous la possédiez comme votre héritage.",
       "annotations": null,
       "source_pages": [
-        "page_0099.json"
-      ]
-    },
-    {
-      "verse_number": 1,
-      "latin": "Et nunc Israël, audi praecepta et judicia, quae ego doceo te: ut faciens ea, vivas, et ingrediens possideas terram, quam Dominus Deus patrum vestrorum daturus est vobis.",
-      "french": "Maintenant, ô Israël, écoutez les lois et les ordonnances que je vous enseigne ; afin que vous trouviez la vie en les observant, et qu'étant entrés dans la terre que le Seigneur, le Dieu de vos pères, vous doit donner, vous la possédiez comme votre héritage.",
-      "source_pages": [
+        "page_0099.json",
         "page_0105.json"
       ]
     },
@@ -112,319 +105,183 @@
     },
     {
       "verse_number": 12,
-      "latin": "Terramque possedimus tempore illo ab Aroer, quae est super ripam torrentis Arnon, usque ad mediam partem montis Galaad : et civitates illius dedi Ruben et Gad.",
-      "french": "Nous entrâmes donc alors en possession de ce pays-là, depuis Aroër, qui est sur le bord du torrent d'Arnon, jusqu'au milieu de la montagne de Galaad : et j'en donnai les villes a la tribu de Ruben et de Gad.",
+      "latin": "Terramque possedimus tempore illo ab Aroer, quae est super ripam torrentis Arnon, usque ad mediam partem montis Galaad : et civitates illius dedi Ruben et Gad. Locutusque est Dominus ad vos de medio ignis. Vocem verborum ejus audistis, et formam penitus non vidistis.",
+      "french": "Nous entrâmes donc alors en possession de ce pays-là, depuis Aroër, qui est sur le bord du torrent d'Arnon, jusqu'au milieu de la montagne de Galaad : et j'en donnai les villes a la tribu de Ruben et de Gad. Le Seigneur vous parla du milieu de cette flamme. Vous entendîtes la voix qui proférait ses paroles ; mais vous ne vîtes en lui aucune forme.",
       "annotations": null,
       "source_pages": [
-        "page_0100.json"
-      ]
-    },
-    {
-      "verse_number": 12,
-      "latin": "Locutusque est Dominus ad vos de medio ignis. Vocem verborum ejus audistis, et formam penitus non vidistis.",
-      "french": "Le Seigneur vous parla du milieu de cette flamme. Vous entendîtes la voix qui proférait ses paroles ; mais vous ne vîtes en lui aucune forme.",
-      "annotations": null,
-      "source_pages": [
+        "page_0100.json",
         "page_0109.json"
       ]
     },
     {
       "verse_number": 13,
-      "latin": "Reliquam autem partem Galaad, et omnem Basan regni Og, tradidi mediae Tribui Manasse : omnem regionem, cunctaque Basan, vocatur terra gigantum.",
-      "french": "Je donnai l'autre moitié de Galaad, et tout le pays de Basan qui était le Royaume d'Og, et le pays d'Argob, à la moitié de la tribu de Manassé. Tout ce pays de Basan, est appelé la terre des géants.",
+      "latin": "Reliquam autem partem Galaad, et omnem Basan regni Og, tradidi mediae Tribui Manasse : omnem regionem, cunctaque Basan, vocatur terra gigantum. Et ostendit vobis pactum suum, quod praecepit ut faceretis, et decem verba, quae scripsit in duabus tabulis lapideis.",
+      "french": "Je donnai l'autre moitié de Galaad, et tout le pays de Basan qui était le Royaume d'Og, et le pays d'Argob, à la moitié de la tribu de Manassé. Tout ce pays de Basan, est appelé la terre des géants. Il vous fit connaître son alliance, qu'il vous ordonna d'observer, et les dix commandements qu'il écrivit sur les deux tables de pierre.",
       "annotations": null,
       "source_pages": [
-        "page_0100.json"
-      ]
-    },
-    {
-      "verse_number": 13,
-      "latin": "Et ostendit vobis pactum suum, quod praecepit ut faceretis, et decem verba, quae scripsit in duabus tabulis lapideis.",
-      "french": "Il vous fit connaître son alliance, qu'il vous ordonna d'observer, et les dix commandements qu'il écrivit sur les deux tables de pierre.",
-      "annotations": null,
-      "source_pages": [
+        "page_0100.json",
         "page_0109.json"
       ]
     },
     {
       "verse_number": 14,
-      "latin": "Jair filius Manasse possedit omnem regionem Argob, usque ad terminos Gessuri et Machati, vocavitque ex nomine suo Basan, Havoth-Jair, id est, villas Jair, usque in praesentem diem.",
-      "french": "Jaïr fils de Manassé est entré en possession de tout le pays d'Argob, jusqu'aux confins de Gessuri et de Machati ; et il a appelé de son nom les bourgs de Basan, Havoth-Jaïr, c'est-à-dire, les bourgs de Jaïr, comme ils se nomment encore aujourd'hui.",
+      "latin": "Jair filius Manasse possedit omnem regionem Argob, usque ad terminos Gessuri et Machati, vocavitque ex nomine suo Basan, Havoth-Jair, id est, villas Jair, usque in praesentem diem. Mihique mandavit in illo tempore ut docerem vos ceremonias et judicia, quae facere deberetis in terra, quam possessuri estis.",
+      "french": "Jaïr fils de Manassé est entré en possession de tout le pays d'Argob, jusqu'aux confins de Gessuri et de Machati ; et il a appelé de son nom les bourgs de Basan, Havoth-Jaïr, c'est-à-dire, les bourgs de Jaïr, comme ils se nomment encore aujourd'hui. Il m'ordonna en ce même temps de vous apprendre les cérémonies et les ordonnances, que vous devez observer dans la terre que vous allez posséder.",
       "annotations": null,
       "source_pages": [
-        "page_0101.json"
-      ]
-    },
-    {
-      "verse_number": 14,
-      "latin": "Mihique mandavit in illo tempore ut docerem vos ceremonias et judicia, quae facere deberetis in terra, quam possessuri estis.",
-      "french": "Il m'ordonna en ce même temps de vous apprendre les cérémonies et les ordonnances, que vous devez observer dans la terre que vous allez posséder.",
-      "annotations": null,
-      "source_pages": [
+        "page_0101.json",
         "page_0109.json"
       ]
     },
     {
       "verse_number": 15,
-      "latin": "Machir quoque dedi Galaad.",
-      "french": "Je donnai aussi Galaad à Machir.",
+      "latin": "Machir quoque dedi Galaad. Custodite igitur sollicite animas vestras. Non vidistis aliquam similitudinem, in die qua locutus est vobis Dominus in Horeb de medio ignis:",
+      "french": "Je donnai aussi Galaad à Machir. Appliquez-vous donc avec grand soin à la garde de vos âmes. Souvenez-vous que vous n'avez vu aucune figure ni ressemblance, au jour que le Seigneur vous parla à Horeb du milieu du feu :",
       "annotations": null,
       "source_pages": [
-        "page_0101.json"
-      ]
-    },
-    {
-      "verse_number": 15,
-      "latin": "Custodite igitur sollicite animas vestras. Non vidistis aliquam similitudinem, in die qua locutus est vobis Dominus in Horeb de medio ignis:",
-      "french": "Appliquez-vous donc avec grand soin à la garde de vos âmes. Souvenez-vous que vous n'avez vu aucune figure ni ressemblance, au jour que le Seigneur vous parla à Horeb du milieu du feu :",
-      "annotations": null,
-      "source_pages": [
+        "page_0101.json",
         "page_0109.json"
       ]
     },
     {
       "verse_number": 16,
-      "latin": "Et tribubus Ruben et Gad dedi de terra Galaad, usque ad torrentem Arnon medium torrentis, et confinium usque ad torrentem Jeboc, qui est terminus filiorum Ammon:",
-      "french": "Et j'assignai aux Tribus de Ruben et de Gad la partie de ce même pays de Galaad, qui s'étend jusqu'au torrent d'Arnon, jusqu'au milieu du torrent, et ses confins jusqu'au torrent de Jeboc, qui est la frontière des enfants d'Ammon.",
+      "latin": "Et tribubus Ruben et Gad dedi de terra Galaad, usque ad torrentem Arnon medium torrentis, et confinium usque ad torrentem Jeboc, qui est terminus filiorum Ammon: Ne forte decepti faciatis vobis sculptam similitudinem, aut imaginem masculi vel feminae,",
+      "french": "Et j'assignai aux Tribus de Ruben et de Gad la partie de ce même pays de Galaad, qui s'étend jusqu'au torrent d'Arnon, jusqu'au milieu du torrent, et ses confins jusqu'au torrent de Jeboc, qui est la frontière des enfants d'Ammon. De peur qu'étant séduits, vous ne vous fassiez quelque image de sculpture, quelque figure ou d'homme ou de femme,",
       "annotations": null,
       "source_pages": [
-        "page_0101.json"
-      ]
-    },
-    {
-      "verse_number": 16,
-      "latin": "Ne forte decepti faciatis vobis sculptam similitudinem, aut imaginem masculi vel feminae,",
-      "french": "De peur qu'étant séduits, vous ne vous fassiez quelque image de sculpture, quelque figure ou d'homme ou de femme,",
-      "annotations": null,
-      "source_pages": [
+        "page_0101.json",
         "page_0109.json"
       ]
     },
     {
       "verse_number": 17,
-      "latin": "Et planitiem solitudinis, atque Jordanem, et terminos Cenereth usque ad mare deserti, quod est salsissimum, ad radices montis Phasgan, contra Orientem.",
-      "french": "Avec la plaine du désert, le long du Jourdain, et depuis Cénéreth jusqu'à la mer du désert, appelée la mer salée, et jusqu'au pied de la montagne de Phasga, qui est vers l'Orient.",
+      "latin": "Et planitiem solitudinis, atque Jordanem, et terminos Cenereth usque ad mare deserti, quod est salsissimum, ad radices montis Phasgan, contra Orientem. Similitudinem omnium jumentorum quae sunt super terram, vel avium sub caelo volantium,",
+      "french": "Avec la plaine du désert, le long du Jourdain, et depuis Cénéreth jusqu'à la mer du désert, appelée la mer salée, et jusqu'au pied de la montagne de Phasga, qui est vers l'Orient. Ou de quelqu'une des bêtes qui sont sur la terre, ou des oiseaux qui volent sous le ciel,",
       "annotations": null,
       "source_pages": [
-        "page_0102.json"
-      ]
-    },
-    {
-      "verse_number": 17,
-      "latin": "Similitudinem omnium jumentorum quae sunt super terram, vel avium sub caelo volantium,",
-      "french": "Ou de quelqu'une des bêtes qui sont sur la terre, ou des oiseaux qui volent sous le ciel,",
-      "annotations": null,
-      "source_pages": [
+        "page_0102.json",
         "page_0109.json"
       ]
     },
     {
       "verse_number": 18,
-      "latin": "Praecepique vobis in tempore illo, dicens: Dominus Deus vester dat vobis terram hanc in haereditatem : expediti praecedite fratres vestros filios Israel, omnes viri robusti.",
-      "french": "Je donnai en ce même temps cet ordre aux trois Tribus, et je leur dis : Le Seigneur votre Dieu vous donne ce pays pour votre héritage. Marchez donc en armes devant vos frères les enfants d'Israël, tant que vous êtes d'hommes robustes et courageux ;",
+      "latin": "Praecepique vobis in tempore illo, dicens: Dominus Deus vester dat vobis terram hanc in haereditatem : expediti praecedite fratres vestros filios Israel, omnes viri robusti. Atque reptilium quae moventur in terra, sive piscium qui sub terra morantur in aquis:",
+      "french": "Je donnai en ce même temps cet ordre aux trois Tribus, et je leur dis : Le Seigneur votre Dieu vous donne ce pays pour votre héritage. Marchez donc en armes devant vos frères les enfants d'Israël, tant que vous êtes d'hommes robustes et courageux ; Ou des animaux qui rampent et se remuent sur la terre, ou des poissons qui sont sous la terre dans les eaux ;",
       "annotations": null,
       "source_pages": [
-        "page_0102.json"
-      ]
-    },
-    {
-      "verse_number": 18,
-      "latin": "Atque reptilium quae moventur in terra, sive piscium qui sub terra morantur in aquis:",
-      "french": "Ou des animaux qui rampent et se remuent sur la terre, ou des poissons qui sont sous la terre dans les eaux ;",
-      "annotations": null,
-      "source_pages": [
+        "page_0102.json",
         "page_0110.json"
       ]
     },
     {
       "verse_number": 19,
-      "latin": "Absque uxoribus, et parvulis, atque jumentis. Novi enim quod plura habeatis pecora, et in urbibus remanere debebunt, quas tradidi vobis.",
-      "french": "En laissant chez vous vos femmes, vos petits enfants et vos troupeaux. Car je sais que vous avez un grand nombre de bestiaux, qui demeureront dans les villes que je vous ai données,",
+      "latin": "Absque uxoribus, et parvulis, atque jumentis. Novi enim quod plura habeatis pecora, et in urbibus remanere debebunt, quas tradidi vobis. Ne forte elevatis oculis ad caelum, videas Solem et Lunam, et omnia astra caeli, et errore deceptus adores ea, et colas quae creavit Dominus Deus tuus in ministerium cunctis gentibus, quae sub caelo sunt.",
+      "french": "En laissant chez vous vos femmes, vos petits enfants et vos troupeaux. Car je sais que vous avez un grand nombre de bestiaux, qui demeureront dans les villes que je vous ai données, Ou qu'élevant vos yeux au Ciel, et y voyant le Soleil, la Lune, et tous les Astres, vous ne tombiez dans l'illusion et dans l'erreur, et que vous ne rendiez un culte d'adoration à des créatures que le Seigneur votre Dieu a faites, pour le service de toutes les Nations qui sont sous le Ciel.",
       "annotations": null,
       "source_pages": [
-        "page_0102.json"
-      ]
-    },
-    {
-      "verse_number": 19,
-      "latin": "Ne forte elevatis oculis ad caelum, videas Solem et Lunam, et omnia astra caeli, et errore deceptus adores ea, et colas quae creavit Dominus Deus tuus in ministerium cunctis gentibus, quae sub caelo sunt.",
-      "french": "Ou qu'élevant vos yeux au Ciel, et y voyant le Soleil, la Lune, et tous les Astres, vous ne tombiez dans l'illusion et dans l'erreur, et que vous ne rendiez un culte d'adoration à des créatures que le Seigneur votre Dieu a faites, pour le service de toutes les Nations qui sont sous le Ciel.",
-      "annotations": null,
-      "source_pages": [
+        "page_0102.json",
         "page_0111.json"
       ]
     },
     {
       "verse_number": 20,
-      "latin": "Donec requiem tribuat Dominus fratribus vestris, sicut vobis tribuit: et possideant ipsi etiam terram, quam daturus est eis trans Iordanem : tunc revertetur unusquisque in possessionem suam, quam dedi vobis.",
-      "french": "Jusqu'à ce que le Seigneur mette vos frères dans le repos où il vous a mis, et qu'ils possèdent aussi eux-mêmes la terre qu'il leur doit donner au-delà du Jourdain : alors chacun de vous reviendra pour jouïr des terres que je vous ai données.",
+      "latin": "Donec requiem tribuat Dominus fratribus vestris, sicut vobis tribuit: et possideant ipsi etiam terram, quam daturus est eis trans Iordanem : tunc revertetur unusquisque in possessionem suam, quam dedi vobis. Vos autem tulit Dominus, et eduxit de fornace ferrea Aegypti, ut haberet populum haereditarium, sicut est in praesenti die.",
+      "french": "Jusqu'à ce que le Seigneur mette vos frères dans le repos où il vous a mis, et qu'ils possèdent aussi eux-mêmes la terre qu'il leur doit donner au-delà du Jourdain : alors chacun de vous reviendra pour jouïr des terres que je vous ai données. Car pour vous, le Seigneur vous a tirés et fait sortir de l'Égypte, comme d'une fournaise où l'on fond le fer, pour avoir en vous un peuple dont il fait son héritage, comme on le voit aujourd'hui.",
       "source_pages": [
-        "page_0103.json"
-      ]
-    },
-    {
-      "verse_number": 20,
-      "latin": "Vos autem tulit Dominus, et eduxit de fornace ferrea Aegypti, ut haberet populum haereditarium, sicut est in praesenti die.",
-      "french": "Car pour vous, le Seigneur vous a tirés et fait sortir de l'Égypte, comme d'une fournaise où l'on fond le fer, pour avoir en vous un peuple dont il fait son héritage, comme on le voit aujourd'hui.",
-      "annotations": null,
-      "source_pages": [
+        "page_0103.json",
         "page_0111.json"
-      ]
+      ],
+      "annotations": null
     },
     {
       "verse_number": 21,
-      "latin": "Iosue quoque in tempore isto praecepi, dicens : Oculi tui viderunt quae fecerit Dominus Deus vester duobus his regibus : sic faciet omnibus regnis, ad quae transiturus es.",
-      "french": "Je donnai aussi alors cet avis à Josué : Vos yeux ont vu de quelle manière le Seigneur votre Dieu a traité ces deux Rois : il traitera de même tous les Royaumes dans lesquels vous devez entrer.",
+      "latin": "Iosue quoque in tempore isto praecepi, dicens : Oculi tui viderunt quae fecerit Dominus Deus vester duobus his regibus : sic faciet omnibus regnis, ad quae transiturus es. Iratusque est Dominus contra me propter sermones vestros, et juravit ut non transirem Jordanem, nec ingrederer terram optimam, quam daturus est vobis.",
+      "french": "Je donnai aussi alors cet avis à Josué : Vos yeux ont vu de quelle manière le Seigneur votre Dieu a traité ces deux Rois : il traitera de même tous les Royaumes dans lesquels vous devez entrer. Pour moi, j'ai encouru la colère du Seigneur, à cause de vos murmures, et il a juré que je ne passerais pas le Jourdain, et que je n'entrerais point dans cet excellent pays qu'il vous doit donner.",
       "source_pages": [
-        "page_0103.json"
-      ]
-    },
-    {
-      "verse_number": 21,
-      "latin": "Iratusque est Dominus contra me propter sermones vestros, et juravit ut non transirem Jordanem, nec ingrederer terram optimam, quam daturus est vobis.",
-      "french": "Pour moi, j'ai encouru la colère du Seigneur, à cause de vos murmures, et il a juré que je ne passerais pas le Jourdain, et que je n'entrerais point dans cet excellent pays qu'il vous doit donner.",
-      "annotations": null,
-      "source_pages": [
+        "page_0103.json",
         "page_0112.json"
-      ]
+      ],
+      "annotations": null
     },
     {
       "verse_number": 22,
-      "latin": "Ne timeas eos : Dominus enim Deus vester pugnabit pro vobis.",
-      "french": "Ne les craignez donc point, car le Seigneur votre Dieu combattra pour vous.",
+      "latin": "Ne timeas eos : Dominus enim Deus vester pugnabit pro vobis. Ecce morior in hac humo, non transibo Jordanem : vos transibitis, et possidebitis terram egregiam.",
+      "french": "Ne les craignez donc point, car le Seigneur votre Dieu combattra pour vous. Je vais donc mourir en ce lieu-ci, et je ne passerai point le Jourdain : mais pour vous, vous le passerez, et vous posséderez ce beau pays.",
       "source_pages": [
-        "page_0103.json"
-      ]
-    },
-    {
-      "verse_number": 22,
-      "latin": "Ecce morior in hac humo, non transibo Jordanem : vos transibitis, et possidebitis terram egregiam.",
-      "french": "Je vais donc mourir en ce lieu-ci, et je ne passerai point le Jourdain : mais pour vous, vous le passerez, et vous posséderez ce beau pays.",
-      "annotations": null,
-      "source_pages": [
+        "page_0103.json",
         "page_0112.json"
-      ]
+      ],
+      "annotations": null
     },
     {
       "verse_number": 23,
-      "latin": "Precatusque sum Dominum in tempore illo, dicens :",
-      "french": "En ce même temps je fis cette prière au Seigneur, et je lui dis :",
+      "latin": "Precatusque sum Dominum in tempore illo, dicens : Cave ne quando obliviscaris pacti Domini Dei tui, quod pepigit tecum : et facias tibi sculptam similitudinem eorum, que fieri Dominus prohibuit.",
+      "french": "En ce même temps je fis cette prière au Seigneur, et je lui dis : Prenez garde de n'oublier jamais l'alliance que le Seigneur votre Dieu a faite avec vous, et de ne vous faire en sculpture l'image d'aucune des choses, dont le Seigneur a défendu d'en faire ;",
       "source_pages": [
-        "page_0103.json"
-      ]
-    },
-    {
-      "verse_number": 23,
-      "latin": "Cave ne quando obliviscaris pacti Domini Dei tui, quod pepigit tecum : et facias tibi sculptam similitudinem eorum, que fieri Dominus prohibuit.",
-      "french": "Prenez garde de n'oublier jamais l'alliance que le Seigneur votre Dieu a faite avec vous, et de ne vous faire en sculpture l'image d'aucune des choses, dont le Seigneur a défendu d'en faire ;",
-      "annotations": null,
-      "source_pages": [
+        "page_0103.json",
         "page_0112.json"
-      ]
+      ],
+      "annotations": null
     },
     {
       "verse_number": 24,
-      "latin": "Domine Deus, tu coepisti ostendere servo tuo magnitudinem tuam, manumque fortissimam: neque enim est alius Deus, vel in caelo, vel in terra, qui possit facere opera tua, et comparari fortitudini tuae.",
-      "french": "Seigneur mon Dieu, vous avez commencé à signaler votre grandeur et votre main toute-puissante devant votre serviteur : car il n'y a point d'autre Dieu, soit dans le ciel, soit dans la terre, qui puisse faire les œuvres que vous faites, ni dont la force puisse être comparée à la vôtre.",
+      "latin": "Domine Deus, tu coepisti ostendere servo tuo magnitudinem tuam, manumque fortissimam: neque enim est alius Deus, vel in caelo, vel in terra, qui possit facere opera tua, et comparari fortitudini tuae. Quia Dominus Deus tuus ignis consumens est, Deus aemulator.",
+      "french": "Seigneur mon Dieu, vous avez commencé à signaler votre grandeur et votre main toute-puissante devant votre serviteur : car il n'y a point d'autre Dieu, soit dans le ciel, soit dans la terre, qui puisse faire les œuvres que vous faites, ni dont la force puisse être comparée à la vôtre. Parce que le Seigneur votre Dieu est un feu dévorant, et un Dieu jaloux.",
       "annotations": null,
       "source_pages": [
-        "page_0104.json"
-      ]
-    },
-    {
-      "verse_number": 24,
-      "latin": "Quia Dominus Deus tuus ignis consumens est, Deus aemulator.",
-      "french": "Parce que le Seigneur votre Dieu est un feu dévorant, et un Dieu jaloux.",
-      "annotations": null,
-      "source_pages": [
+        "page_0104.json",
         "page_0112.json"
       ]
     },
     {
       "verse_number": 25,
-      "latin": "Transibo igitur, et videbo terram hanc optimam trans Jordanem, et montem istum egregium, et Libanum.",
-      "french": "Permettez donc que je passe au-delà du Jourdain, et que je voye cette terre si fertile, cette excellente montagne, et le Liban.",
+      "latin": "Transibo igitur, et videbo terram hanc optimam trans Jordanem, et montem istum egregium, et Libanum. Si genueritis filios ac nepotes, et morati fueritis in terra, deceptique feceritis vobis aliquam similitudinem, patrantes malum coram Domino Deo vestro, ut eum ad iracundiam provocetis :",
+      "french": "Permettez donc que je passe au-delà du Jourdain, et que je voye cette terre si fertile, cette excellente montagne, et le Liban. Si après avoir eu des enfants, et des neveux, et avoir demeuré longtemps dans ce pays, vous vous laissez séduire, jusqu'à vous former quelque figure, en commettant devant le Seigneur votre Dieu, un crime qui attire sur vous sa colère ;",
       "annotations": null,
       "source_pages": [
-        "page_0104.json"
-      ]
-    },
-    {
-      "verse_number": 25,
-      "latin": "Si genueritis filios ac nepotes, et morati fueritis in terra, deceptique feceritis vobis aliquam similitudinem, patrantes malum coram Domino Deo vestro, ut eum ad iracundiam provocetis :",
-      "french": "Si après avoir eu des enfants, et des neveux, et avoir demeuré longtemps dans ce pays, vous vous laissez séduire, jusqu'à vous former quelque figure, en commettant devant le Seigneur votre Dieu, un crime qui attire sur vous sa colère ;",
-      "annotations": null,
-      "source_pages": [
+        "page_0104.json",
         "page_0113.json"
       ]
     },
     {
       "verse_number": 26,
-      "latin": "Iratusque est Dominus mihi propter vos, nec exaudivit me, sed dixit mihi: Sufficit tibi: nequaquam ultra loquaris de hac re ad me.",
-      "french": "Mais le Seigneur, étant en colère contre moi à cause de vous, ne m'exauça point, et il me dit : C'est assez, ne me parlez plus jamais de cela.",
+      "latin": "Iratusque est Dominus mihi propter vos, nec exaudivit me, sed dixit mihi: Sufficit tibi: nequaquam ultra loquaris de hac re ad me. Testes invoco hodie caelum et terram : cito perituros vos esse de terra, quam transito Jordane possessuri estis : non habitabitis in ea longo tempore, sed delebit vos Dominus,",
+      "french": "Mais le Seigneur, étant en colère contre moi à cause de vous, ne m'exauça point, et il me dit : C'est assez, ne me parlez plus jamais de cela. J'atteste aujourd'hui le Ciel et la terre, que vous serez bientôt exterminés de ce pays, que vous devez posséder après avoir passé le Jourdain. Vous n'y demeurerez pas longtemps, mais le Seigneur vous détruira ;",
       "source_pages": [
-        "page_0105.json"
-      ]
-    },
-    {
-      "verse_number": 26,
-      "latin": "Testes invoco hodie caelum et terram : cito perituros vos esse de terra, quam transito Jordane possessuri estis : non habitabitis in ea longo tempore, sed delebit vos Dominus,",
-      "french": "J'atteste aujourd'hui le Ciel et la terre, que vous serez bientôt exterminés de ce pays, que vous devez posséder après avoir passé le Jourdain. Vous n'y demeurerez pas longtemps, mais le Seigneur vous détruira ;",
-      "annotations": null,
-      "source_pages": [
+        "page_0105.json",
         "page_0113.json"
-      ]
+      ],
+      "annotations": null
     },
     {
       "verse_number": 27,
-      "latin": "Ascende cacumen Phasga, et oculos tuos circumfer ad occidentem, et ad aquilonem, austrumque et orientem, et aspice: nec enim transibis Jordanem istum.",
-      "french": "Montez sur le haut de la montagne de Phasga, et portez vos yeux de tous côtés, regardez vers l'Occident, le Septentrion, le Midi et l'Orient ; car vous ne passerez point ce fleuve du Jourdain.",
+      "latin": "Ascende cacumen Phasga, et oculos tuos circumfer ad occidentem, et ad aquilonem, austrumque et orientem, et aspice: nec enim transibis Jordanem istum. Atque disperget in omnes gentes, et remanebitis pauci in nationibus, ad quas vos ducturus est Dominus.",
+      "french": "Montez sur le haut de la montagne de Phasga, et portez vos yeux de tous côtés, regardez vers l'Occident, le Septentrion, le Midi et l'Orient ; car vous ne passerez point ce fleuve du Jourdain. Il vous dispersera dans tous les peuples, et vous serez réduits à un petit nombre au milieu des Nations où le Seigneur vous aura conduits.",
       "source_pages": [
-        "page_0105.json"
-      ]
-    },
-    {
-      "verse_number": 27,
-      "latin": "Atque disperget in omnes gentes, et remanebitis pauci in nationibus, ad quas vos ducturus est Dominus.",
-      "french": "Il vous dispersera dans tous les peuples, et vous serez réduits à un petit nombre au milieu des Nations où le Seigneur vous aura conduits.",
-      "annotations": null,
-      "source_pages": [
+        "page_0105.json",
         "page_0114.json"
-      ]
+      ],
+      "annotations": null
     },
     {
       "verse_number": 28,
-      "latin": "Precipe Josue, et corrobora eum atque conforta: quia ipse praecedet populum istum, et dividet eis Terram quam visurus es.",
-      "french": "Donnez mes ordres à Josué, affermissez-le et fortifiez-le ; car c'est lui qui marchera devant ce peuple et qui lui partagera la terre que vous verrez.",
+      "latin": "Precipe Josue, et corrobora eum atque conforta: quia ipse praecedet populum istum, et dividet eis Terram quam visurus es. Ibique servietis diis, qui hominum manibus fabricati sunt, ligno et lapidi qui non vident, nec audiunt, nec comedunt, nec odorantur.",
+      "french": "Donnez mes ordres à Josué, affermissez-le et fortifiez-le ; car c'est lui qui marchera devant ce peuple et qui lui partagera la terre que vous verrez. Vous adorerez-là des dieux qui ont été faits par la main des hommes ; du bois et de la pierre, qui ne voient point, qui n'entendent point, qui ne mangent point, et qui ne flairent point.",
       "source_pages": [
-        "page_0105.json"
-      ]
-    },
-    {
-      "verse_number": 28,
-      "latin": "Ibique servietis diis, qui hominum manibus fabricati sunt, ligno et lapidi qui non vident, nec audiunt, nec comedunt, nec odorantur.",
-      "french": "Vous adorerez-là des dieux qui ont été faits par la main des hommes ; du bois et de la pierre, qui ne voient point, qui n'entendent point, qui ne mangent point, et qui ne flairent point.",
-      "annotations": null,
-      "source_pages": [
+        "page_0105.json",
         "page_0114.json"
-      ]
+      ],
+      "annotations": null
     },
     {
       "verse_number": 29,
-      "latin": "Mansimusque in valle, contra fanum Phogor.",
-      "french": "Nous demeurâmes donc dans cette vallée, vis-à-vis du temple de Phogor.",
+      "latin": "Mansimusque in valle, contra fanum Phogor. Cumque quaesieris ibi Dominum Deum tuum, invenies eum : si tamen toto corde quaesieris, et tota tribulatione animae tuae.",
+      "french": "Nous demeurâmes donc dans cette vallée, vis-à-vis du temple de Phogor. Que si dans ces lieux-là même vous cherchez le Seigneur votre Dieu, vous le trouverez ; pourvu toutefois que vous le cherchiez de tout votre cœur, et dans toute l'amertume et l'affliction de votre âme.",
       "source_pages": [
-        "page_0105.json"
-      ]
-    },
-    {
-      "verse_number": 29,
-      "latin": "Cumque quaesieris ibi Dominum Deum tuum, invenies eum : si tamen toto corde quaesieris, et tota tribulatione animae tuae.",
-      "french": "Que si dans ces lieux-là même vous cherchez le Seigneur votre Dieu, vous le trouverez ; pourvu toutefois que vous le cherchiez de tout votre cœur, et dans toute l'amertume et l'affliction de votre âme.",
-      "annotations": null,
-      "source_pages": [
+        "page_0105.json",
         "page_0115.json"
-      ]
+      ],
+      "annotations": null
     },
     {
       "verse_number": 30,

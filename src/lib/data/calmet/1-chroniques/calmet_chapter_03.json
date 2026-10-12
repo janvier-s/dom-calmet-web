@@ -9,9 +9,9 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ABIGAIL CARMELITIDE.",
-      "lemma": "D'Abigaïl du Carmel, femme de Nabal du Carmel.",
+      "lemma": "_D'Abigaïl du Carmel_, femme de Nabal du Carmel.",
       "text": "Son fils nommé ici _Daniel_, s'appelait aussi _Cheleab_. [2]"
     },
     {
@@ -44,14 +44,14 @@
     },
     {
       "verse": 7,
-      "sub": true,
-      "latin_lemma": "ELIODA. autrement Eliada, 2. Reg. xv. 16. & Baaliada 1. Par. XIV. 7.",
+      "sub": false,
+      "latin_lemma": "ELIODA. autrement Eliada, 2. Reg. xv. 16. et Baaliada 1. Par. XIV. 7.",
       "lemma": null,
       "text": ""
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NOVEM.",
       "lemma": "Neuf.",
       "text": "Il y en a treize, en y comprenant les quatre fils de Bethsabée, mais en les excluant, il n'y en a que neuf, et dans le second Livre des Rois, il y en a onze, y compris les quatre fils de Bethsabée, et sans eux, il n'y en a que sept. Ainsi il y a nécessairement faute dans l'un ou dans l'autre passage, ou bien l'Auteur des Livres des Rois, n'aura mis que les enfants vivants, [14] et l'Auteur des Paralipomènes aura compris dans son dénombrement, même les enfants morts sans lignée."
@@ -72,22 +72,22 @@
     },
     {
       "verse": 15,
-      "sub": true,
-      "latin_lemma": "Les fils de Joſias, ſont Johanan, Joakim, Sédecias, & Sellum.",
+      "sub": false,
+      "latin_lemma": "Les fils de Josias, sont Johanan, Joakim, Sédecias, et Sellum.",
       "lemma": null,
       "text": "On n’en lit que trois dans les Livres des Rois,[16] _Johanan ne s’y trouve pas_ : il est croyable qu’il mourut sans enfants, et avant son père. Les trois autres fils possédèrent le Royaume, mais non pas selon l’ordre de leur naissance. _Joachaz_, nommé ici et dans Jérémie[17] _Sellum_, fut le premier ;[18] le second fut _Joackin_, ou _Eliakim_ ;[19] le troisième fut _Sédecias_, autrement _Matthanias_.[20]"
     },
     {
       "verse": 16,
       "sub": false,
-      "latin_lemma": "JECHONIAS, autrement Joachin,[23] & Cénias.[24] SEDECIAS,",
+      "latin_lemma": "JECHONIAS, autrement Joachin,[23] et Cénias.[24] SEDECIAS,",
       "lemma": "si c’est le même que Sédecias, qui fut le dernier Roi de Juda avant la captivité, il faut que le nom de fils se prenne en cet endroit pour le successeur ; car il est sûr que Jéchonias eut pour successeur Sédecias, et que Sédecias était fils de Josias, et non de Joakim.",
       "text": "L’Hébreu[21] pourrait signifier que Sédecias est le fils de Jéchonias ; mais la suite fait voir que ce n’est pas le vrai sens du texte, puisqu’on rapporte seulement la généalogie de Jéchonias dans le ℣. suivant. Ce qui confirme parfaitement la conjecture de ceux qui prétendent que le nom de fils est mis ici pour le successeur.[22]"
     },
     {
       "verse": 17,
       "sub": false,
-      "latin_lemma": "FILII JECHONIÆ, FUERUNT ASIR, SALATHIEL, &c.",
+      "latin_lemma": "FILII JECHONIÆ, FUERUNT ASIR, SALATHIEL, etc.",
       "lemma": "Les fils de Jéchonias, furent Asir, Salathiel, etc.",
       "text": "Jérémie[25] avait prédit que Jéchonias n’aurait point d’enfants, _scribe virum istum sterilem_. Mais il y a beaucoup d’apparence que le Prophète n’entendait autre chose, sinon qu’il n’aurait point de ses fils pour successeurs dans la Royauté de Juda ; et qu’il serait réduit à l’état d’un homme sans postérité. D’où vient qu’il ajoute : _Nec enim erit de se_ mine ejus vir, qui sedeat super solium David. Quelques-uns croient que les fils de Jéconias qu'on lit ici, sont des enfants adoptifs, ou simplement ses successeurs ; [26] on remarque dans saint Luc, [27] que Salathiel, par exemple, était fils de Néri, et non pas de Jéchonias. Mais saint Matthieu [28] dit que Jéchonias engendra Salathiel ; ainsi cette raison tombe d'elle-même. On pourrait traduire ainsi l'Hébreu : [29] _Et les fils de Jéchonias le prisonnier, furent Salathiel_. [30] Le nom d'_Asir_, signifie un prisonnier, un homme qui est dans les liens. On sait que Jéchonias fut longtemps prisonnier à Babylone. [31]"
     },
@@ -107,7 +107,7 @@
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ZOROBABEL GENUIT MOSOLLAM, HANANIAM.",
       "lemma": "Zorobabel engendra Mosollam et Hananie, etc.",
       "text": "On trouve dans saint Matthieu, [35] que Zorobabel eut pour fils _Abind_, et nous n'en voyons aucun de ce nom dans ce ℣. ni dans le suivant ; il faut donc que l'un des cinq fils de Zorobabel qui sont marqués ici, ait aussi été nommé _Abind_."
@@ -115,7 +115,7 @@
     {
       "verse": 21,
       "sub": false,
-      "latin_lemma": "FILIUS AUTEM HANANIÆ PHALTIAS PATER JESEIÆ, FILIUS RAPHAIÆ, &c.",
+      "latin_lemma": "FILIUS AUTEM HANANIÆ PHALTIAS PATER JESEIÆ, FILIUS RAPHAIÆ, etc.",
       "lemma": "Hananias eut pour fils Phaltias, qui fut père de Jeseias, etc.",
       "text": "L'Hébreu est différent : [36] _Et le fils de Hananias, fut Phaltias, et Jeseias ; les fils de Raphaïas, les fils d'Arnan, les fils d'Obadias, les fils de Séchenias, fut Sémeïas._ En sorte que Hananias aurait eu pour fils Phaltias et Jéseïas, et que l'on ne rapporte pas ici les noms des fils de Raphaïas, d'Arnan, et d'Obadias. Les Septante, le Syriaque, et la Vulgate ont lu dans l'Hébreu d'une manière différente, et plus claire que ce que nous y lisons aujourd'hui."
     },
@@ -177,7 +177,7 @@
     {
       "key": "page_0088-a",
       "n": 1,
-      "text": "Ioſue xv. 56."
+      "text": "Iosue xv. 56."
     },
     {
       "key": "page_0088-b",
@@ -207,7 +207,7 @@
     {
       "key": "page_0089-d",
       "n": 7,
-      "text": "Liran. Vat. Mari. &c."
+      "text": "Liran. Vat. Mari. etc."
     },
     {
       "key": "page_0089-e",
@@ -217,7 +217,7 @@
     {
       "key": "page_0089-f",
       "n": 9,
-      "text": "Eſt. Tir. Cornel. Grot. Salian. alii."
+      "text": "Est. Tir. Cornel. Grot. Salian. alii."
     },
     {
       "key": "page_0090-a",
@@ -242,7 +242,7 @@
     {
       "key": "page_0090-e",
       "n": 14,
-      "text": "Ita Vatab. Grot. Maſ."
+      "text": "Ita Vatab. Grot. Mas."
     },
     {
       "key": "page_0090-f",
@@ -282,7 +282,7 @@
     {
       "key": "page_0091-i",
       "n": 22,
-      "text": "Grot. Iun. Piſc."
+      "text": "Grot. Iun. Pisc."
     },
     {
       "key": "page_0091-f",
@@ -322,7 +322,7 @@
     {
       "key": "page_0092-e",
       "n": 30,
-      "text": "Ita Iun. Malv. Piſt. Oſ."
+      "text": "Ita Iun. Malv. Pist. Os."
     },
     {
       "key": "page_0092-f",
@@ -332,7 +332,7 @@
     {
       "key": "page_0092-g",
       "n": 32,
-      "text": "Ita Iun. Vat. Piſt."
+      "text": "Ita Iun. Vat. Pist."
     },
     {
       "key": "page_0092-h",
@@ -342,7 +342,7 @@
     {
       "key": "page_0093-a",
       "n": 34,
-      "text": "Vide ſi lubet, Cornel. Tirin."
+      "text": "Vide si lubet, Cornel. Tirin."
     },
     {
       "key": "page_0093-b",
@@ -357,63 +357,12 @@
     {
       "key": "page_0093-d",
       "n": 37,
-      "text": "Ita mſſ. Codices tres vel quatuor in Edit. mov. Oper. S. Ieron. Ita & variæ Editiones Bibliorum Gothicè, & aliæ ut Bibl. Roberti Steph. & Polyglott. Antuerp. & Bibl. Sixti V. &c. Nomen _Seſa_, vel _Seſa factum_ ex Hebr. ששה _ſex_ quod pro nomine proprio malè uſurpatum."
+      "text": "Ita mss. Codices tres vel quatuor in Edit. mov. Oper. S. Ieron. Ita et variæ Editiones Bibliorum Gothicè, et aliæ ut Bibl. Roberti Steph. et Polyglott. Antuerp. et Bibl. Sixti V. etc. Nomen _Sesa_, vel _Sesa factum_ ex Hebr. ששה _sex_ quod pro nomine proprio malè usurpatum."
     },
     {
       "key": "page_0093-e",
       "n": 38,
-      "text": "Caſtalio. Vat."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0088",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0089",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0090",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0091",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0092",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0093",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0094",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Castalio. Vat."
     }
   ],
   "missing_footnotes": []

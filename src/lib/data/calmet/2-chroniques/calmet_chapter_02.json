@@ -16,7 +16,7 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PRÆPOSITOS EORUM TRIA MILLIA SEXCENTOS.",
       "lemma": "Trois mille six cents pour être inspecteurs.",
       "text": "On n'en compte que trois mille trois cents dans les Livres des Rois.[4] On croit que l'Écriture supplée ici ce qu'elle avait omis ailleurs, ou que les trois cents de plus, que nous lisons en cet endroit, étaient les chefs, qui commandaient aux trois mille trois cents."
@@ -51,21 +51,21 @@
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "HORDEI COROS TOTIDEM.",
       "lemma": "Autant d'orge.",
       "text": "Il n'est point parlé d'orge dans les Livres des Rois. [17]"
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VINI VIGINTI MILLIA METRETAS.",
       "lemma": "Vingt mille barils de vin.",
       "text": "L'Hébreu : _Vingt mille bathes de vin._ Le bathe, ou épha contenait vingt-neuf pintes, chopine, demi-setier, et un posson et un peu davantage. Il n'est point non plus parlé de vin dans les Rois."
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "OLEI SATA VIGINTI MILLIA.",
       "lemma": "Vingt mille barriques d'huile.",
       "text": "L'Hébreu : _Vingt mille bathes d'huile._ On vient de voir ce que c'est que le bathe. Le satum n'était que le tiers du bathe. Les Rois [18] ne portent que _vingt corus d'huile._ Sur quoi on peut voir notre Commentaire."
@@ -86,14 +86,14 @@
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BYSSO.",
       "lemma": "En byssus.",
       "text": "Ce n'est point le fin lin d'Égypte, qui est quelquefois appelé _byssus_ ; c'est une soie précieuse, qui naît d'un poisson à coquille, dont on a parlé ci-devant. [26]"
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DOMINI MEI DAVID PATRIS TUI.",
       "lemma": "De David, mon seigneur, votre père.",
       "text": "Ces expressions ne sont que de pures civilités, non plus que ce qu'il dit au ℣. suivant, _Envoyez ce que vous avez promis, mon seigneur, à vos serviteurs, mes sujets._ Ailleurs Hiram appelle Salomon son frère : _Haccinè sunt civitates quas dedisti mihi, frater ?_ [27]"
@@ -172,7 +172,7 @@
     {
       "key": "page_0006-a",
       "n": 1,
-      "text": "ויאמר לבנות בית למלכותו 70. ἔκρινε ſanxiſque αὐτῷ."
+      "text": "ויאמר לבנות בית למלכותו 70. ἔκρινε sanxisque αὐτῷ."
     },
     {
       "key": "page_0006-b",
@@ -182,7 +182,7 @@
     {
       "key": "page_0006-c",
       "n": 3,
-      "text": "3. Reg. VI. 7. _Malleus & ſecuris non ſunt audita in domo cum ædificaretur._"
+      "text": "3. Reg. VI. 7. _Malleus et securis non sunt audita in domo cum ædificaretur._"
     },
     {
       "key": "page_0007-a",
@@ -192,17 +192,17 @@
     {
       "key": "page_0008-a",
       "n": 5,
-      "text": "ארגון וכרמיל ותכלת &c. &c. אדום, &c. τὰ πορφυρᾶ, & τὰ ὑακίνθινα."
+      "text": "ארגון וכרמיל ותכלת etc. etc. אדום, etc. τὰ πορφυρᾶ, et τὰ ὑακίνθινα."
     },
     {
       "key": "page_0008-b",
       "n": 6,
-      "text": "Boch. de animal. ſacr. part. 2. l. 5. c. 9."
+      "text": "Boch. de animal. sacr. part. 2. l. 5. c. 9."
     },
     {
       "key": "page_0008-c",
       "n": 7,
-      "text": "Cant. VII. 5. Caput tuum ut carmelus, & comæ capitis tui ſicut purpura Regis."
+      "text": "Cant. VII. 5. Caput tuum ut carmelus, et comæ capitis tui sicut purpura Regis."
     },
     {
       "key": "page_0008-d",
@@ -212,12 +212,12 @@
     {
       "key": "page_0009-a",
       "n": 9,
-      "text": "Plin. l. 22. c. 2. Tranſalpina Gallia herbis tyrium, atque conchylium tingit."
+      "text": "Plin. l. 22. c. 2. Transalpina Gallia herbis tyrium, atque conchylium tingit."
     },
     {
       "key": "page_0009-b",
       "n": 10,
-      "text": "Voyez ci-devant I. Par. xv. 27. & le ℣. 14. de ce chapitre."
+      "text": "Voyez ci-devant I. Par. xv. 27. et le ℣. 14. de ce chapitre."
     },
     {
       "key": "page_0009-c",
@@ -232,7 +232,7 @@
     {
       "key": "page_0009-e",
       "n": 13,
-      "text": "Vide Nebriſſ. hic."
+      "text": "Vide Nebriss. hic."
     },
     {
       "key": "page_0009-f",
@@ -282,7 +282,7 @@
     {
       "key": "page_0011-d",
       "n": 23,
-      "text": "Piſcat."
+      "text": "Piscat."
     },
     {
       "key": "page_0011-e",
@@ -312,7 +312,7 @@
     {
       "key": "page_0012-d",
       "n": 29,
-      "text": "Rapſodia. Vide Plut. in Lycurgo, & Diog. Laërt. in Solone, & Ælian. Var. Hiſt. l. 13. c. 14. & Marſham ad ſæcul. XV. Canon. Ægypt."
+      "text": "Rapsodia. Vide Plut. in Lycurgo, et Diog. Laërt. in Solone, et Ælian. Var. Hist. l. 13. c. 14. et Marsham ad sæcul. XV. Canon. Ægypt."
     },
     {
       "key": "page_0012-e",
@@ -322,12 +322,12 @@
     {
       "key": "page_0013-a",
       "n": 31,
-      "text": "3. Reg. v. 9. [UNCERTAIN HEBREW] _gregavimur omnes proſelyti de terra Iſraël, &c. Ego ponam ea trabes in mari._"
+      "text": "3. Reg. v. 9. [UNCERTAIN HEBREW] _gregavimur omnes proselyti de terra Israël, etc. Ego ponam ea trabes in mari._"
     },
     {
       "key": "page_0013-b",
       "n": 32,
-      "text": "_Joſeph. lib. 3. de bello Jud. c. 29._"
+      "text": "_Joseph. lib. 3. de bello Jud. c. 29._"
     },
     {
       "key": "page_0013-c",
@@ -337,7 +337,7 @@
     {
       "key": "page_0013-d",
       "n": 34,
-      "text": "_Vide ſi lubet Sel. den. de Synedr. l. 38. c. 2. A. 5._"
+      "text": "_Vide si lubet Sel. den. de Synedr. l. 38. c. 2. A. 5._"
     },
     {
       "key": "page_0014-a",
@@ -347,72 +347,7 @@
     {
       "key": "page_0014-b",
       "n": 36,
-      "text": "2. Par. VIII. 9. Porrò de filiis Iſraël non poſuis ut ſervirent operibus Regis. Ita & 3. Reg. IX. 22."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0006",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0007",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0008",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0009",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0010",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0011",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0012",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0013",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0014",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "2. Par. VIII. 9. Porrò de filiis Israël non posuis ut servirent operibus Regis. Ita et 3. Reg. IX. 22."
     }
   ],
   "missing_footnotes": [

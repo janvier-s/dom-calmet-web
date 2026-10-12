@@ -16,7 +16,7 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CONGREGATIQUE SUNT AD EUM VIRI INOPES ET LATROCINANTES.",
       "lemma": "Des gens qui n'avaient rien, et qui vivaient de brigandages, s'assemblèrent près de lui.",
       "text": "Ce Texte nous donne l'idée d'un malheureux chef de voleurs, qui ne vivait que de rapines et de brigandages, et qui abusait de ses forces pour opprimer les faibles. C'est le sentiment que s'en forme l'Auteur des Questions sur l'ancien Testament, sous le nom de S. Augustin. [12] Mais d'autres s'efforcent de justifier Jephté de ce reproche. Les uns croient que ces gens qui s'attachèrent à lui, avaient fait auparavant le métier de voleurs, mais que depuis qu'ils furent à son service, il ne les employa que dans de justes guerres. D'autres remarquent que le nom de voleurs n'était pas autrefois aussi odieux qu'il l'est aujourd'hui. On donnait le nom de larrons aux soldats, et en particulier à ceux qui s'engageaient à servir, à condition de s'entretenir avec ce qu'ils pourraient prendre ou gagner. [13] _Latrocinatus annos decem mercedem accipio_, dit un soldat dans Plaute. Et ailleurs : Le roi Seleucus m'a donné une grosse somme pour lui faire des soldats, des larrons. _Rex Seleucus me opere oravit maximo, ut sibi latrones cogerem, et conscriberem._\nOn verra ci-après David [14] à la tête de gens semblables à ceux que Jephté conduit ici. Ni l'Hébreu ni les Septante ne parlent de brigands. Ils portent simplement que Jephté amassa près de lui des gens pauvres, ou oisifs ; [15] (c'est le même terme qu'on a expliqué ci-devant en parlant d'Abimélec) [16] et que ces gens allaient avec lui. Ils le suivaient, ils allaient à la guerre sous sa conduite, il était leur chef."
@@ -58,7 +58,7 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "LOCUTUSQUE EST OMNES SERMONES SUOS CORAM DOMINO IN MASPHA.",
       "lemma": "Et il exposa au peuple tout ce qu’il avait à lui dire, en présence du Seigneur à Maspha.",
       "text": "Il déclara au peuple les conditions sous lesquelles il était venu ; il s’engagea à eux, et il prit ses assurances de leur part ; leur proposa les moyens qu’il jugeait propres à terminer cette guerre : enfin il s’expliqua dans l’assemblée, où le nom du Seigneur fut invoqué, et où l’on se promit réciproquement fidélité avec ferment, et en prenant le Seigneur à témoin. Tout ceci se passa à Maspha de Galaad, où les Israélites étaient campés, comme on l'a vu sur le chapitre précédent. [19]"
@@ -128,24 +128,10 @@
     },
     {
       "verse": 26,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "JUDICET DOMINUS ARBITER HUJUS DIEI INTER ISRAEL ET FILIOS AMMON.",
       "lemma": "Que le Seigneur juge, et qu'il soit arbitre de cette journée, entre Israël et les enfants d'Ammon.",
-      "text": "Ou selon l'Hébreu : [38] _Le Seigneur sera juge, il jugera aujourd'hui entre Israël et les Am-_ monites. Jephté en bon Prince cherche toutes les voies d'accommodement, avant que d'en venir à une rupture manifeste, persuadé que la guerre ne doit être entreprise que pour une juste cause, et pour éviter de plus grands maux. Il menace les Ammonites du Jugement de Dieu, si ce mal arrive par leur faute."
-    },
-    {
-      "verse": 29,
-      "sub": false,
-      "latin_lemma": "FACTUS EST SUPER JEPHTE SPIRITUS DOMINI.",
-      "lemma": "L'Esprit de Dieu se saisit de Jephté ; Dieu le remplit de l'esprit de sagesse, de force, de conseil ; il lui communiqua les lumières et les grâces nécessaires à l'emploi dont il le chargeait.",
-      "text": "CIRCUIENS GALAAD ET MANASSE, MASPHA QUOQUE GALAAD, ET INDE TRANSIENS AD FILIOS AMMON. _Jephté allant par tout le pays de Galaad et de Manassé, de Maspha de Galaad, il passa jusqu'aux enfants d'Ammon._ Jephté pour amasser des troupes, et pour se mettre en état d'attaquer les Ammonites, parcourut les Provinces qui étaient les plus foulées, et qui avaient plus d'intérêt à repousser les ennemis. Il partit de Maspha de Galaad, où s'était tenue l'assemblée du peuple, et où était le camp d'Israël ;  et après avoir parcouru toute la tribu de Gad, et tout le pays de Galaad qu'elle possédait, et de plus la demi-tribu de Manassé, qui avait son partage au-delà du Jourdain, il revint à Maspha, et livra le combat. C'est le sens de l'Hébreu :  _il passa par Galaad et par Manassé, et passa à Maspha de Galaad, et de Maspha de Galaad il passa aux enfants d'Ammon._ On verra dans le Chapitre suivant, qu'il avait aussi demandé du secours à la tribu d'Éphraïm. "
-    },
-    {
-      "verse": 31,
-      "sub": false,
-      "latin_lemma": "QUICUMQUE PRIMUS EGRESSUS FUERIT DE FORIBUS",
-      "lemma": null,
-      "text": "monites. Jephté en bon prince cherche toutes les voies d'accommodement, avant d'en venir à une rupture manifeste, persuadé que la guerre ne doit être entreprise que pour une juste cause, et pour éviter de plus grands maux. Il menace les Ammonites du jugement de Dieu, si ce mal arrive par leur faute."
+      "text": "Ou selon l'Hébreu : [38] _Le Seigneur sera juge, il jugera aujourd'hui entre Israël et les Am-_ monites. Jephté en bon prince cherche toutes les voies d'accommodement, avant d'en venir à une rupture manifeste, persuadé que la guerre ne doit être entreprise que pour une juste cause, et pour éviter de plus grands maux. Il menace les Ammonites du jugement de Dieu, si ce mal arrive par leur faute."
     },
     {
       "verse": 29,
@@ -163,7 +149,7 @@
     },
     {
       "verse": 31,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DOMUS MEÆ... EUM HOLOCAUSTUM OFFERAM DOMINO.",
       "lemma": "Je vous offrirai en holocauste le premier qui sortira de la porte de ma maison.",
       "text": "On a traité dans une Dissertation à part la question qui regarde le vœu de Jephté."
@@ -177,7 +163,7 @@
     },
     {
       "verse": 33,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VIGINTI CIVITATES, USQUE AD ABEL QUÆ EST VINEIS CONSITA.",
       "lemma": "Il ravagea vingt villes, jusqu'à Abel qui est plantée de vignes.",
       "text": "Abel, ville fameuse par son excellent vignoble, était selon Joseph et S. Jérôme, à douze milles de _Gadara_, vers l'orient. Or Gadara était la capitale de la Pérée du temps de Joseph,[42] et une des villes de la Décapole. Cet Auteur la met à soixante stades de Tibériade, et à trente d'Hippos. De cette sorte il faut dire que Jephté poursuivit les Ammonites depuis _Aroer_, jusqu'à _Abel_, du midi au septentrion, dans l'étendue de près de vingt lieues de pays, et ruina vingt de leurs villes. Cellarius[43] veut que la ville de Minnith ait été nommée _Minnith des vingt villes_, comme on appelle, par exemple, Philadelphie de la Décapole. Il croit qu'il y aurait de l'exagération à dire, que Jephté ruina vingt villes de ses ennemis; comme si l'on était obligé de soutenir qu'il fit tout cela en un jour, et non pas dans la suite de cette guerre."
@@ -191,7 +177,7 @@
     },
     {
       "verse": 34,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "APERUI OS MEUM AD DOMINUM ET ALIUD FACERE NON POTERO.",
       "lemma": "J'ai fait un vœu au Seigneur : À la lettre ; J'ai ouvert ma bouche au Seigneur, et je ne puis manquer à ma promesse.",
       "text": "Je ne puis m'en dédire ; je me suis engagé de lui consacrer la première chose qui viendrait au devant de moi. Il faut que le vœu de Jephté n'ait pas été un simple vœu, dans lequel la chose était rachetable pour une certaine somme. On donnait trente sicles pour le rachat d'une femme, et dix sicles pour une fille au-dessous de vingt, et au-dessus de cinq ans.[47] Son vœu était un anathème, où la chose était tellement dévouée, qu'elle ne pouvait plus être rachetée.[48] Si c'était une chose vivante, elle était mise à mort ; mais si c'était un champ ou une maison, ils étaient au Seigneur pour toujours. On peut voir notre Dissertation, et celle de Louis Cappel sur le vœu de Jephté. Plusieurs nouveaux prétendent que les filles ainsi dévouées, étaient attachées pour toujours au service du Seigneur, vivaient dans le célibat, demeuraient enfermées dans le Tabernacle, ou dans le Temple. Grotius croit que les épouses de David, dont Absalon avait abusé, furent traitées de la même manière, que les personnes de leur sexe dévouées au Seigneur ; on les enferma, et elles vécurent jusqu'à la mort dans la continence.[49] Mais tout cela n'est nullement fondé dans l'Écriture."
@@ -283,17 +269,10 @@
       "after": "qu'à la racine ; et en parlant à Balaam : _Un grand peuple"
     },
     {
-      "seam": "page_0218>page_0219 2",
+      "seam": "page_0218>page_0219",
       "verse": 26,
       "mode": "flow",
       "before": " sera juge, il jugera aujourd'hui entre Israël et les Am-_",
-      "after": "monites. Jephté en bon Prince cherche toutes les voies d'a"
-    },
-    {
-      "seam": "page_0219 2>page_0219",
-      "verse": 31,
-      "mode": "flow",
-      "before": "",
       "after": "monites. Jephté en bon prince cherche toutes les voies d'a"
     },
     {
@@ -334,8 +313,8 @@
     {
       "seam": "page_0224>page_0225",
       "verse": 40,
-      "mode": "hyphen",
-      "before": "a la flotte. On s'adresse au devin Calchas, qui répond que",
+      "mode": "flow",
+      "before": "tarda la flotte. On s'adresse au devin Calchas, qui répond",
       "after": "que Diane en colère demande un sacrifice du sang d'Agamemn"
     }
   ],
@@ -354,7 +333,6 @@
     "page_0217",
     "page_0218",
     "page_0219",
-    "page_0219 2",
     "page_0220",
     "page_0221",
     "page_0222",
@@ -371,27 +349,27 @@
     {
       "key": "page_0206-b",
       "n": 2,
-      "text": "Rab. David. Druſ. Munſ. Vat. Cornel."
+      "text": "Rab. David. Drus. Muns. Vat. Cornel."
     },
     {
       "key": "page_0206-c",
       "n": 3,
-      "text": "Ita Joſeph. Grot. Alii. & Infra ℣ 2."
+      "text": "Ita Joseph. Grot. Alii. et Infra ℣ 2."
     },
     {
       "key": "page_0206-d",
       "n": 4,
-      "text": "Joſeph Antiquit. l. 5. c. 9."
+      "text": "Joseph Antiquit. l. 5. c. 9."
     },
     {
       "key": "page_0207-a",
       "n": 5,
-      "text": "Vide Aruſ. hic & Grot. & Selden. de ſucceſſ. in bona l. 1. c. 3."
+      "text": "Vide Arus. hic et Grot. et Selden. de success. in bona l. 1. c. 3."
     },
     {
       "key": "page_0207-b",
       "n": 6,
-      "text": "Deut. XXIII. 2. Non ingredietur Mamzer hoc eſt, de ſcorto natus in Eccleſiam Domini, uſque ad decimam generationem."
+      "text": "Deut. XXIII. 2. Non ingredietur Mamzer hoc est, de scorto natus in Ecclesiam Domini, usque ad decimam generationem."
     },
     {
       "key": "page_0207-c",
@@ -401,7 +379,7 @@
     {
       "key": "page_0207-d",
       "n": 8,
-      "text": "Ariſtophan. in Avib. Grot. de jure Belli & Pac. l. 2. c. 5. art. 15."
+      "text": "Aristophan. in Avib. Grot. de jure Belli et Pac. l. 2. c. 5. art. 15."
     },
     {
       "key": "page_0208-a",
@@ -416,7 +394,7 @@
     {
       "key": "page_0208-c",
       "n": 11,
-      "text": "1 Macc. V. 13. & 2. Macc. XII. 17."
+      "text": "1 Macc. V. 13. et 2. Macc. XII. 17."
     },
     {
       "key": "page_0208-d",
@@ -431,12 +409,12 @@
     {
       "key": "page_0208-f",
       "n": 14,
-      "text": "1. Reg. XXII. 2. Convenerunt ad eum omnes qui erant in angustia constituti, & oppressi are alieno. Vide & 1. Reg. XXVII. 8. 9."
+      "text": "1. Reg. XXII. 2. Convenerunt ad eum omnes qui erant in angustia constituti, et oppressi are alieno. Vide et 1. Reg. XXVII. 8. 9."
     },
     {
       "key": "page_0208-g",
       "n": 15,
-      "text": "[UNCERTAIN HEBREW] 70. Alex. & Ald. ἄνδρες λιτοί. Tatian. κένοι."
+      "text": "[UNCERTAIN HEBREW] 70. Alex. et Ald. ἄνδρες λιτοί. Tatian. κένοι."
     },
     {
       "key": "page_0208-h",
@@ -461,7 +439,7 @@
     {
       "key": "page_0212-a",
       "n": 20,
-      "text": "V. 25. Nisi fortè melior es Balac filio Sephor Regis Moab, &c."
+      "text": "V. 25. Nisi fortè melior es Balac filio Sephor Regis Moab, etc."
     },
     {
       "key": "page_0213-a",
@@ -471,22 +449,22 @@
     {
       "key": "page_0214-a",
       "n": 22,
-      "text": "Grot. de jure Belli & Pac. l. 3. c. 6. art. 2."
+      "text": "Grot. de jure Belli et Pac. l. 3. c. 6. art. 2."
     },
     {
       "key": "page_0214-b",
       "n": 23,
-      "text": "Cai. Juriſconſul. apud eundem."
+      "text": "Cai. Jurisconsul. apud eundem."
     },
     {
       "key": "page_0214-c",
       "n": 24,
-      "text": "Geneſ. XIV. 22. 23."
+      "text": "Genes. XIV. 22. 23."
     },
     {
       "key": "page_0214-d",
       "n": 25,
-      "text": "Demoſth. orat. de Haloneſo. ὁ δὲ τὰς λῃςὰς ἀφελόμενός τι χρήματα, ὃς ἂν ἔἴποι δικαίως ἔχειν, καὶ ταῦτα ἰδιοποιεῖσθαι; ἐδ᾽ ἂν εἷς εἴποι ταῦτα ἑαυτῷ γιγνώσκειν."
+      "text": "Demosth. orat. de Haloneso. ὁ δὲ τὰς λῃςὰς ἀφελόμενός τι χρήματα, ὃς ἂν ἔἴποι δικαίως ἔχειν, καὶ ταῦτα ἰδιοποιεῖσθαι; ἐδ᾽ ἂν εἷς εἴποι ταῦτα ἑαυτῷ γιγνώσκειν."
     },
     {
       "key": "page_0215-a",
@@ -496,12 +474,12 @@
     {
       "key": "page_0215-b",
       "n": 27,
-      "text": "Geneſ. XIV, 21. Damibi animas, cætera tolle tibi."
+      "text": "Genes. XIV, 21. Damibi animas, cætera tolle tibi."
     },
     {
       "key": "page_0215-c",
       "n": 28,
-      "text": "Vide Grot. lib. de jure Belli & Pac. l. 3. c. 6. art. 7."
+      "text": "Vide Grot. lib. de jure Belli et Pac. l. 3. c. 6. art. 7."
     },
     {
       "key": "page_0215-d",
@@ -511,7 +489,7 @@
     {
       "key": "page_0216-a",
       "n": 30,
-      "text": "Vide Grot. hic, & lib. 2. c. 4. de jure Bel. & Pac."
+      "text": "Vide Grot. hic, et lib. 2. c. 4. de jure Bel. et Pac."
     },
     {
       "key": "page_0216-b",
@@ -521,17 +499,17 @@
     {
       "key": "page_0216-c",
       "n": 32,
-      "text": "Deut. II. 10. Emim primi fuerunt habitatores ejus, populus magnus & validus."
+      "text": "Deut. II. 10. Emim primi fuerunt habitatores ejus, populus magnus et validus."
     },
     {
       "key": "page_0216-d",
       "n": 33,
-      "text": "Num. XXI. 29. 3. Reg. XI. 7. 33. & 4. Reg. XXIII. 13. & Jerem. XLVIII. 13. 46. &c."
+      "text": "Num. XXI. 29. 3. Reg. XI. 7. 33. et 4. Reg. XXIII. 13. et Jerem. XLVIII. 13. 46. etc."
     },
     {
       "key": "page_0217-a",
       "n": 34,
-      "text": "Joſue XXIV. 9."
+      "text": "Josue XXIV. 9."
     },
     {
       "key": "page_0217-b",
@@ -556,7 +534,7 @@
     {
       "key": "page_0219-a",
       "n": 39,
-      "text": "Supra cap. X. 17. & XI. 11."
+      "text": "Supra cap. X. 17. et XI. 11."
     },
     {
       "key": "page_0219-b",
@@ -566,12 +544,12 @@
     {
       "key": "page_0219-c",
       "n": 41,
-      "text": "Judic. XII. 2. _Vocavique vos ut præberetis mihi auxilium, & facere noluistis._"
+      "text": "Judic. XII. 2. _Vocavique vos ut præberetis mihi auxilium, et facere noluistis._"
     },
     {
       "key": "page_0220-a",
       "n": 42,
-      "text": "Joſeph. lib. 4. de Bello c. 25. Σάδων [UNCERTAIN GREEK] Γάδαρα μητρόπολιν τῆς περαίας παρτιεάν."
+      "text": "Joseph. lib. 4. de Bello c. 25. Σάδων [UNCERTAIN GREEK] Γάδαρα μητρόπολιν τῆς περαίας παρτιεάν."
     },
     {
       "key": "page_0220-b",
@@ -581,27 +559,27 @@
     {
       "key": "page_0221-a",
       "n": 44,
-      "text": "1. Reg. XVIII. 6. _Egreſſæ ſunt mulieres de univerſis urbibus Iſraël, cantantes choroſque ducentes in occurſum Saül Regis, in tympanis lætitiæ & in Syſtris._"
+      "text": "1. Reg. XVIII. 6. _Egressæ sunt mulieres de universis urbibus Israël, cantantes chorosque ducentes in occursum Saül Regis, in tympanis lætitiæ et in Systris._"
     },
     {
       "key": "page_0221-b",
       "n": 45,
-      "text": "[UNCERTAIN HEBREW] 70. _Genu flexiſti me._ Th. _τετάραχας με._ Vous m’avez étranglé ; _Aq. περιέθηκας ἐπιβόλαιον ἐμοὶ._ Ms. Vous m’avez humilié abaiſſé &c. Sym. _ὑπέσκασάς με. εἰς σκᾶλον ἐγένου ἐν ὀφθαλμοῖς με._ Vous m’avez renverſé ; vous avez été une pierre d’achoppement à mes yeux."
+      "text": "[UNCERTAIN HEBREW] 70. _Genu flexisti me._ Th. _τετάραχας με._ Vous m’avez étranglé ; _Aq. περιέθηκας ἐπιβόλαιον ἐμοὶ._ Ms. Vous m’avez humilié abaissé etc. Sym. _ὑπέσκασάς με. εἰς σκᾶλον ἐγένου ἐν ὀφθαλμοῖς με._ Vous m’avez renversé ; vous avez été une pierre d’achoppement à mes yeux."
     },
     {
       "key": "page_0221-c",
       "n": 46,
-      "text": "_Vide Druſ. hic. Tibul. Vive diu, mi dulcis anus. Salvian. l. 3. Adverſ. avarit. ô Domina mi Eccleſia Dei, &c._"
+      "text": "_Vide Drus. hic. Tibul. Vive diu, mi dulcis anus. Salvian. l. 3. Advers. avarit. ô Domina mi Ecclesia Dei, etc._"
     },
     {
       "key": "page_0222-a",
       "n": 47,
-      "text": "Lévit. XXVII. 4. 51. Si mulier triginta : à quito autem anno, uſque ad vigefimum majus, luebit viginti ſiclos, femina decem."
+      "text": "Lévit. XXVII. 4. 51. Si mulier triginta : à quito autem anno, usque ad vigefimum majus, luebit viginti siclos, femina decem."
     },
     {
       "key": "page_0222-b",
       "n": 48,
-      "text": "Ibid. ℣. 29. 30. Omnis conſecratio quæ offertur ab homine non redimetur, ſed morte morietur."
+      "text": "Ibid. ℣. 29. 30. Omnis consecratio quæ offertur ab homine non redimetur, sed morte morietur."
     },
     {
       "key": "page_0222-c",
@@ -611,7 +589,7 @@
     {
       "key": "page_0222-d",
       "n": 50,
-      "text": "Jerem. XXII. 15. Iſai. XV. 2."
+      "text": "Jerem. XXII. 15. Isai. XV. 2."
     },
     {
       "key": "page_0223-a",
@@ -621,12 +599,12 @@
     {
       "key": "page_0223-b",
       "n": 52,
-      "text": "_Joſue_ VII. 24. ויעלו אתם עמק עכור _Vide Druſ. hic._"
+      "text": "_Josue_ VII. 24. ויעלו אתם עמק עכור _Vide Drus. hic._"
     },
     {
       "key": "page_0224-a",
       "n": 53,
-      "text": "Epiphan. Hæref. 55. qui eſt Melchiſede-cian. & de τῇ Σιβαστῇ, τῇ αὔτε Σαμαρείᾳ καὶ πόλῃ, τὴν θυγατέρα Ἰεφθάε θυσιάζοντες, ἵλεων τὴν τελείην κατ᾽ ἔτ@ ἄγων. Et hæref. 78. quæ eſt Antidicomarian. Εν Σικίμοις θυσίας ἐς ἐπιχεῖν τινῶν εἰς ὄνομα τῆς κόρης. Αὕτη ἐκ τῆς περι-οσίας τῆς θυγατρὸς Ἰεφθάε τῆς τότε προεπηχούσης. Deest in Suidæ."
+      "text": "Epiphan. Hæref. 55. qui est Melchisede-cian. et de τῇ Σιβαστῇ, τῇ αὔτε Σαμαρείᾳ καὶ πόλῃ, τὴν θυγατέρα Ἰεφθάε θυσιάζοντες, ἵλεων τὴν τελείην κατ᾽ ἔτ@ ἄγων. Et hæref. 78. quæ est Antidicomarian. Εν Σικίμοις θυσίας ἐς ἐπιχεῖν τινῶν εἰς ὄνομα τῆς κόρης. Αὕτη ἐκ τῆς περι-οσίας τῆς θυγατρὸς Ἰεφθάε τῆς τότε προεπηχούσης. Deest in Suidæ."
     },
     {
       "key": "page_0224-b",
@@ -641,158 +619,7 @@
     {
       "key": "page_0224-d",
       "n": 56,
-      "text": "Idem ad Æneid. II. & Ovid. Metamorph. l. XII."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0206",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0207",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0208",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0209",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0210",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0211",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0212",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": [
-        16
-      ]
-    },
-    {
-      "page": "page_0213",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0214",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0215",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0216",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0217",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0218",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0219 2",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0219",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0220",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0221",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0222",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0223",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0224",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0225",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Idem ad Æneid. II. et Ovid. Metamorph. l. XII."
     }
   ],
   "missing_footnotes": []

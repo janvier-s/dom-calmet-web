@@ -16,7 +16,7 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NATHINÆI,",
       "lemma": "les Nathinéens, ou donnés ,",
       "text": "car c'est la signification de l'Hébreu [7] _Nethinim_, étaient dans leur origine, les restes des Gabaonites, qui ayant surpris la bonne foi, et la religion de Josué, furent condamnés à porter l'eau, et le bois au temple du Seigneur. [8] C'étaient comme des esclaves publics, destinés au service du Temple ; sous le commandement des Prêtres, et des Lévites qui les employaient. Dans la suite on leur joignit ceux des Cananéens, que l'on assujettit, et à qui on voulut bien conserver la vie. On lit dans Esdras, que les Nathinéens étaient des esclaves donnés par David, et par les Princes pour le ministère du Temple, [9] et ailleurs, [10] qu'ils étaient des esclaves de Salomon, _servi servorum Salomonis_ ; en effet on voit dans les Livres des Rois, [11] que ce Prince assujettit les restes des Cananéens, et les contraignit à diverses servitudes ; surtout à aider les Prêtres, et les Lévites dans les plus pénibles travaux de leur ministère. Les Nathinéens furent menés en captivité avec la tribu de Juda ; il y en avait beaucoup dans les montagnes Caspiennes. [12] Au retour de la captivité, ils demeurèrent chacun dans les villes qui leur furent assignées pour demeure, [13] et ils eurent dans Jérusalem, un quartier nommé Ophel, où ils faisaient leur résidence, lorsqu'ils étaient dans cette ville. [14] On en compte deux cent et vingt, qui revinrent de captivité [15] avec Esdras ; et en un autre endroit, trois cent quatre-vingt-douze, [16] qui retournèrent avec Zorobabel. Ainsi, à moins que d'être continuellement occupés au service des Prêtres, ce petit nombre de Nathinéens ne pouvait seul soutenir le poids des charges extérieures du temple ; d'où vient qu'après la captivité, pour les décharger, on institua des Fêtes pour porter le bois au Temple. On peut voir ce qu'on a dit sur Josué en parlant des Gabaonites. [17]"
@@ -46,43 +46,43 @@
       "verse": 7,
       "sub": false,
       "latin_lemma": "FILII ODUIA,",
-      "lemma": "autrement Johed, (b) ou Juda. (c)",
+      "lemma": "autrement Johed, [21] ou Juda. [22]",
       "text": ""
     },
     {
       "verse": 11,
       "sub": false,
       "latin_lemma": "AZARIAS,",
-      "lemma": "autrement Saraïa. (d)",
+      "lemma": "autrement Saraïa. [23]",
       "text": ""
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MOSALLAM ;",
       "lemma": "autrement Sellum. I. Par. VI. 12. 13.",
       "text": ""
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PONTIFEX DOMUS DEI.",
       "lemma": "Pontife de la maison du Seigneur.",
-      "text": "Le Grand-Prêtre d'alors, était Jésu fils de Josédech ;[21] le Pontife dont il est parlé ici, était Azarias, nommé Saraïas, 2. Esdr. XI. 11. un des premiers, et des principaux Prêtres, chef d'une des principales familles, et peut-être le premier en dignité après le Souverain Pontife. Nous avons déjà vu ailleurs un Prêtre qui tenait le premier rang après le Grand-Prêtre.[22] L'Hébreu :[23] _Azarias fils d'Helcias,... fils d'Achitob, qui fut chef, ou Capitaine de la_ maison du Seigneur. Si l'on prend cette dernière expression, pour celui qui commandait les Portiers, et les Lévites de la garde du temple, il n'y aura pas difficulté de l'attribuer à Azarias."
+      "text": "Le Grand-Prêtre d'alors, était Jésu fils de Josédech ;[24] le Pontife dont il est parlé ici, était Azarias, nommé Saraïas, 2. Esdr. XI. 11. un des premiers, et des principaux Prêtres, chef d'une des principales familles, et peut-être le premier en dignité après le Souverain Pontife. Nous avons déjà vu ailleurs un Prêtre qui tenait le premier rang après le Grand-Prêtre.[25] L'Hébreu :[26] _Azarias fils d'Helcias,... fils d'Achitob, qui fut chef, ou Capitaine de la_ maison du Seigneur. Si l'on prend cette dernière expression, pour celui qui commandait les Portiers, et les Lévites de la garde du temple, il n'y aura pas difficulté de l'attribuer à Azarias."
     },
     {
       "verse": 12,
       "sub": false,
       "latin_lemma": "FILII PHASSUR.",
       "lemma": "Jéroham fils de Phaffur.",
-      "text": "Il n'était que son arrière-petit-fils. [24] Jéroham était fils de Phélélia, fils d'Amsi, fils de Zacharie, fils de Phétur, ou _Phassur_."
+      "text": "Il n'était que son arrière-petit-fils. [27] Jéroham était fils de Phélélia, fils d'Amsi, fils de Zacharie, fils de Phétur, ou _Phassur_."
     },
     {
       "verse": 12,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MAASAI FILIUS ADIEL, FILII JEZRA, FILII MOSOLLAM, FILII MOSOLLAMIT.",
       "lemma": "Maasai fils d'Adiel, fils de Jezra, fils de Mosollam, fils de Mosollamith.",
-      "text": "Dans Néhémie, il y a quelque différence : [25] _Amassaï fils d'Azréel, fils d'Ahazi, fils de Mosollamis_."
+      "text": "Dans Néhémie, il y a quelque différence : [28] _Amassaï fils d'Azréel, fils d'Ahazi, fils de Mosollamis_."
     },
     {
       "verse": 14,
@@ -96,28 +96,28 @@
       "sub": false,
       "latin_lemma": "BACBACAR CARPENTARIUS.",
       "lemma": "Bacbacar Charpentier.",
-      "text": "On assure, que ni les Prêtres, ni les Lévites n'exerçaient aucun art mécanique ; [26] celui-ci n'était pas Charpentier de son métier, mais il avait, dit-on, l'intendance sur ceux qui travaillaient aux réfections du temple. Il y en a qui prennent l'Hébreu, _Cheresch_, pour un surnom : Bacbacar surnommé Chéresch. Les Septante : Barbakar, et Arés. Mais quel inconvénient trouve-t-on à prendre ce terme dans sa signification ordinaire ? Et pourquoi les Lévites, et les Prêtres dans le temps de leur loisir, et pendant qu'ils n'étaient point occupés à travailler au temple, n'auraient-ils pas pu exercer quelque métier honnête ? surtout n'ayant point de fonds, ni de travail à la campagne. Le travail n'a jamais été honteux, ni jugé incompatible avec la profession de Ministre du Seigneur. L'exercice des métiers, n'était point une chose estimée basse et déshonorante parmi les Hébreux. Uri et Bézéléel sont estimés dans Moïse, et Hiram sous Salomon. Homère place dans son Iliade parmi les héros de la guerre de Troie, un Phéréclus [27] fils d'un Charpentier."
+      "text": "On assure, que ni les Prêtres, ni les Lévites n'exerçaient aucun art mécanique ; [29] celui-ci n'était pas Charpentier de son métier, mais il avait, dit-on, l'intendance sur ceux qui travaillaient aux réfections du temple. Il y en a qui prennent l'Hébreu, _Cheresch_, pour un surnom : Bacbacar surnommé Chéresch. Les Septante : Barbakar, et Arés. Mais quel inconvénient trouve-t-on à prendre ce terme dans sa signification ordinaire ? Et pourquoi les Lévites, et les Prêtres dans le temps de leur loisir, et pendant qu'ils n'étaient point occupés à travailler au temple, n'auraient-ils pas pu exercer quelque métier honnête ? surtout n'ayant point de fonds, ni de travail à la campagne. Le travail n'a jamais été honteux, ni jugé incompatible avec la profession de Ministre du Seigneur. L'exercice des métiers, n'était point une chose estimée basse et déshonorante parmi les Hébreux. Uri et Bézéléel sont estimés dans Moïse, et Hiram sous Salomon. Homère place dans son Iliade parmi les héros de la guerre de Troie, un Phéréclus [30] fils d'un Charpentier."
     },
     {
       "verse": 16,
       "sub": false,
       "latin_lemma": "IN ATRIIS NETOPHATI.",
       "lemma": "Dans les faubourgs de Nétophati.",
-      "text": "On donna à ces Lévites, les villages, et les hameaux dépendants de _Nétophat_, ville de la tribu de Juda. [28] On fut obligé de se départir des règlements de Josué, à l'égard des villes des Prêtres, et des Lévites, parce que l'on se trouva plus resserré dans le pays, et en bien moindre nombre. Les Prêtres avaient reçu dans leurs villes, les Lévites qui avaient été obligés de se retirer du Royaume d'Israël, dans celui de Juda ; on suivit au retour de la captivité, la même disposition qu'auparavant, autant que cela se put observer, selon les circonstances des temps et des lieux."
+      "text": "On donna à ces Lévites, les villages, et les hameaux dépendants de _Nétophat_, ville de la tribu de Juda. [31] On fut obligé de se départir des règlements de Josué, à l'égard des villes des Prêtres, et des Lévites, parce que l'on se trouva plus resserré dans le pays, et en bien moindre nombre. Les Prêtres avaient reçu dans leurs villes, les Lévites qui avaient été obligés de se retirer du Royaume d'Israël, dans celui de Juda ; on suivit au retour de la captivité, la même disposition qu'auparavant, autant que cela se put observer, selon les circonstances des temps et des lieux."
     },
     {
       "verse": 17,
       "sub": false,
-      "latin_lemma": "JANITORES, SELLUM, ET ACCUB, &c.",
+      "latin_lemma": "JANITORES, SELLUM, ET ACCUB, etc.",
       "lemma": "Les Portiers étaient Sellum, et Accub, etc.",
-      "text": "Ces quatre étaient les chefs des Portiers ; mais Sellum, l'un des quatre avait l'intendance, et la prééminence sur tous les autres. [29] Il y avait donc quatre compagnies de gardes ; [30] l'une, à l'Orient ; l'autre, au Couchant ; la troisième, au Midi ; et la quatrième, au Septentrion. La compagnie qui était destinée pour le côté de l’Occident, faisait garde au haut de la montée, qui conduisait du Palais du Roi, au temple.[31] Les autres trois compagnies avaient chacune leur porte à garder. Ils étaient aussi chargés de la garde des appartements, et des trésors de la maison du Seigneur, comme on le voit ci-après au ℣. 25."
+      "text": "Ces quatre étaient les chefs des Portiers ; mais Sellum, l'un des quatre avait l'intendance, et la prééminence sur tous les autres. [32] Il y avait donc quatre compagnies de gardes ; [33] l'une, à l'Orient ; l'autre, au Couchant ; la troisième, au Midi ; et la quatrième, au Septentrion. La compagnie qui était destinée pour le côté de l’Occident, faisait garde au haut de la montée, qui conduisait du Palais du Roi, au temple.[34] Les autres trois compagnies avaient chacune leur porte à garder. Ils étaient aussi chargés de la garde des appartements, et des trésors de la maison du Seigneur, comme on le voit ci-après au ℣. 25."
     },
     {
       "verse": 18,
       "sub": false,
       "latin_lemma": "USQUE AD ILLUD TEMPUS IN PORTA REGIS AD ORIENTEM, OBSERVABANT PER VICES SUAS DE FILIIS LEVI.",
       "lemma": "Jusqu’à ce temps-là des enfants de Lévi, gardaient chacun à leur tour la porte du Roi qui était à l’Orient.",
-      "text": "On a montré ailleurs,[32] que le Roi de Juda, avait une porte de son Palais, qui s’ouvrait du côté du temple, d’où il se rendait à la porte orientale du parvis des Prêtres, pour se mettre dans la tribune qui lui était préparée. Cette porte orientale ne s’ouvrait que le jour du Sabbat.[33] Et quoiqu’au retour de la captivité, il n’y eût point de Roi dans Israël, on dit qu’on ne laissait pas d’entretenir une compagnie de gardes à la porte du Roi, comme de coutume. C’est ce qu’on infère de ces paroles : _Jusqu’à ce temps-là_. Mais je pense qu’il faut leur donner un autre sens, et qu’il les faut prendre comme la conclusion de ce qui précède. L’Hébreu lit simplement, _et jusqu’ici_.[34] Voilà ce qui est contenu dans les registres ; ils finissent ici. Voici à présent l’ordre qu’observaient les gardes qui étaient à la porte du Roi, avant la captivité."
+      "text": "On a montré ailleurs,[35] que le Roi de Juda, avait une porte de son Palais, qui s’ouvrait du côté du temple, d’où il se rendait à la porte orientale du parvis des Prêtres, pour se mettre dans la tribune qui lui était préparée. Cette porte orientale ne s’ouvrait que le jour du Sabbat.[36] Et quoiqu’au retour de la captivité, il n’y eût point de Roi dans Israël, on dit qu’on ne laissait pas d’entretenir une compagnie de gardes à la porte du Roi, comme de coutume. C’est ce qu’on infère de ces paroles : _Jusqu’à ce temps-là_. Mais je pense qu’il faut leur donner un autre sens, et qu’il les faut prendre comme la conclusion de ce qui précède. L’Hébreu lit simplement, _et jusqu’ici_.[37] Voilà ce qui est contenu dans les registres ; ils finissent ici. Voici à présent l’ordre qu’observaient les gardes qui étaient à la porte du Roi, avant la captivité."
     },
     {
       "verse": 19,
@@ -128,24 +128,24 @@
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET FAMILIÆ EORUM PER VICES CASTRORUM DOMINI CUSTODIENTES INTROITUM.",
       "lemma": "Sellum fils de Coré avec ses frères, étaient établis sur les ouvrages qui regardent le ministère, ayant la garde des vestibules du Tabernacle, chacun de leurs familles gardant tour à tour, l'entrée du camp du Seigneur.",
-      "text": "On a déjà vu[35] que Sellum avec ses frères, c'est-à-dire, avec trois autres Lévites, avait l'intendance sur tous les portiers, et les gardes du temple; leurs familles, ou les branches des Lévites, dont ils étaient eux-mêmes, faisaient garde dans le temple, qui est le camp du Roi Tout-puissant; ils étaient établis sur les ouvrages qui regardent le ministère;[36] c'est-à-dire, ils étaient chargés de la garde du temple. Le texte Hébreu ne dit pas ici, qu'ils servissent chacun à leur tour, mais on sait bien, que les Lévites particuliers ne servaient pas toujours au temple, et on voit par le ℣. 25. qu'ils étaient relevés chaque jour du Sabbat. Mais l'emploi de ceux qui étaient Capitaines, ou Chefs, les tenait toujours attachés au Temple, ou à Jérusalem, et ils n'avaient point de semestres, comme on le voit au ℣. 34. Voici l'Hébreu de la fin du ℣.[37] _Ce sont là les gardes des portes du tabernacle, et leurs pères étaient établis sur le camp du Seigneur, et gardes de l'entrée._ Les fils de Coré firent dans le second temple, ce que leurs pères avaient fait, premièrement, dans le tabernacle au désert, et ensuite au temple de Salomon. Ils furent établis sur la garde des portes; on ne parle ici, que des gardes de la famille de Coré, je ne voudrais pourtant pas assurer, qu'eux seuls fussent chargés de cet emploi."
+      "text": "On a déjà vu[38] que Sellum avec ses frères, c'est-à-dire, avec trois autres Lévites, avait l'intendance sur tous les portiers, et les gardes du temple; leurs familles, ou les branches des Lévites, dont ils étaient eux-mêmes, faisaient garde dans le temple, qui est le camp du Roi Tout-puissant; ils étaient établis sur les ouvrages qui regardent le ministère;[39] c'est-à-dire, ils étaient chargés de la garde du temple. Le texte Hébreu ne dit pas ici, qu'ils servissent chacun à leur tour, mais on sait bien, que les Lévites particuliers ne servaient pas toujours au temple, et on voit par le ℣. 25. qu'ils étaient relevés chaque jour du Sabbat. Mais l'emploi de ceux qui étaient Capitaines, ou Chefs, les tenait toujours attachés au Temple, ou à Jérusalem, et ils n'avaient point de semestres, comme on le voit au ℣. 34. Voici l'Hébreu de la fin du ℣.[40] _Ce sont là les gardes des portes du tabernacle, et leurs pères étaient établis sur le camp du Seigneur, et gardes de l'entrée._ Les fils de Coré firent dans le second temple, ce que leurs pères avaient fait, premièrement, dans le tabernacle au désert, et ensuite au temple de Salomon. Ils furent établis sur la garde des portes; on ne parle ici, que des gardes de la famille de Coré, je ne voudrais pourtant pas assurer, qu'eux seuls fussent chargés de cet emploi."
     },
     {
       "verse": 20,
       "sub": false,
       "latin_lemma": "PHINEES FILIUS ELEAZARI, ERAT DUX EORUM.",
       "lemma": "Phinées fils d'Eléazar, était leur chef.",
-      "text": "L'Hébreu :[38] _Et Phinées fils d'Eléazar, était auparavant leur chef; qu'il soit avec le Seigneur._ C'est une bénédiction qu'on donne communément aux morts. Phinéès fils d'Eléazar, était Capitaine des fils de Coré, et Zacharie fils de Mosollamia, avait l'intendance sur la porte du Sanctuaire."
+      "text": "L'Hébreu :[41] _Et Phinées fils d'Eléazar, était auparavant leur chef; qu'il soit avec le Seigneur._ C'est une bénédiction qu'on donne communément aux morts. Phinéès fils d'Eléazar, était Capitaine des fils de Coré, et Zacharie fils de Mosollamia, avait l'intendance sur la porte du Sanctuaire."
     },
     {
       "verse": 21,
       "sub": false,
       "latin_lemma": null,
       "lemma": null,
-      "text": "On ne réfute point ici les visions des Rabbins, qui voudraient nous persuader, que le fameux Phinéès qui se distingua si fort par son zèle, sous Moïse, [39] fut un Ange du Ciel, qui parut de temps en temps, et qui se fit voir en particulier au retour de la captivité. Dans les Nombres, [40] nous voyons qu'Eléazar fils d'Aaron, était Prince des Princes des Lévites, et avait l'intendance, et l'inspection sur toutes les familles des Lévites, et sur tout leur ministère ; sous David Joiada, est appelé Prince de la famille d'Aaron, quoiqu'il ne fût pas grand-Prêtre : il amena à David trois mille sept cents hommes de sa tribu.  Phinéès pouvait avoir la même dignité, au retour de la captivité."
+      "text": "On ne réfute point ici les visions des Rabbins, qui voudraient nous persuader, que le fameux Phinéès qui se distingua si fort par son zèle, sous Moïse, [42] fut un Ange du Ciel, qui parut de temps en temps, et qui se fit voir en particulier au retour de la captivité. Dans les Nombres, [43] nous voyons qu'Eléazar fils d'Aaron, était Prince des Princes des Lévites, et avait l'intendance, et l'inspection sur toutes les familles des Lévites, et sur tout leur ministère ; sous David Joiada, est appelé Prince de la famille d'Aaron, quoiqu'il ne fût pas grand-Prêtre : il amena à David trois mille sept cents hommes de sa tribu.  Phinéès pouvait avoir la même dignité, au retour de la captivité."
     },
     {
       "verse": 22,
@@ -156,10 +156,10 @@
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DESCRIPTI IN VILLIS PROPRIIS, QUOS CONSTITUERUNT DAVID, ET SAMUEL IN FIDE SUA.",
       "lemma": "Couchés chacun sur le rôle de leur ville. David et Samuël les avaient établis par un effet de la lumière de leur foi.",
-      "text": "On ne lit nulle part, que Samuël ait établi les Prêtres, ni les Lévites pour le service du Tabernacle ; et comme ce Prophète était mort longtemps avant que David montât sur le trône, on ne peut pas dire, que David de concert avec Samuël ou par ses conseils, ait établi l'ordre des Ministres du Tabernacle. Il est donc à présumer, que Samuël s'étant trouvé à la tête de la Nation, après la mort d'Héli, réforma l'ordre des Officiers du Tabernacle, qui avait été dérangé pendant la vieillesse d'Héli; et troublé par le mauvais gouvernement de ses deux fils; et qu'après le retour de l'Arche du pays des Philistins, ce Prophète rétablit les choses sur un pied tout différent de ce qui avait été jusqu'alors.\nPour David, aussitôt qu'il eut fixé l'Arche dans la ville de Sion, il eut soin, que le service s'y fît avec la majesté, et la décence convenable; [41] il suivit dans tout ce qu'il ordonna, les avis des Prophètes Gad, et Nathan, comme il est marqué expressément ci-après. [42] Après le retour de Babylone, on ne crut pas pouvoir suivre un ordre plus juste, et plus beau, que ce qui avait été ordonné par Samuel, par David, et par les Prophètes que nous avons nommés, dont les noms, et la mémoire étaient en bénédiction. On rétablit donc l'ordre des Prêtres, et des Lévites sur la forme qu'ils en avaient prescrite. On dressa un rôle exact des noms de tous ceux qui étaient en âge de servir, et on les distingua par les lieux de leurs demeures; on se régla sur leur nombre pour la distribution des bandes, et des compagnies, qui devaient servir tour à tour. Après la captivité, les compagnies furent moins nombreuses, parce que le nombre des Prêtres, et des Lévites, était moins grand qu'auparavant. L'Écriture dit ici, que Samuel et David les établirent suivant leur foi, _in fide sua_, ce qui peut marquer, ou la foi, et la fidélité des Ministres; ou la lumière, le discernement, la religion de ces deux Prophètes: ou plutôt suivant l'Hébreu, [43] ils furent établis dans un emploi fixe, et invariable, ou dans un ordre déterminé, et constant; on les attacha à leur emploi par une destination certaine et irrévocable."
+      "text": "On ne lit nulle part, que Samuël ait établi les Prêtres, ni les Lévites pour le service du Tabernacle ; et comme ce Prophète était mort longtemps avant que David montât sur le trône, on ne peut pas dire, que David de concert avec Samuël ou par ses conseils, ait établi l'ordre des Ministres du Tabernacle. Il est donc à présumer, que Samuël s'étant trouvé à la tête de la Nation, après la mort d'Héli, réforma l'ordre des Officiers du Tabernacle, qui avait été dérangé pendant la vieillesse d'Héli; et troublé par le mauvais gouvernement de ses deux fils; et qu'après le retour de l'Arche du pays des Philistins, ce Prophète rétablit les choses sur un pied tout différent de ce qui avait été jusqu'alors.\nPour David, aussitôt qu'il eut fixé l'Arche dans la ville de Sion, il eut soin, que le service s'y fît avec la majesté, et la décence convenable; [44] il suivit dans tout ce qu'il ordonna, les avis des Prophètes Gad, et Nathan, comme il est marqué expressément ci-après. [45] Après le retour de Babylone, on ne crut pas pouvoir suivre un ordre plus juste, et plus beau, que ce qui avait été ordonné par Samuel, par David, et par les Prophètes que nous avons nommés, dont les noms, et la mémoire étaient en bénédiction. On rétablit donc l'ordre des Prêtres, et des Lévites sur la forme qu'ils en avaient prescrite. On dressa un rôle exact des noms de tous ceux qui étaient en âge de servir, et on les distingua par les lieux de leurs demeures; on se régla sur leur nombre pour la distribution des bandes, et des compagnies, qui devaient servir tour à tour. Après la captivité, les compagnies furent moins nombreuses, parce que le nombre des Prêtres, et des Lévites, était moins grand qu'auparavant. L'Écriture dit ici, que Samuel et David les établirent suivant leur foi, _in fide sua_, ce qui peut marquer, ou la foi, et la fidélité des Ministres; ou la lumière, le discernement, la religion de ces deux Prophètes: ou plutôt suivant l'Hébreu, [46] ils furent établis dans un emploi fixe, et invariable, ou dans un ordre déterminé, et constant; on les attacha à leur emploi par une destination certaine et irrévocable."
     },
     {
       "verse": 24,
@@ -177,24 +177,24 @@
     },
     {
       "verse": 26,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ERANT SUPER EXEDRAS, ET THESAUROS DOMUS DOMINI.",
       "lemma": "Ils étaient chargés du soin de toutes les chambres, et du trésor de la maison de Dieu.",
-      "text": "Les portiers dont on vient de parler, outre la garde des portes, avaient aussi l'intendance des appartements des Prêtres, et de tous les logements du temple, surtout de ceux où l'on serrait ce qu'il y avait de plus précieux en or, en argent, en cuivre, en aromates, en habits, en huiles, en sel, en vin ; tout cela est compris sous le nom de _trésor de la maison de Dieu_.[44] Nous croyons que la plupart de ces choses, se conservaient dans les chambres qui étaient adhérentes aux côtés du temple ; les Prêtres, et les Lévites logeaient dans les ailes, et dans les appartements des parvis."
+      "text": "Les portiers dont on vient de parler, outre la garde des portes, avaient aussi l'intendance des appartements des Prêtres, et de tous les logements du temple, surtout de ceux où l'on serrait ce qu'il y avait de plus précieux en or, en argent, en cuivre, en aromates, en habits, en huiles, en sel, en vin ; tout cela est compris sous le nom de _trésor de la maison de Dieu_.[47] Nous croyons que la plupart de ces choses, se conservaient dans les chambres qui étaient adhérentes aux côtés du temple ; les Prêtres, et les Lévites logeaient dans les ailes, et dans les appartements des parvis."
     },
     {
       "verse": 30,
       "sub": false,
       "latin_lemma": "FILII SACERDOTUM UNGUENTA EX AROMATIBUS CONFICIEBANT.",
       "lemma": "Ceux qui étaient de la famille sacerdotale, composaient les parfums de plusieurs aromates.",
-      "text": "C'était aux Lévites de conserver ces aromates, mais il n'y avait que les Prêtres qui en osassent faire la composition : et il était défendu par la Loi, sous peine de la vie, d'en employer à l'usage d'aucun mortel.[45]"
+      "text": "C'était aux Lévites de conserver ces aromates, mais il n'y avait que les Prêtres qui en osassent faire la composition : et il était défendu par la Loi, sous peine de la vie, d'en employer à l'usage d'aucun mortel.[48]"
     },
     {
       "verse": 31,
       "sub": false,
       "latin_lemma": "PRÆFECTUS EORUM QUÆ IN SARTAGINE FRIGEBANTUR.",
       "lemma": "Sur tout ce qu'on faisait frire dans la poêle.",
-      "text": "L'Hébreu : [46] _Sur tout l'ouvrage des poêles._ Les Septante : [47] _Sur les ouvrages du Sacrifice de la poêle du Grand Prêtre._ Il y avait dans le temple des cuisines particulières, où l'on préparait à manger aux Prêtres, [48] où l'on faisait frire les grains, et les gâteaux, qui devaient dans certaines cérémonies, être offerts sur l'Autel des holocaustes.[49] C'était Mathathias fils aîné de Sellum, qui avait l'intendance de ces choses ; il y en a qui traduisent l'Hébreu par _des grilles_, ou _des pots_ : ce qu'on faisait rôtir, ou bouillir dans le temple. Mathathias avait soin que tout cela se fît dans la décence, la propreté, et la fidélité convenable."
+      "text": "L'Hébreu : [49] _Sur tout l'ouvrage des poêles._ Les Septante : [50] _Sur les ouvrages du Sacrifice de la poêle du Grand Prêtre._ Il y avait dans le temple des cuisines particulières, où l'on préparait à manger aux Prêtres, [51] où l'on faisait frire les grains, et les gâteaux, qui devaient dans certaines cérémonies, être offerts sur l'Autel des holocaustes.[52] C'était Mathathias fils aîné de Sellum, qui avait l'intendance de ces choses ; il y en a qui traduisent l'Hébreu par _des grilles_, ou _des pots_ : ce qu'on faisait rôtir, ou bouillir dans le temple. Mathathias avait soin que tout cela se fît dans la décence, la propreté, et la fidélité convenable."
     },
     {
       "verse": 32,
@@ -205,17 +205,17 @@
     },
     {
       "verse": 32,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PER SINGULA SABBATHA PRÆPARARENT.",
       "lemma": "Ils avaient la charge des pains qu'on exposait devant le Seigneur, afin d'en préparer toujours de nouveaux, tous les jours de Sabbat.",
-      "text": "Les pains qu'on exposait tous les samedis sur l'Autel d'or, dans le Saint en présence du Seigneur, sont ordinairement appelés dans Moïse,[50] _les pains de la face_; ici on les appelle[51] _les pains de l'arrangement_, ou _des pains disposés_, et arrangés sur la table d'or, pour y demeurer toute la semaine. C'étaient les Lévites, qui les pétrissaient, et qui les faisaient cuire; mais c'étaient les Prêtres, qui les exposaient sur la Table sainte. Il y a sur cela quelque diversité de sentiment, qu'on peut voir ci-après, chap. XXIII. 29."
+      "text": "Les pains qu'on exposait tous les samedis sur l'Autel d'or, dans le Saint en présence du Seigneur, sont ordinairement appelés dans Moïse,[53] _les pains de la face_; ici on les appelle[54] _les pains de l'arrangement_, ou _des pains disposés_, et arrangés sur la table d'or, pour y demeurer toute la semaine. C'étaient les Lévites, qui les pétrissaient, et qui les faisaient cuire; mais c'étaient les Prêtres, qui les exposaient sur la Table sainte. Il y a sur cela quelque diversité de sentiment, qu'on peut voir ci-après, chap. XXIII. 29."
     },
     {
       "verse": 33,
       "sub": false,
       "latin_lemma": "HI SUNT PRINCIPES CANTORUM PER FAMILIAS LEVITARUM, QUI IN EXEDRIS MORABANTUR, UT DIE AC NOCTE JUGITER SUO MINISTERIO DESERVIRENT.",
       "lemma": "Voilà les premiers d'entre les Chantres des familles des Lévites, qui demeuraient près du Temple, afin de pouvoir plus librement jour et nuit, remplir les fonctions de leur ministère.",
-      "text": "Qui sont ces premiers Chantres, ou ces chefs de musique, dont on nous parle ici? Il est assez croyable, que ce sont les mêmes dont on a parlé auparavant, qui étaient établis sur les Portiers, sur les trésors, et sur les appartements du temple. Il est certain que les Chantres étaient Lévites, comme les Portiers : Mais il n'est pas si clair que les uns et les autres aient eu les mêmes chefs.[52] Voici l'Hébreu de ce passage :[53] _Et voilà les Chantres, chefs des familles des Lévites dans les chambres, libres et dégagés, parce que jour et nuit le ministère roule sur eux, ou parce qu'ils sont chargés nuit et jour du_ ministère. Pourquoi sont-ils libres, et dégagés dans les chambres ? C’est, disent les uns, afin qu’éloignés du commerce du monde, et de leurs femmes, ils se conservent purs, et toujours en état de servir jour, et nuit. D’autres croient, qu’ils étaient libres et dégagés de toutes autres fonctions personnelles, et particulières dans le temple, afin qu’ils fussent toujours en état de veiller sur les Chantres, et sur les Portiers soumis à leur direction. Les Septante: _Voilà les maîtres de la musique, établis sur les bandes des Lévites, disposés par tour, parce que nuit et jour ils sont occupés à leur mystère._ Ce qui fait un sens plus clair."
+      "text": "Qui sont ces premiers Chantres, ou ces chefs de musique, dont on nous parle ici? Il est assez croyable, que ce sont les mêmes dont on a parlé auparavant, qui étaient établis sur les Portiers, sur les trésors, et sur les appartements du temple. Il est certain que les Chantres étaient Lévites, comme les Portiers : Mais il n'est pas si clair que les uns et les autres aient eu les mêmes chefs.[55] Voici l'Hébreu de ce passage :[56] _Et voilà les Chantres, chefs des familles des Lévites dans les chambres, libres et dégagés, parce que jour et nuit le ministère roule sur eux, ou parce qu'ils sont chargés nuit et jour du_ ministère. Pourquoi sont-ils libres, et dégagés dans les chambres ? C’est, disent les uns, afin qu’éloignés du commerce du monde, et de leurs femmes, ils se conservent purs, et toujours en état de servir jour, et nuit. D’autres croient, qu’ils étaient libres et dégagés de toutes autres fonctions personnelles, et particulières dans le temple, afin qu’ils fussent toujours en état de veiller sur les Chantres, et sur les Portiers soumis à leur direction. Les Septante: _Voilà les maîtres de la musique, établis sur les bandes des Lévites, disposés par tour, parce que nuit et jour ils sont occupés à leur mystère._ Ce qui fait un sens plus clair."
     },
     {
       "verse": 34,
@@ -233,10 +233,10 @@
     },
     {
       "verse": 35,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NOMEN UXORIS EJUS MAACHA.",
       "lemma": "Sa femme se nommait Maacha.",
-      "text": "C’est ainsi que les Septante, le Caldéen, le Syriaque, l’Arabe, et le chapitre VIII. ℣. 29. ont lu et entendu cet endroit ; ce qui fait croire, que l'Hébreu qui porte ici, _sa sœur_, [54] au lieu de sa femme, est corrompu. Cette répétition de la généalogie de Saül, nous conduit à David, qui est le principal objet de ces Livres."
+      "text": "C’est ainsi que les Septante, le Caldéen, le Syriaque, l’Arabe, et le chapitre VIII. ℣. 29. ont lu et entendu cet endroit ; ce qui fait croire, que l'Hébreu qui porte ici, _sa sœur_, [57] au lieu de sa femme, est corrompu. Cette répétition de la généalogie de Saül, nous conduit à David, qui est le principal objet de ces Livres."
     },
     {
       "verse": 39,
@@ -368,12 +368,12 @@
     {
       "key": "page_0151-a",
       "n": 1,
-      "text": "Ita Lyr. Vat. Sanct. Tir. Interpp. paſſim"
+      "text": "Ita Lyr. Vat. Sanct. Tir. Interpp. passim"
     },
     {
       "key": "page_0151-b",
       "n": 2,
-      "text": "2. Eſdr. XI. 10. Comparé au ℣. 10. de ce chap. & de même ici ℣. 14. & dans Néhémie ℣. 15. du même chapitre."
+      "text": "2. Esdr. XI. 10. Comparé au ℣. 10. de ce chap. et de même ici ℣. 14. et dans Néhémie ℣. 15. du même chapitre."
     },
     {
       "key": "page_0151-c",
@@ -383,12 +383,12 @@
     {
       "key": "page_0151-d",
       "n": 4,
-      "text": "1. Eſdr. II. 2."
+      "text": "1. Esdr. II. 2."
     },
     {
       "key": "page_0151-e",
       "n": 5,
-      "text": "2. Eſdr. III. 12."
+      "text": "2. Esdr. III. 12."
     },
     {
       "key": "page_0151-f",
@@ -403,17 +403,17 @@
     {
       "key": "page_0151-h",
       "n": 8,
-      "text": "Joſuæ IX. 27. Decrevitque in illo die illos eſſe in miniſterio cuncti populi & altaris Domini, cædentes ligna, & aquas comportantes, &c."
+      "text": "Josuæ IX. 27. Decrevitque in illo die illos esse in ministerio cuncti populi et altaris Domini, cædentes ligna, et aquas comportantes, etc."
     },
     {
       "key": "page_0152-a",
       "n": 9,
-      "text": "1. Eſdr. VIII. 20. Et de Nathinæis quos dederat David & Principes ad miniſteria Levitarum."
+      "text": "1. Esdr. VIII. 20. Et de Nathinæis quos dederat David et Principes ad ministeria Levitarum."
     },
     {
       "key": "page_0152-b",
       "n": 10,
-      "text": "1. Eſdr. II. 58."
+      "text": "1. Esdr. II. 58."
     },
     {
       "key": "page_0152-c",
@@ -423,37 +423,37 @@
     {
       "key": "page_0152-d",
       "n": 12,
-      "text": "1. Eſdr. VIII. 17."
+      "text": "1. Esdr. VIII. 17."
     },
     {
       "key": "page_0152-e",
       "n": 13,
-      "text": "1. Eſdr. II. 70. Habitavérunt Sacerdotes... & Nathinæi in urbibus ſuis."
+      "text": "1. Esdr. II. 70. Habitavérunt Sacerdotes... et Nathinæi in urbibus suis."
     },
     {
       "key": "page_0152-f",
       "n": 14,
-      "text": "2. Eſdr. III. 26. Nathinæi autem habitabant in Ophel, uſque contra portam aquarum, ad orientem. Vide & XI. 21."
+      "text": "2. Esdr. III. 26. Nathinæi autem habitabant in Ophel, usque contra portam aquarum, ad orientem. Vide et XI. 21."
     },
     {
       "key": "page_0152-g",
       "n": 15,
-      "text": "1. Eſdr. VIII. 20."
+      "text": "1. Esdr. VIII. 20."
     },
     {
       "key": "page_0152-h",
       "n": 16,
-      "text": "1. Eſdr. II. 58."
+      "text": "1. Esdr. II. 58."
     },
     {
       "key": "page_0152-i",
       "n": 17,
-      "text": "Joſue IX. 23."
+      "text": "Josue IX. 23."
     },
     {
       "key": "page_0153-a",
       "n": 18,
-      "text": "2. Eſdr. 11. 1. 2."
+      "text": "2. Esdr. 11. 1. 2."
     },
     {
       "key": "page_0153-b",
@@ -463,291 +463,192 @@
     {
       "key": "page_0154-a",
       "n": 20,
-      "text": "Voyez Num. XXVI. 20. Fuerunt filii Juda.... Sela, à quo famil.a Selaitarum. & 1. Eſdr. II. 5. Filius Zachariæ, filius Silanitis."
+      "text": "Voyez Num. XXVI. 20. Fuerunt filii Juda.... Sela, à quo famil.a Selaitarum. et 1. Esdr. II. 5. Filius Zachariæ, filius Silanitis."
+    },
+    {
+      "key": "page_0154-b",
+      "n": 21,
+      "text": "Nehem. XI. 7."
+    },
+    {
+      "key": "page_0154-c",
+      "n": 22,
+      "text": "Ibid. ℣. 9. Ita Jum. et Malvenda."
+    },
+    {
+      "key": "page_0154-d",
+      "n": 23,
+      "text": "Ibid. ℣. 11."
     },
     {
       "key": "page_0154-e",
-      "n": 21,
-      "text": "1. Eſdr. III. 8."
+      "n": 24,
+      "text": "1. Esdr. III. 8."
     },
     {
       "key": "page_0154-f",
-      "n": 22,
-      "text": "4. Reg. XXV. 18. Sophoniam ſacerdotem ſecundum."
+      "n": 25,
+      "text": "4. Reg. XXV. 18. Sophoniam sacerdotem secundum."
     },
     {
       "key": "page_0154-g",
-      "n": 23,
+      "n": 26,
       "text": "עזריה בן... אחטוב נגיד בית האלהים. 70. υἱὸς Ἀχιτὼβ ἡγούμενος οἴκου τοῦ θεοῦ."
     },
     {
       "key": "page_0155-a",
-      "n": 24,
-      "text": "2. Eſdr. XI. 12."
+      "n": 27,
+      "text": "2. Esdr. XI. 12."
     },
     {
       "key": "page_0155-b",
-      "n": 25,
+      "n": 28,
       "text": "Ibid. ℣. 13."
     },
     {
       "key": "page_0155-c",
-      "n": 26,
-      "text": "Lyr. Menoch. Toſt. Tirin."
+      "n": 29,
+      "text": "Lyr. Menoch. Tost. Tirin."
     },
     {
       "key": "page_0156-a",
-      "n": 27,
+      "n": 30,
       "text": "_Iliad. E._"
     },
     {
       "key": "page_0156-b",
-      "n": 28,
-      "text": "_Vide ſup. cap._ II. ℣. 54."
+      "n": 31,
+      "text": "_Vide sup. cap._ II. ℣. 54."
     },
     {
       "key": "page_0156-c",
-      "n": 29,
+      "n": 32,
       "text": "℣. 26. _His quatuor Levitis creditus eras omnis numerus Janitorum._"
     },
     {
       "key": "page_0156-d",
-      "n": 30,
+      "n": 33,
       "text": "Voyez ci-aprés le ℣. 24."
     },
     {
       "key": "page_0157-a",
-      "n": 31,
+      "n": 34,
       "text": "Voyez I. Par. XXVI. 16."
     },
     {
       "key": "page_0157-b",
-      "n": 32,
+      "n": 35,
       "text": "4. Reg. XVI. 18."
     },
     {
       "key": "page_0157-c",
-      "n": 33,
-      "text": "Ezech. XLVI. 1. & ſeqq."
+      "n": 36,
+      "text": "Ezech. XLVI. 1. et seqq."
     },
     {
       "key": "page_0157-d",
-      "n": 34,
+      "n": 37,
       "text": "[UNCERTAIN HEBREW]"
     },
     {
       "key": "page_0158-a",
-      "n": 35,
+      "n": 38,
       "text": "Voyez le ℣. 17."
     },
     {
       "key": "page_0158-b",
-      "n": 36,
+      "n": 39,
       "text": "על מלאכת העברה"
     },
     {
       "key": "page_0158-c",
-      "n": 37,
+      "n": 40,
       "text": "שמרי הספים לאהל ואבותיהם על"
     },
     {
       "key": "page_0158-d",
-      "n": 38,
-      "text": "מהני יהיה שמרי הסדא ופינחס בן אלעזר נגיד היה עליהם לפנים : יהוה עמו C'eſt"
+      "n": 41,
+      "text": "מהני יהיה שמרי הסדא ופינחס בן אלעזר נגיד היה עליהם לפנים : יהוה עמו C'est"
     },
     {
       "key": "page_0159-a",
-      "n": 39,
-      "text": "Num. xxv. 7. & ſequ."
+      "n": 42,
+      "text": "Num. xxv. 7. et sequ."
     },
     {
       "key": "page_0159-b",
-      "n": 40,
-      "text": "Num. III. 32. Princeps Principum Levitarum, Eleazar filius Aaron ſacerdotis."
+      "n": 43,
+      "text": "Num. III. 32. Princeps Principum Levitarum, Eleazar filius Aaron sacerdotis."
     },
     {
       "key": "page_0160-a",
-      "n": 41,
+      "n": 44,
       "text": "Voyez ci-devant chap. VI. ℣. 31."
     },
     {
       "key": "page_0160-b",
-      "n": 42,
-      "text": "2. Par. XXIX. 25. Secundum diſpoſitionem David Regis, & Gad Videntis, & Nathan Prophetæ."
+      "n": 45,
+      "text": "2. Par. XXIX. 25. Secundum dispositionem David Regis, et Gad Videntis, et Nathan Prophetæ."
     },
     {
       "key": "page_0160-c",
-      "n": 43,
+      "n": 46,
       "text": "בֶאֱמוּנָתָם."
     },
     {
       "key": "page_0161-a",
-      "n": 44,
+      "n": 47,
       "text": "עם הלשכות ועל האצרות בית האלהים"
     },
     {
       "key": "page_0162-a",
-      "n": 45,
-      "text": "Exod. xxx. 34. Homo quicumque ſecerit ſimile, ut odore illius perfruatur, peribit de populi ſuis."
+      "n": 48,
+      "text": "Exod. xxx. 34. Homo quicumque secerit simile, ut odore illius perfruatur, peribit de populi suis."
     },
     {
       "key": "page_0162-b",
-      "n": 46,
+      "n": 49,
       "text": "על מעשה הבתים [UNCERTAIN HEBREW]"
     },
     {
       "key": "page_0162-c",
-      "n": 47,
+      "n": 50,
       "text": "ἐπὶ τὰ ἔργα τῆς θυσίας τὸ τηγάνε ἐν μεγάλῳ ἱερέως. [UNCERTAIN GREEK]"
     },
     {
       "key": "page_0162-d",
-      "n": 48,
+      "n": 51,
       "text": "Vide Ezech. XLVI. 20."
     },
     {
       "key": "page_0162-e",
-      "n": 49,
-      "text": "Levit. II. 4. Lagana azyma oleo lita. Item Levit. VII. 21. & VIII. 28. &c."
+      "n": 52,
+      "text": "Levit. II. 4. Lagana azyma oleo lita. Item Levit. VII. 21. et VIII. 28. etc."
     },
     {
       "key": "page_0163-a",
-      "n": 50,
-      "text": "Exod. xxxv. 13. לחם הפנים במלאכה. 70. & Vulg. ſanctificati ſuper eos panes propoſitionis. Voyez Exod. xxv. 30. l'on voit que les pains de propoſition étoient ſur la table d'or."
+      "n": 53,
+      "text": "Exod. xxxv. 13. לחם הפנים במלאכה. 70. et Vulg. sanctificati super eos panes propositionis. Voyez Exod. xxv. 30. l'on voit que les pains de proposition étoient sur la table d'or."
     },
     {
       "key": "page_0163-b",
-      "n": 51,
-      "text": "70. l'on met τῆς τραπέζης τῆς προθέσεως, _de la table de propoſition_, &c. Alii libri, de ſuperpoſitionis τῆς τραπέζης. Il ſemble qu'ils ont lû מקדש, au lieu de מערכת."
+      "n": 54,
+      "text": "70. l'on met τῆς τραπέζης τῆς προθέσεως, _de la table de proposition_, etc. Alii libri, de superpositionis τῆς τραπέζης. Il semble qu'ils ont lû מקדש, au lieu de מערכת."
     },
     {
       "key": "page_0163-c",
-      "n": 52,
-      "text": "On peut examiner les chapitres xv. & xvi. où la choſe me paroît douteuſe."
+      "n": 55,
+      "text": "On peut examiner les chapitres xv. et xvi. où la chose me paroît douteuse."
     },
     {
       "key": "page_0163-d",
-      "n": 53,
+      "n": 56,
       "text": "ואלה המשוררים ראשי אבות ללוים בלשכות פטורים כי יומם ולילה עליהם במלאכה."
     },
     {
       "key": "page_0165-a",
-      "n": 54,
+      "n": 57,
       "text": "אחותו au lieu de אשתו"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0150",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0151",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0152",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0153",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0154",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0155",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0156",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0157",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0158",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0159",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0160",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0161",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0162",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0163",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0164",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0165",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": [

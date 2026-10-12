@@ -239,8 +239,8 @@
     },
     {
       "verse_number": 27,
-      "latin": "v. 27. Abraham autem consurgens manè, ubi steterat priùs cum Domino,",
-      "french": "v. 27. Or Abraham s'étant levé de grand matin, vint au lieu où il avait été auparavant avec le Seigneur ;",
+      "latin": "Abraham autem consurgens manè, ubi steterat priùs cum Domino,",
+      "french": "Or Abraham s'étant levé de grand matin, vint au lieu où il avait été auparavant avec le Seigneur ;",
       "annotations": null,
       "source_pages": [
         "page_0535.json"
@@ -293,17 +293,8 @@
     },
     {
       "verse_number": 33,
-      "latin": "Abiitque Dominus postquam cessavit loqui ad Abraham : et ille reversus est in locum suum.",
-      "french": "Le Seigneur se retira après qu'il eut cessé de parler à Abraham ; et Abraham retourna chez lui.",
-      "annotations": null,
-      "source_pages": [
-        "page_0514.json"
-      ]
-    },
-    {
-      "verse_number": 33,
-      "latin": "v. 33. Dederunt itaque patri suo bibere vinum nocte illa. Et ingressa est major dormivitque cum patre : at ille non sensit, nec quando accubuit filia, nec quando surrexit.",
-      "french": "v. 33. Elles donnèrent donc cette nuit-là du vin à boire à leur père, et l'aînée coucha avec lui, sans qu'il s'en aperçût, ni quand elle se coucha, ni quand elle se leva.",
+      "latin": "Dederunt itaque patri suo bibere vinum nocte illa. Et ingressa est major dormivitque cum patre : at ille non sensit, nec quando accubuit filia, nec quando surrexit.",
+      "french": "Elles donnèrent donc cette nuit-là du vin à boire à leur père, et l'aînée coucha avec lui, sans qu'il s'en aperçût, ni quand elle se coucha, ni quand elle se leva.",
       "annotations": null,
       "source_pages": [
         "page_0539.json"

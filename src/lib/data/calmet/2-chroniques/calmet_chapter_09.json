@@ -30,8 +30,8 @@
     },
     {
       "verse": 5,
-      "sub": true,
-      "latin_lemma": "& de vôtre ſageſſe.",
+      "sub": false,
+      "latin_lemma": "et de vôtre sagesse.",
       "lemma": null,
       "text": "L'Hébreu : [4] _Touchant vos discours, et votre sagesse ; ou, touchant ce qui vous regarde, et votre sagesse._"
     },
@@ -72,8 +72,8 @@
     },
     {
       "verse": 14,
-      "sub": true,
-      "latin_lemma": "quod afferebant viri qui ſuper vectigalia erant, & negotiatores, univerſique ſcruta vendentes.",
+      "sub": false,
+      "latin_lemma": "quod afferebant viri qui super vectigalia erant, et negotiatores, universique scruta vendentes.",
       "lemma": "Sans ce que rapportaient ceux qui avaient l'intendance des tributs, ( ou des péages ), les marchands, et les trafiqueurs par le menu. On pourrait traduire, à la lettre : Sans ce qu'apportaient ceux qui observent, qui fouillent, et ceux qui parcourent le pays en vendant.",
       "text": ""
     },
@@ -100,7 +100,7 @@
     },
     {
       "verse": 18,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TUR AD SOLIUM, ET SCABELLUM AUREUM.",
       "lemma": "Les six degrés par lesquels on montait au trône, et le marchepied, étaient d'or.",
       "text": "l'Hébreu  à la lettre, _Et ce trône avait six degrés, et une base d'or qui le tenait._ Les Septante :  _Et ce trône avait six degrés couverts d'or._ Je pense qu'il faut réformer l'Hébreu en cet endroit, sur celui des livres des Rois, qui est bien plus clair, et qui paraît plus correct :  _Le trône avait six degrés, et une tête en rond par derrière._ C'est-à-dire un dossier, ou une couronne en rond. Le Syriaque, et l'Arabe, _le bord du trône était rond, ou recourbé._"
@@ -154,12 +154,12 @@
     {
       "key": "page_0056-b",
       "n": 2,
-      "text": "Ita Mariana, Jun. & Tremell. Piſc."
+      "text": "Ita Mariana, Jun. et Tremell. Pisc."
     },
     {
       "key": "page_0056-c",
       "n": 3,
-      "text": "Vide 3. Reg. X. 5. & 12."
+      "text": "Vide 3. Reg. X. 5. et 12."
     },
     {
       "key": "page_0057-a",
@@ -169,12 +169,12 @@
     {
       "key": "page_0057-b",
       "n": 5,
-      "text": "1. Par. XVII. 14. _Statuam eum in domo mea, & in regno meo uſque in ſempiternum._ Et XXVIII. 5. _Elegit Salomonem, ut ſederet in throno regni Domini ſuper Iſraël._ Et xxix. II. _Tuum, Domine, regnum ; & tu es ſuper omnes principes._ Et 2. Par. II. II. & VI. 41. & XIII. 8."
+      "text": "1. Par. XVII. 14. _Statuam eum in domo mea, et in regno meo usque in sempiternum._ Et XXVIII. 5. _Elegit Salomonem, ut sederet in throno regni Domini super Israël._ Et xxix. II. _Tuum, Domine, regnum ; et tu es super omnes principes._ Et 2. Par. II. II. et VI. 41. et XIII. 8."
     },
     {
       "key": "page_0058-a",
       "n": 6,
-      "text": "Ita Vat. Jun. Malv. &c. Voyez 3. Reg. x. 12."
+      "text": "Ita Vat. Jun. Malv. etc. Voyez 3. Reg. x. 12."
     },
     {
       "key": "page_0058-b",
@@ -199,58 +199,7 @@
     {
       "key": "page_0061-c",
       "n": 11,
-      "text": "Vide 3. Reg. X. 28. & ſequ."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0055",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0056",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0057",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0058",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0059",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0060",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0061",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Vide 3. Reg. X. 28. et sequ."
     }
   ],
   "missing_footnotes": [

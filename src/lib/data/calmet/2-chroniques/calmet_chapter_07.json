@@ -90,17 +90,17 @@
     {
       "key": "page_0044-a",
       "n": 1,
-      "text": "(a) 2. Par. v. 13. 14. & VI. 1. & 3. Reg. VIII. 10."
+      "text": " 2. Par. v. 13. 14. et VI. 1. et 3. Reg. VIII. 10."
     },
     {
       "key": "page_0045-a",
       "n": 2,
-      "text": "3. Reg. VIII. 11. _Non poterant Sacerdotes ſtare, & miniſtrare, propter nebulam._"
+      "text": "3. Reg. VIII. 11. _Non poterant Sacerdotes stare, et ministrare, propter nebulam._"
     },
     {
       "key": "page_0046-a",
       "n": 3,
-      "text": "Voyez ce qu'on a dit ſur 3. Reg. VIII. I."
+      "text": "Voyez ce qu'on a dit sur 3. Reg. VIII. I."
     },
     {
       "key": "page_0047-a",
@@ -110,37 +110,7 @@
     {
       "key": "page_0047-b",
       "n": 5,
-      "text": "Vide Pſal. XXIII. 6. XXVI. 8. XCIV. 1. CIV. 4. &c. II. Livre des Paralip."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0044",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0045",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0046",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0047",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "Vide Psal. XXIII. 6. XXVI. 8. XCIV. 1. CIV. 4. etc. II. Livre des Paralip."
     }
   ],
   "missing_footnotes": []

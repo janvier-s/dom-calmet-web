@@ -6,7 +6,7 @@
     {
       "verse_number": 1,
       "latin": "Locutúsque est Dominus ad Moysen, dicens :",
-      "french": "Le Seigneur parla encore à Moyſe, et lui dit :",
+      "french": "Le Seigneur parla encore à Moyse, et lui dit :",
       "source_pages": [
         "page_0102.json"
       ]
@@ -14,7 +14,7 @@
     {
       "verse_number": 2,
       "latin": "Tolle Aaron cum filiis suis, vestes eorum, et unctionis oleum, vitulum pro peccato, duos arietes, canistrum cum azymis :",
-      "french": "Prenez Aaron avec ſes fils, leurs vêtemens, l'huile d'onction, le veau qui doit être offert pour le péché, deux béliers, et une corbeille de pains ſans levain;",
+      "french": "Prenez Aaron avec ses fils, leurs vêtemens, l'huile d'onction, le veau qui doit être offert pour le péché, deux béliers, et une corbeille de pains sans levain;",
       "source_pages": [
         "page_0102.json"
       ]
@@ -22,7 +22,7 @@
     {
       "verse_number": 3,
       "latin": "Et congregabis omnem cœtum ad ostium Tabernaculi.",
-      "french": "Et aſſemblez tout le peup'e à l'entrée du Tabernacle.",
+      "french": "Et assemblez tout le peup'e à l'entrée du Tabernacle.",
       "source_pages": [
         "page_0102.json"
       ]
@@ -322,14 +322,6 @@
       "annotations": null,
       "source_pages": [
         "page_0109.json"
-      ]
-    },
-    {
-      "verse_number": 38,
-      "latin": "Quam constituit Dominus, Moysi, in monte Sinaï, quando mandavit filiis Israël, ut offerrent oblationes suas Domino, in deserto Sinaï.",
-      "french": "Le Seigneur donna ces lois à Moyse sur la montagne de Sinaï, losrqu'il ordonna aux enfants d'Israël d'offrir leurs oblations au Seigneur dans le désert de Sinaï.",
-      "source_pages": [
-        "page_0102.json"
       ]
     }
   ]

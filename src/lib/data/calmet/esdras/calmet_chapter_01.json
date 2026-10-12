@@ -9,7 +9,7 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UT COMPLERETUR VERBUM DOMINI EX ORE JEREMIÆ.",
       "lemma": "Pour accomplir la parole qu'il avait prononcée par la bouche de Jérémie, que la Captivité ne durerait que soixante-dix ans.",
       "text": "Jérém. xxv. 12. xxix. 11."
@@ -44,7 +44,7 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ANNUMERAVIT EA SASSABASAR, PRINCIPI JUDA.",
       "lemma": "Il les donna par compte à Sassabasar, Prince de Juda.",
       "text": "On croit [13] que Sassabasar est le même que Zorobabel, fils de Salathiel, premier Prince du sang de la race de David. Joseph [14] dit qu'il était garde du corps de Darius. Zorobabel était Chef de ceux qui revinrent de la Captivité; [15] Sassabasar était revêtu de la même qualité, puisque Cyrus lui remit en main les vases sacrés du Temple. [16] De plus Zorobabel jeta les fondements du Temple : [17] _Manus Zorobabel fundaverunt domum istam_. L'Écriture en dit autant de Sassabasar. [18] Il y a donc toute apparence que Zorobabel portait parmi les Chaldéens le nom de Sassabasar, de même que Daniel y portait celui de Balthasar. Quelques Rabbins mêmes soutiennent [19] que Zorobabel est le même que Daniel : mais on n'a aucune preuve que Daniel soit jamais retourné en Judée.\nD'autres [20] soutiennent que Sassabasar était un Perse, Officier, et député du Roi Cyrus, pour établir les Juifs dans leur pays, et pour gouverner cette nouvelle Colonie. L'Écriture ne donne jamais le nom de Zorobabel à Sassabasar, ni à Zorobabel celui de Sassabasar, comme elle donne à Daniel le nom de Balthasar, et avertit plusieurs fois que ces deux noms ne signifient que la même personne. Si Sassabasar eût été Juif, on aurait donné sa généalogie en quelque endroit. Les Grecs donnent à Sassabasar, ou à Sammanasar, comme ils l'appellent, la qualité de Gouverneur, ou de Préfet de Judée. [21] On peut dire qu'il fonda le Temple, puisque ce fut sous ses yeux, et sous son gouvernement, que cet édifice fut commencé. Il est certain qu'il y eut des Gouverneurs Royaux à Jérusalem, jusqu'au temps de Néhémie; [22] et il n'est pas certain que Zorobabel ait eu ce gouvernement avant le règne de Darius, fils d'Hystaspe : car sous ce Prince, il paraît qu'il était revêtu de cette qualité. [23] Ainsi nous ne voudrions point rejeter l'opinion, qui distingue Zorobabel de Sassabasar."
@@ -58,14 +58,14 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SCYPHI AUREI TRIGINTA.",
       "lemma": "Trente tasses d'or.",
       "text": "L'Hébreu [25] signifie plutôt des patères, ou des vases où l'on recevait le sang des victimes que l'on répandait sur l'Autel, ou à la base de l'Autel. Il marque à la lettre, _un vaisseau à expier_."
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CULTRI VIGINTI NOVEM.",
       "lemma": "Vingt-neuf couteaux.",
       "text": "Le Syriaque, l'Arabe, et les Septante : [26] _Vingt-neuf habits à changer._"
@@ -142,17 +142,17 @@
     {
       "key": "page_0050-a",
       "n": 1,
-      "text": "Spinoſa tract. Theologico Polit. cap. 10. pag. 131."
+      "text": "Spinosa tract. Theologico Polit. cap. 10. pag. 131."
     },
     {
       "key": "page_0050-b",
       "n": 2,
-      "text": "Joſeph Antiq. lib. xI. cap. 1."
+      "text": "Joseph Antiq. lib. xI. cap. 1."
     },
     {
       "key": "page_0050-c",
       "n": 3,
-      "text": "Iſai. XLIV. 28. & XLV. 1. 2. & ſeq."
+      "text": "Isai. XLIV. 28. et XLV. 1. 2. et seq."
     },
     {
       "key": "page_0051-a",
@@ -167,12 +167,12 @@
     {
       "key": "page_0051-c",
       "n": 6,
-      "text": "Idem lib. 8. p. 238. Voyez auſſi Joſeph liv. 1. contre Appion."
+      "text": "Idem lib. 8. p. 238. Voyez aussi Joseph liv. 1. contre Appion."
     },
     {
       "key": "page_0051-d",
       "n": 7,
-      "text": "Dan. II 47. Verè Deus veſter Deus Deorum eſt, Dominus Regum, & revelans myſteria."
+      "text": "Dan. II 47. Verè Deus vester Deus Deorum est, Dominus Regum, et revelans mysteria."
     },
     {
       "key": "page_0052-a",
@@ -192,7 +192,7 @@
     {
       "key": "page_0053-b",
       "n": 11,
-      "text": "Le premier d'Eſdras apocryphe. Μιθριδάτης ἱερεὺς γαζοφύλακις. Et Joſeph Antiq. liv. xi. chap. 1."
+      "text": "Le premier d'Esdras apocryphe. Μιθριδάτης ἱερεὺς γαζοφύλακις. Et Joseph Antiq. liv. xi. chap. 1."
     },
     {
       "key": "page_0052-c",
@@ -202,7 +202,7 @@
     {
       "key": "page_0053-c",
       "n": 13,
-      "text": "Ita Joſeph Liran. Dionyſ. Vatab. Sa, Mart Torniel Sali. Menoch. Tir alii"
+      "text": "Ita Joseph Liran. Dionys. Vatab. Sa, Mart Torniel Sali. Menoch. Tir alii"
     },
     {
       "key": "page_0053-d",
@@ -212,12 +212,12 @@
     {
       "key": "page_0053-e",
       "n": 15,
-      "text": "1. Eſdr 2. & III. 8. & V. 2."
+      "text": "1. Esdr 2. et III. 8. et V. 2."
     },
     {
       "key": "page_0053-f",
       "n": 16,
-      "text": "1 Eſdr. I. 11."
+      "text": "1 Esdr. I. 11."
     },
     {
       "key": "page_0053-g",
@@ -227,7 +227,7 @@
     {
       "key": "page_0053-h",
       "n": 18,
-      "text": "1. Eſdr. v. 16. Tunc Saſſabaſar, ille venit & poſuit fundamenta Templi Domini in Jeruſalem."
+      "text": "1. Esdr. v. 16. Tunc Sassabasar, ille venit et posuit fundamenta Templi Domini in Jerusalem."
     },
     {
       "key": "page_0053-i",
@@ -237,17 +237,17 @@
     {
       "key": "page_0053-k",
       "n": 20,
-      "text": "Junius & alii nonnulli"
+      "text": "Junius et alii nonnulli"
     },
     {
       "key": "page_0054-a",
       "n": 21,
-      "text": "3. Eſdr. II. Πρόεδρον τῆς ἰυδαίας."
+      "text": "3. Esdr. II. Πρόεδρον τῆς ἰυδαίας."
     },
     {
       "key": "page_0054-b",
       "n": 22,
-      "text": "2. Eſdr. V. 14. 15."
+      "text": "2. Esdr. V. 14. 15."
     },
     {
       "key": "page_0054-c",
@@ -272,7 +272,7 @@
     {
       "key": "page_0054-g",
       "n": 27,
-      "text": "Ita Syr. Arab. & 70. Αργυροῖ διπλᾶ."
+      "text": "Ita Syr. Arab. et 70. Αργυροῖ διπλᾶ."
     },
     {
       "key": "page_0055-a",
@@ -287,7 +287,7 @@
     {
       "key": "page_0055-c",
       "n": 30,
-      "text": "Joſeph Antiq. lib. XI. c. 1."
+      "text": "Joseph Antiq. lib. XI. c. 1."
     },
     {
       "key": "page_0055-d",
@@ -298,57 +298,6 @@
       "key": "page_0055-e",
       "n": 32,
       "text": "κάδδοι Χρύσεοι, ι'."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0049",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0050",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0051",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0052",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0053",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0054",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0055",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": [

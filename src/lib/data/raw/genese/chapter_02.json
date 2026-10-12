@@ -95,19 +95,11 @@
     },
     {
       "verse_number": 11,
-      "latin": "Nomen uni Phison : ipse est qui circuit omnem terram Hevilath, ubi nascitur aurum.",
-      "french": "L'un s'appelle Phison : et c'est celui qui tournoie dans tout le pays d'Hevilah, où il vient de l'or.",
+      "latin": "Nomen uni Phison : ipse est qui circuit omnem terram Hevilath, ubi nascitur aurum. Et aurum terrae illius optimum est: ibi invenitur bdellium, et lapis onychinus.",
+      "french": "L'un s'appelle Phison : et c'est celui qui tournoie dans tout le pays d'Hevilah, où il vient de l'or. Et l'or de cette Terre est excellent ; c'est aussi là que l'on trouve le bdellium et la pierre d'onyx.",
       "annotations": null,
       "source_pages": [
-        "page_0155.json"
-      ]
-    },
-    {
-      "verse_number": 11,
-      "latin": "Et aurum terrae illius optimum est: ibi invenitur bdellium, et lapis onychinus.",
-      "french": "Et l'or de cette Terre est excellent ; c'est aussi là que l'on trouve le bdellium et la pierre d'onyx.",
-      "annotations": null,
-      "source_pages": [
+        "page_0155.json",
         "page_0158.json"
       ]
     },

@@ -24,7 +24,7 @@
     {
       "verse": 7,
       "sub": false,
-      "latin_lemma": "MIRACULUM MEUM NON TE TERREAT, ET ELOQUENTIA MEA, &c.",
+      "latin_lemma": "MIRACULUM MEUM NON TE TERREAT, ET ELOQUENTIA MEA, etc.",
       "lemma": "Vous ne verrez rien de merveilleux en moi qui vous épouvante, et vous n'y trouverez point une éloquence qui vous accable.",
       "text": "L'Hébreu : [6] Ma frayeur ne vous troublera point, et ma main ne s'appesantira pas sur vous. Eliu fait allusion à ce que Job avait dit : [7] Que le Seigneur retire sa verge de dessus moi, et que sa frayeur ne m'épouvante plus."
     },
@@ -38,7 +38,7 @@
     {
       "verse": 10,
       "sub": false,
-      "latin_lemma": "QUIA QUERELAS IN ME REPERIT, &c.",
+      "latin_lemma": "QUIA QUERELAS IN ME REPERIT, etc.",
       "lemma": "Dieu a cherché des sujets de plaintes contre moi; il m'a regardé comme son ennemi.",
       "text": "C'est ce qu'Eliu accuse Job d'avoir prononcé. Et en effet Job semblait avoir dit quelque chose d'approchant :[14] _Vous avez scellé tous mes péchés comme dans une bourse, et vous vous êtes appliqué à m'observer, à examiner toutes mes démarches_. Et ailleurs :[15] _Vous êtes devenu comme un ennemi cruel envers moi, et vous vous opposez à moi par la sévérité de votre main_. Et encore :[16] _Sa colère s'est enflammée contre moi; il m'a traité comme son ennemi_. Et :[17] _Pourquoi détournez-vous de moi votre visage, et me regardez-vous comme un ennemi ?_ Mais cela ne voulait pas dire, comme le prétend Eliu, que Job accusât Dieu d'avoir cherché de vains prétextes de rupture avec lui, et d'avoir observé ses moindres démarches; d'avoir tenu registre de ses faux pas, dans le dessein de lui en faire un jour porter toute la peine. C'aurait été imputer à Dieu une conduite indigne de sa clémence, et de sa grandeur. Eliu devait interpréter charitablement les discours de son ami, et croire que quand il se plaint de la sévérité de Dieu, il ne fait attention qu'à la grandeur de ses peines, et qu'il s'étonne que Dieu le traite comme il a accoutumé de traiter ses ennemis, quoique fort persuadé que Dieu ne l'affligeait que pour éprouver sa patience, et pour couronner son mérite. Job s'était expliqué si souvent, et si clairement sur cela, qu'on ne pouvait pas douter de ses véritables sentiments. On peut aussi traduire: _Il a recherché dans mes plaintes de quoi me condamner._ En effet Job avait marqué dans ses plaintes une vivacité, qui pouvait être interprétée en mauvaise part. Il s’était plaint de la rigueur de Dieu ; il avait déploré son malheur d’une manière qui avait besoin d’une interprétation bénigne."
     },
@@ -95,7 +95,7 @@
       "verse": 18,
       "sub": false,
       "latin_lemma": "ERUENS ANIMAM EJUS A CORRUPTIONE.",
-      "lemma": "Pour tirer son âme de la corruption; pour le garantir de la mort, et du tombeau; ou pour empêcher que par ses crimes, il ne s'attire des maux, et des supplices.",
+      "lemma": "_Pour tirer son âme de la corruption_; pour le garantir de la mort, et du tombeau; ou pour empêcher que par ses crimes, il ne s'attire des maux, et des supplices.",
       "text": ""
     },
     {
@@ -152,7 +152,7 @@
       "sub": false,
       "latin_lemma": "TRIBUS VICIBUS PER SINGULOS.",
       "lemma": "Dieu fait toutes ces choses trois fois en chacun des hommes.",
-      "text": "Il les éprouve, comme on l'a dit, en trois manières différentes. 1°. Par des songes, et des révélations immédiates. 2°. Par des maladies. 3°. Par les inspirations, les conseils, et l'intercession des Anges, ou des gens de bien, et des personnes remplies de son Esprit. Dieu nous rappelle à lui par l'une de ces trois voies. Le nombre de _trois fois_, peut aussi marquer plusieurs fois. Dieu emploie souvent ces moyens, pour nous faire revenir à lui."
+      "text": "Il les éprouve, comme on l'a dit, en trois manières différentes. \n1°. Par des songes, et des révélations immédiates. \n2°. Par des maladies. \n3°. Par les inspirations, les conseils, et l'intercession des Anges, ou des gens de bien, et des personnes remplies de son Esprit. Dieu nous rappelle à lui par l'une de ces trois voies. Le nombre de _trois fois_, peut aussi marquer plusieurs fois. Dieu emploie souvent ces moyens, pour nous faire revenir à lui."
     },
     {
       "verse": 30,
@@ -217,7 +217,7 @@
       "verse": 29,
       "mode": "flow",
       "before": "Il les éprouve, comme on",
-      "after": "l'a dit, en trois manières différentes. 1°. Par des songes"
+      "after": "l'a dit, en trois manières différentes. \n1°. Par des songe"
     }
   ],
   "pages_used": [
@@ -242,7 +242,7 @@
     {
       "key": "page_0392-b",
       "n": 2,
-      "text": "Voyez ci-devant Job XIII. 21. _Manum tuam longè fac à me, & formido tua non me terreat._"
+      "text": "Voyez ci-devant Job XIII. 21. _Manum tuam longè fac à me, et formido tua non me terreat._"
     },
     {
       "key": "page_0392-c",
@@ -287,7 +287,7 @@
     {
       "key": "page_0393-h",
       "n": 11,
-      "text": "Job. XXXI. 6. 7. & sequ."
+      "text": "Job. XXXI. 6. 7. et sequ."
     },
     {
       "key": "page_0394-a",
@@ -327,12 +327,12 @@
     {
       "key": "page_0395-b",
       "n": 19,
-      "text": "Voyez Chap. X. 2. 3. XIII. 13. 24. &c."
+      "text": "Voyez Chap. X. 2. 3. XIII. 13. 24. etc."
     },
     {
       "key": "page_0396-a",
       "n": 20,
-      "text": "Λέγεις δὲ : διὰτί τῆς δίκης μου οὐκ ἐισήκουσέ μου πᾶν ῥῆμα ; Complut. Διατὶ τῆς δίκης μου, &c."
+      "text": "Λέγεις δὲ : διὰτί τῆς δίκης μου οὐκ ἐισήκουσέ μου πᾶν ῥῆμα ; Complut. Διατὶ τῆς δίκης μου, etc."
     },
     {
       "key": "page_0396-b",
@@ -347,7 +347,7 @@
     {
       "key": "page_0396-d",
       "n": 23,
-      "text": "Beda. Philipp. Pſeudo Ieronym Caiet. Sanct."
+      "text": "Beda. Philipp. Pseudo Ieronym Caiet. Sanct."
     },
     {
       "key": "page_0396-e",
@@ -367,12 +367,12 @@
     {
       "key": "page_0396-h",
       "n": 27,
-      "text": "℣. 19. & ſequ."
+      "text": "℣. 19. et sequ."
     },
     {
       "key": "page_0396-i",
       "n": 28,
-      "text": "℣. 24. & ſequ."
+      "text": "℣. 24. et sequ."
     },
     {
       "key": "page_0397-a",
@@ -382,7 +382,7 @@
     {
       "key": "page_0397-b",
       "n": 30,
-      "text": "_Plin. lib. 33. cap. 1. Conditas arcis veſtes . . . . . & colligatas nodis, non annulis notâ._"
+      "text": "_Plin. lib. 33. cap. 1. Conditas arcis vestes . . . . . et colligatas nodis, non annulis notâ._"
     },
     {
       "key": "page_0397-c",
@@ -422,27 +422,27 @@
     {
       "key": "page_0399-b",
       "n": 38,
-      "text": "_Thom. Beda, Pſeudo-Ieronym. Mercer. Pined. Grot. Sculter. Marian. Tir._"
+      "text": "_Thom. Beda, Pseudo-Ieronym. Mercer. Pined. Grot. Sculter. Marian. Tir._"
     },
     {
       "key": "page_0399-c",
       "n": 39,
-      "text": "_Codurc. Stunic. Munſt. Scult. Marian. Piſc. alii._"
+      "text": "_Codurc. Stunic. Munst. Scult. Marian. Pisc. alii._"
     },
     {
       "key": "page_0399-d",
       "n": 40,
-      "text": "_Vide Agg._ I. 13. & _Malach._ III. 1. _Vide Judic._ II. 1. ℣. 23."
+      "text": "_Vide Agg._ I. 13. et _Malach._ III. 1. _Vide Judic._ II. 1. ℣. 23."
     },
     {
       "key": "page_0399-e",
       "n": 41,
-      "text": "אם יש עליו מלאך מליץ אחד מני אלף להגיד לאדם ישרו מליץ ſignifie un Interpréte, _Géneſe_ XLII. 23. un Ambaſſadeur. 2. _Par._ XXXII. 31. & un Prophéte _Iſai._ XLIII. 27."
+      "text": "אם יש עליו מלאך מליץ אחד מני אלף להגיד לאדם ישרו מליץ signifie un Interpréte, _Génese_ XLII. 23. un Ambassadeur. 2. _Par._ XXXII. 31. et un Prophéte _Isai._ XLIII. 27."
     },
     {
       "key": "page_0400-a",
       "n": 42,
-      "text": "Ἐὰν ὦσι χίλιοι Ἄγγελοι θανατοφόροι αὐτὸν, ἰς ἐξ αὐτῶν τῆ καρδία ἐπισραφῆναι πρὸς οιον Voyez auſſi le Chap. XXXVI. 14. où il le de ces Anges de mort. Il en eſt fait mention dans l'Hébreu. Prov. XVIII. 11. & Pſal. XXIX. 5, 6. & LXXVII. 49."
+      "text": "Ἐὰν ὦσι χίλιοι Ἄγγελοι θανατοφόροι αὐτὸν, ἰς ἐξ αὐτῶν τῆ καρδία ἐπισραφῆναι πρὸς οιον Voyez aussi le Chap. XXXVI. 14. où il le de ces Anges de mort. Il en est fait mention dans l'Hébreu. Prov. XVIII. 11. et Psal. XXIX. 5, 6. et LXXVII. 49."
     },
     {
       "key": "page_0400-b",
@@ -457,7 +457,7 @@
     {
       "key": "page_0401-b",
       "n": 45,
-      "text": "4. Reg. v. 14. _Reſtituta eſt caro ejus, ſicut caro pueri parvuli._"
+      "text": "4. Reg. v. 14. _Restituta est caro ejus, sicut caro pueri parvuli._"
     },
     {
       "key": "page_0401-c",
@@ -468,85 +468,6 @@
       "key": "page_0401-d",
       "n": 47,
       "text": "Εἰσελεύσεται πρόσωπον ἱλαρὸν σὺν ἐξομολογήσει, ἀποδώσει δὲ ἀνθρώποις δικαιοσύνην."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0392",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0393",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0394",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0395",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0396",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0397",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0398",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0399",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0400",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0401",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0402",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

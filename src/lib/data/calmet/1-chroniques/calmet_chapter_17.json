@@ -23,7 +23,7 @@
     },
     {
       "verse": 9,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "NEC FILII INIQUITATIS ATTERENT EOS SICUT A PRINCIPIO.",
       "lemma": "Et les enfants d'iniquité ne l'affligeront plus, comme ils ont fait auparavant.",
       "text": "Les Égyptiens ne réduiront plus les Israélites en servitude, comme ils ont fait par ci-devant. Mon peuple est dans un pays heureux, où il demeurera aussi longtemps, qu'il se conservera dans la fidélité qu'il me doit; je ne permettrai plus qu'il soit assujetti à ses ennemis, comme du passé. Toutes ces promesses étaient conditionnelles. Les Hébreux n’ayant point satisfait à leur devoir, Dieu n’a pas cru devoir exécuter envers eux les promesses qu’il leur avait faites ; il les abandonna successivement aux Assyriens, aux Chaldéens, aux Grecs, aux Romains."
@@ -131,7 +131,7 @@
     {
       "key": "page_0222-a",
       "n": 3,
-      "text": "ותראני כתור האדם המעלה יהוה אלהי. _Et tu vidiſti me in legem ſive ordinem, &c._ C'eſt-à-dire, _ſublato velo & Deo._"
+      "text": "ותראני כתור האדם המעלה יהוה אלהי. _Et tu vidisti me in legem sive ordinem, etc._ C'est-à-dire, _sublato velo et Deo._"
     },
     {
       "key": "page_0222-b",
@@ -141,17 +141,17 @@
     {
       "key": "page_0222-c",
       "n": 5,
-      "text": "2. _Reg._ VII. 19. _Iſta enim eſt lex Adam, Domine Deus,... Hebr._ וזאת תורת האדם אדני יהוה"
+      "text": "2. _Reg._ VII. 19. _Ista enim est lex Adam, Domine Deus,... Hebr._ וזאת תורת האדם אדני יהוה"
     },
     {
       "key": "page_0223-a",
       "n": 6,
-      "text": "Pſal. CXLIII. 3."
+      "text": "Psal. CXLIII. 3."
     },
     {
       "key": "page_0223-b",
       "n": 7,
-      "text": "2. Reg. VII. 21. _Propter verbum tuum_, & ſecundum cor tuum, _feciſti omnia magna hæc, ita ut notum faceres ſervo tuo._"
+      "text": "2. Reg. VII. 21. _Propter verbum tuum_, et secundum cor tuum, _fecisti omnia magna hæc, ita ut notum faceres servo tuo._"
     },
     {
       "key": "page_0224-a",
@@ -166,7 +166,7 @@
     {
       "key": "page_0224-c",
       "n": 10,
-      "text": "2. Reg. VII. 27. _Propterea invenit ſervus tuus cor ſuum, ut oraret_, &c."
+      "text": "2. Reg. VII. 27. _Propterea invenit servus tuus cor suum, ut oraret_, etc."
     },
     {
       "key": "page_0225-a",
@@ -177,57 +177,6 @@
       "key": "page_0225-b",
       "n": 12,
       "text": "νῦν ἄρξαι τὸ εὐλογῆσαι τὸν οἶκον τοῦ δούλου σου."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0219",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0220",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0221",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0222",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0223",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0224",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0225",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

@@ -346,14 +346,6 @@
     },
     {
       "verse_number": 39,
-      "latin": "Quas cum viderint, recordentur omnium mandatorum Domini, nec sequantur cogitationes suas, et oculos per res varias fornicantes;",
-      "french": "Afin que les voyant ils se souviennent de tous les commandements du Seigneur; qu'ils ne se laissent point aller à leur pensée, et à l'égarement de leurs yeux, qui se prostituent à divers objets;",
-      "source_pages": [
-        "page_0195.json"
-      ]
-    },
-    {
-      "verse_number": 39,
       "latin": "Tuli ergo Eleazar Sacerdos thuribula ænea, in quibus obtulerant hi quos incendium devoravit, et produxit ea in laminas, affigens altari:",
       "french": "Le Prêtre Éléazar ayant donc pris les encensoirs d'airain, dans lesquels ceux qui avaient été consumés par l'incendie avaient offert de l'encens, il les réduisit en lames, et les attacha à l'Autel ;",
       "annotations": null,
@@ -363,27 +355,11 @@
     },
     {
       "verse_number": 40,
-      "latin": "Sed magis memores praeceptorum Domini faciant ea, sintque sancti Deo suo.",
-      "french": "Mais plutôt qu'ils se souviennent des commandements du Seigneur; qu'ils les accomplissent, et qu'ils se conservent saints et purs pour leur Dieu.",
-      "source_pages": [
-        "page_0195.json"
-      ]
-    },
-    {
-      "verse_number": 40,
       "latin": "Ut haberent postea filii Israël, quibus commonerentur, ne quis accedat alienigena, et qui non est de semine Aaron, ad offerendum incensum Domino, ne patiatur sicut passus est Core, et omnis congregatio ejus, loquente Domino ad Moysen.",
       "french": "Afin que les enfants d'Israël eussent à l'avenir un signe qui les avertît, que nul étranger, ni de ceux qui ne sont pas de la race d'Aaron, ne s'approche pour offrir de l'encens au Seigneur ; de peur qu'il ne souffre la même peine qu'a souffert Coré et toute sa troupe, selon la parole du Seigneur à Moïse.",
       "annotations": null,
       "source_pages": [
         "page_0207.json"
-      ]
-    },
-    {
-      "verse_number": 41,
-      "latin": "Ego Dominus Deus vester, qui eduxi vos de Terra Aegypti, ut essem Deus vester.",
-      "french": "Je suis le Seigneur votre Dieu, qui vous ai tirés de l'Égypte, afin que je fusse votre Dieu.",
-      "source_pages": [
-        "page_0195.json"
       ]
     },
     {
@@ -438,6 +414,42 @@
       "annotations": null,
       "source_pages": [
         "page_0208.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Quod cùm fecisset Aaron, et cucurrisset ad mediam multitudinem, quam jam vastabat incendium, obtulit thymiama:",
+      "french": "Aaron ayant fait ce que Moïse lui avait commandé, courut au milieu du peuple que le feu commençait à embraser, et il offrit de l'encens ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Et stans inter mortuos ac viventes, pro populo deprecatus est, et plaga cessavit.",
+      "french": "Et s'étant mis entre les morts et les vivants, il pria pour le peuple, et la plaie cessa.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Fuerunt autem qui percussi sunt, quatuordecim millia hominum, et septingenti, absque his qui perierant in seditione Core.",
+      "french": "Le nombre de ceux qui furent frappés de cette plaie, fut de quatorze mille sept cents hommes, sans ceux qui étaient péris dans la sédition de Coré.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Reversusque est Aaron ad Moysen ad ostium tabernaculi fœderis, postquàm quivit interitus.",
+      "french": "Et Aaron revint trouver Moïse à l'entrée du Tabernacle de l'Alliance, après que Dieu eût cessé de les frapper de mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
       ]
     }
   ]

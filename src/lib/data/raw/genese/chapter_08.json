@@ -194,29 +194,12 @@
     },
     {
       "verse_number": 22,
-      "latin": "Cunctis diebus terrae, sementis et messis, frigus et aestus, aestas et hiems, et dies non requiescent.",
-      "french": "On verra toujours les semailles et la moisson, le froid et le chaud, l'Été et l'Hiver, la nuit et le jour se succéderont l'un à l'autre tout le temps que la terre subsistera.",
+      "latin": "Cunctis diebus terrae, sementis et messis, frigus et aestus, aestas et hiems, et dies non requiescent. Cunctis diebus terræ, sementis et messis, frigus et æstus, æstas et hiems, et dies non requiescent.",
+      "french": "On verra toujours les semailles et la moisson, le froid et le chaud, l'Été et l'Hiver, la nuit et le jour se succéderont l'un à l'autre tout le temps que la terre subsistera. On verra toujours les semailles et la moisson, le froid et le chaud, l'Été et l'Hiver, la nuit et le jour se succéderont l'un à l'autre tout le temps que la terre subsistera.",
       "annotations": null,
       "source_pages": [
-        "page_0300.json"
-      ]
-    },
-    {
-      "verse_number": 22,
-      "latin": "Cunctis diebus terræ, sementis et messis, frigus et æstus, æstas et hiems, et dies non requiescent.",
-      "french": "On verra toujours les semailles et la moisson, le froid et le chaud, l'Été et l'Hiver, la nuit et le jour se succéderont l'un à l'autre tout le temps que la terre subsistera.",
-      "annotations": null,
-      "source_pages": [
+        "page_0300.json",
         "page_0301.json"
-      ]
-    },
-    {
-      "verse_number": 24,
-      "latin": "Obtinueruntque aquae terram centum quinquaginta diebus.",
-      "french": "Et les eaux couvrirent toute la terre pendant cent cinquante jours.",
-      "annotations": null,
-      "source_pages": [
-        "page_0291.json"
       ]
     }
   ]

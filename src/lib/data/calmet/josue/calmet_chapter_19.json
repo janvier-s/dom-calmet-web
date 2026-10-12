@@ -9,14 +9,14 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BERSABE'E.",
       "lemma": null,
       "text": "Voyez ci-devant chap. xv. 27. C'est la même qui est nommée _Sabée_ immédiatement après ; si c'était deux villes, il faudrait en compter quatorze au lieu de treize au ℣. 6. _Bersabée_ signifie _le puits de sept_, ou _le puits du jurement_. [8] On a pu en séparer le mot de _Béer_, qui signifie _le puits_, et la nommer simplement _Sabée_. Junius veut que _Sabée_, ou _Schebeah_, soit la même que Schemah, Josué xv. 26. et Thocem, 1. Par. iv. 32. Grotius remarque aussi que les Septante ont lu ici _Schama_, au lieu de _Scheba_, ou _Sabé_."
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MOLADA.",
       "lemma": null,
       "text": "Voyez Josué xv. 25."
@@ -30,7 +30,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ASEM.",
       "lemma": null,
       "text": "Nous croyons que c'est la même qu'Asemona, Josué xv. 4. et Num. XXXIV. 4. 5."
@@ -44,14 +44,14 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BETHUL.",
       "lemma": null,
       "text": "Elle est nommée Bathuël, I. Par. iv. 3. On examinera ailleurs si c'est la même que Béthulie de Judith. On met une Béthulie en Galilée, à une lieue de Tibériade ; [9] le sentiment commun veut que ce soit cette dernière où Holofernes fut tué. Mais il y a de bons Géographes [10] qui soutiennent que cette Béthulie de Galilée ne fut jamais, et qu'on n'en peut prouver l'existence par aucun monument ancien. L'histoire de Judith n'assure pas positivement qu'elle ait été en Galilée."
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "HARMA.",
       "lemma": null,
       "text": "C'est la même que Horma, dont on a parlé ci-devant, Josué xv. 31."
@@ -65,14 +65,14 @@
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BETH-MARCHABOTH.",
       "lemma": null,
       "text": "Ou plutôt _Beth-hammarchaboth_, la ville des Chariots ; on n'en sait pas la situation."
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ASER-SUSA.",
       "lemma": null,
       "text": "Elle est nommée dans les Paralipomènes, [11] _Hasersusim_, la ville des _chevaux_. _Haser-susa_, la ville de la _jument_. C'était apparemment dans ces villes qu'on amenait les chevaux que Salomon achetait dans l'Égypte. [12]"
@@ -86,31 +86,38 @@
     },
     {
       "verse": 6,
-      "sub": true,
-      "latin_lemma": "AIN & REMMON.",
+      "sub": false,
+      "latin_lemma": "AIN et REMMON.",
       "lemma": null,
       "text": "L’Hébreu, _Ain-Remmon_. Voyez ce qu’on a dit ci-devant. [14]"
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ATHAR.",
       "lemma": null,
       "text": "Elle est nommée Ether, Josué xv. 42."
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ASAN.",
       "lemma": null,
       "text": "Voyez le même endroit de Josué."
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CIVITATES TREDECIM.",
       "lemma": "Treize villes.",
       "text": "On en compte quatorze dans les versets précédents. Mais nous avons remarqué sur le ℣. 2. que Sabée était la même que Bersabée ; ceux qui ne sont point de cet avis, peuvent employer ici les solutions qu'on a données ci-devant sur le chap. XV. ℣. 62."
+    },
+    {
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": "BETSAMES.",
+      "lemma": null,
+      "text": "On connaît plusieurs villes de ce nom ; il y en a une dans Juda, et une autre dans Nephtalim. La situation de celle-ci nous est inconnue. Bethsamés signifie, _la demeure du soleil_."
     },
     {
       "verse": 7,
@@ -156,14 +163,14 @@
     },
     {
       "verse": 15,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BETHLEHEM.",
       "lemma": null,
-      "text": "Fort différente de celle de Juda, si connue par la naissance de JÉSUS-CHRIST."
+      "text": "Fort différente de celle de Juda, si connue par la naissance de Jésus-Christ."
     },
     {
       "verse": 15,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CIVITATES DUODECIM.",
       "lemma": "Douze villes.",
       "text": "Il en a nommé dix-neuf. Mais il y en a parmi celles-là qui étaient aux tribus voisines, et qui ne sont appelées ici que pour fixer les limites de cette tribu, contre celles d’une autre. On a déjà remarqué ailleurs que ces dénombrements ne sont point toujours exacts et complets ; et on sait certainement que Zabulon possédait d’autres villes, qui ne sont point marquées ici. On peut voir ce qu’on a dit sur Josué, chap. xv. ℣. 62."
@@ -184,14 +191,14 @@
     },
     {
       "verse": 18,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CASALOTH.",
       "lemma": null,
       "text": "Voyez le ℣. 12. de ce chapitre."
     },
     {
       "verse": 18,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SUNEM, ou Sunam.",
       "lemma": null,
       "text": "Lieu connu, parce que le Prophète Élisée avait accoutumé d'y loger chez une femme pieuse, dont il ressuscita le fils. Sunam était située, selon Eusèbe et S. Jérôme, à cinq mille pas du mont Thabor du côté du midi. Les Philistins s'étaient campés à Sunam, [27] dans cette malheureuse journée où Saül et Jonathas furent tués, et où tout Israël fut dissipé sur les monts de Gelboë."
@@ -205,14 +212,14 @@
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SEON,",
       "lemma": null,
       "text": "près du mont Thabor."
     },
     {
       "verse": 19,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ANAHARATH, RABBOTH, CESION, ABES.",
       "lemma": null,
       "text": "On n'en sait autre chose, sinon qu'elles sont de la tribu d'Issachar. Césion pourrait être la même que Cadés d'Issachar dont il est parlé, I. Par. VII. 32."
@@ -226,14 +233,14 @@
     },
     {
       "verse": 21,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EN-GANNIM.",
       "lemma": null,
       "text": "Ville destinée aux Lévites dans la tribu d'Issachar. [29] Elle est nommée Enam dans les Paralipomènes. [30]"
     },
     {
       "verse": 21,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EN-ADDA.",
       "lemma": null,
       "text": "Ce ne peut être la ville de ce nom entre Jérusalem et Éleuthéropolis, à dix milles de cette dernière."
@@ -244,13 +251,6 @@
       "latin_lemma": "THABOR.",
       "lemma": null,
       "text": "Ville située au pied, ou au haut de la fameuse montagne de ce nom sur le torrent de Cisson. Voyez ci-après Judic. IV."
-    },
-    {
-      "verse": 6,
-      "sub": false,
-      "latin_lemma": "BETSAMES.",
-      "lemma": null,
-      "text": "On connaît plusieurs villes de ce nom ; il y en a une dans Juda, et une autre dans Nephtalim. La situation de celle-ci nous est inconnue. Bethsamés signifie, _la demeure du soleil_."
     },
     {
       "verse": 25,
@@ -268,7 +268,7 @@
     },
     {
       "verse": 26,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SIHOR ET LABANATH.",
       "lemma": null,
       "text": "Quelques-uns croient que ce n'est qu'un même lieu, ou qu'un même ruisseau. L'Hébreu lit sans conjonction _sihor-Lébana_. Nous sommes persuadés que c'était un ruisseau près du Promontoire Blanc, dont parle Pline, et qu'il place entre Ecdippe et Tyr. Nous avons déjà montré ailleurs que _sihor_ était un nom de fleuve ou de rivière, et qu'il signifie _trouble_. _Labanath_ signifie _blanc_."
@@ -278,25 +278,25 @@
       "sub": false,
       "latin_lemma": "BETH-DAGON.",
       "lemma": null,
-      "text": "Elle est différente d'un autre lieu de même nom. dans la tribu de Juda. [45] Ce nom signifie la demeure de Dagon, ou du poisson, ou le Temple de Dagon."
+      "text": "Elle est différente d'un autre lieu de même nom dans la tribu de Juda. [45] Ce nom signifie la demeure de Dagon, ou du poisson, ou le Temple de Dagon."
     },
     {
       "verse": 27,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ZABULON.",
       "lemma": null,
       "text": "C'est une ville forte de Galilée qui prend son nom de la tribu de Zabulon. Josèphe [46] dit qu'elle sépare Ptolémaïde de la Judée."
     },
     {
       "verse": 27,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VALLEM JEPHTAEL.",
       "lemma": null,
       "text": "La ville de Jephtael était entre les tribus de Zabulon et d'Aser ; [47] apparemment entre Ptolémaïde et le mont Carmel."
     },
     {
       "verse": 27,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EGREDITUR AD LÆVAM CABUL.",
       "lemma": "Elle s'étendait à la gauche de Cabul.",
       "text": "C'est-à-dire au septentrion de cette ville ; car la gauche, en matière de lieux, signifie le septentrion. Il y a quelque difficulté ici sur le nom de Cabul. Il y en a [48] qui croient que c'est ce canton où étaient situées vingt villes que Salomon donna à Hiram, roi de Tyr. Hiram, ne les trouvant pas à son gré, les nomma la terre de Cabul. [49] D'autres [50] prétendent qu'il s'agit ici d'un lieu nommé Chabul, dont Josèphe a parlé dans le livre de sa Vie, sous le nom du village de Chabolo ; [51] et il dit ailleurs [52] que la basse Galilée s'étend depuis Tibériade jusqu'à Chabulon, située sur la mer et voisine de Ptolémaïde."
@@ -310,21 +310,21 @@
     },
     {
       "verse": 28,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ROHOB.",
       "lemma": null,
       "text": "On lit encore ci-après, [54] une ville de même nom dans la même tribu. Ces deux villes étaient, je pense, l'une à l'orient, et l'autre au septentrion de la tribu d'Aser ; supposé pourtant que ce soient deux villes ; car il n'est pas sans exemple de voir des répétitions dans ces catalogues. J'aimerais mieux ne reconnaître qu'une ville de Rohob, laquelle fut assignée aux Lévites, [55] mais dont la tribu d'Aser ne put chasser les Cananéens. [56] La ville de Rohob, dont il est parlé dans les Nombres, [57] était la même dont il est parlé ici : Moïse nous fait comprendre qu'elle était à l'extrémité septentrionale du pays de Canaan, et vers l'entrée d'Emath."
     },
     {
       "verse": 28,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "HAMON.",
       "lemma": null,
-      "text": "Je pense que cette ville était simplement sur les frontières mais non pas dans le partage d'Aser ; elle était à Nephtali, et fut cédée aux Lévites. [58] On la trouve aussi sous le nom d'Ammot-Dor dans Josué. [59]"
+      "text": "Je pense que cette ville était simplement sur les frontières, mais non pas dans le partage d'Aser ; elle était à Nephtali, et fut cédée aux Lévites. [58] On la trouve aussi sous le nom d'Ammot-Dor dans Josué. [59]"
     },
     {
       "verse": 28,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CANA.",
       "lemma": null,
       "text": "Eusèbe et saint Jérôme semblent croire que c'est dans cette ville que Jésus-Christ changea l'eau en vin. [60] Il y en a qui veulent que saint Jérôme distingue deux Cana : la grande et la petite ; mais je ne vois point cette distinction dans son texte ; [61] ce saint n'y parle que de _Sidon la grande_, et il dit : _Qu'elle est surnommée la grande, pour la distinguer d'une autre ville de même nom, mais moins grande_ ; ni Josèphe, ni aucun historien ne fait mention de cette prétendue Cana la grande ; mais Cana de Galilée, connue dans l'Évangile, qui était la patrie de Siméon et de Nathanaël, est célèbre. Josèphe [62] en parle en plus d'un endroit ; il dit qu'il était à Cana, grand bourg de la Galilée, lorsqu'il apprit la révolte de ceux de Tibériade, et qu'étant parti sur-le-champ, accompagné de deux cents hommes, il marcha toute la nuit, et arriva le lendemain matin à Tibériade ; ce qui fait juger que Cana était environ à huit lieues de Tibériade vers l'occident. J'avoue pourtant que si les villes que nous lisons dans ce verset vont du midi au septentrion, ou de l'orient au couchant, en s'avançant successivement et de plus en plus vers Sidon, il faut reconnaître une autre Cana plus près de Sidon, mais qui nous est absolument inconnue."
@@ -338,7 +338,7 @@
     },
     {
       "verse": 29,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ERUNT EXITUS EJUS IN MARE DE FUNICULO ACHZIBA.",
       "lemma": "Se terminait à la mer, vers Achzib.",
       "text": "On a vu une ville de ce nom ci-devant, Josué xv. 44. Celle-ci est la ville d'Ecdippe sur la Méditerranée, entre Ptolémaïde et Tyr, à neuf milles de Ptolémaïde. Pline, [89] Ptolémée, et Josèphe parlent de la ville d'Ecdippe, qui est au midi de Tyr. La mer dans ce passage, comme dans beaucoup d'autres, signifie l'Occident."
@@ -352,21 +352,21 @@
     },
     {
       "verse": 30,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "APHEC,",
       "lemma": null,
       "text": "C'est selon toutes les apparences la ville d'Aphec dans la Célésyrie au-delà de l'Antiliban ; on joint _Aphec_ avec _Rohob_, qui était dans l'Antiliban, ou au pied de cette montagne, dans un défilé qui conduisait dans la Célésyrie ; il est remarqué dans le Livre des Juges [91] que la tribu d'Aser ne put chasser les Cananéens d'Aphec, ni de Rohob ; enfin nous voyons dans les Livres des Rois, [92] que c'était ordinairement à Aphec que les Rois de Syrie assemblaient leurs armées pour entrer dans les terres d'Israël. Les Profanes nous parlent d'_Aphaca_, située entre Héliopolis et Biblus. [93] Près de cette ville dans un endroit écarté du mont Liban, [94] on voyait le temple de Vénus Aphachitis. On croit que c'est cette Déesse que Macrobe [95] décrit sous le nom de"
     },
     {
       "verse": 30,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "Venus Architis,",
       "lemma": "dans l'Assyrie, ou plutôt dans la Syrie, qui était possédée par les Phéniciens.",
       "text": "Cette Déesse était représentée la tête couverte, avec un air triste, et soutenant sa tête avec sa main gauche cachée sous son voile. Les peuples superstitieux s'imaginaient voir couler les larmes de ses yeux."
     },
     {
       "verse": 30,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CIVITATES VIGINTI DUÆ.",
       "lemma": "Vingt-deux villes.",
       "text": "En comptant toutes les villes qui sont marquées dans les cinq versets précédents, il s'en trouve jusqu'à vingt-huit, et quand on en ôterait Carmel, et la vallée de Jestaël, il en restera encore vingt-six. Enfin quand on en exclura Sidon et Tyr, il y en aura encore trop. On peut employer en cet endroit la solution que nous avons apportée sur le chap. xv. après le ℣. 62. Ces dénombrements ne sont pas tout à fait précis ; on suit simplement les frontières du pays, sans s'engager à donner une liste exacte de toutes les villes ; on en trouve dans d'autres endroits quelques-unes qui ne sont pas ici ; par exemple la ville d'Abdon, qui fut donnée aux Lévites. Enfin il y en a ici qui sont simplement sur les limites d'Aser, mais qui ne sont pas à la tribu."
@@ -380,21 +380,21 @@
     },
     {
       "verse": 33,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET ELON IN SAANNANIM.",
       "lemma": "Et Elon en Saannanim.",
       "text": "L'Hébreu, [96] _d'Elon dans Saannanim._ On ne connaît point de villes de ce nom ; mais on conjecture que _Saannanim_ sont un nom de peuples dans les environs du Liban. On pourrait traduire : _Depuis le bois_, ou _la prairie qui est à Sannanim_, ou _dans le canton des Zahananim._"
     },
     {
       "verse": 33,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ADAMI QUÆ EST NECEB.",
       "lemma": "Adami qui est aussi nommée Neceb.",
       "text": "D'autres traduisent l'hébreu, [97] _Adami de Neceb_, ou _du fossé_, ou _Adami la percée._"
     },
     {
       "verse": 33,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AZANOTH-THABOR,",
       "lemma": "ou simplement Azanoth.",
       "text": "C'était une ville dans la campagne voisine de Diocésarée, ou de Séphoris."
@@ -429,14 +429,14 @@
     },
     {
       "verse": 36,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EDRAI.",
       "lemma": null,
       "text": "L'on a vu une ville d'Edraï au-delà du Jourdain dans les États du Roi Og. Celle-ci en était fort différente, mais on ne nous en apprend pas la situation."
     },
     {
       "verse": 36,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EN-HASOR,",
       "lemma": null,
       "text": "ou la fontaine d'Asor. C'est apparemment la fontaine de Daphné qui tombait dans le lac Séméchon, près de la ville d'Asor. Josèphe nous décrit ce lieu comme un des plus délicieux du pays, à cause des fontaines et des arbres qui y sont, et qui lui ont fait donner le nom de _fontaine de Daphné_, ou du Laurier, peut-être par imitation du délicieux Faubourg de Daphné près d'Antioche."
@@ -450,14 +450,14 @@
     },
     {
       "verse": 38,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BETHSAMES,",
       "lemma": null,
       "text": "c'est-à-dire, la maison du soleil. On juge bien qu'elle est fort différente de Bethsamès de la tribu de Juda."
     },
     {
       "verse": 38,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "CIVITATES DECEM ET NOVEM.",
       "lemma": "Dix-neuf villes.",
       "text": "On en compte vingt-trois dans les versets précédents; mais entre ces vingt-trois, il pouvait y en avoir quatre de moins considérables; on peut voir ce qu'on a dit sur le chap. xv. ℣. 62."
@@ -478,7 +478,7 @@
     },
     {
       "verse": 42,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AIALON.",
       "lemma": null,
       "text": "On connaît un lieu nommé Aïalon à deux milles de Nicopolis, ou d’Emmaüs, en allant à Jérusalem."
@@ -492,14 +492,14 @@
     },
     {
       "verse": 43,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "THEMNA, ou Thamna.",
       "lemma": null,
       "text": "On en a parlé dans le dénombrement des villes de Juda.[106]"
     },
     {
       "verse": 43,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ACRON.",
       "lemma": null,
       "text": "C’est _Accaron_ ville des Philistins."
@@ -513,14 +513,14 @@
     },
     {
       "verse": 44,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "JEBBETHON, ou Gebbéthon, ou Gabbathon.",
       "lemma": null,
       "text": "Il y avait plusieurs villes de ce nom : celle-ci est apparemment celle qu’Eusèbe et S. Jérôme placent à seize milles de Césarée de Palestine."
     },
     {
       "verse": 44,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BALAAT, ou Baalat.",
       "lemma": null,
       "text": "Il y avait une ville de _Baala_, ou _Balot_ dans Juda,[109] et une autre dans Siméon ;[110] Salomon en fortifia une de même nom.[111] Mais qui nous dira laquelle des trois est marquée ici, ou même si ces trois n’en font qu’une?"
@@ -534,7 +534,7 @@
     },
     {
       "verse": 45,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "GETH-REMMON.",
       "lemma": "Il y a une ville de ce nom dans la tribu de Manassé.",
       "text": "[112] Celle dont il s’agit ici en était assez éloignée. Quelques-uns [113] croient que c’est la même que Geth capitale d’un canton des Philistins. D’autres distinguent ces deux villes. La ville de Geth des Philistins se trouve toujours nommée Geth, sans addition ; mais celle de Geth-remmon, ne se lit jamais qu’avec l’addition de Remmon. Saint Jérôme met cette dernière à douze milles d’Eleutéropolis sur le chemin de Diospolis"
@@ -555,14 +555,14 @@
     },
     {
       "verse": 47,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ASCENDERUNT FILII DAN, ET PUGNAVERUNT CONTRA LESEM.",
       "lemma": "Les enfants de Dan ayant marché contre Lésem, l’assiégèrent,",
       "text": "la prirent. La ville de Lésem, qui porta le nom de Dan, depuis l’affaire qui est racontée ici, était au pied du mont Liban, environ à quatre milles de Panéade, et des sources du Jourdain, en allant à Tyr.[115] Josèphe dit qu’elle était à une journée de la grande campagne de Sidon. Dan n’était donc point la même que Panéade, ou Césarée de Philippe. C’est de cette ville et de celle de Bersabée, qu’on prenait la longueur de la Palestine : D’où vient qu’on trouve si souvent dans l’Écriture ; _On assembla tout le peuple depuis Dan jusqu’à Bersabée._\nL’histoire qu’on lit ici en abrégé se verra plus au long dans le Livre des Juges ; où elle est rapportée en sa place naturelle.[116] On examinera sur cet endroit les difficultés qu’on forme touchant cette entreprise.\nLes Septante[117] sont fort différents de l’hébreu dans les versets 46, 47 et 48. Voici comme ils lisent : _℣. 46. Du côté de la mer, Jéracon est la limite près de Joppé. 47. Voilà l’héritage de la tribu des enfants de Dan, selon leurs divers peuples, leurs villes, et leurs bourgades. Et les enfants de Dan ne détruisirent pas les Amorrhéens, qui les resserraient dans la montagne, et qui ne leur permettaient pas de descendre dans la plaine. 48. Et ceux de Dan ruinèrent leur propre héritage,[118] ( ou ils désolèrent leur propre héritage usurpé sur eux par les Amorrhéens, ) et les enfants de Dan allèrent pour attaquer Lachis, ( ou Lésem, ) ils la prirent et la passèrent au fil de l’épée ; ils s’y établirent et la nommèrent Lasen-Dan, et les Amorrhéens continuèrent de demeurer à Elem, et à Salamin ; et la main d’Éphraïm s’appesantit sur eux, et ils lui demeurèrent tributaires. 49. Et les Israélites continuèrent de parcourir les limites de leur partage._"
     },
     {
       "verse": 47,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VOCANTES NOMEN EIUS, LESEM-DAN.",
       "lemma": "L’hébreu :[119] Ils donnèrent le nom de Dan à la ville de Lésem.",
       "text": ""
@@ -572,7 +572,7 @@
       "sub": false,
       "latin_lemma": "DEDERUNT POSSESSIONEM JOSUE.",
       "lemma": "Ils donnèrent un",
-      "text": "héritage à Josué. Josué est partagé le dernier, et après avoir donné le partage à tout le peuple ; il choisit une ville au milieu de ses frères ; mais dans l'endroit le plus stérile du pays, dans les montagnes d'Éphraïm. Il ne se prévaut ni de sa qualité de Chef du peuple, ni de ses mérites et de ses services, ni de l'ordre de Dieu, qui avait ordonné qu'en considération de sa constante fidélité, on lui donnât un lot distingué à choisir. Il montre partout un détachement, et un désintéressement qu'on ne saurait assez admirer ; il n'eut dans le gouvernement que ce qu'il y a de pénible et d'incommode ; il ne fut sensible qu'à l'honneur d'obéir à son Dieu, et de rendre service à son peuple : En cela vraie figure de JÉSUS-CHRIST, qui se réduisit par le choix de sa volonté, à manquer des choses les plus nécessaires ; et à n'avoir pas ce que la Providence donne aux animaux de la terre, et aux oiseaux du Ciel ; qui porta l'obéissance qu'il devait à son Père, et l'amour qu'il avait pour son peuple, jusqu'à donner sa vie, et son sang pour lui. L'Écriture dit que ce fut par l'ordre du Seigneur, qu'on donna un partage particulier à Josué : Dieu déclara apparemment son intention par la bouche du grand-Prêtre Éléazar."
+      "text": "héritage à Josué. Josué est partagé le dernier, et après avoir donné le partage à tout le peuple ; il choisit une ville au milieu de ses frères ; mais dans l'endroit le plus stérile du pays, dans les montagnes d'Éphraïm. Il ne se prévaut ni de sa qualité de Chef du peuple, ni de ses mérites et de ses services, ni de l'ordre de Dieu, qui avait ordonné qu'en considération de sa constante fidélité, on lui donnât un lot distingué à choisir. Il montre partout un détachement, et un désintéressement qu'on ne saurait assez admirer ; il n'eut dans le gouvernement que ce qu'il y a de pénible et d'incommode ; il ne fut sensible qu'à l'honneur d'obéir à son Dieu, et de rendre service à son peuple : En cela vraie figure de Jésus-Christ, qui se réduisit par le choix de sa volonté, à manquer des choses les plus nécessaires ; et à n'avoir pas ce que la Providence donne aux animaux de la terre, et aux oiseaux du Ciel ; qui porta l'obéissance qu'il devait à son Père, et l'amour qu'il avait pour son peuple, jusqu'à donner sa vie, et son sang pour lui. L'Écriture dit que ce fut par l'ordre du Seigneur, qu'on donna un partage particulier à Josué : Dieu déclara apparemment son intention par la bouche du grand-Prêtre Éléazar."
     },
     {
       "verse": 50,
@@ -583,7 +583,7 @@
     },
     {
       "verse": 50,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ÆDIFICAVIT CIVITATEM.",
       "lemma": "Il y bâtit une ville.",
       "text": "Il y avait apparemment quelques édifices avant qu'il s'y retirât ; mais il augmenta et il rétablit ce lieu, il s'en rendit comme le nouveau fondateur."
@@ -649,15 +649,15 @@
     {
       "seam": "page_0335>page_0336",
       "verse": 27,
-      "mode": "hyphen",
-      "before": "Elle est différente d'un autre lieu de même nom.",
+      "mode": "flow",
+      "before": "Elle est différente d'un autre lieu de même",
       "after": "nom dans la tribu de Juda. ^{(a)} Ce nom signifie la demeu"
     },
     {
       "seam": "page_0336>page_0337",
       "verse": 28,
-      "mode": "hyphen",
-      "before": " pense que cette ville était simplement sur les frontières",
+      "mode": "splice",
+      "before": "Je pense que cette ville était simplement sur les fron-",
       "after": "tières, mais non pas dans le partage d'Aser ; elle était à"
     },
     {
@@ -751,12 +751,12 @@
     {
       "key": "page_0327-b",
       "n": 2,
-      "text": "Geneſ. XLIX. 6. 7."
+      "text": "Genes. XLIX. 6. 7."
     },
     {
       "key": "page_0328-a",
       "n": 3,
-      "text": "Geneſ. xxxiv."
+      "text": "Genes. xxxiv."
     },
     {
       "key": "page_0328-b",
@@ -781,12 +781,12 @@
     {
       "key": "page_0328-f",
       "n": 8,
-      "text": "Vide Geneſ. xxi. 33."
+      "text": "Vide Genes. xxi. 33."
     },
     {
       "key": "page_0329-a",
       "n": 9,
-      "text": "Brocard. Deſcript. Terræ ſanctæ. Vide Bonfr. Onomaſt"
+      "text": "Brocard. Descript. Terræ sanctæ. Vide Bonfr. Onomast"
     },
     {
       "key": "page_0329-b",
@@ -811,7 +811,7 @@
     {
       "key": "page_0329-f",
       "n": 14,
-      "text": "Joſue xv. 31."
+      "text": "Josue xv. 31."
     },
     {
       "key": "page_0330-a",
@@ -826,7 +826,7 @@
     {
       "key": "page_0330-c",
       "n": 17,
-      "text": "Joſue XV. 24."
+      "text": "Josue XV. 24."
     },
     {
       "key": "page_0330-d",
@@ -841,7 +841,7 @@
     {
       "key": "page_0330-f",
       "n": 20,
-      "text": "Joſue XII. 22."
+      "text": "Josue XII. 22."
     },
     {
       "key": "page_0331-a",
@@ -851,27 +851,27 @@
     {
       "key": "page_0331-b",
       "n": 22,
-      "text": "Josue XXI. 28. & 1. Par. VI. 72."
+      "text": "Josue XXI. 28. et 1. Par. VI. 72."
     },
     {
       "key": "page_0331-c",
       "n": 23,
-      "text": "Joseph. in vita sua, & lib. 3. de Bello c. 21."
+      "text": "Joseph. in vita sua, et lib. 3. de Bello c. 21."
     },
     {
       "key": "page_0332-a",
       "n": 24,
-      "text": "רמון המתאר Sym. apud Druſ. Remmon inclyta."
+      "text": "רמון המתאר Sym. apud Drus. Remmon inclyta."
     },
     {
       "key": "page_0332-b",
       "n": 25,
-      "text": "Joſue xi. 1."
+      "text": "Josue xi. 1."
     },
     {
       "key": "page_0333-a",
       "n": 26,
-      "text": "Geneſ. XLIX. 13. 14."
+      "text": "Genes. XLIX. 13. 14."
     },
     {
       "key": "page_0333-b",
@@ -886,7 +886,7 @@
     {
       "key": "page_0333-d",
       "n": 29,
-      "text": "Joſue XXI. 29."
+      "text": "Josue XXI. 29."
     },
     {
       "key": "page_0333-e",
@@ -896,12 +896,12 @@
     {
       "key": "page_0334-c",
       "n": 31,
-      "text": "_Joſue_ XXI. 31."
+      "text": "_Josue_ XXI. 31."
     },
     {
       "key": "page_0334-a",
       "n": 32,
-      "text": "_Joſue_ XXI. 31."
+      "text": "_Josue_ XXI. 31."
     },
     {
       "key": "page_0334-b",
@@ -911,7 +911,7 @@
     {
       "key": "page_0334-e",
       "n": 34,
-      "text": "_Vide ad Joſue_ XV. 55."
+      "text": "_Vide ad Josue_ XV. 55."
     },
     {
       "key": "page_0334-f",
@@ -926,12 +926,12 @@
     {
       "key": "page_0334-h",
       "n": 37,
-      "text": "_Plin. l. 5. c. 17. Promontorium Carmelum, & in monte oppidum eodem nomine,_"
+      "text": "_Plin. l. 5. c. 17. Promontorium Carmelum, et in monte oppidum eodem nomine,_"
     },
     {
       "key": "page_0335-a",
       "n": 38,
-      "text": "Tacit. l. 2. Hiſt. c. 78."
+      "text": "Tacit. l. 2. Hist. c. 78."
     },
     {
       "key": "page_0335-b",
@@ -941,17 +941,17 @@
     {
       "key": "page_0335-c",
       "n": 40,
-      "text": "Iſai. XXXII. 15."
+      "text": "Isai. XXXII. 15."
     },
     {
       "key": "page_0335-d",
       "n": 41,
-      "text": "Ieronym. in Iſai. l. 48. & in Ierem. IV."
+      "text": "Ieronym. in Isai. l. 48. et in Ierem. IV."
     },
     {
       "key": "page_0335-e",
       "n": 42,
-      "text": "Joſeph de Bello l. 3. c. 4. & lib. de vita ſua."
+      "text": "Joseph de Bello l. 3. c. 4. et lib. de vita sua."
     },
     {
       "key": "page_0335-f",
@@ -966,22 +966,22 @@
     {
       "key": "page_0336-a",
       "n": 45,
-      "text": "Joſue xv. 41."
+      "text": "Josue xv. 41."
     },
     {
       "key": "page_0336-b",
       "n": 46,
-      "text": "Joſeph l. 2. de Bello c. 37. S. Zabulon διείλεν δὲ ἀπὸ ἐθνῶν τὴν πτόλεμαιδα."
+      "text": "Joseph l. 2. de Bello c. 37. S. Zabulon διείλεν δὲ ἀπὸ ἐθνῶν τὴν πτόλεμαιδα."
     },
     {
       "key": "page_0336-c",
       "n": 47,
-      "text": "Joſue XIX. 14."
+      "text": "Josue XIX. 14."
     },
     {
       "key": "page_0336-d",
       "n": 48,
-      "text": "Malv. Maſ. Grot. Jun."
+      "text": "Malv. Mas. Grot. Jun."
     },
     {
       "key": "page_0336-e",
@@ -991,12 +991,12 @@
     {
       "key": "page_0336-f",
       "n": 50,
-      "text": "Boufr. & huic demonſtrat. Evang."
+      "text": "Boufr. et huic demonstrat. Evang."
     },
     {
       "key": "page_0336-g",
       "n": 51,
-      "text": "Joſeph de Vita ſua. εἰς χαβωλὼ κώμην πτολεμαιδῷ μάλισα γείτων."
+      "text": "Joseph de Vita sua. εἰς χαβωλὼ κώμην πτολεμαιδῷ μάλισα γείτων."
     },
     {
       "key": "page_0336-h",
@@ -1006,7 +1006,7 @@
     {
       "key": "page_0336-i",
       "n": 53,
-      "text": "Abran, עברן Acran, עכרן &c."
+      "text": "Abran, עברן Acran, עכרן etc."
     },
     {
       "key": "page_0336-k",
@@ -1016,7 +1016,7 @@
     {
       "key": "page_0336-l",
       "n": 55,
-      "text": "Joſue XXI. 31. & 1. Par. VI. 75."
+      "text": "Josue XXI. 31. et 1. Par. VI. 75."
     },
     {
       "key": "page_0336-m",
@@ -1036,7 +1036,7 @@
     {
       "key": "page_0337-b",
       "n": 59,
-      "text": "Joſue XXI. 32."
+      "text": "Josue XXI. 32."
     },
     {
       "key": "page_0337-c",
@@ -1046,12 +1046,12 @@
     {
       "key": "page_0337-d",
       "n": 61,
-      "text": "Cana uſque ad Sidon majorem, ( eſt quippe & altera minor ad cujus diſtinctionem major hæc dicitur.) Fuit autem Cana in tribu Aſer, &c."
+      "text": "Cana usque ad Sidon majorem, ( est quippe et altera minor ad cujus distinctionem major hæc dicitur.) Fuit autem Cana in tribu Aser, etc."
     },
     {
       "key": "page_0337-e",
       "n": 62,
-      "text": "Joſeph. lib. de Vita ſua. Vide Celer. in Cana p. 300."
+      "text": "Joseph. lib. de Vita sua. Vide Celer. in Cana p. 300."
     },
     {
       "key": "page_0337-f",
@@ -1061,22 +1061,22 @@
     {
       "key": "page_0338-a",
       "n": 64,
-      "text": "Apud Euſeb. Præp. l. 1. c. ult."
+      "text": "Apud Euseb. Præp. l. 1. c. ult."
     },
     {
       "key": "page_0338-b",
       "n": 65,
-      "text": "Ioſeph Antiq. l. VIII. c. 2."
+      "text": "Ioseph Antiq. l. VIII. c. 2."
     },
     {
       "key": "page_0338-c",
       "n": 66,
-      "text": "Nous mettons la Dédicace du Temple en 3001. & la mort de Joſué en 2570."
+      "text": "Nous mettons la Dédicace du Temple en 3001. et la mort de Josué en 2570."
     },
     {
       "key": "page_0338-d",
       "n": 67,
-      "text": "Iuſtin. l. 18. à Rege Aſcaloniorum victi Sidonii navibus appulſi, Tyrum urbem ante annum ... Trojanæ Cladis condiderunt."
+      "text": "Iustin. l. 18. à Rege Ascaloniorum victi Sidonii navibus appulsi, Tyrum urbem ante annum ... Trojanæ Cladis condiderunt."
     },
     {
       "key": "page_0338-e",
@@ -1091,7 +1091,7 @@
     {
       "key": "page_0338-g",
       "n": 70,
-      "text": "Iſai. XXIII. 12. _Non adjicies ultra ut glorieris calumniam ſuſtinens, virgo filia Sidonis._"
+      "text": "Isai. XXIII. 12. _Non adjicies ultra ut glorieris calumniam sustinens, virgo filia Sidonis._"
     },
     {
       "key": "page_0338-h",
@@ -1121,7 +1121,7 @@
     {
       "key": "page_0339-e",
       "n": 76,
-      "text": "2. Reg. V. 1. & 1. Par. XIV. 1."
+      "text": "2. Reg. V. 1. et 1. Par. XIV. 1."
     },
     {
       "key": "page_0339-f",
@@ -1131,12 +1131,12 @@
     {
       "key": "page_0339-g",
       "n": 78,
-      "text": "Dius, apud Joſeph. contra Appion. l. 1. pag. 1042."
+      "text": "Dius, apud Joseph. contra Appion. l. 1. pag. 1042."
     },
     {
       "key": "page_0339-h",
       "n": 79,
-      "text": "Joſeph ibidem pag. 1042. θύλας ἔχοντα τὸν ἑυρύχωρον, τῆι τε χρυσῆι κιόνι, τὸν ἐν τῶι Διὸς, ἀνέθηκεν."
+      "text": "Joseph ibidem pag. 1042. θύλας ἔχοντα τὸν ἑυρύχωρον, τῆι τε χρυσῆι κιόνι, τὸν ἐν τῶι Διὸς, ἀνέθηκεν."
     },
     {
       "key": "page_0340-b",
@@ -1146,12 +1146,12 @@
     {
       "key": "page_0340-c",
       "n": 81,
-      "text": "Ezech. XXVII. & XXVIII."
+      "text": "Ezech. XXVII. et XXVIII."
     },
     {
       "key": "page_0340-d",
       "n": 82,
-      "text": "Ieron. in Ezech. XXVI & XXVIII, & Amos I."
+      "text": "Ieron. in Ezech. XXVI et XXVIII, et Amos I."
     },
     {
       "key": "page_0340-e",
@@ -1161,7 +1161,7 @@
     {
       "key": "page_0340-f",
       "n": 84,
-      "text": "Iſai. XXIII. 6."
+      "text": "Isai. XXIII. 6."
     },
     {
       "key": "page_0340-g",
@@ -1171,12 +1171,12 @@
     {
       "key": "page_0341-a",
       "n": 86,
-      "text": "Marſham Canon. Ægypt. ſæcul. XI."
+      "text": "Marsham Canon. Ægypt. sæcul. XI."
     },
     {
       "key": "page_0341-b",
       "n": 87,
-      "text": "Vide Iuſtin. loco ſup. citat."
+      "text": "Vide Iustin. loco sup. citat."
     },
     {
       "key": "page_0341-c",
@@ -1186,7 +1186,7 @@
     {
       "key": "page_0341-d",
       "n": 89,
-      "text": "Plin. lib. 5. cap. 19. Ioſeph lib. 1. de Bello, cap. 11."
+      "text": "Plin. lib. 5. cap. 19. Ioseph lib. 1. de Bello, cap. 11."
     },
     {
       "key": "page_0342-a",
@@ -1211,12 +1211,12 @@
     {
       "key": "page_0342-e",
       "n": 94,
-      "text": "Euſtat. Orat. de Laud Conſtant. &c. μέχρι τε Λίβανε καὶ Λ'φακων ἱδρυμένον. ἐν τῷ ὄρει τῷδε ἐν τῷ μέσω πόλεως, τελευτῶσιν ἐς τὸν ἐντὸς, ἄχρις δακρύων ἀφοσίωσις ἐν ἀκορίαις."
+      "text": "Eustat. Orat. de Laud Constant. etc. μέχρι τε Λίβανε καὶ Λ'φακων ἱδρυμένον. ἐν τῷ ὄρει τῷδε ἐν τῷ μέσω πόλεως, τελευτῶσιν ἐς τὸν ἐντὸς, ἄχρις δακρύων ἀφοσίωσις ἐν ἀκορίαις."
     },
     {
       "key": "page_0342-f",
       "n": 95,
-      "text": "Macrob. l. I. cap. 21. Saturnal. Simulacrum hujus Deæ in monte Libano fingitur capite obnupto, facie triſti, faciem manu lævâ intra amictum ſuſtinens, lacrymæ viſione conſpicientium manare creduntur."
+      "text": "Macrob. l. I. cap. 21. Saturnal. Simulacrum hujus Deæ in monte Libano fingitur capite obnupto, facie tristi, faciem manu lævâ intra amictum sustinens, lacrymæ visione conspicientium manare creduntur."
     },
     {
       "key": "page_0343-a",
@@ -1236,7 +1236,7 @@
     {
       "key": "page_0344-b",
       "n": 99,
-      "text": "70. In Codd. Al'x. Rom. & Aldinis ; Καὶ Ι'ορδάνης ἀπὸ ἀνατολῶν ἡλίυ."
+      "text": "70. In Codd. Al'x. Rom. et Aldinis ; Καὶ Ι'ορδάνης ἀπὸ ἀνατολῶν ἡλίυ."
     },
     {
       "key": "page_0344-c",
@@ -1246,52 +1246,52 @@
     {
       "key": "page_0344-d",
       "n": 101,
-      "text": "Joſuæ XI. 2."
+      "text": "Josuæ XI. 2."
     },
     {
       "key": "page_0345-a",
       "n": 102,
-      "text": "Ioſue XI. 1. 2."
+      "text": "Iosue XI. 1. 2."
     },
     {
       "key": "page_0345-b",
       "n": 103,
-      "text": "Joſue XXI. 31. & Judic. IV 6."
+      "text": "Josue XXI. 31. et Judic. IV 6."
     },
     {
       "key": "page_0345-c",
       "n": 104,
-      "text": "Joſue XXI. 32. & I. Par. VI. 76."
+      "text": "Josue XXI. 32. et I. Par. VI. 76."
     },
     {
       "key": "page_0346-a",
       "n": 105,
-      "text": "Voyez Joſué xvI. 33."
+      "text": "Voyez Josué xvI. 33."
     },
     {
       "key": "page_0346-b",
       "n": 106,
-      "text": "Ioſue xv. 10."
+      "text": "Iosue xv. 10."
     },
     {
       "key": "page_0346-c",
       "n": 107,
-      "text": "Ioſue xv. 59."
+      "text": "Iosue xv. 59."
     },
     {
       "key": "page_0346-d",
       "n": 108,
-      "text": "Ioſue xxI. 23."
+      "text": "Iosue xxI. 23."
     },
     {
       "key": "page_0346-e",
       "n": 109,
-      "text": "I ſue xv. 24."
+      "text": "I sue xv. 24."
     },
     {
       "key": "page_0346-f",
       "n": 110,
-      "text": "Ioſue xIx. ℣. 3."
+      "text": "Iosue xIx. ℣. 3."
     },
     {
       "key": "page_0346-g",
@@ -1301,12 +1301,12 @@
     {
       "key": "page_0347-a",
       "n": 112,
-      "text": "Joſue XIX. 25."
+      "text": "Josue XIX. 25."
     },
     {
       "key": "page_0347-b",
       "n": 113,
-      "text": "Maſi. Bonfr."
+      "text": "Masi. Bonfr."
     },
     {
       "key": "page_0347-c",
@@ -1316,7 +1316,7 @@
     {
       "key": "page_0348-a",
       "n": 115,
-      "text": "Euſeb. & Ieron."
+      "text": "Euseb. et Ieron."
     },
     {
       "key": "page_0348-b",
@@ -1326,7 +1326,7 @@
     {
       "key": "page_0348-c",
       "n": 117,
-      "text": "70. Edit. Rom. Vide & Aug. qu. 10. in Joſue, & Origen. homil. 14. & Nobilium hic."
+      "text": "70. Edit. Rom. Vide et Aug. qu. 10. in Josue, et Origen. homil. 14. et Nobilium hic."
     },
     {
       "key": "page_0348-d",
@@ -1341,180 +1341,17 @@
     {
       "key": "page_0349-c",
       "n": 120,
-      "text": "_Joſue_ XXIV. 30. _Judic._ II. 9."
+      "text": "_Josue_ XXIV. 30. _Judic._ II. 9."
     },
     {
       "key": "page_0349-a",
       "n": 121,
-      "text": "תמנת חרס par une tranſpoſition de lettres, _Cherés, Serech_, ou _Sareh_."
+      "text": "תמנת חרס par une transposition de lettres, _Cherés, Serech_, ou _Sareh_."
     },
     {
       "key": "page_0349-b",
       "n": 122,
       "text": "_Judic._ II. 9."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0327",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0328",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0329",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0330",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0331",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0332",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0333",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0334",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0335",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0336",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0337",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0338",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0339",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0340",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0341",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0342",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0343",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0344",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0345",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0346",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0347",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0348",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0349",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": [

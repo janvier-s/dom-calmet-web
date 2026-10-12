@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import { formatCommentaryText } from '$lib/utils/format';
+	import { formatCommentaryText, paragraphs } from '$lib/utils/format';
 
 	let { data } = $props();
 
@@ -51,7 +51,12 @@
 									<br/>
 								{/if}
 								{#if note.lemma}
-									<em>{note.lemma}</em>
+									{#if note.lemma.includes('_')}
+										<!-- partial italics: the _marked_ part is the translation, the rest Calmet's remark -->
+										<span>{@html formatCommentaryText(note.lemma)}</span>
+									{:else}
+										<em>{note.lemma}</em>
+									{/if}
 								{/if}
 							</p>
 						{/if}
@@ -59,10 +64,10 @@
 						<!-- Main Commentary -->
 						{#if note.text}
 							<!-- calmet.py outputs plain text with HTML-ready formatting, but we might have newlines -->
-							{#each note.text.split('\n\n') as paragraph}
+							{#each paragraphs(note.text) as paragraph}
 								{#if paragraph.trim()}
 									<p class="mb-4">
-										{@html formatCommentaryText(paragraph)}
+										{@html formatCommentaryText(paragraph).replace(/\s*\n\s*/g, '<br/>')}
 									</p>
 								{/if}
 							{/each}

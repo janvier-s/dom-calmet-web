@@ -9,7 +9,7 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUÆRAM TIBI REQUIEM, ET PROVIDEBO UT BENE TIBI SIT.",
       "lemma": "Je pense à vous mettre en repos, et à vous pourvoir d'une telle sorte que vous soyez bien.",
       "text": "L'Hébreu : [2] _Je vous chercherai un repos qui vous contentera, qui vous comblera de biens._ Elle a déja employé la même expression ci-devant, [3] pour signifier le mariage. _Je prie le Seigneur qu'il vous donne le repos, dans la maison des maris que vous prendrez._ Le mariage fixe l'état d'une fille, la met en repos, lui donne une demeure assurée."
@@ -37,14 +37,14 @@
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ISSETQUE AD DORMIENDUM JUXTA ACERVUM MANIPULORUM.",
       "lemma": null,
       "text": ""
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PULORUM.",
       "lemma": null,
       "text": "Il alla dormir près d'un tas de gerbes. L'Hébreu : [15] À l'extrémité d'un tas de gerbes. Les Septante : [16] À côté d'un tas d'herbes. Il se coucha ou à plate terre, ou sur de la paille dans son aire. Le terme dont se servent les Septante, signifie l'herbe, ou la paille qu'on amasse pour se coucher. Les Arabes et les peuples voisins se plaisent à coucher à terre, et couverts de quelques habits."
@@ -100,7 +100,7 @@
     },
     {
       "verse": 15,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MENSUS EST SEX MODIOS HORDEI.",
       "lemma": "Il lui mesura six boisseaux d'orge.",
       "text": "L'Hébreu : [32] _Six d'orge_. Il n'exprime pas la mesure qu'il lui en donna. Les Septante ne l'ont point marqué non plus. La plupart sous-entendent des _éphis_ ; et S. Jérôme qui a mis ici _modius_, de même qu'au ℣. 17. du Chapitre second, a conçu que Booz lui avait donné deux éphi, qui font six mesures, selon sa manière de compter. Si on veut qu'il lui ait donné six éphi, la charge sera un peu grosse, puisqu'elle ira à plus de cent quatre-vingts pintes d'orge, qui peuvent faire autant de livres pesant, ce qui est beaucoup pour une femme. Bonfrerius sous-entend des _gomors_, qui ne sont que la dixième partie de l'éphi, et dont l'un ne contient qu'environ trois pintes. Ainsi les six mesures d'orge ne feraient que dix-huit pintes d'orge ; ce qui paraît peu de chose, pour en faire un présent à une personne de la considération de Ruth. On peut s'en tenir aux six mesures, ou aux deux éphi de S."
@@ -114,7 +114,7 @@
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUID EGISTI, FILIA?",
       "lemma": "Ma fille, qu'avez-vous fait ?",
       "text": "L'Hébreu : [34] Ma fille, qui êtes-vous ? Elle ne la connaissait point au milieu de l'obscurité qu'il faisait encore. Les Septante : [35] Que dites-vous ; ou qu'avez-vous fait, ma fille ? Quel est le succès de votre voyage ?"
@@ -194,17 +194,17 @@
     {
       "key": "page_0022-a",
       "n": 4,
-      "text": "Columel. lib. 3. c. 21. Ubi paleis immixta ſunt frumenta vento ſeparen ur.... At ſi pluribus diebus filebit aura, vannis expurgentur, ne poſt nimiam ventorum ſegnitiem, vaſta tempeſtas irritum faciat totius anni laborem."
+      "text": "Columel. lib. 3. c. 21. Ubi paleis immixta sunt frumenta vento separen ur.... At si pluribus diebus filebit aura, vannis expurgentur, ne post nimiam ventorum segnitiem, vasta tempestas irritum faciat totius anni laborem."
     },
     {
       "key": "page_0022-b",
       "n": 5,
-      "text": "Columel. l. 2. c. 51. Ubi area reteſta, & loca calida, prope aream faciendum umbraculum, quò ſuccedant homines in æſtu meridiano, &c. Lib. 1. c. 7. Huic autem ( Areæ ) nubilarium applicari debet.... quo collata ſemitrita frumenta protegantur, ſi ſubitaneus imber inceſſerit."
+      "text": "Columel. l. 2. c. 51. Ubi area retesta, et loca calida, prope aream faciendum umbraculum, quò succedant homines in æstu meridiano, etc. Lib. 1. c. 7. Huic autem ( Areæ ) nubilarium applicari debet.... quo collata semitrita frumenta protegantur, si subitaneus imber incesserit."
     },
     {
       "key": "page_0023-a",
       "n": 6,
-      "text": "_Ambroſ. lib 3. de Fide cap. 10. nov. edit. Vide Serar. qn. 9. & 10._ peratus fuerat Deus actum ipſius, ſciens conſcientiam ſuam : Quia non libido ad hoc impulerat, ſed Religio erat hortata."
+      "text": "_Ambros. lib 3. de Fide cap. 10. nov. edit. Vide Serar. qn. 9. et 10._ peratus fuerat Deus actum ipsius, sciens conscientiam suam : Quia non libido ad hoc impulerat, sed Religio erat hortata."
     },
     {
       "key": "page_0023-b",
@@ -219,7 +219,7 @@
     {
       "key": "page_0024-a",
       "n": 9,
-      "text": "Vide Ambroſ. loco citato. Theodoret qu. 2. Chryſoſt. homil. 3. in Matt."
+      "text": "Vide Ambros. loco citato. Theodoret qu. 2. Chrysost. homil. 3. in Matt."
     },
     {
       "key": "page_0024-b",
@@ -229,22 +229,22 @@
     {
       "key": "page_0024-c",
       "n": 11,
-      "text": "Pſal. CXXV. 5. 6."
+      "text": "Psal. CXXV. 5. 6."
     },
     {
       "key": "page_0024-d",
       "n": 12,
-      "text": "Iſai. IX. 3."
+      "text": "Isai. IX. 3."
     },
     {
       "key": "page_0024-e",
       "n": 13,
-      "text": "Vide Caton. c. 131. & Philochor. & Varron. l. 1. de Re ruſtic. & Virgil. Georgic. I."
+      "text": "Vide Caton. c. 131. et Philochor. et Varron. l. 1. de Re rustic. et Virgil. Georgic. I."
     },
     {
       "key": "page_0024-f",
       "n": 14,
-      "text": "Vide Levit. XXIII. 10. & Deut. XXVI. 1. &c."
+      "text": "Vide Levit. XXIII. 10. et Deut. XXVI. 1. etc."
     },
     {
       "key": "page_0025-a",
@@ -279,17 +279,17 @@
     {
       "key": "page_0026-a",
       "n": 21,
-      "text": "Deut. XXII. 30. & XXVII. 20."
+      "text": "Deut. XXII. 30. et XXVII. 20."
     },
     {
       "key": "page_0026-b",
       "n": 22,
-      "text": "Vide Serar qu. 7. & Bonfr. hic."
+      "text": "Vide Serar qu. 7. et Bonfr. hic."
     },
     {
       "key": "page_0026-c",
       "n": 23,
-      "text": "Lyr. Tirin. Grot. Vatab. Jun, Piſcat. Munſter. alii."
+      "text": "Lyr. Tirin. Grot. Vatab. Jun, Piscat. Munster. alii."
     },
     {
       "key": "page_0026-d",
@@ -299,7 +299,7 @@
     {
       "key": "page_0026-e",
       "n": 25,
-      "text": "Iſaï. IV. 1."
+      "text": "Isaï. IV. 1."
     },
     {
       "key": "page_0026-f",
@@ -329,7 +329,7 @@
     {
       "key": "page_0028-b",
       "n": 31,
-      "text": "Jun. & Tremel. Druſ. Bonfr."
+      "text": "Jun. et Tremel. Drus. Bonfr."
     },
     {
       "key": "page_0028-c",
@@ -350,71 +350,6 @@
       "key": "page_0029-b",
       "n": 35,
       "text": "מי את בתי"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0021",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0022",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0023",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0024",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0025",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0026",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0027",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0028",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0029",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

@@ -23,7 +23,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ADORAVIT OMNEM MILITIAM COELI.",
       "lemma": "Il adora toute l'armée du Ciel,",
       "text": "tous les astres, dont le Roi et la Reine sont le Soleil et la Lune ; il leur dressa des Autels dans les deux parvis du Temple, dans celui du peuple, et dans celui des Prêtres. Voyez le ℣. 2. de ce Chap. et 2. Par. XXXIII. 4. 5."
@@ -33,35 +33,35 @@
       "sub": false,
       "latin_lemma": "TRADUXIT FILIUM SUUM PER IGNEM.",
       "lemma": "Il fit passer son fils par le feu.",
-      "text": "Il le fit mourir en l'honneur de Moloc ; ou il le fit simplement passer au-dessus du feu pour le purifier, suivant le rite de cette fausse Divinité. Voyez ce qu'on a dit sur Achaz. 4. Reg. xvi. 3."
+      "text": "Il le fit mourir en l'honneur de Moloc ; ou il le fit simplement passer au-dessus du feu pour le purifier, suivant le rite de cette fausse divinité. Voyez ce qu'on a dit sur Achaz. 4. Reg. xvi. 3."
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ARIOLATUS EST.",
       "lemma": "Il aima les divinations.",
       "text": "[5] Il consulta les devins, ou même, il fit lui-même le devin. Il voulut prédire l'avenir par l'inspection des astres, ou des nues. Les Septante [6] semblent l'avoir entendu d'une divination par les baguettes. D'autres l'entendent des observations et des distinctions des jours bons et heureux, d'avec les jours mauvais et malheureux.[7]"
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "OBSERVAVIT AUGURIA.",
       "lemma": "Observa les augures.",
       "text": "Le Texte[8] semble marquer la magie qui s'exerce par le moyen des serpents, ou avec des vases d'airain. On l'explique en général des prestiges, et des sortilèges. Les Septante[9] des divinations par le vol, ou le trépignement des oiseaux."
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FECIT PYTHONES.",
       "lemma": "Il établit des Magiciens.",
       "text": "Il établit, il autorisa ceux qui se disaient remplis de l'esprit de Python. Les magiciens[10] qui se vantaient d'avoir un esprit familier, qui faisait entendre sa voix du fond de leur creux, de leur ventre, ou de leur estomac, et qui prédisait l'avenir, par l'inspiration du dieu Apollon. Voyez _Levit._ XIX. 31. et I. _Reg._ XXVIII. 7. et 4. _Reg._ XXIII. 24."
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ARUSPICES.",
-      "lemma": "Les enchanteurs, ou plutôt, les aruspices, qui considèrent les entrailles des victimes.",
-      "text": "L'Hébreu[11] signifie proprement des _connaisseurs_, des devins, des diseurs de bonnes aventures, et des gens qui se mêlent de prédire l'avenir, ou de découvrir les choses inconnues, cachées, dérobées."
+      "lemma": "Les enchanteurs, ou plutôt, les haruspices, qui considèrent les entrailles des victimes.",
+      "text": "L'Hébreu[11] signifie proprement des _connaisseurs_, des devins, des diseurs de bonne aventure, et des gens qui se mêlent de prédire l'avenir, ou de découvrir les choses inconnues, cachées, dérobées."
     },
     {
       "verse": 7,
@@ -75,7 +75,7 @@
       "sub": false,
       "latin_lemma": "LOCUTUSQUE EST DOMINUS IN MANU SERVORUM SUORUM PROPHETARUM.",
       "lemma": "Le Seigneur parla ensuite par ses Prophètes.",
-      "text": "Le Seigneur avertit Manassé de ses crimes, et reprit le peuple de ses prévarications par ses Prophètes qui vivaient alors. La tradition veut qu'Isaïe, qui vivait encore alors, et qui avait eu une très grande autorité sous le règne d'Ézéchias, suivît dans cette occasion le mouvement de son zèle, et reprît vivement Manassé de ses désordres. Mais ce roi impie, irrité de ses remontrances, le fit mourir dans les tourments, et le condamna à être scié vif [13] avec une scie de bois ; on sciait le patient par le milieu du corps avec une scie de fer ; mais pour rendre le supplice plus long et plus sensible, on emploie une scie de bois. On a montré ailleurs [14] que le supplice de la scie n'était pas inconnu dans l'Orient. Nous lisons dans ce Prophète un endroit, que nous croyons appartenir au règne de Manassé, [15] Après avoir rapporté les paroles qui marquent l'endurcissement de ce Prince, il conclut : Je jure, dit le Seigneur, que cette iniquité ne vous sera point pardonnée, mais que vous mourrez."
+      "text": "Le Seigneur avertit Manassé de ses crimes, et reprit le peuple de ses prévarications par ses prophètes qui vivaient alors. La tradition veut qu'Isaïe, qui vivait encore alors, et qui avait eu une très grande autorité sous le règne d'Ézéchias, suivît dans cette occasion le mouvement de son zèle, et reprît vivement Manassé de ses désordres. Mais ce roi impie, irrité de ses remontrances, le fit mourir dans les tourments, et le condamna à être scié vif [13] avec une scie de bois ; on sciait le patient par le milieu du corps avec une scie de fer ; mais pour rendre le supplice plus long et plus sensible, on employa une scie de bois. On a montré ailleurs [14] que le supplice de la scie n'était pas inconnu dans l'Orient. Nous lisons dans ce prophète un endroit que nous croyons appartenir au règne de Manassé. [15] Après avoir rapporté les paroles qui marquent l'endurcissement de ce Prince, il conclut : Je jure, dit le Seigneur, que cette iniquité ne vous sera point pardonnée, mais que vous mourrez."
     },
     {
       "verse": 12,
@@ -93,15 +93,15 @@
     },
     {
       "verse": 13,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET PONDUS DOMUS ACHAB.",
       "lemma": "Et j'étendrai sur Jérusalem le poids de la maison d'Achab.",
       "text": "Je raserai cette ville, et je la mettrai au niveau de la terre, avec le plomb [17] dont je me suis servi pour abattre la maison d'Achab. Il continue dans la même figure d'un architecte qui démolit un édifice, et qui aplanit un terrain. D'autres l'entendent du poids de mesure: je pèserai Jérusalem et ses crimes, au même poids que j'ai pesé la maison d'Achab. J'emploierai un poids juste, exact et rigoureux. Je punirai sans rémission tout ce que je trouverai de défectueux. C'est le style des prophètes, de nommer poids, ou fardeau, leurs prophéties menaçantes. [18]"
     },
     {
       "verse": 13,
-      "sub": true,
-      "latin_lemma": "DELEBO JERUSALEM SICUT DELERI SOLENT TABULÆ ; ET DELENS VERTAM, &c.",
+      "sub": false,
+      "latin_lemma": "DELEBO JERUSALEM SICUT DELERI SOLENT TABULÆ ; ET DELENS VERTAM, etc.",
       "lemma": "J'effacerai Jérusalem, comme on efface ce qui est écrit sur des tablettes.",
       "text": "On écrivait anciennement sur des tablettes enduites de cire ; on se servait pour écrire, d'un stylet de bronze ou de fer, pointu d'un côté, et plat de l'autre : on effaçait avec le plat ce qu'on avait écrit de la pointe : voici la description du stylet : [19]\n_De summo planus, sed non ego planus in imo,_\n_Versor utrimque manu, diverso et munere fungor :_\n_Altera pars revocat, quidquid pars altera fecit._\nL'Écriture veut donc marquer qu'en punition des péchés de Manassé, Dieu détruira Jérusalem, et l'effacera comme une écriture, sur laquelle on a fait souvent passer le stylet ; il n'en reste pas la moindre trace. Le texte hébreu est entendu assez diversement. [20] Voici comment le rendent les Septante : [21] _J'essuierai Jérusalem, comme on essuie un vase d'albâtre_, (ou en général un vase, un plat ;) _on le renverse sur son ouverture, lorsqu'il est essuyé, de peur qu'il ne se gâte de nouveau._ D'autres traduisent : _j'écurerai Jérusalem comme on écure une écuelle ou un plat ; on l'écure, puis on le renverse, ou plutôt, on l'écure, et on le tourne de tous côtés, pour n'y laisser aucune ordure._"
     },
@@ -117,7 +117,7 @@
       "sub": false,
       "latin_lemma": "RELIQUA SERMONUM MANASSE....... NONNE HÆC SCRIPTA SUNT IN LIBRO SERMONUM.",
       "lemma": "Le reste des actions de Manassé n'est-il pas écrit au Livre des Annales?",
-      "text": "Nous apprenons des Paralipomènes,[23] que Dieu envoya contre ce prince les généraux du roi d'Assyrie, lesquels le prirent prisonnier et le menèrent, chargé de chaînes, à Babylone. Ce fut apparemment Thartan, qui avait été envoyé par Sargon, ou Assaradon dans la Palestine, et qui, après avoir pris Azor,[24] attaqua Manassé, et l'ayant pris, le conduisit non à Ninive, mais à Babylone, dont Assaradon s'était rendu maître, et avait réuni les deux empires des Assyriens et des Chaldéens. Manassé, étant à Babylone, reconnut son péché, en fit pénitence, et en obtint le pardon ; nous avons une oraison qu'on prétend qu'il fit dans son cachot ; mais l'Église ne l'a pas reçue parmi les Écritures canoniques : elle ne l'a pas absolument rejetée, elle l'a mise au rang des écrits apocryphes. L'Église grecque l'a mise dans son Euchologe, et on la récite au moins comme une oraison dévote, et qui ne contient rien digne de censure. Les rabbins[25] racontent que ce prince fut jeté dans un vase d'airain percé, et exposé à un très grand feu ; dans cette extrémité, il eut recours à toutes les fausses divinités, auxquelles auxquels il avait autrefois donné de l'encens; il reconnut bientôt leur faiblesse et l'inutilité de ses prières; alors il se souvint de ce qu'il avait souvent entendu dire au Roi son père: [26] _Lorsque vous m'invoquerez dans vos maux, et que vous vous convertirez, je vous exaucerai._ Il se convertit au Seigneur, et fut aussitôt délivré, et rapporté dans son Royaume, de la même manière qu'Abacuc fut transporté à Babylone; c'est-à-dire, qu'il y fut rapporté en l'air par ses cheveux. Un Auteur assez ancien, [27] mais peu sûr, raconte sa délivrance d'une autre manière: Manassé étant dans les liens, ne recevait par jour qu'un peu de pain d'orge, et de l'eau mêlée avec du vinaigre; et cela par mesure, et autant qu'il en fallait pour ne pas mourir de faim; au milieu de son affliction, s'étant souvenu du Seigneur, il eut recours à sa clémence, et une flamme miraculeuse l'ayant enveloppé, fondit ses chaînes, et le remit en liberté: fables. Ce fut à ce que nous croyons Saos-duchin, successeur d'Assaradon, qui rendit la liberté de Manassé quelques années après sa captivité.\nÉtant de retour à Jérusalem, [28] il rétablit le culte du Seigneur dans le Temple, abattit les Autels profanes, et abolit toutes les traces du culte idolâtre, qu'il avait rendu aux faux Dieux. Il laissa seulement les hauts lieux, où le peuple avait coutume d'aller sacrifier au Seigneur; c'est la seule chose qu'on lui reproche depuis sa conversion. Il fortifia Jérusalem, et en rehaussa les murailles; il établit des Officiers de ses troupes dans toutes les villes de Juda. Sa vie et ses actions, sa chute, sa pénitence, et l'oraison qu'il avait adressée au Seigneur, étaient écrites dans les Livres d'Hosaï. Les discours des Prophètes qui lui avaient parlé au nom du Seigneur, se lisaient dans les Annales des Rois d'Israël. Voilà ce que nous savons de Manassé."
+      "text": "Nous apprenons des Paralipomènes,[23] que Dieu envoya contre ce prince les généraux du roi d'Assyrie, lesquels le prirent prisonnier et le menèrent, chargé de chaînes, à Babylone. Ce fut apparemment Thartan, qui avait été envoyé par Sargon, ou Assaradon dans la Palestine, et qui, après avoir pris Azor,[24] attaqua Manassé, et l'ayant pris, le conduisit non à Ninive, mais à Babylone, dont Assaradon s'était rendu maître, et avait réuni les deux empires des Assyriens et des Chaldéens. Manassé, étant à Babylone, reconnut son péché, en fit pénitence, et en obtint le pardon ; nous avons une oraison qu'on prétend qu'il fit dans son cachot ; mais l'Église ne l'a pas reçue parmi les Écritures canoniques : elle ne l'a pas absolument rejetée, elle l'a mise au rang des écrits apocryphes. L'Église grecque l'a mise dans son Euchologe, et on la récite au moins comme une oraison dévote, et qui ne contient rien digne de censure. Les rabbins[25] racontent que ce prince fut jeté dans un vase d'airain percé, et exposé à un très grand feu ; dans cette extrémité, il eut recours à toutes les fausses divinités, auxquelles auxquels il avait autrefois donné de l'encens ; il reconnut bientôt leur faiblesse et l'inutilité de ses prières ; alors il se souvint de ce qu'il avait souvent entendu dire au roi son père : [26] _Lorsque vous m'invoquerez dans vos maux, et que vous vous convertirez, je vous exaucerai._ Il se convertit au Seigneur, et fut aussitôt délivré, et rapporté dans son royaume, de la même manière qu'Abacuc fut transporté à Babylone ; c'est-à-dire, qu'il y fut rapporté en l'air par ses cheveux. Un auteur assez ancien, [27] mais peu sûr, raconte sa délivrance d'une autre manière : Manassé étant dans les liens, ne recevait par jour qu'un peu de pain d'orge, et de l'eau mêlée avec du vinaigre ; et cela par mesure, et autant qu'il en fallait pour ne pas mourir de faim ; au milieu de son affliction, s'étant souvenu du Seigneur, il eut recours à sa clémence, et une flamme miraculeuse l'ayant enveloppé, fondit ses chaînes, et le remit en liberté : fables. Ce fut à ce que nous croyons Saos-duchin, successeur d'Assaradon, qui rendit la liberté de Manassé quelques années après sa captivité.\nÉtant de retour à Jérusalem, [28] il rétablit le culte du Seigneur dans le Temple, abattit les autels profanes, et abolit toutes les traces du culte idolâtre, qu'il avait rendu aux faux dieux. Il laissa seulement les hauts lieux, où le peuple avait coutume d'aller sacrifier au Seigneur ; c'est la seule chose qu'on lui reproche depuis sa conversion. Il fortifia Jérusalem, et en rehaussa les murailles ; il établit des officiers de ses troupes dans toutes les villes de Juda. Sa vie et ses actions, sa chute, sa pénitence, et l'oraison qu'il avait adressée au Seigneur, étaient écrites dans les livres d'Hosaï. Les discours des prophètes qui lui avaient parlé au nom du Seigneur, se lisaient dans les annales des rois d'Israël. Voilà ce que nous savons de Manassé."
     },
     {
       "verse": 18,
@@ -128,7 +128,7 @@
     },
     {
       "verse": 18,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "HORTO OZA.",
       "lemma": "Il fut enseveli dans le jardin de sa maison, dans le jardin d'Oza.",
       "text": "Il avait apparemment fait creuser des tombeaux pour lui et pour les siens ; car Amon son fils y fut aussi enterré. [29] Le jardin d'Oza est, à ce qu'on croit, un jardin qui fut fait au même endroit, où Oza fut frappé de Dieu, comme il voulait toucher l'Arche ; [30] ou bien Oza est le même qu'Ozias Roi de Juda, dont il est parlé 2. Par. XXVI. 1. et 23. qui mourut lépreux, et qui fut enterré dans le champ où étaient les tombeaux des Rois. On dit [31] que Manassé par humilité, avait demandé cette sépulture, et n'avait pas voulu être enterré dans les tombeaux des Rois."
@@ -175,7 +175,7 @@
       "verse": 17,
       "mode": "flow",
       "before": " il eut recours à toutes les fausses divinités, auxquelles",
-      "after": "auxquels il avait autrefois donné de l'encens; il reconnut"
+      "after": "auxquels il avait autrefois donné de l'encens ; il reconnu"
     }
   ],
   "pages_used": [
@@ -203,22 +203,22 @@
     {
       "key": "page_0302-a",
       "n": 3,
-      "text": "(a) עשה אשרה"
+      "text": " עשה אשרה"
     },
     {
       "key": "page_0302-b",
       "n": 4,
-      "text": "(b) Voyez nôtre Diſſertation ſur les Divinitez Pheniciennes."
+      "text": " Voyez nôtre Dissertation sur les Divinitez Pheniciennes."
     },
     {
       "key": "page_0302-c",
       "n": 5,
-      "text": "(c) ועונן"
+      "text": " ועונן"
     },
     {
       "key": "page_0302-d",
       "n": 6,
-      "text": "(d) 70. ἐκλυδονίζετο."
+      "text": " 70. ἐκλυδονίζετο."
     },
     {
       "key": "page_0303-a",
@@ -238,7 +238,7 @@
     {
       "key": "page_0303-d",
       "n": 10,
-      "text": "עשה אוב 70. εποίησε θελητὴν. Quæſi אוב eſſet ab אבה volo. Vulgò 70. vertunt אוב inſerè εγγαστριμύθον, ventriloquus."
+      "text": "עשה אוב 70. εποίησε θελητὴν. Quæsi אוב esset ab אבה volo. Vulgò 70. vertunt אוב inserè εγγαστριμύθον, ventriloquus."
     },
     {
       "key": "page_0303-e",
@@ -258,12 +258,12 @@
     {
       "key": "page_0304-b",
       "n": 14,
-      "text": "Voyez ſur le Deuteronome nôtre Diſſertation ſur les ſupplices des anciens Hébreux."
+      "text": "Voyez sur le Deuteronome nôtre Dissertation sur les supplices des anciens Hébreux."
     },
     {
       "key": "page_0304-c",
       "n": 15,
-      "text": "Iſai. XXII. 13. Comedamus & bibamus ; cras enim moriemur. 14. Et revelata eſt in auribus meis vox Domini exercituum : Si dimittetur iniquitas hæc vobis, donec moriamini, dicit Dominus exercituum."
+      "text": "Isai. XXII. 13. Comedamus et bibamus ; cras enim moriemur. 14. Et revelata est in auribus meis vox Domini exercituum : Si dimittetur iniquitas hæc vobis, donec moriamini, dicit Dominus exercituum."
     },
     {
       "key": "page_0305-a",
@@ -278,12 +278,12 @@
     {
       "key": "page_0306-a",
       "n": 18,
-      "text": "Iſai. XIII. 1. XIV. 28. Jerem. XXIII. 33. 34. 36. 38. Nahum I. 1. Zach. IX. 1. XII. 1. 4. Reg. IX. 25. Ezech. XII. 10. Habac. I. 1. Malac. I. 1."
+      "text": "Isai. XIII. 1. XIV. 28. Jerem. XXIII. 33. 34. 36. 38. Nahum I. 1. Zach. IX. 1. XII. 1. 4. Reg. IX. 25. Ezech. XII. 10. Habac. I. 1. Malac. I. 1."
     },
     {
       "key": "page_0306-b",
       "n": 19,
-      "text": "Ænigm. Sympoſii,"
+      "text": "Ænigm. Symposii,"
     },
     {
       "key": "page_0306-c",
@@ -298,17 +298,17 @@
     {
       "key": "page_0307-a",
       "n": 22,
-      "text": "ואת אשר עשה ואת חטאתו. ἀνάγνωσμα τὸ ὡς ὅλημμος, &c. Ita Cald. Syr. Arab. alii pleriq. viq."
+      "text": "ואת אשר עשה ואת חטאתו. ἀνάγνωσμα τὸ ὡς ὅλημμος, etc. Ita Cald. Syr. Arab. alii pleriq. viq."
     },
     {
       "key": "page_0307-b",
       "n": 23,
-      "text": "2. Par. XXXIII. 11. & ſequ."
+      "text": "2. Par. XXXIII. 11. et sequ."
     },
     {
       "key": "page_0307-c",
       "n": 24,
-      "text": "Iſai. XX. 1."
+      "text": "Isai. XX. 1."
     },
     {
       "key": "page_0307-d",
@@ -328,7 +328,7 @@
     {
       "key": "page_0308-c",
       "n": 28,
-      "text": "Vide 2. Par. XXXIII. 13. & ſequ."
+      "text": "Vide 2. Par. XXXIII. 13. et sequ."
     },
     {
       "key": "page_0309-a",
@@ -344,71 +344,6 @@
       "key": "page_0309-c",
       "n": 31,
       "text": "Grot. Jun. Malv."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0301",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0302",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0303",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0304",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0305",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0306",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0307",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0308",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0309",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

@@ -16,7 +16,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET DECEM CUBITIS QUÆDAM EXTRINSECUS CŒLATURÆ, QUASI DUOBUS VERSIBUS ALTUM MARIS CIRCUIRANT.",
       "lemma": "Elle était environnée au dehors de deux rangs de consoles, y en ayant dix dans l’espace de chaque coudée.",
       "text": "Voyez le texte à la lettre de tout Au-dessous du bord, il y avait des figures de bœufs tout autour, qui environnaient la mer, dix dans la coudée, tout autour. Il y avait, dis-je, deux rangs de bœufs de fonte, de la même fonte que le vaisseau. Le Syriaque et les Septante ont omis ce ℣. La circonférence de la mer était de trente coudées ; il y avait dix têtes de bœufs dans l'espace de chaque coudée, ainsi il y avait trois cents têtes de bœufs dans la circonférence de ce vaisseau : et comme il y en avait deux rangs d'égale grandeur, l'un sur l'autre, il faut qu'il y ait eu six cents têtes de bœufs. Quelques-uns veulent qu'il n'y ait eu qu'une tête dans chaque coudée, et d'autres en mettent dix en une coudée, mais en sorte qu'il y en eût cinq dans la coudée d'en haut, et cinq dans celle d'en bas, qui lui répondaient.[9] Voyez notre Commentaire sur les Rois.[10]"
@@ -38,14 +38,14 @@
     {
       "verse": 8,
       "sub": false,
-      "latin_lemma": "PHIALAS CENTUM. Cent baſſins.",
+      "latin_lemma": "PHIALAS CENTUM. Cent bassins.",
       "lemma": null,
       "text": "Le terme Hébreu[12] signifie des patères, ou des instruments propres à faire des libations de liqueurs."
     },
     {
       "verse": 9,
       "sub": false,
-      "latin_lemma": "ATRIUM SACERDOTUM, ET BASILICAM GRANDEM. Le parvis des preſtres, & une grande Baſilique.",
+      "latin_lemma": "ATRIUM SACERDOTUM, ET BASILICAM GRANDEM. Le parvis des prestres, et une grande Basilique.",
       "lemma": null,
       "text": "L'Hébreu à la lettre : [13] _il fit le parvis des prêtres, et la grande Azerah, et des portes à l'Azerah._ Ce dernier terme signifie le grand parvis du temple, où le peuple s'assemblait. Salomon se fit faire une tribune dans le temple au milieu de l'Azerah, [14] dit l'Écriture. Or le Roi avait sa place dans le grand parvis du peuple ; Ézéchiel distingue deux _Azerah_, l'une grande, et l'autre petite ; [15] l'une plus basse, et l'autre plus haute ; l'une intérieure, et l'autre extérieure. [16] Le grand parvis est donc celui du peuple, et le petit est celui des Lévites. Celui-ci est nommé le parvis intérieur, et l'autre le parvis extérieur. Les portes de ces parvis étaient couvertes de plaques d'airain, comme l'Écriture le dit ici, et leur principale porte était du côté de l'orient, comme le marque Ézéchiel. [17] Le Syriaque, l'Arabe, et les Septante traduisent l'Hébreu _Azerah_, par un parvis, ci-après ch. VI. ℣. 13."
     },
@@ -69,6 +69,13 @@
       "latin_lemma": "COLUMNAS DUAS, ET EPISTYLIA, ET CAPITA, ET QUASI QUÆDAM RETIACULA, QUÆ CAPITA TEGERENT SUPER EPISTYLIA.",
       "lemma": "Il fit les deux colonnes, leurs épistyles, leurs chapiteaux, avec une espèce de rets, qui couvrait les chapiteaux par-dessus les épistyles.",
       "text": "Voici la traduction littérale de l'Hébreu : [20] _Il fit les deux colonnes et les cordons, et les couronnes qui étaient sur la tête des deux colonnes ; et deux espèces de rets, pour couvrir les deux cordons des couronnes, qui étaient sur les deux colonnes. Ce qu'il appelle ici les cordons des couronnes, sont des espèces de col-_ liers, qui étaient autour du couronnement des colonnes, il les appelle dans les Livres des Rois : [21] des rangs de pommes de grenades, disposées en forme de colliers, autant du couronnement de la colonne : Il y en avait deux rangs à chaque chapiteau, cent grenades à chaque rang, [22] qui faisaient deux cents grenades à chaque colonne, [23] et quatre cents pour les deux, comme il est marqué ici au ℣. suivant."
+    },
+    {
+      "verse": 12,
+      "sub": false,
+      "latin_lemma": "THYMIAMATERIA ET THURIBULA.",
+      "lemma": "Les cassolettes, les encensoirs, etc.",
+      "text": "Voyez 3. Reg. VII. 50."
     },
     {
       "verse": 13,
@@ -97,13 +104,6 @@
       "latin_lemma": "FLORENTIA QUÆDAM ET LUCERNAS.",
       "lemma": "Les fleurons et les lampes.",
       "text": "Il veut apparemment marquer les lampions des lampes, qui étaient en forme de fleurs ouvertes et épanouies. Les Septante traduisent : [29] _Leurs anses et leurs lampes._ J'aimerais mieux dire, et la tige du chandelier, qui était en forme d'une plante qui produit sa fleur, était d'or, de même que le lampion, et tout le reste. On trouve les mêmes termes, et la même description dans les livres des Rois.[30]"
-    },
-    {
-      "verse": 12,
-      "sub": false,
-      "latin_lemma": "THYMIAMATERIA ET THURIBULA.",
-      "lemma": "Les cassolettes, les encensoirs, etc.",
-      "text": "Voyez 3. Reg. VII. 50."
     }
   ],
   "joins": [
@@ -179,27 +179,27 @@
     {
       "key": "page_0024-d",
       "n": 4,
-      "text": "1. Macc. IV. 44. 45. 47. Reposuerunt lapides ( altaris contaminati ) in monte domûs, in loco apto, quoadusque veniret Propheta, & responderet de eis ; & acceperunt lapides integros, secundùm legem, & ædificaverunt altare novum."
+      "text": "1. Macc. IV. 44. 45. 47. Reposuerunt lapides ( altaris contaminati ) in monte domûs, in loco apto, quoadusque veniret Propheta, et responderet de eis ; et acceperunt lapides integros, secundùm legem, et ædificaverunt altare novum."
     },
     {
       "key": "page_0025-a",
       "n": 5,
-      "text": "Tract. Middoth. c. 3. ſect. 1."
+      "text": "Tract. Middoth. c. 3. sect. 1."
     },
     {
       "key": "page_0025-b",
       "n": 6,
-      "text": "Exod. xx. 26. Non aſcendes per gradus ad altare meum."
+      "text": "Exod. xx. 26. Non ascendes per gradus ad altare meum."
     },
     {
       "key": "page_0025-c",
       "n": 7,
-      "text": "Joſeph. lib. 6 de Bello, c. 6 ſeu lib. 1. cap. 14. in Græco. & ſupra citati, & ſim. Βωμὸς λίθινος, ὕψος δὲ ἢ μῆκος ἑκατέρου ἴσον, ἀνὰ πεντεκαίδεκα πήχεις; ἐπ᾽ ἀυτῶι ἄνοδος ἠρέμα ἀνάντης ὑπῆρχεν."
+      "text": "Joseph. lib. 6 de Bello, c. 6 seu lib. 1. cap. 14. in Græco. et supra citati, et sim. Βωμὸς λίθινος, ὕψος δὲ ἢ μῆκος ἑκατέρου ἴσον, ἀνὰ πεντεκαίδεκα πήχεις; ἐπ᾽ ἀυτῶι ἄνοδος ἠρέμα ἀνάντης ὑπῆρχεν."
     },
     {
       "key": "page_0025-d",
       "n": 8,
-      "text": "3. Reg. VII. 24. שני טורים הפקעים סבבו אתו & ici, ופני הפרים צפונה"
+      "text": "3. Reg. VII. 24. שני טורים הפקעים סבבו אתו et ici, ופני הפרים צפונה"
     },
     {
       "key": "page_0026-d",
@@ -229,7 +229,7 @@
     {
       "key": "page_0027-c",
       "n": 14,
-      "text": "2. Par. VI 13. _Fecerat baſim æneam, & poſuerat in media baſilica._"
+      "text": "2. Par. VI 13. _Fecerat basim æneam, et posuerat in media basilica._"
     },
     {
       "key": "page_0027-d",
@@ -244,7 +244,7 @@
     {
       "key": "page_0028-a",
       "n": 17,
-      "text": "Id. IZIII. v7. Gradus ejus verſus orientem."
+      "text": "Id. IZIII. v7. Gradus ejus versus orientem."
     },
     {
       "key": "page_0028-b",
@@ -264,17 +264,17 @@
     {
       "key": "page_0029-a",
       "n": 21,
-      "text": "3. Reg. VII. 18. _Duos ordines, per circuitum retiaculorum.... malogranatorum._ Voyez auſſi le ℣. 20."
+      "text": "3. Reg. VII. 18. _Duos ordines, per circuitum retiaculorum.... malogranatorum._ Voyez aussi le ℣. 20."
     },
     {
       "key": "page_0029-b",
       "n": 22,
-      "text": "Voyez le ℣. 16. du chapitre précédent, & Jerem. LII. 23."
+      "text": "Voyez le ℣. 16. du chapitre précédent, et Jerem. LII. 23."
     },
     {
       "key": "page_0029-c",
       "n": 23,
-      "text": "3. Reg. VII. 20. _Malogranatorum ducenti ordines erant in circuitu capitelli ſecundi._"
+      "text": "3. Reg. VII. 20. _Malogranatorum ducenti ordines erant in circuitu capitelli secundi._"
     },
     {
       "key": "page_0029-d",
@@ -309,65 +309,7 @@
     {
       "key": "page_0031-a",
       "n": 30,
-      "text": "3 Reg. VII. 49 Candelaire aurea,... & quaſi lilii flores, & lucernas deſuper aureas. II. Livre des Paralip."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0024",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0025",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0026",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0027",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0028",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0029",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0030",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0031",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "3 Reg. VII. 49 Candelaire aurea,... et quasi lilii flores, et lucernas desuper aureas. II. Livre des Paralip."
     }
   ],
   "missing_footnotes": []

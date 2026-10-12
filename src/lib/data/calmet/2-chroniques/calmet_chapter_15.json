@@ -37,14 +37,14 @@
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "EX URBIBUS QUAS CÆPERAT MONTIS EPHRAIM.",
       "lemma": "Des villes du mont d'Ephraïm qu'il avait prises.",
       "text": "Ces villes sont peut-être Béthel, Ephron, et Jésana, avec leurs dépendances, qu'Abia père d'Asa, avait prises sur Jéroboam ; [9] car nous ne lisons pas qu'Asa en ait pris aucune. Il est pourtant encore parlé ci-après [10] des villes prises par Asa, ce qui peut faire croire qu'il fit quelques conquêtes sur Ephraïm, dont nous n'avons point de connaissance."
     },
     {
       "verse": 8,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DEDICAVIT ALTARE QUOD ERAT ANTE PORTICUM DOMINI.",
       "lemma": "Il dédia l'autel qui était devant le portique du Seigneur.",
       "text": "Serait-il possible que ce Prince eût laissé l'autel des holocaustes, sans y offrir des sacrifices, jusqu'à la quinzième année de son règne, où cette guerre arriva ? [11] Le culte du Seigneur était-il plus négligé sous son gouvernement, que sous celui de son père Abia, qui disait en parlant à Jéroboam Roi d'Israël, [12] _les Prêtres de la race d'Aaron servent le Seigneur, et lui offrent tous les jours soir et matin les holocaustes ordinaires ?_ Il faut donc dire qu'on commença à préparer l'autel des holocaustes, d'une manière plus solennelle, pour y offrir un plus grand nombre de victimes qu'on n'avait fait jusqu'alors ; on renouvela en quelque manière la dédicace, et on célébra une fête aussi belle, que si on l'eût dédié pour la première fois. Quelques-uns [13] croient que dans cette occasion, on immola des victimes non seulement sur l'autel des holocaustes ; mais aussi sur l'autel que Salomon avait fait dresser dans le parvis, parce que l'autel d'airain ne pouvait seul porter toutes les victimes qu'on offrait. On dédia donc de nouveau cet autel, en y immolant des victimes comme avait fait Salomon. [14] En effet il paraît impossible d'immoler sur un seul autel sept cents bœufs, et sept mille béliers en un jour, comme fit Asa dans cette fête. [15] L'autel dont on parle ici était devant le portique du Seigneur, c'est-à-dire, dans la partie antérieure du parvis des Prêtres, à l'orient de l'autel des holocaustes."
@@ -79,7 +79,7 @@
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AUGUSTO DEPOSUIT IMPERIO, EO QUOD FECISSET IN LUCO SIMULACRUM PRIAPI.",
       "lemma": "Asa ôta aussi l'autorité souveraine à Maacha sa mère, parce qu'elle avait élevé dans un bois une idole à Priape.",
       "text": "On peut traduire l'Hébreu : [21] _Asa éloigna Maacha sa mère_ (ou son aïeule) : [22] _de la souveraine autorité, parce qu'elle avait fait une idole à Astarte_, ou à _Aséra_. Les Septante : [23] _il éloigna sa mère, afin qu'elle ne servît plus à Astarte_. Le Syriaque et l'Arabe : _Il priva sa mère de la souveraine autorité, parce qu'elle avait célébré une fête aux idoles_. Mais ce qui fait croire que cette Reine avait élevé une idole à la Déesse du bois, ou à Astarte, c'est qu'aussitôt après il est dit, qu'Asa brisa ce qu'elle avait érigé, et qu'il le brûla dans le torrent de Cédron. Voyez notre Dissertation sur les Divinités Phéniciennes."
@@ -172,22 +172,22 @@
     {
       "key": "page_0092-a",
       "n": 1,
-      "text": "Vide Eſtium bis."
+      "text": "Vide Estium bis."
     },
     {
       "key": "page_0092-b",
       "n": 2,
-      "text": "Munſter Jun Tirin. Sandius."
+      "text": "Munster Jun Tirin. Sandius."
     },
     {
       "key": "page_0093-a",
       "n": 3,
-      "text": "Ita quidam apud Menoſh. Tirin."
+      "text": "Ita quidam apud Menosh. Tirin."
     },
     {
       "key": "page_0093-b",
       "n": 4,
-      "text": "Oſee III. 4. 5."
+      "text": "Osee III. 4. 5."
     },
     {
       "key": "page_0093-c",
@@ -202,12 +202,12 @@
     {
       "key": "page_0094-a",
       "n": 7,
-      "text": "Autor quarti Lib. Eſdr. cap. XIV. 43. ad Chilon. Ita & Lyran. hic, &c. 44. & ſeq. Clem. Alex. lib. I. Stromat. Theodoret. in Pſal. & in Cantic. Cant. Baſil. ep."
+      "text": "Autor quarti Lib. Esdr. cap. XIV. 43. ad Chilon. Ita et Lyran. hic, etc. 44. et seq. Clem. Alex. lib. I. Stromat. Theodoret. in Psal. et in Cantic. Cant. Basil. ep."
     },
     {
       "key": "page_0094-b",
       "n": 8,
-      "text": "Vide Lyr. ad ℣. 6. Menoch. Grot. Vat. &c."
+      "text": "Vide Lyr. ad ℣. 6. Menoch. Grot. Vat. etc."
     },
     {
       "key": "page_0095-a",
@@ -222,7 +222,7 @@
     {
       "key": "page_0095-c",
       "n": 11,
-      "text": "Voyez le ℣. 9. Anno decimo quinto regni Aſa."
+      "text": "Voyez le ℣. 9. Anno decimo quinto regni Asa."
     },
     {
       "key": "page_0095-d",
@@ -237,7 +237,7 @@
     {
       "key": "page_0096-b",
       "n": 14,
-      "text": "3. Reg. VIII. 64. & 2. Par. VII. 7."
+      "text": "3. Reg. VIII. 64. et 2. Par. VII. 7."
     },
     {
       "key": "page_0096-c",
@@ -257,7 +257,7 @@
     {
       "key": "page_0096-f",
       "n": 18,
-      "text": "Voyez 3. Reg. XII. 17. & 1.Par. IV. 31."
+      "text": "Voyez 3. Reg. XII. 17. et 1.Par. IV. 31."
     },
     {
       "key": "page_0097-a",
@@ -267,7 +267,7 @@
     {
       "key": "page_0097-b",
       "n": 20,
-      "text": "_Vide Geneſ. XV. 9. 10. 17._"
+      "text": "_Vide Genes. XV. 9. 10. 17._"
     },
     {
       "key": "page_0098-a",
@@ -277,7 +277,7 @@
     {
       "key": "page_0098-b",
       "n": 22,
-      "text": "Voyez ce qui a été remarqué ſur 3. Reg. XV. 13. & 2. Par. XI. 10."
+      "text": "Voyez ce qui a été remarqué sur 3. Reg. XV. 13. et 2. Par. XI. 10."
     },
     {
       "key": "page_0098-c",
@@ -298,71 +298,6 @@
       "key": "page_0098-f",
       "n": 26,
       "text": "1. Par. XXVI. 26."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0091",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0092",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0093",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0094",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0095",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0096",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0097",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0098",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0099",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

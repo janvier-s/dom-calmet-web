@@ -93,7 +93,7 @@
     },
     {
       "verse": 21,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "PES, ET EOS QUI OPPRESSI FUERANT RELEVANS.",
       "lemma": "Il fait tomber les Princes dans le mépris, et il relève ceux qui avaient été opprimés.",
       "text": "Voyez la même expression dans le Psaume CVI. 40. L'Hébreu :[21] _Il répand la confusion sur les Princes, et il relâche la ceinture des forts ;_ ou, _il les désarme._ Accingere, dans l'Écriture, se prend ordinairement pour armer ; _accinctus_, un homme armé, un guerrier. La ceinture était aussi le symbole d'un voyageur ; parce qu'en voyage, on troussait ses habits, pour marcher avec plus de liberté. Les Septante :[22] _Il charge les Princes de confusion, et il guérit les humbles._"
@@ -192,7 +192,7 @@
     {
       "key": "page_0183-a",
       "n": 1,
-      "text": "אמנם כי אתם עם ועמכם תמות חכמה. _Idſtùm vobis. Ita Syr. Arab._"
+      "text": "אמנם כי אתם עם ועמכם תמות חכמה. _Idstùm vobis. Ita Syr. Arab._"
     },
     {
       "key": "page_0183-b",
@@ -222,7 +222,7 @@
     {
       "key": "page_0185-b",
       "n": 7,
-      "text": "Vide D. Thom. hic, & Sand. n. 16."
+      "text": "Vide D. Thom. hic, et Sand. n. 16."
     },
     {
       "key": "page_0187-a",
@@ -257,12 +257,12 @@
     {
       "key": "page_0187-g",
       "n": 14,
-      "text": "_Hebr. Vatab. Caiet. Engab. Mercun. Marian. Piſc. alli._"
+      "text": "_Hebr. Vatab. Caiet. Engab. Mercun. Marian. Pisc. alli._"
     },
     {
       "key": "page_0188-a",
       "n": 15,
-      "text": "V. de 1. Reg. VIII. 18. Iſai. LXI. 6."
+      "text": "V. de 1. Reg. VIII. 18. Isai. LXI. 6."
     },
     {
       "key": "page_0188-b",
@@ -302,7 +302,7 @@
     {
       "key": "page_0189-c",
       "n": 23,
-      "text": "צלמות Ethiop. צלם, Obnubilari, Arab. טלם obſcurari. צלמות Legi poteſt Zalemoth, non Zal-maveth."
+      "text": "צלמות Ethiop. צלם, Obnubilari, Arab. טלם obscurari. צלמות Legi potest Zalemoth, non Zal-maveth."
     },
     {
       "key": "page_0190-a",
@@ -313,64 +313,6 @@
       "key": "page_0190-b",
       "n": 25,
       "text": "מֵסִיר לֵב רָאשֵׁי 70. Διαλλάσσων καρ-"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0183",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0184",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0185",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0186",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0187",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0188",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0189",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0190",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": [

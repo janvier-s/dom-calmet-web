@@ -203,15 +203,6 @@
     },
     {
       "verse_number": 23,
-      "latin": "Per verbum Domini figebant tentoria, et per verbum illius proficiscebantur: erantque in excubiis Domini, juxta imperium ejus per manum Moysi.",
-      "french": "Ils dressaient leurs tentes au commandement du Seigneur, ils partaient à son commandement, et ils demeuraient comme en sentinelle à observer la nuée, selon les ordres que le Seigneur leur en avait donnés par Moïse.",
-      "annotations": null,
-      "source_pages": [
-        "page_0124.json"
-      ]
-    },
-    {
-      "verse_number": 23,
       "latin": "In tribu autem filiorum Manasse princeps fuit Gamaliel filius Phadassur.",
       "french": "Gamaliel, fils de Phadassur, était le Prince de la Tribu des enfants de Manassé:",
       "annotations": null,
@@ -325,6 +316,14 @@
       "annotations": null,
       "source_pages": [
         "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Cùm autem deponeretur, aiebat: Revertere, Domine, ad multitudinem exercitûs Israël.",
+      "french": "Et lorsqu'on posait l'Arche, il disait: Seigneur, retournez à l'armée de la multitude d’Israël.",
+      "source_pages": [
+        "page_0133.json"
       ]
     }
   ]

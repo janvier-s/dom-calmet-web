@@ -9,7 +9,7 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SACERDOTIO FUNCTUS EST ELEAZAR ET ITHAMAR.",
       "lemma": "Eléazar et Ithamar firent toutes les fonctions sacerdotales :",
       "text": "ou plutôt, les familles d'Eléazar et d'Ithamar demeurèrent seules de la race sacerdotale d'Aaron. Eléazar et Ithamar exercèrent les fonctions sacerdotales sous les ordres d'Aaron leur père pendant sa vie ; Eléazar lui succéda : et le sacerdoce entra dans la famille d'Ithamar sous Héli."
@@ -37,7 +37,7 @@
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ERANT ENIM PRINCIPES SANCTUARII, ET PRINCIPES DEI.",
       "lemma": "Car ils étaient les Princes du sanctuaire, et les Princes de Dieu.",
       "text": "Ils étaient chargés des premières et des plus nobles fonctions du Sacerdoce dans le temple; ils étaient comme des Princes de Dieu comme de grands Princes, [6] ou bien, ils étaient Princes dans ce qui regarde le culte de la divinité, dans tout ce qui regarde le service de Dieu; autrement, ils possédaient les premières dignités du Sacerdoce: et de la Judicature: _Princes du sanctuaire, et Princes des Juges_. C'est le sens que Grotius donne à l'Hébreu; [7] le mot _Elohim_, signifie Dieu, ou les Juges."
@@ -47,7 +47,7 @@
       "sub": false,
       "latin_lemma": "UNAM DOMUM QUÆ CÆTERIS PRÆERAT, ELEAZAR: ET ALTERAM DOMUM QUÆ SUB SE HABEBAT CÆTEROS, ITHAMAR.",
       "lemma": "Prenant d'une part la famille d'Eléazar, qui était la première de toutes en dignité, et d'autre part celle d'Ithamar, qui en avait plusieurs autres sous elle.",
-      "text": "La famille d'Eléazar était la plus illustre des deux familles sacerdotales; premièrement parce qu'elle était descendue de l'aîné des fils d'Aaron; 2°. parce que Dieu lui avait promis le sacerdoce pour toujours;[8] et 3°. parce qu'elle était la plus nombreuse, comme on l'a vu ci-devant au ℣. 4. La famille d'Ithamar était après celle d'Eléazar, la plus considérable; elle possédait alors le Sacerdoce dans la personne d'Abiathar, et avait sous elle plusieurs familles. L'Hébreu de ce passage est fort obscur, et d'habiles critiques[9] le croient corrompu. Le voici à la lettre :[10] _Une famille attachée à Eléazar, et attachée à Ithamar_. Les Septante sont plus clairs :[11] on prit le rôle de chaque famille séparément, _un et un d'Eléazar, et un et un d'Ithamar_. On prenait les familles d'Eléazar et d'Ithamar l'une après l'autre, et on marqua séparément les noms de chaque particulier qui s'y trouvèrent ; ce sens paraît assez net ; ce dénombrement, et cette distribution des familles sacerdotales, se firent de la manière la plus authentique et la plus solennelle, en présence des Princes, des deux Grands Prêtres, et des Chefs des familles Sacerdotales et Lévitiques. On voit dans Josèphe[12] le soin extrême que les Prêtres et les Lévites avaient eu de conserver jusqu'à son temps le rôle et la suite de leur Généalogie, et comme quoi l'Ordre des Prêtres subsista dans la Nation jusqu'à la fin ; de la même manière qu'il avait été réglé par Moïse; c'est ce qui nous est aussi confirmé par les Évangélistes qui nous parlent de la famille d'Abia ;[13] que nous voyons ici la huitième."
+      "text": "La famille d'Eléazar était la plus illustre des deux familles sacerdotales; premièrement parce qu'elle était descendue de l'aîné des fils d'Aaron; \n2°. parce que Dieu lui avait promis le sacerdoce pour toujours;[8] et 3°. parce qu'elle était la plus nombreuse, comme on l'a vu ci-devant au ℣. 4. La famille d'Ithamar était après celle d'Eléazar, la plus considérable; elle possédait alors le Sacerdoce dans la personne d'Abiathar, et avait sous elle plusieurs familles. L'Hébreu de ce passage est fort obscur, et d'habiles critiques[9] le croient corrompu. Le voici à la lettre :[10] _Une famille attachée à Eléazar, et attachée à Ithamar_. Les Septante sont plus clairs :[11] on prit le rôle de chaque famille séparément, _un et un d'Eléazar, et un et un d'Ithamar_. On prenait les familles d'Eléazar et d'Ithamar l'une après l'autre, et on marqua séparément les noms de chaque particulier qui s'y trouvèrent ; ce sens paraît assez net ; ce dénombrement, et cette distribution des familles sacerdotales, se firent de la manière la plus authentique et la plus solennelle, en présence des Princes, des deux Grands Prêtres, et des Chefs des familles Sacerdotales et Lévitiques. On voit dans Josèphe[12] le soin extrême que les Prêtres et les Lévites avaient eu de conserver jusqu'à son temps le rôle et la suite de leur Généalogie, et comme quoi l'Ordre des Prêtres subsista dans la Nation jusqu'à la fin ; de la même manière qu'il avait été réglé par Moïse; c'est ce qui nous est aussi confirmé par les Évangélistes qui nous parlent de la famille d'Abia ;[13] que nous voyons ici la huitième."
     },
     {
       "verse": 19,
@@ -100,7 +100,7 @@
     },
     {
       "verse": 31,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "TAM MAJORES, QUAM MINORES, OMNES SORS ÆQUALITER DIVIDEBAT.",
       "lemma": "Ainsi tout se jettait au sort pour diviser également les Offices, soit entre les anciens, ou les plus jeunes.",
       "text": "L'Hébreu est fort concis et fort obscur ; [23] _Le chef de la famille, vis-à-vis de ses moindres frères_ ; on traita également le chef de la famille, et le dernier de la famille ; les Septante, [24] _les Patriarches des Lévites, de même que leurs frères les plus jeunes_ ; on les tira tous également au sort dans leur rang."
@@ -125,7 +125,7 @@
       "seam": "page_0268>page_0269",
       "verse": 6,
       "mode": "flow",
-      "before": "scendue de l'aîné des fils d'Aaron; 2°. parce que Dieu lui",
+      "before": "cendue de l'aîné des fils d'Aaron; \n2°. parce que Dieu lui",
       "after": "avait promis le sacerdoce pour toujours;^{(a)} et 3°. parc"
     }
   ],
@@ -157,7 +157,7 @@
     {
       "key": "page_0267-c",
       "n": 4,
-      "text": "Ita Vat. Caſtal. Tigur. Syriac."
+      "text": "Ita Vat. Castal. Tigur. Syriac."
     },
     {
       "key": "page_0267-d",
@@ -177,12 +177,12 @@
     {
       "key": "page_0269-a",
       "n": 8,
-      "text": "Num. XXV. 13. Do ei ( Phinees filio Eleazari ) pacem fœderis mei, & erit tam ipſi, quàm ſemini ejus, pactum ſacerdotii ſempiternum."
+      "text": "Num. XXV. 13. Do ei ( Phinees filio Eleazari ) pacem fœderis mei, et erit tam ipsi, quàm semini ejus, pactum sacerdotii sempiternum."
     },
     {
       "key": "page_0269-b",
       "n": 9,
-      "text": "Capell. Caſtal. Grot."
+      "text": "Capell. Castal. Grot."
     },
     {
       "key": "page_0269-c",
@@ -197,7 +197,7 @@
     {
       "key": "page_0269-e",
       "n": 12,
-      "text": "Vide Joſeph. contra Appion. l. 1. p. 1036. & l. 2. p. 1066. & lib. 7. Antiq. c. 20."
+      "text": "Vide Joseph. contra Appion. l. 1. p. 1036. et l. 2. p. 1066. et lib. 7. Antiq. c. 20."
     },
     {
       "key": "page_0269-f",
@@ -212,7 +212,7 @@
     {
       "key": "page_0270-b",
       "n": 15,
-      "text": "Voyez ci-aprés chap. XXVI. ℣. 24. _Subaël filius Gerſon, filii Moyſi, præpoſitus theſauris._"
+      "text": "Voyez ci-aprés chap. XXVI. ℣. 24. _Subaël filius Gerson, filii Moysi, præpositus thesauris._"
     },
     {
       "key": "page_0270-c",
@@ -232,7 +232,7 @@
     {
       "key": "page_0271-c",
       "n": 19,
-      "text": "I. Par. XXIII. 19. & XXVI. 31."
+      "text": "I. Par. XXIII. 19. et XXVI. 31."
     },
     {
       "key": "page_0271-d",
@@ -247,68 +247,17 @@
     {
       "key": "page_0272-a",
       "n": 22,
-      "text": "Capell. Critic. &c. Grot. hic."
+      "text": "Capell. Critic. etc. Grot. hic."
     },
     {
       "key": "page_0272-b",
       "n": 23,
-      "text": "אבות הראש לעמת אחיו הקטן ce terme barbare & inutile Α'κρὰβ dans cet endroit ; il n'y a rien dans l'Hébreu qui lui reſſemble."
+      "text": "אבות הראש לעמת אחיו הקטן ce terme barbare et inutile Α'κρὰβ dans cet endroit ; il n'y a rien dans l'Hébreu qui lui ressemble."
     },
     {
       "key": "page_0272-c",
       "n": 24,
-      "text": "καὶ τῶι Λευιτῶν πατριάρχαι Α'κρὰβ, καὶ ὀι ἀδελφοὶ ἀυτῶ ὀι νεώτεροι. Je ne ſai d'où vient"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0266",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0267",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0268",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0269",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0270",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0271",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0272",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "καὶ τῶι Λευιτῶν πατριάρχαι Α'κρὰβ, καὶ ὀι ἀδελφοὶ ἀυτῶ ὀι νεώτεροι. Je ne sai d'où vient"
     }
   ],
   "missing_footnotes": []

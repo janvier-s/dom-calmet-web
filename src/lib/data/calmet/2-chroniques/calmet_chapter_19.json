@@ -23,7 +23,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ET PRÆPARAVERIS COR TUUM UT REQUIRERES DOMINUM.",
       "lemma": "Et que vous avez préparé votre cœur pour chercher le Seigneur.",
       "text": "Les Septante: _Vous avez dirigé votre cœur._ Le Syriaque, et l'Arabe: _Vous l'avez disposé, etc._ La foi nous enseigne que nous ne pouvons rien de nous-mêmes pour le bien; mais elle nous enseigne aussi que nous avons la liberté de faire, ou de ne pas faire le mal, et que soit que nous nous déterminions au bien, ou au mal, c'est toujours avec une parfaite liberté, et par le choix de notre volonté."
@@ -44,7 +44,7 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SED DOMINI, ET QUODCUMQUE JUDICAVERITIS, IN VOS REDUNDABIT.",
       "lemma": "Ce n’est pas la justice des hommes que vous exercez, c’est celle du Seigneur : et tout ce que vous aurez jugé, retombera sur vous.",
       "text": "On peut donner ce sens à l’Hébreu : [4] _Car vous ne jugerez point pour l’homme, mais pour Dieu ; et le Seigneur est avec vous lorsque vous jugez._ Vous devez le considérer comme assis au milieu de vous, et présidant à vos jugements : _Deus stetit in synagoga deorum, ou judicum;_ [5] Votre fonction n’est pas une fonction humaine, mais une fonction toute divine ; vous devez moins considérer l’homme dont vous êtes les Juges, que Dieu à qui vous rendrez compte de vos jugements."
@@ -72,7 +72,7 @@
     },
     {
       "verse": 10,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "INTER COGNATIONEM ET COGNATIONEM.",
       "lemma": "Entre famille et famille.",
       "text": "Lorsqu'il s'agit de décider sur les degrés de parenté pour les successions, ou les mariages. L'Hébreu : [9] _Entre sang et sang._ Dans les matières de meurtre, si l'homicide est casuel, ou s'il est volontaire."
@@ -122,7 +122,7 @@
     {
       "key": "page_0122-b",
       "n": 3,
-      "text": "Voyez ci-devant I. Par. XIII. 19. & XV. 8."
+      "text": "Voyez ci-devant I. Par. XIII. 19. et XV. 8."
     },
     {
       "key": "page_0123-a",
@@ -132,7 +132,7 @@
     {
       "key": "page_0123-b",
       "n": 5,
-      "text": "Pſal. LXXXI. 1."
+      "text": "Psal. LXXXI. 1."
     },
     {
       "key": "page_0124-a",
@@ -147,7 +147,7 @@
     {
       "key": "page_0124-c",
       "n": 8,
-      "text": "Joſeph. Antiq. l. 9. c. 1. Εῦτα διατάξας κατὰ πόλιν..., ἐπεστράφη εἰς Ἱεροσόλυμα."
+      "text": "Joseph. Antiq. l. 9. c. 1. Εῦτα διατάξας κατὰ πόλιν..., ἐπεστράφη εἰς Ἱεροσόλυμα."
     },
     {
       "key": "page_0125-a",
@@ -163,43 +163,6 @@
       "key": "page_0125-c",
       "n": 11,
       "text": "Ibid. ℣. 9."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0121",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0122",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0123",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0124",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0125",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

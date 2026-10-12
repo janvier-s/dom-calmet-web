@@ -1,13 +1,6 @@
 {
   "notes": [
     {
-      "verse": 28,
-      "sub": false,
-      "latin_lemma": "VIDENTES SAPIENTIAM DEI ESSE IN ILLO.",
-      "lemma": "Voyant que la sagesse de Dieu était en lui.",
-      "text": "Une sagesse extraordinaire, et surprenante, est nommée une _sagesse de Dieu_, de même qu'un _sommeil de Dieu_, [1] un profond sommeil: un _renversement de Dieu_, [2] un renversement total, semblable à celui de Sodome et de Gomorrhe; une _frayeur de Dieu_, [3] une _punition de Dieu_, un _vent de Dieu_, etc. [4] On peut aussi l'entendre plus simplement d'une sagesse venue de Dieu, d'une intelligence infuse, et d'un ordre surnaturel."
-    },
-    {
       "verse": 2,
       "sub": false,
       "latin_lemma": "HI PRINCIPES QUOS HABEBAT.",
@@ -16,7 +9,7 @@
     },
     {
       "verse": 2,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AZARIAS, FILIUS SADOC SACERDOTIS.",
       "lemma": "Azarias, fils du grand-Prêtre Sadoc, était Secrétaire,",
       "text": "avec Elihoreph, et Ahia, marqués au ℣. suivant. Il y en a qui traduisent : [6] _Azarias, petit-fils de Sadoc, et fils d'Achimaas, était Prêtre de Salomon._ Il servait particulièrement le Prince, de même qu'Ira Jaïrites était Prêtre particulier de David. [7] D'autres : _Azarias, fils de Sadoc_ ( non du grand-Prêtre Sadoc, mais d'un autre, ) _était le premier, le Chef, le principal des Officiers du Roi. Cohen_, qui se met ordinairement pour un Prêtre, signifie aussi un Grand, un Prince. C’est en ce sens qu’il est dit que les fils de David étaient Prêtres. Enfin on peut dire qu'Azarias était Prêtre avec son père. Il l'aidait dans ses fonctions. Il était comme son coadjuteur."
@@ -30,7 +23,7 @@
     },
     {
       "verse": 3,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "JOSAPHAT A COMMENTARIIS.",
       "lemma": "Josaphat était Chancelier.",
       "text": "Ou plutôt, [8] l'Historiographe du Roi, selon Vatable; ou, Maître des Requêtes, _Magister libellorum supplicum_, selon Grotius. On peut voir ce que nous avons remarqué sur le 2. Reg. VIII.16."
@@ -44,7 +37,7 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SADOC ET ABIATHAR SACERDOTES.",
       "lemma": "Sadoc et Abiathar étaient grands-Prêtres.",
       "text": "Sadoc en faisait les fonctions; mais Abiathar était relégué dans sa maison à la campagne, et ne paraissait plus dans le Temple. Il ne conservait que le nom de cette souveraine dignité, comme font encore les Évêques, qui ont quitté, ou résigné leur Évêché. Il y en a [9] qui conjecturent que Salomon ait rappelé Abiathar, et l'ait réhabilité depuis qu'il fut en paisible possession de ses États; mais on n'a aucune preuve de ce sentiment."
@@ -58,7 +51,7 @@
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ZABUD FILIUS NATHAN, SACERDOS, AMICUS REGIS.",
       "lemma": "Zabud Prêtre, fils de Nathan, favori du Roi.",
       "text": "On peut traduire l'Hébreu [13] par, _Zabud, fils du Prêtre Nathan_; ou, _Zabud Prince_, ou Chef du Conseil, ou premier Officier du Roi, _était favori de Salomon_. On a déjà vu sur le ℣. 2. l'équivoque du mot Hébreu _Cohen_,"
@@ -72,7 +65,7 @@
     },
     {
       "verse": 6,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ADONIRAM SUPER TRIBUTA.",
       "lemma": "Adoniram surintendant des tributs.",
       "text": "[14] Il recevait les tributs, tant ceux qui étaient imposés sur le peuple, que ceux qui venaient des Provinces soumises, et tributaires. Mais cette explication, toute littérale qu'elle paraisse, ne laisse pas d'avoir ses difficultés : car on lit au Chapitre suivant, qu'Adoniram avait l'intendance sur ceux qu'on envoyait travailler au mont Liban ; [15] et on s'y sert dans l'Hébreu du même terme qui est traduit ici par les tributs. Ainsi je ne doute pas que le véritable emploi d'Adoniram, n'ait été de commander les corvées, et d'avoir l'intendance sur les trente mille ouvriers que le Roi employa sur le mont Liban à tirer les pierres, et à couper les bois pour le Temple ; et ensuite dans les autres travaux que le Roi entreprit pour ses palais, ou pour l'ornement de la ville de Jérusalem."
@@ -86,21 +79,21 @@
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BEN-HUR",
       "lemma": null,
       "text": "c'est-à-dire, _fils de Hur_ ; de même que ci-après, _Ben-Decar, Ben-Hesed, Ben-Aminadab. Ben_, en Hébreu, signifie, _fils_."
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN MACES",
       "lemma": null,
       "text": "ou _Maccés_, ou _Ma'az_. On ne sait pas la situation de cette ville ; mais il y a toute apparence qu'elle était vers le pays de Dan, et frontière des Philistins, parce qu'elle est jointe à Salebim, et à Bethsamés, qui sont dans ces quartiers-là. Je pense que la ville de Maccés marquée _3. Reg. IV. 9._ n'est autre que le lieu nommé _Machtés. Judic. XV. 19. et Sephon, I. II._ dans l'Hébreu. La situation de Maccés dans la Tribu de Dan, y revient fort bien."
     },
     {
       "verse": 7,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "IN ELON, ET IN BETHANAN.",
       "lemma": null,
       "text": "A _Elon_, et à _Béthanan_. L'Hébreu lit : _A Elon-Béthanan_ ; dans Elon, situé à Béthan, ou appartenant à la maison d'Anan ; ou, si l'on veut, à la Chênaie de Béthanan."
@@ -122,27 +115,27 @@
     {
       "verse": 12,
       "sub": false,
-      "latin_lemma": "THANAC ET MAGEDDO, &c.",
+      "latin_lemma": "THANAC ET MAGEDDO, etc.",
       "lemma": null,
       "text": "On peut voir Josué, XXI. 25. et Judic. I. 27."
     },
     {
       "verse": 12,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BETHSAN.",
       "lemma": null,
       "text": "Au-dessous de la sortie du Jourdain de la mer de Tibériade."
     },
     {
       "verse": 12,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SARTHANA.",
       "lemma": null,
       "text": "Voyez Josué, III. 16."
     },
     {
       "verse": 12,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ABELMEHULA.",
       "lemma": null,
       "text": "Le Chaldéen : _La vallée_, ou la campagne de Méhula. Voyez Judic. VII. 22."
@@ -156,7 +149,7 @@
     },
     {
       "verse": 13,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUÆ HABEBANT SERAS ÆREAS.",
       "lemma": "Qui avaient des barres d'airain.",
       "text": "[19] Les portes de ces villes avaient des barres, ou des verrous d'airain massif, ou simplement couverts de lames de bronze. C'était assez la coutume autrefois de voir des villes, dont les portes étaient munies de lames de fer, et dont les jambages, et les barres étaient de ce métal. Virgile : [20]\n_Belli ferratos rupit Saturnia postes._\nEt ailleurs : [21]\n_Limina perrumpit, postesque à cardine vellit\nÆratos._\nEuripide [22] parle aussi des barres, et des verrous d'airain, qui fermaient les portes de la ville d'Amphion. On peut voir ce qu'on a dit Deut. XXXIII. 25. et Judic. III. 24. et notre Dissertation sur les demeures des anciens Hébreux."
@@ -186,7 +179,7 @@
       "verse": 22,
       "sub": false,
       "latin_lemma": "ERAT CIBUS SALOMONIS PER DIES SINGULOS, TRIGINTA CORI SIMILÆ.",
-      "lemma": "Les vivres pour la table de Salomon, étaient chaque jour trente mesures de fleur de farine, ou trente corus de fleur de farine.",
+      "lemma": "_Les vivres pour la table de Salomon, étaient chaque jour trente mesures de fleur de farine_, ou trente corus de fleur de farine.",
       "text": "Le corus contenait deux cens quatre-vingt dix-huit pintes, chopine, et demi-septier, et quelque chose de plus. Il y avait deux fois autant de corus de farine ordinaire. Dans ce pays, on faisait ordinairement le pain chaque jour, et leur maniére de le faire était assez différence de la nôtre. On peut juger du nombre des personnes qui étaient dans la maison de Salomon, par la quantité de pain qu'on y mangeait. Villalpand [28] y met quarante-huit mille six cens hommes, et Calvisius cinquante-quatre mille."
     },
     {
@@ -198,7 +191,7 @@
     },
     {
       "verse": 23,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "AVIUM ALTILIUM.",
       "lemma": "Toute sorte de volailles. L'Hébreu : Des volailles engraissées.",
       "text": "C'est ainsi que l'entendent les anciens Interprètes,[32] et les plus habiles d'entre les nouveaux.[33] Mais plusieurs Rabbins, suivis de quelques Commentateurs, soutiennent que l'Hébreu _barburim_,[34] signifie des chapons, ou des oiseaux venus de Barbarie ; comme si le nom de Barbarie, dans le sens que nous le prenons aujourd'hui, eût été connu du temps de Salomon. Il y avait une ancienne Barbarie Éthiopienne sur le golfe Persique, comme le montre Bochart. Mais nos Rabbins ne la connaissaient certainement pas ; et quand ils auraient bien deviné sur le son du mot _Barburim_, ils ne l'auraient fait qu'au hasard."
@@ -213,6 +206,13 @@
     {
       "verse": 25,
       "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "qui soutenait qu'il lui appartenait : De quel œil est-il borgne, lui dit-il ? L'Espagnol sans hésiter répondit: Du droit. Alors le paysan levant son manteau, fit voir que son cheval avait tous les deux yeux parfaitement beaux. Ainsi fut découverte la friponnerie du voleur."
+    },
+    {
+      "verse": 25,
+      "sub": false,
       "latin_lemma": "HABITABAT UNUSQUISQUE SUB VITE SUA, ET SUB FICU SUA.",
       "lemma": "Ils demeuraient chacun sous sa vigne, et sous son figuier.",
       "text": "Expression commune dans l'Écriture,[37] pour marquer une paix profonde, où l'on ne craignait ni ennemi domestique, ni étranger. Les plaisirs innocents de la campagne, l'abondance, la paix, et la tranquillité ; voilà ce que les Livres saints nous représentent comme le plus grand objet des désirs, et de l'ambition de ces temps heureux, fort différents de ceux-ci, où la plupart du monde aspire à des plaisirs plus criminels, et plus dangereux, et où l'ambition se porte à des biens d'une nature toute différente."
@@ -222,7 +222,7 @@
       "sub": false,
       "latin_lemma": "HABEBAT SALOMON QUADRAGINTA MILLIA PRÆSEPIA EQUORUM CURRILIUM, ET DUODECIM MILLIA EQUESTRIUM.",
       "lemma": "Salomon avait quarante mille écuries pour les chevaux de ses chariots, et douze mille chevaux de selle.",
-      "text": "Ce passage est très difficile. 1°. Parce qu'il paraît contraire à un autre passage des Paralipoménes, [38] où il est dit que Salomon avait quatorze cens chariots, et douze mille cavaliers. La différence est grande entre quarante mille écuries pour mettre dés chevaux pour des chariots, et quatorze cens chariots. 2°. Si on mettait autant de chariots que d'écuries, la chose serait moins difficile; mais elle n'en serait point pour cela sans embarras. Fait-on une écurie pour deux, ou quatre, ou six chevaux? Et à quoi bon multiplier les écuries jusqu'au nombre de quarante mille, pour y loger le nombre de chevaux nécessaire pour quatorze cens chariots? 3°. Dans un autre endroit des Paralipoménes, [39] il est dit que Salomon avait quarante mille chevaux dans ses écuries, et douze mille chariots, et cavaliers. Voilà encore une autre diversité considérable, où l'on nous donne quarante mille chevaux, au lieu de quarante mille écuries. 4°. Enfin le Texte Hébreu [40] de ce dernier passage, est différent de la Vulgate. Il porte : _Que Salomon avait quatre mille écuries de chevaux, et des chariots, et douze mille cavaliers ; ou suivant les Septante, quarante mille juments, qui nourrissaient des poulains, pour les chariots, et douze mille chevaux._\nIl est sans doute fort difficile de concilier tous ces passages, sans y faire quelque changement; et la maniére qui nous paroît la plus aisée, serait de s'en tenir au dernier passage des Paralipoménes, suivant l'Hébreu. Il nous donne quatre mille écuries de chevaux pour les chariots. En mettant dix chevaux dans chacune de ces écuries, on trouvera la somme de quarante mille chevaux; ce qui reviendra à la maniére dont la Vulgate a lû ce même endroit. Et quant au passage des Rois, que nous expliquons ici, on peut dire que peut-être les Copistes auront mis deux lettres de trop, et auront fait _quarante_, au lieu de _quatre_. [41] Cette solution est proposée par quelques habiles Ecrivains. [42]\nQuant aux douze mille chevaux de selle, qui sont appellez [43] _cavaliers_ dans les deux endroits des Paralipoménes, la chose est plus aisée à expliquer. L'usage des meilleurs Auteurs anciens et nouveaux, met souvent le cavalier pour le cheval indifféremment. On dit douze mille chevaux, ou douze mille cavaliers. Virgile [44] a même employé en plus d'un endroit _eques_, un cavalier, au lieu d'_equus_, un cheval :\n_Atque equitem docuêre sub armis_ _Insultare solo, et gressus glomerare superbos._\nEt ailleurs :\n_It eques, et plausu cava concutit ungula terram._\nAu reste on trouve dans l'Écriture quelques noms de villes, qui semblent avoir pris leur nom des écuries de Salomon. Nous connaissons, par exemple, _Raphia_, ville fort avancée vers l'Égypte, qui peut venir de _Ravat_, une étable ; _Beth-Susim_, maison des chevaux, et _Beth-Hammarcheba_, maison des chariots ; et _Hazar-Susa_, ou _Hazar-Susim_, le parvis des chevaux. Tous ces lieux étaient sur les frontières de l'Égypte, et de la Palestine, et dans la tribu de Siméon. [45]\nOn demande si Salomon n'a point contrevenu à la Loi du Deutéronome, [46] qui défend aux Princes d'Israël d'avoir un trop grand nombre de chevaux ? Il y en a qui entreprennent de le justifier. Il avait besoin de ce grand nombre de chevaux pour monter ses troupes, pour ses chariots, pour les voitures auxquelles l'engageaient ses grands bâtiments. Ce grand nombre de chevaux ne l'éleva point d'orgueil, et l'Écriture ne lui fait aucun reproche sur cet article. Il déclare lui-même qu'il ne met point sa confiance dans les chevaux, mais dans le Seigneur. [47] Son peuple n'eut point un commerce extraordinaire avec l'Égypte, et l'envie ne le prit jamais d'y retourner, à l'occasion de l'achat des chevaux. Une grande partie de ces chevaux était des tributs qu'il imposait. [48] On peut donc conclure que si ce Prince a contrevenu en ce point à la lettre de la Loi, il n'a rien fait contre l'esprit, ni contre l'intention du Législateur. [49]\nMais les Hébreux, et un grand nombre d'Auteurs Chrétiens soutiennent que Salomon s'est rendu véritablement coupable dans ce trop grand nombre de chevaux qu'il a amassés. Il a contrevenu à la lettre de la Loi ; cela est sans contredit. Il a agi aussi contre l'esprit de la Loi, puisqu'il fut cause que ses peuples s'appliquèrent trop au commerce avec les Égyptiens ; et que ce Prince, pour soutenir ses dépenses excessives, fut obligé de surcharger ses sujets de nouvelles impositions, qui devinrent si fatales à son Royaume. Enfin pourquoi ne pas observer à la lettre une Loi aussi claire, et aussi précise que celle-là ? Pourquoi exposer son peuple, et s'exposer soi-même au danger, en négligeant cette défense si expresse ? Enfin pourquoi ne pas imiter la Religion de Josué, [50] et de David, [51] qui coupèrent les jarrets aux chevaux qu'ils avaient pris en guerre, de peur de donner atteinte à la Loi. [52]"
+      "text": "Ce passage est très difficile. \n1°. Parce qu'il paraît contraire à un autre passage des Paralipoménes, [38] où il est dit que Salomon avait quatorze cens chariots, et douze mille cavaliers. La différence est grande entre quarante mille écuries pour mettre dés chevaux pour des chariots, et quatorze cens chariots. \n2°. Si on mettait autant de chariots que d'écuries, la chose serait moins difficile; mais elle n'en serait point pour cela sans embarras. Fait-on une écurie pour deux, ou quatre, ou six chevaux? Et à quoi bon multiplier les écuries jusqu'au nombre de quarante mille, pour y loger le nombre de chevaux nécessaire pour quatorze cens chariots? \n3°. Dans un autre endroit des Paralipoménes, [39] il est dit que Salomon avait quarante mille chevaux dans ses écuries, et douze mille chariots, et cavaliers. Voilà encore une autre diversité considérable, où l'on nous donne quarante mille chevaux, au lieu de quarante mille écuries. \n4°. Enfin le Texte Hébreu [40] de ce dernier passage, est différent de la Vulgate. Il porte : _Que Salomon avait quatre mille écuries de chevaux, et des chariots, et douze mille cavaliers ; ou suivant les Septante, quarante mille juments, qui nourrissaient des poulains, pour les chariots, et douze mille chevaux._\nIl est sans doute fort difficile de concilier tous ces passages, sans y faire quelque changement; et la maniére qui nous paroît la plus aisée, serait de s'en tenir au dernier passage des Paralipoménes, suivant l'Hébreu. Il nous donne quatre mille écuries de chevaux pour les chariots. En mettant dix chevaux dans chacune de ces écuries, on trouvera la somme de quarante mille chevaux; ce qui reviendra à la maniére dont la Vulgate a lû ce même endroit. Et quant au passage des Rois, que nous expliquons ici, on peut dire que peut-être les Copistes auront mis deux lettres de trop, et auront fait _quarante_, au lieu de _quatre_. [41] Cette solution est proposée par quelques habiles Ecrivains. [42]\nQuant aux douze mille chevaux de selle, qui sont appellez [43] _cavaliers_ dans les deux endroits des Paralipoménes, la chose est plus aisée à expliquer. L'usage des meilleurs Auteurs anciens et nouveaux, met souvent le cavalier pour le cheval indifféremment. On dit douze mille chevaux, ou douze mille cavaliers. Virgile [44] a même employé en plus d'un endroit _eques_, un cavalier, au lieu d'_equus_, un cheval :\n_Atque equitem docuêre sub armis_ _Insultare solo, et gressus glomerare superbos._\nEt ailleurs :\n_It eques, et plausu cava concutit ungula terram._\nAu reste on trouve dans l'Écriture quelques noms de villes, qui semblent avoir pris leur nom des écuries de Salomon. Nous connaissons, par exemple, _Raphia_, ville fort avancée vers l'Égypte, qui peut venir de _Ravat_, une étable ; _Beth-Susim_, maison des chevaux, et _Beth-Hammarcheba_, maison des chariots ; et _Hazar-Susa_, ou _Hazar-Susim_, le parvis des chevaux. Tous ces lieux étaient sur les frontières de l'Égypte, et de la Palestine, et dans la tribu de Siméon. [45]\nOn demande si Salomon n'a point contrevenu à la Loi du Deutéronome, [46] qui défend aux Princes d'Israël d'avoir un trop grand nombre de chevaux ? Il y en a qui entreprennent de le justifier. Il avait besoin de ce grand nombre de chevaux pour monter ses troupes, pour ses chariots, pour les voitures auxquelles l'engageaient ses grands bâtiments. Ce grand nombre de chevaux ne l'éleva point d'orgueil, et l'Écriture ne lui fait aucun reproche sur cet article. Il déclare lui-même qu'il ne met point sa confiance dans les chevaux, mais dans le Seigneur. [47] Son peuple n'eut point un commerce extraordinaire avec l'Égypte, et l'envie ne le prit jamais d'y retourner, à l'occasion de l'achat des chevaux. Une grande partie de ces chevaux était des tributs qu'il imposait. [48] On peut donc conclure que si ce Prince a contrevenu en ce point à la lettre de la Loi, il n'a rien fait contre l'esprit, ni contre l'intention du Législateur. [49]\nMais les Hébreux, et un grand nombre d'Auteurs Chrétiens soutiennent que Salomon s'est rendu véritablement coupable dans ce trop grand nombre de chevaux qu'il a amassés. Il a contrevenu à la lettre de la Loi ; cela est sans contredit. Il a agi aussi contre l'esprit de la Loi, puisqu'il fut cause que ses peuples s'appliquèrent trop au commerce avec les Égyptiens ; et que ce Prince, pour soutenir ses dépenses excessives, fut obligé de surcharger ses sujets de nouvelles impositions, qui devinrent si fatales à son Royaume. Enfin pourquoi ne pas observer à la lettre une Loi aussi claire, et aussi précise que celle-là ? Pourquoi exposer son peuple, et s'exposer soi-même au danger, en négligeant cette défense si expresse ? Enfin pourquoi ne pas imiter la Religion de Josué, [50] et de David, [51] qui coupèrent les jarrets aux chevaux qu'ils avaient pris en guerre, de peur de donner atteinte à la Loi. [52]"
     },
     {
       "verse": 27,
@@ -230,6 +230,13 @@
       "latin_lemma": "NUTRIEBANTQUE EOS SUPRADICTI REGIS PRÆFECTI.",
       "lemma": "Ces Officiers avaient la charge de les nourrir ; de nourrir les chevaux dont on vient de parler.",
       "text": "Ainsi ils fournissaient le pain et les viandes pour la table du Roi, et en même temps la paille et l'orge pour les chevaux. C'est le sens de la Vulgate, des Septante, et de Josèphe. Mais l'Hébreu est un peu différent : [53] _Et ces Officiers nourrissaient le Roi Salomon, et tous ceux qui approchaient de sa table, et ne lui laissaient manquer de rien. Ils fournissaient aussi la paille et l'orge pour les chevaux, et les dromadaires, qui étaient là où le Roi se rencontrait_ ; de manière qu'ils n'étaient chargés que de l'entretien du Roi et de sa Cour, et des chevaux dont on se servait actuellement à la suite du Roi, et non pas des autres, qui étaient distribués dans diverses écuries en plusieurs endroits du Royaume."
+    },
+    {
+      "verse": 28,
+      "sub": false,
+      "latin_lemma": "VIDENTES SAPIENTIAM DEI ESSE IN ILLO.",
+      "lemma": "Voyant que la sagesse de Dieu était en lui.",
+      "text": "Une sagesse extraordinaire, et surprenante, est nommée une _sagesse de Dieu_, de même qu'un _sommeil de Dieu_, [1] un profond sommeil: un _renversement de Dieu_, [2] un renversement total, semblable à celui de Sodome et de Gomorrhe; une _frayeur de Dieu_, [3] une _punition de Dieu_, un _vent de Dieu_, etc. [4] On peut aussi l'entendre plus simplement d'une sagesse venue de Dieu, d'une intelligence infuse, et d'un ordre surnaturel."
     },
     {
       "verse": 28,
@@ -261,7 +268,7 @@
     },
     {
       "verse": 31,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SAPIENTIOR ETHAN EZRAHITA.",
       "lemma": "Plus sage qu'Ethan Ezrahite.",
       "text": "C’est apparemment le même Ethan, dont le nom se trouve à la tête de quelques Psaumes,[67] et qui est nommé dans les Paralipomènes[68] comme un Chef de musique fameux parmi les Lévites qui chantaient au Temple. Nous lisons dans les mêmes Livres,[69] parmi les descendants de Juda, quatre frères, _Ethan, Héman, Calchal, et Dara_, qui étaient fils de Zara. Mais on ne doit pas les confondre avec ceux-ci, comme on l’a montré sur cet endroit. Machol était apparemment la mère d’Ethan Ezrahite, et de ses frères ; à moins qu’on ne veuille que _fils de Machol_, signifie la profession de ces quatre frères ; qui étaient _fils du Chœur_, appliqués à la musique, instruits de tout ce qui regarde le chant. _Machol_[70] signifie la danse, un chœur, et même un instrument de musique. Sanctius conclut de ce passage, que Salomon devait être grand Poète, et grand Musicien, puisque l’Écriture le relève par-dessus ceux qui passaient alors pour les plus habiles en cet art, les comparaisons ne se faisant pour l’ordinaire, que dans les qualités qui sont de même nature.\nEthan Ezrahite est apparemment le même qu’Ethan fils de Chusi, ou de Chasiah, de la tribu de Lévi, et de la famille de Mérari,[71] dont il est souvent parlé dans les Paralipomènes. Il était un des premiers Musiciens du Temple sous les règnes de David et de Salomon, et il présidait à une des trois bandes de Musiciens qui étaient rangées autour de l’Autel. Héman présidait à la bande du milieu ; Asaph à celle de la droite. Ethan est le même qu’Idithun.\nHéman était fils de Johel, de la tribu de Lévi, et de la race de Caath.[72] Il était un des premiers, et peut-être le premier chef de la musique du Temple. L’Écriture[73] dit qu’il était _Voyant_, ou Prophète du Roi _dans les paroles du Seigneur pour sonner du cor_.\nCalchol et Dorda ne sont point connus. L’Écriture n’en parle en aucun autre endroit. Il semble qu’il y a ici quelque confusion, et que les Copistes y ont ajouté ou altéré quelque chose. Le surnom d’_Ezrahite_ qu’ils donnent à Ethan, ne lui convient pas. Calchol et Dorda de cet endroit-ci, paraissent y avoir été transportés du premier Livre des Paralipomènes, où on lit :[74] _Ethan, Héman, Calchal et Dara_."
@@ -275,7 +282,7 @@
     },
     {
       "verse": 32,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FUERUNT CARMINA EJUS QUINQUE ET MILLE.",
       "lemma": "Il fit mille et cinq Cantiques.",
       "text": "Joseph veut qu'il ait composé mille et cinq Livres sur les Odes, et les chants. L'Hébreu [78] porte aussi ce nombre de mille et cinq. Mais les Septante, et plusieurs Interprètes, lisent cinq mille Pièces en vers, ou cinq mille Odes, ou semblables Ouvrages. Il ne nous en reste que le Cantique des Cantiques, à moins qu'on n'en ait encore mis quelques-uns dans le Recueil des Psaumes; par exemple, le cent vingt-six, qui porte dans l'Hébreu le nom de Salomon. Mais ces titres sont trop peu certains, pour en assurer la possession à ce Prince."
@@ -342,7 +349,7 @@
       "seam": "page_0122>page_0123",
       "verse": 26,
       "mode": "flow",
-      "before": "rès difficile. 1°. Parce qu'il paraît contraire à un autre",
+      "before": "ès difficile. \n1°. Parce qu'il paraît contraire à un autre",
       "after": "passage des Paralipoménes, ^{(a)} où il est dit que Salomo"
     },
     {
@@ -421,7 +428,7 @@
     {
       "key": "page_0113-a",
       "n": 1,
-      "text": "Geneſ. 11. 28. 29. & I. Reg. XXVI. 12."
+      "text": "Genes. 11. 28. 29. et I. Reg. XXVI. 12."
     },
     {
       "key": "page_0113-b",
@@ -436,7 +443,7 @@
     {
       "key": "page_0113-d",
       "n": 4,
-      "text": "Iſaï. XL. 7."
+      "text": "Isaï. XL. 7."
     },
     {
       "key": "page_0113-e",
@@ -461,7 +468,7 @@
     {
       "key": "page_0115-b",
       "n": 9,
-      "text": "Eſtius hic."
+      "text": "Estius hic."
     },
     {
       "key": "page_0115-c",
@@ -471,7 +478,7 @@
     {
       "key": "page_0115-d",
       "n": 11,
-      "text": "Munſt. Pagn. Mont. Jun. Vat. &c."
+      "text": "Munst. Pagn. Mont. Jun. Vat. etc."
     },
     {
       "key": "page_0115-e",
@@ -496,12 +503,12 @@
     {
       "key": "page_0116-c",
       "n": 16,
-      "text": "Vide Toſtat, qu. 5. & Sanst. hic."
+      "text": "Vide Tostat, qu. 5. et Sanst. hic."
     },
     {
       "key": "page_0117-a",
       "n": 17,
-      "text": "Diſſertation ſur la Chronologie."
+      "text": "Dissertation sur la Chronologie."
     },
     {
       "key": "page_0117-b",
@@ -526,7 +533,7 @@
     {
       "key": "page_0118-d",
       "n": 22,
-      "text": "_Euripid. in Phœniſſ._\nΚαι πύλαι χαλκοδετοι κλείθροις τ᾽ ἐρηρεισμεναι,\nΔαιδαλεις Αμφιονος ἐργοισιν ἐκτισμεναι."
+      "text": "_Euripid. in Phœniss._\nΚαι πύλαι χαλκοδετοι κλείθροις τ᾽ ἐρηρεισμεναι,\nΔαιδαλεις Αμφιονος ἐργοισιν ἐκτισμεναι."
     },
     {
       "key": "page_0119-a",
@@ -546,7 +553,7 @@
     {
       "key": "page_0120-a",
       "n": 26,
-      "text": "Ita Vat. Grot. Menoc. Tirin. Piſc. Ita & Jonathan. & Joſeph. Antiq. lib. 8. c. 2. Hinc & ἐν ἰυδαία ποταμὸς διήκων μεχρὶ τῆς Αἰγυάλλων."
+      "text": "Ita Vat. Grot. Menoc. Tirin. Pisc. Ita et Jonathan. et Joseph. Antiq. lib. 8. c. 2. Hinc et ἐν ἰυδαία ποταμὸς διήκων μεχρὶ τῆς Αἰγυάλλων."
     },
     {
       "key": "page_0120-b",
@@ -566,7 +573,7 @@
     {
       "key": "page_0121-a",
       "n": 30,
-      "text": "Boch. de animal. ſacr. parte 1. lib. 3. cap. 22."
+      "text": "Boch. de animal. sacr. parte 1. lib. 3. cap. 22."
     },
     {
       "key": "page_0121-b",
@@ -576,12 +583,12 @@
     {
       "key": "page_0121-c",
       "n": 32,
-      "text": "Ita Jonath. Chald. Syr. Arab. Vulgat. 70. Opuſßav σιτιςὰ σκευαςὰ,"
+      "text": "Ita Jonath. Chald. Syr. Arab. Vulgat. 70. Opusßav σιτιςὰ σκευαςὰ,"
     },
     {
       "key": "page_0121-d",
       "n": 33,
-      "text": "Bochart Jun. Piſcat. & alii."
+      "text": "Bochart Jun. Piscat. et alii."
     },
     {
       "key": "page_0121-e",
@@ -626,7 +633,7 @@
     {
       "key": "page_0123-e",
       "n": 42,
-      "text": "Bochart. de animal. ſacr. tom. 1. l. 2."
+      "text": "Bochart. de animal. sacr. tom. 1. l. 2."
     },
     {
       "key": "page_0123-f",
@@ -636,37 +643,37 @@
     {
       "key": "page_0123-g",
       "n": 44,
-      "text": "Virgil. Georgic. 3. Voyez Sanctius ſur cet endroit, & Aulugelle, liv. 18 c. 2."
+      "text": "Virgil. Georgic. 3. Voyez Sanctius sur cet endroit, et Aulugelle, liv. 18 c. 2."
     },
     {
       "key": "page_0124-a",
       "n": 45,
-      "text": "Voyez Joſué, XIX. 5."
+      "text": "Voyez Josué, XIX. 5."
     },
     {
       "key": "page_0124-b",
       "n": 46,
-      "text": "Deut. XVII. 16. Non multiplicabit ſibi equos, nec reducet populum in Ægyptum, equitatus numero ſublevatus."
+      "text": "Deut. XVII. 16. Non multiplicabit sibi equos, nec reducet populum in Ægyptum, equitatus numero sublevatus."
     },
     {
       "key": "page_0124-c",
       "n": 47,
-      "text": "Prov. XXI. 31. Equus paratur in diem belli, Dominus autem ſalutem tribuit."
+      "text": "Prov. XXI. 31. Equus paratur in diem belli, Dominus autem salutem tribuit."
     },
     {
       "key": "page_0124-d",
       "n": 48,
-      "text": "2. Par. IX. 24. Deferebant ei munera... equos & mulos per ſingulos annos."
+      "text": "2. Par. IX. 24. Deferebant ei munera... equos et mulos per singulos annos."
     },
     {
       "key": "page_0124-e",
       "n": 49,
-      "text": "Toſt. Bochart. de animal. ſacr. tom. 1. lib. 2. cap. 9."
+      "text": "Tost. Bochart. de animal. sacr. tom. 1. lib. 2. cap. 9."
     },
     {
       "key": "page_0125-a",
       "n": 50,
-      "text": "Joſue XI. 4."
+      "text": "Josue XI. 4."
     },
     {
       "key": "page_0125-b",
@@ -676,7 +683,7 @@
     {
       "key": "page_0125-c",
       "n": 52,
-      "text": "Vide, ſi lubet, Serar. in Joſue XI. qu. 7. Pineda de Reb. Salom. lib. 7. c. 14. San B. hic. Item alios in Deut. XVII."
+      "text": "Vide, si lubet, Serar. in Josue XI. qu. 7. Pineda de Reb. Salom. lib. 7. c. 14. San B. hic. Item alios in Deut. XVII."
     },
     {
       "key": "page_0125-d",
@@ -691,27 +698,27 @@
     {
       "key": "page_0125-f",
       "n": 55,
-      "text": "Vide Mich. I. II. & Eſth. VIII. 10."
+      "text": "Vide Mich. I. II. et Esth. VIII. 10."
     },
     {
       "key": "page_0125-g",
       "n": 56,
-      "text": "Boch. de animal. ſacr. tom. I. l. 2. c. 6."
+      "text": "Boch. de animal. sacr. tom. I. l. 2. c. 6."
     },
     {
       "key": "page_0126-a",
       "n": 57,
-      "text": "Apud Euſeb. Præp. lib. 5. c. 34. Εἰ δ’ ἄδυς ψαμμοῖο ἀριθμὸν καὶ μέτρα θαλάσσης, Καὶ κωφῶ συνίεις, καὶ μὴ λαλῶντος ἀκέεις."
+      "text": "Apud Euseb. Præp. lib. 5. c. 34. Εἰ δ’ ἄδυς ψαμμοῖο ἀριθμὸν καὶ μέτρα θαλάσσης, Καὶ κωφῶ συνίεις, καὶ μὴ λαλῶντος ἀκέεις."
     },
     {
       "key": "page_0126-b",
       "n": 58,
-      "text": "Prov. XXI. 4. _Exaltatio oculorum eſt dilatatio cordis_; ou ſi l'on veut, _latitudo cordis_."
+      "text": "Prov. XXI. 4. _Exaltatio oculorum est dilatatio cordis_; ou si l'on veut, _latitudo cordis_."
     },
     {
       "key": "page_0126-c",
       "n": 59,
-      "text": "Dan. II. 2. & XI. 8."
+      "text": "Dan. II. 2. et XI. 8."
     },
     {
       "key": "page_0126-d",
@@ -726,7 +733,7 @@
     {
       "key": "page_0127-b",
       "n": 62,
-      "text": "Vide Diog. Laërt. in Proëmio, initio. Τὸ τῆς Φιλοσοφίας ἔργον, ἔνιοί φασιν ἀπὸ Βαρβάρων ἄρξαι. Græcorum optimus quiſque ita ſemper ſenſit, & veteres illi noſtræ Religionis deſſenſores adverſus gentes, veritatem hac in parte, ita deſſenderunt, &c. Caſaubon. in hunc Laërt. locum."
+      "text": "Vide Diog. Laërt. in Proëmio, initio. Τὸ τῆς Φιλοσοφίας ἔργον, ἔνιοί φασιν ἀπὸ Βαρβάρων ἄρξαι. Græcorum optimus quisque ita semper sensit, et veteres illi nostræ Religionis dessensores adversus gentes, veritatem hac in parte, ita dessenderunt, etc. Casaubon. in hunc Laërt. locum."
     },
     {
       "key": "page_0127-c",
@@ -736,7 +743,7 @@
     {
       "key": "page_0127-d",
       "n": 64,
-      "text": "Sap. VII. 17. & Joſeph. Antiq. lib. 8. cap. 2."
+      "text": "Sap. VII. 17. et Joseph. Antiq. lib. 8. cap. 2."
     },
     {
       "key": "page_0127-e",
@@ -746,12 +753,12 @@
     {
       "key": "page_0127-f",
       "n": 66,
-      "text": "Munſter."
+      "text": "Munster."
     },
     {
       "key": "page_0128-a",
       "n": 67,
-      "text": "Pſal. LXXXVIII. Intelleċtus Ethan Ezrahitæ."
+      "text": "Psal. LXXXVIII. Intelleċtus Ethan Ezrahitæ."
     },
     {
       "key": "page_0128-b",
@@ -791,7 +798,7 @@
     {
       "key": "page_0129-a",
       "n": 75,
-      "text": "Ita Hebr. Munſt. Vat."
+      "text": "Ita Hebr. Munst. Vat."
     },
     {
       "key": "page_0129-b",
@@ -801,7 +808,7 @@
     {
       "key": "page_0129-c",
       "n": 77,
-      "text": "Iſid. Clarius."
+      "text": "Isid. Clarius."
     },
     {
       "key": "page_0129-d",
@@ -811,12 +818,12 @@
     {
       "key": "page_0130-a",
       "n": 79,
-      "text": "Maundrel, voyage de Jéruſalem, pag. 239."
+      "text": "Maundrel, voyage de Jérusalem, pag. 239."
     },
     {
       "key": "page_0130-b",
       "n": 80,
-      "text": "Kimchi, Piſcat. Pinedq, lib. 3. c. 21. Levinus Lemnius de Herb. Bibl. cap. 16. Toſt. qu 8."
+      "text": "Kimchi, Piscat. Pinedq, lib. 3. c. 21. Levinus Lemnius de Herb. Bibl. cap. 16. Tost. qu 8."
     },
     {
       "key": "page_0130-c",
@@ -826,7 +833,7 @@
     {
       "key": "page_0130-d",
       "n": 82,
-      "text": "Vide Bochart. de animal. ſacr. tom. 1. lib. 2. c. 5. & Sanct. hic."
+      "text": "Vide Bochart. de animal. sacr. tom. 1. lib. 2. c. 5. et Sanct. hic."
     },
     {
       "key": "page_0130-e",
@@ -836,12 +843,12 @@
     {
       "key": "page_0130-f",
       "n": 84,
-      "text": "Euſeb. citatus ab Anaſtaſio Nicano apud Sanct. in lib. 4. Reg. c 18. Vide & Pinedam lib. 3. c. 20. Rabb. quoſdam apud Murſ. in Exod. XV 25."
+      "text": "Euseb. citatus ab Anastasio Nicano apud Sanct. in lib. 4. Reg. c 18. Vide et Pinedam lib. 3. c. 20. Rabb. quosdam apud Murs. in Exod. XV 25."
     },
     {
       "key": "page_0130-g",
       "n": 85,
-      "text": "Joſeph. Antiq. lib. 8. c. 2. p 257. f."
+      "text": "Joseph. Antiq. lib. 8. c. 2. p 257. f."
     },
     {
       "key": "page_0131-a",
@@ -851,7 +858,7 @@
     {
       "key": "page_0131-b",
       "n": 87,
-      "text": "Origen. in Matt. homil. 35. A Salomone ſcriptis adjurationibus, ſolent dæmones adjurari; ſed ipſi qui utuntur adjurationibus illis, nec idoneis conſtitutis libris nituntur; quibuſdam autem de Hæbræo acceptis adjurant dæmonia."
+      "text": "Origen. in Matt. homil. 35. A Salomone scriptis adjurationibus, solent dæmones adjurari; sed ipsi qui utuntur adjurationibus illis, nec idoneis constitutis libris nituntur; quibusdam autem de Hæbræo acceptis adjurant dæmonia."
     },
     {
       "key": "page_0131-c",
@@ -877,175 +884,6 @@
       "key": "page_0132-c",
       "n": 92,
       "text": "Vide Hieron. Ep. ad Paulin."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0113",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26,
-        27
-      ]
-    },
-    {
-      "page": "page_0114",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0115",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0116",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0117",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0118",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0119",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0120",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0121",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0122",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0123",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0124",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0125",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0126",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0127",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0128",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0129",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0130",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0131",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0132",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

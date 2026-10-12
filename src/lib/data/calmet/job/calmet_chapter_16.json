@@ -1,13 +1,6 @@
 {
   "notes": [
     {
-      "verse": 35,
-      "sub": false,
-      "latin_lemma": "CONCEPIT DOLOREM, ET PEPERIT INIQUITATEM.",
-      "lemma": null,
-      "text": "Il conçoit la douleur, et il enfante l'iniquité. On peut traduire l'Hébreu : [1] _Il a conçu l'iniquité, et il a enfanté la vanité_, ou le péché. Voyez ci-devant Job. v. 6. et Ps. VII. 15. et Isaï. XLIX. 4. C'est une façon de parler proverbiale. Il conçoit le péché ; il enfante l'iniquité. Les fruits sont semblables à l'arbre. Après avoir commis le crime, quoi de plus juste que d'en souffrir la peine ? Les Septante : [2] _Il concevra des douleurs, et il enfantera des riens_. Eliphaz ne dit pas expressément que Job ait été tel que l'impie, dont il a fait la description : mais il l'insinue assez clairement. Il n'y a qu'à tirer la conséquence."
-    },
-    {
       "verse": 2,
       "sub": false,
       "latin_lemma": "CONSOLATORES ONEROSI.",
@@ -59,7 +52,7 @@
     {
       "verse": 10,
       "sub": false,
-      "latin_lemma": "COLLEGIT FUROREM SUUM IN ME ; ET COMMINANS MIHI, INFRECUIT CONTRA ME, &c.",
+      "latin_lemma": "COLLEGIT FUROREM SUUM IN ME ; ET COMMINANS MIHI, INFRECUIT CONTRA ME, etc.",
       "lemma": "Il s’est armé contre moi de toute sa fureur ; il a grincé des dents, en me menaçant, etc.",
       "text": "L’Hébreu : [16] _Sa colère m’a mis en pièces_, ( comme un lion qui dévore sa proie ; ) _il m’a accusé en Jugement_, ( il s’est déclaré partie contre moi ; ) _il a grincé les dents contre moi ; il a fait étinceler ses yeux sur moi, comme une épée bien polie, qui éclate de loin : ou, il a aiguisé ses yeux sur moi._ Il me regarde avec colère, il me dévore des yeux. Cette description peut marquer ou la rage du Démon contre Job ; ou plutôt, les mauvaises dispositions d'Eliphaz, et des autres, qui l'avaient plutôt attaqué, et accusé en adversaires, qu'ils ne l'avaient consolé en amis."
     },
@@ -86,7 +79,7 @@
     },
     {
       "verse": 16,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "OPERUI CINERE CARNEM MEAM.",
       "lemma": "J'ai couvert ma tête de cendre.",
       "text": "À la lettre : j'ai chargé ma chair de cendre. L'Hébreu : [23] _J'ai gâté ma corne avec la poussière_. La corne marque la gloire, la force, l'élévation. Je me suis chargé de poussière, et j'ai pris toutes les marques de la plus profonde humiliation. Les Septante : [24] _Ma force est éteinte sur la poussière_ ; elle expire en quelque sorte dans l'humiliation où je suis réduit."
@@ -104,6 +97,13 @@
       "latin_lemma": "TERRA, NE OPERIAS SANGUINEM MEUM, NEQUE INVENIAT IN TE LOCUM LATENDI CLAMOR MEUS.",
       "lemma": "Terre, ne couvre point mon sang, et que mes cris ne soient point étouffés dans ton sein.",
       "text": "On ne lit point que Job ait répandu son sang ; mais ses enfants étaient morts d'une mort violente ; lui-même, accablé de douleurs, répandait, pour ainsi dire, son sang, et sa substance, par l'humeur qui coulait des ulcères de toutes les parties de son corps. Si je ne suis pas coupable*, et tel que mes amis le publient, Terre, n'étouffe point la voix de mon sang : Que le cri, et l'injustice de leur accusation, et la grandeur de mes maux parviennent jusqu'au Trône de Dieu : Que le Seigneur connaisse de mon innocence, et de la fausseté des calomnies que l'on forme contre moi. Cette expression de Job a du rapport à ce qui est rapporté dans la Genèse, du sang d'Abel répandu sur la terre, et qui élevait en quelque sorte sa voix, pour demander vengeance de son injuste effusion par Caïn : [27] _Vox sanguinis fratris tui clamat ad me de terrâ._ Job souhaite de même que son sang ne cesse pas de crier, et que Dieu lui fasse justice des crimes qu'on lui impute. Le mensonge, la calomnie, la médisance, font une espèce de meurtre d'une autre nature que l'ordinaire, mais qui n'est pas moins cruel, ni moins odieux à Dieu."
+    },
+    {
+      "verse": 35,
+      "sub": false,
+      "latin_lemma": "CONCEPIT DOLOREM, ET PEPERIT INIQUITATEM.",
+      "lemma": null,
+      "text": "Il conçoit la douleur, et il enfante l'iniquité. On peut traduire l'Hébreu : [1] _Il a conçu l'iniquité, et il a enfanté la vanité_, ou le péché. Voyez ci-devant Job. v. 6. et Ps. VII. 15. et Isaï. XLIX. 4. C'est une façon de parler proverbiale. Il conçoit le péché ; il enfante l'iniquité. Les fruits sont semblables à l'arbre. Après avoir commis le crime, quoi de plus juste que d'en souffrir la peine ? Les Septante : [2] _Il concevra des douleurs, et il enfantera des riens_. Eliphaz ne dit pas expressément que Job ait été tel que l'impie, dont il a fait la description : mais il l'insinue assez clairement. Il n'y a qu'à tirer la conséquence."
     }
   ],
   "joins": [
@@ -181,12 +181,12 @@
     {
       "key": "page_0225-c",
       "n": 6,
-      "text": "Job. XLII, 11. & Nahum. III. 7."
+      "text": "Job. XLII, 11. et Nahum. III. 7."
     },
     {
       "key": "page_0225-d",
       "n": 7,
-      "text": "Pſalm. XXI. 8. Iſai. XXXVII. 12. Jerem. XVIII. 16. Thren. II. 15. Eccli. XII. 18, 4. Reg. XIX. 21. Matt. XXVII. 39."
+      "text": "Psalm. XXI. 8. Isai. XXXVII. 12. Jerem. XVIII. 16. Thren. II. 15. Eccli. XII. 18, 4. Reg. XIX. 21. Matt. XXVII. 39."
     },
     {
       "key": "page_0226-a",
@@ -226,7 +226,7 @@
     {
       "key": "page_0227-b",
       "n": 15,
-      "text": "Voyez Grotius ſur cet endroit ; il prétend que c’eſt la vraye ſignification de l’Hébreu : אפו טרף וישטמני חרק עלי בשניו צרי ילטוש עיניו לי"
+      "text": "Voyez Grotius sur cet endroit ; il prétend que c’est la vraye signification de l’Hébreu : אפו טרף וישטמני חרק עלי בשניו צרי ילטוש עיניו לי"
     },
     {
       "key": "page_0227-c",
@@ -246,7 +246,7 @@
     {
       "key": "page_0228-c",
       "n": 19,
-      "text": "_D. Thom Dionyſ. Carth._"
+      "text": "_D. Thom Dionys. Carth._"
     },
     {
       "key": "page_0228-d",
@@ -261,7 +261,7 @@
     {
       "key": "page_0228-f",
       "n": 22,
-      "text": "_Grot. Mercer. Druſ. Abenezra, Kimchi, &c._"
+      "text": "_Grot. Mercer. Drus. Abenezra, Kimchi, etc._"
     },
     {
       "key": "page_0229-a",
@@ -281,63 +281,12 @@
     {
       "key": "page_0229-d",
       "n": 26,
-      "text": "H' γαςὴρ μου συγκεκαυται ἀπὸ κλαυθμῦ, καὶ δι ὀφθαλμὸς με σκιὰ θανάτε. Ou ſimplement, _omnis_. Edition Romaine."
+      "text": "H' γαςὴρ μου συγκεκαυται ἀπὸ κλαυθμῦ, καὶ δι ὀφθαλμὸς με σκιὰ θανάτε. Ou simplement, _omnis_. Edition Romaine."
     },
     {
       "key": "page_0230-a",
       "n": 27,
-      "text": "_Gineſ. 17. 10._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0224",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0225",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0226",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0227",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0228",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0229",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0230",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "_Gines. 17. 10._"
     }
   ],
   "missing_footnotes": []

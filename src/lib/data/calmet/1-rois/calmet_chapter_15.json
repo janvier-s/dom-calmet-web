@@ -65,7 +65,7 @@
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "COR ASA PERFECTUM ERAT CUM DOMINO.",
       "lemma": "Le cœur d'Asa était parfait avec le Seigneur, pendant tous les jours de sa vie.",
       "text": "On a déjà pu remarquer ci-devant au ℣. 11. que ce Prince avait vécu dans la justice et dans la droiture aux yeux du Seigneur, comme David son père ; Éloge, que peu de Rois de Juda ont mérité, ni devant, ni après.\n\nLui. Mais comment accorder ce témoignage si avantageux à Asa, avec ce qu'on lit dans les Paralipomènes, [22] que le Prophète Hanani étant venu le reprendre de la part de Dieu, de ce qu'il s'était adressé au Roi de Syrie, pour faire quitter au Roi d'Israël le bâtiment de Rama, au lieu de recourir au Seigneur, Asa se fâcha de telle sorte contre ce Prophète, qu'il le fit mettre dans les liens, et fit en ce même temps tuer plusieurs personnes du peuple; et qu'ensuite étant attaqué d'une goutte fort douloureuse, il ne rechercha point le Seigneur, mais il se confia plutôt en l'art des Médecins; [23] _Aegrotavit Asa dolore pedum vehementissimo, nec in infirmitate sua quæsivit Dominum; sed magis in medicorum arte confisus est._ Est-ce là le caractère d'un Prince juste, et parfait devant le Seigneur?\nMais on peut répondre qu'Asa ne quitta point le culte du Seigneur. Il ne tomba point dans des crimes, qui sont incompatibles avec la qualité d'homme de bien. Les péchés que l'Écriture lui reproche, sont des fautes, dont apparemment il se repentit, et dont il fit pénitence. David lui-même, dont l'Écriture fait si souvent l'éloge, ne fit-il jamais de fautes? Je ne parle pas du crime qu'il commit avec Bethsabée, ni du meurtre d'Urie. Ne fit-il pas mal de jurer précipitamment de détruire la maison de Nabal? Peut-on l'excuser entièrement dans l'excessive vengeance qu'il tira des Ammonites? Et ne sait-on pas de quelle manière Dieu le punit pour avoir fait le dénombrement de son peuple? Asa ne laissera donc pas d'être mis au rang des Princes justes, quoiqu'il soit tombé dans quelques-unes des faiblesses inséparables de la condition des hommes."
@@ -100,7 +100,7 @@
     },
     {
       "verse": 18,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "MISIT AD BENADAD, FILIUM TABREMON, FILII HESION, REGEM SYRIÆ.",
       "lemma": "Il les envoya à Benadad, fils de Tabremon, fils d'Hesion, Roi de Syrie, qui demeurait à Damas.",
       "text": "Benadad était petit-fils de ce Razon, dont on a parlé ci-devant, [45] qui fut fondateur du Royaume de Damas. _Razon est nommé ici Hesion._ Les Septante l'appellent _Hasin_, ou _Hazaël_. Le nom de _Tabremon est com_ posé de _Tab_, ou _Tob_, qui signifie, et _Remon_, ou _Remmon_ Dieu de Damas. La pluralité des noms donnés à une seule personne n'est point extraordinaire dans l'Écriture. Quelques Interprètes[46] veulent que Benadad soit le petit-fils d'Adad Iduméen, dont on a rapporté l'histoire sur le Chap. XI. ℣. 14. Joseph enseigne qu'il régna à Damas, sous le nom d'Ader.[47]"
@@ -114,21 +114,21 @@
     },
     {
       "verse": 20,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DAN,",
       "lemma": null,
       "text": "ville célèbre près du ruisseau du Jourdain. On en a souvent parlé."
     },
     {
       "verse": 20,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "ABEL-DOMUM-MAACHA.",
-      "lemma": "Abel-maison-de-Maacha, ou Abel-Beth-Maacha.",
+      "lemma": "_Abel-maison-de-Maacha_, ou _Abel-Beth-Maacha_.",
       "text": "Elle est fort au septentrion de la terre de Canaan. C'est la même, qui est nommée, _Abela_, ou _Abela-maison-de-Maacha_, dans le second Livre des Rois, où s'était réfugié Seba, fils de Bochri.[51] Théglatphalassar la prit aussi, et en emmena les habitants captifs.[52] Elle est appelée _Abel-maim_, ou Abel-des-eaux dans l'endroit des Paralipomènes[53] parallèle à celui-ci."
     },
     {
       "verse": 20,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UNIVERSUM CENEROTH.",
       "lemma": "Toute la contrée de Ceneroth.",
       "text": "Les environs de la mer de Ceneroth, ou de Tibériade. On a parlé plus au long de Ceneroth, sur Josué.[54] Benadad garda une partie de ces villes, et bâtit même des places, ou des rues dans Samarie. Voyez ci-après, Chap. xx. 34."
@@ -136,7 +136,7 @@
     {
       "verse": 21,
       "sub": false,
-      "latin_lemma": "ET REVERSUS EST IN Therſa.",
+      "latin_lemma": "ET REVERSUS EST IN Thersa.",
       "lemma": "Il s'en revint à Thersa.",
       "text": "L'Hébreu : [55] _Il demeura à Thersa._ Il se renferma dans sa ville Royale. Les Septante [56] ont lu comme la Vulgate : _Il s'en retourna._"
     },
@@ -156,7 +156,7 @@
     },
     {
       "verse": 23,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UNIVERSÆ FORTITUDINES EJUS.",
       "lemma": "Toutes les entreprises,",
       "text": "où il signala sa valeur. L'Hébreu [61] se peut expliquer, ou de sa force corporelle, ou de sa valeur, ou des forces de son Royaume, et de ses armées. Les Septante semblent l'avoir entendu de son empire, de son autorité."
@@ -320,7 +320,7 @@
     {
       "key": "page_0331-d",
       "n": 4,
-      "text": "2. Par. XI. 21. _Amavit Roboam Maacham filiam Abſalom._"
+      "text": "2. Par. XI. 21. _Amavit Roboam Maacham filiam Absalom._"
     },
     {
       "key": "page_0332-a",
@@ -335,27 +335,27 @@
     {
       "key": "page_0332-c",
       "n": 7,
-      "text": "Joſeph. Antiq. lib. 8. c. 3. ἤγετο πρὸς γυναῖκα τὴν ἐκ τῆς Α᾿βεσσάλωμε θυγατρὸς Θαμάρην, Μάχαν κατὰ γένος."
+      "text": "Joseph. Antiq. lib. 8. c. 3. ἤγετο πρὸς γυναῖκα τὴν ἐκ τῆς Α᾿βεσσάλωμε θυγατρὸς Θαμάρην, Μάχαν κατὰ γένος."
     },
     {
       "key": "page_0333-a",
       "n": 8,
-      "text": "Eccli. XLIX. 5. Præter David & Ezechiam & Josiam omnes peccatum commiserunt."
+      "text": "Eccli. XLIX. 5. Præter David et Ezechiam et Josiam omnes peccatum commiserunt."
     },
     {
       "key": "page_0333-b",
       "n": 9,
-      "text": "Vide Sanct. hîc, & Castalion. qui in textu audaciùs supplet Asam pro Roboam."
+      "text": "Vide Sanct. hîc, et Castalion. qui in textu audaciùs supplet Asam pro Roboam."
     },
     {
       "key": "page_0333-c",
       "n": 10,
-      "text": "2. Par. XIII. 3. & seq. usque ad 20."
+      "text": "2. Par. XIII. 3. et seq. usque ad 20."
     },
     {
       "key": "page_0334-a",
       "n": 11,
-      "text": "Uſſer. ad an. mund. 3047."
+      "text": "Usser. ad an. mund. 3047."
     },
     {
       "key": "page_0334-b",
@@ -370,7 +370,7 @@
     {
       "key": "page_0335-b",
       "n": 14,
-      "text": "Caſtalio. Gatuk."
+      "text": "Castalio. Gatuk."
     },
     {
       "key": "page_0335-c",
@@ -380,17 +380,17 @@
     {
       "key": "page_0335-d",
       "n": 16,
-      "text": "Herodot. lib. 2. cap. 48. & 49. Διττὸι δὲ ἴσοντες εἰσὶ διθυράμβοι. Φαλικὸν ᾆσμα ὅτι ἐπὶ ἱζάρημεν ὄντος πηχυαῖα ἀγάλματα νευρόσπασα, ἃ περιφορᾶσι κατὰ κώμας. καὶ γυ νικαί· νεύει τὸ αἰδοῖον ἐπομῆς τῷ ἵλαος· σοι ἐστὶν τὸ Ἅδης σῶματ᾽. προηγεῖται δὲ αὐλός. αι"
+      "text": "Herodot. lib. 2. cap. 48. et 49. Διττὸι δὲ ἴσοντες εἰσὶ διθυράμβοι. Φαλικὸν ᾆσμα ὅτι ἐπὶ ἱζάρημεν ὄντος πηχυαῖα ἀγάλματα νευρόσπασα, ἃ περιφορᾶσι κατὰ κώμας. καὶ γυ νικαί· νεύει τὸ αἰδοῖον ἐπομῆς τῷ ἵλαος· σοι ἐστὶν τὸ Ἅδης σῶματ᾽. προηγεῖται δὲ αὐλός. αι"
     },
     {
       "key": "page_0335-e",
       "n": 17,
-      "text": "Μητέρα ἑαυτῦ μετέσησε τῦ μὴ εἶναι ἡγεμόνα, καὶ διέκοψεν εὔνοδος αὐτῆς. Et dans les Paralipoménes ils liſent : Καὶ τὴν Μααχὰ τὴν μητέρα αὐτῦ μετέσησεν τῦ μὴ εἶναι τῆ Αςάρτη λειτυργῆσαι, καὶ ἐξέκοψε τὸ εἴδωλον."
+      "text": "Μητέρα ἑαυτῦ μετέσησε τῦ μὴ εἶναι ἡγεμόνα, καὶ διέκοψεν εὔνοδος αὐτῆς. Et dans les Paralipoménes ils lisent : Καὶ τὴν Μααχὰ τὴν μητέρα αὐτῦ μετέσησεν τῦ μὴ εἶναι τῆ Αςάρτη λειτυργῆσαι, καὶ ἐξέκοψε τὸ εἴδωλον."
     },
     {
       "key": "page_0336-a",
       "n": 18,
-      "text": "2. Par. XIV. 2. _Abſtulit altaria peregrini cultûs & excelſa, & confregit ſtatuas, lucoſque ſuccidit (℣. 5.) Et abſtulit de cunctis urbibus Juda aras & fana, &c._"
+      "text": "2. Par. XIV. 2. _Abstulit altaria peregrini cultûs et excelsa, et confregit statuas, lucosque succidit (℣. 5.) Et abstulit de cunctis urbibus Juda aras et fana, etc._"
     },
     {
       "key": "page_0336-b",
@@ -410,7 +410,7 @@
     {
       "key": "page_0337-a",
       "n": 22,
-      "text": "2. Par. XVI. 7. 10. _Iratus Aſa adverſus videntem, juſſit eum mitti in nervum, . . . . & interſecit de populo in tempore illo plurimos._"
+      "text": "2. Par. XVI. 7. 10. _Iratus Asa adversus videntem, jussit eum mitti in nervum, . . . . et intersecit de populo in tempore illo plurimos._"
     },
     {
       "key": "page_0337-b",
@@ -420,17 +420,17 @@
     {
       "key": "page_0337-c",
       "n": 24,
-      "text": "_Toſt. Sandt. Menoch._"
+      "text": "_Tost. Sandt. Menoch._"
     },
     {
       "key": "page_0337-d",
       "n": 25,
-      "text": "_2. Par. XIII. 3. & ſeq._"
+      "text": "_2. Par. XIII. 3. et seq._"
     },
     {
       "key": "page_0338-a",
       "n": 26,
-      "text": "Vide ſup. ℣. 2. 3. 2. Par. XIII. 20. _Quem percuſſit Dominus & mortuus eſt._"
+      "text": "Vide sup. ℣. 2. 3. 2. Par. XIII. 20. _Quem percussit Dominus et mortuus est._"
     },
     {
       "key": "page_0338-b",
@@ -445,22 +445,22 @@
     {
       "key": "page_0339-a",
       "n": 29,
-      "text": "3. Reg. XVI. 8. _Anno vigesimo ſexto Aſa Regis Juda, regnavit Ela filius Baaſa ſuper Iſraël._"
+      "text": "3. Reg. XVI. 8. _Anno vigesimo sexto Asa Regis Juda, regnavit Ela filius Baasa super Israël._"
     },
     {
       "key": "page_0339-b",
       "n": 30,
-      "text": "3. Reg. XV. 28. _Interfecit ergo illum Baaſa anno tertio Aſa Regis Juda, & regnavit pro eo._"
+      "text": "3. Reg. XV. 28. _Interfecit ergo illum Baasa anno tertio Asa Regis Juda, et regnavit pro eo._"
     },
     {
       "key": "page_0339-c",
       "n": 31,
-      "text": "Ibidem ℣. 33. _Anno tertio Aſa Regis Juda, regnavit Baaſa ſuper omnem Iſraël in Therſa, viginti quatuor annis._"
+      "text": "Ibidem ℣. 33. _Anno tertio Asa Regis Juda, regnavit Baasa super omnem Israël in Thersa, viginti quatuor annis._"
     },
     {
       "key": "page_0339-d",
       "n": 32,
-      "text": "Ita Seder Olam, Jun. Tirin. Sanst. Toſ-ſan. Buxt. Torniel. Salian. Uſſer. ad an. 3064. alii plures."
+      "text": "Ita Seder Olam, Jun. Tirin. Sanst. Tos-san. Buxt. Torniel. Salian. Usser. ad an. 3064. alii plures."
     },
     {
       "key": "page_0339-e",
@@ -490,12 +490,12 @@
     {
       "key": "page_0340-a",
       "n": 38,
-      "text": "Capell. Grot Vide, ſi placet, & Cajet. in 2. Par. xv. 16. & Canum loc. Theol. lib. xx. c. 5."
+      "text": "Capell. Grot Vide, si placet, et Cajet. in 2. Par. xv. 16. et Canum loc. Theol. lib. xx. c. 5."
     },
     {
       "key": "page_0340-b",
       "n": 39,
-      "text": "Harduin. Chronol. vet. Teſtam. ad an. 17. Aſæ."
+      "text": "Harduin. Chronol. vet. Testam. ad an. 17. Asæ."
     },
     {
       "key": "page_0340-c",
@@ -505,17 +505,17 @@
     {
       "key": "page_0340-d",
       "n": 41,
-      "text": "Joſue XVIII. 25."
+      "text": "Josue XVIII. 25."
     },
     {
       "key": "page_0340-e",
       "n": 42,
-      "text": "Euſeb. & Ieron. in locis."
+      "text": "Euseb. et Ieron. in locis."
     },
     {
       "key": "page_0341-a",
       "n": 43,
-      "text": "Grot. _de jure belli & pac. lib. 3. cap. 5 art. 2._"
+      "text": "Grot. _de jure belli et pac. lib. 3. cap. 5 art. 2._"
     },
     {
       "key": "page_0341-b",
@@ -535,7 +535,7 @@
     {
       "key": "page_0342-b",
       "n": 47,
-      "text": "Vide Joſeph. lib. 8. Antiq. cap. 2."
+      "text": "Vide Joseph. lib. 8. Antiq. cap. 2."
     },
     {
       "key": "page_0342-d",
@@ -545,7 +545,7 @@
     {
       "key": "page_0342-e",
       "n": 49,
-      "text": "Ezech. XLVIII. 1. Voyez auſſi Num. XXXIV. 11. Deut. III. 17;"
+      "text": "Ezech. XLVIII. 1. Voyez aussi Num. XXXIV. 11. Deut. III. 17;"
     },
     {
       "key": "page_0342-c",
@@ -570,7 +570,7 @@
     {
       "key": "page_0342-i",
       "n": 54,
-      "text": "Joſue XI. 2. & XII. 27. Voyez auſſi Num. XXXIV. 11. Deut. III. 17a"
+      "text": "Josue XI. 2. et XII. 27. Voyez aussi Num. XXXIV. 11. Deut. III. 17a"
     },
     {
       "key": "page_0343-a",
@@ -585,17 +585,17 @@
     {
       "key": "page_0343-c",
       "n": 57,
-      "text": "אין נקי אין פקיד. Les Septante ὡς ἀπαρτίζων τις ἐχαίρε, ou ἐπέστρεψε. Ils ont voulu conſerver"
+      "text": "אין נקי אין פקיד. Les Septante ὡς ἀπαρτίζων τις ἐχαίρε, ou ἐπέστρεψε. Ils ont voulu conserver"
     },
     {
       "key": "page_0343-d",
       "n": 58,
-      "text": "L. ult. C. de quibus muneribus nemini liceat ſe excuſare, apud Grot. hic."
+      "text": "L. ult. C. de quibus muneribus nemini liceat se excusare, apud Grot. hic."
     },
     {
       "key": "page_0343-e",
       "n": 59,
-      "text": "Ita Vat. Grot. Sanst. Menoch. &c."
+      "text": "Ita Vat. Grot. Sanst. Menoch. etc."
     },
     {
       "key": "page_0343-f",
@@ -610,12 +610,12 @@
     {
       "key": "page_0344-b",
       "n": 62,
-      "text": "2. Par. XVI. 13. 14. _Poſuerunt eum ſuper lectum ſuum plenum aromatibus & unguentis meretriciis, quæ erant pigmentariorum arte confecta, & combuſſerunt ſuper eum ambitione nimiâ._"
+      "text": "2. Par. XVI. 13. 14. _Posuerunt eum super lectum suum plenum aromatibus et unguentis meretriciis, quæ erant pigmentariorum arte confecta, et combusserunt super eum ambitione nimiâ._"
     },
     {
       "key": "page_0344-c",
       "n": 63,
-      "text": "3. Reg. XV. 28. _Interfecit illum Baaſa in anno tertio Aſa Regis Juda._"
+      "text": "3. Reg. XV. 28. _Interfecit illum Baasa in anno tertio Asa Regis Juda._"
     },
     {
       "key": "page_0345-a",
@@ -626,120 +626,6 @@
       "key": "page_0345-b",
       "n": 65,
       "text": "_2. Par. XVI. 1._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0331",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0332",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0333",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0334",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0335",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0336",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0337",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0338",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0339",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0340",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0341",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0342",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0343",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0344",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0345",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0346",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

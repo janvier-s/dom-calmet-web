@@ -9,7 +9,7 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUOD NON DEBEANT INTROIRE AMMONITES ET MOABITES IN ECCLESIAM DEI.",
       "lemma": "Que les Ammonites, et les Moabites ne doivent point entrer dans l'assemblée du Seigneur.",
       "text": "On a expliqué cette Loi dans le Deutéronome. [1] Il est visible par ce passage, que l'on entendait cette défense des mariages avec les femmes Ammonites, et Moabites. C'est une interprétation des Sages de la Nation."
@@ -65,7 +65,7 @@
     },
     {
       "verse": 11,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUARE DERELIQUIMUS DOMUM DEI?",
       "lemma": "Pourquoi avons-nous abandonné la Maison de Dieu ?",
       "text": "Il se met du nombre, comme s'il était coupable, pour adoucir l'aigreur de la répréhension. On pourrait traduire l'Hébreu[14] ainsi qu'ont fait les Septante, le Syriaque, l'Arabe, et quelques nouveaux Interprètes : _Pourquoi la Maison de Dieu a-t-elle été abandonnée ?_"
@@ -128,7 +128,7 @@
     },
     {
       "verse": 25,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "DECALCAVI EOS.",
       "lemma": "Je leur fis raser les cheveux.",
       "text": "C'était une peine ignominieuse chez les Hébreux, de même que chez les autres peuples.[22] Mais la peine dont il s'agit ici, n'était pas simplement ignominieuse ; elle était douloureuse, et sensible. On ne se contentait pas de raser, ou de couper les cheveux, on les arrachait avec violence, et comme on plume un oiseau vivant. C'est la signification des termes de l'Original.[23] L'expression dont se servent les Grecs, marque la même chose. Quelquefois on jetait de la cendre chaude sur la peau, d'où l'on avait arraché le poil, pour rendre la douleur plus aiguë, et plus vive. C'est ainsi qu'on en usait à Athènes envers les adultères, comme le remarque le Scoliaste d'Aristophanes.[24] Le Roi Artaxercès à la longue main,[25] dont Néhémie était Officier, changea la peine dont nous parlons, en ordonnant qu'au lieu d'arracher les cheveux à ceux de ses Généraux, qui commettraient quelque faute, on les obligerait à quitter la tiare. L'Empereur Domitien fit raser les cheveux et la barbe à Apollonius.[26] Récarède, Roi d'Espagne, fit de même raser la chevelure au Tyran Argimunde, et le Roi Bamba au Tyran Paul. [27] En France, on coupe les cheveux aux Sorcières."
@@ -266,37 +266,37 @@
     {
       "key": "page_0107-e",
       "n": 5,
-      "text": "Vſer. ab an. mund. 3563."
+      "text": "Vser. ab an. mund. 3563."
     },
     {
       "key": "page_0108-a",
       "n": 6,
-      "text": "(a) ויעש לו לשכה גדולה ושם היו לפנים נתנים. _Evolvit illi gazophylacium magnum, & ibi erant ante faciem dantes_, ou _dederant._"
+      "text": " ויעש לו לשכה גדולה ושם היו לפנים נתנים. _Evolvit illi gazophylacium magnum, et ibi erant ante faciem dantes_, ou _dederant._"
     },
     {
       "key": "page_0108-b",
       "n": 7,
-      "text": "(b) _Vatable._"
+      "text": " _Vatable._"
     },
     {
       "key": "page_0108-c",
       "n": 8,
-      "text": "(c) _Vide Munſt._"
+      "text": " _Vide Munst._"
     },
     {
       "key": "page_0108-d",
       "n": 9,
-      "text": "(d) _Grot. hic ad_ ℣. 8. _Cornel. Tirin._"
+      "text": " _Grot. hic ad_ ℣. 8. _Cornel. Tirin._"
     },
     {
       "key": "page_0108-e",
       "n": 10,
-      "text": "(e) _In fine dierum._ Hebr. מקץ ימים _Id eſt, anno integro_, Vat. Piſc. Vide Exod. XIII. 10. Levit. XXV. 29. Num. IX. 22. Judic. XVII. 1. I. Reg. I. 3. & XXVII. 7. Amos. IV, 4."
+      "text": " _In fine dierum._ Hebr. מקץ ימים _Id est, anno integro_, Vat. Pisc. Vide Exod. XIII. 10. Levit. XXV. 29. Num. IX. 22. Judic. XVII. 1. I. Reg. I. 3. et XXVII. 7. Amos. IV, 4."
     },
     {
       "key": "page_0109-a",
       "n": 11,
-      "text": "(a) ובכל זה לא הייתי בירושלם כי בשנת שלשים ושתים לארתחשסתא מלך בבל באתי אל המלך ולקץ ימים נשאלתי מן המלך mais, _l'année trente-deux d'Artaxercés, je vins à la Cour pour ſolliciter la permiſſion de revenir dans mon pays, &c._ Voyez _Geneſ._ XLV. 8. 2. _Reg._ XVI. 18. _Oſée._ I. 6. La particule כי ſe prend quelquefois pour,"
+      "text": " ובכל זה לא הייתי בירושלם כי בשנת שלשים ושתים לארתחשסתא מלך בבל באתי אל המלך ולקץ ימים נשאלתי מן המלך mais, _l'année trente-deux d'Artaxercés, je vins à la Cour pour solliciter la permission de revenir dans mon pays, etc._ Voyez _Genes._ XLV. 8. 2. _Reg._ XVI. 18. _Osée._ I. 6. La particule כי se prend quelquefois pour,"
     },
     {
       "key": "page_0110-a",
@@ -336,12 +336,12 @@
     {
       "key": "page_0113-a",
       "n": 19,
-      "text": "(a) (בניהם) חצי מדבר אשדודית"
+      "text": " (בניהם) חצי מדבר אשדודית"
     },
     {
       "key": "page_0113-b",
       "n": 20,
-      "text": "(b) 2. Eſdr. VIII. 8."
+      "text": " 2. Esdr. VIII. 8."
     },
     {
       "key": "page_0114-a",
@@ -351,17 +351,17 @@
     {
       "key": "page_0114-b",
       "n": 22,
-      "text": "Voyez la Diſſertation ſur les Supplices."
+      "text": "Voyez la Dissertation sur les Supplices."
     },
     {
       "key": "page_0114-c",
       "n": 23,
-      "text": "מרט Voyez Iſai. l. 6. Ezech. XXIX. 18."
+      "text": "מרט Voyez Isai. l. 6. Ezech. XXIX. 18."
     },
     {
       "key": "page_0114-d",
       "n": 24,
-      "text": "Ariſtoph. Nubib. Τὶ δ᾽ ἂν παθὼν δίκην | παιδάριμ᾽ συ, τιφφέτη τίλΔΕ."
+      "text": "Aristoph. Nubib. Τὶ δ᾽ ἂν παθὼν δίκην | παιδάριμ᾽ συ, τιφφέτη τίλΔΕ."
     },
     {
       "key": "page_0114-e",
@@ -371,7 +371,7 @@
     {
       "key": "page_0114-f",
       "n": 26,
-      "text": "Philoſtrat. lib. 3. cap. 14."
+      "text": "Philostrat. lib. 3. cap. 14."
     },
     {
       "key": "page_0115-a",
@@ -386,7 +386,7 @@
     {
       "key": "page_0115-c",
       "n": 29,
-      "text": "Ita Vatab. Munſt. Jun. Tremel. Piſt. Angl. & Gall. Verſiones. Ita ſorsè, & 70, Καὶ ὑμῖν μὴ ἀκουσώμεθα ποιῆσαι πᾶσαν πονηρίαν Ταύτην."
+      "text": "Ita Vatab. Munst. Jun. Tremel. Pist. Angl. et Gall. Versiones. Ita sorsè, et 70, Καὶ ὑμῖν μὴ ἀκουσώμεθα ποιῆσαι πᾶσαν πονηρίαν Ταύτην."
     },
     {
       "key": "page_0115-d",
@@ -396,7 +396,7 @@
     {
       "key": "page_0115-e",
       "n": 31,
-      "text": "Joſeph Antiq. lib. XI. cap. 8."
+      "text": "Joseph Antiq. lib. XI. cap. 8."
     },
     {
       "key": "page_0115-f",
@@ -406,7 +406,7 @@
     {
       "key": "page_0116-a",
       "n": 33,
-      "text": "Sanaballat étoit Gouverneur des Cuthéens en 3550. Lorſque Néhémie vint en Judée ; Alexandre fit le ſiége de Tyr, vers l'an 3672."
+      "text": "Sanaballat étoit Gouverneur des Cuthéens en 3550. Lorsque Néhémie vint en Judée ; Alexandre fit le siége de Tyr, vers l'an 3672."
     },
     {
       "key": "page_0116-b",
@@ -416,12 +416,12 @@
     {
       "key": "page_0116-c",
       "n": 35,
-      "text": "Joſeph Antiq. lib. XI. cap. 7."
+      "text": "Joseph Antiq. lib. XI. cap. 7."
     },
     {
       "key": "page_0116-d",
       "n": 36,
-      "text": "Uſſer. ad an. 3672."
+      "text": "Usser. ad an. 3672."
     },
     {
       "key": "page_0117-a",
@@ -436,110 +436,17 @@
     {
       "key": "page_0117-c",
       "n": 39,
-      "text": "Joſeph lib. XI. c. 8. Antiq."
+      "text": "Joseph lib. XI. c. 8. Antiq."
     },
     {
       "key": "page_0117-d",
       "n": 40,
-      "text": "Vide I. Eſdr. VI. 14."
+      "text": "Vide I. Esdr. VI. 14."
     },
     {
       "key": "page_0118-b",
       "n": 41,
-      "text": "2. Eſdr. V. 19."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0106",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0107",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0108",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0109",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0110",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0111",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0112",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0113",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0114",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0115",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0116",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0117",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0118",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
+      "text": "2. Esdr. V. 19."
     }
   ],
   "missing_footnotes": []

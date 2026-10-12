@@ -23,7 +23,7 @@
     },
     {
       "verse": 4,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "QUANDO SECRETO DEUS ERAT IN TABERNACULO MEO.",
       "lemma": "Lorsque Dieu habitait en secret dans ma maison.",
       "text": "L'Hébreu : [5] _Lorsque l'alliance du Seigneur était sur ma tente_ ; lorsqu'il me protégeait comme son ami, et qu'il me comblait de bienfaits. Ou plutôt : _Lorsque le secret du Seigneur était sur ma demeure_ ; que ma maison était regardée comme le lieu de son oracle ; et qu'on venait de tout côté me consulter, et recevoir mes ordres, comme d'un homme rempli de Dieu. Les Septante : [6] Lorsque le Seigneur faisait la visite, ou la garde, l'inspection de ma maison; qu'il en était le protecteur, le gardien. À peu près comme quand l'Arche de l'alliance était dans la maison d'Obédédom, [7] ou dans le Palais de David, et qu'il les comblait de bénédictions."
@@ -39,7 +39,7 @@
       "verse": 7,
       "sub": false,
       "latin_lemma": "QUANDO PROCEDEBAM AD PORTAM CIVITATIS.",
-      "lemma": "Lorsque j'allais prendre ma place à la porte de la ville, où l'on",
+      "lemma": "_Lorsque j'allais prendre ma place à la porte de la ville_, où l'on",
       "text": "s'assemblait pour délibérer des affaires publiques, et pour rendre les Jugements. Job par toute la suite de ce discours, paraît avoir tenu le premier rang dans la ville, et parmi son peuple, en sorte qu'on le peut mettre parmi les anciens Rois, et parmi les Princes qui gouvernèrent anciennement le canton de Hus, dans l'Idumée: Car il paraît par l'Écriture, [14] que dans les commencements, il y avait dans Edom plusieurs Princes, et plusieurs Rois, qui dominaient chacun dans leurs cantons, et dans leurs villes."
     },
     {
@@ -83,6 +83,13 @@
       "latin_lemma": "SI QUANDO RIDEBAM AD EOS, NON CREDEBANT ; ET LUX VULTUS MEI NON CADEBAT IN TERRAM.",
       "lemma": "Si je riais quelquefois avec eux, ils ne pouvaient pas le croire ; et la lumière de mon visage ne tombait point à terre.",
       "text": "Lorsque je prenais un air plus ouvert, plus familier, plus gai avec eux, ils n'osaient se familiariser jusqu'à rire avec moi. Ils ne pouvaient se persuader que je voulusse me rabaisser jusqu'à eux ; et ils recevaient avec avidité, et empressement les moindres marques de bienveillance de ma part. La lumière de mon visage, un regard gracieux de ma part, ne tombait point par terre, et n'était pas négligé. L'Hébreu :[23] _Ils ne rejetaient point la lumière de mon visage._"
+    },
+    {
+      "verse": 28,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "admiration ; cette Sagesse est le partage du Tout-puissant ; elle est inaccessible, et incompréhensible aux mortels. Ce que nous pouvons espérer ; la sagesse à laquelle nous pouvons atteindre, est la crainte du Seigneur. Par elle nous connaissons, nous adorons le Seigneur. Elle nous enseigne à adorer avec respect ses Jugements, à obéir à ses ordres, à éviter de lui déplaire."
     }
   ],
   "joins": [
@@ -135,22 +142,22 @@
     {
       "key": "page_0353-a",
       "n": 1,
-      "text": "Job. XXII. 5. 6. 7. &c."
+      "text": "Job. XXII. 5. 6. 7. etc."
     },
     {
       "key": "page_0354-a",
       "n": 2,
-      "text": "Ita Beda, Philipp. Thom. Chryſoſt. Catena, & alii plerique."
+      "text": "Ita Beda, Philipp. Thom. Chrysost. Catena, et alii plerique."
     },
     {
       "key": "page_0354-b",
       "n": 3,
-      "text": "כאשר הייתי בימי חרפי. ס'סוכת אלהי עלי אהלי. O’ ſi ſum ſicut in diebus ſecuritatis,"
+      "text": "כאשר הייתי בימי חרפי. ס'סוכת אלהי עלי אהלי. O’ si sum sicut in diebus securitatis,"
     },
     {
       "key": "page_0354-c",
       "n": 4,
-      "text": "Ita Sym. Grot. Chald. Pagn. Mercer. Munſt. alii, חרף Syriacè, _adoleſcentia, juventus._"
+      "text": "Ita Sym. Grot. Chald. Pagn. Mercer. Munst. alii, חרף Syriacè, _adolescentia, juventus._"
     },
     {
       "key": "page_0354-d",
@@ -160,7 +167,7 @@
     {
       "key": "page_0355-a",
       "n": 6,
-      "text": "70. Oſiæ ἐπισκοπὴν ἐποιεῖτο ὁ θεὸς ἐν οἴκῳ μου."
+      "text": "70. Osiæ ἐπισκοπὴν ἐποιεῖτο ὁ θεὸς ἐν οἴκῳ μου."
     },
     {
       "key": "page_0355-b",
@@ -170,7 +177,7 @@
     {
       "key": "page_0355-c",
       "n": 8,
-      "text": "Exod. III. 8. & paſſim."
+      "text": "Exod. III. 8. et passim."
     },
     {
       "key": "page_0355-d",
@@ -180,27 +187,27 @@
     {
       "key": "page_0355-e",
       "n": 10,
-      "text": "Geneſ. XLIX. 11. 12."
+      "text": "Genes. XLIX. 11. 12."
     },
     {
       "key": "page_0355-f",
       "n": 11,
-      "text": "Οτε ἐχέοντο αἱ ὁδοί μου βουτύρῳ; & δι᾽ ἐμὲ ἴσχυον γάλακτι."
+      "text": "Οτε ἐχέοντο αἱ ὁδοί μου βουτύρῳ; et δι᾽ ἐμὲ ἴσχυον γάλακτι."
     },
     {
       "key": "page_0355-g",
       "n": 12,
-      "text": "Ex Indicor. Cteſi. excerpt. à Photio, populi nonnulli oleo unguntur ex lacte. E'λαίῳ χρίονται τῷ ἀπὸ γάλακτος & γηρομύλῳ."
+      "text": "Ex Indicor. Ctesi. excerpt. à Photio, populi nonnulli oleo unguntur ex lacte. E'λαίῳ χρίονται τῷ ἀπὸ γάλακτος et γηρομύλῳ."
     },
     {
       "key": "page_0355-h",
       "n": 13,
-      "text": "Plin. l. IX. cap. 41. Hiſt. Nat."
+      "text": "Plin. l. IX. cap. 41. Hist. Nat."
     },
     {
       "key": "page_0356-a",
       "n": 14,
-      "text": "Geneſ. XXXVI. 15. & 1. Paralip. 1. 35. & ſequ."
+      "text": "Genes. XXXVI. 15. et 1. Paralip. 1. 35. et sequ."
     },
     {
       "key": "page_0356-b",
@@ -210,12 +217,12 @@
     {
       "key": "page_0356-c",
       "n": 16,
-      "text": "Chap. XXII. ℣. 5. & ſequ."
+      "text": "Chap. XXII. ℣. 5. et sequ."
     },
     {
       "key": "page_0357-a",
       "n": 17,
-      "text": "Mercer, Druſ. Caſtal."
+      "text": "Mercer, Drus. Castal."
     },
     {
       "key": "page_0358-a",
@@ -225,7 +232,7 @@
     {
       "key": "page_0358-b",
       "n": 19,
-      "text": "Bellon. lib. 2. Obſerv. cap. 25."
+      "text": "Bellon. lib. 2. Observ. cap. 25."
     },
     {
       "key": "page_0358-c",
@@ -246,57 +253,6 @@
       "key": "page_0359-b",
       "n": 23,
       "text": "ולא יפילון אור פני׃ _Non dejiciebant lucem vultûs mei._"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0353",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0354",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0355",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0356",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0357",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0358",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0359",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

@@ -22,13 +22,6 @@
       "text": "Ainsi ils furent quatre mois entiers à faire le voyage de Babylone à Jérusalem. Ce terme paraît un peu grand : mais Esdras traînait avec lui un grand nombre de petit peuple, de femmes, d'enfants, et tout l'attirail de plusieurs familles, qui portaient avec elles tous leurs effets ; ce qui ne peut se remuer qu'avec peine, et avec lenteur. D'ailleurs ils marchaient avec beaucoup de circonspection, et de crainte, parce qu'ils n'avaient osé demander d'escorte au Roi. Voyez le Chap. VIII."
     },
     {
-      "verse": 22,
-      "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "Enfin Esdras ne vint pas par le droit chemin ; il remonta vers l'Adiabène, et envoya des députés vers les Israélites des montagnes Caspiennes, pour les inviter à retourner à Jérusalem, Ch. VIII. ℣. 15. et 17. Le cinquième mois répond à juillet, et août."
-    },
-    {
       "verse": 12,
       "sub": false,
       "latin_lemma": "ARTAXERCES, REX REGUM.",
@@ -37,7 +30,7 @@
     },
     {
       "verse": 12,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SCRIBÆ LEGIS DOCTISSIMO, SALUTEM.",
       "lemma": "À Esdras, Docteur très savant dans la Loi du Dieu du Ciel, salut.",
       "text": "Le Texte : [8] _À Esdras, Écrivain (ou Docteur) de la Loi du Dieu du Ciel, perfection, et selon le temps_. C'est ce même terme _Kéeneth_, dont on a déjà parlé ci-devant sur le Chap. IV. ℣. 10. D'autres traduisent : _À Esdras, très habile Écrivain de la Loi du Dieu du Ciel, salut, ou perfection, ou longue vie_. Mais la construction du Texte semble demander qu'on prenne le terme Hébreu _Gémir_, plutôt comme signifiant perfection, ou un bonheur parfait, que pour une épithète d'Esdras. Ce nom est trop éloigné de son antécédent. D'ailleurs c'est la propre signification de _Gémir_. Il signifie consommation, perfection. [9] Ainsi on peut fort bien traduire : _À Esdras, Docteur de la Loi du Dieu du Ciel, perfection, et continuation dans l'état où vous êtes aujourd'hui._"
@@ -51,7 +44,7 @@
     },
     {
       "verse": 14,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UT VISITES JUDÆAM... IN LEGE DEI TUI, QUÆ EST IN MANU TUA.",
       "lemma": "Pour visiter la Judée selon la Loi de votre Dieu, que vous portez avec vous.",
       "text": "Je vous envoie avec pouvoir de statuer, d'ordonner, de régler toutes choses dans la Judée, suivant la Loi de votre Dieu. On voit ci-après, [13] que par cette Ordonnance, Artaxercès donnait aux Juifs la liberté de se gouverner selon leurs Lois, d'avoir des Juges de leur Nation, et de juger leurs différends suivant les Décrets de Moïse."
@@ -80,27 +73,34 @@
     {
       "verse": 22,
       "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "Enfin Esdras ne vint pas par le droit chemin ; il remonta vers l'Adiabène, et envoya des députés vers les Israélites des montagnes Caspiennes, pour les inviter à retourner à Jérusalem, Ch. VIII. ℣. 15. et 17. Le cinquième mois répond à juillet, et août."
+    },
+    {
+      "verse": 22,
+      "sub": false,
       "latin_lemma": "ARGENTI TALENTA CENTUM.",
       "lemma": null,
       "text": "Cent talents d'argent ; c'est-à-dire, quatre cents quatre-vingt-six mille sept cents dix-huit livres quinze sols de notre monnaie."
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FRUMENTI COROS CENTUM.",
       "lemma": null,
       "text": "Cent muids de froment. Le Corus contenait deux cents quatre-vingt-dix-huit pintes, chopine, demi-setier, et un peu plus."
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VINI BATHOS CENTUM.",
       "lemma": null,
       "text": "Cent tonneaux de vin. À la lettre : Cent baths de vin. Le bath contient vingt-neuf pintes, chopine, demi-setier, un posson, et un peu plus."
     },
     {
       "verse": 22,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "SAL ABSQUE MENSURA.",
       "lemma": "Du sel sans mesure.",
       "text": "Le Texte à la lettre: [16] _Du sel qui n'est point écrit_; dont la mesure n'est point déterminée. On usait de sel dans tous les sacrifices : [17] _Quicquid obtuleris sacrificii, sale condies_. Le troisième Livre d'Esdras lit : _Et pour tout le surplus, qu'on le donne sans mesure_. [18]"
@@ -192,17 +192,17 @@
     {
       "key": "page_0100-a",
       "n": 1,
-      "text": "I. Par. VI. 7. 8. & ſequ."
+      "text": "I. Par. VI. 7. 8. et sequ."
     },
     {
       "key": "page_0101-a",
       "n": 2,
-      "text": "4. Eſdr. I. I."
+      "text": "4. Esdr. I. I."
     },
     {
       "key": "page_0101-b",
       "n": 3,
-      "text": "3. Eſdr. VIII. I. 2."
+      "text": "3. Esdr. VIII. I. 2."
     },
     {
       "key": "page_0101-c",
@@ -222,7 +222,7 @@
     {
       "key": "page_0103-b",
       "n": 7,
-      "text": "Vide Oſee VIII. 10."
+      "text": "Vide Osee VIII. 10."
     },
     {
       "key": "page_0103-c",
@@ -232,32 +232,32 @@
     {
       "key": "page_0103-d",
       "n": 9,
-      "text": "Vide Lexic. Caſtell."
+      "text": "Vide Lexic. Castell."
     },
     {
       "key": "page_0104-a",
       "n": 10,
-      "text": "Voyez nôtre Commentaire ſur Tobie, XII. 15."
+      "text": "Voyez nôtre Commentaire sur Tobie, XII. 15."
     },
     {
       "key": "page_0104-b",
       "n": 11,
-      "text": "Eſt I. 10. 14."
+      "text": "Est I. 10. 14."
     },
     {
       "key": "page_0104-c",
       "n": 12,
-      "text": "Joſeph Antiq. lib. XI. cap. 6. Τὰς ἐπὶ τῶν Περσῶν ἐκ τῶν τῶν νόμων ἐξηγητῶν ἔχων παρ' ἑαυτῷ."
+      "text": "Joseph Antiq. lib. XI. cap. 6. Τὰς ἐπὶ τῶν Περσῶν ἐκ τῶν τῶν νόμων ἐξηγητῶν ἔχων παρ' ἑαυτῷ."
     },
     {
       "key": "page_0104-d",
       "n": 13,
-      "text": "Voyez les verſets 25. & 26."
+      "text": "Voyez les versets 25. et 26."
     },
     {
       "key": "page_0104-e",
       "n": 14,
-      "text": "1. Eſdr. 1. 4."
+      "text": "1. Esdr. 1. 4."
     },
     {
       "key": "page_0104-f",
@@ -277,12 +277,12 @@
     {
       "key": "page_0106-c",
       "n": 18,
-      "text": "_3. Eſdr. VIII. 22._"
+      "text": "_3. Esdr. VIII. 22._"
     },
     {
       "key": "page_0106-d",
       "n": 19,
-      "text": "_Vide ſi lubet Num. III. 6. 12. Ego tuli Levitas à filiis Iſraël pro omni primogenito,... e eruntque Levitæ mei, &c._"
+      "text": "_Vide si lubet Num. III. 6. 12. Ego tuli Levitas à filiis Israël pro omni primogenito,... e eruntque Levitæ mei, etc._"
     },
     {
       "key": "page_0106-e",
@@ -292,7 +292,7 @@
     {
       "key": "page_0107-a",
       "n": 21,
-      "text": "Eſdr. VIII. 26."
+      "text": "Esdr. VIII. 26."
     },
     {
       "key": "page_0107-b",
@@ -308,64 +308,6 @@
       "key": "page_0107-d",
       "n": 24,
       "text": "Abenezra, Jun. Cleric."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0100",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0101",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0102",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0103",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0104",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0105",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0106",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0107",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

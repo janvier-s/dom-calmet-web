@@ -9,7 +9,7 @@
     },
     {
       "verse": 1,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "VENIT SENNACHERIB, ET OBSEDIT CIVITATES JUDA MUNITAS VOLENS EAS CAPERE.",
       "lemma": "Sennachérib entra dans les terres de Juda, et en assiégea les plus fortes places, pour s'en rendre maître.",
       "text": "L'Hébreu à la lettre : [4] _Il vint contre Juda, et se campa contre les villes fortifiées, et il dit_ (ou il résolut) _de les arracher de Juda._ De les prendre par force, d'en détruire les fortifications, et de s'en rendre maître. Sennachérib ne vint contre Juda ; que la quatorzième année du règne d'Ézéchias ; jusqu'alors ce Roi de Juda lui était demeuré assujetti et tributaire, suivant les conventions arrêtées entre son père Achaz, et Théglathphalassar Roi d'Assyrie. [5]"
@@ -44,21 +44,21 @@
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "FORINSECUS ALTERUM MURUM.",
       "lemma": "Il fit une autre enceinte de murailles par dehors.",
       "text": "Il fit un avant-mur; ou plutôt une double enceinte de murailles; on sait qu'anciennement les meilleures villes avaient plusieurs enceintes de murailles garnies de tours. L'avant-mur n'était pas la même chose; c'était une simple muraille moins forte que les murs de la ville. Le terme Hébreu , [17] qui signifie l'avant-mur, ne se lit point ici."
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "INSTAURAVIT MELLO.",
       "lemma": "Il rétablit Mello.",
       "text": "Nous avons parlé de Mello en plus d'un endroit. [18] C'était là qu'était le palais des Rois de Juda, et apparemment que la place était forte par son assiette, et par ses ouvrages. Ezéchias la répara, et en augmenta les fortifications."
     },
     {
       "verse": 5,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "UNIVERSI GENERIS ARMATURAM, ET CLYPEOS.",
       "lemma": "Il donna ordre que l'on fît toutes sortes d'armes, et des boucliers.",
       "text": "L'Hébreu [19] : _il fit faire beaucoup de dards, et de boucliers._ Le premier terme signifie une arme qu'on lance contre l'ennemi."
@@ -80,7 +80,7 @@
     {
       "verse": 9,
       "sub": false,
-      "latin_lemma": "MISIT SENNACHERIB AD JERUSALEM ( IPSE ENIM OBSIDEBAT LACHIS, ) AD EZECHIAM, &c.",
+      "latin_lemma": "MISIT SENNACHERIB AD JERUSALEM ( IPSE ENIM OBSIDEBAT LACHIS, ) AD EZECHIAM, etc.",
       "lemma": "Sennachérib qui assiégeait Lachis, envoya quelques-uns de ses Officiers à",
       "text": "_Jérusalem vers Ezéchias._ Il faut exactement distinguer cette députation de Rapsacès, envoyé du siège de Lachis, à Ezéchias pour lui porter des ordres menaçants de la part de Sennachérib, d’avec une autre députation marquée ici au ℣. 17. dans laquelle le Roi d’Assyrie envoya à Ezéchias des lettres pleines de blasphèmes: il les envoya du siège de Lebna, qu’il faisait alors, et qu’il fut obligé de quitter, pour aller à la rencontre de Théraca Roi d’Éthiopie.[23]"
     },
@@ -100,7 +100,7 @@
     },
     {
       "verse": 21,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "REVERSUS EST CUM IGNOMINIA.",
       "lemma": "Sennachérib s'en retourna avec ignominie.",
       "text": "Quelques Rabbins avancent que ce Prince s'en retourna ayant la barbe, et les cheveux rasés par la main de l'Ange exterminateur, et parut ainsi honteusement au milieu de son peuple: ils se fondent sur ces paroles d'Isaïe : [25] _Le Seigneur rasera en ce jour-là la tête, et la barbe du Roi d'Assyrie._ Mais le texte porte au contraire, que _le Seigneur se servira d'un rasoir emprunté du Roi d'Assyrie, pour raser tout le poil de son peuple._"
@@ -149,7 +149,7 @@
     },
     {
       "verse": 30,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "RUM GIHON.",
       "lemma": null,
       "text": "Il boucha la haute fontaine des eaux de Gihon, et les fit couler sous terre, à l'occident de la ville de David ; cette fontaine était à l'occident de Jérusalem, [30] mais Ézéchias en fit entrer les eaux dans la partie occidentale de la ville de David."
@@ -236,7 +236,7 @@
     {
       "key": "page_0223-a",
       "n": 1,
-      "text": "_Jun. & Tremell. Piſcat._"
+      "text": "_Jun. et Tremell. Piscat._"
     },
     {
       "key": "page_0223-b",
@@ -286,52 +286,52 @@
     {
       "key": "page_0225-c",
       "n": 11,
-      "text": "Eccli. XLVIII. 19. _Ezechias munivit civitatem ſuam, & immiſit in medium ipſius aquam & fodit ferro rupem, & ædificavit ad aquam puteum._"
+      "text": "Eccli. XLVIII. 19. _Ezechias munivit civitatem suam, et immisit in medium ipsius aquam et fodit ferro rupem, et ædificavit ad aquam puteum._"
     },
     {
       "key": "page_0225-d",
       "n": 12,
-      "text": "2. Eſdr. II. 14. _Tranſivi ad portam fontis, & ad aquæ-ductum Regis._"
+      "text": "2. Esdr. II. 14. _Transivi ad portam fontis, et ad aquæ-ductum Regis._"
     },
     {
       "key": "page_0225-e",
       "n": 13,
-      "text": "℣. 30. _Obturavit ſuperiorem fontem aquarum Gihon, & avertit eas ſubter, ad occidentem urbis David._"
+      "text": "℣. 30. _Obturavit superiorem fontem aquarum Gihon, et avertit eas subter, ad occidentem urbis David._"
     },
     {
       "key": "page_0226-a",
       "n": 14,
-      "text": "(a) ויבן את כל־החומה הפרוצה ויעל על המגדלו"
+      "text": " ויבן את כל־החומה הפרוצה ויעל על המגדלו"
     },
     {
       "key": "page_0226-b",
       "n": 15,
-      "text": "(b) _Mariana, Tig. Munſt._"
+      "text": " _Mariana, Tig. Munst._"
     },
     {
       "key": "page_0226-c",
       "n": 16,
-      "text": "(c) _2. Par. xxv. 23. & 4. Reg. xiv. 13._"
+      "text": " _2. Par. xxv. 23. et 4. Reg. xiv. 13._"
     },
     {
       "key": "page_0226-d",
       "n": 17,
-      "text": "(d) ולחוצה חומה אחרת avant-mur ; ici : לחומה"
+      "text": " ולחוצה חומה אחרת avant-mur ; ici : לחומה"
     },
     {
       "key": "page_0226-e",
       "n": 18,
-      "text": "(e) Voyez 2. Reg. v. 9. & 1. Reg. ix. 15."
+      "text": " Voyez 2. Reg. v. 9. et 1. Reg. ix. 15."
     },
     {
       "key": "page_0226-f",
       "n": 19,
-      "text": "(f) ויכין רב ומגנים"
+      "text": " ויכין רב ומגנים"
     },
     {
       "key": "page_0226-g",
       "n": 20,
-      "text": "(g) Voyez 2. Reg. xviii. 24. & _Job._ xxix. 7."
+      "text": " Voyez 2. Reg. xviii. 24. et _Job._ xxix. 7."
     },
     {
       "key": "page_0227-a",
@@ -341,12 +341,12 @@
     {
       "key": "page_0227-b",
       "n": 22,
-      "text": "4. Reg. XIX. 35. _Venit Angelus Domini, & percuſſit in caſtris Aſſyriorum, centum octoginta quinque millia._"
+      "text": "4. Reg. XIX. 35. _Venit Angelus Domini, et percussit in castris Assyriorum, centum octoginta quinque millia._"
     },
     {
       "key": "page_0228-a",
       "n": 23,
-      "text": "Voyez le Commentaire ſur 4. Reg. XVIII, 13."
+      "text": "Voyez le Commentaire sur 4. Reg. XVIII, 13."
     },
     {
       "key": "page_0229-a",
@@ -356,7 +356,7 @@
     {
       "key": "page_0230-a",
       "n": 25,
-      "text": "Iſai. vII. 20. Radet Dominus in navacula conducta, in his quæ trans flumen ſunt, in Rege Aſſyriorum, caput, & pilos pedum."
+      "text": "Isai. vII. 20. Radet Dominus in navacula conducta, in his quæ trans flumen sunt, in Rege Assyriorum, caput, et pilos pedum."
     },
     {
       "key": "page_0230-b",
@@ -387,78 +387,6 @@
       "key": "page_0232-b",
       "n": 31,
       "text": "וקברוהו במעלה קברי בני דודו"
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0223",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0224",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0225",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0226",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0227",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0228",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0229",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0230",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0231",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0232",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

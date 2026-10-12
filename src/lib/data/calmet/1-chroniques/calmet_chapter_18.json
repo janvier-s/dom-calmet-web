@@ -64,13 +64,6 @@
       "text": "il est nommé _Joram_, 2. Reg. VIII. 10."
     },
     {
-      "verse": 21,
-      "sub": false,
-      "latin_lemma": "UT POSTULARET AB EO PACEM, ET CONGRATULARETUR",
-      "lemma": "Pour lui demander la paix, et pour lui témoigner sa joie, de ce qu'il avait vaincu Adarézer.",
-      "text": "L'Hébreu : [11] _Pour lui demander si tout allait bien, et pour le bénir._ En un mot pour le complimenter, et le féliciter de la victoire."
-    },
-    {
       "verse": 11,
       "sub": false,
       "latin_lemma": "OMNIA VASA AUREA, ET ARGENTEA CONSECRAVIT DAVID REX.",
@@ -111,6 +104,13 @@
       "latin_lemma": "FILII DAVID PRIMI AD MANUM REGIS.",
       "lemma": "Les fils de David étaient les premiers auprès du Roi.",
       "text": "À la lettre : [22] _Les premiers à la main du Roi._ Ils étaient les premiers auprès de sa personne, pour exécuter ses ordres, et pour l'aider dans les travaux du gouvernement. Les Septante : [23] _Les premiers Vicaires du Roi._ Le Syriaque, et l'Arabe: _Les fils de David étaient les Princes, les premiers de tous les Officiers, dont on vient de parler._ Dans le passage parallèle du second Livre des Rois, on lit qu'ils étaient Prêtres. [24]"
+    },
+    {
+      "verse": 21,
+      "sub": false,
+      "latin_lemma": "UT POSTULARET AB EO PACEM, ET CONGRATULARETUR",
+      "lemma": "Pour lui demander la paix, et pour lui témoigner sa joie, de ce qu'il avait vaincu Adarézer.",
+      "text": "L'Hébreu : [11] _Pour lui demander si tout allait bien, et pour le bénir._ En un mot pour le complimenter, et le féliciter de la victoire."
     }
   ],
   "joins": [
@@ -175,7 +175,7 @@
     {
       "key": "page_0227-c",
       "n": 5,
-      "text": "2. Reg. VIII. 4. Captis mille ſeptingentitis equitibus ... ſubnervavit omnes jugales curruum."
+      "text": "2. Reg. VIII. 4. Captis mille septingentitis equitibus ... subnervavit omnes jugales curruum."
     },
     {
       "key": "page_0227-d",
@@ -210,7 +210,7 @@
     {
       "key": "page_0229-b",
       "n": 12,
-      "text": "Ci-devant ℣. 8. _De quo fecit Salomon mare æneum, & columnas, & vaſa ænea._"
+      "text": "Ci-devant ℣. 8. _De quo fecit Salomon mare æneum, et columnas, et vasa ænea._"
     },
     {
       "key": "page_0229-c",
@@ -225,17 +225,17 @@
     {
       "key": "page_0230-a",
       "n": 15,
-      "text": "2. Reg. VIII. 13. _Fecit ſibi David nomen, cùm reverteretur captâ Syria in valle Salinarum, cæſis decem & octo millibus._"
+      "text": "2. Reg. VIII. 13. _Fecit sibi David nomen, cùm reverteretur captâ Syria in valle Salinarum, cæsis decem et octo millibus._"
     },
     {
       "key": "page_0230-b",
       "n": 16,
-      "text": "3. Reg. XI. 15. 16. _Cùm eſſet David in Idumæa, & aſcendiſſet Joab princeps militiæ ad ſepeliendum eos, qui fuerant interfecti, & occidiſſet omne maſculinum in Idumæa, &c. Vide & titul. Pſ._ LIX. _Et convertit Joab, & percuſſit Idumæam in valle Salinarum duodecim millia._"
+      "text": "3. Reg. XI. 15. 16. _Cùm esset David in Idumæa, et ascendisset Joab princeps militiæ ad sepeliendum eos, qui fuerant interfecti, et occidisset omne masculinum in Idumæa, etc. Vide et titul. Ps._ LIX. _Et convertit Joab, et percussit Idumæam in valle Salinarum duodecim millia._"
     },
     {
       "key": "page_0230-c",
       "n": 17,
-      "text": "אבימלך Ita Editio Poliglotta Antuerp. & Pariſina Mich. le Jay. Nivell. Pariſ. 1573. & Joh Benediſti, &c."
+      "text": "אבימלך Ita Editio Poliglotta Antuerp. et Parisina Mich. le Jay. Nivell. Paris. 1573. et Joh Benedisti, etc."
     },
     {
       "key": "page_0230-d",
@@ -271,50 +271,6 @@
       "key": "page_0231-e",
       "n": 24,
       "text": "2. Reg. VIII. 18. Filii autem David Sacerdotes erant."
-    }
-  ],
-  "decisions": [
-    {
-      "page": "page_0226",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0227",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0228",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0229",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0230",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
-    },
-    {
-      "page": "page_0231",
-      "chosen": "raw",
-      "rejected": [],
-      "edge_gap": null,
-      "verse_gap": []
     }
   ],
   "missing_footnotes": []

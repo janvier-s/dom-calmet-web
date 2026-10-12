@@ -5,19 +5,11 @@
   "verses": [
     {
       "verse_number": 1,
-      "latin": "HAE sunt autem generationes Esau, ipse est Edom.",
-      "french": "Or voici les descendants d'Ésaü, ou d'Édom.",
+      "latin": "Hae sunt autem generationes Esau, ipse est Edom. Hae sunt autem generationes Esau, ipse est Edom.",
+      "french": "Or voici les descendants d'Ésaü, ou d'Édom. Or voici les descendants d'Esau, ou d'Edom.",
       "annotations": null,
       "source_pages": [
-        "page_0769.json"
-      ]
-    },
-    {
-      "verse_number": 1,
-      "latin": "Hae sunt autem generationes Esau, ipse est Edom.",
-      "french": "Or voici les descendants d'Esau, ou d'Edom.",
-      "annotations": null,
-      "source_pages": [
+        "page_0769.json",
         "page_0770.json"
       ]
     },
