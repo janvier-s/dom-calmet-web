@@ -1,15 +1,13 @@
 {
   "book": "Deutéronome",
   "chapter": 4,
-  "chapter_summary": "Exhortation à observer les divins préceptes. Menaces contre ceux qui les violent. Trois villes de refuge au delà du Jourdain.",
+  "chapter_summary": "Exhortation à observer les divins préceptes. Menaces contre ceux qui les violent. Trois villes de refuge au-delà du Jourdain.",
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Et nunc Israël, audi praecepta et judicia, quae ego doceo te : ut faciens ea, vivas, et ingrediens possideas terram, quam Dominus Deus patrum vestrorum daturus est vobis. Et nunc Israël, audi praecepta et judicia, quae ego doceo te: ut faciens ea, vivas, et ingrediens possideas terram, quam Dominus Deus patrum vestrorum daturus est vobis.",
-      "french": "Maintenant, ô Israël, écoutez les lois et les ordonnances que je vous enseigne ; afin que vous trouviez la vie en les observant, et qu'étant entrés dans la terre que le Seigneur, le Dieu de vos pères vous doit donner, vous la possédiez comme votre héritage. Maintenant, ô Israël, écoutez les lois et les ordonnances que je vous enseigne ; afin que vous trouviez la vie en les observant, et qu'étant entrés dans la terre que le Seigneur, le Dieu de vos pères, vous doit donner, vous la possédiez comme votre héritage.",
-      "annotations": null,
+      "latin": "Et nunc Israël, audi praecepta et judicia, quae ego doceo te: ut faciens ea, vivas, et ingrediens possideas terram, quam Dominus Deus patrum vestrorum daturus est vobis.",
+      "french": "Maintenant, ô Israël, écoutez les lois et les ordonnances que je vous enseigne ; afin que vous trouviez la vie en les observant, et qu'étant entrés dans la terre que le Seigneur, le Dieu de vos pères, vous doit donner, vous la possédiez comme votre héritage.",
       "source_pages": [
-        "page_0099.json",
         "page_0105.json"
       ]
     },

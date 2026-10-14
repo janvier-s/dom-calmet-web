@@ -1,6 +1,34 @@
 {
   "notes": [
     {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "IN CIVITATE ET IN AGRO.",
+      "lemma": "Dans la ville et dans les champs.",
+      "text": "Vous serez comblés de bénédictions, soit que vous demeuriez dans la ville, ou à la campagne ; soit que vous soyez dans des emplois publics, ou occupés à vos affaires domestiques ; en un mot, dans tout ce que vous entreprendrez au dedans et au dehors."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "BENEDICTUS FRUCTUS VENTRIS TUI.",
+      "lemma": "Le fruit de votre ventre, votre postérité, vos enfants seront bénis.",
+      "text": "Cela fut principalement accompli dans la naissance du Fils de Dieu ; et il semble que le Saint Esprit ait voulu nous le faire entendre, lorsqu'il fit dire à la sainte Vierge par sainte Elizabeth [1] : _Vous êtes bénie entre toutes les femmes, et le fruit de votre ventre est béni._"
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "BENEDICTA HORREA TUA.",
+      "lemma": "Vos greniers seront bénis.",
+      "text": "Le terme de l'original [2] est le même que celui qui est traduit ci-devant, par un pa-"
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "BENEDICTÆ RELIQUIÆ TUA.",
+      "lemma": "Les fruits que vous mettez en réserve.",
+      "text": "A la lettre : _Vos restes seront bénis_ ; votre provision, les fruits, le grain, le vin, l'huile, tout ce qu'on réserve pour sa nourriture. Quelques-uns traduisent [4] : _Vos pétrins seront bénis_. Voyez ce qu'on a dit sur l'Exode, 12:34 où l'on fait voir que le terme Hébreu n'a pas cette signification."
+    },
+    {
       "verse": 6,
       "sub": false,
       "latin_lemma": "INGREDIENS, ET EGREDIENS.",
@@ -122,30 +150,9 @@
     {
       "verse": 26,
       "sub": false,
-      "latin_lemma": "IN CIVITATE ET IN AGRO.",
-      "lemma": "Dans la ville et dans les champs.",
-      "text": "Vous serez comblés de bénédictions, soit que vous demeuriez dans la ville, ou à la campagne ; soit que vous soyez dans des emplois publics, ou occupés à vos affaires domestiques ; en un mot, dans tout ce que vous entreprendrez au dedans et au dehors."
-    },
-    {
-      "verse": 26,
-      "sub": false,
-      "latin_lemma": "BENEDICTUS FRUCTUS VENTRIS TUI.",
-      "lemma": "Le fruit de votre ventre, votre postérité, vos enfants seront bénis.",
-      "text": "Cela fut principalement accompli dans la naissance du Fils de Dieu ; et il semble que le Saint Esprit ait voulu nous le faire entendre, lorsqu'il fit dire à la sainte Vierge par sainte Elizabeth [1] : _Vous êtes bénie entre toutes les femmes, et le fruit de votre ventre est béni._"
-    },
-    {
-      "verse": 26,
-      "sub": false,
-      "latin_lemma": "BENEDICTA HORREA TUA.",
-      "lemma": "Vos greniers seront bénis.",
-      "text": "Le terme de l'original [2] est le même que celui qui est traduit ci-devant, par un panier [3], et la plupart des Interprètes croient qu'on doit l'entendre en ce sens dans cet endroit, et dans les autres où il se trouve. On voit par plusieurs passages de l'Ecriture, et des Anciens, qu'on conservait le pain dans des corbeilles ; on le servait de même à table ; et il y avait toujours des pains, près de l'autel des holocaustes, dans des paniers. Moïse veut donc dire, que ceux qui seront fidèles au Seigneur, ne manqueront jamais des choses nécessaires à la vie ; que leurs paniers seront toujours pleins de pain, ou de farine."
-    },
-    {
-      "verse": 26,
-      "sub": false,
-      "latin_lemma": "BENEDICTÆ RELIQUIÆ TUA.",
-      "lemma": "Les fruits que vous mettez en réserve.",
-      "text": "A la lettre : _Vos restes seront bénis_ ; votre provision, les fruits, le grain, le vin, l'huile, tout ce qu'on réserve pour sa nourriture. Quelques-uns traduisent [4] : _Vos pétrins seront bénis_. Voyez ce qu'on a dit sur l'Exode, 12:34 où l'on fait voir que le terme Hébreu n'a pas cette signification."
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "nier [3], et la plupart des Interprètes croient qu'on doit l'entendre en ce sens dans cet endroit, et dans les autres où il se trouve. On voit par plusieurs passages de l'Ecriture, et des Anciens, qu'on conservait le pain dans des corbeilles ; on le servait de même à table ; et il y avait toujours des pains, près de l'autel des holocaustes, dans des paniers. Moïse veut donc dire, que ceux qui seront fidèles au Seigneur, ne manqueront jamais des choses nécessaires à la vie ; que leurs paniers seront toujours pleins de pain, ou de farine."
     },
     {
       "verse": 26,
@@ -352,13 +359,6 @@
     }
   ],
   "joins": [
-    {
-      "seam": "page_0363>page_0364",
-      "verse": 26,
-      "mode": "splice",
-      "before": "st le même que celui qui est traduit ci-devant, par un pa-",
-      "after": "nier ^{(a)}, et la plupart des Interprètes croient qu'on d"
-    },
     {
       "seam": "page_0366>page_0367",
       "verse": 21,

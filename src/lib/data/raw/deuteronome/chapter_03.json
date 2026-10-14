@@ -5,11 +5,12 @@
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Itaque conversi ascendimus per iter Basan : egressusque est Og rex Basan in occursum nobis cum populo suo, ad bellandum in Edrai.",
-      "french": "Ayant donc pris un autre chemin, nous allâmes vers Basan : et Og Roi de Basan marcha au devant de nous avec tout son peuple, pour nous donner bataille à Edraï.",
+      "latin": "Itaque conversi ascendimus per iter Basan : egressusque est Og rex Basan in occursum nobis cum populo suo, ad bellandum in Edrai. Et nunc Israël, audi praecepta et judicia, quae ego doceo te : ut faciens ea, vivas, et ingrediens possideas terram, quam Dominus Deus patrum vestrorum daturus est vobis.",
+      "french": "Ayant donc pris un autre chemin, nous allâmes vers Basan : et Og Roi de Basan marcha au devant de nous avec tout son peuple, pour nous donner bataille à Edraï. Maintenant, ô Israël, écoutez les lois et les ordonnances que je vous enseigne ; afin que vous trouviez la vie en les observant, et qu'étant entrés dans la terre que le Seigneur, le Dieu de vos pères vous doit donner, vous la possédiez comme votre héritage.",
       "annotations": null,
       "source_pages": [
-        "page_0095.json"
+        "page_0095.json",
+        "page_0099.json"
       ]
     },
     {

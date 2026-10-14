@@ -59,15 +59,15 @@
     {
       "verse": 5,
       "sub": false,
-      "latin_lemma": "APPELLAVITQUE LUCEM DIEM, ET TENEBRAS NOCTEM.",
+      "latin_lemma": "APPELLAVITQUE LUCEM DIEM, ET TENEBRAS NOC-",
       "lemma": null,
       "text": ""
     },
     {
       "verse": 5,
       "sub": false,
-      "latin_lemma": "Il donna à la lumière le nom de jour, etc.",
-      "lemma": null,
+      "latin_lemma": "TEM",
+      "lemma": "Il donna à la lumière le nom de jour, etc.",
       "text": "c'est-à-dire, selon saint Augustin, qu'il lui fit donner ce nom par les hommes. _Vocavit autem, dictum est vocari fecit._"
     },
     {
