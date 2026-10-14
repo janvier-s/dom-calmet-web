@@ -54,7 +54,7 @@
       "sub": false,
       "latin_lemma": "JOSUE VERO SCIDIT VESTIMENTA SUA.",
       "lemma": "Josué déchira ses vêtements.",
-      "text": "Josué et les Anciens d'Israël frappés de ces mauvaises nouvelles, déchirent leurs habits, se chargent la tête de poussière. vont se prosterner devant l'Arche du Seigneur, font éclater leur douleur par de vives plaintes, et tâchent d'intéresser Dieu même, par la considération de la gloire de son nom, à protéger son peuple d'Israël. Les marques extérieures de deuil qu'on voit ici, sont communes parmi tous les peuples. On en voit vingt exemples dans l'Écriture. Jacob déchire ses habits, ayant appris ce qu'on lui disait de la mort de son fils Joseph ;[22] les frères de Joseph déchirent leurs habits, ayant vu sa coupe dans le sac de Benjamin.[23] Dieu défend à ses Prêtres de déchirer leurs habits dans le deuil.[24] Achille[25] ayant appris la mort de son ami Patrocle, se charge la tête de cendres, déchire ses habits, se fait des égratignures sur le visage, et se couche sur la poussière. Le bon Roi Latinus prend les mêmes marques de deuil.[26]\n. . . . . . . . . . _It scissâ veste Latinus et\nCanitiem immundo perfusam pulvere turpans,_"
+      "text": "Josué et les Anciens d'Israël frappés de ces mauvaises nouvelles, déchirent leurs habits, se chargent la tête de poussière, vont se prosterner devant l'Arche du Seigneur, font éclater leur douleur par de vives plaintes, et tâchent d'intéresser Dieu même, par la considération de la gloire de son nom, à protéger son peuple d'Israël. Les marques extérieures de deuil qu'on voit ici, sont communes parmi tous les peuples. On en voit vingt exemples dans l'Écriture. Jacob déchire ses habits, ayant appris ce qu'on lui disait de la mort de son fils Joseph ;[22] les frères de Joseph déchirent leurs habits, ayant vu sa coupe dans le sac de Benjamin.[23] Dieu défend à ses Prêtres de déchirer leurs habits dans le deuil.[24] Achille[25] ayant appris la mort de son ami Patrocle, se charge la tête de cendres, déchire ses habits, se fait des égratignures sur le visage, et se couche sur la poussière. Le bon Roi Latinus prend les mêmes marques de deuil.[26]\n. . . . . . . . . . _It scissâ veste Latinus et\nCanitiem immundo perfusam pulvere turpans,_"
     },
     {
       "verse": 6,
@@ -243,8 +243,8 @@
     {
       "seam": "page_0150>page_0151",
       "verse": 6,
-      "mode": "hyphen",
-      "before": " déchirent leurs habits, se chargent la tête de poussière.",
+      "mode": "splice",
+      "before": "s, déchirent leurs habits, se chargent la tête de poussiè-",
       "after": "re, vont se prosterner devant l'Arche du Seigneur, font éc"
     },
     {

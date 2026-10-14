@@ -75,7 +75,7 @@
       "sub": false,
       "latin_lemma": "JUDICAVIT FILIOS ISRAEL IN MASPHATH:",
       "lemma": "Il jugea les enfants d'Israël à Masphath.",
-      "text": "_Il prit possession de sa charge de Juge._ d'Israël, il fut reconnu de tout le peuple, et il exerça pour la première fois les fonctions de cet emploi à Masphath. [24]"
+      "text": "Il prit possession de sa charge de Juge d'Israël, il fut reconnu de tout le peuple, et il exerça pour la première fois les fonctions de cet emploi à Masphath. [24]"
     },
     {
       "verse": 7,
@@ -150,7 +150,7 @@
     {
       "verse": 14,
       "sub": false,
-      "latin_lemma": "LIBERAVITQUE ISRAEL DE MANU PHILISTHINORUM.",
+      "latin_lemma": "LIBERAVITQUE ISRAEL DE MANU PHILISTHINO-",
       "lemma": null,
       "text": ""
     },
@@ -237,7 +237,7 @@
       "seam": "page_0163>page_0164",
       "verse": 6,
       "mode": "flow",
-      "before": "_Il prit possession de sa charge de Juge._",
+      "before": "Il prit possession de sa charge de Juge",
       "after": "d'Israël, il fut reconnu de tout le peuple, et il exerça p"
     },
     {

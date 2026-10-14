@@ -54,14 +54,14 @@
       "sub": false,
       "latin_lemma": "SEXCENTI VIRI.",
       "lemma": "Six cents hommes bien armés, sans comp-",
-      "text": "et les femmes, les enfants, et tout le reste de leur ménage. Voyez le ℣. 21."
+      "text": "ter les femmes, les enfants, et tout le reste de leur ménage. Voyez le ℣. 21."
     },
     {
       "verse": 12,
       "sub": false,
       "latin_lemma": "MANSERUNT IN CARIATHIARIM JUDÆ.",
-      "lemma": "Étant venus à Cariathiarim de la tribu de Juda, ils y campèrent, non pas dans la ville, mais au voisinage, et derrière la ville,",
-      "text": "[22] c'est-à-dire, à l'occident, dans le lieu nommé depuis, _le camp de Dan_."
+      "lemma": "Étant venus à Cariathiarim de la tribu de Juda, ils y campèrent,",
+      "text": "non pas dans la ville, mais au voisinage, et derrière la ville,[22] c'est-à-dire, à l'occident, dans le lieu nommé depuis, _le camp de Dan_."
     },
     {
       "verse": 13,
@@ -189,7 +189,7 @@
       "verse": 11,
       "mode": "splice",
       "before": "Six cents hommes bien armés, sans comp-",
-      "after": "et les femmes, les enfants, et tout le reste de leur ménag"
+      "after": "ter les femmes, les enfants, et tout le reste de leur ména"
     },
     {
       "seam": "page_0308>page_0309",

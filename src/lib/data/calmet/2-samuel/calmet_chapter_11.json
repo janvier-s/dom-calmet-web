@@ -61,7 +61,7 @@
       "sub": false,
       "latin_lemma": "DORMIVIT ANTE PORTAM DOMUS REGIÆ.",
       "lemma": "Il passa la nuit devant la porte du Palais du Roi.",
-      "text": "du Palais des Rois d'Orient, une cour où l'on faisait garde nuit et jour.[14]"
+      "text": "Il y avait devant la porte du Palais des Rois d'Orient, une cour où l'on faisait garde nuit et jour.[14]"
     },
     {
       "verse": 11,
@@ -138,8 +138,8 @@
     {
       "seam": "page_0109>page_0110",
       "verse": 9,
-      "mode": "mend",
-      "before": "Il passa la nuit devant la porte du Palais du Roi.",
+      "mode": "flow",
+      "before": "Il y avait devant la porte",
       "after": "du Palais des Rois d'Orient, une cour où l'on faisait gard"
     },
     {

@@ -138,7 +138,7 @@
       "sub": false,
       "latin_lemma": "IPSE LAUS TUA.",
       "lemma": "Il est votre gloire, ou votre louange.",
-      "text": "Il doit être l'objet de vos louanges, comme il est la source de votre bonheur. Toute votre gloire, tous vos avantages, tout votre mérite consiste en ce que Dieu vous fait l'honneur de vous prendre pour son peuple ; on ne vous considère qu'autant que vous avez l'honneur de lui appartenir et de lui plaire. C'est en cela que vous devez faire consister votre gloire, c'est-à-dire à lui être fidèles. Les peuples étrangers ne connaissent guère les Hébreux que par leur attachement à la Religion d'un seul Dieu Créateur du Ciel et de la Terre. On ne louait dans eux que leur attachement à son culte. _De tous les peuples du monde_[24],"
+      "text": "Il doit être l'objet de vos louanges, comme il est la source de votre bonheur. Toute votre gloire, tous vos avantages, tout votre mérite consiste en ce que Dieu vous fait l'honneur de vous prendre pour son peuple ; on ne vous considère qu'autant que vous avez l'honneur de lui appartenir et de lui plaire. C'est en cela que vous devez faire consister votre gloire, c'est-à-dire à lui être fidèles. Les peuples étrangers ne connaissent guère les Hébreux que par leur attachement à la Religion d'un seul Dieu Créateur du Ciel et de la Terre. On ne louait dans eux que leur attachement à son culte. _De tous les peuples du monde_[24], dit un ancien Oracle cité dans S. Justin le Martyr, _il n'y a que les Caldéens et les Juifs qui puissent se vanter d'être sages, puisqu'ils adorent d'un culte pur et saint, un Dieu incréé._"
     },
     {
       "verse": 22,
@@ -183,6 +183,13 @@
       "mode": "flow",
       "before": "sraël est le Dieu des Anges, et le Dominateur des Astres._",
       "after": "ou de l'Armée du Ciel, à laquelle ils attribuent un grand "
+    },
+    {
+      "seam": "page_0168>page_0169",
+      "verse": 21,
+      "mode": "flow",
+      "before": "on culte. _De tous les peuples du monde_^{fn:page_0168-a},",
+      "after": "dit un ancien Oracle cité dans S. Justin le Martyr, _il n'"
     }
   ],
   "pages_used": [

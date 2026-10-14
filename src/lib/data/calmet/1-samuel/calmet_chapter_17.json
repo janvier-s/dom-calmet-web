@@ -32,8 +32,15 @@
       "verse": 4,
       "sub": false,
       "latin_lemma": "EGRESSUS EST VIR SPURIUS DE CASTRIS PHILISTHINORUM.",
-      "lemma": "Un homme qui était bâtard, sortit du camp des Philistins.",
-      "text": "des Philistins. Quelques habiles interprètes appuient cette traduction ; mais d'autres la rejettent, et se partagent en divers sentiments. L'hébreu porte à la lettre : [8] _Il sortit du camp des Philistins un homme de deux fils_, ou un des fils, un homme d'une origine obscure et incertaine ; [9] autrement, _un homme d'entre deux_, né de deux pères, ou d'un père inconnu. [10] L'Écriture ne parle jamais du père de Goliath, mais seulement de sa mère, _de genere Arapha_ : mais il vaut mieux dire qu'elle ne parle ni de son père, ni de sa mère ; car la race d'Arapha marque simplement [11] que Goliath et les autres géants qu'on vit sous David parmi les Philistins étaient de la race des anciens Raphaïm, fameux géants du pays. Sanctius veut que _spurius_, ou bâtard, signifie la même chose que _géant_, parce que les géants sont nommés des enfants de la terre, de même que les bâtards. [12]\n... _Præsto es mihi manias hæres Progenies terræ._\nLa preuve n'est pas assurément fort convaincante. Castalion : _Un homme des fils_, un grand homme, un homme excellent, un homme qui en vaut plusieurs autres, un homme fort distingué parmi les Philistins. Junius et quelques autres : _Un homme qui demande en duel_, ou qui appelle à un combat singulier. Les Hébreux, et le plus grand nombre des interprètes : [13] _Un homme mitoyen_, qui se met entre les deux armées, et qui est comme chargé de la part de ses gens de terminer la guerre avec un second, par un combat d'homme à homme. C'est ainsi qu'autrefois on vit ce Gaulois qui se présenta pour combattre devant l'armée romaine : il se posta sur un pont qui séparait les deux armées, et défia le plus vaillant des Romains : mais il fut vaincu par Manlius Torquatus. Le chaldéen : [14] _Il sortit d'entre eux, du camp des Philistins, un homme nommé Goliath_. Les Septante : [15] _Il sortit un homme puissant du milieu des rangs des Philistins_, appelé Goliath."
+      "lemma": "Un homme qui était bâtard, sortit du camp",
+      "text": ""
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "des Philistins.",
+      "text": "Quelques habiles interprètes appuient cette traduction ; mais d'autres la rejettent, et se partagent en divers sentiments. L'hébreu porte à la lettre : [8] _Il sortit du camp des Philistins un homme de deux fils_, ou un des fils, un homme d'une origine obscure et incertaine ; [9] autrement, _un homme d'entre deux_, né de deux pères, ou d'un père inconnu. [10] L'Écriture ne parle jamais du père de Goliath, mais seulement de sa mère, _de genere Arapha_ : mais il vaut mieux dire qu'elle ne parle ni de son père, ni de sa mère ; car la race d'Arapha marque simplement [11] que Goliath et les autres géants qu'on vit sous David parmi les Philistins étaient de la race des anciens Raphaïm, fameux géants du pays. Sanctius veut que _spurius_, ou bâtard, signifie la même chose que _géant_, parce que les géants sont nommés des enfants de la terre, de même que les bâtards. [12]\n... _Præsto es mihi manias hæres \nProgenies terræ._\nLa preuve n'est pas assurément fort convaincante. Castalion : _Un homme des fils_, un grand homme, un homme excellent, un homme qui en vaut plusieurs autres, un homme fort distingué parmi les Philistins. Junius et quelques autres : _Un homme qui demande en duel_, ou qui appelle à un combat singulier. Les Hébreux, et le plus grand nombre des interprètes : [13] _Un homme mitoyen_, qui se met entre les deux armées, et qui est comme chargé de la part de ses gens de terminer la guerre avec un second, par un combat d'homme à homme. C'est ainsi qu'autrefois on vit ce Gaulois qui se présenta pour combattre devant l'armée romaine : il se posta sur un pont qui séparait les deux armées, et défia le plus vaillant des Romains : mais il fut vaincu par Manlius Torquatus. Le chaldéen : [14] _Il sortit d'entre eux, du camp des Philistins, un homme nommé Goliath_. Les Septante : [15] _Il sortit un homme puissant du milieu des rangs des Philistins_, appelé Goliath."
     },
     {
       "verse": 4,
@@ -138,7 +145,14 @@
       "sub": false,
       "latin_lemma": "DAVID REVERSUS EST A SAUL, UT PASCE...",
       "lemma": null,
-      "text": "RIT GREGEM PATRIS SUI. David était revenu d'auprès de Saül et était allé paître les troupeaux de son père. Avant cette guerre, David ne demeurait auprès de Saül que pendant les accès de sa mélancolie. Lorsque le Roi se portait mieux, David retournait à son occupation ordinaire. Le métier de pasteur qu'il exerçait, lui fournit vingt occasions de signaler sa valeur contre les ours et les lions : c'était comme un apprentissage du métier de la guerre, où il se distingua si fort dans la suite. On a dit quelque chose ailleurs de l'estime que les anciens faisaient du métier de pasteurs. Les plus grands hommes de l'antiquité ont exercé cette profession, comme le remarque Varron : [45] _Ex antiquis illustrissimus quisque pastor erat._"
+      "text": ""
+    },
+    {
+      "verse": 15,
+      "sub": false,
+      "latin_lemma": "RIT GREGEM PATRIS SUI.",
+      "lemma": "David était revenu d'auprès de Saül et était allé paître les troupeaux de son père.",
+      "text": "Avant cette guerre, David ne demeurait auprès de Saül que pendant les accès de sa mélancolie. Lorsque le Roi se portait mieux, David retournait à son occupation ordinaire. Le métier de pasteur qu'il exerçait, lui fournit vingt occasions de signaler sa valeur contre les ours et les lions : c'était comme un apprentissage du métier de la guerre, où il se distingua si fort dans la suite. On a dit quelque chose ailleurs de l'estime que les anciens faisaient du métier de pasteurs. Les plus grands hommes de l'antiquité ont exercé cette profession, comme le remarque Varron : [45] _Ex antiquis illustrissimus quisque pastor erat._"
     },
     {
       "verse": 17,
@@ -304,13 +318,6 @@
       "after": "sous ce nom, que sous celui de Dommim."
     },
     {
-      "seam": "page_0299>page_0300",
-      "verse": 4,
-      "mode": "mend",
-      "before": "Un homme qui était bâtard, sortit du camp des Philistins.",
-      "after": "des Philistins. Quelques habiles interprètes appuient cett"
-    },
-    {
       "seam": "page_0300>page_0301",
       "verse": 4,
       "mode": "flow",
@@ -337,13 +344,6 @@
       "mode": "flow",
       "before": " ^{fn:page_0304-d} C'était apparemment une fanfaronnade de",
       "after": "sa part, ou une simple proposition, à laquelle on ne répon"
-    },
-    {
-      "seam": "page_0305>page_0306",
-      "verse": 15,
-      "mode": "flow",
-      "before": "",
-      "after": "RIT GREGEM PATRIS SUI. David était revenu d'auprès de Saül"
     },
     {
       "seam": "page_0306>page_0307",

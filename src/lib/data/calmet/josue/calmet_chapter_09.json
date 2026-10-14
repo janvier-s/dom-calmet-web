@@ -151,8 +151,15 @@
       "verse": 17,
       "sub": false,
       "latin_lemma": "DIE TERTIO.",
-      "lemma": "Trois jours après qu'on eut juré l'alliance, et le même jour que Josué fut averti du danger de Gabaon, ce Général partit et marcha toute la nuit ; en sorte qu'il arriva le quatrième jour au matin devant Gabaon. Chapitre x. ℣. 9.",
-      "text": "CAPHIRA, BEROTH, CARIATHIARIM. Les villes de Caphira et de Beroth furent données à la tribu de Benjamin, et celle de Cariathiarim à la tribu de Juda."
+      "lemma": "Trois jours après",
+      "text": "qu'on eut juré l'alliance, et le même jour que Josué fut averti du danger de Gabaon, ce Général partit et marcha toute la nuit ; en sorte qu'il arriva le quatrième jour au matin devant Gabaon. Chapitre x. ℣. 9."
+    },
+    {
+      "verse": 17,
+      "sub": false,
+      "latin_lemma": "CAPHIRA, BEROTH, CARIATHIARIM.",
+      "lemma": "Les villes de Caphira et de Beroth",
+      "text": "furent données à la tribu de Benjamin, et celle de Cariathiarim à la tribu de Juda."
     },
     {
       "verse": 18,

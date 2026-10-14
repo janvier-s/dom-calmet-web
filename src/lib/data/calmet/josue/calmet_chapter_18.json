@@ -67,8 +67,15 @@
       "verse": 9,
       "sub": false,
       "latin_lemma": "LUSTRANTES EAM, IN SEPTEM PARTES DIVISERUNT, SCRIBENTES IN VOLUMINE.",
-      "lemma": "Ils reconnurent avec soin la terre",
-      "text": "et la divisèrent en sept parts, qu'ils écrivirent dans un livre. L'Hébreu : [9] Ils parcoururent la terre, et ils la décrivirent selon ses villes en sept parties dans un livre. Ils firent un catalogue de ses villes, et les écrivirent partagées en sept parties dans un livre. Ou bien, ils dressèrent une carte géographique, dans laquelle ils marquèrent toutes les villes, et partagèrent tout le terrain en sept lots. Quand on parle ici d'un livre, on doit l'entendre de tablettes ou d'ais, sur lesquelles on dessinait, on gravait, et on écrivait anciennement."
+      "lemma": "Ils reconnurent avec soin la",
+      "text": ""
+    },
+    {
+      "verse": 9,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "terre, et la divisèrent en sept parts, qu'ils écrivirent dans un Livre.",
+      "text": "L'Hébreu : [9] Ils parcoururent la terre, et ils la décrivirent selon ses villes en sept parties dans un livre. Ils firent un catalogue de ses villes, et les écrivirent partagées en sept parties dans un livre. Ou bien, ils dressèrent une carte géographique, dans laquelle ils marquèrent toutes les villes, et partagèrent tout le terrain en sept lots. Quand on parle ici d'un livre, on doit l'entendre de tablettes ou d'ais, sur lesquelles on dessinait, on gravait, et on écrivait anciennement."
     },
     {
       "verse": 11,
@@ -274,13 +281,6 @@
       "mode": "para",
       "before": ", devait tirer au sort à qui chaque canton appartiendrait.",
       "after": "Mais comme les tribus n'étaient pas égales pour le nombre,"
-    },
-    {
-      "seam": "page_0320>page_0321",
-      "verse": 9,
-      "mode": "hyphen",
-      "before": "Ils reconnurent avec soin la terre",
-      "after": "terre, et la divisèrent en sept parts, qu'ils écrivirent d"
     },
     {
       "seam": "page_0322>page_0323",

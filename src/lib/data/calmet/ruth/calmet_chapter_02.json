@@ -123,8 +123,15 @@
       "verse": 20,
       "sub": false,
       "latin_lemma": "PROPINQUUS EST NOSTER HOMO.",
-      "lemma": "Cet homme est notre proche parent.",
-      "text": "che parent. L'Hébreu : [40] _Cet homme est nostre proche, c'est un de nos rédempteurs_. Ce dernier mot signifie celui qui a droit de rachat sur les champs d'un homme de sa famille, qui a aliené son patrimoine, ou qui a vendu sa liberté. Il marque aussi celui qui est chargé de venger le sang, et de poursuivre les meurtriers de son proche parent. Enfin il se prend pour un homme qui est obligé par la coûtume ou par loi, à prendre pour femme la veuve de son frere, ou de son parent mort sans enfans. Noëmi ne dit pas absolument que Booz est le rédempteur, mais un des rédempteurs de sa famille, dans le sens que nous le venons dire. On a remarqué ci-devant, que les meilleurs Interprétes sont Booz neveu d'Elimélec, et fils de son frere."
+      "lemma": "Cet homme est notre pro-",
+      "text": ""
+    },
+    {
+      "verse": 20,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "che parent.",
+      "text": "L'Hébreu : [40] _Cet homme est nostre proche, c'est un de nos rédempteurs_. Ce dernier mot signifie celui qui a droit de rachat sur les champs d'un homme de sa famille, qui a aliené son patrimoine, ou qui a vendu sa liberté. Il marque aussi celui qui est chargé de venger le sang, et de poursuivre les meurtriers de son proche parent. Enfin il se prend pour un homme qui est obligé par la coûtume ou par loi, à prendre pour femme la veuve de son frere, ou de son parent mort sans enfans. Noëmi ne dit pas absolument que Booz est le rédempteur, mais un des rédempteurs de sa famille, dans le sens que nous le venons dire. On a remarqué ci-devant, que les meilleurs Interprétes sont Booz neveu d'Elimélec, et fils de son frere."
     },
     {
       "verse": 23,
@@ -183,13 +190,6 @@
       "mode": "flow",
       "before": "tait ainsi son grain dans son pressoir ; ^{fn:page_0018-g}",
       "after": "et peut-être ne battait-on les orges qu'au bâton. C'était "
-    },
-    {
-      "seam": "page_0019>page_0020",
-      "verse": 20,
-      "mode": "mend",
-      "before": "Cet homme est notre proche parent.",
-      "after": "che parent. L'Hébreu : ^{(a)} _Cet homme est nostre proche"
     }
   ],
   "pages_used": [

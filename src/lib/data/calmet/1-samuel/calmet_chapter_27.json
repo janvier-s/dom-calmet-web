@@ -40,7 +40,7 @@
       "sub": false,
       "latin_lemma": "QUATUOR MENSIUM.",
       "lemma": "Quatre mois.",
-      "text": "L’Hébreu :[7] _Des jours, et quatre mois._ La plupart des Interprètes[8] l’expliquent d’un an, et de quatre mois. Il ne faut pas moins que ce temps, pour exécuter tout ce que David fit chez les Philistins. D’autres :[9] _Quatre mois, et quelques jours ; ou, quelques jours, c’est-à-dire, quatre mois ; ou, quatre mois, et une semaine._ Je voudrais distinguer le temps que David passa parmi les Philistins à Geth, de celui qu’il fut à Siceleg. Je crois qu’il fut quatre mois à Geth, et un peu plus d’un an à Siceleg. Tout ce que nous lisons dans ce Chapitre, arriva pendant que David était encore à Geth. Cela paraît visiblement par les versets 9, 11."
+      "text": "L’Hébreu :[7] _Des jours, et quatre mois._ La plupart des Interprètes[8] l’expliquent d’un an, et de quatre mois. Il ne faut pas moins que ce temps, pour exécuter tout ce que David fit chez les Philistins. D’autres :[9] _Quatre mois, et quelques jours ; ou, quelques jours, c’est-à-dire, quatre mois ; ou, quatre mois, et une semaine._ Je voudrais distinguer le temps que David passa parmi les Philistins à Geth, de celui qu’il fut à Siceleg. Je crois qu’il fut quatre mois à Geth, et un peu plus d’un an à Siceleg. Tout ce que nous lisons dans ce Chapitre, arriva pendant que David était encore à Geth. Cela paraît visiblement par les versets 9, 11.\n\n10 & 11 où il est dit que David, au retour de ses expéditions, revenait vers Achis, et lui rendait compte de son voyage ; et qu'il ne laissait personne en vie de tous ceux qu'il prenait, de peur qu'ils ne parlassent au Roi contre lui. Voyez ci-après le Chap. XXIX. 3."
     },
     {
       "verse": 8,
@@ -55,13 +55,6 @@
       "latin_lemma": "HI PAGI HABITABANTUR IN TERRA ANTIQUITUS, EUNTIBUS SUR, USQUE AD TERRAM ÆGYPTI.",
       "lemma": "Car ces cantons étaient autrefois habités, vers le chemin de Sur, jusqu'au pays d'Égypte.",
       "text": "Cet endroit montre encore que l'Auteur, qui a retouché ces Ouvrages, vivait longtemps après David, et dans un temps, où ces cantons, qui sont entre les Philistins et l'Égypte, étaient inhabités. Je pense que ces pays ne furent entièrement ruinés que par les Rois d'Assyrie et d'Égypte, qui désolèrent la Judée, et tous les pays voisins. Du temps de Moïse et de Josué, ce pays paraît encore assez cultivé. Josué nous parle d'un nombre de villes de ces quartiers, dont les Géographes Grecs n'ont point eu de connaissance, parce qu'elles ne subsistaient plus de leur temps."
-    },
-    {
-      "verse": 10,
-      "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "où il est dit que David, au retour de ses expéditions, revenait vers Achis, et lui rendait compte de son voyage ; et qu'il ne laissait personne en vie de tous ceux qu'il prenait, de peur qu'ils ne parlassent au Roi contre lui. Voyez ci-après le Chap. XXIX. 3."
     },
     {
       "verse": 10,
@@ -106,6 +99,13 @@
       "mode": "flow",
       "before": "ina à se retirer chez Achis par son propre esprit, et sans",
       "after": "avoir consulté la volonté de Dieu, il exposa sans doute be"
+    },
+    {
+      "seam": "page_0422>page_0423",
+      "verse": 7,
+      "mode": "para",
+      "before": "ore à Geth. Cela paraît visiblement par les versets 9, 11.",
+      "after": "10 & 11 où il est dit que David, au retour de ses expéditi"
     },
     {
       "seam": "page_0423>page_0424",

@@ -7,7 +7,7 @@
       "verse_number": 1,
       "latin": "Et respondens Job, ait :",
       "french": "Job répondit à Baldad :",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0151.json"
       ]
@@ -16,7 +16,7 @@
       "verse_number": 2,
       "latin": "Vere scio quod ita sit, et quod non justificetur homo compositus Deo.",
       "french": "Je sais que cela est ainsi, et que l'homme, si on le compare avec Dieu, ne sera point juste.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0151.json"
       ]
@@ -25,7 +25,7 @@
       "verse_number": 3,
       "latin": "Si voluerit contendere cum eo, non poterit ei respondere unum pro mille.",
       "french": "S'il veut disputer contre Dieu, de mille accusations, il n'y en aura pas une sur quoi il puisse répondre.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0151.json"
       ]
@@ -34,7 +34,7 @@
       "verse_number": 4,
       "latin": "Sapiens corde est, et fortis robore: quis restitit ei, et pacem habuit?",
       "french": "Dieu est sage, il est Tout-puissant. Qui lui a résisté, et est demeuré en paix?",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0152.json"
       ]
@@ -43,7 +43,7 @@
       "verse_number": 5,
       "latin": "Qui transtulit montes, et nescierunt hi quos subvertit in furore suo.",
       "french": "C’est lui qui transporte les montagnes dans sa fureur, sans qu’elles s’en aperçoivent.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0152.json"
       ]
@@ -52,7 +52,7 @@
       "verse_number": 6,
       "latin": "Qui commovet terram de loco suo, et columnæ ejus concutiuntur.",
       "french": "C’est lui qui remue la terre de sa place, et qui fait que ses colonnes sont ébranlées.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0152.json"
       ]
@@ -61,7 +61,7 @@
       "verse_number": 7,
       "latin": "Qui præcipit soli, et non oritur, et stellas claudit quasi sub signaculo.",
       "french": "C’est lui qui commande au soleil, et le soleil ne se lève point, et qui tient les étoiles enfermées, comme sous le sceau.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0153.json"
       ]
@@ -70,7 +70,7 @@
       "verse_number": 8,
       "latin": "Qui extendit cœlos solus, et graditur super fluctus maris.",
       "french": "C’est lui qui a formé seul la vaste étendue des Cieux, et qui marche sur les flots de la mer.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0154.json"
       ]
@@ -79,7 +79,7 @@
       "verse_number": 9,
       "latin": "Qui facit Arcturum, et Oriona, et Hyadas, et interiora Austri.",
       "french": "C’est lui qui a créé les étoiles de l'Ourse, de l'Orion, des Hyades, et celles qui sont plus proches du Midi.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0154.json"
       ]
@@ -88,7 +88,7 @@
       "verse_number": 10,
       "latin": "Qui facit magna, et incomprehensibilia, et mirabilia, quorum non est numerus.",
       "french": "C'est lui qui fait de grandes choses, qui en fait d'incompréhensibles, et de miraculeuses, qui sont sans nombre.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0155.json"
       ]
@@ -97,7 +97,7 @@
       "verse_number": 11,
       "latin": "Si venerit ad me, non videbo eum: si abierit, non intelligam.",
       "french": "S'il vient à moi, je ne le verrai point; et s'il s'en va, je ne m'en apercevrai point.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0156.json"
       ]
@@ -106,7 +106,7 @@
       "verse_number": 12,
       "latin": "Si repentè interroget, quis respondebit ei? Vel quis dicere potest: Cur ita facis?",
       "french": "Si tout d'un coup il interroge, qui osera répondre? Ou qui pourra lui dire; Pourquoi faites-vous ainsi?",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0156.json"
       ]
@@ -115,7 +115,7 @@
       "verse_number": 13,
       "latin": "Deus, cujus iræ nemo resistire potest, et sub quo curvantur qui portant orbem.",
       "french": "Nul ne peut résister à sa colère, parce qu'il est Dieu; et ceux-mêmes qui gouvernent le monde, fléchissent sous lui.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0157.json"
       ]
@@ -142,7 +142,7 @@
       "verse_number": 16,
       "latin": "Et cùm invocantem exaudierit me, non credo quòd audierit vocem meam.",
       "french": "Et lors même qu'il aurait exaucé ma prière, je ne croirais pas qu'il eût daigné entendre ma voix.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0159.json"
       ]
@@ -151,7 +151,7 @@
       "verse_number": 17,
       "latin": "In turbine enim conteret me, et multiplicabit vulnera mea etiam sine causa.",
       "french": "Car il me brisera quand il lui plaira, comme d'un coup de foudre; et il multipliera mes plaies, sans que j'en sache même la raison.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0159.json"
       ]
@@ -160,7 +160,7 @@
       "verse_number": 18,
       "latin": "Non concedit requiescere spiritum meum, et implet me amaritudinibus.",
       "french": "il ne me laisse pas seulement respirer, et il me remplit d'amertume.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0160.json"
       ]
@@ -169,7 +169,7 @@
       "verse_number": 19,
       "latin": "Si fortitudo quæritur, robustissimus est; si æquitas judicii, nemo audet pro me testimonium dicere.",
       "french": "Si l'on implore quelque puissance, il est Tout-puissant; si l'on en appelle à la justice d'un Juge, il n'y a personne qui osât rendre témoignage en ma faveur.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0160.json"
       ]
@@ -178,7 +178,7 @@
       "verse_number": 20,
       "latin": "Si justificare me voluero, os meum condemnabit me: si innocentem ostendero, pravum me comprobabit.",
       "french": "Si j'entreprends de me justifier, ma propre bouche me condamnera: Si je veux montrer que je suis innocent, il me convaincra d'être coupable.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0160.json"
       ]
@@ -187,7 +187,7 @@
       "verse_number": 21,
       "latin": "Etiam si simplex fuero, hoc ipsum ignorabit anima mea, et tædebit me vitæ meæ.",
       "french": "Quand je serais juste et simple, cela même me serait caché, et ma vie me serait à charge à moi-même.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0161.json"
       ]
@@ -196,7 +196,7 @@
       "verse_number": 22,
       "latin": "Unum est quod locutus sum: et innocentem, et impium ipse consumit.",
       "french": "Tout ce que j’ai dit se réduit à ce principe: Dieu afflige le juste, aussi bien que l’impie.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0161.json"
       ]
@@ -205,7 +205,7 @@
       "verse_number": 23,
       "latin": "Si flagellat, occidat semel, et non de pœnis innocentum rideat.",
       "french": "S'il frappe de plaies, qu'il tue tout d'un coup, et qu'il ne se rie pas des peines des innocents.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0162.json"
       ]
@@ -214,7 +214,7 @@
       "verse_number": 24,
       "latin": "Terra data est in manus impii, vultum Judicum ejus operit. Quod si non ille est, quis ergo est?",
       "french": "La terre est souvent livrée entre les mains de l'impie, qui par ses dons couvre d'un voile les yeux de ses Juges : que si ce n'est pas lui, qui est-ce donc ?",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0162.json"
       ]
@@ -241,7 +241,7 @@
       "verse_number": 27,
       "latin": "Cùm dixero: Nequaquam ita loquar : commuto faciem meam, et dolore torqueor.",
       "french": "Lorsque je dis en moi-même, Je ne parlerai plus, je sens que mon visage se change aussitôt, et que la douleur me déchire.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0164.json"
       ]
@@ -250,7 +250,7 @@
       "verse_number": 28,
       "latin": "Verebar omnia opera mea, sciens quòd non parceres delinquinti.",
       "french": "Je tremblais à chaque action que je faisais, sachant que vous ne me pardonneriez pas si je péchais.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0164.json"
       ]
@@ -259,7 +259,7 @@
       "verse_number": 29,
       "latin": "Si autem et fic impius sum, quare frustra laboraui?",
       "french": "Que si après cela je passe pour un méchant, pourquoi travaillai-je en vain?",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0165.json"
       ]
@@ -268,7 +268,7 @@
       "verse_number": 30,
       "latin": "Si lotus fuero quasi aquis nivis, et fulserint velut mundissimæ manus meæ;",
       "french": "Quand j'aurais été lavé dans de l'eau de neige, et que la pureté de mes mains éclaterait;",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0165.json"
       ]
@@ -277,7 +277,7 @@
       "verse_number": 31,
       "latin": "Tamen sordibus intinges me, et abominabuntur me vestimenta mea.",
       "french": "Vous me feriez paraître tout couvert d'ordures, et mes vêtements m'auraient en horreur.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0166.json"
       ]
@@ -286,7 +286,7 @@
       "verse_number": 32,
       "latin": "Neque enim viro qui similis mei est, respondebo : nec qui mecum in judicio ex æquo possit audiri.",
       "french": "Car je n'aurai pas à répondre à un homme semblable à moi, ni à contester avec lui, comme avec mon égal.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0166.json"
       ]
@@ -295,7 +295,7 @@
       "verse_number": 33,
       "latin": "Non est qui utrumque valeat arguere, et ponere manum suam in ambobus.",
       "french": "Il n'y a personne qui puisse reprendre les deux parties, et mettre sa main entre les deux.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0166.json"
       ]
@@ -304,7 +304,7 @@
       "verse_number": 34,
       "latin": "Auferat à me virgam suam, et pavor ejus non me terreat.",
       "french": "Qu'il retire donc sa verge de dessus moi, et que sa terreur ne m'épouvante pas.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0167.json"
       ]
@@ -313,7 +313,7 @@
       "verse_number": 35,
       "latin": "Loquar, et non timebo eum: neque enim possum metuens respondere.",
       "french": "Je parlerai alors sans l'appréhender; car dans la crainte où je suis, je ne puis répondre.",
-      "annotations": [],
+      "annotations": null,
       "source_pages": [
         "page_0167.json"
       ]

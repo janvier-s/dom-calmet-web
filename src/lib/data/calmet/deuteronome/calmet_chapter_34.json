@@ -57,18 +57,11 @@
       "text": "L'Hébreu à la lettre[17] : _Sur la bouche du Seigneur._ Le Chaldéen : _Par la parole du Seigneur._ Selon le commandement qu'il lui en avait fait, en lui disant[18] : _Montez sur la montagne, et mourez-y._ Quelques-uns traduisent : _Il mourut dans le baiser du Seigneur_, le visage appliqué contre celui de son Dieu, qui retira l'âme de son serviteur, en le baisant, disent les Hébreux."
     },
     {
-      "verse": 5,
-      "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "qui prit ce soin ; puisqu'il contesta avec le Démon, qui voulait avoir le corps de Moïse, afin d'engager les Israélites à lui rendre des honneurs divins. Moïse ne fut point enterré sur la montagne de Phasga, mais dans le vallon, qui était au pied de cette montagne.\nQuelques-uns ([21]) croient, que ce furent Josué et Éléazar, qui l'avaient apparemment accompagné sur la montagne, qui lui rendirent ce dernier devoir. D'autres veulent, que Moïse se soit lui-même retiré dans la caverne, où il devait rendre l'esprit, et qu'il y soit demeuré enseveli et couché, dans la même situation qu'il mourut. Ainsi il faudrait traduire l'Hébreu ([22]) : _Et sepelevit seipsum_. L'Auteur du second Livre des Maccabées ([23]) semble dire que Jérémie trouva la caverne, où Moïse avait été enterré. Ce prophète, dit-il, _par un ordre particulier qu'il avait reçu de Dieu, après la prise de la Judée par Nabuchodonosor, fit apporter l'Arche et le Tabernacle, à la montagne sur laquelle Moïse était monté, et d'où il avait vu l'héritage du Seigneur ; et Jérémie y étant arrivé, y trouva la caverne, où il mit le Tabernacle, l'Arche, et l'autel des parfums, et il en boucha l'entrée_. Mais ce Texte n'est point assez clair, pour établir un sentiment singulier, et inconnu à l'Antiquité. Cédrène ([24]) trompé apparemment par ce que dit Joseph, d'une nuée qui enveloppa Moïse, comme il parlait à Josué et à Éléazar, avance qu'encore de son temps, on voyait un nuage sur le lieu du tombeau de Moïse, qui en déroba la vue aux yeux des mortels, et qui devait le tenir caché aux hommes pour toujours."
-    },
-    {
       "verse": 6,
       "sub": false,
       "latin_lemma": "ET SEPELEVIT EUM.",
       "lemma": "Il le fit ensevelir.",
-      "text": "Naturellement ces paroles se rapportent à Dieu, qui fit enterrer Moïse par le ministère des Anges. C'est l'ancienne tradition des Juifs et des Chrétiens, comme le marque saint Épiphane[19]. L'Apôtre saint Jude[20] nous apprend, que ce fut saint Michel,"
+      "text": "Naturellement ces paroles se rapportent à Dieu, qui fit enterrer Moïse par le ministère des Anges. C'est l'ancienne tradition des Juifs et des Chrétiens, comme le marque saint Épiphane[19]. L'Apôtre saint Jude[20] nous apprend, que ce fut saint Michel, qui prit ce soin ; puisqu'il contesta avec le Démon, qui voulait avoir le corps de Moïse, afin d'engager les Israélites à lui rendre des honneurs divins. Moïse ne fut point enterré sur la montagne de Phasga, mais dans le vallon, qui était au pied de cette montagne.\nQuelques-uns ([21]) croient, que ce furent Josué et Éléazar, qui l'avaient apparemment accompagné sur la montagne, qui lui rendirent ce dernier devoir. D'autres veulent, que Moïse se soit lui-même retiré dans la caverne, où il devait rendre l'esprit, et qu'il y soit demeuré enseveli et couché, dans la même situation qu'il mourut. Ainsi il faudrait traduire l'Hébreu ([22]) : _Et sepelevit seipsum_. L'Auteur du second Livre des Maccabées ([23]) semble dire que Jérémie trouva la caverne, où Moïse avait été enterré. Ce prophète, dit-il, _par un ordre particulier qu'il avait reçu de Dieu, après la prise de la Judée par Nabuchodonosor, fit apporter l'Arche et le Tabernacle, à la montagne sur laquelle Moïse était monté, et d'où il avait vu l'héritage du Seigneur ; et Jérémie y étant arrivé, y trouva la caverne, où il mit le Tabernacle, l'Arche, et l'autel des parfums, et il en boucha l'entrée_. Mais ce Texte n'est point assez clair, pour établir un sentiment singulier, et inconnu à l'Antiquité. Cédrène ([24]) trompé apparemment par ce que dit Joseph, d'une nuée qui enveloppa Moïse, comme il parlait à Josué et à Éléazar, avance qu'encore de son temps, on voyait un nuage sur le lieu du tombeau de Moïse, qui en déroba la vue aux yeux des mortels, et qui devait le tenir caché aux hommes pour toujours."
     },
     {
       "verse": 7,
@@ -113,6 +106,13 @@
       "mode": "flow",
       "before": "aît plus fort pour le sentiment qui veut que Moïse ait été",
       "after": "transporté au Ciel : _Nous ne lisons pas, dit-il, de Moïse"
+    },
+    {
+      "seam": "page_0451>page_0452",
+      "verse": 6,
+      "mode": "flow",
+      "before": "de^{fn:page_0451-h} nous apprend, que ce fut saint Michel,",
+      "after": "qui prit ce soin ; puisqu'il contesta avec le Démon, qui v"
     },
     {
       "seam": "page_0452>page_0453",

@@ -1,6 +1,13 @@
 {
   "notes": [
     {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "CIS FILIUS ABIEL.",
+      "lemma": "Cis fils d'Abiel.",
+      "text": "On lit dans les Paralipomènes,  que Cis était fils de Ner : comment cela s'accorde-t-il ? On répond que Ner avait deux noms, et qu'il s'appelait _Ner et Abiel_ ; ou que Ner et Abiel étaient deux frères, qui avaient tous deux mérité le nom de père de Cis ; l'un en lui don-"
+    },
+    {
       "verse": 2,
       "sub": false,
       "latin_lemma": "ELECTUS ET BONUS, ET NON ERAT.... MELIOR ILLO.",
@@ -53,8 +60,15 @@
       "verse": 5,
       "sub": false,
       "latin_lemma": "NE FORTE DIMISERIT ASINAS, ET SOLICITUS SIT PRO NOBIS.",
-      "lemma": "De peur qu'il ne soit plus en peine de nous, que des",
-      "text": "ânesses. A la lettre: De peur que mon père n'ait abandonné le soin de ses ânesses, et qu'il ne soit en peine de nous."
+      "lemma": "De peur qu'il ne soit plus en peine de nous, que",
+      "text": ""
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "des ânesses.",
+      "text": "À la lettre: De peur que mon père n'ait abandonné le soin de ses ânesses, et qu'il ne soit en peine de nous."
     },
     {
       "verse": 6,
@@ -152,14 +166,28 @@
       "sub": false,
       "latin_lemma": "UNGES EUM DUCEM.",
       "lemma": "Vous le sacrerez chef de mon peuple.",
-      "text": "L'Hébreu [48] _Nagid_, signifie proprement celui qui précède et qui marche à la tête d'une troupe. Les Septante, [49] _un Prince._ Le Chaldéen, _un Roi._ Les Hébreux dans le Chapitre précédent disaient à Samuel : [50] _Nous aurons un Roi qui marchera à notre tête, et qui combattra pour nous._ Un Prince doit être bon Roi, et bon guerrier ; c'est l'idée qu'en donne Homère, [51] et qu'Alexandre le Grand regardait comme la plus belle expression de ce Poète si judicieux.[52] Le Roi d'Israël devait faire les guerres du Seigneur, et combattre les ennemis du peuple de Dieu ; c'était là son principal emploi. SALVABIT POPULUM. _Il sauvera mon peuple._ Saül remporta de grands avantages sur les Philistins au commencement de son règne,[53] il réduisit ces peuples à demeurer en repos, et à n'inquiéter plus les Israélites; il fit aussi très heureusement la guerre aux Ammonites, aux Amalécites, aux Iduméens, aux Moabites, et aux Syriens. L'Écriture ne nous apprend pas le détail de toutes ces guerres ; mais elle dit en général que, lorsqu'il fut affermi dans le Royaume, _il fit la guerre à tous les ennemis qui étaient aux environs, contre Moab, contre les enfants d'Ammon, et d'Edom, contre Soba et les Philistins._ Il est à remarquer que depuis le commencement de Samuel, et depuis cette grande victoire que nous avons vue ci-devant,[54] le pays fut en paix pendant environ vingt ans, jusqu'au règne de Saül : mais cette paix ne fut pas complète; les Philistins avaient repris le dessus petit à petit, ils avaient désarmé les Israélites, et les avaient réduits à n'avoir aucuns maréchaux dans leur pays, et à venir chercher chez les Philistins des ouvriers pour faire tous les instruments du labourage, jusqu'à une pointe d'aiguillon. Ils avaient des troupes à la Colline de Dieu ;[55] ils en avaient aussi à Gabaa,[56] au commencement du règne de Saül ; de sorte que la condition des Israélites était très malheureuse ; c'est ce qui les obligea à pousser les cris dont il est parlé ci-après ; et ce fut peut-être une des raisons qui les obligea à demander un Roi."
+      "text": "L'Hébreu [48] _Nagid_, signifie proprement celui qui précède et qui marche à la tête d'une troupe. Les Septante, [49] _un Prince._ Le Chaldéen, _un Roi._ Les Hébreux dans le Chapitre précédent disaient à Samuel : [50] _Nous aurons un Roi qui marchera à notre tête, et qui combattra pour nous._ Un Prince doit être bon Roi, et bon guerrier ; c'est l'idée qu'en donne Homère, [51] et qu'Alexandre le Grand regardait comme la plus belle expression de ce Poète si judicieux.[52] Le Roi d'Israël devait faire les guerres du Seigneur, et combattre les ennemis du peuple de Dieu ; c'était là son principal emploi."
+    },
+    {
+      "verse": 16,
+      "sub": false,
+      "latin_lemma": "SALVABIT POPULUM.",
+      "lemma": "Il sauvera mon peuple.",
+      "text": "Saül remporta de grands avantages sur les Philistins au commencement de son règne,[53] il réduisit ces peuples à demeurer en repos, et à n'inquiéter plus les Israélites; il fit aussi très heureusement la guerre aux Ammonites, aux Amalécites, aux Iduméens, aux Moabites, et aux Syriens. L'Écriture ne nous apprend pas le détail de toutes ces guerres ; mais elle dit en général que, lorsqu'il fut affermi dans le Royaume, _il fit la guerre à tous les ennemis qui étaient aux environs, contre Moab, contre les enfants d'Ammon, et d'Edom, contre Soba et les Philistins._ Il est à remarquer que depuis le commencement de Samuel, et depuis cette grande victoire que nous avons vue ci-devant,[54] le pays fut en paix pendant environ vingt ans, jusqu'au règne de Saül : mais cette paix ne fut pas complète; les Philistins avaient repris le dessus petit à petit, ils avaient désarmé les Israélites, et les avaient réduits à n'avoir aucuns maréchaux dans leur pays, et à venir chercher chez les Philistins des ouvriers pour faire tous les instruments du labourage, jusqu'à une pointe d'aiguillon. Ils avaient des troupes à la Colline de Dieu ;[55] ils en avaient aussi à Gabaa,[56] au commencement du règne de Saül ; de sorte que la condition des Israélites était très malheureuse ; c'est ce qui les obligea à pousser les cris dont il est parlé ci-après ; et ce fut peut-être une des raisons qui les obligea à demander un Roi."
     },
     {
       "verse": 18,
       "sub": false,
       "latin_lemma": "IN MEDIO PORTÆ.",
       "lemma": "Au milieu de la porte.",
-      "text": "Saül entrant dans la ville, et étant encore sous la porte, ou dans la place qui était à l'entrée de la ville, où se tenaient les assemblées, muel vint à sa rencontre, et Saül lui demanda des nouvelles du Voyant. Les Septante : [57] _Au milieu de la ville._ Le Chaldéen : _Au dedans de la porte._"
+      "text": "Saül entrant dans la ville, et étant encore sous la porte, ou dans la place qui était à l'entrée de la ville, où se tenaient les assemblées, Sa-"
+    },
+    {
+      "verse": 18,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "muel vint à sa rencontre, et Saül lui demanda des nouvelles du Voyant. Les Septante : [57] _Au milieu de la ville._ Le Chaldéen : _Au dedans de la porte._"
     },
     {
       "verse": 19,
@@ -173,7 +201,7 @@
       "sub": false,
       "latin_lemma": null,
       "lemma": null,
-      "text": "un Roi ; ferons-nous plus malheureux que tant d'autres peuples ? Si c'est un bien, pourquoi en serions-nous privés ? Extravagance d'un peuple qui ne peut demeurer dans un état heureux, et qui renonce à ce qui fait son bonheur et sa gloire, pour courir à la servitude, et à l'indigence ; qui quitte Dieu pour avoir un homme pour chef nant la naissance, et l'autre l'éducation. [1]"
+      "text": "nant la naissance, et l'autre l'éducation. [1]"
     },
     {
       "verse": 20,
@@ -250,17 +278,10 @@
       "sub": false,
       "latin_lemma": "STRAVIT QUE SAÜL IN SOLARIO, ET DORMIVIT.",
       "lemma": "Il y fit préparer un lit, où Saül dormit.",
-      "text": "Ces paroles ne sont ni dans l'hébreu, ni dans plusieurs Exemplaires latins. On ne les lit point dans la nouvelle Édition de S. Jérôme : elles sont prises des Septante, [78] qui ont donné ce sens à ce que S. Jérôme a traduit suivant l'hébreu, par : _Samuel lui parla sur la terrasse du logis._ Mais il n'était pas nécessaire de joindre dans la Vulgate ces deux traductions. On peut remarquer ici une coutume singulière à ces pays-là, de mettre coucher les hôtes sur le toit, ou sur la terrasse des maisons. On l'a déjà vu dans les espions que Rahab reçut dans sa maison, et qu'elle mit coucher sur la terrasse ; [79] on le voit aussi dans l'exemple d'Absalom, qui fit tendre une tente sur le toit du Palais, et qui y coucha. [80] Encore aujourd'hui les peuples de la Syrie et de la Palestine ont accoutumé de dormir sur leurs terrasses, afin de prendre le frais au haut de leur maison. Les plus pauvres et le menu peuple couchent sur un matelas avec quelques nattes par-dessous, et se couvrent la nuit d'un drap de lin, ou de coton. Dans Homère on fait coucher les étrangers sous la galerie qui est au-devant de la maison ; on étend leur lit sur le pavé sans autre cérémonie. Aristophane [81] nous fait voir chez"
+      "text": "Ces paroles ne sont ni dans l'hébreu, ni dans plusieurs Exemplaires latins. On ne les lit point dans la nouvelle Édition de S. Jérôme : elles sont prises des Septante, [78] qui ont donné ce sens à ce que S. Jérôme a traduit suivant l'hébreu, par : _Samuel lui parla sur la terrasse du logis._ Mais il n'était pas nécessaire de joindre dans la Vulgate ces deux traductions. On peut remarquer ici une coutume singulière à ces pays-là, de mettre coucher les hôtes sur le toit, ou sur la terrasse des maisons. On l'a déjà vu dans les espions que Rahab reçut dans sa maison, et qu'elle mit coucher sur la terrasse ; [79] on le voit aussi dans l'exemple d'Absalom, qui fit tendre une tente sur le toit du Palais, et qui y coucha. [80] Encore aujourd'hui les peuples de la Syrie et de la Palestine ont accoutumé de dormir sur leurs terrasses, afin de prendre le frais au haut de leur maison. Les plus pauvres et le menu peuple couchent sur un matelas avec quelques nattes par-dessous, et se couvrent la nuit d'un drap de lin, ou de coton. Dans Homère on fait coucher les étrangers sous la galerie qui est au-devant de la maison ; on étend leur lit sur le pavé sans autre cérémonie. Aristophane [81] nous fait voir chez les Grecs l'usage de coucher quelquefois sur le toit de la maison. Dans tout le Levant il n'y a point d'autre lit qu'un matelas qu'on étend le soir sur des tapis, et qu'on serre le jour. En Été ils couchent souvent à l'air sur leur terrasse, et à la campagne, à platte terre sur une natte."
     }
   ],
   "joins": [
-    {
-      "seam": "page_0181>page_0182",
-      "verse": 20,
-      "mode": "mend",
-      "before": "indigence ; qui quitte Dieu pour avoir un homme pour chef.",
-      "after": "nant la naissance, et l'autre l'éducation. ^{(a)}"
-    },
     {
       "seam": "page_0182>page_0183",
       "verse": 3,
@@ -274,13 +295,6 @@
       "mode": "flow",
       "before": "s Isaïe ^{fn:page_0183-e} et Jérémie. ^{fn:page_0183-f} Le",
       "after": "Chaldéen traduit : _La terre Australe_, ou méridionale. En"
-    },
-    {
-      "seam": "page_0184>page_0185",
-      "verse": 5,
-      "mode": "hyphen",
-      "before": "De peur qu'il ne soit plus en peine de nous, que des",
-      "after": "des ânesses. A la lettre: De peur que mon père n'ait aband"
     },
     {
       "seam": "page_0185>page_0186",
@@ -302,13 +316,6 @@
       "mode": "flow",
       "before": "n donne Homère, ^{fn:page_0190-f} et qu'Alexandre le Grand",
       "after": "regardait comme la plus belle expression de ce Poète si ju"
-    },
-    {
-      "seam": "page_0191>page_0192",
-      "verse": 18,
-      "mode": "flow",
-      "before": "ait à l'entrée de la ville, où se tenaient les assemblées,",
-      "after": "muel vint à sa rencontre, et Saül lui demanda des nouvelle"
     },
     {
       "seam": "page_0192>page_0193",
@@ -337,6 +344,13 @@
       "mode": "flow",
       "before": "ou, où il l'avait mené pour le:",
       "after": "faire coucher. On ne sait pas ce que Samuel lui dit en cet"
+    },
+    {
+      "seam": "page_0196>page_0197",
+      "verse": 25,
+      "mode": "flow",
+      "before": "rémonie. Aristophane ^{fn:page_0196-d} nous fait voir chez",
+      "after": "les Grecs l'usage de coucher quelquefois sur le toit de la"
     }
   ],
   "pages_used": [
@@ -355,7 +369,8 @@
     "page_0193",
     "page_0194",
     "page_0195",
-    "page_0196"
+    "page_0196",
+    "page_0197"
   ],
   "footnotes": [
     {
@@ -764,5 +779,9 @@
       "text": "Aristoph. in Vespis act. 1. Εἶτ᾽ οὐχ ὕπνος σ᾽ ἔλαβε; ΟΛ. ἐμοὶ μεν οὔκ· Αλλ᾽ ἠρόμην, ὁπόσαι ὦσιν αἱ φυλαί."
     }
   ],
-  "missing_footnotes": []
+  "missing_footnotes": [
+    "page_0181-a",
+    "page_0181-b",
+    "page_0197-a"
+  ]
 }

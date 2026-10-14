@@ -89,14 +89,21 @@
       "sub": false,
       "latin_lemma": "MEUS REX, UT NEC BENEDICTIONE, NEC MALEDICTIONE MOVEATUR.",
       "lemma": "Car le Roi mon Seigneur est comme un Ange de Dieu, qui n'est touché ni de bénédiction, ni de malédiction.",
-      "text": "Qui rend la justice avec une intégrité aussi parfaite, que s'il n'était point homme ; il ne fait attention qu'à la justice de la cause qui lui est présentée ; ni les flatteries, ni les outrages, ni les louanges intéressées, ni les plaintes mal fondées, ne sont pas capables de l'ébranler. Voici l'Hébreu à la lettre : [16] _Mon Seigneur et mon Roi est comme l'Ange du Seigneur, pour entendre le bien et le mal._ Le Roi est envoyé à ses peuples comme un Ange du ciel, qui écoute tout ce qu'on a à lui dire, le bien et le mal, pour en faire le juste discernement, et pour rendre à chacun selon son mérite, et suivant la nature et la qualité de ses affaires. Ou autrement : Vous avez, Sire, sur toute chose un discernement sûr, et une sagesse égale à celle d'un Ange. _Entendre le bien et le mal_, c'est entendre toutes choses ; c'est ce que cette femme répète ci-après au ℣. 20. _Vous êtes sage comme un Ange de Dieu, et vous pénétrez toutes choses._ Autrement : Vous avez la sagesse et la pénétration d'un Ange, vous discernez parfaitement entre la justice et l'injustice, entre une bonne et une mauvaise cause, entre de justes plaintes, et de mauvaises accusations."
+      "text": "Qui rend la justice avec une intégrité aussi parfaite, que s'il n'était point homme ; il ne fait attention qu'à la justice de la cause qui lui est présentée ; ni les flatteries, ni les outrages, ni les louanges intéressées, ni les plaintes mal fondées, ne sont pas capables de l'ébranler. Voici l'Hébreu à la lettre : [16] _Mon Seigneur et mon Roi est comme l'Ange du Seigneur, pour entendre le bien et le mal._ Le Roi est envoyé à ses peuples comme un Ange du ciel, qui écoute tout ce qu'on a à lui dire, le bien et le mal, pour en faire le juste discernement, et pour rendre à chacun selon son mérite, et suivant la nature et la qualité de ses affaires. Ou autrement : Vous avez, Sire, sur toute chose un discernement sûr, et une sagesse égale à celle d'un Ange. _Entendre le bien et le mal_, c'est entendre toutes choses ; c'est ce que cette femme répète ci-après au ℣. 20. _Vous êtes sage comme un Ange de Dieu_ et vous pénétrez toutes choses. Autrement : Vous avez la sagesse et la pénétration d'un Ange, vous discernez parfaitement entre la justice et l'injustice, entre une bonne et une mauvaise cause, entre de justes plaintes, et de mauvaises accusations."
     },
     {
       "verse": 19,
       "sub": false,
-      "latin_lemma": "PER SALUTEM ANIMÆ TUÆ... NEC AD SINISTRAM NEC AD DEXTERAM EST, EX OMNIBUS QUÆ LOCUTUS EST.",
+      "latin_lemma": "PER SALUTEM ANIMÆ TUÆ... NEC AD SINISTRAM NEC AD DEXTERAM EST, EX OMNIBUS QUÆ LOCU-",
       "lemma": null,
-      "text": "TUS EST DOMINUS MEUS. Je vous jure par vôtre vie, que rien n’est plus véritable que ce que vous dites ; car c’est Joab qui m’a donné ce conseil. L’Hébreu : Par vôtre vie, mon Seigneur et mon Roi, si personne ( m’a dit un mot ) ni à droit, ni à gauche, de ce que mon Seigneur vient de me dire ; il n’y a que Joab vôtre serviteur qui me l’a commandé. Autrement : Par vôtre vie, mon Seigneur, il n’y a personne qui ose vous désobéir, ni aller devant vous à droit ou à gauche : il n’y a que Joab qui m’ait parlé de tout ce que je viens de vous dire ; Enfin, je ne dois point chercher de détours devant vous ; vous pénétrez tout d’un coup les choses ; c’est Joab lui-même."
+      "text": ""
+    },
+    {
+      "verse": 19,
+      "sub": false,
+      "latin_lemma": "TUS EST DOMINUS MEUS.",
+      "lemma": "Je vous jure par vôtre vie, que rien n’est plus véritable que ce que vous dites ;",
+      "text": "car c’est Joab qui m’a donné ce conseil. L’Hébreu : _Par vôtre vie, mon Seigneur et mon Roi, si personne_ (m’a dit un mot) _ni à droit, ni à gauche, de ce que mon Seigneur vient de me dire ; il n’y a que Joab vôtre serviteur qui me l’a commandé_. Autrement : Par vôtre vie, mon Seigneur, il n’y a personne qui ose vous désobéir, ni aller devant vous à droit ou à gauche : il n’y a que Joab qui m’ait parlé de tout ce que je viens de vous dire ; Enfin, je ne dois point chercher de détours devant vous ; vous pénétrez tout d’un coup les choses ; c’est Joab lui-même."
     },
     {
       "verse": 20,
@@ -183,13 +190,6 @@
       "mode": "flow",
       "before": " suppliante. L'Hébreu à la lettre : ^{fn:page_0145-c} _Je_",
       "after": "suis venue pour vous dire cette parole, parce que le peupl"
-    },
-    {
-      "seam": "page_0147>page_0148",
-      "verse": 19,
-      "mode": "flow",
-      "before": "",
-      "after": "TUS EST DOMINUS MEUS. Je vous jure par vôtre vie, que rien"
     },
     {
       "seam": "page_0148>page_0149",

@@ -1,6 +1,13 @@
 {
   "notes": [
     {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "HÆC EST BENEDICTIO, QUA BENEDIXIT MOYSES HOMO DEI.",
+      "lemma": "Voici la bénédiction que Moïse, homme de Dieu, donna aux Israélites.",
+      "text": "Moïse parle dans ces bénédictions, comme un étranger ; il s'expri-"
+    },
+    {
       "verse": 2,
       "sub": false,
       "latin_lemma": "DOMINUS DE SINAÏ VENIT, ET DE SEIR ORTUS EST NOBIS.",
@@ -330,28 +337,14 @@
       "text": "en signe d'une victoire entière, et d'un assujettissement complet de vos ennemis. C'est ainsi qu'en usa Josué envers les cinq Rois qu'il prit à Maccéda [124]. L'Écriture se sert, en plus d'un endroit, de cette expression, _Abattu sous ses pieds, servir de marche-pied, fouler aux pieds_, pour signifier la supériorité du vainqueur. Nous avons plusieurs exemples de Princes victorieux, qui ont traité leurs ennemis vaincus, de cette sorte : par exemple, Tamerlan, qui se servait de Bajazet, Empereur des Turcs, comme de marche-pied, pour monter à cheval."
     },
     {
-      "verse": 47,
+      "verse": 49,
       "sub": false,
       "latin_lemma": null,
       "lemma": null,
-      "text": "y trouverez la vie ; ou, elle doit vous être aussi chère que votre vie. Dieu promet ordinairement la vie à ceux qui observent sa Loi."
-    },
-    {
-      "verse": 49,
-      "sub": false,
-      "latin_lemma": "ABARIM, ID EST, TRANSITUUM.",
-      "lemma": "Abarim, c'est-à-dire, des passages.",
-      "text": "L'Auteur de la Vulgate a ajouté l'explication du mot Abarim, qui signifie en Hébreu, _les passages_. On a parlé ailleurs des montagnes d'Abarim, et de Nebo ; c'est sur cette dernière, que Moïse mourut me comme s’il eût simplement raconté ce qu'avait fait Moïse ; ce qui pourrait faire croire que ces dernières paroles furent écrites et recueillies par d'autres : mais c’est plutôt que voulant les laisser aux Israélites comme son testament, afin qu'ils les retinssent après sa mort, il les prononce comme s'il n'était déjà plus de ce monde. On a pu remarquer, dans la Prophétie de Balaam [1], que souvent les Prophètes parlaient de cette sorte ; ils s'exprimaient en tierce personne, ils marquaient leur qualité, et leur emploi, au commencement de leur Prophétie. C’est ce que fait ici Moïse ; il se nomme _Homme de Dieu_, son Prophète [2], son Ministre, son Ambassadeur, qui porte sa parole, qui soutient ses intérêts, qui parle en son nom, et qui agit avec son autorité."
+      "text": "me comme s’il eût simplement raconté ce qu'avait fait Moïse ; ce qui pourrait faire croire que ces dernières paroles furent écrites et recueillies par d'autres : mais c’est plutôt que voulant les laisser aux Israélites comme son testament, afin qu'ils les retinssent après sa mort, il les prononce comme s'il n'était déjà plus de ce monde. On a pu remarquer, dans la Prophétie de Balaam [1], que souvent les Prophètes parlaient de cette sorte ; ils s'exprimaient en tierce personne, ils marquaient leur qualité, et leur emploi, au commencement de leur Prophétie. C’est ce que fait ici Moïse ; il se nomme _Homme de Dieu_, son Prophète [2], son Ministre, son Ambassadeur, qui porte sa parole, qui soutient ses intérêts, qui parle en son nom, et qui agit avec son autorité."
     }
   ],
   "joins": [
-    {
-      "seam": "page_0425>page_0426",
-      "verse": 49,
-      "mode": "mend",
-      "before": ", et de Nebo ; c'est sur cette dernière, que Moïse mourut.",
-      "after": "me comme s’il eût simplement raconté ce qu'avait fait Moïs"
-    },
     {
       "seam": "page_0427>page_0428",
       "verse": 3,

@@ -138,7 +138,7 @@
       "sub": false,
       "latin_lemma": "ERIMUS NOS QUOQUE SICUT OMNES GENTES.",
       "lemma": "Nous voulons être comme toutes les autres nations.",
-      "text": "Nous ne sommes ni de pire, ni de meilleure condition qu'elles. Si c'est un mal d'avoir"
+      "text": "Nous ne sommes ni de pire, ni de meilleure condition qu'elles. Si c'est un mal d'avoir un Roi ; serons-nous plus malheureux que tant d'autres peuples ? Si c'est un bien, pourquoi en serions-nous privés ? Extravagance d'un peuple qui ne peut demeurer dans un état heureux, et qui renonce à ce qui fait son bonheur et sa gloire, pour courir à la servitude, et à l'indigence ; qui quitte Dieu pour avoir un homme pour chef."
     }
   ],
   "joins": [
@@ -183,6 +183,13 @@
       "mode": "flow",
       "before": " termes de servitude et d'esclavage. _N'êtes-vous pas les_",
       "after": "serviteurs de Saül ? disait Goliath à l'armée d'Israël.^{("
+    },
+    {
+      "seam": "page_0180>page_0181",
+      "verse": 20,
+      "mode": "flow",
+      "before": "i de meilleure condition qu'elles. Si c'est un mal d'avoir",
+      "after": "un Roi ; serons-nous plus malheureux que tant d'autres peu"
     }
   ],
   "pages_used": [
@@ -194,7 +201,8 @@
     "page_0177",
     "page_0178",
     "page_0179",
-    "page_0180"
+    "page_0180",
+    "page_0181"
   ],
   "footnotes": [
     {

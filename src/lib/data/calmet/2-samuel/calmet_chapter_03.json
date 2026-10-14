@@ -47,7 +47,7 @@
       "sub": false,
       "latin_lemma": "NUMQUID CAPUT CANIS EGO SUM ADVERSUS JUDAM HODIE.",
       "lemma": "Suis-je un homme à être traité comme un chien aujourd'hui, moi qui me suis déclaré contre Juda ?",
-      "text": "À la lettre : _Suis-je une tête de chien contre Juda ; ou un chef d'une meute de chiens contre Juda ?_ [7] _Méritais-je d'être traité comme un misérable, comme un valet qui mène des chiens ?_ Autrement : _Je vous apprendrai si je suis Général d'armée, ou chef de chiens aujourd'hui contre Juda ; etc._ en me rangeant contre vous dans le parti de David, je serai regardé de vos ennemis comme un misérable, ou un homme de rien, et qui ne mérite aucun ménagement. On verra aujourd'hui si je vous suis si inutile contre Juda, et si mes services doivent vous être si indifférents ; si je suis un chien, un animal impur, et méprisable. L'Hébreu : [8] _Suis-je une tête de chien, moi qui ai fait aujourd'hui miséricorde à la maison de Saül contre Juda ?_ Ou autrement : _Suis-je un chien de Juda, moi qui ai fait aujourd'hui miséricorde à votre maison ?_ Une tête de chien se peut prendre pour un chien ; de même qu'on dit, vingt têtes d'hommes, ou de bœufs, pour vingt hommes, et vingt bœufs. Le chien est mis dans l'Écriture pour le plus vil des animaux ; [9] et le chien de nos ennemis est encore plus méprisé, et plus en horreur. Ainsi, _Suis-je une tête de chien de Juda ?_ marque, _Suis-je le chien de votre ennemi, pour me traiter de la sorte ?_ Les Septante [10] n'ont point lu Juda dans cet endroit : _Suis-je une tête de chien ? et j'ai fait miséricorde envers la maison de Saül votre père._ Il y en a qui voudraient lire dans l'Hébreu : _Suis-je une tête de chien, pour être jeté aujourd'hui ?_ [11]"
+      "text": "À la lettre : _Suis-je une tête de chien contre Juda ; ou un chef d'une meute de chiens contre Juda ?_ [7] Méritais-je d'être traité comme un misérable, comme un valet qui mène des chiens ? Autrement : _e vous apprendrai si je suis Général d'armée, ou chef de chiens aujourd'hui contre Juda ; et si en me rangeant contre vous dans le parti de David, je serai regardé de vos ennemis comme un misérable, ou un homme de rien, et qui ne mérite aucun ménagement. On verra aujourd'hui si je vous suis si inutile contre Juda, et si mes services doivent vous être si indifférents ; si je suis un chien, un animal impur, et méprisable. L'Hébreu : [8] _Suis-je une tête de chien, moi qui ai fait aujourd'hui miséricorde à la maison de Saül contre Juda ?_ Ou autrement : _Suis-je un chien de Juda, moi qui ai fait aujourd'hui miséricorde à votre maison ?_ Une tête de chien se peut prendre pour un chien ; de même qu'on dit, vingt têtes d'hommes, ou de bœufs, pour vingt hommes, et vingt bœufs. Le chien est mis dans l'Écriture pour le plus vil des animaux ; [9] et le chien de nos ennemis est encore plus méprisé, et plus en horreur. Ainsi, _Suis-je une tête de chien de Juda ?_ marque, _Suis-je le chien de votre ennemi, pour me traiter de la sorte ?_ Les Septante [10] n'ont point lu Juda dans cet endroit : _Suis-je une tête de chien ? et j'ai fait miséricorde envers la maison de Saül votre père._ Il y en a qui voudraient lire dans l'Hébreu : _Suis-je une tête de chien, pour être jeté aujourd'hui ?_ [11]_"
     },
     {
       "verse": 11,
@@ -208,7 +208,7 @@
       "sub": false,
       "latin_lemma": "CUM VENISSET UNIVERSA MULTITUDO CIBUM SUMERE CUM DAVID.",
       "lemma": "Étant tous venus pour manger avec David.",
-      "text": "Après les funérailles d'Abner, tout le peuple reconduisit David. dans l'espérance que ce Prince donnerait le repas ordinaire, après ces sortes de cérémonies: mais comme il était encore grand jour, il ne voulut pas manger, et continua son jeûne jusqu'au soir, selon la coutume de ce temps-là. On a parlé ailleurs [43] des festins qu'on faisait après les funérailles."
+      "text": "Après les funérailles d'Abner, tout le peuple reconduisit David, dans l'espérance que ce Prince donnerait le repas ordinaire, après ces sortes de cérémonies: mais comme il était encore grand jour, il ne voulut pas manger, et continua son jeûne jusqu'au soir, selon la coutume de ce temps-là. On a parlé ailleurs [43] des festins qu'on faisait après les funérailles."
     },
     {
       "verse": 39,
@@ -222,7 +222,7 @@
       "sub": false,
       "latin_lemma": "DURI SUNT MIHI.",
       "lemma": "Sont trop violents pour moi...",
-      "text": "À la lettre: _Ils sont durs pour moi._ me sont durs, Ils me traitent violemment. L'Hébreu : [46] Ils sont plus durs que moi ; plus puissants, plus accrédités. Ou bien : Je ne puis supporter leurs violences. David marque assez, que s'il ne venge pas l'action de Joab, ce n'est que parce qu'il ne le peut pas. Il vaut mieux temporiser, que d'aigrir le mal par une punition précipitée."
+      "text": "À la lettre: _Ils_ _me sont durs_, Ils me traitent violemment. L'Hébreu : [46] _Ils sont plus durs que moi_ ; plus puissants, plus accrédités. Ou bien : Je ne puis supporter leurs violences. David marque assez, que s'il ne venge pas l'action de Joab, ce n'est que parce qu'il ne le peut pas. Il vaut mieux temporiser, que d'aigrir le mal par une punition précipitée."
     }
   ],
   "joins": [
@@ -237,7 +237,7 @@
       "seam": "page_0029>page_0030",
       "verse": 8,
       "mode": "flow",
-      "before": "d'armée, ou chef de chiens aujourd'hui contre Juda ; etc._",
+      "before": "d'armée, ou chef de chiens aujourd'hui contre Juda ; et si",
       "after": "en me rangeant contre vous dans le parti de David, je sera"
     },
     {
@@ -271,16 +271,16 @@
     {
       "seam": "page_0037>page_0038",
       "verse": 35,
-      "mode": "hyphen",
-      "before": "les funérailles d'Abner, tout le peuple reconduisit David.",
+      "mode": "splice",
+      "before": "ès les funérailles d'Abner, tout le peuple reconduisit Da-",
       "after": "vid, dans l'espérance que ce Prince donnerait le repas ord"
     },
     {
       "seam": "page_0038>page_0039",
       "verse": 39,
       "mode": "flow",
-      "before": "À la lettre: _Ils sont durs pour moi._",
-      "after": "me sont durs, Ils me traitent violemment. L'Hébreu : ^{(a)"
+      "before": "À la lettre: _Ils_",
+      "after": "_me sont durs_, Ils me traitent violemment. L'Hébreu : ^{("
     }
   ],
   "pages_used": [

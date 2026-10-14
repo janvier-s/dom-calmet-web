@@ -138,7 +138,7 @@
       "sub": false,
       "latin_lemma": "PETRAM DIVIDENTEM.",
       "lemma": "Le rocher de séparation ;",
-      "text": "le"
+      "text": "le lieu où Saül fut obligé de se séparer, et de quitter la poursuite de David ; ou la pierre qui séparait Saül de David. Il ne restait qu'à la passer, pour se saisir de David. Autrement : _La pierre de division_ ; parce qu'en cet endroit l'esprit de Saül, et de ses gens, se trouva partagé, s'il devait aller au secours de son pays, ou s'il continuerait à poursuivre David."
     }
   ],
   "joins": [
@@ -176,6 +176,13 @@
       "mode": "flow",
       "before": "La",
       "after": "ville et le désert de Maon étaient fort avant dans la part"
+    },
+    {
+      "seam": "page_0376>page_0377",
+      "verse": 28,
+      "mode": "flow",
+      "before": "le",
+      "after": "lieu où Saül fut obligé de se séparer, et de quitter la po"
     }
   ],
   "pages_used": [
@@ -186,7 +193,8 @@
     "page_0373",
     "page_0374",
     "page_0375",
-    "page_0376"
+    "page_0376",
+    "page_0377"
   ],
   "footnotes": [
     {

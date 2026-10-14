@@ -61,7 +61,14 @@
       "sub": false,
       "latin_lemma": "INVENIT FRATRES OCHOZIÆ.",
       "lemma": "Il trouva les frères d'Ochozias.",
-      "text": "Il faut que Jéhu ait usé d'une diligence incroyable dans tout ce qu'on a vu, pour avoir pu prévenir les bruits, qui naturellement s'en devaient répandre avec une rapidité infinie, comme c'est l'ordinaire dans des affaires de cette importance. Deux Rois et une Reine mis à mort, toute la famille du Roi d'Israël éteinte, un changement général dans l'État. Tout cela n'était pas répandu à Jérusalem, qui n'était pas à vingt-cinq lieues de Jezrahel, quoiqu'Ochozias Roi de Juda fût un des deux Rois morts : bien plus, on ne le savait pas à Betakad, qui était entre Samarie et Jezrahel, où toute cette horrible tragédie s'était passée. Les frères d'Ochozias pouvaient être ses parents, ses alliés, ses neveux : car pour des frères naturels nous savons qu'il n'en avait plus ; au moins, il n'y en avait point qui fussent fils de Joram et d'Athalie comme lui ; car on lit dans les Paralipomènes [16] que Dieu envoya dans Juda des Philistins et des Arabes qui firent mourir les enfants et les femmes de Joram, en sorte qu'il n'y eut que le seul Joachas, autrement Ochozias, qui en échappa. Et cela en conformité des menaces portées dans la lettre d'Élie à Joram. [17] On lit aussi dans le même Livre [18] que ceux qui furent rencontrés et mis à mort par Jéhu, étaient les Princes de Juda, et les fils des frères d'Ochozias, qui servaient le Prince : _Invenit Princeps Judæ, et filios fratrum Ochoziæ, qui ministrabant ei, et interfecit illos._ Êtes-vous sincèrement de mes amis, comme je le suis des vôtres ? Êtes-vous dans mes intérêts, dans mon parti ? Rechab père de Jonadab institua une secte fameuse appelée de son nom des Rechabites ; ils descendaient de Jéthro beau-père de Moïse, et de la race des Cinéens. On verra plus au long leur institution, et leur forme de vie dans notre Commentaire sur Jérémie,[19] qui leur donne beaucoup de louanges."
+      "text": "Il faut que Jéhu ait usé d'une diligence incroyable dans tout ce qu'on a vu, pour avoir pu prévenir les bruits, qui naturellement s'en devaient répandre avec une rapidité infinie, comme c'est l'ordinaire dans des affaires de cette importance. Deux Rois et une Reine mis à mort, toute la famille du Roi d'Israël éteinte, un changement général dans l'État. Tout cela n'était pas répandu à Jérusalem, qui n'était pas à vingt-cinq lieues de Jezrahel, quoiqu'Ochozias Roi de Juda fût un des deux Rois morts : bien plus, on ne le savait pas à Betakad, qui était entre Samarie et Jezrahel, où toute cette horrible tragédie s'était passée. Les frères d'Ochozias pouvaient être ses parents, ses alliés, ses neveux : car pour des frères naturels nous savons qu'il n'en avait plus ; au moins, il n'y en avait point qui fussent fils de Joram et d'Athalie comme lui ; car on lit dans les Paralipomènes [16] que Dieu envoya dans Juda des Philistins et des Arabes qui firent mourir les enfants et les femmes de Joram, en sorte qu'il n'y eut que le seul Joachas, autrement Ochozias, qui en échappa. Et cela en conformité des menaces portées dans la lettre d'Élie à Joram. [17] On lit aussi dans le même Livre [18] que ceux qui furent rencontrés et mis à mort par Jéhu, étaient les Princes de Juda, et les fils des frères d'Ochozias, qui servaient le Prince : _Invenit Princeps Judæ, et filios fratrum Ochoziæ, qui ministrabant ei, et interfecit illos._"
+    },
+    {
+      "verse": 13,
+      "sub": false,
+      "latin_lemma": "INVENIT JONADAB FILIUM RECHAB... ET BENEDIXIT EI.",
+      "lemma": "Il trouva Jonadab fils de Rechab, et il le salua ;",
+      "text": "à la lettre : _il le bénit_, en lui disant : _votre cœur est-il droit à mon égard, comme le mien l'est à l'égard du vôtre ?_ Êtes-vous sincèrement de mes amis, comme je le suis des vôtres ? Êtes-vous dans mes intérêts, dans mon parti ? Rechab père de Jonadab institua une secte fameuse appelée de son nom des Rechabites ; ils descendaient de Jéthro beau-père de Moïse, et de la race des Cinéens. On verra plus au long leur institution, et leur forme de vie dans notre Commentaire sur Jérémie,[19] qui leur donne beaucoup de louanges."
     },
     {
       "verse": 13,
@@ -183,13 +190,6 @@
       "mode": "splice",
       "before": "rand champ environ à 15 milles de la ville de Légion. L'E-",
       "after": "L'Écriture parle ailleurs ^{(a)} d'un lieu nommé _Beth-kar"
-    },
-    {
-      "seam": "page_0146>page_0147",
-      "verse": 13,
-      "mode": "flow",
-      "before": "ratrum Ochoziæ, qui ministrabant ei, et interfecit illos._",
-      "after": "Êtes-vous sincèrement de mes amis, comme je le suis des vô"
     },
     {
       "seam": "page_0147>page_0148",

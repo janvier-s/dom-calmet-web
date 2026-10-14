@@ -103,7 +103,7 @@
       "sub": false,
       "latin_lemma": "IN LATERE, IN SEPULCHRO CIS pere de Saül.",
       "lemma": "Dans la même caverne, mais dans des niches séparées, et à côté.",
-      "text": "Ou bien : _À côté de la montagne de Gabaa ; dans quelqu'une des cavernes de cette montagne, où étaient les tombeaux des Ancêtres de Saül._ Il y en a [20] qui veulent que le mot hébreu _Séla_, qu'on traduit par le _côté_, signifie ici un nom de lieu. En effet on trouve une ville du nom de Séla, dans la tribu de Benjamin ruine, qui ne devait pas être loin de Gabaa, patrie et demeure de Cis et de Saül. [21]"
+      "text": "Ou bien : À côté de la montagne de Gabaa ; dans quelqu'une des cavernes de cette montagne, où étaient les tombeaux des Ancêtres de Saül. Il y en a [20] qui veulent que le mot hébreu _Séla_, qu'on traduit par _le côté_, signifie ici un nom de lieu. En effet on trouve une ville du nom de Séla, dans la tribu de Benjamin, qui ne devait pas être loin de Gabaa, patrie et demeure de Cis et de Saül. [21]"
     },
     {
       "verse": 15,
@@ -215,9 +215,9 @@
     {
       "seam": "page_0235>page_0236",
       "verse": 14,
-      "mode": "mend",
-      "before": "rouve une ville du nom de Séla, dans la tribu de Benjamin.",
-      "after": "ruine, qui ne devait pas être loin de Gabaa, patrie et dem"
+      "mode": "splice",
+      "before": "n trouve une ville du nom de Séla, dans la tribu de Benja-",
+      "after": "min, qui ne devait pas être loin de Gabaa, patrie et demeu"
     },
     {
       "seam": "page_0236>page_0237",

@@ -2,6 +2,17 @@ import { error } from '@sveltejs/kit';
 
 export const prerender = true;
 
+// Every exported chapter, so the prerenderer builds them all and not only the ones it
+// reaches by following links (the home page lists one book's chapters at a time).
+const chapterFiles = import.meta.glob('../../../lib/data/calmet/*/calmet_chapter_*.json');
+
+export function entries() {
+    return Object.keys(chapterFiles).map((path) => {
+        const [, book, num] = path.match(/calmet\/([^/]+)\/calmet_chapter_(\d+)\.json$/)!;
+        return { book, id: String(parseInt(num, 10)) };
+    });
+}
+
 export async function load({ params }) {
     const { id, book } = params;
     

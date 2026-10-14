@@ -12,7 +12,7 @@
       "sub": false,
       "latin_lemma": "ET RURSUM REBELLAVIT CONTRA EUM.",
       "lemma": "Après cela il ne voulut plus lui obéir.",
-      "text": "C'est-à-dire, après lui avoir payé le tribut pendant trois ans, _il se souleva de nouveau._ Cette manière de parler, _de nouveau_, semblerait vouloir dire qu'il s'était déjà soulevé une première fois ; mais il est certain qu'auparavant il était tributaire du Roi d'Égypte, et que ce fut pour lui conserver la fidélité qu'il lui devait qu'il ne voulut pas se soumettre à Nabuchodonosor, et qu'il soutint contre lui le siège de Jérusalem. Ainsi il faut traduire l'Hébreu וישב וימרד בו _par il se retourna, ou, il se détourna et se révolta contre lui._ Il prit apparemment occasion de l'absence de Nabuchodonosor, qui avait été obligé par la mort de son père Nabopolassar, de s'en retourner un peu brusquement à Babylone, pour se mettre en possession de tout l'Empire. des Assyriens et des Babyloniens. Cette mort était arrivée la troisième année de Nabuchodonosor, et comme il était encore en Égypte, occupé à régler l'état de ce pays et des autres Provinces qu'il avait conquises. Bérose cité dans Josèphe [9] raconte dans un assez grand détail, son retour à Babylone, et ce qu'il fit après y être arrivé. Mais cela ne regarde qu'indirectement l'histoire que nous examinons ici. Joakim jouit quelque temps du fruit de sa révolte. Nabuchodonosor occupé à d'autres affaires, ne put sitôt penser à le réduire ; ce ne fut que la septième année de son règne, [10] du monde 3004. et trois ans après cette rébellion de Joakim, qu'il envoya en Judée une armée composée de Chaldéens, de Syriens, de Moabites et d'Ammonites, [11] qui ravagèrent le pays, et en emmenèrent des captifs au nombre de 3023. [12]"
+      "text": "C'est-à-dire, après lui avoir payé le tribut pendant trois ans, _il se souleva de nouveau._ Cette manière de parler, _de nouveau_, semblerait vouloir dire qu'il s'était déjà soulevé une première fois ; mais il est certain qu'auparavant il était tributaire du Roi d'Égypte, et que ce fut pour lui conserver la fidélité qu'il lui devait qu'il ne voulut pas se soumettre à Nabuchodonosor, et qu'il soutint contre lui le siège de Jérusalem. Ainsi il faut traduire l'Hébreu וישב וימרד בו _par il se retourna, ou, il se détourna et se révolta contre lui._ Il prit apparemment occasion de l'absence de Nabuchodonosor, qui avait été obligé par la mort de son père Nabopolassar, de s'en retourner un peu brusquement à Babylone, pour se mettre en possession de tout l'Empire des Assyriens et des Babyloniens. Cette mort était arrivée la troisième année de Nabuchodonosor, et comme il était encore en Égypte, occupé à régler l'état de ce pays et des autres Provinces qu'il avait conquises. Bérose cité dans Josèphe [9] raconte dans un assez grand détail, son retour à Babylone, et ce qu'il fit après y être arrivé. Mais cela ne regarde qu'indirectement l'histoire que nous examinons ici. Joakim jouit quelque temps du fruit de sa révolte. Nabuchodonosor occupé à d'autres affaires, ne put sitôt penser à le réduire ; ce ne fut que la septième année de son règne, [10] du monde 3004. et trois ans après cette rébellion de Joakim, qu'il envoya en Judée une armée composée de Chaldéens, de Syriens, de Moabites et d'Ammonites, [11] qui ravagèrent le pays, et en emmenèrent des captifs au nombre de 3023. [12]"
     },
     {
       "verse": 2,
@@ -145,8 +145,8 @@
     {
       "seam": "page_0343>page_0344",
       "verse": 1,
-      "mode": "hyphen",
-      "before": "à Babylone, pour se mettre en possession de tout l'Empire.",
+      "mode": "splice",
+      "before": "t à Babylone, pour se mettre en possession de tout l'Empi-",
       "after": "re des Assyriens et des Babyloniens. Cette mort était arri"
     },
     {

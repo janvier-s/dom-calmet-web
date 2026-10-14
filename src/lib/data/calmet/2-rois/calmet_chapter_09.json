@@ -32,8 +32,8 @@
       "verse": 7,
       "sub": false,
       "latin_lemma": "ULCISCAR SANGUINEM SERVORUM MEORUM PROPHETARUM.",
-      "lemma": "Je vengerai le sang des Prophètes mes serviteurs, que Jézabel a cruellement persécutés et mis à mort. 3. Reg. XVIII. 4. Cùm interficeret Jezabel Prophetas Domini, etc.",
-      "text": ""
+      "lemma": "Je vengerai le sang des Prophètes mes serviteurs,",
+      "text": "que Jézabel a cruellement persécutés et mis à mort. 3. Reg. XVIII. 4. Cùm interficeret Jezabel Prophetas Domini, etc."
     },
     {
       "verse": 8,
@@ -159,7 +159,7 @@
       "sub": false,
       "latin_lemma": "PERCUSSERUNT EUM IN ASCENSU GAVER, QUI EST JUXTA JEBLAAM : QUI FUGIT IN MAGEDDO, ET MORTUUS EST IBI.",
       "lemma": "Ils le frappèrent à la montée de Gaver, qui est près de Jéblaam ; et s'en étant fui à Mageddo, il y mourut.",
-      "text": "Comment accorder cela avec ce qui se lit dans les Paralipomènes, [22] que Jéhu ayant fait chercher Ochozias, on le trouva caché dans Samarie, et que se l'étant fait amener, il le tua ? On dit que ceux qui poursuiIls poursuivaient Ochozias et, l'ayant blessé à la montée de Gaver, le roi se sauva à Mageddo, où ne se croyant point assez en sûreté, il se fit secrètement porter à Samarie. Jéhu fâché d'avoir manqué son coup, fit chercher Ochozias ; et l'ayant fait ramener à Mageddo, il l'y fit mourir. On peut voir dans les Paralipomènes, les troubles qui arrivèrent dans Juda après sa mort. Jéhu se crut en droit de le faire mourir, parce qu'il était fils d'Athalie fille de Jézabel."
+      "text": "Comment accorder cela avec ce qui se lit dans les Paralipomènes, [22] que Jéhu ayant fait chercher Ochozias, on le trouva caché dans Samarie, et que se l'étant fait amener, il le tua ? On dit que ceux qui poursui-vaient Ochozias et, l'ayant blessé à la montée de Gaver, le roi se sauva à Mageddo, où ne se croyant point assez en sûreté, il se fit secrètement porter à Samarie. Jéhu fâché d'avoir manqué son coup, fit chercher Ochozias ; et l'ayant fait ramener à Mageddo, il l'y fit mourir. On peut voir dans les Paralipomènes, les troubles qui arrivèrent dans Juda après sa mort. Jéhu se crut en droit de le faire mourir, parce qu'il était fils d'Athalie fille de Jézabel."
     },
     {
       "verse": 28,
@@ -229,8 +229,8 @@
     {
       "seam": "page_0129>page_0130",
       "verse": 10,
-      "mode": "hyphen",
-      "before": "nne se mette en peine de l'enterrer ; elle sera abandonnée",
+      "mode": "splice",
+      "before": "sonne se mette en peine de l'enterrer ; elle sera abandon-",
       "after": "née à la voirie, et laissée sur la terre sans sépulture."
     },
     {
@@ -264,16 +264,16 @@
     {
       "seam": "page_0135>page_0136",
       "verse": 26,
-      "mode": "refrag",
+      "mode": "splice",
       "before": "Pour venger le sang de Na-",
-      "after": "Naboth, et celui de ses enfants. On ne lit point dans l'hi"
+      "after": "both, et celui de ses enfants. On ne lit point dans l'hist"
     },
     {
       "seam": "page_0136>page_0137",
       "verse": 27,
       "mode": "splice",
       "before": "tant fait amener, il le tua ? On dit que ceux qui poursui-",
-      "after": "Ils poursuivaient Ochozias et, l'ayant blessé à la montée "
+      "after": "-vaient Ochozias et, l'ayant blessé à la montée de Gaver, "
     },
     {
       "seam": "page_0137>page_0138",

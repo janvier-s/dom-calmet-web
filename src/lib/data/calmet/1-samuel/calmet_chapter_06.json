@@ -8,6 +8,13 @@
       "text": "[1] La divination et les augures étaient fort communs chez tous les Orientaux. Les Philistins avaient apparemment pris cette superstition des Égyptiens. On ne peut pas dire distinctement si les Prêtres parmi eux exerçaient l'art de prédire et de deviner ; mais cela est assez probable, puisque telle était la coutume de presque tous les peuples. Les Prêtres faisaient profession de ces arts magiques et superstitieux."
     },
     {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "NOLITE DIMITTERE EAM VACUAM.",
+      "lemma": "Ne la renvoyez pas vuide.",
+      "text": "Ils ne consultent pas les Prêtres s'il faut renvoyer l'Arche ; ils avaient déja pris d'eux-mêmes cette résolution, sans leur avis ; [2] mais ils demandent de quelle maniére ils s'y prendront pour ne rien faire contre la Religion. Il paroît par la suite que le dessein de renvoyer l'Arche n'était pas tellement arrété, qu'il n'y en eût encore qui doutassent, si les playes dont ils avaient été frappez, venaient d'une cause supérieure et surnaturelle. Les Prêtres et les Magiciens répondent à ces deux difficultez: A la premiére, que si l'on renvoye l'Arche, il ne faut point la renvoyer sans quelques présens, qui servent comme de victime d'expiation, des irrévérences qui se sont pû commettre contre elle, durant le tems qu'elle est demeurée dans le pays. A la seconde, qu'on ne doit point douter de la main de Dieu dans tout ce qui est arrivé ; et que si on en doute, on peut s'en convaincre en attellant des vaches qui allaitent, au chariot sur lequel on mettrait l'Arche ; que si ces vaches conduisaient le chariot dans le pays d'Israël, et quittaient leurs veaux qu'on enfermerait dans une ville des Philistins, le miracle passerait pour incontestable.\nMais pourquoi ne faut-il pas renvoyer l'Arche sans lui faire des présens? C'est une idée commune à tous les peuples, que l'Etre souverain n'a nul besoin de nous, et que cependant il éxige tout de nous. La même raison qui nous prouve son indépendance infinie, et sa suffisance à lui-même, nous prouve aussi nôtre dépendance, et l'obligation de la reconnaître, en offrant à Dieu des marques de nôtre reconnoissance, et de nôtre soûmission. Ces sentimens étaient en quelque sorte plus forts parmi des peuples, accoûtumez à ne paraître jamais devant leurs Dieux, ni devant leurs Rois, qu'ils ne lui fissent quelque présent, et quelque offrande ; et le Dieu d'Israël voulut bien se proportionner lui-même à ce goût, et à cet usage, en ordonnant que son peuple ne parût pas en sa présence les mains vides. [3]"
+    },
+    {
       "verse": 4,
       "sub": false,
       "latin_lemma": "JUXTA NUMERUM PROVINCIARUM...... QUINQUE ANOS AUREOS.",
@@ -34,13 +41,6 @@
       "latin_lemma": "SI FORTE REVELET MANUM SUAM A VOBIS, ET A DIIS VESTRIS.",
       "lemma": "Pour voir s'il retirera sa main de dessus vous, et de dessus vos Dieux.",
       "text": "On veut inférer de là que non seulement Dagon, mais aussi tous les autres Dieux des Philistins avaient expérimenté la rigueur du Dieu d'Israël; mais on a remarqué souvent que le mot hébreu _Elohim_ se prend pour un Dieu, pour des Dieux, pour des Anges et pour des Magistrats. Ainsi on peut traduire: De dessus eux, et de dessus leur Dieu, ou de dessus leurs Princes."
-    },
-    {
-      "verse": 5,
-      "sub": false,
-      "latin_lemma": "NOLITE DIMITTERE EAM VACUAM.",
-      "lemma": "Ne la renvoyez pas vuide.",
-      "text": "Ils ne consultent pas les Prêtres s'il faut renvoyer l'Arche ; ils avaient déja pris d'eux-mêmes cette résolution, sans leur avis ; [2] mais ils demandent de quelle maniére ils s'y prendront pour ne rien faire contre la Religion. Il paroît par la suite que le dessein de renvoyer l'Arche n'était pas tellement arrété, qu'il n'y en eût encore qui doutassent, si les playes dont ils avaient été frappez, venaient d'une cause supérieure et surnaturelle. Les Prêtres et les Magiciens répondent à ces deux difficultez: A la premiére, que si l'on renvoye l'Arche, il ne faut point la renvoyer sans quelques présens, qui servent comme de victime d'expiation, des irrévérences qui se sont pû commettre contre elle, durant le tems qu'elle est demeurée dans le pays. A la seconde, qu'on ne doit point douter de la main de Dieu dans tout ce qui est arrivé ; et que si on en doute, on peut s'en convaincre en attellant des vaches qui allaitent, au chariot sur lequel on mettrait l'Arche ; que si ces vaches conduisaient le chariot dans le pays d'Israël, et quittaient leurs veaux qu'on enfermerait dans une ville des Philistins, le miracle passerait pour incontestable.\nMais pourquoi ne faut-il pas renvoyer l'Arche sans lui faire des présens? C'est une idée commune à tous les peuples, que l'Etre souverain n'a nul besoin de nous, et que cependant il éxige tout de nous. La même raison qui nous prouve son indépendance infinie, et sa suffisance à lui-même, nous prouve aussi nôtre dépendance, et l'obligation de la reconnaître, en offrant à Dieu des marques de nôtre reconnoissance, et de nôtre soûmission. Ces sentimens étaient en quelque sorte plus forts parmi des peuples, accoûtumez à ne paraître jamais devant leurs Dieux, ni devant leurs Rois, qu'ils ne lui fissent quelque présent, et quelque offrande ; et le Dieu d'Israël voulut bien se proportionner lui-même à ce goût, et à cet usage, en ordonnant que son peuple ne parût pas en sa présence les mains vides. [3]"
     },
     {
       "verse": 6,
@@ -101,9 +101,9 @@
     {
       "verse": 10,
       "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "EXCLAMAVERUNT ACCARONITÆ. _Ceux d'Accaron commencèrent à crier._ Apparemment les Princes et les Magistrats, puisqu'on leur entend dire : _Ils ont amené l'Arche du Seigneur, pour nous tuer nous et notre peuple._"
+      "latin_lemma": "EXCLAMAVERUNT ACCARONITÆ.",
+      "lemma": "Ceux d'Accaron commencèrent à crier.",
+      "text": "Apparemment les Princes et les Magistrats, puisqu'on leur entend dire : _Ils ont amené l'Arche du Seigneur, pour nous tuer nous et notre peuple._"
     },
     {
       "verse": 12,
@@ -180,7 +180,7 @@
       "sub": false,
       "latin_lemma": "MISERUNT NUNTIOS AD HABITATORES CARIATH-IARIM.",
       "lemma": "Ils envoyèrent des hommes aux habitants de Cariath-iarim.",
-      "text": "Pourquoi à cette ville plutôt qu'à une autre ? Pourquoi pas à Silo, où elle avait été si longtemps, et où son tabernacle était encore ? Enfin, pourquoi dit-on à ceux de Cariath-iarim : _Descendez, et ramenez l'Arche chez vous_, comme si elle y avait déjà été auparavant ? Mais l'Hébreu porte simplement : [50] _Descendez, et faites monter vers vous l'Arche du Seigneur_. Il faut avouer qu'on ne voit pas pourquoi ceux de Bethsamès s'adressent plutôt à ceux de Cariath-iarim, qu'à d'autres ; si ce n'est que c'était une ville dans le voisinage, et d'une forte assiette, où l'Arche devait être plus en sûreté qu'à Bethsamès ; cette dernière était un petit lieu, où il ne convenait pas à la dignité de l'Arche d'être renfermée. L'Arche demeura donc dans le champ de Josué le Bethsamite, jusqu'à ce qu'on la transportât à Nobé, où elle était du temps de Saül. [51] _Cariath-iarim, Cariath-Baal, Josué_ xv. 60. _Baala, le même_ ℣. 9. que _Baalim-Juda_, 2. Reg. vɪ. 2. _Sedei-iarim_, Psal. xxxɪ. 6. ne marquent qu'une même chose. Cariath-iarim, Gabaa et Nobé étaient fort près"
+      "text": "Pourquoi à cette ville plutôt qu'à une autre ? Pourquoi pas à Silo, où elle avait été si longtemps, et où son tabernacle était encore ? Enfin, pourquoi dit-on à ceux de Cariath-iarim : _Descendez, et ramenez l'Arche chez vous_, comme si elle y avait déjà été auparavant ? Mais l'Hébreu porte simplement : [50] _Descendez, et faites monter vers vous l'Arche du Seigneur_. Il faut avouer qu'on ne voit pas pourquoi ceux de Bethsamès s'adressent plutôt à ceux de Cariath-iarim, qu'à d'autres ; si ce n'est que c'était une ville dans le voisinage, et d'une forte assiette, où l'Arche devait être plus en sûreté qu'à Bethsamès ; cette dernière était un petit lieu, où il ne convenait pas à la dignité de l'Arche d'être renfermée. L'Arche demeura donc dans le champ de Josué le Bethsamite, jusqu'à ce qu'on la transportât à Nobé, où elle était du temps de Saül. [51] _Cariath-iarim, Cariath-Baal, Josué_ xv. 60. _Baala, le même_ ℣. 9. que _Baalim-Juda_, 2. Reg. vɪ. 2. _Sedei-iarim_, Psal. xxxɪ. 6. ne marquent qu'une même chose. Cariath-iarim, Gabaa et Nobé étaient fort près l'un de l'autre, et Cariath-iarim n'était qu'à dix milles, ou trois lieues et demie environ de Jérusalem. Silo était dans la tribu d'Éphraïm beaucoup plus au nord."
     }
   ],
   "joins": [
@@ -193,7 +193,7 @@
     },
     {
       "seam": "page_0141>page_0142",
-      "verse": 5,
+      "verse": 3,
       "mode": "flow",
       "before": "en se proportionner lui-même à ce goût, et à cet usage, en",
       "after": "ordonnant que son peuple ne parût pas en sa présence les m"
@@ -288,6 +288,13 @@
       "mode": "flow",
       "before": "ens du peuple soixante et dix hommes, et du reste d'Israël",
       "after": "cinquante mille hommes. \n2°. On suppose que ce malheur arr"
+    },
+    {
+      "seam": "page_0156>page_0157",
+      "verse": 21,
+      "mode": "flow",
+      "before": "même chose. Cariath-iarim, Gabaa et Nobé étaient fort près",
+      "after": "l'un de l'autre, et Cariath-iarim n'était qu'à dix milles,"
     }
   ],
   "pages_used": [
@@ -307,7 +314,8 @@
     "page_0153",
     "page_0154",
     "page_0155",
-    "page_0156"
+    "page_0156",
+    "page_0157"
   ],
   "footnotes": [
     {

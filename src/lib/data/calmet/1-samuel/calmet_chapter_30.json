@@ -117,7 +117,7 @@
       "sub": false,
       "latin_lemma": "FACTUM EST HOC EX ILLA DIE, ET DEINCEPS... QUASI LEX IN ISRAEL, USQUE AD HUNC DIEM.",
       "lemma": "C’est ce qui s’est pratiqué depuis ce temps-là comme une loi, qui dure encore aujourd’hui.",
-      "text": "Ce n’est pas à dire que cette règle n’ait été observée auparavant dans Israël ; nous en avons vu la pratique dans la guerre contre les Madianites,[33] sous Moïse. Josué[34] veut que les Israélites delà le Jourdain, partagent avec leurs frères, qui étaient demeurés dans leur pays, le butin qu'ils avaient gagné en deçà de ce fleuve. Mais avant David, il semble que cela s'observait plutôt par une louable coutume, et par la bonne volonté des vainqueurs, que par une obligation imposée par les Lois. Les Hébreux ont quelquefois même porté la pratique de cette Loi plus loin que David ne l'ordonne. Les Maccabées [35] envoyaient des parts égales du butin aux faibles, ou aux malades, aux veuves, aux orphelins, et aux vieillards. On peut donner à l'Hébreu un autre sens que celui qu'ont suivi les Septante et la Vulgate : [36] _Et cette Loi s'était observée dans Israël depuis ce jour, et auparavant_ ; et David la mit en Loi et en ordonnance jusqu'aujourd'hui. Ce Prince remit en vigueur, et confirma une Loi, qui était déjà fort ancienne dans Israël. Les Hébreux n'ont point de verbes composés. Au lieu de dire, on rebâtit, on rétablit, on renvoya; ils disent absolument, on bâtit, on établit, on envoya."
+      "text": "Ce n’est pas à dire que cette règle n’ait été observée auparavant dans Israël ; nous en avons vu la pratique dans la guerre contre les Madianites,[33] sous Moïse. Josué[34] veut que les Israélites de delà le Jourdain, partagent avec leurs frères, qui étaient demeurés dans leur pays, le butin qu'ils avaient gagné en deçà de ce fleuve. Mais avant David, il semble que cela s'observait plutôt par une louable coutume, et par la bonne volonté des vainqueurs, que par une obligation imposée par les Lois. Les Hébreux ont quelquefois même porté la pratique de cette Loi plus loin que David ne l'ordonne. Les Maccabées [35] envoyaient des parts égales du butin aux faibles, ou aux malades, aux veuves, aux orphelins, et aux vieillards. On peut donner à l'Hébreu un autre sens que celui qu'ont suivi les Septante et la Vulgate : [36] _Et cette Loi s'était observée dans Israël depuis ce jour, et auparavant_ ; et David la mit en Loi et en ordonnance jusqu'aujourd'hui. Ce Prince remit en vigueur, et confirma une Loi, qui était déjà fort ancienne dans Israël. Les Hébreux n'ont point de verbes composés. Au lieu de dire, on rebâtit, on rétablit, on renvoya; ils disent absolument, on bâtit, on établit, on envoya."
     },
     {
       "verse": 26,
@@ -273,7 +273,7 @@
       "verse": 25,
       "mode": "flow",
       "before": "sous Moïse. Josué^{fn:page_0452-f} veut que les Israélites",
-      "after": "delà le Jourdain, partagent avec leurs frères, qui étaient"
+      "after": "de delà le Jourdain, partagent avec leurs frères, qui étai"
     },
     {
       "seam": "page_0453>page_0454",
@@ -285,8 +285,8 @@
     {
       "seam": "page_0454>page_0455",
       "verse": 30,
-      "mode": "hyphen",
-      "before": "oir Josué, chap. XV. ℣. 42. XIX. 7. où elle est simplement",
+      "mode": "splice",
+      "before": "t voir Josué, chap. XV. ℣. 42. XIX. 7. où elle est simple-",
       "after": "ment nommée _Asan_. Elle fut d'abord à Juda, et ensuite cé"
     }
   ],

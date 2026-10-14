@@ -50,6 +50,20 @@
       "text": "Les Anciens n'avaient point d'étriers, ni de selles, comme nous en avons, pour leurs montures. Ils ne pouvaient être si fermes à cheval. Absalon quitta apparemment la bride de son mulet, pour se débarrasser, lorsqu'il se sentit pris ; et pendant ce temps, le mulet s'échappa."
     },
     {
+      "verse": 9,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "sent soutenir longtemps le poids de son corps, et de ses armes, et l’agitation qu’il se donnait dans une situation si douloureuse : Aussi l’Écriture ne dit-elle point qu’il demeura pendu par les cheveux ; mais par la tête *Adhæsit caput ejus quercui*. En courant, il donna de la tête entre deux branches, qui le serrèrent par le col de telle manière, qu’il ne put se dégager, ni se servir de ses mains pour se détacher. [16]"
+    },
+    {
+      "verse": 9,
+      "sub": false,
+      "latin_lemma": "MULUS CUI INSEDERAT, PERTRANSIVIT.",
+      "lemma": "Son mulet passa outre.",
+      "text": "Les Anciens n’avaient point d’étriers, ni de selles, comme nous en avons, pour leurs montures. Ils ne pouvaient être si fermes à cheval. Absalon quitta apparemment la bride de son mulet, pour se débarrasser, lorsqu’il se sentit pris; et pendant ce temps, le mulet s’échappa."
+    },
+    {
       "verse": 10,
       "sub": false,
       "latin_lemma": "VIDI ABSALOM PENDERE DE QUERCU.",
@@ -68,14 +82,7 @@
       "sub": false,
       "latin_lemma": "DEDISSEM TIBI DECEM ARGENTI SICLOS, ET UNUM BALTEUM.",
       "lemma": "Je t'aurais donné dix sicles d'argent, et un baudrier.",
-      "text": "Les dix sicles d'argent font environ seize livres de notre monnaie sent soutenir longtemps le poids de son corps, et de ses armes, et l’agitation qu’il se donnait dans une situation si douloureuse : Aussi l’Écriture ne dit-elle point qu’il demeura pendu par les cheveux ; mais par la tête *Adhæsit caput ejus quercui*. En courant, il donna de la tête entre deux branches, qui le serrèrent par le col de telle manière, qu’il ne put se dégager, ni se servir de ses mains pour se détacher. [16]"
-    },
-    {
-      "verse": 11,
-      "sub": false,
-      "latin_lemma": "MULUS CUI INSEDERAT, PERTRANSIVIT.",
-      "lemma": "Son mulet passa outre.",
-      "text": "Les Anciens n’avaient point d’étriers, ni de selles, comme nous en avons, pour leurs montures. Ils ne pouvaient être si fermes à cheval. Absalon quitta apparemment la bride de son mulet, pour se débarrasser, lorsqu’il se sentit pris; et pendant ce temps, le mulet s’échappa."
+      "text": "Les dix sicles d'argent font environ seize livres de notre monnaie."
     },
     {
       "verse": 11,
@@ -96,7 +103,7 @@
       "sub": false,
       "latin_lemma": "TU STARES EX ADVERSO.",
       "lemma": "Vous seriez vous-même contre moi.",
-      "text": "Ou avec une interrogation: _Prendriez-vous ma défense contre lui ?_ peut traduire l'Hébreu [24] par : _Vous vous tiendriez bien loin de moi_. Vous me laisseriez dans l'embarras."
+      "text": "Ou avec une interrogation: _Prendriez-vous ma défense contre lui ?_ On peut traduire l'Hébreu [24] par : _Vous vous tiendriez bien loin de moi_. Vous me laisseriez dans l'embarras."
     },
     {
       "verse": 14,
@@ -213,13 +220,6 @@
       "after": "sent soutenir longtemps le poids de son corps, et de ses a"
     },
     {
-      "seam": "page_0194>page_0195",
-      "verse": 11,
-      "mode": "mend",
-      "before": "icles d'argent font environ seize livres de notre monnaie.",
-      "after": "sent soutenir longtemps le poids de son corps, et de ses a"
-    },
-    {
       "seam": "page_0195>page_0196",
       "verse": 11,
       "mode": "flow",
@@ -230,7 +230,7 @@
       "seam": "page_0196>page_0197",
       "verse": 13,
       "mode": "flow",
-      "before": "ne interrogation: _Prendriez-vous ma défense contre lui ?_",
+      "before": "interrogation: _Prendriez-vous ma défense contre lui ?_ On",
       "after": "peut traduire l'Hébreu ^{(a)} par : _Vous vous tiendriez b"
     },
     {

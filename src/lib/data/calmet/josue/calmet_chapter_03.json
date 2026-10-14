@@ -123,8 +123,15 @@
       "verse": 13,
       "sub": false,
       "latin_lemma": "QUÆ AUTEM DESUPER VENIUNT, IN UNA MOLE CONSISTENT.",
-      "lemma": "Mais celles qui viennent d'en haut, s'arrêteront et demeureront.",
-      "text": "suspendues. Les eaux du Jourdain qui descendaient impétueusement, s'accumulèrent et se mirent en monceaux, comme des montagnes d'eaux ou de glaces, soutenues par une main puissante et invisible. Voici ce que porte l'Hébreu de tout ce passage : [29] _Les eaux du Jourdain furent coupées ; et les eaux qui descendaient d'en haut, s'arrêtèrent comme un monceau._ L'Auteur de la Vulgate a ajouté au premier membre, _Les eaux qui descendaient dans la mer Morte_, pour les distinguer des eaux qui venaient d'en haut, et qui s'arrêtèrent en monceau au-dessus de l'endroit où était l'Arche. [30]\n_Interruptus aquis fluxit prior amnis in æquor ;_\n_Ad molem stetit unda fluens._"
+      "lemma": "Mais celles qui viennent d'en haut, s'arrêteront et demeure-",
+      "text": ""
+    },
+    {
+      "verse": 13,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "ront suspendues",
+      "text": "Les eaux du Jourdain qui descendaient impétueusement, s'accumulèrent et se mirent en monceaux, comme des montagnes d'eaux ou de glaces, soutenues par une main puissante et invisible. Voici ce que porte l'Hébreu de tout ce passage : [29] _Les eaux du Jourdain furent coupées ; et les eaux qui descendaient d'en haut, s'arrêtèrent comme un monceau._ L'Auteur de la Vulgate a ajouté au premier membre, _Les eaux qui descendaient dans la mer Morte_, pour les distinguer des eaux qui venaient d'en haut, et qui s'arrêtèrent en monceau au-dessus de l'endroit où était l'Arche. [30]\n_Interruptus aquis fluxit prior amnis in æquor ;_\n_Ad molem stetit unda fluens._"
     },
     {
       "verse": 15,
@@ -232,13 +239,6 @@
       "mode": "flow",
       "before": "s Hethéens étaient dans les montagnes, qui sont au midi de",
       "after": "La terre promise ; les Hévéens autour des montagnes d'Héba"
-    },
-    {
-      "seam": "page_0102>page_0103",
-      "verse": 13,
-      "mode": "hyphen",
-      "before": "elles qui viennent d'en haut, s'arrêteront et demeureront.",
-      "after": "ront suspendues. Les eaux du Jourdain qui descendaient imp"
     },
     {
       "seam": "page_0103>page_0104",

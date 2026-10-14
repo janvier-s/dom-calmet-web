@@ -229,7 +229,7 @@
       "sub": false,
       "latin_lemma": "EO TEMPORE ASCENDIT HORAM REX GAZER.",
       "lemma": "En ce même temps Horam Roi de Gazer marcha pour secourir Lachis.",
-      "text": "Il se mit apparemment en campagne, aussitôt qu'il eut appris que Josué s'était attaché à cette place. Gazer, autrement Gezer, et Gazara, était aux environs d'Azot, comme il est dit dans le premier Livre des Maccabées,[69] _in finibus Azoti_. Josèphe la place aussi dans la Palestine,[70] et il est marqué dans le second Livre des Rois, que David battit les Philistins depuis Gabaa, jusqu'à Gezer ;[71] enfin l'Écriture[72] nous enseigne ailleurs que Pharaon Roi d'Égypte ayant pris Gazer sur les Cananéens qui l'habitaient, la donna à Salomon son gendre, qui la rétablit et la fortifia. Tout cela nous détermine à placer Gazer au couchant de la tribu d'Éphraïm chant et au nom de Lachis, dans le pays des Philistins. Cette ville fut donnée à la tribu d'Éphraïm, [73] mais apparemment qu'elle ne la posséda pas sitôt. Il n'est point dit ici que Josué l'ait prise, et on vient de voir que du temps de Salomon elle était encore aux Cananéens. Eusèbe et S. Jérôme la placent au nord de Nicopolis ou en Emmaüs, à une lieue de cette ville, et par conséquent environ à trois lieues de Jérusalem vers le septentrion ; ce qui nous paraît contre toute apparence ; nous croyons qu'il faut plus la rapprocher d'Azot et des Philistins."
+      "text": "Il se mit apparemment en campagne, aussitôt qu'il eut appris que Josué s'était attaché à cette place. Gazer, autrement Gezer, et Gazara, était aux environs d'Azot, comme il est dit dans le premier Livre des Maccabées,[69] _in finibus Azoti_. Josèphe la place aussi dans la Palestine,[70] et il est marqué dans le second Livre des Rois, que David battit les Philistins depuis Gabaa, jusqu'à Gezer ;[71] enfin l'Écriture[72] nous enseigne ailleurs que Pharaon Roi d'Égypte ayant pris Gazer sur les Cananéens qui l'habitaient, la donna à Salomon son gendre, qui la rétablit et la fortifia. Tout cela nous détermine à placer Gazer au couchant et au nom de Lachis, dans le pays des Philistins. Cette ville fut donnée à la tribu d'Éphraïm, [73] mais apparemment qu'elle ne la posséda pas sitôt. Il n'est point dit ici que Josué l'ait prise, et on vient de voir que du temps de Salomon elle était encore aux Cananéens. Eusèbe et S. Jérôme la placent au nord de Nicopolis ou en Emmaüs, à une lieue de cette ville, et par conséquent environ à trois lieues de Jérusalem vers le septentrion ; ce qui nous paraît contre toute apparence ; nous croyons qu'il faut plus la rapprocher d'Azot et des Philistins."
     },
     {
       "verse": 37,
@@ -362,8 +362,8 @@
     {
       "seam": "page_0211>page_0212",
       "verse": 33,
-      "mode": "mend",
-      "before": "étermine à placer Gazer au couchant de la tribu d'Éphraïm.",
+      "mode": "splice",
+      "before": " fortifia. Tout cela nous détermine à placer Gazer au cou-",
       "after": "chant et au nom de Lachis, dans le pays des Philistins. Ce"
     },
     {

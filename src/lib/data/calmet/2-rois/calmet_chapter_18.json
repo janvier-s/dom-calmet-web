@@ -180,7 +180,7 @@
       "sub": false,
       "latin_lemma": "UBI EST DEUS EMATH, ET ARPHAD?",
       "lemma": "Où est maintenant le Dieu d'Emath, et le Dieu d'Arphad ?",
-      "text": "Étrange insolence de ces princes païens, qui parlaient des dieux des peuples vaincus. et qui les traitaient comme ils auraient fait de simples hommes ; ils insultent à leur faiblesse après leur défaite, ils se mettent insolemment au-dessus de ces déités vaincues, et leur témoignent les derniers mépris. Suétone [61] raconte que le jour où Germanicus mourut, les peuples lapidèrent les temples, renversèrent les autels ; il y en eut qui jetèrent dans la rue leurs dieux domestiques, et qui exposèrent leurs enfants qui vinrent au monde ce jour-là. Au fond l'idole n'est rien, comme le dit saint Paul, [62] et ces princes auraient eu raison d'insulter à ces faux dieux, s'ils en eussent connu la vanité, et le néant ; mais les reconnaissant pour dieux, devaient-ils s'emporter contre eux à des injures, et à des blasphèmes ? devaient-ils les jeter au feu, et les détruire, comme ils ont fait ? Voyez 4. Reg. XIX. 18. Emath est Émèse ; et Arphad, l'île d'Arad, ou la ville de même nom qui était vis-à-vis l'île, sur le continent."
+      "text": "Étrange insolence de ces princes païens, qui parlaient des dieux des peuples vaincus, et qui les traitaient comme ils auraient fait de simples hommes ; ils insultent à leur faiblesse après leur défaite, ils se mettent insolemment au-dessus de ces déités vaincues, et leur témoignent les derniers mépris. Suétone [61] raconte que le jour où Germanicus mourut, les peuples lapidèrent les temples, renversèrent les autels ; il y en eut qui jetèrent dans la rue leurs dieux domestiques, et qui exposèrent leurs enfants qui vinrent au monde ce jour-là. Au fond l'idole n'est rien, comme le dit saint Paul, [62] et ces princes auraient eu raison d'insulter à ces faux dieux, s'ils en eussent connu la vanité, et le néant ; mais les reconnaissant pour dieux, devaient-ils s'emporter contre eux à des injures, et à des blasphèmes ? devaient-ils les jeter au feu, et les détruire, comme ils ont fait ? Voyez 4. Reg. XIX. 18. Emath est Émèse ; et Arphad, l'île d'Arad, ou la ville de même nom qui était vis-à-vis l'île, sur le continent."
     },
     {
       "verse": 34,
@@ -299,8 +299,8 @@
     {
       "seam": "page_0268>page_0269",
       "verse": 34,
-      "mode": "hyphen",
-      "before": "inces païens, qui parlaient des dieux des peuples vaincus.",
+      "mode": "splice",
+      "before": " princes païens, qui parlaient des dieux des peuples vain-",
       "after": "cus, et qui les traitaient comme ils auraient fait de simp"
     },
     {

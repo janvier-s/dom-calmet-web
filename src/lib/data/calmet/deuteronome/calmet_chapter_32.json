@@ -162,13 +162,6 @@
       "text": "L'Hébreu à la lettre [41] : _Vous vous êtes épaissis, vous vous êtes couverts de graisse, et il a abandonné le Seigneur._ On pourrait traduire le premier terme, par : _Vous vous êtes élevés_, en suivant la racine Éthiopienne [42] ; et pour le second, il s'emploie souvent pour marquer l'endurcissement, l'indolence, l'indifférence pour les choses qui regardent Dieu ; et la dureté envers le prochain [43]."
     },
     {
-      "verse": 15,
-      "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "Vulgate et les Septante, en y suppléant quelque chose: _Il s'est fâché par la colère,_ où l'ont mis _ses fils et ses filles._"
-    },
-    {
       "verse": 17,
       "sub": false,
       "latin_lemma": "DIIS QUOS IGNORABANT.",
@@ -194,7 +187,7 @@
       "sub": false,
       "latin_lemma": "AD IRACUNDIAM CONCITATUS EST, QUIA PROVOCAVERUNT EUM FILII SUI.",
       "lemma": "Il s'est mis en colère, parce que ce sont ses propres fils qui l'ont irrité.",
-      "text": "L'Hébreu porte [47] : _Il a méprisé, (il a eu en horreur,) par un effet de sa colère, ses fils et ses filles._ On peut aussi l'entendre, comme la"
+      "text": "L'Hébreu porte [47] : _Il a méprisé, (il a eu en horreur,) par un effet de sa colère, ses fils et ses filles._ On peut aussi l'entendre, comme la Vulgate et les Septante, en y suppléant quelque chose: _Il s'est fâché par la colère,_ où l'ont mis _ses fils et ses filles._"
     },
     {
       "verse": 20,
@@ -397,7 +390,14 @@
       "sub": false,
       "latin_lemma": "SED UT SINGULI IN EIS VIVERENT.",
       "lemma": "Afin que chacun de vous y trouve la vie.",
-      "text": "L’Hébreu [87] : _Parce que c’est votre vie._ Si vous l’observez, vous"
+      "text": "L’Hébreu [87] : _Parce que c’est votre vie._ Si vous l’observez, vous y trouverez la vie ; ou, elle doit vous être aussi chère que votre vie. Dieu promet ordinairement la vie à ceux qui observent sa Loi."
+    },
+    {
+      "verse": 49,
+      "sub": false,
+      "latin_lemma": "ABARIM, ID EST, TRANSITUUM.",
+      "lemma": "Abarim, c'est-à-dire, des passages.",
+      "text": "L'Auteur de la Vulgate a ajouté l'explication du mot Abarim, qui signifie en Hébreu, _les passages_. On a parlé ailleurs des montagnes d'Abarim, et de Nebo ; c'est sur cette dernière, que Moïse mourut."
     }
   ],
   "joins": [
@@ -451,6 +451,13 @@
       "after": "ce que l'Auteur de la Vulgate a voulu marquer, en mettant "
     },
     {
+      "seam": "page_0413>page_0414",
+      "verse": 19,
+      "mode": "flow",
+      "before": "es fils et ses filles._ On peut aussi l'entendre, comme la",
+      "after": "Vulgate et les Septante, en y suppléant quelque chose: _Il"
+    },
+    {
       "seam": "page_0414>page_0415",
       "verse": 21,
       "mode": "flow",
@@ -498,6 +505,13 @@
       "mode": "flow",
       "before": "de recevoir Jésus-Christ pour son Messie et pour son Roi :",
       "after": "ce qui n’empêchera pourtant pas qu’à la fin des siècles, D"
+    },
+    {
+      "seam": "page_0424>page_0425",
+      "verse": 47,
+      "mode": "flow",
+      "before": "e} : _Parce que c’est votre vie._ Si vous l’observez, vous",
+      "after": "y trouverez la vie ; ou, elle doit vous être aussi chère q"
     }
   ],
   "pages_used": [
@@ -521,7 +535,8 @@
     "page_0421",
     "page_0422",
     "page_0423",
-    "page_0424"
+    "page_0424",
+    "page_0425"
   ],
   "footnotes": [
     {

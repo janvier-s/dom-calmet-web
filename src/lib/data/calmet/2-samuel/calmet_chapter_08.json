@@ -124,7 +124,7 @@
       "sub": false,
       "latin_lemma": "JOSAPHAT A COMMENTARIIS.",
       "lemma": "Josaphat avait la charge des requêtes.",
-      "text": "Il les recevait, et les présentait au Roi. L'Hébreu à la lettre :[39] _Celui qui fait souvenir_, ou celui qui tient les mémoires, qui dresse les comptes, ou les registres, ou qui écrit les mémoires journaliers du Roi. Dans Esther,[40] et dans Esdras, les livres journaliers, où l'on écrivait de jour en jour ce qui arrivait de mémorable. à la Cour des Rois de Perse, s'appelle d'un nom, qui dérive de la même racine que _Maskir_, que nous lisons ici. Les Rois de Perse[41] avaient comme les Rois de Juda, un Secrétaire, _Scriba_, et un historien, ou un écrivain, qui écrivait chaque jour ce qui arrivait ; _A Commentariis_. Leur crédit, et leur autorité étaient grands dans la Cour de ces Princes. Ézéchias députe vers Rapsaces _Sobna_ le Secrétaire, et _Joahé à Commentariis_.[42] On a parlé ailleurs des Secrétaires.[43]"
+      "text": "Il les recevait, et les présentait au Roi. L'Hébreu à la lettre :[39] _Celui qui fait souvenir_, ou celui qui tient les mémoires, qui dresse les comptes, ou les registres, ou qui écrit les mémoires journaliers du Roi. Dans Esther,[40] et dans Esdras, les livres journaliers, où l'on écrivait de jour en jour ce qui arrivait de mémorable à la Cour des Rois de Perse, s'appelle d'un nom, qui dérive de la même racine que _Maskir_, que nous lisons ici. Les Rois de Perse[41] avaient comme les Rois de Juda, un Secrétaire, _Scriba_, et un historien, ou un écrivain, qui écrivait chaque jour ce qui arrivait ; _A Commentariis_. Leur crédit, et leur autorité étaient grands dans la Cour de ces Princes. Ézéchias députe vers Rapsaces _Sobna_ le Secrétaire, et _Joahé à Commentariis_.[42] On a parlé ailleurs des Secrétaires.[43]"
     },
     {
       "verse": 17,
@@ -187,8 +187,8 @@
     {
       "seam": "page_0091>page_0092",
       "verse": 16,
-      "mode": "hyphen",
-      "before": "'on écrivait de jour en jour ce qui arrivait de mémorable.",
+      "mode": "splice",
+      "before": "ù l'on écrivait de jour en jour ce qui arrivait de mémora-",
       "after": "ble à la Cour des Rois de Perse, s'appelle d'un nom, qui d"
     },
     {

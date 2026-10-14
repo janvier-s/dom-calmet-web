@@ -275,31 +275,55 @@
     },
     {
       "verse_number": 31,
-      "latin": "Giezi autem præcesserat ante eos, et posuerat baculum super faciem pueri, et non erat vox neque sensus : reversusque est in occursum ejus, et nuntiavit ei, dicens : Non surrexit puer. Giezi autem præcesserat ante eos, et posuerat baculum super faciem pueri, et non erat vox neque sensus : reversusque est in occursum ejus, et nuntiavit ei, dicens : Non surrexit puer.",
-      "french": "Cependant Giezi était allé devant eux, et il avait mis le bâton d'Élisée sur le visage de l'enfant. Mais ni la parole ni le sentiment ne lui étaient revenus. Il retourna au-devant de son maître, et lui vint dire : L'enfant n'est point ressuscité. Cependant Giezi était allé devant eux, et il avait mis le bâton d'Élisée sur le visage de l'enfant. Mais ni la parole ni le sentiment ne lui étaient revenus. Il retourna au-devant de son maître, et lui vint dire : L'enfant n'est point ressuscité.",
-      "annotations": "An du Monde 3109. An du Monde 3109.",
+      "latin": "Giezi autem præcesserat ante eos, et posuerat baculum super faciem pueri, et non erat vox neque sensus : reversusque est in occursum ejus, et nuntiavit ei, dicens : Non surrexit puer.",
+      "french": "Cependant Giezi était allé devant eux, et il avait mis le bâton d'Élisée sur le visage de l'enfant. Mais ni la parole ni le sentiment ne lui étaient revenus. Il retourna au-devant de son maître, et lui vint dire : L'enfant n'est point ressuscité.",
+      "annotations": "An du Monde 3109.",
       "source_pages": [
-        "page_0074.json",
-        "page_0075.json"
+        "page_0074.json"
       ]
     },
     {
       "verse_number": 32,
-      "latin": "Ingressus est ergo Elisæus domum, et ecce puer mortuus jacebat in lectulo ejus. Ingressus est ergo Elisæus domum, et ecce puer mortuus jacebat in lectulo ejus.",
-      "french": "Élisée entra ensuite dans la maison, et il trouva l'enfant mort couché sur son lit. Élisée entra ensuite dans la maison, et il trouva l'enfant mort couché sur son lit.",
+      "latin": "Ingressus est ergo Elisæus domum, et ecce puer mortuus jacebat in lectulo ejus.",
+      "french": "Élisée entra ensuite dans la maison, et il trouva l'enfant mort couché sur son lit.",
       "annotations": null,
       "source_pages": [
-        "page_0074.json",
-        "page_0075.json"
+        "page_0074.json"
       ]
     },
     {
       "verse_number": 33,
-      "latin": "Ingressusque clausit ostium super se, et super puerum, et oravit ad Dominum. Ingressusque clausit ostium super se, et super puerum, et oravit ad Dominum.",
-      "french": "Il ferma aussitôt la porte sur lui, et sur l'enfant, et pria le Seigneur. Il ferma aussitôt la porte sur lui, et sur l'enfant, et pria le Seigneur.",
+      "latin": "Ingressusque clausit ostium super se, et super puerum, et oravit ad Dominum.",
+      "french": "Il ferma aussitôt la porte sur lui, et sur l'enfant, et pria le Seigneur.",
       "annotations": null,
       "source_pages": [
-        "page_0074.json",
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et ascendit, et incubuit super puerum : posuitque os suum super os ejus, et oculos suos super oculos ejus, et manus suas super manus ejus : et incurvavit se super eum, et calefacta est caro pueri.",
+      "french": "Après cela, il monta sur le lit, et se coucha sur l'enfant. Il mit sa bouche sur sa bouche, ses yeux sur ses yeux, et ses mains sur ses mains, et il se courba sur l'enfant, et la chair de l'enfant fut échauffée.",
+      "annotations": "An du Monde 3109.",
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "At ille reversus, deambulavit in domo, semel huc atque illuc : et ascendit, et incubuit super eum : et oscitavit puer septies, aperuitque oculos.",
+      "french": "Et étant descendu de dessus le lit, il se promena et fit deux tours de chambre. Il remonta encore sur le lit, et se coucha sur l'enfant. Alors l'enfant bâilla sept fois, et ouvrit les yeux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "At ille vocavit Giezi, et dixit ei : Voca Sunamitidem hanc. Quæ vocata, ingressa est ad eum. Qui ait : Tolle filium tuum.",
+      "french": "Élisée ensuite appela Giézi, et lui dit : Faites venir cette Sunamite. Elle vint aussitôt, et elle entra dans la chambre. Élisée lui dit : Emmenez votre fils.",
+      "annotations": null,
+      "source_pages": [
         "page_0075.json"
       ]
     },

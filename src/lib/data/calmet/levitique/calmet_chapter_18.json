@@ -145,7 +145,7 @@
       "sub": false,
       "latin_lemma": "NEC POLLUES NOMEN DEI TUI.",
       "lemma": "Et vous ne souillerez point le nom de votre Dieu, en le donnant à ces fausses Divinités.",
-      "text": "Ou : Vous ne donnerez point occasion aux étrangers de blasphémer le nom de Dieu, en disant qu'il est un Dieu cruel et sanguinaire, qui exige des victimes humaines ; et qui autorise la cruauté de ceux qui l'adorent. Le Seigneur veut qu'on ait pour son nom un souverain respect, qu'on ne l'emploie qu'avec beaucoup de réserve. « Une bouche qui profère le sacré nom de Dieu, ne doit plus proférer aucune parole honteuse, dit Philon.[59] Chacun doit considérer en quel lieu, et en quel temps il prononce ce nom divin, car il y en a qui osent le proférer dans des lieux impurs et souillés, et où ils auraient honte de dire le nom de leur père, ou de leur mère, ou même d'une personne étrangère, recommandable par sa bonne vie et pour son âge combien plus forte raison doivent-ils respecter le nom de Dieu dans ces circonstances ? »"
+      "text": "Ou : Vous ne donnerez point occasion aux étrangers de blasphémer le nom de Dieu, en disant qu'il est un Dieu cruel et sanguinaire, qui exige des victimes humaines ; et qui autorise la cruauté de ceux qui l'adorent. Le Seigneur veut qu'on ait pour son nom un souverain respect, qu'on ne l'emploie qu'avec beaucoup de réserve. « Une bouche qui profère le sacré nom de Dieu, ne doit plus proférer aucune parole honteuse, dit Philon.[59] Chacun doit considérer en quel lieu, et en quel temps il prononce ce nom divin, car il y en a qui osent le proférer dans des lieux impurs et souillés, et où ils auraient honte de dire le nom de leur père, ou de leur mère, ou même d'une personne étrangère, recommandable par sa bonne vie et pour son âge. À combien plus forte raison doivent-ils respecter le nom de Dieu dans ces circonstances ? »"
     },
     {
       "verse": 22,
@@ -257,8 +257,8 @@
     {
       "seam": "page_0231>page_0232",
       "verse": 21,
-      "mode": "mend",
-      "before": "étrangère, recommandable par sa bonne vie et pour son âge.",
+      "mode": "flow",
+      "before": "rangère, recommandable par sa bonne vie et pour son âge. À",
       "after": "combien plus forte raison doivent-ils respecter le nom de "
     }
   ],

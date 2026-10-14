@@ -5,7 +5,14 @@
       "sub": false,
       "latin_lemma": "NUM ASCENDAM IN UNAM DE CIVITATIBUS JUDA?",
       "lemma": "Irai-je dans quelqu'une des villes de Juda ?",
-      "text": "Après la mort de Saül, David jugea que le temps des promesses qui lui avaient été faites, était venu, et qu'il devait user de diligence pour faire valoir ses droits à la Couronne de Juda, en prévenant ceux qui pourraient concourir avec lui, et en attirant à son parti premièrement ses compatriotes, et ensuite les autres tribus d'Israël. Dieu qui l'avait choisi pour gouverner son peuple, ne lui avait révélé ni le temps, ni les moyens dont la chose devait s'exécuter ; la confiance qu'il avait aux promesses du Seigneur, ne le rendit pas endormi, il crut qu'il fallait coopérer aux desseins de la Providence; mais il ne fit rien qu'après avoir consulté le Seigneur par le moyen de l'Éphod, dont Abiathar était revêtu.\n\nIN HEBRON. _Allez à Hébron._ Hébron était alors la plus forte place, et la plus considérable de toute la tribu de Juda; elle était comme au centre de cette tribu; Jérusalem était encore aux Jébuséens."
+      "text": "Après la mort de Saül, David jugea que le temps des promesses qui lui avaient été faites, était venu, et qu'il devait user de diligence pour faire valoir ses droits à la Couronne de Juda, en prévenant ceux qui pourraient concourir avec lui, et en attirant à son parti premièrement ses compatriotes, et ensuite les autres tribus d'Israël. Dieu qui l'avait choisi pour gouverner son peuple, ne lui avait révélé ni le temps, ni les moyens dont la chose devait s'exécuter ; la confiance qu'il avait aux promesses du Seigneur, ne le rendit pas endormi, il crut qu'il fallait coopérer aux desseins de la Providence; mais il ne fit rien qu'après avoir consulté le Seigneur par le moyen de l'Éphod, dont Abiathar était revêtu."
+    },
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "IN HEBRON.",
+      "lemma": "Allez à Hébron.",
+      "text": "Hébron était alors la plus forte place, et la plus considérable de toute la tribu de Juda; elle était comme au centre de cette tribu; Jérusalem était encore aux Jébuséens."
     },
     {
       "verse": 3,
@@ -103,7 +110,7 @@
       "sub": false,
       "latin_lemma": "APPREHENSO UNUSQUISQUE CAPITE COMPARIS SUI, DEFIXIT GLADIUM IN LATUS.",
       "lemma": "Chacun d'eux ayant pris par la tête celui qui se présenta devant lui, ils se passèrent tous l'épée au travers du corps.",
-      "text": "Ces hommes n'avaient apparemment ni casque, ni cuirasse. Ils étaient armés à la légère. Ils se saisirent d'abord aux cheveux, et s'enfoncèrent mutuellement leur épée dans le corps; en sorte qu'ils moururent tous. Il y en a [15] qui veulent que ceux du côté d'Abner aient tous été mis à mort, sans qu'il y en eût aucun de la part de Joab. On peut donner ce sens au Texte Original, qui porte: _Il se présenta douze hommes du côté d'Isboseth, et douze des gens de David. [16] Et ils prirent (ces derniers) chacun la tête de son adversaire._ faire, et chacun enfonça son épée dans le côté de son antagoniste, et ils tombèrent ensemble. Mais le sens que nous avons suivi après la Vulgate, et les meilleurs Commentateurs, est plus juste."
+      "text": "Ces hommes n'avaient apparemment ni casque, ni cuirasse. Ils étaient armés à la légère. Ils se saisirent d'abord aux cheveux, et s'enfoncèrent mutuellement leur épée dans le corps; en sorte qu'ils moururent tous. Il y en a [15] qui veulent que ceux du côté d'Abner aient tous été mis à mort, sans qu'il y en eût aucun de la part de Joab. On peut donner ce sens au Texte Original, qui porte: _Il se présenta douze hommes du côté d'Isboseth, et douze des gens de David. [16] Et ils prirent (ces derniers) chacun la tête de son adver_ _saire, et chacun enfonça son épée dans le côté de son antagoniste, et ils tombèrent ensemble._ Mais le sens que nous avons suivi après la Vulgate, et les meilleurs Commentateurs, est plus juste."
     },
     {
       "verse": 16,
@@ -199,13 +206,6 @@
       "after": "aux promesses du Seigneur, ne le rendit pas endormi, il cr"
     },
     {
-      "seam": "page_0016>page_0016",
-      "verse": 1,
-      "mode": "para",
-      "before": "gneur par le moyen de l'Éphod, dont Abiathar était revêtu.",
-      "after": "IN HEBRON. _Allez à Hébron._ Hébron était alors la plus fo"
-    },
-    {
       "seam": "page_0016>page_0017",
       "verse": 4,
       "mode": "hyphen",
@@ -237,8 +237,8 @@
       "seam": "page_0021>page_0022",
       "verse": 16,
       "mode": "flow",
-      "before": " prirent (ces derniers) chacun la tête de son adversaire._",
-      "after": "faire, et chacun enfonça son épée dans le côté de son anta"
+      "before": "Et ils prirent (ces derniers) chacun la tête de son adver_",
+      "after": "_saire, et chacun enfonça son épée dans le côté de son ant"
     },
     {
       "seam": "page_0023>page_0024",

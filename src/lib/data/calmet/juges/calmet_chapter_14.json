@@ -18,8 +18,15 @@
       "verse": 4,
       "sub": false,
       "latin_lemma": "NESCIEBANT QUOD RES A DEO FIERET, ET QUÆRERET OCCASIONES CONTRA PHILISTIIM.",
-      "lemma": null,
-      "text": "Ses parents ne savaient point que ceci se faisait par l’ordre de Dieu, et qu’il cherchait une occasion pour perdre les Philistins. L'Hébreu à la lettre : [15] Ils ne savaient pas que cela venait de Dieu, parce qu'il cherchait une occasion, un prétexte, un sujet, de la part des Philistins. Est-ce Dieu, est-ce Samson qui cherche une occasion de la part des Philistins, pour leur faire la guerre ? Presque tous les Interprètes le rapportent à Samson. Ils croient que ce fut à dessein qu'il épousa une femme Philistine, et qu'il proposa une énigme aux jeunes gens, qu'on lui avait donnés pour l'accompagner dans la noce. Les Septante : [16] Il cherchait à rendre la pareille aux Philistins."
+      "lemma": "Ses parents ne savaient point que ceci se faisait par l’ordre de Dieu, et qu’il cherchait une oc-",
+      "text": ""
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "casion pour perdre les Philistins.",
+      "text": "L'Hébreu à la lettre : [15] _Ils ne savaient pas que cela_ venait _de Dieu, parce qu'il cherchait une occasion_, un prétexte, un sujet, _de la part des Philistins_. Est-ce Dieu, est-ce Samson qui cherche une occasion de la part des Philistins, pour leur faire la guerre ? Presque tous les Interprètes le rapportent à Samson. Ils croient que ce fut à dessein qu'il épousa une femme Philistine, et qu'il proposa une énigme aux jeunes gens, qu'on lui avait donnés pour l'accompagner dans la noce. Les Septante : [16] _Il cherchait à rendre la pareille aux Philistins._"
     },
     {
       "verse": 5,
@@ -40,7 +47,7 @@
       "sub": false,
       "latin_lemma": "DESCENDITQUE ET LOCUTUS EST MULIERI.",
       "lemma": "Il vint ensuite parler à la femme.",
-      "text": "Quelques-uns [18] l'expliquent du père de Samson, qui étant arrivé à Thamnatha, proposa à cette jeune Philistine le mariage avec Samson. D'autres [19] veulent que Samson lui ait parlé lui-même Vatable croit qu'on parla, non à elle, mais à ses parents ; [20] qu'on demanda leur consentement. Parler à une femme se prend souvent pour lui proposer le mariage : _Que ferons-nous à notre sœur au jour qu'on lui parlera ?_ dit l'Épouse dans le Cantique. [21]"
+      "text": "Quelques-uns [18] l'expliquent du père de Samson, qui étant arrivé à Thamnatha, proposa à cette jeune Philistine le mariage avec Samson. D'autres [19] veulent que Samson lui ait parlé lui-même. Vatable croit qu'on parla, non à elle, mais à ses parents ; [20] qu'on demanda leur consentement. Parler à une femme se prend souvent pour lui proposer le mariage : _Que ferons-nous à notre sœur au jour qu'on lui parlera ?_ dit l'Épouse dans le Cantique. [21]"
     },
     {
       "verse": 8,
@@ -185,18 +192,11 @@
       "after": "les Philistins. Mais ne serait-il pas mieux de dire avec T"
     },
     {
-      "seam": "page_0247>page_0248",
-      "verse": 4,
-      "mode": "refrag",
-      "before": "se faisait par l’ordre de Dieu, et qu’il cherchait une oc-",
-      "after": "occasion pour perdre les Philistins. L'Hébreu à la lettre "
-    },
-    {
       "seam": "page_0248>page_0249",
       "verse": 7,
-      "mode": "hyphen",
-      "before": "{fn:page_0248-e} veulent que Samson lui ait parlé lui-même",
-      "after": "même. Vatable croit qu'on parla, non à elle, mais à ses pa"
+      "mode": "splice",
+      "before": "es ^{fn:page_0248-e} veulent que Samson lui ait parlé lui-",
+      "after": "-même. Vatable croit qu'on parla, non à elle, mais à ses p"
     },
     {
       "seam": "page_0249>page_0250",

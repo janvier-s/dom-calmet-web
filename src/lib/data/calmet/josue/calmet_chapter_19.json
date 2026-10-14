@@ -113,13 +113,6 @@
       "text": "On en compte quatorze dans les versets précédents. Mais nous avons remarqué sur le ℣. 2. que Sabée était la même que Bersabée ; ceux qui ne sont point de cet avis, peuvent employer ici les solutions qu'on a données ci-devant sur le chap. XV. ℣. 62."
     },
     {
-      "verse": 6,
-      "sub": false,
-      "latin_lemma": "BETSAMES.",
-      "lemma": null,
-      "text": "On connaît plusieurs villes de ce nom ; il y en a une dans Juda, et une autre dans Nephtalim. La situation de celle-ci nous est inconnue. Bethsamés signifie, _la demeure du soleil_."
-    },
-    {
       "verse": 7,
       "sub": false,
       "latin_lemma": "CIVITATES QUATUOR.",
@@ -152,14 +145,56 @@
       "sub": false,
       "latin_lemma": "DE SARED CONTRA ORIENTEM IN FINES CESELETH-THABOR.",
       "lemma": "De Sared vers l'orient aux confins de Ceseleth-thabor.",
-      "text": "Les limites de Zabulon remontaient de _Sared_, ou _Sarid_, comme il l'a appelée au ℣. 10. vers l'orient à _Ceseleth_, ou _Cafaloth_, comme elle est nommée ci-après au ℣. 18. Eusèbe et S. Jérôme l'attribuent à la tribu d'Issachar; mais il est clair par ce passage qu'elle était du lot de Zabulon; apparemment elle se trouvait sur les frontières des deux tribus. Elle était dans la plaine au pied du mont Thabor, à huit milles de Diocésarée vers l'orient. _Ceseleth-Thabor_, à la lettre signifie le rein, ou le côté, ou le flanc de la montagne de Thabor; c'est elle apparemment qui est nommée simplement Thabor dans les Paralipomènes.[21]\nDABERETH. Cette ville n'était pas dans la tribu de Zabulon, mais dans celle d'Issachar, et sur les frontières de Zabulon; elle fut donnée aux Lévites pour leur demeure.[22]\nJAPHIE. Josèphe[23] parle d'une ville très forte de Galilée nommée _Japha_, pas loin de Jotapate. Un voyageur nouveau met Japha à une lieue de Nazareth vers le midi.\n\nTHACASIN. Cette ville ne devait pas être éloignée de la mer de Tibériade, étant à l'extrémité orientale du partage de Zabulon.\n\nREMMON, AMTHAR, NOA, ou _Anoa_, comme lisent les Septante. Nous ne connaissons pas la position de ces lieux, non plus que de la plupart des suivants. Peut-être que Remmon-Amthar n’est qu’une ville nommée Remmon la célèbre, l’illustre ; c’est la signification de l’Hébreu. [24] M. le Clerc traduit, _Remmon qui renfermait Naha_. Cette dernière ville était comprise dans ces limites. Ce pourrait bien être Nevé, ou Nobé, ou Nové ; l’Itinéraire d’Antonin met Nevé à 36 milles de Capitoliade ; et Capitoliade à 16 milles de Gadare. _Voyez Reland Nevé, tom. 2. p. 909._"
+      "text": "Les limites de Zabulon remontaient de _Sared_, ou _Sarid_, comme il l'a appelée au ℣. 10. vers l'orient à _Ceseleth_, ou _Cafaloth_, comme elle est nommée ci-après au ℣. 18. Eusèbe et S. Jérôme l'attribuent à la tribu d'Issachar; mais il est clair par ce passage qu'elle était du lot de Zabulon; apparemment elle se trouvait sur les frontières des deux tribus. Elle était dans la plaine au pied du mont Thabor, à huit milles de Diocésarée vers l'orient. _Ceseleth-Thabor_, à la lettre signifie le rein, ou le côté, ou le flanc de la montagne de Thabor; c'est elle apparemment qui est nommée simplement Thabor dans les Paralipomènes.[21]"
+    },
+    {
+      "verse": 12,
+      "sub": false,
+      "latin_lemma": "DABERETH.",
+      "lemma": null,
+      "text": "Cette ville n'était pas dans la tribu de Zabulon, mais dans celle d'Issachar, et sur les frontières de Zabulon; elle fut donnée aux Lévites pour leur demeure.[22]"
+    },
+    {
+      "verse": 12,
+      "sub": false,
+      "latin_lemma": "JAPHIE.",
+      "lemma": null,
+      "text": "Josèphe[23] parle d'une ville très forte de Galilée nommée _Japha_, pas loin de Jotapate. Un voyageur nouveau met Japha à une lieue de Nazareth vers le midi."
+    },
+    {
+      "verse": 12,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "tante. Nous ne connaissons pas la position de ces lieux, non plus que de la plupart des suivants. Peut-être que Remmon-Amthar n’est qu’une ville nommée Remmon la célèbre, l’illustre ; c’est la signification de l’Hébreu. [27] M. le Clerc traduit, _Remmon qui renfermait Naha_. Cette dernière ville était comprise dans ces limites. Ce pourrait bien être Nevé, ou Nobé, ou Nové ; l’Itinéraire d’Antonin met Nevé à 36 milles de Capitoliade ; et Capitoliade à 16 milles de Gadare. _Voyez Reland Nevé, tom. 2. p. 909._"
+    },
+    {
+      "verse": 13,
+      "sub": false,
+      "latin_lemma": "GETH-EPHER.",
+      "lemma": null,
+      "text": "C'est la patrie du Prophète Jonas ; _Il était_, dit l'Écriture,[24] _de la ville de Geth, qui est dans Epher_. S. Jérôme[25] met cette ville à deux milles de Séphori en allant à Tibériade. Nous avons parlé ci-devant[26] d'Opher, ou d'Epher, qui donne son nom au petit canton où est située Geth."
+    },
+    {
+      "verse": 13,
+      "sub": false,
+      "latin_lemma": "THACASIN.",
+      "lemma": null,
+      "text": "Cette ville ne devait pas être éloignée de la mer de Tibériade, étant à l'extrémité orientale du partage de Zabulon."
+    },
+    {
+      "verse": 13,
+      "sub": false,
+      "latin_lemma": "REMMON, AMTHAR, NOA,",
+      "lemma": null,
+      "text": "ou _Anoa_, comme lisent les Sep-"
     },
     {
       "verse": 15,
       "sub": false,
       "latin_lemma": "SEMERON.",
       "lemma": null,
-      "text": "Ce n’est pas la ville de Samarie ; qui est aussi nommée Séméron dans l’Hébreu. Elle ne fut bâtie que longtemps après Josué, et d’ailleurs elle était dans la tribu d’Éphraïm. Mais on croit que celle dont on parle ici, est la même dont Josué défit le Roi ligué avec celui d’Asor, et avec les autres Princes de la partie septentrionale de la Terre promise. Nous avons dit ailleurs [25] que nous prenions Séméron, dont le Roi fut défait par Josué, pour la ville de Simyra dans la Syrie ; ainsi il faudrait étendre ce partage de Zabulon, jusqu'au-delà du Liban."
+      "text": "Ce n’est pas la ville de Samarie ; qui est aussi nommée Séméron dans l’Hébreu. Elle ne fut bâtie que longtemps après Josué, et d’ailleurs elle était dans la tribu d’Éphraïm. Mais on croit que celle dont on parle ici, est la même dont Josué défit le Roi ligué avec celui d’Asor, et avec les autres Princes de la partie septentrionale de la Terre promise. Nous avons dit ailleurs [28] que nous prenions Séméron, dont le Roi fut défait par Josué, pour la ville de Simyra dans la Syrie ; ainsi il faudrait étendre ce partage de Zabulon, jusqu'au-delà du Liban."
     },
     {
       "verse": 15,
@@ -180,7 +215,7 @@
       "sub": false,
       "latin_lemma": "ISSACHAR EGRESSA EST SORS QUARTA.",
       "lemma": "Le quatrième partage échut par sort, fut celui d’Issachar.",
-      "text": "Issachar était l’aîné de Zabulon, et cependant Zabulon passe ici devant lui. Jacob lui-même dans ses bénénédictions [26] nomme Zabulon avant Issachar. On ignore la raison de ce dérangement."
+      "text": "Issachar était l’aîné de Zabulon, et cependant Zabulon passe ici devant lui. Jacob lui-même dans ses bénénédictions [29] nomme Zabulon avant Issachar. On ignore la raison de ce dérangement."
     },
     {
       "verse": 18,
@@ -201,7 +236,7 @@
       "sub": false,
       "latin_lemma": "SUNEM, ou Sunam.",
       "lemma": null,
-      "text": "Lieu connu, parce que le Prophète Élisée avait accoutumé d'y loger chez une femme pieuse, dont il ressuscita le fils. Sunam était située, selon Eusèbe et S. Jérôme, à cinq mille pas du mont Thabor du côté du midi. Les Philistins s'étaient campés à Sunam, [27] dans cette malheureuse journée où Saül et Jonathas furent tués, et où tout Israël fut dissipé sur les monts de Gelboë."
+      "text": "Lieu connu, parce que le Prophète Élisée avait accoutumé d'y loger chez une femme pieuse, dont il ressuscita le fils. Sunam était située, selon Eusèbe et S. Jérôme, à cinq mille pas du mont Thabor du côté du midi. Les Philistins s'étaient campés à Sunam, [30] dans cette malheureuse journée où Saül et Jonathas furent tués, et où tout Israël fut dissipé sur les monts de Gelboë."
     },
     {
       "verse": 19,
@@ -229,14 +264,14 @@
       "sub": false,
       "latin_lemma": "RAMET,",
       "lemma": null,
-      "text": "nommée _Ramot_ dans les Paralipomènes, [28] et Jaramot dans le chap. XXI. 29. de ce Livre. Elle fut donnée aux Lévites."
+      "text": "nommée _Ramot_ dans les Paralipomènes, [31] et Jaramot dans le chap. XXI. 29. de ce Livre. Elle fut donnée aux Lévites."
     },
     {
       "verse": 21,
       "sub": false,
       "latin_lemma": "EN-GANNIM.",
       "lemma": null,
-      "text": "Ville destinée aux Lévites dans la tribu d'Issachar. [29] Elle est nommée Enam dans les Paralipomènes. [30]"
+      "text": "Ville destinée aux Lévites dans la tribu d'Issachar. [32] Elle est nommée Enam dans les Paralipomènes. [33]"
     },
     {
       "verse": 21,
@@ -250,21 +285,35 @@
       "sub": false,
       "latin_lemma": "THABOR.",
       "lemma": null,
-      "text": "Ville située au pied, ou au haut de la fameuse montagne de ce nom sur le torrent de Cisson. Voyez ci-après Judic. IV."
+      "text": "Ville située au pied, ou au haut de la fameuse montagne de ce nom sur le torrent de Cisson. Voyez ci-après Judic. IV. verset §."
+    },
+    {
+      "verse": 22,
+      "sub": false,
+      "latin_lemma": "BETSAMES.",
+      "lemma": null,
+      "text": "On connaît plusieurs villes de ce nom ; il y en a une dans Juda, et une autre dans Nephtalim. La situation de celle-ci nous est inconnue. Bethsamés signifie, _la demeure du soleil_."
     },
     {
       "verse": 25,
       "sub": false,
-      "latin_lemma": "HALCHAT, ou Helchat, [32] ou Huchat. [33]",
+      "latin_lemma": "HALCHAT,",
       "lemma": null,
-      "text": "C'est une des villes d'Aser accordées aux Lévites. [31]\nCHALI, Béten, Axaph, Elmelec, Amaad, Messal, villes inconnues. Je crois qu'Axaph, est Ecdippe, dans quelques MSS. Grecs on lit ici _Akom_, qui est la même qu'_Acco_ ou Ptolémaïde."
+      "text": "ou _Helchat_, [34] ou _Huchat_. [35] C'est une des villes d'Aser accordées aux Lévites. [36]"
+    },
+    {
+      "verse": 25,
+      "sub": false,
+      "latin_lemma": "CHALI,",
+      "lemma": null,
+      "text": "Béten, Axaph, Elmelec, Amaad, Messal, villes inconnues. Je crois qu'_Axaph_, est _Ecdippe_, dans quelques MSS. Grecs on lit ici _Akom_, qui est la même qu'_Acco_ ou Ptolémaïde."
     },
     {
       "verse": 26,
       "sub": false,
       "latin_lemma": "USQUE AD CARMELUM MARIS.",
-      "lemma": "Jusqu'au Carmel, qui est sur la mer, ou jusqu'au Carmel au couchant. [44] ou du côté de la mer.",
-      "text": "On a parlé ci-devant du Carmel de la tribu de Juda, où Nabal époux d'Abigail avait ses troupeaux. [34] Le mont Carmel dont il est parlé ici, appartenait à la tribu d'Aser ; il est fameux dans l'Écriture, principalement par les merveilles qu'Élie y opéra. [35] Joseph [36] met le mont de Carmel à cent vingt stades de Ptolémaïde vers le midi. L'Écriture l'appelle ici _Carmel sur la mer_, parce qu'en effet il était voisin de la Méditerranée. Ce n'était point une seule tête de montagne, c'était plusieurs coteaux joints l'un à l'autre, qui s'étendaient du septentrion au midi, à une assez grande longueur dans les tribus d'Issachar et de Zabulon. Ces montagnes sont à quelques distances de la mer ; en sorte néanmoins que l'un de ses coteaux s'étend jusqu'à ses bords, et Pline [37] nous parle du promontoire du Carmel, et d'une ville du même nom dans la montagne.\nIl y avait sur cette hauteur du temps de Vespasien un autel, où l'on adorait un Dieu à qui on donnait aussi le nom de Carmel ; on n'y voyait ni simulacre, ni statue ; l'autel seul et la vénération d'un lieu si saint, y attiraient ceux qui voulaient consulter la divinité.[38] _Nec simulacrum Deo, aut Templum, (sic tradidêre majores,) ara tantùm et reverentia_; Vespasien y alla pour y consulter un Prêtre nommé Basilide qui y faisait la résidence. Le nom de _Carmel_ signifie la _vigne du Seigneur_, d'excellentes vignes, des vignes divines ; ou un épi plein, vert, et tendre : en général, un lieu d'une beauté et d'une fertilité extraordinaire. La beauté et l'abondance du Carmel étaient comme passées en proverbe. L'époux du Cantique[39] compare la beauté de la tête de son épouse, à celle du Carmel. Isaïe[40] dit que le temps viendra que les campagnes désertes seront aussi belles que le Carmel, et que toute la beauté présente du Carmel ne sera regardée que comme une forêt ; _erit desertum in Carmel, et Carmel in saltum reputabitur_. S. Jérôme[41] et les nouveaux Voyageurs nous décrivent le Carmel comme une montagne chargée de bois, d'arbres fruitiers, d'excellentes vignes, et qui fournit beaucoup de très bonnes sources d'eau.\nLa ville que Pline place sur le mont Carmel, et à qui il donne le même nom qu'à la montagne, s'appelait auparavant Ecbatane ; c'est-à-dire, je pense, _Gabbaton_, ou _Gabbata_, la hauteur, en Hébreu ; Joseph[42] parle d'une ville de Gabba près de Ptolemaïs, et joignant le Carmel. C'est dans cette ville que Cambyse mourut. Ce Prince était menacé par l'oracle de mourir à Ecbatane. Il crut qu'il s'agissait d'Ecbatane de Médie ; mais c'était d'Ecbatane de Syrie, dit Hérodote.[43]"
+      "lemma": "Jusqu'au Carmel, qui est sur la mer, ou jusqu'au Carmel au couchant. [47] ou du côté de la mer.",
+      "text": "On a parlé ci-devant du Carmel de la tribu de Juda, où Nabal époux d'Abigail avait ses troupeaux. [37] Le mont Carmel dont il est parlé ici, appartenait à la tribu d'Aser ; il est fameux dans l'Écriture, principalement par les merveilles qu'Élie y opéra. [38] Joseph [39] met le mont de Carmel à cent vingt stades de Ptolémaïde vers le midi. L'Écriture l'appelle ici _Carmel sur la mer_, parce qu'en effet il était voisin de la Méditerranée. Ce n'était point une seule tête de montagne, c'était plusieurs coteaux joints l'un à l'autre, qui s'étendaient du septentrion au midi, à une assez grande longueur dans les tribus d'Issachar et de Zabulon. Ces montagnes sont à quelques distances de la mer ; en sorte néanmoins que l'un de ses coteaux s'étend jusqu'à ses bords, et Pline [40] nous parle du promontoire du Carmel, et d'une ville du même nom dans la montagne.\nIl y avait sur cette hauteur du temps de Vespasien un autel, où l'on adorait un Dieu à qui on donnait aussi le nom de Carmel ; on n'y voyait ni simulacre, ni statue ; l'autel seul et la vénération d'un lieu si saint, y attiraient ceux qui voulaient consulter la divinité.[41] _Nec simulacrum Deo, aut Templum, (sic tradidêre majores,) ara tantùm et reverentia_; Vespasien y alla pour y consulter un Prêtre nommé Basilide qui y faisait la résidence. Le nom de _Carmel_ signifie la _vigne du Seigneur_, d'excellentes vignes, des vignes divines ; ou un épi plein, vert, et tendre : en général, un lieu d'une beauté et d'une fertilité extraordinaire. La beauté et l'abondance du Carmel étaient comme passées en proverbe. L'époux du Cantique[42] compare la beauté de la tête de son épouse, à celle du Carmel. Isaïe[43] dit que le temps viendra que les campagnes désertes seront aussi belles que le Carmel, et que toute la beauté présente du Carmel ne sera regardée que comme une forêt ; _erit desertum in Carmel, et Carmel in saltum reputabitur_. S. Jérôme[44] et les nouveaux Voyageurs nous décrivent le Carmel comme une montagne chargée de bois, d'arbres fruitiers, d'excellentes vignes, et qui fournit beaucoup de très bonnes sources d'eau.\nLa ville que Pline place sur le mont Carmel, et à qui il donne le même nom qu'à la montagne, s'appelait auparavant Ecbatane ; c'est-à-dire, je pense, _Gabbaton_, ou _Gabbata_, la hauteur, en Hébreu ; Joseph[45] parle d'une ville de Gabba près de Ptolemaïs, et joignant le Carmel. C'est dans cette ville que Cambyse mourut. Ce Prince était menacé par l'oracle de mourir à Ecbatane. Il crut qu'il s'agissait d'Ecbatane de Médie ; mais c'était d'Ecbatane de Syrie, dit Hérodote.[46]"
     },
     {
       "verse": 26,
@@ -278,84 +327,84 @@
       "sub": false,
       "latin_lemma": "BETH-DAGON.",
       "lemma": null,
-      "text": "Elle est différente d'un autre lieu de même nom dans la tribu de Juda. [45] Ce nom signifie la demeure de Dagon, ou du poisson, ou le Temple de Dagon."
+      "text": "Elle est différente d'un autre lieu de même nom dans la tribu de Juda. [48] Ce nom signifie la demeure de Dagon, ou du poisson, ou le Temple de Dagon."
     },
     {
       "verse": 27,
       "sub": false,
       "latin_lemma": "ZABULON.",
       "lemma": null,
-      "text": "C'est une ville forte de Galilée qui prend son nom de la tribu de Zabulon. Josèphe [46] dit qu'elle sépare Ptolémaïde de la Judée."
+      "text": "C'est une ville forte de Galilée qui prend son nom de la tribu de Zabulon. Josèphe [49] dit qu'elle sépare Ptolémaïde de la Judée."
     },
     {
       "verse": 27,
       "sub": false,
       "latin_lemma": "VALLEM JEPHTAEL.",
       "lemma": null,
-      "text": "La ville de Jephtael était entre les tribus de Zabulon et d'Aser ; [47] apparemment entre Ptolémaïde et le mont Carmel."
+      "text": "La ville de Jephtael était entre les tribus de Zabulon et d'Aser ; [50] apparemment entre Ptolémaïde et le mont Carmel."
     },
     {
       "verse": 27,
       "sub": false,
       "latin_lemma": "EGREDITUR AD LÆVAM CABUL.",
       "lemma": "Elle s'étendait à la gauche de Cabul.",
-      "text": "C'est-à-dire au septentrion de cette ville ; car la gauche, en matière de lieux, signifie le septentrion. Il y a quelque difficulté ici sur le nom de Cabul. Il y en a [48] qui croient que c'est ce canton où étaient situées vingt villes que Salomon donna à Hiram, roi de Tyr. Hiram, ne les trouvant pas à son gré, les nomma la terre de Cabul. [49] D'autres [50] prétendent qu'il s'agit ici d'un lieu nommé Chabul, dont Josèphe a parlé dans le livre de sa Vie, sous le nom du village de Chabolo ; [51] et il dit ailleurs [52] que la basse Galilée s'étend depuis Tibériade jusqu'à Chabulon, située sur la mer et voisine de Ptolémaïde."
+      "text": "C'est-à-dire au septentrion de cette ville ; car la gauche, en matière de lieux, signifie le septentrion. Il y a quelque difficulté ici sur le nom de Cabul. Il y en a [51] qui croient que c'est ce canton où étaient situées vingt villes que Salomon donna à Hiram, roi de Tyr. Hiram, ne les trouvant pas à son gré, les nomma la terre de Cabul. [52] D'autres [53] prétendent qu'il s'agit ici d'un lieu nommé Chabul, dont Josèphe a parlé dans le livre de sa Vie, sous le nom du village de Chabolo ; [54] et il dit ailleurs [55] que la basse Galilée s'étend depuis Tibériade jusqu'à Chabulon, située sur la mer et voisine de Ptolémaïde."
     },
     {
       "verse": 28,
       "sub": false,
       "latin_lemma": "ABRAN.",
       "lemma": null,
-      "text": "L'Hébreu : _Hébron_, c'est-à-dire le passage. La Vulgate a lu dans le texte hébreu Akran, au lieu d'Abran. [53]"
+      "text": "L'Hébreu : _Hébron_, c'est-à-dire le passage. La Vulgate a lu dans le texte hébreu Akran, au lieu d'Abran. [56]"
     },
     {
       "verse": 28,
       "sub": false,
       "latin_lemma": "ROHOB.",
       "lemma": null,
-      "text": "On lit encore ci-après, [54] une ville de même nom dans la même tribu. Ces deux villes étaient, je pense, l'une à l'orient, et l'autre au septentrion de la tribu d'Aser ; supposé pourtant que ce soient deux villes ; car il n'est pas sans exemple de voir des répétitions dans ces catalogues. J'aimerais mieux ne reconnaître qu'une ville de Rohob, laquelle fut assignée aux Lévites, [55] mais dont la tribu d'Aser ne put chasser les Cananéens. [56] La ville de Rohob, dont il est parlé dans les Nombres, [57] était la même dont il est parlé ici : Moïse nous fait comprendre qu'elle était à l'extrémité septentrionale du pays de Canaan, et vers l'entrée d'Emath."
+      "text": "On lit encore ci-après, [57] une ville de même nom dans la même tribu. Ces deux villes étaient, je pense, l'une à l'orient, et l'autre au septentrion de la tribu d'Aser ; supposé pourtant que ce soient deux villes ; car il n'est pas sans exemple de voir des répétitions dans ces catalogues. J'aimerais mieux ne reconnaître qu'une ville de Rohob, laquelle fut assignée aux Lévites, [58] mais dont la tribu d'Aser ne put chasser les Cananéens. [59] La ville de Rohob, dont il est parlé dans les Nombres, [60] était la même dont il est parlé ici : Moïse nous fait comprendre qu'elle était à l'extrémité septentrionale du pays de Canaan, et vers l'entrée d'Emath."
     },
     {
       "verse": 28,
       "sub": false,
       "latin_lemma": "HAMON.",
       "lemma": null,
-      "text": "Je pense que cette ville était simplement sur les frontières, mais non pas dans le partage d'Aser ; elle était à Nephtali, et fut cédée aux Lévites. [58] On la trouve aussi sous le nom d'Ammot-Dor dans Josué. [59]"
+      "text": "Je pense que cette ville était simplement sur les frontières, mais non pas dans le partage d'Aser ; elle était à Nephtali, et fut cédée aux Lévites. [61] On la trouve aussi sous le nom d'Ammot-Dor dans Josué. [62]"
     },
     {
       "verse": 28,
       "sub": false,
       "latin_lemma": "CANA.",
       "lemma": null,
-      "text": "Eusèbe et saint Jérôme semblent croire que c'est dans cette ville que Jésus-Christ changea l'eau en vin. [60] Il y en a qui veulent que saint Jérôme distingue deux Cana : la grande et la petite ; mais je ne vois point cette distinction dans son texte ; [61] ce saint n'y parle que de _Sidon la grande_, et il dit : _Qu'elle est surnommée la grande, pour la distinguer d'une autre ville de même nom, mais moins grande_ ; ni Josèphe, ni aucun historien ne fait mention de cette prétendue Cana la grande ; mais Cana de Galilée, connue dans l'Évangile, qui était la patrie de Siméon et de Nathanaël, est célèbre. Josèphe [62] en parle en plus d'un endroit ; il dit qu'il était à Cana, grand bourg de la Galilée, lorsqu'il apprit la révolte de ceux de Tibériade, et qu'étant parti sur-le-champ, accompagné de deux cents hommes, il marcha toute la nuit, et arriva le lendemain matin à Tibériade ; ce qui fait juger que Cana était environ à huit lieues de Tibériade vers l'occident. J'avoue pourtant que si les villes que nous lisons dans ce verset vont du midi au septentrion, ou de l'orient au couchant, en s'avançant successivement et de plus en plus vers Sidon, il faut reconnaître une autre Cana plus près de Sidon, mais qui nous est absolument inconnue."
+      "text": "Eusèbe et saint Jérôme semblent croire que c'est dans cette ville que Jésus-Christ changea l'eau en vin. [63] Il y en a qui veulent que saint Jérôme distingue deux Cana : la grande et la petite ; mais je ne vois point cette distinction dans son texte ; [64] ce saint n'y parle que de _Sidon la grande_, et il dit : _Qu'elle est surnommée la grande, pour la distinguer d'une autre ville de même nom, mais moins grande_ ; ni Josèphe, ni aucun historien ne fait mention de cette prétendue Cana la grande ; mais Cana de Galilée, connue dans l'Évangile, qui était la patrie de Siméon et de Nathanaël, est célèbre. Josèphe [65] en parle en plus d'un endroit ; il dit qu'il était à Cana, grand bourg de la Galilée, lorsqu'il apprit la révolte de ceux de Tibériade, et qu'étant parti sur-le-champ, accompagné de deux cents hommes, il marcha toute la nuit, et arriva le lendemain matin à Tibériade ; ce qui fait juger que Cana était environ à huit lieues de Tibériade vers l'occident. J'avoue pourtant que si les villes que nous lisons dans ce verset vont du midi au septentrion, ou de l'orient au couchant, en s'avançant successivement et de plus en plus vers Sidon, il faut reconnaître une autre Cana plus près de Sidon, mais qui nous est absolument inconnue."
     },
     {
       "verse": 29,
       "sub": false,
       "latin_lemma": "REVERTITUR IN HORMA USQUE AD CIVITATEM MUNITISSIMAM TYRUM.",
       "lemma": "Elle retourne vers Horma, jusqu'à la forte ville de Tyr.",
-      "text": "Les Septante. _Jusqu'à la fontaine Maspha des Tyriens_. La ville de _Horma_, ou selon l'Hébreu, [63] _Haramah_ nous est inconnue : Les Septante, le Chaldéen, le Syriaque, l'Arabe, lisent, _Rama_, peut-être n'est-ce qu'une hauteur, et non pas une ville. _Ramah_ ne signifie qu'une élévation. Masius conjecture que ce pourrait être Sarepta, célèbre par son vignoble. _Bacchus amat montes_. Bonfrerius aime mieux la prendre pour _Ornithon_, la ville des Oiseaux, peut-être à cause que les demeures des habitants y étaient fort élevées, et qu'ils y étaient comme nichés. Mais je préfère l'opinion qui prend _Rama_ pour un lieu élevé, un promontoire : De Sidon les limites d'Aser suivaient les côtes jusqu'à Tyr, ville célèbre dans l'antiquité profane et sacrée.\nLe temps de la fondation de Tyr, est un point de chronologie fort embarrassé, qu'il est bon d'examiner. Sanchoniaton [64] raconte qu'Hypsuranius une des plus anciennes productions de la terre, habita la ville de Tyr, et y bâtit des cabanes de joncs et de roseaux ; les Prêtres Tyriens contaient depuis la fondation de leur ville par Hypsuranius, jusqu'au temps de Sanchoniaton, 2300 ans, c'est-à-dire en plaçant Sanchoniaton du temps de Gédéon, que Tyr était bâtie avant la tour de Babel ; ce qui suffit pour nous faire abandonner cette époque, quand on ne saurait pas que Sanchoniaton est un auteur supposé, comme l'ont montré quelques habiles gens, et comme il est aisé de s'en convaincre par la simple lecture du fragment de son ouvrage, conservé par Eusèbe.\nJoseph [65] est bien plus croyable, lorsqu'il dit que cette ville ne fut bâtie que 240 ans avant le Temple de Salomon, [66] ce qui revient à l'an du monde 2760. environ deux cents ans après Josué. Trogus avait marqué aussi l'année de la fondation de Tyr : Mais Justin son Abréviateur, ou les Copistes de Justin, l'ont oubliée ; cet Auteur nous dit seulement, [67] que _les Sidoniens ayant été vaincus par le Roi d'Ascalon, vinrent par mer dans un lieu où ils bâtirent la ville de Tyr, l'an .... devant la prise de Troie._ Hérodote [68] qui avait interrogé les Prêtres du Temple d'Hercule de Tyr, dit qu'il avait été fondé avec la ville 2300. ans avant le temps auquel il écrivait. Hérodote vivait vers le temps du retour de la captivité de Babylone, ce qui est bien éloigné du calcul de Joseph. Mais cela montre au moins que les Prêtres Tyriens se donnaient une fort haute antiquité.\nQuinte-Curce donne à Tyr pour fondateurs, Agénor père de Cadmus ; [69] mais on ne peut faire aucun fond sur son témoignage, puisqu'il veut que Sidon ait été bâtie en même temps que Tyr, et par le même Agénor. On sait que Sidon est beaucoup plus ancienne que Tyr. Isaïe [70] donne à celle-ci l'épithète de _fille de Sidon_, ou de colonie de Sidon. Homère ne parle jamais de Tyr, quoiqu'il parle de Sidon comme d'une ville célèbre. [71] Eusèbe dans sa Chronique avance, que Phénix et Cadmus s'étant retirés de Thèbes d'Égypte, vinrent dans la Syrie, et régnèrent à Tyr et à Sidon. Si cela est, il faudra reconnaître que Tyr était bâtie avant Josué, puisqu'on croit que Cadmus ne se retira dans Tyr la Grèce, qu'après l'arrivée de Josué dans la terre de Canaan. Mais An. 1561. ce dernier fait étant incertain, il n'est pas juste de fonder sur lui une hypothèse comme certaine, ni aussi d'assurer que Tyr n'était pas encore alors bâtie, d'autant plus que l'Auteur du Livre de Josué, que l'on ne peut nier avoir au moins écrit sur des mémoires du temps de Josué, parle de Tyr comme d'une très forte ville.\nMais pour ne point embarrasser cette matière, on doit exactement distinguer deux villes de Tyr ; l'une, dans une île de la Méditerranée ; et l'autre dans le continent qui lui est opposé : Celle-ci est sans contredit la plus ancienne ; mais elle a été assez peu connue des Auteurs Grecs, ils ne nous parlent guères que de la ville de Tyr bâtie dans une île, [72] et si célèbre par la résistance qu'elle fit à l'armée d'Alexandre le Grand. Diodore de Sicile et Quinte-Curce ne l'éloignent de la terre que de quatre stades, ou cinq cents pas ; mais Pline [73] dit qu'elle est éloignée de sept cents pas du continent. Depuis Alexandre le Grand, elle demeura jointe à la terre par la levée que ce Prince avait faite pour la prendre. _Tyrus quondam insula præalto mari septingentis passibus divisa, nunc verò Alexandri oppugnantis operibus continens._\nL'ancienne Tyr était dans la terre ferme, vis-à-vis cette île. L'Auteur de l'Ecclésiastique [74] nous apprend que les Princes des Tyriens étaient avec les Philistins qui furent défaits par Samuël au commencement de son gouvernement. [75] Du temps de David et de Salomon elle était déjà grande et considérable, puisqu'elle avait des Rois puissants. Hiram Roi de Tyr envoya à David des bois et des ouvriers pour lui bâtir un Palais. [76] Il est remarqué dans les Livres des Rois, [77] que Joab et ceux qui étaient députés avec lui pour faire le dénombrement des enfants d'Israël, passèrent près des murailles de Tyr. Du temps de Salomon la nouvelle Tyr n'était point encore bâtie ; il n'y avait dans l'île qu'un temple dédié à Jupiter Olympien. Dius [78] qui avait écrit fort exactement l'histoire phénicienne, dit que Hiram fils d'Abibaal, Roi de Tyr, et ami de Salomon, joignit à la ville le temple d'Hercule, qui était seul dans l'île ; il le joignit à l'ancienne Tyr par le moyen d'une levée qu'il fit en jetant beaucoup de terre et d'autres matières dans la mer. Ménandre Éphésien dit la même chose ; [79] il ajoute qu'Hiram plaça une colonne d'or dans le temple de Jupiter. On détruisit dans An. 1561. la suite de cette levée qu'avait faite le roi Hiram ; mais ce ne fut apparemment qu'après que la ville eut été prise par les Chaldéens ; car on sait à n'en pouvoir douter, que la ville de Tyr était séparée du continent par un bras de mer, lorsqu'Alexandre en fit le siège.\nIl ne faut pourtant pas dissimuler que dans la lettre écrite par Hiram à Salomon, et rapportée par Josèphe ; le roi de Tyr demande du froment à Salomon, en paiement des bois qu'il lui envoyait ; parce que, dit-il, nous en avons besoin, étant bâtis dans une île où nous demeurons ; ce qui suppose qu'alors la nouvelle Tyr subsistait déjà. Mais il y a beaucoup d'apparence que ces lettres ont été ou fabriquées, ou au moins interpolées et embellies par cet auteur ; et ce qui favorise ce soupçon, c'est qu'on trouve dans Eupolème, cité par Eusèbe,[80] les mêmes lettres dans un style assez différent, et où cette circonstance ne se lit point.\nNabuchodonosor roi de Chaldée assiégea et prit Tyr quelques années après qu'il eut ruiné le Temple et la ville de Jérusalem. Ézéchiel[81] nous prédit ce siège d'une manière assez circonstanciée ; et avec cela on ne convient pas de laquelle des deux, de la vieille, ou de la nouvelle Tyr, il veut parler. Saint Jérôme[82] croit que c'est de la nouvelle, puisqu'il dit que Nabuchodonosor joignit l'île au continent, par les terres et le bois dont il remplit le bras de la mer qui l'en séparait. Le Prophète[83] semble dire que cette ville était dans une île, lorsqu'il lui dit : _Vous vous êtes glorifiée dans le cœur de la mer_. Isaïe[84] désigne la ville de Tyr sous le nom de fille de la mer ; il lui adresse ces paroles : _Passez les mers, jetez des cris, vous autres habitants de l'île. Transite maria, ululate qui habitatis in insula_. Mais on trouve d'autres expressions qui semblent mieux convenir à une ville de terre ferme.\nEn supposant ce que nous venons de rapporter de Dius, et de Ménandre d'Éphèse, que Tyr avait été jointe au continent par une chaussée dès le temps de Hiram, la difficulté disparaît, on concilie les diversités d'expressions des Prophètes. Tyr était en même temps île et continent, puisque par le moyen de la chaussée, dont on a parlé, elle était devenue péninsule. Lorsque Alexandre l'assiégea, l'ancienne Tyr était ou déserte, ou peu habitée, puisque les historiens[85] nous disent qu'Alexandre se servit des ruines, et des pierres de cette ville pour combler le bras qui séparait l'île de la terre.\nNous n'avons aucun monument qui nous apprenne ni le temps, ni l'occasion de la fondation de la nouvelle Tyr. Marsham [86] veut que l'an 2561 ç'ait été après la prise de l'ancienne, par Nabuchodonosor ; mais quoique ses preuves ne soient point à mépriser, il faut pourtant reconnaître, qu'elles ne peuvent passer pour certaines, et qu'il reste encore sur cette matière beaucoup d'obscurité. J'aimerais mieux dire que la fondation de Tyr, dont parle Trogus, [87] arrivée ensuite d'une guerre des Ascalonites contre les Sidoniens, où ceux-ci avaient été vaincus, se doit entendre de la fondation de la nouvelle Tyr. Il y a une circonstance dans cet historien qui fait beaucoup pour ce sentiment : _Les Sidoniens_, dit-il, _vinrent par mer dans un lieu où ils bâtirent Tyr_. Ce ne fut pas sans doute au lieu où était l'ancienne Tyr : ils n'y pouvaient venir que par terre ; c'est donc de la nouvelle Tyr, dont il veut parler. Mais il reste sur cela un scrupule ; c'est qu'on est persuadé que la nouvelle Tyr, est une fondation, et une colonie de l'ancienne ville de même nom. Je ne vois point d'autre moyen d'accorder cette contrariété, qu'en disant que les Tyriens étant alors ou alliés, ou sujets des Sidoniens, la fondation de cette nouvelle ville est attribuée à la métropole de la Phénicie, quoique l'ancienne Tyr lui ait fourni des habitants.\nAu reste, quand on avouerait que ni l'ancienne, ni la nouvelle ville de Tyr n'étaient point bâties du temps de Josué, nous ne croirions pas devoir nous en mettre fort en peine, puisqu'on ne s'est point engagé de soutenir que ce livre, dans l'état où nous l'avons, ait été entièrement écrit par Josué.\nQuelques interprètes pour se tirer tout d'un coup de toutes ces discussions, traduisent ici le texte hébreu dans un sens générique : [88] _Jusqu'à la forteresse du Rocher_. Jonathan : _Jusqu'aux villes des forteresses, ou jusqu'aux villes fortes_. Mais les versions des Septante et de la Vulgate qui lisent, _jusqu'à la ville de Tyr_, sont suivies presque universellement."
+      "text": "Les Septante. _Jusqu'à la fontaine Maspha des Tyriens_. La ville de _Horma_, ou selon l'Hébreu, [66] _Haramah_ nous est inconnue : Les Septante, le Chaldéen, le Syriaque, l'Arabe, lisent, _Rama_, peut-être n'est-ce qu'une hauteur, et non pas une ville. _Ramah_ ne signifie qu'une élévation. Masius conjecture que ce pourrait être Sarepta, célèbre par son vignoble. _Bacchus amat montes_. Bonfrerius aime mieux la prendre pour _Ornithon_, la ville des Oiseaux, peut-être à cause que les demeures des habitants y étaient fort élevées, et qu'ils y étaient comme nichés. Mais je préfère l'opinion qui prend _Rama_ pour un lieu élevé, un promontoire : De Sidon les limites d'Aser suivaient les côtes jusqu'à Tyr, ville célèbre dans l'antiquité profane et sacrée.\nLe temps de la fondation de Tyr, est un point de chronologie fort embarrassé, qu'il est bon d'examiner. Sanchoniaton [67] raconte qu'Hypsuranius une des plus anciennes productions de la terre, habita la ville de Tyr, et y bâtit des cabanes de joncs et de roseaux ; les Prêtres Tyriens contaient depuis la fondation de leur ville par Hypsuranius, jusqu'au temps de Sanchoniaton, 2300 ans, c'est-à-dire en plaçant Sanchoniaton du temps de Gédéon, que Tyr était bâtie avant la tour de Babel ; ce qui suffit pour nous faire abandonner cette époque, quand on ne saurait pas que Sanchoniaton est un auteur supposé, comme l'ont montré quelques habiles gens, et comme il est aisé de s'en convaincre par la simple lecture du fragment de son ouvrage, conservé par Eusèbe.\nJoseph [68] est bien plus croyable, lorsqu'il dit que cette ville ne fut bâtie que 240 ans avant le Temple de Salomon, [69] ce qui revient à l'an du monde 2760. environ deux cents ans après Josué. Trogus avait marqué aussi l'année de la fondation de Tyr : Mais Justin son Abréviateur, ou les Copistes de Justin, l'ont oubliée ; cet Auteur nous dit seulement, [70] que _les Sidoniens ayant été vaincus par le Roi d'Ascalon, vinrent par mer dans un lieu où ils bâtirent la ville de Tyr, l'an .... devant la prise de Troie._ Hérodote [71] qui avait interrogé les Prêtres du Temple d'Hercule de Tyr, dit qu'il avait été fondé avec la ville 2300. ans avant le temps auquel il écrivait. Hérodote vivait vers le temps du retour de la captivité de Babylone, ce qui est bien éloigné du calcul de Joseph. Mais cela montre au moins que les Prêtres Tyriens se donnaient une fort haute antiquité.\nQuinte-Curce donne à Tyr pour fondateurs, Agénor père de Cadmus ; [72] mais on ne peut faire aucun fond sur son témoignage, puisqu'il veut que Sidon ait été bâtie en même temps que Tyr, et par le même Agénor. On sait que Sidon est beaucoup plus ancienne que Tyr. Isaïe [73] donne à celle-ci l'épithète de _fille de Sidon_, ou de colonie de Sidon. Homère ne parle jamais de Tyr, quoiqu'il parle de Sidon comme d'une ville célèbre. [74] Eusèbe dans sa Chronique avance, que Phénix et Cadmus s'étant retirés de Thèbes d'Égypte, vinrent dans la Syrie, et régnèrent à Tyr et à Sidon. Si cela est, il faudra reconnaître que Tyr était bâtie avant Josué, puisqu'on croit que Cadmus ne se retira dans la Grèce, qu'après l'arrivée de Josué dans la terre de Canaan. Mais An. 1561. ce dernier fait étant incertain, il n'est pas juste de fonder sur lui une hypothèse comme certaine, ni aussi d'assurer que Tyr n'était pas encore alors bâtie, d'autant plus que l'Auteur du Livre de Josué, que l'on ne peut nier avoir au moins écrit sur des mémoires du temps de Josué, parle de Tyr comme d'une très forte ville.\nMais pour ne point embarrasser cette matière, on doit exactement distinguer deux villes de Tyr ; l'une, dans une île de la Méditerranée ; et l'autre dans le continent qui lui est opposé : Celle-ci est sans contredit la plus ancienne ; mais elle a été assez peu connue des Auteurs Grecs, ils ne nous parlent guères que de la ville de Tyr bâtie dans une île, [75] et si célèbre par la résistance qu'elle fit à l'armée d'Alexandre le Grand. Diodore de Sicile et Quinte-Curce ne l'éloignent de la terre que de quatre stades, ou cinq cents pas ; mais Pline [76] dit qu'elle est éloignée de sept cents pas du continent. Depuis Alexandre le Grand, elle demeura jointe à la terre par la levée que ce Prince avait faite pour la prendre. _Tyrus quondam insula præalto mari septingentis passibus divisa, nunc verò Alexandri oppugnantis operibus continens._\nL'ancienne Tyr était dans la terre ferme, vis-à-vis cette île. L'Auteur de l'Ecclésiastique [77] nous apprend que les Princes des Tyriens étaient avec les Philistins qui furent défaits par Samuël au commencement de son gouvernement. [78] Du temps de David et de Salomon elle était déjà grande et considérable, puisqu'elle avait des Rois puissants. Hiram Roi de Tyr envoya à David des bois et des ouvriers pour lui bâtir un Palais. [79] Il est remarqué dans les Livres des Rois, [80] que Joab et ceux qui étaient députés avec lui pour faire le dénombrement des enfants d'Israël, passèrent près des murailles de Tyr. Du temps de Salomon la nouvelle Tyr n'était point encore bâtie ; il n'y avait dans l'île qu'un temple dédié à Jupiter Olympien. Dius [81] qui avait écrit fort exactement l'histoire phénicienne, dit que Hiram fils d'Abibaal, Roi de Tyr, et ami de Salomon, joignit à la ville le temple d'Hercule, qui était seul dans l'île ; il le joignit à l'ancienne Tyr par le moyen d'une levée qu'il fit en jetant beaucoup de terre et d'autres matières dans la mer. Ménandre Éphésien dit la même chose ; [82] il ajoute qu'Hiram plaça une colonne d'or dans le temple de Jupiter. On détruisit dans An. 1561. la suite de cette levée qu'avait faite le roi Hiram ; mais ce ne fut apparemment qu'après que la ville eut été prise par les Chaldéens ; car on sait à n'en pouvoir douter, que la ville de Tyr était séparée du continent par un bras de mer, lorsqu'Alexandre en fit le siège.\nIl ne faut pourtant pas dissimuler que dans la lettre écrite par Hiram à Salomon, et rapportée par Josèphe ; le roi de Tyr demande du froment à Salomon, en paiement des bois qu'il lui envoyait ; parce que, dit-il, nous en avons besoin, étant bâtis dans une île où nous demeurons ; ce qui suppose qu'alors la nouvelle Tyr subsistait déjà. Mais il y a beaucoup d'apparence que ces lettres ont été ou fabriquées, ou au moins interpolées et embellies par cet auteur ; et ce qui favorise ce soupçon, c'est qu'on trouve dans Eupolème, cité par Eusèbe,[83] les mêmes lettres dans un style assez différent, et où cette circonstance ne se lit point.\nNabuchodonosor roi de Chaldée assiégea et prit Tyr quelques années après qu'il eut ruiné le Temple et la ville de Jérusalem. Ézéchiel[84] nous prédit ce siège d'une manière assez circonstanciée ; et avec cela on ne convient pas de laquelle des deux, de la vieille, ou de la nouvelle Tyr, il veut parler. Saint Jérôme[85] croit que c'est de la nouvelle, puisqu'il dit que Nabuchodonosor joignit l'île au continent, par les terres et le bois dont il remplit le bras de la mer qui l'en séparait. Le Prophète[86] semble dire que cette ville était dans une île, lorsqu'il lui dit : _Vous vous êtes glorifiée dans le cœur de la mer_. Isaïe[87] désigne la ville de Tyr sous le nom de fille de la mer ; il lui adresse ces paroles : _Passez les mers, jetez des cris, vous autres habitants de l'île. Transite maria, ululate qui habitatis in insula_. Mais on trouve d'autres expressions qui semblent mieux convenir à une ville de terre ferme.\nEn supposant ce que nous venons de rapporter de Dius, et de Ménandre d'Éphèse, que Tyr avait été jointe au continent par une chaussée dès le temps de Hiram, la difficulté disparaît, on concilie les diversités d'expressions des Prophètes. Tyr était en même temps île et continent, puisque par le moyen de la chaussée, dont on a parlé, elle était devenue péninsule. Lorsque Alexandre l'assiégea, l'ancienne Tyr était ou déserte, ou peu habitée, puisque les historiens[88] nous disent qu'Alexandre se servit des ruines, et des pierres de cette ville pour combler le bras qui séparait l'île de la terre.\nNous n'avons aucun monument qui nous apprenne ni le temps, ni l'occasion de la fondation de la nouvelle Tyr. Marsham [89] veut que l'an 2561 ç'ait été après la prise de l'ancienne, par Nabuchodonosor ; mais quoique ses preuves ne soient point à mépriser, il faut pourtant reconnaître, qu'elles ne peuvent passer pour certaines, et qu'il reste encore sur cette matière beaucoup d'obscurité. J'aimerais mieux dire que la fondation de Tyr, dont parle Trogus, [90] arrivée ensuite d'une guerre des Ascalonites contre les Sidoniens, où ceux-ci avaient été vaincus, se doit entendre de la fondation de la nouvelle Tyr. Il y a une circonstance dans cet historien qui fait beaucoup pour ce sentiment : _Les Sidoniens_, dit-il, _vinrent par mer dans un lieu où ils bâtirent Tyr_. Ce ne fut pas sans doute au lieu où était l'ancienne Tyr : ils n'y pouvaient venir que par terre ; c'est donc de la nouvelle Tyr, dont il veut parler. Mais il reste sur cela un scrupule ; c'est qu'on est persuadé que la nouvelle Tyr, est une fondation, et une colonie de l'ancienne ville de même nom. Je ne vois point d'autre moyen d'accorder cette contrariété, qu'en disant que les Tyriens étant alors ou alliés, ou sujets des Sidoniens, la fondation de cette nouvelle ville est attribuée à la métropole de la Phénicie, quoique l'ancienne Tyr lui ait fourni des habitants.\nAu reste, quand on avouerait que ni l'ancienne, ni la nouvelle ville de Tyr n'étaient point bâties du temps de Josué, nous ne croirions pas devoir nous en mettre fort en peine, puisqu'on ne s'est point engagé de soutenir que ce livre, dans l'état où nous l'avons, ait été entièrement écrit par Josué.\nQuelques interprètes pour se tirer tout d'un coup de toutes ces discussions, traduisent ici le texte hébreu dans un sens générique : [91] _Jusqu'à la forteresse du Rocher_. Jonathan : _Jusqu'aux villes des forteresses, ou jusqu'aux villes fortes_. Mais les versions des Septante et de la Vulgate qui lisent, _jusqu'à la ville de Tyr_, sont suivies presque universellement."
     },
     {
       "verse": 29,
       "sub": false,
       "latin_lemma": "ERUNT EXITUS EJUS IN MARE DE FUNICULO ACHZIBA.",
       "lemma": "Se terminait à la mer, vers Achzib.",
-      "text": "On a vu une ville de ce nom ci-devant, Josué xv. 44. Celle-ci est la ville d'Ecdippe sur la Méditerranée, entre Ptolémaïde et Tyr, à neuf milles de Ptolémaïde. Pline, [89] Ptolémée, et Josèphe parlent de la ville d'Ecdippe, qui est au midi de Tyr. La mer dans ce passage, comme dans beaucoup d'autres, signifie l'Occident."
+      "text": "On a vu une ville de ce nom ci-devant, Josué xv. 44. Celle-ci est la ville d'Ecdippe sur la Méditerranée, entre Ptolémaïde et Tyr, à neuf milles de Ptolémaïde. Pline, [92] Ptolémée, et Josèphe parlent de la ville d'Ecdippe, qui est au midi de Tyr. La mer dans ce passage, comme dans beaucoup d'autres, signifie l'Occident."
     },
     {
       "verse": 30,
       "sub": false,
       "latin_lemma": "AMMA.",
       "lemma": null,
-      "text": "Il y a quelque apparence qu'il faudrait lire _Acco_, qui est l'ancien nom de Ptolémaïde. Les Septante lisent en cet endroit _Akom_, ou _Archob_. Il serait fort étrange que l'auteur sacré ne parlât point d'Acco qui était si célèbre. L'ordre des villes dont il parle, demande qu'on mette en cet endroit _Acco_, au lieu de _Amma_. On ne trouve le nom de cette ville qu'en ce seul endroit de l'Écriture. J'aurais du penchant à croire qu'elle était plus avancée dans la Syrie, que les autres villes dont il est parlé ici. Salomon dans le Cantique des Cantiques [90] invite son épouse de _venir du Liban, du sommet d'Amana, des monts de Sanir et d'Hermon_. Amana peut marquer une partie du mont Liban, auprès de laquelle nous conjecturons qu'était la ville d'_Ama_, et peut-être le fleuve Abana, dont parle Naaman ( 4. Reg. v. 12. ) On ne doit pas faire difficulté de chercher au delà de l'Antiliban dans la Célésyrie, des villes du partage d'Israël, puisqu'on sait qu'anciennement les Cananéens s'étendaient dans tout ce pays, et que les Samaréens, les Sinéens et les Aracéens y demeuraient. Les Israélites n'en furent les maîtres qu'assez peu de temps sous David et Salomon, non plus que des provinces qui s'étendent jusqu'à l'Euphrate ; mais on n'en peut pas conclure que ces provinces n'aient pas été promises à Israël."
+      "text": "Il y a quelque apparence qu'il faudrait lire _Acco_, qui est l'ancien nom de Ptolémaïde. Les Septante lisent en cet endroit _Akom_, ou _Archob_. Il serait fort étrange que l'auteur sacré ne parlât point d'Acco qui était si célèbre. L'ordre des villes dont il parle, demande qu'on mette en cet endroit _Acco_, au lieu de _Amma_. On ne trouve le nom de cette ville qu'en ce seul endroit de l'Écriture. J'aurais du penchant à croire qu'elle était plus avancée dans la Syrie, que les autres villes dont il est parlé ici. Salomon dans le Cantique des Cantiques [93] invite son épouse de _venir du Liban, du sommet d'Amana, des monts de Sanir et d'Hermon_. Amana peut marquer une partie du mont Liban, auprès de laquelle nous conjecturons qu'était la ville d'_Ama_, et peut-être le fleuve Abana, dont parle Naaman ( 4. Reg. v. 12. ) On ne doit pas faire difficulté de chercher au delà de l'Antiliban dans la Célésyrie, des villes du partage d'Israël, puisqu'on sait qu'anciennement les Cananéens s'étendaient dans tout ce pays, et que les Samaréens, les Sinéens et les Aracéens y demeuraient. Les Israélites n'en furent les maîtres qu'assez peu de temps sous David et Salomon, non plus que des provinces qui s'étendent jusqu'à l'Euphrate ; mais on n'en peut pas conclure que ces provinces n'aient pas été promises à Israël."
     },
     {
       "verse": 30,
       "sub": false,
       "latin_lemma": "APHEC,",
       "lemma": null,
-      "text": "C'est selon toutes les apparences la ville d'Aphec dans la Célésyrie au-delà de l'Antiliban ; on joint _Aphec_ avec _Rohob_, qui était dans l'Antiliban, ou au pied de cette montagne, dans un défilé qui conduisait dans la Célésyrie ; il est remarqué dans le Livre des Juges [91] que la tribu d'Aser ne put chasser les Cananéens d'Aphec, ni de Rohob ; enfin nous voyons dans les Livres des Rois, [92] que c'était ordinairement à Aphec que les Rois de Syrie assemblaient leurs armées pour entrer dans les terres d'Israël. Les Profanes nous parlent d'_Aphaca_, située entre Héliopolis et Biblus. [93] Près de cette ville dans un endroit écarté du mont Liban, [94] on voyait le temple de Vénus Aphachitis. On croit que c'est cette Déesse que Macrobe [95] décrit sous le nom de"
+      "text": "C'est selon toutes les apparences la ville d'Aphec dans la Célésyrie au-delà de l'Antiliban ; on joint _Aphec_ avec _Rohob_, qui était dans l'Antiliban, ou au pied de cette montagne, dans un défilé qui conduisait dans la Célésyrie ; il est remarqué dans le Livre des Juges [94] que la tribu d'Aser ne put chasser les Cananéens d'Aphec, ni de Rohob ; enfin nous voyons dans les Livres des Rois, [95] que c'était ordinairement à Aphec que les Rois de Syrie assemblaient leurs armées pour entrer dans les terres d'Israël. Les Profanes nous parlent d'_Aphaca_, située entre Héliopolis et Biblus. [96] Près de cette ville dans un endroit écarté du mont Liban, [97] on voyait le temple de Vénus Aphachitis. On croit que c'est cette Déesse que Macrobe [98] décrit sous le nom de"
     },
     {
       "verse": 30,
@@ -383,14 +432,14 @@
       "sub": false,
       "latin_lemma": "ET ELON IN SAANNANIM.",
       "lemma": "Et Elon en Saannanim.",
-      "text": "L'Hébreu, [96] _d'Elon dans Saannanim._ On ne connaît point de villes de ce nom ; mais on conjecture que _Saannanim_ sont un nom de peuples dans les environs du Liban. On pourrait traduire : _Depuis le bois_, ou _la prairie qui est à Sannanim_, ou _dans le canton des Zahananim._"
+      "text": "L'Hébreu, [99] _d'Elon dans Saannanim._ On ne connaît point de villes de ce nom ; mais on conjecture que _Saannanim_ sont un nom de peuples dans les environs du Liban. On pourrait traduire : _Depuis le bois_, ou _la prairie qui est à Sannanim_, ou _dans le canton des Zahananim._"
     },
     {
       "verse": 33,
       "sub": false,
       "latin_lemma": "ADAMI QUÆ EST NECEB.",
       "lemma": "Adami qui est aussi nommée Neceb.",
-      "text": "D'autres traduisent l'hébreu, [97] _Adami de Neceb_, ou _du fossé_, ou _Adami la percée._"
+      "text": "D'autres traduisent l'hébreu, [100] _Adami de Neceb_, ou _du fossé_, ou _Adami la percée._"
     },
     {
       "verse": 33,
@@ -404,28 +453,28 @@
       "sub": false,
       "latin_lemma": "PER TRANSIT.... IN JUDA AD JORDANEM CONTRA ORTUM SOLIS.",
       "lemma": "Elle allait vers Juda du côté du Jourdain au soleil levant.",
-      "text": "Comment la tribu de Nephthali pouvait-elle arriver jusqu'à celle de Juda du côté du Jourdain, puisqu'il y avait de ce côté-là entre Juda et Nephthali cinq lots ; ceux de Zabulon, d'Issachar, de Manassé, d'Ephraïm et de Benjamin ? Il est très difficile de trouver une réponse qui contente dans cette difficulté ; voici celle qui est la plus ordinaire et la plus plausible. Juda et Nephthali avaient le Jourdain pour limites du côté de l'orient ; ce fleuve les joignait en quelque sorte et les réunissait, en leur fournissant par là un passage libre, sans être obligés de passer sur les terres de leurs voisins. De cette sorte on vit l'accomplissement de la prédiction de Moïse,[98] qui avait dit que Nephtali posséderait la mer et le midi ; _mare et meridiem possidebit_. Il avait les avantages de la mer, parce que son lot touchait d'un bout à la mer de Tibériade, et que de là il pouvait passer dans les terres qui sont au midi de la Palestine, et profiter ainsi des richesses de ces contrées. Les Septante n'ont point lu _Juda_ en cet endroit, ce qui évite toute la difficulté du passage. Ils portent :[99] _Le Jourdain à l'orient_."
+      "text": "Comment la tribu de Nephthali pouvait-elle arriver jusqu'à celle de Juda du côté du Jourdain, puisqu'il y avait de ce côté-là entre Juda et Nephthali cinq lots ; ceux de Zabulon, d'Issachar, de Manassé, d'Ephraïm et de Benjamin ? Il est très difficile de trouver une réponse qui contente dans cette difficulté ; voici celle qui est la plus ordinaire et la plus plausible. Juda et Nephthali avaient le Jourdain pour limites du côté de l'orient ; ce fleuve les joignait en quelque sorte et les réunissait, en leur fournissant par là un passage libre, sans être obligés de passer sur les terres de leurs voisins. De cette sorte on vit l'accomplissement de la prédiction de Moïse,[101] qui avait dit que Nephtali posséderait la mer et le midi ; _mare et meridiem possidebit_. Il avait les avantages de la mer, parce que son lot touchait d'un bout à la mer de Tibériade, et que de là il pouvait passer dans les terres qui sont au midi de la Palestine, et profiter ainsi des richesses de ces contrées. Les Septante n'ont point lu _Juda_ en cet endroit, ce qui évite toute la difficulté du passage. Ils portent :[102] _Le Jourdain à l'orient_."
     },
     {
       "verse": 35,
       "sub": false,
       "latin_lemma": "CIVITATES MUNITISSIMÆ ASSEDIM, SER, ET EMATH.",
       "lemma": "Ses villes les plus fortes étaient Assédim, Ser, et Emath.",
-      "text": "Les Septante lisent :[100] _Les villes fortes des Tyriens, Tyr et Emath, ou Amath._ On ne sait pas la situation d'Assédim, ni de Ser, ou _Zer_. Peut-être Assédim, ou _Hacidim_ est un nom de peuples. Pour ce qui est d'Emath, nous avons tâché de faire voir que c'était Emèse, Num. XIII. 22. et XXXIV. 8.\nCENERET. C'est apparemment la mer de ce nom qu'il veut désigner ici, car on a marqué ailleurs,[101] après S. Jérôme, que la ville de Céneret était Tibériade, laquelle se trouve assez loin du partage de Nephthali, sur le côté méridional du lac ou de la mer de Cinneret, au lieu que la tribu de Nephthali ne touchait ce lac que par l'extrémité opposée. Bonfrerius croit que la ville de Céneret était _Capharnaüm_, ou quelque lieu voisin."
+      "text": "Les Septante lisent :[103] _Les villes fortes des Tyriens, Tyr et Emath, ou Amath._ On ne sait pas la situation d'Assédim, ni de Ser, ou _Zer_. Peut-être Assédim, ou _Hacidim_ est un nom de peuples. Pour ce qui est d'Emath, nous avons tâché de faire voir que c'était Emèse, Num. XIII. 22. et XXXIV. 8.\nCENERET. C'est apparemment la mer de ce nom qu'il veut désigner ici, car on a marqué ailleurs,[104] après S. Jérôme, que la ville de Céneret était Tibériade, laquelle se trouve assez loin du partage de Nephthali, sur le côté méridional du lac ou de la mer de Cinneret, au lieu que la tribu de Nephthali ne touchait ce lac que par l'extrémité opposée. Bonfrerius croit que la ville de Céneret était _Capharnaüm_, ou quelque lieu voisin."
     },
     {
       "verse": 36,
       "sub": false,
       "latin_lemma": "EDEMA, HARAMA, ASOR.",
-      "lemma": "On pourrait traduire, Adama, Rama",
-      "text": "ou la hauteur, et Hasor. Cette dernière est la Capitale du Royaume de Jabin, dont on a parlé ailleurs.[102]"
+      "lemma": null,
+      "text": "On pourrait traduire, _Adama_, _Rama_, ou la hauteur, _et Hasor_. Cette dernière est la Capitale du Royaume de Jabin, dont on a parlé ailleurs.[105]"
     },
     {
       "verse": 36,
       "sub": false,
       "latin_lemma": "CEDE'S.",
       "lemma": null,
-      "text": "Elle est nommée Cédès de Nephtali dans quelques endroits de l'Écriture,[103] pour la distinguer des autres villes de même nom dans d'autres tribus. Celle-ci fut cédée aux Lévites,[104] et fut nommée pour être une des villes d'asile; S. Jérôme la met à vingt milles de Tyr, en tirant vers Panéade."
+      "text": "Elle est nommée Cédès de Nephtali dans quelques endroits de l'Écriture,[106] pour la distinguer des autres villes de même nom dans d'autres tribus. Celle-ci fut cédée aux Lévites,[107] et fut nommée pour être une des villes d'asile; S. Jérôme la met à vingt milles de Tyr, en tirant vers Panéade."
     },
     {
       "verse": 36,
@@ -439,7 +488,7 @@
       "sub": false,
       "latin_lemma": "EN-HASOR,",
       "lemma": null,
-      "text": "ou la fontaine d'Asor. C'est apparemment la fontaine de Daphné qui tombait dans le lac Séméchon, près de la ville d'Asor. Josèphe nous décrit ce lieu comme un des plus délicieux du pays, à cause des fontaines et des arbres qui y sont, et qui lui ont fait donner le nom de _fontaine de Daphné_, ou du Laurier, peut-être par imitation du délicieux Faubourg de Daphné près d'Antioche."
+      "text": "ou _la fontaine d'Asor_. C'est apparemment la fontaine de Daphné qui tombait dans le lac Séméchon, près de la ville d'Asor. Josèphe nous décrit ce lieu comme un des plus délicieux du pays, à cause des fontaines et des arbres qui y sont, et qui lui ont fait donner le nom de _fontaine de Daphné_, ou du Laurier, peut-être par imitation du délicieux Faubourg de Daphné près d'Antioche."
     },
     {
       "verse": 38,
@@ -467,7 +516,7 @@
       "sub": false,
       "latin_lemma": "SARAA, ESTHAOL.",
       "lemma": null,
-      "text": "On a parlé de ces villes ailleurs.[105] HIR-SEMES, ou la ville du soleil. Il y en a qui croient que c’est la même que _Betsemés_, la demeure du soleil, qui est ordinairement attribuée à la tribu de Juda. On sait que les tribus de Juda et de Dan étant limitrophes, leurs villes ont souvent été communes, ou sont passées de l’une à l’autre. Cette même ville de Betsemés de Juda fut cédée aux Lévites; ainsi elle était en même temps à Juda, à Dan, et aux Lévites."
+      "text": "On a parlé de ces villes ailleurs.[108] HIR-SEMES, ou la ville du soleil. Il y en a qui croient que c’est la même que _Betsemés_, la demeure du soleil, qui est ordinairement attribuée à la tribu de Juda. On sait que les tribus de Juda et de Dan étant limitrophes, leurs villes ont souvent été communes, ou sont passées de l’une à l’autre. Cette même ville de Betsemés de Juda fut cédée aux Lévites; ainsi elle était en même temps à Juda, à Dan, et aux Lévites."
     },
     {
       "verse": 42,
@@ -495,7 +544,7 @@
       "sub": false,
       "latin_lemma": "THEMNA, ou Thamna.",
       "lemma": null,
-      "text": "On en a parlé dans le dénombrement des villes de Juda.[106]"
+      "text": "On en a parlé dans le dénombrement des villes de Juda.[109]"
     },
     {
       "verse": 43,
@@ -509,7 +558,7 @@
       "sub": false,
       "latin_lemma": "ELTHECE', Elthéco, ou Elthécon.",
       "lemma": null,
-      "text": "Elle fut d’abord à Juda;[107] ensuite on la céda à Dan, et enfin elle fut assignée aux Lévites pour leur demeure.[108] Cela n’est point incompatible, elle pouvait être peuplée par des Israélites de trois tribus différentes."
+      "text": "Elle fut d’abord à Juda;[110] ensuite on la céda à Dan, et enfin elle fut assignée aux Lévites pour leur demeure.[111] Cela n’est point incompatible, elle pouvait être peuplée par des Israélites de trois tribus différentes."
     },
     {
       "verse": 44,
@@ -523,7 +572,7 @@
       "sub": false,
       "latin_lemma": "BALAAT, ou Baalat.",
       "lemma": null,
-      "text": "Il y avait une ville de _Baala_, ou _Balot_ dans Juda,[109] et une autre dans Siméon ;[110] Salomon en fortifia une de même nom.[111] Mais qui nous dira laquelle des trois est marquée ici, ou même si ces trois n’en font qu’une?"
+      "text": "Il y avait une ville de _Baala_, ou _Balot_ dans Juda,[112] et une autre dans Siméon ;[113] Salomon en fortifia une de même nom.[114] Mais qui nous dira laquelle des trois est marquée ici, ou même si ces trois n’en font qu’une?"
     },
     {
       "verse": 45,
@@ -537,7 +586,7 @@
       "sub": false,
       "latin_lemma": "GETH-REMMON.",
       "lemma": "Il y a une ville de ce nom dans la tribu de Manassé.",
-      "text": "[112] Celle dont il s’agit ici en était assez éloignée. Quelques-uns [113] croient que c’est la même que Geth capitale d’un canton des Philistins. D’autres distinguent ces deux villes. La ville de Geth des Philistins se trouve toujours nommée Geth, sans addition ; mais celle de Geth-remmon, ne se lit jamais qu’avec l’addition de Remmon. Saint Jérôme met cette dernière à douze milles d’Eleutéropolis sur le chemin de Diospolis"
+      "text": "[115] Celle dont il s’agit ici en était assez éloignée. Quelques-uns [116] croient que c’est la même que Geth capitale d’un canton des Philistins. D’autres distinguent ces deux villes. La ville de Geth des Philistins se trouve toujours nommée Geth, sans addition ; mais celle de Geth-remmon, ne se lit jamais qu’avec l’addition de Remmon. Saint Jérôme met cette dernière à douze milles d’Eleutéropolis sur le chemin de Diospolis"
     },
     {
       "verse": 46,
@@ -551,20 +600,20 @@
       "sub": false,
       "latin_lemma": "ET IPSO FINE CONCLUDITUR.",
       "lemma": "Et c’est là que se termine ce partage.",
-      "text": "L’Hébreu : [114] _Et les limites de Dan sont sorties d’eux._ Les Danites portèrent leurs limites plus loin qu’ils n’étaient marqués dans leur partage. Ils sortirent de leur pays, pour chercher des terres ailleurs ; c’est comme un préambule à l’histoire qu’on va raconter. On peut traduire de cette sorte : _Les limites de Dan les abandonnèrent_, les quittèrent, la plupart des villes de leur partage les ayant abandonnés, s’étant révoltées contre eux ; les Philistins et les Cananéens qui étaient dans ces lieux, ayant refusé de leur payer le tribut, lorsqu’ils virent Josué mort ; cette tribu fut obligée, ne pouvant demeurer dans ses limites, parce que son pays se trouva trop resserré pour elle, de chercher d’autres terres. Autrement les frontières de Dan sortaient de ces villes, de ces lieux, dont il vient de parler, elles passaient par tous ces endroits."
+      "text": "L’Hébreu : [117] _Et les limites de Dan sont sorties d’eux._ Les Danites portèrent leurs limites plus loin qu’ils n’étaient marqués dans leur partage. Ils sortirent de leur pays, pour chercher des terres ailleurs ; c’est comme un préambule à l’histoire qu’on va raconter. On peut traduire de cette sorte : _Les limites de Dan les abandonnèrent_, les quittèrent, la plupart des villes de leur partage les ayant abandonnés, s’étant révoltées contre eux ; les Philistins et les Cananéens qui étaient dans ces lieux, ayant refusé de leur payer le tribut, lorsqu’ils virent Josué mort ; cette tribu fut obligée, ne pouvant demeurer dans ses limites, parce que son pays se trouva trop resserré pour elle, de chercher d’autres terres. Autrement les frontières de Dan sortaient de ces villes, de ces lieux, dont il vient de parler, elles passaient par tous ces endroits."
     },
     {
       "verse": 47,
       "sub": false,
       "latin_lemma": "ASCENDERUNT FILII DAN, ET PUGNAVERUNT CONTRA LESEM.",
       "lemma": "Les enfants de Dan ayant marché contre Lésem, l’assiégèrent,",
-      "text": "la prirent. La ville de Lésem, qui porta le nom de Dan, depuis l’affaire qui est racontée ici, était au pied du mont Liban, environ à quatre milles de Panéade, et des sources du Jourdain, en allant à Tyr.[115] Josèphe dit qu’elle était à une journée de la grande campagne de Sidon. Dan n’était donc point la même que Panéade, ou Césarée de Philippe. C’est de cette ville et de celle de Bersabée, qu’on prenait la longueur de la Palestine : D’où vient qu’on trouve si souvent dans l’Écriture ; _On assembla tout le peuple depuis Dan jusqu’à Bersabée._\nL’histoire qu’on lit ici en abrégé se verra plus au long dans le Livre des Juges ; où elle est rapportée en sa place naturelle.[116] On examinera sur cet endroit les difficultés qu’on forme touchant cette entreprise.\nLes Septante[117] sont fort différents de l’hébreu dans les versets 46, 47 et 48. Voici comme ils lisent : _℣. 46. Du côté de la mer, Jéracon est la limite près de Joppé. 47. Voilà l’héritage de la tribu des enfants de Dan, selon leurs divers peuples, leurs villes, et leurs bourgades. Et les enfants de Dan ne détruisirent pas les Amorrhéens, qui les resserraient dans la montagne, et qui ne leur permettaient pas de descendre dans la plaine. 48. Et ceux de Dan ruinèrent leur propre héritage,[118] ( ou ils désolèrent leur propre héritage usurpé sur eux par les Amorrhéens, ) et les enfants de Dan allèrent pour attaquer Lachis, ( ou Lésem, ) ils la prirent et la passèrent au fil de l’épée ; ils s’y établirent et la nommèrent Lasen-Dan, et les Amorrhéens continuèrent de demeurer à Elem, et à Salamin ; et la main d’Éphraïm s’appesantit sur eux, et ils lui demeurèrent tributaires. 49. Et les Israélites continuèrent de parcourir les limites de leur partage._"
+      "text": "la prirent. La ville de Lésem, qui porta le nom de Dan, depuis l’affaire qui est racontée ici, était au pied du mont Liban, environ à quatre milles de Panéade, et des sources du Jourdain, en allant à Tyr.[118] Josèphe dit qu’elle était à une journée de la grande campagne de Sidon. Dan n’était donc point la même que Panéade, ou Césarée de Philippe. C’est de cette ville et de celle de Bersabée, qu’on prenait la longueur de la Palestine : D’où vient qu’on trouve si souvent dans l’Écriture ; _On assembla tout le peuple depuis Dan jusqu’à Bersabée._\nL’histoire qu’on lit ici en abrégé se verra plus au long dans le Livre des Juges ; où elle est rapportée en sa place naturelle.[119] On examinera sur cet endroit les difficultés qu’on forme touchant cette entreprise.\nLes Septante[120] sont fort différents de l’hébreu dans les versets 46, 47 et 48. Voici comme ils lisent : _℣. 46. Du côté de la mer, Jéracon est la limite près de Joppé. 47. Voilà l’héritage de la tribu des enfants de Dan, selon leurs divers peuples, leurs villes, et leurs bourgades. Et les enfants de Dan ne détruisirent pas les Amorrhéens, qui les resserraient dans la montagne, et qui ne leur permettaient pas de descendre dans la plaine. 48. Et ceux de Dan ruinèrent leur propre héritage,[121] ( ou ils désolèrent leur propre héritage usurpé sur eux par les Amorrhéens, ) et les enfants de Dan allèrent pour attaquer Lachis, ( ou Lésem, ) ils la prirent et la passèrent au fil de l’épée ; ils s’y établirent et la nommèrent Lasen-Dan, et les Amorrhéens continuèrent de demeurer à Elem, et à Salamin ; et la main d’Éphraïm s’appesantit sur eux, et ils lui demeurèrent tributaires. 49. Et les Israélites continuèrent de parcourir les limites de leur partage._"
     },
     {
       "verse": 47,
       "sub": false,
       "latin_lemma": "VOCANTES NOMEN EIUS, LESEM-DAN.",
-      "lemma": "L’hébreu :[119] Ils donnèrent le nom de Dan à la ville de Lésem.",
+      "lemma": "L’hébreu :[122] Ils donnèrent le nom de Dan à la ville de Lésem.",
       "text": ""
     },
     {
@@ -578,8 +627,8 @@
       "verse": 50,
       "sub": false,
       "latin_lemma": "THAMNATH-SARAA IN MONTE EPHRAIM.",
-      "lemma": "Thamnath Saraa, ou Thamnat-Saré,[121] ou Thamnat-Cherés, comme elle est appelée dans l'Hébreu du Livre des Juges :[122] dans les montagnes d'Éphraïm.",
-      "text": "On voit ci-après que la montagne où Thamnat-Saré était bâtie, se nommait Gaas,[120] et que la ville était au septentrion de cette montagne."
+      "lemma": "Thamnath Saraa, ou Thamnat-Saré,[124] ou Thamnat-Cherés, comme elle est appelée dans l'Hébreu du Livre des Juges :[125] dans les montagnes d'Éphraïm.",
+      "text": "On voit ci-après que la montagne où Thamnat-Saré était bâtie, se nommait Gaas,[123] et que la ville était au septentrion de cette montagne."
     },
     {
       "verse": 50,
@@ -603,27 +652,6 @@
       "mode": "flow",
       "before": "était la même que Bersabée ; ceux qui ne sont point de cet",
       "after": "avis, peuvent employer ici les solutions qu'on a données c"
-    },
-    {
-      "seam": "page_0331>page_0331",
-      "verse": 12,
-      "mode": "para",
-      "before": "ur nouveau met Japha à une lieue de Nazareth vers le midi.",
-      "after": "THACASIN. Cette ville ne devait pas être éloignée de la me"
-    },
-    {
-      "seam": "page_0331>page_0331",
-      "verse": 12,
-      "mode": "para",
-      "before": "iade, étant à l'extrémité orientale du partage de Zabulon.",
-      "after": "REMMON, AMTHAR, NOA, ou _Anoa_, comme lisent les Sep-"
-    },
-    {
-      "seam": "page_0331>page_0332",
-      "verse": 12,
-      "mode": "splice",
-      "before": "REMMON, AMTHAR, NOA, ou _Anoa_, comme lisent les Sep-",
-      "after": "tante. Nous ne connaissons pas la position de ces lieux, n"
     },
     {
       "seam": "page_0332>page_0333",
@@ -670,8 +698,8 @@
     {
       "seam": "page_0338>page_0339",
       "verse": 29,
-      "mode": "mend",
-      "before": "t Josué, puisqu'on croit que Cadmus ne se retira dans Tyr.",
+      "mode": "flow",
+      "before": " avant Josué, puisqu'on croit que Cadmus ne se retira dans",
       "after": "la Grèce, qu'après l'arrivée de Josué dans la terre de Can"
     },
     {
@@ -698,9 +726,16 @@
     {
       "seam": "page_0344>page_0345",
       "verse": 36,
-      "mode": "hyphen",
-      "before": "On pourrait traduire, Adama, Rama",
-      "after": "Rama, ou la hauteur, et Hasor. Cette dernière est la Capit"
+      "mode": "flow",
+      "before": "On pourrait traduire, _Adama_,",
+      "after": "_Rama_, ou la hauteur, _et Hasor_. Cette dernière est la C"
+    },
+    {
+      "seam": "page_0346>page_0346",
+      "verse": 41,
+      "mode": "flow",
+      "before": "On a parlé de ces villes ailleurs.^{fn:page_0346-a}",
+      "after": "HIR-SEMES, ou la ville du soleil. Il y en a qui croient qu"
     },
     {
       "seam": "page_0347>page_0348",
@@ -859,498 +894,513 @@
       "text": "Joseph. in vita sua, et lib. 3. de Bello c. 21."
     },
     {
-      "key": "page_0332-a",
+      "key": "page_0331-d",
       "n": 24,
+      "text": "4. Reg. XIV. 25."
+    },
+    {
+      "key": "page_0331-e",
+      "n": 25,
+      "text": "Hieronym. præm. in Jonam."
+    },
+    {
+      "key": "page_0331-f",
+      "n": 26,
+      "text": "Josue XIII. 17."
+    },
+    {
+      "key": "page_0332-a",
+      "n": 27,
       "text": "רמון המתאר Sym. apud Drus. Remmon inclyta."
     },
     {
       "key": "page_0332-b",
-      "n": 25,
+      "n": 28,
       "text": "Josue xi. 1."
     },
     {
       "key": "page_0333-a",
-      "n": 26,
+      "n": 29,
       "text": "Genes. XLIX. 13. 14."
     },
     {
       "key": "page_0333-b",
-      "n": 27,
+      "n": 30,
       "text": "I. Reg. XXVIII. 4."
     },
     {
       "key": "page_0333-c",
-      "n": 28,
+      "n": 31,
       "text": "I. Par. VI. 73."
     },
     {
       "key": "page_0333-d",
-      "n": 29,
+      "n": 32,
       "text": "Josue XXI. 29."
     },
     {
       "key": "page_0333-e",
-      "n": 30,
+      "n": 33,
       "text": "I. Par. VI. 73."
     },
     {
-      "key": "page_0334-c",
-      "n": 31,
-      "text": "_Josue_ XXI. 31."
-    },
-    {
       "key": "page_0334-a",
-      "n": 32,
+      "n": 34,
       "text": "_Josue_ XXI. 31."
     },
     {
       "key": "page_0334-b",
-      "n": 33,
+      "n": 35,
       "text": "_I. Par._ VI. 75."
     },
     {
+      "key": "page_0334-c",
+      "n": 36,
+      "text": "_Josue_ XXI. 31."
+    },
+    {
       "key": "page_0334-e",
-      "n": 34,
+      "n": 37,
       "text": "_Vide ad Josue_ XV. 55."
     },
     {
       "key": "page_0334-f",
-      "n": 35,
+      "n": 38,
       "text": "_3. Reg._ XVIII. 20."
     },
     {
       "key": "page_0334-g",
-      "n": 36,
+      "n": 39,
       "text": "_Lib. 3. de Bello c. 17._"
     },
     {
       "key": "page_0334-h",
-      "n": 37,
+      "n": 40,
       "text": "_Plin. l. 5. c. 17. Promontorium Carmelum, et in monte oppidum eodem nomine,_"
     },
     {
       "key": "page_0335-a",
-      "n": 38,
+      "n": 41,
       "text": "Tacit. l. 2. Hist. c. 78."
     },
     {
       "key": "page_0335-b",
-      "n": 39,
+      "n": 42,
       "text": "Cant. VII. 5. Caput tuum ut Carmelus."
     },
     {
       "key": "page_0335-c",
-      "n": 40,
+      "n": 43,
       "text": "Isai. XXXII. 15."
     },
     {
       "key": "page_0335-d",
-      "n": 41,
+      "n": 44,
       "text": "Ieronym. in Isai. l. 48. et in Ierem. IV."
     },
     {
       "key": "page_0335-e",
-      "n": 42,
+      "n": 45,
       "text": "Joseph de Bello l. 3. c. 4. et lib. de vita sua."
     },
     {
       "key": "page_0335-f",
-      "n": 43,
+      "n": 46,
       "text": "Vide Herodot. l. 3. c. 64."
     },
     {
       "key": "page_0334-d",
-      "n": 44,
+      "n": 47,
       "text": "חוף הים"
     },
     {
       "key": "page_0336-a",
-      "n": 45,
+      "n": 48,
       "text": "Josue xv. 41."
     },
     {
       "key": "page_0336-b",
-      "n": 46,
+      "n": 49,
       "text": "Joseph l. 2. de Bello c. 37. S. Zabulon διείλεν δὲ ἀπὸ ἐθνῶν τὴν πτόλεμαιδα."
     },
     {
       "key": "page_0336-c",
-      "n": 47,
+      "n": 50,
       "text": "Josue XIX. 14."
     },
     {
       "key": "page_0336-d",
-      "n": 48,
+      "n": 51,
       "text": "Malv. Mas. Grot. Jun."
     },
     {
       "key": "page_0336-e",
-      "n": 49,
+      "n": 52,
       "text": "3. Reg. IX. II. 12. 13."
     },
     {
       "key": "page_0336-f",
-      "n": 50,
+      "n": 53,
       "text": "Boufr. et huic demonstrat. Evang."
     },
     {
       "key": "page_0336-g",
-      "n": 51,
+      "n": 54,
       "text": "Joseph de Vita sua. εἰς χαβωλὼ κώμην πτολεμαιδῷ μάλισα γείτων."
     },
     {
       "key": "page_0336-h",
-      "n": 52,
+      "n": 55,
       "text": "Lib. 3 de Bello, c. 4. Εἰς κατω καλυμένην γαλιλαιαν ἀπὸ Τιβεριάδος, μέχρι χαβωλῶνος, ἣν τῇ πτολεμαΐδι, ἐπίκειμαι γῆθεν, τὸ μῆκος ἐκτετάμενα."
     },
     {
       "key": "page_0336-i",
-      "n": 53,
+      "n": 56,
       "text": "Abran, עברן Acran, עכרן etc."
     },
     {
       "key": "page_0336-k",
-      "n": 54,
+      "n": 57,
       "text": "℣. 30."
     },
     {
       "key": "page_0336-l",
-      "n": 55,
+      "n": 58,
       "text": "Josue XXI. 31. et 1. Par. VI. 75."
     },
     {
       "key": "page_0336-m",
-      "n": 56,
+      "n": 59,
       "text": "Judic. I. 31."
     },
     {
       "key": "page_0336-n",
-      "n": 57,
+      "n": 60,
       "text": "Num. XIII. 22."
     },
     {
       "key": "page_0337-a",
-      "n": 58,
+      "n": 61,
       "text": "I. Par. VI. 76."
     },
     {
       "key": "page_0337-b",
-      "n": 59,
+      "n": 62,
       "text": "Josue XXI. 32."
     },
     {
       "key": "page_0337-c",
-      "n": 60,
+      "n": 63,
       "text": "Johan. II. I."
     },
     {
       "key": "page_0337-d",
-      "n": 61,
+      "n": 64,
       "text": "Cana usque ad Sidon majorem, ( est quippe et altera minor ad cujus distinctionem major hæc dicitur.) Fuit autem Cana in tribu Aser, etc."
     },
     {
       "key": "page_0337-e",
-      "n": 62,
+      "n": 65,
       "text": "Joseph. lib. de Vita sua. Vide Celer. in Cana p. 300."
     },
     {
       "key": "page_0337-f",
-      "n": 63,
+      "n": 66,
       "text": "הרמה"
     },
     {
       "key": "page_0338-a",
-      "n": 64,
+      "n": 67,
       "text": "Apud Euseb. Præp. l. 1. c. ult."
     },
     {
       "key": "page_0338-b",
-      "n": 65,
+      "n": 68,
       "text": "Ioseph Antiq. l. VIII. c. 2."
     },
     {
       "key": "page_0338-c",
-      "n": 66,
+      "n": 69,
       "text": "Nous mettons la Dédicace du Temple en 3001. et la mort de Josué en 2570."
     },
     {
       "key": "page_0338-d",
-      "n": 67,
+      "n": 70,
       "text": "Iustin. l. 18. à Rege Ascaloniorum victi Sidonii navibus appulsi, Tyrum urbem ante annum ... Trojanæ Cladis condiderunt."
     },
     {
       "key": "page_0338-e",
-      "n": 68,
+      "n": 71,
       "text": "Herodot. l. 2. c. 44."
     },
     {
       "key": "page_0338-f",
-      "n": 69,
+      "n": 72,
       "text": "Quint. Curt. l. 4. c. 4."
     },
     {
       "key": "page_0338-g",
-      "n": 70,
+      "n": 73,
       "text": "Isai. XXIII. 12. _Non adjicies ultra ut glorieris calumniam sustinens, virgo filia Sidonis._"
     },
     {
       "key": "page_0338-h",
-      "n": 71,
+      "n": 74,
       "text": "Strabo l. 16. _Ομηρος δ᾽ ου᾽δε μνημην της Τυρου._"
     },
     {
       "key": "page_0339-a",
-      "n": 72,
+      "n": 75,
       "text": "Strabo lib. 16. τῦρος ἐςὶν ὅλως νῆσος.... συνῆπται δὲ χώματι πρὸς τὴν ἤπειρον, ὃ κατεσκεύασε παλιορκῶν Ἀλέξανδρος."
     },
     {
       "key": "page_0339-b",
-      "n": 73,
+      "n": 76,
       "text": "Plin. lib. 5. c. 19."
     },
     {
       "key": "page_0339-c",
-      "n": 74,
+      "n": 77,
       "text": "Eccli. XLVI. 20."
     },
     {
       "key": "page_0339-d",
-      "n": 75,
+      "n": 78,
       "text": "Reg. VII. 11."
     },
     {
       "key": "page_0339-e",
-      "n": 76,
+      "n": 79,
       "text": "2. Reg. V. 1. et 1. Par. XIV. 1."
     },
     {
       "key": "page_0339-f",
-      "n": 77,
+      "n": 80,
       "text": "2. Reg. XXIV. 7."
     },
     {
       "key": "page_0339-g",
-      "n": 78,
+      "n": 81,
       "text": "Dius, apud Joseph. contra Appion. l. 1. pag. 1042."
     },
     {
       "key": "page_0339-h",
-      "n": 79,
+      "n": 82,
       "text": "Joseph ibidem pag. 1042. θύλας ἔχοντα τὸν ἑυρύχωρον, τῆι τε χρυσῆι κιόνι, τὸν ἐν τῶι Διὸς, ἀνέθηκεν."
     },
     {
       "key": "page_0340-b",
-      "n": 80,
+      "n": 83,
       "text": "De Præpar. l. X. c. 33. 34."
     },
     {
       "key": "page_0340-c",
-      "n": 81,
+      "n": 84,
       "text": "Ezech. XXVII. et XXVIII."
     },
     {
       "key": "page_0340-d",
-      "n": 82,
+      "n": 85,
       "text": "Ieron. in Ezech. XXVI et XXVIII, et Amos I."
     },
     {
       "key": "page_0340-e",
-      "n": 83,
+      "n": 86,
       "text": "Ezech. XXVIII. 25. Glorificata es nimis in corde maris."
     },
     {
       "key": "page_0340-f",
-      "n": 84,
+      "n": 87,
       "text": "Isai. XXIII. 6."
     },
     {
       "key": "page_0340-g",
-      "n": 85,
+      "n": 88,
       "text": "Q. Curt. l. 4. c. 2. Diodor. Sicul. l. 17. f. 40."
     },
     {
       "key": "page_0341-a",
-      "n": 86,
+      "n": 89,
       "text": "Marsham Canon. Ægypt. sæcul. XI."
     },
     {
       "key": "page_0341-b",
-      "n": 87,
+      "n": 90,
       "text": "Vide Iustin. loco sup. citat."
     },
     {
       "key": "page_0341-c",
-      "n": 88,
+      "n": 91,
       "text": "[UNCERTAIN HEBREW]"
     },
     {
       "key": "page_0341-d",
-      "n": 89,
+      "n": 92,
       "text": "Plin. lib. 5. cap. 19. Ioseph lib. 1. de Bello, cap. 11."
     },
     {
       "key": "page_0342-a",
-      "n": 90,
+      "n": 93,
       "text": "Cant. IV. 8."
     },
     {
       "key": "page_0342-b",
-      "n": 91,
+      "n": 94,
       "text": "Judic. I. 31."
     },
     {
       "key": "page_0342-c",
-      "n": 92,
+      "n": 95,
       "text": "3. Reg. XX. 26. 4. Reg. XIII. 17."
     },
     {
       "key": "page_0342-d",
-      "n": 93,
+      "n": 96,
       "text": "Zozim. l. I. c. 58."
     },
     {
       "key": "page_0342-e",
-      "n": 94,
+      "n": 97,
       "text": "Eustat. Orat. de Laud Constant. etc. μέχρι τε Λίβανε καὶ Λ'φακων ἱδρυμένον. ἐν τῷ ὄρει τῷδε ἐν τῷ μέσω πόλεως, τελευτῶσιν ἐς τὸν ἐντὸς, ἄχρις δακρύων ἀφοσίωσις ἐν ἀκορίαις."
     },
     {
       "key": "page_0342-f",
-      "n": 95,
+      "n": 98,
       "text": "Macrob. l. I. cap. 21. Saturnal. Simulacrum hujus Deæ in monte Libano fingitur capite obnupto, facie tristi, faciem manu lævâ intra amictum sustinens, lacrymæ visione conspicientium manare creduntur."
     },
     {
       "key": "page_0343-a",
-      "n": 96,
+      "n": 99,
       "text": "מאֵלון בצעננים"
     },
     {
       "key": "page_0343-b",
-      "n": 97,
+      "n": 100,
       "text": "אדמי הנקב"
     },
     {
       "key": "page_0344-a",
-      "n": 98,
+      "n": 101,
       "text": "Deut. XXXIII. 23."
     },
     {
       "key": "page_0344-b",
-      "n": 99,
+      "n": 102,
       "text": "70. In Codd. Al'x. Rom. et Aldinis ; Καὶ Ι'ορδάνης ἀπὸ ἀνατολῶν ἡλίυ."
     },
     {
       "key": "page_0344-c",
-      "n": 100,
+      "n": 103,
       "text": "ערי מבצר הצורים צר וחמת 70. והיו ערי מבצר הצרים צר וחמת Αἱ πόλεις αἱ τειχήρεις τῶν τυρίων, τύρος, καὶ Ἀμαθ. Ils ont au lieu de צורים"
     },
     {
       "key": "page_0344-d",
-      "n": 101,
+      "n": 104,
       "text": "Josuæ XI. 2."
     },
     {
       "key": "page_0345-a",
-      "n": 102,
+      "n": 105,
       "text": "Iosue XI. 1. 2."
     },
     {
       "key": "page_0345-b",
-      "n": 103,
+      "n": 106,
       "text": "Josue XXI. 31. et Judic. IV 6."
     },
     {
       "key": "page_0345-c",
-      "n": 104,
+      "n": 107,
       "text": "Josue XXI. 32. et I. Par. VI. 76."
     },
     {
       "key": "page_0346-a",
-      "n": 105,
+      "n": 108,
       "text": "Voyez Josué xvI. 33."
     },
     {
       "key": "page_0346-b",
-      "n": 106,
+      "n": 109,
       "text": "Iosue xv. 10."
     },
     {
       "key": "page_0346-c",
-      "n": 107,
+      "n": 110,
       "text": "Iosue xv. 59."
     },
     {
       "key": "page_0346-d",
-      "n": 108,
+      "n": 111,
       "text": "Iosue xxI. 23."
     },
     {
       "key": "page_0346-e",
-      "n": 109,
+      "n": 112,
       "text": "I sue xv. 24."
     },
     {
       "key": "page_0346-f",
-      "n": 110,
+      "n": 113,
       "text": "Iosue xIx. ℣. 3."
     },
     {
       "key": "page_0346-g",
-      "n": 111,
+      "n": 114,
       "text": "3. Reg. Ix. 18."
     },
     {
       "key": "page_0347-a",
-      "n": 112,
+      "n": 115,
       "text": "Josue XIX. 25."
     },
     {
       "key": "page_0347-b",
-      "n": 113,
+      "n": 116,
       "text": "Masi. Bonfr."
     },
     {
       "key": "page_0347-c",
-      "n": 114,
+      "n": 117,
       "text": "ויצא גבול בני דן מהם"
     },
     {
       "key": "page_0348-a",
-      "n": 115,
+      "n": 118,
       "text": "Euseb. et Ieron."
     },
     {
       "key": "page_0348-b",
-      "n": 116,
+      "n": 119,
       "text": "_Iudic._ XVIII. I."
     },
     {
       "key": "page_0348-c",
-      "n": 117,
+      "n": 120,
       "text": "70. Edit. Rom. Vide et Aug. qu. 10. in Josue, et Origen. homil. 14. et Nobilium hic."
     },
     {
       "key": "page_0348-d",
-      "n": 118,
+      "n": 121,
       "text": "ἐξέθλιψαν ἀπ᾽ αὐτῶν τὰ ὅρια τῆς μερίδος αὐτῶν."
     },
     {
       "key": "page_0348-e",
-      "n": 119,
+      "n": 122,
       "text": "[UNCERTAIN HEBREW] ἐκάλεσαν τὸ ὄνομα τῇ πόλει, Αδη."
     },
     {
       "key": "page_0349-c",
-      "n": 120,
+      "n": 123,
       "text": "_Josue_ XXIV. 30. _Judic._ II. 9."
     },
     {
       "key": "page_0349-a",
-      "n": 121,
+      "n": 124,
       "text": "תמנת חרס par une transposition de lettres, _Cherés, Serech_, ou _Sareh_."
     },
     {
       "key": "page_0349-b",
-      "n": 122,
+      "n": 125,
       "text": "_Judic._ II. 9."
     }
   ],

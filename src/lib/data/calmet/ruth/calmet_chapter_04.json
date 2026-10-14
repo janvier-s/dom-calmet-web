@@ -103,7 +103,14 @@
       "sub": false,
       "latin_lemma": null,
       "lemma": null,
-      "text": "Dans chaque ville il y avait une porte où l'on rendait la justice et où se terminaient les autres affaires, par-devant les Juges et les Anciens, et en présence de plusieurs témoins.\n\nDECLINA PAULISPER, ET SEDE HIC, VOCANS EUM NOMINE SUO. _Et l'appelant par son nom : venez, dit-il, et asseyez-vous._ Voilà la manière d'appeler en Jugement de ce temps-là. On n'y fait point d'autre cérémonie, que d'appeler sa partie devant les Juges, ou devant l'assemblée; tout se passe sans écrits, sans significations, sans délai. Booz appela cet homme par son nom; mais l'Auteur sacré ne l'a pas exprimé, soit qu'il l'ignorât, disent Bonfrerius [1] et Drusius, [2] Dieu n'ayant pas jugé à propos de lui révéler, soit que l'Auteur n'ait pas voulu nous l'apprendre, pour des raisons qui nous sont inconnues. Le texte Hébreu porte : [3] _Et il dit : détournez-vous, asseyez-vous ici, Peloni Almoni._ Ces deux derniers mots s'emploient pour désigner une personne, ou un lieu dont on ne fait pas, ou dont on ne veut pas dire le nom, [4] comme en Français nous disons : _Il lui dit : un tel venez ici._\nOn croit que tout ceci se passa le matin, et dans le temps qu'on sortait de la ville pour aller travailler à la campagne, ou vers le midi lorsqu'on en revenait. Joseph dit que ce fut vers le milieu du jour; et Maïmonides assure que dans les villes particulieres, les Juges étaient assis depuis le matin, jusques vers le midi."
+      "text": "Dans chaque ville il y avait une porte où l'on rendait la justice et où se terminaient les autres affaires, par-devant les Juges et les Anciens, et en présence de plusieurs témoins."
+    },
+    {
+      "verse": 16,
+      "sub": false,
+      "latin_lemma": "DECLINA PAULISPER, ET SEDE HIC, VOCANS EUM NOMINE SUO.",
+      "lemma": "Et l'appelant par son nom : venez, dit-il, et asseyez-vous.",
+      "text": "Voilà la manière d'appeler en Jugement de ce temps-là. On n'y fait point d'autre cérémonie, que d'appeler sa partie devant les Juges, ou devant l'assemblée; tout se passe sans écrits, sans significations, sans délai. Booz appela cet homme par son nom; mais l'Auteur sacré ne l'a pas exprimé, soit qu'il l'ignorât, disent Bonfrerius [1] et Drusius, [2] Dieu n'ayant pas jugé à propos de lui révéler, soit que l'Auteur n'ait pas voulu nous l'apprendre, pour des raisons qui nous sont inconnues. Le texte Hébreu porte : [3] _Et il dit : détournez-vous, asseyez-vous ici, Peloni Almoni._ Ces deux derniers mots s'emploient pour désigner une personne, ou un lieu dont on ne fait pas, ou dont on ne veut pas dire le nom, [4] comme en Français nous disons : _Il lui dit : un tel venez ici._\nOn croit que tout ceci se passa le matin, et dans le temps qu'on sortait de la ville pour aller travailler à la campagne, ou vers le midi lorsqu'on en revenait. Joseph dit que ce fut vers le milieu du jour; et Maïmonides assure que dans les villes particulieres, les Juges étaient assis depuis le matin, jusques vers le midi."
     },
     {
       "verse": 18,
@@ -128,13 +135,6 @@
     }
   ],
   "joins": [
-    {
-      "seam": "page_0030>page_0030",
-      "verse": 16,
-      "mode": "para",
-      "before": "Juges et les Anciens, et en présence de plusieurs témoins.",
-      "after": "DECLINA PAULISPER, ET SEDE HIC, VOCANS EUM NOMINE SUO. _Et"
-    },
     {
       "seam": "page_0030>page_0031",
       "verse": 16,

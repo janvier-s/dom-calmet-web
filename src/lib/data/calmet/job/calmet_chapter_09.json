@@ -5,7 +5,7 @@
       "sub": false,
       "latin_lemma": "VERE SCIO QUOD ITA SIT.",
       "lemma": "Je sais que cela est ainsi.",
-      "text": "Job répond aux principes établis par Eliphaz,[2] et par Baldad,[3] que Dieu ne punit jamais un innocent ; et il y répond avec une humilité, et une piété admirables. Il avoue que Dieu est infiniment juste, et que toute la justice de l'homme n'est rien en sa présence ; que si Dieu nous traite avec rigueur, et suivant nos seuls mérites, nous méritons toute sorte de châtiments, puisque nous ne sommes qu'infirmité, que péché, et que corruption par nous-mêmes : mais quoiqu'il reconnaisse humblement devant Dieu qu'il est pécheur, il soutient que devant les hommes, et à leur jugement, il n'a commis aucune injustice. Il est dans les dispositions où était saint Paul, qui disait :[4] Je ne me sens coupable de rien : mais je ne suis pas justifié pour cela, puisque c’est le Seigneur qui est mon Juge."
+      "text": "Job répond aux principes établis par Eliphaz,[2] et par Baldad,[3] que Dieu ne punit jamais un innocent ; et il y répond avec une humilité, et une piété admirables. Il avoue que Dieu est infiniment juste, et que toute la justice de l'homme n'est rien en sa présence ; que si Dieu nous traite avec rigueur, et suivant nos seuls mérites, nous méritons toute sorte de châtiments, puisque nous ne sommes qu'infirmité, que péché, et que corruption par nous-mêmes : mais quoiqu'il reconnaisse humblement devant Dieu qu'il est pécheur, il soutient que devant les hommes, et à leur jugement, il n'a commis aucune injustice. Il est dans les dispositions où était saint Paul, Ou, suivant l'Hébreu :[1] _Il ne méprisera point celui qui est parfait,_ irréprochable, sans défauts ; le juste, l'homme vraiment pieux qui disait :[4] Je ne me sens coupable de rien : mais je ne suis pas justifié pour cela, puisque c’est le Seigneur qui est mon Juge."
     },
     {
       "verse": 3,
@@ -220,10 +220,17 @@
   ],
   "joins": [
     {
-      "seam": "page_0151>page_0152",
+      "seam": "page_0151>page_0151",
       "verse": 2,
       "mode": "flow",
       "before": "justice. Il est dans les dispositions où était saint Paul,",
+      "after": "Ou, suivant l'Hébreu :^{(a)} _Il ne méprisera point celui "
+    },
+    {
+      "seam": "page_0151>page_0152",
+      "verse": 2,
+      "mode": "mend",
+      "before": "rochable, sans défauts ; le juste, l'homme vraiment pieux.",
       "after": "qui disait :^{(a)} Je ne me sens coupable de rien : mais j"
     },
     {

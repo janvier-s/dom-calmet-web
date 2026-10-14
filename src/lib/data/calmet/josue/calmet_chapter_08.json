@@ -47,7 +47,7 @@
       "sub": false,
       "latin_lemma": "VASTABITIS CIVITATEM.",
       "lemma": "Vous ravagerez la ville.",
-      "text": "L'Hébreu porte breu : [9] _Vous vous rendrez les maîtres de la ville. Ou vous en chasserez les habitants, ou enfin vous dépouillerez, vous pillerez, vous détruirez la ville._"
+      "text": "L'Hébreu : [9] _Vous vous rendrez les maîtres de la ville. Ou vous en chasserez les habitants, ou enfin vous dépouillerez, vous pillerez, vous détruirez la ville._"
     },
     {
       "verse": 8,
@@ -236,7 +236,7 @@
       "sub": false,
       "latin_lemma": "POST HÆC LEGIT OMNIA VERBA BENEDICTIONIS, ET MALEDICTIONIS.",
       "lemma": "Après cela il lut toutes les paroles de bénédiction et de malédiction.",
-      "text": "Après avoir béni le peuple, il fit lire par un Prêtre, ou par un Lévite, ou il lut lui-même, les bénédictions, et"
+      "text": "Après avoir béni le peuple, il fit lire par un Prêtre, ou par un Lévite, ou il lut lui-même, les bénédictions, et les malédictions exprimées dans Moïse. Josué demeura apparemment entre les montagnes d'Hébal et de Garizim, pour présider à cette cérémonie : Ainsi se renouvela l'alliance faite à Sinaï. La plupart de ceux qui y avaient eu part, étant morts dans le désert, leurs enfants en renouvellent la mémoire, et s'engagent à en observer les conditions."
     }
   ],
   "joins": [
@@ -264,8 +264,8 @@
     {
       "seam": "page_0166>page_0167",
       "verse": 7,
-      "mode": "flow",
-      "before": "L'Hébreu porte",
+      "mode": "splice",
+      "before": "L'Hé-",
       "after": "breu : ^{(a)} _Vous vous rendrez les maîtres de la ville. "
     },
     {
@@ -323,6 +323,13 @@
       "mode": "flow",
       "before": "ictions qu'on prononça de part et d'autre : on n'a rien de",
       "after": "décisif sur cela. Tous les Rabbins croient qu'on y écrivit"
+    },
+    {
+      "seam": "page_0180>page_0181",
+      "verse": 34,
+      "mode": "flow",
+      "before": "ou par un Lévite, ou il lut lui-même, les bénédictions, et",
+      "after": "les malédictions exprimées dans Moïse. Josué demeura appar"
     }
   ],
   "pages_used": [
@@ -343,7 +350,8 @@
     "page_0177",
     "page_0178",
     "page_0179",
-    "page_0180"
+    "page_0180",
+    "page_0181"
   ],
   "footnotes": [
     {

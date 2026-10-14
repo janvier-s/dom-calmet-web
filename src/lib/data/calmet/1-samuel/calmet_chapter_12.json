@@ -89,7 +89,14 @@
       "sub": false,
       "latin_lemma": "JEROBAAL ET BADAN.",
       "lemma": "Jérobaal et Gédéon,",
-      "text": "qui vainquit les Madianites. Badan ne se trouve point sous ce nom dans l'histoire des Juges. Les Septante lisent _Barac_, qui défit Sisara, et l'armée du Roi d'Hasor. D'autres [21] soutiennent que Badan est le même que Jaïr de la tribu de Manassé, qui jugea Israël pendant vingt-trois ans. [22] Il y a un _Badan_ arrière-petit-fils de Machir ; [23] Jaïr était de la même famille, descendu d'une fille de Machir. [24] Mais la plupart des Commentateurs [25] soutiennent que Badan est le même que Samson, qui était de la tribu de Dan. Le Paraphraste Caldéen, et les Juifs, Auteurs peu certains, ont fait recevoir cette opinion sans aucune bonne preuve. J'aimerais beaucoup mieux l'entendre de Jaïr, comme nous l'avons dit; ce n'est point une chose rare dans l'Écriture de donner plusieurs noms à un même homme; il est sans exemple, et contraire à toute l'analogie de la Langue sainte, de nommer un Danite, _Bé-dan_, non plus qu'un homme de Juda, _Bé-juda_, ou un homme d'Ephraïm, _Bé-ephraïm_.\n\nET SAMUEL. Samuel parle de lui-même comme il ferait d'un autre; il ne devait pas dans une rencontre où il s'agissait de soutenir les intérêts et la gloire de Dieu, dissimuler par une modestie hors de saison, les services qu'il avait rendus à la République, et dont toute l'assemblée était témoin."
+      "text": "qui vainquit les Madianites. Badan ne se trouve point sous ce nom dans l'histoire des Juges. Les Septante lisent _Barac_, qui défit Sisara, et l'armée du Roi d'Hasor. D'autres [21] soutiennent que Badan est le même que Jaïr de la tribu de Manassé, qui jugea Israël pendant vingt-trois ans. [22] Il y a un _Badan_ arrière-petit-fils de Machir ; [23] Jaïr était de la même famille, descendu d'une fille de Machir. [24] Mais la plupart des Commentateurs [25] soutiennent que Badan est le même que Samson, qui était de la tribu de Dan. Le Paraphraste Caldéen, et les Juifs, Auteurs peu certains, ont fait recevoir cette opinion sans aucune bonne preuve. J'aimerais beaucoup mieux l'entendre de Jaïr, comme nous l'avons dit; ce n'est point une chose rare dans l'Écriture de donner plusieurs noms à un même homme; il est sans exemple, et contraire à toute l'analogie de la Langue sainte, de nommer un Danite, _Bé-dan_, non plus qu'un homme de Juda, _Bé-juda_, ou un homme d'Ephraïm, _Bé-ephraïm_."
+    },
+    {
+      "verse": 11,
+      "sub": false,
+      "latin_lemma": "ET SAMUEL.",
+      "lemma": null,
+      "text": "Samuel parle de lui-même comme il ferait d'un autre; il ne devait pas dans une rencontre où il s'agissait de soutenir les intérêts et la gloire de Dieu, dissimuler par une modestie hors de saison, les services qu'il avait rendus à la République, et dont toute l'assemblée était témoin."
     },
     {
       "verse": 12,
@@ -218,13 +225,6 @@
       "mode": "splice",
       "before": " Samson, qui était de la tribu de Dan. Le Paraphraste Cal-",
       "after": "déen, et les Juifs, Auteurs peu certains, ont fait recevoi"
-    },
-    {
-      "seam": "page_0226>page_0226",
-      "verse": 11,
-      "mode": "para",
-      "before": "e de Juda, _Bé-juda_, ou un homme d'Ephraïm, _Bé-ephraïm_.",
-      "after": "ET SAMUEL. Samuel parle de lui-même comme il ferait d'un a"
     },
     {
       "seam": "page_0226>page_0227",

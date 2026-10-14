@@ -1,6 +1,13 @@
 {
   "notes": [
     {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "REDUCET TE DOMINUS DEUS DE CAPTIVITATE TUA",
+      "lemma": "Le Seigneur vous fera revenir de votre captivité",
+      "text": "Les Juifs attendent encore aujourd'hui l'effet de cette promesse ; ils se flattent qu'enfin Dieu touché de leurs maux, les rappellera de cette dispersion où ils sont dans tous les endroits du monde. Dans la captivité de Babylone, disent-ils, Israël ne fut pas dispersé dse la manière qui est marquée ici, _jusqu'aux extrémités du monde_ ; et lorsque le Seigneur fit revenir son peuple de cette captivité, il ne ramena pas tout Israël ; il ne le multiplia pas plus, qu'il ne l'avait jamais été ; il ne lui donna pas un cœur circoncis, comme il le promet en cet endroit : ce n'est donc pas de la captivité de Babylone, que Moïse parle ici ; ce ne peut être que de celle où ils sont depuis tant de siècles.\nMais la délivrance dont ils se flattent, n'arrivera pas de la manière qu'ils se la figurent ; il faut qu'ils reconnaissent premièrement leur erreur ; qu'ils retournent à Jésus-Christ ; qu'ils adorent celui qu'ils ont crucifié, et qu'ils entrent dans l'Eglise ; ce qui n'arrivera qu'à la fin des siècles, et lorsque la plénitude"
+    },
+    {
       "verse": 4,
       "sub": false,
       "latin_lemma": "AD CARDINES COELI.",
@@ -61,7 +68,7 @@
       "sub": false,
       "latin_lemma": null,
       "lemma": null,
-      "text": "Les Juifs attendent encore aujourd'hui l'effet de cette promesse ; ils se flattent qu'enfin Dieu touché de leurs maux, les rappellera de cette dispersion où ils sont dans tous les endroits du monde. Dans la captivité de Babylone, disent-ils, Israël ne fut pas dispersé dse la manière qui est marquée ici, _jusqu'aux extrémités du monde_ ; et lorsque le Seigneur fit revenir son peuple de cette captivité, il ne ramena pas tout Israël ; il ne le multiplia pas plus, qu'il ne l'avait jamais été ; il ne lui donna pas un cœur circoncis, comme il le promet en cet endroit : ce n'est donc pas de la captivité de Babylone, que Moïse parle ici ; ce ne peut être que de celle où ils sont depuis tant de siècles.\nMais la délivrance dont ils se flattent, n'arrivera pas de la manière qu'ils se la figurent ; il faut qu'ils reconnaissent premièrement leur erreur ; qu'ils retournent à Jésus-Christ ; qu'ils adorent celui qu'ils ont crucifié, et qu'ils entrent dans l'Eglise ; ce qui n'arrivera qu'à la fin des siècles, et lorsque la plénitude des nations sera entrée, comme parle Saint Paul [1]. Alors la prédiction de Moïse aura son parfait accomplissement ; ce qui n'empêche pas qu'elle n'ait véritablement été accomplie au retour de la captivité de Babylone ; la même Prophétie pouvant, même à la lettre, marquer divers événements. C'est ce que nous voyons dans la prière que Néhémie [2] faisait à Dieu, étant encore dans la Cour du Roi de Babylone : _Souvenez-vous de la parole que vous avez dite à votre serviteur Moïse : Lorsque vous aurez violé mes Lois, je vous disperserai parmi les peuples ; et alors si vous revenez à moi... quand vous auriez été emmenés jusqu'aux extrémités du monde, je vous rassemblerai de ces pays-là..._ Ceux-ci, Seigneur, _sont vos serviteurs et votre peuple_, etc. Il croyait donc que la menace de Moïse avait été accomplie en eux, et il espérait que Dieu voudrait bien aussi les ramener dans leurs pays, comme il l'avait promis."
+      "text": "des nations sera entrée, comme parle Saint Paul [1]. Alors la prédiction de Moïse aura son parfait accomplissement ; ce qui n'empêche pas qu'elle n'ait véritablement été accomplie au retour de la captivité de Babylone ; la même Prophétie pouvant, même à la lettre, marquer divers événements. C'est ce que nous voyons dans la prière que Néhémie [2] faisait à Dieu, étant encore dans la Cour du Roi de Babylone : _Souvenez-vous de la parole que vous avez dite à votre serviteur Moïse : Lorsque vous aurez violé mes Lois, je vous disperserai parmi les peuples ; et alors si vous revenez à moi... quand vous auriez été emmenés jusqu'aux extrémités du monde, je vous rassemblerai de ces pays-là..._ Ceux-ci, Seigneur, _sont vos serviteurs et votre peuple_, etc. Il croyait donc que la menace de Moïse avait été accomplie en eux, et il espérait que Dieu voudrait bien aussi les ramener dans leurs pays, comme il l'avait promis."
     },
     {
       "verse": 20,
@@ -72,13 +79,6 @@
     }
   ],
   "joins": [
-    {
-      "seam": "page_0390>page_0391",
-      "verse": 18,
-      "mode": "flow",
-      "before": "'arrivera qu'à la fin des siècles, et lorsque la plénitude",
-      "after": "des nations sera entrée, comme parle Saint Paul ^{(a)}. Al"
-    },
     {
       "seam": "page_0391>page_0392",
       "verse": 6,

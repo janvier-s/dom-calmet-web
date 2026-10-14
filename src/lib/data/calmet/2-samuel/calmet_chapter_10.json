@@ -50,13 +50,6 @@
       "text": "On connaît le pays de Tob dans les montagnes de Galaad, où Jephté se retira ; [8] ce pays est appelé Tubin dans les Maccabées. [9] _If-tob_ [10] à la lettre, signifie _un homme beau_, ou _bon_ ; ou l'_homme_, _le maître de Tob_ ; le petit Prince qui gouvernait ce pays."
     },
     {
-      "verse": 6,
-      "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "Paralipomènes[14] qu'outre les trente-trois mille hommes qu'on a vus ci-devant, ℣. 6. Et les troupes des Ammonites naturelles du pays. Ils avaient trente-deux mille chariots de guerre, qu'ils avaient fait venir de de-là l'Euphra-"
-    },
-    {
       "verse": 7,
       "sub": false,
       "latin_lemma": "DAVID MISIT JOAB, ET OMNEM EXERCITUM.",
@@ -68,14 +61,7 @@
       "sub": false,
       "latin_lemma": "DIREXERUNT ACIEM ANTE IPSUM INTROITUM PORTÆ.",
       "lemma": "Ils rangèrent leur armée en bataille devant l'entrée de la porte",
-      "text": "de la ville de Médaba, où se donna la bataille, comme on le voit aux Paralipomènes.[13] Les Ammonites ne jugèrent pas à propos de se laisser assiéger, ni aussi de s'exposer en pleine campagne; ils se rangèrent en bataille au pied de leurs murailles. On lit dans les"
-    },
-    {
-      "verse": 9,
-      "sub": false,
-      "latin_lemma": "VIDENTES UNIVERSI REGES, QUI ERANT IN PRÆSIDIO ADAREZER.",
-      "lemma": "Les Rois qui étaient venus au secours d'Adarézer, se voyant vaincus.",
-      "text": "L'Hébreu, [19] le Caldéen, et les Septante : _Les Rois serviteurs d'Adarézer, voyant qu'ils étaient battus par Israël, fuirent dans leur pays, et se soumirent._ Ces Rois serviteurs d'Adarézer, sont ceux de la Syrie qui lui obéissaient ; car on n'a point de preuves que ce Prince ait eu des Rois assujettis au-delà de l'Euphrate ; mais s'il y en avait, ils se soumirent à David, comme les autres, et lui payèrent le tribut. La Vulgate ajoute, que les Syriens furent saisis de crainte, et prirent la fuite devant Israël, au nombre de cinquante-huit mille hommes, ce qui n'est ni dans l'Hébreu, ni dans les Septante, ni dans l'ancienne Version de saint Jérôme. On voit par cet endroit, que David avait des peuples tributaires et assujettis jusqu'au-delà de l'Euphrate, ce qui est à remarquer. Voyez le titre du Psaume LIX."
+      "text": "de la ville de Médaba, où se donna la bataille, comme on le voit aux Paralipomènes.[13] Les Ammonites ne jugèrent pas à propos de se laisser assiéger, ni aussi de s'exposer en pleine campagne; ils se rangèrent en bataille au pied de leurs murailles. On lit dans les Paralipomènes[14] qu'outre les trente-trois mille hommes qu'on a vus ci-devant, ℣. 6. Et les troupes des Ammonites naturelles du pays. Ils avaient trente-deux mille chariots de guerre, qu'ils avaient fait venir de de-là l'Euphra-"
     },
     {
       "verse": 16,
@@ -97,6 +83,13 @@
       "latin_lemma": "OCCIDIT DAVID DE SYRIS SEPTINGENTOS CURRUS, ET QUADRAGINTA MILLIA EQUITUM.",
       "lemma": "David tailla en pièces sept cents chariots de leurs troupes, et quarante mille chevaux.",
       "text": "Dans les Paralipomènes, [17] on lit que David défit _sept mille chariots_, et _quarante mille hommes de pied_. Comment concilier tout cela ? À l'égard des sept cents, et des sept mille chariots, on peut dire qu'en supposant dix hommes qui accompagnaient chacun des sept cents chariots, de la manière que nous l'avons dit ailleurs, [18] la difficulté s'évanouit. Mais pour les quarante mille hommes de pied, opposés aux quarante mille hommes de cheval, il faut reconnaître qu'il y a une faute de Copiste dans l'un ou dans l'autre endroit ; ou dire que les Paralipomènes suppléent le nombre de quarante mille hommes de pied, qui avaient été omis dans les Livres des Rois. En sorte que la défaite des Syriens aurait été de quarante mille cavaliers, d'autant d'infanterie, et de sept mille hommes qui montaient, et qui accompagnaient les sept cents chariots."
+    },
+    {
+      "verse": 19,
+      "sub": false,
+      "latin_lemma": "VIDENTES UNIVERSI REGES, QUI ERANT IN PRÆSIDIO ADAREZER.",
+      "lemma": "Les Rois qui étaient venus au secours d'Adarézer, se voyant vaincus.",
+      "text": "L'Hébreu, [19] le Caldéen, et les Septante : _Les Rois serviteurs d'Adarézer, voyant qu'ils étaient battus par Israël, fuirent dans leur pays, et se soumirent._ Ces Rois serviteurs d'Adarézer, sont ceux de la Syrie qui lui obéissaient ; car on n'a point de preuves que ce Prince ait eu des Rois assujettis au-delà de l'Euphrate ; mais s'il y en avait, ils se soumirent à David, comme les autres, et lui payèrent le tribut. La Vulgate ajoute, que les Syriens furent saisis de crainte, et prirent la fuite devant Israël, au nombre de cinquante-huit mille hommes, ce qui n'est ni dans l'Hébreu, ni dans les Septante, ni dans l'ancienne Version de saint Jérôme. On voit par cet endroit, que David avait des peuples tributaires et assujettis jusqu'au-delà de l'Euphrate, ce qui est à remarquer. Voyez le titre du Psaume LIX."
     }
   ],
   "joins": [
@@ -106,6 +99,13 @@
       "mode": "flow",
       "before": "ui préféreraient la mort à ce genre de supplice. Quand une",
       "after": "fois ils sont pères, et qu'ils ne rasent plus leurs barbes"
+    },
+    {
+      "seam": "page_0102>page_0103",
+      "verse": 8,
+      "mode": "flow",
+      "before": "nt en bataille au pied de leurs murailles. On lit dans les",
+      "after": "Paralipomènes^{(a)} qu'outre les trente-trois mille hommes"
     },
     {
       "seam": "page_0103>page_0104",

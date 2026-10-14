@@ -222,7 +222,7 @@
       "sub": false,
       "latin_lemma": "PARTEM MONTIS QUÆ ASCENDIT SEHIR, USQUE BAALGAD.",
       "lemma": "Cette partie de la montagne qui s'élève vers Séhir, jusqu'à Baalgad.",
-      "text": "Les montagnes qui s'étendent depuis le midi de la terre de Canaan, vers Séhir, jusqu'à Baalgad, qui est au-delà du Jourdain au pied du Liban, ou du mont Hermon. [55] L'Hébreu se traduit ainsi : [56] _Depuis la montagne chauve, et dégarnie de bois, en montant à Séhir, et jusqu'à Baalgad._ On ne sait point quelle est cette montagne chauve ye et rases; on sait seulement que plusieurs montagnes du pays de Canaan étaient abondantes en pâturages : et dans les pays de montagnes on appelle chauves montagnes,[57] celles dont le sommet est dégarni de bois, et couvert d'herbes et de pâtures; il y a une espèce d'opposition entre cette montagne pelée, et le mont de Séhir, qui signifie velu."
+      "text": "Les montagnes qui s'étendent depuis le midi de la terre de Canaan, vers Séhir, jusqu'à Baalgad, qui est au-delà du Jourdain au pied du Liban, ou du mont Hermon. [55] L'Hébreu se traduit ainsi : [56] _Depuis la montagne chauve, et dégarnie de bois, en montant à Séhir, et jusqu'à Baalgad._ On ne sait point quelle est cette montagne chauve et rases; on sait seulement que plusieurs montagnes du pays de Canaan étaient abondantes en pâturages : et dans les pays de montagnes on appelle chauves montagnes,[57] celles dont le sommet est dégarni de bois, et couvert d'herbes et de pâtures; il y a une espèce d'opposition entre cette montagne pelée, et le mont de Séhir, qui signifie velu."
     },
     {
       "verse": 17,
@@ -369,9 +369,9 @@
     {
       "seam": "page_0226>page_0227",
       "verse": 17,
-      "mode": "mend",
-      "before": "algad._ On ne sait point quelle est cette montagne chauve.",
-      "after": "ye et rases; on sait seulement que plusieurs montagnes du "
+      "mode": "splice",
+      "before": "Baalgad._ On ne sait point quelle est cette montagne chau-",
+      "after": "ve et rases; on sait seulement que plusieurs montagnes du "
     },
     {
       "seam": "page_0227>page_0228",
