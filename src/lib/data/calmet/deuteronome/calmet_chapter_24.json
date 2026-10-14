@@ -110,7 +110,14 @@
       "sub": false,
       "latin_lemma": "NON OCCIDENTUR PATRES PRO FILIIS.",
       "lemma": "On ne fera point mourir les pères pour les enfants.",
-      "text": "On s'est expliqué au long, sur une Loi qui paraît contraire à celle-ci dans l'Exode[27], où Dieu dit, _qu'il punira les enfants pour leurs pères, jusqu'à la troisième et quatrième génération_. Dieu, comme maître absolu de la vie des hommes, peut suivre à leur égard d'autres règles, que celles qu'il prescrit aux Juges de son peuple, qui n'ont sur les autres hommes qu'un pouvoir borné, emprunté, et subordonné à celui de Dieu. Les Rabbins[28] entendent ceci dans un autre sens : Les pères ne seront point reçus en"
+      "text": "On s'est expliqué au long, sur une Loi qui paraît contraire à celle-ci dans l'Exode[27], où Dieu dit, _qu'il punira les enfants pour leurs pères, jusqu'à la troisième et quatrième génération_. Dieu, comme maître absolu de la vie des hommes, peut suivre à leur égard d'autres règles, que celles qu'il prescrit aux Juges de son peuple, qui n'ont sur les autres hommes qu'un pouvoir borné, emprunté, et subordonné à celui de Dieu. Les Rabbins[28] entendent ceci dans un autre sens : Les pères ne seront point reçus en témoignage contre leurs fils, ni les fils contre leurs pères. Ce qui paraît assez éloigné du vrai sens du texte."
+    },
+    {
+      "verse": 19,
+      "sub": false,
+      "latin_lemma": "OBLITUS MANIPULUM RELIQUERIS.",
+      "lemma": "Lorsque vous aurez oublié une gerbe.",
+      "text": "Ceci doit s'entendre de tous les fruits de la campagne, de même que des gerbes des champs. Les rabbins veulent que l'on ne tienne pour oublié, que ce qui l'est et du maître et des ouvriers ensemble, et non pas des uns ou des autres séparément. Fade subtilité."
     }
   ],
   "joins": [
@@ -155,6 +162,13 @@
       "mode": "splice",
       "before": "e que je vous ai ordonné touchant la lépre ; qu'on ne per-",
       "after": "mette point aux lépreux de vivre parmi les autres Israélit"
+    },
+    {
+      "seam": "page_0339>page_0340",
+      "verse": 16,
+      "mode": "flow",
+      "before": "ci dans un autre sens : Les pères ne seront point reçus en",
+      "after": "témoignage contre leurs fils, ni les fils contre leurs pèr"
     }
   ],
   "pages_used": [
@@ -165,7 +179,8 @@
     "page_0336",
     "page_0337",
     "page_0338",
-    "page_0339"
+    "page_0339",
+    "page_0340"
   ],
   "footnotes": [
     {

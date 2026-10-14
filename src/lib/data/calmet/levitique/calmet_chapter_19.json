@@ -299,7 +299,14 @@
       "sub": false,
       "latin_lemma": "ÆQUA SINT PONDERA.",
       "lemma": "Que les poids soient tels qu'ils doivent être.",
-      "text": "Ou, selon l'Hébreu, _des pierres justes ;_ ou,[140] _des pierres de ju-_"
+      "text": "Ou, selon l'Hébreu, _des pierres justes ;_ ou,[140] _des pierres de ju-_ _stice._ On se servait de pierres au lieu de poids, pour peser.[141] On pouvait frauder dans le commerce, ou en augmentant le poids dont on pesait ce qu'on recevait, ou en diminuant le poids avec lequel on livrait sa marchandise."
+    },
+    {
+      "verse": 36,
+      "sub": false,
+      "latin_lemma": "JUSTUS MODIUS, ÆQUUSQUE SEXTARIUS.",
+      "lemma": "Que le boisseau soit juste, et que le setier ait sa mesure.",
+      "text": "L'Hébreu, un épha juste, et un hin juste. L'épha comparé à la mesure de Paris, contient vingt-neuf pintes, chopine, demi-setier, et un poisson. Le hin contient quatre pintes, chopine, demi-setier, un poisson, quinze pouces cubes, et quelque peu davantage."
     }
   ],
   "joins": [
@@ -435,6 +442,13 @@
       "mode": "flow",
       "before": "nt en cela tout à fait d'accord avec les Hébreux. Aussitôt",
       "after": "qu'ils rencontrent un vieillard dans le chemin, dit Hérodo"
+    },
+    {
+      "seam": "page_0257>page_0258",
+      "verse": 36,
+      "mode": "flow",
+      "before": "ierres justes ;_ ou,^{fn:page_0257-c} _des pierres de ju-_",
+      "after": "_stice._ On se servait de pierres au lieu de poids, pour p"
     }
   ],
   "pages_used": [
@@ -461,7 +475,8 @@
     "page_0254",
     "page_0255",
     "page_0256",
-    "page_0257"
+    "page_0257",
+    "page_0258"
   ],
   "footnotes": [
     {
@@ -1163,6 +1178,11 @@
       "key": "page_0257-c",
       "n": 140,
       "text": "אבני צדק"
+    },
+    {
+      "key": "page_0258-a",
+      "n": 141,
+      "text": "Proverbes 11,1XVI. 11. XX. 10. 13."
     }
   ],
   "missing_footnotes": [

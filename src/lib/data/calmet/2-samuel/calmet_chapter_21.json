@@ -181,6 +181,13 @@
       "latin_lemma": "CECIDERUNT IN MANU DAVID, ET SERVO-",
       "lemma": null,
       "text": ""
+    },
+    {
+      "verse": 22,
+      "sub": false,
+      "latin_lemma": "RUM EJUS.",
+      "lemma": "Ils furent tués par David et par ses gens.",
+      "text": "C'est-à-dire, ils furent tués dans des guerres où David se trouva en personne, ou dans celles qu'il fit par ses Généraux : il ne paraît pas qu'il en ait tué aucun de ceux-là de sa main.\n\nCE Chapitre n'est point différent du Psaume dix-sept. Nous nous contentons d'en donner ici la traduction; on en trouvera l'explication littérale dans le Livre des Psaumes."
     }
   ],
   "joins": [
@@ -239,6 +246,13 @@
       "mode": "flow",
       "before": "se peut prendre, ou dans sa signification ordinaire, ou il",
       "after": "peut marquer un Géant de la même force, et de la même gran"
+    },
+    {
+      "seam": "page_0240>page_0240",
+      "verse": 22,
+      "mode": "para",
+      "before": "e paraît pas qu'il en ait tué aucun de ceux-là de sa main.",
+      "after": "CE Chapitre n'est point différent du Psaume dix-sept. Nous"
     }
   ],
   "pages_used": [
@@ -252,7 +266,8 @@
     "page_0236",
     "page_0237",
     "page_0238",
-    "page_0239"
+    "page_0239",
+    "page_0240"
   ],
   "footnotes": [
     {

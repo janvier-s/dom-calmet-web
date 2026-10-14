@@ -216,6 +216,20 @@
       "latin_lemma": "PONES EX EO CORAM TABERNACULO TESTIMO-",
       "lemma": null,
       "text": ""
+    },
+    {
+      "verse": 36,
+      "sub": false,
+      "latin_lemma": "NII",
+      "lemma": "Vous en mettrez devant le Tabernacle du témoignage.",
+      "text": "Ce parfum était apparemment toujours sur la table des parfums ; mais l'on n'en brûlait que le soir et le matin. Joseph[85] dit qu'il y avait sur les pains de proposition deux fioles, ou deux plats d'or, pleins d'encens.\nMonsieur le Clerc croit que c'était ce parfum, dont il est parlé ici : Mais qu'est-ce donc qu'on brûlait tous les matins ?"
+    },
+    {
+      "verse": 36,
+      "sub": false,
+      "latin_lemma": "SANCTUM SANCTORUM ERIT VOBIS THYMIAMA.",
+      "lemma": "Ce parfum sera pour vous une chose sacrée.",
+      "text": "Les Septante et la Vulgate ajoutent le terme de parfum, qui n'est pas dans l'Hébreu. Voyez ce qu'on a dit sur le verset 10."
     }
   ],
   "joins": [
@@ -329,7 +343,8 @@
     "page_0537",
     "page_0538",
     "page_0539",
-    "page_0540"
+    "page_0540",
+    "page_0541"
   ],
   "footnotes": [
     {
@@ -751,6 +766,11 @@
       "key": "page_0540-e",
       "n": 84,
       "text": "Lévitique 2,13. Quicquid obtuleris sacrificii, sale condies."
+    },
+    {
+      "key": "page_0541-a",
+      "n": 85,
+      "text": "Antiq. l. 3 c. 6."
     }
   ],
   "missing_footnotes": [

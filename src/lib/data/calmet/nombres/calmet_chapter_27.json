@@ -82,7 +82,7 @@
       "sub": false,
       "latin_lemma": "PRO HOC, SI QUID AGENDUM ERIT, ELEAZAR SACERDOS CONSULET DOMINUM.",
       "lemma": "Le Grand-Prêtre Eleazar consultera pour lui le Seigneur, lorsqu'il faudra entreprendre quelque chose.",
-      "text": "Le texte Hebreu de ce verset renferme quelque obscurité: _Il se présentera devant Eleazar, et il le consultera par l'Urim, et selon sa parole, ils entreront et ils sortiront, lui et tous les enfants d'Israël_. On ne sait si c'est selon la parole et les ordres de Josué, que le Grand-Prêtre et tous les Israélites devaient se"
+      "text": "Le texte Hebreu de ce verset renferme quelque obscurité: _Il se présentera devant Eleazar, et il le consultera par l'Urim, et selon sa parole, ils entreront et ils sortiront, lui et tous les enfants d'Israël_. On ne sait si c'est selon la parole et les ordres de Josué, que le Grand-Prêtre et tous les Israélites devaient se conduire ; ou si c'est selon l'ordre du Grand-Prêtre, ou de Dieu par sa bouche, que Josué et le peuple devaient entreprendre, ou cesser la guerre. Ce dernier sens paraît le plus littéral. Rien ne fait mieux voir la nature du gouvernement des Juifs, et cette théocratie, ou gouvernement divin, dont nous parle Joseph [19], que l'autorité que Dieu donne ici au Grand-Prêtre, dont il veut qu'on respecte les oracles jusqu'au point de ne rien entreprendre, sans le consulter. On s'est étendu ailleurs [20] sur l'oracle de l'Urim et de Tummim. Les Rabbins [21] sur ce passage, prétendent que leurs Rois, lorsqu'ils voulaient faire une guerre, qu'ils appellent, volontaire, c'est-à-dire, déclarer la guerre à quelqu'un des peuples auxquels le Seigneur n'avait pas ordonné de la déclarer, étaient obligés de se présenter devant le Grand-Prêtre, et devant le Sanhédrin, pour obtenir leur consentement. Mais cette prétention ne paraît pas bien établie par la coutume et par l'usage des Rois des Juifs, surtout après le règne de David : car jusqu'alors, on voit peu de guerres entreprises, sans avoir consulté le Seigneur."
     }
   ],
   "joins": [
@@ -106,6 +106,13 @@
       "mode": "flow",
       "before": "pôtres^{fn:page_0340-f} choisissent un homme _qui ait été_",
       "after": "_avec eux tout le temps que le Seigneur Jésus était entré "
+    },
+    {
+      "seam": "page_0342>page_0343",
+      "verse": 21,
+      "mode": "flow",
+      "before": "ué, que le Grand-Prêtre et tous les Israélites devaient se",
+      "after": "conduire ; ou si c'est selon l'ordre du Grand-Prêtre, ou d"
     }
   ],
   "pages_used": [
@@ -114,7 +121,8 @@
     "page_0339",
     "page_0340",
     "page_0341",
-    "page_0342"
+    "page_0342",
+    "page_0343"
   ],
   "footnotes": [
     {
@@ -206,6 +214,21 @@
       "key": "page_0342-a",
       "n": 18,
       "text": "Onkelos, et Rabb."
+    },
+    {
+      "key": "page_0343-a",
+      "n": 19,
+      "text": "Joseph. l. 3 contra Appion."
+    },
+    {
+      "key": "page_0343-b",
+      "n": 20,
+      "text": "Exode 28,30."
+    },
+    {
+      "key": "page_0343-c",
+      "n": 21,
+      "text": "Selden. l. 3 c. 12 de synedriis."
     }
   ],
   "missing_footnotes": []

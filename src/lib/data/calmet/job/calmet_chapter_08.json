@@ -97,6 +97,13 @@
       "latin_lemma": "NON PROJICIET SIMPLICEM.",
       "lemma": "Il ne rejettera point",
       "text": ""
+    },
+    {
+      "verse": 21,
+      "sub": false,
+      "latin_lemma": "DONEC IMPLEATUR RISU OS TUUM.",
+      "lemma": "Jusqu'à ce que la joie se répande sur votre visage",
+      "text": "Le Seigneur ne vous abandonnera pas, si vous vivez dans la justice ; il vous rétablira dans votre premier état, et vous rendra la joie, et la paix dont vous jouissiez auparavant. celui qui est simple. Ou, suivant l'Hébreu :[11] il ne méprisera point celui qui est parfait, irreprochable, sans défauts ; le juste, l'homme vraiment pieux."
     }
   ],
   "joins": [
@@ -142,7 +149,8 @@
     "page_0147",
     "page_0148",
     "page_0149",
-    "page_0150"
+    "page_0150",
+    "page_0151"
   ],
   "footnotes": [
     {
@@ -194,6 +202,11 @@
       "key": "page_0150-a",
       "n": 10,
       "text": "Ita Cald. et alii."
+    },
+    {
+      "key": "page_0151-a",
+      "n": 11,
+      "text": "[UNCERTAIN HEBREW] לא ימאס תם"
     }
   ],
   "missing_footnotes": []

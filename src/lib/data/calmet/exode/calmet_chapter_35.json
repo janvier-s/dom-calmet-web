@@ -87,13 +87,6 @@
     {
       "verse": 33,
       "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "Moïse le cachait par modestie, et pour laisser au peuple la liberté de lui parler plus librement, en leur ôtant de devant les yeux ce brillant, qui leur inspirait de la crainte. C'est le sentiment de Jansénius. Je voudrais traduire ce verset 33 par le plus que parfait : _Car Moïse avait cessé de parler au peuple, et avait mis un voile sur son visage, aussitôt qu'il s'était aperçu que le peuple ne pouvait supporter l'éclat qui sortait de sa face._"
-    },
-    {
-      "verse": 33,
-      "sub": false,
       "latin_lemma": "OPERE CARPENTARIO.",
       "lemma": "Dans les ouvrages de menuiserie.",
       "text": "L'Hébreu porte simplement :[19] _Dans les ouvrages en bois._"
@@ -118,6 +111,13 @@
       "latin_lemma": "TEXANT OMNIA, AC NOVA QUÆQUE REPERIANT.",
       "lemma": "Qu'ils",
       "text": ""
+    },
+    {
+      "verse": 35,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "fassent tout cela au métier, et qu'ils inventent de nouvelles choses.",
+      "text": "L'Hébreu : _Des tisserands,_ ou drapiers, _qui fassent toutes sortes d'ouvrages ; et des ouvriers inventifs, qui inventent des inventions._ Les Septante : Pour faire toute sorte d'ouvrages d'architecture et de broderie. Voyez Exode 26:1."
     }
   ],
   "joins": [
@@ -135,7 +135,8 @@
     "page_0590",
     "page_0591",
     "page_0592",
-    "page_0593"
+    "page_0593",
+    "page_0594"
   ],
   "footnotes": [
     {

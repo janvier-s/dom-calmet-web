@@ -61,7 +61,14 @@
       "sub": false,
       "latin_lemma": "EO QUOD PRÆTERIERITIS.",
       "lemma": "Parce que vous avez violé l'alliance.",
-      "text": "Il parle comme Prophète d'un événement futur, comme s'il était déjà arrivé ; Moïse[23] fait les mêmes menaces au peuple d'une façon encore plus forte. Ces prédictions ont été parfaitement accomplies dans le temps de la captivité de Babylone, et plus parfaitement encore depuis la mort de Jésus-Christ par la destruction du Temple et de la ville de Jérusalem."
+      "text": "Il parle comme Prophète d'un événement futur, comme s'il était déjà arrivé ; Moïse[23] fait les mêmes menaces au peuple d'une façon encore plus forte. Ces prédictions ont été parfaitement accomplies dans le temps de la captivité de Babylone, et plus parfaitement encore depuis la mort de Jésus-Christ par la destruction du Temple et de la ville de Jérusalem.\n\nCeci est une suite de ce qui est rapporté au chapitre précédent. Après que Josué a disposé le peuple à l'écouter par la harangue qu'il vient de leur faire, il continue ici, et prend les choses de plus loin, pour les amener à renouveler l'alliance qu'ils avaient faite avec le Seigneur à Sinaï. On peut considérer ce chapitre comme le testament de Josué. Je ne vois pas pourquoi quelques Interprètes veulent limiter ces termes, _toutes les tribus d'Israël_; les uns [24] à celles qui étaient en deçà du Jourdain; les autres [25] aux seuls Chefs, aux Princes, aux Juges et aux principaux Officiers des villes et des tribus. Dans une affaire de cette importance où il s'agissait de renouveler l'alliance avec le Seigneur, nous ne doutons pas que toutes les tribus ne s'y soient rencontrées, et Josué choisit apparemment pour cela quelque jour de grande fête, et d'assemblée générale de Religion."
+    },
+    {
+      "verse": 16,
+      "sub": false,
+      "latin_lemma": "IN SICHEM.",
+      "lemma": "À Sichem ;",
+      "text": "ou près de Sichem, dans le champ que Jacob avait acheté, et près le Chêne fameux où l'on croyait que les Patriarches avaient autrefois demeuré. L'Écriture ne nous dit pas pourquoi on s'assembla en cet endroit; mais on peut conjecturer que la ville de Sichem étant au pied des montagnes d'Hébal et de Garizim, où l'on avait autrefois érigé un monument de l'alliance de Dieu avec Israël après le passage du Jourdain, on jugea à propos de renouveler l'alliance auprès, et à la vue de ce premier monument.\nPlusieurs habiles Interprètes [26] croient que l'assemblée se tint non pas à Sichem, mais à Silo. Les Septante de l'Édition Romaine, le Manuscrit Alexandrin, et S. Augustin [27] ont lu Silo en cet endroit au lieu de Sichem; et il est certain qu'on s'assembla devant le Seigneur, en présence de son Arche et de son Sanctuaire, comme toute la suite le fait voir : Or on croit que l'Arche et le Tabernacle étaient alors à Silo, on doit donc dire que l'assemblée se fit au même lieu, et que si l'on a mis ici Sichem, c'est que Silo et Sichem étaient deux lieux si proches l'un de l'autre, qu'on a pu aisément les confondre.\nMais on répond à cela, 1°. Que le Texte Hébreu, le Chaldéen; toutes les autres versions Orientales, et tous les exemplaires Grecs, excepté ceux qu'on a cités, portent constamment Sichem en cet endroit, et au ℣. 25. de ce Chapitre. \n2°. On suppose, sans raison et sans preuves, que Silo était dans le voisinage et dans le territoire de Sichem : Saint Jérôme nous apprend qu'elle en était à dix milles, ou à douze milles selon Eusèbe. \n3°. Le peuple s'assembla devant le Seigneur, et devant son Arche; parce qu'extraordinairement on avait apporté l'Arche de Silo, sous le chêne de Sichem. Ce chêne se trouva dans le sanctuaire du Seigneur, dans le sanctuaire passager qu'on lui avait dressé près de Sichem, fort différent du vrai sanctuaire qui était à Silo, où l'on n'aurait certainement pas souffert un arbre, contre la défense expresse du Seigneur, qui avait défendu qu'on en plantât auprès de son autel; [28] et où l'on n'aurait pas érigé un monument de pierre, tel que celui qu'on voit ici au ℣. 26."
     }
   ],
   "joins": [
@@ -99,6 +106,20 @@
       "mode": "splice",
       "before": "oin de ma fin. _Aujourd'hui_ est mis pour bientôt ; de mê-",
       "after": "me qu'ailleurs demain est mis pour dans quelque temps d'ic"
+    },
+    {
+      "seam": "page_0388>page_0389",
+      "verse": 16,
+      "mode": "para",
+      "before": " par la destruction du Temple et de la ville de Jérusalem.",
+      "after": "Ceci est une suite de ce qui est rapporté au chapitre préc"
+    },
+    {
+      "seam": "page_0389>page_0390",
+      "verse": 16,
+      "mode": "flow",
+      "before": " Sichem étant au pied des montagnes d'Hébal et de Garizim,",
+      "after": "où l'on avait autrefois érigé un monument de l'alliance de"
     }
   ],
   "pages_used": [
@@ -107,7 +128,9 @@
     "page_0385",
     "page_0386",
     "page_0387",
-    "page_0388"
+    "page_0388",
+    "page_0389",
+    "page_0390"
   ],
   "footnotes": [
     {
@@ -224,6 +247,31 @@
       "key": "page_0388-c",
       "n": 23,
       "text": "Deut. XXXI. et XXXII."
+    },
+    {
+      "key": "page_0389-a",
+      "n": 24,
+      "text": "Vatab."
+    },
+    {
+      "key": "page_0389-b",
+      "n": 25,
+      "text": "Mas. Drus. Bonfr."
+    },
+    {
+      "key": "page_0390-a",
+      "n": 26,
+      "text": "_Serar. Menoch. Drus. Tirin. Jun. Grot._"
+    },
+    {
+      "key": "page_0390-b",
+      "n": 27,
+      "text": "_Aug. qæ 30. in Josue._"
+    },
+    {
+      "key": "page_0390-c",
+      "n": 28,
+      "text": "_Deut. XVI. 21. Non plantabis lucum et omnem arborem, juxta altare Domini Dii tui._"
     }
   ],
   "missing_footnotes": []

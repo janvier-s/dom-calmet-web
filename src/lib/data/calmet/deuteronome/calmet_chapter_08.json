@@ -103,7 +103,7 @@
       "sub": false,
       "latin_lemma": "SI SECUTUS FUERIS DEOS ALIENOS... ECCE NUNC PRÆDICO TIBI QUOD OMNINO PEREAS.",
       "lemma": "J'atteste aujourd'hui contre vous, que vous périrez assurément.",
-      "text": "L'Hébreu est beaucoup plus fort : _J'atteste aujourd'hui contre vous le Ciel et la terre, que vous périrez par une perte certaine_. Ce n'est point une simple prédiction comminatoire, c'est une déclaration positive et absolue, de faire périr tous ceux qui abandonnent le Seigneur. Dieu avait défendu le culte étranger dans le Livre de l'Exode [42], mais il n'y avait attaché aucune peine temporelle : il déclare ici, et en plusieurs autres endroits, qu'il punira avec la dernière rigueur, ceux qui l'abandonneront, pour suivre les Idoles, et pour adorer des Dieux étrangers, nouveaux, inconnus à leurs pères [43] : _Novi recenterque venerunt, quos non coluerunt patres eorum_. L'idée naturelle de la Religion, qui est gravée dans l'esprit de tous les hommes, leur a fait regarder comme un crime, d'abandonner le Dieu, le culte, et les cérémonies de sa patrie. Si les Chrétiens qui ab-"
+      "text": "L'Hébreu est beaucoup plus fort : _J'atteste aujourd'hui contre vous le Ciel et la terre, que vous périrez par une perte certaine_. Ce n'est point une simple prédiction comminatoire, c'est une déclaration positive et absolue, de faire périr tous ceux qui abandonnent le Seigneur. Dieu avait défendu le culte étranger dans le Livre de l'Exode [42], mais il n'y avait attaché aucune peine temporelle : il déclare ici, et en plusieurs autres endroits, qu'il punira avec la dernière rigueur, ceux qui l'abandonneront, pour suivre les Idoles, et pour adorer des Dieux étrangers, nouveaux, inconnus à leurs pères [43] : _Novi recenterque venerunt, quos non coluerunt patres eorum_. L'idée naturelle de la Religion, qui est gravée dans l'esprit de tous les hommes, leur a fait regarder comme un crime, d'abandonner le Dieu, le culte, et les cérémonies de sa patrie. Si les Chrétiens qui abjuroient le Paganisme, pour suivre la Religion de Jésus-Christ n'eussent pas eu des preuves évidentes de la fausseté de la Religion Païenne ; et si les Persécuteurs, en agissant de bonne foi, avec connaissance, et sans passion, eussent pu croire la Religion de Jésus-Christ mauvaise, nous ne pourrions blâmer leur conduite. C'est un attentat parmi toutes les Nations, dit Aristote [44], de violer les Coutumes Religieuses de son pays. Les Athéniens avaient sur cela tant d'exactitude, qu'on ne laissait pas impuni un mot lâché contre les Dieux, dit Joseph[45]. Que personne n'ait en particulier des Dieux nouveaux, disent les Lois Romaines, rapportées dans Cicéron [46], et qu'aucun ne révère d'un culte supérieur des Dieux étrangers, même dans le secret, à moins qu'ils n'aient été reçus publiquement dans la République. La manière dont Dieu a puni si souvent les Juifs, par les malheurs publics qui sont arrivés à leur Nation, ne justifie que trop la vérité des menaces que Dieu leur fait en cet endroit."
     }
   ],
   "joins": [
@@ -155,6 +155,13 @@
       "mode": "flow",
       "before": "À la lettre^{fn:page_0151-e} : _D'une_",
       "after": "_pierre de roche la plus dure._ Junius : _D'une pierre de "
+    },
+    {
+      "seam": "page_0152>page_0153",
+      "verse": 19,
+      "mode": "splice",
+      "before": ", et les cérémonies de sa patrie. Si les Chrétiens qui ab-",
+      "after": "juroient le Paganisme, pour suivre la Religion de Jésus-Ch"
     }
   ],
   "pages_used": [
@@ -167,7 +174,8 @@
     "page_0149",
     "page_0150",
     "page_0151",
-    "page_0152"
+    "page_0152",
+    "page_0153"
   ],
   "footnotes": [
     {
@@ -384,6 +392,21 @@
       "key": "page_0152-d",
       "n": 43,
       "text": "Deutéronome 32,17."
+    },
+    {
+      "key": "page_0153-a",
+      "n": 44,
+      "text": "Τὰ πάτρια ἔθη κακῶς ἔχει μεταβάλλειν ἀπλῶς εἰς ἕτερα. Arist. Rhetor. ad Alex."
+    },
+    {
+      "key": "page_0153-b",
+      "n": 45,
+      "text": "Joseph. l. 2 contra Appion. ὅτι ὁ τοῖς βεβήλοις θεοῖς βλασφημῶν, εἰ δὲ καὶ ἀκούσαι τις παρ᾽ ἑτέρου, περὶ θεῶν τι κακῶς εἰρημένον φανερὸς γενόμενος μετὰ καθαρίου συνειδότος."
+    },
+    {
+      "key": "page_0153-c",
+      "n": 46,
+      "text": "Cicero. l. 2 de legib. Separatim nemo habessit Deos, neve novos: sed ne advenas, nisi publice ascitos, privatim colunto."
     }
   ],
   "missing_footnotes": []

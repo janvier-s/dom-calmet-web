@@ -5,7 +5,7 @@
       "sub": false,
       "latin_lemma": "ET SUBLEVATUM ESSET REGNUM SUUM SUPER POPULUM EJUS.",
       "lemma": "Et qu'il l'avait élevé en autorité sur son peuple.",
-      "text": "L'Hébreu, [3] et les Septante : [4] _Parce que son Royaume était élevé à cause de son peuple ;_ Dieu veut montrer aux Rois qu'il ne les élève, qu'en faveur des peuples ; qu'ils ne sont puissants, que pour leurs peuples ; en un mot, qu'ils sont moins Rois pour eux, que pour leurs sujets. Rien n'est plus propre que cette vérité, pour humilier les grands, qui veulent que tout soit fait pour eux, et qui n'ont en vue que leur satisfaction, ou leur grandeur."
+      "text": "L'Hébreu, [1] et les Septante : [2] _Parce que son Royaume était élevé à cause de son peuple ;_ Dieu veut montrer aux Rois qu'il ne les élève, qu'en faveur des peuples ; qu'ils ne sont puissants, que pour leurs peuples ; en un mot, qu'ils sont moins Rois pour eux, que pour leurs sujets. Rien n'est plus propre que cette vérité, pour humilier les grands, qui veulent que tout soit fait pour eux, et qui n'ont en vue que leur satisfaction, ou leur grandeur."
     },
     {
       "verse": 5,
@@ -19,21 +19,7 @@
       "sub": false,
       "latin_lemma": null,
       "lemma": null,
-      "text": "BAALIADA, apparemment le même qu'Eliada. [5]"
-    },
-    {
-      "verse": 11,
-      "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "Ceci arriva avant le transport de l'Arche, de Cariath-iarim, à Jérusalem ; aussi bien que les guerres des Philistins dont on va parler."
-    },
-    {
-      "verse": 11,
-      "sub": false,
-      "latin_lemma": "ARTIFICES PARIETUM:",
-      "lemma": "Des Maçons.",
-      "text": "À la lettre : [1] _des Ouvriers de murailles._ Dans l'endroit parallèle des Rois, on lit [2] : _des Ouvriers de pierre de murailles. Des tailleurs de pierres, et des Ouvriers qui les mettent en œuvre dans la maçonnerie._"
+      "text": "BAALIADA, apparemment le même qu'Eliada. [3]"
     },
     {
       "verse": 11,
@@ -47,7 +33,7 @@
       "sub": false,
       "latin_lemma": "DERELIQUERUNT DEOS SUOS QUOS DAVID JUSSIT COMBURI.",
       "lemma": "Ayant laissé là leurs Dieux, David commanda qu'on les brûlât.",
-      "text": "Suivant la loi du Deutéronome : [6] _Vous brûlerez leurs Dieux faits en sculpture, sans vous mettre en peine de l'or, et de l'argent qui les couvrent ; vous n'en réserverez rien pour vous, etc._ Ces Idoles étaient pour l'ordinaire de bois, couvertes de lames d'or ou d'argent. On voit ici que les Philistins portaient leurs dieux à la guerre, de même que les Hébreux y portaient souvent l'arche du Seigneur. Les anciens Grecs au siège de Troie avaient leurs dieux sur leurs vaisseaux. [7] Les Romains avaient aussi dans leurs Enseignes les dieux titulaires de la République. Ils étaient placés dans un endroit distingué du camp, comme dans leur temple."
+      "text": "Suivant la loi du Deutéronome : [4] _Vous brûlerez leurs Dieux faits en sculpture, sans vous mettre en peine de l'or, et de l'argent qui les couvrent ; vous n'en réserverez rien pour vous, etc._ Ces Idoles étaient pour l'ordinaire de bois, couvertes de lames d'or ou d'argent. On voit ici que les Philistins portaient leurs dieux à la guerre, de même que les Hébreux y portaient souvent l'arche du Seigneur. Les anciens Grecs au siège de Troie avaient leurs dieux sur leurs vaisseaux. [5] Les Romains avaient aussi dans leurs Enseignes les dieux titulaires de la République. Ils étaient placés dans un endroit distingué du camp, comme dans leur temple."
     },
     {
       "verse": 14,
@@ -61,14 +47,14 @@
       "sub": false,
       "latin_lemma": "CUM AUDIERIS SONITUM GRADIENTIS IN CACUMINE PYRORUM.",
       "lemma": "_Dès que vous entendrez au haut de ces poiriers, comme le bruit de quelqu'un qui marche._ Ou plutôt : _Dès que vous entendrez sur la hauteur où sont ces poiriers, comme le bruit d'une troupe qui s'avance, avancez vous-mêmes._",
-      "text": "C'était une armée invisible, que Dieu envoyait au secours de David.[8]"
+      "text": "C'était une armée invisible, que Dieu envoyait au secours de David.[6]"
     },
     {
       "verse": 16,
       "sub": false,
       "latin_lemma": "DE GABAON, USQUE GAZERA.",
       "lemma": "De Gabaon, jusqu'à Gazer.",
-      "text": "On lit dans les Rois,[9] _Depuis Gabaa, jusqu'à Gézer._ Gabaon, et Gabaa étaient assez voisines, dans la tribu de Benjamin. _Gazer_, était aux environs d'Azor, dans le pays des Philistins. Ainsi David nettoya tout le pays de Juda, et de Benjamin de ces peuples ennemis."
+      "text": "On lit dans les Rois,[7] _Depuis Gabaa, jusqu'à Gézer._ Gabaon, et Gabaa étaient assez voisines, dans la tribu de Benjamin. _Gazer_, était aux environs d'Azor, dans le pays des Philistins. Ainsi David nettoya tout le pays de Juda, et de Benjamin de ces peuples ennemis."
     }
   ],
   "joins": [
@@ -88,48 +74,38 @@
   ],
   "footnotes": [
     {
-      "key": "page_0194-a",
-      "n": 1,
-      "text": "חרשי קיר"
-    },
-    {
-      "key": "page_0194-b",
-      "n": 2,
-      "text": "חרשי אבן קיר"
-    },
-    {
       "key": "page_0194-c",
-      "n": 3,
+      "n": 1,
       "text": "כי נשאת למעלה מלכותו בעבור עמו"
     },
     {
       "key": "page_0194-d",
-      "n": 4,
+      "n": 2,
       "text": "ὅτι ἐπήρθη ἡ βασιλεία αὐτỡ, διὰ τὸν λαὸν αὐτỡ."
     },
     {
       "key": "page_0195-a",
-      "n": 5,
+      "n": 3,
       "text": "2. Reg. v. 16."
     },
     {
       "key": "page_0196-a",
-      "n": 6,
+      "n": 4,
       "text": "Deut. VII. 25."
     },
     {
       "key": "page_0196-b",
-      "n": 7,
+      "n": 5,
       "text": "Homer. Iliad. IX. στῦται γὰρ νηυσὶν ἀμφι- | †νηυσὶν ἕκεα κέρυμβα."
     },
     {
       "key": "page_0197-a",
-      "n": 8,
+      "n": 6,
       "text": "Joseph. Theodoret. Est. Vat."
     },
     {
       "key": "page_0197-b",
-      "n": 9,
+      "n": 7,
       "text": "1. Reg. v. 25. _De Gaban usque dum venias Gezer._"
     }
   ],

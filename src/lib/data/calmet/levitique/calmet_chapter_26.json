@@ -230,6 +230,13 @@
       "latin_lemma": "HÆC SUNT JUDICIA ATQUE PRÆCEPTA ET LE-",
       "lemma": null,
       "text": ""
+    },
+    {
+      "verse": 45,
+      "sub": false,
+      "latin_lemma": "GES QUAS DEDIT DOMINUS IN MONTE SINAI.",
+      "lemma": "Ce sont là les Ordonnances, les préceptes, et les lois que le Seigneur donna sur la montagne de Sinaï.",
+      "text": "Tous les préceptes et toutes les lois qu'on lit dans ce livre, et dans la plus grande partie de l'Exode, furent donnés au peuple, par l'entremise de Moïse, ou sur la montagne, ou au pied de la montagne de Sinaï, dans le Tabernacle. L'on en verra encore d'autres dans la suite, qui furent donnés au même lieu."
     }
   ],
   "joins": [
@@ -333,7 +340,8 @@
     "page_0341",
     "page_0342",
     "page_0343",
-    "page_0344"
+    "page_0344",
+    "page_0345"
   ],
   "footnotes": [
     {

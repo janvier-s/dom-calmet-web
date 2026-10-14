@@ -50,13 +50,6 @@
       "text": "On ne voit rien de cette barre dans la Vulgate, au Chapitre 26:28 où elle devrait se trouver comme ici. Quelques-uns croient qu'elle était dans l'épaisseur des ais, et qu'ainsi elle était différente des autres bâtons qui étaient en dehors, le long des côtés de l'enceinte. Tostat et Jansénius croient que c'était le bâton dont il est parlé dans Joseph,[3] et qui tenait attachés ensemble les ais du côté de l'occident du Tabernacle. On appuie ce sentiment sur ce qui est dit ici, que ce bâton tenait d'un angle à l'autre ; ce qui ne convient proprement qu'au côté du derrière du Tabernacle. Et d'ailleurs ces termes, _per medias tabulas_, montrent que ce bâton passait dans l'épaisseur des planches, qu'il les joignait ensemble d'une manière différente des autres bâtons, qui étaient passés par des anneaux le long, et non pas au travers des ais."
     },
     {
-      "verse": 35,
-      "sub": false,
-      "latin_lemma": null,
-      "lemma": "fassent tout cela au métier, et qu'ils inventent de nouvelles choses.",
-      "text": "L'Hébreu : _Des tisserands,_ ou drapiers, _qui fassent toutes sortes d'ouvrages ; et des ouvriers inventifs, qui inventent des inventions._ Les Septante : Pour faire toute sorte d'ouvrages d'architecture et de broderie. Voyez Exode 26:1."
-    },
-    {
       "verse": 38,
       "sub": false,
       "latin_lemma": "ET COLUMNAS QUINQUE, CUM CAPITIBUS SUIS, QUAS OPERUIT AURO.",
@@ -68,7 +61,7 @@
       "sub": false,
       "latin_lemma": "BASES EARUM FUSIT ÆNEAS.",
       "lemma": "Leurs bases étaient d'airain.",
-      "text": "La Vulgate dans les Polyglottes d'Anvers et de Paris, porte que ces bases étaient dorées ; ce que l'on ne voit point ailleurs."
+      "text": "La Vulgate dans les Polyglottes d'Anvers et de Paris, porte que ces bases étaient dorées ; ce que l'on ne voit point ailleurs.\n\nPoru la description de l'Arche, et du propitiatoire, voyez le Chapitre 25:10 et les suivants. Pour le chandelier, voyez 25:31 et les suivants. Pour l'Autel, Chapitre 30, verset 1. Pour l'huile d'onction, Chapitre 30:23 et Chapitre 25:34."
     }
   ],
   "joins": [
@@ -92,6 +85,13 @@
       "mode": "flow",
       "before": "Par ce terme, _tectum_, le toit, il faut",
       "after": "entendre le voile de poils de chèvres, qui était par-dessu"
+    },
+    {
+      "seam": "page_0598>page_0599",
+      "verse": 38,
+      "mode": "para",
+      "before": "bases étaient dorées ; ce que l'on ne voit point ailleurs.",
+      "after": "Poru la description de l'Arche, et du propitiatoire, voyez"
     }
   ],
   "pages_used": [
@@ -99,7 +99,8 @@
     "page_0595",
     "page_0596",
     "page_0597",
-    "page_0598"
+    "page_0598",
+    "page_0599"
   ],
   "footnotes": [
     {

@@ -104,6 +104,13 @@
       "latin_lemma": "ACCARON",
       "lemma": null,
       "text": "c'était une des principales villes des Philistins, située sur la mer Méditerranée, entre Azot et Jamnia."
+    },
+    {
+      "verse": 10,
+      "sub": false,
+      "latin_lemma": "EXCLAMAVERUNT ACCARONITÆ.",
+      "lemma": "Ceux d'Accaron commencèrent à crier.",
+      "text": "Apparemment les Princes et les Magistrats, puisqu'on leur entend dire : _Ils ont amené l'Arche du Seigneur, pour nous tuer nous et notre peuple._"
     }
   ],
   "joins": [
@@ -181,7 +188,8 @@
     "page_0136",
     "page_0137",
     "page_0138",
-    "page_0139"
+    "page_0139",
+    "page_0140"
   ],
   "footnotes": [
     {

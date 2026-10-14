@@ -110,7 +110,7 @@
       "sub": false,
       "latin_lemma": "LIGATAS PECUNIAS.",
       "lemma": "Leur argent lié ;",
-      "text": "ou, l'argent dans des bourses,"
+      "text": "ou, l'argent dans des bourses, ou dans des sacs. Quelques-uns traduisent l'Hébreu[30] : _Ligaturam pecuniae_, ou _fasciculum pecuniae_ : Un faisceau d'argent ; ce qu'on peut entendre de plusieurs petites broches d'argent liées ensemble ; mais nous aimons mieux traduire : _Ils trouvèrent chacun leur bourse pleine d'argent dans leurs sacs_. Le terme hébreu _Zeror_, signifie, une bourse, comme il paraît par Aggée 1:6 _vous avez mis votre récompense dans une bourse percée_. On peut voir aussi Deutéronome 14:25, 2 Rois 5:23 et 12:10. Et Job 26:8, Proverbes 7:20 où l'hébreu _Zur_, marque envelopper dans quelque chose, et où _Zeror_ signifie une bourse."
     }
   ],
   "joins": [
@@ -169,6 +169,13 @@
       "mode": "flow",
       "before": "reu à la lettre^{fn:page_0849-d} : _Prenez la faim de vos_",
       "after": "_maisons ;_ c'est-à-dire, prenez les provisions nécessaire"
+    },
+    {
+      "seam": "page_0850>page_0851",
+      "verse": 35,
+      "mode": "flow",
+      "before": "ou, l'argent dans des bourses,",
+      "after": "ou dans des sacs. Quelques-uns traduisent l'Hébreu^{(a)} :"
     }
   ],
   "pages_used": [
@@ -180,7 +187,8 @@
     "page_0847",
     "page_0848",
     "page_0849",
-    "page_0850"
+    "page_0850",
+    "page_0851"
   ],
   "footnotes": [
     {
@@ -327,6 +335,11 @@
       "key": "page_0849-d",
       "n": 29,
       "text": "רעבון בתיכם"
+    },
+    {
+      "key": "page_0851-a",
+      "n": 30,
+      "text": "צרור כסף"
     }
   ],
   "missing_footnotes": []

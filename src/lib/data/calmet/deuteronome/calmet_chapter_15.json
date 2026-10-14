@@ -152,7 +152,7 @@
       "sub": false,
       "latin_lemma": "SI AUTEM HABUERIT MACULAM ... NON IMMOLABITUR DOMINO.",
       "lemma": "Mais s'il a un défaut, il ne pourra être immolé au Seigneur.",
-      "text": "On"
+      "text": "On ne doit pas entendre ceci, comme si ces premiers-nés, dont on vient de parler, devaient être immolés comme des hosties pacifiques ; Moïse n'ordonne rien de semblable dans le chapitre 13:15-17 il dit au contraire, que l'on pouvait les manger, soit qu'ils fussent exempts de défauts, ou non, suivant la Vulgate ; ou soit que ceux qui les mangeaient fussent purs ou impurs, suivant l'Hébreu en cet endroit : et au verset 22 du même chapitre, et ici au verset 22 Ce qui montre clairement, qu'on ne les offrait pas en hosties pacifiques ; car tout le monde sait, que ceux qui étaient souillés, ne participaient point aux sacrifices, de quelque nature qu'ils fussent. Il faut donc dire, que Moïse en ce passage ne veut rien dire autre chose, sinon, que si quelqu'un voulait offrir ces animaux en sacrifices, il ne l'empêche pas, pourvu qu'ils eussent les qualités requises pour cela. C'est comme s'il disait : Il vous est permis de les manger, soit qu'ils aient des défauts, ou non, et soit que vous soyez purs, ou souillés. Mais il ne vous est pas permis pour cela de les offrir en sacrifices, à moins qu'ils n'aient les conditions que la Loi demande."
     }
   ],
   "joins": [
@@ -211,6 +211,13 @@
       "mode": "flow",
       "before": "me par-tout ailleurs, pour le besoin qu'on en avait ; mais",
       "after": "on les obligeait de servir tout leur temps, et sans en rie"
+    },
+    {
+      "seam": "page_0221>page_0222",
+      "verse": 21,
+      "mode": "flow",
+      "before": "On",
+      "after": "ne doit pas entendre ceci, comme si ces premiers-nés, dont"
     }
   ],
   "pages_used": [
@@ -224,7 +231,8 @@
     "page_0218",
     "page_0219",
     "page_0220",
-    "page_0221"
+    "page_0221",
+    "page_0222"
   ],
   "footnotes": [
     {

@@ -159,7 +159,7 @@
       "sub": false,
       "latin_lemma": "PARTICEPS FUIT UT FACERENT NAVES QUÆ IRENT IN THARSIS : FECERUNTQUE CLASSEM IN ASIONGABER.",
       "lemma": "Il convint avec lui qu'ils équiperaient une flotte",
-      "text": ""
+      "text": "pour aller à Tharsis : ils firent donc bâtir des vaisseaux à Asiongaber. On a essayé de montrer ailleurs,  que Tharsis signifiait la ville de Tharse en Cilicie , et que les vaisseaux de Tharsis , ou pour aller à Tharsis, étaient des vaisseaux de long cours ; et que quand on disait que des vaisseaux équipés à Asiongaber pour aller à Tharsis, n’avaient pu faire ce voyage, cela voulait simplement dire , qu’une flotte de vaisseaux propre à faire un long voyage de mer , n’avait pu aller d’Asiongaber à Ophir , ou en quelque autre endroit ; en un mot , que pour aller à Tharsis, on ne s’embarquait point à Asiongaber, qui est sur la mer Rouge, mais dans quelque port de la Méditerranée.\n\nCes deux Azaries fils de Josaphat, s’écrivent diversement dans le texte original. [42] L’un est simplement nommé _Azaria_, et l’autre _Azariahu_. Le [43] Seigneur est mon secours."
     }
   ],
   "joins": [
@@ -225,6 +225,20 @@
       "mode": "hyphen",
       "before": "La Vallée de bénédiction.",
       "after": "tion. S. Jérôme dans l'Épitaphe de sainte Paule parle d'un"
+    },
+    {
+      "seam": "page_0137>page_0138",
+      "verse": 36,
+      "mode": "flow",
+      "before": "Il convint avec lui qu'ils équiperaient une flotte",
+      "after": "pour aller à Tharsis : ils firent donc bâtir des vaisseaux"
+    },
+    {
+      "seam": "page_0138>page_0138",
+      "verse": 36,
+      "mode": "para",
+      "before": "r la mer Rouge, mais dans quelque port de la Méditerranée.",
+      "after": "Ces deux Azaries fils de Josaphat, s’écrivent diversement "
     }
   ],
   "pages_used": [
@@ -239,7 +253,8 @@
     "page_0134",
     "page_0135",
     "page_0136",
-    "page_0137"
+    "page_0137",
+    "page_0138"
   ],
   "footnotes": [
     {
@@ -446,7 +461,19 @@
       "key": "page_0137-c",
       "n": 41,
       "text": "Voyez chap. xxi. 2. xxiii. 2. xxiv. 16."
+    },
+    {
+      "key": "page_0138-a",
+      "n": 42,
+      "text": "Sur la Genèse x. ℣. 4. pag. 246. et suiv."
+    },
+    {
+      "key": "page_0138-b",
+      "n": 43,
+      "text": "עזריה et עזריהו"
     }
   ],
-  "missing_footnotes": []
+  "missing_footnotes": [
+    "page_0138-d"
+  ]
 }

@@ -145,7 +145,7 @@
       "sub": false,
       "latin_lemma": "ECCE SPES EIUS FRUSTRABITUR EUM, ET VIDENTIBUS CUNCTIS PRÆCIPITABITUR.",
       "lemma": "Il se verra trompé dans ses espérances, et il sera précipité à la vue de tout le monde.",
-      "text": "Quiconque voudra attaquer ce cruel animal, y périra malheureusement. L'Hébreu ;[67] _Son espérance sera vaine, et trompeuse._ Pourra-t-il soutenir seulement sa présence ? Les Septante :[68] _N'êtes-vous point frappé d'étonnement de tout ce que je vous ai dit ? Ne craignez-vous point, parce que cela vous est préparé ?_ Symmaque :[69] _Son espérance est trompeuse ; le Seigneur a même changé sa figure._ Le crocodile est si terrible aux Égyptiens, qu'ils n'osent se présenter devant lui. Ils ont porté le respect qu'ils ont eu pour lui, jusqu'à l'adoration. Héliodore[70] dit que Cnémon fut tout effrayé de la vue du crocodile, quoiqu'il ne l'eût point vu exactement, et à loisir, mais simplement en passant, et plutôt son ombre, que son corps. On raconte[71] d'un certain Grammairien, nommé Artémidore, qu'ayant rencontré par hasard sur le sable un crocodile qui dormait, il en fut tellement troublé, qu'il en perdit l'esprit, et la mémoire, en sorte qu'il oublia tout ce qu'il savait, et s'imagina qu'un serpent lui avait mangé la cuisse gauche, et la main. On assure[72] que le crocodile est terrible contre ceux qui le fuient ; mais qu'il fuit lui-même lorsqu'on le chasse, et qu'on le poursuit. Mais où trouve-t-on des gens assez hardis, pour"
+      "text": "Quiconque voudra attaquer ce cruel animal, y périra malheureusement. L'Hébreu ;[67] _Son espérance sera vaine, et trompeuse._ Pourra-t-il soutenir seulement sa présence ? Les Septante :[68] _N'êtes-vous point frappé d'étonnement de tout ce que je vous ai dit ? Ne craignez-vous point, parce que cela vous est préparé ?_ Symmaque :[69] _Son espérance est trompeuse ; le Seigneur a même changé sa figure._ Le crocodile est si terrible aux Égyptiens, qu'ils n'osent se présenter devant lui. Ils ont porté le respect qu'ils ont eu pour lui, jusqu'à l'adoration. Héliodore[70] dit que Cnémon fut tout effrayé de la vue du crocodile, quoiqu'il ne l'eût point vu exactement, et à loisir, mais simplement en passant, et plutôt son ombre, que son corps. On raconte[71] d'un certain Grammairien, nommé Artémidore, qu'ayant rencontré par hasard sur le sable un crocodile qui dormait, il en fut tellement troublé, qu'il en perdit l'esprit, et la mémoire, en sorte qu'il oublia tout ce qu'il savait, et s'imagina qu'un serpent lui avait mangé la cuisse gauche, et la main. On assure[72] que le crocodile est terrible contre ceux qui le fuient ; mais qu'il fuit lui-même lorsqu'on le chasse, et qu'on le poursuit. Mais où trouve-t-on des gens assez hardis, pour se commettre contre un animal si fort, et si cruel? Il n'y a que des Tentyriens capables d'une semblable témérité. C'est ce que nous allons voir au commencement du Chap. XLI.\n\nL'Hébreu: [73] L'homme le plus cruel ne le suscitera pas. Il faudrait être téméraire pour l'aller éveiller. On a dit quelque chose sur le Chapitre III. 8. de ceux de Tentyre, qui attaquent les crocodiles: _Qui parati sunt suscitare Leviathan._ QUIS ENIM RESISTERE POTEST VULTUI MEO? _Car qui est-ce qui peut résister à mon visage?_ Et s'il y en a quelqu'un qui soit assez hardi pour attaquer le crocodile, y en aura-t-il d'assez téméraires pour me résister? C'est Dieu qui parle. Les Septante n'ont point rendu la première partie de ce verset. Ils lisent seulement: [74] _Qui osera paraître devant moi, et qui me résistera, et soutiendra le poids de ma colère?_"
     }
   ],
   "joins": [
@@ -239,6 +239,27 @@
       "mode": "flow",
       "before": "vous osez ; attaquez-le, et le combattez : mais sachez que",
       "after": "c'est la première, et la dernière fois de votre vie, et qu"
+    },
+    {
+      "seam": "page_0491>page_0492",
+      "verse": 28,
+      "mode": "flow",
+      "before": " poursuit. Mais où trouve-t-on des gens assez hardis, pour",
+      "after": "se commettre contre un animal si fort, et si cruel? Il n'y"
+    },
+    {
+      "seam": "page_0492>page_0492",
+      "verse": 28,
+      "mode": "para",
+      "before": "'est ce que nous allons voir au commencement du Chap. XLI.",
+      "after": "L'Hébreu: ^{(a)} L'homme le plus cruel ne le suscitera pas"
+    },
+    {
+      "seam": "page_0492>page_0492",
+      "verse": 28,
+      "mode": "flow",
+      "before": "ent les crocodiles: _Qui parati sunt suscitare Leviathan._",
+      "after": "QUIS ENIM RESISTERE POTEST VULTUI MEO? _Car qui est-ce qui"
     }
   ],
   "pages_used": [
@@ -256,7 +277,8 @@
     "page_0488",
     "page_0489",
     "page_0490",
-    "page_0491"
+    "page_0491",
+    "page_0492"
   ],
   "footnotes": [
     {
@@ -618,6 +640,16 @@
       "key": "page_0491-h",
       "n": 72,
       "text": "_Plin. lib. VIII. cap. 25. Terribilis hic contra fugaces bellua est, fugax contra insequentes. Sed adversum ire soli hi (Tentyritæ) audent._"
+    },
+    {
+      "key": "page_0492-a",
+      "n": 73,
+      "text": "לא אכזור כי יעורנו"
+    },
+    {
+      "key": "page_0492-b",
+      "n": 74,
+      "text": "Τίς δε ἐςιν ὁ ἐμοὶ ἀντιςὰς, ἢ τίς ἀντέση μοι, καὶ ὑπομενεῖ;"
     }
   ],
   "missing_footnotes": []

@@ -96,14 +96,14 @@
       "sub": false,
       "latin_lemma": "UT AUDIENTES CÆTERI TIMOREM HABEANT.",
       "lemma": "Afin que les autres entendant ceci, soient dans la crainte.",
-      "text": "On voit ici le dessein de Dieu dans les Lois pénales[19]. Il veut premièrement, qu'on satisfasse à celui à"
+      "text": "On voit ici le dessein de Dieu dans les Lois pénales[19]. Il veut premièrement, qu'on satisfasse à celui à qui l'injure est faite ; et ensuite, qu'on mette les méchants hors d'état de nuire, et qu'on arrête les effets du mauvais exemple, en punissant les coupables ; de peur que les méchants se flattant de l'impunité, ne veuillent imiter ceux qui ont fait le mal avant eux. Un ancien Philosophe [20] disait, qu'on devait se porter à faire mourir les méchants, dans le même esprit qu'on tue les vipères et les renards, de peur qu'ils ne nous nuisent. _Cùm servicos noxios præcidi curabo_, dit Sénèque [21], _eo vultu animóque ero, quo serpentes et animalia venenata percutio._"
     },
     {
-      "verse": 22,
+      "verse": 21,
       "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "point de lui ; c'est-à-dire, nulle considération ne doit vous empêcher de le faire mourir."
+      "latin_lemma": "ANIMAM PRO ANIMA.",
+      "lemma": "Vie pour vie.",
+      "text": "Il semble, par ce qui précède, qu'on doit entendre tout ceci à la lettre, et sans adoucissement : _vous n'aurez nulle compassion de lui_, dit Moïse ; _vous le traiterez, comme il a voulu traiter son frère_ [22]. Les Rabbins [23] enseignent, que la Loi ne s'exécutait dans sa rigueur, que lorsque l'un des deux avait été tué : alors on faisait mourir celui qui lui avait ôté la vie ; mais pour le reste, on se contentait de punir par une amende pécuniaire, celui, par exemple, qui avait fait perdre un œil à son prochain [24]. On peut voir ce qu'on a remarqué sur une semblable Loi, Exode 21:24."
     }
   ],
   "joins": [
@@ -148,6 +148,13 @@
       "mode": "flow",
       "before": "st traduit par _prévarication_, peut s'entendre en général",
       "after": "de toutes les fautes considérables contre la Loi : mais il"
+    },
+    {
+      "seam": "page_0271>page_0272",
+      "verse": 20,
+      "mode": "flow",
+      "before": "_0271-d}. Il veut premièrement, qu'on satisfasse à celui à",
+      "after": "qui l'injure est faite ; et ensuite, qu'on mette les mécha"
     }
   ],
   "pages_used": [
@@ -157,7 +164,8 @@
     "page_0268",
     "page_0269",
     "page_0270",
-    "page_0271"
+    "page_0271",
+    "page_0272"
   ],
   "footnotes": [
     {
@@ -254,6 +262,31 @@
       "key": "page_0271-d",
       "n": 19,
       "text": "Grot. de jure bel. et pac. l. 2 c. 20 art. 9."
+    },
+    {
+      "key": "page_0272-a",
+      "n": 20,
+      "text": "Democrit. apud Grot. loco citato."
+    },
+    {
+      "key": "page_0272-b",
+      "n": 21,
+      "text": "Lib. 2 de ira."
+    },
+    {
+      "key": "page_0272-c",
+      "n": 22,
+      "text": "Lyran. et Caraïte, Vat. Drus."
+    },
+    {
+      "key": "page_0272-d",
+      "n": 23,
+      "text": "Hebræi apud Ainsv."
+    },
+    {
+      "key": "page_0272-e",
+      "n": 24,
+      "text": "Rabb. Salom. Jonathan, et alii apud Fag."
     }
   ],
   "missing_footnotes": []

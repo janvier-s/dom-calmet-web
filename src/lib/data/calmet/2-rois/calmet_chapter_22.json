@@ -75,7 +75,7 @@
       "sub": false,
       "latin_lemma": "IDCIRCO COLLIGERIS AD SEPULCRUM TUUM IN PACE.",
       "lemma": "Vous serez enseveli en paix.",
-      "text": "Tout le monde sait que"
+      "text": "Tout le monde sait que Josias fut tué dans un combat, qu'il livra mal à propos au roi d'Égypte, [32] qui ne l'attaquait pas, et qui n'en voulait pas à lui ; cela n'empêcha pas que Josias ne fût enseveli en paix : ayant été mené à Jérusalem, et enterré avec toutes les solennités accoutumées. L'Écriture remarque ici une chose qui mérite beaucoup d'attention, qui est que Dieu le tira du monde en paix ; afin que ses yeux ne fussent pas témoins des maux qu'il devait faire tomber sur Jérusalem. Il mourut pendant que le pays était encore dans la prospérité et la paix, et avant les malheurs qui survinrent après sa mort, à Jérusalem et à ses États."
     }
   ],
   "joins": [
@@ -99,6 +99,13 @@
       "mode": "flow",
       "before": "avoir vu les Livres de la Loi ? Si cela est, d'où nous est",
       "after": "venu tout le Pentateuque, puisqu'on dit qu'il n'y eut que "
+    },
+    {
+      "seam": "page_0317>page_0318",
+      "verse": 20,
+      "mode": "flow",
+      "before": "Tout le monde sait que",
+      "after": "Josias fut tué dans un combat, qu'il livra mal à propos au"
     }
   ],
   "pages_used": [
@@ -109,7 +116,8 @@
     "page_0314",
     "page_0315",
     "page_0316",
-    "page_0317"
+    "page_0317",
+    "page_0318"
   ],
   "footnotes": [
     {
@@ -266,6 +274,11 @@
       "key": "page_0317-g",
       "n": 31,
       "text": "Hieron. in Sophon 1. 10. Quod autem ait Ululatus à secunda, secundi muri in eodem clausam portam significat."
+    },
+    {
+      "key": "page_0318-a",
+      "n": 32,
+      "text": "4. Reg. XXIII. 29."
     }
   ],
   "missing_footnotes": []

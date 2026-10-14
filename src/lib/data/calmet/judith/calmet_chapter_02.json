@@ -131,7 +131,14 @@
       "sub": false,
       "latin_lemma": "POST HÆC DESCENDIT IN CAMPOS DAMASCI, IN DIEBUS MESSIS.",
       "lemma": "Il descendit ensuite dans les champs de Damas, au temps de la moisson.",
-      "text": "Il avait laissé Damas, lorsqu'il repassa l'Euphrate, pour aller assujettir les peuples de Mésopotamie. Après les avoir soumis, et les autres peuples, qui étaient sur l'Euphrate, il remonta vers Damas, et choisit exprès le temps de la moisson, afin de faire le dégât dans le pays, et d'obliger les peuples à se rendre, en brûlant leurs moissons, et en coupant leurs arbres, et leurs vignes. Le Grec est plus étendu. Il porte qu'Holofernes brûla les moissons de froment de ceux de Damas, enleva tous leurs troupeaux, dépouilla leurs villes, ravagea tout ce qui était dans leurs champs, et passa au fil de l'épée tous leurs jeunes hommes : Que la frayeur se répandit dans tout le pays maritime, dans Tyr, dans Sidon, dans Sur, dans Ocime, et dans Jemnaa : Que ceux d'Ascalon, et d'Azot, furent frappés d'une très-grande crainte. Tout le monde connaît Tyr, et Sidon. Sur, est la même que Tyr. Ce dernier terme est celui que les Grecs donnent à cette ville:"
+      "text": "Il avait laissé Damas, lorsqu'il repassa l'Euphrate, pour aller assujettir les peuples de Mésopotamie. Après les avoir soumis, et les autres peuples, qui étaient sur l'Euphrate, il remonta vers Damas, et choisit exprès le temps de la moisson, afin de faire le dégât dans le pays, et d'obliger les peuples à se rendre, en brûlant leurs moissons, et en coupant leurs arbres, et leurs vignes. Le Grec est plus étendu. Il porte qu'Holofernes brûla les moissons de froment de ceux de Damas, enleva tous leurs troupeaux, dépouilla leurs villes, ravagea tout ce qui était dans leurs champs, et passa au fil de l'épée tous leurs jeunes hommes : Que la frayeur se répandit dans tout le pays maritime, dans Tyr, dans Sidon, dans Sur, dans Ocime, et dans Jemnaa : Que ceux d'Ascalon, et d'Azot, furent frappés d'une très-grande crainte. Tout le monde connaît Tyr, et Sidon. Sur, est la même que Tyr. Ce dernier terme est celui que les Grecs donnent à cette ville: mais les Hébreux l'appellent _Zur_.[44] Ce nom peut aussi marquer la Syrie ; et c'est ainsi que l'a entendu le Traducteur Syriaque. _Ocine_, est la même qu'_Acé_,[45] ou _Acco_, ou Ptolémaïs. _Jemnaa_, est _Jamnia_,[46] ou _Jabnia_, ou _Jamnés_, ville maritime de la Palestine. Le Syriaque entend _Lebna_, au midi du partage de Juda. _Ascalon_, et _Azot_ sont dans le pays des Philistins. On ne peut lire sans étonnement la rapidité des conquêtes d'Holofernes. Depuis le 22. du premier mois, qu'il reçut ordre de se préparer à la guerre, jusqu'au temps de la moisson du froment, il ne peut y avoir que 6. ou 7. semaines ; et pendant cet espace, il assujettit la Cappadoce, la Lydie, la Cilicie, la Mésopotamie, depuis le fleuve Chaboras, jusqu'au golfe Persique, l'Arabie, le pays de Madian ; et revint enfin à Damas. Il fit tout cela en moins de deux mois ; c'est ce qui paraît presque incroyable. Je croirais qu'il fit une partie de cela par ses Lieutenants, à la tête de quelques détachements de son armée.\n\nDe la Syrie de Mésopotamie. La Mésopotamie est nommée en Hébreu, _Padan Aram_. Elle est peuplée pour la plupart, des descendants d'Aram, père des Syriens. C'est ce qui lui fait donner le nom de Syrie de Mésopotamie. Le Grec ne dit rien de tous ces peuples en particulier."
+    },
+    {
+      "verse": 17,
+      "sub": false,
+      "latin_lemma": "SYRIÆ SOBAL.",
+      "lemma": null,
+      "text": "La Syrie de Sobal, ou plutôt, de _Soba_, connue par divers endroits de l'Écriture.[47] C'est peut-être cette partie de la Syrie, où est située Samul de Ptolémée,[48] assez près de Damas, ou la Célé-Syrie."
     }
   ],
   "joins": [
@@ -176,6 +183,20 @@
       "mode": "mend",
       "before": "ndants, étaient au midi de la Cilicie, ou de la Palestine.",
       "after": "je croirais qu'il s'agit ici de ce pays : mais tout cela e"
+    },
+    {
+      "seam": "page_0054>page_0055",
+      "verse": 17,
+      "mode": "flow",
+      "before": "rnier terme est celui que les Grecs donnent à cette ville:",
+      "after": "mais les Hébreux l'appellent _Zur_.^{(a)} Ce nom peut auss"
+    },
+    {
+      "seam": "page_0055>page_0055",
+      "verse": 17,
+      "mode": "para",
+      "before": "utenants, à la tête de quelques détachements de son armée.",
+      "after": "De la Syrie de Mésopotamie. La Mésopotamie est nommée en H"
     }
   ],
   "pages_used": [
@@ -187,7 +208,8 @@
     "page_0051",
     "page_0052",
     "page_0053",
-    "page_0054"
+    "page_0054",
+    "page_0055"
   ],
   "footnotes": [
     {
@@ -404,6 +426,31 @@
       "key": "page_0054-a",
       "n": 43,
       "text": "Εκύκλωσε πάσας τὰς υἱὸς Μαδιὰμ, καὶ ἐνέπρησε τὰ σκηνώματα αὐτῶν, καὶ τὰς μάνδρας αὐτῶν."
+    },
+    {
+      "key": "page_0055-a",
+      "n": 44,
+      "text": "צור Tsyr."
+    },
+    {
+      "key": "page_0055-b",
+      "n": 45,
+      "text": "Hebr. עכו Judit. I. 31. Acc, Plin. lib. V. cap. 19."
+    },
+    {
+      "key": "page_0055-c",
+      "n": 46,
+      "text": "2. Par. XXVI. 6. Vide et I. Macc. IV. 15."
+    },
+    {
+      "key": "page_0055-d",
+      "n": 47,
+      "text": "I. Reg. XIV 47. et 2. Reg. VIII. 3. X. 6. XXIII. 36. 3. Reg. XI. 23. etc."
+    },
+    {
+      "key": "page_0055-e",
+      "n": 48,
+      "text": "Ptolom. lib. 5. Σαμαλις"
     }
   ],
   "missing_footnotes": []

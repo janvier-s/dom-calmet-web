@@ -131,7 +131,21 @@
       "sub": false,
       "latin_lemma": "COEPITQUE SPIRITUS DOMINI ESSE CUM EO.",
       "lemma": "Et l'Esprit du Seigneur commença à être avec Samson.",
-      "text": "L'esprit de Dieu donna des"
+      "text": "L'esprit de Dieu donna des marques de sa présence dans Samson, par l'envie qu'il lui inspira de délivrer ses frères, et par la vigueur et la force qu'il lui communiqua ; en sorte que dès lors on put juger de ce qu'il serait un jour, par ces dispositions qu'on voyait en lui. Le texte hébreu se traduit diversement : _L'Esprit du Seigneur commença à le frapper_, comme on frappe le fer sur l'enclume. Les Septante : [31] _L'Esprit de Dieu commença à marcher avec lui_, à régler ses pas, à le conduire pas à pas. Jonathan : L'Esprit de Dieu commença à le sanctifier."
+    },
+    {
+      "verse": 25,
+      "sub": false,
+      "latin_lemma": "IN CASTRIS DAN.",
+      "lemma": "Dans le camp de Dan",
+      "text": "; dans un lieu qui avait pris le nom de camp de Dan, parce que ceux de cette tribu s'y étaient arrêtés, pendant que leurs frères allèrent dérober l'idole de Michas, comme on le verra au chap. XVIII. C'était le lieu de la demeure de Manuë père de Samson. [32]"
+    },
+    {
+      "verse": 25,
+      "sub": false,
+      "latin_lemma": "SARAA ET ESTHAOL.",
+      "lemma": "On a vu ci-devant au ℣. 2. la situation de Saraa ; Esthaol en était fort près dans la tribu de Dan. Eusèbe met Saraa et Esthaol à dix milles d'Éleuthéropolis, vers le septentrion.",
+      "text": ""
     }
   ],
   "joins": [
@@ -176,6 +190,13 @@
       "mode": "flow",
       "before": "ue l'Ange ne déclara pas son nom à Manué, et qu'il lui dit",
       "after": "simplement que ce nom était une chose qui ne se déclarait "
+    },
+    {
+      "seam": "page_0244>page_0245",
+      "verse": 25,
+      "mode": "flow",
+      "before": "L'esprit de Dieu donna des",
+      "after": "marques de sa présence dans Samson, par l'envie qu'il lui "
     }
   ],
   "pages_used": [
@@ -188,7 +209,8 @@
     "page_0241",
     "page_0242",
     "page_0243",
-    "page_0244"
+    "page_0244",
+    "page_0245"
   ],
   "footnotes": [
     {
@@ -340,6 +362,16 @@
       "key": "page_0244-c",
       "n": 30,
       "text": "I. Reg. XI. 11. _Misit Dominus Jerobaal et Badan, et Jephte et Samuel._"
+    },
+    {
+      "key": "page_0245-b",
+      "n": 31,
+      "text": "ἤρξατο πνεῦμα κυρίου συμπορεύεσθαι ἀυτῷ."
+    },
+    {
+      "key": "page_0245-c",
+      "n": 32,
+      "text": "Judic. XIII. 2."
     }
   ],
   "missing_footnotes": []

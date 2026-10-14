@@ -173,7 +173,7 @@
       "sub": false,
       "latin_lemma": "BOS, OVIS, AUT CAPRA SEPTEM DIEBUS ERUNT SUB UBERE MATRIS.",
       "lemma": "Lorsqu'un veau, ou une brebis, ou une chèvre, seront nés, ils demeureront sept jours à téter leur mère.",
-      "text": "Les animaux n'étaient pas regardés comme parfaits, ni comme une nourriture bonne à manger, avant le huitième jour. Cette loi est aussi une leçon[39] d'humanité, de même que la suivante. Les Romains[40] n'immolaient pas des cochons de lait, qu'ils n'eussent au moins cinq jours. Ils ne les croyaient pas purs auparavant ce temps. Les moutons et les chevreaux pouvaient s'offrir"
+      "text": "Les animaux n'étaient pas regardés comme parfaits, ni comme une nourriture bonne à manger, avant le huitième jour. Cette loi est aussi une leçon[39] d'humanité, de même que la suivante. Les Romains[40] n'immolaient pas des cochons de lait, qu'ils n'eussent au moins cinq jours. Ils ne les croyaient pas purs auparavant ce temps. Les moutons et les chevreaux pouvaient s'offrir parmi eux, huit jours après leur naissance, et les bœufs, après un mois. Coruncanus soutenait que les hosties qu'ils nommaient, _ruminales_, c'est-à-dire, qui ruminent, ou qui tètent, ne sont pas censées pures, qu'elles n'aient leurs deux dents, qui sont plus grandes que les autres. Parmi les Hébreux, quoiqu'on pût offrir les hosties huit jours après leur naissance, on croyait qu'il était mieux de ne les immoler qu'au bout de trente jours."
     }
   ],
   "joins": [
@@ -232,6 +232,13 @@
       "mode": "flow",
       "before": "rastes Chaldéens^{fn:page_0289-c} traduisent par _corban_,",
       "after": "une offrande, le mot Hébreu,^{(a)} qui signifie du pain. L"
+    },
+    {
+      "seam": "page_0290>page_0291",
+      "verse": 27,
+      "mode": "flow",
+      "before": " ce temps. Les moutons et les chevreaux pouvaient s'offrir",
+      "after": "parmi eux, huit jours après leur naissance, et les bœufs, "
     }
   ],
   "pages_used": [
@@ -245,7 +252,8 @@
     "page_0287",
     "page_0288",
     "page_0289",
-    "page_0290"
+    "page_0290",
+    "page_0291"
   ],
   "footnotes": [
     {

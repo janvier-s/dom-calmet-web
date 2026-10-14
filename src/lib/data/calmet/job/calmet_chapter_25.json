@@ -33,13 +33,22 @@
       "sub": false,
       "latin_lemma": "ECCE LUNA ETIAM NON SPLENDET.",
       "lemma": "La Lune même ne brille point.",
-      "text": "Tout ce qu'il y a de plus parfait sur la terre, n'est qu'imperfection, que faiblesse devant Dieu. La Lune, et les Étoiles se prennent ici dans un sens allégorique. De même que tout ce qu'il y a de plus brillant, de plus beau, de plus parfait dans la nature, n'est rien comparé à Dieu ; ainsi les plus par-"
+      "text": "Tout ce qu'il y a de plus parfait sur la terre, n'est qu'imperfection, que faiblesse devant Dieu. La Lune, et les Étoiles se prennent ici dans un sens allégorique. De même que tout ce qu'il y a de plus brillant, de plus beau, de plus parfait dans la nature, n'est rien comparé à Dieu ; ainsi les plus parfaits, et les plus justes parmi les hommes, n'ont devant Dieu, et par eux-mêmes, pour partage que le péché, et l'infirmité. Voyez ci-devant Job, Chap. IV. 17. XV. 14. et suivants."
     }
   ],
-  "joins": [],
+  "joins": [
+    {
+      "seam": "page_0321>page_0322",
+      "verse": 5,
+      "mode": "splice",
+      "before": "la nature, n'est rien comparé à Dieu ; ainsi les plus par-",
+      "after": "faits, et les plus justes parmi les hommes, n'ont devant D"
+    }
+  ],
   "pages_used": [
     "page_0320",
-    "page_0321"
+    "page_0321",
+    "page_0322"
   ],
   "footnotes": [
     {

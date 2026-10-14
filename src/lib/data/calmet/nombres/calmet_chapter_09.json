@@ -90,6 +90,13 @@
       "latin_lemma": "STATIM AUTEM UT RECESSISSET, MOVEBANT CASTRA.",
       "lemma": "Ils décampaient aussitôt que la nuée s'était éloignée.",
       "text": "Ceci n'est pas dans les Septante de l'édition de Nobilius, ni dans celles des Polyglottes d'Anvers et de Paris."
+    },
+    {
+      "verse": 23,
+      "sub": false,
+      "latin_lemma": "ERANTQUE IN EXCUBIIS DOMINI.",
+      "lemma": "Ils demeuraient comme en sentinelle à observer la nuée.",
+      "text": "Ils étaient attentifs au signal que le Seigneur leur donnait par sa nuée. On peut traduire l'Hébreu [26] : Ils observaient l'observance du Seigneur. Ils gardaient ses ordres, ils suivaient sa volonté."
     }
   ],
   "joins": [
@@ -144,7 +151,8 @@
     "page_0120",
     "page_0121",
     "page_0122",
-    "page_0123"
+    "page_0123",
+    "page_0124"
   ],
   "footnotes": [
     {
@@ -271,6 +279,11 @@
       "key": "page_0123-b",
       "n": 25,
       "text": "ימים או חדש או ימים"
+    },
+    {
+      "key": "page_0124-a",
+      "n": 26,
+      "text": "את משמרת יהוה שמרו"
     }
   ],
   "missing_footnotes": []

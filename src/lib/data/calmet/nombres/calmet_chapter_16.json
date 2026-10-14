@@ -180,7 +180,7 @@
       "sub": false,
       "latin_lemma": "PERGENS CITÒ AD POPULUM, UT ROGES PRO EIS.",
       "lemma": "Allez vite vers le peuple pour prier pour eux.",
-      "text": "L'Hébreu : _Allez vite vers la multitude, et expiez-la._ Sortez du Tabernacle, et parcourez, l'encensoir à la"
+      "text": "L'Hébreu : _Allez vite vers la multitude, et expiez-la._ Sortez du Tabernacle, et parcourez, l'encensoir à la main, tout le camp, pour arrêter les effets de la colère de Dieu. Il n'était pas permis, selon les Lois ordinaires, au Grand-Prêtre de paraître en cette posture au milieu du peuple, et parmi les morts : on ne portait jamais ni les encensoirs sacrés, ni les parfums hors du Tabernacle ; mais l'Esprit saint, qui inspirait Moïse dans cette occasion, le fit passer par-dessus les règles communes."
     }
   ],
   "joins": [
@@ -260,6 +260,13 @@
       "mode": "flow",
       "before": "es pécheurs ont sanctifié leurs encensoirs par leur mort._",
       "after": "Autrement : _Les encensoirs de ces pécheurs sont comme un "
+    },
+    {
+      "seam": "page_0208>page_0209",
+      "verse": 46,
+      "mode": "flow",
+      "before": "-la._ Sortez du Tabernacle, et parcourez, l'encensoir à la",
+      "after": "main, tout le camp, pour arrêter les effets de la colère d"
     }
   ],
   "pages_used": [
@@ -276,7 +283,8 @@
     "page_0205",
     "page_0206",
     "page_0207",
-    "page_0208"
+    "page_0208",
+    "page_0209"
   ],
   "footnotes": [
     {

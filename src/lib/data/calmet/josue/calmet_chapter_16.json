@@ -96,7 +96,7 @@
       "sub": false,
       "latin_lemma": "CANANÆUM QUI HABITABAT IN GAZER.",
       "lemma": "Les Cananéens qui habitaient à Gazer.",
-      "text": "On a déjà parlé ci-devant de la ville de Ga-"
+      "text": "On a déjà parlé ci-devant de la ville de Gazer ; [19] cette ville ayant été donnée à la tribu d'Éphraïm, comme elle était probablement encore aux Cananéens, Éphraïm l'assujettit et se rendit tributaires les peuples qui l'habitaient ; on ne sait en quel temps cela arriva, car la conquête de cette place qui est rapportée dans le premier chapitre des Juges ℣. 29. n'y est apparemment rapportée que par récapitulation. Au reste, on doit faire ici la même réflexion qu'on a faite à la fin du chapitre précédent, qui est que les Cananéens de Gazer étaient encore tributaires à la tribu d'Éphraïm, lorsque l'Auteur de ces mémoires écrivait, et par conséquent qu'il vivait avant que ceux de Gazer se fussent mis en liberté, et avant leur assujettissement à Salomon, après la conquête qu'en fit le roi d'Égypte, [20] pour la donner en dot à la fille, épouse de Salomon.\n\nManassé fils aîné de Joseph, avait en quelque sorte été mis après Éphraïm par Jacob, qui avait prédit que le cadet serait plus grand que l'aîné, [21] _frater ejus minor, major erit illo_. Mais pourtant Jacob n'avait rien ôté à Manassé de ses privilèges de premier-né ; d'où vient qu'au-delà du Jourdain on donne à Machir et à la demi-tribu de Manassé, son partage dans l'excellent pays de Basan et de Galaad, avant qu'Éphraïm eût encore possédé la moindre chose."
     }
   ],
   "joins": [
@@ -120,6 +120,20 @@
       "mode": "flow",
       "before": "t.^{fn:page_0300-d} La mer dont il est parlé ici, signifie",
       "after": "l'occident, et la Méditerranée. La ligne qui sépare les tr"
+    },
+    {
+      "seam": "page_0301>page_0302",
+      "verse": 10,
+      "mode": "splice",
+      "before": "On a déjà parlé ci-devant de la ville de Ga-",
+      "after": "zer ; ^{(a)} cette ville ayant été donnée à la tribu d'Éph"
+    },
+    {
+      "seam": "page_0302>page_0302",
+      "verse": 10,
+      "mode": "para",
+      "before": "02-b} pour la donner en dot à la fille, épouse de Salomon.",
+      "after": "Manassé fils aîné de Joseph, avait en quelque sorte été mi"
     }
   ],
   "pages_used": [
@@ -127,7 +141,8 @@
     "page_0298",
     "page_0299",
     "page_0300",
-    "page_0301"
+    "page_0301",
+    "page_0302"
   ],
   "footnotes": [
     {
@@ -219,6 +234,21 @@
       "key": "page_0301-c",
       "n": 18,
       "text": "Mas. Bonfr. Vatab. Menoch. Malu."
+    },
+    {
+      "key": "page_0302-a",
+      "n": 19,
+      "text": "Josue x. 33."
+    },
+    {
+      "key": "page_0302-b",
+      "n": 20,
+      "text": "3. Reg. IX. 16."
+    },
+    {
+      "key": "page_0302-c",
+      "n": 21,
+      "text": "Genes. XLVIII. 19. 20."
     }
   ],
   "missing_footnotes": []

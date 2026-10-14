@@ -90,6 +90,13 @@
       "latin_lemma": "QUIS DET TALEM EOS HABERE MENTEM, UT TIMEANT ME ?",
       "lemma": "Qui leur donnera un tel esprit qu'ils me craignent ?",
       "text": "Puissent-ils demeurer dans de si bons sentiments ! C'est une manière de parler humaine, dit Estius, et il ne faut pas l'entendre, comme si Dieu n'avait pas le pouvoir de convertir le cœur de l'homme ; il marque ce qu'il souhaite de nous, et combien un cœur droit, et un esprit pénétré des sentiments de la crainte, et fidèle à observer ses commandements, lui sont agréables."
+    },
+    {
+      "verse": 32,
+      "sub": false,
+      "latin_lemma": "NON DECLINABITIS NEQUE AD DEXTERAM, NEQUE AD SINISTRAM.",
+      "lemma": "Vous ne vous détournerez ni à droit, ni à gauche.",
+      "text": "Comme celui qui suit un bon chemin, ne peut s'en écarter ni à droit, ni à gauche, sans s'égarer : ainsi dans la pratique de la Loi de Dieu, il faut demeurer dans ce qui est prescrit. C'est la même chose que ce qu'il a exprimé plus haut [17] : _Vous ne diminuerez, ni n'ajouterez rien aux préceptes que vous avez reçu._"
     }
   ],
   "joins": [
@@ -121,7 +128,8 @@
     "page_0123",
     "page_0124",
     "page_0125",
-    "page_0126"
+    "page_0126",
+    "page_0127"
   ],
   "footnotes": [
     {
@@ -203,6 +211,11 @@
       "key": "page_0125-c",
       "n": 16,
       "text": "Exode 20,19."
+    },
+    {
+      "key": "page_0127-a",
+      "n": 17,
+      "text": "Deutéronome 4,2."
     }
   ],
   "missing_footnotes": []

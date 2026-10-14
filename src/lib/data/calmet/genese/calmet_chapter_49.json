@@ -306,7 +306,7 @@
       "sub": false,
       "latin_lemma": "COLLEGIT PEDES SUOS SUPER LECTULUM, ET OBIIT.",
       "lemma": "Il joignit ses pieds sur son lit, et mourut.",
-      "text": "Le Patriarche Jacob parlait à ses fils, assis sur son lit, et ayant les pieds avancés par-devant. Mais après avoir achevé de leur déclarer ses derniers sentiments, il se recoucha, remit ses pieds sur son lit, et mourut, ou expira, selon la force de l'Hébreu [144]. Quelques Hébreux infèrent ridiculement qu'il n'est pas mort, de ce que l'Ecriture n'exprime pas ici le nom de mort, comme si celui d'expirer n'était pas d'une égale force.\nLa vie pénible et laborieuse de Jacob, les persécutions qu'il eut à souffrir de la part de son frère Esaü, sa fuite en Mésopotamie, les supercheries de Laban, pour le frustrer de la récompense de ses travaux, les traverses qu'il eut à essuyer dans sa propre famille, et de la part de ses enfants, sa longue patience, et cet esprit de foi et de sagesse ;"
+      "text": "Le Patriarche Jacob parlait à ses fils, assis sur son lit, et ayant les pieds avancés par-devant. Mais après avoir achevé de leur déclarer ses derniers sentiments, il se recoucha, remit ses pieds sur son lit, et mourut, ou expira, selon la force de l'Hébreu [144]. Quelques Hébreux infèrent ridiculement qu'il n'est pas mort, de ce que l'Ecriture n'exprime pas ici le nom de mort, comme si celui d'expirer n'était pas d'une égale force.\nLa vie pénible et laborieuse de Jacob, les persécutions qu'il eut à souffrir de la part de son frère Esaü, sa fuite en Mésopotamie, les supercheries de Laban, pour le frustrer de la récompense de ses travaux, les traverses qu'il eut à essuyer dans sa propre famille, et de la part de ses enfants, sa longue patience, et cet esprit de foi et de sagesse ; qui ne l'abandonna jamais, la douleur où il vécut si long-temps, dans la croyance que son fils Joseph avait été dévoré des bêtes ; tout cela nous fait envisager ce saint Patriarche, comme une vive figure de la vie laborieuse de Jésus-Christ ; et comme un modèle qui représentait admirablement cet homme de douleurs et de souffrances,[145] _Virum dolorum et scientem infirmitatem._ Jacob toujours sage, modéré, obéissant, fidèle, l'objet de la prédilection de Dieu, qui déclare l'avoir aimé préférablement à Esaü, même avant leurs naissances, ne laisse pas d'être persécuté et affligé ; en quoi il est le modèle de tous les justes et de tous les prédestinés, qui vivent comme lui dans ce monde, comme des étrangers. Jacob rempli de foi, ne se laissa point éblouir par l'éclat d'une élévation, et d'un honneur passager, dont il vit Joseph son fils revêtu dans l'Egypte, il ne regarda qu'avec indifférence l'établissement de sa famille, dans un des meilleurs cantons de ce pays ; pénétré des promesses du Seigneur faites à ses pères, et à lui-même, d'une autre terre et d'un autre établissement : il ne veut pas même que son corps demeure dans l'Egypte, et il partage à ses fils, une terre où ils n'étaient plus, et qui était possédée par des peuples puissants, et ses ennemis ; il la partage, comme s'il en eût été en paisible possession. Ce qui est une preuve évidente de la grandeur de sa foi, et de sa confiance aux promesses de son Dieu."
     }
   ],
   "joins": [
@@ -470,6 +470,13 @@
       "mode": "splice",
       "before": "me du Levite ^{fn:page_0932-e} qu'ils déshonorèrent. D'au-",
       "after": "tres le rapportent à Saül, ou à Esther, ou à Mardochée, ou"
+    },
+    {
+      "seam": "page_0933>page_0934",
+      "verse": 32,
+      "mode": "flow",
+      "before": ", sa longue patience, et cet esprit de foi et de sagesse ;",
+      "after": "qui ne l'abandonna jamais, la douleur où il vécut si long-"
     }
   ],
   "pages_used": [
@@ -502,7 +509,8 @@
     "page_0930",
     "page_0931",
     "page_0932",
-    "page_0933"
+    "page_0933",
+    "page_0934"
   ],
   "footnotes": [
     {
@@ -1224,6 +1232,11 @@
       "key": "page_0933-c",
       "n": 144,
       "text": "יגוע"
+    },
+    {
+      "key": "page_0934-a",
+      "n": 145,
+      "text": "Isaïe 53,3."
     }
   ],
   "missing_footnotes": []

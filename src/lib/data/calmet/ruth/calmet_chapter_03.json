@@ -117,7 +117,7 @@
       "sub": false,
       "latin_lemma": "QUID EGISTI, FILIA?",
       "lemma": "Ma fille, qu'avez-vous fait ?",
-      "text": "L'Hébreu : [34] Ma fille, qui êtes-vous ? Elle ne la connaissait point au milieu de l'obscurité qu'il faisait encore. Les Septante : [35] Que dites-vous ; ou qu'avez-vous fait, ma fille ? Quel est le succès de votre voyage ?"
+      "text": "L'Hébreu : [34] Ma fille, qui êtes-vous ? Elle ne la connaissait point au milieu de l'obscurité qu'il faisait encore. Les Septante : [35] Que dites-vous ; ou qu'avez-vous fait, ma fille ? Quel est le succès de votre voyage ?\n\nDans chaque ville il y avait une porte où l'on rendait la justice et où se terminaient les autres affaires, par-devant les Juges et les Anciens, et en présence de plusieurs témoins."
     }
   ],
   "joins": [
@@ -162,6 +162,13 @@
       "mode": "splice",
       "before": "e _Tob_ est le nom d'un des freres de Salmon, et oncle pa-",
       "after": "ternel de Mahalon époux de Ruth ; mais ce sentiment est ab"
+    },
+    {
+      "seam": "page_0029>page_0030",
+      "verse": 16,
+      "mode": "para",
+      "before": "vous fait, ma fille ? Quel est le succès de votre voyage ?",
+      "after": "Dans chaque ville il y avait une porte où l'on rendait la "
     }
   ],
   "pages_used": [
@@ -173,7 +180,8 @@
     "page_0026",
     "page_0027",
     "page_0028",
-    "page_0029"
+    "page_0029",
+    "page_0030"
   ],
   "footnotes": [
     {

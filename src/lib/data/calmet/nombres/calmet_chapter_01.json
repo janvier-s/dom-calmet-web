@@ -83,6 +83,13 @@
       "latin_lemma": "NE FIAT INDIGNATIO SUPER MULTITUDINEM.",
       "lemma": "De peur que",
       "text": ""
+    },
+    {
+      "verse": 53,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "les effets de mon indignation ne tombent sur la multitude des enfants d’Israël,",
+      "text": "si les profanes, ou ceux des autres Tribus, ou les étrangers, ou quelque personne souillée, s’approchaient du Tabernacle ; c’est à quoi les Lévites étaient obligés de veiller."
     }
   ],
   "joins": [
@@ -137,7 +144,8 @@
     "page_0043",
     "page_0044",
     "page_0046",
-    "page_0047"
+    "page_0047",
+    "page_0048"
   ],
   "footnotes": [
     {

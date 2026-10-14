@@ -55,6 +55,13 @@
       "latin_lemma": "SIN AUTEM CONTRADIXERIT POSTQUAM RESCIVIT, PORTABIT IPSE INIQUITATEM EJUS.",
       "lemma": "Si aussitôt qu'il a su le vœu de sa femme, il l'a désavouée, il sera chargé de toute sa faute",
       "text": "que sa femme peut commettre en n'acquittant pas son vœu : la femme en sera légitimement dispensée ; ce n'est point par sa"
+    },
+    {
+      "verse": 17,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "faute qu'elle ne satisfait pas à sa promesse. Quand Moïse dit, que le mari porte l'iniquité de sa femme, ce n'est pas à dire qu'il y ait quelque faute de la part de la femme, ni que le mari fasse un mal en usant de son droit ; mais seulement que la femme ne doit avoir sur cela aucune inquiétude, que tout cela se fait aux risques du mari. D'autres[18] l'expliquent de cette sorte : Si le mari laisse passer le jour qui lui est donné pour se déclarer, et qu'après cela il veuille empêcher que sa femme n'accomplisse son vœu, il sera chargé de toute la faute qu'elle fera par cette omission. Saint Augustin[19] revient au même sentiment, lorsqu'il dit, que si le mari a consenti d'abord par son silence au vœu de sa femme, comme il est porté au verset précédent, et qu'ensuite il veuille en empêcher l'accomplissement, le péché en retombera sur lui."
     }
   ],
   "joins": [
@@ -100,7 +107,8 @@
     "page_0358",
     "page_0359",
     "page_0360",
-    "page_0361"
+    "page_0361",
+    "page_0362"
   ],
   "footnotes": [
     {
@@ -187,6 +195,16 @@
       "key": "page_0361-c",
       "n": 17,
       "text": "כל נדר וכל שבעת אסר לענת נפש אישה יקימנו ואישה יפרנו"
+    },
+    {
+      "key": "page_0362-a",
+      "n": 18,
+      "text": "Cajet. Bonfr."
+    },
+    {
+      "key": "page_0362-b",
+      "n": 19,
+      "text": "Aug. qu. 59 in Num. n. 3."
     }
   ],
   "missing_footnotes": []

@@ -54,7 +54,7 @@
       "sub": false,
       "latin_lemma": "QUÆ POSTQUAM MOYSES CUNCTA VIDIT COMPLETA, BENEDIXIT EIS.",
       "lemma": "Et Moïse ayant vu que toutes ces choses étaient achevées, il les bénit.",
-      "text": "Voici comme portent l'Hébreu[14] et les Septante : _Moïse vit tout l'ouvrage, et il trouva qu'ils avaient parfaitement exécuté les ordres de Dieu ; et Moïse les bénit._ Naturellement cette bénédiction semble tomber sur les ouvriers, à qui Moïse donna des louanges pour leur"
+      "text": "Voici comme portent l'Hébreu[14] et les Septante : _Moïse vit tout l'ouvrage, et il trouva qu'ils avaient parfaitement exécuté les ordres de Dieu ; et Moïse les bénit._ Naturellement cette bénédiction semble tomber sur les ouvriers, à qui Moïse donna des louanges pour leur exactitude et leur diligence. Mais il y en a[15] qui croient qu'il bénit le peuple, qui avait fourni si abondamment, et avec tant de promptitude, tout ce qu'il fallait pour cet ouvrage. D'autres enfin croient qu'il bénit cet ouvrage, qu'il l'approuva, qu'il le loua."
     }
   ],
   "joins": [
@@ -85,6 +85,13 @@
       "mode": "flow",
       "before": "_0613-f} _Ils firent la lame de la couronne de sainteté_ ;",
       "after": "ou, ils firent la lame, qui était la couronne de sainteté "
+    },
+    {
+      "seam": "page_0614>page_0615",
+      "verse": 43,
+      "mode": "flow",
+      "before": "sur les ouvriers, à qui Moïse donna des louanges pour leur",
+      "after": "exactitude et leur diligence. Mais il y en a^{(a)} qui cro"
     }
   ],
   "pages_used": [
@@ -93,7 +100,8 @@
     "page_0611",
     "page_0612",
     "page_0613",
-    "page_0614"
+    "page_0614",
+    "page_0615"
   ],
   "footnotes": [
     {
@@ -165,6 +173,11 @@
       "key": "page_0614-b",
       "n": 14,
       "text": "באשר צורו יהוה... ויברך אתם משה וירא משה את כל־הלאכה והנה עשו אתה"
+    },
+    {
+      "key": "page_0615-a",
+      "n": 15,
+      "text": "Esti. Rivet."
     }
   ],
   "missing_footnotes": []

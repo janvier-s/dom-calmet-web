@@ -110,7 +110,7 @@
       "sub": false,
       "latin_lemma": "NON DEPONEBAMUS VESTIMENTA NOSTRA ; UNUSQUISQUE TANTUM NUDABATUR AD BAPTISMUM.",
       "lemma": "Nous ne quittions point nos habits ; et on ne les ôtait que pour se purifier.",
-      "text": "Nous ne quittions pas nos habits, pour nous coucher, et pour reposer ; nous dormions tout vêtus, afin d’être toujours prêts à combattre. Si quelqu’un se déshabillait, ce n’était que pour se laver, soit qu’on se lavât pour ôter la sueur, et la poussière contractées dans le travail, ou pour satisfaire aux ordonnances de la Loi, ou à la coutume, qui prescrivaient certaines purifications dans diverses rencontres. Le Texte Hébreu reçoit diverses explications : [24] _Nous ne quittions point nos habits ; chacun gardait son dard aux eaux ; on ne le quittait pas même pour uriner._ [25] D’autres : _Nous ne quittions pas même nos habits, pour les laver._ [26] Autrement : _Nous ne_"
+      "text": "Nous ne quittions pas nos habits, pour nous coucher, et pour reposer ; nous dormions tout vêtus, afin d’être toujours prêts à combattre. Si quelqu’un se déshabillait, ce n’était que pour se laver, soit qu’on se lavât pour ôter la sueur, et la poussière contractées dans le travail, ou pour satisfaire aux ordonnances de la Loi, ou à la coutume, qui prescrivaient certaines purifications dans diverses rencontres. Le Texte Hébreu reçoit diverses explications : [24] _Nous ne quittions point nos habits ; chacun gardait son dard aux eaux ; on ne le quittait pas même pour uriner._ [25] D’autres : _Nous ne quittions pas même nos habits, pour les laver._ [26] Autrement : _Nous ne_ quittions ni nos habits, ni nos armes, et nous n'allions pas même puiser de l'eau à la fontaine, sans nos armes.[27] Enfin quelques-uns traduisent:[28] Chacun avait ses armes, et de l'eau ; afin qu'il ne fût pas obligé de quitter son ouvrage, pour courir aux armes, en cas d'attaque, ni à l'eau dans la soif."
     }
   ],
   "joins": [
@@ -141,6 +141,13 @@
       "mode": "flow",
       "before": "it son épée au côté. Ils tenaient auprès d'eux une pique,_",
       "after": "ou un javelot, prêt à le lancer à l’ennemi, et étaient cei"
+    },
+    {
+      "seam": "page_0038>page_0039",
+      "verse": 23,
+      "mode": "flow",
+      "before": ", pour les laver._ ^{fn:page_0038-e} Autrement : _Nous ne_",
+      "after": "quittions ni nos habits, ni nos armes, et nous n'allions p"
     }
   ],
   "pages_used": [
@@ -151,7 +158,8 @@
     "page_0035",
     "page_0036",
     "page_0037",
-    "page_0038"
+    "page_0038",
+    "page_0039"
   ],
   "footnotes": [
     {
@@ -283,6 +291,16 @@
       "key": "page_0038-e",
       "n": 26,
       "text": "Hebræi in Mat."
+    },
+    {
+      "key": "page_0039-a",
+      "n": 27,
+      "text": "70. Complut. _Kmp_, κὴ ἴκασον ἀυτῶ iis τὸ ὕδωρ. Malv."
+    },
+    {
+      "key": "page_0039-b",
+      "n": 28,
+      "text": "Jun. Pisc. Gall. Belg."
     }
   ],
   "missing_footnotes": []

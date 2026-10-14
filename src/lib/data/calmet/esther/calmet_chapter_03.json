@@ -76,6 +76,13 @@
       "latin_lemma": "SUMMA AUTEM EPISTOLARUM HÆC FUIT.",
       "lemma": "Or voici la substance de la Lettre, ou de l'Édit.",
       "text": "On peut voir cette pièce toute entière, ci-après Chap. XIII. 1....7. Le Grec, et l'ancienne Vulgate l'ont rapportée en cet endroit, qui est sa place naturelle. Mais comme elle ne se trouve, ni dans l'Hébreu, ni dans le Chaldéen, ni dans le Syriaque, en ce lieu-ci, nous en remettrons l'explication au Chap. XIII."
+    },
+    {
+      "verse": 15,
+      "sub": false,
+      "latin_lemma": "CUNCTIS JUDÆIS, QUI IN URBE ERANT, FLENTIBUS.",
+      "lemma": "Tous les Juifs, qui étaient dans la ville, fondant en larmes.",
+      "text": "L'Hébreu à la lettre : [44] _Et la ville de Suses, étant dans la perplexité, ou dans le trouble; dans la douleur, et dans le deuil._ Le Grec : [45] _Et la ville était troublée._"
     }
   ],
   "joins": [
@@ -147,7 +154,8 @@
     "page_0088",
     "page_0089",
     "page_0090",
-    "page_0091"
+    "page_0091",
+    "page_0092"
   ],
   "footnotes": [
     {
@@ -364,6 +372,16 @@
       "key": "page_0091-d",
       "n": 43,
       "text": "Bergier, Histoire des grands Chemins de l'Empire. Voyez aussi le Traité de l'origine des Postes; par M. de la Neufville. Paris 1708."
+    },
+    {
+      "key": "page_0092-a",
+      "n": 44,
+      "text": "והעיר שושן נבוכה"
+    },
+    {
+      "key": "page_0092-b",
+      "n": 45,
+      "text": "Εθορυβεῖτο δὲ ἡ πόλις."
     }
   ],
   "missing_footnotes": []

@@ -129,13 +129,6 @@
     {
       "verse": 27,
       "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "parmi eux, huit jours après leur naissance, et les bœufs, après un mois. Coruncanus soutenait que les hosties qu'ils nommaient, _ruminales_, c'est-à-dire, qui ruminent, ou qui tètent, ne sont pas censées pures, qu'elles n'aient leurs deux dents, qui sont plus grandes que les autres. Parmi les Hébreux, quoiqu'on pût offrir les hosties huit jours après leur naissance, on croyait qu'il était mieux de ne les immoler qu'au bout de trente jours."
-    },
-    {
-      "verse": 27,
-      "sub": false,
       "latin_lemma": "HÆ SUNT FERIÆ DOMINI, QUAS VOCABITIS SANCTAS.",
       "lemma": "Voici les Fêtes du Seigneur, que vous appellerez saintes.",
       "text": "L'Hébreu à la lettre :[1] _Les jours d'assemblées du Seigneur, que vous appellerez, convocations saintes._ L'Hébreu, le Chaldéen, et les Septante ajoutent à la fin de ce verset : _Voici, dis-je, les jours d'assemblées._"
@@ -208,7 +201,14 @@
       "sub": false,
       "latin_lemma": "LÆTABIMINI CORAM DOMINO.",
       "lemma": "Vous vous réjouirez devant le Seigneur.",
-      "text": "Les fêtes de l'ancienne loi étaient toujours accompagnées de quelques réjouissances. Il était de la sagesse de Dieu d'attacher des peuples charnels et grossiers à leur religion, par des cérémonies sensibles et augustes, et par quelque chose d'agréable. Cela servait aussi à entretenir l'amitié et la société parmi les Juifs. Ils se voyaient agréablement trois ou quatre fois l'année, dans le lieu destiné au culte du Seigneur ; ils y renouvelaient leurs connaissances et leur amitié, et ils s'affermissaient insensiblement dans l'amour de leur religion et de la patrie. Strabon[52] remarque que c'était anciennement une pratique usitée parmi les peuples polis, de même que parmi les barbares, d'accompagner leurs fêtes de quelques divertissements. Sénèque remarque que les anciens Législateurs l'avaient ainsi ordonné avec beaucoup de sagesse, pour accorder quelque relâche nécessaire à leurs travaux. _Legum_"
+      "text": "Les fêtes de l'ancienne loi étaient toujours accompagnées de quelques réjouissances. Il était de la sagesse de Dieu d'attacher des peuples charnels et grossiers à leur religion, par des cérémonies sensibles et augustes, et par quelque chose d'agréable. Cela servait aussi à entretenir l'amitié et la société parmi les Juifs. Ils se voyaient agréablement trois ou quatre fois l'année, dans le lieu destiné au culte du Seigneur ; ils y renouvelaient leurs connaissances et leur amitié, et ils s'affermissaient insensiblement dans l'amour de leur religion et de la patrie. Strabon[52] remarque que c'était anciennement une pratique usitée parmi les peuples polis, de même que parmi les barbares, d'accompagner leurs fêtes de quelques divertissements. Sénèque remarque que les anciens Législateurs l'avaient ainsi ordonné avec beaucoup de sagesse, pour accorder quelque relâche nécessaire à leurs travaux. _Legum_ _conditores festos instituerunt dies, ut ad hilaritatem homines publicè cogerentur, tanquàm necessarium laboribus interponentes temperamentum._ Mais ordinairement les païens les poussaient à l'excès."
+    },
+    {
+      "verse": 42,
+      "sub": false,
+      "latin_lemma": "HABITABITIS IN UMBRACULIS SEPTEM DIEBUS.",
+      "lemma": "Vous demeurerez sous l'ombre des branches d'arbre, pendant sept jours.",
+      "text": "Ils y mangeaient et buvaient, ils y passaient tout le jour et la nuit, selon la plupart des Interprètes ; mais Tostat veut qu'ils ne fussent pas obligés d'y passer la nuit."
     }
   ],
   "joins": [
@@ -288,6 +288,13 @@
       "mode": "flow",
       "before": "roupes, les enfants des Hébreux faisaient allusion à cette",
       "after": "cérémonie, en criant : _Hosanna Filio David_. Quelques-uns"
+    },
+    {
+      "seam": "page_0305>page_0306",
+      "verse": 40,
+      "mode": "flow",
+      "before": "corder quelque relâche nécessaire à leurs travaux. _Legum_",
+      "after": "_conditores festos instituerunt dies, ut ad hilaritatem ho"
     }
   ],
   "pages_used": [
@@ -305,7 +312,8 @@
     "page_0302",
     "page_0303",
     "page_0304",
-    "page_0305"
+    "page_0305",
+    "page_0306"
   ],
   "footnotes": [
     {

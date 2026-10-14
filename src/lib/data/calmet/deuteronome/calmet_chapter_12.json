@@ -167,6 +167,27 @@
       "latin_lemma": "CAVE NE IMITERIS EAS.",
       "lemma": "Gardez-vous bien de les imiter.",
       "text": "L'Hébreu[51] : _Prenez garde de ne vous point prendre après elles_, de ne donner pas dans leurs pièges."
+    },
+    {
+      "verse": 30,
+      "sub": false,
+      "latin_lemma": "NON FACIES SIMILITER.",
+      "lemma": "Vous ne rendrez point de semblable culte, etc.",
+      "text": "Voyez le verset 4."
+    },
+    {
+      "verse": 30,
+      "sub": false,
+      "latin_lemma": "COMBURENTES IGNI.",
+      "lemma": "En les brûlant dans le feu.",
+      "text": "Voyez ce qu'on a dit sur les sacrifices d'hosties humaines, Lévitique 18:21."
+    },
+    {
+      "verse": 32,
+      "sub": false,
+      "latin_lemma": "NEC ADDAS QUIDQUAM, NEC MINUAS.",
+      "lemma": "Sans y rien ajouter, ni en rien ôter.",
+      "text": "Voyez ci-devant Deutéronome 4:2 N'y ajoutez rien, en faisant le contraire de ce qu'elle commande ; et n'en ôtez rien, en négligeant ce qu'elle ordonne. Jésus-Christ n'a point contrevenu à cette Règle ; il n'a point agi contre l'esprit et l'intention du Législateur, en ajoutant quelque chose de moins parfait à la Loi, ou en retranchant quelque chose de plus parfait. C'était pour la perfectionner, et pour l'établir, et non pas pour la détruire, et pour la renverser, qu'il a fait ces additions, ou ces retranchements. Joseph dans ses livres contre Appion [52], dit ces mémorables paroles, en parlant des Livres sacrés de sa Nation. « Depuis tant d'années, dit-il, personne n'a jamais été assez osé pour entreprendre d'en ôter, ni d'y ajouter, ni d'y changer la moindre chose : nous les considérons comme divins ; nous les nommons ainsi ; nous faisons profession de les observer inviolablement, et de mourir avec joie, s'il en est besoin, pour les maintenir. »"
     }
   ],
   "joins": [
@@ -245,7 +266,8 @@
     "page_0188",
     "page_0189",
     "page_0190",
-    "page_0191"
+    "page_0191",
+    "page_0192"
   ],
   "footnotes": [
     {
@@ -502,6 +524,11 @@
       "key": "page_0191-a",
       "n": 51,
       "text": "פן תנקש אחריהם."
+    },
+    {
+      "key": "page_0192-a",
+      "n": 52,
+      "text": "Lib. I. contra Appion. c. 2."
     }
   ],
   "missing_footnotes": []

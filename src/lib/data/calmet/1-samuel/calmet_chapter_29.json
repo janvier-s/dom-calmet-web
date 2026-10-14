@@ -54,7 +54,7 @@
       "sub": false,
       "latin_lemma": "TU, ET SERVI DOMINI TUI.",
       "lemma": "Vous, et les serviteurs de votre maître.",
-      "text": "De quel maître ? Les uns [16] croient qu'il parle de Saül, qui en qualité de Roi d'Israël, était encore le maître de David et de ses soldats. Il avait sur eux un droit incontestable ; il n'y avait que les violences et les injustices de Saül, qui pussent mettre David en droit de se soustraire à son obéissance, et d'entretenir des troupes. D'autres l'expliquent d'Achis lui-même ; [17] comme si David en se réfugiant chez ce Prince, se fût donné à lui avec ses troupes."
+      "text": "De quel maître ? Les uns [16] croient qu'il parle de Saül, qui en qualité de Roi d'Israël, était encore le maître de David et de ses soldats. Il avait sur eux un droit incontestable ; il n'y avait que les violences et les injustices de Saül, qui pussent mettre David en droit de se soustraire à son obéissance, et d'entretenir des troupes. D'autres l'expliquent d'Achis lui-même ; [17] comme si David en se réfugiant chez ce Prince, se fût donné à lui avec ses troupes.\n\nTrois jours après son départ d'Aphec. Il y avait plus de trente lieues d'Aphec à Siceleg."
     }
   ],
   "joins": [
@@ -92,6 +92,13 @@
       "mode": "splice",
       "before": " qu'il est comme l'Ange du Seigneur, qui ne se laisse tou-",
       "after": "cher ni par les flatteries, ni par les outrages, qu'il a t"
+    },
+    {
+      "seam": "page_0442>page_0443",
+      "verse": 10,
+      "mode": "para",
+      "before": "giant chez ce Prince, se fût donné à lui avec ses troupes.",
+      "after": "Trois jours après son départ d'Aphec. Il y avait plus de t"
     }
   ],
   "pages_used": [
@@ -100,7 +107,8 @@
     "page_0439",
     "page_0440",
     "page_0441",
-    "page_0442"
+    "page_0442",
+    "page_0443"
   ],
   "footnotes": [
     {

@@ -264,7 +264,14 @@
       "sub": false,
       "latin_lemma": "QUÆ PRÆCEPIT EIS DARI... RELIGIONE PERPETUA.",
       "lemma": "Ce que le Seigneur a commandé aux enfants d'Israël de leur donner, par une observation religieuse.",
-      "text": "On lit dans l'Hébreu, et dans les Versions qui le"
+      "text": "On lit dans l'Hébreu, et dans les Versions qui le suivent, _au jour de leur onction,_ ( ou de leur consécration ) ; paroles qui ne se trouvent pas dans la Vulgate."
+    },
+    {
+      "verse": 37,
+      "sub": false,
+      "latin_lemma": "ISTA LEX EST HOLOCAUSTI.",
+      "lemma": "Voilà les Loixsde l'holocauste.",
+      "text": "On doit distinguer dans ce verset six sortes de sacrifices. \n1°. L'holocauste. \n2°. L'offrande de farine. \n3°. Le sacrifice pour le péché. \n4°. Pour le délit.\n5°. Pour la consécration. \n6°. Les sacrifices pacifiques. \nVoici le Texte à la lettre :[39] _Telles sont les lois de l'holocauste, de l'offrande de pains, ou de farines, de l'hostie pour le péché, des sacrifices pour le délit, de ceux qu'on offre pour la consécration ; et enfin des sscrifices pacifiques._"
     }
   ],
   "joins": [
@@ -302,6 +309,13 @@
       "mode": "flow",
       "before": "On a déjà vu ci-devant,",
       "after": "Exode 29:22 que quelques Interprètes traduisent l'Hébreu p"
+    },
+    {
+      "seam": "page_0101>page_0102",
+      "verse": 36,
+      "mode": "flow",
+      "before": "On lit dans l'Hébreu, et dans les Versions qui le",
+      "after": "suivent, _au jour de leur onction,_ ( ou de leur consécrat"
     }
   ],
   "pages_used": [
@@ -316,7 +330,8 @@
     "page_0098",
     "page_0099",
     "page_0100",
-    "page_0101"
+    "page_0101",
+    "page_0102"
   ],
   "footnotes": [
     {
@@ -508,6 +523,11 @@
       "key": "page_0101-e",
       "n": 38,
       "text": "זות משחת אהרן"
+    },
+    {
+      "key": "page_0102-a",
+      "n": 39,
+      "text": "זאת התורה לעלה למנחה ולחטאת ולאשם ולמלואים ולזבח השלמים"
     }
   ],
   "missing_footnotes": []

@@ -96,7 +96,7 @@
       "sub": false,
       "latin_lemma": "QUINQUAGINTA-DUOBUS DIEBUS.",
       "lemma": "En cinquante-deux jours.",
-      "text": "Il paraît presqu'incroyable, que dans si peu de temps, on ait pu achever un si grand ouvrage. Pour rendre ce fait moins difficile à croire, quelques-uns [16] ont cru que le mur ne fut achevé que cinquante-deux jours après les lettres de Sanaballat, dont on a parlé plus haut. D'autres, [17] après Joseph, ont cru que l'on avait été deux ans entiers, et trois mois, à rebâtir les murs de Jérusalem. Mais la plupart des Chronologistes, et des Interprètes [18] prétendent que cet ouvrage fut achevé cinquante-deux jours après qu'il eût été commencé. Le Texte est formel pour ce sentiment. Le grand nombre d'ouvriers, l'ardeur de Néhémie, la diligence des Juifs, toute la Nation occupée à ce travail, la jalousie de leurs ennemis, qui leur faisait encore redoubler leurs efforts ; tout cela joint ensemble, ne permet pas de croire qu'il y ait rien d'impossible dans le récit de Néhémie. Ajoutez que ces murailles ne se bâtissaient pas depuis les fondements ; on en réparait simplement les brèches ; on rétablissait les endroits qui avaient été abattus ; les matériaux étaient tout prêts ; les fondements subsistaient ; il y avait plusieurs endroits escarpés, où il ne fallait que peu, ou point de murailles. Enfin on ne doit pas s'imaginer qu'alors Jérusalem eût toute la grandeur qu'on lui donna dans la suite. On y fit de grandes additions dans les derniers temps.\nLes exemples anciens, et nouveaux de semblables ouvrages entrepris, et exécutés avec une diligence encore plus grande, et par un moindre nombre de personnes, sont fréquents dans l'Histoire. On sait les travaux que fit Jules César devant Alésia, [19] lorsqu'il enveloppa cette ville dans l'espace de onze mille pas, d'un fossé profond de vingt pieds ; et qu'à quatre cents pieds de ce fossé, il en fit creuser deux autres de la largeur de quinze pieds, et d'autant de profondeur ; et derrière eux, une terrasse de douze pieds. Il fortifia le tout de divers ouvrages, et entre autres, de plusieurs tours éloignées de quatre-vingts pieds les unes des autres. Il fit plus : car pour empêcher le secours qui devait venir à la ville, il fit d'autres lignes de circonvallation dans l'espace de quatorze mille pas, qu'il munit des mêmes espèces de fortifications, qu'il avait faites aux premières. Le même César [20]"
+      "text": "Il paraît presqu'incroyable, que dans si peu de temps, on ait pu achever un si grand ouvrage. Pour rendre ce fait moins difficile à croire, quelques-uns [16] ont cru que le mur ne fut achevé que cinquante-deux jours après les lettres de Sanaballat, dont on a parlé plus haut. D'autres, [17] après Joseph, ont cru que l'on avait été deux ans entiers, et trois mois, à rebâtir les murs de Jérusalem. Mais la plupart des Chronologistes, et des Interprètes [18] prétendent que cet ouvrage fut achevé cinquante-deux jours après qu'il eût été commencé. Le Texte est formel pour ce sentiment. Le grand nombre d'ouvriers, l'ardeur de Néhémie, la diligence des Juifs, toute la Nation occupée à ce travail, la jalousie de leurs ennemis, qui leur faisait encore redoubler leurs efforts ; tout cela joint ensemble, ne permet pas de croire qu'il y ait rien d'impossible dans le récit de Néhémie. Ajoutez que ces murailles ne se bâtissaient pas depuis les fondements ; on en réparait simplement les brèches ; on rétablissait les endroits qui avaient été abattus ; les matériaux étaient tout prêts ; les fondements subsistaient ; il y avait plusieurs endroits escarpés, où il ne fallait que peu, ou point de murailles. Enfin on ne doit pas s'imaginer qu'alors Jérusalem eût toute la grandeur qu'on lui donna dans la suite. On y fit de grandes additions dans les derniers temps.\nLes exemples anciens, et nouveaux de semblables ouvrages entrepris, et exécutés avec une diligence encore plus grande, et par un moindre nombre de personnes, sont fréquents dans l'Histoire. On sait les travaux que fit Jules César devant Alésia, [19] lorsqu'il enveloppa cette ville dans l'espace de onze mille pas, d'un fossé profond de vingt pieds ; et qu'à quatre cents pieds de ce fossé, il en fit creuser deux autres de la largeur de quinze pieds, et d'autant de profondeur ; et derrière eux, une terrasse de douze pieds. Il fortifia le tout de divers ouvrages, et entre autres, de plusieurs tours éloignées de quatre-vingts pieds les unes des autres. Il fit plus : car pour empêcher le secours qui devait venir à la ville, il fit d'autres lignes de circonvallation dans l'espace de quatorze mille pas, qu'il munit des mêmes espèces de fortifications, qu'il avait faites aux premières. Le même César [20] tira une muraille de la hauteur de seize pieds, depuis le Lac de Genève, jusqu’au mont Jura, dans l’espace de dix-neuf mille pas, n’ayant avec lui qu’une Légion, c’est-à-dire, environ six mille six cents hommes, et quelques troupes, qui lui étaient venues de Provence. Tout cet ouvrage fut achevé dans peu de jours. Joseph[21] rapporte que les Romains au dernier siège de Jérusalem, enfermèrent toute la ville par un mur de trente-neuf stades de long, c’est-à-dire, de près de cinq mille pas; et outre cela, qu’ils bâtirent treize redoutes, ou forts, de dix stades de tour. Tout cet ouvrage fut achevé en trois jours. Alexandre le Grand[22] ne mit que dix-sept jours, selon Quinte-Curce, ou vingt jours, selon Arrian, à bâtir les murs de la nouvelle Alexandrie, située sur le Tanaïs; quoique ces murs eussent soixante stades de longueur, c’est-à-dire, près de huit mille pas de tour. On pourrait multiplier les exemples sur cette matière: mais ceux-là suffisent, pour justifier le récit de l’Écriture."
     }
   ],
   "joins": [
@@ -127,6 +127,13 @@
       "mode": "flow",
       "before": "dent que cet ouvrage fut achevé cinquante-deux jours après",
       "after": "qu'il eût été commencé. Le Texte est formel pour ce sentim"
+    },
+    {
+      "seam": "page_0052>page_0053",
+      "verse": 15,
+      "mode": "flow",
+      "before": "vait faites aux premières. Le même César ^{fn:page_0052-b}",
+      "after": "tira une muraille de la hauteur de seize pieds, depuis le "
     }
   ],
   "pages_used": [
@@ -135,7 +142,8 @@
     "page_0049",
     "page_0050",
     "page_0051",
-    "page_0052"
+    "page_0052",
+    "page_0053"
   ],
   "footnotes": [
     {
@@ -237,6 +245,16 @@
       "key": "page_0052-b",
       "n": 20,
       "text": "_Idem. lib. 1. de Bello Gallico._"
+    },
+    {
+      "key": "page_0053-a",
+      "n": 21,
+      "text": "_Joseph de Bello Jud. lib. 6. c. 13._"
+    },
+    {
+      "key": "page_0053-b",
+      "n": 22,
+      "text": "_Quint. Curt. lib. 7. Justin. lib. 12._"
     }
   ],
   "missing_footnotes": []

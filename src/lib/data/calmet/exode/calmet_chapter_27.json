@@ -110,7 +110,7 @@
       "sub": false,
       "latin_lemma": "IN TABERNACULO TESTIMONII.",
       "lemma": "Dans le Tabernacle du témoignage ;",
-      "text": "c'est-à-dire, dans le Sanctuaire, où était l'Arche du témoignage, qui renfermait les Tables de l'alliance, ou de la Loi, ou du témoignage ; car l'Ecriture lui donne tous ces noms. [42] Ou bien, le Tabernacle est nommé, _Tabernaculum testimonii, Tabernacle du témoignage_, parce que Dieu y faisait connaître sa volonté aux hommes, par le moyen de Moïse. D'autres traduisent : Le Tabernacle, ou la Tente de l'assemblée, [43] parce que le peuple s'y assemblait, comme à la Cour de son Roi, pour entendre ses ordonnances.\nLe Temple de Gadès, dédié à Hercule, et si recommandable par son antiquité, avait assez de conformité avec le Tabernacle ; et les cérémonies qui s'y observaient, n'étaient pas fort différentes de celles que Moïse établit ici. On croit que cet ancien Temple avait été bâti par les Phéniciens, et l'on y suivait les rites de ces peuples. Silius Italicus [44] dit que les poutres que"
+      "text": "c'est-à-dire, dans le Sanctuaire, où était l'Arche du témoignage, qui renfermait les Tables de l'alliance, ou de la Loi, ou du témoignage ; car l'Ecriture lui donne tous ces noms. [42] Ou bien, le Tabernacle est nommé, _Tabernaculum testimonii, Tabernacle du témoignage_, parce que Dieu y faisait connaître sa volonté aux hommes, par le moyen de Moïse. D'autres traduisent : Le Tabernacle, ou la Tente de l'assemblée, [43] parce que le peuple s'y assemblait, comme à la Cour de son Roi, pour entendre ses ordonnances.\nLe Temple de Gadès, dédié à Hercule, et si recommandable par son antiquité, avait assez de conformité avec le Tabernacle ; et les cérémonies qui s'y observaient, n'étaient pas fort différentes de celles que Moïse établit ici. On croit que cet ancien Temple avait été bâti par les Phéniciens, et l'on y suivait les rites de ces peuples. Silius Italicus [44] dit que les poutres que composaient ce Temple encore de son temps, étaient les mêmes qui y avaient été mises par les Fondateurs, et qu'on les croyait incorruptibles. On ne permettait pas aux femmes d'entrer dans ce Sanctuaire ; les porcs en étaient éloignés pour toujours. Les Prêtres ne portaient point d'habits de diverses couleurs ; ils étaient tous vêtus de lin, et leur bonnet était de la même matière. Ils offraient l'encens à leur Dieu vêtus d'habits longs, et sans ceinture ; et ils tenaient de leurs pères la coutume de porter sur leur vêtement quelques pièces de couleur, semblables à celles que portaient les Sénateurs Romains, et qu'ils nommaient Latus clavus. Ils demeuraient nuds pieds dans le Temple, ils avaient la tête rasée, vivaient dans une entière continence, et conservaient sur leurs Autels un feu éternel. Les Idoles et les statues étaient bannies de ce Temple, et on n'y en avait jamais vu."
     }
   ],
   "joins": [
@@ -155,6 +155,13 @@
       "mode": "flow",
       "before": ". Enfin tous les Autels qui sont représentés dans la Table",
       "after": "d'lis, sont de la manière que nous venons de décrire celui"
+    },
+    {
+      "seam": "page_0464>page_0465",
+      "verse": 21,
+      "mode": "flow",
+      "before": " Silius Italicus ^{fn:page_0464-g} dit que les poutres que",
+      "after": "composaient ce Temple encore de son temps, étaient les mêm"
     }
   ],
   "pages_used": [
@@ -168,7 +175,8 @@
     "page_0461",
     "page_0462",
     "page_0463",
-    "page_0464"
+    "page_0464",
+    "page_0465"
   ],
   "footnotes": [
     {

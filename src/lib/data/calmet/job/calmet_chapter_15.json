@@ -188,6 +188,13 @@
       "latin_lemma": "CONGREGATIO ENIM HYPOCRITÆ STERILIS, ET IGNIS DEVORABIT, etc.",
       "lemma": "Car tout ce qu'amasse l'hypocrite, sera sans fruit, et le feu dévorera les maisons de ceux qui aiment à recevoir des présents.",
       "text": "On peut traduire : [40] _Car l'assemblée, la famille, les amis, les domestiques, la maison de l'impie, ou de l'hypocrite sera déserte, et le feu consumera les tentes remplies de présents._ Dans l'Orient, on donne le nom de présent, à ce que les sujets donnent à leur Seigneur. Ce sont souvent des offrandes très peu volontaires que ces présents ; et à le bien prendre, ce sont plutôt des tributs, et souvent des concussions. Les Septante : [41] _La mort est le témoignage de l'impie, et le feu dévorera les maisons de ceux qui reçoivent des présents._"
+    },
+    {
+      "verse": 35,
+      "sub": false,
+      "latin_lemma": "CONCEPIT DOLOREM, ET PEPERIT INIQUITATEM.",
+      "lemma": null,
+      "text": "Il conçoit la douleur, et il enfante l'iniquité. On peut traduire l'Hébreu : [42] _Il a conçu l'iniquité, et il a enfanté la vanité_, ou le péché. Voyez ci-devant Job. v. 6. et Ps. VII. 15. et Isaï. XLIX. 4. C'est une façon de parler proverbiale. Il conçoit le péché ; il enfante l'iniquité. Les fruits sont semblables à l'arbre. Après avoir commis le crime, quoi de plus juste que d'en souffrir la peine ? Les Septante : [43] _Il concevra des douleurs, et il enfantera des riens_. Eliphaz ne dit pas expressément que Job ait été tel que l'impie, dont il a fait la description : mais il l'insinue assez clairement. Il n'y a qu'à tirer la conséquence."
     }
   ],
   "joins": [
@@ -268,7 +275,8 @@
     "page_0220",
     "page_0221",
     "page_0222",
-    "page_0223"
+    "page_0223",
+    "page_0224"
   ],
   "footnotes": [
     {
@@ -475,6 +483,16 @@
       "key": "page_0223-d",
       "n": 41,
       "text": "Μαρτύριον γὰρ ἀσεβῶν θάνατος. Πῦρ δὲ καύσει οἴκους δωροδεκτῶν."
+    },
+    {
+      "key": "page_0224-a",
+      "n": 42,
+      "text": "הרה עמל וילד און."
+    },
+    {
+      "key": "page_0224-b",
+      "n": 43,
+      "text": "Et γαςρὶ λήψεται ὀδύνας, ἀποβήσεται δὲ αὐτῷ κενά."
     }
   ],
   "missing_footnotes": []

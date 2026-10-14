@@ -201,7 +201,7 @@
       "sub": false,
       "latin_lemma": "IN DIEBUS ILLIS COEPIT DOMINUS MITTERE IN JUDAM RASIN REGEM SYRIÆ, ET PHACEE FILIUM ROMELIÆ.",
       "lemma": "En ce temps-là le Seigneur commença à envoyer contre Juda Rasin roi de Syrie, et Phacée fils de Romélie.",
-      "text": "On fixe le commen-"
+      "text": "On fixe le commencement des guerres des rois de Syrie et de Samarie contre Juda, un peu avant la mort de Joathan roi de Juda ; [63] mais ce fut principalement sous le règne d'Achaz qu'on les vit dans toute leur force, comme nous le montrerons dans la suite."
     }
   ],
   "joins": [
@@ -288,6 +288,13 @@
       "mode": "para",
       "before": " avait fait entreprendre d'offrir l'encens dans le Temple.",
       "after": "Il bâtit quelques villes dans les montagnes de Juda, des t"
+    },
+    {
+      "seam": "page_0215>page_0216",
+      "verse": 37,
+      "mode": "splice",
+      "before": "On fixe le commen-",
+      "after": "cement des guerres des rois de Syrie et de Samarie contre "
     }
   ],
   "pages_used": [
@@ -306,7 +313,8 @@
     "page_0212",
     "page_0213",
     "page_0214",
-    "page_0215"
+    "page_0215",
+    "page_0216"
   ],
   "footnotes": [
     {
@@ -618,6 +626,11 @@
       "key": "page_0215-d",
       "n": 62,
       "text": "2 Par. XXVII. 3."
+    },
+    {
+      "key": "page_0216-a",
+      "n": 63,
+      "text": "Vide Usser. ad an. mundi, 3262."
     }
   ],
   "missing_footnotes": []

@@ -110,7 +110,7 @@
       "sub": false,
       "latin_lemma": null,
       "lemma": null,
-      "text": "L'Hébreu : [24] _Il a livré entre mes mains ceux qui habitent le pays._ David était maître non seulement de la Judée, mais aussi de presque tous les pays voisins."
+      "text": "L'Hébreu : [24] _Il a livré entre mes mains ceux qui habitent le pays._ David était maître non seulement de la Judée, mais aussi de presque tous les pays voisins.\n\nCur non ut plenus vitæ conviva recedit ?[25]"
     }
   ],
   "joins": [
@@ -155,6 +155,13 @@
       "mode": "para",
       "before": "s cent soixante-quinze de nos livres, à seize onces l'une.",
       "after": "Et en argent, il laissa quatre milliards, huit cents soixa"
+    },
+    {
+      "seam": "page_0257>page_0258",
+      "verse": 48,
+      "mode": "para",
+      "before": " de la Judée, mais aussi de presque tous les pays voisins.",
+      "after": "Cur non ut plenus vitæ conviva recedit ?^{(a)}"
     }
   ],
   "pages_used": [
@@ -166,7 +173,8 @@
     "page_0254",
     "page_0255",
     "page_0256",
-    "page_0257"
+    "page_0257",
+    "page_0258"
   ],
   "footnotes": [
     {
@@ -288,6 +296,11 @@
       "key": "page_0257-a",
       "n": 24,
       "text": "נתן בידי את יושבי הארץ"
+    },
+    {
+      "key": "page_0258-a",
+      "n": 25,
+      "text": "Lucret. lib. 3."
     }
   ],
   "missing_footnotes": []

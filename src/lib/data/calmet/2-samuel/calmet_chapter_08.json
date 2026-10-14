@@ -145,7 +145,7 @@
       "sub": false,
       "latin_lemma": "FILII AUTEM DAVID SACERDOTES ERANT.",
       "lemma": "Et les enfants de David étaient Prêtres.",
-      "text": "On ne peut pas prendre ici le nom de Prêtre dans la rigueur de sa signification. On sait que la Prêtrise était attachée à la seule famille d'Aaron ; ainsi les fils de David ne pouvaient être Prêtres à proprement parler. Mais le nom Hébreu[53] qui marque un Prêtre, signifie aussi un Prince, et c'est en ce sens que le prennent ordinairement les Interprètes.[54] Les Septante :[55] _Ils étaient maîtres de la Cour_, ou les premiers de la Cour, les premiers officiers du Prince dans la Cour ; les Rabbins veulent qu'Absalom ne se soit porté à la révolte contre son père, que parce qu'il ne lui avait point donné la même dignité qu'à ses frères. L'Auteur des Paralipomènes nous explique ce que veut dire ici le nom de Prêtre.[56] _Ils étaient les premiers à la main du Roi_, les premiers employés à exécuter ses commandements. Le Roi les tenait auprès de sa personne, et leur donnait des occupations conformes à leurs dispo-"
+      "text": "On ne peut pas prendre ici le nom de Prêtre dans la rigueur de sa signification. On sait que la Prêtrise était attachée à la seule famille d'Aaron ; ainsi les fils de David ne pouvaient être Prêtres à proprement parler. Mais le nom Hébreu[53] qui marque un Prêtre, signifie aussi un Prince, et c'est en ce sens que le prennent ordinairement les Interprètes.[54] Les Septante :[55] _Ils étaient maîtres de la Cour_, ou les premiers de la Cour, les premiers officiers du Prince dans la Cour ; les Rabbins veulent qu'Absalom ne se soit porté à la révolte contre son père, que parce qu'il ne lui avait point donné la même dignité qu'à ses frères. L'Auteur des Paralipomènes nous explique ce que veut dire ici le nom de Prêtre.[56] _Ils étaient les premiers à la main du Roi_, les premiers employés à exécuter ses commandements. Le Roi les tenait auprès de sa personne, et leur donnait des occupations conformes à leurs dispositions, et à leurs talents. Quelques-uns [57] traduisent : _Ils étaient comme des Prêtres_, honorés du peuple, et occupés auprès du Roi, comme les Prêtres le font dans le Temple. Bertram [58] croit qu'ils étaient ses Ambassadeurs, ou ses Ministres, _legatos in exequendis mandatis_, et qu'après la révolte d'Absalom, David retira ses fils de cet emploi, et leur substitua Ira Jaraïte. [59]"
     }
   ],
   "joins": [
@@ -197,6 +197,13 @@
       "mode": "para",
       "before": "_0092-h} de la perpétuité de cette dignité dans sa maison.",
       "after": "Achimelech fils d'Abiathar marqué ici et aux Paralipomènes"
+    },
+    {
+      "seam": "page_0093>page_0094",
+      "verse": 18,
+      "mode": "splice",
+      "before": ", et leur donnait des occupations conformes à leurs dispo-",
+      "after": "sitions, et à leurs talents. Quelques-uns ^{(a)} traduisen"
     }
   ],
   "pages_used": [
@@ -210,7 +217,8 @@
     "page_0090",
     "page_0091",
     "page_0092",
-    "page_0093"
+    "page_0093",
+    "page_0094"
   ],
   "footnotes": [
     {
@@ -492,6 +500,21 @@
       "key": "page_0093-h",
       "n": 56,
       "text": "1. Par. XVIII. 17. הראשונים ליד המלך"
+    },
+    {
+      "key": "page_0094-a",
+      "n": 57,
+      "text": "Simb."
+    },
+    {
+      "key": "page_0094-b",
+      "n": 58,
+      "text": "Bertram. de Rep. Jud. 8. 10."
+    },
+    {
+      "key": "page_0094-c",
+      "n": 59,
+      "text": "2. Reg. xx. 26."
     }
   ],
   "missing_footnotes": []

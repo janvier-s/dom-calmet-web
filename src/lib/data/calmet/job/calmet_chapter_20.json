@@ -180,7 +180,7 @@
       "sub": false,
       "latin_lemma": "HÆC HÆREDITAS VERBORUM EJUS A DEO.",
       "lemma": "_C'est l'héritage qu'il recevra du Seigneur pour ses paroles_; ou plutôt, _pour ses actions._",
-      "text": "Voilà la juste peine de ses mauvaises actions. La pa-"
+      "text": "Voilà la juste peine de ses mauvaises actions. La parole, en Hébreu, se met souvent pour la chose. Autrement : Voilà la sentence que Dieu a prononcée contre lui, voilà ce qui lui est destiné par les décrets du Tout-puissant."
     }
   ],
   "joins": [
@@ -267,6 +267,13 @@
       "mode": "para",
       "before": "squ'au Ciel, comme celles de Sodome. Genèse XVIII. 20. 21.",
       "after": "L'Hébreu: ^{(e)} _Le revenu, ou le germe de sa maison sera"
+    },
+    {
+      "seam": "page_0272>page_0273",
+      "verse": 29,
+      "mode": "refrag",
+      "before": "Voilà la juste peine de ses mauvaises actions. La pa-",
+      "after": "parole, en Hébreu, se met souvent pour la chose. Autrement"
     }
   ],
   "pages_used": [
@@ -280,7 +287,8 @@
     "page_0269",
     "page_0270",
     "page_0271",
-    "page_0272"
+    "page_0272",
+    "page_0273"
   ],
   "footnotes": [
     {

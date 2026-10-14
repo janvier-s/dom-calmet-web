@@ -69,6 +69,13 @@
       "latin_lemma": "SICLI DUO MILLIA QUADRINGENTI.",
       "lemma": "Deux mille quatre cents sicles,.",
       "text": "qui font le poids de cent livres, et la valeur de plus de douze cents quarante écus (NDLR: Environ 20 000€ en 2026); en prenant le sicle sur le pied de trente-deux sols cinq deniers, et ⅖ de deniers."
+    },
+    {
+      "verse": 86,
+      "sub": false,
+      "latin_lemma": "AURI SICLI CENTUM VIGINTI.",
+      "lemma": "Cent vingt sicles d'or.",
+      "text": "On dit que le sicle d'or n'était que du poids du demi-sicle d'argent; sa valeur était d'onze livres onze sols neuf deniers, et un quart; si on le suppose de même poids que le sicle d'argent; ce qui me paraît plus vraisemblable: il faudra doubler sa valeur."
     }
   ],
   "joins": [
@@ -99,7 +106,8 @@
     "page_0103",
     "page_0104",
     "page_0105",
-    "page_0109"
+    "page_0109",
+    "page_0110"
   ],
   "footnotes": [
     {

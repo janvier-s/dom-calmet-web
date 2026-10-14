@@ -75,7 +75,7 @@
       "sub": false,
       "latin_lemma": "NON ENIM IN MULTITUDINE EST VIRTUS TUA.",
       "lemma": "Votre puissance n’est point dans la multitude des hommes.",
-      "text": "[18] Vous donnez des victoires quand il vous plaît, sans avoir égard au nombre des combattants, ni des vaincus, ni des vainqueurs. Le Grec de tout le reste de ce Chapitre s’éloigne beaucoup de la Vulgate. Le voici tout entier : _Votre force ne consiste point dans la multitude des combattants, et votre puissance ne dépend point de la force, et de la valeur du soldat : mais vous êtes le Dieu des humbles, vous écoutez les petits, vous êtes le refuge des faibles, le protecteur des désolés, le sauveur de ceux qui n’ont plus d’espérance. Je vous conjure, Seigneur, Dieu de mon père, Dieu de l’héritage d’Israël, Seigneur du Ciel, et_"
+      "text": "[18] Vous donnez des victoires quand il vous plaît, sans avoir égard au nombre des combattants, ni des vaincus, ni des vainqueurs. Le Grec de tout le reste de ce Chapitre s’éloigne beaucoup de la Vulgate. Le voici tout entier : _Votre force ne consiste point dans la multitude des combattants, et votre puissance ne dépend point de la force, et de la valeur du soldat : mais vous êtes le Dieu des humbles, vous écoutez les petits, vous êtes le refuge des faibles, le protecteur des désolés, le sauveur de ceux qui n’ont plus d’espérance. Je vous conjure, Seigneur, Dieu de mon père, Dieu de l’héritage d’Israël, Seigneur du Ciel, et_ de la terre, Créateur des eaux, Roi de toutes vos créatures ; écoutez la voix de ma demande, et accordez-moi que la déception, et la tromperie que je veux faire, réussissent à la perte, et à la défaite de ceux qui s'élèvent contre votre alliance, contre votre Maison sainte, contre le mont de Sion, et contre l'héritage de vos enfants. Faites connaître à tout votre peuple, et à toutes les familles du monde, que vous êtes le Dieu tout-puissant, et dominateur, et qu'il n'y a point d'autre Dieu que vous, qui protège la postérité d'Israël."
     }
   ],
   "joins": [
@@ -120,6 +120,13 @@
       "mode": "splice",
       "before": "onnes intentions; nous croyons que la droiture de ses des-",
       "after": "seins, et son ignorance diminuent de beaucoup son péché ; "
+    },
+    {
+      "seam": "page_0112>page_0113",
+      "verse": 16,
+      "mode": "flow",
+      "before": "n père, Dieu de l’héritage d’Israël, Seigneur du Ciel, et_",
+      "after": "de la terre, Créateur des eaux, Roi de toutes vos créature"
     }
   ],
   "pages_used": [
@@ -129,7 +136,8 @@
     "page_0109",
     "page_0110",
     "page_0111",
-    "page_0112"
+    "page_0112",
+    "page_0113"
   ],
   "footnotes": [
     {

@@ -75,7 +75,14 @@
       "sub": false,
       "latin_lemma": "EXULES ET PROFUGI ANTE MORTEM PONTIFICIS, ETC.",
       "lemma": "Les bannis et les fugitifs, ne pourront revenir dans leurs villes, avant la mort du Pontife.",
-      "text": "L'hébreu porte[36] : _Vous ne recevrez point d'argent pour se retirer dans une ville de refuge ; pour retourner dans son pays, jusqu'à la mort du Grand-Prêtre._ Il faut nécessairement suppléer quelque chose à ce passage pour le rendre intelligible. Les Septante[37] semblent l'avoir pris ainsi : _Vous ne recevrez point d'argent_ pour permettre à un homicide volontaire, et digne"
+      "text": "L'hébreu porte[36] : _Vous ne recevrez point d'argent pour se retirer dans une ville de refuge ; pour retourner dans son pays, jusqu'à la mort du Grand-Prêtre._ Il faut nécessairement suppléer quelque chose à ce passage pour le rendre intelligible. Les Septante[37] semblent l'avoir pris ainsi : _Vous ne recevrez point d'argent_ pour permettre à un homicide volontaire, et digne de mort, _de se retirer dans une ville de refuge._ Vous n'en prendrez point non plus d'un homicide involontaire, qui s'est retiré dans une ville d'asile, _pour lui permettre de s'en retourner dans sa ville, avant la mort du Grand-Prêtre._ Le Chaldéen est plus court, et plus conforme au sens de la Vulgate : _Vous ne prendrez point d'argent de celui qui s'est sauvé dans une ville de refuge, pour lui permettre de se retirer dans le lieu de sa demeure._"
+    },
+    {
+      "verse": 33,
+      "sub": false,
+      "latin_lemma": "NE POLLUATIS TERRAM HABITATIONIS VESTRÆ.",
+      "lemma": "Ne souillez point le pays de votre demeure.",
+      "text": "Ne laissez point l'homicide impuni, et ne permettez point que votre terre soit souillée par le sang répandu; purifiez-la par l'effusion du sang des coupables. Telle était l'idée et le préjugé des peuples; ils croyaient qu'un cadavre, que du sang matériel répandu sur la terre, la souillait. Tout cela allait à inspirer une horreur générale du meurtre et des violences. C'est par un reste de cette ancienne opinion, fondée sur le respect qui est dû à Dieu, et aux Lieux sacrés, qu'on regarde comme impurs, et qu'on expie solennellement les Temples, où l'on a répandu du sang, et où l'on a commis des actions honteuses."
     }
   ],
   "joins": [
@@ -148,6 +155,13 @@
       "mode": "flow",
       "before": "eut dire, pour le sentiment contraire, que l'asile n'ayant",
       "after": "été accordé à cet homme, que sous la condition de ne pas s"
+    },
+    {
+      "seam": "page_0420>page_0421",
+      "verse": 32,
+      "mode": "flow",
+      "before": "'argent_ pour permettre à un homicide volontaire, et digne",
+      "after": "de mort, _de se retirer dans une ville de refuge._ Vous n'"
     }
   ],
   "pages_used": [
@@ -162,7 +176,8 @@
     "page_0417",
     "page_0418",
     "page_0419",
-    "page_0420"
+    "page_0420",
+    "page_0421"
   ],
   "footnotes": [
     {
@@ -352,6 +367,7 @@
     }
   ],
   "missing_footnotes": [
-    "page_0419-a"
+    "page_0419-a",
+    "page_0421-a"
   ]
 }

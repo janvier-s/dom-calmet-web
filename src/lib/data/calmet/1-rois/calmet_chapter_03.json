@@ -96,7 +96,14 @@
       "sub": false,
       "latin_lemma": "DIVIDITE INFANTEM VIVUM IN DUAS PARTES.",
       "lemma": "Coupez en deux cet enfant qui est vivant.",
-      "text": "Voici un des plus fameux, et des plus surprenants exemples de la profonde sagesse de Salomon. Il comprit tout d'un coup que la marque la plus certaine qui distingue une vraie mère, est l'affection, la compassion, la tendresse envers son fils ; et que pour reconnaître laquelle de ces deux femmes était la véritable mère de l'enfant vivant, il ne fallait que mettre cette tendresse maternelle à quelque épreuve. Celle qu'il inventa est des plus singulières ; c'est ce qui fit le plus admirer sa sagesse. On trouve dans l'Histoire quelques traits d'une adresse singulière, pour découvrir les choses cachées, et qui paraissent impénétrables ; mais il faut avouer que tout cela est fort au-dessous de ce que nous lisons ici. L'Empereur Claude [41] découvrit qu'une femme était mère d'un jeune homme, qu'elle ne voulait pas reconnaître pour son fils, en la condamnant de l'épouser. L'horreur de cet inceste obligea la mère à avouer la vérité. Ariopharnes Roi des Thraces, [42] étant choisi pour Juge entre trois hommes qui se disaient tous trois fils du Roi des Cimmériens, et qui prétendaient à sa succession ; il leur ordonna de tirer chacun une flèche contre le cadavre du Prince mort. Le véritable fils n'ayant pu s'y résoudre, fut reconnu pour fils et pour héritier du Roi. Un Espagnol en voyage, [43] ayant un jour contraint un pauvre Mexicain de changer de cheval avec lui, et la chose ayant été portée par-devant le Magistrat de la première ville ; le Juge balançant, parce que l'action s'était passée à la campagne et sans témoin ; tout d'un coup le Mexicain jeta son manteau sur la tête de son cheval, et s'adressant à l'Espagnol;"
+      "text": "Voici un des plus fameux, et des plus surprenants exemples de la profonde sagesse de Salomon. Il comprit tout d'un coup que la marque la plus certaine qui distingue une vraie mère, est l'affection, la compassion, la tendresse envers son fils ; et que pour reconnaître laquelle de ces deux femmes était la véritable mère de l'enfant vivant, il ne fallait que mettre cette tendresse maternelle à quelque épreuve. Celle qu'il inventa est des plus singulières ; c'est ce qui fit le plus admirer sa sagesse. On trouve dans l'Histoire quelques traits d'une adresse singulière, pour découvrir les choses cachées, et qui paraissent impénétrables ; mais il faut avouer que tout cela est fort au-dessous de ce que nous lisons ici. L'Empereur Claude [41] découvrit qu'une femme était mère d'un jeune homme, qu'elle ne voulait pas reconnaître pour son fils, en la condamnant de l'épouser. L'horreur de cet inceste obligea la mère à avouer la vérité. Ariopharnes Roi des Thraces, [42] étant choisi pour Juge entre trois hommes qui se disaient tous trois fils du Roi des Cimmériens, et qui prétendaient à sa succession ; il leur ordonna de tirer chacun une flèche contre le cadavre du Prince mort. Le véritable fils n'ayant pu s'y résoudre, fut reconnu pour fils et pour héritier du Roi. Un Espagnol en voyage, [43] ayant un jour contraint un pauvre Mexicain de changer de cheval avec lui, et la chose ayant été portée par-devant le Magistrat de la première ville ; le Juge balançant, parce que l'action s'était passée à la campagne et sans témoin ; tout d'un coup le Mexicain jeta son manteau sur la tête de son cheval, et s'adressant à l'Espagnol; qui soutenait qu'il lui appartenait : De quel œil est-il borgne, lui dit-il ? L'Espagnol sans hésiter répondit: Du droit. Alors le paysan levant son manteau, fit voir que son cheval avait tous les deux yeux parfaitement beaux. Ainsi fut découverte la friponnerie du voleur."
+    },
+    {
+      "verse": 28,
+      "sub": false,
+      "latin_lemma": "VIDENTES SAPIENTIAM DEI ESSE IN ILLO.",
+      "lemma": "Voyant que la sagesse de Dieu était en lui.",
+      "text": "Une sagesse extraordinaire, et surprenante, est nommée une _sagesse de Dieu_, de même qu'un _sommeil de Dieu_, [44] un profond sommeil: un _renversement de Dieu_, [45] un renversement total, semblable à celui de Sodome et de Gomorrhe; une _frayeur de Dieu_, [46] une _punition de Dieu_, un _vent de Dieu_, etc. [47] On peut aussi l'entendre plus simplement d'une sagesse venue de Dieu, d'une intelligence infuse, et d'un ordre surnaturel."
     }
   ],
   "joins": [
@@ -169,6 +176,13 @@
       "mode": "flow",
       "before": " qui est très rare, n'ont pour eux que de la cruauté et de",
       "after": "l’horreur, et ne cherchent qu’à s’en défaire, et à les fai"
+    },
+    {
+      "seam": "page_0112>page_0113",
+      "verse": 25,
+      "mode": "flow",
+      "before": "au sur la tête de son cheval, et s'adressant à l'Espagnol;",
+      "after": "qui soutenait qu'il lui appartenait : De quel œil est-il b"
     }
   ],
   "pages_used": [
@@ -184,7 +198,8 @@
     "page_0109",
     "page_0110",
     "page_0111",
-    "page_0112"
+    "page_0112",
+    "page_0113"
   ],
   "footnotes": [
     {
@@ -401,6 +416,26 @@
       "key": "page_0112-c",
       "n": 43,
       "text": "Jean de Palafox ; Remontrances ad Roi d'Espagne."
+    },
+    {
+      "key": "page_0113-a",
+      "n": 44,
+      "text": "Genes. 11. 28. 29. et I. Reg. XXVI. 12."
+    },
+    {
+      "key": "page_0113-b",
+      "n": 45,
+      "text": "Amos IV. 11."
+    },
+    {
+      "key": "page_0113-c",
+      "n": 46,
+      "text": "I. Reg. XI. 7."
+    },
+    {
+      "key": "page_0113-d",
+      "n": 47,
+      "text": "Isaï. XL. 7."
     }
   ],
   "missing_footnotes": []
