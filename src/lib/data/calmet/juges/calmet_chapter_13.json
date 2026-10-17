@@ -131,21 +131,21 @@
       "sub": false,
       "latin_lemma": "COEPITQUE SPIRITUS DOMINI ESSE CUM EO.",
       "lemma": "Et l'Esprit du Seigneur commença à être avec Samson.",
-      "text": "L'esprit de Dieu donna des marques de sa présence dans Samson, par l'envie qu'il lui inspira de délivrer ses frères, et par la vigueur et la force qu'il lui communiqua ; en sorte que dès lors on put juger de ce qu'il serait un jour, par ces dispositions qu'on voyait en lui. Le texte hébreu se traduit diversement : _L'Esprit du Seigneur commença à le frapper_, comme on frappe le fer sur l'enclume. Les Septante : [31] _L'Esprit de Dieu commença à marcher avec lui_, à régler ses pas, à le conduire pas à pas. Jonathan : L'Esprit de Dieu commença à le sanctifier."
+      "text": "L'esprit de Dieu donna des marques de sa présence dans Samson, par l'envie qu'il lui inspira de délivrer ses frères, et par la vigueur et la force qu'il lui communiqua ; en sorte que dès lors on put juger de ce qu'il serait un jour, par ces dispositions qu'on voyait en lui. Le texte Hébreu[31] se traduit diversement : _L'Esprit du Seigneur commença à le frapper_, comme on frappe le fer sur l'enclume. Les Septante : [32] _L'Esprit de Dieu commença à marcher avec lui_, à régler ses pas, à le conduire pas à pas. Jonathan : L'Esprit de Dieu commença à le sanctifier."
     },
     {
       "verse": 25,
       "sub": false,
       "latin_lemma": "IN CASTRIS DAN.",
-      "lemma": "Dans le camp de Dan",
-      "text": "; dans un lieu qui avait pris le nom de camp de Dan, parce que ceux de cette tribu s'y étaient arrêtés, pendant que leurs frères allèrent dérober l'idole de Michas, comme on le verra au chap. XVIII. C'était le lieu de la demeure de Manuë père de Samson. [32]"
+      "lemma": "Dans le camp de Dan ;",
+      "text": "dans un lieu qui avait pris le nom de camp de Dan, parce que ceux de cette tribu s'y étaient arrêtés, pendant que leurs frères allèrent dérober l'idole de Michas, comme on le verra au chap. XVIII. C'était le lieu de la demeure de Manuë père de Samson. [33]"
     },
     {
       "verse": 25,
       "sub": false,
       "latin_lemma": "SARAA ET ESTHAOL.",
-      "lemma": "On a vu ci-devant au ℣. 2. la situation de Saraa ; Esthaol en était fort près dans la tribu de Dan. Eusèbe met Saraa et Esthaol à dix milles d'Éleuthéropolis, vers le septentrion.",
-      "text": ""
+      "lemma": null,
+      "text": "On a vu ci-devant au ℣. 2. la situation de Saraa ; Esthaol en était fort près dans la tribu de Dan. Eusèbe met Saraa et Esthaol à dix milles d'Éleuthéropolis, vers le septentrion."
     }
   ],
   "joins": [
@@ -364,13 +364,18 @@
       "text": "I. Reg. XI. 11. _Misit Dominus Jerobaal et Badan, et Jephte et Samuel._"
     },
     {
-      "key": "page_0245-b",
+      "key": "page_0245-a",
       "n": 31,
+      "text": "וַתָּחֶל רוּחַ יְהוָה לְפַעֲמוֹ"
+    },
+    {
+      "key": "page_0245-b",
+      "n": 32,
       "text": "ἤρξατο πνεῦμα κυρίου συμπορεύεσθαι ἀυτῷ."
     },
     {
       "key": "page_0245-c",
-      "n": 32,
+      "n": 33,
       "text": "Judic. XIII. 2."
     }
   ],

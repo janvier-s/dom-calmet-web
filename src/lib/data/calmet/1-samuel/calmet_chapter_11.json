@@ -33,7 +33,7 @@
       "sub": false,
       "latin_lemma": "ECCE SAUL VENIEBAT SEQUENS BOVES DE AGRO.",
       "lemma": "Saül retournait alors de la campagne, en suivant ses bœufs.",
-      "text": "Les Hébreux avaient des sentiments bien différents des nôtres sur la grandeur de la Royauté, et sur la dignité des occupations des Princes. Saül va à la charrue depuis qu'il fut Roi, de même qu'auparavant : David retourne garder ses troupeaux, après avoir reçu l'onction royale des mains de Samuel, comme avant son sacre. Absalom son fils va avec tous les Princes ses frères, aux tondailles de ses brebis :: David depuis qu'il fut Roi, avait plusieurs Intendants de ses troupeaux de brebis, d'ânes, de chameaux; il faisait cultiver beaucoup de terres et beaucoup d'arbres. Mais sans aller chercher des exemples dans cette antiquité, qu'on se figure comme rustique et grossière, et qu'on croit avoir plutôt ignoré, que méprisé les plaisirs de la vie, on a vu chez les Grecs et les Romains, dans les temps de prospérité, d'abondance et de politesse, des Princes et d'autres grands hommes, qui bien loin de regarder l'agriculture comme indigne de leur attention, ont même composé des Livres sur cette matière. [8] Les Rois Hieron, Philometor, Attalus, Archelaus, sont connus; les Généraux Xénophon, et Mago le Carthaginois ont aussi donné leurs soins à composer de semblables ouvrages. Pline nous apprend que les Romains firent tant de cas des écrits de ce dernier, qu'après la prise de Carthage, ayant abandonné les autres Bibliothèques de cette fameuse ville aux Rois du pays, ils conservèrent les vingt-huit volumes de Mago, touchant l'agriculture, et les firent traduire en Latin. Nous avons encore aujourd'hui les Ouvrages de Caton, de Varron, [9] et de Columelle sur ce sujet; et avant eux Syllanus d'une famille très illustre, s'était distingué par de semblables écrits. Ce n'était donc pas seulement parmi les Hébreux qu'on voyait des Héros cultiver la terre, des Jaïr, des Samgar, des Saül et des David; on en trouve aussi chez les autres peuples, comme Manius, Curius, Serranus, Cincinnatus, Caïus, Attilius, et tant d'autres parmi les Romains.[10]\n_Jura dabat populis, posito modo prætor aratro,_\n_Pascebátque suas ipse senator oves._"
+      "text": "Les Hébreux avaient des sentiments bien différents des nôtres sur la grandeur de la Royauté, et sur la dignité des occupations des Princes. Saül va à la charrue depuis qu'il fut Roi, de même qu'auparavant : David retourne garder ses troupeaux, après avoir reçu l'onction royale des mains de Samuel, comme avant son sacre. Absalom son fils va avec tous les princes ses frères, aux tondailles de ses brebis : David, depuis qu'il fut roi, avait plusieurs intendants de ses troupeaux de brebis, d'ânes, de chameaux ; il faisait cultiver beaucoup de terres et beaucoup d'arbres. Mais sans aller chercher des exemples dans cette antiquité, qu'on se figure comme rustique et grossière, et qu'on croit avoir plutôt ignoré que méprisé les plaisirs de la vie, on a vu chez les Grecs et les Romains, dans les temps de prospérité, d'abondance et de politesse, des princes et d'autres grands hommes, qui bien loin de regarder l'agriculture comme indigne de leur attention, ont même composé des livres sur cette matière. [8] Les rois Hiéron, Philométor, Attale, Archélaüs, sont connus ; les généraux Xénophon, et Magon le Carthaginois ont aussi donné leurs soins à composer de semblables ouvrages. Pline nous apprend que les Romains firent tant de cas des écrits de ce dernier, qu'après la prise de Carthage, ayant abandonné les autres bibliothèques de cette fameuse ville aux rois du pays, ils conservèrent les vingt-huit volumes de Magon, touchant l'agriculture, et les firent traduire en latin. Nous avons encore aujourd'hui les ouvrages de Caton, de Varron, [9] et de Columelle sur ce sujet ; et avant eux Syllanus, d'une famille très illustre, s'était distingué par de semblables écrits. Ce n'était donc pas seulement parmi les Hébreux qu'on voyait des héros cultiver la terre, des Jaïr, des Samgar, des Saül et des David ; on en trouve aussi chez les autres peuples, comme Manius, Curius, Serranus, Cincinnatus, Caïus, Attilius, et tant d'autres parmi les Romains.[10]\n_Jura dabat populis, posito modo prætor aratro,_\n_Pascebátque suas ipse senator oves._"
     },
     {
       "verse": 7,
@@ -53,8 +53,8 @@
       "verse": 7,
       "sub": false,
       "latin_lemma": "TIMOR DOMINI.",
-      "lemma": "La crainte du Seigneur ; ou plutôt une grande crainte, une frayeur extraordinaire.",
-      "text": "On ajoute le nom de Dieu aux choses dont on veut exagérer la grandeur."
+      "lemma": "La crainte du Seigneur ;",
+      "text": "ou plutôt une grande crainte, une frayeur extraordinaire. On ajoute le nom de Dieu aux choses dont on veut exagérer la grandeur."
     },
     {
       "verse": 8,
@@ -89,7 +89,14 @@
       "sub": false,
       "latin_lemma": "MANE EXIBIMUS.",
       "lemma": "Demain matin nous nous rendrons",
-      "text": "vers vous. Ce n’est point un mensonge, mais c’est une ironie, ou une équivoque, ou même, si l’on veut, un stratagème."
+      "text": ""
+    },
+    {
+      "verse": 10,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "vers vous.",
+      "text": "Ce n’est point un mensonge, mais c’est une ironie, ou une équivoque, ou même, si l’on veut, un stratagème."
     },
     {
       "verse": 11,
@@ -133,7 +140,7 @@
       "verse": 5,
       "mode": "flow",
       "before": "s mains de Samuel, comme avant son sacre. Absalom son fils",
-      "after": "va avec tous les Princes ses frères, aux tondailles de ses"
+      "after": "va avec tous les princes ses frères, aux tondailles de ses"
     },
     {
       "seam": "page_0216>page_0217",
@@ -148,13 +155,6 @@
       "mode": "flow",
       "before": " ou des anneaux qu'ils portent; dans cette occasion chaque",
       "after": "soldat jeta une pierre en un monceau, et ensuite on compta"
-    },
-    {
-      "seam": "page_0218>page_0219",
-      "verse": 10,
-      "mode": "flow",
-      "before": "Demain matin nous nous rendrons",
-      "after": "vers vous. Ce n’est point un mensonge, mais c’est une iron"
     },
     {
       "seam": "page_0219>page_0220",

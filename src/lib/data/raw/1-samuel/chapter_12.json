@@ -2,6 +2,7 @@
   "book": "1 Samuel",
   "chapter": 12,
   "chapter_summary": "Samuël oblige le peuple à reconnaître la justice et l'innocence de sa conduite ; il lui reproche son ingratitude envers Dieu ; il l'exhorte à demeurer fidèle à Dieu, et promet de continuer à prier pour lui.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -114,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Nunc ergo præsto est Rex vester, quem elegistis et petistis : ecce dedit vobis Dominus Regem.",
-      "french": "Vous avez donc maintenant vôtre Roi, que vous avez choisi et demandé; le Seigneur vous l'a enfin accordé.",
+      "french": "Vous avez donc maintenant votre Roi, que vous avez choisi et demandé ; le Seigneur vous l'a enfin accordé.",
       "annotations": "An. du Monde 2909.",
       "source_pages": [
         "page_0227.json"
@@ -123,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Si timueritis Dominum, et servieritis ei, et audieritis vocem ejus, et non exasperaveritis os Domini : eritis et vos, et Rex qui imperat vobis, sequentes Dominum Deum vestrum.",
-      "french": "Si vous craignez le Seigneur, si vous le servez, si vous écoutez sa voix, et que vous ne vous rendiez point rebelles à la parole ; vous serez heureux, vous et le Roi qui vous gouverne, en suivant le Seigneur vôtre Dieu.",
+      "french": "Si vous craignez le Seigneur, si vous le servez, si vous écoutez sa voix, et que vous ne vous rendiez point rebelles à la parole ; vous serez heureux, vous et le Roi qui vous gouverne, en suivant le Seigneur votre Dieu.",
       "annotations": null,
       "source_pages": [
         "page_0227.json"

@@ -1,7 +1,8 @@
 {
   "book": "Job",
   "chapter": 34,
-  "chapter_summary": "_Eliu accuse Job de blasphème. Il relève la justice infinie de Dieu, sa puissance, et ses lumières, à qui rien n'est caché._",
+  "chapter_summary": "Eliu accuse Job de blasphème. Il relève la justice infinie de Dieu, sa puissance, et ses lumières, à qui rien n'est caché.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -159,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Qui dicit Regi, apostata: qui vocat duces impios.",
-      "french": "Lui qui dit à un Roi : Vous êtes un apostat; qui appelle impies les Grands.",
+      "french": "Lui qui dit à un Roi : Vous êtes un apostat ; qui appelle impies les Grands.",
       "annotations": null,
       "source_pages": [
         "page_0409.json"

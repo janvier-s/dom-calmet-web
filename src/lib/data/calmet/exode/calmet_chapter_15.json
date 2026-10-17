@@ -40,14 +40,21 @@
       "sub": false,
       "latin_lemma": "ELECTI PRINCIPES EJUS.",
       "lemma": "Les Princes choisis.",
-      "text": "Ou : _L'élite de ses Généraux._ L'Hébreu : _L'élite de ses Shalishim._ Les Septante : [10] _Les hommes choisis qui montaient les chariots, [ou les chevaux] les troisièmes._ Voyez le verset 7 du Chapitre 14.\n\nIl entend par-là les éclairs et les tonnerres qui parurent contre les Egyptiens, du côté de la nuée qui les séparait des Israélites. Ces phénomènes qui effraient les hommes, sont quelquefois nommés la gloire de Dieu. Ainsi on dit que _la gloire de Dieu parut sur Sinaï_, lorsqu'on y ouït les tonnerres, et qu'on y vit le feu et les éclairs ; et peut-être que Dieu faisait retentir le tonnerre, et briller les éclairs, dans toutes les rencontres où il est dit dans l'Ecriture que la gloire de Dieu paraissait dans la colonne de nuée. Isaïe[11] parle en ces termes du passage merveilleux de la mer rouge : _Où est celui qui a tiré son peuple de la mer, avec les pasteurs de son troupeau ; qui a pris Moïse avec sa main droite, avec le bras de sa majesté ; qui a divisé les flots devant eux, pour s'acquérir un nom éternel ; qui les conduit dans le fond des abîmes, comme un cheval qu'on mène dans une campagne, sans qu'il fasse un faux pas ?_"
+      "text": "Ou : _L'élite de ses Généraux._ L'Hébreu : _L'élite de ses Shalishim._ Les Septante : [10] _Les hommes choisis qui montaient les chariots, [ou les chevaux] les troisièmes._ Voyez le verset 7 du Chapitre 14."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "IN MULTITUDINE GLORIÆ TUÆ DEPOSUISTI ADVERSARIOS TUOS.",
+      "lemma": "Vous avez terrassé vos ennemis par l'éclat de votre gloire.",
+      "text": "Il entend par-là les éclairs et les tonnerres qui parurent contre les Egyptiens, du côté de la nuée qui les séparait des Israélites. Ces phénomènes qui effraient les hommes, sont quelquefois nommés la gloire de Dieu. Ainsi on dit que _la gloire de Dieu parut sur Sinaï_, lorsqu'on y ouït les tonnerres, et qu'on y vit le feu et les éclairs ; et peut-être que Dieu faisait retentir le tonnerre, et briller les éclairs, dans toutes les rencontres où il est dit dans l'Ecriture que la gloire de Dieu paraissait dans la colonne de nuée. Isaïe[11] parle en ces termes du passage merveilleux de la mer rouge : _Où est celui qui a tiré son peuple de la mer, avec les pasteurs de son troupeau ; qui a pris Moïse avec sa main droite, avec le bras de sa majesté ; qui a divisé les flots devant eux, pour s'acquérir un nom éternel ; qui les conduit dans le fond des abîmes, comme un cheval qu'on mène dans une campagne, sans qu'il fasse un faux pas ?_"
     },
     {
       "verse": 4,
       "sub": false,
       "latin_lemma": "MISISTI IRAM TUAM.",
-      "lemma": "Vous avez envoyé votre colère",
-      "text": "; c'est-à-dire, les foudres, les éclairs, le feu du Ciel, qui sont les marques et les effets de votre colère ; et vous les avez consumés comme le feu consume la paille, avec facilité, précipitation, rapidité."
+      "lemma": "Vous avez envoyé votre colère ;",
+      "text": "c'est-à-dire, les foudres, les éclairs, le feu du Ciel, qui sont les marques et les effets de votre colère ; et vous les avez consumés comme le feu consume la paille, avec facilité, précipitation, rapidité."
     },
     {
       "verse": 8,
@@ -81,8 +88,8 @@
       "verse": 9,
       "sub": false,
       "latin_lemma": "IMPLEBITUR ANIMA MEA.",
-      "lemma": "J'assouvirai sur eux ma colère, et ma vengeance.",
-      "text": "; ou : je contenterai mes désirs, j'amasserai des richesses autant que j'en puis désirer."
+      "lemma": "J'assouvirai sur eux ma colère, et ma vengeance ;",
+      "text": "ou : je contenterai mes désirs, j'amasserai des richesses autant que j'en puis désirer."
     },
     {
       "verse": 9,
@@ -260,13 +267,6 @@
       "mode": "splice",
       "before": "ses Shalishim._ Les Septante : ^{fn:page_0234-d} _Les hom-",
       "after": "mes choisis qui montaient les chariots, [ou les chevaux] l"
-    },
-    {
-      "seam": "page_0235>page_0235",
-      "verse": 4,
-      "mode": "para",
-      "before": "hevaux] les troisièmes._ Voyez le verset 7 du Chapitre 14.",
-      "after": "Il entend par-là les éclairs et les tonnerres qui parurent"
     },
     {
       "seam": "page_0235>page_0236",

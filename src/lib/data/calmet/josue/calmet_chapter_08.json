@@ -31,7 +31,7 @@
     {
       "verse": 4,
       "sub": false,
-      "latin_lemma": "PONITE INSIDIAS POST CIVITATEM, NEC LONGIUS RECEDATIS, etc.",
+      "latin_lemma": "PONITE INSIDIAS POST CIVITATEM, NEC LONGIUS RECEDATIS, ETC.",
       "lemma": "Dressez une embuscade derrière la ville, ne vous éloignez pas beaucoup, etc.",
       "text": "Voici ce que porte l'Hébreu à la lettre : [6] _Voyez, vous qui allez vous mettre en embuscade derrière la ville, ne vous éloignez pas beaucoup de la ville, et soyez tous tout prêts._ Josué leur recommande deux choses : la première de se poster le plus près qu'ils pourront de la ville, sans qu'on les aperçoive ; la seconde, qu'ils soient attentifs aux mouvements des ennemis, et qu'aussitôt qu'il sera temps, ils se jettent dans la ville, et occupent tous les passages par où les ennemis pourraient s'échapper. On peut aussi l'expliquer ainsi : _Prenez garde vous autres qui allez dresser une embuscade, qu'on ne vous surprenne par derrière la ville ; ou qu'on n'amène du secours à la ville par derrière._ [7]"
     },
@@ -194,7 +194,7 @@
       "sub": false,
       "latin_lemma": "REGEM SUSPENDIT IN PATIBULO.",
       "lemma": "Il fit attacher à une potence le Roi de Haï.",
-      "text": "L'Hébreu : [41] _il le pendit à un bois, ou à un arbre. Les Romains appelaient la potence, un bois fatal, ou un arbre malheureux ; [42] les Septante traduisent ici, _un bois double_, [43] une potence composée de deux pièces de bois, une croix, ou une fourche. Les Hébreux, suivis de plusieurs commentateurs, soutiennent qu'on fit mourir le roi de Haï, avant de le pendre, parce que dans Israël on ne pendait point d'hommes vivants. Mais nous croyons avoir bien réfuté cette opinion ailleurs. [44] Le corps de ce prince ne demeura pendu que jusqu'au soir, pour obéir à la loi de Moïse, qui ordonnait qu'on descendît de la croix avant la nuit, les corps des suppliciés : on peut en voir les raisons sur le Deutéronome. [45]_"
+      "text": "L'Hébreu : [41] _il le pendit à un bois_, ou à un arbre. Les Romains appelaient la potence, un bois fatal, ou un arbre malheureux ; [42] les Septante traduisent ici, _un bois double_, [43] une potence composée de deux pièces de bois, une croix, ou une fourche. Les Hébreux, suivis de plusieurs commentateurs, soutiennent qu'on fit mourir le roi de Haï, avant de le pendre, parce que dans Israël on ne pendait point d'hommes vivants. Mais nous croyons avoir bien réfuté cette opinion ailleurs. [44] Le corps de ce prince ne demeura pendu que jusqu'au soir, pour obéir à la loi de Moïse, qui ordonnait qu'on descendît de la croix avant la nuit, les corps des suppliciés : on peut en voir les raisons sur le Deutéronome. [45]"
     },
     {
       "verse": 30,
@@ -293,14 +293,14 @@
       "seam": "page_0175>page_0176",
       "verse": 29,
       "mode": "splice",
-      "before": "u : ^{fn:page_0175-d} _il le pendit à un bois, ou à un ar-",
+      "before": " : ^{fn:page_0175-d} _il le pendit à un bois_, ou à un ar-",
       "after": "bre. Les Romains appelaient la potence, un bois fatal, ou "
     },
     {
       "seam": "page_0176>page_0177",
       "verse": 30,
-      "mode": "hyphen",
-      "before": "nt près de Sichem, comme on l'a montré sur le Deutéronome.",
+      "mode": "splice",
+      "before": "nes sont près de Sichem, comme on l'a montré sur le Deuté-",
       "after": "ronome. Moïse ordonne de bâtir le monument sur Hébal, ^{(a"
     },
     {

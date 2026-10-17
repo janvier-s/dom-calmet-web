@@ -1,7 +1,8 @@
 {
   "book": "1 Samuel",
   "chapter": 7,
-  "chapter_summary": "_Transport de l'Arche à Cariath-iarim, où elle demeure vingt ans. Samuël exhorte le peuple à retourner au Seigneur. Assemblée du peuple à Masphath. Les Philistins ayant attaqué Israël, sont mis en fuite par les prières de Samuël._",
+  "chapter_summary": "Transport de l'Arche à Cariath-iarim, où elle demeure vingt ans. Samuël exhorte le peuple à retourner au Seigneur. Assemblée du peuple à Masphath. Les Philistins ayant attaqué Israël, sont mis en fuite par les prières de Samuël.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -15,7 +16,7 @@
     {
       "verse_number": 2,
       "latin": "Et factum est, ex qua die mansit Arca Domini in Cariath-iarim, multiplicati sunt dies; ( erat quippe jam annus vigefimus, ) et requievit omnis domus Israël post Dominum.",
-      "french": "L'Arche du Seigneur demeurà pendant un long-tems à Cariath-iarim; et il y avait vingt ans qu'elle y était, lorsque toute la maison d'Israël s'attacha constamment au Seigneur.",
+      "french": "L'Arche du Seigneur demeura pendant un longtemps à Cariath-iarim ; et il y avait vingt ans qu'elle y était, lorsque toute la maison d'Israël s'attacha constamment au Seigneur.",
       "annotations": "An. du Monde 2888.",
       "source_pages": [
         "page_0159.json"

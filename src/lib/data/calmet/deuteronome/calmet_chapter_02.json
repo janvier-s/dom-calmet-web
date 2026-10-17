@@ -138,7 +138,14 @@
       "sub": false,
       "latin_lemma": "HÆVEOS QUOQUE QUI HABITABANT IN HAZERIM, USQUE IN GAZAM CAPPADOCES EXPULERUNT.",
       "lemma": "Les Hévéens qui habitaient",
-      "text": "à Hazerim jusqu'à Gaza, en furent chassés par les Cappadociens. L'Hébreu : Par les Caphtorims. On a travaillé dans la Genèse[25] à montrer que les Caphtorims étaient des anciens habitants de l'isle de Cypre. Ces Caphtorims chassèrent les Hévéens, qui demeuraient au Midi de la terre de Canaan, depuis Hazerim jusqu'à Gaza. Nous croyons que Hazerim est le même que Hazerot, dont on a parlé ci-devant Nombres 33:17 Pour Gaza, c'est une ville des Philistins, fort célèbre dans l'Écriture. Les Hévéens de cet endroit font décrits autrement, que ceux de la Genèse[26] ; mais nous ne doutons pas qu'ils ne soient les mêmes. Il n'est pas fort extraordinaire dans ces Livres, de voir la même personne et les mêmes lieux, écrits assez différemment."
+      "text": ""
+    },
+    {
+      "verse": 23,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "à Hazerim jusqu'à Gaza, en furent chassés par les Cappadociens.",
+      "text": "L'Hébreu : _Par les Caphtorims_. On a travaillé dans la Genèse[25] à montrer que les Caphtorims étaient des anciens habitants de l'isle de Cypre. Ces Caphtorims chassèrent les Hévéens, qui demeuraient au Midi de la terre de Canaan, depuis Hazerim jusqu'à Gaza. Nous croyons que Hazerim est le même que Hazerot, dont on a parlé ci-devant Nombres 33:17 Pour Gaza, c'est une ville des Philistins, fort célèbre dans l'Écriture. Les Hévéens de cet endroit font décrits autrement, que ceux de la Genèse[26] ; mais nous ne doutons pas qu'ils ne soient les mêmes. Il n'est pas fort extraordinaire dans ces Livres, de voir la même personne et les mêmes lieux, écrits assez différemment."
     },
     {
       "verse": 24,
@@ -218,13 +225,6 @@
       "mode": "flow",
       "before": "e désert, jusqu'à leur arrivée au torrent de Zared, peu de",
       "after": "jours avant la guerre contre Séhon, il en résultera le nom"
-    },
-    {
-      "seam": "page_0091>page_0092",
-      "verse": 23,
-      "mode": "flow",
-      "before": "Les Hévéens qui habitaient",
-      "after": "à Hazerim jusqu'à Gaza, en furent chassés par les Cappadoc"
     },
     {
       "seam": "page_0092>page_0093",

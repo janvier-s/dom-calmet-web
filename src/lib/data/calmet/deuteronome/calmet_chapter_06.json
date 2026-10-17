@@ -96,7 +96,7 @@
       "sub": false,
       "latin_lemma": "ERITQUE NOSTRI MISERICORS.",
       "lemma": "Il nous fera miséricorde.",
-      "text": "L'Hébreu[26] : _Nous serons justifiés._ Le Chaldéen[27] : _Nous serons récompensés._ La pratique des Commandements de Dieu, nous rendra justes et agréables à ses yeux, elle nous attirera les effets de sa miséricorde, et les récompenses de sa justice. Dans l'Écriture, la justice est souvent mise pour la bonté que Dieu exerce envers fes serviteurs, et pour la justice qu'il leur rend, en les récompensant, et en punissant ceux qui les persecutent [28]."
+      "text": "L'Hébreu[26] : _Nous serons justifiés._ Le Chaldéen[27] : _Nous serons récompensés._ La pratique des Commandements de Dieu, nous rendra justes et agréables à ses yeux, elle nous attirera les effets de sa miséricorde, et les récompenses de sa justice. Dans l'Écriture, la justice est souvent mise pour la bonté que Dieu exerce envers fes serviteurs, et pour la justice qu'il leur rend, en les récompensant, et en punissant ceux qui les persecutent [28].\n\nDieu exerce envers ses serviteurs, et pour la justice qu'il leur rend, en les récompensant, et en punissant ceux qui les persécutent.[29]"
     }
   ],
   "joins": [
@@ -141,6 +141,13 @@
       "mode": "splice",
       "before": "emportement ^{fn:page_0132-b}. Moïse frappa le Rocher d'O-",
       "after": "reb, et leur en donna ; et il appela cet endroit _Massa_, "
+    },
+    {
+      "seam": "page_0133>page_0134",
+      "verse": 25,
+      "mode": "para",
+      "before": "t en punissant ceux qui les persecutent ^{fn:page_0133-e}.",
+      "after": "Dieu exerce envers ses serviteurs, et pour la justice qu'i"
     }
   ],
   "pages_used": [
@@ -150,7 +157,8 @@
     "page_0130",
     "page_0131",
     "page_0132",
-    "page_0133"
+    "page_0133",
+    "page_0134"
   ],
   "footnotes": [
     {
@@ -292,6 +300,11 @@
       "key": "page_0133-e",
       "n": 28,
       "text": "Voyez 1 Samuel 26,23 et Ésaïe 54,17 Job 33,26 Psaume 17,21 etc."
+    },
+    {
+      "key": "page_0134-a",
+      "n": 29,
+      "text": "--"
     }
   ],
   "missing_footnotes": []

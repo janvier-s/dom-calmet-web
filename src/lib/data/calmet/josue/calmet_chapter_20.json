@@ -52,9 +52,16 @@
     {
       "verse": 7,
       "sub": false,
-      "latin_lemma": "DECREVERUNTQUE CEDES, etc.",
-      "lemma": "Ils marquèrent donc pour ville",
-      "text": "les de Refuge, Cédès en Galilée, et les autres. L'Hébreu : [12] _Ils sanctifièrent Cédès_ ; ils la séparèrent du nombre des autres villes par une destination et un choix particulier. Le Chaldéen, [13] _ils ordonnèrent_, ils établirent, ils disposèrent. Les Septante, [14] _ils séparèrent, ils divisèrent.\nCADÈS, ou Cédès de Galilée, et Hébron, étaient comme aux deux extrémités du pays. L'une dans la Galilée, et l'autre dans la tribu de Juda; l'une et l'autre dans un pays de montagne. Sichem était au milieu, ou presqu'au milieu de cet espace entre ces deux villes, dans la tribu d'Ephraïm._"
+      "latin_lemma": "DECREVERUNTQUE CEDES, ETC.",
+      "lemma": "Ils marquèrent donc pour vil-",
+      "text": ""
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "les de Refuge, Cédès en Galilée",
+      "text": "et les autres. L'Hébreu : [12] _Ils sanctifièrent Cédès_ ; ils la séparèrent du nombre des autres villes par une destination et un choix particulier. Le Chaldéen, [13] _ils ordonnèrent_, ils établirent, ils disposèrent. Les Septante, [14] _ils séparèrent, ils divisèrent.\nCADÈS, ou Cédès de Galilée, et Hébron, étaient comme aux deux extrémités du pays. L'une dans la Galilée, et l'autre dans la tribu de Juda; l'une et l'autre dans un pays de montagne. Sichem était au milieu, ou presqu'au milieu de cet espace entre ces deux villes, dans la tribu d'Ephraïm._"
     },
     {
       "verse": 8,
@@ -88,8 +95,8 @@
       "verse": 9,
       "sub": false,
       "latin_lemma": "DONEC STARET ANTE POPULUM.",
-      "lemma": "Jusqu'à ce qu'il pût se présenter, à la lettre, se tenir debout devant le peuple.",
-      "text": "C'est-à-dire devant les Juges et les Anciens, et en présence du peuple assemblé, comme dans les affaires publiques et de conséquence. Il est bon de remarquer une fois [17] que lorsque l'Écriture parle de comparaître devant les Juges, elle exprime toujours la posture dans laquelle on y paraissait, en disant, que le coupable se tiendra debout devant les Juges assis. Moïse s'assit pour juger le peuple, et le peuple se tenait debout en sa présence depuis le matin jusqu'au soir. Les Latins usaient de la même expression pour marquer, paraître devant les Juges. [18]\n_Dispeream si_\n_Aut valeo stare, aut novi civilia jura._"
+      "lemma": "Jusqu'à ce qu'il pût se présenter,",
+      "text": "à la lettre, _se tenir debout devant le peuple._ C'est-à-dire devant les Juges et les Anciens, et en présence du peuple assemblé, comme dans les affaires publiques et de conséquence. Il est bon de remarquer une fois [17] que lorsque l'Écriture parle de comparaître devant les Juges, elle exprime toujours la posture dans laquelle on y paraissait, en disant, que le coupable se tiendra debout devant les Juges assis. Moïse s'assit pour juger le peuple, et le peuple se tenait debout en sa présence depuis le matin jusqu'au soir. Les Latins usaient de la même expression pour marquer, paraître devant les Juges. [18]\n_Dispeream si_\n_Aut valeo stare, aut novi civilia jura._"
     }
   ],
   "joins": [
@@ -113,13 +120,6 @@
       "mode": "flow",
       "before": " ou ses raisons. Il exposera le fait et la manière dont ce",
       "after": "meurtre est arrivé. Comme l’asile n’est qu’en faveur des i"
-    },
-    {
-      "seam": "page_0353>page_0354",
-      "verse": 7,
-      "mode": "flow",
-      "before": "Ils marquèrent donc pour ville",
-      "after": "les de Refuge, Cédès en Galilée, et les autres. L'Hébreu :"
     },
     {
       "seam": "page_0354>page_0355",

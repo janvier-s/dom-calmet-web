@@ -2,6 +2,7 @@
   "book": "1 Samuel",
   "chapter": 30,
   "chapter_summary": "Les Amalécites pillent Siceleg, et y mettent le feu avant le retour de David. Il les poursuit ; un esclave égyptien le mène dans leur camp, il les taille en pièces, reprend le butin qu'ils avaient enlevé, et le partage également à toutes ses troupes.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -249,7 +250,7 @@
     {
       "verse_number": 28,
       "latin": "Et qui in Aroër, et qui in Sephamoth, et qui in Esthamo.",
-      "french": "A ceux d'Aroër, de Sephamoth, d'Esthamo,",
+      "french": "À ceux d'Aroër, de Séphamoth, d'Esthamo,",
       "annotations": null,
       "source_pages": [
         "page_0454.json"
@@ -267,7 +268,7 @@
     {
       "verse_number": 30,
       "latin": "Et qui in Arama, et qui in lacu Asan, et qui in Athach,",
-      "french": "A ceux d'Arama, à ceux du lac d'Asan, à ceux d'Athach,",
+      "french": "À ceux d'Arama, à ceux du lac d'Asan, à ceux d'Athach,",
       "annotations": null,
       "source_pages": [
         "page_0454.json"

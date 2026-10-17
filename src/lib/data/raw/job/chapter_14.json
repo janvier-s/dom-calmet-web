@@ -1,7 +1,8 @@
 {
   "book": "Job",
   "chapter": 14,
-  "chapter_summary": "_Job continue à parler à Dieu. Il expose la brièveté, et la misère de la vie de l'homme. Il prie Dieu de le mettre à couvert de sa colère dans le tombeau. Il décrit l'état de l'homme après la mort._",
+  "chapter_summary": "Job continue à parler à Dieu. Il expose la brièveté, et la misère de la vie de l'homme. Il prie Dieu de le mettre à couvert de sa colère dans le tombeau. Il décrit l'état de l'homme après la mort.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -132,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Vocabis me, et ego respondebo tibi: operi manuum tuarum porriges dexteram.",
-      "french": "Vous m'appellerez, et je vous répondrai; vous tendrez votre main droite à l'ouvrage de vos mains.",
+      "french": "Vous m'appellerez, et je vous répondrai ; vous tendrez votre main droite à l'ouvrage de vos mains.",
       "annotations": null,
       "source_pages": [
         "page_0207.json"

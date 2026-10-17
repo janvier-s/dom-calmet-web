@@ -24,7 +24,7 @@
     {
       "verse": 7,
       "sub": false,
-      "latin_lemma": "CUM AUTEM IN MANU JEHU....VERBUM DOMINI FACTUM ESSET CONTRA BAASA,....OB HANC CAUSAM OCCIDIT EUM, HOC EST JEHU, etc.",
+      "latin_lemma": "CUM AUTEM IN MANU JEHU....VERBUM DOMINI FACTUM ESSET CONTRA BAASA,....OB HANC CAUSAM OCCIDIT EUM, HOC EST JEHU, ETC.",
       "lemma": "Mais le Prophète Jéhu ayant déclaré à Baasa ce que le Seigneur avait prononcé contre lui,... Baasa tua ce même Prophète Jéhu.",
       "text": "Nous avons déjà remarqué que ces dernières paroles : _Il tua le Prophète Jéhu, fils d'Hanani_, ne se lisent point dans le Texte original. Voici le sens qu'on peut donner à tout le verset. Après avoir raconté la mort de Baasa, et l'extinction de sa famille, l'Auteur sacré conclut : [6] _Car le Seigneur avait adressé sa parole à Jéhu, fils d'Hanani, contre Baasa, et contre sa maison, à cause du mal qu'il avait fait aux yeux du Seigneur, l'ayant irrité par les œuvres de ses mains, en se rendant semblable à la maison de Jéroboam. C'est pourquoi le Seigneur le fit mourir. Il fit mourir Baasa._ Ou, selon d'autres : _À cause du mal qu'il avait fait aux yeux du Sei-_ _gneur, pour se mettre en la place de la maison de Jéroboam; et parce qu'il l'avait mis à mort._[7] Dieu le punit de son usurpation, et du meurtre commis par lui en la personne de Nadad, fils de Jéroboam, et de ses enfants."
     },
@@ -54,7 +54,14 @@
       "sub": false,
       "latin_lemma": "PROPINQUOS, ET AMICOS EJUS.",
       "lemma": "Sans épargner",
-      "text": "aucun de ses proches, ou de ses amis. Tous ceux de qui il avait quelque chose à appréhender dans sa tyrannie. Philon [12] dit que dans ces rencontres, on faisait mourir tous ceux qui demeuraient dans les cinq maisons les plus voisines de celui, dont on voulait exterminer la mémoire."
+      "text": ""
+    },
+    {
+      "verse": 11,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "aucun de ses proches, ou de ses amis.",
+      "text": "Tous ceux de qui il avait quelque chose à appréhender dans sa tyrannie. Philon [12] dit que dans ces rencontres, on faisait mourir tous ceux qui demeuraient dans les cinq maisons les plus voisines de celui, dont on voulait exterminer la mémoire."
     },
     {
       "verse": 15,
@@ -75,7 +82,14 @@
       "sub": false,
       "latin_lemma": "DIVISUS EST POPULUS ISRAEL IN DUAS PAR-",
       "lemma": null,
-      "text": "TES. Le peuple d'Israël se divisa en deux parties. L'Écriture ne nous apprend pas la cause, ni les suites de cette division. Il est assez croyable que les Israélites, qui étaient dans le camp devant Gebbethon, ayant élu Amri, sans la participation du reste du peuple, ceux-ci en conçurent de la jalousie, et firent choix de leur côté de Thebni. Mais le parti d'Amri, soutenu par les gens de guerre, l'emporta."
+      "text": ""
+    },
+    {
+      "verse": 21,
+      "sub": false,
+      "latin_lemma": "TES.",
+      "lemma": "Le peuple d'Israël se divisa en deux parties.",
+      "text": "L'Écriture ne nous apprend pas la cause, ni les suites de cette division. Il est assez croyable que les Israélites, qui étaient dans le camp devant Gebbethon, ayant élu Amri, sans la participation du reste du peuple, ceux-ci en conçurent de la jalousie, et firent choix de leur côté de Thebni. Mais le parti d'Amri, soutenu par les gens de guerre, l'emporta."
     },
     {
       "verse": 23,
@@ -143,25 +157,11 @@
       "after": "_gneur, pour se mettre en la place de la maison de Jéroboa"
     },
     {
-      "seam": "page_0349>page_0350",
-      "verse": 11,
-      "mode": "flow",
-      "before": "Sans épargner",
-      "after": "aucun de ses proches, ou de ses amis. Tous ceux de qui il "
-    },
-    {
       "seam": "page_0350>page_0351",
       "verse": 15,
       "mode": "splice",
       "before": "pée à la main. L'exemple de Sardanapal est un des plus an-",
       "after": "ciens, et des plus fameux.^{(a)} Quelques-uns^{(b)} veulen"
-    },
-    {
-      "seam": "page_0351>page_0352",
-      "verse": 21,
-      "mode": "flow",
-      "before": "",
-      "after": "TES. Le peuple d'Israël se divisa en deux parties. L'Écrit"
     },
     {
       "seam": "page_0352>page_0353",

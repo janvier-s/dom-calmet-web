@@ -88,8 +88,8 @@
       "verse": 14,
       "sub": false,
       "latin_lemma": "ET IMPELLAT SUPER NOS RUINAM.",
-      "lemma": "Que nous ne nous trouvions exposés à la violence ; ou, qu'il ne nous écrase sous nos propres ruines ; comme un homme qu'on fait mourir sous les ruines de sa propre maison.",
-      "text": "L'Hébreu : [18] _Qu'il ne pousse sur nous le mal._ Qu'il ne nous fasse tomber dans le dernier malheur ; crainte que nous ne nous trouvions accablés sans ressource."
+      "lemma": "Que nous ne nous trouvions exposés à la violence ;",
+      "text": "ou, _qu'il ne nous écrase sous nos propres ruines ;_ comme un homme qu'on fait mourir sous les ruines de sa propre maison. L'Hébreu : [18] _Qu'il ne pousse sur nous le mal._ Qu'il ne nous fasse tomber dans le dernier malheur ; crainte que nous ne nous trouvions accablés sans ressource."
     },
     {
       "verse": 17,
@@ -109,15 +109,15 @@
       "verse": 18,
       "sub": false,
       "latin_lemma": "ET OMNES GETHÆI.",
-      "lemma": "Ceux de la ville de Geth, qui s'étaient venus donner à David depuis qu'il fut Roi ;",
-      "text": "au lieu que les Céréthiens et les Phéléthiens s'étaient attachés à lui, dès le temps de sa retraite chez Achis. Il y a toute apparence qu'Ethaï le Géthéen était leur principal chef, et même que c’était lui qui les avait amenés à David. Il est fort à remarquer que David n’est presque accompagné dans sa fuite, que de sa maison, et des étrangers; il renvoie les Prêtres et les Lévites avec l’Arche, comme pour figurer Jésus-Christ rejeté de la Synagogue avec ses disciples : mais qui rejette à son tour les cérémonies Juives, et le Sacerdoce d’Aaron, et qui se donne aux Gentils peuple étranger, mais plus fidèle, que les sujets naturels du Royaume."
+      "lemma": "Ceux de la ville de Geth,",
+      "text": "qui s'étaient venus donner à David depuis qu'il fut Roi ; au lieu que les Céréthiens et les Phéléthiens s'étaient attachés à lui, dès le temps de sa retraite chez Achis. Il y a toute apparence qu'Ethaï le Géthéen était leur principal chef, et même que c’était lui qui les avait amenés à David. Il est fort à remarquer que David n’est presque accompagné dans sa fuite, que de sa maison, et des étrangers; il renvoie les Prêtres et les Lévites avec l’Arche, comme pour figurer Jésus-Christ rejeté de la Synagogue avec ses disciples : mais qui rejette à son tour les cérémonies Juives, et le Sacerdoce d’Aaron, et qui se donne aux Gentils peuple étranger, mais plus fidèle, que les sujets naturels du Royaume."
     },
     {
       "verse": 18,
       "sub": false,
       "latin_lemma": "QUI SECUTI EUM FUERANT DE GETH PEDITES.",
-      "lemma": "Six cents hommes de pied, qui l’avaient suivi de la ville de Geth ; ou six cents hommes de Geth, qui le suivaient à pied : ou, qui l’avaient suivi, qui avaient suivi ses pieds, ses traces, lorsqu’il sortit de la ville de Geth.",
-      "text": "[20]"
+      "lemma": "Six cents hommes de pied, qui l’avaient suivi de la ville de Geth ;",
+      "text": "ou six cents hommes de Geth, qui le suivaient à pied : ou, qui l’avaient suivi, qui avaient suivi ses pieds, ses traces, lorsqu’il sortit de la ville de Geth.[20]"
     },
     {
       "verse": 19,
@@ -166,7 +166,7 @@
       "sub": false,
       "latin_lemma": "REPORTA ARCAM DEI IN URBEM.",
       "lemma": "Reportez à la ville l'Arche de Dieu.",
-      "text": "David fait voir ici une confiance, une foi, une humilité fort au-dessus de ce qu'on a accoutumé de remarquer dans les Juifs charnels de l'ancien Testament. Comme s'il se jugeait indigne de posséder l'Arche du Seigneur, il se prive volontairement de la consolation de l'avoir dans sa compagnie, et par là il mérite d'y avoir véritablement le Seigneur, dont l'Arche n'était qu'une faible figure. Il renvoie à Absalon ce Dieu irrité, et il découvre des yeux de la foi, que le Dieu d'Israël n'est point attaché aux lieux; ni aux temps, et que s'il l'a pour agréable, il saura le garantir en l'absence, comme en la présence de son Arche. _Si je trouve_ grâce devant le Seigneur, il saura bien me ramener, et me faire revoir son Arche et son Tabernacle ; mais s'il me dit : _Vous ne me plaisez point, je suis prêt à quitter le Royaume ; qu'il fasse de moi ce qu'il lui plaira. Je suis disposé à souffrir, et à faire tout ce que la justice exigera, pour expier mon péché._"
+      "text": "David fait voir ici une confiance, une foi, une humilité fort au-dessus de ce qu'on a accoutumé de remarquer dans les Juifs charnels de l'ancien Testament. Comme s'il se jugeait indigne de posséder l'Arche du Seigneur, il se prive volontairement de la consolation de l'avoir dans sa compagnie, et par là il mérite d'y avoir véritablement le Seigneur, dont l'Arche n'était qu'une faible figure. Il renvoie à Absalon ce Dieu irrité, et il découvre des yeux de la foi, que le Dieu d'Israël n'est point attaché aux lieux; ni aux temps, et que s'il l'a pour agréable, il saura le garantir en l'absence, comme en la présence de son Arche. _Si je trouve_ _grâce devant le Seigneur, il saura bien me ramener, et me faire revoir son Arche et son Tabernacle ; mais s'il me dit : Vous ne me plaisez point, je suis prêt_ à quitter le Royaume ; _qu'il fasse de moi ce qu'il lui plaira_. Je suis disposé à souffrir, et à faire tout ce que la justice exigera, pour expier mon péché.__"
     },
     {
       "verse": 27,
@@ -245,7 +245,7 @@
       "verse": 25,
       "mode": "flow",
       "before": "absence, comme en la présence de son Arche. _Si je trouve_",
-      "after": "grâce devant le Seigneur, il saura bien me ramener, et me "
+      "after": "_grâce devant le Seigneur, il saura bien me ramener, et me"
     },
     {
       "seam": "page_0166>page_0167",

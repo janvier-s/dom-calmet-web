@@ -32,8 +32,8 @@
       "verse": 3,
       "sub": false,
       "latin_lemma": "SEQUIMINI PRÆCEDENTES.",
-      "lemma": "Marchez après elle, suivez l'Arche, ou suivez les Prêtres qui portent l'Arche.",
-      "text": "Dans les marches ordinaires du désert, l'Arche était presque au milieu de toute l'armée ; mais ici elle est à la tête de tout Israël, et deux mille coudées devant le peuple. Jusqu'à la mort de Moïse, la colonne de nuée avait toujours marché devant les Israélites ; mais on croit communément [14] qu'à la mort de ce Législateur elle disparut ; l'Arche du Seigneur prit sa place, et servit de guide aux Hébreux."
+      "lemma": "Marchez après eux.",
+      "text": "_Marchez après elle_, suivez l'Arche, ou suivez les Prêtres qui portent l'Arche. Dans les marches ordinaires du désert, l'Arche était presque au milieu de toute l'armée ; mais ici elle est à la tête de tout Israël, et deux mille coudées devant le peuple. Jusqu'à la mort de Moïse, la colonne de nuée avait toujours marché devant les Israélites ; mais on croit communément [14] qu'à la mort de ce Législateur elle disparut ; l'Arche du Seigneur prit sa place, et servit de guide aux Hébreux."
     },
     {
       "verse": 4,
@@ -45,7 +45,7 @@
     {
       "verse": 4,
       "sub": false,
-      "latin_lemma": "UT PROCUL MAGIS VIDERE POSSITIS, ET NOSSE PER QUAM VIAM INGREDIAMINI, etc.",
+      "latin_lemma": "UT PROCUL MAGIS VIDERE POSSITIS, ET NOSSE PER QUAM VIAM INGREDIAMINI, ETC.",
       "lemma": "Afin que vous la puissiez mieux voir de loin, et remarquer par quel chemin vous marchez aujourd'hui.",
       "text": "L'Hébreu porte : _Ne vous approchez point de l'Arche, afin que vous remarquiez le chemin que vous allez suivre, parce que vous n'y avez point passé depuis hier et avant-hier._ Ce qu'on peut entendre simplement de cette sorte : gardez-vous d'approcher de l'Arche, mais suivez-la de loin, sans vous écarter du chemin qu'elle vous montrera ; car c'est une route nouvelle que vous n'avez point encore suivie, ainsi vous devez craindre de vous y égarer. Mais il semble qu'il veut plutôt marquer d'une manière obscure, le passage miraculeux qu'ils doivent faire du Jourdain. C'est une route nouvelle et extraordinaire que Dieu va vous ouvrir, et que vous n'avez jamais suivie. Vous allez voir une chose dont vous n'avez point d'exemple depuis le passage de la mer Rouge. Il n'est pas certain que Josué leur ait alors découvert la manière dont ils passeraient ce fleuve : peut-être même que Dieu ne la lui avait pas encore révélée."
     },
@@ -159,14 +159,21 @@
       "sub": false,
       "latin_lemma": "APPAREBANT PROCUL AB URBE QUÆ VOCATUR EDOM, USQUE AD LATUS SARTHAN.",
       "lemma": "Elles paraissaient de bien loin, depuis la",
-      "text": "ville d'Edom, jusque vis-à-vis de Sarthan. Voici l'Hébreu à la lettre : Les eaux s'élevèrent en monceaux[48] en s'éloignant beaucoup à Adam, qui est une ville à côté de Sarthan ; on ne sait pas la vraie situation de la ville d'Adam ou d'Edom ; mais celle de Sarthan est plus connue : Elle était, selon l'Écriture,[49] près de Bethsan, ou Scythopolis, vis-à-vis de Socoth, qui était au-delà du Jourdain ;[50] Enfin elle était située à l'extrémité de la vallée de Jezraël[51] sur le Jourdain, en deçà de ce fleuve. Or la vallée de Jezraël et Scythopolis n'étaient pas loin du lac de Genezaret, la Ville de Sarthan n'en pouvait donc pas non plus être éloignée et si la ville d'Edom était vis-à-vis et à côté de Sarthan, il est visible qu'elle était de l'autre côté du Jourdain, fort loin du lieu où les Hébreux passèrent ce fleuve : ce qui est assez différent de la situation que leur donnent nos cartes géographiques. On doit donc concevoir l'amas des eaux renversées les unes sur les autres, dans l'espace qui est depuis Bet-abara, où nous plaçons le passage des Israélites, jusqu'à Sarthan et à Adam dans l'espace de plus de près de 20 lieues de France. Les exemplaires des Septante de ce passage sont assez différents entre eux: L'édition Romaine omet _Adam_, et lit _Cariatiarim_, au lieu de _Sarthan_. L'édition de Francfort lit, depuis la ville d'Adam jusque vers _Cariatiarim_. Celle d'Alde Manuce, depuis _Adami jusqu'à Cariathiarim_. Je ne sais pourquoi ils ont mis ici la ville de Cariathiarim, qui étant au milieu du pays, et à six ou sept lieues du Jourdain, n'est nullement propre à marquer les mesures de ce fleuve."
+      "text": ""
+    },
+    {
+      "verse": 16,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "ville d'Edom, jusque vis-à-vis de Sarthan.",
+      "text": "Voici l'Hébreu à la lettre : Les eaux s'élevèrent en monceaux[48] en s'éloignant beaucoup à Adam, qui est une ville à côté de Sarthan ; on ne sait pas la vraie situation de la ville d'Adam ou d'Edom ; mais celle de Sarthan est plus connue : Elle était, selon l'Écriture,[49] près de Bethsan, ou Scythopolis, vis-à-vis de Socoth, qui était au-delà du Jourdain ;[50] Enfin elle était située à l'extrémité de la vallée de Jezraël[51] sur le Jourdain, en deçà de ce fleuve. Or la vallée de Jezraël et Scythopolis n'étaient pas loin du lac de Genezaret, la Ville de Sarthan n'en pouvait donc pas non plus être éloignée et si la ville d'Edom était vis-à-vis et à côté de Sarthan, il est visible qu'elle était de l'autre côté du Jourdain, fort loin du lieu où les Hébreux passèrent ce fleuve : ce qui est assez différent de la situation que leur donnent nos cartes géographiques. On doit donc concevoir l'amas des eaux renversées les unes sur les autres, dans l'espace qui est depuis Bet-abara, où nous plaçons le passage des Israélites, jusqu'à Sarthan et à Adam dans l'espace de plus de près de 20 lieues de France. Les exemplaires des Septante de ce passage sont assez différents entre eux: L'édition Romaine omet _Adam_, et lit _Cariatiarim_, au lieu de _Sarthan_. L'édition de Francfort lit, depuis la ville d'Adam jusque vers _Cariatiarim_. Celle d'Alde Manuce, depuis _Adami jusqu'à Cariathiarim_. Je ne sais pourquoi ils ont mis ici la ville de Cariathiarim, qui étant au milieu du pays, et à six ou sept lieues du Jourdain, n'est nullement propre à marquer les mesures de ce fleuve."
     },
     {
       "verse": 16,
       "sub": false,
       "latin_lemma": "IN MARE SOLITUDINIS, QUOD NUNC VOCATUR MORTUUM.",
       "lemma": "Dans la mer du désert, qui est à présent appelée la mer morte.",
-      "text": "L'Hébreu porte :[52] Dans la mer d'Araba, dans la mer de sel. Le nom d'Araba se trouve souvent dans l'Écriture, pour marquer les plaines de Moab, où les Israélites campèrent assez longtemps. On dit que le mot Araba, signifie un endroit inculte ; mais qui n'est pas tout à fait stérile ; qui produit des pâturages pour les animaux. Le lac de Sodome est appelé la mer d'Araba, parce qu'il est situé près des plaines ou des déserts de Moab, et que le pays d'autour de ce lac, est inculte et ne produit que quelques pâturages. Ce lac est aussi appelé la _mer de Sel_, ou le lac _Asphaltite_, à cause du sel de nitre, ou du bitume dont il est rempli. L'on donne dans l'Écriture le nom de sel, non seulement au sel marin et au sel minéral, mais aussi aux matières d'un goût âcre et salé, au nitre, à l'asphalte, au bitume, etc. On sait assez les qualités et la situation de la mer morte, il n'est pas nécessaire de s'étendre ici sur cela.. Le Jourdain se perd dans ce lac, où il semble n'entrer qu'à re. gret, [53] et il coule une grande lieue avant que de mêler ses eaux avec celles du lac : _Velut invitus asphaltitem lacum, quo postremò ebibitur, aquasque laudatas perdit, pestilentibus mixtus._ Joseph [54] donne au lac de Sodome 580. stades depuis l'embouchure du Jourdain jusqu'à Zoara, ou Segor, et de largeur 150. stades : mais Pline [55] dit qu'il a cent mille pas de long, et vingt-cinq de large, dans les lieux où il est le plus large, et six où il l'est le moins. Depuis Bethabara où les Prêtres entrèrent dans le Jourdain, jusqu'à la mer morte, il y a 5. ou 6. lieues; tout cet espace demeura à sec pour le passage du peuple."
+      "text": "L'Hébreu porte :[52] Dans la mer d'Araba, dans la mer de sel. Le nom d'Araba se trouve souvent dans l'Écriture, pour marquer les plaines de Moab, où les Israélites campèrent assez longtemps. On dit que le mot Araba, signifie un endroit inculte ; mais qui n'est pas tout à fait stérile ; qui produit des pâturages pour les animaux. Le lac de Sodome est appelé la mer d'Araba, parce qu'il est situé près des plaines ou des déserts de Moab, et que le pays d'autour de ce lac, est inculte et ne produit que quelques pâturages. Ce lac est aussi appelé la _mer de Sel_, ou le lac _Asphaltite_, à cause du sel de nitre, ou du bitume dont il est rempli. L'on donne dans l'Écriture le nom de sel, non seulement au sel marin et au sel minéral, mais aussi aux matières d'un goût âcre et salé, au nitre, à l'asphalte, au bitume, etc. On sait assez les qualités et la situation de la mer morte, il n'est pas nécessaire de s'étendre ici sur cela.. Le Jourdain se perd dans ce lac, où il semble n'entrer qu'à regret, [53] et il coule une grande lieue avant que de mêler ses eaux avec celles du lac : _Velut invitus asphaltitem lacum, quo postremò ebibitur, aquasque laudatas perdit, pestilentibus mixtus._ Joseph [54] donne au lac de Sodome 580. stades depuis l'embouchure du Jourdain jusqu'à Zoara, ou Segor, et de largeur 150. stades : mais Pline [55] dit qu'il a cent mille pas de long, et vingt-cinq de large, dans les lieux où il est le plus large, et six où il l'est le moins. Depuis Bethabara où les Prêtres entrèrent dans le Jourdain, jusqu'à la mer morte, il y a 5. ou 6. lieues; tout cet espace demeura à sec pour le passage du peuple."
     },
     {
       "verse": 17,
@@ -187,7 +194,14 @@
       "sub": false,
       "latin_lemma": "OMNISQUE POPULUS PER ARENTEM ALVEUM PER-",
       "lemma": null,
-      "text": "An. 2553. TRANSIBAT. Tout le peuple passait au travers du canal qui était à sec. L'Hébreu : _Et tout Israël passa le Jourdain à sec, jusqu'à ce que tout le peuple eût achevé de passer ce fleuve._"
+      "text": ""
+    },
+    {
+      "verse": 17,
+      "sub": false,
+      "latin_lemma": "TRANSIBAT.",
+      "lemma": "Tout le peuple passait au travers du canal qui était à sec.",
+      "text": "L'Hébreu : _Et tout Israël passa le Jourdain à sec, jusqu'à ce que tout le peuple eût achevé de passer ce fleuve._"
     }
   ],
   "joins": [
@@ -229,8 +243,8 @@
     {
       "seam": "page_0100>page_0101",
       "verse": 10,
-      "mode": "mend",
-      "before": "relève le courage du peuple, et assure sa propre autorité.",
+      "mode": "flow",
+      "before": " relève le courage du peuple, et assure sa propre autorité",
       "after": "en faisant remarquer au peuple que le Seigneur est avec lu"
     },
     {
@@ -255,25 +269,11 @@
       "after": "Les causes naturelles de l'inondation du Jourdain dans cet"
     },
     {
-      "seam": "page_0105>page_0106",
-      "verse": 16,
-      "mode": "flow",
-      "before": "Elles paraissaient de bien loin, depuis la",
-      "after": "ville d'Edom, jusque vis-à-vis de Sarthan. Voici l'Hébreu "
-    },
-    {
       "seam": "page_0106>page_0107",
       "verse": 16,
-      "mode": "mend",
-      "before": "rdain se perd dans ce lac, où il semble n'entrer qu'à re..",
+      "mode": "splice",
+      "before": "urdain se perd dans ce lac, où il semble n'entrer qu'à re-",
       "after": "gret, ^{(a)} et il coule une grande lieue avant que de mêl"
-    },
-    {
-      "seam": "page_0107>page_0108",
-      "verse": 17,
-      "mode": "flow",
-      "before": "",
-      "after": "An. 2553. TRANSIBAT. Tout le peuple passait au travers du "
     }
   ],
   "pages_used": [

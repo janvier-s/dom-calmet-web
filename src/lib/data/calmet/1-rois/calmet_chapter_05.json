@@ -61,7 +61,7 @@
       "sub": false,
       "latin_lemma": "ET APPLICABO EA TIBI.",
       "lemma": null,
-      "text": "Et je les ferai conduire. L'Hébreu : [22] _Je vous les délierai ; je différerai, je romprai les radeaux, et je vous_ rendrai vos bois au lieu que vous me marquerez. Ménandre d'Éphèse remarque cette circonstance de la vie d'Hiram, comme une chose importante, [23] qu'il fit couper des bois du Liban, pour couvrir des Temples."
+      "text": "Et je les ferai conduire. L'Hébreu : [22] _Je vous les délierai ;_ je différerai, je romprai les radeaux, et je vous rendrai vos bois au lieu que vous me marquerez. Ménandre d'Éphèse remarque cette circonstance de la vie d'Hiram, comme une chose importante, [23] qu'il fit couper des bois du Liban, pour couvrir des Temples."
     },
     {
       "verse": 9,
@@ -96,7 +96,7 @@
       "sub": false,
       "latin_lemma": "ERAT INDICTIO TRIGINTA MILLIA VIRORUM.",
       "lemma": "On commandait pour cet ouvrage trente mille hommes.",
-      "text": "On pourrait traduire l'Hébreu à la lettre :[33] _Ce tribut, cette corvée était de trente_ mille hommes._ On commanda trente mille hommes ; mais on les partagea de manière qu'ils ne servaient qu'un mois de trois, puisqu'ils n'y allaient que dix mille à la fois, et qu'ils n'y demeuraient qu'un mois. Ainsi ils avaient toujours deux mois de repos de suite. Ces hommes étaient Israélites, et ils avaient pour Intendant _Adoniram_. Il y a beaucoup d'apparence qu'ils ne travaillaient qu'à tirer les pierres des carrières ; car pour les bois, c'étaient les Tyriens et les Sidoniens qui étaient obligés à les couper, à les conduire à la mer, à les mettre en radeaux, et à les rendre au port le plus près de Jérusalem._"
+      "text": "On pourrait traduire l'Hébreu à la lettre :[33] _Ce tribut_, cette corvée _était de trente_ _mille hommes._ On commanda trente mille hommes ; mais on les partagea de manière qu'ils ne servaient qu'un mois de trois, puisqu'ils n'y allaient que dix mille à la fois, et qu'ils n'y demeuraient qu'un mois. Ainsi ils avaient toujours deux mois de repos de suite. Ces hommes étaient Israélites, et ils avaient pour Intendant _Adoniram_. Il y a beaucoup d'apparence qu'ils ne travaillaient qu'à tirer les pierres des carrières ; car pour les bois, c'étaient les Tyriens et les Sidoniens qui étaient obligés à les couper, à les conduire à la mer, à les mettre en radeaux, et à les rendre au port le plus près de Jérusalem."
     },
     {
       "verse": 15,
@@ -153,15 +153,15 @@
       "seam": "page_0136>page_0137",
       "verse": 9,
       "mode": "flow",
-      "before": "ierai ; je différerai, je romprai les radeaux, et je vous_",
+      "before": "ierai ;_ je différerai, je romprai les radeaux, et je vous",
       "after": "rendrai vos bois au lieu que vous me marquerez. Ménandre d"
     },
     {
       "seam": "page_0138>page_0139",
       "verse": 13,
       "mode": "flow",
-      "before": "{fn:page_0138-e} _Ce tribut, cette corvée était de trente_",
-      "after": "mille hommes._ On commanda trente mille hommes ; mais on l"
+      "before": "n:page_0138-e} _Ce tribut_, cette corvée _était de trente_",
+      "after": "_mille hommes._ On commanda trente mille hommes ; mais on "
     },
     {
       "seam": "page_0139>page_0140",

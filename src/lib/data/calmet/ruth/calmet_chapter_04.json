@@ -1,6 +1,20 @@
 {
   "notes": [
     {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "ASCENDIT ERGO BOOZ AD PORTAM ET SEDIT IBI.",
+      "lemma": "Booz vint donc à la porte de la ville, et s'y assit.",
+      "text": "Dans chaque ville il y avait une porte où l'on rendait la justice et où se terminaient les autres affaires, par-devant les Juges et les Anciens, et en présence de plusieurs témoins."
+    },
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "DECLINA PAULISPER, ET SEDE HIC, VOCANS EUM NOMINE SUO.",
+      "lemma": "Et l'appelant par son nom : venez, dit-il, et asseyez-vous.",
+      "text": "Voilà la manière d'appeler en Jugement de ce temps-là. On n'y fait point d'autre cérémonie, que d'appeler sa partie devant les Juges, ou devant l'assemblée; tout se passe sans écrits, sans significations, sans délai. Booz appela cet homme par son nom; mais l'Auteur sacré ne l'a pas exprimé, soit qu'il l'ignorât, disent Bonfrerius [1] et Drusius, [2] Dieu n'ayant pas jugé à propos de lui révéler, soit que l'Auteur n'ait pas voulu nous l'apprendre, pour des raisons qui nous sont inconnues. Le texte Hébreu porte : [3] _Et il dit : détournez-vous, asseyez-vous ici, Peloni Almoni._ Ces deux derniers mots s'emploient pour désigner une personne, ou un lieu dont on ne fait pas, ou dont on ne veut pas dire le nom, [4] comme en Français nous disons : _Il lui dit : un tel venez ici._\nOn croit que tout ceci se passa le matin, et dans le temps qu'on sortait de la ville pour aller travailler à la campagne, ou vers le midi lorsqu'on en revenait. Joseph dit que ce fut vers le milieu du jour; et Maïmonides assure que dans les villes particulieres, les Juges étaient assis depuis le matin, jusques vers le midi."
+    },
+    {
       "verse": 2,
       "sub": false,
       "latin_lemma": "DECEM VIROS DE SENIORIBUS CIVITATIS.",
@@ -68,7 +82,7 @@
       "sub": false,
       "latin_lemma": "RACHEL ET LIA, QUÆ ÆDIFICAVERUNT DOMUM ISRAËL.",
       "lemma": "Comme Rachel et Lia, qui ont établi la maison d'Israël.",
-      "text": "On a déja vû ailleurs [28] qu'établir ou bâtir la maison, signifie souvent donner des enfans. Rachel et Lia [29] avaient bâti la maison de Jacob en ce sens, par la nombreuse postérité qu'ils lui avaient donnée. Plaute s'est servi d'une expression à peu prés semblable : [30] _Vous étes, dit-il, comme des_ maisons ; vos peres en sont les bâtimens, les enfans sont comme le fondement.\n_Ut vos homines ædium esse similes arbitremini :\nPrimum, dum parentes fabri liberûm sunt,\nEt fundamentum liberorum substruunt._"
+      "text": "On a déja vû ailleurs [28] qu'établir ou bâtir la maison, signifie souvent donner des enfans. Rachel et Lia [29] avaient bâti la maison de Jacob en ce sens, par la nombreuse postérité qu'ils lui avaient donnée. Plaute s'est servi d'une expression à peu prés semblable : [30] _Vous étes_, dit-il, _comme des_ _maisons ; vos peres en sont les bâtimens, les enfans sont comme le fondement.\nUt vos homines ædium esse similes arbitremini :\nPrimum, dum parentes fabri liberûm sunt,\nEt fundamentum liberorum substruunt._"
     },
     {
       "verse": 11,
@@ -99,13 +113,6 @@
       "text": "L'Hébreu à la lettre: [33] _Qui fasse revenir votre âme;_ qui vous rende la vie, qu'il vous comble de joie et de consolation."
     },
     {
-      "verse": 16,
-      "sub": false,
-      "latin_lemma": "DECLINA PAULISPER, ET SEDE HIC, VOCANS EUM NOMINE SUO.",
-      "lemma": "Et l'appelant par son nom : venez, dit-il, et asseyez-vous.",
-      "text": "Voilà la manière d'appeler en Jugement de ce temps-là. On n'y fait point d'autre cérémonie, que d'appeler sa partie devant les Juges, ou devant l'assemblée; tout se passe sans écrits, sans significations, sans délai. Booz appela cet homme par son nom; mais l'Auteur sacré ne l'a pas exprimé, soit qu'il l'ignorât, disent Bonfrerius [1] et Drusius, [2] Dieu n'ayant pas jugé à propos de lui révéler, soit que l'Auteur n'ait pas voulu nous l'apprendre, pour des raisons qui nous sont inconnues. Le texte Hébreu porte : [3] _Et il dit : détournez-vous, asseyez-vous ici, Peloni Almoni._ Ces deux derniers mots s'emploient pour désigner une personne, ou un lieu dont on ne fait pas, ou dont on ne veut pas dire le nom, [4] comme en Français nous disons : _Il lui dit : un tel venez ici._\nOn croit que tout ceci se passa le matin, et dans le temps qu'on sortait de la ville pour aller travailler à la campagne, ou vers le midi lorsqu'on en revenait. Joseph dit que ce fut vers le milieu du jour; et Maïmonides assure que dans les villes particulieres, les Juges étaient assis depuis le matin, jusques vers le midi."
-    },
-    {
       "verse": 18,
       "sub": false,
       "latin_lemma": "HÆ SUNT GENERATIONES PHARES.",
@@ -117,7 +124,7 @@
       "sub": false,
       "latin_lemma": "ESRON GENUIT ARAM.",
       "lemma": "Efron fut père d'Aram.",
-      "text": "Aram est simplement nommé Ram dans l'Hébreu de cet endroit; et dans les Paralipomènes.[33]"
+      "text": "Aram est simplement nommé Ram dans l'Hébreu de cet endroit; et dans les Paralipomènes."
     },
     {
       "verse": 20,
@@ -130,7 +137,7 @@
   "joins": [
     {
       "seam": "page_0030>page_0031",
-      "verse": 16,
+      "verse": 1,
       "mode": "splice",
       "before": "pour aller travailler à la campagne, ou vers le midi lors-",
       "after": "qu'on en revenait. Joseph dit que ce fut vers le milieu du"
@@ -174,8 +181,8 @@
       "seam": "page_0036>page_0037",
       "verse": 11,
       "mode": "flow",
-      "before": "mblable : ^{fn:page_0036-f} _Vous étes, dit-il, comme des_",
-      "after": "maisons ; vos peres en sont les bâtimens, les enfans sont "
+      "before": "lable : ^{fn:page_0036-f} _Vous étes_, dit-il, _comme des_",
+      "after": "_maisons ; vos peres en sont les bâtimens, les enfans sont"
     }
   ],
   "pages_used": [
@@ -356,5 +363,7 @@
       "text": "היה לך למשיב נפש"
     }
   ],
-  "missing_footnotes": []
+  "missing_footnotes": [
+    "page_0038-b"
+  ]
 }

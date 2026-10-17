@@ -117,7 +117,7 @@
       "sub": false,
       "latin_lemma": "HABES BOVES HOLOCAUSTUM ET PLAUS-TRUM, ET JUGA BOUM IN USUM LIGNORUM.",
       "lemma": "Voilà des bœufs pour l'holocauste, un chariot, et des jougs de bœufs pour le bois.",
-      "text": "L'Hébreu : [44] _Voilà des bœufs pour l'holocauste, des traînoirs, pour battre le grain, et des instruments de bœufs pour les bois._ Les Septante : [45] _Voilà des veaux pour l'holocauste, des roues, et des instruments de bœufs pour le bois._ Joseph : [46] _Des charrues, et des bœufs._ Les Paralipomènes [47] ajoutent qu'il offrit aussi le froment, pour faire l'offrande. grains, ou de farine, qui accompagnait les sacrifices. Tout ceci arriva pendant la moisson ; et Areüna était dans son aire avec ses quatre fils, qui vannaient du froment, lorsqu’ils virent l’Ange exterminateur. Ce qui fait juger que David ne fut pas le seul qui l’aperçut ; mais qu’apparemment il se fit voir à toute la ville de Jérusalem."
+      "text": "L'Hébreu : [44] _Voilà des bœufs pour l'holocauste, des traînoirs, pour battre le grain, et des instruments de bœufs pour les bois._ Les Septante : [45] _Voilà des veaux pour l'holocauste, des roues, et des instruments de bœufs pour le bois._ Joseph : [46] _Des charrues, et des bœufs._ Les Paralipomènes [47] ajoutent qu'il offrit aussi le froment, pour faire l'offrande grains, ou de farine, qui accompagnait les sacrifices. Tout ceci arriva pendant la moisson ; et Areüna était dans son aire avec ses quatre fils, qui vannaient du froment, lorsqu’ils virent l’Ange exterminateur. Ce qui fait juger que David ne fut pas le seul qui l’aperçut ; mais qu’apparemment il se fit voir à toute la ville de Jérusalem."
     },
     {
       "verse": 23,
@@ -144,8 +144,8 @@
       "verse": 25,
       "sub": false,
       "latin_lemma": "OBTULIT HOLOCAUSTA, ET PACIFICA.",
-      "lemma": "Il offrit des holocaustes, et des hosties pacifiques, en action de grâces de ce que le Seigneur avait eu pitié de son peuple.",
-      "text": "C'est le second sacrifice que David offrit en cet endroit.[57] Les Paralipomènes[58] nous apprennent une circonstance, qu'on ne lit point ici, qui est que le feu du ciel descendit sur ces hosties, et les consuma."
+      "lemma": "Il offrit des holocaustes, et des hosties pacifiques,",
+      "text": "en action de grâces de ce que le Seigneur avait eu pitié de son peuple. C'est le second sacrifice que David offrit en cet endroit.[57] Les Paralipomènes[58] nous apprennent une circonstance, qu'on ne lit point ici, qui est que le feu du ciel descendit sur ces hosties, et les consuma."
     }
   ],
   "joins": [
@@ -187,8 +187,8 @@
     {
       "seam": "page_0268>page_0269",
       "verse": 9,
-      "mode": "mend",
-      "before": "atre-vingt-huit mille hommes, et sont plus que suffisants.",
+      "mode": "flow",
+      "before": "uatre-vingt-huit mille hommes, et sont plus que suffisants",
       "after": "pour remplir ce qui manque dans le dénombrement du Livre d"
     },
     {
@@ -237,7 +237,7 @@
       "seam": "page_0275>page_0276",
       "verse": 22,
       "mode": "hyphen",
-      "before": "tent qu'il offrit aussi le froment, pour faire l'offrande.",
+      "before": "utent qu'il offrit aussi le froment, pour faire l'offrande",
       "after": "de grains, ou de farine, qui accompagnait les sacrifices. "
     },
     {

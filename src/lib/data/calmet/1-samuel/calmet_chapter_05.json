@@ -33,7 +33,14 @@
       "sub": false,
       "latin_lemma": "RURSUMQUE MANE DIE ALTERA.",
       "lemma": "Le jour suivant",
-      "text": "_S'étant encore levés dès le matin._ Quelques Anciens [10] ont cru que plusieurs jours de suite on avait trouvé Dagon abattu devant l'Arche; mais que l'Écriture n'avait exprimé que la première et la dernière fois, comme ayant entre elles quelque chose de différent. Mais on ne voit rien dans le Texte qui favorise cette explication."
+      "text": ""
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "s'étant encore levés dès le matin.",
+      "text": "Quelques Anciens [10] ont cru que plusieurs jours de suite on avait trouvé Dagon abattu devant l'Arche ; mais que l'Écriture n'avait exprimé que la première et la dernière fois, comme ayant entre elles quelque chose de différent. Mais on ne voit rien dans le Texte qui favorise cette explication."
     },
     {
       "verse": 5,
@@ -68,7 +75,7 @@
       "sub": false,
       "latin_lemma": "ET EBULLIERUNT VILLÆ ET AGRI.... ET NATI SUNT MURES.",
       "lemma": "Et on vit fourmiller des champs et des villages, une multitude de rats.",
-      "text": "Ces paroles et les suivantes ne se lisent point dans l'Hébreu, ni dans le Chaldéen, ni dans les éditions des Septante des Bibles Polyglottes de Complutte, et de Paris, ni dans les versions Syriaques et Arabes. On ne les voit point non plus dans plusieurs exemplaires des Bibles Latines. Robert Étienne et les Théologiens de Louvain les ont conservées dans leurs Éditions : mais ils les ont marquées d'une obèle, ou broche, comme étant une addition faite au Texte. Le P. Martianay Auteur de la nouvelle édition de saint Jérôme, l'a retranché du Canon de la vérité Hébraïque, sur la foi des plus anciens et des meilleurs Manuscrits. Il nous apprend que dans les plus nouveaux Manuscrits de la version de saint Jérôme, on lit tout ce passage, sans aucune distinction du Texte : Mais dans d'autres exemplaires plus anciens, on a coutume ou de retrancher ces endroits qui ne se trouvent pas dans l'Hébreu, ou de les marquer d'une obèle, pour avertir qu'ils sont étrangers et ajoutés. Enfin la plupart des Exemplaires des Septante, et toutes les Bibles Vulgates lisent constamment ces paroles ; et on ne peut nier qu'elles ne soient tout à fait conformes à la vérité de l'histoire, puisqu'au Chapitre suivant, [36] les Philistins pour se garantir des rats qui ravageaient leur pays, mirent des figures d'or de ces animaux à côté de l'Arche.\nAu reste, le pays des Philistins n'est pas le seul qui ait été ravagé par les rats : Strabon [37] parle de la quantité de rats qu'on voyait en Espagne, qui désolaient les campagnes, et y causaient quelquefois la peste. Les Romains étant les maîtres de la Biscaye, donnaient une certaine récompense, à ceux qui leur apportaient un nombre de rats. On assure [38] que les habitants de l'Île de Gyare, une des Cyclades, et quelques peuples de la Troade et de l'Italie, furent autrefois contraints d'abandonner leur pays pour le grand nombre de rats qui y étaient. Mais sans nous éloigner du voisinage des Philistins, Bellon [39] raconte qu'il vit entre Gaza première ville de la Palestine, et Belba dernière de l'Égypte, des campagnes entières abandonnées à cause du grand nombre de rats ; et si la nature n'avait fait naître dans le même pays certains oiseaux nommés Boudrés, qui leur font la guerre, les habitants ne pourraient faire aucune semence, que ces animaux ne consommassent aussitôt."
+      "text": "Ces paroles et les suivantes ne se lisent point dans l'hébreu, ni dans le chaldéen, ni dans les éditions des Septante des Bibles Polyglottes de Complute, et de Paris, ni dans les versions syriaques et arabes. On ne les voit point non plus dans plusieurs exemplaires des Bibles latines. Robert Estienne et les Théologiens de Louvain les ont conservées dans leurs Éditions : mais ils les ont marquées d'une obèle, ou broche, comme étant une addition faite au Texte. Le P. Martianay Auteur de la nouvelle édition de saint Jérôme, l'a retranché du Canon de la vérité hébraïque, sur la foi des plus anciens et des meilleurs Manuscrits. Il nous apprend que dans les plus nouveaux Manuscrits de la version de saint Jérôme, on lit tout ce passage, sans aucune distinction du Texte : Mais dans d'autres exemplaires plus anciens, on a coutume ou de retrancher ces endroits qui ne se trouvent pas dans l'hébreu, ou de les marquer d'une obèle, pour avertir qu'ils sont étrangers et ajoutés. Enfin la plupart des Exemplaires des Septante, et toutes les Bibles Vulgates lisent constamment ces paroles ; et on ne peut nier qu'elles ne soient tout à fait conformes à la vérité de l'histoire, puisqu'au Chapitre suivant, [36] les Philistins pour se garantir des rats qui ravageaient leur pays, mirent des figures d'or de ces animaux à côté de l'Arche.\nAu reste, le pays des Philistins n'est pas le seul qui ait été ravagé par les rats : Strabon [37] parle de la quantité de rats qu'on voyait en Espagne, qui désolaient les campagnes, et y causaient quelquefois la peste. Les Romains étant les maîtres de la Biscaye, donnaient une certaine récompense, à ceux qui leur apportaient un nombre de rats. On assure [38] que les habitants de l'Île de Gyare, une des Cyclades, et quelques peuples de la Troade et de l'Italie, furent autrefois contraints d'abandonner leur pays pour le grand nombre de rats qui y étaient. Mais sans nous éloigner du voisinage des Philistins, Bellon [39] raconte qu'il vit entre Gaza première ville de la Palestine, et Belba dernière de l'Égypte, des campagnes entières abandonnées à cause du grand nombre de rats ; et si la nature n'avait fait naître dans le même pays certains oiseaux nommés Boudrés, qui leur font la guerre, les habitants ne pourraient faire aucune semence, que ces animaux ne consommassent aussitôt."
     },
     {
       "verse": 8,
@@ -127,13 +134,6 @@
       "mode": "flow",
       "before": "} pour servir de monument de leur valeur, et du secours de",
       "after": "leurs dieux. On sait que toute l'antiquité a consacré à se"
-    },
-    {
-      "seam": "page_0132>page_0133",
-      "verse": 4,
-      "mode": "flow",
-      "before": "Le jour suivant",
-      "after": "_S'étant encore levés dès le matin._ Quelques Anciens ^{(a"
     },
     {
       "seam": "page_0133>page_0134",

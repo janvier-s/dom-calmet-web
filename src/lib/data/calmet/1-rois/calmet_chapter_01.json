@@ -131,7 +131,7 @@
       "sub": false,
       "latin_lemma": "INCLINAVIT SE, ET ADORAVIT.",
       "lemma": "Bethsabée se baissa, et s'inclina profondément devant le Roi.",
-      "text": "L'Hébreu :[40] _Elle fit une inclination, et elle se prosterna jusqu'en terre devant le Roi. Elle fit d'abord_ une inclination profonde, puis elle se prosterna le visage contre terre, lorsqu'elle fut plus près du Roi."
+      "text": "L'Hébreu :[40] _Elle fit une inclination, et elle se prosterna jusqu'en terre devant le Roi._ Elle fit d'abord une inclination profonde, puis elle se prosterna le visage contre terre, lorsqu'elle fut plus près du Roi."
     },
     {
       "verse": 20,
@@ -145,7 +145,7 @@
       "sub": false,
       "latin_lemma": "ERIMUS EGO ET FILIUS MEUS SALOMON PECCATORES.",
       "lemma": "Nous serons traités comme criminels, moi et mon fils Salomon.",
-      "text": "À la lettre: _Nous serons pécheurs, moi et mon fils Salomon._ nias nous fera mourir comme criminels d'État, pour avoir affecté le Royaume. [42] Salomon ayant de justes prétentions à la Couronne, fondées sur les promesses de Dieu, et sur les vôtres, on ne manquera pas de chercher des prétextes pour s'en défaire, comme d'un homme dangereux ; et je serai enveloppée dans son malheur. On peut aussi traduire ainsi l'Hébreu : [43] Moi et mon fils Salomon serons frustrés de nos espérances. [44] Pécher, manquer, se prennent quelquefois en ce sens. Enfin il y en a qui l'expliquent en ce sens : [45] Moi et mon fils nous serons traduits comme criminels ; moi comme adultère, et lui comme sorti d'un mauvais mariage."
+      "text": "À la lettre: _Nous serons pécheurs, moi et mon fils Salomon._ Adonias nous fera mourir comme criminels d'État, pour avoir affecté le Royaume. [42] Salomon ayant de justes prétentions à la Couronne, fondées sur les promesses de Dieu, et sur les vôtres, on ne manquera pas de chercher des prétextes pour s'en défaire, comme d'un homme dangereux ; et je serai enveloppée dans son malheur. On peut aussi traduire ainsi l'Hébreu : [43] Moi et mon fils Salomon serons frustrés de nos espérances. [44] Pécher, manquer, se prennent quelquefois en ce sens. Enfin il y en a qui l'expliquent en ce sens : [45] Moi et mon fils nous serons traduits comme criminels ; moi comme adultère, et lui comme sorti d'un mauvais mariage."
     },
     {
       "verse": 28,
@@ -187,14 +187,21 @@
       "sub": false,
       "latin_lemma": "SUBLIMIUS FACIAT SOLIUM EJUS A SOLIO DOMINI MEI REGIS.",
       "lemma": "Qu'il élève son trône encore plus que ne l'a été le trône de David mon Roi.",
-      "text": "Un Prince, quelque jaloux qu'il soit de sa grandeur, et de sa gloire, souffre qu'on souhaite encore plus de gloire, et de bonheur à son fils. [50]\nJam natus adequat\nTe meritis, et quòd magis est optabile, vincit."
+      "text": "Un Prince, quelque jaloux qu'il soit de sa grandeur, et de sa gloire, souffre qu'on souhaite encore plus de gloire, et de bonheur à son fils. [50]\n..._Jam natus adequat\nTe meritis, et quòd magis est optabile, vincit._"
     },
     {
       "verse": 39,
       "sub": false,
       "latin_lemma": "SUMPSIT SADOC SACERDOS CORNU OLEI DE TABERNACULO, ET UNXIT SALOMONEM.",
       "lemma": "Sadoc grand-",
-      "text": "_Prêtre, prit du Tabernacle une corne pleine d'huile, et sacra Salomon._ On mettait autrefois les liqueurs, et principalement l'huile, dans des vases de cornes, comme on l'a montré ailleurs.[51] La même huile qui servait à oindre les grands-Prêtres, et qui se conservait dans le Tabernacle, était aussi employée à donner l'onction aux Rois. Cette cérémonie ne se pratiqua que rarement dans la suite, depuis que le Royaume fut héréditaire dans la maison de David. On ne la faisait que lorsqu'il y avait quelque difficulté pour la succession. Salomon, Joas, et Joachaz, reçurent l'onction, parce qu'ils avaient des compétiteurs. Ce fut le grand-Prêtre Sadoc, assisté du Prophète Nathan, qui fit la cérémonie de l'onction de Salomon."
+      "text": ""
+    },
+    {
+      "verse": 39,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "Prêtre, prit du Tabernacle une corne pleine d'huile, et sacra Salomon.",
+      "text": "On mettait autrefois les liqueurs, et principalement l'huile, dans des vases de cornes, comme on l'a montré ailleurs.[51] La même huile qui servait à oindre les grands-Prêtres, et qui se conservait dans le Tabernacle, était aussi employée à donner l'onction aux Rois. Cette cérémonie ne se pratiqua que rarement dans la suite, depuis que le Royaume fut héréditaire dans la maison de David. On ne la faisait que lorsqu'il y avait quelque difficulté pour la succession. Salomon, Joas, et Joachaz, reçurent l'onction, parce qu'ils avaient des compétiteurs. Ce fut le grand-Prêtre Sadoc, assisté du Prophète Nathan, qui fit la cérémonie de l'onction de Salomon."
     },
     {
       "verse": 40,
@@ -299,8 +306,8 @@
     {
       "seam": "page_0067>page_0068",
       "verse": 9,
-      "mode": "mend",
-      "before": "nt qu'elle servait aux foulons à battre leurs étoffes sur.",
+      "mode": "flow",
+      "before": "ent qu'elle servait aux foulons à battre leurs étoffes sur",
       "after": "elle, après les avoir lavées. Vaines conjectures. La fonta"
     },
     {
@@ -314,14 +321,14 @@
       "seam": "page_0069>page_0070",
       "verse": 16,
       "mode": "flow",
-      "before": " prosterna jusqu'en terre devant le Roi. Elle fit d'abord_",
+      "before": " prosterna jusqu'en terre devant le Roi._ Elle fit d'abord",
       "after": "une inclination profonde, puis elle se prosterna le visage"
     },
     {
       "seam": "page_0070>page_0071",
       "verse": 21,
-      "mode": "flow",
-      "before": "a lettre: _Nous serons pécheurs, moi et mon fils Salomon._",
+      "mode": "splice",
+      "before": "tre: _Nous serons pécheurs, moi et mon fils Salomon._ Ado-",
       "after": "nias nous fera mourir comme criminels d'État, pour avoir a"
     },
     {
@@ -337,13 +344,6 @@
       "mode": "flow",
       "before": " est certain que Gihon est une fontaine, dont Ézéchias fit",
       "after": "venir les eaux dans la partie occidentale de la Cité de Da"
-    },
-    {
-      "seam": "page_0073>page_0074",
-      "verse": 39,
-      "mode": "splice",
-      "before": "Sadoc grand-",
-      "after": "_Prêtre, prit du Tabernacle une corne pleine d'huile, et s"
     },
     {
       "seam": "page_0074>page_0075",

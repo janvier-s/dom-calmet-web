@@ -1,15 +1,17 @@
 {
   "book": "Josué",
   "chapter": 1,
-  "chapter_summary": "_Josué encouragé par les promesses du Seigneur, fait avertir le peuple de se disposer au passage du Jourdain. Il ordonne aux Tribus de Ruben, de Gad et à la demi-tribu de Manassé de marcher en armes à la tête de leurs frères ; ce qu'ils promettent d'exécuter avec soumission._",
+  "chapter_summary": "Josué encouragé par les promesses du Seigneur, fait avertir le peuple de se disposer au passage du Jourdain. Il ordonne aux Tribus de Ruben, de Gad et à la demi-tribu de Manassé de marcher en armes à la tête de leurs frères ; ce qu'ils promettent d'exécuter avec soumission.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Et factum est post mortem Moysi servi Domini, ut loqueretur Dominus ad Josue filium Nun ministrum Moysi, et diceret ei:",
-      "french": "Et après la mort de Moïse serviteur de Dieu, le Seigneur parla à Josué fils de Nun, ministre de Moïse, et il lui dit :",
+      "latin": "Et factum est post mortem Moysi servi Domini, ut loqueretur Dominus ad Josue filium Nun ministrum Moysi, et diceret ei: Cecidit quoque sors filiorum Joseph ab Jordane contra Jericho, et aquas ejus ab oriente : solitudo quæ ascendit de Jericho ad montem Bethel :",
+      "french": "Et après la mort de Moïse serviteur de Dieu, le Seigneur parla à Josué fils de Nun, ministre de Moïse, et il lui dit : Le partage échu par sort aux enfants de Joseph, fut depuis cette partie du Jourdain, qui coule vis-à-vis de Jéricho, et depuis les eaux de cette ville vers l'orient, le désert qui monte de Jéricho à la montagne de Bethel.",
       "annotations": "An. du monde 2553. avant J. C. 1451.",
       "source_pages": [
-        "page_0065.json"
+        "page_0065.json",
+        "page_0297.json"
       ]
     },
     {

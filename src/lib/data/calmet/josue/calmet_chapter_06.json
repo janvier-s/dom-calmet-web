@@ -61,7 +61,14 @@
       "sub": false,
       "latin_lemma": "CUMQUE INSONUERIT VOX TUBÆ LONGIOR ATQUE CONCISIOR.",
       "lemma": "Et lorsque les trompettes sonneront d'un son plus long",
-      "text": "et plus coupé. À ne consulter que ce simple récit, il semblerait que l'on ne sonna de la trompette qu'à la fin du septième tour, qu'on fit le septième jour : mais le texte Hébreu marque assez clairement au ℣. 4. que l'on en sonna tous les sept jours, et toutes les fois qu'on fit le tour de la ville : ℣. 3. _Vous ferez six fois le tour de la ville, une fois chaque jour_ : ℣. 4. _Et sept Prêtres prendront les sept trompettes du Jubilé devant l'Arche, et le septième jour, ils feront sept fois le tour de la ville, et ils sonneront de la trompette._\nQuant à la manière dont on sonna de la trompette, la Vulgate semble enfermer quelque espèce de contradiction, lorsqu'elle nous parle d'un _son long et coupé_, longior atque concisior. Si ce son est long, comment est-il coupé ? L'Hébreu porte : [13] _Et lorsqu'on traînera dans la corne de Jobel_ ; lorsqu'on sonnera à longs traits. Les Septante l'ont pris tout simplement, et _lorsque la trompette de Jobel_ [14] _sonnera_ ; ce qui est suivi par quelques Interprètes, [15] qui croient qu'il n'y eut rien de différent dans la manière dont les Prêtres sonnèrent de la trompette, mais que Josué leur fit signe d'élever leur voix, lorsqu'il fut temps de crier. [16] Tout le peuple demeura dans le respect et dans le silence, tandis que les Prêtres, comme représentant le Seigneur, sonnaient de la trompette : [17] _Bienheureux le peuple qui sait entendre et distinguer la voix de la trompette_, dit le Psalmiste, _il marchera à la lumière de votre face_. Le son de la trompette était comme le signal de la présence de Dieu, et le symbole de sa voix. [18] Balaam faisait attention à cela, lorsqu'il disait en parlant du camp d'Israël : [19] _On y entend le son de la trompette, pour marque de la victoire de leur Roi._"
+      "text": ""
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "et plus coupé.",
+      "text": "À ne consulter que ce simple récit, il semblerait que l'on ne sonna de la trompette qu'à la fin du septième tour, qu'on fit le septième jour : mais le texte Hébreu marque assez clairement au ℣. 4. que l'on en sonna tous les sept jours, et toutes les fois qu'on fit le tour de la ville : ℣. 3. _Vous ferez six fois le tour de la ville, une fois chaque jour_ : ℣. 4. _Et sept Prêtres prendront les sept trompettes du Jubilé devant l'Arche, et le septième jour, ils feront sept fois le tour de la ville, et ils sonneront de la trompette._\nQuant à la manière dont on sonna de la trompette, la Vulgate semble enfermer quelque espèce de contradiction, lorsqu'elle nous parle d'un _son long et coupé_, longior atque concisior. Si ce son est long, comment est-il coupé ? L'Hébreu porte : [13] _Et lorsqu'on traînera dans la corne de Jobel_ ; lorsqu'on sonnera à longs traits. Les Septante l'ont pris tout simplement, et _lorsque la trompette de Jobel_ [14] _sonnera_ ; ce qui est suivi par quelques Interprètes, [15] qui croient qu'il n'y eut rien de différent dans la manière dont les Prêtres sonnèrent de la trompette, mais que Josué leur fit signe d'élever leur voix, lorsqu'il fut temps de crier. [16] Tout le peuple demeura dans le respect et dans le silence, tandis que les Prêtres, comme représentant le Seigneur, sonnaient de la trompette : [17] _Bienheureux le peuple qui sait entendre et distinguer la voix de la trompette_, dit le Psalmiste, _il marchera à la lumière de votre face_. Le son de la trompette était comme le signal de la présence de Dieu, et le symbole de sa voix. [18] Balaam faisait attention à cela, lorsqu'il disait en parlant du camp d'Israël : [19] _On y entend le son de la trompette, pour marque de la victoire de leur Roi._"
     },
     {
       "verse": 5,
@@ -197,13 +204,6 @@
       "mode": "splice",
       "before": "éens, des Cananéens, des Héthéens, des Gergéséens, des He-",
       "after": "véens, et des Jébuséens, ^{(a)} soit qu'ils en fussent anc"
-    },
-    {
-      "seam": "page_0134>page_0135",
-      "verse": 5,
-      "mode": "flow",
-      "before": "Et lorsque les trompettes sonneront d'un son plus long",
-      "after": "et plus coupé. À ne consulter que ce simple récit, il semb"
     },
     {
       "seam": "page_0135>page_0136",

@@ -194,7 +194,7 @@
       "sub": false,
       "latin_lemma": "QUAM OB CAUSAM NON COMEDUNT NERVUM FILII ISRÆL, QUI EMARCUIT IN FEMORE JACOB, ETC.",
       "lemma": "C'est pour cette raison que jusqu'aujourd'hui les enfants d'Israël ne mangent point du nerf qui se sécha dans la cuisse de Jacob.",
-      "text": "Cette abstinence n'est commandée par aucune loi aux Israélites. Les Hébreux ne s'abstiennent de ce nerf qu'en mémoire de ce qui arriva à Jacob. Plusieurs soutiennent même que cette observance n'a jamais été que de dévotion parmi eux. Moïse n'en dit rien dans les lois. Quelques Interprètes[52] croient que Samuel fit servir un quartier de derrière entier à Saül, lorsqu'il lui donna à manger, et qu'Elcana en donna un pareil à Anne son épouse. Aujourd'hui les Juifs ne mangent point ordinairement du quartier de derrière des animaux ; mais en quelques endroits ils se contentent d’en ôter le nerf qui est vers l’aine, et mangent tout le reste. Voyez Léon de Modène. Saint Chrysostome [47] remarque que la raison de cette coutume de ne pas manger le nerf de la cuisse était simplement pour conserver la mémoire de la lutte de Jacob avec l’Ange. La plupart des observances de la loi ancienne n’ont que des signes et des monuments des choses que Dieu a faites en faveur des Patriarches."
+      "text": "Cette abstinence n'est commandée par aucune loi aux Israélites. Les Hébreux ne s'abstiennent de ce nerf qu'en mémoire de ce qui arriva à Jacob. Plusieurs soutiennent même que cette observance n'a jamais été que de dévotion parmi eux. Moïse n'en dit rien dans les lois. Quelques Interprètes[52] croient que Samuel fit servir un quartier de derrière entier à Saül, lorsqu'il lui donna à manger, et qu'Elcana en donna un pareil à Anne son épouse. Aujourd'hui les Juifs ne mangent point ordinairement du quartier de derrière des animaux ; mais en quelques endroits ils se contentent d’en ôter le nerf qui est vers l’aine, et mangent tout le reste. Voyez Léon de Modène. Saint Chrysostome [47] remarque que la raison de cette coutume de ne pas manger le nerf de la cuisse était simplement pour conserver la mémoire de la lutte de Jacob avec l’Ange. La plupart des observances de la loi ancienne n’ont que des signes et des monuments des choses que Dieu a faites en faveur des Patriarches contentent d'en ôter le nerf qui est vers l'aine, et mangent tout le reste. Voyez Léon de Modène. Saint Jean Chrysostome[53] remarque que la raison de cette coutume de ne pas manger le nerf de la cuisse, était simplement pour conserver la mémoire de la lutte de Jacob avec l'Ange. La plupart des observances de la loi ancienne ne sont que des signes et des monuments des choses que Dieu a faites en faveur des Patriarches."
     }
   ],
   "joins": [
@@ -232,6 +232,13 @@
       "mode": "flow",
       "before": "e ce nom au chapitre 35:10. _Israël_ signifie un Prince de",
       "after": "Dieu^{(a)}, un grand Prince, ou un homme qui a surmonté Di"
+    },
+    {
+      "seam": "page_0734>page_0735",
+      "verse": 32,
+      "mode": "mend",
+      "before": "ts des choses que Dieu a faites en faveur des Patriarches.",
+      "after": "contentent d'en ôter le nerf qui est vers l'aine, et mange"
     }
   ],
   "pages_used": [
@@ -246,7 +253,8 @@
     "page_0731",
     "page_0732",
     "page_0733",
-    "page_0734"
+    "page_0734",
+    "page_0735"
   ],
   "footnotes": [
     {
@@ -508,6 +516,11 @@
       "key": "page_0734-f",
       "n": 52,
       "text": "Ligfoot."
+    },
+    {
+      "key": "page_0735-a",
+      "n": 53,
+      "text": "Chrysost. homil. LVIII. in Gen."
     }
   ],
   "missing_footnotes": []

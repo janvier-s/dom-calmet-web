@@ -32,15 +32,15 @@
       "verse": 6,
       "sub": false,
       "latin_lemma": "DEDIT EI SICELEG.",
-      "lemma": "Il lui donna Siceleg, ville située bien avant au midi de la tribu de Juda, pas loin d’Horma, ou Herma,[6] où les Israélites furent battus pendant leur voyage du désert.",
-      "text": "Cette ville demeura dans la suite aux Rois de Juda successeurs de David, soit à cause qu’elle lui avait été cédée en propre, ou que cette ville s’étant trouvée entre ses mains, lorsque la guerre commença entre les Philistins et les Israélites, ceux-ci soient demeurés en possession de ce qu’ils tenaient au commencement des troubles. Car selon les lois de la guerre, ce dont on se trouve saisi dans ces conjonctures, demeure au possesseur.[4]\nSiceleg avait été donnée d’abord à la tribu de Juda. Ensuite elle fut cédée à celle de Siméon.[5] Mais les Philistins s’en étaient rendus maîtres, et l’avaient conservée jusqu’à David. Alors elle fut rendue à la tribu de Juda. Ce que l’Auteur ajoute ici, que cette ville fut aux Rois de Juda jusqu’à son temps, fait voir qu’il a vécu un temps considérable après Samuel, qui était déjà mort lorsque ceci arriva."
+      "lemma": "Il lui donna Siceleg,",
+      "text": "ville située bien avant au midi de la tribu de Juda, pas loin d’Horma, ou Herma,[4] où les Israélites furent battus pendant leur voyage du désert. Cette ville demeura dans la suite aux Rois de Juda successeurs de David, soit à cause qu’elle lui avait été cédée en propre, ou que cette ville s’étant trouvée entre ses mains, lorsque la guerre commença entre les Philistins et les Israélites, ceux-ci soient demeurés en possession de ce qu’ils tenaient au commencement des troubles. Car selon les lois de la guerre, ce dont on se trouve saisi dans ces conjonctures, demeure au possesseur.[5]\nSiceleg avait été donnée d’abord à la tribu de Juda. Ensuite elle fut cédée à celle de Siméon.[6] Mais les Philistins s’en étaient rendus maîtres, et l’avaient conservée jusqu’à David. Alors elle fut rendue à la tribu de Juda. Ce que l’Auteur ajoute ici, que cette ville fut aux Rois de Juda jusqu’à son temps, fait voir qu’il a vécu un temps considérable après Samuel, qui était déjà mort lorsque ceci arriva."
     },
     {
       "verse": 7,
       "sub": false,
       "latin_lemma": "QUATUOR MENSIUM.",
       "lemma": "Quatre mois.",
-      "text": "L’Hébreu :[7] _Des jours, et quatre mois._ La plupart des Interprètes[8] l’expliquent d’un an, et de quatre mois. Il ne faut pas moins que ce temps, pour exécuter tout ce que David fit chez les Philistins. D’autres :[9] _Quatre mois, et quelques jours ; ou, quelques jours, c’est-à-dire, quatre mois ; ou, quatre mois, et une semaine._ Je voudrais distinguer le temps que David passa parmi les Philistins à Geth, de celui qu’il fut à Siceleg. Je crois qu’il fut quatre mois à Geth, et un peu plus d’un an à Siceleg. Tout ce que nous lisons dans ce Chapitre, arriva pendant que David était encore à Geth. Cela paraît visiblement par les versets 9, 11.\n\n10 & 11 où il est dit que David, au retour de ses expéditions, revenait vers Achis, et lui rendait compte de son voyage ; et qu'il ne laissait personne en vie de tous ceux qu'il prenait, de peur qu'ils ne parlassent au Roi contre lui. Voyez ci-après le Chap. XXIX. 3."
+      "text": "L’Hébreu :[7] _Des jours, et quatre mois._ La plupart des Interprètes[8] l’expliquent d’un an, et de quatre mois. Il ne faut pas moins que ce temps, pour exécuter tout ce que David fit chez les Philistins. D’autres :[9] _Quatre mois, et quelques jours ; ou, quelques jours, c’est-à-dire, quatre mois ; ou, quatre mois, et une semaine._ Je voudrais distinguer le temps que David passa parmi les Philistins à Geth, de celui qu’il fut à Siceleg. Je crois qu’il fut quatre mois à Geth, et un peu plus d’un an à Siceleg. Tout ce que nous lisons dans ce Chapitre, arriva pendant que David était encore à Geth. Cela paraît visiblement par les versets 9, 11.\n\n10 et 11 où il est dit que David, au retour de ses expéditions, revenait vers Achis, et lui rendait compte de son voyage ; et qu'il ne laissait personne en vie de tous ceux qu'il prenait, de peur qu'ils ne parlassent au Roi contre lui. Voyez ci-après le Chap. XXIX. 3."
     },
     {
       "verse": 8,
@@ -82,7 +82,7 @@
       "sub": false,
       "latin_lemma": "MULTA MALA OPERATUS EST.",
       "lemma": "Il a fait de grands maux à Israël.",
-      "text": "L'Hébreu : [15] _Il s'est rendu de mauvaise odeur à son peuple._ Expression fort significative, dont on a déjà remarqué ci-devant quelques exemples. [16] Les Septante : _il est chargé de confusion dans son peuple, ou parmi les siens._"
+      "text": "L'Hébreu : [15] _Il s'est rendu de mauvaise odeur à son peuple._ Expression fort significative, dont on a déjà remarqué ci-devant quelques exemples. [16] Les Septante :[17] _il est chargé de confusion dans son peuple, ou parmi les siens._"
     }
   ],
   "joins": [
@@ -105,7 +105,7 @@
       "verse": 7,
       "mode": "para",
       "before": "ore à Geth. Cela paraît visiblement par les versets 9, 11.",
-      "after": "10 & 11 où il est dit que David, au retour de ses expéditi"
+      "after": "10 et 11 où il est dit que David, au retour de ses expédit"
     },
     {
       "seam": "page_0423>page_0424",
@@ -141,19 +141,19 @@
       "text": "Vide I. Par. XII. 1. 2. et sequ."
     },
     {
-      "key": "page_0422-b",
+      "key": "page_0422-a",
       "n": 4,
+      "text": "Voyez Josué XIX 4."
+    },
+    {
+      "key": "page_0422-b",
+      "n": 5,
       "text": "Grot. hic. Ubi citat. L. Transfuga 1. D. de acquisit."
     },
     {
       "key": "page_0422-c",
-      "n": 5,
-      "text": "Vide Josue XV. 31. et XIX. 5."
-    },
-    {
-      "key": "page_0422-a",
       "n": 6,
-      "text": "Voyez Josué XIX 4."
+      "text": "Vide Josue XV. 31. et XIX. 5."
     },
     {
       "key": "page_0422-d",
@@ -196,14 +196,19 @@
       "text": "Vide Judic. I. 16."
     },
     {
-      "key": "page_0425-c",
+      "key": "page_0425-a",
       "n": 15,
-      "text": "1 Reg. XIII. 4."
+      "text": "[UNCERTAIN HEBREW]"
     },
     {
-      "key": "page_0425-d",
+      "key": "page_0425-b",
       "n": 16,
-      "text": "[UNCERTAIN GREEK]"
+      "text": "Genes. XXXIV. 30. Exod. V. 21. et i."
+    },
+    {
+      "key": "page_0425-c",
+      "n": 17,
+      "text": "1 Reg. XIII. 4."
     }
   ],
   "missing_footnotes": []

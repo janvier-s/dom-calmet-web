@@ -53,8 +53,8 @@
       "verse": 9,
       "sub": false,
       "latin_lemma": "TRADIDI EOS.",
-      "lemma": "Je les ai livrés ; je les livrerai, je suis résolu, je vous promets de les livrer.",
-      "text": ""
+      "lemma": "Je les ai livrés ;",
+      "text": "je les livrerai, je suis résolu, je vous promets de les livrer."
     },
     {
       "verse": 11,
@@ -145,7 +145,14 @@
       "sub": false,
       "latin_lemma": "OCCUPATE AQUAS USQUE BETH-BERA.",
       "lemma": "Saisissez-vous",
-      "text": "des eaux jusqu'à Beth-béra. Saisissez-vous de tous les gués du Jourdain, depuis Bethsan, qui est près du lieu où le Jourdain sort du lac de Génésareth, jusqu'à Beth-béra, ou Bet-abara, ville connue dans l'Évangile, [35] et située au-delà du Jourdain, à l'endroit, dit-on, où les Israélites passèrent ce fleuve sous Josué. [36] Il ne paraît pas par l'Écriture qu'il y ait eu de ponts sur le Jourdain, ni même de barques pour le passer ; mais il y avait des gués en divers endroits ; on le passait aisément pendant l'été, car le fleuve n'est pas grand ; mais vers le temps de la moisson, lorsqu'il est plus enflé, on pouvait le passer sur des chameaux, dont il y avait un très grand nombre dans l'armée de Madian, et des Orientaux."
+      "text": ""
+    },
+    {
+      "verse": 24,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "des eaux jusqu'à Beth-béra.",
+      "text": "Saisissez-vous de tous les gués du Jourdain, depuis Bethsan, qui est près du lieu où le Jourdain sort du lac de Génésareth, jusqu'à Beth-béra, ou Bet-abara, ville connue dans l'Évangile, [35] et située au-delà du Jourdain, à l'endroit, dit-on, où les Israélites passèrent ce fleuve sous Josué. [36] Il ne paraît pas par l'Écriture qu'il y ait eu de ponts sur le Jourdain, ni même de barques pour le passer ; mais il y avait des gués en divers endroits ; on le passait aisément pendant l'été, car le fleuve n'est pas grand ; mais vers le temps de la moisson, lorsqu'il est plus enflé, on pouvait le passer sur des chameaux, dont il y avait un très grand nombre dans l'armée de Madian, et des Orientaux."
     },
     {
       "verse": 25,
@@ -218,13 +225,6 @@
       "mode": "splice",
       "before": " dans le camp ; ainsi ils prenaient tout ce qu'ils rencon-",
       "after": "traient pour autant d'ennemis, et ils frappaient indiffére"
-    },
-    {
-      "seam": "page_0151>page_0152",
-      "verse": 24,
-      "mode": "flow",
-      "before": "Saisissez-vous",
-      "after": "des eaux jusqu'à Beth-béra. Saisissez-vous de tous les gué"
     }
   ],
   "pages_used": [

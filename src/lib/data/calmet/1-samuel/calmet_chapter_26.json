@@ -40,7 +40,14 @@
       "sub": false,
       "latin_lemma": "QUIS EXTENDET MANUM SUAM IN CHRISTUM DOMINI, ET INNOCENS ERIT?",
       "lemma": "Qui étendra sa main",
-      "text": "sur l'Oint du Seigneur, et sera innocent? Quelque injuste que fût Saül, et quelque sujet qu'eût David de ne le pas aimer, il ne croyait pas pouvoir porter ses mains sur lui. David était particulier, Saül était Roi. On doit toujours conserver un souverain respect pour l'autorité dont les Princes sont revêtus; leur caractère rend leurs personnes inviolables, quand même ils seraient tyrans, usurpateurs, injustes, et aussi méchants que Saül. Les peuples d'Orient ont une si profonde vénération pour leurs Rois, qu'ils leur obéissent à l'aveugle, et rien n'y est plus rare que les soulèvements, et les meurtres des Rois, dont on trouve tant d'exemples dans l'Histoire Romaine, dans celle d'Angleterre, et même dans celle de France."
+      "text": ""
+    },
+    {
+      "verse": 9,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "sur l'Oint du Seigneur, et sera innocent ?",
+      "text": "Quelque injuste que fût Saül, et quelque sujet qu'eût David de ne pas l'aimer, il ne croyait pas pouvoir porter ses mains sur lui. David était particulier, Saül était Roi. On doit toujours conserver un souverain respect pour l'autorité dont les Princes sont revêtus ; leur caractère rend leurs personnes inviolables, quand même ils seraient tyrans, usurpateurs, injustes, et aussi méchants que Saül. Les peuples d'Orient ont une si profonde vénération pour leurs Rois, qu'ils leur obéissent à l'aveugle, et rien n'y est plus rare que les soulèvements, et les meurtres des Rois, dont on trouve tant d'exemples dans l'Histoire romaine, dans celle d'Angleterre, et même dans celle de France."
     },
     {
       "verse": 10,
@@ -54,7 +61,7 @@
       "sub": false,
       "latin_lemma": "SCYPHUM AQUÆ.",
       "lemma": "Sa coupe.",
-      "text": "L'Hébreu à la lettre : [13] _Un vase d'eau_. Un pot plein d'eau pour boire, pour se rafraîchir, suivant l'usage du pays chaud; ou pour se purifier en se levant. [14] Le terme de l'original se dit des vases à mettre de l'eau, ou de l'huile. [15] Il y en a [16] qui veulent que ç'ait été un pot de commodité chose assez inutile dans un camp. D’autres[17] raffinent encore davantage, en disant que c’était une clepsydre, ou horloge à eau, comme si dès lors on s’en fût servi à la guerre."
+      "text": "L'hébreu à la lettre : [13] _Un vase d'eau_. Un pot plein d'eau pour boire, pour se rafraîchir, suivant l'usage du pays chaud ; ou pour se purifier en se levant. [14] Le terme de l'original se dit des vases à mettre de l'eau, ou de l'huile. [15] Il y en a [16] qui veulent que ç'ait été un pot de commodité, chose assez inutile dans un camp. D’autres[17] raffinent encore davantage, en disant que c’était une clepsydre, ou horloge à eau, comme si dès lors on s’en fût servi à la guerre."
     },
     {
       "verse": 12,
@@ -117,7 +124,7 @@
       "sub": false,
       "latin_lemma": "EO QUOD PRETIOSA FUERIT ANIMA MEA.",
       "lemma": "Parce que ma vie a été précieuse devant vos yeux.",
-      "text": "On estime et on conserve avec les choses rares et précieuses. Une vie chère et précieuse, est celle qu'on ménage, et qu'on conserve avec des soins et des applications extraordinaires. Telle était la vie de Saül devant David. L'Écriture emploie souvent cette expression. Ochozias Roi d'Israël ayant envoyé un officier pour se saisir d'Élie, ce Prophète fit descendre du feu du ciel, qui consuma l'officier, et sa compagnie de cinquante hommes ; [28] le Roi y en envoya un second, qui fut consumé de même ; enfin il en envoya un troisième qui se jeta au pied du Prophète, et lui dit : _Que mon ame, je vous prie, et les ames de ces gens que voici, saient précieuses à vos yeux._ Le Psalmiste parlant de la mort violente des justes, dit que leur rachat, [29] etc. que leur sang [30] sont précieux aux yeux de Dieu ; qu'il les vengera, comme on venge l'enlèvement d'une chose riche et précieuse. Les Prophètes pour marquer l'estime que Dieu fait de son peuple, le soin qu'il prend de sa conservation, et la douleur qu'il conçoit de sa perte, disent que ce peuple est précieux devant lui ; [31] qu'Éphraïm est pour lui un fils précieux, [32] que les fils de Sion lui sont chers et précieux. [33]"
+      "text": "On estime et on conserve avec les choses rares et précieuses. Une vie chère et précieuse, est celle qu'on ménage, et qu'on conserve avec des soins et des applications extraordinaires. Telle était la vie de Saül devant David. L'Écriture emploie souvent cette expression. Ochozias Roi d'Israël ayant envoyé un officier pour se saisir d'Élie, ce Prophète fit descendre du feu du ciel, qui consuma l'officier, et sa compagnie de cinquante hommes ; [28] le Roi y en envoya un second, qui fut consumé de même ; enfin il en envoya un troisième qui se jeta au pied du Prophète, et lui dit : _Que mon âme, je vous prie, et les âmes de ces gens que voici, soient précieuses à vos yeux._ Le Psalmiste parlant de la mort violente des justes, dit que leur rachat, [29] et que leur sang [30] sont précieux aux yeux de Dieu ; qu'il les vengera, comme on venge l'enlèvement d'une chose riche et précieuse. Les Prophètes pour marquer l'estime que Dieu fait de son peuple, le soin qu'il prend de sa conservation, et la douleur qu'il conçoit de sa perte, disent que ce peuple est précieux devant lui ; [31] qu'Éphraïm est pour lui un fils précieux, [32] que les fils de Sion lui sont chers et précieux. [33]"
     },
     {
       "verse": 21,
@@ -138,8 +145,8 @@
     {
       "seam": "page_0409>page_0410",
       "verse": 1,
-      "mode": "mend",
-      "before": "e_0409-b} _à la droite du désert_ ; apparemment du désert.",
+      "mode": "flow",
+      "before": "ge_0409-b} _à la droite du désert_ ; apparemment du désert",
       "after": "de Ziph, puisque c'étaient les Ziphéens qui parlaient. L'H"
     },
     {
@@ -150,17 +157,10 @@
       "after": "fichée en terre à son chevet, ce qui ne serait pas si aisé"
     },
     {
-      "seam": "page_0411>page_0412",
-      "verse": 9,
-      "mode": "flow",
-      "before": "Qui étendra sa main",
-      "after": "sur l'Oint du Seigneur, et sera innocent? Quelque injuste "
-    },
-    {
       "seam": "page_0412>page_0413",
       "verse": 11,
-      "mode": "mend",
-      "before": "age_0412-e} qui veulent que ç'ait été un pot de commodité.",
+      "mode": "flow",
+      "before": "age_0412-e} qui veulent que ç'ait été un pot de commodité,",
       "after": "chose assez inutile dans un camp. D’autres^{(a)} raffinent"
     },
     {

@@ -1,7 +1,8 @@
 {
   "book": "Juges",
   "chapter": 17,
-  "chapter_summary": "_Michas rend à sa mère une somme d'onze cents sicles : Elle consacre cet argent à Dieu, en fait faire des ornements, et une idole, et met tout cela dans la maison de Michas. Celui-ci établit Prêtre un de ses fils, puis un Lévite de Bethlehem qui se trouva par hasard dans sa maison._",
+  "chapter_summary": "Michas rend à sa mère une somme d'onze cents sicles : Elle consacre cet argent à Dieu, en fait faire des ornements, et une idole, et met tout cela dans la maison de Michas. Celui-ci établit Prêtre un de ses fils, puis un Lévite de Bethlehem qui se trouva par hasard dans sa maison.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -109,6 +110,15 @@
       "annotations": null,
       "source_pages": [
         "page_0301.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Nunc scio, dicens, quòd benefaciet mihi Deus habenti Levitici generis sacerdotem.",
+      "french": "Car maintenant, disait-il, je sais que Dieu me fera du bien ; puisque j’ai chez moi un Prêtre de la race de Lévi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0302.json"
       ]
     }
   ]

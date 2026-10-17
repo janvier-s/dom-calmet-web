@@ -4,8 +4,8 @@
       "verse": 1,
       "sub": false,
       "latin_lemma": "POST MORTEM AOD.",
-      "lemma": "Après la mort d'Aod, et sous le gouvernement de Samgar, dont le temps fut court, et dont l'autorité ne fut pas fort étendue, puisqu'elle se bornait apparemment aux tribus de Juda, de Dan et de Siméon, voisins des Philistins.",
-      "text": "Dans le chapitre suivant [1] Débora dit que sous ce Juge, le pays était dans l'oppression, et les chemins étaient abandonnés, qu'on n'osait marcher que par des sentiers écartés, de peur de tomber entre les mains des voleurs et des ennemis. Samgar ne signala sa valeur que contre une troupe de Philistins ; il n'osa attaquer les Cananéens qui opprimaient Israël de delà le torrent de Cison. Il ne faut pas s'étonner si ayant aussi peu d'autorité et de pouvoir, il ne put arrêter le désordre et l'idolâtrie des Israélites, surtout dans les lieux où son empire ne s'étendait pas."
+      "lemma": "Après la mort d'Aod,",
+      "text": "et sous le gouvernement de Samgar, dont le temps fut court, et dont l'autorité ne fut pas fort étendue, puisqu'elle se bornait apparemment aux tribus de Juda, de Dan et de Siméon, voisins des Philistins. Dans le chapitre suivant [1] Débora dit que sous ce Juge, le pays était dans l'oppression, et les chemins étaient abandonnés, qu'on n'osait marcher que par des sentiers écartés, de peur de tomber entre les mains des voleurs et des ennemis. Samgar ne signala sa valeur que contre une troupe de Philistins ; il n'osa attaquer les Cananéens qui opprimaient Israël de delà le torrent de Cison. Il ne faut pas s'étonner si ayant aussi peu d'autorité et de pouvoir, il ne put arrêter le désordre et l'idolâtrie des Israélites, surtout dans les lieux où son empire ne s'étendait pas."
     },
     {
       "verse": 2,
@@ -54,7 +54,14 @@
       "sub": false,
       "latin_lemma": "VOCAVIT BARAC FILIUM ABINOEM DE CEDES",
       "lemma": null,
-      "text": "NEPHTALI. Elle envoya vers Barac fils d'Abinoëm de Cédés de Nephtali. On a déjà rapporté ci-devant les différentes conjectures qu'on a formées sur la personne de Barac. Il était de la tribu de Nephtali, et demeurait à Cédés, ou Cadés, appelée d'ordinaire Cédés de Nephtali, pour la distinguer de quelques autres villes de même nom, dans d'autres endroits."
+      "text": ""
+    },
+    {
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": "NEPHTALI.",
+      "lemma": "Elle envoya vers Barac fils d'Abinoëm de Cédés de Nephtali.",
+      "text": "On a déjà rapporté ci-devant les différentes conjectures qu'on a formées sur la personne de Barac. Il était de la tribu de Nephtali, et demeurait à Cédés, ou Cadés, appelée d'ordinaire Cédés de Nephtali, pour la distinguer de quelques autres villes de même nom, dans d'autres endroits."
     },
     {
       "verse": 6,
@@ -136,14 +143,14 @@
     {
       "verse": 18,
       "sub": false,
-      "latin_lemma": "Opertus ab ea pallio.",
+      "latin_lemma": "OPERTUS AB EA PALLIO.",
       "lemma": "Elle le couvrit d'un manteau.",
       "text": "On traduit l'Hébreu [49] par, une couverture de lit, ou un tapis, un habit gros et velu; _calcitra_, ou _stragula villosa_, ou _lacerna, penula, amphitapa_. Une étoffe velue des deux côtés. [50] Le mot Hébreu _Schmicah_, ne se trouve qu'en ce seul endroit du Texte."
     },
     {
       "verse": 19,
       "sub": false,
-      "latin_lemma": "Quæ aperuit utrem lactis, et dedit ei bibere.",
+      "latin_lemma": "QUÆ APERUIT UTREM LACTIS, ET DEDIT EI BIBERE.",
       "lemma": "Elle apporta une outre pleine de lait, et lui en donna.",
       "text": "Les Orientaux se servent beaucoup de ces vases faits de peaux, pour mettre les liqueurs. Josèphe [51] et les Rabbins disent, qu'elle lui donna du lait aigre ; ce qui est conforme à l'usage des Orientaux, qui usent pour leur boisson d'un certain lait aigre qu'ils font par artifice, et qui est différent du nôtre, en ce qu'il n'est point si liquide. Strabon dit que les Arabes Nomades en usaient autrefois beaucoup, et que c'était un de leurs mets les plus délicieux. Pietro della Valle, dit qu'encore aujourd'hui les Arabes usent beaucoup de lait, plutôt aigre que doux pour leur boisson.\nOn lit ci-après au Chap. v. ℣. 25. _Lorsque Sisara lui demanda de l'eau, elle lui donna du lait, elle lui présenta de la crème dans un vase digne d'un Prince._ L'Hébreu porte, qu'elle lui donna à boire dans un sympule, [52] qui est un vase avec un manche adhérent, avec lequel l'on puise dans les vaisseaux creux, sans toucher la liqueur avec la main. C'est apparemment par honneur qu'elle donna du lait à Sisara, plutôt que de l'eau ; ou peut-être qu'elle crut le lait plus propre à le rafraîchir, ou à l'assoupir, supposé qu'elle eût déjà conçu la volonté de le tuer. Il y en a [53] qui croient que les Cinéens ne buvaient point de vin, parce que les Réchabites, qui étaient descendus de ces peuples, n'en usaient point du temps de Jérémie ; [54] et longtemps auparavant. Mais je ne pense pas que cela fût général pour tous les Cinéens, ni que cet usage fût déjà commun du temps d'Haber."
     },
@@ -183,13 +190,6 @@
       "mode": "flow",
       "before": " plutôt une oppression et une tyrannie, qu'un gouvernement",
       "after": "légitime. Le Droit Romain tant en orient, qu'en occident e"
-    },
-    {
-      "seam": "page_0086>page_0087",
-      "verse": 6,
-      "mode": "flow",
-      "before": "",
-      "after": "NEPHTALI. Elle envoya vers Barac fils d'Abinoëm de Cédés d"
     },
     {
       "seam": "page_0087>page_0088",

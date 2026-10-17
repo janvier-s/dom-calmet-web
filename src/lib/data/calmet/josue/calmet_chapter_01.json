@@ -82,7 +82,7 @@
       "sub": false,
       "latin_lemma": "UT INTELLIGAS CUNCTA QUÆ AGIS.",
       "lemma": "Afin que vous fassiez avec intelligence tout ce que vous avez à faire.",
-      "text": "Les Septante [23] et plusieurs bons Interprètes [24] suivent ce sens : _Afin que vous vous con_ duisiez avec prudence dans toutes vos entreprises. Mais d’autres traduisent : [25] _Afin que vous réussissiez dans tout ce que vous ferez_, ou dans tous les lieux où vous irez. Il est certain que le même terme de l’original se prend quelquefois pour _réussir_, et plus souvent pour _être prudent_. On trouve la même expression au verset 8."
+      "text": "Les Septante [23] et plusieurs bons Interprètes [24] suivent ce sens : Afin que vous vous con duisiez avec prudence dans toutes vos entreprises. Mais d’autres traduisent : [25] _Afin que vous réussissiez dans tout ce que vous ferez_, ou dans tous les lieux où vous irez. Il est certain que le même terme de l’original se prend quelquefois pour _réussir_, et plus souvent pour _être prudent_. On trouve la même expression au verset 8."
     },
     {
       "verse": 8,
@@ -202,7 +202,7 @@
       "seam": "page_0071>page_0072",
       "verse": 7,
       "mode": "flow",
-      "before": "fn:page_0071-g} suivent ce sens : _Afin que vous vous con_",
+      "before": "^{fn:page_0071-g} suivent ce sens : Afin que vous vous con",
       "after": "duisiez avec prudence dans toutes vos entreprises. Mais d’"
     },
     {

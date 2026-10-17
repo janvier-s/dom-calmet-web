@@ -31,9 +31,16 @@
     {
       "verse": 4,
       "sub": false,
-      "latin_lemma": "COMEDENS CUM EO, ET BIBENS FAMILIARITER",
+      "latin_lemma": "COMEDENS CUM EO, ET BIBENS FAMILIARITER.",
       "lemma": null,
-      "text": "Mangeant et buvant ensemble avec beaucoup de familiarité. L'Hébreu porte : Ils burent, ils mangèrent, et ils passèrent la nuit en cet endroit."
+      "text": ""
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "Mangeant et buvant ensemble avec beaucoup de familiarité.",
+      "text": "L'Hébreu porte : Ils burent, ils mangèrent, et ils passèrent la nuit en cet endroit."
     },
     {
       "verse": 8,
@@ -47,7 +54,7 @@
       "sub": false,
       "latin_lemma": "CONSIDERA QUOD DIES AD OCCASUM PROCLIVIOR SIT, ET APPROPINQUAT AD VESPERUM.",
       "lemma": "Considérez que le jour est fort avancé, et que le soir approche.",
-      "text": "Le texte Hébreu est plus embarrassé : [17] _Voilà que le jour s'abaisse vers le soir, demeurez ici, je vous prie, voilà le campement du jour._ Ou _voilà la fin du jour, le temps auquel on doit se reposer, auquel les soldats et les voyageurs déplient leurs tentes ; ou bien, le temps auquel le soleil se retire dans son gîte.\n\nLes Septante : [18] _Voilà le jour qui s'abaisse vers le soir, demeurez ici encore aujourd'hui.__"
+      "text": "Le texte Hébreu est plus embarrassé : [17] _Voilà que le jour s'abaisse vers le soir, demeurez ici, je vous prie, voilà le campement du jour._ Ou voilà la fin du jour, le temps auquel on doit se reposer, auquel les soldats et les voyageurs déplient leurs tentes ; ou bien, le temps auquel le soleil se retire dans son gîte.\n\nLes Septante : [18] _Voilà le jour qui s'abaisse vers le soir, demeurez ici encore aujourd'hui._"
     },
     {
       "verse": 10,
@@ -137,8 +144,8 @@
       "verse": 26,
       "sub": false,
       "latin_lemma": "IN DUODECIM PARTES CONCIDIT.",
-      "lemma": "Il divisa le corps de sa femme en douze parts, et il en envoya une part à chacune des douze tribus.",
-      "text": "Quelques-uns croient qu'il n'en envoya point à celle de Benjamin, parce que le crime avait été commis dans une de leurs villes ; mais qu'il en envoya deux à la tribu de Manassé, qui était partagée en deux parties, qui demeuraient séparément, l'une au-deçà, et l'autre au-delà du Jourdain. Mais pourquoi n'en pas envoyer aussi dans Benjamin, afin qu'ils tirassent eux-mêmes vengeance d'un crime, dont la honte retombait sur toute leur tribu ? L'état où vivaient alors les Israélites, sans Roi, et sans Juge, permettait à ce Lévite de prendre cette voie si extraordinaire, pour inviter toutes les tribus à venger un si sanglant outrage, et une action si atroce."
+      "lemma": "Il divisa le corps de sa femme en douze parts,",
+      "text": "et il en envoya une part à chacune des douze tribus. Quelques-uns croient qu'il n'en envoya point à celle de Benjamin, parce que le crime avait été commis dans une de leurs villes ; mais qu'il en envoya deux à la tribu de Manassé, qui était partagée en deux parties, qui demeuraient séparément, l'une au-deçà, et l'autre au-delà du Jourdain. Mais pourquoi n'en pas envoyer aussi dans Benjamin, afin qu'ils tirassent eux-mêmes vengeance d'un crime, dont la honte retombait sur toute leur tribu ? L'état où vivaient alors les Israélites, sans Roi, et sans Juge, permettait à ce Lévite de prendre cette voie si extraordinaire, pour inviter toutes les tribus à venger un si sanglant outrage, et une action si atroce."
     }
   ],
   "joins": [
@@ -157,13 +164,6 @@
       "after": "et sans lui donner la dot. ^{(a)} Encore aujourd'hui parmi"
     },
     {
-      "seam": "page_0318>page_0319",
-      "verse": 4,
-      "mode": "flow",
-      "before": "",
-      "after": "Mangeant et buvant ensemble avec beaucoup de familiarité. "
-    },
-    {
       "seam": "page_0319>page_0320",
       "verse": 9,
       "mode": "para",
@@ -180,8 +180,8 @@
     {
       "seam": "page_0321>page_0322",
       "verse": 19,
-      "mode": "mend",
-      "before": "ec le grain ; c'est apparemment ce qui est appelé _migma_.",
+      "mode": "flow",
+      "before": "vec le grain ; c'est apparemment ce qui est appelé _migma_",
       "after": "dans Isaïe, ^{(a)} et _farrago_ dans les Auteurs Latins. ^"
     },
     {

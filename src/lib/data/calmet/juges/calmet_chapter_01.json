@@ -116,8 +116,8 @@
       "verse": 16,
       "sub": false,
       "latin_lemma": "ET HABITAVERUNT CUM EO.",
-      "lemma": "Ils demeurèrent avec eux, avec ceux d'Arad, ou avec ceux de Juda, qui occupèrent le pays d'Arad.",
-      "text": "Je préférerais le premier sens, en prenant Arad comme une ville voisine des Amalécites. Les enfants de Juda ayant assujetti ce pays, l'abandonnèrent aux Cinéens descendus de Jéthro, lesquels y demeurèrent mêlés avec les anciens habitants."
+      "lemma": "Ils demeurèrent avec eux,",
+      "text": "avec ceux d'Arad, ou avec ceux de Juda, qui occupèrent le pays d'Arad. Je préférerais le premier sens, en prenant Arad comme une ville voisine des Amalécites. Les enfants de Juda ayant assujetti ce pays, l'abandonnèrent aux Cinéens descendus de Jéthro, lesquels y demeurèrent mêlés avec les anciens habitants."
     },
     {
       "verse": 17,
@@ -166,26 +166,33 @@
       "sub": false,
       "latin_lemma": "DOMUS JOSEPH ASCENDIT IN BETHEL.",
       "lemma": "La maison",
-      "text": "de Joseph marcha contre Béthel. C'est-à-dire, la tribu d'Éphraïm, et la demi-tribu de Manassé, qui demeurait au-deçà du Jourdain, attaquèrent Béthel, qui était dans leur partage.[47] Cette ville n'avait pas été prise par Josué, quoiqu'il eût pris Haï, qui en était fort voisine.[48]"
+      "text": ""
+    },
+    {
+      "verse": 22,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "de Joseph marcha contre Béthel.",
+      "text": "C'est-à-dire, la tribu d'Éphraïm, et la demi-tribu de Manassé, qui demeurait au-deçà du Jourdain, attaquèrent Béthel, qui était dans leur partage.[47] Cette ville n'avait pas été prise par Josué, quoiqu'il eût pris Haï, qui en était fort voisine.[48]"
     },
     {
       "verse": 23,
       "sub": false,
       "latin_lemma": "CUM OBSIDERENT URBEM.",
       "lemma": "Lorsqu'ils assiégeaient la ville.",
-      "text": "Le Texte porte :[49] Et comme ils faisaient observer, ou épier Béthel ; ayant envoyé des espions contre elle pour en considérer les avenues, et pour en savoir les endroits les plus faibles ; ou même étant venus tous ensemble à la sourdine, comme des espions pendant la nuit, pour surprendre Béthel, ils trouvèrent un homme à qui ils promirent de donner la vie et une riche récompense, s'il voulait leur montrer quelque entrée pour se glisser dans la ville ; _Ostende nobis introitum civitatis, et faciemus tecum misericordiam._ Montrez-nous l'endroit le plus faible des murailles, et nous vous en récompenserons bien. Les Hébreux purent user de ce moyen pour se rendre maîtres d'une ville qui était à eux ; ils purent promettre la vie et une récompense à cet homme, quoique lui et tous les Cananéens fussent maudits et dévoués à l'anathème ; ils avaient l'exemple de Rahab et des Gabaonites à qui on avait pardonné ; et on peut croire qu'il ne fut reçu, que sous la condition de changer de Religion, ou de quitter le pays, comme il fit.\nIl est plus difficile de justifier cet homme qui livre sa ville aux Israélites ; on ne peut guère le considérer que comme un traître à sa patrie, qui vend la vie et les biens de tous ses citoyens, pour conserver sa propre vie, et pour mériter quelque récompense. Quoique nous ne devions pas nous mettre beaucoup en peine de répondre de sa conduite, et de justifier son action, qui ne sont approuvées en aucun endroit de l'Écriture, néanmoins comme ce Cananéen pouvait être instruit du décret de Dieu, qui avait condamné tous ces peuples à l'anathème, et qui avait abandonné toute la terre aux Israélites, on peut dire qu'il était obligé d'entrer dans les vues de Dieu, et de contribuer à l'exécution de ses desseins en faveur des Israélites. Si les enfants de Joseph eussent certainement connu cet homme dans des sentiments et des dispositions contraires, ils n'auraient pas dû le contraindre, ni par force, ni par menaces, ni même l'engager par promesse, à une action aussi lâche, et aussi noire, que celle qu'il fit en livrant sa patrie. Mais l'ayant trouvé disposé à leur rendre ce service, ils n'étaient point obligés de s'informer de ses motifs, ni de ses dispositions; ils purent se servir de l'état où ils le rencontrèrent."
+      "text": "Le Texte porte :[49] Et comme ils faisaient observer, ou épier Béthel ; ayant envoyé des espions contre elle pour en considérer les avenues, et pour en savoir les endroits les plus faibles ; ou même étant venus tous ensemble à la sourdine, comme des espions pendant la nuit, pour surprendre Béthel, ils trouvèrent un homme à qui ils promirent de donner la vie et une riche récompense, s'il voulait leur montrer quelque entrée pour se glisser dans la ville ; _Ostende nobis introitum civitatis, et faciemus tecum misericordiam._ Montrez-nous l'endroit le plus faible des murailles, et nous vous en récompenserons bien. Les Hébreux purent user de ce moyen pour se rendre maîtres d'une ville qui était à eux ; ils purent promettre la vie et une récompense à cet homme, quoique lui et tous les Cananéens fussent maudits et dévoués à l'anathème ; ils avaient l'exemple de Rahab et des Gabaonites à qui on avait pardonné ; et on peut croire qu'il ne fut reçu, que sous la condition de changer de Religion, ou de quitter le pays, comme il fit.\nIl est plus difficile de justifier cet homme qui livre sa ville aux Israélites ; on ne peut guère le considérer que comme un traître à sa patrie, qui vend la vie et les biens de tous ses citoyens, pour conserver sa propre vie, et pour mériter quelque récompense. Quoique nous ne devions pas nous mettre beaucoup en peine de répondre de sa conduite, et de justifier son action, qui ne sont approuvées en aucun endroit de l'Écriture, néanmoins comme ce Cananéen pouvait être instruit du décret de Dieu, qui avait condamné tous ces peuples à l'anathème, et qui avait abandonné toute la terre aux Israélites, on peut dire qu'il était obligé d'entrer dans les vues de Dieu, et de contribuer à l'exécution de ses desseins en faveur des Israélites.[50] Si les enfants de Joseph eussent certainement connu cet homme dans des sentiments et des dispositions contraires, ils n'auraient pas dû le contraindre, ni par force, ni par menaces, ni même l'engager par promesse, à une action aussi lâche, et aussi noire, que celle qu'il fit en livrant sa patrie. Mais l'ayant trouvé disposé à leur rendre ce service, ils n'étaient point obligés de s'informer de ses motifs, ni de ses dispositions; ils purent se servir de l'état où ils le rencontrèrent."
     },
     {
       "verse": 26,
       "sub": false,
       "latin_lemma": "ABIIT IN TERRAM HETTHIM, ET ÆDIFICAVIT IBI CIVITATEM, VOCAVITQUE EAM LUZAM.",
       "lemma": "Il s'en alla au pays d'Hetthim, où il bâtit une ville qu'il appela Luza.",
-      "text": "Le pays de Hetim, ou Chettim,[50] est apparemment le pays des Hethéens. Nous n'en connaissons aucun autre de ce nom dans l'Écriture. Or les Hethéens habitaient au midi de la terre de Canaan, vers l'Arabie Pétrée; c'est donc apparemment dans ces quartiers-là que se retira cet homme. Nous y avons une ville de _Lusa_, _Elysa_, ou _Lussa_ assez fameuse dans les anciens Géographes.[51] Josèphe parle de cette ville dans le quatorzième Livre de ses Antiquités, chap. 2. Ce Cananéen donne le nom de _Luz_, ou _Luza_ à cette nouvelle ville qu'il bâtit, afin de conserver l'ancien nom de sa patrie, qui s'appelait Luza, avant que les Israélites lui eussent donné celui de Béthel."
+      "text": "Le pays de Hetim, ou Chettim,[51] est apparemment le pays des Hethéens. Nous n'en connaissons aucun autre de ce nom dans l'Écriture. Or les Hethéens habitaient au midi de la terre de Canaan, vers l'Arabie Pétrée; c'est donc apparemment dans ces quartiers-là que se retira cet homme. Nous y avons une ville de _Lusa_, _Elysa_, ou _Lussa_ assez fameuse dans les anciens Géographes.[52] Josèphe parle de cette ville dans le quatorzième Livre de ses Antiquités, chap. 2. Ce Cananéen donne le nom de _Luz_, ou _Luza_ à cette nouvelle ville qu'il bâtit, afin de conserver l'ancien nom de sa patrie, qui s'appelait Luza, avant que les Israélites lui eussent donné celui de Béthel."
     },
     {
       "verse": 27,
       "sub": false,
-      "latin_lemma": "BETH-SAN, THANAC, DOR, JEBLAAM, MAGEDDO, etc.",
+      "latin_lemma": "BETH-SAN, THANAC, DOR, JEBLAAM, MAGEDDO, ETC.",
       "lemma": null,
       "text": "On peut voir ce qu'on a dit sur Josué de la situation de ces villes, et consulter la Carte Géographique."
     },
@@ -201,7 +208,7 @@
       "sub": false,
       "latin_lemma": null,
       "lemma": "néens commencèrent à demeurer avec eux.",
-      "text": "L'Hébreu porte : [52] _Et les Cananéens voulurent bien demeurer avec eux_ ; ils consentirent à leur payer le tribut, pourvu qu'on les épargnât, et qu'on les laissât dans leurs anciennes demeures."
+      "text": "L'Hébreu porte : [53] _Et les Cananéens voulurent bien demeurer avec eux_ ; ils consentirent à leur payer le tribut, pourvu qu'on les épargnât, et qu'on les laissât dans leurs anciennes demeures."
     },
     {
       "verse": 28,
@@ -222,28 +229,28 @@
       "sub": false,
       "latin_lemma": "CETRON.",
       "lemma": null,
-      "text": "On ne sait pas la vraie situation de cette ville ; c'est peut-être la même que _Cateth_, qui est jointe à _Naalol_ dans Josué, [53] _Naalol_ fut cédée aux Lévites ; [54] mais ils n'en jouirent pas, puisqu'on n'en chassa pas les Cananéens."
+      "text": "On ne sait pas la vraie situation de cette ville ; c'est peut-être la même que _Cateth_, qui est jointe à _Naalol_ dans Josué, [54] _Naalol_ fut cédée aux Lévites ; [55] mais ils n'en jouirent pas, puisqu'on n'en chassa pas les Cananéens."
     },
     {
       "verse": 31,
       "sub": false,
       "latin_lemma": "ACCO.",
       "lemma": null,
-      "text": "[55] C'est la ville de Ptolémaïde sur la Méditerranée, voisine du mont Carmel. Les Géographes Grecs l'ont connue sous l'ancien nom d'_Aké_, et comme ils en ignoraient la véritable origine, ils l'ont dérivé du Grec _Akéomai_, qui signifie _guérir_, et _Aké_, un _remède_, et ils ont feint que ce nom lui était venu de ce qu'Hercule y avait été guéri en cet endroit. [56] On lui donna depuis le nom de Ptolémaïde en l'honneur d'un roi d'Égypte. Elle devint ensuite colonie romaine sous l'empereur Claude. [57] C'est auprès de cette ville que coule le petit fleuve"
+      "text": "[56] C'est la ville de Ptolémaïde sur la Méditerranée, voisine du mont Carmel. Les Géographes Grecs l'ont connue sous l'ancien nom d'_Aké_, et comme ils en ignoraient la véritable origine, ils l'ont dérivé du Grec _Akéomai_, qui signifie _guérir_, et _Aké_, un _remède_, et ils ont feint que ce nom lui était venu de ce qu'Hercule y avait été guéri en cet endroit. [57] On lui donna depuis le nom de Ptolémaïde en l'honneur d'un roi d'Égypte. Elle devint ensuite colonie romaine sous l'empereur Claude. [58] C'est auprès de cette ville que coule le petit fleuve"
     },
     {
       "verse": 31,
       "sub": false,
       "latin_lemma": "BELUS, ou BELEUS,",
       "lemma": null,
-      "text": "fameux par son sable dont on fait le verre. Josèphe [58] dit qu'il n'en est éloigné que de deux stades, ou de deux cent cinquante pas; on voit près de ce fleuve un vallon merveilleux d'environ cent coudées de circuit, d'où l'on tire une quantité prodigieuse de sable propre à faire du verre, et qu'on ne peut jamais épuiser, quoiqu'on en charge plusieurs vaisseaux; parce que les vents y jettent de nouveau des collines voisines un autre sable, qui reprend aussitôt la nature de celui qu'on en a tiré. Pline [59] assure que ce fleuve sort du lac Cendria, au pied du mont Carmel"
+      "text": "fameux par son sable dont on fait le verre. Josèphe [59] dit qu'il n'en est éloigné que de deux stades, ou de deux cent cinquante pas; on voit près de ce fleuve un vallon merveilleux d'environ cent coudées de circuit, d'où l'on tire une quantité prodigieuse de sable propre à faire du verre, et qu'on ne peut jamais épuiser, quoiqu'on en charge plusieurs vaisseaux; parce que les vents y jettent de nouveau des collines voisines un autre sable, qui reprend aussitôt la nature de celui qu'on en a tiré. Pline [60] assure que ce fleuve sort du lac Cendria, au pied du mont Carmel"
     },
     {
       "verse": 31,
       "sub": false,
       "latin_lemma": "AHALAB,",
       "lemma": null,
-      "text": "[60] ou selon l'hébreu et les Septante, _Achlab_. Cette ville nous est entièrement inconnue. À moins que ce ne soit _Alep_, nommée _Chalep_ par les Grecs; [61] on dit que c'est la fameuse ville de Bérée."
+      "text": "[61] ou selon l'hébreu et les Septante, _Achlab_. Cette ville nous est entièrement inconnue. À moins que ce ne soit _Alep_, nommée _Chalep_ par les Grecs; [62] on dit que c'est la fameuse ville de Bérée."
     },
     {
       "verse": 31,
@@ -257,21 +264,21 @@
       "sub": false,
       "latin_lemma": "HELBA.",
       "lemma": null,
-      "text": "[62] C'est peut-être la même qu'Eleph, [63] sur les frontières septentrionales de Nephtali, contre la tribu d'Aser."
+      "text": "[63] C'est peut-être la même qu'Eleph, [64] sur les frontières septentrionales de Nephtali, contre la tribu d'Aser."
     },
     {
       "verse": 31,
       "sub": false,
       "latin_lemma": "APHEC.",
       "lemma": null,
-      "text": "La même dont il est parlé dans les livres des Rois; [64] sur les frontières des royaumes d'Israël et de Syrie; elle était aux rois de Syrie dans le temps des derniers rois d'Israël. Voyez ce qu'on a dit de cette ville sur Josué, XIX. 30."
+      "text": "La même dont il est parlé dans les livres des Rois; [65] sur les frontières des royaumes d'Israël et de Syrie; elle était aux rois de Syrie dans le temps des derniers rois d'Israël. Voyez ce qu'on a dit de cette ville sur Josué, XIX. 30."
     },
     {
       "verse": 31,
       "sub": false,
       "latin_lemma": "ROHOB.",
       "lemma": null,
-      "text": "Elle était aussi vers le Liban, à l'extrémité septentrionale du royaume d'Israël. [65]"
+      "text": "Elle était aussi vers le Liban, à l'extrémité septentrionale du royaume d'Israël. [66]"
     },
     {
       "verse": 33,
@@ -282,7 +289,7 @@
     },
     {
       "verse": 33,
-      "sub": true,
+      "sub": false,
       "latin_lemma": "BETH-ANATH.",
       "lemma": null,
       "text": "Voyez Josué xix. 38."
@@ -292,21 +299,21 @@
       "sub": false,
       "latin_lemma": "ARCTAVIT QUE AMORRHÆUS FILIOS DAN IN MONTE.",
       "lemma": "Les Amorrhéens tinrent les enfants de Dan fort resserrés dans les montagnes.",
-      "text": "La tribu de Dan avait son partage au couchant de celle de Juda, au voisinage des Philistins, il y avait des Amorrhéens dans son lot, il y a beaucoup d'apparence que les chariots armés de ces peuples, furent la principale cause qui resserra les Danites dans les montagnes, et qui en contraignit enfin une partie de quitter leur pays, pour aller chercher de nouvelles terres.[66]"
+      "text": "La tribu de Dan avait son partage au couchant de celle de Juda, au voisinage des Philistins, il y avait des Amorrhéens dans son lot, il y a beaucoup d'apparence que les chariots armés de ces peuples, furent la principale cause qui resserra les Danites dans les montagnes, et qui en contraignit enfin une partie de quitter leur pays, pour aller chercher de nouvelles terres.[67]"
     },
     {
       "verse": 35,
       "sub": false,
       "latin_lemma": "HABITAVITQUE IN MONTE HARES, QUOD INTERPRETATUR TESTACEO, IN AIALON ET IN SALEBIM.",
       "lemma": "Ils habitèrent dans les montagnes de Harés, c'est-à-dire, dans la montagne des Tuiles, dans Aïalon et dans Salebim.",
-      "text": "On pourrait rapporter ceci ou aux Amorrhéens, ou aux enfants de Dan; mais l'Hébreu détermine à l'expliquer des Amorrhéens, qui habitaient dans le mont Harés, et qui étaient tributaires de la tribu d'Ephraïm. Voici le Texte à la lettre:\n[67] _Et l'Amorrhéen consentit de demeurer dans la montagne de Chérés, dans Aïalon et dans Salebim, et la main de la maison de Joseph s'appesantit, et l'Amorrhéen fut tributaire._\nLes Septante varient en cet endroit. Quelques Exemplaires [68] lisent: _Au mont de Harés, où il y a des ours et des renards._ Ils ont rendu la signification d'Aïalon, ou _Aialin_, par des ours, et celle de Salebim par des renards. Le dernier signifie peut-être des renards, mais pour le premier, signifierait plutôt un cerf. L'exemplaire de Bâle lit: [69] _Dans_ La montagne du Myrte, où il y a des ours et des renards, dans le Myrte et dans Salabim. Ils ont mis deux fois la même chose. Aïalon peut signifier un bois, ils ont mis l'espèce pour le genre, le Myrte, pour les arbres en général ; ils ont aussi conservé Salabim dans leur Texte, et n'ont pas laissé de marquer sa signification littérale ; Enfin l'Exemplaire Romain [70] _Sur la montagne aux Tuiles, où il y a des ours et des renards, dans le bois de Myrte, et à Salabim._ On voit quel fond on peut faire sur tout cela. Aïalon était dans la tribu de Dan ; c'est le lieu célèbre dans l'Écriture, par le commandement que Josué fit à la lune de ne pas s'avancer dessus Aïalon. [71] Salabim était aussi dans la tribu de Dan, elle est nommée Selebim dans Josué [72] On n'en sait pas la vraie situation. Cette ville était considérable du temps de Salomon, [73] puisque ce Prince y avait un des douze Officiers, qui fournissaient la nourriture à la maison."
+      "text": "On pourrait rapporter ceci ou aux Amorrhéens, ou aux enfants de Dan; mais l'Hébreu détermine à l'expliquer des Amorrhéens, qui habitaient dans le mont Harés, et qui étaient tributaires de la tribu d'Ephraïm. Voici le Texte à la lettre:\n[68] _Et l'Amorrhéen consentit de demeurer dans la montagne de Chérés, dans Aïalon et dans Salebim, et la main de la maison de Joseph s'appesantit, et l'Amorrhéen fut tributaire._\nLes Septante varient en cet endroit. Quelques Exemplaires [69] lisent: _Au mont de Harés, où il y a des ours et des renards._ Ils ont rendu la signification d'Aïalon, ou _Aialin_, par des ours, et celle de Salebim par des renards. Le dernier signifie peut-être des renards, mais pour le premier, signifierait plutôt un cerf. L'exemplaire de Bâle lit: [70] _Dans_ La montagne du Myrte, où il y a des ours et des renards, dans le Myrte et dans Salabim. Ils ont mis deux fois la même chose. Aïalon peut signifier un bois, ils ont mis l'espèce pour le genre, le Myrte, pour les arbres en général ; ils ont aussi conservé Salabim dans leur Texte, et n'ont pas laissé de marquer sa signification littérale ; Enfin l'Exemplaire Romain [71] _Sur la montagne aux Tuiles, où il y a des ours et des renards, dans le bois de Myrte, et à Salabim._ On voit quel fond on peut faire sur tout cela. Aïalon était dans la tribu de Dan ; c'est le lieu célèbre dans l'Écriture, par le commandement que Josué fit à la lune de ne pas s'avancer dessus Aïalon. [72] Salabim était aussi dans la tribu de Dan, elle est nommée Selebim dans Josué [73] On n'en sait pas la vraie situation. Cette ville était considérable du temps de Salomon, [74] puisque ce Prince y avait un des douze Officiers, qui fournissaient la nourriture à la maison."
     },
     {
       "verse": 36,
       "sub": false,
       "latin_lemma": "FUIT AUTEM TERMINUS AMORRHÆI AB ASCENSU SCORPIONIS, ET SUPERIORA LOCA.",
       "lemma": "Et le pays des Amorrhéens eut pour limites la montée du Scorpion, Pétra et les lieux plus avancés.",
-      "text": "Voilà quel était originairement le pays des Amorrhéens : ils s'étendaient depuis la montée des Scorpions, jusqu'à Pétra dans l'Arabie Pétrée et encore plus avant vers le midi. Mais ils ne se renfermèrent pas dans ces limites ; ils se répandirent dans tout le pays de Canaan, et au-delà du Jourdain. Les Rois Og et Séhon étaient de la race des Amorrhéens ; nous en venons de voir dans le partage de Dan et d'Éphraïm, et leur nom était si fameux, que souvent on met l'Amorrhéen pour le Cananéen en général.\nLa ville de _Pétra_ en Hébreu, [74] _Séla_, est apparemment la Capitale de l'Arabie Pétrée ; elle porte aussi le nom de Békem et de Chagar. Elle paraît avoir été aux Amalécites, car Joseph [75] dit qu'ils habitaient la Gobolite et la ville de Pétra. Elle était assez près de la montée du Scorpion, que nous ne pouvons éloigner de beaucoup de la ville d'Adar, ou Arad."
+      "text": "Voilà quel était originairement le pays des Amorrhéens : ils s'étendaient depuis la montée des Scorpions, jusqu'à Pétra dans l'Arabie Pétrée et encore plus avant vers le midi. Mais ils ne se renfermèrent pas dans ces limites ; ils se répandirent dans tout le pays de Canaan, et au-delà du Jourdain. Les Rois Og et Séhon étaient de la race des Amorrhéens ; nous en venons de voir dans le partage de Dan et d'Éphraïm, et leur nom était si fameux, que souvent on met l'Amorrhéen pour le Cananéen en général.\nLa ville de _Pétra_ en Hébreu, [75] _Séla_, est apparemment la Capitale de l'Arabie Pétrée ; elle porte aussi le nom de Békem et de Chagar. Elle paraît avoir été aux Amalécites, car Joseph [76] dit qu'ils habitaient la Gobolite et la ville de Pétra. Elle était assez près de la montée du Scorpion, que nous ne pouvons éloigner de beaucoup de la ville d'Adar, ou Arad."
     }
   ],
   "joins": [
@@ -372,13 +379,6 @@
       "mode": "flow",
       "before": " ils n'osèrent les attaquer. Car qu'avaient-ils à craindre",
       "after": "ayant la protection du Seigneur ? Les chariots des Philist"
-    },
-    {
-      "seam": "page_0044>page_0045",
-      "verse": 22,
-      "mode": "flow",
-      "before": "La maison",
-      "after": "de Joseph marcha contre Béthel. C'est-à-dire, la tribu d'É"
     },
     {
       "seam": "page_0045>page_0046",
@@ -669,133 +669,138 @@
       "text": "ותירו בית יאוסף. בבית אל"
     },
     {
-      "key": "page_0046-b",
+      "key": "page_0046-a",
       "n": 50,
+      "text": "Vide Bonfr. hic et Grat."
+    },
+    {
+      "key": "page_0046-b",
+      "n": 51,
       "text": "ארץ החתים"
     },
     {
       "key": "page_0046-c",
-      "n": 51,
+      "n": 52,
       "text": "Vide Ptolem. Geog. lib. 5. c. 16. et 17."
     },
     {
       "key": "page_0047-a",
-      "n": 52,
+      "n": 53,
       "text": "ויואל הכנעני לשבת בארץ Il semble que les Septante et saint Jerôme ont lû ויחל, il commença. καὶ ἤρξατο ὁ χαναναῖος τοῦ κατοικεῖν ἐν τῇ γῇ ταύτῃ. Voyez ce qu'on a dit sur Josué XVII, 12."
     },
     {
       "key": "page_0047-b",
-      "n": 53,
+      "n": 54,
       "text": "_Iosue_ XIX. 15."
     },
     {
       "key": "page_0047-c",
-      "n": 54,
+      "n": 55,
       "text": "_Iosue_ XXI. 35."
     },
     {
       "key": "page_0047-d",
-      "n": 55,
+      "n": 56,
       "text": "137"
     },
     {
       "key": "page_0047-e",
-      "n": 56,
+      "n": 57,
       "text": "_Stephan. Bizant. in_ Ἄκη."
     },
     {
       "key": "page_0048-a",
-      "n": 57,
+      "n": 58,
       "text": "Plin. l. 5. c. 19. Colonia Claudii Cæsaris Ptolemais, quæ quondam Ace."
     },
     {
       "key": "page_0048-b",
-      "n": 58,
+      "n": 59,
       "text": "Joseph lib. 2. de Bello c. 17. in Græco."
     },
     {
       "key": "page_0048-c",
-      "n": 59,
+      "n": 60,
       "text": "Plin. l. 5. c. 19. Belus vitri fertiles arenas parvo littori miscens, ipse è palude Cenderia à radicibus Carmeli profluit."
     },
     {
       "key": "page_0048-d",
-      "n": 60,
+      "n": 61,
       "text": "אחלב"
     },
     {
       "key": "page_0048-e",
-      "n": 61,
+      "n": 62,
       "text": "Iohan. Comen. c. 7. Nicephor. Callist. lib. 14. c. 39. apud Cellar. l. 3. c. 12."
     },
     {
       "key": "page_0048-f",
-      "n": 62,
+      "n": 63,
       "text": "חלבה"
     },
     {
       "key": "page_0048-g",
-      "n": 63,
+      "n": 64,
       "text": "Josuæ XIX. 33."
     },
     {
       "key": "page_0048-h",
-      "n": 64,
+      "n": 65,
       "text": "3. Reg. XX. 26. 30. 4. Reg. XIII. 17."
     },
     {
       "key": "page_0048-i",
-      "n": 65,
+      "n": 66,
       "text": "Num. XIII. 22. et XIX. 38. Josuæ XIX. 28."
     },
     {
       "key": "page_0049-a",
-      "n": 66,
+      "n": 67,
       "text": "Josue xix. 47. et Judic. xviii. 1. et 27."
     },
     {
       "key": "page_0049-b",
-      "n": 67,
+      "n": 68,
       "text": "ויואל האמרי לשבת בהר החרס ובאילון ובעלבים ותכבד יד בית יוסף ויהיו למס"
     },
     {
       "key": "page_0049-c",
-      "n": 68,
+      "n": 69,
       "text": "Codex Reg. ἐν τῷ ὄρει τῷ πρασιῷ, ὅς ἐς ἄρκτοι, ὴ ἀλώπηκες."
     },
     {
       "key": "page_0049-d",
-      "n": 69,
+      "n": 70,
       "text": "ἐν τῷ ὄρει τῷ μυρσινῶν, ὅ ἐς ἄρκτοι ὴ ἀλώπεκες, ἐν τῷ μυρσινῶν ὴ ἐν σαλαβῖν. Les Hebreux appellent les Renards _Schualim_. שועלים, et non pas _Salabim_ שעלבים et les Ours _Dob_. דבים et non pas _Aïalin_ אילים."
     },
     {
       "key": "page_0050-a",
-      "n": 70,
+      "n": 71,
       "text": "ἐν τῷ ὄρει τῷ ὀσραχώδει, ᾧ οἱ ἄρκτοι ἦσαν καὶ αἱ ἀλώπεκες ἐν τῷ μυρσινῶνι, ἐν τῷ Σαλυβίν."
     },
     {
       "key": "page_0050-b",
-      "n": 71,
+      "n": 72,
       "text": "Josue X. 12."
     },
     {
       "key": "page_0050-c",
-      "n": 72,
+      "n": 73,
       "text": "Josue XIX. 42."
     },
     {
       "key": "page_0050-d",
-      "n": 73,
+      "n": 74,
       "text": "3. Reg. IV. 9."
     },
     {
       "key": "page_0050-e",
-      "n": 74,
+      "n": 75,
       "text": "סלע"
     },
     {
       "key": "page_0050-f",
-      "n": 75,
+      "n": 76,
       "text": "Joseph lib. 3. c. 2. Antiq. ὁι τῆς Γοβολίτιδος τὴν πέτραν κατοικῦντες ὡι καλέιται μὲν Ἀμαληκῖται."
     }
   ],

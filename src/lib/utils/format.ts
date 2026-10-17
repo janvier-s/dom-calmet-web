@@ -39,6 +39,9 @@ export function formatCommentaryText(text: string): string {
     // Strip any residual underscores that were unmatched
     formatted = formatted.replace(/_/g, '');
 
+    // Jésus-Christ in small caps, as Calmet prints it
+    formatted = formatted.replace(/J[ée]sus-Christ|J[EÉ]SUS-CHRIST/g, '<span style="font-variant: small-caps">Jésus-Christ</span>');
+
     // Convert [1] output by calmet.py into clickable superscripts
     formatted = formatted.replace(/\[(\d+)\]/g, '<sup class="footnote-ref"><a href="#fn$1">$1</a></sup>');
     

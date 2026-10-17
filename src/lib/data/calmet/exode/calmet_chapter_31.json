@@ -11,7 +11,14 @@
       "verse": 3,
       "sub": false,
       "latin_lemma": "IMPLEVI EUM SPIRITU DEI, ETC.",
-      "lemma": "Je l'ai rempli de l'Esprit de Dieu",
+      "lemma": "Je l'ai rempli de l'Esprit",
+      "text": ""
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "de Dieu.",
       "text": "Les Anciens attribuèrent à Dieu les talents naturels et acquis, comme nous l'avons déjà remarqué. Sénèque : [4] _Insita nobis omnium artium semina, magisterque ex occulto Deus producit ingenia._ Homère dit aussi : [5] _Un homme habile, instruit par Vulcain lui-même, et par Pallas, fait tout ce qu'il veut, et achève d'excellents ouvrages._"
     },
     {
@@ -86,13 +93,6 @@
     }
   ],
   "joins": [
-    {
-      "seam": "page_0541>page_0542",
-      "verse": 3,
-      "mode": "flow",
-      "before": "Je l'ai rempli de l'Esprit de Dieu",
-      "after": "Les Anciens attribuèrent à Dieu les talents naturels et ac"
-    },
     {
       "seam": "page_0542>page_0543",
       "verse": 6,

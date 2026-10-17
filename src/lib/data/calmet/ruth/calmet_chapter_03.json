@@ -61,7 +61,7 @@
       "sub": false,
       "latin_lemma": "EXPANDE PALLIUM TUUM SUPER FAMULAM TUAM, QUIA PROPINQUUS ES.",
       "lemma": "Étendez votre couverture sur votre servante, parce que vous êtes mon proche parent.",
-      "text": "L'Hébreu, [18] _parce que vous êtes le rédempteur_, c'est-à-dire, le protecteur, le vengeur, l'appui de notre famille ; c'est vous qui en devez soutenir les intérêts, et qui devez faire revivre le nom de mon époux mort sans enfants. Cette raison, et la circonstance du temps et de l'intention de Ruth et de Noëmi, ne nous permettent pas de douter que cette expression, _Étendez votre couverture sur moi_, ne signifie, Recevez-moi pour femme. On voit dans Ézéchiel une façon de parler toute semblable : [19] _J'ai étendu mon vêtement sur vous, j'ai couvert votre ignominie ; je vous ai promis avec serment, et j'ai fait alliance avec vous, et vous êtes devenue mon épouse_. Et dans les profanes, Euripide : [20] _Lorsque vous serez entrée sous la couverture d'un homme_ d'honneur. Moïse fait allusion à la même pensée, lorsqu'en défendant les commerces incestueux, il se sert de ces mots : [21] _Vous ne découvrirez point la couverture de votre père._ Booz aurait pu dès lors prendre Ruth pour épouse sans autre formalité, [22] puisque le consentement mutuel des parties suffisait pour contracter mariage, surtout étant son proche parent, et obligé par la Loi de l'épouser, s'il n'y en eût pas eu un autre plus proche, et plus dans l'obligation de le faire, que lui.\nPlusieurs Interprètes [23] croient que Ruth ne demande ici que la protection de Booz, comme si elle lui disait : Recevez-moi sous vos ailes, comme une poule y reçoit ses petits; dans le même sens que Booz disait ci-devant à Ruth : [24] _Vous êtes venue vous mettre sous les ailes du Dieu d'Israël_ ; c'est ainsi qu'il est dit dans Isaïe, [25] que _sept femmes prendront un homme, et lui diront : Nous nous nourrirons, et nous nous vêtirons, seulement qu'on invoque votre nom sur nous_, ( que nous soyons appelées vos épouses,) _ôtez notre ignominie._ Enfin on veut que de là soit venue la coutume, si elle n'était pas déjà établie alors, que dans la cérémonie du mariage, l'époux étende un pan de son habit sur son épouse, pour marquer qu'il la prend sous sa défense et sa protection. Mais ces raisons ne nous feront pas quitter notre sentiment."
+      "text": "L'Hébreu, [18] _parce que vous êtes le rédempteur_, c'est-à-dire, le protecteur, le vengeur, l'appui de notre famille ; c'est vous qui en devez soutenir les intérêts, et qui devez faire revivre le nom de mon époux mort sans enfants. Cette raison, et la circonstance du temps et de l'intention de Ruth et de Noëmi, ne nous permettent pas de douter que cette expression, _Étendez votre couverture sur moi_, ne signifie, Recevez-moi pour femme. On voit dans Ézéchiel une façon de parler toute semblable : [19] _J'ai étendu mon vêtement sur vous, j'ai couvert votre ignominie ; je vous ai promis avec serment, et j'ai fait alliance avec vous, et vous êtes devenue mon épouse_. Et dans les profanes, Euripide : [20] _Lorsque vous serez entrée sous la couverture d'un homme_ _d'honneur_. Moïse fait allusion à la même pensée, lorsqu'en défendant les commerces incestueux, il se sert de ces mots : [21] _Vous ne découvrirez point la couverture de votre père._ Booz aurait pu dès lors prendre Ruth pour épouse sans autre formalité, [22] puisque le consentement mutuel des parties suffisait pour contracter mariage, surtout étant son proche parent, et obligé par la Loi de l'épouser, s'il n'y en eût pas eu un autre plus proche, et plus dans l'obligation de le faire, que lui.\nPlusieurs Interprètes [23] croient que Ruth ne demande ici que la protection de Booz, comme si elle lui disait : Recevez-moi sous vos ailes, comme une poule y reçoit ses petits; dans le même sens que Booz disait ci-devant à Ruth : [24] _Vous êtes venue vous mettre sous les ailes du Dieu d'Israël_ ; c'est ainsi qu'il est dit dans Isaïe, [25] que _sept femmes prendront un homme, et lui diront : Nous nous nourrirons, et nous nous vêtirons, seulement qu'on invoque votre nom sur nous_, ( que nous soyons appelées vos épouses,) _ôtez notre ignominie._ Enfin on veut que de là soit venue la coutume, si elle n'était pas déjà établie alors, que dans la cérémonie du mariage, l'époux étende un pan de son habit sur son épouse, pour marquer qu'il la prend sous sa défense et sa protection. Mais ces raisons ne nous feront pas quitter notre sentiment."
     },
     {
       "verse": 10,
@@ -117,7 +117,7 @@
       "sub": false,
       "latin_lemma": "QUID EGISTI, FILIA?",
       "lemma": "Ma fille, qu'avez-vous fait ?",
-      "text": "L'Hébreu : [34] Ma fille, qui êtes-vous ? Elle ne la connaissait point au milieu de l'obscurité qu'il faisait encore. Les Septante : [35] Que dites-vous ; ou qu'avez-vous fait, ma fille ? Quel est le succès de votre voyage ?\n\nDans chaque ville il y avait une porte où l'on rendait la justice et où se terminaient les autres affaires, par-devant les Juges et les Anciens, et en présence de plusieurs témoins."
+      "text": "L'Hébreu : [34] Ma fille, qui êtes-vous ? Elle ne la connaissait point au milieu de l'obscurité qu'il faisait encore. Les Septante : [35] Que dites-vous ; ou qu'avez-vous fait, ma fille ? Quel est le succès de votre voyage ?"
     }
   ],
   "joins": [
@@ -145,9 +145,9 @@
     {
       "seam": "page_0025>page_0026",
       "verse": 9,
-      "mode": "mend",
-      "before": "_Lorsque vous serez entrée sous la couverture d'un homme_.",
-      "after": "d'honneur. Moïse fait allusion à la même pensée, lorsqu'en"
+      "mode": "flow",
+      "before": " _Lorsque vous serez entrée sous la couverture d'un homme_",
+      "after": "_d'honneur_. Moïse fait allusion à la même pensée, lorsqu'"
     },
     {
       "seam": "page_0026>page_0027",
@@ -162,13 +162,6 @@
       "mode": "splice",
       "before": "e _Tob_ est le nom d'un des freres de Salmon, et oncle pa-",
       "after": "ternel de Mahalon époux de Ruth ; mais ce sentiment est ab"
-    },
-    {
-      "seam": "page_0029>page_0030",
-      "verse": 16,
-      "mode": "para",
-      "before": "vous fait, ma fille ? Quel est le succès de votre voyage ?",
-      "after": "Dans chaque ville il y avait une porte où l'on rendait la "
     }
   ],
   "pages_used": [
@@ -180,8 +173,7 @@
     "page_0026",
     "page_0027",
     "page_0028",
-    "page_0029",
-    "page_0030"
+    "page_0029"
   ],
   "footnotes": [
     {

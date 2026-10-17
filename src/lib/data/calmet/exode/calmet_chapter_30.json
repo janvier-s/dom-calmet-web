@@ -53,8 +53,8 @@
       "verse": 10,
       "sub": false,
       "latin_lemma": "ET DEPRECABITUR.",
-      "lemma": "Et il priera",
-      "text": "; ou, _il fera une expiation, etc._ C'est le sens de l'Hébreu. [18] Les Septante : [19] _il se rendra Dieu favorable_. Ce qui revient au même."
+      "lemma": "Et il priera ;",
+      "text": "ou, _il fera une expiation, etc._ C'est le sens de l'Hébreu. [18] Les Septante : [19] _il se rendra Dieu favorable_. Ce qui revient au même."
     },
     {
       "verse": 10,
@@ -137,15 +137,22 @@
       "verse": 24,
       "sub": false,
       "latin_lemma": "OLEI DE OLIVETIS MENSURAM HIN.",
-      "lemma": "Un hin d'huile d'olives",
+      "lemma": "Un hin d'huile",
+      "text": ""
+    },
+    {
+      "verse": 24,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "d'olives.",
       "text": "L'huile d'olives était comme le fond de cet onguent si précieux : c'est pour cela qu'on y en mettait une si grande quantité ; car le hin contenait quatre pintes, une chopine, un demi-septier, un posson, cinq pouces cubes. Cet onguent servait à oindre les pièces du Tabernacle, l'Arche d'Alliance, la table des pains de proposition, l'Autel des parfums, le chandelier, l'Autel des holocaustes, le bassin à laver. Aaron lui-même et ses fils en furent oints. Personne n'osait l'employer pour son usage, ni en faire la composition. On s'en servait aussi pour le sacre des Rois de Juda. Cette coutume dura jusqu'au règne de Josias, disent les Rabbins."
     },
     {
       "verse": 27,
       "sub": false,
       "latin_lemma": "MENSAM CUM VASIS SUIS.",
-      "lemma": "La table avec ses vases.",
-      "text": "; c'est-à-dire, les tables des pains de proposition. Les Septante n'expriment point cette table, avec ses instruments."
+      "lemma": "La table avec ses vases ;",
+      "text": "c'est-à-dire, les tables des pains de proposition. Les Septante n'expriment point cette table, avec ses instruments."
     },
     {
       "verse": 29,
@@ -251,7 +258,7 @@
       "seam": "page_0526>page_0527",
       "verse": 10,
       "mode": "flow",
-      "before": "; ou, _il fera une expiation, etc._",
+      "before": "ou, _il fera une expiation, etc._",
       "after": "C'est le sens de l'Hébreu. ^{(a)} Les Septante : ^{(b)} _i"
     },
     {
@@ -309,13 +316,6 @@
       "mode": "flow",
       "before": "ien parmi eux. Les hommes ont toujours cru qu'ils devaient",
       "after": "offrir à Dieu ce qu'ils avaient de meilleur et de plus pré"
-    },
-    {
-      "seam": "page_0536>page_0537",
-      "verse": 24,
-      "mode": "flow",
-      "before": "Un hin d'huile d'olives",
-      "after": "L'huile d'olives était comme le fond de cet onguent si pré"
     },
     {
       "seam": "page_0539>page_0540",

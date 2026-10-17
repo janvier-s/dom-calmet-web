@@ -39,8 +39,8 @@
       "verse": 7,
       "sub": false,
       "latin_lemma": "GRANDIS AUTORITATIS ES, ET BENE REGIS REGNUM ISRAEL.!",
-      "lemma": "Votre autorité est grande, à ce que je vois, et vous gouvernez bien le Royaume d'Israël ! L'Hébreu porte simplement :",
-      "text": "[9] _Vous serez à présent le Royaume d'Israël._ Vous êtes sans doute un homme fort propre à fonder, à soutenir, à faire fleurir le Royaume d'Israël. Le Chaldéen: _Vous allez faire prospérer votre Royaume sur Israël._ Le Syriaque: _Êtes-vous propre à régner sur Israël ?_ L'Arabe: _Vous ne méritez pas de régner sur Israël._ Les Septante: [10] _Est-ce ainsi que vous faites le Roi sur Israël ?_ Un Roi doit il prier ? N'est-il pas en droit d'exiger, et de prendre ? Êtes-vous en tutelle ? etc."
+      "lemma": "Votre autorité est grande, à ce que je vois, et vous gouvernez bien le Royaume d'Israël !",
+      "text": "L'Hébreu porte simplement :[9] _Vous serez à présent le Royaume d'Israël._ Vous êtes sans doute un homme fort propre à fonder, à soutenir, à faire fleurir le Royaume d'Israël. Le Chaldéen: _Vous allez faire prospérer votre Royaume sur Israël._ Le Syriaque: _Êtes-vous propre à régner sur Israël ?_ L'Arabe: _Vous ne méritez pas de régner sur Israël._ Les Septante: [10] _Est-ce ainsi que vous faites le Roi sur Israël ?_ Un Roi doit il prier ? N'est-il pas en droit d'exiger, et de prendre ? Êtes-vous en tutelle ? etc."
     },
     {
       "verse": 8,
@@ -74,8 +74,15 @@
       "verse": 13,
       "sub": false,
       "latin_lemma": "DUOBUS VIRIS, FILIIS DIABOLI.",
-      "lemma": "Deux enfants du diable.",
-      "text": "du Diable ; deux faux témoins. L'Hébreu : [29] _Deux fils de Bélial_ ; deux hommes sans foi, sans honneur, sans Loi."
+      "lemma": "Deux enfants",
+      "text": ""
+    },
+    {
+      "verse": 13,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "du Diable ;",
+      "text": "deux faux témoins. L'Hébreu : [29] _Deux fils de Bélial_ ; deux hommes sans foi, sans honneur, sans Loi."
     },
     {
       "verse": 15,
@@ -110,12 +117,19 @@
       "sub": false,
       "latin_lemma": "EO QUOD VENUNDATUS SIS UT FACERES MALUM IN CONSPECTU DOMINI.",
       "lemma": "En ce que vous vous êtes vendu pour",
-      "text": "faire le mal aux yeux du Seigneur. Expressions, qui marquent avec force l'attachement, l'abandonnement au mal, la servitude du pécheur, son assujettissement à ses mauvais désirs. Ce n'est point assez de dire que vous êtes comme un ouvrier, qui serait payé pour faire quelque chose ; vous êtes comme un esclave acheté pour mal faire ; et cela, en la présence du Seigneur, c'est-à-dire, de la manière la plus criante, et la plus déclarée. Être bon, ou mauvais devant le Seigneur, c'est l'être dans un souverain degré, selon le style de l'Écriture. Un Poète décrit ainsi le règne des passions sur ceux qu'elles dominent :\n_Urget enim dominus mentem non lenis, et acres_\n_Subjectat lasso stimulos._\nEt Tacite, [38] parlant de Vitellius: _Luxui, saginaque mancipatus, emptusque._"
+      "text": ""
+    },
+    {
+      "verse": 20,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "faire le mal aux yeux du Seigneur.",
+      "text": "Expressions, qui marquent avec force l'attachement, l'abandonnement au mal, la servitude du pécheur, son assujettissement à ses mauvais désirs. Ce n'est point assez de dire que vous êtes comme un ouvrier, qui serait payé pour faire quelque chose ; vous êtes comme un esclave acheté pour mal faire ; et cela, en la présence du Seigneur, c'est-à-dire, de la manière la plus criante, et la plus déclarée. Être bon, ou mauvais devant le Seigneur, c'est l'être dans un souverain degré, selon le style de l'Écriture. Un Poète décrit ainsi le règne des passions sur ceux qu'elles dominent :\n_Urget enim dominus mentem non lenis, et acres_\n_Subjectat lasso stimulos._\nEt Tacite, [38] parlant de Vitellius: _Luxui, saginaque mancipatus, emptusque._"
     },
     {
       "verse": 21,
       "sub": false,
-      "latin_lemma": "MINGENTEM AD PARIETEM, etc.",
+      "latin_lemma": "MINGENTEM AD PARIETEM, ETC.",
       "lemma": "Tous les mâles.",
       "text": "Voyez ci-devant, I. Reg. Ch. xxv. ℣. 22."
     },
@@ -178,25 +192,11 @@
       "after": "qu'on assemblât le peuple, et qu'on mît Naboth à la tête d"
     },
     {
-      "seam": "page_0415>page_0416",
-      "verse": 13,
-      "mode": "mend",
-      "before": "Deux enfants du diable.",
-      "after": "du Diable ; deux faux témoins. L'Hébreu : ^{(a)} _Deux fil"
-    },
-    {
       "seam": "page_0416>page_0417",
       "verse": 18,
       "mode": "flow",
       "before": "nt d'Achab. Il faut que ce dernier ait été bien informé de",
       "after": "toute la conduite de Jézabel contre Naboth, et qu'il y ait"
-    },
-    {
-      "seam": "page_0417>page_0418",
-      "verse": 20,
-      "mode": "flow",
-      "before": "En ce que vous vous êtes vendu pour",
-      "after": "faire le mal aux yeux du Seigneur. Expressions, qui marque"
     },
     {
       "seam": "page_0418>page_0419",

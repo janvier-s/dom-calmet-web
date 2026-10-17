@@ -2,6 +2,7 @@
   "book": "1 Samuel",
   "chapter": 6,
   "chapter_summary": "L'Arche est renvoyée de chez les Philistins, avec des présents; Elle arrive dans la campagne de Betsamés. On offre à Dieu des Holocaustes en sa présence. Mort de plusieurs Betsamites pour avoir considéré l'Arche. Ils prient ceux de Cariath-iarim de la porter chez eux.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -33,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Qui dixerunt : Quid est quod pro delicto reddere debeamus ei ? Responderuntque illi :",
-      "french": "Ils leur demandérent ensuite : Quelle offrande lui ferons-nous pour nôtre peché ? Les Prêtres répondirent.",
+      "french": "Ils leur demandèrent ensuite : Quelle offrande lui ferons-nous pour notre péché ? Les Prêtres répondirent.",
       "annotations": null,
       "source_pages": [
         "page_0141.json"

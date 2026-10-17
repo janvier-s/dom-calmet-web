@@ -40,7 +40,7 @@
       "sub": false,
       "latin_lemma": "ET OSTIARIA DOMUS PURGANS TRITICUM OBDORMIVIT.",
       "lemma": "La femme qui gardait la porte de la maison, s'était endormie, en nettoyant du blé.",
-      "text": "Il n'y a rien de tout cela dans l'Hébreu, ni dans les anciens Manuscrits de la Version de saint Jérôme. [8] C'est une addition tirée des Septante, qui ont mal entendu le Texte. Ce qui a donné lieu à cette addition, c'est qu'au ℣. suivant, on lit que Baana et Réchab prirent des épis de blé, en entrant chez le Roi. On a cru qu'ils les avaient pris à la porte, pendant que la portière s'était endormie. Ou plutôt, les Septante ont expliqué le Texte Hébreu, _prenant du froment_, comme s'il marquait, _nettoyant, choi-_ sassant du froment. Tout cela nous donne une idée de la simplicité de ces anciens temps. C’était assez la coutume d’avoir des femmes à la porte pour portières. Il y en avait qui veillaient à la porte du Tabernacle du Seigneur. [9] La portière du Prince des Prêtres des Juifs est célèbre dans l’Évangile, [10] par ce qu’elle dit à S. Pierre. On occupait quelquefois les portiers à nettoyer du blé, ou des pois. [11] _In aditu ipso stabat ostiarius præsinatus, cerasino succinctus cingulo, atque in lance argentea pisum purgabat._"
+      "text": "Il n'y a rien de tout cela dans l'Hébreu, ni dans les anciens Manuscrits de la Version de saint Jérôme. [8] C'est une addition tirée des Septante, qui ont mal entendu le Texte. Ce qui a donné lieu à cette addition, c'est qu'au ℣. suivant, on lit que Baana et Réchab prirent des épis de blé, en entrant chez le Roi. On a cru qu'ils les avaient pris à la porte, pendant que la portière s'était endormie. Ou plutôt, les Septante ont expliqué le Texte Hébreu, _prenant du froment_, comme s'il marquait, _nettoyant_, choisassant du froment. Tout cela nous donne une idée de la simplicité de ces anciens temps. C’était assez la coutume d’avoir des femmes à la porte pour portières. Il y en avait qui veillaient à la porte du Tabernacle du Seigneur. [9] La portière du Prince des Prêtres des Juifs est célèbre dans l’Évangile, [10] par ce qu’elle dit à S. Pierre. On occupait quelquefois les portiers à nettoyer du blé, ou des pois. [11] _In aditu ipso stabat ostiarius præsinatus, cerasino succinctus cingulo, atque in lance argentea pisum purgabat._"
     },
     {
       "verse": 6,
@@ -53,8 +53,8 @@
       "verse": 7,
       "sub": false,
       "latin_lemma": "IN CONCLAVI.",
-      "lemma": "Dans sa chambre. L'Hébreu : [17] Dans la salle de son lit. Dans la chambre où il couchait.",
-      "text": ""
+      "lemma": "Dans sa chambre.",
+      "text": "L'Hébreu : [17] _Dans la salle de son lit_. Dans la chambre où il couchait."
     },
     {
       "verse": 7,
@@ -96,8 +96,8 @@
     {
       "seam": "page_0041>page_0042",
       "verse": 5,
-      "mode": "flow",
-      "before": "enant du froment_, comme s'il marquait, _nettoyant, choi-_",
+      "mode": "splice",
+      "before": "enant du froment_, comme s'il marquait, _nettoyant_, choi-",
       "after": "sassant du froment. Tout cela nous donne une idée de la si"
     }
   ],

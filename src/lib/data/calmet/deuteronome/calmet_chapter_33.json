@@ -54,7 +54,7 @@
       "sub": false,
       "latin_lemma": "ERIT APUD RECTISSIMUM REX, CONGREGATIS PRINCIPIBUS POPULI.",
       "lemma": "Il y aura un Roi dans Israël, lorsque les Princes du peuple seront assemblés.",
-      "text": "Ce Roi se prend fort différemment : les uns l'expliquent de Dieu, qui fut établi Roi des Israélites, dans l'alliance qu'il voulut bien faire avec eux. D'autres, de Moïse, qui sans porter le nom de Roi, en avait toutes les prérogatives, et toute l'autorité. D'autres, de la Loi elle-même, qui tenait lieu de Roi dans Israël. Il y en a qui le prennent, comme une prédiction de ce qui devait un jour arriver, lorsque les Hébreux choisiraient un Roi. Enfin on l'explique du Messie, qui devait régner dans Israël. Nous croyons que Dieu est le Roi et le Dieu de Jacob, et que son Messie est le vrai Chef de l'Israël selon l'esprit. Le même Dieu est Chef de l'Église Chrétienne, et de l'Église Juive ; mais Jésus-Christ s'étant manifesté dans les derniers temps, est reconnu plus particulièrement pour Chef de l'Église qui porte son nom, dans laquelle il rassemble toutes les Nations, sous le gouvernement visible des Princes de son peuple.\nLe mot Hébreu, _Ischuron_[18], que la Vulgate a rendu par, _Rectissimus_, _Le très-juste_, ou le très-droit ; et les Septante, par [19] : _Le bien-aimé_, signifie, Israël, comme nous l'avons déjà remarqué. Moïse ajoute, que _le Roi d'Ischuron_, ou d'Israël, sera établi _dans l'assemblée des Princes et des Tribus d'Israël_ ; parce qu'en effet les Israélites choisirent le Seigneur pour leur Dieu et pour leur Roi, dans le désert de Sinaï, d'un consentement unanime de tout le peuple assemblé ; ou parce que Dieu établit Saül pour Roi dans l'assemblée de tout Israël."
+      "text": "Ce Roi se prend fort différemment : les uns l'expliquent de Dieu, qui fut établi Roi des Israélites, dans l'alliance qu'il voulut bien faire avec eux. D'autres, de Moïse, qui sans porter le nom de Roi, en avait toutes les prérogatives, et toute l'autorité. D'autres, de la Loi elle-même, qui tenait lieu de Roi dans Israël. Il y en a qui le prennent, comme une prédiction de ce qui devait un jour arriver, lorsque les Hébreux choisiraient un Roi. Enfin on l'explique du Messie, qui devait régner dans Israël. Nous croyons que Dieu est le Roi et le Dieu de Jacob, et que son Messie est le vrai Chef de l'Israël, selon l'esprit. Le même Dieu est Chef de l'Église Chrétienne, et de l'Église Juive ; mais Jésus-Christ s'étant manifesté dans les derniers temps, est reconnu plus particulièrement pour Chef de l'Église qui porte son nom, dans laquelle il rassemble toutes les Nations, sous le gouvernement visible des Princes de son peuple.\nLe mot Hébreu, _Ischuron_[18], que la Vulgate a rendu par, _Rectissimus_, _Le très-juste_, ou le très-droit ; et les Septante, par [19] : _Le bien-aimé_, signifie, Israël, comme nous l'avons déjà remarqué. Moïse ajoute, que _le Roi d'Ischuron_, ou d'Israël, sera établi _dans l'assemblée des Princes et des Tribus d'Israël_ ; parce qu'en effet les Israélites choisirent le Seigneur pour leur Dieu et pour leur Roi, dans le désert de Sinaï, d'un consentement unanime de tout le peuple assemblé ; ou parce que Dieu établit Saül pour Roi dans l'assemblée de tout Israël."
     },
     {
       "verse": 6,
@@ -355,8 +355,8 @@
     {
       "seam": "page_0428>page_0429",
       "verse": 5,
-      "mode": "mend",
-      "before": " de Jacob, et que son Messie est le vrai Chef de l'Israël.",
+      "mode": "flow",
+      "before": " de Jacob, et que son Messie est le vrai Chef de l'Israël,",
       "after": "selon l'esprit. Le même Dieu est Chef de l'Église Chrétien"
     },
     {

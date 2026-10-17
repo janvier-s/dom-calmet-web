@@ -2,6 +2,7 @@
   "book": "1 Samuel",
   "chapter": 8,
   "chapter_summary": "Les enfants de Samuël se laissent corrompre par l'avarice. Le peuple las du gouvernement des Juges, demande un Roi. Samuël leur représente le droit du Roi. Le peuple persiste dans sa résolution.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -60,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "Dixit autem Dominus ad Samuëlem : Audi vocem populi in omnibus quæ loquuntur tibi ; non enim te abjecerunt : sed me, ne regnem super eos.",
-      "french": "Et le Seigneur lui dit : Ecoutez la voix de ce peuple dans tout ce qu'ils vous disent ; car ce n'est point vous, mais c'est moi qu'ils rejettent, afin que je ne regne point sur eux.",
+      "french": "Et le Seigneur lui dit : Écoutez la voix de ce peuple dans tout ce qu'ils vous disent ; car ce n'est point vous, mais c'est moi qu'ils rejettent, afin que je ne règne point sur eux.",
       "annotations": "An. du Monde 2909.",
       "source_pages": [
         "page_0175.json"
@@ -69,7 +70,7 @@
     {
       "verse_number": 8,
       "latin": "Juxta omnia opera sua, quæ fecerunt à die quâ eduxi eos de Ægypto, usque ad diem hanc : sicut dereliquerunt me, et servierunt diis alienis, sic faciunt etiam tibi.",
-      "french": "C'est ainsi qu'ils ont toûjours fait depuis le jour que je les ai tirez de l'Egypte jusqu'aujourd'hui. Comme ils m'ont abandonné, et qu'ils ont servi des dieux étrangers, ils vous traitent aussi de même.",
+      "french": "C'est ainsi qu'ils ont toujours fait depuis le jour que je les ai tirés de l'Égypte jusqu'aujourd'hui. Comme ils m'ont abandonné, et qu'ils ont servi des dieux étrangers, ils vous traitent aussi de même.",
       "annotations": null,
       "source_pages": [
         "page_0175.json"
@@ -78,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Nunc ergo vocem eorum audi : verumtamen contestare eos, et prædic eis jus Regis, qui regnaturus est super eos.",
-      "french": "Ecoutez donc maintenant ce qu'ils vous disent : mais auparavant faites-leur bien comprendre, et déclarez-leur quel sera le droit du Roi qui doit regner sur eux.",
+      "french": "Écoutez donc maintenant ce qu'ils vous disent : mais auparavant faites-leur bien comprendre, et déclarez-leur quel sera le droit du Roi qui doit régner sur eux.",
       "annotations": null,
       "source_pages": [
         "page_0175.json"

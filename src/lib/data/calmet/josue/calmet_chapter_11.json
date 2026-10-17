@@ -73,7 +73,7 @@
     {
       "verse": 4,
       "sub": false,
-      "latin_lemma": "LUS MULTUS NIMIS SICUT ARENA, etc.",
+      "latin_lemma": "LUS MULTUS NIMIS SICUT ARENA, ETC.",
       "lemma": "Ils se mirent tous en campagne avec leurs troupes, aussi nombreuses que le sable de la mer.",
       "text": "Les Septante lisent: _Ils sortirent avec leurs Rois, un peuple aussi nombreux que le sable de la mer._ L'Écriture emploie souvent cette comparaison, d'un peuple aussi nombreux que le sable de la mer; c'est une hyperbole, l'Écriture a accoutumé de se servir de cette figure, comme elle se sert des autres figures du discours, dit S. Augustin.[27] Joseph[28] a avancé que l'armée des Rois ligués était de trois cent mille hommes de pied, et de dix mille cavaliers, et de vingt mille chariots de guerre."
     },
@@ -123,8 +123,8 @@
       "verse": 9,
       "sub": false,
       "latin_lemma": "EQUOS EORUM SUBNERVAVIT.",
-      "lemma": "Il coupa les jarrets à leurs chevaux ; pour les rendre inutiles à tout outrage, et surtout à la guerre.",
-      "text": "Dieu ne voulut pas que son peuple réservât ces animaux, de peur qu'il y mît sa confiance, et qu'enflé d'orgueil il ne s'attribuât le succès de ses armes. Dieu défend aux Rois des Hébreux d'avoir un grand nombre de chevaux ;[43] on n'en voit point parmi les Juifs jusqu'au règne de Salomon. On ne s'y servait que d'ânes pour monture. David coupa aussi les jarrets des chevaux qu'il prit à la guerre contre le Roi Adadézer.[44]"
+      "lemma": "Il coupa les jarrets à leurs chevaux ;",
+      "text": "pour les rendre inutiles à tout outrage, et surtout à la guerre. Dieu ne voulut pas que son peuple réservât ces animaux, de peur qu'il y mît sa confiance, et qu'enflé d'orgueil il ne s'attribuât le succès de ses armes. Dieu défend aux Rois des Hébreux d'avoir un grand nombre de chevaux ;[43] on n'en voit point parmi les Juifs jusqu'au règne de Salomon. On ne s'y servait que d'ânes pour monture. David coupa aussi les jarrets des chevaux qu'il prit à la guerre contre le Roi Adadézer.[44]"
     },
     {
       "verse": 10,
@@ -143,7 +143,7 @@
     {
       "verse": 11,
       "sub": false,
-      "latin_lemma": "A S O R ENIM ANTIQUITUS, etc.",
+      "latin_lemma": "ASOR ENIM ANTIQUITUS, ETC.",
       "lemma": "Car Asor avait tenu de tout temps le premier rang parmi toutes ces villes.",
       "text": "Voyez ce qu'on a remarqué sur le verset 1 de ce chapitre."
     },
@@ -166,7 +166,7 @@
       "sub": false,
       "latin_lemma": "ABSQUE URBIBUS QUÆ ERANT IN COLLIBUS ET IN TUMULIS SITÆ, CÆTERAS SUCCENDIT ISRAEL.",
       "lemma": "Israël brûla toutes ces villes, excepté celles qui étaient situées sur des collines et sur des hauteurs.",
-      "text": "Il consuma par le feu toutes les villes qui étaient situées en pleine campagne ; mais il conserva toutes celles qui étaient sur des hauteurs et fortes d'assiette ; celles-ci pouvaient seules tenir dans le respect tout ce qui était dans la campagne. C'était comme autant de citadelles pour la sûreté du pays. Le texte hébreu peut se prendre autrement : [48] _Mais il ne brûla pas les villes qui étaient demeurées sur pied,_ avec leurs fortifications. C'est ainsi que les Septante,[49] le Chaldéen et quelques interprètes l'ont entendu. Il épargna les villes qui s'étaient rendues, ou dont on s'était rendu maître sans être obligé d'en démolir les fortifications pour y faire brèche. On cite, pour appuyer cette traduction, un passage de Jérémie :[50] _Jérusalem sera rétablie sur sa hauteur_, c'est-à-dire, elle sera remise sur pied ; on rebâtira ses murs, on rétablira ses fortifications. Mais les défenseurs de l'opinion contraire[51] emploient le même passage en leur faveur : _Jérusalem sera rétablie sur sa hauteur_, sur les collines où elle était située. _Fundamenta ejus in montibus sanctis_. L'une et l'autre de ces deux explications forment un assez bon sens."
+      "text": "Il consuma par le feu toutes les villes qui étaient situées en pleine campagne ; mais il conserva toutes celles qui étaient sur des hauteurs et fortes d'assiette ; celles-ci pouvaient seules tenir dans le respect tout ce qui était dans la campagne. C'était comme autant de citadelles pour la sûreté du pays. Le texte hébreu peut se prendre autrement : [48] _Mais il ne brûla pas les villes qui étaient demeurées sur pied,_ _avec leurs fortifications_. C'est ainsi que les Septante,[49] le Chaldéen et quelques interprètes l'ont entendu. Il épargna les villes qui s'étaient rendues, ou dont on s'était rendu maître sans être obligé d'en démolir les fortifications pour y faire brèche. On cite, pour appuyer cette traduction, un passage de Jérémie :[50] _Jérusalem sera rétablie sur sa hauteur_, c'est-à-dire, elle sera remise sur pied ; on rebâtira ses murs, on rétablira ses fortifications. Mais les défenseurs de l'opinion contraire[51] emploient le même passage en leur faveur : _Jérusalem sera rétablie sur sa hauteur_, sur les collines où elle était située. _Fundamenta ejus in montibus sanctis_. L'une et l'autre de ces deux explications forment un assez bon sens."
     },
     {
       "verse": 14,
@@ -364,7 +364,7 @@
       "verse": 13,
       "mode": "flow",
       "before": "l ne brûla pas les villes qui étaient demeurées sur pied,_",
-      "after": "avec leurs fortifications. C'est ainsi que les Septante,^{"
+      "after": "_avec leurs fortifications_. C'est ainsi que les Septante,"
     },
     {
       "seam": "page_0226>page_0227",
@@ -376,8 +376,8 @@
     {
       "seam": "page_0227>page_0228",
       "verse": 19,
-      "mode": "mend",
-      "before": " avec quelque exception. Il ne prit pas toutes les villes.",
+      "mode": "flow",
+      "before": "e avec quelque exception. Il ne prit pas toutes les villes",
       "after": "des Cananéens; mais toutes celles qu'il prit, il les prit "
     },
     {

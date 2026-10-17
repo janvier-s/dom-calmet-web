@@ -1,7 +1,8 @@
 {
   "book": "1 Samuel",
   "chapter": 16,
-  "chapter_summary": "_Samuël est envoyé de Dieu à Bethléem pour sacrer David. Saül ayant ressenti les impressions d'un malin esprit qui l'agitait, fait venir David pour le soulager, en jouant des instruments auprès de lui._",
+  "chapter_summary": "Samuël est envoyé de Dieu à Bethléem pour sacrer David. Saül ayant ressenti les impressions d'un malin esprit qui l'agitait, fait venir David pour le soulager, en jouant des instruments auprès de lui.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -105,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Misit ergo, et adduxit eum. Erat autem Rufus, et pulcher aspectu, decoraque facie, et ait Dominus : Surge, et unge eum, ipse est enim.",
-      "french": "Il l'envoya donc querir, et le présenta à Samuël. Or il était roux, bienfait, et beau de visage: Le Seigneur lui dit : Sacrez le présentement ; car c'est celui-là.",
+      "french": "Il l'envoya donc quérir, et le présenta à Samuel. Or il était roux, bien fait, et beau de visage : Le Seigneur lui dit : Sacrez-le présentement ; car c'est celui-là.",
       "annotations": "An. du Monde 2934.",
       "source_pages": [
         "page_0289.json"
@@ -114,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Tûlit ergo Samuël cornu olei, et unxit eum in medio fratrum ejus : et directus est Spiritus Domini à die illa in David, et deinceps : surgensque Samuël abiit in Ramatha.",
-      "french": "Samuël prit donc la corne pleine d'huile, et il le sacra au milieu de ses freres. Depuis ce jour-là, et en avant, l'Esprit du Seigneur se reposa sur David. Quant à Samuël, il s'en retourna à Ramatha.",
+      "french": "Samuel prit donc la corne pleine d'huile, et il le sacra au milieu de ses frères. Depuis ce jour-là, et en avant, l'Esprit du Seigneur se reposa sur David. Quant à Samuel, il s'en retourna à Ramatha.",
       "annotations": null,
       "source_pages": [
         "page_0289.json"

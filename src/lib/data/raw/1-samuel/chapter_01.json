@@ -2,6 +2,7 @@
   "book": "1 Samuel",
   "chapter": 1,
   "chapter_summary": "Elcana vient au Tabernacle du Seigneur avec ses deux femmes, Anne et Phenenna. Anne insultée par sa rivale, prie le Seigneur, et en obtient un fils, qui fut nommé Samuël. Elle l'amène à Silo, et le consacre au Seigneur.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -15,7 +16,7 @@
     {
       "verse_number": 2,
       "latin": "Et habuit duas uxores, nomen uni Anna, et nomen secundæ Phenenna. Fuerúntque Phenennæ filii : Annæ autem non erant liberi.",
-      "french": "Il avait deux femmes, dont l'une s'appellait Anne, et la seconde Phenenna. Phenenna avait des enfans, et Anne n'en avait point.",
+      "french": "Il avait deux femmes, dont l'une s'appelait Anne, et la seconde Phénenna. Phénenna avait des enfants, et Anne n'en avait point.",
       "annotations": "An. du Monde 2848.",
       "source_pages": [
         "page_0067.json"
@@ -24,7 +25,7 @@
     {
       "verse_number": 3,
       "latin": "Et ascendebat vir ille de civitate sua statutis diebus, ut adoraret et sacrificaret Domino exercituum in Silo. Erant autem ibi duo filii Heli, Ophni et Phinées, Sacerdotes Domini.",
-      "french": "Cet homme allait de sa ville à Silo aux jours ordonnez, pour adorer le Seigneur des Armées, et pour lui offrir des sacrifices. Les deux fils d'Héli, Ophni et Phinées Prêtres du Seigneur, y étaient alors.",
+      "french": "Cet homme allait de sa ville à Silo aux jours ordonnés, pour adorer le Seigneur des Armées, et pour lui offrir des sacrifices. Les deux fils d'Héli, Ophni et Phinées Prêtres du Seigneur, y étaient alors.",
       "annotations": null,
       "source_pages": [
         "page_0067.json"

@@ -271,8 +271,8 @@
     {
       "seam": "page_0523>page_0524",
       "verse": 21,
-      "mode": "mend",
-      "before": "ace_. Expression qui est souvent employée dans l'Écriture.",
+      "mode": "flow",
+      "before": "face_. Expression qui est souvent employée dans l'Écriture",
       "after": "pour signifier accorder une grâce ; par opposition à abatt"
     },
     {
@@ -441,7 +441,7 @@
     {
       "key": "page_0516-d",
       "n": 6,
-      "text": "Voyez Levit. 23,14. Ruth. 2,14. Josue 5,11, 1 Samuel 17,17. etc."
+      "text": "Voyez Lévitique 23,14 ; Ruth 2,14 ; Josué 5,11 ; 1 Rois 17,17 etc."
     },
     {
       "key": "page_0516-e",
@@ -481,7 +481,7 @@
     {
       "key": "page_0518-b",
       "n": 14,
-      "text": "1 Samuel 20,8."
+      "text": "1 Rois 20,8."
     },
     {
       "key": "page_0518-c",
@@ -496,7 +496,7 @@
     {
       "key": "page_0519-b",
       "n": 17,
-      "text": "Philo. apud Grot. N' ἀβέβαιος et inde-piscotes."
+      "text": "Philo. apud Grot. Ἀβέβαιος et ἐπαμφίβολος."
     },
     {
       "key": "page_0519-c",
@@ -536,7 +536,7 @@
     {
       "key": "page_0520-d",
       "n": 25,
-      "text": "לחתניו"
+      "text": "לקחים"
     },
     {
       "key": "page_0520-e",
@@ -551,7 +551,7 @@
     {
       "key": "page_0521-a",
       "n": 28,
-      "text": "Vid. Matth. 1. 19."
+      "text": "Voyez Matthieu 1,19."
     },
     {
       "key": "page_0521-b",
@@ -566,7 +566,7 @@
     {
       "key": "page_0521-d",
       "n": 31,
-      "text": "Ε'ταράχθη."
+      "text": "Ε'ταράχθησαν."
     },
     {
       "key": "page_0522-a",
@@ -601,7 +601,7 @@
     {
       "key": "page_0523-b",
       "n": 38,
-      "text": "אדוני"
+      "text": "אדני"
     },
     {
       "key": "page_0523-c",
@@ -621,12 +621,12 @@
     {
       "key": "page_0524-a",
       "n": 42,
-      "text": "Ε᾿θαύμασα σὸν τὸ πρόσωπον."
+      "text": "Ε᾿θαύμασα σου τὸ πρόσωπον."
     },
     {
       "key": "page_0524-b",
       "n": 43,
-      "text": "Ο᾿ ἔσχον ἰδόντων σὲ τὸ πρόσωπον."
+      "text": "Ο᾿ ἐφ᾿ ὅτι ἐνδυσωπήθην τὸ πρόσωπόν σου."
     },
     {
       "key": "page_0524-c",
@@ -646,12 +646,12 @@
     {
       "key": "page_0525-a",
       "n": 47,
-      "text": "Deutéronome 29,23. Osée 11,8. Sap. 10,6."
+      "text": "Deutéronome 29,23 ;\nOsée 11,8 ;\nSagesse 10,6."
     },
     {
       "key": "page_0525-b",
       "n": 48,
-      "text": "Vers. 21."
+      "text": "Genèse 19,21."
     },
     {
       "key": "page_0525-c",
@@ -676,7 +676,7 @@
     {
       "key": "page_0526-a",
       "n": 53,
-      "text": "Genèse 13,10, 11."
+      "text": "Genèse 13,10-11."
     },
     {
       "key": "page_0526-b",
@@ -701,7 +701,7 @@
     {
       "key": "page_0526-f",
       "n": 58,
-      "text": "Isaï. 13,19, 20. et Jerem. 50,40."
+      "text": "Isaïe 13,19-20 ; Jérémie 50,40."
     },
     {
       "key": "page_0526-g",
@@ -711,12 +711,12 @@
     {
       "key": "page_0526-h",
       "n": 60,
-      "text": "Sophonie 2,8, 9."
+      "text": "Sophonie 2,8-9."
     },
     {
       "key": "page_0526-i",
       "n": 61,
-      "text": "Ézéchiel 16,46, 47, 53, 55."
+      "text": "Ézéchiel 16,46-47, 53, 55."
     },
     {
       "key": "page_0527-a",
@@ -726,7 +726,7 @@
     {
       "key": "page_0527-b",
       "n": 63,
-      "text": "Βιγδάδα κώμη μεγάλη πλησίον Σοδ'μων Α'ραβίας."
+      "text": "Ε'γγάδα κώμη μεγάλη πλησίον Σοδ'μων Α'ραβίας."
     },
     {
       "key": "page_0527-c",
@@ -801,12 +801,12 @@
     {
       "key": "page_0529-c",
       "n": 78,
-      "text": "Vers. 17."
+      "text": "Genèse 19,17."
     },
     {
       "key": "page_0530-a",
       "n": 79,
-      "text": "Luc 17,32. et Matth. 24,17."
+      "text": "Luc 17,32 ; Matthieu 24,17."
     },
     {
       "key": "page_0530-b",
@@ -826,7 +826,7 @@
     {
       "key": "page_0531-c",
       "n": 83,
-      "text": "Joseph. lib. 1 Antiq. c. 12. Ἰσορηκα δὲ ἀυτὴν, ὅτι καὶ νυν διάμενει."
+      "text": "Joseph. lib. 1 Antiq. c. 12. ἱστόρηκα δὲ αὐτὴν, ἔτι γὰρ καὶ νῦν διαμένει."
     },
     {
       "key": "page_0531-d",

@@ -28,6 +28,14 @@
 		</div>
 	{/if}
 
+	{#if chapter.chapter_intro}
+		<div class="mb-12 text-gray-800">
+			{#each paragraphs(chapter.chapter_intro) as paragraph}
+				<p>{@html formatCommentaryText(paragraph).replace(/\s*\n\s*/g, '<br/>')}</p>
+			{/each}
+		</div>
+	{/if}
+
 	<div class="space-y-12">
 		{#each chapter.verses as verse}
 			<div class="verse-block">

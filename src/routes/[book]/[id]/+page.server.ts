@@ -35,6 +35,7 @@ export async function load({ params }) {
                 book: rawChapterData.book,
                 chapter: rawChapterData.chapter,
                 chapter_summary: rawChapterData.chapter_summary,
+                chapter_intro: rawChapterData.chapter_intro,
                 verses: rawChapterData.verses
             },
             notes: calmetData.notes,

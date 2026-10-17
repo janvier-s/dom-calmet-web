@@ -26,7 +26,14 @@
       "sub": false,
       "latin_lemma": "VIDIT MULIEREM SE LAVANTEM EX ADVERSO SUPER SOLARIUM SUUM.",
       "lemma": "Il vit une femme vis-à-vis de lui, qui se baignait sur sa terrasse.",
-      "text": "David étant monté sur le toit, ou sur la terrasse de sa maison, vit sur le toit d'une autre maison, Bethsabée qui se baignait dans un bain domestique, selon la coutume des Hébreux, qui sont obligés d'user du bain dans plusieurs rencontres, pour se purifier de leurs souillures légales. Le Texte Hébreu ne dit pas que Bethsabée se baignât sur son toit ; [4] mais seulement que David de dessus le toit de son Palais, la vit qui se baignait ; elle pouvait être ou dans son jardin, ou dans sa cour ; car les Juifs ont ordinairement leurs bains, dans des lieux exposés à l'air.\n\nLe père de Bethsabée est nommé Ammiel dans les Paralipomènes,[5] par une transposition de lettre, qui ne change rien à la signification littérale de ce terme; Eliam et Ammiel signifient l'un et l'autre, _mon peuple est à Dieu_. Les Juifs [6] croient qu'Achitophel était père d'Ammiel, et par conséquent aïeul de Bethsabée; ce qui est confirmé par l'Écriture, [7] qui appelle Eliam fils d'Achitophel. Il y en a même [8] qui poussent la conjecture jusqu'à dire, que ce fut pour venger l'outrage que David avait fait à l'honneur de Bethsabée, qu'Achitophel se rangea dans la suite contre lui dans le parti d'Absalom."
+      "text": "David étant monté sur le toit, ou sur la terrasse de sa maison, vit sur le toit d'une autre maison, Bethsabée qui se baignait dans un bain domestique, selon la coutume des Hébreux, qui sont obligés d'user du bain dans plusieurs rencontres, pour se purifier de leurs souillures légales. Le Texte Hébreu ne dit pas que Bethsabée se baignât sur son toit ; [4] mais seulement que David de dessus le toit de son Palais, la vit qui se baignait ; elle pouvait être ou dans son jardin, ou dans sa cour ; car les Juifs ont ordinairement leurs bains, dans des lieux exposés à l'air."
+    },
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "BETHSABEE FILIA HELIAM, UXOR URIÆ HETHÆI.",
+      "lemma": "Bethsabée fille d'Eliam, femme d'Urie Héthéen.",
+      "text": "Le père de Bethsabée est nommé Ammiel dans les Paralipomènes,[5] par une transposition de lettre, qui ne change rien à la signification littérale de ce terme; Eliam et Ammiel signifient l'un et l'autre, _mon peuple est à Dieu_. Les Juifs [6] croient qu'Achitophel était père d'Ammiel, et par conséquent aïeul de Bethsabée; ce qui est confirmé par l'Écriture, [7] qui appelle Eliam fils d'Achitophel. Il y en a même [8] qui poussent la conjecture jusqu'à dire, que ce fut pour venger l'outrage que David avait fait à l'honneur de Bethsabée, qu'Achitophel se rangea dans la suite contre lui dans le parti d'Absalom."
     },
     {
       "verse": 2,
@@ -40,14 +47,7 @@
       "sub": false,
       "latin_lemma": "STATIMQUE SANCTIFICATA EST AB IMMUNDITIA SUA.",
       "lemma": "Aussitôt elle se purifia de son impureté, suivant la Loi,",
-      "text": "[9] qui voulait qu'une femme qui s'était approchée d'un homme, se lavât, et demeurât souillée et séparée de l'usage des choses saintes, jusqu'au soir."
-    },
-    {
-      "verse": 4,
-      "sub": false,
-      "latin_lemma": "Dedecus hoc sumptâ dissimulavit aquâ.",
-      "lemma": null,
-      "text": "D'autres traduisent l'Hébreu [10] par : _Et elle s'était purifiée par le bain de sa souillure, ou de l'incommodité propre à son sexe._ [11] _Hoc ideò additum_, dit Grotius, _ne miraremur illicò eam concepisse._ [12]"
+      "text": "[9] qui voulait qu'une femme qui s'était approchée d'un homme, se lavât, et demeurât souillée et séparée de l'usage des choses saintes, jusqu'au soir.\n\n_Dedecus hoc sumptâ dissimulavit aquâ._\nD'autres traduisent l'Hébreu [10] par : _Et elle s'était purifiée par le bain de sa souillure, ou de l'incommodité propre à son sexe._ [11] _Hoc ideò additum_, dit Grotius, _ne miraremur illicò eam concepisse._ [12]"
     },
     {
       "verse": 8,
@@ -95,8 +95,8 @@
       "verse": 21,
       "sub": false,
       "latin_lemma": "ABIMELECH FILIUM JEROBAAL.",
-      "lemma": "Abimélech fils de Jérobaal, ou de Gédéon, car on sait que Gédéon avait deux noms.",
-      "text": "Le Texte Hébreu au lieu de Jérobaal, lit, _Jérobéset_ ; les Juifs évitaient de prononcer le nom de Baal, parce qu'il leur rappelait le nom d'une idole; ils lui substituaient celui de _Béset_, qui signifie confusion, honte, ignominie. Miphiboseth et Isboseth s'appelaient de leur nom Miphibaal, et Isbaal ; on les a défigurés, de même que Jéroboset."
+      "lemma": "Abimélech fils de Jérobaal,",
+      "text": "ou de Gédéon, car on sait que Gédéon avait deux noms. Le Texte Hébreu au lieu de Jérobaal, lit, _Jérobéset_ ; les Juifs évitaient de prononcer le nom de Baal, parce qu'il leur rappelait le nom d'une idole; ils lui substituaient celui de _Béset_, qui signifie confusion, honte, ignominie. Miphiboseth et Isboseth s'appelaient de leur nom Miphibaal, et Isbaal ; on les a défigurés, de même que Jéroboset."
     },
     {
       "verse": 26,
@@ -110,7 +110,7 @@
       "sub": false,
       "latin_lemma": "DISPLICUIT VERBUM HOC... CORAM DOMINO.",
       "lemma": "Cette action que David avait faite, déplut au Seigneur.",
-      "text": "Il y a plusieurs crimes dans l'action de David ; l'adultère avec Bethsabée ; le meurtre d'Urie, pour lui enlever sa femme ; et le mariage avec cette femme. Cette dernière action lui est reprochée fortement par le Prophète Nathan : [19] _Vous avez fait mourir Urie par le glaive des enfants d'Ammon, et vous avez épousé sa femme. C'est pourquoi le glaive ne sortira point de votre maison, parce que vous avez pris la femme d'Urie. Je susciterai un mal dans votre famille, et je donnerai vos_ femmes à un autre, qui en abusera publiquement. Les Lois Canoniques déclarent nuls ces sortes de mariages, contractés entre l'homme adultère, et la femme qui est complice de son crime; et quoique la Loi de Moïse ne les défendît pas, on n'en peut pas conclure qu'ils fussent permis parmi les Juifs. Il y a des Commentateurs qui semblent vouloir dire que celui de David et de Bethsabée, était nul; mais d'autres [20] croient, ce me semble, avec plus de raison, qu'encore qu'il fût contraire à la justice, et qu'il déplût à Dieu, il n'était pas pour cela nul, et sans effet. Dieu condamna la manière dont David le contracta: il désapprouva la passion criminelle qui le lui fit contracter; mais il ne le rompit pas; et on ne peut pas dire que l'enfant qui avait été conçu dans l'adultère, fût illégitime: le mariage qui suivit, tout criminel qu'il était dans plusieurs de ses circonstances, fut favorable à l'enfant, et le fit regarder comme légitime.\nLes Rabbins [21] ont prétendu justifier absolument David dans toute cette action. Ils ont pour cela inventé des Lois, et des usages, dont on ne voit pas la moindre trace, ni dans leur Loi, ni dans leur histoire. Ils soutiennent que ce Prince épousa Bethsabée du vivant d'Urie, qui l'avait répudiée; parce que c'était une coutume parmi eux, que chaque soldat qui allait à l'armée, donnât, en partant, à sa femme une lettre de divorce, afin qu'elle pût librement se marier à d'autres. Mais pourquoi excuser une action aussi noire, et aussi criante que celle de David, puisque l'Ecriture la condamne, et la punit d'une manière si sévère, [22] et que David lui-même en témoigne une si grande douleur ? [23]"
+      "text": "Il y a plusieurs crimes dans l'action de David ; l'adultère avec Bethsabée ; le meurtre d'Urie, pour lui enlever sa femme ; et le mariage avec cette femme. Cette dernière action lui est reprochée fortement par le Prophète Nathan : [19] _Vous avez fait mourir Urie par le glaive des enfants d'Ammon, et vous avez épousé sa femme. C'est pourquoi le glaive ne sortira point de votre maison, parce que vous avez pris la femme d'Urie. Je susciterai un mal dans votre famille, et je donnerai vos_ _femmes à un autre, qui en abusera publiquement_. Les Lois Canoniques déclarent nuls ces sortes de mariages, contractés entre l'homme adultère, et la femme qui est complice de son crime; et quoique la Loi de Moïse ne les défendît pas, on n'en peut pas conclure qu'ils fussent permis parmi les Juifs. Il y a des Commentateurs qui semblent vouloir dire que celui de David et de Bethsabée, était nul; mais d'autres [20] croient, ce me semble, avec plus de raison, qu'encore qu'il fût contraire à la justice, et qu'il déplût à Dieu, il n'était pas pour cela nul, et sans effet. Dieu condamna la manière dont David le contracta: il désapprouva la passion criminelle qui le lui fit contracter; mais il ne le rompit pas; et on ne peut pas dire que l'enfant qui avait été conçu dans l'adultère, fût illégitime: le mariage qui suivit, tout criminel qu'il était dans plusieurs de ses circonstances, fut favorable à l'enfant, et le fit regarder comme légitime.\nLes Rabbins [21] ont prétendu justifier absolument David dans toute cette action. Ils ont pour cela inventé des Lois, et des usages, dont on ne voit pas la moindre trace, ni dans leur Loi, ni dans leur histoire. Ils soutiennent que ce Prince épousa Bethsabée du vivant d'Urie, qui l'avait répudiée; parce que c'était une coutume parmi eux, que chaque soldat qui allait à l'armée, donnât, en partant, à sa femme une lettre de divorce, afin qu'elle pût librement se marier à d'autres. Mais pourquoi excuser une action aussi noire, et aussi criante que celle de David, puisque l'Ecriture la condamne, et la punit d'une manière si sévère, [22] et que David lui-même en témoigne une si grande douleur ? [23]"
     }
   ],
   "joins": [
@@ -129,11 +129,11 @@
       "after": "ordinairement leurs bains, dans des lieux exposés à l'air."
     },
     {
-      "seam": "page_0108>page_0108",
-      "verse": 2,
+      "seam": "page_0108>page_0109",
+      "verse": 4,
       "mode": "para",
-      "before": "ordinairement leurs bains, dans des lieux exposés à l'air.",
-      "after": "Le père de Bethsabée est nommé Ammiel dans les Paralipomèn"
+      "before": "e et séparée de l'usage des choses saintes, jusqu'au soir.",
+      "after": "_Dedecus hoc sumptâ dissimulavit aquâ._\nD'autres traduisen"
     },
     {
       "seam": "page_0109>page_0110",
@@ -168,7 +168,7 @@
       "verse": 27,
       "mode": "flow",
       "before": " susciterai un mal dans votre famille, et je donnerai vos_",
-      "after": "femmes à un autre, qui en abusera publiquement. Les Lois C"
+      "after": "_femmes à un autre, qui en abusera publiquement_. Les Lois"
     }
   ],
   "pages_used": [

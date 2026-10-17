@@ -54,7 +54,7 @@
       "sub": false,
       "latin_lemma": "UT NOSSE ME DIGNARERIS.",
       "lemma": "D’où me vient ce bonheur, que vous daigniez faire attention à une pauvre étrangère.",
-      "text": "À la lettre, _que vous daigniez la reconnaître_, prendre connaissance de ce qui la regarde, ou la traiter comme une personne connue et amie. C’est ainsi que David dit à Dieu : [12] _Qu’est-ce que l’homme pour mériter que vous vous sou-_ veniez de lui; et le fils de l'homme, pour que vous vous fassiez connaître à lui?"
+      "text": "À la lettre, _que vous daigniez la reconnaître_, prendre connaissance de ce qui la regarde, ou la traiter comme une personne connue et amie. C’est ainsi que David dit à Dieu : [12] _Qu’est-ce que l’homme pour mériter que vous vous sou-_ _veniez de lui; et le fils de l'homme, pour que vous vous fassiez connaître à lui?_"
     },
     {
       "verse": 12,
@@ -168,7 +168,7 @@
       "verse": 10,
       "mode": "flow",
       "before": "c} _Qu’est-ce que l’homme pour mériter que vous vous sou-_",
-      "after": "veniez de lui; et le fils de l'homme, pour que vous vous f"
+      "after": "_veniez de lui; et le fils de l'homme, pour que vous vous "
     },
     {
       "seam": "page_0016>page_0017",

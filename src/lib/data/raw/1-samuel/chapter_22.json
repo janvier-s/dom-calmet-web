@@ -2,6 +2,7 @@
   "book": "1 Samuel",
   "chapter": 22,
   "chapter_summary": "Retraite de David dans la caverne d'Odollam, et ensuite chez le Roi de Moab. Le Prophète Gad lui dit de revenir dans le pays de Juda. Saül fait mourir tous les Prêtres de Nobé, excepté Abiathar, qui se sauve vers David.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -24,7 +25,7 @@
     {
       "verse_number": 3,
       "latin": "Et profectus est David inde in Maspha, quæ est Moab : et dixit ad Regem Moab : Maneat, oro, pater meus et mater mea vobiscum, donec sciam quid faciat mihi Deus.",
-      "french": "Il s'en alla de là à Maspha, qui est au pays de Moab, et il dit au Roi de Moab : Je vous prie de permettre que mon pere, et ma mere demeurent avec vous, jusqu'à ce que je sache ce que Dieu ordonnera de moi.",
+      "french": "Il s'en alla de là à Maspha, qui est au pays de Moab, et il dit au Roi de Moab : Je vous prie de permettre que mon père, et ma mère demeurent avec vous, jusqu'à ce que je sache ce que Dieu ordonnera de moi.",
       "annotations": "An. du Monde 2944.",
       "source_pages": [
         "page_0362.json"
@@ -33,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Et reliquit eos ante faciem Regis Moab : Manseruntque apud eum cunctis diebus, quibus David fuit in præsidio.",
-      "french": "Il les laissa auprès du Roi de Moab, et ils y demeurérent tout le tems que David fut dans cette forteresse.",
+      "french": "Il les laissa auprès du Roi de Moab, et ils y demeurèrent tout le temps que David fut dans cette forteresse.",
       "annotations": null,
       "source_pages": [
         "page_0362.json"

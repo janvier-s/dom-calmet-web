@@ -45,7 +45,7 @@
     {
       "verse": 5,
       "sub": false,
-      "latin_lemma": "QUI DE CONVALLIBUS ISTA RAPIENTES, CUM SINGULA REPERISSENT, etc.",
+      "latin_lemma": "QUI DE CONVALLIBUS ISTA RAPIENTES, CUM SINGULA REPERISSENT, ETC.",
       "lemma": "Qui allaient ravir ces choses dans le fond des vallées, et qui en ayant trouvé quelques-unes, y accouraient avec de grands cris.",
       "text": "Ce sens est assez clair. Voici comme on traduit l’Hébreu :[17] _On les chassait du corps de la ville, ou de l’assemblée, et on criait contre eux, comme contre des voleurs._ Les Septante le joignent avec ce qui précède : ils étaient contraints de manger des racines d’arbres, ( ℣. 5.) _Tant ils étaient pressés par la faim. Des voleurs se sont élevés contre moi._"
     },
@@ -94,7 +94,7 @@
     {
       "verse": 13,
       "sub": false,
-      "latin_lemma": "DISSIPAVERUNT ITINERA MEA, etc.",
+      "latin_lemma": "DISSIPAVERUNT ITINERA MEA, ETC.",
       "lemma": "Ils ont rompu tous les chemins par où je marchais.",
       "text": "Voici ce que porte l’Hébreu [32] de tout ce verset : _Ils ont fermé, rompu, dissipé toutes mes voies_, par où je pouvais me sauver, ou recevoir du secours. Il continue dans l’allégorie d’une ville assiégée, et fermée de toutes parts. _Ils_ trouvent leur compte, leur avantage, leur plaisir à me détruire, et à me perdre ; personne ne m'a secouru contre eux ; ou, ils n'ont eu besoin du secours de personne contre moi. Ils se sont trouvés assez forts pour me renverser, sans implorer le secours d'autrui."
     },
@@ -138,7 +138,7 @@
       "sub": false,
       "latin_lemma": "STO, ET NON RESPICIS ME.",
       "lemma": "Je me présente à vous,",
-      "text": "COMMENTAIRE.\net vous ne me regardez point. L'Hébreu [41] dit au contraire : _je suis debout devant vous, et vous me regardez_. Ou bien : _Je suis devant vous ; et est-il possible que vous voyiez ce que je souffre, sans me donner le moindre secours ?_ D'autres suppléent la négation du premier membre, comme a fait la Vulgate. _Je crie vers vous, et vous ne m'écoutez point ; je suis devant vous, et vous ne me regardez point_. Il y a plusieurs exemples d'une pareille construction dans l'Hébreu. Les Septante : [42] _J'ai crié vers vous, et vous ne m'avez point écouté ; mes ennemis sont venus, et ils m'ont considéré_."
+      "text": "COMMENTAIRE.\net vous ne me regardez point. L'hébreu [41] dit au contraire : _je suis debout devant vous, et vous me regardez_. Ou bien : _Je suis devant vous ; et est-il possible que vous voyiez ce que je souffre, sans me donner le moindre secours ?_ D'autres suppléent la négation du premier membre, comme l'a fait la Vulgate. _Je crie vers vous, et vous ne m'écoutez point ; je suis devant vous, et vous ne me regardez point_. Il y a plusieurs exemples d'une pareille construction dans l'hébreu. Les Septante : [42] _J'ai crié vers vous, et vous ne m'avez point écouté ; mes ennemis sont venus, et ils m'ont considéré_."
     },
     {
       "verse": 22,
@@ -238,7 +238,7 @@
       "verse": 20,
       "mode": "flow",
       "before": "Je me présente à vous,",
-      "after": "COMMENTAIRE.\net vous ne me regardez point. L'Hébreu ^{(a)}"
+      "after": "COMMENTAIRE.\net vous ne me regardez point. L'hébreu ^{(a)}"
     },
     {
       "seam": "page_0370>page_0371",

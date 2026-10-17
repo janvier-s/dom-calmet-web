@@ -2,6 +2,7 @@
   "book": "1 Samuel",
   "chapter": 23,
   "chapter_summary": "Céïla délivrée par David de la main des Philistins. David se retire de Céïla et va au désert de Ziph; Saül en est averti. David, étant ensuite dans le désert de Maon et prêt à tomber entre les mains de Saül, ce Prince est obligé de se retirer, à cause d'une irruption des Philistins.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -141,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Et surrexit Jonathas filius Saül: et abiit ad David in silvam, et confortavit manus ejus in Deo, dixitque ei:",
-      "french": "Jonathas, fils de Saül l'y vint trouver, et il le fortifia en Dieu, en lui disant:",
+      "french": "Jonathas, fils de Saül l'y vint trouver, et il le fortifia en Dieu, en lui disant :",
       "annotations": "An. du Monde 2945.",
       "source_pages": [
         "page_0374.json"
@@ -150,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Ne timeas: neque enim inveniet te manus Saül patris mei, et tu regnabis super Israël, et ego ero tibi secundus, sed et Saül pater meus scit hoc.",
-      "french": "Ne craignez point; car Saül mon pere, quoi qu'il fasse, ne vous trouvera point. vous serez Roi d'Israël, et je serai vôtre second; et mon pere le fait bien lui-même.",
+      "french": "Ne craignez point ; car Saül mon père, quoi qu'il fasse, ne vous trouvera point. Vous serez Roi d'Israël, et je serai votre second ; et mon père le sait bien lui-même.",
       "annotations": null,
       "source_pages": [
         "page_0374.json"
@@ -168,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Ascenderunt autem Ziphæi ad Saül in Gabaa, dicentes: Nonne ecce David latitat apud nos in locis tutissimis silvæ, in colle Hachila, quæ est ad dexteram deserti?",
-      "french": "Cependant ceux de Ziph vinrent trouver Saül à Gabaa, et lui dirent: Ne savez-vous pas que David est caché parmi nous, dans l'endroit le plus fort de la forêt, vers la colline d'Hachila, qui est à main droite du désert?",
+      "french": "Cependant ceux de Ziph vinrent trouver Saül à Gabaa, et lui dirent : Ne savez-vous pas que David est caché parmi nous, dans l'endroit le plus fort de la forêt, vers la colline d'Hachila, qui est à main droite du désert ?",
       "annotations": null,
       "source_pages": [
         "page_0374.json"
@@ -186,7 +187,7 @@
     {
       "verse_number": 21,
       "latin": "Dixitque Saül: Benedicti vos à Domino, quia doluistis vicem meam.",
-      "french": "Saül leur répondit: Benis soyez vous du Seigneur, vous qui avez été touchez de mes maux.",
+      "french": "Saül leur répondit : Bénis soyez-vous du Seigneur, vous qui avez été touchés de mes maux.",
       "annotations": null,
       "source_pages": [
         "page_0374.json"

@@ -2,6 +2,7 @@
   "book": "Genèse",
   "chapter": 45,
   "chapter_summary": "Joseph se fait connaître à ses frères ; ils s'en retournent chargez de présens vers Jacob, pour le faire venir en Egypte avec sa famille.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -240,7 +241,7 @@
     {
       "verse_number": 27,
       "latin": "Illi è contra referebant omnem ordinem rei. Cumque vidisset plaustra, et universa quae miserat, revixit spiritus ejus.",
-      "french": "Mais ses enfans au contraire lui racontaient par ordre tout ce qui s'était passé. Enfin ayant vû les chariots, etc tout ce que Joseph lui envoyait, il reprit ses esprits.",
+      "french": "Mais ses enfans au contraire lui racontaient par ordre tout ce qui s'était passé. Enfin ayant vû les chariots, et tout ce que Joseph lui envoyait, il reprit ses esprits.",
       "annotations": null,
       "source_pages": [
         "page_0875.json"

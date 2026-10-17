@@ -25,15 +25,15 @@
       "verse": 4,
       "sub": false,
       "latin_lemma": "RURSUM CONSULUIT.",
-      "lemma": "Il consulta encore le Seigneur, en faveur de ses gens, qui avaient de la répugnance à aller à Céila ; il le fit apparemment cette seconde fois en leur présence.",
-      "text": ""
+      "lemma": "Il consulta encore le Seigneur,",
+      "text": "en faveur de ses gens, qui avaient de la répugnance à aller à Céila ; il le fit apparemment cette seconde fois en leur présence."
     },
     {
       "verse": 5,
       "sub": false,
       "latin_lemma": "ABEGIT JUMENTA EORUM.",
-      "lemma": "Il emmena leurs troupeaux, ou plutôt leurs bêtes de somme, et de service.",
-      "text": "Les ânes et les chameaux des Philistins. L'Hébreu se peut entendre, [5] des troupeaux en général, ou même des biens, des possessions."
+      "lemma": "Il emmena leurs troupeaux,",
+      "text": "ou plutôt leurs bêtes de somme, et de service. Les ânes et les chameaux des Philistins. L'Hébreu se peut entendre, [5] des troupeaux en général, ou même des biens, des possessions."
     },
     {
       "verse": 6,
@@ -88,22 +88,29 @@
       "verse": 16,
       "sub": false,
       "latin_lemma": "CONFORTAVIT MANUS EJUS IN DEO.",
-      "lemma": "Il le fortifia en Dieu, par le souvenir des promesses de Dieu, ou par le renouvellement de leur alliance, faite au nom de Dieu; ou simplement: il le consola beaucoup. Le nom de Dieu sert à augmenter.",
-      "text": ""
+      "lemma": "Il le fortifia en Dieu,",
+      "text": "par le souvenir des promesses de Dieu, ou par le renouvellement de leur alliance, faite au nom de Dieu ; ou simplement : il le consola beaucoup. Le nom de Dieu sert à augmenter."
     },
     {
       "verse": 17,
       "sub": false,
       "latin_lemma": "ERO TIBI SECUNDUS.",
       "lemma": "Je serai vôtre second.",
-      "text": "Je vous aiderai, je vous seconderai en ce qui dépendra de moi; ou plûtôt: _je serai le second dans vôtre Royaume_: Je ne demande que le second rang; je sai que la Royauté vous est dûë. Ou enfin: _Je serai vôtre associé_. Je préférerais ce dernier sentiment. Il y a une expression à peu prés pareille dans l'Ecclésiaste :[13] _Un homme qui n'a ni second, ni fils, ni frere, et qui ne cesse pas de travailler_. Et un peu aprés: _Malheur à celui qui est seul; car s'il tombe, son second ne le releve pas._"
+      "text": "Je vous aiderai, je vous seconderai en ce qui dépendra de moi ; ou plutôt : _je serai le second dans votre Royaume_ : Je ne demande que le second rang ; je sais que la Royauté vous est due. Ou enfin : _Je serai votre associé_. Je préférerais ce dernier sentiment. Il y a une expression à peu près pareille dans l'Ecclésiaste :[13] _Un homme qui n'a ni second, ni fils, ni frère, et qui ne cesse pas de travailler_. Et un peu après : _Malheur à celui qui est seul ; car s'il tombe, son second ne le relève pas._"
     },
     {
       "verse": 17,
       "sub": false,
       "latin_lemma": "SED ET SAUL PATER MEUS SCIT HOC.",
-      "lemma": "Mon pere le fait",
-      "text": "bien lui-même. Il n'ignore pas la liaison qui est entre nous."
+      "lemma": "Mon père le sait",
+      "text": ""
+    },
+    {
+      "verse": 17,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "bien lui-même.",
+      "text": "Il n'ignore pas la liaison qui est entre nous."
     },
     {
       "verse": 22,
@@ -116,8 +123,8 @@
       "verse": 23,
       "sub": false,
       "latin_lemma": "SI IN TERRAM SE ABSTRUSERIT.",
-      "lemma": "Quand il serait caché au fond de la terre, ou dans le creux d'une caverne, je saurai le déterrer, et le prendre. [19]",
-      "text": "Opta ardua pennis.\nAstra sequi, clausúmque cavâ te condere terrâ.\nL'Hébreu : [17] _Et s'il est dans le pays, je le chercherai dans tous les mille de Juda_, dans toutes les villes, ou avec toutes les troupes de Juda ; car _les mille_, peuvent avoir ces deux sens. Les Septante : [18] _S'il est sur la terre ; je le chercherai dans tous les mille de Juda._"
+      "lemma": "Quand il serait caché au fond de la terre,",
+      "text": "ou dans le creux d'une caverne, je saurai le déterrer, et le prendre. [17]\n_...Opta ardua pennis.\nAstra sequi, clausúmque cavâ te condere terrâ._\nL'Hébreu : [18] _Et s'il est dans le pays, je le chercherai dans tous les mille de Juda_, dans toutes les villes, ou avec toutes les troupes de Juda ; car _les mille_, peuvent avoir ces deux sens. Les Septante : [19] _S'il est sur la terre ; je le chercherai dans tous les mille de Juda._"
     },
     {
       "verse": 24,
@@ -162,13 +169,6 @@
       "mode": "splice",
       "before": "ndes à la fois ; mais Dieu n'ayant répondu qu'à la premiè-",
       "after": "re, il fut obligé de répéter la seconde, pour en recevoir "
-    },
-    {
-      "seam": "page_0374>page_0375",
-      "verse": 17,
-      "mode": "flow",
-      "before": "Mon pere le fait",
-      "after": "bien lui-même. Il n'ignore pas la liaison qui est entre no"
     },
     {
       "seam": "page_0375>page_0376",
@@ -278,19 +278,19 @@
       "text": "Ita Glaff. Malu."
     },
     {
-      "key": "page_0375-e",
+      "key": "page_0375-d",
       "n": 17,
+      "text": "Virgil. Æneïd. XII."
+    },
+    {
+      "key": "page_0375-e",
+      "n": 18,
       "text": "והיה אם־ישנו בארץ וחפשתי אתו בכל אלפי יהודה"
     },
     {
       "key": "page_0375-f",
-      "n": 18,
-      "text": "Εἰ ἔςιν ἐν τῇ γῇ, ἐξερευνήσω ἀυτὸν ἐν πᾶσι χιλιάσιν Ιύδα."
-    },
-    {
-      "key": "page_0375-d",
       "n": 19,
-      "text": "Virgil. Æneïd. XII."
+      "text": "Εἰ ἔςιν ἐν τῇ γῇ, ἐξερευνήσω ἀυτὸν ἐν πᾶσι χιλιάσιν Ιύδα."
     },
     {
       "key": "page_0376-a",

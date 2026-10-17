@@ -2,6 +2,7 @@
   "book": "1 Samuel",
   "chapter": 4,
   "chapter_summary": "Guerre des Philistins contre les Israélites. Ceux-ci ayant été mis en fuite, font venir l’Arche d’alliance dans leur camp. Ils sont battus dans un second combat, et l’Arche est prise. Mort d’Héli, d’Ophni, de Phinées, et de la femme de Phinées.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -15,7 +16,7 @@
     {
       "verse_number": 2,
       "latin": "Et instruxerunt aciem contra Israël. Inito autem certamine, terga vertit Israël Philisthæis : et cæsa sunt in illo certamine passim per agros, quasi quatuor millia virorum.",
-      "french": "Et rangérent leur armée en bataille contre Israël. La bataille s'étant donnée, les Israëlites prirent la fuite ; et les Philistins les poursuivirent à travers les champs, en tuërent environ quatre mille dans ce combat.",
+      "french": "Et rangèrent leur armée en bataille contre Israël. La bataille s'étant donnée, les Israélites prirent la fuite ; et les Philistins les poursuivirent à travers les champs, en tuèrent environ quatre mille dans ce combat.",
       "annotations": "An. du Monde 2888.",
       "source_pages": [
         "page_0118.json"
@@ -69,7 +70,7 @@
     {
       "verse_number": 8,
       "latin": "Væ nobis : non enim fuit tanta exultatio heri et nudiustertius : væ nobis. Quis nos salvabit de manu Deorum sublimium istorum? Hi sunt Dii, qui percusserunt Ægyptum omni plagâ, in deserto.",
-      "french": "Malheur à nous, ajoûtérent-ils en soupirant ; car ils n'étaient point dans une si grande joie ni hier, ni avant hier. Malheur à nous. Qui nous sauvera de la main de ces Dieux si élevez ? Ce sont ces Dieux qui ont frappé toute l'Egypte de toute sorte de playe dans le désert.",
+      "french": "Malheur à nous, ajoutèrent-ils en soupirant ; car ils n'étaient point dans une si grande joie ni hier, ni avant-hier. Malheur à nous. Qui nous sauvera de la main de ces Dieux si élevés ? Ce sont ces Dieux qui ont frappé toute l'Égypte de toute sorte de plaie dans le désert.",
       "annotations": null,
       "source_pages": [
         "page_0122.json"

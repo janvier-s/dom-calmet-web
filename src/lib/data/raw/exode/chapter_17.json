@@ -2,6 +2,7 @@
   "book": "Exode",
   "chapter": 17,
   "chapter_summary": "Murmure des Israélites à Raphidim. Dieu fait sortir de l'eau du rocher d'Horeb. Défaite des Amalécites.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
@@ -60,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "Et vocavit nomen loci illius, Tentatio, propter jurgium filiorum Israël, et quia tentaverunt Dominum, dicentes : Est-ne Dominus in nobis, an non ?",
-      "french": "Et il appela ce lieu, la Tentation, à cause des plaintes des enfants d'Israël, etc. parce qu'ils y tentèrent le Seigneur, en disant : Le Seigneur est-il au milieu de nous, ou n'y est-il pas ?",
+      "french": "Et il appela ce lieu, la Tentation, à cause des plaintes des enfants d'Israël, et parce qu'ils y tentèrent le Seigneur, en disant : Le Seigneur est-il au milieu de nous, ou n'y est-il pas ?",
       "annotations": null,
       "source_pages": [
         "page_0266.json"

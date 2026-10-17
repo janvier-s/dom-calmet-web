@@ -40,7 +40,7 @@
       "sub": false,
       "latin_lemma": "ERITIS SICUT DII SCIENTES BONUM ET MALUM.",
       "lemma": "Vous serez comme des Dieux, sachant le bien et le mal.",
-      "text": "Le terme hébreu _Elohim_[16] signifie Dieu, les Dieux, les Princes, les Anges, les Juges. Le Chaldéen traduit : _Vous serez comme des Princes_[17]. Les Rabbins et plusieurs Interprètes : _Vous serez comme des Anges._ Enfin on peut traduire : _Vous serez semblables à Dieu, par la connaissance que vous_ aurez du bien et du mal ; c'est-à-dire, par la connaissance de toutes choses : et on voit par la suite qu'Adam et Ève se flattaient en effet de devenir aussi éclairés que Dieu même : _Voilà Adam devenu semblable à nous_, dit Dieu à Adam après sa chute. Savoir le bien et le mal, dans l'Écriture[18] et dans les Profanes[19], signifie une parfaite connaissance de toutes choses."
+      "text": "Le terme hébreu _Elohim_[16] signifie Dieu, les Dieux, les Princes, les Anges, les Juges. Le Chaldéen traduit : _Vous serez comme des Princes_[17]. Les Rabbins et plusieurs Interprètes : _Vous serez comme des Anges._ Enfin on peut traduire : _Vous serez semblables à Dieu_, par la connaissance que vous aurez du bien et du mal ; c'est-à-dire, par la connaissance de toutes choses : et on voit par la suite qu'Adam et Ève se flattaient en effet de devenir aussi éclairés que Dieu même : _Voilà Adam devenu semblable à nous_, dit Dieu à Adam après sa chute. Savoir le bien et le mal, dans l'Écriture[18] et dans les Profanes[19], signifie une parfaite connaissance de toutes choses."
     },
     {
       "verse": 6,
@@ -286,7 +286,7 @@
       "seam": "page_0189>page_0190",
       "verse": 5,
       "mode": "flow",
-      "before": "ous serez semblables à Dieu, par la connaissance que vous_",
+      "before": "ous serez semblables à Dieu_, par la connaissance que vous",
       "after": "aurez du bien et du mal ; c'est-à-dire, par la connaissanc"
     },
     {
@@ -463,7 +463,7 @@
     {
       "key": "page_0185-a",
       "n": 4,
-      "text": "2 Corinthiens 11,3. Apoc. 12,9."
+      "text": "2 Corinthiens 11,3 ; Apocalypse 12,9."
     },
     {
       "key": "page_0185-b",
@@ -523,27 +523,27 @@
     {
       "key": "page_0189-c",
       "n": 16,
-      "text": "אלהימ"
+      "text": "אלהים"
     },
     {
       "key": "page_0189-d",
       "n": 17,
-      "text": "ורברבין"
+      "text": "רברבין"
     },
     {
       "key": "page_0190-a",
       "n": 18,
-      "text": "Genèse 2,9. et 24,50. et 31,24."
+      "text": "Genèse 2,9 ; 24,50 ; 31,24."
     },
     {
       "key": "page_0190-b",
       "n": 19,
-      "text": "Homer. Odiss. I. et Σ. et Hesiod. Theogoniae, verset 873. [UNCERTAIN GREEK]"
+      "text": "Homer. Odiss. I. et Σ. et Hesiod. Theogoniae, verset 873. Ὡς δ' οἱ φράσσαιτο θεὰ ἀγαθόντε, κακόντε."
     },
     {
       "key": "page_0190-c",
       "n": 20,
-      "text": "[UNCERTAIN HEBREW] DEDIT, REDDIDIT."
+      "text": "עמה DEDIT, REDDIDIT."
     },
     {
       "key": "page_0190-d",
@@ -603,7 +603,7 @@
     {
       "key": "page_0192-g",
       "n": 32,
-      "text": "Theodot. Εν τῶ πνέυματι τῆς ἡμέρας."
+      "text": "Theodot. Ἐν τῷ πνεύματι πρὸς κατάψυξιν τῆς ἡμέρας."
     },
     {
       "key": "page_0193-a",
@@ -638,7 +638,7 @@
     {
       "key": "page_0195-a",
       "n": 39,
-      "text": "Vid. Exode 21,29. Levit. 20,15. Deutéronome 7,25. et 13,15. Josue. 7,25."
+      "text": "Voyez Exode 21,29 ; Lévitique 20,15 ; Deutéronome 7,25 ; 13,15 ; Josué 7,25."
     },
     {
       "key": "page_0195-b",
@@ -693,7 +693,7 @@
     {
       "key": "page_0197-h",
       "n": 50,
-      "text": "Τρήσει."
+      "text": "Τειρήσει."
     },
     {
       "key": "page_0197-i",
@@ -703,17 +703,17 @@
     {
       "key": "page_0198-a",
       "n": 52,
-      "text": "Isaïe 11,4. et 2 Thess. 2,8."
+      "text": "Isaïe 11,4 ; 2 Thessaloniciens 2,8."
     },
     {
       "key": "page_0198-b",
       "n": 53,
-      "text": "Πληθυνῶ τὰς λύπας σỡ καὶ τὰς ςεναγμὸς σỡ."
+      "text": "Πληθυνῶ τὰς λύπας σου καὶ τοὺς στεναγμούς σου."
     },
     {
       "key": "page_0198-c",
       "n": 54,
-      "text": "אל אישך תשוקתך 70. πρὸς τὸν ἄνδρα σαυ ἡ ἀποςροφή σαυ."
+      "text": "אל אישך תשוקתך 70. πρὸς τὸν ἄνδρα σου ἡ ἀποστροφή σου."
     },
     {
       "key": "page_0199-a",
@@ -783,7 +783,7 @@
     {
       "key": "page_0201-f",
       "n": 68,
-      "text": "Actes 18,3. 1 Thess. 2,9. 2 Thess. 3,8. etc."
+      "text": "Actes 18,3 ; 1 Thessaloniciens 2,9 ; 2 Thessaloniciens 3,8 etc."
     },
     {
       "key": "page_0202-a",
@@ -813,7 +813,7 @@
     {
       "key": "page_0203-d",
       "n": 74,
-      "text": "באחד ממנו לדעת טוב ורע"
+      "text": "כאחד ממנו לדעת טוב ורע"
     },
     {
       "key": "page_0203-e",
@@ -853,7 +853,7 @@
     {
       "key": "page_0206-b",
       "n": 82,
-      "text": "Grot. inExode 25Angelos μακροπιέρους."
+      "text": "Grot. inExode 25Angelos μοσχομόρφους."
     },
     {
       "key": "page_0206-c",

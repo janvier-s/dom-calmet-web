@@ -53,8 +53,8 @@
       "verse": 3,
       "sub": false,
       "latin_lemma": "ET NUNC TRADO ILLUD TIBI.",
-      "lemma": "Je vous le donne maintenant ; ou plutôt je vous le destine, je vous le promets.",
-      "text": "L'Hébreu : [13] _Et à présent je vous le rendrai._ Elle en fit des ornements, et des figures qu'elle lui donna ; dont elle le rendit gardien et dépositaire."
+      "lemma": "Je vous le donne maintenant ;",
+      "text": "ou plutôt je vous le destine, je vous le promets. L'Hébreu : [13] _Et à présent je vous le rendrai._ Elle en fit des ornements, et des figures qu'elle lui donna ; dont elle le rendit gardien et dépositaire."
     },
     {
       "verse": 4,
@@ -96,7 +96,7 @@
       "sub": false,
       "latin_lemma": "FUIT QUOQUE IN TEMPORE ILLO ALTER ADOLESCENS DE BETHLEHEM JUDA, EX COGNATIONE EJUS, ERATQUE IPSE LEVITES.",
       "lemma": "En ce temps-là il y eut aussi un autre jeune homme de Bethléem en Juda, de cette même tribu, qui était Lévite.",
-      "text": "Ce jeune Lévite est appelé Jonathan, fils de Gersam, fils de Moïse, au Chapitre suivant. [23] Il était de la race de Lévi par son père, mais apparemment, sa mère était de la tribu de Juda, et ainsi il appartenait à cette tribu par sa mère. L’Auteur fait donc ici cette remarque, pour rendre raison de ce qu’il demeurait à Bethléem, qui n’était pas du nombre des villes assignées aux Lévites. Tout le monde sait que les Lévites, de même que les autres Israélites, pouvaient épouser des femmes de toutes les autres tribus, à moins que ces femmes ne fussent héritières ; car alors elles ne pouvaient prendre des maris que dans leurs tribus. L’Hébreu de ce passage porte à la lettre : _Il y avait un jeune homme de Bethléem_ de Juda, de la tribu de Juda, qui était Lévite, et qui y demeurait."
+      "text": "Ce jeune Lévite est appelé Jonathan, fils de Gersam, fils de Moïse, au Chapitre suivant. [23] Il était de la race de Lévi par son père, mais apparemment, sa mère était de la tribu de Juda, et ainsi il appartenait à cette tribu par sa mère. L’Auteur fait donc ici cette remarque, pour rendre raison de ce qu’il demeurait à Bethléem, qui n’était pas du nombre des villes assignées aux Lévites. Tout le monde sait que les Lévites, de même que les autres Israélites, pouvaient épouser des femmes de toutes les autres tribus, à moins que ces femmes ne fussent héritières ; car alors elles ne pouvaient prendre des maris que dans leurs tribus. L’Hébreu de ce passage porte à la lettre : _Il y avait un jeune homme de Bethléem_ _de Juda, de la tribu de Juda, qui était Lévite, et qui y demeurait._"
     },
     {
       "verse": 10,
@@ -115,8 +115,8 @@
     {
       "verse": 13,
       "sub": false,
-      "latin_lemma": "Nunc scio, dicens, quòd benefaciet mihi Deus habenti Levitici generis sacerdotem.",
-      "lemma": "Car maintenant, disait-il, je sais que Dieu me fera du bien ; puisque j’ai chez moi un Prêtre de la race de Lévi.",
+      "latin_lemma": null,
+      "lemma": null,
       "text": "breu, au lieu de chaque année, met simplement pour des jours ; mais cette expression signifie le plus souvent une année. [29]"
     },
     {
@@ -168,7 +168,7 @@
       "verse": 7,
       "mode": "flow",
       "before": "orte à la lettre : _Il y avait un jeune homme de Bethléem_",
-      "after": "de Juda, de la tribu de Juda, qui était Lévite, et qui y d"
+      "after": "_de Juda, de la tribu de Juda, qui était Lévite, et qui y "
     }
   ],
   "pages_used": [

@@ -166,7 +166,14 @@
       "sub": false,
       "latin_lemma": "PRONUS IN TERRAM, POSUIT FACIEM SUAM INTER GENUA SUA.",
       "lemma": "Se penchant en terre, il mit son visage entre",
-      "text": "ses genoux. Il y en a qui croient que d'abord il se prosterna le visage contre terre ; et qu'ensuite s'étant assis, il pria le visage entre ses genoux; ou bien, qu'il se mit à genoux, et pencha sa tête vers la terre sur ses genoux. Ce qui me paraît plus probable."
+      "text": ""
+    },
+    {
+      "verse": 42,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "ses genoux.",
+      "text": "Il y en a qui croient que d'abord il se prosterna le visage contre terre ; et qu'ensuite s'étant assis, il pria le visage entre ses genoux; ou bien, qu'il se mit à genoux, et pencha sa tête vers la terre sur ses genoux. Ce qui me paraît plus probable."
     },
     {
       "verse": 44,
@@ -180,14 +187,14 @@
       "sub": false,
       "latin_lemma": "CUMQUE SE VERTERET HUC ATQUE ILLUC.",
       "lemma": "Lorsqu'il allait d'un côté et d'autre.",
-      "text": "Ou plutôt: Pendant qu'on allait de côté et d'autre, et qu'on s'empressait à mettre les chevaux au char du Roi. L'Hébreu : [54] Et comme il était ainsi et ainsi ; ou, pendant qu'on est là et là. En un mot, pendant tout ce mouvement, ces allées, et ces venues, on vit des nuages se former dans l'air."
+      "text": "Ou plutôt: Pendant qu'on allait de côté et d'autre, et qu'on s'empressait à mettre les chevaux au char du Roi. L'Hébreu : [54] _Et comme il était ainsi et ainsi ;_ ou, _pendant qu'on est là et là_. En un mot, pendant tout ce mouvement, ces allées, et ces venues, on vit des nuages se former dans l'air."
     },
     {
       "verse": 46,
       "sub": false,
       "latin_lemma": "CURREBAT ANTE ACHAB.",
-      "lemma": "Il courait devant Achab, emporté par la violence de l'Esprit saint, qui le faisait devancer même les chevaux, et le chariot du Prince.",
-      "text": "On dit qu'encore aujourd'hui on voit dans le Levant des hommes, qui voulant imiter les anciens, et vrais Prophètes, courent avec une rapidité presque incroyable, et font des mouvements impétueux, et violents, devant le char des Princes qu'ils accompagnent. Jezrahel était comme la maison de plaisance d'Achab. Il y avait un Palais. [55] Mais sa demeure ordinaire était à Samarie. [56] Elie vint à Jezrahel avec le Roi ; il l'accompagna apparemment jusqu'à Samarie, où il retourna le lendemain. C'est là où Jézabel lui fit faire les menaces que nous lisons au Chapitre suivant."
+      "lemma": "Il courait devant Achab,",
+      "text": "emporté par la violence de l'Esprit saint, qui le faisait devancer même les chevaux, et le chariot du Prince. On dit qu'encore aujourd'hui on voit dans le Levant des hommes, qui voulant imiter les anciens, et vrais Prophètes, courent avec une rapidité presque incroyable, et font des mouvements impétueux, et violents, devant le char des Princes qu'ils accompagnent. Jezrahel était comme la maison de plaisance d'Achab. Il y avait un Palais. [55] Mais sa demeure ordinaire était à Samarie. [56] Elie vint à Jezrahel avec le Roi ; il l'accompagna apparemment jusqu'à Samarie, où il retourna le lendemain. C'est là où Jézabel lui fit faire les menaces que nous lisons au Chapitre suivant."
     }
   ],
   "joins": [
@@ -290,18 +297,11 @@
       "after": "L'Empereur Julien, ^{(a)} tout ennemi qu'il était de la Re"
     },
     {
-      "seam": "page_0379>page_0380",
-      "verse": 42,
-      "mode": "flow",
-      "before": "Se penchant en terre, il mit son visage entre",
-      "after": "ses genoux. Il y en a qui croient que d'abord il se proste"
-    },
-    {
       "seam": "page_0380>page_0381",
       "verse": 45,
       "mode": "flow",
       "before": "'autre, et qu'on s'empressait à mettre les chevaux au char",
-      "after": "du Roi. L'Hébreu : ^{(a)} Et comme il était ainsi et ainsi"
+      "after": "du Roi. L'Hébreu : ^{(a)} _Et comme il était ainsi et ains"
     }
   ],
   "pages_used": [

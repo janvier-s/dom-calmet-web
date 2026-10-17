@@ -67,7 +67,7 @@
       "verse": 14,
       "sub": false,
       "latin_lemma": "QUÆ HABITABAT IN SECUNDA.",
-      "lemma": "Qui demeurait dans la seconde.",
+      "lemma": "Qui demeurait dans la seconde.[32]",
       "text": "Que veut dire cette seconde ? On dit communément[26] que c'était une seconde enceinte de la ville, faite par Ézéchias.[27] Mais nous sommes persuadé que ce fut Manassé qui ferma cette partie de la ville.[28] Les Juifs[29] tiennent qu'elle avait une école, où l'on enseignait la Loi. Ce lieu était, dit-on, près du Temple, et les savants s'y trouvaient pour s'entretenir des sciences qui regardaient l'interprétation des lois. Mais comme quelques-uns[30] prétendent qu'alors les livres de la Loi étaient absolument inconnus, ils soutiennent aussi que cette école était pour les études profanes : Tout cela est en l'air. Sophonie parle clairement de cette seconde, comme d'un lieu dans Jérusalem : _Vox clamoris a porta piscium, et ululatus a secunda, et contritio magna a collibus_. Voyez saint Jérôme[31] sur ce prophète."
     },
     {
@@ -75,7 +75,7 @@
       "sub": false,
       "latin_lemma": "IDCIRCO COLLIGERIS AD SEPULCRUM TUUM IN PACE.",
       "lemma": "Vous serez enseveli en paix.",
-      "text": "Tout le monde sait que Josias fut tué dans un combat, qu'il livra mal à propos au roi d'Égypte, [32] qui ne l'attaquait pas, et qui n'en voulait pas à lui ; cela n'empêcha pas que Josias ne fût enseveli en paix : ayant été mené à Jérusalem, et enterré avec toutes les solennités accoutumées. L'Écriture remarque ici une chose qui mérite beaucoup d'attention, qui est que Dieu le tira du monde en paix ; afin que ses yeux ne fussent pas témoins des maux qu'il devait faire tomber sur Jérusalem. Il mourut pendant que le pays était encore dans la prospérité et la paix, et avant les malheurs qui survinrent après sa mort, à Jérusalem et à ses États."
+      "text": "Tout le monde sait que Josias fut tué dans un combat, qu'il livra mal à propos au roi d'Égypte, [33] qui ne l'attaquait pas, et qui n'en voulait pas à lui ; cela n'empêcha pas que Josias ne fût enseveli en paix : ayant été mené à Jérusalem, et enterré avec toutes les solennités accoutumées. L'Écriture remarque ici une chose qui mérite beaucoup d'attention, qui est que Dieu le tira du monde en paix ; afin que ses yeux ne fussent pas témoins des maux qu'il devait faire tomber sur Jérusalem. Il mourut pendant que le pays était encore dans la prospérité et la paix, et avant les malheurs qui survinrent après sa mort, à Jérusalem et à ses États."
     }
   ],
   "joins": [
@@ -276,8 +276,13 @@
       "text": "Hieron. in Sophon 1. 10. Quod autem ait Ululatus à secunda, secundi muri in eodem clausam portam significat."
     },
     {
-      "key": "page_0318-a",
+      "key": "page_0317-a",
       "n": 32,
+      "text": "במשנה Vatab."
+    },
+    {
+      "key": "page_0318-a",
+      "n": 33,
       "text": "4. Reg. XXIII. 29."
     }
   ],

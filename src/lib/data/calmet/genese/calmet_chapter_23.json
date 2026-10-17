@@ -117,7 +117,14 @@
       "sub": false,
       "latin_lemma": "QUADRINGINTIS SICLIS.",
       "lemma": "Quatre cents sicles.",
-      "text": "Les 70. traduisent souvent l'hébreu _Schekel_ [23], par _Didragma_. La drachme attique était de trois sols et demi ; ainsi les deux drachmes, ou le didrachme, ne serait que sept sols : et quand on serait la drachme hébraïque de la valeur de deux drachmes attiques, cela n'irait qu'à quatorze sols pour le sicle. Xénophon [24] dit que le sicle de Babylone vaut sept oboles et demi ; ce qui ne fait toujours qu'environ trois sols et demi, en mettant l'obole à sept deniers. Mais nos Commentateurs soutiennent que le sicle dont il est parlé ici pesait une once, et qu'il valait environ trente sols de notre monnaie. Nous nous en tenons à ce qu'en ont dit ceux qui ont écrit exprès sur cette matière, qui souffrira toujours de très grosses difficultés. Le sicle était le poids le plus commun et le plus aisé, et l'on peut croire que dans le commerce l'on se servait de petits lingots d'argent d'un certain nombre d'onces, et souvent d'une seule once, pour la facilité du trafic.\n\nLes termes de _pecunia_, et de _moneta_ qu'on lit ici, insinuent l'usage de l'argent monnayé et frappé au coin ; mais l'hébreu met seulement, _peser de l'argent_ ; ce qui ne marque que le poids du métal. Le terme _Schekel_ ne marque non plus qu'un certain poids. Les quatre cents sicles pouvaient monter à six cents livres de notre monnaie, selon les Auteurs que nous suivons."
+      "text": "Les 70. traduisent souvent l'hébreu _Schekel_ [23], par _Didragma_. La drachme attique était de trois sols et demi ; ainsi les deux drachmes, ou le didrachme, ne serait que sept sols : et quand on serait la drachme hébraïque de la valeur de deux drachmes attiques, cela n'irait qu'à quatorze sols pour le sicle. Xénophon [24] dit que le sicle de Babylone vaut sept oboles et demi ; ce qui ne fait toujours qu'environ trois sols et demi, en mettant l'obole à sept deniers. Mais nos Commentateurs soutiennent que le sicle dont il est parlé ici pesait une once, et qu'il valait environ trente sols de notre monnaie. Nous nous en tenons à ce qu'en ont dit ceux qui ont écrit exprès sur cette matière, qui souffrira toujours de très grosses difficultés. Le sicle était le poids le plus commun et le plus aisé, et l'on peut croire que dans le commerce l'on se servait de petits lingots d'argent d'un certain nombre d'onces, et souvent d'une seule once, pour la facilité du trafic."
+    },
+    {
+      "verse": 15,
+      "sub": false,
+      "latin_lemma": "APPENDIT PECUNIAM 400. SICLOS ARGENTI PROBATÆ MONETÆ PUBLICÆ",
+      "lemma": "Il lui pesa quatre cents sicles d'argent, et les paya en bonne monnaie, reçue de tout le monde.",
+      "text": "Les termes de _pecunia_, et de _moneta_ qu'on lit ici, insinuent l'usage de l'argent monnayé et frappé au coin ; mais l'hébreu met seulement, _peser de l'argent_ ; ce qui ne marque que le poids du métal. Le terme _Schekel_ ne marque non plus qu'un certain poids. Les quatre cents sicles pouvaient monter à six cents livres de notre monnaie, selon les Auteurs que nous suivons."
     },
     {
       "verse": 15,
@@ -164,13 +171,6 @@
       "after": "que le sicle dont il est parlé ici pesait une once, et qu'"
     },
     {
-      "seam": "page_0586>page_0586",
-      "verse": 15,
-      "mode": "para",
-      "before": ", et souvent d'une seule once, pour la facilité du trafic.",
-      "after": "Les termes de _pecunia_, et de _moneta_ qu'on lit ici, ins"
-    },
-    {
       "seam": "page_0586>page_0587",
       "verse": 17,
       "mode": "flow",
@@ -201,7 +201,7 @@
     {
       "key": "page_0579-b",
       "n": 1,
-      "text": "Galates 4,22, 23."
+      "text": "Galates 4,22-23."
     },
     {
       "key": "page_0579-c",
@@ -221,12 +221,12 @@
     {
       "key": "page_0580-c",
       "n": 5,
-      "text": "Εν κοιλάσιν."
+      "text": "Ἐν κοιλώματι."
     },
     {
       "key": "page_0580-d",
       "n": 6,
-      "text": "Josue 14,15."
+      "text": "Josué 14,15."
     },
     {
       "key": "page_0580-e",
@@ -251,7 +251,7 @@
     {
       "key": "page_0582-a",
       "n": 11,
-      "text": "Joseph. de bello lib. 5. c. 7. ἐν τῶ μνημείω καῖξαι τὸ νῦν ἐν τῆδε τῇ πόλεων. Δίκαιον, πάνω καὶ τῆς μέμψεως, καὶ φιλανθρώπων εἰργάσμην."
+      "text": "Joseph. de bello lib. 5. c. 7. ὧν τὰ μνημεῖα μέχρι τοῦ νῦν ἐν τῇδε τῇ πολίχνῃ δείκνυται, πάνυ καλῆς μαρμάρου, καὶ φιλοτίμως εἰργασμένα."
     },
     {
       "key": "page_0583-a",
@@ -261,7 +261,7 @@
     {
       "key": "page_0583-b",
       "n": 13,
-      "text": "Basilius παρὰ θεῦ συ."
+      "text": "Βασιλεὺς παρὰ θεοῦ συ."
     },
     {
       "key": "page_0583-c",
@@ -281,32 +281,32 @@
     {
       "key": "page_0584-c",
       "n": 17,
-      "text": "Καὶ τῶν εἰσπορευομένων εἰς τὴν πόλιν αὐτῶν."
+      "text": "Καὶ τῶν εἰσπορευομένων εἰς τὴν πόλιν πάντων."
     },
     {
       "key": "page_0584-d",
       "n": 18,
-      "text": "Ita et verset 18. et passim. Γενοῦ μεθ’ ἡμῶν, Κύριε, et ἄκουσόν μου."
+      "text": "Ita et verset 18. et passim. Παρ’ ἐμοὶ γενοῦ, Κύριε, et ἄκουσόν μου."
     },
     {
       "key": "page_0584-e",
       "n": 19,
-      "text": "אם אתח לי"
+      "text": "אם אתה לי"
     },
     {
       "key": "page_0584-f",
       "n": 20,
-      "text": "אם אתח לי"
+      "text": "אם אתה לי"
     },
     {
       "key": "page_0585-a",
       "n": 21,
-      "text": "Εἰσάκουσόν μοι, écoutez-moi."
+      "text": "Ἐπειδὴ πρὸς ἐμοῦ εἶ, écoutez-moi."
     },
     {
       "key": "page_0585-b",
       "n": 22,
-      "text": "Ils ont lu לו לא non, au lieu de לו לי à lui, qui est à la fin du verset 14. et שמעתי j'ai appris, au lieu de שמעני"
+      "text": "Ils ont lu lo לא non, au lieu de lo לו à lui, qui est à la fin du verset 14. et שמעתי j'ai appris, au lieu de שמעני"
     },
     {
       "key": "page_0585-c",

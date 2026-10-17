@@ -10,9 +10,16 @@
     {
       "verse": 3,
       "sub": false,
-      "latin_lemma": "SALPHAAD..... NON ERANT FILII, SED SOLÆ FI-",
+      "latin_lemma": "SALPHAAD... NON ERANT FILII, SED SOLÆ FI-",
       "lemma": null,
-      "text": "LIR. Salphaad n'avait point eu de fils, mais des filles seulement. On peut voir ce qu'on a dit au sujet des filles de Salphaad dans le Livre des Nombres chap. XXXVI. 1. Elles eurent leurs partages en deçà du Jourdain, joignant la tribu d'Éphraïm."
+      "text": ""
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "LIÆ",
+      "lemma": "Salphaad n'avait point eu de fils, mais des filles seulement.",
+      "text": "On peut voir ce qu'on a dit au sujet des filles de Salphaad dans le Livre des Nombres chap. XXXVI. 1. Elles eurent leurs partages en deçà du Jourdain, joignant la tribu d'Éphraïm."
     },
     {
       "verse": 5,
@@ -59,7 +66,7 @@
     {
       "verse": 9,
       "sub": false,
-      "latin_lemma": "DESCENDIT TERMINUS VALLIS ARUNDINETI, IN MERIDIEM TORRENTIS, etc.",
+      "latin_lemma": "DESCENDIT TERMINUS VALLIS ARUNDINETI, IN MERIDIEM TORRENTIS, ETC.",
       "lemma": "La frontière de la vallée des Roseaux, descend au midi du torrent des villes d'Éphraïm.",
       "text": "Voici l'Hébreu de cet endroit à la lettre : _Et la frontière du torrent des Roseaux descend au midi du torrent. Ces villes sont à Éphraïm au milieu des villes de Manassé._ La frontière de Manassé qu'on décrit ici, se prend au midi, et non pas au nord du torrent des Roseaux ; en sorte que ce torrent était au nord des limites, et enfermé dans le partage de Manassé : mais nonobstant que ce torrent ou cette vallée fut comprise dans le terrain de Manassé, les villes qui étaient situées sur le torrent, et au nord de ces limites, étaient à Éphraïm, et non pas à Manassé. Cette explication éclaircit encore ce qui suit : _Terminus Manassé ab aquilone torrentis_, etc. La frontière de Manassé est depuis le septentrion du torrent, et va se terminer à la mer. La tribu de Manassé est bornée du côté du septentrion par le torrent des Roseaux, et son extrémité est sur la mer Méditerranée. Le ℣. suivant justifie parfaitement cette exposition."
     },
@@ -171,13 +178,6 @@
       "after": "Joseph, et il devait avoir plus de 180. ans au temps du pa"
     },
     {
-      "seam": "page_0303>page_0304",
-      "verse": 3,
-      "mode": "flow",
-      "before": "",
-      "after": "LIR. Salphaad n'avait point eu de fils, mais des filles se"
-    },
-    {
       "seam": "page_0304>page_0305",
       "verse": 5,
       "mode": "flow",
@@ -215,8 +215,8 @@
     {
       "seam": "page_0309>page_0310",
       "verse": 11,
-      "mode": "mend",
-      "before": "fn:page_0309-e} en ce sens, qui lui convient parfaitement.",
+      "mode": "flow",
+      "before": "{fn:page_0309-e} en ce sens, qui lui convient parfaitement",
       "after": "dans tous les endroits où il se trouve. L'Hébreu ^{(a)} di"
     },
     {

@@ -1,12 +1,13 @@
 {
   "book": "1 Samuel",
   "chapter": 20,
-  "chapter_summary": "David vient prier Jonathas de sonder les dispositions de Saül à son égard. Ces deux amis renouüellent leur alliance. Saül persevere dans le dessein de perdre David. Jonathas lui en donne avis. Ils se séparent.",
+  "chapter_summary": "David vient prier Jonathas de sonder les dispositions de Saül à son égard. Ces deux amis renouvellent leur alliance. Saül persévère dans le dessein de perdre David. Jonathas lui en donne avis. Ils se séparent.",
+  "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Fugit autem David de Naioth, quæ est in Ramatha, veniénsque loquutus est coram Jonatha : Quid feci ? Quæ est iniquitas mea, et quod peccatum meum in patrem tuum, quia quærit animam meam !",
-      "french": "En même tems David s'enfuit de Naïoth prés de Ramatha, vint parler à Jonathas, et lui dit: Qu'ai-je fait ? Quel est mon crime ? Quelle faute ai-je commise contre vôtre pere, pour l'obliger à vouloir ainsi m'ôter la vie ?",
+      "french": "En même temps David s'enfuit de Naïoth près de Ramatha, vint parler à Jonathas, et lui dit : Qu'ai-je fait ? Quel est mon crime ? Quelle faute ai-je commise contre votre père, pour l'obliger à vouloir ainsi m'ôter la vie ?",
       "annotations": "An. du Monde 2944. avant J.C. 1060.",
       "source_pages": [
         "page_0335.json"
@@ -15,7 +16,7 @@
     {
       "verse_number": 2,
       "latin": "Qui dixit ei : Absit, non morieris : neque enim faciet pater meus quidquam grande vel parvum, nisi priùs indicaverit mihi : hunc ergò celavit me pater meus sermonem tantummodò? Nequaquam erit istud.",
-      "french": "Jonathas lui dit: Non; vous ne mourrez point; car mon pere ne fera aucune chose, ni grande, ni petite, sans m'en parler. N'y aurait-il donc que cela qu'il m'aurait voulu cacher ? Non, cela ne sera point.",
+      "french": "Jonathas lui dit : Non ; vous ne mourrez point ; car mon père ne fera aucune chose, ni grande, ni petite, sans m'en parler. N'y aurait-il donc que cela qu'il m'aurait voulu cacher ? Non, cela ne sera point.",
       "annotations": null,
       "source_pages": [
         "page_0335.json"

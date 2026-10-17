@@ -10,9 +10,9 @@
     {
       "verse": 2,
       "sub": false,
-      "latin_lemma": "QUIA CUM ESSET VIRGO, etc.",
-      "lemma": "Parce que comme elle était vierge, il paraissait difficile à Amnon de rien faire avec elle contre l'honnêteté.",
-      "text": "Les filles étaient resserrées dans des appartements éloignés des hommes, et l'on n'en permettait l'entrée ni aux étrangers, ni même aux parents d'un autre sexe; ainsi Amnon ne pouvait espérer de découvrir sa passion à sa sœur, et moins encore de la satisfaire ; c'est ce qui lui causa une langueur, qui se fit bientôt remarquer sur son visage. Il fallait pourtant qu'il eût vu Thamar, puisqu'il avait conçu pour elle un amour si violent. Les filles sortaient quelquefois dans certaines cérémonies, mais toujours bien accompagnées."
+      "latin_lemma": "QUIA CUM ESSET VIRGO, ETC.",
+      "lemma": "Parce que comme elle était vierge,",
+      "text": "il paraissait difficile à Amnon de rien faire avec elle contre l'honnêteté. Les filles étaient resserrées dans des appartements éloignés des hommes, et l'on n'en permettait l'entrée ni aux étrangers, ni même aux parents d'un autre sexe; ainsi Amnon ne pouvait espérer de découvrir sa passion à sa sœur, et moins encore de la satisfaire ; c'est ce qui lui causa une langueur, qui se fit bientôt remarquer sur son visage. Il fallait pourtant qu'il eût vu Thamar, puisqu'il avait conçu pour elle un amour si violent. Les filles sortaient quelquefois dans certaines cérémonies, mais toujours bien accompagnées."
     },
     {
       "verse": 3,
@@ -74,27 +74,34 @@
       "verse": 19,
       "sub": false,
       "latin_lemma": "QUÆ ASPERGENS CINEREM CAPITI.",
-      "lemma": "Ayant mis de la cendre sur sa tête, en signe de deuil et de douleur.",
-      "text": "Ceux qui vous verront dans votre disgrâce, dit Ézéchiel en parlant à la ville de Tyr, [20] jetteront de grands cris, et pleureront amèrement, et jetteront de la poussière sur leur tête, et se chargeront de cendre. Achille apprenant la mort de Patrocle, prend la poussière à deux mains, et se la répand sur la tête; [21] Virgile décrivant Mézentius à la vue de son fils Lausus tué dans le combat, [22]\n_Canitiem immunda deformat pulvere, et ambas_\n_Ad cælum tendit palmas._"
+      "lemma": "Ayant mis de la cendre sur sa tête,",
+      "text": "en signe de deuil et de douleur. _Ceux qui vous verront dans votre disgrâce_, dit Ézéchiel en parlant à la ville de Tyr, [20] _jetteront de grands cris, et pleureront amèrement, et jetteront de la poussière sur leur tête, et se chargeront de cendre_. Achille apprenant la mort de Patrocle, prend la poussière à deux mains, et se la répand sur la tête; [21] Virgile décrivant Mézentius à la vue de son fils Lausus tué dans le combat, [22]\n_Canitiem immunda deformat pulvere, et ambas_\n_Ad cælum tendit palmas._"
     },
     {
       "verse": 19,
       "sub": false,
       "latin_lemma": "IMPOSITISQUE MANIBUS SUPER CAPUT SUUM.",
-      "lemma": "Tenant sa tête couverte de ses deux mains, comme pour se cacher le visage, après une telle infamie.",
-      "text": "Un Prophète [23] parlant à la Judée, qui mettait sa confiance dans l’Égypte : _Vous en sortirez_, lui dit-il, _et vos mains seront sur votre tête, parce que le Seigneur a brisé l’objet de votre confiance._"
+      "lemma": "Tenant sa tête couverte de ses deux mains,",
+      "text": "comme pour se cacher le visage, après une telle infamie.\n Un Prophète [23] parlant à la Judée, qui mettait sa confiance dans l’Égypte : _Vous en sortirez_, lui dit-il, _et vos mains seront sur votre tête, parce que le Seigneur a brisé l’objet de votre confiance._"
     },
     {
       "verse": 20,
       "sub": false,
       "latin_lemma": "TACE : FRATER TUUS EST.",
       "lemma": "N’en dites rien, car c’est",
-      "text": "votre frère. Inutilement vous demanderiez au Roi qu’il vous vengeât : Amnon est votre frère ; le Roi ne le traitera pas comme il ferait un autre. Ou bien : Ne publiez pas cela ; cette infamie retomberait sur toute la famille Royale."
+      "text": ""
+    },
+    {
+      "verse": 20,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "votre frère.",
+      "text": "Inutilement vous demanderiez au Roi qu’il vous vengeât : Amnon est votre frère ; le Roi ne le traitera pas comme il ferait un autre. Ou bien : Ne publiez pas cela ; cette infamie retomberait sur toute la famille Royale."
     },
     {
       "verse": 21,
       "sub": false,
-      "latin_lemma": "NOLUIT CONTRISTARE SPIRITUM AMNON, etc.",
+      "latin_lemma": "NOLUIT CONTRISTARE SPIRITUM AMNON, ETC.",
       "lemma": "Il ne voulut point attrister Amnon son fils, parce qu’il l’aimait comme étant son aîné.",
       "text": "Cela ne se trouve ni dans l’Hébreu, ni dans les Versions qu’on a faites sur ce Texte. Saint Jérôme ne l’a pas mis dans sa Version. Les Grecs l’ont ajouté dans quelques-uns de leurs Exemplaires,[24] et Joseph le lisait dans les siens ; peut-être même qu’il a donné occasion aux Grecs de l’ajouter dans les leurs. On ne peut excuser le silence et la dissimulation de David dans cette rencontre, surtout si on ne lui donne point d’autre motif, que l’amitié particulière qu’il avait pour Amnon. Comme il se connaissait lui-même coupable, il n’eut pas la force de châtier un crime, auquel son exemple avait pu donner occasion.[25]"
     },
@@ -109,8 +116,8 @@
       "verse": 23,
       "sub": false,
       "latin_lemma": "IN BAL-HASOR, QUÆ EST IUXTA EPHRAIM.",
-      "lemma": "À Bal-Hasor, qui est près d'Éphraïm ; près de la ville du nom d'Éphraïm, ou Éphræm ; elle est marquée dans saint Jean,[28] et il est dit qu'elle était près du désert. Ce qu'on peut entendre du désert de Béthel, ou de Jéricho, puisque Josèphe[29] met ensemble Éphræm et Béthel, comme deux lieux assez près de Jérusalem. Bal-Hasor était près d'Éphræm ; on n'en sait pas davantage.",
-      "text": ""
+      "lemma": "À Bal-Hasor, qui est près d'Éphraïm ;",
+      "text": "près de la ville du nom d'Éphraïm, ou Éphræm ; elle est marquée dans saint Jean,[28] et il est dit qu'elle était près du désert. Ce qu'on peut entendre du désert de Béthel, ou de Jéricho, puisque Josèphe[29] met ensemble Éphræm et Béthel, comme deux lieux assez près de Jérusalem. Bal-Hasor était près d'Éphræm ; on n'en sait pas davantage."
     },
     {
       "verse": 26,
@@ -176,13 +183,6 @@
       "mode": "splice",
       "before": "oujours traînants; mais les tuniques qui étaient sans man-",
       "after": "ches, étaient aussi ordinairement de diverses couleurs; so"
-    },
-    {
-      "seam": "page_0134>page_0135",
-      "verse": 20,
-      "mode": "flow",
-      "before": "N’en dites rien, car c’est",
-      "after": "votre frère. Inutilement vous demanderiez au Roi qu’il vou"
     },
     {
       "seam": "page_0135>page_0136",

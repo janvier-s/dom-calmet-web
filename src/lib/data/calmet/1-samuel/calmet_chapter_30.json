@@ -1,6 +1,20 @@
 {
   "notes": [
     {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "CUMQUE VENISSENT... DIE TERTIA.",
+      "lemma": "Trois jours après arrivant à Siceleg.",
+      "text": "Trois jours après son départ d'Aphec. Il y avait plus de trente lieues d'Aphec à Siceleg."
+    },
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "AMALECITÆ PERCUSSERANT SICELEG.",
+      "lemma": "Les Amalécites avaient pris Siceleg.",
+      "text": "À la lettre : [1] _Ils l'avaient frappée, ou ravagée._ Ils n'avaient tué personne. Ces peuples voyant la guerre déclarée entre les Israélites et les Philistins, prirent ce temps pour faire des courses sur le pays des Hébreux. Ils étaient principalement animés contre David, qui avait souvent fait irruption sur leurs terres."
+    },
+    {
       "verse": 2,
       "sub": false,
       "latin_lemma": "NON INTERFECERANT QUEMQUAM.",
@@ -41,13 +55,6 @@
       "latin_lemma": "AD TORRENTEM BESOR.",
       "lemma": "Au torrent de Bésor.",
       "text": "Ce torrent prenait sa source, ou plutôt était formé des eaux qui coulaient des montagnes de l'Idumée ; il allait se jeter dans la Méditerranée au-delà de Gaza. C'est peut-être le torrent du Désert, nommé faussement le torrent d'Égypte. On doute qu'il fût toujours plein d'eau, mais alors il était fort enflé."
-    },
-    {
-      "verse": 10,
-      "sub": false,
-      "latin_lemma": "AMALECITÆ PERCUSSERANT SICELEG.",
-      "lemma": "Les Amalécites avaient pris Siceleg.",
-      "text": "À la lettre : [1] _Ils l'avaient frappée, ou ravagée._ Ils n'avaient tué personne. Ces peuples voyant la guerre déclarée entre les Israélites et les Philistins, prirent ce temps pour faire des courses sur le pays des Hébreux. Ils étaient principalement animés contre David, qui avait souvent fait irruption sur leurs terres."
     },
     {
       "verse": 10,
@@ -110,7 +117,7 @@
       "sub": false,
       "latin_lemma": "FACTUM EST HOC EX ILLA DIE, ET DEINCEPS... QUASI LEX IN ISRAEL, USQUE AD HUNC DIEM.",
       "lemma": "C’est ce qui s’est pratiqué depuis ce temps-là comme une loi, qui dure encore aujourd’hui.",
-      "text": "Ce n’est pas à dire que cette règle n’ait été observée auparavant dans Israël ; nous en avons vu la pratique dans la guerre contre les Madianites,[33] sous Moïse. Josué[34] veut que les Israélites de delà le Jourdain, partagent avec leurs frères, qui étaient demeurés dans leur pays, le butin qu'ils avaient gagné en deçà de ce fleuve. Mais avant David, il semble que cela s'observait plutôt par une louable coutume, et par la bonne volonté des vainqueurs, que par une obligation imposée par les Lois. Les Hébreux ont quelquefois même porté la pratique de cette Loi plus loin que David ne l'ordonne. Les Maccabées [35] envoyaient des parts égales du butin aux faibles, ou aux malades, aux veuves, aux orphelins, et aux vieillards. On peut donner à l'Hébreu un autre sens que celui qu'ont suivi les Septante et la Vulgate : [36] _Et cette Loi s'était observée dans Israël depuis ce jour, et auparavant_ ; et David la mit en Loi et en ordonnance jusqu'aujourd'hui. Ce Prince remit en vigueur, et confirma une Loi, qui était déjà fort ancienne dans Israël. Les Hébreux n'ont point de verbes composés. Au lieu de dire, on rebâtit, on rétablit, on renvoya; ils disent absolument, on bâtit, on établit, on envoya."
+      "text": "Ce n’est pas à dire que cette règle n’ait été observée auparavant dans Israël ; nous en avons vu la pratique dans la guerre contre les Madianites,[33] sous Moïse. Josué[34] veut que les Israélites de delà le Jourdain, partagent avec leurs frères, qui étaient demeurés dans leur pays, le butin qu'ils avaient gagné en deçà de ce fleuve. Mais avant David, il semble que cela s'observait plutôt par une louable coutume, et par la bonne volonté des vainqueurs, que par une obligation imposée par les Lois. Les Hébreux ont quelquefois même porté la pratique de cette Loi plus loin que David ne l'ordonne. Les Maccabées [35] envoyaient des parts égales du butin aux faibles, ou aux malades, aux veuves, aux orphelins, et aux vieillards. On peut donner à l'hébreu un autre sens que celui qu'ont suivi les Septante et la Vulgate : [36] _Et cette Loi s'était observée dans Israël depuis ce jour, et auparavant_ ; et David la mit en Loi et en ordonnance jusqu'aujourd'hui. Ce Prince remit en vigueur, et confirma une Loi, qui était déjà fort ancienne dans Israël. Les Hébreux n'ont point de verbes composés. Au lieu de dire, on rebâtit, on rétablit, on renvoya ; ils disent absolument, on bâtit, on établit, on envoya."
     },
     {
       "verse": 26,
@@ -138,28 +145,28 @@
       "sub": false,
       "latin_lemma": "JETHER.",
       "lemma": null,
-      "text": "Eusebe et saint Jérôme [40] nous parlent d'un lieu nommé _Jethira_, dans la partie méridionale de la Palestine, prés de _Malatha_, à vingt mille d'Eleutéropolis. Cette ville était sacerdotale, [41] et appartenait à la tribu de Juda. Elle est nommée _Ether_ dans Josué. [42]"
+      "text": "Eusèbe et saint Jérôme [40] nous parlent d'un lieu nommé _Jethira_, dans la partie méridionale de la Palestine, près de _Malatha_, à vingt milles d'Éleuthéropolis. Cette ville était sacerdotale, [41] et appartenait à la tribu de Juda. Elle est nommée _Éther_ dans Josué. [42]"
     },
     {
       "verse": 28,
       "sub": false,
       "latin_lemma": "IN AROER.",
-      "lemma": "A Aroër, ville située au-delà du Jourdain, sur le torrent d'Arnon, dans la tribu de Gad.",
-      "text": "David avait été quelque tems dans le pays de Moab, et assez prés de la ville d'Aroër, où il avait pû laisser quelques-uns de ses parens, et d'où il avait apparemment reçû quelque service. Son pere et sa mere avaient été quelque tems dans le pays de Moab, sous la protection du Roi. Voyez le chap. XXII. 3. 4. 5."
+      "lemma": "À Aroër,",
+      "text": "ville située au-delà du Jourdain, sur le torrent d'Arnon, dans la tribu de Gad. David avait été quelque temps dans le pays de Moab, et assez près de la ville d'Aroër, où il avait pu laisser quelques-uns de ses parents, et d'où il avait apparemment reçu quelque service. Son père et sa mère avaient été quelque temps dans le pays de Moab, sous la protection du Roi. Voyez le chap. XXII. 3. 4. 5."
     },
     {
       "verse": 28,
       "sub": false,
       "latin_lemma": "SEPHAMOTH.",
       "lemma": null,
-      "text": "C'est peut-être la même que Sepham, marquée dans les Nombres. [43] Mais elle était bien loin au-delà du Jourdain."
+      "text": "C'est peut-être la même que Sépham, marquée dans les Nombres. [43] Mais elle était bien loin au-delà du Jourdain."
     },
     {
       "verse": 28,
       "sub": false,
       "latin_lemma": "ESTHAMA,",
       "lemma": null,
-      "text": "ville de la tribu de Juda, [44] et sacerdotale, [45] dans les confins d'Euleutéropolis."
+      "text": "ville de la tribu de Juda, [44] et sacerdotale, [45] dans les confins d'Éleuthéropolis."
     },
     {
       "verse": 28,
@@ -180,14 +187,14 @@
       "sub": false,
       "latin_lemma": "CENI.",
       "lemma": null,
-      "text": "Le petit pays des Cinéens, au midi de la mer morte."
+      "text": "Le petit pays des Cinéens, au midi de la mer Morte."
     },
     {
       "verse": 30,
       "sub": false,
       "latin_lemma": "ARAMA.",
       "lemma": null,
-      "text": "C'est la ville de Horma, où les Hébreux dévouërent le pays d'Arad à l'anathême. [46]"
+      "text": "C'est la ville de Horma, où les Hébreux dévouèrent le pays d'Arad à l'anathème. [46]"
     },
     {
       "verse": 30,

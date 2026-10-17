@@ -33,7 +33,7 @@
       "sub": false,
       "latin_lemma": "PETIVIT ANIMÆ SUÆ UT MORERETUR.",
       "lemma": "Et souhaitant la mort, etc.",
-      "text": "Pourquoi fuyait-il Jézabel, s'il aimait si peu la vie ? Ou avait-il la délicatesse de ne vouloir pas qu'il fût dit qu'il était mort par la main d'une femme ? La vue des maux que souffraient les justes, la prospérité des méchants, la Religion presque éteinte dans Israël, la malice d'Achab, et de Jézabel, montée à son comble, les fatigues, et les travaux de sa fuite, et de son voyage, lui avaient rendu la vie ennuyeuse. Voyant d'ailleurs que Dieu semblait l'avoir oublié, sans lui déclarer où il souhaitait qu'il se retirât : Tout cela lui fit souhaiter la mort, comme la fin de ses peines: _Melior est mors, quàm vita amara._ (4) Mais il la souhaitait de la part de Dieu, et non pas de la part de Jézabel ; car ç'aurait été donner un sujet de triomphe aux ennemis de la Religion. Le soutien de la bonne cause était en quelque sorte attaché à la vie d'Elie. On n'a qu'à considérer l'assurance avec laquelle il parla à Achab, [11] pour juger qu'il n'était nullement timide."
+      "text": "Pourquoi fuyait-il Jézabel, s'il aimait si peu la vie ? Ou avait-il la délicatesse de ne vouloir pas qu'il fût dit qu'il était mort par la main d'une femme ? La vue des maux que souffraient les justes, la prospérité des méchants, la Religion presque éteinte dans Israël, la malice d'Achab, et de Jézabel, montée à son comble, les fatigues, et les travaux de sa fuite, et de son voyage, lui avaient rendu la vie ennuyeuse. Voyant d'ailleurs que Dieu semblait l'avoir oublié, sans lui déclarer où il souhaitait qu'il se retirât : Tout cela lui fit souhaiter la mort, comme la fin de ses peines: _Melior est mors, quàm vita amara._ [11] Mais il la souhaitait de la part de Dieu, et non pas de la part de Jézabel ; car ç'aurait été donner un sujet de triomphe aux ennemis de la Religion. Le soutien de la bonne cause était en quelque sorte attaché à la vie d'Elie. On n'a qu'à considérer l'assurance avec laquelle il parla à Achab, [11] pour juger qu'il n'était nullement timide."
     },
     {
       "verse": 6,
@@ -175,7 +175,7 @@
       "verse": 4,
       "mode": "flow",
       "before": " la fin de ses peines: _Melior est mors, quàm vita amara._",
-      "after": "(4) Mais il la souhaitait de la part de Dieu, et non pas d"
+      "after": "^{(b)} Mais il la souhaitait de la part de Dieu, et non pa"
     },
     {
       "seam": "page_0384>page_0385",
