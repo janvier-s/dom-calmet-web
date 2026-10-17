@@ -110,17 +110,15 @@
     },
     {
       "verse_number": 14,
-      "latin": "Viduam autem et repudiatam, et sordidam, atque meretricem non accipiet; sed puellam de populo suo: Ne commisceat stirpem generis sui vulgo gentis suæ : quia ego Dominus qui sanctifico eum.",
+      "latin": "Viduam autem et repudiatam, et sordidam, atque meretricem non accipiet; sed puellam de populo suo:",
       "french": "Il n'épousera, ni une veuve, ni une femme répudiée, ni une femme déshonorée, ni une courtisane ; mais il prendra une fille de son peuple.",
       "source_pages": [
-        "page_0275.json",
-        "page_0276.json"
-      ],
-      "annotations": null
+        "page_0275.json"
+      ]
     },
     {
       "verse_number": 15,
-      "latin": null,
+      "latin": "Ne commisceat stirpem generis sui vulgo gentis suæ : quia ego Dominus qui sanctifico eum.",
       "french": "Il ne mêlera point le sang de sa race avec une personne du commun du peuple ; parce que je suis le Seigneur qui le sanctifie.",
       "source_pages": [
         "page_0276.json"

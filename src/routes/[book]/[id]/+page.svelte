@@ -53,7 +53,8 @@
 						{#if note.latin_lemma || note.lemma}
 							<p class="mb-2">
 								{#if note.latin_lemma}
-									<span class="uppercase tracking-wide">{note.latin_lemma}</span>
+									<!-- the lemma comes in lower case but for proper nouns (calmet.py latin_case): small caps, its first letter a full capital -->
+									<span class="inline-block tracking-wide first-letter:uppercase" style="font-variant: small-caps">{note.latin_lemma}</span>
 								{/if}
 								{#if note.latin_lemma && note.lemma}
 									<br/>

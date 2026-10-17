@@ -3,40 +3,41 @@
     {
       "verse": 1,
       "sub": false,
-      "latin_lemma": "PROFECTUS EST ROBOAM IN SICHEM.",
+      "latin_lemma": "profectus est Roboam in Sichem.",
       "lemma": "Roboam vint alors à Sichem.",
       "text": "Voyez le Chap. XII. du troisième livre des Rois, qui est le même presque mot à mot, que celui-ci."
     },
     {
       "verse": 7,
       "sub": false,
-      "latin_lemma": "SI PLACUERIS POPULO HUIC, ET LENIVERIS EOS.",
+      "latin_lemma": "si placueris populo huic, et leniveris eos.",
       "lemma": "Si vous témoignez de la bonté à ce peuple, et que vous l’apaisiez.",
       "text": "L’Hébreu : [1] _Si vous êtes bon à ce peuple, et que vous lui plaisiez._ Dans les livres des Rois : [2] _Si vous êtes aujourd’hui serviteur de ce peuple, et que vous le serviez, il vous servira dans la suite._ Si vous avez aujourd’hui quelque déférence pour ce peuple, il vous demeurera éternellement assujetti."
     },
     {
       "verse": 15,
       "sub": false,
-      "latin_lemma": "ERAT ENIM VOLUNTAS DEI.",
+      "latin_lemma": "erat enim voluntas Dei.",
       "lemma": "Parce que Dieu avait résolu, etc.",
       "text": "L'Hébreu : [3] _Parce que, c'était une chose causée de Dieu._ Les Septante : [4] _Parce que ce renversement était de Dieu._ Le Syriaque a fort bien pris le sens du texte : _Parce que cette rébellion arriva par la permission divine, afin qu'on vît la vérité de la prédiction du Prophète Ahias._ Dieu permit que Roboam suivît un aussi mauvais conseil, et que le peuple prît une résolution si violente."
     },
     {
       "verse": 16,
       "sub": false,
-      "latin_lemma": "POPULUS UNIVERSUS, REGE DURIORA DICENTE, SIC LOCUTUS EST.",
+      "latin_lemma": "populus universus, rege duriora dicente, sic locutus est.",
       "lemma": "Tout le peuple se voyant traité si durement, répondit.",
-      "text": "L'Hébreu : [5] _Tout Israël voyant que le Roi ne l'avait point écouté, répondit._\nQuelques anciens manuscrits, [6] et plusieurs éditions des Bibles latines, [7] ajoutent ceci à la fin de ce Chapitre : _Factum_"
-    },
-    {
-      "verse": 16,
-      "sub": false,
-      "latin_lemma": "est autem, cum audisset omnis Israël, quod reversus esset Jeroboam; miserunt et vocaverunt eum, congregato cœtu, et constituerunt eum Regem super omnem Israël, nec secutus est quisquis domum David, præter domum Juda solam.",
-      "lemma": "Ce qui est tiré du cinquième des Rois, Chap. XII. ℣. 20.",
-      "text": ""
+      "text": "L'Hébreu : [5] _Tout Israël voyant que le Roi ne l'avait point écouté, répondit._\nQuelques anciens manuscrits, [6] et plusieurs éditions des Bibles latines, [7] ajoutent ceci à la fin de ce Chapitre : _Factum_ _est autem, cum audisset omnis Israël, quod reversus esset Jeroboam; miserunt et vocaverunt eum, congregato cœtu, et constituerunt eum Regem super omnem Israël, nec secutus est quisquis domum David, præter domum Juda solam._ Ce qui est tiré du cinquième des Rois, Chap. XII. ℣. 20."
     }
   ],
-  "joins": [],
+  "joins": [
+    {
+      "seam": "page_0064>page_0065",
+      "verse": 16,
+      "mode": "flow",
+      "before": "e_0064-e} ajoutent ceci à la fin de ce Chapitre : _Factum_",
+      "after": "_est autem, cum audisset omnis Israël, quod reversus esset"
+    }
+  ],
   "pages_used": [
     "page_0062",
     "page_0063",
@@ -52,7 +53,7 @@
     {
       "key": "page_0063-b",
       "n": 2,
-      "text": "3. Reg. XII. 7."
+      "text": "3 Rois 12,7."
     },
     {
       "key": "page_0064-a",
@@ -72,12 +73,12 @@
     {
       "key": "page_0064-d",
       "n": 6,
-      "text": "Mß. duo nostra S. Michael. ᵃᵈ Mosam."
+      "text": "Manuscrits duo nostra de saint Michael. ᵃᵈ Mosam."
     },
     {
       "key": "page_0064-e",
       "n": 7,
-      "text": "Bibliæ impressæ an. 1478. 1489. 1521. Renati Bened. Paris. 1565. Joh. Bened. 1558. Nivell. Paris. 1573. Ita legebat Lyran."
+      "text": "Bibliæ impressæ anno 1478. 1489. 1521. Renati Benedicti, Paris. 1565. Joannis Benedicti 1558. Nivelli, Paris. 1573. Ita legebat Nicolas de Lyre."
     }
   ],
   "missing_footnotes": []
