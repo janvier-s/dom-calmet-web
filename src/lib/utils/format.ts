@@ -1,5 +1,6 @@
 const GREEK_FIX: Record<string, string> = {"р": "ρ", "д": "δ", "с": "ς", "е": "ε", "о": "ο", "у": "υ"};
 const STRAY = /\^\{[^}]*\}/g;
+const HEBREW_RUN = /[֐-׿יִ-ﭏ]+(?:[  ]+[֐-׿יִ-ﭏ]+)*/g;
 
 export function fixGreek(s: string): string {
     if (!s) return "";
@@ -41,6 +42,10 @@ export function formatCommentaryText(text: string): string {
 
     // Jésus-Christ in small caps, as Calmet prints it
     formatted = formatted.replace(/J[ée]sus-Christ|J[EÉ]SUS-CHRIST/g, '<span style="font-variant: small-caps">Jésus-Christ</span>');
+
+    // Each Hebrew phrase (words joined by spaces, ended by punctuation) laid out right to
+    // left on its own, so numbers, Greek and lists around it keep their order
+    formatted = formatted.replace(HEBREW_RUN, '<bdi dir="rtl">$&</bdi>');
 
     // Convert [1] output by calmet.py into clickable superscripts
     formatted = formatted.replace(/\[(\d+)\]/g, '<sup class="footnote-ref"><a href="#fn$1">$1</a></sup>');
