@@ -152,7 +152,7 @@
       "sub": false,
       "latin_lemma": "qui immolabit diis, occidetur.",
       "lemma": null,
-      "text": "Celui qui sacrifiera à d'autres Dieux qu'au seul Seigneur, sera mis à mort ; l'Hébreu,[50] _sera soumis à l'anathème_ ; les Septante,[51] _il sera exterminé_. La peine de l'anathème était la perte de la vie par l'épée ; et de plus l'on consumait par le feu, ou l'on confisquait tout ce qui appartenait au criminel.[52] C'est ainsi que l'on dévouait quelquefois à l'anathème des familles, des villes, et même des nations entières ; comme les Amalécites, par exemple, qui y furent dévoués par l'ordre de Dieu.[53]"
+      "text": "Celui qui sacrifiera à d'autres Dieux qu'au seul Seigneur, sera mis à mort ; l'Hébreu,[50] _sera_ _soumis à l'anathème_ ; les Septante,[51] _il sera exterminé_. La peine de l'anathème était la perte de la vie par l'épée ; et de plus l'on consumait par le feu, ou l'on confisquait tout ce qui appartenait au criminel.[52] C'est ainsi que l'on dévouait quelquefois à l'anathème des familles, des villes, et même des nations entières ; comme les Amalécites, par exemple, qui y furent dévoués par l'ordre de Dieu.[53]"
     },
     {
       "verse": 21,
@@ -293,8 +293,8 @@
       "seam": "page_0371>page_0372",
       "verse": 20,
       "mode": "flow",
-      "before": "igneur, sera mis à mort ; l'Hébreu,^{fn:page_0371-d} _sera",
-      "after": "soumis à l'anathème_ ; les Septante,^{(a)} _il sera exterm"
+      "before": "gneur, sera mis à mort ; l'Hébreu,^{fn:page_0371-d} _sera_",
+      "after": "_soumis à l'anathème_ ; les Septante,^{(a)} _il sera exter"
     },
     {
       "seam": "page_0373>page_0374",
@@ -414,7 +414,7 @@
     {
       "key": "page_0361-c",
       "n": 12,
-      "text": "Ita Tyr. Oleast. etc. Voyez G ad Jerem. 11. 34."
+      "text": "Ita Tyr. Oleaster, etc. Voyez et sur Jérémie 2. 34."
     },
     {
       "key": "page_0361-d",
@@ -439,7 +439,7 @@
     {
       "key": "page_0363-b",
       "n": 17,
-      "text": "Ἐὰν δὲ ἡ ἥλιος ἀνατείλῃ ἐπ' ἀυτῷ, ἔνοχός ἐστι, ἀνταποθανέτω, ἐὰν δὲ μὴ ὑπάρχῃ ἀυτῷ, πραθήτω."
+      "text": "Ἐὰν δὲ ἡ ἥλιος ἀνατείλῃ ἐπ' αὐτῷ, ἔνοχός ἐστι, ἀνταποθανέτω, ἐὰν δὲ μὴ ὑπάρχῃ αὐτῷ, πραθήτω."
     },
     {
       "key": "page_0363-c",
@@ -459,7 +459,7 @@
     {
       "key": "page_0364-b",
       "n": 21,
-      "text": "70. Ζῶντα δίπλα ἀποτίσει."
+      "text": "70. Ζῶντα δίπλαξ ἀποτίσει."
     },
     {
       "key": "page_0364-c",
@@ -484,12 +484,12 @@
     {
       "key": "page_0365-c",
       "n": 26,
-      "text": "Καὶ κλαπῇ ἐκ τῆς οἰκίας τῦ ἀνθρώπε."
+      "text": "Καὶ κλαπῇ ἐκ τῆς οἰκίας τοῦ ἀνθρώπου."
     },
     {
       "key": "page_0365-d",
       "n": 27,
-      "text": "Ἐνώπιον τῦ Θεῦ."
+      "text": "Ἐνώπιον τοῦ Θεοῦ."
     },
     {
       "key": "page_0365-e",
@@ -534,7 +534,7 @@
     {
       "key": "page_0368-c",
       "n": 36,
-      "text": "Αξει αυτον επι την θηραν. D autres traduisent, in re Sueva, à la porte. Édition de Complute, de Brilling. etc."
+      "text": "Ἄξει αὐτὸν ἐπὶ τὴν θήραν. D autres traduisent, in re Sueva, à la porte. Édition de Complute, de Brilling. etc."
     },
     {
       "key": "page_0368-d",
@@ -564,7 +564,7 @@
     {
       "key": "page_0370-c",
       "n": 42,
-      "text": "Θιρμῇ φιρμώσει αυτὴν γυναῖκα."
+      "text": "Θερμῇ φιμώσει αὐτὴν γυναῖκα."
     },
     {
       "key": "page_0370-d",
@@ -609,7 +609,7 @@
     {
       "key": "page_0372-a",
       "n": 51,
-      "text": "Εξολοθρευθήσεται."
+      "text": "Ἐξολοθρευθήσεται."
     },
     {
       "key": "page_0372-b",
@@ -684,7 +684,7 @@
     {
       "key": "page_0374-e",
       "n": 66,
-      "text": "Matthieu 23,45"
+      "text": "Matthieu 5,45."
     },
     {
       "key": "page_0374-f",
@@ -774,7 +774,7 @@
     {
       "key": "page_0376-c",
       "n": 84,
-      "text": "Ουκ ἔση ἀυτῶ κατεπείγων."
+      "text": "Οὐκ ἔση ἀυτῶ κατεπείγων."
     },
     {
       "key": "page_0376-d",
@@ -814,7 +814,7 @@
     {
       "key": "page_0377-c",
       "n": 92,
-      "text": "Εν τῷ κοιμηθήσεται."
+      "text": "Ἐν τῷ κοιμηθήσεται."
     },
     {
       "key": "page_0377-d",

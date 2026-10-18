@@ -75,7 +75,7 @@
       "sub": false,
       "latin_lemma": "Athersatha dedit.",
       "lemma": "Athersatha donna.",
-      "text": "Les Septante  portent que les principaux du peuple donnèrent ces choses à Athersatha, autrement Néhémie."
+      "text": "Les Septante [8] portent que les principaux du peuple donnèrent ces choses à Athersatha, autrement Néhémie."
     },
     {
       "verse": 71,
@@ -156,7 +156,7 @@
     {
       "key": "page_0056-a",
       "n": 5,
-      "text": "Vide 1. Esdr. 11."
+      "text": "Voyez 1 Esdras II*."
     },
     {
       "key": "page_0056-b",
@@ -167,9 +167,12 @@
       "key": "page_0059-a",
       "n": 7,
       "text": "Voyez nouvelle édition ; saint Jérôme, tome 1, page 1227."
+    },
+    {
+      "key": "page_0060-a",
+      "n": 8,
+      "text": "Ἔδωκαν τῷ Νεεμίᾳ. Aliàs, τῷ Αδιρσαθᾷ."
     }
   ],
-  "missing_footnotes": [
-    "page_0060-1"
-  ]
+  "missing_footnotes": []
 }
