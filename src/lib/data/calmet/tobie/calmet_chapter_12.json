@@ -12,7 +12,7 @@
       "sub": false,
       "latin_lemma": "respondens Tobias, dixit.",
       "lemma": "Tobie lui répondit.",
-      "text": "Le Grec est beaucoup plus court que le Latin. Le voici pour les versets 2. 3. 4. [4] _Tobie lui dit : Mon père, c'est bon marché de lui donner la moitié de tout ce_ que j’ai apporté; parce qu’il m’a ramené sain, et sauf, qu’il a guéri mon épouse, qu’il m’a fait toucher l’argent, et qu’il vous a rendu la vue. Le vieillard dit : Cela est juste. Les Hébreux, et l’ancien Texte Latin, sont semblables au Grec."
+      "text": "Le Grec est beaucoup plus court que le Latin. Le voici pour les versets 2. 3. 4. [4] _Tobie lui dit : Mon père, c'est bon marché de lui donner la moitié de tout ce_ _que j’ai apporté; parce qu’il m’a ramené sain, et sauf, qu’il a guéri mon épouse, qu’il m’a fait toucher l’argent, et qu’il vous a rendu la vue. Le vieillard dit : Cela est juste_. Les Hébreux, et l’ancien Texte Latin, sont semblables au Grec."
     },
     {
       "verse": 6,
@@ -89,7 +89,7 @@
       "sub": false,
       "latin_lemma": "prostrati per horas tres.",
       "lemma": "Prosternez le visage contre terre pendant trois heures.",
-      "text": "Le Grec ne parle point de cette circonstance. Voici ce qu’il porte pour les versets 20. 21. et 22. _Louez le Seigneur, parce que je m’en retourne à celui qui m’a envoyé. Écrivez dans un Livre_ tout ce qui est arrivé. Alors ils se levèrent, et ne le virent plus ; et ils se mirent à louer les grandeurs, et les merveilles de Dieu ; comme l'Ange du Seigneur leur était apparu. L'Hébreu de Fagius, et le Syriaque lisent aussi cette ordonnance : _Écrivez ceci dans un Livre_. Voilà la première fois que nous ayons trouvé le nom d'heures, dans l'Écriture. Ce nom ne paraît que dans la Vulgate, qui l'a tiré du Chaldéen."
+      "text": "Le Grec ne parle point de cette circonstance. Voici ce qu’il porte pour les versets 20. 21. et 22. _Louez le Seigneur, parce que je m’en retourne à celui qui m’a envoyé. Écrivez dans un Livre_ _tout ce qui est arrivé. Alors ils se levèrent, et ne le virent plus ; et ils se mirent à louer les grandeurs, et les merveilles de Dieu ; comme l'Ange du Seigneur leur était apparu_. L'Hébreu de Fagius, et le Syriaque lisent aussi cette ordonnance : _Écrivez ceci dans un Livre_. Voilà la première fois que nous ayons trouvé le nom d'heures, dans l'Écriture. Ce nom ne paraît que dans la Vulgate, qui l'a tiré du Chaldéen."
     }
   ],
   "joins": [
@@ -98,7 +98,7 @@
       "verse": 2,
       "mode": "flow",
       "before": "père, c'est bon marché de lui donner la moitié de tout ce_",
-      "after": "que j’ai apporté; parce qu’il m’a ramené sain, et sauf, qu"
+      "after": "_que j’ai apporté; parce qu’il m’a ramené sain, et sauf, q"
     },
     {
       "seam": "page_0109>page_0110",
@@ -110,8 +110,8 @@
     {
       "seam": "page_0110>page_0111",
       "verse": 7,
-      "mode": "hyphen",
-      "before": " Ministres. Sans cela, ils seraient prévenus, ou traversés",
+      "mode": "splice",
+      "before": "leurs Ministres. Sans cela, ils seraient prévenus, ou tra-",
       "after": "versés par leurs ennemis ; leurs desseins les plus sages, "
     },
     {
@@ -154,7 +154,7 @@
       "verse": 22,
       "mode": "flow",
       "before": "en retourne à celui qui m’a envoyé. Écrivez dans un Livre_",
-      "after": "tout ce qui est arrivé. Alors ils se levèrent, et ne le vi"
+      "after": "_tout ce qui est arrivé. Alors ils se levèrent, et ne le v"
     }
   ],
   "pages_used": [
@@ -324,7 +324,7 @@
     {
       "key": "page_0115-c",
       "n": 31,
-      "text": "Grotius, sur ce passage ; Serarius, question 8 ; et l'auteur des notes sur le livre de saint Cyprien Adversus Judaeos, édition d'Oxford."
+      "text": "Grotius, sur ce passage ; Serarius, question 8 ; et l'auteur des notes sur le livre de saint Cyprien Adversus Judæos, édition d'Oxford."
     },
     {
       "key": "page_0115-d",
@@ -334,7 +334,7 @@
     {
       "key": "page_0116-a",
       "n": 33,
-      "text": "Voyez si placet Serarius, sur ce passage, questions 11, 12, 13 et 14 ; et Justinien, sur ce verset."
+      "text": "Voyez au besoin Serarius, sur ce passage, questions 11, 12, 13 et 14 ; et Justinien, sur ce verset."
     },
     {
       "key": "page_0116-b",

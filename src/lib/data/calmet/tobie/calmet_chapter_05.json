@@ -31,9 +31,16 @@
     {
       "verse": 7,
       "sub": false,
-      "latin_lemma": "UNDE TE HABEMUS?... AT ILLE RESPONDIT : Ex FILIIS ISRAEL.",
+      "latin_lemma": "unde te habemus?... at ille respondit : ex filiis Israel.",
       "lemma": "Il lui demanda : D'où êtes-vous ? Il répondit : Je suis des enfants d'Israël.",
-      "text": "Ni l'Hébreu, ni le Grec, ni le Syriaque, ne lisent rien de tout cela : mais l'ancienne Édition Latine porte : _Il lui demanda : D'où êtes-vous ? Raphaël lui répondit : Je suis un des enfants d'Israël, vos frères : Je suis venu ici, pour chercher de l'ouvrage : Veni huc ut operer._ L'Hébreu, et le Grec peuvent marquer simplement : [5] J'y ai passé la nuit, comme un hôte qui passe, ou j'y ai séjourné quelque temps, en qualité d'hôte ; mais non pas comme une personne qui y aurait eu sa demeure pour un long temps. En un mot, Raphaël veut dire qu'il a été à Ragés, et qu'il a logé chez Gabélus.\n\nRAGES, QUÆ POSITA EST IN MONTE ECBATANIS. _Ragés, qui est située dans les montagnes d'Ecbatanes_ ; c'est-à-dire, dans les montagnes qui sont aux environs d'Ecbatanes, ou plutôt, dans les montagnes de Médie ; car Étienne nous apprend qu'on donne le nom d'Ecbatanes à la plus grande partie de ce pays. L'Hébreu de l'Édition de Munster, et l'ancienne version Latine : _Ragés, dans la Province des Mèdes. Il y a deux jours de chemin de Ragés à Ecbatane. Ragés est dans les montagnes, et Ecbatanes dans la plaine._ Ni le Grec, ni l'autre Édition de l'Hébreu, n'ont rien de pareil ; pas même ce qu'on lit dans la Vulgate sur la situation de Ragés. Voyez ce qui a été dit ci-devant sur le Ch. III. ℣. 7."
+      "text": "Ni l'Hébreu, ni le Grec, ni le Syriaque, ne lisent rien de tout cela : mais l'ancienne Édition Latine porte : _Il lui demanda : D'où êtes-vous ? Raphaël lui répondit : Je suis un des enfants d'Israël, vos frères : Je suis venu ici, pour chercher de l'ouvrage : Veni huc ut operer._ L'Hébreu, et le Grec peuvent marquer simplement : [5] J'y ai passé la nuit, comme un hôte qui passe, ou j'y ai séjourné quelque temps, en qualité d'hôte ; mais non pas comme une personne qui y aurait eu sa demeure pour un long temps. En un mot, Raphaël veut dire qu'il a été à Ragés, et qu'il a logé chez Gabélus."
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "Rages, quæ posita est in monte Ecbatanis.",
+      "lemma": "Ragés, qui est située dans les montagnes d'Ecbatanes ;",
+      "text": "c'est-à-dire, dans les montagnes qui sont aux environs d'Ecbatanes, ou plutôt, dans les montagnes de Médie ; car Étienne nous apprend qu'on donne le nom d'Ecbatanes à la plus grande partie de ce pays. L'Hébreu de l'Édition de Munster, et l'ancienne version Latine : _Ragés, dans la Province des Mèdes. Il y a deux jours de chemin de Ragés à Ecbatane. Ragés est dans les montagnes, et Ecbatanes dans la plaine._ Ni le Grec, ni l'autre Édition de l'Hébreu, n'ont rien de pareil ; pas même ce qu'on lit dans la Vulgate sur la situation de Ragés. Voyez ce qui a été dit ci-devant sur le Ch. III. ℣. 7."
     },
     {
       "verse": 11,
@@ -82,7 +89,7 @@
       "sub": false,
       "latin_lemma": "numquam fuisset ipsa pecunia, pro qua misisti eum !",
       "lemma": "Plût à Dieu que cet argent, pour lequel vous l'avez envoyé, n'eût jamais été !",
-      "text": "Le Grec est obscur :[20] _Que l'argent ne prévienne pas l'argent ; mais qu'il soit le rachat de notre fils ;_ c'est-à-dire, que cet argent ne parvienne jamais jusqu'à nous, plutôt que de perdre notre fils. S'il doit arriver quelque chose à notre enfant, que l'argent périsse plutôt, et que Dieu le reçoive comme le prix de sa tête. L'Hébreu :[21] _Vous l'avez envoyé ré-_ répéter cet argent ; et quoi ! si cet argent n'eût jamais été mis hors de nos mains? Jusqu'ici Dieu nous a nourris, sans que nous ayons manqué de rien."
+      "text": "Le Grec est obscur :[20] _Que l'argent ne prévienne pas l'argent ; mais qu'il soit le rachat de notre fils ;_ c'est-à-dire, que cet argent ne parvienne jamais jusqu'à nous, plutôt que de perdre notre fils. S'il doit arriver quelque chose à notre enfant, que l'argent périsse plutôt, et que Dieu le reçoive comme le prix de sa tête. L'Hébreu :[21] _Vous l'avez envoyé ré-_ _péter cet argent ; et quoi ! si cet argent n'eût jamais été mis hors de nos mains? Jusqu'ici Dieu nous a nourris, sans que nous ayons manqué de rien._"
     },
     {
       "verse": 25,
@@ -122,13 +129,6 @@
       "after": "L'Hébreu, et le Grec peuvent marquer simplement : ^{(a)} J"
     },
     {
-      "seam": "page_0065>page_0065",
-      "verse": 7,
-      "mode": "para",
-      "before": "ut dire qu'il a été à Ragés, et qu'il a logé chez Gabélus.",
-      "after": "RAGES, QUÆ POSITA EST IN MONTE ECBATANIS. _Ragés, qui est "
-    },
-    {
       "seam": "page_0065>page_0066",
       "verse": 11,
       "mode": "flow",
@@ -161,7 +161,7 @@
       "verse": 24,
       "mode": "flow",
       "before": "tête. L'Hébreu :^{fn:page_0069-g} _Vous l'avez envoyé ré-_",
-      "after": "répéter cet argent ; et quoi ! si cet argent n'eût jamais "
+      "after": "_péter cet argent ; et quoi ! si cet argent n'eût jamais é"
     }
   ],
   "pages_used": [
@@ -223,7 +223,7 @@
     {
       "key": "page_0067-b",
       "n": 10,
-      "text": "Genes. XXXI. 11. et 63. Exod. VI. 20. et passim."
+      "text": "Genèse 31,11 et 13. Exode 6,20. et passim."
     },
     {
       "key": "page_0067-c",
@@ -248,7 +248,7 @@
     {
       "key": "page_0069-a",
       "n": 15,
-      "text": "Voyez _Genes._ XXI. 14. XXXIII. 10. XXVII I. 18. XXXI. 54. XLII. 27. et XLV. 23. et _Josué_ IX. 4. _Judic._ XIX. 19. I. _Reg._ IX. 7. et XXI. 3."
+      "text": "Voyez Genèse 21,14. 33,10. 28,18. 31,54. 42,27 et 45,23. et Josué 9,4. Juges 19,19. 1 Rois 9,7 et 21,3."
     },
     {
       "key": "page_0069-b",

@@ -75,8 +75,8 @@
     {
       "seam": "page_0094>page_0095",
       "verse": 6,
-      "mode": "hyphen",
-      "before": "n:page_0094-d} et celui de Munster porte que l'Ange montra",
+      "mode": "flow",
+      "before": "e ; ^{fn:page_0094-d} et celui de Munster porte que l'Ange",
       "after": "montra à Gabélus la bourse, qui était le gage qu'il avait "
     }
   ],
@@ -100,7 +100,7 @@
     {
       "key": "page_0094-a",
       "n": 3,
-      "text": "Voyez si placet l'Hébreu ; Fagius, ad Tobie 9,7."
+      "text": "Voyez au besoin l'Hébreu ; Fagius, ad Tobie 9,7."
     },
     {
       "key": "page_0094-b",

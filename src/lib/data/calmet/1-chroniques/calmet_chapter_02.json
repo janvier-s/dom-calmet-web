@@ -5,7 +5,7 @@
       "sub": false,
       "latin_lemma": "nati sunt ei de filia Sue Chananitide.",
       "lemma": "Juda eut ces trois fils d'une Cananéenne fille de Suë.",
-      "text": "Suë était un Cananéen, qui donna sa fille à Juda. Genes. XXXVIII. 2."
+      "text": "Suë était un Cananéen, qui donna sa fille à Juda. Genèse 38:2."
     },
     {
       "verse": 3,
@@ -54,14 +54,14 @@
       "sub": false,
       "latin_lemma": "Nahasson, principem filiorum Juda.",
       "lemma": "Nahasson prince des fils de Juda.",
-      "text": "Moïse ayant établi à la tête de chaque tribu, un Chef ou un Prince pour les gouverner dans le désert, Nahasson se trouva pendant tout ce temps à la tête de celle de Juda. (a) C’est apparemment le premier Prince qu’ait eu cette tribu.\n\n(a) _Num._ I. 7. VII. 12. X. 14."
+      "text": "Moïse ayant établi à la tête de chaque tribu, un Chef ou un Prince pour les gouverner dans le désert, Nahasson se trouva pendant tout ce temps à la tête de celle de Juda. (a) C’est apparemment le premier Prince qu’ait eu cette tribu.\n\n(a) Nombres 1:7. 7:12. 10:14."
     },
     {
       "verse": 11,
       "sub": false,
       "latin_lemma": "Salma.",
       "lemma": null,
-      "text": "C’est le même que _Salmon_. Ruth. IV. 20. Matt. I. 4. Les Septante lisent ici _Salmon_."
+      "text": "C’est le même que _Salmon_. Ruth 4:20. Matthieu 1:4. Les Septante lisent ici _Salmon_."
     },
     {
       "verse": 12,
@@ -75,7 +75,7 @@
       "sub": false,
       "latin_lemma": "Isai genuit primogenitum Eliab... septimum David.",
       "lemma": "Isaï eut pour fils aîné Éliab, son septième fils fut David.",
-      "text": "On voit par les Livres des Rois, (c) qu’Isaï avait huit fils. Car après que ce bon vieillard eut présenté ses sept fils à Samuel, le Prophète lui dit que le Seigneur n’en avait choisi aucun d’eux ; alors on envoya quérir David qui paissait les troupeaux ; et au chap. suivant (d) il est dit expressément qu’Isaï avait huit fils ; il faut donc que l’un de ces huit enfants soit mort sans lignée, ou qu’Isaï ait adopté un enfant de quelqu’un de ses fils mort jeune. Les Rabbins croient qu’il adopta, et qu’il éleva comme sien, Jonathan, autrement Jonadab fils de Samaa. C’est aussi le sentiment d’un grand nombre (c) I. _Reg._ XVI. 10. _Adduxit itaque Isaï septem filios suos coram Samuele, et ait Samuel : Non elegit Dominus ex istis... et respondit ( Isaï : ) Adhuc reliquus est parvulus, et pascit oves._ (d) I. _Reg._ XVII. 12. _David erat filius viri Ephratæi... qui habebat octo filios._ d'Interprètes. [7] Ce Jonathan est connu dans l'Écriture par sa prudence et par sa valeur. [8] Le Syriaque et l'Arabe portent ici : Le septième _Elim_, et le huitième _David_. Eliu est nommé ci-après, ch. XXVII. 18."
+      "text": "On voit par les Livres des Rois, (c) qu’Isaï avait huit fils. Car après que ce bon vieillard eut présenté ses sept fils à Samuel, le Prophète lui dit que le Seigneur n’en avait choisi aucun d’eux ; alors on envoya quérir David qui paissait les troupeaux ; et au chap. suivant (d) il est dit expressément qu’Isaï avait huit fils ; il faut donc que l’un de ces huit enfants soit mort sans lignée, ou qu’Isaï ait adopté un enfant de quelqu’un de ses fils mort jeune. Les Rabbins croient qu’il adopta, et qu’il éleva comme sien, Jonathan, autrement Jonadab fils de Samaa. C’est aussi le sentiment d’un grand nombre (c) 1 Rois 16:10. _Adduxit itaque Isaï septem filios suos coram Samuele, et ait Samuel : Non elegit Dominus ex istis... et respondit ( Isaï : ) Adhuc reliquus est parvulus, et pascit oves._ (d) 1 Rois 17:12. _David erat filius viri Ephratæi... qui habebat octo filios._ d'Interprètes. [7] Ce Jonathan est connu dans l'Écriture par sa prudence et par sa valeur. [8] Le Syriaque et l'Arabe portent ici : Le septième _Elim_, et le huitième _David_. Eliu est nommé ci-après, ch. XXVII. 18."
     },
     {
       "verse": 16,
@@ -280,21 +280,21 @@
       "verse": 7,
       "mode": "para",
       "before": "C’est apparemment le premier Prince qu’ait eu cette tribu.",
-      "after": "(a) _Num._ I. 7. VII. 12. X. 14."
+      "after": "(a) Nombres 1:7. 7:12. 10:14."
     },
     {
       "seam": "page_0076>page_0076",
       "verse": 12,
       "mode": "flow",
       "before": " fils de Samaa. C’est aussi le sentiment d’un grand nombre",
-      "after": "(c) I. _Reg._ XVI. 10. _Adduxit itaque Isaï septem filios "
+      "after": "(c) 1 Rois 16:10. _Adduxit itaque Isaï septem filios suos "
     },
     {
       "seam": "page_0076>page_0076",
       "verse": 12,
       "mode": "flow",
       "before": "t ( Isaï : ) Adhuc reliquus est parvulus, et pascit oves._",
-      "after": "(d) I. _Reg._ XVII. 12. _David erat filius viri Ephratæi.."
+      "after": "(d) 1 Rois 17:12. _David erat filius viri Ephratæi... qui "
     },
     {
       "seam": "page_0076>page_0077",
@@ -470,7 +470,7 @@
     {
       "key": "page_0080-a",
       "n": 19,
-      "text": "_Josue_ XIII. II. 13."
+      "text": "Josue XIII. II. 13."
     },
     {
       "key": "page_0080-b",
@@ -525,7 +525,7 @@
     {
       "key": "page_0084-b",
       "n": 30,
-      "text": "Ita Vatable ; Junius ; Malvenda ; et clarissimè l'Hébreu ויהיו בנים לשובל אבי קרית יערים יתרו וגו׳ אלה היו בני כלב בן חור בכור אפרתה Ita et les Septante."
+      "text": "Ainsi l'entendent Vatable ; Junius ; Malvenda ; et clarissimè l'Hébreu ויהיו בנים לשובל אבי קרית יערים יתרו וגו׳ אלה היו בני כלב בן חור בכור אפרתה De même les Septante."
     },
     {
       "key": "page_0084-c",

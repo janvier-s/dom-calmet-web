@@ -4,8 +4,8 @@
       "verse": 1,
       "sub": false,
       "latin_lemma": "cum moras faceret Tobias, etc.",
-      "lemma": "Le jeune Tobie différant à revenir. Voici ce que porte le Grec : Tobie son père, comptait tous les jours. Et lorsque les jours du voyage furent achevés, et que son fils ne revint point, il dit : Ne sont-ils pas peut-être confus ? Ne leur aura-t-on pas fait difficulté sur le paiement ? N'aura-t-on pas fait refus de leur",
-      "text": "rendre ma somme? Souvent confondre, se prend pour refuser.[1] L’Hébreu de Fagius :[2] Ne lui serait-il point arrivé quelque malheur en chemin? L’ancienne version latine : Ne serait-il point arrêté en cet endroit? _Ne fortè detentus est ibi?_"
+      "lemma": "Le jeune Tobie différant à revenir.",
+      "text": "Voici ce que porte le Grec : _Tobie son père, comptait tous les jours. Et lorsque les jours du voyage furent achevés, et que son fils ne revint point, il dit : Ne sont-ils pas peut-être confus ?_ Ne leur aura-t-on pas fait difficulté sur le paiement ? N'aura-t-on pas fait refus de leur rendre ma somme? Souvent confondre, se prend pour refuser.[1] L’Hébreu de Fagius :[2] Ne lui serait-il point arrivé quelque malheur en chemin? L’ancienne version latine : Ne serait-il point arrêté en cet endroit? _Ne fortè detentus est ibi?_"
     },
     {
       "verse": 4,
@@ -61,7 +61,7 @@
       "sub": false,
       "latin_lemma": "angelus Domini sanctus sit in itinere vestro.",
       "lemma": "Que le saint Ange du Seigneur soit en votre chemin.",
-      "text": "Les Grecs, et les Hébreux transposent encore ici les versets de cette sorte. (℣. 11.) _Il les bénit, et les envoya, en leur disant : Le Dieu du Ciel vous comblera de prospérité avant ma mort._ (℣. 13.) _Et il dit à sa fille : Honorez votre beau-père, et votre belle-mère ; ils sont à présent vos père, et mère : Que le bruit de votre_ bonne réputation vienne jusqu'à nous. Et il la baisa. ( ℣. 12.) Et Edna dit à Tobie : _Mon cher frère, que le Seigneur vous fasse heureusement arriver chez vous, et qu'il m'accorde la grâce de voir vos enfants, nés de ma fille Sara ; afin que je m'en réjouisse en présence du Seigneur. Je vous donne ma fille comme en dépôt ; ne la maltraitez point._ Après cela, Tobie s'en alla, bénissant Dieu, qui avait favorisé son voyage. Il remercia Raguel, et Edna. L'ancienne version Latine est plus étendue que ni le Grec, ni la Vulgate. Les Interprètes[11] remarquent que les Hébreux, dans les cérémonies de leurs mariages, imitent en beaucoup de choses ce qui s'est passé dans celui de Tobie. Ils le regardent avec raison, comme un parfait modèle d'un mariage saint, et religieux."
+      "text": "Les Grecs, et les Hébreux transposent encore ici les versets de cette sorte. (℣. 11.) _Il les bénit, et les envoya, en leur disant : Le Dieu du Ciel vous comblera de prospérité avant ma mort._ (℣. 13.) _Et il dit à sa fille : Honorez votre beau-père, et votre belle-mère ; ils sont à présent vos père, et mère : Que le bruit de votre_ _bonne réputation vienne jusqu'à nous. Et il la baisa. ( ℣. 12.) Et Edna dit à Tobie : Mon cher frère, que le Seigneur vous fasse heureusement arriver chez vous, et qu'il m'accorde la grâce de voir vos enfants, nés de ma fille Sara ; afin que je m'en réjouisse en présence du Seigneur. Je vous donne ma fille comme en dépôt ; ne la maltraitez point. Après cela, Tobie s'en alla, bénissant Dieu, qui avait favorisé son voyage. Il remercia Raguel, et Edna_. L'ancienne version Latine est plus étendue que ni le Grec, ni la Vulgate. Les Interprètes[11] remarquent que les Hébreux, dans les cérémonies de leurs mariages, imitent en beaucoup de choses ce qui s'est passé dans celui de Tobie. Ils le regardent avec raison, comme un parfait modèle d'un mariage saint, et religieux."
     }
   ],
   "joins": [
@@ -84,7 +84,7 @@
       "verse": 11,
       "mode": "flow",
       "before": " sont à présent vos père, et mère : Que le bruit de votre_",
-      "after": "bonne réputation vienne jusqu'à nous. Et il la baisa. ( ℣."
+      "after": "_bonne réputation vienne jusqu'à nous. Et il la baisa. ( ℣"
     }
   ],
   "pages_used": [

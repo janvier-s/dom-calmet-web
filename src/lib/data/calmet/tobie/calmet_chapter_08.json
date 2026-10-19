@@ -4,8 +4,8 @@
       "verse": 1,
       "sub": false,
       "latin_lemma": "introduxerunt juvenem ad eam.",
-      "lemma": "Ils firent entrer le jeune Tobie au lieu où elle était, suivant la coutume du pays, qui voulait que le jeune homme allât trouver son épouse, dans la chambre du lit nuptial.[1]",
-      "text": ""
+      "lemma": "Ils firent entrer le jeune Tobie au lieu où elle était,",
+      "text": "suivant la coutume du pays, qui voulait que le jeune homme allât trouver son épouse, dans la chambre du lit nuptial.[1]"
     },
     {
       "verse": 2,
@@ -40,7 +40,7 @@
       "sub": false,
       "latin_lemma": "tu scis quia non luxuriæ causa accipio sororem meam conjugem, sed sola posteritatis dilectione, in qua benedicatur nomen tuum.",
       "lemma": "Vous savez que ce n'est point pour satisfaire ma passion, que je prends ma sœur, pour être ma femme ; mais dans le seul désir de laisser des enfants, par lesquels votre nom soit béni.",
-      "text": "On ne peut guères lire sans admiration, des sentiments si purs dans un homme nourri sous les éléments de la Loi, et vivant au milieu d'un peuple tout grossier, et tout charnel. On ne pourrait rien exiger de plus parfait, et de plus relevé dans un Chrétien le plus spirituel. On voit les mêmes sentiments encore ailleurs dans ce Livre. Et Sara n'était ni moins éclairée, ni moins chaste que Tobie. [5] Le Grec porte : [6] _Je ne prends_ point cette personne, qui est ma sœur, pour le crime ; mais dans la vérité, ou dans la fidélité, pour lui conserver foi de mariage. L'Hébreu : _Pour confirmer votre parole, qui est véritable._ Le Syriaque : _Mais pour obéir à la Loi._ S. Augustin [7] cite ce passage de Tobie, pour montrer de quelle manière les Chrétiens doivent user de l'indulgence du mariage. Il dit ailleurs, [8] que _Concubitus necessarius causâ generandi, inculpabilis, et solus ipse nuptialis est : ille autem, qui extra istam necessitatem progreditur, jam non rationi, sed libidini obsequitur._"
+      "text": "On ne peut guères lire sans admiration, des sentiments si purs dans un homme nourri sous les éléments de la Loi, et vivant au milieu d'un peuple tout grossier, et tout charnel. On ne pourrait rien exiger de plus parfait, et de plus relevé dans un Chrétien le plus spirituel. On voit les mêmes sentiments encore ailleurs dans ce Livre. Et Sara n'était ni moins éclairée, ni moins chaste que Tobie. [5] Le Grec porte : [6] _Je ne prends_ _point cette personne, qui est ma sœur, pour le crime ; mais dans la vérité_, ou dans la fidélité, pour lui conserver foi de mariage. L'Hébreu : _Pour confirmer votre parole, qui est véritable._ Le Syriaque : _Mais pour obéir à la Loi._ S. Augustin [7] cite ce passage de Tobie, pour montrer de quelle manière les Chrétiens doivent user de l'indulgence du mariage. Il dit ailleurs, [8] que _Concubitus necessarius causâ generandi, inculpabilis, et solus ipse nuptialis est : ille autem, qui extra istam necessitatem progreditur, jam non rationi, sed libidini obsequitur._"
     },
     {
       "verse": 10,
@@ -60,8 +60,15 @@
       "verse": 15,
       "sub": false,
       "latin_lemma": "reperit eos secum pariter dormientes.",
-      "lemma": null,
-      "text": "les trouva qui dormaient dans le même lit ; mais sans se toucher, et apparemment tout vêtus. [10] C'est ce qu'il faut dire suivant la Vulgate ; car ils devaient vivre les trois premières nuits de leur mariage dans la continence. Les autres Textes n'exigent pas ce sens."
+      "lemma": "Il",
+      "text": ""
+    },
+    {
+      "verse": 15,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "les trouva qui dormaient dans le même lit ;",
+      "text": "mais sans se toucher, et apparemment tout vêtus. [10] C'est ce qu'il faut dire suivant la Vulgate ; car ils devaient vivre les trois premières nuits de leur mariage dans la continence. Les autres Textes n'exigent pas ce sens."
     },
     {
       "verse": 16,
@@ -98,14 +105,7 @@
       "verse": 9,
       "mode": "flow",
       "before": "e_0089-b} Le Grec porte : ^{fn:page_0089-c} _Je ne prends_",
-      "after": "point cette personne, qui est ma sœur, pour le crime ; mai"
-    },
-    {
-      "seam": "page_0090>page_0091",
-      "verse": 15,
-      "mode": "flow",
-      "before": "",
-      "after": "les trouva qui dormaient dans le même lit ; mais sans se t"
+      "after": "_point cette personne, qui est ma sœur, pour le crime ; ma"
     }
   ],
   "pages_used": [
@@ -120,7 +120,7 @@
     {
       "key": "page_0087-a",
       "n": 1,
-      "text": "_Gen._ 29,21."
+      "text": "Genèse 29,21."
     },
     {
       "key": "page_0087-b",
@@ -145,7 +145,7 @@
     {
       "key": "page_0089-c",
       "n": 6,
-      "text": "Οὐχὶ διὰ πορνείαν ἐγὼ λαμβάνω τὴν ἀδελφήν μου ταύτην, ἀλλ’ ἐπ’ ἀληθείας. saint Augustin, De la doctrine chrétienne, livre 2, chapitre 10. Non luxuriae causa accipio sororem meam, sed ipsa veritate, ut miserearis nobis."
+      "text": "Οὐχὶ διὰ πορνείαν ἐγὼ λαμβάνω τὴν ἀδελφήν μου ταύτην, ἀλλ’ ἐπ’ ἀληθείας. saint Augustin, De la doctrine chrétienne, livre 2, chapitre 10. Non luxuriæ causa accipio sororem meam, sed ipsa veritate, ut miserearis nobis."
     },
     {
       "key": "page_0090-a",
