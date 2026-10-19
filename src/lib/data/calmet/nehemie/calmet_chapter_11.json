@@ -75,7 +75,7 @@
       "sub": false,
       "latin_lemma": "fratres eorum potentes nimis, et... Zabdiel, filius potentium.",
       "lemma": "Leurs frères, qui étaient des hommes très-puissants, et leur Chef Zabdiel, fils des plus puissants d'Israël.",
-      "text": "traduire ainsi l'Hébreu: [12] _Leurs frères, qui étaient gens riches_, [13] ou puissants, ou vaillants; _et Zabdiel, fils des Grands_, ou des _Gédolim_; comme si ce dernier était un nom propre. Cette famille était connue dans Israël sous le nom d'hommes puissants, et riches."
+      "text": "On peut traduire ainsi l'Hébreu: [12] _Leurs frères, qui étaient gens riches_, [13] ou puissants, ou vaillants; _et Zabdiel, fils des Grands_, ou des _Gédolim_; comme si ce dernier était un nom propre. Cette famille était connue dans Israël sous le nom d'hommes puissants, et riches."
     },
     {
       "verse": 15,
@@ -124,7 +124,7 @@
       "sub": false,
       "latin_lemma": "præceptum regis super eos erat, et ordo in cantoribus.",
       "lemma": "Car le Roi avait prescrit tout ce qui les regardait, et l'ordre qui devait être observé tous les jours.",
-      "text": "Il semble qu'on doit entendre sous le nom de _Roi_, David, qui avait réglé l'ordre, et les fonctions des Lévites;[21] règlement que Néhémie ne voulut point changer. Le ℣. 24. du Chapitre suivant, où la même expression se rencontre, avec le nom de David, fait beaucoup pour ce sentiment. D'ailleurs, quel autre Roi aurait pu donner des ordres pour les fonctions des Chantres ? Cependant il est fort probable que le nom de _Roi_, mis absolument, ne peut signifier en cet endroit que le Monarque, auquel les Juifs obéissaient alors, c'est-à-dire, le Roi de Perse. Darius[22] avait prescrit aux Anciens du peuple, et aux Prêtres, et Lévites ce qu'ils avaient à faire, et ce qu'ils pouvaient tirer du trésor Royal pour les dépenses des bâtiments, et des sacrifices. Artaxerxès[23] avait fait de pareils règlements. Ces Princes avaient pourvu aux besoins, et à l'entretien des Prêtres, afin qu'ils pussent librement faire leurs fonctions.\nL'Hébreu lit:[24] _Il y avait sur leur sujet un ordre du Roi, et une fidélité sur les Chantres_. Le Roi avait donné ordre à ses Officiers de fournir aux besoins des Chantres ; et on leur donnait fidèlement exactement jour par jour, ce qui leur était dû. J'aimerais mieux traduire: _Il y avait un ordre, et_ un reglement du Roi sur leur sujet. [25] Le Syriaque l'entend de cette sorte."
+      "text": "Il semble qu'on doit entendre sous le nom de _Roi_, David, qui avait réglé l'ordre, et les fonctions des Lévites;[21] règlement que Néhémie ne voulut point changer. Le ℣. 24. du Chapitre suivant, où la même expression se rencontre, avec le nom de David, fait beaucoup pour ce sentiment. D'ailleurs, quel autre Roi aurait pu donner des ordres pour les fonctions des Chantres ? Cependant il est fort probable que le nom de _Roi_, mis absolument, ne peut signifier en cet endroit que le Monarque, auquel les Juifs obéissaient alors, c'est-à-dire, le Roi de Perse. Darius[22] avait prescrit aux Anciens du peuple, et aux Prêtres, et Lévites ce qu'ils avaient à faire, et ce qu'ils pouvaient tirer du trésor Royal pour les dépenses des bâtiments, et des sacrifices. Artaxerxès[23] avait fait de pareils règlements. Ces Princes avaient pourvu aux besoins, et à l'entretien des Prêtres, afin qu'ils pussent librement faire leurs fonctions.\nL'Hébreu lit:[24] _Il y avait sur leur sujet un ordre du Roi, et une fidélité sur les Chantres_. Le Roi avait donné ordre à ses Officiers de fournir aux besoins des Chantres ; et on leur donnait fidèlement exactement jour par jour, ce qui leur était dû. J'aimerais mieux traduire: Il y avait un ordre, et un reglement du Roi sur leur sujet. [25] Le Syriaque l'entend de cette sorte."
     },
     {
       "verse": 24,
@@ -208,8 +208,8 @@
     {
       "seam": "page_0088>page_0089",
       "verse": 14,
-      "mode": "mend",
-      "before": "s, et leur Chef Zabdiel, fils des plus puissants d'Israël.",
+      "mode": "flow",
+      "before": "On peut",
       "after": "traduire ainsi l'Hébreu: ^{(a)} _Leurs frères, qui étaient"
     },
     {
@@ -230,7 +230,7 @@
       "seam": "page_0091>page_0092",
       "verse": 23,
       "mode": "flow",
-      "before": "t dû. J'aimerais mieux traduire: _Il y avait un ordre, et_",
+      "before": "ait dû. J'aimerais mieux traduire: Il y avait un ordre, et",
       "after": "un reglement du Roi sur leur sujet. ^{(a)} Le Syriaque l'e"
     }
   ],
@@ -289,7 +289,7 @@
     {
       "key": "page_0088-a",
       "n": 9,
-      "text": "le Syriaque ; la Bible de Zurich. _Voyez 2* Esdras 3,16-18._"
+      "text": "le Syriaque ; la Bible de Zurich. Voyez 2 Esdras 3,16-18."
     },
     {
       "key": "page_0088-b",
@@ -334,17 +334,17 @@
     {
       "key": "page_0090-b",
       "n": 18,
-      "text": "ציחא* וגשפא* על הנתינים"
+      "text": "ציחא וגשפא על הנתינים"
     },
     {
       "key": "page_0090-c",
       "n": 19,
-      "text": "ופקיד הלויים 70. Καὶ ἐπίσκοπος τῶν Λευιτῶν. Admon."
+      "text": "ופקיד הלויים 70. Καὶ ἐπίσκοπος τῶν Λευιτῶν."
     },
     {
       "key": "page_0091-a",
       "n": 20,
-      "text": "_Voyez si placet Grotius sur ce passage ;\nEstius ;\net Digeste, titre De muneribus et honoribus._"
+      "text": "Voyez si placet Grotius sur ce passage ;\nEstius ;\net Digeste, titre De muneribus et honoribus."
     },
     {
       "key": "page_0091-b",

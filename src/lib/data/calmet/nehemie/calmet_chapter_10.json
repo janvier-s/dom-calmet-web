@@ -4,8 +4,8 @@
       "verse": 1,
       "sub": false,
       "latin_lemma": "signatores fuerunt Nehemias Athersatha.",
-      "lemma": "Ceux qui signèrent, furent Néhémie Athersatha, ou Néhémie l'Échanson ; car on a déjà vu qu'Athersatha était le nom de son emploi.",
-      "text": "Ceux qui sont dénommés ici, signèrent l'acte de l'alliance au nom de toute la Nation. L'État des Juifs était alors une aristocratie, mêlée d'oligarchie. Néhémie, Esdras, Éliasib, et quelques autres, étaient Princes du peuple. Les délibérations se faisaient avec le conseil des Anciens, et du peuple. [1] Texte Hébreu[2] porte : _Et sur ceux qui sont scellés, est Néhémie l'Échanson, etc._ Voici les principaux de ceux, dont les noms sont scellés dans l'acte de l'alliance. Il est étrange que les noms du grand-Prêtre Éliasib, et d'Esdras, ne se trouvent point dans ce dénombrement. Seraient-ils oubliés ? Peut-être qu'ils y sont; mais sous d'autres noms."
+      "lemma": "Ceux qui signèrent, furent Néhémie Athersatha,",
+      "text": "ou _Néhémie l'Échanson_ ; car on a déjà vu qu'_Athersatha_ était le nom de son emploi. Ceux qui sont dénommés ici, signèrent l'acte de l'alliance au nom de toute la Nation. L'État des Juifs était alors une aristocratie, mêlée d'oligarchie. Néhémie, Esdras, Éliasib, et quelques autres, étaient Princes du peuple. Les délibérations se faisaient avec le conseil des Anciens, et du peuple. [1] Le Texte Hébreu[2] porte : _Et sur ceux qui sont scellés, est Néhémie l'Échanson, etc._ Voici les principaux de ceux, dont les noms sont scellés dans l'acte de l'alliance. Il est étrange que les noms du grand-Prêtre Éliasib, et d'Esdras, ne se trouvent point dans ce dénombrement. Seraient-ils oubliés ? Peut-être qu'ils y sont; mais sous d'autres noms."
     },
     {
       "verse": 28,
@@ -38,9 +38,16 @@
     {
       "verse": 35,
       "sub": false,
-      "latin_lemma": "primitiva universi fructus omnis ligni,",
+      "latin_lemma": "primitiva universi fructus omnis ligni.",
       "lemma": null,
-      "text": "Les prémices des fruits de tous les arbres. Il n'y avait que sept sortes d'arbres dont on payât les prémices : les pommiers, les poiriers, les figuiers, les abricotiers, les oliviers, les palmiers, la vigne ; et outre cela, le froment, et l'orge, et les autres grains, et légumes."
+      "text": ""
+    },
+    {
+      "verse": 35,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "Les prémices des fruits de tous les arbres.",
+      "text": "Il n'y avait que sept sortes d'arbres dont on payât les prémices : les pommiers, les poiriers, les figuiers, les abricotiers, les oliviers, les palmiers, la vigne ; et outre cela, le froment, et l'orge, et les autres grains, et légumes."
     },
     {
       "verse": 36,
@@ -76,7 +83,7 @@
       "seam": "page_0079>page_0080",
       "verse": 1,
       "mode": "flow",
-      "before": "ec le conseil des Anciens, et du peuple. ^{fn:page_0079-a}",
+      "before": "le conseil des Anciens, et du peuple. ^{fn:page_0079-a} Le",
       "after": "Texte Hébreu^{(a)} porte : _Et sur ceux qui sont scellés, "
     },
     {
@@ -92,13 +99,6 @@
       "mode": "flow",
       "before": "s du sicle. Mais dans la suite, ils rétablirent l'usage de",
       "after": "donner le demi-sicle ; et on le voit bien clairement dans "
-    },
-    {
-      "seam": "page_0083>page_0084",
-      "verse": 35,
-      "mode": "flow",
-      "before": "",
-      "after": "Les prémices des fruits de tous les arbres. Il n'y avait q"
     }
   ],
   "pages_used": [

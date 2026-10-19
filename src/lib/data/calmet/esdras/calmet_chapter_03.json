@@ -11,14 +11,14 @@
       "verse": 1,
       "sub": false,
       "latin_lemma": "Josue, filius Josedec.",
-      "lemma": "Josué, fils de Josedec, et petit-fils du grand-Prêtre Saraïa, qui avait été mis à mort par Nabuchodonosor,[1] Josué revint avec Zorobabel, et exerça le premier, après la Captivité, la charge de souverain Sacrificateur.",
-      "text": ""
+      "lemma": "Josué, fils de Josedec,",
+      "text": "et petit-fils du grand-Prêtre Saraïa, qui avait été mis à mort par Nabuchodonosor,[1] Josué revint avec Zorobabel, et exerça le premier, après la Captivité, la charge de souverain Sacrificateur."
     },
     {
       "verse": 1,
       "sub": false,
       "latin_lemma": "Zorobabel, filius Salathiel.",
-      "lemma": null,
+      "lemma": "Zorobabel fils de Salathiel.",
       "text": "Zorobabel était fils de Phadaïa, selon l'ordre naturel :[2] mais comme Salathiel son oncle l'avait élevé, on lui donnait aussi le nom de fils de Salathiel."
     },
     {
@@ -46,8 +46,8 @@
       "verse": 4,
       "sub": false,
       "latin_lemma": "fecerunt solemnitatem tabernaculorum.",
-      "lemma": "Ils célébrèrent la Fête des Tabernacles, qui tombait dans le septième mois, nommé Tizri.",
-      "text": "[4] On y offrit tous les sacrifices ordonnés par la Loi, jour par jour : [5] _Holocaustum diebus singulis ... opus diei in die suo._ L'Hébreu : [6] _On offrit l'holocauste jour par jour, suivant le nombre commandé, chaque jour ayant régulièrement ce qui lui appartenait._ On commença à offrir les sacrifices ordinaires dès le premier jour du septième mois : [7] mais la Fête des Tabernacles ne commençait qu'au quinzième jour de ce mois."
+      "lemma": "Ils célébrèrent la Fête des Tabernacles,",
+      "text": "qui tombait dans le septième mois, nommé Tizri.[4] On y offrit tous les sacrifices ordonnés par la Loi, jour par jour : [5] _Holocaustum diebus singulis ... opus diei in die suo._ L'Hébreu : [6] _On offrit l'holocauste jour par jour, suivant le nombre commandé, chaque jour ayant régulièrement ce qui lui appartenait._ On commença à offrir les sacrifices ordinaires dès le premier jour du septième mois : [7] mais la Fête des Tabernacles ne commençait qu'au quinzième jour de ce mois."
     },
     {
       "verse": 7,
@@ -81,8 +81,8 @@
       "verse": 12,
       "sub": false,
       "latin_lemma": "flebant voce magna.",
-      "lemma": "Ils jetaient de grands cris mêlés de larmes, en comparant le Temple qu'ils allaient bâtir, avec celui de Salomon, que Nabuchodonosor avait détruit.",
-      "text": "Ils jugeaient que ce second Temple n'approcherait jamais de la magnificence, et de la somptuosité du premier, en faisant la comparaison des petits moyens qu'ils avaient alors, avec les richesses immenses de Salomon. Ce n'est pas que le second Temple ne fût très-grand, et très somptueux, puisqu'il était bâti sur les fondements du premier. L'Auteur du second Livre des Maccabées, l'appelle un très-grand Temple.[13] Enfin Aggée[14] prophétisant les grandeurs de ce Temple, avant qu'il fût achevé, disait qu'il serait plus beau, et plus glorieux, que n'avait jamais été le premier : _Magna erit gloria domûs istius novissimæ , plus quàm primæ , dicit Dominus exercituum_. Mais il faut l'avouer, quelque grande que fût la beauté matérielle du second Temple, elle n'approcha jamais de celle du premier. Si le Temple rétabli par Zorobabel, l'emporta sur celui de Salomon, ce fut principalement en ce qu'il eut l'avantage de voir, et de recevoir le Sauveur du monde. Je ne parle pas des prérogatives que les Rabbins attribuent au premier Temple par-dessus le second. Celles qu'on conteste le moins, sont que l'Arche d'Alliance, et peut-être l'_urim_, et _tummim_, qui étaient dans le premier, ne se trouvaient pas dans le second."
+      "lemma": "Ils jetaient de grands cris mêlés de larmes,",
+      "text": "en comparant le Temple qu'ils allaient bâtir, avec celui de Salomon, que Nabuchodonosor avait détruit. Ils jugeaient que ce second Temple n'approcherait jamais de la magnificence, et de la somptuosité du premier, en faisant la comparaison des petits moyens qu'ils avaient alors, avec les richesses immenses de Salomon. Ce n'est pas que le second Temple ne fût très-grand, et très somptueux, puisqu'il était bâti sur les fondements du premier. L'Auteur du second Livre des Maccabées, l'appelle un très grand Temple.[13] Enfin Aggée[14] prophétisant les grandeurs de ce Temple, avant qu'il fût achevé, disait qu'il serait plus beau, et plus glorieux, que n'avait jamais été le premier : _Magna erit gloria domûs istius novissimæ , plus quàm primæ , dicit Dominus exercituum_. Mais il faut l'avouer, quelque grande que fût la beauté matérielle du second Temple, elle n'approcha jamais de celle du premier. Si le Temple rétabli par Zorobabel, l'emporta sur celui de Salomon, ce fut principalement en ce qu'il eut l'avantage de voir, et de recevoir le Sauveur du monde. Je ne parle pas des prérogatives que les Rabbins attribuent au premier Temple par-dessus le second. Celles qu'on conteste le moins, sont que l'Arche d'Alliance, et peut-être l'_urim_, et _tummim_, qui étaient dans le premier, ne se trouvaient pas dans le second."
     }
   ],
   "joins": [
@@ -103,8 +103,8 @@
     {
       "seam": "page_0072>page_0073",
       "verse": 12,
-      "mode": "hyphen",
-      "before": "eur du second Livre des Maccabées, l'appelle un très-grand",
+      "mode": "flow",
+      "before": " L'Auteur du second Livre des Maccabées, l'appelle un très",
       "after": "grand Temple.^{(a)} Enfin Aggée^{(b)} prophétisant les gra"
     }
   ],

@@ -108,23 +108,37 @@
     {
       "verse": 40,
       "sub": false,
-      "latin_lemma": "ALIAN, nommé Alvan dans la Genese.[15] SEPHI, autrement Sepho. Genes. XXXVI. 23. FILII ANA, DISON.",
+      "latin_lemma": "alian,",
       "lemma": null,
-      "text": "Les fils d'Ana, sont Dison. Il y faut joindre Oolibama, marquée dans la Genèse, comme fille d'Ana, et sœur de Dison.[14]"
+      "text": "nommé Alvan dans la Genese.[14]"
+    },
+    {
+      "verse": 40,
+      "sub": false,
+      "latin_lemma": "Sephi,",
+      "lemma": null,
+      "text": "autrement Sepho. Genes. XXXVI. 23."
+    },
+    {
+      "verse": 40,
+      "sub": false,
+      "latin_lemma": "filii Ana, Dison.",
+      "lemma": null,
+      "text": "Les fils d'Ana, sont Dison. Il y faut joindre Oolibama, marquée dans la Genèse, comme fille d'Ana, et sœur de Dison.[15]"
     },
     {
       "verse": 41,
       "sub": false,
-      "latin_lemma": "HAMRAM; il est appellé Hamdam dans la Genese.[16]",
+      "latin_lemma": "hamram ;",
       "lemma": null,
-      "text": "Toutes ces variétés ne naissent que de la ressemblance des lettres, et ne peuvent être venues que depuis que les Livres Saints sont écrits en caractères Chaldéens."
+      "text": "il est appellé Hamdam dans la Genese.[16] Toutes ces variétés ne naissent que de la ressemblance des lettres, et ne peuvent être venues que depuis que les Livres Saints sont écrits en caractères Chaldéens."
     },
     {
       "verse": 42,
       "sub": false,
-      "latin_lemma": "JACAN, autrement Acan,",
+      "latin_lemma": "Jacan,",
       "lemma": null,
-      "text": "et comme il est appelé dans la Genèse.[17]"
+      "text": "autrement _Acan_, et comme il est appelé dans la Genèse.[17]"
     },
     {
       "verse": 43,
@@ -391,14 +405,14 @@
       "text": "[UNCERTAIN HEBREW]"
     },
     {
-      "key": "page_0068-d",
+      "key": "page_0068-c",
       "n": 14,
-      "text": "Genèse 36,25."
+      "text": "Genes. XXXVI. 23. [UNCERTAIN HEBREW] Hic autem [UNCERTAIN HEBREW]"
     },
     {
-      "key": "page_0068-c",
+      "key": "page_0068-d",
       "n": 15,
-      "text": "Genes. XXXVI. 23. [UNCERTAIN HEBREW] Hic autem"
+      "text": "Genèse 36,25."
     },
     {
       "key": "page_0068-e",

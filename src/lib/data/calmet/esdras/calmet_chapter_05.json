@@ -47,7 +47,7 @@
       "sub": false,
       "latin_lemma": "stharbusanai, et consiliatores ejus Apharsachæi.",
       "lemma": "Stharbusanaï, et leurs Conseillers les Apharsachéens, qui étaient au-delà du fleuve.",
-      "text": "Nous ne savons si Sthurbusanaï est un nom propre, ou le nom de l'un de ces peuples, qui avaient été envoyés par Salmanasar dans la Syrie. Nous connaissons les _Buséens_ dans la Médie, marqués par Hérodote, [18] et par Etienne. Sathar pouvait être sorti de ces Buses, ou Buséens féens ; ou Sathar est un nom de dignité, qui entre dans celui de Satrape. Les Apharsachéens se trouvent dans le dénombrement des peuples envoyés par Asnaphar, au Chapitre précédent, ℣. 9. Nous croyons que ce sont les Perso-Scythes."
+      "text": "Nous ne savons si Sthurbusanaï est un nom propre, ou le nom de l'un de ces peuples, qui avaient été envoyés par Salmanasar dans la Syrie. Nous connaissons les _Buséens_ dans la Médie, marqués par Hérodote, [18] et par Etienne. Sathar pouvait être sorti de ces Buses, ou Buséens ; ou Sathar est un nom de dignité, qui entre dans celui de Satrape. Les Apharsachéens se trouvent dans le dénombrement des peuples envoyés par Asnaphar, au Chapitre précédent, ℣. 9. Nous croyons que ce sont les Perso-Scythes."
     },
     {
       "verse": 8,
@@ -68,7 +68,14 @@
       "sub": false,
       "latin_lemma": "Cyrus rex proposuit edictum.",
       "lemma": "Cyrus donna un",
-      "text": "Édit pour faire rebâtir le Temple. Malgré les oppositions faites au contraire, les Juifs se crurent en droit de continuer en vertu de ce premier Édit, parce qu'il ne constait pas qu'il fût révoqué, ni même qu'il fût révocable ; les Édits des Rois de Perse étant toujours dans leur vigueur, quand une fois ils étaient donnés avec le conseil des Grands."
+      "text": ""
+    },
+    {
+      "verse": 13,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "Édit",
+      "text": "pour faire rebâtir le Temple. Malgré les oppositions faites au contraire, les Juifs se crurent en droit de continuer en vertu de ce premier Édit, parce qu'il ne constait pas qu'il fût révoqué, ni même qu'il fût révocable ; les Édits des Rois de Perse étant toujours dans leur vigueur, quand une fois ils étaient donnés avec le conseil des Grands."
     },
     {
       "verse": 16,
@@ -117,16 +124,9 @@
     {
       "seam": "page_0088>page_0089",
       "verse": 5,
-      "mode": "flow",
-      "before": "tienne. Sathar pouvait être sorti de ces Buses, ou Buséens",
-      "after": "féens ; ou Sathar est un nom de dignité, qui entre dans ce"
-    },
-    {
-      "seam": "page_0089>page_0090",
-      "verse": 13,
-      "mode": "flow",
-      "before": "Cyrus donna un",
-      "after": "Édit pour faire rebâtir le Temple. Malgré les oppositions "
+      "mode": "splice",
+      "before": "ar Etienne. Sathar pouvait être sorti de ces Buses, ou Bu-",
+      "after": "séens ; ou Sathar est un nom de dignité, qui entre dans ce"
     },
     {
       "seam": "page_0090>page_0091",

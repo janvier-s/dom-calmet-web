@@ -53,8 +53,8 @@
       "verse": 5,
       "sub": false,
       "latin_lemma": "benedicite Domino ab æterno usque in æternum.",
-      "lemma": "Bénissez le Seigneur, qui est dans les siècles des siècles; ou, bénissez continuellement le Seigneur; bénissez-le de siècle en siècle, de race en race.",
-      "text": "Les plus hauts des Cieux, le lieu de la demeure de l'Éternel, et tous les astres, qui sont nommés l'armée céleste, les gardes, l'armée du Seigneur."
+      "lemma": "Bénissez le Seigneur, qui est dans les siècles des siècles ;",
+      "text": "ou, _bénissez continuellement le Seigneur_; bénissez-le de siècle en siècle, de race en race.\n\nLes plus hauts des Cieux, le lieu de la demeure de l'Éternel, et tous les astres, qui sont nommés l'armée céleste, les gardes, l'armée du Seigneur."
     },
     {
       "verse": 5,
@@ -68,7 +68,14 @@
       "sub": false,
       "latin_lemma": "eduxisti eum de igne Chaldæorum.",
       "lemma": "Vous l'avez",
-      "text": "tiré du feu des Caldéens. Les Hébreux croient qu'Abraham fut jeté dans une fournaise ardente par les Caldéens, pour n'avoir pas voulu adorer le feu, qui est leur Dieu.[9] Mais il vaut mieux traduire :[10] _Vous l'avez tiré d'Ur de Caldée_. Ur est le nom de la ville où demeurait Tharé, père d'Abraham.[11] Les Septante,[12] et l'Arabe : _Vous l'avez tiré du pays des Caldéens_. On a examiné sur Isaïe, XLIII. 27. si Abraham a adoré les Idoles avant sa vocation."
+      "text": ""
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "tiré du feu des Caldéens.",
+      "text": "Les Hébreux croient qu'Abraham fut jeté dans une fournaise ardente par les Caldéens, pour n'avoir pas voulu adorer le feu, qui est leur Dieu.[9] Mais il vaut mieux traduire :[10] _Vous l'avez tiré d'Ur de Caldée_. Ur est le nom de la ville où demeurait Tharé, père d'Abraham.[11] Les Septante,[12] et l'Arabe : _Vous l'avez tiré du pays des Caldéens_. On a examiné sur Isaïe, XLIII. 27. si Abraham a adoré les Idoles avant sa vocation."
     },
     {
       "verse": 14,
@@ -151,8 +158,8 @@
       "verse": 27,
       "sub": false,
       "latin_lemma": "dedisti eis salvatores.",
-      "lemma": "Vous leur avez donné des Sauveurs ; comme Josué, les Juges, Samuel, Saül, David.",
-      "text": ""
+      "lemma": "Vous leur avez donné des Sauveurs ;",
+      "text": "comme Josué, les Juges, Samuel, Saül, David."
     },
     {
       "verse": 28,
@@ -179,8 +186,15 @@
       "verse": 32,
       "sub": false,
       "latin_lemma": "ne avertas a facie tua omnem laborem, qui invenit nos.",
-      "lemma": "Ne détournez point vos yeux de tous les maux qui nous",
-      "text": "ont accablés. Regardez-les, Seigneur, et les recevez comme une hostie d'expiation pour tous les crimes qui nous les ont attirés. L'Hébreu à la lettre : [30] Ne regardez point comme peu de chose, toute la fatigue qui nous a trouvés. Ne regardez point cela avec indifférence, et comme incapable de satisfaire à votre Justice, et d'expier nos crimes."
+      "lemma": "Ne détournez point vos yeux de tous les maux qui",
+      "text": ""
+    },
+    {
+      "verse": 32,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "nous ont accablés.",
+      "text": "Regardez-les, Seigneur, et les recevez comme une hostie d'expiation pour tous les crimes qui nous les ont attirés. L'Hébreu à la lettre : [30] Ne regardez point comme peu de chose, toute la fatigue qui nous a trouvés. Ne regardez point cela avec indifférence, et comme incapable de satisfaire à votre Justice, et d'expier nos crimes."
     },
     {
       "verse": 32,
@@ -251,15 +265,8 @@
       "seam": "page_0069>page_0070",
       "verse": 5,
       "mode": "para",
-      "before": "eigneur; bénissez-le de siècle en siècle, de race en race.",
+      "before": "igneur_; bénissez-le de siècle en siècle, de race en race.",
       "after": "Les plus hauts des Cieux, le lieu de la demeure de l'Étern"
-    },
-    {
-      "seam": "page_0070>page_0071",
-      "verse": 7,
-      "mode": "flow",
-      "before": "Vous l'avez",
-      "after": "tiré du feu des Caldéens. Les Hébreux croient qu'Abraham f"
     },
     {
       "seam": "page_0072>page_0073",
@@ -267,13 +274,6 @@
       "mode": "flow",
       "before": "urieuses, insultantes, outrageantes, offensantes, etc. Ils",
       "after": "commirent ces blasphèmes, principalement en donnant le nom"
-    },
-    {
-      "seam": "page_0076>page_0077",
-      "verse": 32,
-      "mode": "hyphen",
-      "before": "Ne détournez point vos yeux de tous les maux qui nous",
-      "after": "nous ont accablés. Regardez-les, Seigneur, et les recevez "
     },
     {
       "seam": "page_0077>page_0078",
@@ -285,8 +285,8 @@
     {
       "seam": "page_0078>page_0079",
       "verse": 38,
-      "mode": "mend",
-      "before": "iers de la Nation, et nous le conserverons dans le Temple.",
+      "mode": "flow",
+      "before": "miers de la Nation, et nous le conserverons dans le Temple",
       "after": "du Seigneur, comme un monument, et une assurance de notre "
     }
   ],
@@ -369,7 +369,7 @@
     {
       "key": "page_0071-e",
       "n": 13,
-      "text": "Genèse 22,16. _Per memetipsum juravi, quia fecisti hanc rem, . . . possidebit semen tuum portas inimicorum suorum._"
+      "text": "Genèse 22,16. _Per memetipsum juravi, quia fecisti hanc rem,... possidebit semen tuum portas inimicorum suorum._"
     },
     {
       "key": "page_0072-a",

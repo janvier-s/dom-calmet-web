@@ -88,8 +88,15 @@
       "verse": 10,
       "sub": false,
       "latin_lemma": "Tobias servus, Ammonites.",
-      "lemma": "Tobie serviteur du Roi, Ammonite.",
-      "text": "nire. Ce Tobie était sujet, et dépendant du Roi de Perse, de même que Sanaballat, dont on vient de parler. Le premier était Moabite ; celui-ci était Ammonite : tous deux Gouverneurs des Samaritains, ou des Cuthéens. Ils étaient Officiers, et serviteurs du Roi de Perse. Ces Princes traitaient leurs sujets, et leurs Officiers, comme autant d'esclaves. Les Gouverneurs de Provinces n'étaient pas en cela plus privilégiés que les autres."
+      "lemma": "Tobie serviteur du Roi, Ammo-",
+      "text": ""
+    },
+    {
+      "verse": 10,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "nite.",
+      "text": "Ce Tobie était sujet, et dépendant du Roi de Perse, de même que Sanaballat, dont on vient de parler. Le premier était Moabite ; celui-ci était Ammonite : tous deux Gouverneurs des Samaritains, ou des Cuthéens. Ils étaient Officiers, et serviteurs du Roi de Perse. Ces Princes traitaient leurs sujets, et leurs Officiers, comme autant d'esclaves. Les Gouverneurs de Provinces n'étaient pas en cela plus privilégiés que les autres."
     },
     {
       "verse": 13,
@@ -123,8 +130,8 @@
       "verse": 15,
       "sub": false,
       "latin_lemma": "ascendi per torrentem.",
-      "lemma": "Je remontai par le torrent de Cédron, et de là je rentrai dans la ville par la même porte que j'en étais sorti.",
-      "text": ""
+      "lemma": "Je remontai par le torrent",
+      "text": "de Cédron, et de là je rentrai dans la ville par la même porte que j'en étais sorti."
     },
     {
       "verse": 16,
@@ -183,13 +190,6 @@
       "mode": "flow",
       "before": " ont appelé _Paradis_, les vergers, et les plants d'arbres",
       "after": "de futaie. Grotius croit que l'on donnait ce nom au pays q"
-    },
-    {
-      "seam": "page_0018>page_0019",
-      "verse": 10,
-      "mode": "mend",
-      "before": "Tobie serviteur du Roi, Ammonite.",
-      "after": "nire. Ce Tobie était sujet, et dépendant du Roi de Perse, "
     },
     {
       "seam": "page_0020>page_0021",

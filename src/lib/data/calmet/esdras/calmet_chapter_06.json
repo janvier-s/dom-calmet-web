@@ -18,8 +18,15 @@
       "verse": 3,
       "sub": false,
       "latin_lemma": "ut ponant fundamenta supportantia altitudinem cubitorum sexaginta, et latitudinem cubitorum sexaginta.",
-      "lemma": "Qu'on en posât les fondements, qui pus",
-      "text": "sent porter un édifice de soixante coudées de haut, et de soixante coudées de long. Ce Temple, qui fut bâti par Zorobabel, était moins magnifique, et moins riche ; mais il était plus haut, et plus large que celui de Salomon. Il avait soixante coudées de haut, et autant de large; au lieu que celui de Salomon n'en avait que vingt de large dans œuvre, et trente de haut. [10] Les Rabbins [11] donnent cent coudées de haut, et autant de large au Temple du Seigneur. Mais si ces mesures sont vraies, ils parlent apparemment du Temple rebâti par Hérode, qui était et plus grand, et plus vaste que ni celui de Salomon, ni celui de Zorobabel; et dans ces cent coudées, ils comprennent sans doute les ailes qui étaient contiguës au Temple, et qui régnaient tout autour du Saint, et du Sanctuaire. Et c'est ainsi qu'on doit entendre les soixante coudées de large du Temple de Zorobabel. Joseph [12] lui donne cent coudées de haut, et soixante de large : mais suivant les mesures marquées dans les Rois, et dans Ezéchiel, il ne devait avoir que cinquante-deux, ou au plus cinquante-quatre coudées de large, et quatre-vingt-dix-neuf de long, y compris les édifices, ou les ailes adhérentes, ainsi qu'on l'a dit."
+      "lemma": "Qu'on en posât les fondements, qui pus-",
+      "text": ""
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "sent porter un édifice de soixante coudées de haut, et de soixante coudées de long.",
+      "text": "Ce Temple, qui fut bâti par Zorobabel, était moins magnifique, et moins riche ; mais il était plus haut, et plus large que celui de Salomon. Il avait soixante coudées de haut, et autant de large; au lieu que celui de Salomon n'en avait que vingt de large dans œuvre, et trente de haut. [10] Les Rabbins [11] donnent cent coudées de haut, et autant de large au Temple du Seigneur. Mais si ces mesures sont vraies, ils parlent apparemment du Temple rebâti par Hérode, qui était et plus grand, et plus vaste que ni celui de Salomon, ni celui de Zorobabel; et dans ces cent coudées, ils comprennent sans doute les ailes qui étaient contiguës au Temple, et qui régnaient tout autour du Saint, et du Sanctuaire. Et c'est ainsi qu'on doit entendre les soixante coudées de large du Temple de Zorobabel. Joseph [12] lui donne cent coudées de haut, et soixante de large : mais suivant les mesures marquées dans les Rois, et dans Ezéchiel, il ne devait avoir que cinquante-deux, ou au plus cinquante-quatre coudées de large, et quatre-vingt-dix-neuf de long, y compris les édifices, ou les ailes adhérentes, ainsi qu'on l'a dit."
     },
     {
       "verse": 4,
@@ -47,7 +54,7 @@
       "sub": false,
       "latin_lemma": "de arca regis, id est, de tributis, quæ dantur de regione trans flumen.",
       "lemma": "Que des coffres du Roi, et des tributs qui se lèvent sur les pays qui sont au-delà du fleuve, on fournisse.",
-      "text": "sieurs[17] traduisent le Texte de cette sorte : _Que des trésors, ou des richesses du Roi, c'est-à-dire, des tributs de delà le fleuve, on fournisse, etc._"
+      "text": "Plusieurs[17] traduisent le Texte de cette sorte : _Que des trésors, ou des richesses du Roi, c'est-à-dire, des tributs de delà le fleuve, on fournisse, etc._"
     },
     {
       "verse": 9,
@@ -136,13 +143,6 @@
       "after": "de l'État, qui y étaient. Enfin il y en a ^{(a)} qui s'ima"
     },
     {
-      "seam": "page_0092>page_0093",
-      "verse": 3,
-      "mode": "flow",
-      "before": "Qu'on en posât les fondements, qui pus",
-      "after": "sent porter un édifice de soixante coudées de haut, et de "
-    },
-    {
       "seam": "page_0093>page_0094",
       "verse": 4,
       "mode": "flow",
@@ -152,8 +152,8 @@
     {
       "seam": "page_0094>page_0095",
       "verse": 8,
-      "mode": "mend",
-      "before": "ent sur les pays qui sont au-delà du fleuve, on fournisse.",
+      "mode": "splice",
+      "before": "Plu-",
       "after": "sieurs^{(a)} traduisent le Texte de cette sorte : _Que des"
     },
     {
@@ -166,8 +166,8 @@
     {
       "seam": "page_0096>page_0097",
       "verse": 11,
-      "mode": "hyphen",
-      "before": "s quelques exemples dans Esther, dans l'Ordonnance obtenue",
+      "mode": "flow",
+      "before": "en voyons quelques exemples dans Esther, dans l'Ordonnance",
       "after": "obtenue par Aman contre les Juifs, et dans celle de Mardoc"
     },
     {
