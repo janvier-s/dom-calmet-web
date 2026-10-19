@@ -1,13 +1,13 @@
 {
   "book": "Tobie",
   "chapter": 13,
-  "chapter_summary": "Cantique d'actions de grâces, composé par Tobie. Prédiction du rétablissement, et de la gloire future de Jérusalem.",
+  "chapter_summary": "Cantique d’actions de grâces, composé par Tobie. Prédiction du rétablissement, et de la gloire future de Jérusalem.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Aperiens autem Tobias senior os suum, benedixit Dominum, et dixit : Magnus es, Domine, in æternum, et in omnia sæcula regnum tuum :",
-      "french": "Alors le vieux Tobie ouvrant la bouche, bénit le Seigneur, et il dit : Seigneur, vous êtes grand dans l'éternité ; votre règne s'étend dans tous les siècles.",
+      "latin": "Aperiens autem Tobias senior os suum, benedixit Dominum, et dixit : Magnus es, Domine, in æternum, et in omnia sæcula regnum tuum :",
+      "french": "Alors le vieux Tobie ouvrant la bouche, bénit le Seigneur, et il dit : Seigneur, vous êtes grand dans l’éternité ; votre règne s’étend dans tous les siècles.",
       "annotations": null,
       "source_pages": [
         "page_0118.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Quoniam tu flagellas, et salvas : deducis ad Inferos, et reducis : et non est qui effugiat manum tuam.",
-      "french": "Vous châtiez et vous sauvez, vous conduisez les hommes jusqu'au tombeau, et vous les en ramenez, et nul ne se peut soustraire à votre puissante main.",
+      "latin": "Quoniam tu flagellas, et salvas : deducis ad Inferos, et reducis : et non est qui effugiat manum tuam.",
+      "french": "Vous châtiez et vous sauvez, vous conduisez les hommes jusqu’au tombeau, et vous les en ramenez, et nul ne se peut soustraire à votre puissante main.",
       "annotations": null,
       "source_pages": [
         "page_0118.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Consitemini Domino, filii Israël, et in conspectu Gentium laudate eum :",
-      "french": "Rendez grâces au Seigneur, enfants d'Israël, et louez-le devant les nations ;",
+      "latin": "Consitemini Domino, filii Israël, et in conspectu Gentium laudate eum :",
+      "french": "Rendez grâces au Seigneur, enfants d’Israël, et louez-le devant les nations ;",
       "annotations": null,
       "source_pages": [
         "page_0118.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Quoniam ideò dispersit vos inter gentes, quæ ignorant eum, ut vos enarretis mirabilia ejus, et faciatis scire eos, quia non est alius Deus omnipotens præter eum.",
-      "french": "Parce qu'il vous a ainsi dispersés parmi les peuples, qui ne le connaissent point, afin que vous publiiez ses merveilles, et que vous leur appreniez, qu'il n'y en a point d'autre que lui, qui soit le Dieu tout-puissant.",
+      "french": "Parce qu’il vous a ainsi dispersés parmi les peuples, qui ne le connaissent point, afin que vous publiiez ses merveilles, et que vous leur appreniez, qu’il n’y en a point d’autre que lui, qui soit le Dieu tout-puissant.",
       "annotations": "An du M. 3322.",
       "source_pages": [
         "page_0119.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Ipse castigavit nos propter iniquitates nostras : et ipse salvabit nos propter misericordiam suam.",
-      "french": "C'est lui qui nous a châtiés à cause de nos iniquités ; et c'est lui qui nous sauvera pour signaler sa miséricorde.",
+      "latin": "Ipse castigavit nos propter iniquitates nostras : et ipse salvabit nos propter misericordiam suam.",
+      "french": "C’est lui qui nous a châtiés à cause de nos iniquités ; et c’est lui qui nous sauvera pour signaler sa miséricorde.",
       "annotations": null,
       "source_pages": [
         "page_0119.json"
@@ -51,7 +51,7 @@
     },
     {
       "verse_number": 6,
-      "latin": "Afficite ergo quæ fecit nobifcum, et cum timore et tremore confitemini illi: Regémque fæculorum exaltate in operibus veftris.",
+      "latin": "Afficite ergo quæ fecit nobifcum, et cum timore et tremore confitemini illi : Regémque fæculorum exaltate in operibus veftris.",
       "french": "Considérez donc la manière dont il nous a traités, et bénissez-le avec crainte, et avec tremblement, et rendez hommage par vos œuvres, à ce Roi de tous les siècles.",
       "annotations": null,
       "source_pages": [
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Ego autem in terra captivitatis meæ confitebor illi : quoniam ostendit majestatem suam in gentem peccatricem.",
-      "french": "Pour moi, je le bénirai dans cette terre, où je suis captif ; parce qu'il a fait éclater sa majesté sur une nation criminelle.",
+      "latin": "Ego autem in terra captivitatis meæ confitebor illi : quoniam ostendit majestatem suam in gentem peccatricem.",
+      "french": "Pour moi, je le bénirai dans cette terre, où je suis captif ; parce qu’il a fait éclater sa majesté sur une nation criminelle.",
       "annotations": null,
       "source_pages": [
         "page_0120.json"
@@ -70,7 +70,7 @@
     {
       "verse_number": 8,
       "latin": "Convertimini itaque, peccatores, et facite justitiam coram Deo, credentes quòd faciet vobiscum misericordiam suam.",
-      "french": "Vous donc, pécheurs, convertissez-vous : faites des œuvres de justice devant Dieu, et croyez qu'il vous fera miséricorde.",
+      "french": "Vous donc, pécheurs, convertissez-vous : faites des œuvres de justice devant Dieu, et croyez qu’il vous fera miséricorde.",
       "annotations": null,
       "source_pages": [
         "page_0120.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Benedicite Dominum omnes electi ejus : agite dies lætitiæ, et confitemini illi.",
-      "french": "Bénissez le Seigneur, vous tous qui êtes ses élus ; réjouissez-vous en lui tous les jours, et rendez-lui des actions de grâces.",
+      "latin": "Benedicite Dominum omnes electi ejus : agite dies lætitiæ, et confitemini illi.",
+      "french": "Bénissez le Seigneur, vous tous qui êtes ses élus ; réjouissez-vous en lui tous les jours, et rendez-lui des actions de grâces.",
       "annotations": null,
       "source_pages": [
         "page_0120.json"
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "Jerusalem, civitas Dei, castigavit te Dominus, in operibus manuum tuarum.",
-      "french": "Jérusalem, Cité de Dieu, le Seigneur t'a châtiée, à cause des œuvres de tes mains.",
+      "french": "Jérusalem, Cité de Dieu, le Seigneur t’a châtiée, à cause des œuvres de tes mains.",
       "annotations": null,
       "source_pages": [
         "page_0120.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Confiteri Domino in bonis tuis, et benedic Deum sæculorum, ut reædificet in te tabernaculum suum, et revocet ad te omnes captivos, et gaudeas in omnia sæcula sæculorum.",
-      "french": "Rends grâces au Seigneur pour les biens qu'il t'a faits, et bénis le Dieu des siècles, afin qu'il rétablisse en toi son tabernacle, et rappelle à toi tous les captifs ; et que tu sois comblée de joie dans tous les siècles des siècles.",
+      "french": "Rends grâces au Seigneur pour les biens qu’il t’a faits, et bénis le Dieu des siècles, afin qu’il rétablisse en toi son tabernacle, et rappelle à toi tous les captifs ; et que tu sois comblée de joie dans tous les siècles des siècles.",
       "annotations": "An du M. 3322.",
       "source_pages": [
         "page_0121.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Luce splendida fulgebis : et omnes fines terræ adorabunt te.",
-      "french": "Tu brilleras d'une lumière éclatante ; et tu seras adorée de tous les peuples, jusqu'aux extrémités de la terre.",
+      "latin": "Luce splendida fulgebis : et omnes fines terræ adorabunt te.",
+      "french": "Tu brilleras d’une lumière éclatante ; et tu seras adorée de tous les peuples, jusqu’aux extrémités de la terre.",
       "annotations": null,
       "source_pages": [
         "page_0122.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Nationes ex longinquo ad te venient : et munera deferentes, adorabunt in te Dominum, et terram tuam in sanctificationem habebunt.",
-      "french": "Les nations viendront à toi, des climats les plus reculés, et t'apportant des présents, elles adoreront le Seigneur qui habite en toi, et considéreront ta terre, comme une terre vraiment sainte.",
+      "latin": "Nationes ex longinquo ad te venient : et munera deferentes, adorabunt in te Dominum, et terram tuam in sanctificationem habebunt.",
+      "french": "Les nations viendront à toi, des climats les plus reculés, et t’apportant des présents, elles adoreront le Seigneur qui habite en toi, et considéreront ta terre, comme une terre vraiment sainte.",
       "annotations": null,
       "source_pages": [
         "page_0122.json"
@@ -141,8 +141,8 @@
     },
     {
       "verse_number": 16,
-      "latin": "Maledicti erunt qui contempserint te : et condemnati erunt omnes qui blasphemaverint te : benedictique erunt qui ædificaverint te.",
-      "french": "Ceux qui te mépriseront, seront maudits de Dieu. Ceux qui te noirciront par leurs blasphèmes, seront condamnés ; et ceux qui t'édifieront, seront bénis du ciel.",
+      "latin": "Maledicti erunt qui contempserint te : et condemnati erunt omnes qui blasphemaverint te : benedictique erunt qui ædificaverint te.",
+      "french": "Ceux qui te mépriseront, seront maudits de Dieu. Ceux qui te noirciront par leurs blasphèmes, seront condamnés ; et ceux qui t’édifieront, seront bénis du ciel.",
       "annotations": "An du M. 3322.",
       "source_pages": [
         "page_0123.json"
@@ -151,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Tu autem lætaberis in filiis tuis, quoniam omnes benedicentur, et congregabuntur ad Dominum.",
-      "french": "Pour toi, tu te réjouiras dans tes enfants, parce qu'ils seront tous bénis, et qu'ils se réuniront tous au Seigneur.",
+      "french": "Pour toi, tu te réjouiras dans tes enfants, parce qu’ils seront tous bénis, et qu’ils se réuniront tous au Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0123.json"
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Beati omnes qui diligunt te, et qui gaudent super pace tua.",
-      "french": "Heureux sont tous ceux qui t'aiment ; et qui mettent leur joie dans ta prospérité.",
+      "french": "Heureux sont tous ceux qui t’aiment ; et qui mettent leur joie dans ta prospérité.",
       "annotations": null,
       "source_pages": [
         "page_0124.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Anima mea, benedic Dominum, quoniam liberavit Jerusalem civitatem suam, à cunctis tribulationibus ejus, Dominus Deus noster.",
-      "french": "Ô mon âme, bénis le Seigneur, parce qu'il a délivré sa ville de Jérusalem, de tous les maux dont elle était affligée, lui qui est le Seigneur notre Dieu.",
+      "french": "Ô mon âme, bénis le Seigneur, parce qu’il a délivré sa ville de Jérusalem, de tous les maux dont elle était affligée, lui qui est le Seigneur notre Dieu.",
       "annotations": null,
       "source_pages": [
         "page_0124.json"
@@ -178,7 +178,7 @@
     {
       "verse_number": 20,
       "latin": "Beatus ero, si fuerint reliquiæ seminis mei, ad videndam claritatem Jerusalem.",
-      "french": "Je serai heureux, s'il reste encore quelqu'un de ma race, pour voir la lumière et la splendeur de Jérusalem.",
+      "french": "Je serai heureux, s’il reste encore quelqu’un de ma race, pour voir la lumière et la splendeur de Jérusalem.",
       "annotations": null,
       "source_pages": [
         "page_0124.json"
@@ -186,8 +186,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Portæ Jerusalem ex sapphiro, et smaragdo ædificabuntur : et ex lapide pretioso, omnis circuitus murorum ejus.",
-      "french": "Les portes de Jérusalem seront bâties de saphirs et d'émeraudes ; et toute l'enceinte de ses murailles, de pierres précieuses.",
+      "latin": "Portæ Jerusalem ex sapphiro, et smaragdo ædificabuntur : et ex lapide pretioso, omnis circuitus murorum ejus.",
+      "french": "Les portes de Jérusalem seront bâties de saphirs et d’émeraudes ; et toute l’enceinte de ses murailles, de pierres précieuses.",
       "annotations": null,
       "source_pages": [
         "page_0124.json"
@@ -195,8 +195,8 @@
     },
     {
       "verse_number": 22,
-      "latin": "Ex lapide candido et mundo omnes plateæ ejus sternentur : et per vicos ejus, Alleluia cantabitur.",
-      "french": "Toutes ses places publiques seront pavées de pierres, d’une blancheur, et d’une beauté singulière : et l’on chantera le long de ses rues, Alleluia.",
+      "latin": "Ex lapide candido et mundo omnes plateæ ejus sternentur : et per vicos ejus, Alleluia cantabitur.",
+      "french": "Toutes ses places publiques seront pavées de pierres, d’une blancheur, et d’une beauté singulière : et l’on chantera le long de ses rues, Alleluia.",
       "annotations": "An du M. 3322.",
       "source_pages": [
         "page_0125.json"

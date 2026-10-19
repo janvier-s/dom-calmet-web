@@ -1,13 +1,13 @@
 {
   "book": "2 Rois",
   "chapter": 22,
-  "chapter_summary": "Piété de Josias. On trouve dans le Temple le livre de la Loi : Josias effrayé par la lecture qu'on lui en a faite, consulte la prophétesse Holda.",
+  "chapter_summary": "Piété de Josias. On trouve dans le Temple le livre de la Loi : Josias effrayé par la lecture qu’on lui en a faite, consulte la prophétesse Holda.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Octo annorum erat Josias cùm regnare cœpisset, triginta et uno anno regnavit in Jerusalem : nomen matris ejus Idida, filia Hadaiæ de Besecath.",
-      "french": "Josias avait huit ans lorsqu'il commença à régner, et il régna trente et un ans à Jérusalem. Sa mère s'appelait Ida, et elle était fille de Hadaïa de Besecath.",
+      "latin": "Octo annorum erat Josias cùm regnare cœpisset, triginta et uno anno regnavit in Jerusalem : nomen matris ejus Idida, filia Hadaiæ de Besecath.",
+      "french": "Josias avait huit ans lorsqu’il commença à régner, et il régna trente et un ans à Jérusalem. Sa mère s’appelait Ida, et elle était fille de Hadaïa de Besecath.",
       "annotations": "An du Monde 3363. avant J. C. 641.",
       "source_pages": [
         "page_0310.json"
@@ -15,7 +15,7 @@
     },
     {
       "verse_number": 2,
-      "latin": "Fecitque quod placitum erat coram Domino, et ambulavit per omnes vias David patris sui : non declinavit ad dexteram, sive ad sinistram.",
+      "latin": "Fecitque quod placitum erat coram Domino, et ambulavit per omnes vias David patris sui : non declinavit ad dexteram, sive ad sinistram.",
       "french": "Il fit ce qui était agréable au Seigneur, et marcha dans toutes les voies de David son père, sans se détourner ni à droite ni à gauche.",
       "annotations": null,
       "source_pages": [
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Anno autem octavo decimo Regis Josiæ, misit Rex Saphan filium Assis, filii Messulam, Scribam Templi Domini, dicens ei:",
-      "french": "La dix-huitième année de son règne, il envoya Saphan fils d'Assia, fils de Messulam secrétaire du Temple du Seigneur, en lui donnant cet ordre :",
+      "latin": "Anno autem octavo decimo Regis Josiæ, misit Rex Saphan filium Assis, filii Messulam, Scribam Templi Domini, dicens ei :",
+      "french": "La dix-huitième année de son règne, il envoya Saphan fils d’Assia, fils de Messulam secrétaire du Temple du Seigneur, en lui donnant cet ordre :",
       "annotations": "An du Monde 3380.",
       "source_pages": [
         "page_0310.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Vade ad Helciam Sacerdotem magnum, ut confletur pecunia, quæ illata est in Templum Domini, quam collegerunt janitores Templi à populo.",
-      "french": "Allez trouver le grand prêtre Helcias, afin qu'il fasse fondre tout l'argent qui a été porté au Temple du Seigneur, que les portiers du Temple ont reçu du peuple.",
+      "french": "Allez trouver le grand prêtre Helcias, afin qu’il fasse fondre tout l’argent qui a été porté au Temple du Seigneur, que les portiers du Temple ont reçu du peuple.",
       "annotations": "An du Monde 3380.",
       "source_pages": [
         "page_0311.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Deturque fabris per præpositos domûs Domini: qui et distribuunt eam his qui operantur in Templo Domini, ad instauranda sartatecta Templi.",
-      "french": "Et que les maîtres de la maison du Seigneur le donnent aux Entrepreneurs, afin qu'ils le distribuent à ceux qui travaillent aux réparations du Temple du Seigneur.",
+      "latin": "Deturque fabris per præpositos domûs Domini : qui et distribuunt eam his qui operantur in Templo Domini, ad instauranda sartatecta Templi.",
+      "french": "Et que les maîtres de la maison du Seigneur le donnent aux Entrepreneurs, afin qu’ils le distribuent à ceux qui travaillent aux réparations du Temple du Seigneur.",
       "annotations": "An du Monde 3380.",
       "source_pages": [
         "page_0312.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Tignariis videlicet et cæmentariis, et iis qui interrupta componunt: et ut emantur ligna, et lapides de lapicidinis ad instaurandum Templum Domini.",
-      "french": "Aux charpentiers et aux maçons, qui rétablissent les murs entrouverts, afin qu'on en achète aussi du bois, et qu'on tire des pierres des carrières, pour rétablir le Temple du Seigneur.",
+      "latin": "Tignariis videlicet et cæmentariis, et iis qui interrupta componunt : et ut emantur ligna, et lapides de lapicidinis ad instaurandum Templum Domini.",
+      "french": "Aux charpentiers et aux maçons, qui rétablissent les murs entrouverts, afin qu’on en achète aussi du bois, et qu’on tire des pierres des carrières, pour rétablir le Temple du Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0312.json"
@@ -61,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "Verumtamen non supputetur eis argentum quod accipiunt, sed in potestate habeant, et in fide.",
-      "french": "Qu'on ne leur fasse point néanmoins rendre compte de l'argent qu'ils reçoivent ; mais qu'ils en soient les maîtres, et qu'on se repose sur leur bonne foi.",
+      "french": "Qu’on ne leur fasse point néanmoins rendre compte de l’argent qu’ils reçoivent ; mais qu’ils en soient les maîtres, et qu’on se repose sur leur bonne foi.",
       "annotations": null,
       "source_pages": [
         "page_0313.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Dixit autem Helcias Pontifex ad Saphan Scribam : Librum Legis reperi in domo Domini : deditque Helcias volumen Saphan, qui et legit illud.",
-      "french": "Alors le Grand-Prêtre Helcias dit à Saphan Secrétaire : J'ai trouvé le Livre de la Loi dans le Temple du Seigneur. Et il donna ce Livre à Saphan, qui le lut.",
+      "latin": "Dixit autem Helcias Pontifex ad Saphan Scribam : Librum Legis reperi in domo Domini : deditque Helcias volumen Saphan, qui et legit illud.",
+      "french": "Alors le Grand-Prêtre Helcias dit à Saphan Secrétaire : J’ai trouvé le Livre de la Loi dans le Temple du Seigneur. Et il donna ce Livre à Saphan, qui le lut.",
       "annotations": null,
       "source_pages": [
         "page_0313.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Venit quoque Saphan Scriba ad Regem, et renuntiavit ei quod præceperat, et ait : Conflaverunt servi tui pecuniam, quæ reperta est in domo Domini : et dederunt ut distribueretur fabris à Præfectis operum Templi Domini.",
-      "french": "Saphan Secrétaire revint ensuite trouver le Roi, pour lui rendre compte de ce qu'il lui avait commandé, et il lui dit : Vos serviteurs ont fondu tout l'argent qui s'est trouvé dans la maison du Seigneur, et ils l'ont donné aux Intendants des bâtiments du Temple du Seigneur, pour le distribuer aux ouvriers.",
+      "latin": "Venit quoque Saphan Scriba ad Regem, et renuntiavit ei quod præceperat, et ait : Conflaverunt servi tui pecuniam, quæ reperta est in domo Domini : et dederunt ut distribueretur fabris à Præfectis operum Templi Domini.",
+      "french": "Saphan Secrétaire revint ensuite trouver le Roi, pour lui rendre compte de ce qu’il lui avait commandé, et il lui dit : Vos serviteurs ont fondu tout l’argent qui s’est trouvé dans la maison du Seigneur, et ils l’ont donné aux Intendants des bâtiments du Temple du Seigneur, pour le distribuer aux ouvriers.",
       "annotations": "An. du Monde 3380.",
       "source_pages": [
         "page_0314.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Narravit quoque Saphan Scriba Regi, dicens : Librum dedit mihi Helcias Sacerdos. Quem cùm legisset Saphan coram Rege,",
-      "french": "Saphan Secrétaire dit encore au Roi : Le Pontife Helcias m'a donné aussi ce Livre. Et il le lut devant le Roi.",
+      "latin": "Narravit quoque Saphan Scriba Regi, dicens : Librum dedit mihi Helcias Sacerdos. Quem cùm legisset Saphan coram Rege,",
+      "french": "Saphan Secrétaire dit encore au Roi : Le Pontife Helcias m’a donné aussi ce Livre. Et il le lut devant le Roi.",
       "annotations": null,
       "source_pages": [
         "page_0314.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Et præcepit Helciæ Sacerdoti, et Ahicam filio Saphan, et Achobor filio Michæ, et Saphan Scribæ, et Asaiæ servo Regis, dicens :",
-      "french": "Et dit au Grand-Prêtre Helcias, à Ahican fils de Saphan, à Achobor fils de Micha, à Saphan Secrétaire, à Asaïas Officier du Roi :",
+      "latin": "Et præcepit Helciæ Sacerdoti, et Ahicam filio Saphan, et Achobor filio Michæ, et Saphan Scribæ, et Asaiæ servo Regis, dicens :",
+      "french": "Et dit au Grand-Prêtre Helcias, à Ahican fils de Saphan, à Achobor fils de Micha, à Saphan Secrétaire, à Asaïas Officier du Roi :",
       "annotations": null,
       "source_pages": [
         "page_0314.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Ite, et consulite Dominum super me, et super populo, et super omni Juda, de verbis voluminis istius, quod inventum est : magna enim ira Domini succensa est contra nos : quia non audierunt patres nostri verba Libri hujus, ut facerent omne quod scriptum est nobis.",
-      "french": "Allez, consultez le Seigneur sur ce qui me regarde, moi et tout le peuple, avec tout Juda, touchant les paroles de ce Livre qui a été trouvé: car la colère du Seigneur s’est embrasée contre nous, parce que nos pères n’ont point écouté les paroles de ce Livre, et n’ont point fait ce qui nous avait été prescrit.",
+      "latin": "Ite, et consulite Dominum super me, et super populo, et super omni Juda, de verbis voluminis istius, quod inventum est : magna enim ira Domini succensa est contra nos : quia non audierunt patres nostri verba Libri hujus, ut facerent omne quod scriptum est nobis.",
+      "french": "Allez, consultez le Seigneur sur ce qui me regarde, moi et tout le peuple, avec tout Juda, touchant les paroles de ce Livre qui a été trouvé : car la colère du Seigneur s’est embrasée contre nous, parce que nos pères n’ont point écouté les paroles de ce Livre, et n’ont point fait ce qui nous avait été prescrit.",
       "annotations": "An du Monde 3380.",
       "source_pages": [
         "page_0315.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Ierunt itaque Helcias Sacerdos, et Ahicam, et Achobor, et Saphan, et Asaïa ad Holdam Prophetidem, uxorem Sellum filii Thecue, filii Araas Custodis vestium, quæ habitabat in Jerusalem in secunda : locutique sunt ad eam.",
-      "french": "Alors le Grand-Prêtre Helcias, Ahican, Achobor, Saphan et Asaïas allèrent trouver Holda la Prophétesse, femme de Sellum, fils de Thécuas, fils d'Araas Grand Maître de la garde-robe, qui demeurait à Jérusalem dans la seconde ville : et ils lui parlèrent selon l'ordre du Roi.",
+      "latin": "Ierunt itaque Helcias Sacerdos, et Ahicam, et Achobor, et Saphan, et Asaïa ad Holdam Prophetidem, uxorem Sellum filii Thecue, filii Araas Custodis vestium, quæ habitabat in Jerusalem in secunda : locutique sunt ad eam.",
+      "french": "Alors le Grand-Prêtre Helcias, Ahican, Achobor, Saphan et Asaïas allèrent trouver Holda la Prophétesse, femme de Sellum, fils de Thécuas, fils d’Araas Grand Maître de la garde-robe, qui demeurait à Jérusalem dans la seconde ville : et ils lui parlèrent selon l’ordre du Roi.",
       "annotations": "An du Monde 3380.",
       "source_pages": [
         "page_0316.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Et illa respondit eis : Hæc dicit Dominus Deus Israël : Dicite viro, qui misit vos ad me :",
-      "french": "Holda leur répondit : Voici ce que dit le Seigneur le Dieu d'Israël : Dites à l'homme qui vous a envoyés vers moi :",
+      "latin": "Et illa respondit eis : Hæc dicit Dominus Deus Israël : Dicite viro, qui misit vos ad me :",
+      "french": "Holda leur répondit : Voici ce que dit le Seigneur le Dieu d’Israël : Dites à l’homme qui vous a envoyés vers moi :",
       "annotations": null,
       "source_pages": [
         "page_0316.json"
@@ -141,8 +141,8 @@
     },
     {
       "verse_number": 16,
-      "latin": "Hæc dicit Dominus : Ecce ego adducam mala super locum istum, et super habitatores ejus, omnia verba Legis quæ legit Rex Juda :",
-      "french": "Voici ce que dit le Seigneur : Je vais faire tomber sur ce lieu, et sur ses habitants tous les maux que le Roi de Juda a lus dans le Livre de la Loi;",
+      "latin": "Hæc dicit Dominus : Ecce ego adducam mala super locum istum, et super habitatores ejus, omnia verba Legis quæ legit Rex Juda :",
+      "french": "Voici ce que dit le Seigneur : Je vais faire tomber sur ce lieu, et sur ses habitants tous les maux que le Roi de Juda a lus dans le Livre de la Loi ;",
       "annotations": null,
       "source_pages": [
         "page_0316.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Quia dereliquerunt me, et sacrificaverunt Diis alienis, irritantes me in cunctis operibus manuum suarum : et succendetur indignatio mea in loco hoc, et non extinguetur.",
-      "french": "Parce qu'ils m'ont abandonné, qu'ils ont sacrifié à des Dieux étrangers, et qu'ils m'ont irrité généralement par toutes leurs œuvres, mon indignation s'allumera de telle sorte contre ce lieu, qu'il n'y aura rien qui la puisse éteindre.",
+      "latin": "Quia dereliquerunt me, et sacrificaverunt Diis alienis, irritantes me in cunctis operibus manuum suarum : et succendetur indignatio mea in loco hoc, et non extinguetur.",
+      "french": "Parce qu’ils m’ont abandonné, qu’ils ont sacrifié à des Dieux étrangers, et qu’ils m’ont irrité généralement par toutes leurs œuvres, mon indignation s’allumera de telle sorte contre ce lieu, qu’il n’y aura rien qui la puisse éteindre.",
       "annotations": null,
       "source_pages": [
         "page_0316.json"
@@ -159,8 +159,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "Regi autem Juda qui misit vos, ut consuleretis Dominum, sic dicetis : Hæc dicit Dominus Deus Israël : Pro eo quod audisti verba voluminis,",
-      "french": "Mais pour le Roi de Juda, qui vous a envoyé consulter le Seigneur, vous lui direz : Voici ce que dit le Seigneur le Dieu d'Israël : Parce que vous avez écouté les paroles de ce Livre,",
+      "latin": "Regi autem Juda qui misit vos, ut consuleretis Dominum, sic dicetis : Hæc dicit Dominus Deus Israël : Pro eo quod audisti verba voluminis,",
+      "french": "Mais pour le Roi de Juda, qui vous a envoyé consulter le Seigneur, vous lui direz : Voici ce que dit le Seigneur le Dieu d’Israël : Parce que vous avez écouté les paroles de ce Livre,",
       "annotations": "An du Monde 3380.",
       "source_pages": [
         "page_0317.json"
@@ -168,8 +168,8 @@
     },
     {
       "verse_number": 19,
-      "latin": "Et perterritum est cor tuum, et humiliatus es coram Domino, auditis sermonibus contra locum istum, et habitatores ejus, quod videlicet ferent in stuporem et in maledictum : et scidisti vestimenta tua, et flevisti coram me, et ego audivi, ait Dominus:",
-      "french": "Que votre cœur en a été épouvanté, que vous vous êtes humilié devant le Seigneur, après avoir appris les maux qui doivent devenir un jour l'étonnement et l'exécration de toute la terre : et parce que vous avez déchiré vos vêtements et pleuré devant moi, j'ai écouté votre prière, dit le Seigneur.",
+      "latin": "Et perterritum est cor tuum, et humiliatus es coram Domino, auditis sermonibus contra locum istum, et habitatores ejus, quod videlicet ferent in stuporem et in maledictum : et scidisti vestimenta tua, et flevisti coram me, et ego audivi, ait Dominus :",
+      "french": "Que votre cœur en a été épouvanté, que vous vous êtes humilié devant le Seigneur, après avoir appris les maux qui doivent devenir un jour l’étonnement et l’exécration de toute la terre : et parce que vous avez déchiré vos vêtements et pleuré devant moi, j’ai écouté votre prière, dit le Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0317.json"
@@ -178,7 +178,7 @@
     {
       "verse_number": 20,
       "latin": "Idcircò colligam te ad patres tuos, et colligêris ad sepulchrum tuum in pace, ut non videant oculi tui omnia mala quæ inducturus sum super locum istum.",
-      "french": "C'est pourquoi je vous ferai reposer avec vos pères, et vous serez enseveli en paix, afin que vos yeux ne voient point les maux que je dois faire tomber sur cette ville.",
+      "french": "C’est pourquoi je vous ferai reposer avec vos pères, et vous serez enseveli en paix, afin que vos yeux ne voient point les maux que je dois faire tomber sur cette ville.",
       "annotations": null,
       "source_pages": [
         "page_0317.json"

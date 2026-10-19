@@ -1,13 +1,13 @@
 {
   "book": "Exode",
   "chapter": 12,
-  "chapter_summary": "Cérémonie de la première Pâque. Mort des premiers-nés des Egyptiens. Sortie des Israélites de l'Egypte.",
+  "chapter_summary": "Cérémonie de la première Pâque. Mort des premiers-nés des Egyptiens. Sortie des Israélites de l’Egypte.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Dixit quoque Dominus ad Moysen et Aaron in terra Ægypti :",
-      "french": "Le Seigneur dit aussi à Moïse et à Aaron dans l'Egypte :",
+      "french": "Le Seigneur dit aussi à Moïse et à Aaron dans l’Egypte :",
       "annotations": null,
       "source_pages": [
         "page_0170.json"
@@ -16,7 +16,7 @@
     {
       "verse_number": 2,
       "latin": "Mensis iste vobis principium mensium : primus erit in mensibus anni.",
-      "french": "Ce mois ci sera pour vous le commencement des mois, ce sera le premier des mois de l'année.",
+      "french": "Ce mois ci sera pour vous le commencement des mois, ce sera le premier des mois de l’année.",
       "annotations": null,
       "source_pages": [
         "page_0170.json"
@@ -25,7 +25,7 @@
     {
       "verse_number": 3,
       "latin": "Loquimini ad universum cœtum filiorum Israël, et dicite eis : Decimâ die mensis hujus tollat unusquisque agnum per familias et domos suas.",
-      "french": "Parlez à l'assemblée de tous les enfants d'Israël, et dites-leur : Qu'au dixième jour de ce mois chacun de vous mette à part un agneau par famille et par maison.",
+      "french": "Parlez à l’assemblée de tous les enfants d’Israël, et dites-leur : Qu’au dixième jour de ce mois chacun de vous mette à part un agneau par famille et par maison.",
       "annotations": null,
       "source_pages": [
         "page_0171.json"
@@ -43,7 +43,7 @@
     {
       "verse_number": 5,
       "latin": "Erit autem agnus absque macula, masculus, anniculus : juxta quem ritum tolletis et hædum.",
-      "french": "Cet agneau sera sans défaut ; ce sera un mâle, et né dans l'année. Vous pourrez aussi prendre un chevreau qui ait les mêmes qualités.",
+      "french": "Cet agneau sera sans défaut ; ce sera un mâle, et né dans l’année. Vous pourrez aussi prendre un chevreau qui ait les mêmes qualités.",
       "annotations": null,
       "source_pages": [
         "page_0173.json"
@@ -52,7 +52,7 @@
     {
       "verse_number": 6,
       "latin": "Et servabitis eum usque ad quartam decimam diem mensis hujus : immolabitque eum universa multitudo filiorum Israël ad vesperam.",
-      "french": "Vous garderez ( l'un ou l'autre de ces ) animaux jusqu'au quatorzième jour de ce mois ; et toute la multitude des enfants d'Israël l'immolera au soir.",
+      "french": "Vous garderez (l’un ou l’autre de ces) animaux jusqu’au quatorzième jour de ce mois ; et toute la multitude des enfants d’Israël l’immolera au soir.",
       "annotations": null,
       "source_pages": [
         "page_0174.json"
@@ -70,7 +70,7 @@
     {
       "verse_number": 8,
       "latin": "Et edent carnes nocte illâ assas igni, et azymos panes, cum lactucis agrestibus.",
-      "french": "Et cette même nuit ils mangeront la chair de l'agneau rôti, avec du pain sans levain, et des laitues sauvages.",
+      "french": "Et cette même nuit ils mangeront la chair de l’agneau rôti, avec du pain sans levain, et des laitues sauvages.",
       "annotations": null,
       "source_pages": [
         "page_0178.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Non comedetis ex eo crudum quid, nec coctum aquâ ; sed tantùm assum igni : caput cum pedibus ejus et intestinis vorabitis.",
-      "french": "Vous n'en mangerez aucune partie, ni crue, ni cuite dans l'eau ; mais seulement rôtie au feu. Vous en mangerez la tête, les pieds, et les intestins.",
+      "latin": "Non comedetis ex eo crudum quid, nec coctum aquâ ; sed tantùm assum igni : caput cum pedibus ejus et intestinis vorabitis.",
+      "french": "Vous n’en mangerez aucune partie, ni crue, ni cuite dans l’eau ; mais seulement rôtie au feu. Vous en mangerez la tête, les pieds, et les intestins.",
       "annotations": null,
       "source_pages": [
         "page_0180.json"
@@ -88,7 +88,7 @@
     {
       "verse_number": 10,
       "latin": "Nec remanebit quidquam ex eo usque mane : si quid residuum fuerit, igne comburetis.",
-      "french": "Et il n'en demeurera rien au lendemain matin. Que s'il en reste quelque chose, vous le jetterez au feu.",
+      "french": "Et il n’en demeurera rien au lendemain matin. Que s’il en reste quelque chose, vous le jetterez au feu.",
       "annotations": null,
       "source_pages": [
         "page_0181.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Sic autem comedetis illum : Renes vestros accingetis, et calceamenta habebitis in pedibus, tenentes baculos in manibus, et comedetis festinanter : est enim Phasé ( id est ) transitus Domini.",
-      "french": "Voici la manière dont vous le mangerez : Vous vous ceindrez les reins ; vous aurez vos souliers aux pieds, et un bâton à la main ; et vous mangerez à la hâte : car c'est la Pâque, c'est-à-dire, le passage du Seigneur.",
+      "latin": "Sic autem comedetis illum : Renes vestros accingetis, et calceamenta habebitis in pedibus, tenentes baculos in manibus, et comedetis festinanter : est enim Phasé (id est) transitus Domini.",
+      "french": "Voici la manière dont vous le mangerez : Vous vous ceindrez les reins ; vous aurez vos souliers aux pieds, et un bâton à la main ; et vous mangerez à la hâte : car c’est la Pâque, c’est-à-dire, le passage du Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0181.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Et transibo per terram Ægypti nocte illâ, percutiamque omne primogenitum in terra Ægypti, ab homine usque ad pecus : et in cunctis Diis Ægypti faciam judicia, ego Dominus.",
-      "french": "Et cette nuit-là je passerai par l'Egypte, et je frapperai ( de mort ) tous les premiers-nés des Egyptiens, depuis l'homme jusqu'aux bêtes. J'exercerai ( la sévérité de ) mes jugements sur tous les Dieux de l'Egypte, moi qui suis le Seigneur.",
+      "french": "Et cette nuit-là je passerai par l’Egypte, et je frapperai (de mort) tous les premiers-nés des Egyptiens, depuis l’homme jusqu’aux bêtes. J’exercerai (la sévérité de) mes jugements sur tous les Dieux de l’Egypte, moi qui suis le Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0182.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Erit autem sanguis vobis in signum in ædibus, in quibus eritis: et videbo sanguinem, et transibo vos: nec erit in vobis plaga disperdens, quando percussero terram Ægypti.",
-      "french": "Or ce sang ( qui sera sur vos portes ) sera un signe qui me fera reconnaître les maisons où vous demeurez. Je verrai ce sang, et je passerai outre ; et vous ne serez point frappé de mort, lorsque j'en frapperai toute l'Egypte.",
+      "latin": "Erit autem sanguis vobis in signum in ædibus, in quibus eritis : et videbo sanguinem, et transibo vos : nec erit in vobis plaga disperdens, quando percussero terram Ægypti.",
+      "french": "Or ce sang (qui sera sur vos portes) sera un signe qui me fera reconnaître les maisons où vous demeurez. Je verrai ce sang, et je passerai outre ; et vous ne serez point frappé de mort, lorsque j’en frapperai toute l’Egypte.",
       "annotations": null,
       "source_pages": [
         "page_0184.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Habebitis autem hanc diem in monumentum ; et celebrabitis eam solemnem Domino in generationibus vestris cultu sempiterno.",
-      "french": "Et ce jour sera pour vous un monument éternel, et vous le célébrerez dans la suite de vos générations, comme un jour solennel ( et consacré ) au Seigneur.",
+      "latin": "Habebitis autem hanc diem in monumentum ; et celebrabitis eam solemnem Domino in generationibus vestris cultu sempiterno.",
+      "french": "Et ce jour sera pour vous un monument éternel, et vous le célébrerez dans la suite de vos générations, comme un jour solennel (et consacré) au Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0184.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Septem diebus azyma comedetis. In die primo non erit fermentum in domibus vestris. Quicumque comederit fermentatum, peribit anima illa de Israël, à primo die usque ad diem septimum.",
-      "french": "Vous userez de pains sans levain pendant sept jours. Dès le premier jour il ne paraîtra plus de levain dans vos maisons. Quiconque aura mangé du pain levé, depuis le premier jour (de la Fête) jusqu'au septième, périra du milieu d'Israël.",
+      "french": "Vous userez de pains sans levain pendant sept jours. Dès le premier jour il ne paraîtra plus de levain dans vos maisons. Quiconque aura mangé du pain levé, depuis le premier jour (de la Fête) jusqu’au septième, périra du milieu d’Israël.",
       "annotations": null,
       "source_pages": [
         "page_0185.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Et observabitis Azyma: in eadem enim ipsa die educam exercitum vestrum de terra Ægypti, et custodietis diem istum in generationes vestras ritu perpetuo.",
-      "french": "Vous garderez donc cette Fête des Pains sans levain. Car ce même jour je tirerai de l'Egypte toute l'armée ( de votre peuple, ) et vous observerez ce jour-là de race en race, par un culte perpétuel.",
+      "latin": "Et observabitis Azyma : in eadem enim ipsa die educam exercitum vestrum de terra Ægypti, et custodietis diem istum in generationes vestras ritu perpetuo.",
+      "french": "Vous garderez donc cette Fête des Pains sans levain. Car ce même jour je tirerai de l’Egypte toute l’armée (de votre peuple,) et vous observerez ce jour-là de race en race, par un culte perpétuel.",
       "annotations": null,
       "source_pages": [
         "page_0188.json"
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Primo mense, quartâ decimâ die mensis ad vesperam, comedetis azyma, usque ad diem vigesimam primam ejusdem mensis ad vesperam.",
-      "french": "Depuis le quatorzième jour du premier mois sur le soir, jusqu'au soir du vingt et unième jour du même mois, vous mangerez des pains sans levain.",
+      "french": "Depuis le quatorzième jour du premier mois sur le soir, jusqu’au soir du vingt et unième jour du même mois, vous mangerez des pains sans levain.",
       "annotations": null,
       "source_pages": [
         "page_0189.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Septem diebus fermentum non invenietur in domibus vestris. Qui comederit fermentatum, peribit anima ejus de cœtu Israël, tam de advenis quàm de indigenis terræ.",
-      "french": "Pendant ces sept jours, il ne se trouvera point de levain dans vos maisons. Quiconque mangera du pain levé, soit qu'il soit naturel du pays, ou étranger, périra de l'assemblée d'Israël.",
+      "french": "Pendant ces sept jours, il ne se trouvera point de levain dans vos maisons. Quiconque mangera du pain levé, soit qu’il soit naturel du pays, ou étranger, périra de l’assemblée d’Israël.",
       "annotations": null,
       "source_pages": [
         "page_0189.json"
@@ -187,7 +187,7 @@
     {
       "verse_number": 21,
       "latin": "Vocavit autem Moyses omnes seniores filiorum Israël, et dixit ad eos : Ite tollentes animal per familias vestras, et immolate Phasé.",
-      "french": "Moïse assembla ensuite tous les anciens d'Israël, et il leur dit : Allez prendre l'agneau (que vous avez préparé) dans chaque famille, et immolez la Pâque.",
+      "french": "Moïse assembla ensuite tous les anciens d’Israël, et il leur dit : Allez prendre l’agneau (que vous avez préparé) dans chaque famille, et immolez la Pâque.",
       "annotations": null,
       "source_pages": [
         "page_0190.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Fasciculumque hyssopi tingite in sanguine qui est in limine, et aspergite ex eo superliminare, et utrumque postem : nullus vestrum egrediatur ostium domûs suæ, usque mane.",
-      "french": "Vous tremperez un bouquet d'hysope dans le sang qui sera sur le seuil de la porte, et vous en jetterez par aspersion sur les jambages et sur le linteau de vos portes. Que nul de vous ne mette le pied hors de la porte de sa maison, jusqu'au matin.",
+      "french": "Vous tremperez un bouquet d’hysope dans le sang qui sera sur le seuil de la porte, et vous en jetterez par aspersion sur les jambages et sur le linteau de vos portes. Que nul de vous ne mette le pied hors de la porte de sa maison, jusqu’au matin.",
       "annotations": null,
       "source_pages": [
         "page_0191.json"
@@ -204,8 +204,8 @@
     },
     {
       "verse_number": 23,
-      "latin": "Transibit enim Dominus percutiens Ægyptios ; cùmque viderit sanguinem in superliminari, et in utroque poste, transcendet ostium domûs, et non sinet percussorem ingredi domos vestras et lædere.",
-      "french": "Car le Seigneur passera, frappant (de mort) les Egyptiens ; et lorsqu'il verra ce sang sur les jambages et sur le linteau de vos portes, il passera votre maison, et n'y laissera point entrer l'Ange exterminateur pour vous frapper.",
+      "latin": "Transibit enim Dominus percutiens Ægyptios ; cùmque viderit sanguinem in superliminari, et in utroque poste, transcendet ostium domûs, et non sinet percussorem ingredi domos vestras et lædere.",
+      "french": "Car le Seigneur passera, frappant (de mort) les Egyptiens ; et lorsqu’il verra ce sang sur les jambages et sur le linteau de vos portes, il passera votre maison, et n’y laissera point entrer l’Ange exterminateur pour vous frapper.",
       "annotations": null,
       "source_pages": [
         "page_0191.json"
@@ -231,8 +231,8 @@
     },
     {
       "verse_number": 26,
-      "latin": "Et cùm dixerint vobis filii vestri : Quæ est ista religio ?",
-      "french": "Et quand vos enfants vous demanderont : Que veut dire cette cérémonie religieuse ?",
+      "latin": "Et cùm dixerint vobis filii vestri : Quæ est ista religio ?",
+      "french": "Et quand vos enfants vous demanderont : Que veut dire cette cérémonie religieuse ?",
       "annotations": null,
       "source_pages": [
         "page_0192.json"
@@ -241,7 +241,7 @@
     {
       "verse_number": 27,
       "latin": "Dicetis eis : Victima transitus Domini est, quando transivit super domos filiorum Israël in Ægypto, percutiens Ægyptios, et domos nostras liberans. Incurvatusque populus adoravit.",
-      "french": "Vous leur direz : C'est la victime du passage du Seigneur, lorsqu'il passa les maisons des enfants d'Israël dans l'Egypte, pendant qu'il frappait (de mort) les Egyptiens, il délivrait nos maisons. Alors le peuple prosterné (jusqu'à terre) adora (le Seigneur.)",
+      "french": "Vous leur direz : C’est la victime du passage du Seigneur, lorsqu’il passa les maisons des enfants d’Israël dans l’Egypte, pendant qu’il frappait (de mort) les Egyptiens, il délivrait nos maisons. Alors le peuple prosterné (jusqu’à terre) adora (le Seigneur.)",
       "annotations": null,
       "source_pages": [
         "page_0193.json"
@@ -250,7 +250,7 @@
     {
       "verse_number": 28,
       "latin": "Et egressi filii Israël fecerunt sicut præceperat Dominus Moysi et Aaron.",
-      "french": "Et les enfants d'Israël allèrent exécuter ce que le Seigneur avait ordonné à Moïse et à Aaron.",
+      "french": "Et les enfants d’Israël allèrent exécuter ce que le Seigneur avait ordonné à Moïse et à Aaron.",
       "annotations": null,
       "source_pages": [
         "page_0193.json"
@@ -259,7 +259,7 @@
     {
       "verse_number": 29,
       "latin": "Factum est autem in noctis medio, percussit Dominus omne primogenitum in terra Ægypti, à primogenito Pharaonis, qui in solio ejus sedebat, usque ad primogenitum captivæ, quæ erat in carcere, et omne primogenitum jumentorum.",
-      "french": "Et sur le milieu de la nuit, le Seigneur frappa (de mort) les premiers-nés de l'Egypte, depuis le premier-né de Pharaon, qui était assis sur son trône, jusqu'au premier-né de la femme captive, qui était enfermée dans la prison, et jusqu'au premier-né des animaux.",
+      "french": "Et sur le milieu de la nuit, le Seigneur frappa (de mort) les premiers-nés de l’Egypte, depuis le premier-né de Pharaon, qui était assis sur son trône, jusqu’au premier-né de la femme captive, qui était enfermée dans la prison, et jusqu’au premier-né des animaux.",
       "annotations": null,
       "source_pages": [
         "page_0193.json"
@@ -268,7 +268,7 @@
     {
       "verse_number": 30,
       "latin": "Surrexitque Pharao nocte, et omnes servi ejus, cunctique Ægyptus : et ortus est clamor magnus in Ægypto : neque enim erat domus, in qua non jaceret mortuus.",
-      "french": "Pharaon s'étant donc levé la nuit, avec tous ses serviteurs et tout son peuple, il s'éleva un grand cri dans toute l'Egypte, parce qu'il n'y avait aucune maison, où il n'y eût un mort.",
+      "french": "Pharaon s’étant donc levé la nuit, avec tous ses serviteurs et tout son peuple, il s’éleva un grand cri dans toute l’Egypte, parce qu’il n’y avait aucune maison, où il n’y eût un mort.",
       "annotations": null,
       "source_pages": [
         "page_0194.json"
@@ -277,7 +277,7 @@
     {
       "verse_number": 31,
       "latin": "Vocatisque Pharao Moyses et Aaron nocte, ait : Surgite et egredimini à populo meo, vos et filii Israël : ite, immolate Domino, sicut dixistis.",
-      "french": "Pharaon fit appeler durant cette nuit Moïse et Aaron, et leur dit : Allez, sortez au plus tôt du milieu de mon peuple : vous et les enfants d'Israël : Allez faire vos sacrifices à votre Dieu, comme vous le dites.",
+      "french": "Pharaon fit appeler durant cette nuit Moïse et Aaron, et leur dit : Allez, sortez au plus tôt du milieu de mon peuple : vous et les enfants d’Israël : Allez faire vos sacrifices à votre Dieu, comme vous le dites.",
       "annotations": null,
       "source_pages": [
         "page_0194.json"
@@ -286,7 +286,7 @@
     {
       "verse_number": 32,
       "latin": "Oves vestras et armenta assumite, ut petieratis, et abeuntes benedicite mihi.",
-      "french": "Prenez avec vous vos brebis, et vos troupeaux, comme vous me l'avez demandé, et en vous en allant, faites des vœux pour moi.",
+      "french": "Prenez avec vous vos brebis, et vos troupeaux, comme vous me l’avez demandé, et en vous en allant, faites des vœux pour moi.",
       "annotations": null,
       "source_pages": [
         "page_0195.json"
@@ -304,7 +304,7 @@
     {
       "verse_number": 34,
       "latin": "Tulit igitur populus conspersam farinam antequam fermentaretur : et ligans in palliis, posuit super humeros suos.",
-      "french": "Le peuple prit donc de la farine pétrie, avant qu'elle fût levée ; et l'ayant mise dans des manteaux, il la chargea sur ses épaules.",
+      "french": "Le peuple prit donc de la farine pétrie, avant qu’elle fût levée ; et l’ayant mise dans des manteaux, il la chargea sur ses épaules.",
       "annotations": null,
       "source_pages": [
         "page_0195.json"
@@ -313,7 +313,7 @@
     {
       "verse_number": 35,
       "latin": "Filii autem Israël fecerunt juxta omnia quæ præceperat Moyses : et petierunt ab Ægyptiis vasa argentea et aurea, vestésque plurimas.",
-      "french": "Les enfants d'Israël firent tout ce que Moïse leur avait ordonné ; et ils demandèrent aux Egyptiens des vases d'or et d'argent, et un grand nombre de vêtements.",
+      "french": "Les enfants d’Israël firent tout ce que Moïse leur avait ordonné ; et ils demandèrent aux Egyptiens des vases d’or et d’argent, et un grand nombre de vêtements.",
       "annotations": null,
       "source_pages": [
         "page_0196.json"
@@ -322,7 +322,7 @@
     {
       "verse_number": 36,
       "latin": "Deditque Dominus gratiam populo suo coram Ægyptiis, ita ut commodarent eis : et spoliaverunt Ægyptios.",
-      "french": "Et le Seigneur fit trouver grace à son peuple devant les Egyptiens, en sorte qu'ils leur donnèrent tout ce qu'ils leur demandaient ; et les Israélites dépouillèrent les Egyptiens.",
+      "french": "Et le Seigneur fit trouver grace à son peuple devant les Egyptiens, en sorte qu’ils leur donnèrent tout ce qu’ils leur demandaient ; et les Israélites dépouillèrent les Egyptiens.",
       "annotations": null,
       "source_pages": [
         "page_0196.json"
@@ -331,7 +331,7 @@
     {
       "verse_number": 37,
       "latin": "Profectique sunt filii Israël de Ramesse in Succoth, quadringenta ferè millia peditum virorum, absque parvulis.",
-      "french": "Les enfants d'Israël partirent de Rameses pour se rendre à Succoth. Ils étaient près de six cent mille hommes de pied, sans compter les enfants.",
+      "french": "Les enfants d’Israël partirent de Rameses pour se rendre à Succoth. Ils étaient près de six cent mille hommes de pied, sans compter les enfants.",
       "annotations": null,
       "source_pages": [
         "page_0196.json"
@@ -348,8 +348,8 @@
     },
     {
       "verse_number": 39,
-      "latin": "Coxeruntque farinam, quam dudum de Ægypto conspersam tulerant : et fecerunt subcinericios panes azymos : neque enim poterant fermentari, cogentibus exire Ægyptiis, et nullam facere sinentibus moram : nec pulmenti quidquam occurrerat præparare.",
-      "french": "Et ils firent cuire la farine qu'ils avaient emportée toute pétrie de l'Égypte, et ils en firent des pains sans levain, cuits sous la cendre ; car les Égyptiens les avaient si fort pressés de partir, qu'ils ne leur avaient pas laissé le temps d'y mettre le levain, ni de prendre des provisions cuites pour leur voyage.",
+      "latin": "Coxeruntque farinam, quam dudum de Ægypto conspersam tulerant : et fecerunt subcinericios panes azymos : neque enim poterant fermentari, cogentibus exire Ægyptiis, et nullam facere sinentibus moram : nec pulmenti quidquam occurrerat præparare.",
+      "french": "Et ils firent cuire la farine qu’ils avaient emportée toute pétrie de l’Égypte, et ils en firent des pains sans levain, cuits sous la cendre ; car les Égyptiens les avaient si fort pressés de partir, qu’ils ne leur avaient pas laissé le temps d’y mettre le levain, ni de prendre des provisions cuites pour leur voyage.",
       "annotations": null,
       "source_pages": [
         "page_0198.json"
@@ -358,7 +358,7 @@
     {
       "verse_number": 40,
       "latin": "Habitatio autem filiorum Israël quâ manserunt in Ægypto, fuit quadringentorum triginta annorum.",
-      "french": "Le temps de la demeure des enfants d'Israël dans l'Egypte, fut de quatre cent trente ans.",
+      "french": "Le temps de la demeure des enfants d’Israël dans l’Egypte, fut de quatre cent trente ans.",
       "annotations": null,
       "source_pages": [
         "page_0199.json"
@@ -367,7 +367,7 @@
     {
       "verse_number": 41,
       "latin": "Quibus expletis, eâdem die egressus est omnis exercitus Domini de terra Ægypti.",
-      "french": "Après lesquels toute l'armée du Seigneur sortit de l'Egypte en un même jour.",
+      "french": "Après lesquels toute l’armée du Seigneur sortit de l’Egypte en un même jour.",
       "annotations": null,
       "source_pages": [
         "page_0199.json"
@@ -376,7 +376,7 @@
     {
       "verse_number": 42,
       "latin": "Nox ista est observabilis Domini, quando eduxit eos de terra Ægypti : hanc observare debent omnes filii Israël in generationibus suis.",
-      "french": "Cette nuit qui fut celle de leur sortie de l'Egypte, est une nuit consacrée en l'honneur du Seigneur, et elle doit être honorée d'un culte particulier, par tous les Israélites, dans toute la suite de leurs générations.",
+      "french": "Cette nuit qui fut celle de leur sortie de l’Egypte, est une nuit consacrée en l’honneur du Seigneur, et elle doit être honorée d’un culte particulier, par tous les Israélites, dans toute la suite de leurs générations.",
       "annotations": null,
       "source_pages": [
         "page_0200.json"
@@ -385,7 +385,7 @@
     {
       "verse_number": 43,
       "latin": "Dixitque Dominus ad Moysen et Aaron : Hæc est religio Phasé : Omnis alienigena non comedet ex eo.",
-      "french": "Le Seigneur dit aussi à Moïse, et à Aaron : Voici la manière dont vous célébrerez la Pâque : Nul étranger n'y aura part.",
+      "french": "Le Seigneur dit aussi à Moïse, et à Aaron : Voici la manière dont vous célébrerez la Pâque : Nul étranger n’y aura part.",
       "annotations": null,
       "source_pages": [
         "page_0200.json"
@@ -403,7 +403,7 @@
     {
       "verse_number": 45,
       "latin": "Advena et mercenarius non edent ex eo.",
-      "french": "Mais l'étranger, et le mercenaire n'y participeront point.",
+      "french": "Mais l’étranger, et le mercenaire n’y participeront point.",
       "annotations": null,
       "source_pages": [
         "page_0200.json"
@@ -412,7 +412,7 @@
     {
       "verse_number": 46,
       "latin": "In una domo comedetur, nec efferetis de carnibus ejus foras, nec os illius confringetis.",
-      "french": "On mangera l'agneau dans chaque maison, et vous ne porterez point de sa chair hors de la maison ; vous n'en romprez aucun os.",
+      "french": "On mangera l’agneau dans chaque maison, et vous ne porterez point de sa chair hors de la maison ; vous n’en romprez aucun os.",
       "annotations": null,
       "source_pages": [
         "page_0202.json"
@@ -421,7 +421,7 @@
     {
       "verse_number": 47,
       "latin": "Omnis cœtus filiorum Israël faciet illud.",
-      "french": "Toute la multitude d'Israël fera la Pâque.",
+      "french": "Toute la multitude d’Israël fera la Pâque.",
       "annotations": null,
       "source_pages": [
         "page_0203.json"
@@ -439,7 +439,7 @@
     {
       "verse_number": 49,
       "latin": "Eadem lex erit indigenæ et colono, qui peregrinatur apud vos.",
-      "french": "La même Loi s'observera, tant à l'égard des habitants naturels du pays, qu'à l'égard des étrangers qui demeurent parmi vous.",
+      "french": "La même Loi s’observera, tant à l’égard des habitants naturels du pays, qu’à l’égard des étrangers qui demeurent parmi vous.",
       "annotations": null,
       "source_pages": [
         "page_0203.json"
@@ -448,7 +448,7 @@
     {
       "verse_number": 50,
       "latin": "Feceruntque omnes filii Israël sicut præceperat Dominus Moysi et Aaron.",
-      "french": "Tous les enfants d'Israël firent tout ce que le Seigneur leur avait ordonné par Moïse, et par Aaron.",
+      "french": "Tous les enfants d’Israël firent tout ce que le Seigneur leur avait ordonné par Moïse, et par Aaron.",
       "annotations": null,
       "source_pages": [
         "page_0203.json"
@@ -457,7 +457,7 @@
     {
       "verse_number": 51,
       "latin": "Et eadem die eduxit Dominus filios Israël de terra Ægypti per turmas suas.",
-      "french": "Et le Seigneur fit sortir en un même jour les enfants d'Israël de l'Egypte, partagés en diverses troupes.",
+      "french": "Et le Seigneur fit sortir en un même jour les enfants d’Israël de l’Egypte, partagés en diverses troupes.",
       "annotations": null,
       "source_pages": [
         "page_0203.json"

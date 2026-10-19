@@ -1,13 +1,13 @@
 {
   "book": "Job",
   "chapter": 10,
-  "chapter_summary": "Suite du discours de Job. Il adresse ses plaintes à Dieu. Il lui remontre sa faiblesse, et l'excès de ses maux. Il relève la justice de son Juge.",
+  "chapter_summary": "Suite du discours de Job. Il adresse ses plaintes à Dieu. Il lui remontre sa faiblesse, et l’excès de ses maux. Il relève la justice de son Juge.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Tædet animam meam vitæ meæ, dimittam adversum me eloquium meum, loquar in amaritudine animæ meæ.",
-      "french": "La vie m'est devenue ennuyeuse, je m'abandonnerai aux plaintes contre moi-même, je parlerai dans l'amertume de mon cœur.",
+      "french": "La vie m’est devenue ennuyeuse, je m’abandonnerai aux plaintes contre moi-même, je parlerai dans l’amertume de mon cœur.",
       "annotations": null,
       "source_pages": [
         "page_0168.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Dicam Deo : Noli me condemnare : indica mihi cur me ita judices.",
-      "french": "Je dirai à Dieu : Ne me condamnez pas; faites-moi connaître pourquoi vous me traitez de la sorte.",
+      "latin": "Dicam Deo : Noli me condemnare : indica mihi cur me ita judices.",
+      "french": "Je dirai à Dieu : Ne me condamnez pas ; faites-moi connaître pourquoi vous me traitez de la sorte.",
       "annotations": null,
       "source_pages": [
         "page_0168.json"
@@ -25,7 +25,7 @@
     {
       "verse_number": 3,
       "latin": "Numquid bonum tibi videtur, si calumnieris me, et opprimas me opus manuum tuarum, et consilium impiorum adjuves.",
-      "french": "Pourriez-vous vous plaire à me livrer à la calomnie, et à m'accabler, moi qui suis l'ouvrage de vos mains ? pourriez-vous favoriser les mauvais desseins des impies.",
+      "french": "Pourriez-vous vous plaire à me livrer à la calomnie, et à m’accabler, moi qui suis l’ouvrage de vos mains ? pourriez-vous favoriser les mauvais desseins des impies.",
       "annotations": null,
       "source_pages": [
         "page_0169.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Numquid oculi carnis tibi sunt: aut sicut videt homo, et tu videbis?",
-      "french": "Vos yeux sont-ils des yeux charnels ; et regardez-vous les choses, comme un homme les regarde?",
+      "latin": "Numquid oculi carnis tibi sunt : aut sicut videt homo, et tu videbis ?",
+      "french": "Vos yeux sont-ils des yeux charnels ; et regardez-vous les choses, comme un homme les regarde ?",
       "annotations": null,
       "source_pages": [
         "page_0169.json"
@@ -43,7 +43,7 @@
     {
       "verse_number": 5,
       "latin": "Numquid sicut dies hominis, dies tui, et anni tui sicut humana sunt tempora.",
-      "french": "Vos jours sont-ils semblables aux jours de l'homme, et vos années à ses années,",
+      "french": "Vos jours sont-ils semblables aux jours de l’homme, et vos années à ses années,",
       "annotations": null,
       "source_pages": [
         "page_0169.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Ut quæras iniquitatem meam, et peccatum meum scruteris;",
-      "french": "Pour vous informer de mes iniquités, et faire une exacte recherche de mon péché ;",
+      "latin": "Ut quæras iniquitatem meam, et peccatum meum scruteris ;",
+      "french": "Pour vous informer de mes iniquités, et faire une exacte recherche de mon péché ;",
       "annotations": null,
       "source_pages": [
         "page_0170.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Et scias quia nihil impium fecerim, cùm sit nemo qui de manu tua possit eruere?",
-      "french": "Et pour savoir que je n'ai rien fait d'impie, n'y ayant personne qui pût me tirer d'entre vos mains ?",
+      "latin": "Et scias quia nihil impium fecerim, cùm sit nemo qui de manu tua possit eruere ?",
+      "french": "Et pour savoir que je n’ai rien fait d’impie, n’y ayant personne qui pût me tirer d’entre vos mains ?",
       "annotations": null,
       "source_pages": [
         "page_0170.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Manus tuæ fecerunt me, et plasmaverunt me totum in circuitu : et sic repentè præcipitas me ?",
-      "french": "Ce sont vos mains, Seigneur, qui m'ont formé ; ce sont elles qui ont arrangé toutes les parties de mon corps ; et voudriez-vous après cela m'abîmer en un moment ?",
+      "latin": "Manus tuæ fecerunt me, et plasmaverunt me totum in circuitu : et sic repentè præcipitas me ?",
+      "french": "Ce sont vos mains, Seigneur, qui m’ont formé ; ce sont elles qui ont arrangé toutes les parties de mon corps ; et voudriez-vous après cela m’abîmer en un moment ?",
       "annotations": null,
       "source_pages": [
         "page_0171.json"
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Memento quæso quòd sicut lutum feceris me, et in pulverem reduces me.",
-      "french": "Souvenez-vous, je vous prie, que vous m'avez fait, comme un ouvrage d'argile ; et que dans peu de temps vous me réduirez en poudre.",
+      "french": "Souvenez-vous, je vous prie, que vous m’avez fait, comme un ouvrage d’argile ; et que dans peu de temps vous me réduirez en poudre.",
       "annotations": null,
       "source_pages": [
         "page_0171.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Nónne sicut lac mulsisti me, et sicut caseum me coagulasti?",
-      "french": "Ne m'avez-vous pas tiré comme du lait ? Ne m'avez-vous pas formé comme un lait qui se caille ?",
+      "latin": "Nónne sicut lac mulsisti me, et sicut caseum me coagulasti ?",
+      "french": "Ne m’avez-vous pas tiré comme du lait ? Ne m’avez-vous pas formé comme un lait qui se caille ?",
       "annotations": null,
       "source_pages": [
         "page_0171.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Pelle et carnibus vestisti me : ossibus et nervis compigisti me.",
-      "french": "Vous m'avez revêtu de peau, et de chair ; vous m'avez affermi d'os, et de nerfs ?",
+      "latin": "Pelle et carnibus vestisti me : ossibus et nervis compigisti me.",
+      "french": "Vous m’avez revêtu de peau, et de chair ; vous m’avez affermi d’os, et de nerfs ?",
       "annotations": null,
       "source_pages": [
         "page_0171.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Vitam et misericordiam tribuisti mihi, et visitatio tua custodivit spiritum meum.",
-      "french": "Vous m’avez donné la vie, et comblé de bienfaits; et la continuation de votre secours a conservé mon âme.",
+      "french": "Vous m’avez donné la vie, et comblé de bienfaits ; et la continuation de votre secours a conservé mon âme.",
       "annotations": null,
       "source_pages": [
         "page_0172.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Licet hæc celes in corde tuo, tamen scio quia universorum memineris.",
-      "french": "Quoique vous teniez toutes ces choses cachées en vous-même; je sais néanmoins que vous vous souvenez de tout.",
+      "french": "Quoique vous teniez toutes ces choses cachées en vous-même ; je sais néanmoins que vous vous souvenez de tout.",
       "annotations": null,
       "source_pages": [
         "page_0172.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Si peccavi, et ad horam pepercisti mihi ; cur ab iniquitate mea mundum me esse non pateris ?",
-      "french": "Si j'ai péché, et si vous m'avez épargné sur l'heure; pourquoi ne me pardonnez-vous pas à présent mon iniquité ?",
+      "latin": "Si peccavi, et ad horam pepercisti mihi ; cur ab iniquitate mea mundum me esse non pateris ?",
+      "french": "Si j’ai péché, et si vous m’avez épargné sur l’heure ; pourquoi ne me pardonnez-vous pas à présent mon iniquité ?",
       "annotations": null,
       "source_pages": [
         "page_0173.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Et si impius fuero, væ mihi est : et si justus, non levabo caput, saturatus afflictione et miseria.",
-      "french": "Si j'ai été méchant, malheur à moi; et si je suis juste, je ne lèverai point la tête, étant accablé d'affliction, et de misère.",
+      "latin": "Et si impius fuero, væ mihi est : et si justus, non levabo caput, saturatus afflictione et miseria.",
+      "french": "Si j’ai été méchant, malheur à moi ; et si je suis juste, je ne lèverai point la tête, étant accablé d’affliction, et de misère.",
       "annotations": null,
       "source_pages": [
         "page_0173.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Et propter superbiam quasi leænam capies me, reversusque mirabiliter me crucias.",
-      "french": "Vous vous saisirez de moi à cause de mon orgueil, comme une lionne se saisit de sa proie, et vous me tourmenterez de nouveau d'une terrible manière.",
+      "french": "Vous vous saisirez de moi à cause de mon orgueil, comme une lionne se saisit de sa proie, et vous me tourmenterez de nouveau d’une terrible manière.",
       "annotations": null,
       "source_pages": [
         "page_0173.json"
@@ -151,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Instauras testes tuos contra me, et multiplicas iram tuam adversum me, et pœnæ militant in me.",
-      "french": "Vous produisez contre moi de nouveaux témoins, vous multipliez sur moi les effets de votre colère, et je suis affligé de maux, comme d'une armée.",
+      "french": "Vous produisez contre moi de nouveaux témoins, vous multipliez sur moi les effets de votre colère, et je suis affligé de maux, comme d’une armée.",
       "annotations": null,
       "source_pages": [
         "page_0174.json"
@@ -159,8 +159,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "Quare de vulva eduxisti me? Qui utinam consumptus essem, ne oculus me videret.",
-      "french": "Pourquoi m'avez-vous tiré du ventre de ma mère? Plût à Dieu que je fusse mort, et que personne ne m'eût jamais vu.",
+      "latin": "Quare de vulva eduxisti me ? Qui utinam consumptus essem, ne oculus me videret.",
+      "french": "Pourquoi m’avez-vous tiré du ventre de ma mère ? Plût à Dieu que je fusse mort, et que personne ne m’eût jamais vu.",
       "annotations": null,
       "source_pages": [
         "page_0174.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Fuissem quasi non essem, de utero translatus ad tumulum.",
-      "french": "J'aurais été, comme n'ayant point été, n'ayant fait que passer du sein de ma mère, dans le tombeau.",
+      "french": "J’aurais été, comme n’ayant point été, n’ayant fait que passer du sein de ma mère, dans le tombeau.",
       "annotations": null,
       "source_pages": [
         "page_0174.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Numquid non paucitas dierum meorum finietur brevi? Dimitte ergo me, ut plangam paululùm dolorem meum:",
-      "french": "Le peu de jours qui me restent, ne finiront-ils point bientôt? Donnez-moi donc un peu de relâche, afin que je puisse respirer dans ma douleur:",
+      "latin": "Numquid non paucitas dierum meorum finietur brevi ? Dimitte ergo me, ut plangam paululùm dolorem meum :",
+      "french": "Le peu de jours qui me restent, ne finiront-ils point bientôt ? Donnez-moi donc un peu de relâche, afin que je puisse respirer dans ma douleur :",
       "annotations": null,
       "source_pages": [
         "page_0175.json"
@@ -186,8 +186,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Antequam vadam, et non revertar, ad terram tenebrosam, et opertam mortis caligine:",
-      "french": "Avant que j'aille, sans espérance de retour, en cette terre ténébreuse, couverte de l'obscurité de la mort:",
+      "latin": "Antequam vadam, et non revertar, ad terram tenebrosam, et opertam mortis caligine :",
+      "french": "Avant que j’aille, sans espérance de retour, en cette terre ténébreuse, couverte de l’obscurité de la mort :",
       "annotations": null,
       "source_pages": [
         "page_0175.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Terram miseriæ, et tenebrarum, ubi umbra mortis, et nullus ordo, sed sempiternus horror inhabitat.",
-      "french": "Cette terre de misère, et de ténèbres, où habite l'ombre de la mort, où tout est sans ordre, et dans une éternelle horreur.",
+      "french": "Cette terre de misère, et de ténèbres, où habite l’ombre de la mort, où tout est sans ordre, et dans une éternelle horreur.",
       "annotations": null,
       "source_pages": [
         "page_0175.json"

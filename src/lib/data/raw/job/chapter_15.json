@@ -1,13 +1,13 @@
 {
   "book": "Job",
   "chapter": 15,
-  "chapter_summary": "Éliphaz accuse Job de blasphème, et soutient qu'il n'est puni que pour son péché. Il représente les maux auxquels sont exposés les impies.",
+  "chapter_summary": "Éliphaz accuse Job de blasphème, et soutient qu’il n’est puni que pour son péché. Il représente les maux auxquels sont exposés les impies.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Respondens autem Eliphaz Themanites, dixit:",
-      "french": "Après cela Éliphaz de Théman répondit à Job:",
+      "latin": "Respondens autem Eliphaz Themanites, dixit :",
+      "french": "Après cela Éliphaz de Théman répondit à Job :",
       "annotations": null,
       "source_pages": [
         "page_0211.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Numquid sapiens respondebit quasi in ventum loquens, et implebit ardore stomachum suum?",
-      "french": "Le sage doit-il dans ses réponses parler comme en l'air, et remplir son cœur d'une chaleur inconsidérée?",
+      "latin": "Numquid sapiens respondebit quasi in ventum loquens, et implebit ardore stomachum suum ?",
+      "french": "Le sage doit-il dans ses réponses parler comme en l’air, et remplir son cœur d’une chaleur inconsidérée ?",
       "annotations": null,
       "source_pages": [
         "page_0211.json"
@@ -25,7 +25,7 @@
     {
       "verse_number": 3,
       "latin": "Arguis verbis eum qui non est æqualis tibi, et loqueris quod tibi non expedit.",
-      "french": "Vous accusez dans vos discours celui qui ne vous est point égal, et vous parlez d'une manière qui ne vous peut être que désavantageuse.",
+      "french": "Vous accusez dans vos discours celui qui ne vous est point égal, et vous parlez d’une manière qui ne vous peut être que désavantageuse.",
       "annotations": null,
       "source_pages": [
         "page_0211.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Condemnabit te os tuum, et non ego: et labia tua respondebunt tibi.",
-      "french": "Ce seront aussi vos paroles qui vous condamneront, et non pas moi; et ce seront vos lèvres qui vous répondront.",
+      "latin": "Condemnabit te os tuum, et non ego : et labia tua respondebunt tibi.",
+      "french": "Ce seront aussi vos paroles qui vous condamneront, et non pas moi ; et ce seront vos lèvres qui vous répondront.",
       "annotations": null,
       "source_pages": [
         "page_0213.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Numquid primus homo tu natus es, et ante colles formatus?",
-      "french": "Êtes-vous le premier homme qui ait été créé, et avez-vous été formé avant les collines?",
+      "latin": "Numquid primus homo tu natus es, et ante colles formatus ?",
+      "french": "Êtes-vous le premier homme qui ait été créé, et avez-vous été formé avant les collines ?",
       "annotations": null,
       "source_pages": [
         "page_0213.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Numquid consilium Dei audisti, et inferior te erit ejus sapientia?",
-      "french": "Êtes-vous entré dans le conseil de Dieu, et sa sagesse sera-t-elle inférieure à la vôtre ?",
+      "latin": "Numquid consilium Dei audisti, et inferior te erit ejus sapientia ?",
+      "french": "Êtes-vous entré dans le conseil de Dieu, et sa sagesse sera-t-elle inférieure à la vôtre ?",
       "annotations": null,
       "source_pages": [
         "page_0214.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Quid nosti quod ignoremus? Quid intelligis quod nesciamus.",
-      "french": "Que savez-vous que nous ignorions? et quelle lumière avez-vous que nous n'ayons pas?",
+      "latin": "Quid nosti quod ignoremus ? Quid intelligis quod nesciamus.",
+      "french": "Que savez-vous que nous ignorions ? et quelle lumière avez-vous que nous n’ayons pas ?",
       "annotations": null,
       "source_pages": [
         "page_0214.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Numquid grande est ut consoletur te Deus? Sed verba tua prava hoc prohibent.",
-      "french": "Serait-il difficile à Dieu de vous consoler? Mais vous l'en empêchez par l'emportement de vos paroles.",
+      "latin": "Numquid grande est ut consoletur te Deus ? Sed verba tua prava hoc prohibent.",
+      "french": "Serait-il difficile à Dieu de vous consoler ? Mais vous l’en empêchez par l’emportement de vos paroles.",
       "annotations": null,
       "source_pages": [
         "page_0215.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Quid se elevat cor tuum, et quasi magna cogitans, attonitos habes oculos ?",
-      "french": "Pourquoi votre cœur conçoit-il de si hauts sentiments de lui-même ? L'égarement de vos yeux ne marque-t-il pas l'orgueil de vos pensées ?",
+      "latin": "Quid se elevat cor tuum, et quasi magna cogitans, attonitos habes oculos ?",
+      "french": "Pourquoi votre cœur conçoit-il de si hauts sentiments de lui-même ? L’égarement de vos yeux ne marque-t-il pas l’orgueil de vos pensées ?",
       "annotations": null,
       "source_pages": [
         "page_0216.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Quid tumet contra Deum sp'ritus tuus, ut proferas de ore tuo hujuscemodi sermones ?",
-      "french": "Pourquoi votre esprit s'enfle-t-il contre Dieu, jusqu'à proférer de si étranges discours ?",
+      "latin": "Quid tumet contra Deum sp’ritus tuus, ut proferas de ore tuo hujuscemodi sermones ?",
+      "french": "Pourquoi votre esprit s’enfle-t-il contre Dieu, jusqu’à proférer de si étranges discours ?",
       "annotations": null,
       "source_pages": [
         "page_0216.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Quid est homo, ut immaculatus sit, et ut justus appareat natus de muliere ?",
-      "french": "Qu'est-ce que l'homme pour être sans tache devant Dieu, et pour paraître juste étant né d'une femme ?",
+      "latin": "Quid est homo, ut immaculatus sit, et ut justus appareat natus de muliere ?",
+      "french": "Qu’est-ce que l’homme pour être sans tache devant Dieu, et pour paraître juste étant né d’une femme ?",
       "annotations": null,
       "source_pages": [
         "page_0216.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Ecce inter Sanctos ejus nemo immutabilis, et cœli non sunt mundi in conspectu ejus.",
-      "french": "Vous voyez qu'entre les Saints mêmes nul n'est immuable, et les Cieux ne sont pas purs devant ses yeux.",
+      "french": "Vous voyez qu’entre les Saints mêmes nul n’est immuable, et les Cieux ne sont pas purs devant ses yeux.",
       "annotations": null,
       "source_pages": [
         "page_0216.json"
@@ -141,8 +141,8 @@
     },
     {
       "verse_number": 16,
-      "latin": "Quantò magis abominabilis et inutilis homo, qui bibit quasi aquam iniquitatem?",
-      "french": "Combien plus l'homme qui hait l'iniquité comme l'eau, est-il abominable, et inutile?",
+      "latin": "Quantò magis abominabilis et inutilis homo, qui bibit quasi aquam iniquitatem ?",
+      "french": "Combien plus l’homme qui hait l’iniquité comme l’eau, est-il abominable, et inutile ?",
       "annotations": null,
       "source_pages": [
         "page_0217.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Ostendam tibi, audi me: quod vidi narrabo tibi.",
-      "french": "Écoutez-moi, et je vous dirai ce que je pense; je vous rapporterai ce que j'ai vu.",
+      "latin": "Ostendam tibi, audi me : quod vidi narrabo tibi.",
+      "french": "Écoutez-moi, et je vous dirai ce que je pense ; je vous rapporterai ce que j’ai vu.",
       "annotations": null,
       "source_pages": [
         "page_0217.json"
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Sapientes confitentur, et non abscondunt patres suos,",
-      "french": "Les sages publient ce qu'ils savent et ils ne cachent point ce qu'ils ont reçu de leurs pères,",
+      "french": "Les sages publient ce qu’ils savent et ils ne cachent point ce qu’ils ont reçu de leurs pères,",
       "annotations": null,
       "source_pages": [
         "page_0218.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Quibus solis data est terra, et non transivit alienus per eos.",
-      "french": "A qui seuls cette terre a été donnée, et qui l'ont défendue des courses des étrangers.",
+      "french": "A qui seuls cette terre a été donnée, et qui l’ont défendue des courses des étrangers.",
       "annotations": null,
       "source_pages": [
         "page_0218.json"
@@ -178,7 +178,7 @@
     {
       "verse_number": 20,
       "latin": "Cunctis diebus suis impius superbit, et numerus annorum incertus est tyrannis ejus.",
-      "french": "L'impie croît en orgueil de jour en jour, et le nombre des années de sa tyrannie est incertain.",
+      "french": "L’impie croît en orgueil de jour en jour, et le nombre des années de sa tyrannie est incertain.",
       "annotations": null,
       "source_pages": [
         "page_0219.json"
@@ -186,8 +186,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Sonitus terroris semper in auribus illius : et cum pax sit, ille semper insidias suspicatur.",
-      "french": "Son oreille est toujours frappée de bruits effrayants ; et au milieu même de la paix, il s'imagine toujours qu'on forme contre lui de mauvais desseins.",
+      "latin": "Sonitus terroris semper in auribus illius : et cum pax sit, ille semper insidias suspicatur.",
+      "french": "Son oreille est toujours frappée de bruits effrayants ; et au milieu même de la paix, il s’imagine toujours qu’on forme contre lui de mauvais desseins.",
       "annotations": null,
       "source_pages": [
         "page_0219.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Non credit quòd reverti possit de tenebris ad lucem, circumspectans undique gladium.",
-      "french": "Quand il est dans la nuit, il n'espère plus le retour de la lumière, et il ne voit de tous côtés que des épées nues.",
+      "french": "Quand il est dans la nuit, il n’espère plus le retour de la lumière, et il ne voit de tous côtés que des épées nues.",
       "annotations": null,
       "source_pages": [
         "page_0219.json"
@@ -205,7 +205,7 @@
     {
       "verse_number": 23,
       "latin": "Cùm se moverit ad quærendum panem, novit quòd paratus sit in manu ejus tenebrarum dies.",
-      "french": "Lorsqu'il se remue pour chercher du pain, il se voit prêt d'être accablé par le jour des ténèbres.",
+      "french": "Lorsqu’il se remue pour chercher du pain, il se voit prêt d’être accablé par le jour des ténèbres.",
       "annotations": null,
       "source_pages": [
         "page_0220.json"
@@ -214,7 +214,7 @@
     {
       "verse_number": 24,
       "latin": "Terrebit eum tribulatio, et an-gustia vallabit eum, sicut Regem qui præparatur ad prœlium.",
-      "french": "La vue de l'adversité l'épouvante, et les malheurs qu'il se figure, l'assiègent, comme un Roi qui se prépare à donner bataille.",
+      "french": "La vue de l’adversité l’épouvante, et les malheurs qu’il se figure, l’assiègent, comme un Roi qui se prépare à donner bataille.",
       "annotations": null,
       "source_pages": [
         "page_0220.json"
@@ -223,7 +223,7 @@
     {
       "verse_number": 25,
       "latin": "Tetendit enim adversùs Deum manum suam, et contra Omnipotentem roboratus est.",
-      "french": "Car il a résisté à Dieu, et il s'est raidi contre le Tout-puissant.",
+      "french": "Car il a résisté à Dieu, et il s’est raidi contre le Tout-puissant.",
       "annotations": null,
       "source_pages": [
         "page_0220.json"
@@ -232,7 +232,7 @@
     {
       "verse_number": 26,
       "latin": "Cucurrit adversùs eum erecto collo, et pingui cervice armatus est.",
-      "french": "Il a couru contre Dieu la tête levée, il s'est armé d'un orgueil inflexible.",
+      "french": "Il a couru contre Dieu la tête levée, il s’est armé d’un orgueil inflexible.",
       "annotations": null,
       "source_pages": [
         "page_0221.json"
@@ -259,7 +259,7 @@
     {
       "verse_number": 29,
       "latin": "Non ditabitur, nec perseverabit substantia ejus, nec mittet in terra radicem suam.",
-      "french": "Il ne s'enrichira point ; son bien se dissipera en peu de temps, et il ne poussera point de racine sur la terre.",
+      "french": "Il ne s’enrichira point ; son bien se dissipera en peu de temps, et il ne poussera point de racine sur la terre.",
       "annotations": null,
       "source_pages": [
         "page_0221.json"
@@ -267,8 +267,8 @@
     },
     {
       "verse_number": 30,
-      "latin": "Non recedet de tenebris : ramos ejus arefaciet flamma, et auferetur spiritu oris sui.",
-      "french": "Il ne sortira point des ténèbres; la flamme séchera ses branches, un souffle de sa bouche l'emportera.",
+      "latin": "Non recedet de tenebris : ramos ejus arefaciet flamma, et auferetur spiritu oris sui.",
+      "french": "Il ne sortira point des ténèbres ; la flamme séchera ses branches, un souffle de sa bouche l’emportera.",
       "annotations": null,
       "source_pages": [
         "page_0222.json"
@@ -277,7 +277,7 @@
     {
       "verse_number": 31,
       "latin": "Non credet frustrà errore deceptus, quòd aliquo pretio redimendus sit.",
-      "french": "Il ne croira point vainement qu'il puisse être racheté d'aucun prix.",
+      "french": "Il ne croira point vainement qu’il puisse être racheté d’aucun prix.",
       "annotations": null,
       "source_pages": [
         "page_0222.json"
@@ -285,7 +285,7 @@
     },
     {
       "verse_number": 32,
-      "latin": "Antequam dies ejus impleantur peribit; et manus ejus arescent.",
+      "latin": "Antequam dies ejus impleantur peribit ; et manus ejus arescent.",
       "french": "Il périra avant que ses jours soient accomplis, et les mains lui sécheront.",
       "annotations": null,
       "source_pages": [
@@ -295,7 +295,7 @@
     {
       "verse_number": 33,
       "latin": "Lædetur quasi vinea in primo flore botrus ejus, et quasi oliva projiciens florem suum.",
-      "french": "Il deviendra comme la vigne, qui perd son fruit dès la première fleur, et comme l'olivier qui laisse tomber sa fleur.",
+      "french": "Il deviendra comme la vigne, qui perd son fruit dès la première fleur, et comme l’olivier qui laisse tomber sa fleur.",
       "annotations": null,
       "source_pages": [
         "page_0223.json"
@@ -304,7 +304,7 @@
     {
       "verse_number": 34,
       "latin": "Congregatio enim hypocritæ sterilis, et ignis devorabit tabernacula eorum qui munera libenter accipiunt.",
-      "french": "Car tout ce qu'amasse l'hypocrite sera sans fruit, et le feu dévorera les maisons de ceux qui aiment à recevoir des présents.",
+      "french": "Car tout ce qu’amasse l’hypocrite sera sans fruit, et le feu dévorera les maisons de ceux qui aiment à recevoir des présents.",
       "annotations": null,
       "source_pages": [
         "page_0223.json"
@@ -313,7 +313,7 @@
     {
       "verse_number": 35,
       "latin": "Concepit dolorem, et peperit iniquitatem, et uterus ejus præparat dolos.",
-      "french": "Il conçoit la douleur, et il enfante l'iniquité, et son esprit ne s'occupe qu'à inventer de nouveaux pièges.",
+      "french": "Il conçoit la douleur, et il enfante l’iniquité, et son esprit ne s’occupe qu’à inventer de nouveaux pièges.",
       "annotations": null,
       "source_pages": [
         "page_0223.json"

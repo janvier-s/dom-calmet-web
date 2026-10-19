@@ -1,13 +1,13 @@
 {
   "book": "Deutéronome",
   "chapter": 6,
-  "chapter_summary": "Exhortation à aimer le Seigneur de tout son cœur, à lui être toujours fidèle, et à n'oublier jamais ses lois, et les grâces qu'il a faites à son peuple.",
+  "chapter_summary": "Exhortation à aimer le Seigneur de tout son cœur, à lui être toujours fidèle, et à n’oublier jamais ses lois, et les grâces qu’il a faites à son peuple.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Hæc sunt præcepta, et cæremoniæ, atque judicia, quæ mandavit Dominus Deus vester ut docerem vos, et faciatis ea in terra, ad quam transgredimini possidendam:",
-      "french": "Voici les préceptes, les cérémonies et les ordonnances, que le Seigneur votre Dieu m'a commandé de vous enseigner, afin que vous les observiez dans la terre, dont vous allez vous mettre en possession ;",
+      "latin": "Hæc sunt præcepta, et cæremoniæ, atque judicia, quæ mandavit Dominus Deus vester ut docerem vos, et faciatis ea in terra, ad quam transgredimini possidendam :",
+      "french": "Voici les préceptes, les cérémonies et les ordonnances, que le Seigneur votre Dieu m’a commandé de vous enseigner, afin que vous les observiez dans la terre, dont vous allez vous mettre en possession ;",
       "annotations": null,
       "source_pages": [
         "page_0127.json"
@@ -16,7 +16,7 @@
     {
       "verse_number": 2,
       "latin": "Ut timeas Dominum Deum tuum, et custodias omnia mandata et præcepta ejus, quæ ego præcipio tibi, et filiis, ac nepotibus tuis, cunctis diebus vitæ tuæ, ut prolongentur dies tui.",
-      "french": "Afin que vous craigniez le Seigneur votre Dieu, et que tous les jours de votre vie vous gardiez tous ses commandements et ses préceptes, que je vous donne à vous, à vos enfants, et aux enfants de vos enfants ; et que vous viviez longtemps sur la terre.",
+      "french": "Afin que vous craigniez le Seigneur votre Dieu, et que tous les jours de votre vie vous gardiez tous ses commandements et ses préceptes, que je vous donne à vous, à vos enfants, et aux enfants de vos enfants ; et que vous viviez longtemps sur la terre.",
       "annotations": null,
       "source_pages": [
         "page_0127.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Eruntque verba hæc, quæ ego præcipio tibi hodie, in corde tuo:",
-      "french": "Ces commandements que je vous donne aujourd'hui, seront gravés dans votre cœur.",
+      "latin": "Eruntque verba hæc, quæ ego præcipio tibi hodie, in corde tuo :",
+      "french": "Ces commandements que je vous donne aujourd’hui, seront gravés dans votre cœur.",
       "annotations": null,
       "source_pages": [
         "page_0128.json"
@@ -61,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "Et narrabis ea filiis tuis, et meditaberis in eis sedens in domo tua, et ambulans in itinere, dormiens, atque consurgens.",
-      "french": "Vous en instruirez vos enfants ; vous les méditerez aussi dans votre maison, et marchant dans le chemin, lorsque vous vous coucherez pour dormir ; et le matin, à votre réveil.",
+      "french": "Vous en instruirez vos enfants ; vous les méditerez aussi dans votre maison, et marchant dans le chemin, lorsque vous vous coucherez pour dormir ; et le matin, à votre réveil.",
       "annotations": null,
       "source_pages": [
         "page_0129.json"
@@ -70,7 +70,7 @@
     {
       "verse_number": 8,
       "latin": "Et ligabis ea quasi signum in manu tua, eruntque et movebuntur inter oculos tuos.",
-      "french": "Vous les lierez comme une marque dans votre main ; vous les porterez suspendus entre vos yeux ;",
+      "french": "Vous les lierez comme une marque dans votre main ; vous les porterez suspendus entre vos yeux ;",
       "annotations": null,
       "source_pages": [
         "page_0130.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Cumque introduxerit te Dominus Deus tuus in terram, pro qua juravit patribus tuis Abraham, Isaac, et Jacob: et dederit tibi civitates magnas et optimas, quas non ædificasti,",
-      "french": "Et lorsque le Seigneur votre Dieu vous aura fait entrer dans la terre, qu'il a promise avec serment à vos pères, Abraham, Isaac et Jacob ; et qu'il vous aura donné de grandes et de très bonnes villes que vous n'aurez pas fait bâtir,",
+      "latin": "Cumque introduxerit te Dominus Deus tuus in terram, pro qua juravit patribus tuis Abraham, Isaac, et Jacob : et dederit tibi civitates magnas et optimas, quas non ædificasti,",
+      "french": "Et lorsque le Seigneur votre Dieu vous aura fait entrer dans la terre, qu’il a promise avec serment à vos pères, Abraham, Isaac et Jacob ; et qu’il vous aura donné de grandes et de très bonnes villes que vous n’aurez pas fait bâtir,",
       "annotations": null,
       "source_pages": [
         "page_0130.json"
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "Domos plenas cunctarum opum, quas non extruxisti, cisternas quas non fodisti, vineas et oliveta, quæ non plantasti,",
-      "french": "Des maisons pleines de toutes sortes de biens, que vous n'aurez point fait faire, des citernes que vous n'aurez point creusées, des vignes et des plans d'oliviers, que vous n'aurez point plantés,",
+      "french": "Des maisons pleines de toutes sortes de biens, que vous n’aurez point fait faire, des citernes que vous n’aurez point creusées, des vignes et des plans d’oliviers, que vous n’aurez point plantés,",
       "annotations": null,
       "source_pages": [
         "page_0130.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Et comederis, et saturatus fueris:",
-      "french": "Et que vous vous serez nourris et rassasiés de toutes ces choses ;",
+      "latin": "Et comederis, et saturatus fueris :",
+      "french": "Et que vous vous serez nourris et rassasiés de toutes ces choses ;",
       "annotations": null,
       "source_pages": [
         "page_0131.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Cave diligenter, ne obliviscaris Domini, qui eduxit te de terra Ægypti, de domo servitutis. Dominum Deum tuum timebis, et illi soli servies, ac per nomen illius jurabis.",
-      "french": "Prenez bien garde de ne pas oublier le Seigneur, qui vous a tirés du pays d'Égypte, de ce séjour de servitude. Vous craindrez le Seigneur votre Dieu ; vous ne servirez que lui seul, et vous ne jurerez que par son nom.",
+      "french": "Prenez bien garde de ne pas oublier le Seigneur, qui vous a tirés du pays d’Égypte, de ce séjour de servitude. Vous craindrez le Seigneur votre Dieu ; vous ne servirez que lui seul, et vous ne jurerez que par son nom.",
       "annotations": null,
       "source_pages": [
         "page_0131.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Non ibitis post Deos alienos cunctorum gentium, quæ in circuitu vestro sunt:",
-      "french": "Vous ne suivrez point les dieux étrangers d'aucune des nations qui sont autour de vous ;",
+      "latin": "Non ibitis post Deos alienos cunctorum gentium, quæ in circuitu vestro sunt :",
+      "french": "Vous ne suivrez point les dieux étrangers d’aucune des nations qui sont autour de vous ;",
       "annotations": null,
       "source_pages": [
         "page_0131.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Quoniam Deus æmulator, Dominus Deus tuus in medio tui, nequando irascatur furor Domini Dei tui contra te, et auferat te de superficie terræ.",
-      "french": "Parce que le Seigneur votre Dieu, qui est au milieu de vous, est un Dieu jaloux ; de peur que la fureur du Seigneur votre Dieu ne s'allume contre vous, et qu'il ne vous extermine de dessus la terre.",
+      "french": "Parce que le Seigneur votre Dieu, qui est au milieu de vous, est un Dieu jaloux ; de peur que la fureur du Seigneur votre Dieu ne s’allume contre vous, et qu’il ne vous extermine de dessus la terre.",
       "annotations": null,
       "source_pages": [
         "page_0131.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Non tentabis Dominum Deum tuum, sicut tentasti in loco tentationis.",
-      "french": "Vous ne tenterez point le Seigneur votre Dieu, comme vous l'avez tenté au lieu de la tentation.",
+      "french": "Vous ne tenterez point le Seigneur votre Dieu, comme vous l’avez tenté au lieu de la tentation.",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Custodi præcepta Domini Dei tui, ac testimonia et ceremonias quas præcepit tibi:",
-      "french": "Gardez les préceptes du Seigneur votre Dieu, les ordonnances et les cérémonies qu'il vous a prescrites.",
+      "latin": "Custodi præcepta Domini Dei tui, ac testimonia et ceremonias quas præcepit tibi :",
+      "french": "Gardez les préceptes du Seigneur votre Dieu, les ordonnances et les cérémonies qu’il vous a prescrites.",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -159,7 +159,7 @@
     },
     {
       "verse_number": 18,
-      "latin": "Et fac quod placitum est et bonum in conspectu Domini, ut bene sit tibi: et ingressus possideas terram optimam, de qua juravit Dominus patribus tuis,",
+      "latin": "Et fac quod placitum est et bonum in conspectu Domini, ut bene sit tibi : et ingressus possideas terram optimam, de qua juravit Dominus patribus tuis,",
       "french": "Faites ce qui est bon et agréable aux yeux du Seigneur, afin que vous soyez heureux, et que vous possédiez cet excellent pays, où vous allez entrer, que le Seigneur a juré de donner à vos pères,",
       "annotations": null,
       "source_pages": [
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Ut deleret omnes inimicos tuos coram te, sicut locutus est.",
-      "french": "En leur promettant d'exterminer de devant vous vos ennemis.",
+      "french": "En leur promettant d’exterminer de devant vous vos ennemis.",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Cumque interrogaverit te filius tuus cras, dicens: Quid sibi volunt testimonia hæc, et cæremoniæ, atque judicia, quæ præcepit Dominus Deus noster nobis?",
-      "french": "Et lorsque vos enfants vous interrogeront à l'avenir, et vous diront : Que signifient ces commandements, ces cérémonies, et ces ordonnances, que le Seigneur notre Dieu nous a prescrites ?",
+      "latin": "Cumque interrogaverit te filius tuus cras, dicens : Quid sibi volunt testimonia hæc, et cæremoniæ, atque judicia, quæ præcepit Dominus Deus noster nobis ?",
+      "french": "Et lorsque vos enfants vous interrogeront à l’avenir, et vous diront : Que signifient ces commandements, ces cérémonies, et ces ordonnances, que le Seigneur notre Dieu nous a prescrites ?",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -186,8 +186,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Dices ei: Servi eramus Pharaonis in Ægypto, et eduxit nos Dominus de Ægypto in manu forti:",
-      "french": "Vous leur direz : Nous étions esclaves de Pharaon dans l'Égypte, et le Seigneur nous a tirés de l'Égypte avec une main forte :",
+      "latin": "Dices ei : Servi eramus Pharaonis in Ægypto, et eduxit nos Dominus de Ægypto in manu forti :",
+      "french": "Vous leur direz : Nous étions esclaves de Pharaon dans l’Égypte, et le Seigneur nous a tirés de l’Égypte avec une main forte :",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Et edidit signa atque prodigia magna et pessima in Ægypto contra Pharaonem, et omnem domum illius, in conspectu nostro,",
-      "french": "Il a fait sous nos yeux dans l'Égypte de grands miracles, et des prodiges terribles, contre Pharaon et contre toute sa maison ;",
+      "french": "Il a fait sous nos yeux dans l’Égypte de grands miracles, et des prodiges terribles, contre Pharaon et contre toute sa maison ;",
       "annotations": null,
       "source_pages": [
         "page_0133.json"
@@ -205,7 +205,7 @@
     {
       "verse_number": 23,
       "latin": "Et eduxit nos inde, ut introducens daret terram, super qua juravit patribus nostris.",
-      "french": "Et il nous a tirés de ce pays-là, pour nous faire entrer dans cette terre, qu'il avait promis avec serment à nos pères de nous donner ;",
+      "french": "Et il nous a tirés de ce pays-là, pour nous faire entrer dans cette terre, qu’il avait promis avec serment à nos pères de nous donner ;",
       "annotations": null,
       "source_pages": [
         "page_0133.json"
@@ -214,7 +214,7 @@
     {
       "verse_number": 24,
       "latin": "Præcepitque nobis Dominus, ut faciamus omnia legitima hæc, et timeamus Dominum Deum nostrum, ut bene sit nobis cunctis diebus vitæ nostræ, sicut est hodie.",
-      "french": "Et le Seigneur nous a commandé ensuite d'observer toutes ces lois, et de craindre le Seigneur notre Dieu, afin que nous soyons heureux tous les jours de notre vie, comme nous le sommes aujourd'hui.",
+      "french": "Et le Seigneur nous a commandé ensuite d’observer toutes ces lois, et de craindre le Seigneur notre Dieu, afin que nous soyons heureux tous les jours de notre vie, comme nous le sommes aujourd’hui.",
       "annotations": null,
       "source_pages": [
         "page_0133.json"
@@ -223,7 +223,7 @@
     {
       "verse_number": 25,
       "latin": "Eritque nostri misericors, si custodierimus et fecerimus omnia præcepta ejus coram Domino Deo nostro, sicut mandavit nobis.",
-      "french": "Le Seigneur notre Dieu nous fera miséricorde, si nous observons, et si nous pratiquons devant lui tous ses préceptes, selon qu'il nous l'a commandé.",
+      "french": "Le Seigneur notre Dieu nous fera miséricorde, si nous observons, et si nous pratiquons devant lui tous ses préceptes, selon qu’il nous l’a commandé.",
       "annotations": null,
       "source_pages": [
         "page_0133.json"

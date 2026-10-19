@@ -1,13 +1,13 @@
 {
   "book": "Esther",
   "chapter": 13,
-  "chapter_summary": "Édit d'Artaxerxès contre les Juifs. Prière que Mardochée fait à Dieu pour le salut de sa Nation.",
+  "chapter_summary": "Édit d’Artaxerxès contre les Juifs. Prière que Mardochée fait à Dieu pour le salut de sa Nation.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Rex maximus Artaxerxes, ab India, usque Æthiopiam, centum viginti-septem Provinciarum Principibus, et Ducibus, qui ejus Imperio subjecti sunt, salutem.",
-      "french": "Le grand Roi Artaxerxès, qui règne depuis les Indes jusqu'en Éthiopie, sur cent vingt-sept Provinces, aux Princes, et aux Seigneurs soumis à son Empire, Salut.",
+      "french": "Le grand Roi Artaxerxès, qui règne depuis les Indes jusqu’en Éthiopie, sur cent vingt-sept Provinces, aux Princes, et aux Seigneurs soumis à son Empire, Salut.",
       "annotations": "An du M. 3495.",
       "source_pages": [
         "page_0152.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Cùm plurimis Gentibus imperarem, et universum orbem meæ ditioni subjugassem, volui nequaquam abuti potentiæ magnitudine; sed clementiâ, et lenitate gubernare subjectos, ut absque ullo terrore vitam silentio transigentes, optatâ cunctis mortalibus pace fruerentur.",
-      "french": "Quoique je commandasse à tant de Nations, et que j'eusse soumis tout l'univers à mon Empire, je n'ai pas voulu abuser de la grandeur de ma puissance ; mais j'ai gouverné mes sujets avec clémence, et avec douceur, afin que passant leur vie doucement, et sans aucune crainte, ils jouissent de la paix, qui est si souhaitée de tous les hommes.",
+      "latin": "Cùm plurimis Gentibus imperarem, et universum orbem meæ ditioni subjugassem, volui nequaquam abuti potentiæ magnitudine ; sed clementiâ, et lenitate gubernare subjectos, ut absque ullo terrore vitam silentio transigentes, optatâ cunctis mortalibus pace fruerentur.",
+      "french": "Quoique je commandasse à tant de Nations, et que j’eusse soumis tout l’univers à mon Empire, je n’ai pas voulu abuser de la grandeur de ma puissance ; mais j’ai gouverné mes sujets avec clémence, et avec douceur, afin que passant leur vie doucement, et sans aucune crainte, ils jouissent de la paix, qui est si souhaitée de tous les hommes.",
       "annotations": null,
       "source_pages": [
         "page_0152.json"
@@ -25,7 +25,7 @@
     {
       "verse_number": 3,
       "latin": "Quærente autem me à Confiliariis meis, quomodo posset hoc impleri, unus, qui sapientiâ, et fide cæteros præcellebat, et erat post Regem secundus, Aman nomine,",
-      "french": "Et ayant demandé à ceux de mon Conseil de quelle manière je pourrais accomplir ce dessein, l'un d'entre eux, nommé Aman, élevé par sa sagesse et par sa fidélité au-dessus des autres, et le second après le Roi,",
+      "french": "Et ayant demandé à ceux de mon Conseil de quelle manière je pourrais accomplir ce dessein, l’un d’entre eux, nommé Aman, élevé par sa sagesse et par sa fidélité au-dessus des autres, et le second après le Roi,",
       "annotations": "An du M. 3495.",
       "source_pages": [
         "page_0153.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Indicavit mihi in toto orbe terrarum Populum esse dispersum, qui novis uteretur Legibus, et contra omnium Gentium consuetudinem faciens, Regum Jussa contemneret, et universarum concordiam Nationum suâ dissensione violaret.",
-      "french": "Nous a donné avis, qu'il y a un peuple dispersé dans toute la terre, qui se conduit par de nouvelles Lois, et qui s'opposant aux Coutumes des autres Nations, méprise les commandements des Rois, et trouble par la contrariété de ses sentiments, la paix et l'union de tous les Peuples du monde.",
+      "french": "Nous a donné avis, qu’il y a un peuple dispersé dans toute la terre, qui se conduit par de nouvelles Lois, et qui s’opposant aux Coutumes des autres Nations, méprise les commandements des Rois, et trouble par la contrariété de ses sentiments, la paix et l’union de tous les Peuples du monde.",
       "annotations": null,
       "source_pages": [
         "page_0153.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Quòd cùm didicissemus, videntes unam Gentem rebellem adversus omne hominum genus, perversis uti legibus, nostrisque Jussionibus contraire, et turbare subjectarum nobis Provinciarum pacem, atque concordiam;",
-      "french": "Ce qu'ayant appris, et voyant qu'une seule nation se révolte contre toutes les autres, suit des Lois injustes, combat nos Ordonnances, et trouble la paix des Provinces, qui nous sont soumises:",
+      "latin": "Quòd cùm didicissemus, videntes unam Gentem rebellem adversus omne hominum genus, perversis uti legibus, nostrisque Jussionibus contraire, et turbare subjectarum nobis Provinciarum pacem, atque concordiam ;",
+      "french": "Ce qu’ayant appris, et voyant qu’une seule nation se révolte contre toutes les autres, suit des Lois injustes, combat nos Ordonnances, et trouble la paix des Provinces, qui nous sont soumises :",
       "annotations": null,
       "source_pages": [
         "page_0154.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Jussimus, ut quoscumque Aman, qui omnibus Provinciis præpositus est, et secundus à Rege, et quem patris loco colimus, manstraverit, cum conjugibus, ac liberis, deleantur ab inimicis suis; nulliusque eorum misereatur, quartâ-decimâ die duodecimi mensis Adar, anni præsentis;",
-      "french": "Nous avons ordonné, que tous ceux qu'Aman, qui a l'Intendance sur toutes les Provinces, qui est le second après le Roi, et que nous honorons comme notre père, aura fait voir être de ce peuple, soient tués par leurs ennemis, avec leurs femmes, et leurs enfants, le quatorzième jour d'Adar, douzième mois de cette année, sans que personne en ait aucune compassion;",
+      "latin": "Jussimus, ut quoscumque Aman, qui omnibus Provinciis præpositus est, et secundus à Rege, et quem patris loco colimus, manstraverit, cum conjugibus, ac liberis, deleantur ab inimicis suis ; nulliusque eorum misereatur, quartâ-decimâ die duodecimi mensis Adar, anni præsentis ;",
+      "french": "Nous avons ordonné, que tous ceux qu’Aman, qui a l’Intendance sur toutes les Provinces, qui est le second après le Roi, et que nous honorons comme notre père, aura fait voir être de ce peuple, soient tués par leurs ennemis, avec leurs femmes, et leurs enfants, le quatorzième jour d’Adar, douzième mois de cette année, sans que personne en ait aucune compassion ;",
       "annotations": null,
       "source_pages": [
         "page_0154.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Ut nefarii homines uno die ad Inferos descendentes, reddant Imperio nostro pacem, quam turbaverant. Hucusque Exemplar Epistolæ. Quæ sequuntur, post eum locum scripta reperi, ubi legitur : Pergénsque Mardochæus, fecit omnia quæ ei mandaverat Esther. Nec tamen habentur in Hebraico, et apud nullum penitùs feruntur Interpretum.",
-      "french": "Afin que ces scélérats descendant tous en un même jour dans le tombeau, rendent à notre Empire la paix, qu'ils avaient troublée. Jusqu'ici est la teneur de la Lettre. Ce qui suit, je l'ai trouvé écrit, après l'endroit où l'on lit : Et Mardochée s'en allant, fit tout ce qu'Esther lui avait marqué. Toutefois il ne se trouve point dans l'Hébreu, et on n'en voit rien non plus dans aucun des Interprètes.",
+      "latin": "Ut nefarii homines uno die ad Inferos descendentes, reddant Imperio nostro pacem, quam turbaverant. Hucusque Exemplar Epistolæ. Quæ sequuntur, post eum locum scripta reperi, ubi legitur : Pergénsque Mardochæus, fecit omnia quæ ei mandaverat Esther. Nec tamen habentur in Hebraico, et apud nullum penitùs feruntur Interpretum.",
+      "french": "Afin que ces scélérats descendant tous en un même jour dans le tombeau, rendent à notre Empire la paix, qu’ils avaient troublée. Jusqu’ici est la teneur de la Lettre. Ce qui suit, je l’ai trouvé écrit, après l’endroit où l’on lit : Et Mardochée s’en allant, fit tout ce qu’Esther lui avait marqué. Toutefois il ne se trouve point dans l’Hébreu, et on n’en voit rien non plus dans aucun des Interprètes.",
       "annotations": "An du M. 3495.",
       "source_pages": [
         "page_0155.json"
@@ -70,7 +70,7 @@
     {
       "verse_number": 8,
       "latin": "Mardochæus autem deprecatus est Dominum, memor omnium operum ejus.",
-      "french": "Mardochée alla prier le Seigneur, se souvenant de toutes les œuvres merveilleuses qu'il avait faites.",
+      "french": "Mardochée alla prier le Seigneur, se souvenant de toutes les œuvres merveilleuses qu’il avait faites.",
       "annotations": null,
       "source_pages": [
         "page_0156.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Et dixit : Domine, Domine, Rex omnipotens, in ditione enim tuâ cuncta sunt posita, et non est qui possit tuæ resistere voluntati, si decreveris salvare Israël.",
-      "french": "Et il lui dit : Seigneur, Seigneur, Roi tout-puissant, toutes choses sont soumises à votre pouvoir, et nul ne peut résister à votre volonté, si vous avez résolu de sauver Israël.",
+      "latin": "Et dixit : Domine, Domine, Rex omnipotens, in ditione enim tuâ cuncta sunt posita, et non est qui possit tuæ resistere voluntati, si decreveris salvare Israël.",
+      "french": "Et il lui dit : Seigneur, Seigneur, Roi tout-puissant, toutes choses sont soumises à votre pouvoir, et nul ne peut résister à votre volonté, si vous avez résolu de sauver Israël.",
       "annotations": null,
       "source_pages": [
         "page_0156.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Cuncta nosti; et scis quia non pro superbiâ, et contumeliâ, et aliquâ gloriæ cupiditate fecerim hoc, ut non adorarem Aman superbissimum;",
-      "french": "Tout vous est connu ; et vous savez que quand je n'ai point adoré le superbe Aman, ce n'a été ni par orgueil, ni par mépris, ni par un secret désir de gloire;",
+      "latin": "Cuncta nosti ; et scis quia non pro superbiâ, et contumeliâ, et aliquâ gloriæ cupiditate fecerim hoc, ut non adorarem Aman superbissimum ;",
+      "french": "Tout vous est connu ; et vous savez que quand je n’ai point adoré le superbe Aman, ce n’a été ni par orgueil, ni par mépris, ni par un secret désir de gloire ;",
       "annotations": null,
       "source_pages": [
         "page_0157.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Libenter enim pro salute Israël, etiam vestigia pedum ejus deosculari paratus essem:",
-      "french": "Car j'aurais été disposé à baiser avec joie les traces mêmes de ses pieds pour le salut d'Israël:",
+      "latin": "Libenter enim pro salute Israël, etiam vestigia pedum ejus deosculari paratus essem :",
+      "french": "Car j’aurais été disposé à baiser avec joie les traces mêmes de ses pieds pour le salut d’Israël :",
       "annotations": null,
       "source_pages": [
         "page_0157.json"
@@ -124,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Sed timui ne honorem Dei mei transferrem ad hominem, et ne quemquam adorem, excepto Deo meo.",
-      "french": "Mais j'ai eu peur de transférer à un homme, l'honneur qui n'est dû qu'à mon Dieu, et d'adorer un autre que mon Dieu.",
+      "french": "Mais j’ai eu peur de transférer à un homme, l’honneur qui n’est dû qu’à mon Dieu, et d’adorer un autre que mon Dieu.",
       "annotations": null,
       "source_pages": [
         "page_0157.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Et nunc, Domine Rex, Deus Abraham, miserere Populi tui; quia volunt nos inimici nostri perdere, et hæreditatem tuam delere.",
-      "french": "Maintenant donc, ô Seigneur Roi, ô Dieu d'Abraham, ayez pitié de votre Peuple; parce que nos ennemis ont résolu de nous perdre, et d'exterminer votre héritage.",
+      "latin": "Et nunc, Domine Rex, Deus Abraham, miserere Populi tui ; quia volunt nos inimici nostri perdere, et hæreditatem tuam delere.",
+      "french": "Maintenant donc, ô Seigneur Roi, ô Dieu d’Abraham, ayez pitié de votre Peuple ; parce que nos ennemis ont résolu de nous perdre, et d’exterminer votre héritage.",
       "annotations": null,
       "source_pages": [
         "page_0157.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Ne despicias partem tuam, quam redemisti tibi de Ægypto.",
-      "french": "Ne méprisez pas ce Peuple, que vous vous êtes rendu propre, que vous avez racheté de l'Égypte, pour être à vous.",
+      "french": "Ne méprisez pas ce Peuple, que vous vous êtes rendu propre, que vous avez racheté de l’Égypte, pour être à vous.",
       "annotations": null,
       "source_pages": [
         "page_0157.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Exaudi deprecationem meam, et propitius esto sorti, et funiculo tuo; et converte luctum nostrum in gaudium, ut viventes, laudemus nomen tuum, Domine; et ne claudas ora te canentium.",
-      "french": "Exaucez ma prière; soyez favorable à une Nation, dont vous avez fait votre partage. Changez, Seigneur, nos larmes en joie, afin que nous employions la vie que vous nous conserverez, à louer votre saint nom; et ne fermez pas la bouche de ceux qui vous louent.",
+      "latin": "Exaudi deprecationem meam, et propitius esto sorti, et funiculo tuo ; et converte luctum nostrum in gaudium, ut viventes, laudemus nomen tuum, Domine ; et ne claudas ora te canentium.",
+      "french": "Exaucez ma prière ; soyez favorable à une Nation, dont vous avez fait votre partage. Changez, Seigneur, nos larmes en joie, afin que nous employions la vie que vous nous conserverez, à louer votre saint nom ; et ne fermez pas la bouche de ceux qui vous louent.",
       "annotations": null,
       "source_pages": [
         "page_0157.json"
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Omnis quoque Israël pari mente, et obsecratione clamavit ad Dominum, eò quòd eis certa mors impenderet.",
-      "french": "Tout Israël cria aussi au Seigneur, et lui adressa ses prières dans un même esprit; parce qu'ils se voyaient à la veille d'une mort certaine.",
+      "french": "Tout Israël cria aussi au Seigneur, et lui adressa ses prières dans un même esprit ; parce qu’ils se voyaient à la veille d’une mort certaine.",
       "annotations": null,
       "source_pages": [
         "page_0157.json"

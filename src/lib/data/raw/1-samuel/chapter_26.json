@@ -1,13 +1,13 @@
 {
   "book": "1 Samuel",
   "chapter": 26,
-  "chapter_summary": "Les Ziphéens avertissent une seconde fois Saül, du lieu où était David. Pendant que Saül et tous ses gens étaient endormis, David entre dans le camp, et emporte la lance, et la coupe du Roi. Il crie ensuite du haut d'une montagne ; et Saül ayant reconnu sa voix, est obligé de se condamner lui-même.",
+  "chapter_summary": "Les Ziphéens avertissent une seconde fois Saül, du lieu où était David. Pendant que Saül et tous ses gens étaient endormis, David entre dans le camp, et emporte la lance, et la coupe du Roi. Il crie ensuite du haut d’une montagne ; et Saül ayant reconnu sa voix, est obligé de se condamner lui-même.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Et venerunt Ziphæi ad Saül in Gabaa dicentes : Ecce David absconditus est in colle Hachila, quæ est ex adverso solitudinis.",
-      "french": "Cependant ceux de Ziph vinrent trouver Saül à Gabaa, et lui dirent : David est caché dans la colline d'Hachila, qui est vis-à-vis du désert.",
+      "latin": "Et venerunt Ziphæi ad Saül in Gabaa dicentes : Ecce David absconditus est in colle Hachila, quæ est ex adverso solitudinis.",
+      "french": "Cependant ceux de Ziph vinrent trouver Saül à Gabaa, et lui dirent : David est caché dans la colline d’Hachila, qui est vis-à-vis du désert.",
       "annotations": null,
       "source_pages": [
         "page_0409.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Et castrametatus est Saül in Gabaa Hachila, quæ erat ex adverso solitudinis in via : David autem habitabat in deserto. Videns autem, quod venisset Saül post se in desertum,",
-      "french": "Il campa sur la colline d'Hachila, qui est vis-à-vis du désert, sur le chemin : David demeurait alors dans ce désert. Et comme on lui dit que Saül l'y venait chercher,",
+      "latin": "Et castrametatus est Saül in Gabaa Hachila, quæ erat ex adverso solitudinis in via : David autem habitabat in deserto. Videns autem, quod venisset Saül post se in desertum,",
+      "french": "Il campa sur la colline d’Hachila, qui est vis-à-vis du désert, sur le chemin : David demeurait alors dans ce désert. Et comme on lui dit que Saül l’y venait chercher,",
       "annotations": null,
       "source_pages": [
         "page_0409.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Misit exploratores, et didicit quod illuc venisset certissimè.",
-      "french": "Il envoya des gens pour le reconnaître, et il apprit qu'il était venu très certainement.",
+      "french": "Il envoya des gens pour le reconnaître, et il apprit qu’il était venu très certainement.",
       "annotations": "An. du Monde 2947.",
       "source_pages": [
         "page_0410.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Et surrexit David clàm, et venit ad locum ubi erat Saül : cùmque vidisset locum, in quo dormiebat Saül, et Abner filius Ner, princeps militiæ ejus, et Saülem dormientem in tentorio, et reliquum vulgus per circuitum ejus,",
-      "french": "Il partit donc sans bruit, et s'en vint au lieu où était Saül. Il remarqua l'endroit où était la tente de Saül, et Abner fils de Ner, Général de son armée. Et voyant que Saül dormait dans sa tente, et tous ses gens autour de lui,",
+      "latin": "Et surrexit David clàm, et venit ad locum ubi erat Saül : cùmque vidisset locum, in quo dormiebat Saül, et Abner filius Ner, princeps militiæ ejus, et Saülem dormientem in tentorio, et reliquum vulgus per circuitum ejus,",
+      "french": "Il partit donc sans bruit, et s’en vint au lieu où était Saül. Il remarqua l’endroit où était la tente de Saül, et Abner fils de Ner, Général de son armée. Et voyant que Saül dormait dans sa tente, et tous ses gens autour de lui,",
       "annotations": null,
       "source_pages": [
         "page_0410.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Ait David ad Achimelech Hethæum, et Abisaï filium Sarviæ, fratrem Joab, dicens : Quis descendet mecum ad Saül in castra? Dixitque Abisaï : Ego descendam tecum.",
-      "french": "Il dit à Achimélech Héthéen, et à Abisaï, fils de Sarvia, frère de Joab : Qui veut venir avec moi dans le camp de Saül? Abisaï lui dit : J'irai avec vous.",
+      "latin": "Ait David ad Achimelech Hethæum, et Abisaï filium Sarviæ, fratrem Joab, dicens : Quis descendet mecum ad Saül in castra ? Dixitque Abisaï : Ego descendam tecum.",
+      "french": "Il dit à Achimélech Héthéen, et à Abisaï, fils de Sarvia, frère de Joab : Qui veut venir avec moi dans le camp de Saül ? Abisaï lui dit : J’irai avec vous.",
       "annotations": null,
       "source_pages": [
         "page_0411.json"
@@ -60,7 +60,7 @@
     },
     {
       "verse_number": 7,
-      "latin": "Venerunt ergo David et Abisaï ad populum nocte, et invenerunt Saül jacentem et dormientem in tentorio, et hastam fixam in terra ad caput ejus : Abner autem et populum dormientes in circuitu ejus.",
+      "latin": "Venerunt ergo David et Abisaï ad populum nocte, et invenerunt Saül jacentem et dormientem in tentorio, et hastam fixam in terra ad caput ejus : Abner autem et populum dormientes in circuitu ejus.",
       "french": "David et Abisaï allèrent donc la nuit dans le camp de Saül, et ils trouvèrent Saül couché, et dormant dans sa tente. Sa lance était à son chevet, fichée en terre, et Abner avec tous ses gens dormaient autour de lui.",
       "annotations": null,
       "source_pages": [
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Dixitque Abisaï ad David : Conclusit Deus inimicum tuum hodiè in manus tuas : nunc ergo perfodiam eum lanceâ in terra semel, et secundò opus non erit.",
-      "french": "Alors Abisaï dit à David : Dieu vous livre aujourd'hui votre ennemi entre les mains : je m'en vais donc avec ma lance le percer jusqu'en terre d'un seul coup, et il n'en faudra pas un second.",
+      "latin": "Dixitque Abisaï ad David : Conclusit Deus inimicum tuum hodiè in manus tuas : nunc ergo perfodiam eum lanceâ in terra semel, et secundò opus non erit.",
+      "french": "Alors Abisaï dit à David : Dieu vous livre aujourd’hui votre ennemi entre les mains : je m’en vais donc avec ma lance le percer jusqu’en terre d’un seul coup, et il n’en faudra pas un second.",
       "annotations": null,
       "source_pages": [
         "page_0411.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Et dixit David ad Abisaï : Ne interficias eum : quis enim extendet manum suam in Christum Domini, et innocens erit?",
-      "french": "David répondit à Abisaï : Ne le tuez point ; car qui étendra la main sur l'Oint du Seigneur, et sera innocent?",
+      "latin": "Et dixit David ad Abisaï : Ne interficias eum : quis enim extendet manum suam in Christum Domini, et innocens erit ?",
+      "french": "David répondit à Abisaï : Ne le tuez point ; car qui étendra la main sur l’Oint du Seigneur, et sera innocent ?",
       "annotations": null,
       "source_pages": [
         "page_0411.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Et dixit David : Vivit Dominus, quia nisi Dominus percusserit eum, aut dies ejus venerit ut moriatur, aut in prœlium descendens perierit :",
-      "french": "Et il ajouta : Vive le Seigneur, à moins que le Seigneur ne frappe lui-même Saül, ou que son jour n'arrive, ou qu'il ne soit tué dans une bataille, il ne mourra point.",
+      "latin": "Et dixit David : Vivit Dominus, quia nisi Dominus percusserit eum, aut dies ejus venerit ut moriatur, aut in prœlium descendens perierit :",
+      "french": "Et il ajouta : Vive le Seigneur, à moins que le Seigneur ne frappe lui-même Saül, ou que son jour n’arrive, ou qu’il ne soit tué dans une bataille, il ne mourra point.",
       "annotations": "An. du Monde 2947.",
       "source_pages": [
         "page_0412.json"
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "Propitius sit mihi Dominus ne extendam manum meam in Christum Domini. Nunc igitur tolle hastam, quæ est ad caput ejus, et scyphum aquæ, et abeamus.",
-      "french": "Dieu me garde de porter la main sur l'Oint du Seigneur. Prenez seulement sa lance qui est à son chevet, et sa coupe, et allons-nous-en.",
+      "french": "Dieu me garde de porter la main sur l’Oint du Seigneur. Prenez seulement sa lance qui est à son chevet, et sa coupe, et allons-nous-en.",
       "annotations": null,
       "source_pages": [
         "page_0412.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Tulit igitur David hastam, et scyphum aquæ, qui erat ad caput Saül, et abierunt : et non erat quisquam, qui videret et intelligeret, et evigilaret : sed omnes dormiebant, quia sopor Domini irruerat super eos.",
-      "french": "David prit donc la lance, et la coupe qui était au chevet de Saül, et ils s’en allèrent. Il n’y eut personne qui les vît, ni qui sût ce qui se passait, ou qui s’éveillât ; mais tous dormaient, parce que le Seigneur les avait assoupis d’un profond sommeil.",
+      "latin": "Tulit igitur David hastam, et scyphum aquæ, qui erat ad caput Saül, et abierunt : et non erat quisquam, qui videret et intelligeret, et evigilaret : sed omnes dormiebant, quia sopor Domini irruerat super eos.",
+      "french": "David prit donc la lance, et la coupe qui était au chevet de Saül, et ils s’en allèrent. Il n’y eut personne qui les vît, ni qui sût ce qui se passait, ou qui s’éveillât ; mais tous dormaient, parce que le Seigneur les avait assoupis d’un profond sommeil.",
       "annotations": "An. du Monde 2947.",
       "source_pages": [
         "page_0413.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Clamavit David ad populum, et ad Abner filium Ner, dicens : Nonne respondebis Abner ? Et respondens Abner, ait : Quis es tu, cui clamas, et inquietas Regem ?",
-      "french": "Il appela de là à haute voix les gens de Saül, et Abner, fils de Ner, et lui cria : Abner, ne répondrez-vous donc point ? Abner répondit : Qui êtes-vous qui criez de la sorte, et qui troublez le repos du Roi ?",
+      "latin": "Clamavit David ad populum, et ad Abner filium Ner, dicens : Nonne respondebis Abner ? Et respondens Abner, ait : Quis es tu, cui clamas, et inquietas Regem ?",
+      "french": "Il appela de là à haute voix les gens de Saül, et Abner, fils de Ner, et lui cria : Abner, ne répondrez-vous donc point ? Abner répondit : Qui êtes-vous qui criez de la sorte, et qui troublez le repos du Roi ?",
       "annotations": null,
       "source_pages": [
         "page_0413.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Et ait David ad Abner : Numquid non vir tu es ? Et quis alius similis tui in Israël ? Quare ergo non custodisti Dominum tuum Regem ? Ingressus est enim unus de turba, ut interficeret Regem, Dominum tuum.",
-      "french": "David dit à Abner : N’êtes-vous pas un brave homme ? Et y a-t-il quelqu’un dans Israël qui vous vaille ? Et comment donc n’avez-vous pas gardé le Roi votre Seigneur ? Car il est venu quelqu’un d’entre le peuple pour tuer le Roi votre Seigneur.",
+      "latin": "Et ait David ad Abner : Numquid non vir tu es ? Et quis alius similis tui in Israël ? Quare ergo non custodisti Dominum tuum Regem ? Ingressus est enim unus de turba, ut interficeret Regem, Dominum tuum.",
+      "french": "David dit à Abner : N’êtes-vous pas un brave homme ? Et y a-t-il quelqu’un dans Israël qui vous vaille ? Et comment donc n’avez-vous pas gardé le Roi votre Seigneur ? Car il est venu quelqu’un d’entre le peuple pour tuer le Roi votre Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0413.json"
@@ -141,8 +141,8 @@
     },
     {
       "verse_number": 16,
-      "latin": "Non est bonum hoc, quod fecisti: Vivit Dominus, quoniam filii mortis estis vos, qui non custodistis Dominum vestrum, Christum Domini. Nunc ergo vide ubi sit hasta Regis, et ubi sit scyphus aquæ, qui erat ad caput ejus.",
-      "french": "Ce n'est pas là bien faire votre devoir. Vive le Seigneur, vous méritez la mort, vous autres qui avez si mal gardé votre maître, qui est l'Oint du Seigneur. Voyez donc maintenant où est la lance du Roi, et sa coupe, qui était à son chevet.",
+      "latin": "Non est bonum hoc, quod fecisti : Vivit Dominus, quoniam filii mortis estis vos, qui non custodistis Dominum vestrum, Christum Domini. Nunc ergo vide ubi sit hasta Regis, et ubi sit scyphus aquæ, qui erat ad caput ejus.",
+      "french": "Ce n’est pas là bien faire votre devoir. Vive le Seigneur, vous méritez la mort, vous autres qui avez si mal gardé votre maître, qui est l’Oint du Seigneur. Voyez donc maintenant où est la lance du Roi, et sa coupe, qui était à son chevet.",
       "annotations": null,
       "source_pages": [
         "page_0414.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Cognovit autem Saül vocem David, et dixit: Numquid vox hæc tua, fili mi, David? Et ait David: Vox mea, Domine mi Rex.",
-      "french": "Saül reconnut la voix de David, et lui dit: N'est-ce pas là votre voix que j'entends, mon fils David? David lui dit: C'est ma voix, mon Seigneur et mon Roi.",
+      "latin": "Cognovit autem Saül vocem David, et dixit : Numquid vox hæc tua, fili mi, David ? Et ait David : Vox mea, Domine mi Rex.",
+      "french": "Saül reconnut la voix de David, et lui dit : N’est-ce pas là votre voix que j’entends, mon fils David ? David lui dit : C’est ma voix, mon Seigneur et mon Roi.",
       "annotations": null,
       "source_pages": [
         "page_0414.json"
@@ -159,8 +159,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "Et ait: Quam ob causam Dominus meus persequitur servum suum? Quid feci? Aut quod est malum in manu mea?",
-      "french": "Et il ajouta: Pourquoi mon Seigneur persécute-t-il son serviteur? Qu'ai-je fait? De quel mal ma main est-elle souillée?",
+      "latin": "Et ait : Quam ob causam Dominus meus persequitur servum suum ? Quid feci ? Aut quod est malum in manu mea ?",
+      "french": "Et il ajouta : Pourquoi mon Seigneur persécute-t-il son serviteur ? Qu’ai-je fait ? De quel mal ma main est-elle souillée ?",
       "annotations": null,
       "source_pages": [
         "page_0414.json"
@@ -168,8 +168,8 @@
     },
     {
       "verse_number": 19,
-      "latin": "Nunc ergo audi, oro, Domine mi Rex, verba servi tui: Si Dominus incitat te adversum me, odoretur sacrificium: si autem filii hominum, maledicti sunt in conspectu Domini: qui ejecerunt me hodiè, ut non habitarem in hæreditate Domini, dicentes: Vade, servi diis alienis.",
-      "french": "Souffrez, mon Seigneur et mon Roi, que votre serviteur vous dise cette parole: Si c'est le Seigneur qui vous pousse contre moi, qu'il reçoive la bonne odeur de votre sacrifice: mais si ce sont les hommes, ils sont maudits devant le Seigneur, de me chasser ainsi aujourd'hui de son héritage, afin que je n'y habite point, en me disant: Allez, servez les dieux étrangers.",
+      "latin": "Nunc ergo audi, oro, Domine mi Rex, verba servi tui : Si Dominus incitat te adversum me, odoretur sacrificium : si autem filii hominum, maledicti sunt in conspectu Domini : qui ejecerunt me hodiè, ut non habitarem in hæreditate Domini, dicentes : Vade, servi diis alienis.",
+      "french": "Souffrez, mon Seigneur et mon Roi, que votre serviteur vous dise cette parole : Si c’est le Seigneur qui vous pousse contre moi, qu’il reçoive la bonne odeur de votre sacrifice : mais si ce sont les hommes, ils sont maudits devant le Seigneur, de me chasser ainsi aujourd’hui de son héritage, afin que je n’y habite point, en me disant : Allez, servez les dieux étrangers.",
       "annotations": null,
       "source_pages": [
         "page_0414.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Et nunc non effundatur sanguis meus in terram coram Domino : quia egressus est Rex Israël ut quærat pulicem unum, sicut persequitur perdix in montibus.",
-      "french": "Que mon sang donc ne soit point répandu sur la terre à la vue du Seigneur : Et fallait-il que le Roi d'Israël se mît en campagne, pour courir après une puce, comme on court par les montagnes après une perdrix ?",
+      "latin": "Et nunc non effundatur sanguis meus in terram coram Domino : quia egressus est Rex Israël ut quærat pulicem unum, sicut persequitur perdix in montibus.",
+      "french": "Que mon sang donc ne soit point répandu sur la terre à la vue du Seigneur : Et fallait-il que le Roi d’Israël se mît en campagne, pour courir après une puce, comme on court par les montagnes après une perdrix ?",
       "annotations": "An. du Monde 2947.",
       "source_pages": [
         "page_0416.json"
@@ -186,8 +186,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Et ait Saül : Peccavi, revertere, fili mi David : nequaquam enim ultrà tibi malefaciam, eò quòd pretiosa fuerit anima mea in oculis tuis hodiè : apparet enim quod stultè egerim, et ignoraverim multa nimis.",
-      "french": "Saül lui répondit : J'ai péché, revenez, mon fils David : je ne vous ferai plus de mal à l'avenir, puisque ma vie a été aujourd'hui précieuse devant vos yeux. Car il paraît que j'ai agi comme un insensé, et que j'ai été mal informé de beaucoup de choses.",
+      "latin": "Et ait Saül : Peccavi, revertere, fili mi David : nequaquam enim ultrà tibi malefaciam, eò quòd pretiosa fuerit anima mea in oculis tuis hodiè : apparet enim quod stultè egerim, et ignoraverim multa nimis.",
+      "french": "Saül lui répondit : J’ai péché, revenez, mon fils David : je ne vous ferai plus de mal à l’avenir, puisque ma vie a été aujourd’hui précieuse devant vos yeux. Car il paraît que j’ai agi comme un insensé, et que j’ai été mal informé de beaucoup de choses.",
       "annotations": null,
       "source_pages": [
         "page_0416.json"
@@ -195,8 +195,8 @@
     },
     {
       "verse_number": 22,
-      "latin": "Et respondens David, ait : Ecce hasta Regis: transeat unus de pueris Regis, et tollat eam.",
-      "french": "David dit ensuite : Voici la lance du Roi ; que quelqu'un de ses gens passe ici, et qu'il l'emporte.",
+      "latin": "Et respondens David, ait : Ecce hasta Regis : transeat unus de pueris Regis, et tollat eam.",
+      "french": "David dit ensuite : Voici la lance du Roi ; que quelqu’un de ses gens passe ici, et qu’il l’emporte.",
       "annotations": "An. du Monde 2947.",
       "source_pages": [
         "page_0417.json"
@@ -204,8 +204,8 @@
     },
     {
       "verse_number": 23,
-      "latin": "Dominus autem retribuet unicuique secundum justitiam suam et fidem: tradidit enim te Dominus hodiè in manum meam, et nolui extendere manum meam in Christum Domini.",
-      "french": "Au reste le Seigneur rendra à chacun selon sa justice, et selon sa fidélité : car le Seigneur vous a livré aujourd'hui entre mes mains, et je n'ai point voulu porter la main sur l'Oint du Seigneur.",
+      "latin": "Dominus autem retribuet unicuique secundum justitiam suam et fidem : tradidit enim te Dominus hodiè in manum meam, et nolui extendere manum meam in Christum Domini.",
+      "french": "Au reste le Seigneur rendra à chacun selon sa justice, et selon sa fidélité : car le Seigneur vous a livré aujourd’hui entre mes mains, et je n’ai point voulu porter la main sur l’Oint du Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0417.json"
@@ -214,7 +214,7 @@
     {
       "verse_number": 24,
       "latin": "Et sicut magnificata-est anima tua hodiè in oculis meis, sic magnificetur anima mea in oculis Domini, et liberet me de omni anguftia.",
-      "french": "Comme donc votre âme a été aujourd'hui précieuse devant mes yeux, qu'ainsi mon âme soit précieuse devant les yeux du Seigneur, et qu'il me délivre de tous les maux.",
+      "french": "Comme donc votre âme a été aujourd’hui précieuse devant mes yeux, qu’ainsi mon âme soit précieuse devant les yeux du Seigneur, et qu’il me délivre de tous les maux.",
       "annotations": null,
       "source_pages": [
         "page_0417.json"
@@ -222,8 +222,8 @@
     },
     {
       "verse_number": 25,
-      "latin": "Ait ergo Saül ad David : Benedictus tu es fili mi David : et quidem faciens facies, et potens poteris. Abiit autem David in viam suam, et Saül reversus est in locum suum.",
-      "french": "Saül répondit à David : Béni soyez-vous, mon fils David : vous réussirez certainement dans vos entreprises, et votre puissance sera grande. David ensuite s'en alla, et Saül s'en retourna chez lui.",
+      "latin": "Ait ergo Saül ad David : Benedictus tu es fili mi David : et quidem faciens facies, et potens poteris. Abiit autem David in viam suam, et Saül reversus est in locum suum.",
+      "french": "Saül répondit à David : Béni soyez-vous, mon fils David : vous réussirez certainement dans vos entreprises, et votre puissance sera grande. David ensuite s’en alla, et Saül s’en retourna chez lui.",
       "annotations": "An. du Monde 2947.",
       "source_pages": [
         "page_0418.json"

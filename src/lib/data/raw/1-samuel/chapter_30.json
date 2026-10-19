@@ -1,13 +1,13 @@
 {
   "book": "1 Samuel",
   "chapter": 30,
-  "chapter_summary": "Les Amalécites pillent Siceleg, et y mettent le feu avant le retour de David. Il les poursuit ; un esclave égyptien le mène dans leur camp, il les taille en pièces, reprend le butin qu'ils avaient enlevé, et le partage également à toutes ses troupes.",
+  "chapter_summary": "Les Amalécites pillent Siceleg, et y mettent le feu avant le retour de David. Il les poursuit ; un esclave égyptien le mène dans leur camp, il les taille en pièces, reprend le butin qu’ils avaient enlevé, et le partage également à toutes ses troupes.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Cumque venissent David et viri ejus in Siceleg die tertia, Amalecitæ impetum fecerant ex parte australi in Siceleg, et percusserant Siceleg, et succenderant eam igni.",
-      "french": "Trois jours après David arrivant avec ses gens à Siceleg, trouva que les Amalécites ayant fait des courses du côté du midi, étaient venus à Siceleg, l'avaient prise, et y avaient mis le feu.",
+      "french": "Trois jours après David arrivant avec ses gens à Siceleg, trouva que les Amalécites ayant fait des courses du côté du midi, étaient venus à Siceleg, l’avaient prise, et y avaient mis le feu.",
       "annotations": null,
       "source_pages": [
         "page_0443.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Et captivas duxerant mulieres ex ea, à minimo usque ad magnum : et non interfecerant quemquam, sed secum duxerant, et pergebant itinere suo.",
-      "french": "Ils en avaient amené les femmes captives, et tous ceux qu'ils y avaient trouvés, depuis le plus petit jusqu'au plus grand. Ils n'avaient tué personne, mais ils amenaient tout avec eux, et s'en retournaient.",
+      "latin": "Et captivas duxerant mulieres ex ea, à minimo usque ad magnum : et non interfecerant quemquam, sed secum duxerant, et pergebant itinere suo.",
+      "french": "Ils en avaient amené les femmes captives, et tous ceux qu’ils y avaient trouvés, depuis le plus petit jusqu’au plus grand. Ils n’avaient tué personne, mais ils amenaient tout avec eux, et s’en retournaient.",
       "annotations": null,
       "source_pages": [
         "page_0443.json"
@@ -24,7 +24,7 @@
     },
     {
       "verse_number": 3,
-      "latin": "Cùm ergò venissent David et viri ejus ad civitatem, et invenissent eam succensam igni, et uxores suas, et filios suos, et filias ductas esse captivas:",
+      "latin": "Cùm ergò venissent David et viri ejus ad civitatem, et invenissent eam succensam igni, et uxores suas, et filios suos, et filias ductas esse captivas :",
       "french": "David et ses gens étant donc arrivés à Siceleg, et ayant trouvé la ville brûlée, et leurs femmes, leurs fils, et leurs filles amenées captives,",
       "annotations": "An. du Monde 2949.",
       "source_pages": [
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Levaverunt David et populus qui erat cum eo voces suas, et planxerunt donec deficerent in eis lacrymæ.",
-      "french": "Ils commencèrent tous à crier et à pleurer jusqu'à ce que leurs larmes fussent épuisées.",
+      "french": "Ils commencèrent tous à crier et à pleurer jusqu’à ce que leurs larmes fussent épuisées.",
       "annotations": null,
       "source_pages": [
         "page_0444.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Et contristatus est David valdè: volebat enim eum populus lapidare, quia amara erat anima uniuscujusque viri super filiis suis et filiabus: confortatus est autem David in Domino Deo suo.",
-      "french": "David fut saisi d'une extrême affliction; car le peuple le voulait lapider, tous étant dans une douleur amère, pour avoir perdu leurs fils et leurs filles. Mais il mit sa force et sa confiance dans le Seigneur son Dieu.",
+      "latin": "Et contristatus est David valdè : volebat enim eum populus lapidare, quia amara erat anima uniuscujusque viri super filiis suis et filiabus : confortatus est autem David in Domino Deo suo.",
+      "french": "David fut saisi d’une extrême affliction ; car le peuple le voulait lapider, tous étant dans une douleur amère, pour avoir perdu leurs fils et leurs filles. Mais il mit sa force et sa confiance dans le Seigneur son Dieu.",
       "annotations": null,
       "source_pages": [
         "page_0444.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Et ait ad Abiathar Sacerdotem filium Achimelech: Applica ad me ephod. Et applicavit Abiathar ephod ad David.",
-      "french": "Et il dit au grand-Prêtre Abiathar fils d'Achimelech: Appliquez-moi l'éphod. Et Abiathar appliqua l'éphod à David.",
+      "latin": "Et ait ad Abiathar Sacerdotem filium Achimelech : Applica ad me ephod. Et applicavit Abiathar ephod ad David.",
+      "french": "Et il dit au grand-Prêtre Abiathar fils d’Achimelech : Appliquez-moi l’éphod. Et Abiathar appliqua l’éphod à David.",
       "annotations": null,
       "source_pages": [
         "page_0444.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Et consuluit David Dominum, dicens : Persequar latrunculos hos, et comprehendam eos, an non ? Dixitque ei Dominus : Persequere : absque dubio enim comprehendes eos, et excuties pradam.",
-      "french": "Et David consulta le Seigneur, en lui disant : Poursuivrai-je ces brigands, et les prendrai-je, ou ne les prendrai-je pas ? Le Seigneur lui répondit : Poursuivez-les ; car indubitablement vous les prendrez, et vous retirerez de leurs mains tout ce qu'ils ont pris.",
+      "latin": "Et consuluit David Dominum, dicens : Persequar latrunculos hos, et comprehendam eos, an non ? Dixitque ei Dominus : Persequere : absque dubio enim comprehendes eos, et excuties pradam.",
+      "french": "Et David consulta le Seigneur, en lui disant : Poursuivrai-je ces brigands, et les prendrai-je, ou ne les prendrai-je pas ? Le Seigneur lui répondit : Poursuivez-les ; car indubitablement vous les prendrez, et vous retirerez de leurs mains tout ce qu’ils ont pris.",
       "annotations": "An. du Monde 2949.",
       "source_pages": [
         "page_0445.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Abiit ergo David ipse, et sexcenti viri qui erant cum eo, et venerunt usque ad torrentem Besor : et lassi quidam substiterunt.",
-      "french": "David marcha aussitôt avec les six cents hommes qui l'accompagnaient, et ils vinrent au torrent de Bésor ; où quelques-uns d'entre eux s'arrêtèrent, étant fatigués.",
+      "latin": "Abiit ergo David ipse, et sexcenti viri qui erant cum eo, et venerunt usque ad torrentem Besor : et lassi quidam substiterunt.",
+      "french": "David marcha aussitôt avec les six cents hommes qui l’accompagnaient, et ils vinrent au torrent de Bésor ; où quelques-uns d’entre eux s’arrêtèrent, étant fatigués.",
       "annotations": null,
       "source_pages": [
         "page_0445.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Perfecutus est autem David ipse, et quadringenti viri : substiterant enim ducenti, qui lassi transire non poterant torrentem Besor.",
-      "french": "Et David poursuivit les Amalécites avec quatre cents hommes de ses gens : car deux cents s'étaient arrêtés, n'ayant pu passer le torrent de Bésor, parce qu'ils étaient las.",
+      "latin": "Perfecutus est autem David ipse, et quadringenti viri : substiterant enim ducenti, qui lassi transire non poterant torrentem Besor.",
+      "french": "Et David poursuivit les Amalécites avec quatre cents hommes de ses gens : car deux cents s’étaient arrêtés, n’ayant pu passer le torrent de Bésor, parce qu’ils étaient las.",
       "annotations": "An. du Monde se. 2949.",
       "source_pages": [
         "page_0446.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Et invenerunt virum Ægyptium in agro, et adduxerunt eum ad David : dederúntque ei panem ut comederet, et biberet aquam.",
-      "french": "Ils trouvèrent dans les champs un Égyptien qu'ils amenèrent à David ; et ils lui donnèrent du pain à manger, et de l'eau à boire ?",
+      "latin": "Et invenerunt virum Ægyptium in agro, et adduxerunt eum ad David : dederúntque ei panem ut comederet, et biberet aquam.",
+      "french": "Ils trouvèrent dans les champs un Égyptien qu’ils amenèrent à David ; et ils lui donnèrent du pain à manger, et de l’eau à boire ?",
       "annotations": null,
       "source_pages": [
         "page_0446.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Sed et fragmen massæ caricarum, et duas ligaturas uvæ passæ. Quæ cùm comedisset, reversus est spiritus ejus, et refocillatus est : non enim comederat panem, neque biberat aquam, tribus diebus et tribus noctibus.",
-      "french": "Avec une partie d'un cabas de figues, et deux paquets de raisins secs. L'Égyptien ayant mangé, reprit ses esprits et revint à lui ; car il y avait déjà trois jours et trois nuits, qu'il n'avait ni mangé de pain, ni bu d'eau.",
+      "latin": "Sed et fragmen massæ caricarum, et duas ligaturas uvæ passæ. Quæ cùm comedisset, reversus est spiritus ejus, et refocillatus est : non enim comederat panem, neque biberat aquam, tribus diebus et tribus noctibus.",
+      "french": "Avec une partie d’un cabas de figues, et deux paquets de raisins secs. L’Égyptien ayant mangé, reprit ses esprits et revint à lui ; car il y avait déjà trois jours et trois nuits, qu’il n’avait ni mangé de pain, ni bu d’eau.",
       "annotations": null,
       "source_pages": [
         "page_0446.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Dixit itaque ei David : Cujus es tu ? vel undè ? et quò pergis ? Qui ait : Puer Ægyptius ego sum, servus viri Amalecitæ : dereliquit autem me Dominus meus, quia ægrotare cœpi nudiustertius.",
-      "french": "David lui dit : à qui es-tu ? D'où viens-tu ? Et où vas-tu ? Il lui répondit : Je suis un esclave Égyptien, qui sers un Amalécite. Mon maître m'a laissé là, parce que je tombai malade avant-hier.",
+      "latin": "Dixit itaque ei David : Cujus es tu ? vel undè ? et quò pergis ? Qui ait : Puer Ægyptius ego sum, servus viri Amalecitæ : dereliquit autem me Dominus meus, quia ægrotare cœpi nudiustertius.",
+      "french": "David lui dit : à qui es-tu ? D’où viens-tu ? Et où vas-tu ? Il lui répondit : Je suis un esclave Égyptien, qui sers un Amalécite. Mon maître m’a laissé là, parce que je tombai malade avant-hier.",
       "annotations": null,
       "source_pages": [
         "page_0446.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Dixitque ei David : Potes me ducere ad cuneum istum? Qui ait : Jura mihi per Deum, quod non occidas me, et non tradas me in manus Domini mei, et ego ducam te ad cuneum istum. Et juravit ei David.",
-      "french": "David lui dit : Pourras-tu me mener à ces gens-là? L'Égyptien lui répondit : Jurez-moi par le nom de Dieu, que vous ne me tuerez point, et que vous ne me livrerez point entre les mains de mon maître, et je vous mènerai où ils sont. David le lui jura.",
+      "latin": "Dixitque ei David : Potes me ducere ad cuneum istum ? Qui ait : Jura mihi per Deum, quod non occidas me, et non tradas me in manus Domini mei, et ego ducam te ad cuneum istum. Et juravit ei David.",
+      "french": "David lui dit : Pourras-tu me mener à ces gens-là ? L’Égyptien lui répondit : Jurez-moi par le nom de Dieu, que vous ne me tuerez point, et que vous ne me livrerez point entre les mains de mon maître, et je vous mènerai où ils sont. David le lui jura.",
       "annotations": null,
       "source_pages": [
         "page_0447.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Qui cùm duxiffet eum, ecce illi discumbebant super faciem universæ terræ, comedentes et bibentes, et quasi festum celebrantes diem pro cuncta præda, et spoliis quæ ceperant de terra Philisthiim, et de terra Juda.",
-      "french": "L'Égyptien l'ayant donc conduit, ils trouvèrent les Amalécites qui étaient couchés sur la terre par toute la campagne, mangeant et buvant, et faisant comme un festin en réjouissance du butin et des dépouilles, qu'ils avaient prises sur les terres des Philistins et de Juda.",
+      "french": "L’Égyptien l’ayant donc conduit, ils trouvèrent les Amalécites qui étaient couchés sur la terre par toute la campagne, mangeant et buvant, et faisant comme un festin en réjouissance du butin et des dépouilles, qu’ils avaient prises sur les terres des Philistins et de Juda.",
       "annotations": "An. du Monde 2949.",
       "source_pages": [
         "page_0448.json"
@@ -151,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Et percussit eos David à vespere usque ad vesperam alterius diei, et non evasit ex eis quisquam, nisi quadringinti viri adolescentes, qui ascenderant camelos, et fugerant.",
-      "french": "David les chargea, et les tailla en pièces, depuis ce soir-là jusqu'au soir du lendemain, et il ne s'en échappa aucun, hors quatre cents jeunes hommes, qui montèrent sur des chameaux et s'enfuirent.",
+      "french": "David les chargea, et les tailla en pièces, depuis ce soir-là jusqu’au soir du lendemain, et il ne s’en échappa aucun, hors quatre cents jeunes hommes, qui montèrent sur des chameaux et s’enfuirent.",
       "annotations": null,
       "source_pages": [
         "page_0448.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Nec defuit quidquam à parvo usque ad magnum, tam de filiis quàm de filiabus, et de spoliis, et quæcumque rapuerant, omnia reduxit David.",
-      "french": "Il ne se trouva rien de perdu depuis le plus petit jusqu'au plus grand, tant des garçons que des filles, ni de toutes les dépouilles ; et David ramena généralement tout ce qu'ils avaient pris.",
+      "french": "Il ne se trouva rien de perdu depuis le plus petit jusqu’au plus grand, tant des garçons que des filles, ni de toutes les dépouilles ; et David ramena généralement tout ce qu’ils avaient pris.",
       "annotations": null,
       "source_pages": [
         "page_0449.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Et tulit universos greges et armenta, et minavit ante faciem suam : dixerúntque: Hæc est præda David.",
-      "french": "Il reprit tous les troupeaux de moutons et de bœufs, et les fit marcher devant lui. Sur quoi ses gens disaient : Voilà le butin de David.",
+      "latin": "Et tulit universos greges et armenta, et minavit ante faciem suam : dixerúntque : Hæc est præda David.",
+      "french": "Il reprit tous les troupeaux de moutons et de bœufs, et les fit marcher devant lui. Sur quoi ses gens disaient : Voilà le butin de David.",
       "annotations": null,
       "source_pages": [
         "page_0449.json"
@@ -186,8 +186,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Venit autem David ad ducentos viros, qui lassi substiterant, nec sequi potuerant David, et residere eos jusserat in torrente Besor : qui egressi sunt obviam David, et populo qui erat cum eo. Accedens autem David ad populum, salutavit eos pacificè.",
-      "french": "Il vint joindre ensuite les deux cents hommes, qui étant las s'étaient arrêtés et n'avaient pu le suivre, et à qui il avait commandé de demeurer sur le bord du torrent de Bésor. Ils vinrent au-devant de lui, et de ceux qui l'accompagnaient. David s'approchant d'eux les salua civilement.",
+      "latin": "Venit autem David ad ducentos viros, qui lassi substiterant, nec sequi potuerant David, et residere eos jusserat in torrente Besor : qui egressi sunt obviam David, et populo qui erat cum eo. Accedens autem David ad populum, salutavit eos pacificè.",
+      "french": "Il vint joindre ensuite les deux cents hommes, qui étant las s’étaient arrêtés et n’avaient pu le suivre, et à qui il avait commandé de demeurer sur le bord du torrent de Bésor. Ils vinrent au-devant de lui, et de ceux qui l’accompagnaient. David s’approchant d’eux les salua civilement.",
       "annotations": "An. du Monde 2949.",
       "source_pages": [
         "page_0450.json"
@@ -195,8 +195,8 @@
     },
     {
       "verse_number": 22,
-      "latin": "Respondénsque omnis vir pessimus et iniquus, de viris qui ierant cum David, dixit : Quia non venerunt nobiscum, non dabimus eis quidquam de prada, quam eruimus : sed sufficiat unicuique uxor sua et filii : quos cùm acceperint, recedant.",
-      "french": "Mais tout ce qu'il y avait de gens méchants et corrompus à la suite de David, commencèrent à dire : Puisqu'ils ne sont point venus avec nous, nous ne leur donnerons rien du butin que nous avons pris. Que chacun se contente qu'on lui rende sa femme et ses enfants; et après cela qu'il s'en aille.",
+      "latin": "Respondénsque omnis vir pessimus et iniquus, de viris qui ierant cum David, dixit : Quia non venerunt nobiscum, non dabimus eis quidquam de prada, quam eruimus : sed sufficiat unicuique uxor sua et filii : quos cùm acceperint, recedant.",
+      "french": "Mais tout ce qu’il y avait de gens méchants et corrompus à la suite de David, commencèrent à dire : Puisqu’ils ne sont point venus avec nous, nous ne leur donnerons rien du butin que nous avons pris. Que chacun se contente qu’on lui rende sa femme et ses enfants ; et après cela qu’il s’en aille.",
       "annotations": null,
       "source_pages": [
         "page_0450.json"
@@ -204,8 +204,8 @@
     },
     {
       "verse_number": 23,
-      "latin": "Dixit autem David : Non sic facietis, fratres mei, de his quæ tradidit nobis Dominus, et custodivit nos, et dedit latrunculos qui eruperant adversum nos, in manus nostras.",
-      "french": "Mais David leur dit : Ce n’est pas ainsi, mes frères, que vous devez disposer de ce que le Seigneur nous a mis entre les mains ; puisque c’est lui qui nous a conservés, et qui nous a livré ces brigands, qui étaient venus nous piller.",
+      "latin": "Dixit autem David : Non sic facietis, fratres mei, de his quæ tradidit nobis Dominus, et custodivit nos, et dedit latrunculos qui eruperant adversum nos, in manus nostras.",
+      "french": "Mais David leur dit : Ce n’est pas ainsi, mes frères, que vous devez disposer de ce que le Seigneur nous a mis entre les mains ; puisque c’est lui qui nous a conservés, et qui nous a livré ces brigands, qui étaient venus nous piller.",
       "annotations": "An. du Monde 2949.",
       "source_pages": [
         "page_0451.json"
@@ -231,8 +231,8 @@
     },
     {
       "verse_number": 26,
-      "latin": "Venit ergo David in Siceleg, et misit dona de præda senioribus Judæ proximis suis, dicens : Accipite benedictionem de præda hostium Domini.",
-      "french": "David étant arrivé à Siceleg, envoya du butin qu'il avait pris aux anciens de Juda qui étaient ses proches, en leur faisant dire : Recevez ce présent des dépouilles, que nous avons prises sur les ennemis du Seigneur.",
+      "latin": "Venit ergo David in Siceleg, et misit dona de præda senioribus Judæ proximis suis, dicens : Accipite benedictionem de præda hostium Domini.",
+      "french": "David étant arrivé à Siceleg, envoya du butin qu’il avait pris aux anciens de Juda qui étaient ses proches, en leur faisant dire : Recevez ce présent des dépouilles, que nous avons prises sur les ennemis du Seigneur.",
       "annotations": "An. du Monde 2949.",
       "source_pages": [
         "page_0453.json"
@@ -250,7 +250,7 @@
     {
       "verse_number": 28,
       "latin": "Et qui in Aroër, et qui in Sephamoth, et qui in Esthamo.",
-      "french": "À ceux d'Aroër, de Séphamoth, d'Esthamo,",
+      "french": "À ceux d’Aroër, de Séphamoth, d’Esthamo,",
       "annotations": null,
       "source_pages": [
         "page_0454.json"
@@ -268,7 +268,7 @@
     {
       "verse_number": 30,
       "latin": "Et qui in Arama, et qui in lacu Asan, et qui in Athach,",
-      "french": "À ceux d'Arama, à ceux du lac d'Asan, à ceux d'Athach,",
+      "french": "À ceux d’Arama, à ceux du lac d’Asan, à ceux d’Athach,",
       "annotations": null,
       "source_pages": [
         "page_0454.json"
@@ -277,7 +277,7 @@
     {
       "verse_number": 31,
       "latin": "Et qui in Hebron, et reliquis qui erant in his locis, in quibus commoratus fuerat David, ipse et viri ejus.",
-      "french": "À ceux d'Hébron, et à tous les autres qui étaient dans les lieux, où David était demeuré avec ses gens.",
+      "french": "À ceux d’Hébron, et à tous les autres qui étaient dans les lieux, où David était demeuré avec ses gens.",
       "annotations": "An. du Monde 2949.",
       "source_pages": [
         "page_0455.json"

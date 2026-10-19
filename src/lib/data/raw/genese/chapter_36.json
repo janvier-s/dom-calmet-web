@@ -1,13 +1,13 @@
 {
   "book": "Genèse",
   "chapter": 36,
-  "chapter_summary": "Dénombrement des descendants d'Ésaü.",
+  "chapter_summary": "Dénombrement des descendants d’Ésaü.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Hæ sunt autem generationes Esau, ipse est Edom. Hæ sunt autem generationes Esau, ipse est Edom.",
-      "french": "Or voici les descendants d'Ésaü, ou d'Édom. Or voici les descendants d'Esau, ou d'Edom.",
+      "french": "Or voici les descendants d’Ésaü, ou d’Édom. Or voici les descendants d’Esau, ou d’Edom.",
       "annotations": null,
       "source_pages": [
         "page_0769.json",
@@ -17,7 +17,7 @@
     {
       "verse_number": 2,
       "latin": "Esau accepit uxores de filiabus Chanaan : Ada filiam Elon Hethæi, et Oolibama filiam Anæ filiæ Sebeon Hevæi :",
-      "french": "Ésaü épousa des filles Cananéennes ; Ada fille d'Elon Héthéen, et Oolibama fille d'Ana, qui était fille de Sébéon Hévéen :",
+      "french": "Ésaü épousa des filles Cananéennes ; Ada fille d’Elon Héthéen, et Oolibama fille d’Ana, qui était fille de Sébéon Hévéen :",
       "annotations": null,
       "source_pages": [
         "page_0772.json"
@@ -26,7 +26,7 @@
     {
       "verse_number": 3,
       "latin": "Basemath quoque filiam Ismael, sororem Nabajoth.",
-      "french": "Il épousa de plus Basémath fille d'Ismaël, et sœur de Nabajoth.",
+      "french": "Il épousa de plus Basémath fille d’Ismaël, et sœur de Nabajoth.",
       "annotations": null,
       "source_pages": [
         "page_0772.json"
@@ -34,8 +34,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Peperit autem Ada, Eliphaz ; Basemath genuit Rahuel:",
-      "french": "Ada fut mère d'Eliphaz ; et Basémath enfanta Rahuël.",
+      "latin": "Peperit autem Ada, Eliphaz ; Basemath genuit Rahuel :",
+      "french": "Ada fut mère d’Eliphaz ; et Basémath enfanta Rahuël.",
       "annotations": null,
       "source_pages": [
         "page_0773.json"
@@ -44,7 +44,7 @@
     {
       "verse_number": 5,
       "latin": "Oolibama genuit Jebus, et Ihelon, et Core : Hi filii Esau, qui nati sunt ei in terra Chanaan.",
-      "french": "Oolibama enfanta Jehus, Ibélon et Coré. Voilà les enfants d'Ésaü, qu'il eut dans la terre de Canaan.",
+      "french": "Oolibama enfanta Jehus, Ibélon et Coré. Voilà les enfants d’Ésaü, qu’il eut dans la terre de Canaan.",
       "annotations": null,
       "source_pages": [
         "page_0773.json"
@@ -53,7 +53,7 @@
     {
       "verse_number": 6,
       "latin": "Tulit autem Esau uxores suas et filios et filias, et omnem animam domus suæ, et substantiam, et pecora, et cuncta quæ habere poterat in terra Chanaan : et abiit in alteram regionem, recessitque a fratre suo Jacob.",
-      "french": "Et Ésaü ayant pris ses femmes, ses fils et ses filles, toutes les personnes de sa maison, tout son bien et son bétail, et tout ce qui était à lui dans le pays de Canaan, se retira dans un autre pays, et s'éloigna de son frère Jacob.",
+      "french": "Et Ésaü ayant pris ses femmes, ses fils et ses filles, toutes les personnes de sa maison, tout son bien et son bétail, et tout ce qui était à lui dans le pays de Canaan, se retira dans un autre pays, et s’éloigna de son frère Jacob.",
       "annotations": null,
       "source_pages": [
         "page_0774.json"
@@ -80,7 +80,7 @@
     {
       "verse_number": 9,
       "latin": "Hæ autem sunt generationes Esau patris Edom in monte Seir,",
-      "french": "Et il fut le père des Iduméens. Voici les descendants d'Esau, qui lui naquirent dans les montagnes de Seir :",
+      "french": "Et il fut le père des Iduméens. Voici les descendants d’Esau, qui lui naquirent dans les montagnes de Seir :",
       "annotations": null,
       "source_pages": [
         "page_0775.json"
@@ -89,7 +89,7 @@
     {
       "verse_number": 10,
       "latin": "Et hæc nomina filiorum ejus : Eliphaz filius Ada uxoris Esau : Rahuel quoque filius Basemath uxoris ejus.",
-      "french": "Et voici les noms de ses enfants : Ada femme d'Esau fut mère d'Eliphaz ; et Basemath aussi sa femme, eut pour fils Rahuel.",
+      "french": "Et voici les noms de ses enfants : Ada femme d’Esau fut mère d’Eliphaz ; et Basemath aussi sa femme, eut pour fils Rahuel.",
       "annotations": null,
       "source_pages": [
         "page_0775.json"
@@ -98,7 +98,7 @@
     {
       "verse_number": 11,
       "latin": "Fueruntque Eliphaz filii : Theman, Omar, Sepho, et Gatham, et Cenez.",
-      "french": "Eliphaz fut père de Theman, d'Omar, de Sepho, de Gatham et de Cenez.",
+      "french": "Eliphaz fut père de Theman, d’Omar, de Sepho, de Gatham et de Cenez.",
       "annotations": null,
       "source_pages": [
         "page_0775.json"
@@ -107,7 +107,7 @@
     {
       "verse_number": 12,
       "latin": "Erat autem Thamna, concubina Eliphaz filii Esau : quæ peperit ei Amalech, hi sunt filii Ada uxoris Esau.",
-      "french": "Eliphaz fils d'Esau eut encore une concubine nommée Thamna, qui fut mère d'Amalech. Ce sont là les descendants des fils d'Ada femme d'Esau.",
+      "french": "Eliphaz fils d’Esau eut encore une concubine nommée Thamna, qui fut mère d’Amalech. Ce sont là les descendants des fils d’Ada femme d’Esau.",
       "annotations": null,
       "source_pages": [
         "page_0775.json"
@@ -116,7 +116,7 @@
     {
       "verse_number": 13,
       "latin": "Filii autem Rahuel : Nahath et Zara, et Samma et Meza, hi filii Basemath uxoris Esau.",
-      "french": "Rahuel eut pour fils Nahath, Zara, Samma et Meza ; voilà les enfants sortis de Basemath femme d'Esau.",
+      "french": "Rahuel eut pour fils Nahath, Zara, Samma et Meza ; voilà les enfants sortis de Basemath femme d’Esau.",
       "annotations": null,
       "source_pages": [
         "page_0775.json"
@@ -125,7 +125,7 @@
     {
       "verse_number": 14,
       "latin": "Isti quoque erant filii Oolibama filiæ Anæ filiæ Sebeon, uxoris Esau, quos genuit ei, Jebus et Ihelon et Core.",
-      "french": "Jebus, Ihelon et Coré furent fils d'Oolibama épouse d'Esau ; elle était fille d'Ana, et Ana fille de Sebeon.",
+      "french": "Jebus, Ihelon et Coré furent fils d’Oolibama épouse d’Esau ; elle était fille d’Ana, et Ana fille de Sebeon.",
       "annotations": null,
       "source_pages": [
         "page_0775.json"
@@ -134,7 +134,7 @@
     {
       "verse_number": 15,
       "latin": "Hi duces filiorum Esau : Filii Eliphaz primogeniti Esau : Dux Theman, Dux Omar, Dux Sepho, Dux Cenez,",
-      "french": "Les Princes ou Chefs de la famille d'Esau, furent les fils d'Eliphaz, fils aîné d'Esau : Le Prince Theman, le Prince Omar, le Prince Sephô, le Prince Cenez.",
+      "french": "Les Princes ou Chefs de la famille d’Esau, furent les fils d’Eliphaz, fils aîné d’Esau : Le Prince Theman, le Prince Omar, le Prince Sephô, le Prince Cenez.",
       "annotations": null,
       "source_pages": [
         "page_0776.json"
@@ -143,7 +143,7 @@
     {
       "verse_number": 16,
       "latin": "Dux Core, Dux Gathan, Dux Amalech : Hi filii Eliphaz in terra Edom, et hi filii Ada.",
-      "french": "Le Prince Coré, le Prince Gathan, le Prince Amalech ; voilà les noms des descendants d'Eliphaz dans le pays d'Edom, et de la postérité d'Ada [ femme d'Esau. ]",
+      "french": "Le Prince Coré, le Prince Gathan, le Prince Amalech ; voilà les noms des descendants d’Eliphaz dans le pays d’Edom, et de la postérité d’Ada [ femme d’Esau. ]",
       "annotations": null,
       "source_pages": [
         "page_0776.json"
@@ -152,7 +152,7 @@
     {
       "verse_number": 17,
       "latin": "Hi quoque filii Rahuel filii Esau : Dux Nahath, Dux Zara, Dux Samma, Dux Meza. Hi autem Duces Rahuel in terra Edom : isti filii Basemath uxoris Esau.",
-      "french": "Les enfants de Rahuël fils d'Esau, furent le prince Nahath, le Prince Zara, le Prince Samma, le Prince Meza. Voilà les Princes ou les Chefs sortis de Rahuël dans le pays d'Edom, et les descendants de Basemath épouse d'Esau.",
+      "french": "Les enfants de Rahuël fils d’Esau, furent le prince Nahath, le Prince Zara, le Prince Samma, le Prince Meza. Voilà les Princes ou les Chefs sortis de Rahuël dans le pays d’Edom, et les descendants de Basemath épouse d’Esau.",
       "source_pages": [
         "page_0776.json"
       ]
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Hi autem filii Oolibama uxoris Esau : Dux Jehus, Dux Ihelon, Dux Core. Hi Duces Oolibama filia Ana uxoris Esau.",
-      "french": "Les enfants d'Oolibama femme d'Ésaü, furent le Prince Jehus, le Prince Ihélon, le Prince Coré. Ce sont là les Chefs sortis d'Oolibama fille d'Ana, et femme d'Ésaü.",
+      "french": "Les enfants d’Oolibama femme d’Ésaü, furent le Prince Jehus, le Prince Ihélon, le Prince Coré. Ce sont là les Chefs sortis d’Oolibama fille d’Ana, et femme d’Ésaü.",
       "annotations": null,
       "source_pages": [
         "page_0777.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Isti sunt filii Esau, et hi Duces eorum : ipse est Edom.",
-      "french": "Voilà donc le dénombrement des fils d'Ésaü, appelé aussi Édom, et voici ceux qui ont été Chefs, ou Princes parmi eux.",
+      "french": "Voilà donc le dénombrement des fils d’Ésaü, appelé aussi Édom, et voici ceux qui ont été Chefs, ou Princes parmi eux.",
       "annotations": null,
       "source_pages": [
         "page_0777.json"
@@ -187,7 +187,7 @@
     {
       "verse_number": 21,
       "latin": "Et Dison, et Eser, et Disan. Hi Duces Horræorum, filii Seir, in terra Edom.",
-      "french": "Dison, Éser et Disan. Ce sont là les Princes Horréens descendants de Séir, [ qui furent ] dans le pays d'Édom.",
+      "french": "Dison, Éser et Disan. Ce sont là les Princes Horréens descendants de Séir, [ qui furent ] dans le pays d’Édom.",
       "annotations": null,
       "source_pages": [
         "page_0777.json"
@@ -213,8 +213,8 @@
     },
     {
       "verse_number": 24,
-      "latin": "Et hi filii Sebeon : Aia et Ana. Iste est Ana qui invenit aquas calidas in solitudine, cum pasceret asinos Sebeon patris sui:",
-      "french": "Les fils de Sébéon furent Aïa et Ana. C'est cet Ana qui trouva des eaux chaudes dans le Désert, lorsqu'il paissait les ânes de son père Sébéon.",
+      "latin": "Et hi filii Sebeon : Aia et Ana. Iste est Ana qui invenit aquas calidas in solitudine, cum pasceret asinos Sebeon patris sui :",
+      "french": "Les fils de Sébéon furent Aïa et Ana. C’est cet Ana qui trouva des eaux chaudes dans le Désert, lorsqu’il paissait les ânes de son père Sébéon.",
       "annotations": null,
       "source_pages": [
         "page_0778.json"
@@ -231,7 +231,7 @@
     },
     {
       "verse_number": 26,
-      "latin": "Et isti filii Dison: Hamdan, et Eseban, et Jethran et Charan.",
+      "latin": "Et isti filii Dison : Hamdan, et Eseban, et Jethran et Charan.",
       "french": "Dison eut pour fils Hamdan, Éséban, Jethran et Charan.",
       "annotations": null,
       "source_pages": [
@@ -240,8 +240,8 @@
     },
     {
       "verse_number": 27,
-      "latin": "Hi quoque filii Eser: Balaan et Zavan, et Acan.",
-      "french": "Les fils d'Éser, furent Balaan, Zavan et Acan.",
+      "latin": "Hi quoque filii Eser : Balaan et Zavan, et Acan.",
+      "french": "Les fils d’Éser, furent Balaan, Zavan et Acan.",
       "annotations": null,
       "source_pages": [
         "page_0779.json"
@@ -249,7 +249,7 @@
     },
     {
       "verse_number": 28,
-      "latin": "Habuit autem filios Disan: Hus et Aram.",
+      "latin": "Habuit autem filios Disan : Hus et Aram.",
       "french": "Les fils de Disan furent Hus et Aram.",
       "annotations": null,
       "source_pages": [
@@ -258,7 +258,7 @@
     },
     {
       "verse_number": 29,
-      "latin": "Hi Duces Horræorum: Dux Lotan, Dux Sobal, Dux Sebeon, Dux Ana.",
+      "latin": "Hi Duces Horræorum : Dux Lotan, Dux Sobal, Dux Sebeon, Dux Ana.",
       "french": "Voici les noms des Princes Horréens. Le Prince Lotan, le Prince Sobal, le Prince Sébéon, le Prince Ana.",
       "annotations": null,
       "source_pages": [
@@ -277,7 +277,7 @@
     {
       "verse_number": 31,
       "latin": "Reges autem qui regnaverunt in terra Edom, antequam haberent regem filii Israel, fuerunt hi :",
-      "french": "Et les Rois qui régnèrent dans le pays d'Édom, avant que les enfants d'Israël eussent un Roi, furent ceux-ci :",
+      "french": "Et les Rois qui régnèrent dans le pays d’Édom, avant que les enfants d’Israël eussent un Roi, furent ceux-ci :",
       "annotations": null,
       "source_pages": [
         "page_0780.json"
@@ -311,8 +311,8 @@
     },
     {
       "verse_number": 35,
-      "latin": "Hoc quoque mortuo, regnavit pro eo Adad filius Badad, qui percussit Madian in regione Moab: et nomen urbis eius Avith.",
-      "french": "Après la mort d’Husam, Adad fils de Badad lui succéda; il défit les Madianites dans le pays de Moab: le nom de sa ville fut Avith.",
+      "latin": "Hoc quoque mortuo, regnavit pro eo Adad filius Badad, qui percussit Madian in regione Moab : et nomen urbis eius Avith.",
+      "french": "Après la mort d’Husam, Adad fils de Badad lui succéda ; il défit les Madianites dans le pays de Moab : le nom de sa ville fut Avith.",
       "source_pages": [
         "page_0781.json"
       ]
@@ -352,7 +352,7 @@
     {
       "verse_number": 40,
       "latin": "Hæc ergo nomina Ducum Esau, in cognationibus, et locis, et vocabulis suis : Dux Thamna, Dux Alva, Dux Jetheth.",
-      "french": "Voilà donc les noms des Princes descendants d'Ésaü, selon leurs races, les lieux de leurs demeures, et les noms qu'ils ont porté. Le Prince de Thamna, le Prince d'Alva, le Prince de Jetheth.",
+      "french": "Voilà donc les noms des Princes descendants d’Ésaü, selon leurs races, les lieux de leurs demeures, et les noms qu’ils ont porté. Le Prince de Thamna, le Prince d’Alva, le Prince de Jetheth.",
       "annotations": null,
       "source_pages": [
         "page_0782.json"
@@ -361,7 +361,7 @@
     {
       "verse_number": 41,
       "latin": "Dux Oolibama, Dux Ela, Dux Phinon.",
-      "french": "Le Prince d'Oolibama, le Prince d'Éla, le Prince de Phinon,",
+      "french": "Le Prince d’Oolibama, le Prince d’Éla, le Prince de Phinon,",
       "annotations": null,
       "source_pages": [
         "page_0782.json"
@@ -378,8 +378,8 @@
     },
     {
       "verse_number": 43,
-      "latin": "Dux Magdiel, Dux Hiram : hi Duces Edom habitantes in terra imperii sui ; ipse est Esau pater Idumæorum.",
-      "french": "Le Prince de Magdiel, et le Prince de Hiram. Ce sont là les Princes de l'Idumée, qui ont demeuré chacun dans le lieu de leur dépendance ; voilà ce qui regarde Ésaü père des Iduméens.",
+      "latin": "Dux Magdiel, Dux Hiram : hi Duces Edom habitantes in terra imperii sui ; ipse est Esau pater Idumæorum.",
+      "french": "Le Prince de Magdiel, et le Prince de Hiram. Ce sont là les Princes de l’Idumée, qui ont demeuré chacun dans le lieu de leur dépendance ; voilà ce qui regarde Ésaü père des Iduméens.",
       "annotations": null,
       "source_pages": [
         "page_0782.json"

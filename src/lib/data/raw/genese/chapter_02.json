@@ -1,7 +1,7 @@
 {
   "book": "Genèse",
   "chapter": 2,
-  "chapter_summary": "Conclusion du récit de la création du monde. Repos du septième jour. Description du Jardin d'Éden. Adam impose le nom aux animaux.",
+  "chapter_summary": "Conclusion du récit de la création du monde. Repos du septième jour. Description du Jardin d’Éden. Adam impose le nom aux animaux.",
   "chapter_intro": null,
   "verses": [
     {
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Complevitque Deus die septimo opus suum quod fecerat : et requievit die septimo ab universo opere quod patrarat.",
-      "french": "Et Dieu acheva le septième jour l'ouvrage qu'il avait fait, et il se reposa le septième jour après avoir achevé tous ses ouvrages.",
+      "latin": "Complevitque Deus die septimo opus suum quod fecerat : et requievit die septimo ab universo opere quod patrarat.",
+      "french": "Et Dieu acheva le septième jour l’ouvrage qu’il avait fait, et il se reposa le septième jour après avoir achevé tous ses ouvrages.",
       "annotations": null,
       "source_pages": [
         "page_0136.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Et benedixit diei septimo ; et sanctificavit illum : quia in ipso cessaverat ab omni opere suo quod creavit Deus ut faceret.",
-      "french": "Et il bénit le septième jour ; et il le sanctifia : parce qu'il s'était reposé ce jour-là après l'ouvrage de la création.",
+      "latin": "Et benedixit diei septimo ; et sanctificavit illum : quia in ipso cessaverat ab omni opere suo quod creavit Deus ut faceret.",
+      "french": "Et il bénit le septième jour ; et il le sanctifia : parce qu’il s’était reposé ce jour-là après l’ouvrage de la création.",
       "annotations": null,
       "source_pages": [
         "page_0137.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Istæ sunt generationes Coeli et Terræ, quando creata sunt, in die quo fecit Dominus Deus Coelum et Terram :",
-      "french": "Telle a été l'origine du Ciel et de la Terre, et c'est ainsi qu'ils furent créés au jour que le Seigneur les créa ;",
+      "latin": "Istæ sunt generationes Coeli et Terræ, quando creata sunt, in die quo fecit Dominus Deus Coelum et Terram :",
+      "french": "Telle a été l’origine du Ciel et de la Terre, et c’est ainsi qu’ils furent créés au jour que le Seigneur les créa ;",
       "annotations": null,
       "source_pages": [
         "page_0141.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Et omne virgultum agri antequam oriretur in Terra, omnemque herbam regionis priusquam germinaret : non enim pluerat Dominus Deus super Terram, et homo non erat qui operaretur Terram.",
-      "french": "Et qu'il créa toutes les plantes des champs, avant qu'elles fussent sorties de la Terre, et toutes les herbes de la Terre, avant qu'elles eussent poussé ; car le Seigneur n'avait point encore plu sur la Terre, et l'homme qui la devait cultiver n'était pas encore créé.",
+      "latin": "Et omne virgultum agri antequam oriretur in Terra, omnemque herbam regionis priusquam germinaret : non enim pluerat Dominus Deus super Terram, et homo non erat qui operaretur Terram.",
+      "french": "Et qu’il créa toutes les plantes des champs, avant qu’elles fussent sorties de la Terre, et toutes les herbes de la Terre, avant qu’elles eussent poussé ; car le Seigneur n’avait point encore plu sur la Terre, et l’homme qui la devait cultiver n’était pas encore créé.",
       "annotations": null,
       "source_pages": [
         "page_0141.json"
@@ -52,7 +52,7 @@
     {
       "verse_number": 6,
       "latin": "Sed fons ascendebat e Terra, irrigans universam superficiem Terræ.",
-      "french": "Mais il sortait de la Terre une source d'eau, qui en arrosait toute la surface.",
+      "french": "Mais il sortait de la Terre une source d’eau, qui en arrosait toute la surface.",
       "annotations": null,
       "source_pages": [
         "page_0141.json"
@@ -61,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "Formavit igitur Dominus Deus hominem de limo terræ, et inspiravit in faciem ejus spiraculum vitæ, et factus est homo in animam viventem.",
-      "french": "Le Seigneur Dieu forma donc l'homme du limon de la terre, et il répandit sur son visage un souffle de vie, et l'homme reçut l'âme et la vie.",
+      "french": "Le Seigneur Dieu forma donc l’homme du limon de la terre, et il répandit sur son visage un souffle de vie, et l’homme reçut l’âme et la vie.",
       "annotations": null,
       "source_pages": [
         "page_0143.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Plantaverat autem Dominus Deus Paradisum voluptatis a principio : in quo posuit hominem quem formaverat.",
-      "french": "Or le Seigneur Dieu avait planté au commencement un jardin délicieux, dans lequel il mit l'homme qu'il avait formé.",
+      "latin": "Plantaverat autem Dominus Deus Paradisum voluptatis a principio : in quo posuit hominem quem formaverat.",
+      "french": "Or le Seigneur Dieu avait planté au commencement un jardin délicieux, dans lequel il mit l’homme qu’il avait formé.",
       "annotations": null,
       "source_pages": [
         "page_0147.json"
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Produxitque Dominus Deus de humo omne lignum pulchrum visu, et ad vescendum suave : lignum etiam vitæ in medio Paradisi, lignumque scientiæ boni et mali.",
-      "french": "Le Seigneur Dieu avait aussi fait naître de la Terre toutes sortes d'arbres beaux à la vue, et dont le fruit était agréable au goût : et l'arbre de vie au milieu du Paradis, avec l'arbre de la science du bien et du mal.",
+      "french": "Le Seigneur Dieu avait aussi fait naître de la Terre toutes sortes d’arbres beaux à la vue, et dont le fruit était agréable au goût : et l’arbre de vie au milieu du Paradis, avec l’arbre de la science du bien et du mal.",
       "annotations": null,
       "source_pages": [
         "page_0152.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Nomen uni Phison : ipse est qui circuit omnem terram Hevilath, ubi nascitur aurum. Et aurum terræ illius optimum est: ibi invenitur bdellium, et lapis onychinus.",
-      "french": "L'un s'appelle Phison : et c'est celui qui tournoie dans tout le pays d'Hevilah, où il vient de l'or. Et l'or de cette Terre est excellent ; c'est aussi là que l'on trouve le bdellium et la pierre d'onyx.",
+      "latin": "Nomen uni Phison : ipse est qui circuit omnem terram Hevilath, ubi nascitur aurum. Et aurum terræ illius optimum est : ibi invenitur bdellium, et lapis onychinus.",
+      "french": "L’un s’appelle Phison : et c’est celui qui tournoie dans tout le pays d’Hevilah, où il vient de l’or. Et l’or de cette Terre est excellent ; c’est aussi là que l’on trouve le bdellium et la pierre d’onyx.",
       "annotations": null,
       "source_pages": [
         "page_0155.json",
@@ -107,7 +107,7 @@
     {
       "verse_number": 12,
       "latin": "IBI INVENITUR BDELLIUM, ET LAPIS ONYCHINUS.",
-      "french": "L'on y trouve le Bdellium, et la pierre d'Onyx.",
+      "french": "L’on y trouve le Bdellium, et la pierre d’Onyx.",
       "annotations": null,
       "source_pages": [
         "page_0158.json"
@@ -116,7 +116,7 @@
     {
       "verse_number": 13,
       "latin": "Et nomen fluvii secundi Gehon : ipse est qui circumit omnem terram Æthiopiæ.",
-      "french": "Le second fleuve s'appelle Gehon ; et c'est celui qui coule tout autour du pays d'Éthiopie.",
+      "french": "Le second fleuve s’appelle Gehon ; et c’est celui qui coule tout autour du pays d’Éthiopie.",
       "annotations": null,
       "source_pages": [
         "page_0160.json"
@@ -124,8 +124,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Nomen vero fluminis tertii, Tygris: ipse vadit contra Assyrios. Fluvius autem quartus, ipse est Euphrates.",
-      "french": "Le troisième fleuve est le Tygre, qui a son cours vers les Assyriens ; et le quatrième de ces fleuves est l'Euphrate.",
+      "latin": "Nomen vero fluminis tertii, Tygris : ipse vadit contra Assyrios. Fluvius autem quartus, ipse est Euphrates.",
+      "french": "Le troisième fleuve est le Tygre, qui a son cours vers les Assyriens ; et le quatrième de ces fleuves est l’Euphrate.",
       "annotations": null,
       "source_pages": [
         "page_0165.json"
@@ -133,8 +133,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Tulit ergo Dominus Deus hominem, et posuit eum in Paradiso voluptatis, ut operaretur et custodiret illum:",
-      "french": "Le Seigneur Dieu prit donc l'homme, et le mit dans le Paradis de délices, afin qu'il le cultivât, et qu'il le gardât.",
+      "latin": "Tulit ergo Dominus Deus hominem, et posuit eum in Paradiso voluptatis, ut operaretur et custodiret illum :",
+      "french": "Le Seigneur Dieu prit donc l’homme, et le mit dans le Paradis de délices, afin qu’il le cultivât, et qu’il le gardât.",
       "annotations": null,
       "source_pages": [
         "page_0175.json"
@@ -142,7 +142,7 @@
     },
     {
       "verse_number": 16,
-      "latin": "Præcepitque ei dicens: Ex omni ligno Paradisi comede:",
+      "latin": "Præcepitque ei dicens : Ex omni ligno Paradisi comede :",
       "french": "Il lui donna cet ordre, et lui dit : Mangez de tous les fruits des arbres du Paradis.",
       "annotations": null,
       "source_pages": [
@@ -152,7 +152,7 @@
     {
       "verse_number": 17,
       "latin": "De ligno autem scientiæ boni et mali ne comedas, in quocumque enim die comederis ex eo, morte morieris.",
-      "french": "Mais ne mangez point du fruit de l'arbre de la science du bien et du mal. Car au même temps que vous en aurez mangé, vous mourrez d'une mort certaine.",
+      "french": "Mais ne mangez point du fruit de l’arbre de la science du bien et du mal. Car au même temps que vous en aurez mangé, vous mourrez d’une mort certaine.",
       "annotations": null,
       "source_pages": [
         "page_0175.json"
@@ -161,7 +161,7 @@
     {
       "verse_number": 18,
       "latin": "Dixit quoque Dominus Deus : Non est bonum esse hominem solum : faciamus ei adjutorium simile sibi.",
-      "french": "Le Seigneur Dieu dit aussi : Il n'est pas bon que l'homme soit seul ; faisons lui un aide semblable à lui.",
+      "french": "Le Seigneur Dieu dit aussi : Il n’est pas bon que l’homme soit seul ; faisons lui un aide semblable à lui.",
       "annotations": null,
       "source_pages": [
         "page_0177.json"
@@ -170,7 +170,7 @@
     {
       "verse_number": 19,
       "latin": "Formatis igitur, Dominus Deus, de humo cunctis animantibus terræ, et universis volatilibus Coeli, adduxit ea ad Adam, ut videret quid vocaret ea : omne enim quod vocavit Adam animæ viventis, ipsum est nomen ejus.",
-      "french": "Le Seigneur Dieu ayant donc formé de la terre tous les animaux terrestres, et tous les oiseaux du Ciel, il les amena devant Adam, afin qu'il vît comment il les appellerait : Et le nom qu'Adam donna à chacun des animaux est son véritable nom.",
+      "french": "Le Seigneur Dieu ayant donc formé de la terre tous les animaux terrestres, et tous les oiseaux du Ciel, il les amena devant Adam, afin qu’il vît comment il les appellerait : Et le nom qu’Adam donna à chacun des animaux est son véritable nom.",
       "annotations": null,
       "source_pages": [
         "page_0177.json"
@@ -178,8 +178,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Appellavitque Adam nominibus suis cuncta animantia, et universa volatilia Coeli, et omnes bestias Terræ: Adæ vero non inveniebatur adjutor similis ejus.",
-      "french": "Il leur donna un nom à tous qui leur convenait, tant aux oiseaux du Ciel, qu'aux animaux de la terre : mais il ne se trouva point d'aide pour Adam, qui fût semblable à lui.",
+      "latin": "Appellavitque Adam nominibus suis cuncta animantia, et universa volatilia Coeli, et omnes bestias Terræ : Adæ vero non inveniebatur adjutor similis ejus.",
+      "french": "Il leur donna un nom à tous qui leur convenait, tant aux oiseaux du Ciel, qu’aux animaux de la terre : mais il ne se trouva point d’aide pour Adam, qui fût semblable à lui.",
       "annotations": null,
       "source_pages": [
         "page_0179.json"
@@ -188,7 +188,7 @@
     {
       "verse_number": 21,
       "latin": "Immisit ergo Dominus Deus soporem in Adam : cumque obdormisset, tulit unam de costis ejus, et replevit carnem pro ea.",
-      "french": "Le Seigneur Dieu envoya donc à Adam un sommeil : et lorsqu'il était endormi, Dieu tira une de ses côtes, et mit de la chair à la place.",
+      "french": "Le Seigneur Dieu envoya donc à Adam un sommeil : et lorsqu’il était endormi, Dieu tira une de ses côtes, et mit de la chair à la place.",
       "annotations": null,
       "source_pages": [
         "page_0180.json"
@@ -197,7 +197,7 @@
     {
       "verse_number": 22,
       "latin": "Et ædificavit Dominus Deus costam, quam tulerat de Adam, in mulierem : Et adduxit eam ad Adam.",
-      "french": "Et le Seigneur Dieu forma de la côte qu'il avait tirée d'Adam, une femme qu'il lui présenta.",
+      "french": "Et le Seigneur Dieu forma de la côte qu’il avait tirée d’Adam, une femme qu’il lui présenta.",
       "annotations": null,
       "source_pages": [
         "page_0181.json"
@@ -206,7 +206,7 @@
     {
       "verse_number": 23,
       "latin": "Dixitque Adam : Hoc nunc, os ex ossibus meis, et caro de carne mea : hæc vocabitur Virago, quoniam de viro sumpta est.",
-      "french": "Alors Adam dit : Voilà maintenant l'os de mes os, et la chair de ma chair. Celle-ci s'appellera d'un nom qui est dérivé de celui de l'homme, parce qu'elle a été tirée de l'homme.",
+      "french": "Alors Adam dit : Voilà maintenant l’os de mes os, et la chair de ma chair. Celle-ci s’appellera d’un nom qui est dérivé de celui de l’homme, parce qu’elle a été tirée de l’homme.",
       "annotations": null,
       "source_pages": [
         "page_0181.json"
@@ -214,8 +214,8 @@
     },
     {
       "verse_number": 24,
-      "latin": "Quamobrem relinquet homo patrem suum, et matrem, et adhærebit uxori suæ: Et erunt duo in carne una.",
-      "french": "C'est pourquoi l'homme quittera son père et sa mère, et s'attachera à sa femme : Et ils seront deux dans une même chair.",
+      "latin": "Quamobrem relinquet homo patrem suum, et matrem, et adhærebit uxori suæ : Et erunt duo in carne una.",
+      "french": "C’est pourquoi l’homme quittera son père et sa mère, et s’attachera à sa femme : Et ils seront deux dans une même chair.",
       "annotations": null,
       "source_pages": [
         "page_0182.json"
@@ -224,7 +224,7 @@
     {
       "verse_number": 25,
       "latin": "Erat autem uterque nudus, Adam scilicet et uxor ejus : Et non erubescebant.",
-      "french": "Or Adam et sa femme étaient tous deux nus, et ils n'en rougissaient point.",
+      "french": "Or Adam et sa femme étaient tous deux nus, et ils n’en rougissaient point.",
       "annotations": null,
       "source_pages": [
         "page_0183.json"

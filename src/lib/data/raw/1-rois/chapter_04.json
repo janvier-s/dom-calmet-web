@@ -1,13 +1,13 @@
 {
   "book": "1 Rois",
   "chapter": 4,
-  "chapter_summary": "Principaux Officiers de Salomon. Étendue de ses États. Paix sous son règne. Sa table. Ses chevaux. Sa sagesse célèbre partout. Ses ouvrages d'esprit.",
+  "chapter_summary": "Principaux Officiers de Salomon. Étendue de ses États. Paix sous son règne. Sa table. Ses chevaux. Sa sagesse célèbre partout. Ses ouvrages d’esprit.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Erat autem Rex Salomon regnans super omnem Israël:",
-      "french": "Or le Roi Salomon régnait sur tout Israël;",
+      "latin": "Erat autem Rex Salomon regnans super omnem Israël :",
+      "french": "Or le Roi Salomon régnait sur tout Israël ;",
       "annotations": null,
       "source_pages": [
         "page_0113.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Et hi Principes quos habebat : Azarias filius Sadoc Sacerdotis :",
-      "french": "Et voici qui étaient ses principaux Officiers : Azarias fils du grand-Prêtre Sadoc ;",
+      "latin": "Et hi Principes quos habebat : Azarias filius Sadoc Sacerdotis :",
+      "french": "Et voici qui étaient ses principaux Officiers : Azarias fils du grand-Prêtre Sadoc ;",
       "annotations": "An du Monde 2991.",
       "source_pages": [
         "page_0114.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Elihoreph et Abia, filii Sisa, Scribæ : Josaphat filius Ahilud, à Commentariis :",
-      "french": "Elihoreph et Ahia fils de Sisa, étaient Secrétaires. Josaphat fils d'Ahilud, était Chancelier.",
+      "latin": "Elihoreph et Abia, filii Sisa, Scribæ : Josaphat filius Ahilud, à Commentariis :",
+      "french": "Elihoreph et Ahia fils de Sisa, étaient Secrétaires. Josaphat fils d’Ahilud, était Chancelier.",
       "annotations": null,
       "source_pages": [
         "page_0114.json"
@@ -33,7 +33,7 @@
     },
     {
       "verse_number": 4,
-      "latin": "Banaïas filius Joiada super exercitum : Sadoc autem, et Abiathar Sacerdotes.",
+      "latin": "Banaïas filius Joiada super exercitum : Sadoc autem, et Abiathar Sacerdotes.",
       "french": "Banaïas fils de Joïada, était Général des armées. Sadoc et Abiathar, étaient grands-Prêtres.",
       "annotations": "An du M. 2991.",
       "source_pages": [
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Azarias filius Nathan, super eos qui assistebant Regi : Zabud filius Nathan, Sacerdos, amicus Regis :",
-      "french": "Azarias fils de Nathan, avait l'intendance sur ceux qui étaient toujours auprès du Roi : Zabud Prêtre, fils de Nathan, était favori du Roi :",
+      "latin": "Azarias filius Nathan, super eos qui assistebant Regi : Zabud filius Nathan, Sacerdos, amicus Regis :",
+      "french": "Azarias fils de Nathan, avait l’intendance sur ceux qui étaient toujours auprès du Roi : Zabud Prêtre, fils de Nathan, était favori du Roi :",
       "annotations": null,
       "source_pages": [
         "page_0115.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Et Ahisar, Præpositus domûs : et Adoniram filius Abda, super tributa.",
-      "french": "Ahisar était grand-maître de la maison : et Adoniram fils d'Abda, était surintendant des tributs.",
+      "latin": "Et Ahisar, Præpositus domûs : et Adoniram filius Abda, super tributa.",
+      "french": "Ahisar était grand-maître de la maison : et Adoniram fils d’Abda, était surintendant des tributs.",
       "annotations": null,
       "source_pages": [
         "page_0116.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Habebat autem Salomon duodecim Præfectos super omnem Israël, qui præbebant annonam Regi, et domui ejus : per singulos enim menses in anno, singuli necessaria ministrabant.",
-      "french": "Salomon avait établi douze Officiers sur tout Israël, qui avaient soin d'entretenir la table du Roi, et de sa maison : chacun fournissait pendant un mois de l'année, tout ce qui était nécessaire.",
+      "latin": "Habebat autem Salomon duodecim Præfectos super omnem Israël, qui præbebant annonam Regi, et domui ejus : per singulos enim menses in anno, singuli necessaria ministrabant.",
+      "french": "Salomon avait établi douze Officiers sur tout Israël, qui avaient soin d’entretenir la table du Roi, et de sa maison : chacun fournissait pendant un mois de l’année, tout ce qui était nécessaire.",
       "annotations": null,
       "source_pages": [
         "page_0116.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Et hæc nomina eorum : Ben-Hur, in monte Ephraïm.",
-      "french": "Voici le nom de ces Officiers : Ben-Hur, avait l'intendance sur la montagne d'Ephraïm.",
+      "latin": "Et hæc nomina eorum : Ben-Hur, in monte Ephraïm.",
+      "french": "Voici le nom de ces Officiers : Ben-Hur, avait l’intendance sur la montagne d’Ephraïm.",
       "annotations": "An du Monde 2991.",
       "source_pages": [
         "page_0117.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Ben-Hesed in Aruboth : ipsius erat Socho, et omnis terra Epher.",
-      "french": "Ben-Hesed à Aruboth ; il avait aussi Socho, et toute la terre d'Epher.",
+      "latin": "Ben-Hesed in Aruboth : ipsius erat Socho, et omnis terra Epher.",
+      "french": "Ben-Hesed à Aruboth ; il avait aussi Socho, et toute la terre d’Epher.",
       "annotations": null,
       "source_pages": [
         "page_0117.json"
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "Ben-Abinadab, cujus omnis Nephath-dor, Tapheth filiam Salomonis habebat uxorem.",
-      "french": "Ben-Abinadab, qui avait l'intendance de tout le pays de Nephath-dor, avait épousé Tapheth fille de Salomon.",
+      "french": "Ben-Abinadab, qui avait l’intendance de tout le pays de Nephath-dor, avait épousé Tapheth fille de Salomon.",
       "annotations": null,
       "source_pages": [
         "page_0117.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Bana filius Ahilud regebat Thanac, et Mageddo, et universam Bethsan, quæ est juxta Sarthana subter Jezraël, à Bethsan usque Abelmehula, è regione Jecmaan.",
-      "french": "Bana fils d'Ahilud était Gouverneur de Thanach, de Mageddo, de tout le pays de Bethsan, qui est proche de Sarthana au-dessous de Jezraël, depuis Bethsan, jusqu'à Abelméhula, vis-à-vis de Jecmaan.",
+      "french": "Bana fils d’Ahilud était Gouverneur de Thanach, de Mageddo, de tout le pays de Bethsan, qui est proche de Sarthana au-dessous de Jezraël, depuis Bethsan, jusqu’à Abelméhula, vis-à-vis de Jecmaan.",
       "annotations": null,
       "source_pages": [
         "page_0117.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Ben-gaber in Ramoth-Galaad, habebat Avoth-Jaïr filii Manasse in Galaad, ipse præerat in omni regione Argob, quæ est in Basan, sexaginta civitatibus magnis atque muratis, quæ habebant seras aereas.",
-      "french": "Ben-gaber était Intendant de Ramoth-Galaad ; et il avait les bourgs de Jaïr fils de Manassé, qui sont en Galaad. Il commandait dans tout le pays d'Argob, qui est en Basan, à soixante villes qui étaient fort grandes, et fermées de murailles, et avaient des barres d'airain.",
+      "french": "Ben-gaber était Intendant de Ramoth-Galaad ; et il avait les bourgs de Jaïr fils de Manassé, qui sont en Galaad. Il commandait dans tout le pays d’Argob, qui est en Basan, à soixante villes qui étaient fort grandes, et fermées de murailles, et avaient des barres d’airain.",
       "annotations": "An du Monde 2991.",
       "source_pages": [
         "page_0118.json"
@@ -124,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Abinadab filius Addo præerat in Manaïm.",
-      "french": "Abinadab fils d'Addo, était Intendant en Manaïm.",
+      "french": "Abinadab fils d’Addo, était Intendant en Manaïm.",
       "annotations": null,
       "source_pages": [
         "page_0118.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Achimaas in Nephthali : sed et ipse habebat Basemath filiam Salomonis in conjugio.",
-      "french": "Achimaas en Nephthali ; et il eut aussi pour femme une fille de Salomon, nommée Basemath.",
+      "latin": "Achimaas in Nephthali : sed et ipse habebat Basemath filiam Salomonis in conjugio.",
+      "french": "Achimaas en Nephthali ; et il eut aussi pour femme une fille de Salomon, nommée Basemath.",
       "annotations": null,
       "source_pages": [
         "page_0118.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Banaa filius Husi in Aser, et in Baloth.",
-      "french": "Baana fils d'Husi, avait dans son département le pays d'Aser et de Baloth.",
+      "french": "Baana fils d’Husi, avait dans son département le pays d’Aser et de Baloth.",
       "annotations": "An du Monde 2991.",
       "source_pages": [
         "page_0119.json"
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Semeï filius Ela in Benjamin.",
-      "french": "Séméi fils d'Ela, avait Benjamin.",
+      "french": "Séméi fils d’Ela, avait Benjamin.",
       "annotations": null,
       "source_pages": [
         "page_0119.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Gaber filius Uri, in terra Galaad, in terra Sehon Regis Amorrhæi, et Og Regis Basan, super omnia quæ erant in illa terra.",
-      "french": "Gaber fils d'Uri, avait la Province de Galaad, dans le pays de Séhon Roi des Amorrhéens, et d'Og Roi de Basan, et tout ce qui était en cette terre.",
+      "french": "Gaber fils d’Uri, avait la Province de Galaad, dans le pays de Séhon Roi des Amorrhéens, et d’Og Roi de Basan, et tout ce qui était en cette terre.",
       "annotations": null,
       "source_pages": [
         "page_0119.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Juda et Israël innumerabiles, sicut arina maris in multitudine : comedentes, et bibentes, atque lætantes.",
-      "french": "Le peuple de Juda et d'Israël était innombrable comme le sable de la mer; et ils vivaient dans l'abondance et dans la joie.",
+      "latin": "Juda et Israël innumerabiles, sicut arina maris in multitudine : comedentes, et bibentes, atque lætantes.",
+      "french": "Le peuple de Juda et d’Israël était innombrable comme le sable de la mer ; et ils vivaient dans l’abondance et dans la joie.",
       "annotations": null,
       "source_pages": [
         "page_0119.json"
@@ -186,8 +186,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Salomon autem erat in ditione sua, habens omnia Regna à flumine terræ Philisthiim usque ad terminum Ægypti: offerentium sibi munera, et servientium ei cunctis diebus vitæ ejus.",
-      "french": "Salomon avait sous sa domination tous les Royaumes depuis le fleuve du pays des Philistins, jusqu'à la frontière d'Égypte. Ils lui offraient tous des présents, et lui demeurèrent assujettis tous les jours de sa vie.",
+      "latin": "Salomon autem erat in ditione sua, habens omnia Regna à flumine terræ Philisthiim usque ad terminum Ægypti : offerentium sibi munera, et servientium ei cunctis diebus vitæ ejus.",
+      "french": "Salomon avait sous sa domination tous les Royaumes depuis le fleuve du pays des Philistins, jusqu’à la frontière d’Égypte. Ils lui offraient tous des présents, et lui demeurèrent assujettis tous les jours de sa vie.",
       "annotations": null,
       "source_pages": [
         "page_0119.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Erat autem cibus Salomonis per dies singulos, triginta cori similæ, et sexaginta cori farinæ,",
-      "french": "Les vivres pour la table de Salomon, étaient chaque jour trente mesures de fleur de farine, et soixante de farine ordinaire;",
+      "french": "Les vivres pour la table de Salomon, étaient chaque jour trente mesures de fleur de farine, et soixante de farine ordinaire ;",
       "annotations": "An du Monde 2991.",
       "source_pages": [
         "page_0120.json"
@@ -213,8 +213,8 @@
     },
     {
       "verse_number": 24,
-      "latin": "Ipse enim obtinebat omnem regionem quæ erat trans flumen, à Taphsa usque ad Gazam, et cunstos Reges illarum regionum : et habebat pacem ex omni parte in circuitu.",
-      "french": "Car il dominait sur tous les pays qui étaient au-delà du fleuve d'Euphrate, depuis Taphsa jusqu'à Gaza, et tous les Rois de ces Provinces lui étaient assujettis ; et il avait la paix de toutes parts avec tous ses voisins.",
+      "latin": "Ipse enim obtinebat omnem regionem quæ erat trans flumen, à Taphsa usque ad Gazam, et cunstos Reges illarum regionum : et habebat pacem ex omni parte in circuitu.",
+      "french": "Car il dominait sur tous les pays qui étaient au-delà du fleuve d’Euphrate, depuis Taphsa jusqu’à Gaza, et tous les Rois de ces Provinces lui étaient assujettis ; et il avait la paix de toutes parts avec tous ses voisins.",
       "annotations": "An du Monde 2991.",
       "source_pages": [
         "page_0121.json"
@@ -223,7 +223,7 @@
     {
       "verse_number": 25,
       "latin": "Habitabátque Juda et Israël absque timore ullo, et unusquisque sub vite sua, et sub ficu sua, à Dan usque Bersabee, cunctis diebus Salomonis.",
-      "french": "Dans Juda et Israël, tout homme demeura sans aucune crainte, chacun sous sa vigne, et sous son figuier, depuis Dan jusqu'à Bersabée, pendant tout le règne de Salomon.",
+      "french": "Dans Juda et Israël, tout homme demeura sans aucune crainte, chacun sous sa vigne, et sous son figuier, depuis Dan jusqu’à Bersabée, pendant tout le règne de Salomon.",
       "annotations": null,
       "source_pages": [
         "page_0122.json"
@@ -240,7 +240,7 @@
     },
     {
       "verse_number": 27,
-      "latin": "Nutriebántque eos supradicti Regis præfecti : sed et necessaria mensæ Regis Salomonis, cum ingenti cura præbebant in tempore suo.",
+      "latin": "Nutriebántque eos supradicti Regis præfecti : sed et necessaria mensæ Regis Salomonis, cum ingenti cura præbebant in tempore suo.",
       "french": "Ces douze Officiers du Roi, dont on a déjà parlé, avaient la charge de les nourrir, et ils fournissaient dans le temps avec un extrême soin, tout ce qui était nécessaire pour la table du Roi Salomon.",
       "annotations": "An du Monde 2991.",
       "source_pages": [
@@ -258,8 +258,8 @@
     },
     {
       "verse_number": 29,
-      "latin": "Dedit quoque Deus sapientiam Salomoni, et prudentiam multam nimis , et latitudinem cordis , quasi arenam quæ est in littore maris.",
-      "french": "Dieu donna de plus à Salomon une sagesse et une prudence prodigieuse, et une étendue d'esprit, aussi grande que le sable qui est sur le rivage de la mer.",
+      "latin": "Dedit quoque Deus sapientiam Salomoni, et prudentiam multam nimis, et latitudinem cordis, quasi arenam quæ est in littore maris.",
+      "french": "Dieu donna de plus à Salomon une sagesse et une prudence prodigieuse, et une étendue d’esprit, aussi grande que le sable qui est sur le rivage de la mer.",
       "annotations": "An. du Monde 2991.",
       "source_pages": [
         "page_0126.json"
@@ -268,7 +268,7 @@
     {
       "verse_number": 30,
       "latin": "Et præcedebat sapientia Salomonis sapientiam omnium Orientalium et Ægyptiorum.",
-      "french": "Et la sagesse de Salomon surpassait la sagesse de tous les Orientaux ; et de tous les Égyptiens.",
+      "french": "Et la sagesse de Salomon surpassait la sagesse de tous les Orientaux ; et de tous les Égyptiens.",
       "annotations": null,
       "source_pages": [
         "page_0126.json"
@@ -276,8 +276,8 @@
     },
     {
       "verse_number": 31,
-      "latin": "Et erat sapientior cunctis hominibus : sapientior Ethan Ezrahitâ, et Heman, et Chalcol, et Dorda, filiis Mahol ; et erat nominatus in universis gentibus per circuitum.",
-      "french": "Il était plus sage que tous les hommes, plus sage qu'Ethan Ezrahite, qu'Héman, Chalcol et Dorda, fils de Mahol ; et sa réputation était répandue dans toutes les nations voisines.",
+      "latin": "Et erat sapientior cunctis hominibus : sapientior Ethan Ezrahitâ, et Heman, et Chalcol, et Dorda, filiis Mahol ; et erat nominatus in universis gentibus per circuitum.",
+      "french": "Il était plus sage que tous les hommes, plus sage qu’Ethan Ezrahite, qu’Héman, Chalcol et Dorda, fils de Mahol ; et sa réputation était répandue dans toutes les nations voisines.",
       "annotations": "An du Monde 2991.",
       "source_pages": [
         "page_0127.json"
@@ -294,8 +294,8 @@
     },
     {
       "verse_number": 33,
-      "latin": "Et disputavit super lignis, à cedro quæ est in Libano, usque ad hyssopum quæ egreditur de pariete: et disseruit de jumentis, et volatilibus, et reptilibus, et piscibus.",
-      "french": "Il traita aussi de tous les arbres, depuis le cèdre qui est sur le Liban, jusqu'à l'hysope qui sort de la muraille; et il traita de même des animaux de la terre, des oiseaux, des reptiles, et des poissons.",
+      "latin": "Et disputavit super lignis, à cedro quæ est in Libano, usque ad hyssopum quæ egreditur de pariete : et disseruit de jumentis, et volatilibus, et reptilibus, et piscibus.",
+      "french": "Il traita aussi de tous les arbres, depuis le cèdre qui est sur le Liban, jusqu’à l’hysope qui sort de la muraille ; et il traita de même des animaux de la terre, des oiseaux, des reptiles, et des poissons.",
       "annotations": null,
       "source_pages": [
         "page_0129.json"

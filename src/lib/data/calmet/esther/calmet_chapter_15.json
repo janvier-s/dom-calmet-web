@@ -4,8 +4,8 @@
       "verse": 1,
       "sub": false,
       "latin_lemma": "mandavit ei ut ingrederetur ad regem.",
-      "lemma": "Mardochée lui manda d'aller trouver le Roi.",
-      "text": "Cette Histoire est rapportée, mais d'une manière plus abrégée, dans le Chap. v. de ce Livre. On peut voir ce que nous avons dit sur cet endroit."
+      "lemma": "Mardochée lui manda d’aller trouver le Roi.",
+      "text": "Cette Histoire est rapportée, mais d’une manière plus abrégée, dans le Chap. v. de ce Livre. On peut voir ce que nous avons dit sur cet endroit."
     },
     {
       "verse": 2,
@@ -19,30 +19,30 @@
       "sub": false,
       "latin_lemma": "ego sum frater tuus.",
       "lemma": "Je suis votre frère.",
-      "text": "dans le Grec, au Chap. 4. entre les versets huit et neuf ; et c'est le lieu où ils conviennent le mieux. Les Exemplaires Grecs n'en disent rien en cet endroit.\nCe nom de frère, dans les Auteurs sacrés,[1] et profanes, marque souvent une forte liaison d'amitié."
+      "text": "dans le Grec, au Chap. 4. entre les versets huit et neuf ; et c’est le lieu où ils conviennent le mieux. Les Exemplaires Grecs n’en disent rien en cet endroit.\nCe nom de frère, dans les Auteurs sacrés,[1] et profanes, marque souvent une forte liaison d’amitié."
     },
     {
       "verse": 13,
       "sub": false,
       "latin_lemma": "non pro te, sed pro omnibus lex posita est.",
-      "lemma": "Cette Loi n'a pas été faite pour vous; mais pour tous les autres.",
-      "text": "Le Grec :[2] _Le Commandement est commun entre vous, et moi._ Cette Ordonnance ne vous regarde pas; elle ne regarde que nos sujets, à vous, et à moi. Dès que je vous ai fait part de la qualité de Reine, je vous ai mis au-dessus de ces Lois. Dans le Droit Romain, quoique l'Impératrice, dans la rigueur, ne fût pas exempte des Lois, elle jouissait toutefois des mêmes privilèges que les Empereurs : [3] _Augusta licet Legibus soluta non est, Principes tamen eadem illi privilegia tribuunt, quæ ipsi habent._"
+      "lemma": "Cette Loi n’a pas été faite pour vous ; mais pour tous les autres.",
+      "text": "Le Grec :[2] _Le Commandement est commun entre vous, et moi._ Cette Ordonnance ne vous regarde pas ; elle ne regarde que nos sujets, à vous, et à moi. Dès que je vous ai fait part de la qualité de Reine, je vous ai mis au-dessus de ces Lois. Dans le Droit Romain, quoique l’Impératrice, dans la rigueur, ne fût pas exempte des Lois, elle jouissait toutefois des mêmes privilèges que les Empereurs : [3] _Augusta licet Legibus soluta non est, Principes tamen eadem illi privilegia tribuunt, quæ ipsi habent._"
     },
     {
       "verse": 16,
       "sub": false,
       "latin_lemma": "vidi te, Domine, quasi angelum Dei.",
-      "lemma": "Seigneur, vous m'avez paru comme un Ange de Dieu.",
-      "text": "La majesté de votre visage m'a paru semblable à celle d'un Ange. Les Chaldéens et les Hébreux avaient sur la nature des Anges, à peu près les mêmes sentiments. On remarque que jamais les Juifs ne furent plus dévots aux Anges que depuis le retour de la Captivité ; et jamais l'Écriture n'en parle avec plus de clarté. Cette comparaison d'un homme, dont on révère la majesté, avec un Ange, se voit aussi dans la Genèse. [4] Jacob dit à son frère Ésaü qu'il l'a vu comme s'il eût vu le visage d'un Dieu, ou d'un Ange : Et Achis dit à David : [5] _Vous êtes aussi agréable à mes yeux qu'un Ange de Dieu : Bonus es in oculis meis, sicut Angelus Dei._ Et la femme de Thécué, apostée par Joab, dit au même David : [6] _Mon Seigneur est comme un Ange de Dieu._"
+      "lemma": "Seigneur, vous m’avez paru comme un Ange de Dieu.",
+      "text": "La majesté de votre visage m’a paru semblable à celle d’un Ange. Les Chaldéens et les Hébreux avaient sur la nature des Anges, à peu près les mêmes sentiments. On remarque que jamais les Juifs ne furent plus dévots aux Anges que depuis le retour de la Captivité ; et jamais l’Écriture n’en parle avec plus de clarté. Cette comparaison d’un homme, dont on révère la majesté, avec un Ange, se voit aussi dans la Genèse. [4] Jacob dit à son frère Ésaü qu’il l’a vu comme s’il eût vu le visage d’un Dieu, ou d’un Ange : Et Achis dit à David : [5] _Vous êtes aussi agréable à mes yeux qu’un Ange de Dieu : Bonus es in oculis meis, sicut Angelus Dei._ Et la femme de Thécué, apostée par Joab, dit au même David : [6] _Mon Seigneur est comme un Ange de Dieu._"
     }
   ],
   "joins": [
     {
       "seam": "page_0164>page_0165",
       "verse": 13,
-      "mode": "hyphen",
-      "before": "ois, elle jouissait toutefois des mêmes privilèges que les",
-      "after": "les Empereurs : ^{(a)} _Augusta licet Legibus soluta non e"
+      "mode": "flow",
+      "before": "es Lois, elle jouissait toutefois des mêmes privilèges que",
+      "after": "les Empereurs : ^{(a)} _Augusta licet Legibus soluta non e"
     }
   ],
   "pages_used": [
@@ -54,7 +54,7 @@
     {
       "key": "page_0164-a",
       "n": 1,
-      "text": "Cantique des cantiques 8,1 ; 4,9-10 ; 5,1 ; 8,1."
+      "text": "Cantique des cantiques 8,1 ; 4,9-10 ; 5,1 ; 8,1."
     },
     {
       "key": "page_0164-b",

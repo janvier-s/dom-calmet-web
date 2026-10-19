@@ -1,13 +1,13 @@
 {
   "book": "Judith",
   "chapter": 3,
-  "chapter_summary": "Divers peuples se soumettent à Holofernes. Ses cruautés. Il s'approche de la Judée.",
+  "chapter_summary": "Divers peuples se soumettent à Holofernes. Ses cruautés. Il s’approche de la Judée.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Tunc miserunt legatos suos, universarum urbium, ac Provinciarum Reges, ac Principes, Syriæ scilicet, Mesopotamiæ, et Syriæ Sobal, et Lybiæ, atque Ciliciæ, qui venientes ad Holofernem, dixerunt :",
-      "french": "Alors les Rois, et les Princes de toutes les villes, et de toutes les Provinces, de la Syrie, de la Mésopotamie, de la Syrie de Sobal, de la Libye, et de la Cilicie, envoyèrent leurs Ambassadeurs vers Holofernes, pour lui dire :",
+      "latin": "Tunc miserunt legatos suos, universarum urbium, ac Provinciarum Reges, ac Principes, Syriæ scilicet, Mesopotamiæ, et Syriæ Sobal, et Lybiæ, atque Ciliciæ, qui venientes ad Holofernem, dixerunt :",
+      "french": "Alors les Rois, et les Princes de toutes les villes, et de toutes les Provinces, de la Syrie, de la Mésopotamie, de la Syrie de Sobal, de la Libye, et de la Cilicie, envoyèrent leurs Ambassadeurs vers Holofernes, pour lui dire :",
       "annotations": "An du M. 3348. avant J.C. 656.",
       "source_pages": [
         "page_0055.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Definat indignatio tua circa nos : Melius est enim ut viventes serviamus Nabuchodonosor Regi magno, et subditi simus tibi, quàm morientes cum interitu nostro ipsi servitutis nostræ damna patiamur.",
-      "french": "Cessez de faire éclater votre colère contre nous : Car il vaut mieux que nous vivions, en servant le grand Roi Nabuchodonosor, et que nous vous soyons soumis, que de nous voir exposés à périr malheureusement, soit par la mort, ou par la misère de la servitude.",
+      "latin": "Definat indignatio tua circa nos : Melius est enim ut viventes serviamus Nabuchodonosor Regi magno, et subditi simus tibi, quàm morientes cum interitu nostro ipsi servitutis nostræ damna patiamur.",
+      "french": "Cessez de faire éclater votre colère contre nous : Car il vaut mieux que nous vivions, en servant le grand Roi Nabuchodonosor, et que nous vous soyons soumis, que de nous voir exposés à périr malheureusement, soit par la mort, ou par la misère de la servitude.",
       "annotations": "An dum. 3348.",
       "source_pages": [
         "page_0056.json"
@@ -52,7 +52,7 @@
     {
       "verse_number": 6,
       "latin": "Veni nobis pacificus Dominus, et utere servitio nostro, sicut placuerit tibi.",
-      "french": "Venez à nous, comme un maître pacifique, et tirez de nous tous les services qu'il vous plaira.",
+      "french": "Venez à nous, comme un maître pacifique, et tirez de nous tous les services qu’il vous plaira.",
       "annotations": null,
       "source_pages": [
         "page_0056.json"
@@ -61,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "Tunc descendit de montibus cum equitibus in virtute magna, et obtinuit omnem civitatem, et omnem inhabitatem terræ.",
-      "french": "Il descendit ensuite des montagnes avec la cavalerie, et de grandes troupes; il se rendit maître de toutes les villes, et de tous les peuples du pays.",
+      "french": "Il descendit ensuite des montagnes avec la cavalerie, et de grandes troupes ; il se rendit maître de toutes les villes, et de tous les peuples du pays.",
       "annotations": "An du M. 3348.",
       "source_pages": [
         "page_0057.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Tantúsque metus Provinciis illis incubuit, ut universarum urbium habitatores, Principes, et honorati simul cum populis, exirent obviam venienti:",
-      "french": "Toutes ces Provinces furent saisies d'une telle frayeur, que les Princes, et les personnes les plus honorables de toutes les villes, sortaient au-devant de lui, avec tous les peuples :",
+      "latin": "Tantúsque metus Provinciis illis incubuit, ut universarum urbium habitatores, Principes, et honorati simul cum populis, exirent obviam venienti :",
+      "french": "Toutes ces Provinces furent saisies d’une telle frayeur, que les Princes, et les personnes les plus honorables de toutes les villes, sortaient au-devant de lui, avec tous les peuples :",
       "annotations": null,
       "source_pages": [
         "page_0057.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Nec ista tamen facientes, ferocitatem ejus pectoris mitigare potuerunt:",
-      "french": "Et néanmoins, quoiqu'ils fissent toutes ces choses, ils ne purent adoucir la fierté de son cœur;",
+      "latin": "Nec ista tamen facientes, ferocitatem ejus pectoris mitigare potuerunt :",
+      "french": "Et néanmoins, quoiqu’ils fissent toutes ces choses, ils ne purent adoucir la fierté de son cœur ;",
       "annotations": null,
       "source_pages": [
         "page_0057.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Nam et civitates corum destruxit, et lucos eorum excidit.",
-      "french": "Car il ne laissa pas de détruire leurs villes, et de couper par le pied leurs bois sacrés:",
+      "french": "Car il ne laissa pas de détruire leurs villes, et de couper par le pied leurs bois sacrés :",
       "annotations": null,
       "source_pages": [
         "page_0057.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Præceperat enim illi Nabuchodonofor Rex, ut omnes Deos terræ exterminaret, videlicet ut ipse solus diceretur Deus ab his nationibus, quæ potuissent Holofernis potentiâ subjugarî.",
-      "french": "Parce que le Roi Nabuchodonosor lui avait commandé d'exterminer tous les Dieux de la terre, afin qu'il fût seul appelé dieu, par toutes les nations qu'Holofernes aurait pu assujettir à sa puissance.",
+      "french": "Parce que le Roi Nabuchodonosor lui avait commandé d’exterminer tous les Dieux de la terre, afin qu’il fût seul appelé dieu, par toutes les nations qu’Holofernes aurait pu assujettir à sa puissance.",
       "annotations": "An du M. 3348.",
       "source_pages": [
         "page_0058.json"
@@ -124,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Pertransiens autem Syriam Sobal, et omnem Apameam, omnémque Mesopotamiam, venit ad Idumæos, in terram Gabaa.",
-      "french": "Ayant donc parcouru la Syrie de Sobal, toute l'Apamée, et toute la Mésopotamie, il vint au pays d'Idumée, en la terre de Gabaa.",
+      "french": "Ayant donc parcouru la Syrie de Sobal, toute l’Apamée, et toute la Mésopotamie, il vint au pays d’Idumée, en la terre de Gabaa.",
       "annotations": "An du M. 3348.",
       "source_pages": [
         "page_0059.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Accépitque civitates eorum, et sedit ibi per triginta dies, in quibus diebus adunari præcepit universum exercitum virtutis suæ.",
-      "french": "Et toutes les villes se rendirent à lui, et il demeura là trente jours, pendant lesquels il commanda qu'on rassemblât toutes les troupes de son armée.",
+      "french": "Et toutes les villes se rendirent à lui, et il demeura là trente jours, pendant lesquels il commanda qu’on rassemblât toutes les troupes de son armée.",
       "annotations": null,
       "source_pages": [
         "page_0059.json"

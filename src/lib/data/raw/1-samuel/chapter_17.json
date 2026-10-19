@@ -1,13 +1,13 @@
 {
   "book": "1 Samuel",
   "chapter": 17,
-  "chapter_summary": "Guerre des Philistins contre Israël. Insultes de Goliat contre l'armée de Saül ; David est envoyé au camp ; il abat Goliat d'un coup de fronde.",
+  "chapter_summary": "Guerre des Philistins contre Israël. Insultes de Goliat contre l’armée de Saül ; David est envoyé au camp ; il abat Goliat d’un coup de fronde.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Congregantes autem Philisthiim agmina sua in prœlium, convenerunt in Socho Judæ : et castrametati sunt inter Socho et Azeca, in finibus Dommim.",
-      "french": "Les Philistins assemblèrent de nouveau toutes leurs troupes pour combattre Israël : ils se rendirent tous à Socho, dans la tribu de Juda, et se campèrent entre Socho et Azeca, sur les confins de Dommim.",
+      "latin": "Congregantes autem Philisthiim agmina sua in prœlium, convenerunt in Socho Judæ : et castrametati sunt inter Socho et Azeca, in finibus Dommim.",
+      "french": "Les Philistins assemblèrent de nouveau toutes leurs troupes pour combattre Israël : ils se rendirent tous à Socho, dans la tribu de Juda, et se campèrent entre Socho et Azeca, sur les confins de Dommim.",
       "annotations": null,
       "source_pages": [
         "page_0298.json"
@@ -16,7 +16,7 @@
     {
       "verse_number": 2,
       "latin": "Porrò Saul et filii Israël congregati uenerunt in vallem Terebinthi, et direxerunt aciem ad pugnandum contra Philisthiim.",
-      "french": "Saül et les enfants d'Israël de leur côté s'étant assemblés, vinrent en la vallée du Térébinthe, et mirent leur armée en bataille, pour combattre les Philistins.",
+      "french": "Saül et les enfants d’Israël de leur côté s’étant assemblés, vinrent en la vallée du Térébinthe, et mirent leur armée en bataille, pour combattre les Philistins.",
       "annotations": "An. du Monde 2942.",
       "source_pages": [
         "page_0299.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Et Philisthiim stabant super montem ex parte hac, et Israël stabat super montem ex altera parte : vallisque erat inter eos.",
-      "french": "Les Philistins étaient d'un côté sur une montagne, Israël était de l'autre sur une autre montagne ; et il y avait une vallée entre deux.",
+      "latin": "Et Philisthiim stabant super montem ex parte hac, et Israël stabat super montem ex altera parte : vallisque erat inter eos.",
+      "french": "Les Philistins étaient d’un côté sur une montagne, Israël était de l’autre sur une autre montagne ; et il y avait une vallée entre deux.",
       "annotations": null,
       "source_pages": [
         "page_0299.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Et egressus est vir spurius de castris Philistinorum, nomine Golias, de Geth, altitudinis sex cubitorum et palmi:",
-      "french": "Or il arriva qu'un homme qui était bâtard, sortit du camp des Philistins. Il s'appelait Goliath, il était de Geth, et il avait six coudées et une palme de haut.",
+      "latin": "Et egressus est vir spurius de castris Philistinorum, nomine Golias, de Geth, altitudinis sex cubitorum et palmi :",
+      "french": "Or il arriva qu’un homme qui était bâtard, sortit du camp des Philistins. Il s’appelait Goliath, il était de Geth, et il avait six coudées et une palme de haut.",
       "annotations": null,
       "source_pages": [
         "page_0299.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Et cassis ærea super caput ejus, et loricâ squammatâ induebatur; porrò pondus loricæ ejus quinque millia siclorum æris erat.",
-      "french": "Il avait en tête un casque d'airain : il était revêtu d'une cuirasse à écailles, qui pesait cinq mille sicles d'airain.",
+      "latin": "Et cassis ærea super caput ejus, et loricâ squammatâ induebatur ; porrò pondus loricæ ejus quinque millia siclorum æris erat.",
+      "french": "Il avait en tête un casque d’airain : il était revêtu d’une cuirasse à écailles, qui pesait cinq mille sicles d’airain.",
       "annotations": null,
       "source_pages": [
         "page_0299.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Et ocreas areas habebat in cruribus: et clypeus areus tegebat humeros ejus.",
-      "french": "Il avait sur les jambes des bottes d'airain, et un bouclier d'airain lui couvrait les épaules.",
+      "latin": "Et ocreas areas habebat in cruribus : et clypeus areus tegebat humeros ejus.",
+      "french": "Il avait sur les jambes des bottes d’airain, et un bouclier d’airain lui couvrait les épaules.",
       "annotations": "An. du Monde 2942.",
       "source_pages": [
         "page_0301.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Hastile autem hastæ ejus, erat quasi liciatorium texentium, ipsum autem ferrum hastæ ejus, sexcentos siclos habebat ferri: et armiger ejus antecedebat eum.",
-      "french": "La hampe de sa lance était comme ces grands bois dont se servent les tisserands, et le fer de sa lance pesait six cents sicles; et son Écuyer marchait devant lui.",
+      "latin": "Hastile autem hastæ ejus, erat quasi liciatorium texentium, ipsum autem ferrum hastæ ejus, sexcentos siclos habebat ferri : et armiger ejus antecedebat eum.",
+      "french": "La hampe de sa lance était comme ces grands bois dont se servent les tisserands, et le fer de sa lance pesait six cents sicles ; et son Écuyer marchait devant lui.",
       "annotations": "An. du Monde 2942.",
       "source_pages": [
         "page_0302.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Stansque clamabat adversum phalangas Israël, et dicebat eis: Quare venistis parati ad prœlium? Numquid ego non sum Philisthæus, et vos servi Saül? Eligite ex vobis virum, et descendat ad singulare certamen.",
-      "french": "Cet homme se vint présenter devant les bataillons d'Israël, et il leur criait: Pourquoi venez-vous pour donner bataille? Ne suis-je pas Philistin, et vous serviteurs de Saül? Choisissez un homme d'entre vous, et qu'il vienne se battre seul à seul.",
+      "latin": "Stansque clamabat adversum phalangas Israël, et dicebat eis : Quare venistis parati ad prœlium ? Numquid ego non sum Philisthæus, et vos servi Saül ? Eligite ex vobis virum, et descendat ad singulare certamen.",
+      "french": "Cet homme se vint présenter devant les bataillons d’Israël, et il leur criait : Pourquoi venez-vous pour donner bataille ? Ne suis-je pas Philistin, et vous serviteurs de Saül ? Choisissez un homme d’entre vous, et qu’il vienne se battre seul à seul.",
       "annotations": "An. du Monde. 2942.",
       "source_pages": [
         "page_0304.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Si quisuerit pugnare mecum, et percusserit me, erimus vobis servi: si autem ego prævaluero, et percussero eum, vos servi eritis, et servietis nobis.",
-      "french": "S'il ose se battre contre moi, et qu'il m'ôte la vie, nous serons vos esclaves: mais si j'ai l'avantage sur lui, et que je le tue, vous serez nos esclaves, et vous nous serez assujettis.",
+      "latin": "Si quisuerit pugnare mecum, et percusserit me, erimus vobis servi : si autem ego prævaluero, et percussero eum, vos servi eritis, et servietis nobis.",
+      "french": "S’il ose se battre contre moi, et qu’il m’ôte la vie, nous serons vos esclaves : mais si j’ai l’avantage sur lui, et que je le tue, vous serez nos esclaves, et vous nous serez assujettis.",
       "annotations": null,
       "source_pages": [
         "page_0304.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Et aiebat Philisthæus: Ego exprobravi agminibus Israël hodie: Date mihi virum et ineat mecum singulare certamen.",
-      "french": "Et ce Philistin disait: J'ai défié aujourd'hui toute l'armée d'Israël, et je leur ai dit: Donnez-moi un homme, et qu'il vienne se battre contre moi.",
+      "latin": "Et aiebat Philisthæus : Ego exprobravi agminibus Israël hodie : Date mihi virum et ineat mecum singulare certamen.",
+      "french": "Et ce Philistin disait : J’ai défié aujourd’hui toute l’armée d’Israël, et je leur ai dit : Donnez-moi un homme, et qu’il vienne se battre contre moi.",
       "annotations": null,
       "source_pages": [
         "page_0304.json"
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "Audiens autem Saül, et omnes Israëlitæ, sermones Philisthæi hujufcemodi, stupebant, et metuebant nimis.",
-      "french": "Saül et tous les Israélites entendant ce Philistin parler de la sorte, étaient frappés d'étonnement, et tremblaient de peur.",
+      "french": "Saül et tous les Israélites entendant ce Philistin parler de la sorte, étaient frappés d’étonnement, et tremblaient de peur.",
       "annotations": "An. du Monde 2942.",
       "source_pages": [
         "page_0305.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "David autem erat filius viri Ephrathæi de quo suprà dictum est, de Bethleem Juda, cui nomen erat Isaï, qui habebat octo filios, et erat vir in diebus Saül senex, et grandævus inter viros.",
-      "french": "Or David était fils de cet homme d'Éphrata, dont il a été parlé auparavant, de la ville de Bethléem en Juda, qui s'appelait Isaï, et avait huit fils, et il était l'un des plus avancés en âge de son temps, sous le règne de Saül.",
+      "french": "Or David était fils de cet homme d’Éphrata, dont il a été parlé auparavant, de la ville de Bethléem en Juda, qui s’appelait Isaï, et avait huit fils, et il était l’un des plus avancés en âge de son temps, sous le règne de Saül.",
       "annotations": null,
       "source_pages": [
         "page_0305.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Abierunt autem tres filii ejus majores post Saül in prœlium: et nomina trium filiorum ejus qui perrexerant ad bellum, Eliab primogenitus, et secundus Abinadab, tertiúsque Samma.",
-      "french": "Les trois plus grands de ses fils avaient suivi Saül à l'armée : l'aîné de ces trois qui étaient allés à la guerre, s'appelait Éliab, le second Abinadab, et le troisième Samma.",
+      "latin": "Abierunt autem tres filii ejus majores post Saül in prœlium : et nomina trium filiorum ejus qui perrexerant ad bellum, Eliab primogenitus, et secundus Abinadab, tertiúsque Samma.",
+      "french": "Les trois plus grands de ses fils avaient suivi Saül à l’armée : l’aîné de ces trois qui étaient allés à la guerre, s’appelait Éliab, le second Abinadab, et le troisième Samma.",
       "annotations": null,
       "source_pages": [
         "page_0305.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Abiit David, et reversus est à Saül, ut pasceret gregem patris sui in Bethleem.",
-      "french": "Il était revenu d'auprès de Saül, et s'en était allé à Bethléem, pour mener paître les troupeaux de son père.",
+      "french": "Il était revenu d’auprès de Saül, et s’en était allé à Bethléem, pour mener paître les troupeaux de son père.",
       "annotations": null,
       "source_pages": [
         "page_0305.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Dixit autem Isaï ad David filium suum : Accipe fratribus tuis ephi polentæ, et decem panes istos, et curre in castra ad fratres tuos.",
-      "french": "Or Isaï dit à David son fils : Prenez pour vos frères un éphi de farine d'orge, et ces dix pains, et courez à eux jusqu'au camp.",
+      "latin": "Dixit autem Isaï ad David filium suum : Accipe fratribus tuis ephi polentæ, et decem panes istos, et curre in castra ad fratres tuos.",
+      "french": "Or Isaï dit à David son fils : Prenez pour vos frères un éphi de farine d’orge, et ces dix pains, et courez à eux jusqu’au camp.",
       "annotations": null,
       "source_pages": [
         "page_0306.json"
@@ -159,8 +159,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "Et decem formellas casei has, deferes ad Tribunum : et fratres tuos visitabis, si rectè agant : et cum quibus ordinati sunt, disce.",
-      "french": "Portez aussi ces dix fromages pour leur Mestre-de-camp: voyez comment vos frères se portent, et sachez en quelle compagnie ils sont.",
+      "latin": "Et decem formellas casei has, deferes ad Tribunum : et fratres tuos visitabis, si rectè agant : et cum quibus ordinati sunt, disce.",
+      "french": "Portez aussi ces dix fromages pour leur Mestre-de-camp : voyez comment vos frères se portent, et sachez en quelle compagnie ils sont.",
       "annotations": null,
       "source_pages": [
         "page_0306.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Saül autem, et illi, et omnes filii Israël in valle Terebinthi pugnabant adversum Philisthiim.",
-      "french": "Or Saül et les fils d'Isaï, et tous les enfants d'Israël étaient à la guerre contre les Philistins, en la vallée du Térébinthe.",
+      "french": "Or Saül et les fils d’Isaï, et tous les enfants d’Israël étaient à la guerre contre les Philistins, en la vallée du Térébinthe.",
       "annotations": null,
       "source_pages": [
         "page_0306.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Surrexit itaque David manè, et commendavit gregem custodi : et onustus abiit, sicut præceperat ei Isaï. Et venit ad locum Magala, et ad exercitum, qui egressus ad pugnam vociferatus erat in certamine.",
-      "french": "David s'étant donc levé dès la pointe du jour, laissa à un homme le soin de son troupeau, et s'en alla chargé au camp, selon l'ordre qu'Isaï lui avait donné. Il vint au lieu appelé Magala, où l'armée s'était avancée pour donner bataille; et l'on entendait déjà les cris pour signal du combat.",
+      "latin": "Surrexit itaque David manè, et commendavit gregem custodi : et onustus abiit, sicut præceperat ei Isaï. Et venit ad locum Magala, et ad exercitum, qui egressus ad pugnam vociferatus erat in certamine.",
+      "french": "David s’étant donc levé dès la pointe du jour, laissa à un homme le soin de son troupeau, et s’en alla chargé au camp, selon l’ordre qu’Isaï lui avait donné. Il vint au lieu appelé Magala, où l’armée s’était avancée pour donner bataille ; et l’on entendait déjà les cris pour signal du combat.",
       "annotations": "Ab. An. 2942.",
       "source_pages": [
         "page_0307.json"
@@ -187,7 +187,7 @@
     {
       "verse_number": 21,
       "latin": "Direxerat enim aciem Israël, sed et Philisthiim ex adverso fuerant preparati.",
-      "french": "Car Israël avait rangé en bataille toutes ses troupes ; et de l'autre côté, les Philistins se préparaient à les attaquer.",
+      "french": "Car Israël avait rangé en bataille toutes ses troupes ; et de l’autre côté, les Philistins se préparaient à les attaquer.",
       "annotations": "An. dû Monde 2942.",
       "source_pages": [
         "page_0308.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Derelinquens ergo David vasa quæ attulerat sub manu custodis ad sarcinas, cucurrit ad locum certaminis, et interrogabat si omnia rectè agerentur erga fratres suos.",
-      "french": "David ayant donc laissé au bagage tout ce qu'il avait apporté, entre les mains d'un homme pour en avoir soin, courut au lieu du combat, et s'enquit de l'état de ses frères, et s'ils se portaient bien.",
+      "french": "David ayant donc laissé au bagage tout ce qu’il avait apporté, entre les mains d’un homme pour en avoir soin, courut au lieu du combat, et s’enquit de l’état de ses frères, et s’ils se portaient bien.",
       "annotations": null,
       "source_pages": [
         "page_0308.json"
@@ -204,8 +204,8 @@
     },
     {
       "verse_number": 23,
-      "latin": "Cúmque adhuc ille loqueretur eis, apparuit vir ille spurius ascendens, Goliat-nomine, Philisthæus, de Geth, de castris Philisthinorum : et loquente eo hæc eadem verba audivit David.",
-      "french": "Lorsqu'il parlait encore, ce Philistin de Geth, appelé Goliat, qui était bâtard, sortit du camp des Philistins ; et David lui entendit dire les mêmes discours qu'auparavant.",
+      "latin": "Cúmque adhuc ille loqueretur eis, apparuit vir ille spurius ascendens, Goliat-nomine, Philisthæus, de Geth, de castris Philisthinorum : et loquente eo hæc eadem verba audivit David.",
+      "french": "Lorsqu’il parlait encore, ce Philistin de Geth, appelé Goliat, qui était bâtard, sortit du camp des Philistins ; et David lui entendit dire les mêmes discours qu’auparavant.",
       "annotations": null,
       "source_pages": [
         "page_0308.json"
@@ -222,8 +222,8 @@
     },
     {
       "verse_number": 25,
-      "latin": "Et dixit unus quispiam de Israël : Num vidistis virum hunc qui ascendit ? Ad exprobrandum enim Israëli ascendit. Virum ergo qui percusserit eum, ditabit Rex divitiis magnis, et filiam suam dabit ei, et domum patris ejus faciet absque tributo in Israël.",
-      "french": "Et quelqu'un du peuple d'Israël se mit à dire : Voyez-vous cet homme qui se présente au combat ? Il vient pour insulter Israël. Que s'il se trouve un homme qui le puisse tuer, le Roi le comblera de richesses, lui donnera sa fille en mariage, et affranchira de tribut la maison de son père dans Israël.",
+      "latin": "Et dixit unus quispiam de Israël : Num vidistis virum hunc qui ascendit ? Ad exprobrandum enim Israëli ascendit. Virum ergo qui percusserit eum, ditabit Rex divitiis magnis, et filiam suam dabit ei, et domum patris ejus faciet absque tributo in Israël.",
+      "french": "Et quelqu’un du peuple d’Israël se mit à dire : Voyez-vous cet homme qui se présente au combat ? Il vient pour insulter Israël. Que s’il se trouve un homme qui le puisse tuer, le Roi le comblera de richesses, lui donnera sa fille en mariage, et affranchira de tribut la maison de son père dans Israël.",
       "annotations": null,
       "source_pages": [
         "page_0308.json"
@@ -231,8 +231,8 @@
     },
     {
       "verse_number": 26,
-      "latin": "Et ait David ad viros qui stabant secum, dicens : Quid dabitur viro, qui percusserit Philisthæum hunc et tulerit opprobrium de Israël ? Quis enim est hic Philisthæus incircumcisus, qui exprobravit acies Dei viventis ?",
-      "french": "David dit donc à ceux qui étaient auprès de lui : Que donnera-t-on à celui qui tuera ce Philistin, et qui vengera l'opprobre d'Israël ? Car qui est ce Philistin incirconcis, pour insulter ainsi l'armée du Dieu vivant ?",
+      "latin": "Et ait David ad viros qui stabant secum, dicens : Quid dabitur viro, qui percusserit Philisthæum hunc et tulerit opprobrium de Israël ? Quis enim est hic Philisthæus incircumcisus, qui exprobravit acies Dei viventis ?",
+      "french": "David dit donc à ceux qui étaient auprès de lui : Que donnera-t-on à celui qui tuera ce Philistin, et qui vengera l’opprobre d’Israël ? Car qui est ce Philistin incirconcis, pour insulter ainsi l’armée du Dieu vivant ?",
       "annotations": "An. du Monde 2942.",
       "source_pages": [
         "page_0309.json"
@@ -240,8 +240,8 @@
     },
     {
       "verse_number": 27,
-      "latin": "Referebat autem ei populus eundem sermonem, dicens : Hæc dabuntur viro, qui percusserit eum.",
-      "french": "Et le peuple lui répétait les mêmes choses, en disant : On donnera telle récompense à celui qui l'aura tué.",
+      "latin": "Referebat autem ei populus eundem sermonem, dicens : Hæc dabuntur viro, qui percusserit eum.",
+      "french": "Et le peuple lui répétait les mêmes choses, en disant : On donnera telle récompense à celui qui l’aura tué.",
       "annotations": null,
       "source_pages": [
         "page_0309.json"
@@ -249,8 +249,8 @@
     },
     {
       "verse_number": 28,
-      "latin": "Quod cùm audisset Eliab frater ejus major, loquentem eo cum aliis, iratus est contra David, et ait : Quare venisti, et quare dereliquisti panculas oves illas in deserto ? Ego novi superbiam tuam, et nequitiam cordis tui : quia ut videres prælium, descendisti.",
-      "french": "Mais Éliab, frère aîné de David, l'ayant entendu parler ainsi avec d'autres, se mit en colère contre lui, et lui dit : Pourquoi êtes-vous venu, et pourquoi avez-vous abandonné dans le désert ce peu de brebis ? Je sais quel est votre orgueil, et la malignité de votre cœur, et que vous n'êtes venu ici que pour voir le combat.",
+      "latin": "Quod cùm audisset Eliab frater ejus major, loquentem eo cum aliis, iratus est contra David, et ait : Quare venisti, et quare dereliquisti panculas oves illas in deserto ? Ego novi superbiam tuam, et nequitiam cordis tui : quia ut videres prælium, descendisti.",
+      "french": "Mais Éliab, frère aîné de David, l’ayant entendu parler ainsi avec d’autres, se mit en colère contre lui, et lui dit : Pourquoi êtes-vous venu, et pourquoi avez-vous abandonné dans le désert ce peu de brebis ? Je sais quel est votre orgueil, et la malignité de votre cœur, et que vous n’êtes venu ici que pour voir le combat.",
       "annotations": null,
       "source_pages": [
         "page_0309.json"
@@ -258,8 +258,8 @@
     },
     {
       "verse_number": 29,
-      "latin": "Et dixit David : Quid feci ? Numquid non verbum est ?",
-      "french": "David lui dit : Qu'ai-je fait ? N'est-il pas permis de parler ?",
+      "latin": "Et dixit David : Quid feci ? Numquid non verbum est ?",
+      "french": "David lui dit : Qu’ai-je fait ? N’est-il pas permis de parler ?",
       "annotations": null,
       "source_pages": [
         "page_0309.json"
@@ -268,7 +268,7 @@
     {
       "verse_number": 30,
       "latin": "Et declinavit paululùm ab eo ad alium, dixitque eundem sermonem. Et respondit ei populus verbum sicut priùs.",
-      "french": "Et s'étant un peu détourné de lui, il s'en alla d'un autre côté, où il dit la même chose ; et le peuple lui répondit comme auparavant.",
+      "french": "Et s’étant un peu détourné de lui, il s’en alla d’un autre côté, où il dit la même chose ; et le peuple lui répondit comme auparavant.",
       "annotations": null,
       "source_pages": [
         "page_0309.json"
@@ -285,8 +285,8 @@
     },
     {
       "verse_number": 32,
-      "latin": "Ad quem cùm fuisset adductus, locutus est ei : Non concidat cor cujusquam in eo : ego servus tuus vadam, et pugnabo adversus Philisthæum.",
-      "french": "Et Saül l'ayant fait venir devant lui, David lui parla de cette sorte : Que personne ne s'épouvante des insultes de ce Philistin : votre serviteur est prêt à l'aller combattre.",
+      "latin": "Ad quem cùm fuisset adductus, locutus est ei : Non concidat cor cujusquam in eo : ego servus tuus vadam, et pugnabo adversus Philisthæum.",
+      "french": "Et Saül l’ayant fait venir devant lui, David lui parla de cette sorte : Que personne ne s’épouvante des insultes de ce Philistin : votre serviteur est prêt à l’aller combattre.",
       "annotations": "An. du Monde 2942.",
       "source_pages": [
         "page_0310.json"
@@ -294,8 +294,8 @@
     },
     {
       "verse_number": 33,
-      "latin": "Et ait Saül ad David : Non vales resistere Philisthæo isti, nec pugnare adversus eum : quia puer es, hic autem vir bellator est ab adolescentia sua.",
-      "french": "Saül lui dit : Vous ne sauriez résister à ce Philistin, ni combattre contre lui ; parce que vous êtes encore jeune, et que celui-ci a toujours été à la guerre depuis sa jeunesse.",
+      "latin": "Et ait Saül ad David : Non vales resistere Philisthæo isti, nec pugnare adversus eum : quia puer es, hic autem vir bellator est ab adolescentia sua.",
+      "french": "Saül lui dit : Vous ne sauriez résister à ce Philistin, ni combattre contre lui ; parce que vous êtes encore jeune, et que celui-ci a toujours été à la guerre depuis sa jeunesse.",
       "annotations": null,
       "source_pages": [
         "page_0310.json"
@@ -303,8 +303,8 @@
     },
     {
       "verse_number": 34,
-      "latin": "Dixitque David ad Saül : Pascebat servus tuus patris sui gregem, et veniebat leo, vel ursus, et tollebat arietem de medio gregis :",
-      "french": "David lui répondit : Lorsque votre serviteur menait paître le troupeau de son père, il venait quelquefois un lion ou un ours, qui emportait un bélier du troupeau :",
+      "latin": "Dixitque David ad Saül : Pascebat servus tuus patris sui gregem, et veniebat leo, vel ursus, et tollebat arietem de medio gregis :",
+      "french": "David lui répondit : Lorsque votre serviteur menait paître le troupeau de son père, il venait quelquefois un lion ou un ours, qui emportait un bélier du troupeau :",
       "annotations": null,
       "source_pages": [
         "page_0310.json"
@@ -312,8 +312,8 @@
     },
     {
       "verse_number": 35,
-      "latin": "Et persequebar eos, et percutiebam, eruebámque de ore eorum : et si consurgebant adversum me, et apprehendebam mentum eorum, et suffocabam, interficiebámque eos.",
-      "french": "Alors je courais après eux, je les attaquais, et je leur arrachais la proie d'entre les dents ; et lorsqu'ils se jetaient sur moi, je les prenais à la gorge, je les étranglais, et je les tuais.",
+      "latin": "Et persequebar eos, et percutiebam, eruebámque de ore eorum : et si consurgebant adversum me, et apprehendebam mentum eorum, et suffocabam, interficiebámque eos.",
+      "french": "Alors je courais après eux, je les attaquais, et je leur arrachais la proie d’entre les dents ; et lorsqu’ils se jetaient sur moi, je les prenais à la gorge, je les étranglais, et je les tuais.",
       "annotations": null,
       "source_pages": [
         "page_0310.json"
@@ -321,8 +321,8 @@
     },
     {
       "verse_number": 36,
-      "latin": "Nam et leonem et ursum interfeci ego servus tuus : erit igitur et Philisthæus hic incircumcisus, quasi unus ex eis. Nunc vadam, et auferam opprobrium populi : quoniam quis est iste Philisthæus incircumcisus, qui ausus est maledicere exercitui Dei viventis ?",
-      "french": "C'est ainsi que votre serviteur a tué un lion et un ours, et il en sera autant de ce Philistin incirconcis. J'irai de ce pas, et je ferai cesser l'opprobre du peuple : Car qui est ce Philistin incirconcis, pour oser maudire l'armée du Dieu vivant ?",
+      "latin": "Nam et leonem et ursum interfeci ego servus tuus : erit igitur et Philisthæus hic incircumcisus, quasi unus ex eis. Nunc vadam, et auferam opprobrium populi : quoniam quis est iste Philisthæus incircumcisus, qui ausus est maledicere exercitui Dei viventis ?",
+      "french": "C’est ainsi que votre serviteur a tué un lion et un ours, et il en sera autant de ce Philistin incirconcis. J’irai de ce pas, et je ferai cesser l’opprobre du peuple : Car qui est ce Philistin incirconcis, pour oser maudire l’armée du Dieu vivant ?",
       "annotations": null,
       "source_pages": [
         "page_0310.json"
@@ -330,8 +330,8 @@
     },
     {
       "verse_number": 37,
-      "latin": "Et ait David : Dominus qui eripuit me de manu leonis, et de manu ursi, ipse me liberabit de manu Philisthæi hujus. Dixit autem Saül ad David : Vade et Dominus tecum sit.",
-      "french": "Et David ajouta : Le Seigneur qui m'a délivré des griffes du lion, et de la gueule de l'ours, me délivrera encore de la main de ce Philistin. Saül dit donc à David : Allez, et que le Seigneur soit avec vous.",
+      "latin": "Et ait David : Dominus qui eripuit me de manu leonis, et de manu ursi, ipse me liberabit de manu Philisthæi hujus. Dixit autem Saül ad David : Vade et Dominus tecum sit.",
+      "french": "Et David ajouta : Le Seigneur qui m’a délivré des griffes du lion, et de la gueule de l’ours, me délivrera encore de la main de ce Philistin. Saül dit donc à David : Allez, et que le Seigneur soit avec vous.",
       "annotations": null,
       "source_pages": [
         "page_0310.json"
@@ -348,8 +348,8 @@
     },
     {
       "verse_number": 39,
-      "latin": "Accinctus ergo David gladio ejus super vestem suam, cœpit tentare si armatus posset incedere : non enim habebat consuetudinem. Dixitque David ad Saül : Non possum sic incedere, quia non usum habeo. Et deposuit ea.",
-      "french": "Et David s’étant mis une épée au côté, commença à essayer s’il pourrait marcher avec ces armes, ne l’ayant point fait jusqu’alors. Et il dit à Saül : Je ne saurais marcher ainsi ; parce que je n’y suis pas accoutumé. Ayant donc quitté ces armes,",
+      "latin": "Accinctus ergo David gladio ejus super vestem suam, cœpit tentare si armatus posset incedere : non enim habebat consuetudinem. Dixitque David ad Saül : Non possum sic incedere, quia non usum habeo. Et deposuit ea.",
+      "french": "Et David s’étant mis une épée au côté, commença à essayer s’il pourrait marcher avec ces armes, ne l’ayant point fait jusqu’alors. Et il dit à Saül : Je ne saurais marcher ainsi ; parce que je n’y suis pas accoutumé. Ayant donc quitté ces armes,",
       "annotations": null,
       "source_pages": [
         "page_0311.json"
@@ -357,8 +357,8 @@
     },
     {
       "verse_number": 40,
-      "latin": "Et tulit baculum suum, quem semper habebat in manibus, et elegit sibi quinque limpidissimos lapides de torrente, et misit eos in peram pastoralem, quàm habebat secum, et fundam manu tulit : et processit adversum Philistheum.",
-      "french": "Il prit le bâton qu’il avait toujours à la main; il choisit dans le torrent cinq pierres polies, et les mit dans sa panetière, qu’il avait sur lui; et tenant à la main sa fronde, marcha contre le Philistin.",
+      "latin": "Et tulit baculum suum, quem semper habebat in manibus, et elegit sibi quinque limpidissimos lapides de torrente, et misit eos in peram pastoralem, quàm habebat secum, et fundam manu tulit : et processit adversum Philistheum.",
+      "french": "Il prit le bâton qu’il avait toujours à la main ; il choisit dans le torrent cinq pierres polies, et les mit dans sa panetière, qu’il avait sur lui ; et tenant à la main sa fronde, marcha contre le Philistin.",
       "annotations": null,
       "source_pages": [
         "page_0311.json"
@@ -384,8 +384,8 @@
     },
     {
       "verse_number": 43,
-      "latin": "Et dixit Philisthæus ad David : Numquid ego canis sum, quòd tu venis ad me cum baculo? Et maledixit Philisthæus David in diis suis.",
-      "french": "Et lui dit : Suis-je un chien, pour que tu viennes à moi avec un bâton? Et ayant maudit David, en jurant par ses Dieux,",
+      "latin": "Et dixit Philisthæus ad David : Numquid ego canis sum, quòd tu venis ad me cum baculo ? Et maledixit Philisthæus David in diis suis.",
+      "french": "Et lui dit : Suis-je un chien, pour que tu viennes à moi avec un bâton ? Et ayant maudit David, en jurant par ses Dieux,",
       "annotations": null,
       "source_pages": [
         "page_0311.json"
@@ -393,8 +393,8 @@
     },
     {
       "verse_number": 44,
-      "latin": "Dixitque ad David : Veni ad me, et dabo carnes tuas volatilibus cœli, et bestiis terræ.",
-      "french": "Il ajouta : Viens à moi, et je donnerai ta chair à manger aux oiseaux du Ciel, et aux bêtes de la terre.",
+      "latin": "Dixitque ad David : Veni ad me, et dabo carnes tuas volatilibus cœli, et bestiis terræ.",
+      "french": "Il ajouta : Viens à moi, et je donnerai ta chair à manger aux oiseaux du Ciel, et aux bêtes de la terre.",
       "annotations": "An. du Monde 2942.",
       "source_pages": [
         "page_0312.json"
@@ -402,8 +402,8 @@
     },
     {
       "verse_number": 45,
-      "latin": "Dixit autem David ad Philisthæum : Tu venis ad me cum gladio, et hasta, et clypeo : ego autem venio ad te in nomine Domini exercituum, Dei agminum Israël, quibus exprobrasti.",
-      "french": "Mais David dit au Philistin : Tu viens à moi avec l'épée, la lance, et le bouclier ; mais moi je viens à toi au nom du Seigneur des armées, du Dieu des troupes d'Israël, auxquelles tu as insulté aujourd'hui.",
+      "latin": "Dixit autem David ad Philisthæum : Tu venis ad me cum gladio, et hasta, et clypeo : ego autem venio ad te in nomine Domini exercituum, Dei agminum Israël, quibus exprobrasti.",
+      "french": "Mais David dit au Philistin : Tu viens à moi avec l’épée, la lance, et le bouclier ; mais moi je viens à toi au nom du Seigneur des armées, du Dieu des troupes d’Israël, auxquelles tu as insulté aujourd’hui.",
       "annotations": null,
       "source_pages": [
         "page_0312.json"
@@ -411,8 +411,8 @@
     },
     {
       "verse_number": 46,
-      "latin": "Hodiè, et dabit te Dominus in manu mea, et percutiam te, et auferam caput tuum à te : et dabo cadavera castrorum Philisthiim hodiè volatilibus cœli, et bestiis terræ : ut sciat omnis terra, quia est Deus in Israël.",
-      "french": "Le Seigneur te livrera entre mes mains, je te tuerai, et je te couperai la tête : et je donnerai aujourd'hui les corps morts des Philistins aux oiseaux du Ciel, et aux bêtes de la terre ; afin que toute la terre sache qu'il y a un Dieu dans Israël.",
+      "latin": "Hodiè, et dabit te Dominus in manu mea, et percutiam te, et auferam caput tuum à te : et dabo cadavera castrorum Philisthiim hodiè volatilibus cœli, et bestiis terræ : ut sciat omnis terra, quia est Deus in Israël.",
+      "french": "Le Seigneur te livrera entre mes mains, je te tuerai, et je te couperai la tête : et je donnerai aujourd’hui les corps morts des Philistins aux oiseaux du Ciel, et aux bêtes de la terre ; afin que toute la terre sache qu’il y a un Dieu dans Israël.",
       "annotations": null,
       "source_pages": [
         "page_0312.json"
@@ -420,8 +420,8 @@
     },
     {
       "verse_number": 47,
-      "latin": "Et noverit universa ecclesia hæc, quia non in gladio, nec in hasta salvat Dominus : ipsius enim est bellum, et tradet vos in manus nostras.",
-      "french": "Et que toute cette multitude d'hommes reconnaisse, que ce n'est point par l'épée ni par la lance que le Seigneur sauve ; parce qu'il est l'arbitre de la guerre, et ce sera lui qui vous livrera entre nos mains.",
+      "latin": "Et noverit universa ecclesia hæc, quia non in gladio, nec in hasta salvat Dominus : ipsius enim est bellum, et tradet vos in manus nostras.",
+      "french": "Et que toute cette multitude d’hommes reconnaisse, que ce n’est point par l’épée ni par la lance que le Seigneur sauve ; parce qu’il est l’arbitre de la guerre, et ce sera lui qui vous livrera entre nos mains.",
       "annotations": "An. du Monde 2942.",
       "source_pages": [
         "page_0313.json"
@@ -430,7 +430,7 @@
     {
       "verse_number": 48,
       "latin": "Cùm ergo surrexisset Philisthæus, et veniret, et appropinquaret contra David, festinavit David et cucurrit ad pugnam ex adverso Philisthæi.",
-      "french": "Le Philistin s'avança donc, et marcha contre David. Et lorsqu'il en fut proche, David se hâta, et courut contre lui pour le combattre.",
+      "french": "Le Philistin s’avança donc, et marcha contre David. Et lorsqu’il en fut proche, David se hâta, et courut contre lui pour le combattre.",
       "annotations": null,
       "source_pages": [
         "page_0313.json"
@@ -438,8 +438,8 @@
     },
     {
       "verse_number": 49,
-      "latin": "Et misit manum suam in peram : tulisque unum lapidem, et fundâ jecit, et circumducens percussit Philisthæum in fronte : et infixus est lapis in fronte ejus, et cecidit in faciem suam super terram.",
-      "french": "Il mit la main dans sa panetière, il en prit une pierre, la lança avec sa fronde, et en frappa le Philistin dans le front : la pierre s'enfonça dans le front du Philistin, et il tomba le visage contre terre.",
+      "latin": "Et misit manum suam in peram : tulisque unum lapidem, et fundâ jecit, et circumducens percussit Philisthæum in fronte : et infixus est lapis in fronte ejus, et cecidit in faciem suam super terram.",
+      "french": "Il mit la main dans sa panetière, il en prit une pierre, la lança avec sa fronde, et en frappa le Philistin dans le front : la pierre s’enfonça dans le front du Philistin, et il tomba le visage contre terre.",
       "annotations": null,
       "source_pages": [
         "page_0313.json"
@@ -448,7 +448,7 @@
     {
       "verse_number": 50,
       "latin": "Prævaluísque David adversum Philisthæum in funda et lapide, percussítque Philisthæum interfecit. Cùmque gladium non haberet in manu David,",
-      "french": "Ainsi David remporta la victoire sur le Philistin, avec une fronde et une pierre : seule : il le renversa par terre, et le tua. Et comme il n’avait point d’épée,",
+      "french": "Ainsi David remporta la victoire sur le Philistin, avec une fronde et une pierre : seule : il le renversa par terre, et le tua. Et comme il n’avait point d’épée,",
       "annotations": "An. du Monde 2942.",
       "source_pages": [
         "page_0314.json"
@@ -456,8 +456,8 @@
     },
     {
       "verse_number": 51,
-      "latin": "Cucurrit, et stetit super Philisthæum, et tulit gladium ejus, et eduxit eum de vagina sua : et interfecit eum, præcidítque caput ejus. Videntes autem Philisthim, quòd mortuus esset fortiffimus corum, fugerunt.",
-      "french": "Il courut, et se jeta sur le Philistin ; mit la main sur son épée, la tira du fourreau, et acheva de lui ôter la vie, en lui coupant la tête. Les Philistins voyant que le plus vaillant d’entre eux était mort, s’enfuirent.",
+      "latin": "Cucurrit, et stetit super Philisthæum, et tulit gladium ejus, et eduxit eum de vagina sua : et interfecit eum, præcidítque caput ejus. Videntes autem Philisthim, quòd mortuus esset fortiffimus corum, fugerunt.",
+      "french": "Il courut, et se jeta sur le Philistin ; mit la main sur son épée, la tira du fourreau, et acheva de lui ôter la vie, en lui coupant la tête. Les Philistins voyant que le plus vaillant d’entre eux était mort, s’enfuirent.",
       "annotations": null,
       "source_pages": [
         "page_0314.json"
@@ -466,7 +466,7 @@
     {
       "verse_number": 52,
       "latin": "Et consurgentes viri Israël et Juda vociferati sunt, et persecuti sunt Philistiæos usque dum venirent in vallem, et usque ad portas Accaron, ceciderúntque vulnerati de Philisthiim in via Saraïm, et usque ad Geth, et usque ad Accaron.",
-      "french": "Et les Israélites, et ceux de Juda s'élevant avec un grand cri, les poursuivirent jusqu'à la vallée, et aux portes d'Accaron. Et plusieurs des Philistins tombèrent percés de coups, dans le chemin de Saraïm jusqu'à Geth et Accaron.",
+      "french": "Et les Israélites, et ceux de Juda s’élevant avec un grand cri, les poursuivirent jusqu’à la vallée, et aux portes d’Accaron. Et plusieurs des Philistins tombèrent percés de coups, dans le chemin de Saraïm jusqu’à Geth et Accaron.",
       "annotations": "An. du Monde 2942.",
       "source_pages": [
         "page_0315.json"
@@ -475,7 +475,7 @@
     {
       "verse_number": 53,
       "latin": "Et revertentes filii Israël postquam persecuti fuerant Philisthæos, invaserunt castra eorum.",
-      "french": "Les enfants d'Israël étant revenus après avoir poursuivi les Philistins, pillèrent leur camp.",
+      "french": "Les enfants d’Israël étant revenus après avoir poursuivi les Philistins, pillèrent leur camp.",
       "annotations": null,
       "source_pages": [
         "page_0315.json"
@@ -492,8 +492,8 @@
     },
     {
       "verse_number": 55,
-      "latin": "Eo autem tempore, que viderat Saul, David egredientem contra Philisthæum, ait ad Abner Principem militiæ: De qua stirpe descendit hic adolescens, Abner? Dixitque Abner: Vivit anima tua, Rex, si novi.",
-      "french": "Lorsque Saül vit David qui marchait pour combattre le Philistin, il dit à Abner, général de son armée: Abner, de quelle famille est ce jeune homme? Abner lui répondit: Seigneur, je vous jure que je n'en sais rien.",
+      "latin": "Eo autem tempore, que viderat Saul, David egredientem contra Philisthæum, ait ad Abner Principem militiæ : De qua stirpe descendit hic adolescens, Abner ? Dixitque Abner : Vivit anima tua, Rex, si novi.",
+      "french": "Lorsque Saül vit David qui marchait pour combattre le Philistin, il dit à Abner, général de son armée : Abner, de quelle famille est ce jeune homme ? Abner lui répondit : Seigneur, je vous jure que je n’en sais rien.",
       "annotations": null,
       "source_pages": [
         "page_0316.json"
@@ -501,8 +501,8 @@
     },
     {
       "verse_number": 56,
-      "latin": "Et ait Rex: Interroga tu, cujus filius sit iste puer?",
-      "french": "Et le roi lui dit: Enquérez-vous de qui il est fils.",
+      "latin": "Et ait Rex : Interroga tu, cujus filius sit iste puer ?",
+      "french": "Et le roi lui dit : Enquérez-vous de qui il est fils.",
       "annotations": null,
       "source_pages": [
         "page_0316.json"
@@ -511,7 +511,7 @@
     {
       "verse_number": 57,
       "latin": "Cùmque regressus esset David, percusso Philisthæo, tulit eum Abner, et introduxit coram Saüle, caput Philisthæi habentem in manu.",
-      "french": "Et lorsque David fut retourné du combat, après avoir tué le Philistin, Abner l'amena, et le présenta à Saül, ayant la tête du Philistin à la main.",
+      "french": "Et lorsque David fut retourné du combat, après avoir tué le Philistin, Abner l’amena, et le présenta à Saül, ayant la tête du Philistin à la main.",
       "annotations": null,
       "source_pages": [
         "page_0316.json"
@@ -519,8 +519,8 @@
     },
     {
       "verse_number": 58,
-      "latin": "Et ait ad eum Saül: De qua progenie es, ô adolescens? Dixitque David: Filius servi tui Isaï, Bethleemitæ ego sum.",
-      "french": "Et Saül dit à David: Jeune homme, de quelle famille êtes-vous? David lui répondit: Je suis fils de votre serviteur Isaï, qui est de Bethléem.",
+      "latin": "Et ait ad eum Saül : De qua progenie es, ô adolescens ? Dixitque David : Filius servi tui Isaï, Bethleemitæ ego sum.",
+      "french": "Et Saül dit à David : Jeune homme, de quelle famille êtes-vous ? David lui répondit : Je suis fils de votre serviteur Isaï, qui est de Bethléem.",
       "annotations": null,
       "source_pages": [
         "page_0316.json"

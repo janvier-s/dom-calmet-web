@@ -1,13 +1,13 @@
 {
   "book": "Deutéronome",
   "chapter": 16,
-  "chapter_summary": "Des trois fêtes de Pâque, de la Pentecôte, et des Tabernacles. Des Juges, et des Officiers de la justice. Règles pour leur conduite. Défense de planter des bois près de l'Autel du Seigneur, et d'ériger des statues aux faux Dieux.",
+  "chapter_summary": "Des trois fêtes de Pâque, de la Pentecôte, et des Tabernacles. Des Juges, et des Officiers de la justice. Règles pour leur conduite. Défense de planter des bois près de l’Autel du Seigneur, et d’ériger des statues aux faux Dieux.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Observa mensem novarum frugum, et verni primum temporis, ut facias Phase Domino Deo tuo, quoniam in isto mense eduxit te Dominus Deus tuus de Ægypto nocte.",
-      "french": "Observez le mois des grains nouveaux, qui est au commencement du Printemps, en célébrant la Pâque en l'honneur du Seigneur votre Dieu ; parce que c'est le mois où le Seigneur votre Dieu vous a fait sortir de l'Égypte pendant la nuit.",
+      "french": "Observez le mois des grains nouveaux, qui est au commencement du Printemps, en célébrant la Pâque en l’honneur du Seigneur votre Dieu ; parce que c’est le mois où le Seigneur votre Dieu vous a fait sortir de l’Égypte pendant la nuit.",
       "annotations": null,
       "source_pages": [
         "page_0222.json"
@@ -25,7 +25,7 @@
     {
       "verse_number": 3,
       "latin": "Non comedes in eo panem fermentatum : Septem diebus comedes absque fermento afflictionis panem, quoniam in pavore egressus es de Ægypto : ut memineris diei egressionis tuæ de Ægypto, omnibus diebus vitæ tuæ.",
-      "french": "Vous ne mangerez point pendant cette Fête, du pain avec du levain : mais pendant sept jours vous mangerez du pain d'affliction, du pain sans levain ; parce que vous êtes sortis de l'Égypte dans la crainte, afin que vous vous souveniez du jour de votre sortie d'Égypte, tous les jours de votre vie.",
+      "french": "Vous ne mangerez point pendant cette Fête, du pain avec du levain : mais pendant sept jours vous mangerez du pain d’affliction, du pain sans levain ; parce que vous êtes sortis de l’Égypte dans la crainte, afin que vous vous souveniez du jour de votre sortie d’Égypte, tous les jours de votre vie.",
       "annotations": null,
       "source_pages": [
         "page_0224.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Non apparebit fermentum in omnibus terminis tuis septem diebus, et non remanebit de carnibus ejus quod immolatum est vespere in die prima, usque mane.",
-      "french": "Il ne paraîtra point de levain dans toute l'étendue de votre pays, pendant sept jours, et la victime qui aura été immolée le soir du premier jour, sera consommée, en sorte qu'il n'en demeure rien jusqu'au matin.",
+      "french": "Il ne paraîtra point de levain dans toute l’étendue de votre pays, pendant sept jours, et la victime qui aura été immolée le soir du premier jour, sera consommée, en sorte qu’il n’en demeure rien jusqu’au matin.",
       "annotations": null,
       "source_pages": [
         "page_0225.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Non poteris immolare Phase in qualibet urbium tuarum, quas Dominus Deus tuus daturus est tibi ;",
-      "french": "Vous ne pourrez pas immoler la Pâque indifféremment dans toutes les Villes, que le Seigneur votre Dieu vous doit donner ;",
+      "latin": "Non poteris immolare Phase in qualibet urbium tuarum, quas Dominus Deus tuus daturus est tibi ;",
+      "french": "Vous ne pourrez pas immoler la Pâque indifféremment dans toutes les Villes, que le Seigneur votre Dieu vous doit donner ;",
       "annotations": null,
       "source_pages": [
         "page_0225.json"
@@ -52,7 +52,7 @@
     {
       "verse_number": 6,
       "latin": "Sed in loco quem elegerit Dominus Deus tuus, ut habitet nomen ejus ibi : immolabis Phase vespere ad Solis occasum, quando egressus es de Ægypto.",
-      "french": "Mais seulement dans le lieu que le Seigneur votre Dieu aura choisi pour y établir son nom ; et vous immolerez la Pâque au soir, vers le coucher du Soleil, dans le temps de votre sortie de l'Égypte.",
+      "french": "Mais seulement dans le lieu que le Seigneur votre Dieu aura choisi pour y établir son nom ; et vous immolerez la Pâque au soir, vers le coucher du Soleil, dans le temps de votre sortie de l’Égypte.",
       "annotations": null,
       "source_pages": [
         "page_0226.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Et coques, et comedes in loco quem elegerit Dominus Deus tuus ; maneque consurgens, vades in tabernacula tua.",
-      "french": "Vous ferez cuire l'hostie, et vous la mangerez dans le lieu que le Seigneur votre Dieu aura choisi ; et le lendemain au matin, vous pourrez vous en retourner dans vos maisons.",
+      "latin": "Et coques, et comedes in loco quem elegerit Dominus Deus tuus ; maneque consurgens, vades in tabernacula tua.",
+      "french": "Vous ferez cuire l’hostie, et vous la mangerez dans le lieu que le Seigneur votre Dieu aura choisi ; et le lendemain au matin, vous pourrez vous en retourner dans vos maisons.",
       "annotations": null,
       "source_pages": [
         "page_0227.json"
@@ -70,7 +70,7 @@
     {
       "verse_number": 8,
       "latin": "Sex diebus comedes azyma, et in die septima, quia collecta est Domini Dei tui, non facies opus.",
-      "french": "Vous mangerez des pains sans levain pendant six jours ; et le septième jour vous ne ferez point d'œuvre servile, parce que ce sera le jour de l'assemblée solennelle instituée en l'honneur du Seigneur votre Dieu.",
+      "french": "Vous mangerez des pains sans levain pendant six jours ; et le septième jour vous ne ferez point d’œuvre servile, parce que ce sera le jour de l’assemblée solennelle instituée en l’honneur du Seigneur votre Dieu.",
       "annotations": null,
       "source_pages": [
         "page_0228.json"
@@ -88,7 +88,7 @@
     {
       "verse_number": 10,
       "latin": "Et celebrabis diem festum hebdomadarum Domino Deo tuo, oblationem spontaneam manus tuæ, quam offeres juxta benedictionem Domini Dei tui.",
-      "french": "Et vous célébrerez la Fête des Semaines en l'honneur du Seigneur votre Dieu, en lui présentant l'oblation volontaire du travail de vos mains, que vous lui offrirez, pour reconnaître la bénédiction que le Seigneur votre Dieu vous aura donnée.",
+      "french": "Et vous célébrerez la Fête des Semaines en l’honneur du Seigneur votre Dieu, en lui présentant l’oblation volontaire du travail de vos mains, que vous lui offrirez, pour reconnaître la bénédiction que le Seigneur votre Dieu vous aura donnée.",
       "annotations": null,
       "source_pages": [
         "page_0229.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Et epulaberis coram Domino Deo tuo, tu, filius tuus, et filia tua, servus tuus, et ancilla tua, et Levites qui est intra portas tuis, advena ac pupillus, et vidua, qui morantur vobiscum ; in loco quem elegeris Dominus Deus tuus, ut habitet nomen ejus ibi.",
-      "french": "Et vous ferez devant le Seigneur votre Dieu des festins de réjouissance, vous, votre fils et votre fille, votre serviteur, et votre servante, le Lévite qui est dans l'enceinte de vos murailles, l'étranger, l'orphelin, et la veuve qui demeurent avec vous, dans le lieu que le Seigneur votre Dieu aura choisi pour y établir son nom.",
+      "latin": "Et epulaberis coram Domino Deo tuo, tu, filius tuus, et filia tua, servus tuus, et ancilla tua, et Levites qui est intra portas tuis, advena ac pupillus, et vidua, qui morantur vobiscum ; in loco quem elegeris Dominus Deus tuus, ut habitet nomen ejus ibi.",
+      "french": "Et vous ferez devant le Seigneur votre Dieu des festins de réjouissance, vous, votre fils et votre fille, votre serviteur, et votre servante, le Lévite qui est dans l’enceinte de vos murailles, l’étranger, l’orphelin, et la veuve qui demeurent avec vous, dans le lieu que le Seigneur votre Dieu aura choisi pour y établir son nom.",
       "annotations": null,
       "source_pages": [
         "page_0230.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Et recordaberis quoniam servus fueris in Ægypto : custodiesque ac facies quæ præcepta sunt.",
-      "french": "Vous vous souviendrez que vous avez été vous-mêmes esclaves en Égypte, et vous aurez soin d'observer et de faire ce qui vous a été commandé.",
+      "french": "Vous vous souviendrez que vous avez été vous-mêmes esclaves en Égypte, et vous aurez soin d’observer et de faire ce qui vous a été commandé.",
       "annotations": null,
       "source_pages": [
         "page_0230.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Solemnitatem quoque tabernaculorum celebrabis per septem dies, quando collegeris de area et torculari fruges tuas.",
-      "french": "Vous célébrerez aussi la Fête solennelle des Tabernacles pendant sept jours, lorsque vous aurez recueilli ce qui vient de l'aire, et du pressoir.",
+      "french": "Vous célébrerez aussi la Fête solennelle des Tabernacles pendant sept jours, lorsque vous aurez recueilli ce qui vient de l’aire, et du pressoir.",
       "annotations": null,
       "source_pages": [
         "page_0230.json"
@@ -124,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Et epulaberis in festivitate tua, tu, filius tuus, et filia, servus tuus et ancilla, Levites quoque et advena, pupillus ac vidua, qui intra portas tuas sunt.",
-      "french": "Et vous ferez des festins de réjouissance en cette Fête, vous, votre fils, et votre fille, votre serviteur, et votre servante, avec le Lévite, l'étranger, l'orphelin, et la veuve, qui sont dans vos Villes.",
+      "french": "Et vous ferez des festins de réjouissance en cette Fête, vous, votre fils, et votre fille, votre serviteur, et votre servante, avec le Lévite, l’étranger, l’orphelin, et la veuve, qui sont dans vos Villes.",
       "annotations": null,
       "source_pages": [
         "page_0230.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Septem diebus Domino Deo tuo festa celebrabis, in loco quem elegerit Dominus : benedicetque tibi Dominus Deus tuus in cunctis frugibus tuis, et in omni opere manuum tuarum, erisque in lætitia.",
-      "french": "Vous célébrerez cette Fête pendant sept jours en l'honneur du Seigneur votre Dieu, dans le lieu que le Seigneur aura choisi ; et le Seigneur votre Dieu vous bénira dans tous les fruits de vos champs, et dans tout le travail de vos mains, et vous serez dans la joie.",
+      "french": "Vous célébrerez cette Fête pendant sept jours en l’honneur du Seigneur votre Dieu, dans le lieu que le Seigneur aura choisi ; et le Seigneur votre Dieu vous bénira dans tous les fruits de vos champs, et dans tout le travail de vos mains, et vous serez dans la joie.",
       "annotations": null,
       "source_pages": [
         "page_0231.json"
@@ -141,8 +141,8 @@
     },
     {
       "verse_number": 16,
-      "latin": "Tribus vicibus per annum apparebit omne masculinum in conspectu Domini Dei tui, in loco quem elegerit : in solemnitate azymorum, in solemnitate hebdomadarum, et in solemnitate tabernaculorum. Non apparebit ante Dominum vacuus:",
-      "french": "Tous vos enfants mâles paraîtront trois fois l'année devant le Seigneur votre Dieu, dans le lieu qu'il aura choisi : à la Fête solennelle des pains sans levain, à la Fête solennelle des Semaines, et à la Fête solennelle des Tabernacles. Ils ne paraîtront point les mains vides devant le Seigneur.",
+      "latin": "Tribus vicibus per annum apparebit omne masculinum in conspectu Domini Dei tui, in loco quem elegerit : in solemnitate azymorum, in solemnitate hebdomadarum, et in solemnitate tabernaculorum. Non apparebit ante Dominum vacuus :",
+      "french": "Tous vos enfants mâles paraîtront trois fois l’année devant le Seigneur votre Dieu, dans le lieu qu’il aura choisi : à la Fête solennelle des pains sans levain, à la Fête solennelle des Semaines, et à la Fête solennelle des Tabernacles. Ils ne paraîtront point les mains vides devant le Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0231.json"
@@ -151,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Sed offeret unusquisque secundum quod habuerit, juxta benedictionem Domini Dei sui, quam dederit ei.",
-      "french": "Mais chacun offrira à proportion de ce qu'il aura, selon la bénédiction que le Seigneur son Dieu lui aura donnée.",
+      "french": "Mais chacun offrira à proportion de ce qu’il aura, selon la bénédiction que le Seigneur son Dieu lui aura donnée.",
       "annotations": null,
       "source_pages": [
         "page_0231.json"
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Judices et Magistros constitues in omnibus portis tuis, quas Dominus Deus tuus dederit tibi, per singulas tribus tuas, ut judicent populum in justo judicio,",
-      "french": "Vous établirez des Juges et des Magistrats à la porte de toutes les Villes que le Seigneur votre Dieu vous aura données, en chacune de vos Tribus, afin qu'ils jugent le peuple selon la justice,",
+      "french": "Vous établirez des Juges et des Magistrats à la porte de toutes les Villes que le Seigneur votre Dieu vous aura données, en chacune de vos Tribus, afin qu’ils jugent le peuple selon la justice,",
       "annotations": null,
       "source_pages": [
         "page_0232.json"
@@ -168,8 +168,8 @@
     },
     {
       "verse_number": 19,
-      "latin": "Nec in alteram partem declines. Non accipies personam, nec munera ; quia munera excæcant oculos sapientum, et mutant verba justorum.",
-      "french": "Sans se détourner ni d'un côté ni d'un autre. Vous n'aurez point d'égard à la qualité des personnes, et vous ne recevrez point de présents ; parce que les présents aveuglent les yeux des plus sages, et corrompent les sentiments des plus justes.",
+      "latin": "Nec in alteram partem declines. Non accipies personam, nec munera ; quia munera excæcant oculos sapientum, et mutant verba justorum.",
+      "french": "Sans se détourner ni d’un côté ni d’un autre. Vous n’aurez point d’égard à la qualité des personnes, et vous ne recevrez point de présents ; parce que les présents aveuglent les yeux des plus sages, et corrompent les sentiments des plus justes.",
       "annotations": null,
       "source_pages": [
         "page_0233.json"
@@ -187,7 +187,7 @@
     {
       "verse_number": 21,
       "latin": "Non plantabis lucum, et omnem arborem, juxta altare Domini Dei tui.",
-      "french": "Vous ne planterez ni de grands bois, ni aucun arbre, auprès de l'Autel du Seigneur votre Dieu.",
+      "french": "Vous ne planterez ni de grands bois, ni aucun arbre, auprès de l’Autel du Seigneur votre Dieu.",
       "annotations": null,
       "source_pages": [
         "page_0234.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Nec facies tibi, neque constitues statuam : quæ odit Dominus Deus tuus.",
-      "french": "Vous ne vous ferez, et ne vous dresserez point de statue ; parce que le Seigneur votre Dieu hait toutes ces choses.",
+      "french": "Vous ne vous ferez, et ne vous dresserez point de statue ; parce que le Seigneur votre Dieu hait toutes ces choses.",
       "annotations": null,
       "source_pages": [
         "page_0234.json"

@@ -1,12 +1,12 @@
 {
   "book": "1 Chroniques",
   "chapter": 4,
-  "chapter_summary": "Seconde généalogie de Juda. Généalogie de Siméon ; leurs villes.",
+  "chapter_summary": "Seconde généalogie de Juda. Généalogie de Siméon ; leurs villes.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Filii Juda : Phares, Hesron, et Charmi, et Hur, et Sobal.",
+      "latin": "Filii Juda : Phares, Hesron, et Charmi, et Hur, et Sobal.",
       "french": "Les descendants de Juda, sont Pharés, Hesron, Charmi, Hur, et Sobal.",
       "annotations": null,
       "source_pages": [
@@ -16,7 +16,7 @@
     {
       "verse_number": 2,
       "latin": "Raïa verò filius Sobal genuit Jahad, de quo nati sunt Ahumai et Laad, hæ cognationes Sarathi.",
-      "french": "Raïa, fils de Sobal, engendra Jahath, père d'Ahumaï et de Laad, d'où les Sarathites sont sortis.",
+      "french": "Raïa, fils de Sobal, engendra Jahath, père d’Ahumaï et de Laad, d’où les Sarathites sont sortis.",
       "annotations": null,
       "source_pages": [
         "page_0095.json"
@@ -25,7 +25,7 @@
     {
       "verse_number": 3,
       "latin": "Ista quoque stirps Etham, Jezrahel, et Jesema, et Jedebos. Nomen quoque sororis eorum, Asalelphuni.",
-      "french": "Voici encore la postérité d'Etham, Jezrahel, Jefema, et Jedebos, qui eurent une sœur nommée Afalelphuni.",
+      "french": "Voici encore la postérité d’Etham, Jezrahel, Jefema, et Jedebos, qui eurent une sœur nommée Afalelphuni.",
       "annotations": null,
       "source_pages": [
         "page_0095.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Phanuël autem pater Gedor, et Ezer pater Hosa. Isti sunt filii Hur primogeniti Ephrata, patris Bethlehem.",
-      "french": "Phanuël fut père de Gedor, et Ezer père d'Hosa : ce sont là les descendants d'Hur fils aîné d'Ephrata, et père de Bethléhem.",
+      "french": "Phanuël fut père de Gedor, et Ezer père d’Hosa : ce sont là les descendants d’Hur fils aîné d’Ephrata, et père de Bethléhem.",
       "annotations": null,
       "source_pages": [
         "page_0096.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Fuit autem Jabes inclytus præ fratribus suis, et mater ejus vocavit nomen illius Jabes, dicens: Quia peperi eum in dolore.",
-      "french": "Mais Jabés devint plus illustre que ses frères, et ce fut sa mère qui lui donna le nom de Jabés, en disant : C’est parce que je l’ai mis au monde avec beaucoup de douleur.",
+      "latin": "Fuit autem Jabes inclytus præ fratribus suis, et mater ejus vocavit nomen illius Jabes, dicens : Quia peperi eum in dolore.",
+      "french": "Mais Jabés devint plus illustre que ses frères, et ce fut sa mère qui lui donna le nom de Jabés, en disant : C’est parce que je l’ai mis au monde avec beaucoup de douleur.",
       "annotations": null,
       "source_pages": [
         "page_0097.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Invocavit verò Jabes Deum Israël, dicens : Si benedicens benedixeris mihi, et dilataveris terminos meos, et fuerit manus tua mecum, et feceris me à malitia non opprimi. Et præstitit Deus quæ precatus est.",
-      "french": "Or Jabés invoqua le Dieu d'Israël, en disant: Si vous vouliez bien, Seigneur, répandre sur moi vos bénédictions, et étendre les bornes de mes terres, et si votre bras m'était favorable, en empêchant que je ne succombe sous la malice des hommes. Et Dieu lui accorda ce qu'il avait demandé.",
+      "latin": "Invocavit verò Jabes Deum Israël, dicens : Si benedicens benedixeris mihi, et dilataveris terminos meos, et fuerit manus tua mecum, et feceris me à malitia non opprimi. Et præstitit Deus quæ precatus est.",
+      "french": "Or Jabés invoqua le Dieu d’Israël, en disant : Si vous vouliez bien, Seigneur, répandre sur moi vos bénédictions, et étendre les bornes de mes terres, et si votre bras m’était favorable, en empêchant que je ne succombe sous la malice des hommes. Et Dieu lui accorda ce qu’il avait demandé.",
       "annotations": null,
       "source_pages": [
         "page_0098.json"
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "Caleb autem frater Sua genuit Mahir, qui fuit pater Esthon.",
-      "french": "Caleb frère de Sua engendra Mahir, qui fut père d'Esthon.",
+      "french": "Caleb frère de Sua engendra Mahir, qui fut père d’Esthon.",
       "annotations": null,
       "source_pages": [
         "page_0098.json"
@@ -105,7 +105,7 @@
     },
     {
       "verse_number": 12,
-      "latin": "Porrò Esthon genuit Bethrapha, et Phesse, et Theinna patrem urbis Naas: hi sunt viri Recha.",
+      "latin": "Porrò Esthon genuit Bethrapha, et Phesse, et Theinna patrem urbis Naas : hi sunt viri Recha.",
       "french": "Esthon engendra Bethrapha, Phesse, et Théinna, qui fut le père de la ville de Naas. Ce sont ceux-ci qui ont peuplé la ville de Récha.",
       "annotations": null,
       "source_pages": [
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Filii autem Cenez, Othoniel, et Saraïa. Porro filii Othoniel, Hathath, et Maonathi.",
-      "french": "Cenez eut pour fils Othoniel et Saraïa. Othoniel fut père d'Hathath, et de Maonathi.",
+      "french": "Cenez eut pour fils Othoniel et Saraïa. Othoniel fut père d’Hathath, et de Maonathi.",
       "annotations": null,
       "source_pages": [
         "page_0099.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Maonathi genuit Ophra, Saraïa autem genuit Joab patrem vallis artificum : ibi quippe artifices erant.",
-      "french": "Maonathi engendra Ophra ; Saraïa engendra Joab, le père de la vallée des ouvriers. Car il y avait là toute sorte d'ouvriers.",
+      "latin": "Maonathi genuit Ophra, Saraïa autem genuit Joab patrem vallis artificum : ibi quippe artifices erant.",
+      "french": "Maonathi engendra Ophra ; Saraïa engendra Joab, le père de la vallée des ouvriers. Car il y avait là toute sorte d’ouvriers.",
       "annotations": null,
       "source_pages": [
         "page_0099.json"
@@ -151,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Et filii Ezra, Jether, et Mered, et Epher, et Jalon, genuitque Mariam, et Sammaï, et Jesba patrem Esthamo.",
-      "french": "Ceux d'Ezra, étaient Jether, Méred, Epher, et Jalon. Il eut encore Mariam, et Sammaï, et Jesba père d'Esthamo.",
+      "french": "Ceux d’Ezra, étaient Jether, Méred, Epher, et Jalon. Il eut encore Mariam, et Sammaï, et Jesba père d’Esthamo.",
       "annotations": null,
       "source_pages": [
         "page_0100.json"
@@ -159,7 +159,7 @@
     },
     {
       "verse_number": 18,
-      "latin": "Uxor quoque ejus Judaïa peperit Jared patrem Gedor, et Heber patrem Socho, et Icuthiel patrem Zanoe; hi autem filii Bethiæ filiæ Pharaonis quam accepit Mered.",
+      "latin": "Uxor quoque ejus Judaïa peperit Jared patrem Gedor, et Heber patrem Socho, et Icuthiel patrem Zanoe ; hi autem filii Bethiæ filiæ Pharaonis quam accepit Mered.",
       "french": "Sa femme fut Judaïe, qui engendra Jared père de Gédor, et Héber père de Socho, et Icuthiel père de Zanoé. Voilà les fils de Béthie fille de Pharaon, qui épousa Méred.",
       "annotations": null,
       "source_pages": [
@@ -178,7 +178,7 @@
     {
       "verse_number": 20,
       "latin": "Filii quoque Simon, Amnon, et Rinna filius Hanan, et Thilon. Et filii Jesi, Zohoth, Benzobeth.",
-      "french": "Les fils de Simon, sont Amnon et Rinna, qu'il eut de Hanan et Thilon. Et les fils de Jési sont Zohoth et Benzoheth.",
+      "french": "Les fils de Simon, sont Amnon et Rinna, qu’il eut de Hanan et Thilon. Et les fils de Jési sont Zohoth et Benzoheth.",
       "annotations": null,
       "source_pages": [
         "page_0100.json"
@@ -187,7 +187,7 @@
     {
       "verse_number": 21,
       "latin": "Filii Sela filii Juda, Her pater Lecha, et Laada pater Maresa, et cognationis domûs operantium byssum in domo juramenti.",
-      "french": "Les fils de Séla fils de Juda, sont Her, père de Lécha, et Laada père de Marésa ; et les familles de ceux qui travaillent aux ouvrages de fin lin dans la maison du jurement :",
+      "french": "Les fils de Séla fils de Juda, sont Her, père de Lécha, et Laada père de Marésa ; et les familles de ceux qui travaillent aux ouvrages de fin lin dans la maison du jurement :",
       "annotations": null,
       "source_pages": [
         "page_0101.json"
@@ -205,7 +205,7 @@
     {
       "verse_number": 23,
       "latin": "Hi sunt figuli habitantes in plantationibus et in sepibus, apud Regem in operibus ejus, commoratique sunt ibi.",
-      "french": "Ce sont là les potiers qui demeurent à Néthaïm, et à Gadera dans les maisons du Roi, où ils travaillent pour lui, et qui s'y sont établis.",
+      "french": "Ce sont là les potiers qui demeurent à Néthaïm, et à Gadera dans les maisons du Roi, où ils travaillent pour lui, et qui s’y sont établis.",
       "annotations": null,
       "source_pages": [
         "page_0102.json"
@@ -231,7 +231,7 @@
     },
     {
       "verse_number": 26,
-      "latin": "Filii Masmæ : Hamuël filius ejus, Zachur filius ejus, Semei filius ejus.",
+      "latin": "Filii Masmæ : Hamuël filius ejus, Zachur filius ejus, Semei filius ejus.",
       "french": "Le fils de Masma fut Hamuël, celui de Hamuël fut Zachur, et celui de Zachur fut Semei.",
       "annotations": null,
       "source_pages": [
@@ -240,8 +240,8 @@
     },
     {
       "verse_number": 27,
-      "latin": "Filii Semei sedecim, et filiæ sex : fratres autem ejus non habuerunt filios multos, et universa cognatio non potuit adæquare summam filiorum Juda.",
-      "french": "Séméï eut seize garçons et six filles; mais ses frères n'eurent pas beaucoup d'enfants: et toute leur postérité ne put égaler le nombre des enfants de Juda.",
+      "latin": "Filii Semei sedecim, et filiæ sex : fratres autem ejus non habuerunt filios multos, et universa cognatio non potuit adæquare summam filiorum Juda.",
+      "french": "Séméï eut seize garçons et six filles ; mais ses frères n’eurent pas beaucoup d’enfants : et toute leur postérité ne put égaler le nombre des enfants de Juda.",
       "annotations": null,
       "source_pages": [
         "page_0104.json"
@@ -250,7 +250,7 @@
     {
       "verse_number": 28,
       "latin": "Habitaverunt autem in Bersabée, et Molada, et Hasersuhal,",
-      "french": "Ils s'établirent dans Bersabée, dans Molada, dans Hasarsuhal,",
+      "french": "Ils s’établirent dans Bersabée, dans Molada, dans Hasarsuhal,",
       "annotations": null,
       "source_pages": [
         "page_0104.json"
@@ -277,7 +277,7 @@
     {
       "verse_number": 31,
       "latin": "Et in Bethmarchaboth, et in Hasarsusim, et in Bethberai, et in Saarim. Hæ civitates eorum usque ad Regem David.",
-      "french": "Dans Bethmarchaboth, dans Hasarsusim, dans Bethbéraï, et dans Saarim. Ce sont les villes qu'ils possédèrent jusqu'au règne de David.",
+      "french": "Dans Bethmarchaboth, dans Hasarsusim, dans Bethbéraï, et dans Saarim. Ce sont les villes qu’ils possédèrent jusqu’au règne de David.",
       "annotations": null,
       "source_pages": [
         "page_0105.json"
@@ -285,8 +285,8 @@
     },
     {
       "verse_number": 32,
-      "latin": "Villæ quoque eorum : Etam, et Aën, Remmon, et Tochen : et Asan, civitates quinque.",
-      "french": "Ils eurent encore des bourgs au nombre de cinq, qui peuvent passer pour villes ; savoir, Etam, Aën, Remmon, Thochen, et Asan.",
+      "latin": "Villæ quoque eorum : Etam, et Aën, Remmon, et Tochen : et Asan, civitates quinque.",
+      "french": "Ils eurent encore des bourgs au nombre de cinq, qui peuvent passer pour villes ; savoir, Etam, Aën, Remmon, Thochen, et Asan.",
       "annotations": null,
       "source_pages": [
         "page_0105.json"
@@ -295,7 +295,7 @@
     {
       "verse_number": 33,
       "latin": "Et universi viculi eorum, per circuitum civitatum istarum usque ad Baal. Hæc est habitatio eorum, et sedium distributio.",
-      "french": "Et avec cela tous les villages qui sont aux environs de ces villes, jusqu'à Baal. Voilà le pays que les descendants de Siméon ont habité, et la distribution de leurs demeures.",
+      "french": "Et avec cela tous les villages qui sont aux environs de ces villes, jusqu’à Baal. Voilà le pays que les descendants de Siméon ont habité, et la distribution de leurs demeures.",
       "annotations": null,
       "source_pages": [
         "page_0105.json"
@@ -304,7 +304,7 @@
     {
       "verse_number": 34,
       "latin": "Mosobab quoque, et Jemlach, et Josa filius Amasiæ,",
-      "french": "Mofobab, Jemlech, et Josa fils d'Amasias;",
+      "french": "Mofobab, Jemlech, et Josa fils d’Amasias ;",
       "annotations": null,
       "source_pages": [
         "page_0105.json"
@@ -313,7 +313,7 @@
     {
       "verse_number": 35,
       "latin": "Et Joël, et Jehu filius Josabiæ, filii Saraiæ, filii Asiel,",
-      "french": "Joël, et Jéhu fils de Josabia, qui fut fils de Saraïa, fils d'Asiël;",
+      "french": "Joël, et Jéhu fils de Josabia, qui fut fils de Saraïa, fils d’Asiël ;",
       "annotations": null,
       "source_pages": [
         "page_0105.json"
@@ -331,7 +331,7 @@
     {
       "verse_number": 37,
       "latin": "Ziza quoque filius Sephei, filii Allon, filii Idaia filii Semri filii Samaia.",
-      "french": "Ziza fils de Sépheï, fils d'Allon, fils d'Idaïa, fils de Semri, fils de Samaïa.",
+      "french": "Ziza fils de Sépheï, fils d’Allon, fils d’Idaïa, fils de Semri, fils de Samaïa.",
       "annotations": null,
       "source_pages": [
         "page_0105.json"
@@ -340,7 +340,7 @@
     {
       "verse_number": 38,
       "latin": "Isti sunt nominati principes in cognationibus suis, et in domo affinitatum suarum multiplicati sunt vehementer.",
-      "french": "Tous ceux-là étaient les chefs célèbres des familles et des maisons de la tribu de Siméon ; et ils se multiplièrent extrêmement dans les familles qui sortirent d'eux.",
+      "french": "Tous ceux-là étaient les chefs célèbres des familles et des maisons de la tribu de Siméon ; et ils se multiplièrent extrêmement dans les familles qui sortirent d’eux.",
       "annotations": null,
       "source_pages": [
         "page_0106.json"
@@ -349,7 +349,7 @@
     {
       "verse_number": 39,
       "latin": "Et profesti sunt ut ingrederentur in Gador usque ad orientem vallis, et ut quærerent pascua gregibus suis.",
-      "french": "Ils partirent de leur pays pour se rendre maîtres de Gador, et s'étendre jusqu'à l'orient de la vallée, afin de chercher des pâturages à leurs troupeaux.",
+      "french": "Ils partirent de leur pays pour se rendre maîtres de Gador, et s’étendre jusqu’à l’orient de la vallée, afin de chercher des pâturages à leurs troupeaux.",
       "annotations": null,
       "source_pages": [
         "page_0106.json"
@@ -358,7 +358,7 @@
     {
       "verse_number": 40,
       "latin": "Invenerúntque pascuas uberes, et valdè bonas, et terram latissimam et quietam, et fertilem, in qua ante habitaverant de stirpe Cham.",
-      "french": "Ils en trouvèrent de fertiles et d'excellents, et une terre très spacieuse, paisible, et abondante, qui était possédée par des gens de la postérité de Cham.",
+      "french": "Ils en trouvèrent de fertiles et d’excellents, et une terre très spacieuse, paisible, et abondante, qui était possédée par des gens de la postérité de Cham.",
       "annotations": null,
       "source_pages": [
         "page_0106.json"
@@ -366,8 +366,8 @@
     },
     {
       "verse_number": 41,
-      "latin": "Hi ergo venerunt, quos supra descripsimus nominatim, in diebus Ezechiæ Regis Juda : et percusserunt tabernacula eorum, et habitatores qui inventi fuerant ibi, et deleverunt eos usque in præsentem diem : habitaverúntque pro eis, quoniam uberrimas pascuas ibidem repererunt.",
-      "french": "Ceux-ci, que nous avons nommés plus haut, vinrent donc les attaquer sous le règne d'Ézéchias Roi de Juda ; ils renversèrent leurs tentes, et tuèrent ceux qui y habitaient, et ils en sont demeurés jusqu'à présent les maîtres, s'y étant établis en leur place, à cause des pâturages très gras qu'ils y trouvèrent.",
+      "latin": "Hi ergo venerunt, quos supra descripsimus nominatim, in diebus Ezechiæ Regis Juda : et percusserunt tabernacula eorum, et habitatores qui inventi fuerant ibi, et deleverunt eos usque in præsentem diem : habitaverúntque pro eis, quoniam uberrimas pascuas ibidem repererunt.",
+      "french": "Ceux-ci, que nous avons nommés plus haut, vinrent donc les attaquer sous le règne d’Ézéchias Roi de Juda ; ils renversèrent leurs tentes, et tuèrent ceux qui y habitaient, et ils en sont demeurés jusqu’à présent les maîtres, s’y étant établis en leur place, à cause des pâturages très gras qu’ils y trouvèrent.",
       "annotations": null,
       "source_pages": [
         "page_0106.json"
@@ -375,8 +375,8 @@
     },
     {
       "verse_number": 42,
-      "latin": "De filiis quoque Simeon abierunt in montem Seir viri quingenti, habentes principes Phalthiam et Naariam, et Raphaïam et Oziel filios Jesi:",
-      "french": "Quelques autres de la même tribu de Siméon s'étant assemblés au nombre de cinq cents, s'en allèrent à la montagne de Seïr, sous la conduite de Phaltias, de Naarias, de Raphaïas, et d'Oziël, enfants de Jési.",
+      "latin": "De filiis quoque Simeon abierunt in montem Seir viri quingenti, habentes principes Phalthiam et Naariam, et Raphaïam et Oziel filios Jesi :",
+      "french": "Quelques autres de la même tribu de Siméon s’étant assemblés au nombre de cinq cents, s’en allèrent à la montagne de Seïr, sous la conduite de Phaltias, de Naarias, de Raphaïas, et d’Oziël, enfants de Jési.",
       "annotations": null,
       "source_pages": [
         "page_0107.json"
@@ -385,7 +385,7 @@
     {
       "verse_number": 43,
       "latin": "Et percusserunt reliquias, quæ evadere potuerant, Amalecitarum, et habitaverunt ibi pro eis usque ad diem hanc.",
-      "french": "Et ayant défait les restes des Amalécites, qui avaient pu échapper jusqu'alors, ils se rendirent maîtres du pays, où ils sont demeurés jusqu'à ce jour.",
+      "french": "Et ayant défait les restes des Amalécites, qui avaient pu échapper jusqu’alors, ils se rendirent maîtres du pays, où ils sont demeurés jusqu’à ce jour.",
       "annotations": null,
       "source_pages": [
         "page_0107.json"

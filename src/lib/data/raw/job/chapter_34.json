@@ -1,13 +1,13 @@
 {
   "book": "Job",
   "chapter": 34,
-  "chapter_summary": "Eliu accuse Job de blasphème. Il relève la justice infinie de Dieu, sa puissance, et ses lumières, à qui rien n'est caché.",
+  "chapter_summary": "Eliu accuse Job de blasphème. Il relève la justice infinie de Dieu, sa puissance, et ses lumières, à qui rien n’est caché.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Pronuntians itaque Eliu, etiam hæc locutus est:",
-      "french": "Eliu continuant encore de parler, prononça ce qui suit :",
+      "latin": "Pronuntians itaque Eliu, etiam hæc locutus est :",
+      "french": "Eliu continuant encore de parler, prononça ce qui suit :",
       "annotations": null,
       "source_pages": [
         "page_0403.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Audite sapientes verba mea, et eruditi auscultate me :",
-      "french": "Sages, écoutez mes paroles; savants, soyez attentifs.",
+      "latin": "Audite sapientes verba mea, et eruditi auscultate me :",
+      "french": "Sages, écoutez mes paroles ; savants, soyez attentifs.",
       "annotations": null,
       "source_pages": [
         "page_0403.json"
@@ -25,7 +25,7 @@
     {
       "verse_number": 3,
       "latin": "Auris enim verba probat, et guttur escas gustu dijudicat.",
-      "french": "Car l'oreille juge des discours par l'ouïe, comme le palais juge des viandes par le goût.",
+      "french": "Car l’oreille juge des discours par l’ouïe, comme le palais juge des viandes par le goût.",
       "annotations": null,
       "source_pages": [
         "page_0403.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Quia dixit Job : Justus sum, et Deus subvertit judicium meum.",
-      "french": "Car Job a dit : Je suis juste, et Dieu ne me traite pas selon l'équité.",
+      "latin": "Quia dixit Job : Justus sum, et Deus subvertit judicium meum.",
+      "french": "Car Job a dit : Je suis juste, et Dieu ne me traite pas selon l’équité.",
       "annotations": null,
       "source_pages": [
         "page_0403.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "In judicando enim me, mendacium est; violenta sagitta mea absque ullo peccato.",
-      "french": "Car il y a de la fausseté dans le jugement que Dieu porte contre moi ; je suis percé de flèches très cuisantes, sans que j'aie péché.",
+      "latin": "In judicando enim me, mendacium est ; violenta sagitta mea absque ullo peccato.",
+      "french": "Car il y a de la fausseté dans le jugement que Dieu porte contre moi ; je suis percé de flèches très cuisantes, sans que j’aie péché.",
       "annotations": null,
       "source_pages": [
         "page_0404.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Quis est vir, ut est Job, qui bibit subsannationem quasi aquam ?",
-      "french": "Où trouvera-t-on un homme semblable à Job, qui insulte à Dieu, avec une impiété qu'il avale comme l'eau ?",
+      "latin": "Quis est vir, ut est Job, qui bibit subsannationem quasi aquam ?",
+      "french": "Où trouvera-t-on un homme semblable à Job, qui insulte à Dieu, avec une impiété qu’il avale comme l’eau ?",
       "annotations": null,
       "source_pages": [
         "page_0405.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Qui graditur cum operantibus iniquitatem, et ambulat cum viris impiis ?",
-      "french": "Qui marche avec ceux qui commettent l'iniquité, et qui se joint avec les impies ?",
+      "latin": "Qui graditur cum operantibus iniquitatem, et ambulat cum viris impiis ?",
+      "french": "Qui marche avec ceux qui commettent l’iniquité, et qui se joint avec les impies ?",
       "annotations": null,
       "source_pages": [
         "page_0405.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Dixit enim : Non placebit vir Deo, etiam si cucurrerit cum eo.",
-      "french": "Car il a dit : L'homme ne sera point agréable à Dieu, quand même il aurait couru dans sa voie.",
+      "latin": "Dixit enim : Non placebit vir Deo, etiam si cucurrerit cum eo.",
+      "french": "Car il a dit : L’homme ne sera point agréable à Dieu, quand même il aurait couru dans sa voie.",
       "annotations": null,
       "source_pages": [
         "page_0405.json"
@@ -88,7 +88,7 @@
     {
       "verse_number": 10,
       "latin": "Ideò viri cordati audite me, absit à Deo impietas, et ab Omnipotente iniquitas.",
-      "french": "Vous donc qui avez du sens, et de la sagesse, écoutez-moi. L'impiété est infiniment éloignée de Dieu ; et l'injustice, du Tout-puissant.",
+      "french": "Vous donc qui avez du sens, et de la sagesse, écoutez-moi. L’impiété est infiniment éloignée de Dieu ; et l’injustice, du Tout-puissant.",
       "annotations": null,
       "source_pages": [
         "page_0406.json"
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "Opus enim hominis reddet ei, et juxta vias singulorum restituet eis.",
-      "french": "Car il rendra à l'homme, selon ses œuvres, et il traitera chacun selon le mérite de sa vie.",
+      "french": "Car il rendra à l’homme, selon ses œuvres, et il traitera chacun selon le mérite de sa vie.",
       "annotations": null,
       "source_pages": [
         "page_0406.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Quem constituit alium super terram? Aut quem posuit super orbem, quem fabricatus est?",
-      "french": "En a-t-il donc mis un autre en sa place sur la terre? Et qui est celui qu'il a établi, pour gouverner au lieu de lui, le monde qu'il a créé?",
+      "latin": "Quem constituit alium super terram ? Aut quem posuit super orbem, quem fabricatus est ?",
+      "french": "En a-t-il donc mis un autre en sa place sur la terre ? Et qui est celui qu’il a établi, pour gouverner au lieu de lui, le monde qu’il a créé ?",
       "annotations": null,
       "source_pages": [
         "page_0407.json"
@@ -124,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Si direxerit ad eum cor suum, spiritum illius, et flatum ad se trahet.",
-      "french": "S'il le regardait dans sa rigueur, il attirait à soi dans l'instant l'esprit qui l'anime.",
+      "french": "S’il le regardait dans sa rigueur, il attirait à soi dans l’instant l’esprit qui l’anime.",
       "annotations": null,
       "source_pages": [
         "page_0407.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Deficiet omnis caro simul, et homo in cinerem revertetur.",
-      "french": "Toute chair périrait en même temps ; et tous les hommes retourneraient en cendre.",
+      "french": "Toute chair périrait en même temps ; et tous les hommes retourneraient en cendre.",
       "annotations": null,
       "source_pages": [
         "page_0408.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Si habes ergo intellectum, audi quod dicitur, et ausculta vocem eloquii mei.",
-      "french": "Si vous avez donc de l'intelligence, écoutez ce que l'on vous dit, et soyez attentif à mes paroles.",
+      "french": "Si vous avez donc de l’intelligence, écoutez ce que l’on vous dit, et soyez attentif à mes paroles.",
       "annotations": null,
       "source_pages": [
         "page_0408.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Numquid qui non amat judicium, sanari potest? Et quomodo tu cum, qui justus est, in tantum condemnas?",
-      "french": "Peut-on guérir celui qui n'aime point la justice? Et comment condamnez-vous avec tant de hardiesse, celui qui est souverainement juste.",
+      "latin": "Numquid qui non amat judicium, sanari potest ? Et quomodo tu cum, qui justus est, in tantum condemnas ?",
+      "french": "Peut-on guérir celui qui n’aime point la justice ? Et comment condamnez-vous avec tant de hardiesse, celui qui est souverainement juste.",
       "annotations": null,
       "source_pages": [
         "page_0408.json"
@@ -159,8 +159,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "Qui dicit Regi, apostata: qui vocat duces impios.",
-      "french": "Lui qui dit à un Roi : Vous êtes un apostat ; qui appelle impies les Grands.",
+      "latin": "Qui dicit Regi, apostata : qui vocat duces impios.",
+      "french": "Lui qui dit à un Roi : Vous êtes un apostat ; qui appelle impies les Grands.",
       "annotations": null,
       "source_pages": [
         "page_0409.json"
@@ -168,8 +168,8 @@
     },
     {
       "verse_number": 19,
-      "latin": "Qui non accipit personas Principum : nec cognovit tyrannum, cùm disceptaret contra pauperem : opus enim manuum ejus sunt universi.",
-      "french": "Qui n'a point d'égard à la personne des Princes; qui n'a point connu le tyran lorsqu'il disputait contre le pauvre, parce que sa main a fait tous les hommes.",
+      "latin": "Qui non accipit personas Principum : nec cognovit tyrannum, cùm disceptaret contra pauperem : opus enim manuum ejus sunt universi.",
+      "french": "Qui n’a point d’égard à la personne des Princes ; qui n’a point connu le tyran lorsqu’il disputait contre le pauvre, parce que sa main a fait tous les hommes.",
       "annotations": null,
       "source_pages": [
         "page_0409.json"
@@ -178,7 +178,7 @@
     {
       "verse_number": 20,
       "latin": "Subitò morientur, et in media nocte turbabuntur populi, et pertransibunt, et auferent violentum absque manu.",
-      "french": "Ils mourront tout d'un coup, et au milieu de la nuit les peuples se souleveront ; ils passeront, et le tyran sera emporté, sans qu'on voie la main qui le frappe.",
+      "french": "Ils mourront tout d’un coup, et au milieu de la nuit les peuples se souleveront ; ils passeront, et le tyran sera emporté, sans qu’on voie la main qui le frappe.",
       "annotations": null,
       "source_pages": [
         "page_0410.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Non sunt tenebræ, et non est umbra mortis, ut abscondantur ibi qui operantur iniquitatem.",
-      "french": "Il n'y a point de ténèbres, il n'y a point d'ombres de la mort, qui puissent dérober à ses yeux ceux qui commettent l'iniquité.",
+      "french": "Il n’y a point de ténèbres, il n’y a point d’ombres de la mort, qui puissent dérober à ses yeux ceux qui commettent l’iniquité.",
       "annotations": null,
       "source_pages": [
         "page_0410.json"
@@ -205,7 +205,7 @@
     {
       "verse_number": 23,
       "latin": "Neque enim ultrà in hominis potestate est, ut veniat ad Deum in judicium.",
-      "french": "Car il n'est plus au pouvoir de l'homme de venir en jugement devant Dieu.",
+      "french": "Car il n’est plus au pouvoir de l’homme de venir en jugement devant Dieu.",
       "annotations": null,
       "source_pages": [
         "page_0410.json"
@@ -214,7 +214,7 @@
     {
       "verse_number": 24,
       "latin": "Conteret multos, et innumerabiles, et stare faciet alios pro eis.",
-      "french": "Il en exterminera une multitude innombrable, et il en établira d'autres en leur place.",
+      "french": "Il en exterminera une multitude innombrable, et il en établira d’autres en leur place.",
       "annotations": null,
       "source_pages": [
         "page_0410.json"
@@ -222,7 +222,7 @@
     },
     {
       "verse_number": 25,
-      "latin": "Novit enim opera eorum: et idcirco inducet noctem, et conterentur.",
+      "latin": "Novit enim opera eorum : et idcirco inducet noctem, et conterentur.",
       "french": "Car il connaît leurs œuvres, et c’est pour cela qu’il répandra une nuit obscure, et qu’il les brisera.",
       "annotations": null,
       "source_pages": [
@@ -232,7 +232,7 @@
     {
       "verse_number": 26,
       "latin": "Quasi impios percussit eos in loco videntium.",
-      "french": "Il les frappera de plaies ; comme des impies, à la vue de tout le monde,",
+      "french": "Il les frappera de plaies ; comme des impies, à la vue de tout le monde,",
       "annotations": null,
       "source_pages": [
         "page_0411.json"
@@ -258,8 +258,8 @@
     },
     {
       "verse_number": 29,
-      "latin": "Ipso enim concedente pacem, quis est qui condemnet? Ex quo absconderis vultum, quis est qui contempletur eum, et super gentes, et super omnes homines?",
-      "french": "Car s'il donne la paix à quelqu'un; qui est celui qui le condamnera? Et s'il cache son visage, qui osera le regarder, soit qu'il exerce sa vengeance sur quelques nations, ou sur tous les hommes en général?",
+      "latin": "Ipso enim concedente pacem, quis est qui condemnet ? Ex quo absconderis vultum, quis est qui contempletur eum, et super gentes, et super omnes homines ?",
+      "french": "Car s’il donne la paix à quelqu’un ; qui est celui qui le condamnera ? Et s’il cache son visage, qui osera le regarder, soit qu’il exerce sa vengeance sur quelques nations, ou sur tous les hommes en général ?",
       "annotations": null,
       "source_pages": [
         "page_0412.json"
@@ -268,7 +268,7 @@
     {
       "verse_number": 30,
       "latin": "Qui regnare facit hominem hypocritam, propter peccata populi.",
-      "french": "C'est lui qui fait régner l'homme hypocrite, à cause des péchés du peuple.",
+      "french": "C’est lui qui fait régner l’homme hypocrite, à cause des péchés du peuple.",
       "annotations": null,
       "source_pages": [
         "page_0412.json"
@@ -277,7 +277,7 @@
     {
       "verse_number": 31,
       "latin": "Quia ergo locutus sum ad Deum, ne quoque non prohibebo.",
-      "french": "Puis donc que j'ai parlé, pour justifier la conduite de Dieu, je ne vous empêcherai point de parler aussi.",
+      "french": "Puis donc que j’ai parlé, pour justifier la conduite de Dieu, je ne vous empêcherai point de parler aussi.",
       "annotations": null,
       "source_pages": [
         "page_0413.json"
@@ -285,8 +285,8 @@
     },
     {
       "verse_number": 32,
-      "latin": "Si erravi, tu doce me: si iniquitatem locutus sum, ultrà non addam.",
-      "french": "Si je suis tombé dans quelque erreur, enseignez-moi; si ce que j'ai dit n'est pas selon la justice, je ne dirai rien davantage.",
+      "latin": "Si erravi, tu doce me : si iniquitatem locutus sum, ultrà non addam.",
+      "french": "Si je suis tombé dans quelque erreur, enseignez-moi ; si ce que j’ai dit n’est pas selon la justice, je ne dirai rien davantage.",
       "annotations": null,
       "source_pages": [
         "page_0413.json"
@@ -294,8 +294,8 @@
     },
     {
       "verse_number": 33,
-      "latin": "Numquid à te Deus expetit eam, quia displicuit tibi ? Tu enim cœpisti loqui, et non ego : quòd si quid nosti melius, loquere.",
-      "french": "Dieu ne vous redemandera-t-il point compte de ce que je puis avoir dit contre la justice, et qui vous a déplu ? car c'est vous qui avez commencé à parler, et non pas moi. Si vous savez quelque chose de meilleur, parlez vous-même.",
+      "latin": "Numquid à te Deus expetit eam, quia displicuit tibi ? Tu enim cœpisti loqui, et non ego : quòd si quid nosti melius, loquere.",
+      "french": "Dieu ne vous redemandera-t-il point compte de ce que je puis avoir dit contre la justice, et qui vous a déplu ? car c’est vous qui avez commencé à parler, et non pas moi. Si vous savez quelque chose de meilleur, parlez vous-même.",
       "annotations": null,
       "source_pages": [
         "page_0414.json"
@@ -304,7 +304,7 @@
     {
       "verse_number": 34,
       "latin": "Viri intelligentes loquantur mihi, et vir sapiens audiat me.",
-      "french": "Que des personnes intelligentes me parlent, et qu'un homme sage m'écoute.",
+      "french": "Que des personnes intelligentes me parlent, et qu’un homme sage m’écoute.",
       "annotations": null,
       "source_pages": [
         "page_0414.json"
@@ -321,8 +321,8 @@
     },
     {
       "verse_number": 36,
-      "latin": "Pater mi, probetur Job, usque ad finem : ne desinas ab homine iniquitatis.",
-      "french": "Mon père, que Job soit éprouvé jusqu'à la fin ; ne cessez point de frapper un homme injuste;",
+      "latin": "Pater mi, probetur Job, usque ad finem : ne desinas ab homine iniquitatis.",
+      "french": "Mon père, que Job soit éprouvé jusqu’à la fin ; ne cessez point de frapper un homme injuste ;",
       "annotations": null,
       "source_pages": [
         "page_0414.json"
@@ -330,8 +330,8 @@
     },
     {
       "verse_number": 37,
-      "latin": "Quia addit super peccata sua blasphemiam; inter nos interim constringatur; et tunc ad judicium provocet sermonibus suis Deum.",
-      "french": "Parce qu'il ajoute le blasphème à ses péchés : qu'il soit cependant pressé de nouveau par nos raisons, et après cela qu'il appelle Dieu en jugement par ses discours.",
+      "latin": "Quia addit super peccata sua blasphemiam ; inter nos interim constringatur ; et tunc ad judicium provocet sermonibus suis Deum.",
+      "french": "Parce qu’il ajoute le blasphème à ses péchés : qu’il soit cependant pressé de nouveau par nos raisons, et après cela qu’il appelle Dieu en jugement par ses discours.",
       "annotations": null,
       "source_pages": [
         "page_0415.json"

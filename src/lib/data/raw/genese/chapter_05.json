@@ -1,13 +1,13 @@
 {
   "book": "Genèse",
   "chapter": 5,
-  "chapter_summary": "Généalogie d'Adam, par les descendants de Seth, jusqu'à Noé.",
+  "chapter_summary": "Généalogie d’Adam, par les descendants de Seth, jusqu’à Noé.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Hic est liber generationis Adam. In die qua creavit Deus hominem, ad similitudinem Dei fecit illum.",
-      "french": "Voici la généalogie d'Adam. Dieu le fit à sa ressemblance, au jour qu'il le créa.",
+      "french": "Voici la généalogie d’Adam. Dieu le fit à sa ressemblance, au jour qu’il le créa.",
       "annotations": null,
       "source_pages": [
         "page_0233.json"
@@ -16,7 +16,7 @@
     {
       "verse_number": 2,
       "latin": "Masculum et foeminam creavit eos, et benedixit illis : et vocavit nomen eorum Adam, in die quo creati sunt.",
-      "french": "Il les créa mâle et femelle, il les bénit, et il les appela du nom d'Adam, au jour de leur création.",
+      "french": "Il les créa mâle et femelle, il les bénit, et il les appela du nom d’Adam, au jour de leur création.",
       "annotations": null,
       "source_pages": [
         "page_0233.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Vixit autem Adam centum triginta annis: et genuit ad imaginem et similitudinem suam, vocavitque nomen ejus Seth.",
-      "french": "Or Adam vécut cent trente ans : et il engendra [un fils] à son image et sa ressemblance qu'il appela Seth.",
+      "latin": "Vixit autem Adam centum triginta annis : et genuit ad imaginem et similitudinem suam, vocavitque nomen ejus Seth.",
+      "french": "Or Adam vécut cent trente ans : et il engendra [un fils] à son image et sa ressemblance qu’il appela Seth.",
       "annotations": null,
       "source_pages": [
         "page_0233.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Et facti sunt dies Adam, postquam genuit Seth, octingenti anni : genuitque filios et filias.",
-      "french": "Et après la naissance de Seth, Adam vécut encore huit cents ans ; et il engendra des fils et des filles.",
+      "french": "Et après la naissance de Seth, Adam vécut encore huit cents ans ; et il engendra des fils et des filles.",
       "annotations": null,
       "source_pages": [
         "page_0234.json"
@@ -61,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "Vixitque Seth postquam genuit Enos, octingentis septem annis, genuitque filios et filias.",
-      "french": "Et après la naissance d'Énos, il vécut encore huit cents sept ans, et il eut des fils et des filles.",
+      "french": "Et après la naissance d’Énos, il vécut encore huit cents sept ans, et il eut des fils et des filles.",
       "annotations": null,
       "source_pages": [
         "page_0235.json"
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "Factique sunt omnes dies Enos nongenti quinque anni, et mortuus est.",
-      "french": "Et tout le temps de la vie d'Énos, ayant été de neuf cents cinq ans, il mourut.",
+      "french": "Et tout le temps de la vie d’Énos, ayant été de neuf cents cinq ans, il mourut.",
       "annotations": null,
       "source_pages": [
         "page_0236.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Vixit autem Malaleel sexaginta quinque annis, et genuit Jared.",
-      "french": "Or Malaléel engendra Jared à l'âge de soixante-cinq ans.",
+      "french": "Or Malaléel engendra Jared à l’âge de soixante-cinq ans.",
       "annotations": null,
       "source_pages": [
         "page_0237.json"
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Vixitque Jared centum sexaginta duobus annis, et genuit Henoch.",
-      "french": "Et Jared âgé de cent soixante et deux ans, devint père d'Hénoch.",
+      "french": "Et Jared âgé de cent soixante et deux ans, devint père d’Hénoch.",
       "annotations": null,
       "source_pages": [
         "page_0238.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Et vixit Jared postquam genuit Henoch, octingentis annis, et genuit filios et filias.",
-      "french": "Et depuis la naissance d'Hénoch, il vécut huit cents ans, et il eut des fils et des filles.",
+      "french": "Et depuis la naissance d’Hénoch, il vécut huit cents ans, et il eut des fils et des filles.",
       "annotations": null,
       "source_pages": [
         "page_0238.json"
@@ -205,7 +205,7 @@
     {
       "verse_number": 23,
       "latin": "Et facti sunt omnes dies Henoch trecentis sexaginta quinque anni.",
-      "french": "Et tout le temps de la vie d'Hénoch fut de trois cents soixante et cinq ans.",
+      "french": "Et tout le temps de la vie d’Hénoch fut de trois cents soixante et cinq ans.",
       "annotations": null,
       "source_pages": [
         "page_0239.json"
@@ -213,8 +213,8 @@
     },
     {
       "verse_number": 24,
-      "latin": "Ambulavitque cum Deo, et non apparuit ; quia tulit eum Deus.",
-      "french": "Et il marcha avec Dieu, et il ne parut plus, parce que le Seigneur l'enleva.",
+      "latin": "Ambulavitque cum Deo, et non apparuit ; quia tulit eum Deus.",
+      "french": "Et il marcha avec Dieu, et il ne parut plus, parce que le Seigneur l’enleva.",
       "annotations": null,
       "source_pages": [
         "page_0239.json"

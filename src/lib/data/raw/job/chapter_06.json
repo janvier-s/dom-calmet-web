@@ -1,13 +1,13 @@
 {
   "book": "Job",
   "chapter": 6,
-  "chapter_summary": "Job répond au discours d'Eliphaz. Il montre que la grandeur de ses peines excède celle de son péché. Il se plaint de l'infidélité de ses parents, et de la dureté de ses amis. Il les défie de montrer qu'il soit coupable.",
+  "chapter_summary": "Job répond au discours d’Eliphaz. Il montre que la grandeur de ses peines excède celle de son péché. Il se plaint de l’infidélité de ses parents, et de la dureté de ses amis. Il les défie de montrer qu’il soit coupable.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Respondens autem Job, dixit:",
-      "french": "Job répondit en ces termes:",
+      "latin": "Respondens autem Job, dixit :",
+      "french": "Job répondit en ces termes :",
       "annotations": null,
       "source_pages": [
         "page_0122.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Utinam appenderentur peccata mea, quibus iram merui: et calamitas, quam patior, in statera.",
-      "french": "Plût à Dieu que les péchés par lesquels j'ai mérité la colère de Dieu, et les maux que je souffre, fussent mis les uns avec les autres dans une balance:",
+      "latin": "Utinam appenderentur peccata mea, quibus iram merui : et calamitas, quam patior, in statera.",
+      "french": "Plût à Dieu que les péchés par lesquels j’ai mérité la colère de Dieu, et les maux que je souffre, fussent mis les uns avec les autres dans une balance :",
       "annotations": null,
       "source_pages": [
         "page_0122.json"
@@ -24,7 +24,7 @@
     },
     {
       "verse_number": 3,
-      "latin": "Quafi arena maris hæc gravior apparetet ; unde et verba mea dolore sunt plena:",
+      "latin": "Quafi arena maris hæc gravior apparetet ; unde et verba mea dolore sunt plena :",
       "french": "Ceux-ci surpasseraient les autres de toute la pesanteur du sable de la mer. C’est pourquoi mes paroles sont pleines de douleur.",
       "annotations": null,
       "source_pages": [
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Numquid rugiet onager cùm habuerit herbam? Aut mugiet bos cùm ante præsepe plenum steterit?",
-      "french": "L'âne sauvage crie-t-il lorsqu'il a de l'herbe? Ou le bœuf mugit-il lorsqu'il est devant une auge pleine de fourrage?",
+      "latin": "Numquid rugiet onager cùm habuerit herbam ? Aut mugiet bos cùm ante præsepe plenum steterit ?",
+      "french": "L’âne sauvage crie-t-il lorsqu’il a de l’herbe ? Ou le bœuf mugit-il lorsqu’il est devant une auge pleine de fourrage ?",
       "annotations": null,
       "source_pages": [
         "page_0124.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Aut poterit comedi insulsum, quod non est sale conditum? Aut potest aliquis gustare, quod gustatum affert mortem?",
-      "french": "Peut-on manger d'une viande fade, qui n'est point assaisonnée avec le sel? Ou quelqu'un peut-il goûter ce qui fait mourir celui qui en goûte?",
+      "latin": "Aut poterit comedi insulsum, quod non est sale conditum ? Aut potest aliquis gustare, quod gustatum affert mortem ?",
+      "french": "Peut-on manger d’une viande fade, qui n’est point assaisonnée avec le sel ? Ou quelqu’un peut-il goûter ce qui fait mourir celui qui en goûte ?",
       "annotations": null,
       "source_pages": [
         "page_0125.json"
@@ -61,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "Quæ priùs nolebat tangere anima mea, nunc præ angustia, cibi mei sunt.",
-      "french": "Dans l'extrémité où je me trouve maintenant, je me nourris des choses que je n'osais auparavant toucher.",
+      "french": "Dans l’extrémité où je me trouve maintenant, je me nourris des choses que je n’osais auparavant toucher.",
       "annotations": null,
       "source_pages": [
         "page_0126.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Quis det ut veniat petitio mea: et quod expecto, tribuat mihi Deus?",
-      "french": "Plaise au Seigneur que ce que je demande soit accompli, qu'il m'accorde ce que j'attends :",
+      "latin": "Quis det ut veniat petitio mea : et quod expecto, tribuat mihi Deus ?",
+      "french": "Plaise au Seigneur que ce que je demande soit accompli, qu’il m’accorde ce que j’attends :",
       "annotations": null,
       "source_pages": [
         "page_0126.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Et qui cœpit, ipse me conterat, solvat manum suam, et succidat me?",
-      "french": "Que celui qui a commencé, achève de me réduire en poudre; qu'il laisse aller sa main, pour me couper jusqu'à la racine :",
+      "latin": "Et qui cœpit, ipse me conterat, solvat manum suam, et succidat me ?",
+      "french": "Que celui qui a commencé, achève de me réduire en poudre ; qu’il laisse aller sa main, pour me couper jusqu’à la racine :",
       "annotations": null,
       "source_pages": [
         "page_0126.json"
@@ -88,7 +88,7 @@
     {
       "verse_number": 10,
       "latin": "Et hæc mihi sit consolatio, ut affligens me dolore, non parcat, nec contradicam sermonibus Sancti.",
-      "french": "Et que dans ces douleurs extrêmes dont il m'accable sans m'épargner, il me reste au moins cette consolation, que je ne contredise en rien à la conduite du Saint.",
+      "french": "Et que dans ces douleurs extrêmes dont il m’accable sans m’épargner, il me reste au moins cette consolation, que je ne contredise en rien à la conduite du Saint.",
       "annotations": null,
       "source_pages": [
         "page_0127.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Quæ est enim fortitudo mea ut sustineam ? Aut quis finis meus, ut patienter agam ?",
-      "french": "Car quelle est ma force pour supporter tout cela ? Ou quelle est ma fin, pour me conserver dans la patience ?",
+      "latin": "Quæ est enim fortitudo mea ut sustineam ? Aut quis finis meus, ut patienter agam ?",
+      "french": "Car quelle est ma force pour supporter tout cela ? Ou quelle est ma fin, pour me conserver dans la patience ?",
       "annotations": null,
       "source_pages": [
         "page_0127.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Qui timent pruinam, irruet super eos nix.",
-      "french": "Ceux qui craignent la gelée; seront accablés par la neige.",
+      "french": "Ceux qui craignent la gelée ; seront accablés par la neige.",
       "annotations": null,
       "source_pages": [
         "page_0130.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Tempore, quo fuerint dissipati, peribunt : et ut incaluerit, solventur de loco suo.",
-      "french": "Dès qu'ils commenceront à s'écouler, on les verra disparaître : lorsque la chaleur viendra, ils fondront comme la neige du lieu où ils étaient.",
+      "latin": "Tempore, quo fuerint dissipati, peribunt : et ut incaluerit, solventur de loco suo.",
+      "french": "Dès qu’ils commenceront à s’écouler, on les verra disparaître : lorsque la chaleur viendra, ils fondront comme la neige du lieu où ils étaient.",
       "annotations": null,
       "source_pages": [
         "page_0130.json"
@@ -159,7 +159,7 @@
     },
     {
       "verse_number": 18,
-      "latin": "Involutæ sunt semitæ gressuum eorum : ambulabunt in vacuum, et peribunt.",
+      "latin": "Involutæ sunt semitæ gressuum eorum : ambulabunt in vacuum, et peribunt.",
       "french": "Ils vont par des sentiers embarrassés, ils marchent sur le vide, et ils périront.",
       "annotations": null,
       "source_pages": [
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Confusi sunt, quia speravi: venerunt quoque usque ad me, et pudore cooperti sunt.",
-      "french": "Ils sont confus, parce que j’ai toujours espéré; ils sont venus jusqu’à moi, et ils ont été couverts de confusion.",
+      "latin": "Confusi sunt, quia speravi : venerunt quoque usque ad me, et pudore cooperti sunt.",
+      "french": "Ils sont confus, parce que j’ai toujours espéré ; ils sont venus jusqu’à moi, et ils ont été couverts de confusion.",
       "annotations": null,
       "source_pages": [
         "page_0131.json"
@@ -186,7 +186,7 @@
     },
     {
       "verse_number": 21,
-      "latin": "Nunc venistis: et modò videntes plagam meam timetis.",
+      "latin": "Nunc venistis : et modò videntes plagam meam timetis.",
       "french": "Vous ne faites que de venir, et aussitôt que vous voyez la plaie dont j’ai été frappé, vous en avez de l’horreur.",
       "annotations": null,
       "source_pages": [
@@ -195,8 +195,8 @@
     },
     {
       "verse_number": 22,
-      "latin": "Numquid dixi: Afferte mihi, et de substantia vestra donate mihi?",
-      "french": "Vous ai-je dit: Apportez-moi quelque chose, ou donnez-moi de votre bien?",
+      "latin": "Numquid dixi : Afferte mihi, et de substantia vestra donate mihi ?",
+      "french": "Vous ai-je dit : Apportez-moi quelque chose, ou donnez-moi de votre bien ?",
       "annotations": null,
       "source_pages": [
         "page_0131.json"
@@ -204,8 +204,8 @@
     },
     {
       "verse_number": 23,
-      "latin": "Vel, liberate me de manu hoftis, et de manu robuftorum eruite me?",
-      "french": "Ou délivrez-moi de la main de celui qui m'afflige, et tirez-moi de la puissance des forts?",
+      "latin": "Vel, liberate me de manu hoftis, et de manu robuftorum eruite me ?",
+      "french": "Ou délivrez-moi de la main de celui qui m’afflige, et tirez-moi de la puissance des forts ?",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -213,8 +213,8 @@
     },
     {
       "verse_number": 24,
-      "latin": "Docete me, et ego tacebo; et si quid forte ignoravi, instruite me.",
-      "french": "Enseignez-moi, et je me tairai : et si j'ai ignoré quelque chose, instruisez-moi.",
+      "latin": "Docete me, et ego tacebo ; et si quid forte ignoravi, instruite me.",
+      "french": "Enseignez-moi, et je me tairai : et si j’ai ignoré quelque chose, instruisez-moi.",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -222,8 +222,8 @@
     },
     {
       "verse_number": 25,
-      "latin": "Quare detraxistis sermonibus veritatis, cum è vobis nullus sit qui possit arguere me?",
-      "french": "Pourquoi attaquez-vous des paroles de vérité, puisque nul d'entre vous ne me peut reprendre avec justice?",
+      "latin": "Quare detraxistis sermonibus veritatis, cum è vobis nullus sit qui possit arguere me ?",
+      "french": "Pourquoi attaquez-vous des paroles de vérité, puisque nul d’entre vous ne me peut reprendre avec justice ?",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -232,7 +232,7 @@
     {
       "verse_number": 26,
       "latin": "Ad increpandum tantùm eloquia concinnatis, et in ventum verba profertis.",
-      "french": "Vous n'étudiez dans vos discours qu'à accuser les autres, et vous ne faites que parler en l'air.",
+      "french": "Vous n’étudiez dans vos discours qu’à accuser les autres, et vous ne faites que parler en l’air.",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -241,7 +241,7 @@
     {
       "verse_number": 27,
       "latin": "Super pupillum irruitis, et subvertere nitimini amicum vestrum.",
-      "french": "Vous vous jetez sur un homme abandonné comme un orphelin, et vous vous efforcez d'accabler votre ami.",
+      "french": "Vous vous jetez sur un homme abandonné comme un orphelin, et vous vous efforcez d’accabler votre ami.",
       "annotations": null,
       "source_pages": [
         "page_0133.json"
@@ -249,8 +249,8 @@
     },
     {
       "verse_number": 28,
-      "latin": "Verumtamen quod cœpistis explete : præbete aurem, et videte an mentiar.",
-      "french": "Mais achevez ce que vous avez commencé : cependant écoutez-moi, et voyez si je mens.",
+      "latin": "Verumtamen quod cœpistis explete : præbete aurem, et videte an mentiar.",
+      "french": "Mais achevez ce que vous avez commencé : cependant écoutez-moi, et voyez si je mens.",
       "annotations": null,
       "source_pages": [
         "page_0133.json"
@@ -258,8 +258,8 @@
     },
     {
       "verse_number": 29,
-      "latin": "Respondete, obsecro, absque contentione : et loquentes id quod justum est, judicate.",
-      "french": "Répondez, je vous prie, sans contention : et en parlant jugez des choses selon la justice.",
+      "latin": "Respondete, obsecro, absque contentione : et loquentes id quod justum est, judicate.",
+      "french": "Répondez, je vous prie, sans contention : et en parlant jugez des choses selon la justice.",
       "annotations": null,
       "source_pages": [
         "page_0133.json"
@@ -268,7 +268,7 @@
     {
       "verse_number": 30,
       "latin": "Et non invenietis in lingua mea iniquitatem, nec in faucibus meis stultitia personabit.",
-      "french": "Alors vous ne trouverez point d'iniquité sur ma langue, ni de folie dans ma bouche.",
+      "french": "Alors vous ne trouverez point d’iniquité sur ma langue, ni de folie dans ma bouche.",
       "annotations": null,
       "source_pages": [
         "page_0133.json"

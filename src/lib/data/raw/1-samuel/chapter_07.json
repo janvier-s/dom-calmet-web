@@ -1,13 +1,13 @@
 {
   "book": "1 Samuel",
   "chapter": 7,
-  "chapter_summary": "Transport de l'Arche à Cariath-iarim, où elle demeure vingt ans. Samuël exhorte le peuple à retourner au Seigneur. Assemblée du peuple à Masphath. Les Philistins ayant attaqué Israël, sont mis en fuite par les prières de Samuël.",
+  "chapter_summary": "Transport de l’Arche à Cariath-iarim, où elle demeure vingt ans. Samuël exhorte le peuple à retourner au Seigneur. Assemblée du peuple à Masphath. Les Philistins ayant attaqué Israël, sont mis en fuite par les prières de Samuël.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Venerunt ergo viri Cariath-iarim, et reduxerunt Arcam Domini, et intulerunt eam in domum Abinadab in Gabaa : Eleazarum autem filium ejus sanctificaverunt, ut custodiret Arcam Domini.",
-      "french": "Ceux de Cariath-iarim étant donc venus, ramenèrent l'Arche du Seigneur ; ils la mirent dans la maison d'Abinadab à Gabaa, et consacrèrent son fils Éléazar, afin qu'il gardât l'Arche du Seigneur.",
+      "latin": "Venerunt ergo viri Cariath-iarim, et reduxerunt Arcam Domini, et intulerunt eam in domum Abinadab in Gabaa : Eleazarum autem filium ejus sanctificaverunt, ut custodiret Arcam Domini.",
+      "french": "Ceux de Cariath-iarim étant donc venus, ramenèrent l’Arche du Seigneur ; ils la mirent dans la maison d’Abinadab à Gabaa, et consacrèrent son fils Éléazar, afin qu’il gardât l’Arche du Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0157.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Et factum est, ex qua die mansit Arca Domini in Cariath-iarim, multiplicati sunt dies; ( erat quippe jam annus vigefimus, ) et requievit omnis domus Israël post Dominum.",
-      "french": "L'Arche du Seigneur demeura pendant un longtemps à Cariath-iarim ; et il y avait vingt ans qu'elle y était, lorsque toute la maison d'Israël s'attacha constamment au Seigneur.",
+      "latin": "Et factum est, ex qua die mansit Arca Domini in Cariath-iarim, multiplicati sunt dies ; (erat quippe jam annus vigefimus,) et requievit omnis domus Israël post Dominum.",
+      "french": "L’Arche du Seigneur demeura pendant un longtemps à Cariath-iarim ; et il y avait vingt ans qu’elle y était, lorsque toute la maison d’Israël s’attacha constamment au Seigneur.",
       "annotations": "An. du Monde 2888.",
       "source_pages": [
         "page_0159.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Ait autem Samuël ad universam domum Israël, dicens : Si in toto corde vestro revertimini ad Dominum, auferte deos alienos de medio vestri, Baalim et Astaroth; et præparate corda vestra Domino, et servite ei soli, et eruet vos de manu Philistiim.",
-      "french": "Alors Samuel dit à toute la maison d'Israël : Si vous revenez au Seigneur de tout votre cœur, ôtez du milieu de vous les Dieux étrangers, Baal et Astaroth; et préparez vos cœurs au Seigneur, et ne servez que lui seul; et il vous délivrera de la main des Philistins.",
+      "latin": "Ait autem Samuël ad universam domum Israël, dicens : Si in toto corde vestro revertimini ad Dominum, auferte deos alienos de medio vestri, Baalim et Astaroth ; et præparate corda vestra Domino, et servite ei soli, et eruet vos de manu Philistiim.",
+      "french": "Alors Samuel dit à toute la maison d’Israël : Si vous revenez au Seigneur de tout votre cœur, ôtez du milieu de vous les Dieux étrangers, Baal et Astaroth ; et préparez vos cœurs au Seigneur, et ne servez que lui seul ; et il vous délivrera de la main des Philistins.",
       "annotations": "An. du Monde 2888.",
       "source_pages": [
         "page_0160.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Abstulerunt ergo filii Israël Baalim et Astaroth, et servierunt Domino soli.",
-      "french": "Les enfants d'Israël rejetèrent donc Baal et Astaroth, et ne servirent que le Seigneur.",
+      "french": "Les enfants d’Israël rejetèrent donc Baal et Astaroth, et ne servirent que le Seigneur.",
       "annotations": "An. du Monde 2888.",
       "source_pages": [
         "page_0161.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Dixit autem Samuël : Congregate universum Israël in Masphath, ut orem pro vobis Dominum.",
-      "french": "Et Samuel leur dit : Assemblez tout Israël à Masphath, afin que je prie le Seigneur pour vous.",
+      "latin": "Dixit autem Samuël : Congregate universum Israël in Masphath, ut orem pro vobis Dominum.",
+      "french": "Et Samuel leur dit : Assemblez tout Israël à Masphath, afin que je prie le Seigneur pour vous.",
       "annotations": null,
       "source_pages": [
         "page_0161.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Et convenerunt in Masphath, hauserúntque aquam, et effuderunt in conspectu Domini, et jejunaverunt die illa, atque dixerunt ibi : Peccavimus Domino. Judicavitque Samuel filios Israël in Masphath.",
-      "french": "Et ils s'assemblèrent à Masphath; ils puisèrent de l'eau qu'ils répandirent devant le Seigneur; ils jeûnèrent ce jour-là, et dirent : Nous avons péché devant le Seigneur. Or Samuël jugea les enfants d'Israël à Masphath.",
+      "latin": "Et convenerunt in Masphath, hauserúntque aquam, et effuderunt in conspectu Domini, et jejunaverunt die illa, atque dixerunt ibi : Peccavimus Domino. Judicavitque Samuel filios Israël in Masphath.",
+      "french": "Et ils s’assemblèrent à Masphath ; ils puisèrent de l’eau qu’ils répandirent devant le Seigneur ; ils jeûnèrent ce jour-là, et dirent : Nous avons péché devant le Seigneur. Or Samuël jugea les enfants d’Israël à Masphath.",
       "annotations": "An. du Monde 2888.",
       "source_pages": [
         "page_0162.json"
@@ -61,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "Et audierunt Philisthiim quòd congregati essent filii Israël in Masphath, et ascenderunt Satrapæ Philisthinorum ad Israël. Quod cùm audissent filii Israël, timuerunt à facie Philisthinorum.",
-      "french": "Les Philistins ayant appris que les enfants d'Israël s'étaient assemblés à Masphath, leurs Princes marchèrent contre Israël; ce que les enfants d'Israël ayant appris, ils eurent peur des Philistins.",
+      "french": "Les Philistins ayant appris que les enfants d’Israël s’étaient assemblés à Masphath, leurs Princes marchèrent contre Israël ; ce que les enfants d’Israël ayant appris, ils eurent peur des Philistins.",
       "annotations": "An. du Monde 2888.",
       "source_pages": [
         "page_0163.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Dixerúntque ad Samüélem : Ne cesses pro nobis clamare ad Dominum Deum nostrum, ut salvet nos de manu Philisthinorum.",
-      "french": "Et ils dirent à Samuel: Ne cessez point de crier pour nous au Seigneur notre Dieu, afin qu'il nous sauve de la main des Philistins.",
+      "latin": "Dixerúntque ad Samüélem : Ne cesses pro nobis clamare ad Dominum Deum nostrum, ut salvet nos de manu Philisthinorum.",
+      "french": "Et ils dirent à Samuel : Ne cessez point de crier pour nous au Seigneur notre Dieu, afin qu’il nous sauve de la main des Philistins.",
       "annotations": "An. du Monde 2888.",
       "source_pages": [
         "page_0164.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Tulit autem Samüël agnum lactentem unum, et obtulit illum holocaustum integrum Domino: et clamavit Samüël ad Dominum pro Israël, et exaudivit eum Dominus.",
-      "french": "Samuel prit un agneau qui tétait encore; il l'offrit tout entier en holocauste au Seigneur; il cria au Seigneur pour Israël, et le Seigneur l'exauça.",
+      "latin": "Tulit autem Samüël agnum lactentem unum, et obtulit illum holocaustum integrum Domino : et clamavit Samüël ad Dominum pro Israël, et exaudivit eum Dominus.",
+      "french": "Samuel prit un agneau qui tétait encore ; il l’offrit tout entier en holocauste au Seigneur ; il cria au Seigneur pour Israël, et le Seigneur l’exauça.",
       "annotations": null,
       "source_pages": [
         "page_0164.json"
@@ -87,7 +87,7 @@
     },
     {
       "verse_number": 10,
-      "latin": "Factum est autem, cùm Samuël offerret holocaustum, Philisthiim iniêre prælium contra Israël : intonuit autem Dominus fragore magno in die illa super Philisthiim, et exterruit eos, et cæsi sunt à facie Israël.",
+      "latin": "Factum est autem, cùm Samuël offerret holocaustum, Philisthiim iniêre prælium contra Israël : intonuit autem Dominus fragore magno in die illa super Philisthiim, et exterruit eos, et cæsi sunt à facie Israël.",
       "french": "Lorsque Samuël offrait son holocauste, les Philistins commencèrent le combat contre Israël, et en même temps le Seigneur tonna avec un bruit épouvantable sur les Philistins, et il les frappa de terreur. Ainsi ils furent défaits par Israël.",
       "annotations": "An. du Monde 2888.",
       "source_pages": [
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "Egressique viri Israël de Masphath, persecuti sunt Philisthæos, et percusserunt eos, usque ad locum qui erat subter Bethchar.",
-      "french": "Les Israélites étant sortis de Masphath, poursuivirent les Philistins en les taillant en pièces, jusqu'au lieu qui est au-dessous de Bethchar.",
+      "french": "Les Israélites étant sortis de Masphath, poursuivirent les Philistins en les taillant en pièces, jusqu’au lieu qui est au-dessous de Bethchar.",
       "annotations": "An. du Monde 2888.",
       "source_pages": [
         "page_0166.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Tulit autem Samuël lapidem unum, et posuit eum inter Masphath et inter Sen: et vocavit nomen loci illius, Lapis adjutorii. Dixitque : Hucusque auxiliavit est nobis Dominus.",
-      "french": "Et Samuël prit une pierre qu'il mit entre Masphath et Sen ; et il appela ce lieu, la Pierre du secours, en disant : Le Seigneur nous a secourus jusqu'ici.",
+      "latin": "Tulit autem Samuël lapidem unum, et posuit eum inter Masphath et inter Sen : et vocavit nomen loci illius, Lapis adjutorii. Dixitque : Hucusque auxiliavit est nobis Dominus.",
+      "french": "Et Samuël prit une pierre qu’il mit entre Masphath et Sen ; et il appela ce lieu, la Pierre du secours, en disant : Le Seigneur nous a secourus jusqu’ici.",
       "annotations": null,
       "source_pages": [
         "page_0166.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Et humiliati sunt Philisthiim, nec apposuerunt ultrà ut venirent in terminos Israël. Facta est itaque manus Domini super Philisthæos, cunctis diebus Samuëlis.",
-      "french": "Les Philistins furent alors humiliés, et ils n'osèrent plus venir sur les terres d'Israël. Car la main du Seigneur fut sur les Philistins, tant que Samuël gouverna le peuple.",
+      "french": "Les Philistins furent alors humiliés, et ils n’osèrent plus venir sur les terres d’Israël. Car la main du Seigneur fut sur les Philistins, tant que Samuël gouverna le peuple.",
       "annotations": "An. du Monde 2888.",
       "source_pages": [
         "page_0167.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Et redditæ sunt urbes, quas tulerant Philisthiim ab Israël, Israëli, ab Accaron usque Geth, et terminos suos : liberavitque Israël de manu Philisthinorum, eratque pax inter Israël et Amorrhæum.",
-      "french": "Les villes que les Philistins avaient prises sur Israël, depuis Accaron jusqu'à Geth, furent rendues avec toutes leurs terres au peuple d'Israël. Ainsi Samuel délivra les Israélites de la main des Philistins, et il y avait paix entre Israël et les Amorrhéens.",
+      "latin": "Et redditæ sunt urbes, quas tulerant Philisthiim ab Israël, Israëli, ab Accaron usque Geth, et terminos suos : liberavitque Israël de manu Philisthinorum, eratque pax inter Israël et Amorrhæum.",
+      "french": "Les villes que les Philistins avaient prises sur Israël, depuis Accaron jusqu’à Geth, furent rendues avec toutes leurs terres au peuple d’Israël. Ainsi Samuel délivra les Israélites de la main des Philistins, et il y avait paix entre Israël et les Amorrhéens.",
       "annotations": "An. du Monde 2888.",
       "source_pages": [
         "page_0168.json"
@@ -150,7 +150,7 @@
     },
     {
       "verse_number": 17,
-      "latin": "Revertebaturque in Ramatha : ibi enim erat domus ejus, et ibi judicabat Israëlem : ædificavit etiam ibi Altare Domino.",
+      "latin": "Revertebaturque in Ramatha : ibi enim erat domus ejus, et ibi judicabat Israëlem : ædificavit etiam ibi Altare Domino.",
       "french": "Il retournait de là à Ramatha, qui était le lieu de sa demeure, et où il jugeait aussi le peuple. Il y bâtit même un autel au Seigneur.",
       "annotations": "An. du Monde 2888.",
       "source_pages": [

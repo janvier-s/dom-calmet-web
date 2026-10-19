@@ -1,13 +1,13 @@
 {
   "book": "1 Samuel",
   "chapter": 21,
-  "chapter_summary": "Fuite de David à Nobé. Il y reçoit des pains sanctifiés, et prend l'épée de Goliath. Il se retire à Geth, vers Achis. Il est obligé de contrefaire le fou, pour se sauver.",
+  "chapter_summary": "Fuite de David à Nobé. Il y reçoit des pains sanctifiés, et prend l’épée de Goliath. Il se retire à Geth, vers Achis. Il est obligé de contrefaire le fou, pour se sauver.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Venit autem David in Nobe ad Achimelech Sacerdotem : et obstupuit Achimelech : eò quòd venisset David. Et dixit ei : Quare tu solus et nullus est tecum ?",
-      "french": "Après cela David alla à Nobé, vers le grand-Prêtre Achimelech. Achimelech fut surpris de sa venue, et lui dit : D'où vient que vous venez seul, et qu'il n'y a personne avec vous ?",
+      "latin": "Venit autem David in Nobe ad Achimelech Sacerdotem : et obstupuit Achimelech : eò quòd venisset David. Et dixit ei : Quare tu solus et nullus est tecum ?",
+      "french": "Après cela David alla à Nobé, vers le grand-Prêtre Achimelech. Achimelech fut surpris de sa venue, et lui dit : D’où vient que vous venez seul, et qu’il n’y a personne avec vous ?",
       "annotations": "An. du Monde 2944.",
       "source_pages": [
         "page_0351.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Et ait David ad Achimelech Sacerdotem : Rex præcepit mihi sermonem, et dixit : Nemo sciat rem, propter quam missus es à me, et cujusmodi præcepta tibi dederim : nam et pueris condixi in illum et illum locum.",
-      "french": "David lui répondit : Le Roi m'a donné un ordre , et m'a dit : Que personne ne sache pourquoi je vous envoie, ni ce que je vous ai commandé. J'ai même donné rendez-vous à mes gens en tel et tel lieu.",
+      "latin": "Et ait David ad Achimelech Sacerdotem : Rex præcepit mihi sermonem, et dixit : Nemo sciat rem, propter quam missus es à me, et cujusmodi præcepta tibi dederim : nam et pueris condixi in illum et illum locum.",
+      "french": "David lui répondit : Le Roi m’a donné un ordre, et m’a dit : Que personne ne sache pourquoi je vous envoie, ni ce que je vous ai commandé. J’ai même donné rendez-vous à mes gens en tel et tel lieu.",
       "annotations": "An. du Monde 2944.",
       "source_pages": [
         "page_0352.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Et respondens Sacerdos ad David ait illi : Non habeo laïcos panes ad manum ; sed tantùm panem sanctum : si mundi sunt pueri, maximè à mulieribus..",
-      "french": "Le grand-Prêtre répondit à David: Je n’ai point ici de pain, dont les laïcs puissent manger, mais seulement du pain sanctifié, pourvu que vos gens soient purs, particulièrement à l’égard des femmes.",
+      "latin": "Et respondens Sacerdos ad David ait illi : Non habeo laïcos panes ad manum ; sed tantùm panem sanctum : si mundi sunt pueri, maximè à mulieribus..",
+      "french": "Le grand-Prêtre répondit à David : Je n’ai point ici de pain, dont les laïcs puissent manger, mais seulement du pain sanctifié, pourvu que vos gens soient purs, particulièrement à l’égard des femmes.",
       "annotations": null,
       "source_pages": [
         "page_0353.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Et respondit David Sacerdoti, et dixit ei : Equidem, si de mulieribus agitur, continuimus nos ab heri et nudiustertius, quando egrediebamur, et fuerunt vasa puerorum sancta. Porro via hæc polluta est, sed et ipsa hodiè sanctificabitur in vasis.",
-      "french": "David répondit au grand-Prêtre, et lui dit : Pour ce qui regarde les femmes, depuis hier et avant-hier que nous sommes partis, nous ne nous en sommes point approchés, et les habits de mes gens étaient purs. Il est vrai qu'il y est arrivé quelque impureté légale en chemin : mais ils en seront aujourd'hui purifiés.",
+      "latin": "Et respondit David Sacerdoti, et dixit ei : Equidem, si de mulieribus agitur, continuimus nos ab heri et nudiustertius, quando egrediebamur, et fuerunt vasa puerorum sancta. Porro via hæc polluta est, sed et ipsa hodiè sanctificabitur in vasis.",
+      "french": "David répondit au grand-Prêtre, et lui dit : Pour ce qui regarde les femmes, depuis hier et avant-hier que nous sommes partis, nous ne nous en sommes point approchés, et les habits de mes gens étaient purs. Il est vrai qu’il y est arrivé quelque impureté légale en chemin : mais ils en seront aujourd’hui purifiés.",
       "annotations": "An. du Monde 2944.",
       "source_pages": [
         "page_0354.json"
@@ -52,7 +52,7 @@
     {
       "verse_number": 6,
       "latin": "Dedit ergo ei Sacerdos sanctificatum panem, neque enim erat ibi panis, nisi tantùm panes propositionis, qui sublati fuerant à facie Domini, ut ponerentur panes calidi.",
-      "french": "Le grand-Prêtre lui donna donc du pain sanctifié; car il n'y en avait point là d'autre, que les pains exposés devant le Seigneur, qui avaient été ôtés de devant la présence, pour y en mettre de chauds en la place.",
+      "french": "Le grand-Prêtre lui donna donc du pain sanctifié ; car il n’y en avait point là d’autre, que les pains exposés devant le Seigneur, qui avaient été ôtés de devant la présence, pour y en mettre de chauds en la place.",
       "annotations": null,
       "source_pages": [
         "page_0354.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Erat autem ibi vir quidam de servis Saül, in die illa, intus in Tabernaculo Domini : et nomen ejus Doëg, Idumæus, potentissimus pastorum Saül.",
-      "french": "Or un certain homme des Officiers de Saül se trouva alors au Tabernacle du Seigneur. C'était un Iduméen, nommé Doëg, et le plus puissant d'entre les bergers de Saül.",
+      "latin": "Erat autem ibi vir quidam de servis Saül, in die illa, intus in Tabernaculo Domini : et nomen ejus Doëg, Idumæus, potentissimus pastorum Saül.",
+      "french": "Or un certain homme des Officiers de Saül se trouva alors au Tabernacle du Seigneur. C’était un Iduméen, nommé Doëg, et le plus puissant d’entre les bergers de Saül.",
       "annotations": "An. du Monde 2944.",
       "source_pages": [
         "page_0355.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Dixit autem David ad Achimelech : Si habes hic ad manum hastam, aut gladium? Quia gladium meum, et arma mea non tuli mecum. Sermo enim Regis urgebat.",
-      "french": "David dit encore à Achimelech : N'avez-vous point ici une lance, ou une épée? Car je n'ai point apporté avec moi mon épée, ni mes armes, parce que l'ordre du Roi pressait fort.",
+      "latin": "Dixit autem David ad Achimelech : Si habes hic ad manum hastam, aut gladium ? Quia gladium meum, et arma mea non tuli mecum. Sermo enim Regis urgebat.",
+      "french": "David dit encore à Achimelech : N’avez-vous point ici une lance, ou une épée ? Car je n’ai point apporté avec moi mon épée, ni mes armes, parce que l’ordre du Roi pressait fort.",
       "annotations": null,
       "source_pages": [
         "page_0355.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Et dixit Sacerdos : Ecce hic gladius Goliat Philisthæi, quem percussisti in valle Terebinthi, est involutus pallio post ephod : si istum vis tollere, tolle. Neque enim hic est alius absque eo. Et ait David : Non est huic alter similis, da mihi eum.",
-      "french": "Le grand-Prêtre lui répondit : Voilà l'épée de Goliat le Philistin, que vous avez tué dans la vallée du Térébinthe. Elle est enveloppée dans un drap derrière l'Éphod. Si vous la voulez, prenez-la, parce qu'il n'y en a point ici d'autre. David lui dit : Il n'y en a point qui vaille celle-là, donnez-la-moi.",
+      "latin": "Et dixit Sacerdos : Ecce hic gladius Goliat Philisthæi, quem percussisti in valle Terebinthi, est involutus pallio post ephod : si istum vis tollere, tolle. Neque enim hic est alius absque eo. Et ait David : Non est huic alter similis, da mihi eum.",
+      "french": "Le grand-Prêtre lui répondit : Voilà l’épée de Goliat le Philistin, que vous avez tué dans la vallée du Térébinthe. Elle est enveloppée dans un drap derrière l’Éphod. Si vous la voulez, prenez-la, parce qu’il n’y en a point ici d’autre. David lui dit : Il n’y en a point qui vaille celle-là, donnez-la-moi.",
       "annotations": "An. du Monde 2944.",
       "source_pages": [
         "page_0356.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Surrexit itaque David, et fugit in die illa à facie Saül: et venit ad Achis Regem Geth.",
-      "french": "David s'enfuit donc alors pour éviter la colère de Saül, et se réfugia auprès d'Achis, roi de Geth.",
+      "latin": "Surrexit itaque David, et fugit in die illa à facie Saül : et venit ad Achis Regem Geth.",
+      "french": "David s’enfuit donc alors pour éviter la colère de Saül, et se réfugia auprès d’Achis, roi de Geth.",
       "annotations": "An. du Monde 2944.",
       "source_pages": [
         "page_0357.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Dixerúntque servi Achis ad eum cùm vidissent David : Numquid non iste est David Rex terræ? Nonne huic cantabant per choros, dicentes : Percussit Saül mille, et David decem millia?",
-      "french": "Les Officiers d'Achis ayant vu David, dirent à Achis : N'est-ce pas là ce David, qui est comme Roi dans son pays? N'est-ce pas pour lui qu'on a chanté dans les danses publiques : Saül en a tué mille, et David dix mille ?",
+      "latin": "Dixerúntque servi Achis ad eum cùm vidissent David : Numquid non iste est David Rex terræ ? Nonne huic cantabant per choros, dicentes : Percussit Saül mille, et David decem millia ?",
+      "french": "Les Officiers d’Achis ayant vu David, dirent à Achis : N’est-ce pas là ce David, qui est comme Roi dans son pays ? N’est-ce pas pour lui qu’on a chanté dans les danses publiques : Saül en a tué mille, et David dix mille ?",
       "annotations": "An du Monde 2944.",
       "source_pages": [
         "page_0358.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Pofuit autem David sermones istos in corde suo, et extimuit valdè à facie Achis Regis Geth.",
-      "french": "David remarqua attentivement ces discours; et il commença à craindre extrêmement Achis, Roi de Geth.",
+      "french": "David remarqua attentivement ces discours ; et il commença à craindre extrêmement Achis, Roi de Geth.",
       "annotations": "An. du Monde 2944.",
       "source_pages": [
         "page_0359.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Et ait Achis ad servos suos: Vidistis hominem insanum: quare adduxistis eum ad me?",
-      "french": "Achis dit donc à ses Officiers: Vous voyez bien que cet homme était fou, pourquoi me l'avez-vous amené?",
+      "latin": "Et ait Achis ad servos suos : Vidistis hominem insanum : quare adduxistis eum ad me ?",
+      "french": "Achis dit donc à ses Officiers : Vous voyez bien que cet homme était fou, pourquoi me l’avez-vous amené ?",
       "annotations": "An. du Monde 2944.",
       "source_pages": [
         "page_0360.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "An desunt nobis furiosi, quòd introduxistis istum, ut fureret me præsente? Hîccine ingredietur domum meam?",
-      "french": "Est-ce que nous n'avons pas assez de fous, sans nous amener celui-ci, afin qu'il fît des folies en ma présence? Un tel homme doit-il entrer dans ma maison?",
+      "latin": "An desunt nobis furiosi, quòd introduxistis istum, ut fureret me præsente ? Hîccine ingredietur domum meam ?",
+      "french": "Est-ce que nous n’avons pas assez de fous, sans nous amener celui-ci, afin qu’il fît des folies en ma présence ? Un tel homme doit-il entrer dans ma maison ?",
       "annotations": null,
       "source_pages": [
         "page_0360.json"

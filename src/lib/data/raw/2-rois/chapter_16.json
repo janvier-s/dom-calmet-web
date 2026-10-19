@@ -1,7 +1,7 @@
 {
   "book": "2 Rois",
   "chapter": 16,
-  "chapter_summary": "Achaz s'adonne au culte des idoles. Il est attaqué et assiégé par Phacée et par Rasin ; mais le roi d'Assyrie étant venu à son secours, il est délivré de ses ennemis. Il fait dresser dans le Temple un autel conforme à celui de Damas. Il meurt ; Ézéchias lui succède.",
+  "chapter_summary": "Achaz s’adonne au culte des idoles. Il est attaqué et assiégé par Phacée et par Rasin ; mais le roi d’Assyrie étant venu à son secours, il est délivré de ses ennemis. Il fait dresser dans le Temple un autel conforme à celui de Damas. Il meurt ; Ézéchias lui succède.",
   "chapter_intro": null,
   "verses": [
     {
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Viginti annorum erat Achaz cùm regnare cœpisset, et sexdecim annis regnavit in Jerusalem : non fecit quod erat placitum in conspectu Domini Dei sui, sicut David pater ejus.",
-      "french": "Il avait vingt ans lorsqu'il commença à régner, et il régna seize ans à Jérusalem : il ne fit point ce qui était agréable au Seigneur son Dieu, comme David son père.",
+      "latin": "Viginti annorum erat Achaz cùm regnare cœpisset, et sexdecim annis regnavit in Jerusalem : non fecit quod erat placitum in conspectu Domini Dei sui, sicut David pater ejus.",
+      "french": "Il avait vingt ans lorsqu’il commença à régner, et il régna seize ans à Jérusalem : il ne fit point ce qui était agréable au Seigneur son Dieu, comme David son père.",
       "annotations": null,
       "source_pages": [
         "page_0216.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Sed ambulavit in via Regum Israël : insuper et filium suum consecravit, transferens per ignem, secundum idola Gentium, quæ dissipavit Dominus coram filiis Israël.",
-      "french": "Il marcha dans la voie des Rois d'Israël, et consacra même son fils, le faisant passer par le feu, suivant l'idolâtrie des nations que le Seigneur avait détruites à l'entrée des enfants d'Israël.",
+      "latin": "Sed ambulavit in via Regum Israël : insuper et filium suum consecravit, transferens per ignem, secundum idola Gentium, quæ dissipavit Dominus coram filiis Israël.",
+      "french": "Il marcha dans la voie des Rois d’Israël, et consacra même son fils, le faisant passer par le feu, suivant l’idolâtrie des nations que le Seigneur avait détruites à l’entrée des enfants d’Israël.",
       "annotations": "An. du Monde 3262.",
       "source_pages": [
         "page_0218.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Immolabat quoque victimas, et adolebat incensum in excelsis, et in collibus, et sub omni ligno frondoso.",
-      "french": "Il immolait aussi des victimes, et offrait de l'encens sur les hauts lieux, sur les collines, et sous tous les arbres chargés de feuillage.",
+      "french": "Il immolait aussi des victimes, et offrait de l’encens sur les hauts lieux, sur les collines, et sous tous les arbres chargés de feuillage.",
       "annotations": null,
       "source_pages": [
         "page_0219.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Tunc ascendit Rasin Rex Syriæ, et Phacee filius Romeliæ Rex Israël, in Jerusalem ad præliandum : cúmque obsiderent Achaz, non valuerunt superare.",
-      "french": "Alors Rasin roi de Syrie, et Phacée fils de Romélie roi d'Israël, vinrent mettre le siège devant Jérusalem ; et tenant Achaz assiégé, ils ne purent néanmoins le prendre.",
+      "latin": "Tunc ascendit Rasin Rex Syriæ, et Phacee filius Romeliæ Rex Israël, in Jerusalem ad præliandum : cúmque obsiderent Achaz, non valuerunt superare.",
+      "french": "Alors Rasin roi de Syrie, et Phacée fils de Romélie roi d’Israël, vinrent mettre le siège devant Jérusalem ; et tenant Achaz assiégé, ils ne purent néanmoins le prendre.",
       "annotations": "Monde 3262.",
       "source_pages": [
         "page_0220.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "In tempore illo restituit Rasin Rex Syriæ, Ailam Syriæ, et ejecit Judæos de Aila : et Idumei venerunt in Ailam, et habitaverunt ibi usque in diem hanc.",
-      "french": "En ce même temps Rasin Roi de Syrie reconquit Ela pour les Syriens, et en chassa les Juifs ; et les Iduméens vinrent à Ela, et y habitèrent comme ils y sont encore aujourd'hui.",
+      "latin": "In tempore illo restituit Rasin Rex Syriæ, Ailam Syriæ, et ejecit Judæos de Aila : et Idumei venerunt in Ailam, et habitaverunt ibi usque in diem hanc.",
+      "french": "En ce même temps Rasin Roi de Syrie reconquit Ela pour les Syriens, et en chassa les Juifs ; et les Iduméens vinrent à Ela, et y habitèrent comme ils y sont encore aujourd’hui.",
       "annotations": "An du Monde 3263.",
       "source_pages": [
         "page_0221.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Misit autem Achaz nuntios ad Teglathphalassar Regem Assyriorum, dicens : Servus tuus, et filius tuus ego sum : ascende, et salvum me fac de manu Regis Syriæ, et de manu Regis Israël, qui consurrexerunt adversum me.",
-      "french": "Alors Achaz envoya des ambassadeurs à Teglathphalassar roi des Assyriens, pour lui dire de sa part : Je suis votre serviteur et votre fils ; venez me sauver des mains du roi de Syrie, et des mains du roi d'Israël, qui se sont ligués contre moi.",
+      "latin": "Misit autem Achaz nuntios ad Teglathphalassar Regem Assyriorum, dicens : Servus tuus, et filius tuus ego sum : ascende, et salvum me fac de manu Regis Syriæ, et de manu Regis Israël, qui consurrexerunt adversum me.",
+      "french": "Alors Achaz envoya des ambassadeurs à Teglathphalassar roi des Assyriens, pour lui dire de sa part : Je suis votre serviteur et votre fils ; venez me sauver des mains du roi de Syrie, et des mains du roi d’Israël, qui se sont ligués contre moi.",
       "annotations": "An du Monde 3264.",
       "source_pages": [
         "page_0222.json"
@@ -70,7 +70,7 @@
     {
       "verse_number": 8,
       "latin": "Et cùm collegisset argentum et aurum, quod inveniri potuit in domo Domini, et in thesauris Regis, misit Regi Assyriorum munera.",
-      "french": "Et ayant amassé l'argent et l'or, qui se put trouver dans la maison du Seigneur et dans les trésors du Roi, il en fit des présents au Roi des Assyriens.",
+      "french": "Et ayant amassé l’argent et l’or, qui se put trouver dans la maison du Seigneur et dans les trésors du Roi, il en fit des présents au Roi des Assyriens.",
       "annotations": "An du Monde 3264.",
       "source_pages": [
         "page_0223.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Qui et acquievit voluntati ejus : ascendit enim Rex Assyriorum in Damascum, et vastavit eam: et transtulit habitatores ejus Cyrenen; Rasin autem interfecit.",
-      "french": "Le Roi des Assyriens s'étant rendu à ce qu'il désirait de lui, vint à Damas, ruina la ville, en transféra les habitants à Cyrène, et tua Rasin.",
+      "latin": "Qui et acquievit voluntati ejus : ascendit enim Rex Assyriorum in Damascum, et vastavit eam : et transtulit habitatores ejus Cyrenen ; Rasin autem interfecit.",
+      "french": "Le Roi des Assyriens s’étant rendu à ce qu’il désirait de lui, vint à Damas, ruina la ville, en transféra les habitants à Cyrène, et tua Rasin.",
       "annotations": null,
       "source_pages": [
         "page_0223.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Perrexitque Rex Achaz in occursum Teglathphalassar Regis Assyriorum in Damascum : cumque vidisset Altare Damasci, misit Rex Achaz ad Uriam Sacerdotem exemplar ejus, et similitudinem, juxta omne opus ejus.",
-      "french": "Alors le roi Achaz alla à Damas au-devant de Teglathphalassar roi des Assyriens, et ayant vu l'autel qui était à Damas, il envoya au pontife Urie un modèle, qui en représentait exactement tout l'ouvrage.",
+      "latin": "Perrexitque Rex Achaz in occursum Teglathphalassar Regis Assyriorum in Damascum : cumque vidisset Altare Damasci, misit Rex Achaz ad Uriam Sacerdotem exemplar ejus, et similitudinem, juxta omne opus ejus.",
+      "french": "Alors le roi Achaz alla à Damas au-devant de Teglathphalassar roi des Assyriens, et ayant vu l’autel qui était à Damas, il envoya au pontife Urie un modèle, qui en représentait exactement tout l’ouvrage.",
       "annotations": "An du Monde 3233.",
       "source_pages": [
         "page_0224.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Exstruxitque Urias Sacerdos Altare juxtà omnia quæ præceperat Rex Achaz de Damasco; ita fecit Sacerdos Urias, donec veniret Rex Achaz de Damasco.",
-      "french": "Et le Pontife Urie bâtit un Autel tout semblable à celui de Damas, selon l'ordre qu'il en avait reçu du Roi Achaz, en attendant que ce Roi fût revenu de Damas.",
+      "latin": "Exstruxitque Urias Sacerdos Altare juxtà omnia quæ præceperat Rex Achaz de Damasco ; ita fecit Sacerdos Urias, donec veniret Rex Achaz de Damasco.",
+      "french": "Et le Pontife Urie bâtit un Autel tout semblable à celui de Damas, selon l’ordre qu’il en avait reçu du Roi Achaz, en attendant que ce Roi fût revenu de Damas.",
       "annotations": "An du Monde 3264.",
       "source_pages": [
         "page_0225.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Cumque venisset Rex de Damasco, vidit Altare, et veneratus est illud: ascenditque, et immolavit holocausta, et sacrificium suum.",
-      "french": "Lorsque le roi Achaz fut revenu de Damas, il vit cet autel, et il le révéra : et il y vint immoler des holocaustes, et son sacrifice.",
+      "latin": "Cumque venisset Rex de Damasco, vidit Altare, et veneratus est illud : ascenditque, et immolavit holocausta, et sacrificium suum.",
+      "french": "Lorsque le roi Achaz fut revenu de Damas, il vit cet autel, et il le révéra : et il y vint immoler des holocaustes, et son sacrifice.",
       "annotations": "An du Monde 3264.",
       "source_pages": [
         "page_0226.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Et libavit libamina, et fudit sanguinem pacificorum, quæ obtulerat super Altare.",
-      "french": "Il y fit des oblations de liqueurs, et y répandit le sang des hosties pacifiques, qu'il avait offertes sur l'Autel.",
+      "french": "Il y fit des oblations de liqueurs, et y répandit le sang des hosties pacifiques, qu’il avait offertes sur l’Autel.",
       "annotations": null,
       "source_pages": [
         "page_0226.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Porrò Altare æreum, quod erat coram Domino, transtulit de facie Templi, et de loco Altaris, et de loco Templi Domini: posuitque illud ex latere Altaris ad aquilonem.",
-      "french": "Il transféra l'autel d'airain, qui était devant le Seigneur, et l'ôta de devant la face du Temple, de la place de l'autel et du Temple du Seigneur, et il le mit à côté de l'autel vers le septentrion.",
+      "latin": "Porrò Altare æreum, quod erat coram Domino, transtulit de facie Templi, et de loco Altaris, et de loco Templi Domini : posuitque illud ex latere Altaris ad aquilonem.",
+      "french": "Il transféra l’autel d’airain, qui était devant le Seigneur, et l’ôta de devant la face du Temple, de la place de l’autel et du Temple du Seigneur, et il le mit à côté de l’autel vers le septentrion.",
       "annotations": null,
       "source_pages": [
         "page_0226.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Præcepit quoque Rex Achaz Uriæ Sacerdoti, dicens : Super Altare majus offer holocaustum matutinum, et sacrificium vespertinum, et holocaustum Regis, et sacrificium ejus, et holocaustum universi populi terræ, et sacrificia eorum, et libamina eorum : et omnem sanguinem holocausti, et universum sanguinem victimæ super illud effundes : Altare verò æreum erit paratum ad voluntatem meam.",
-      "french": "Le roi Achaz donna aussi cet ordre au pontife Urie : Vous offrirez sur le grand autel l'holocauste du matin, et le sacrifice du soir, l'holocauste du roi, et son sacrifice, l'holocauste de tout le peuple, leurs sacrifices, et leurs oblations de liqueurs, et vous répandrez sur cet autel tout le sang des holocaustes, et tout le sang des victimes ; mais pour ce qui est de l'autel d'airain, je me réserve d'en ordonner à ma volonté.",
+      "latin": "Præcepit quoque Rex Achaz Uriæ Sacerdoti, dicens : Super Altare majus offer holocaustum matutinum, et sacrificium vespertinum, et holocaustum Regis, et sacrificium ejus, et holocaustum universi populi terræ, et sacrificia eorum, et libamina eorum : et omnem sanguinem holocausti, et universum sanguinem victimæ super illud effundes : Altare verò æreum erit paratum ad voluntatem meam.",
+      "french": "Le roi Achaz donna aussi cet ordre au pontife Urie : Vous offrirez sur le grand autel l’holocauste du matin, et le sacrifice du soir, l’holocauste du roi, et son sacrifice, l’holocauste de tout le peuple, leurs sacrifices, et leurs oblations de liqueurs, et vous répandrez sur cet autel tout le sang des holocaustes, et tout le sang des victimes ; mais pour ce qui est de l’autel d’airain, je me réserve d’en ordonner à ma volonté.",
       "annotations": null,
       "source_pages": [
         "page_0227.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Tulit autem Rex Achaz calatas bases et luterem, qui erat desuper : et mare deposuit de bobus æreis, qui sustentabant illud, et posuit super pavimentum stratum lapide.",
-      "french": "Le roi Achaz fit aussi ôter les socles ornés de gravures, et les cuves d'airain qui étaient dessus. Il fit aussi ôter la mer de dessus les bœufs d'airain qui la portaient, et il la mit sur le pavé du Temple, qui était de pierre.",
+      "latin": "Tulit autem Rex Achaz calatas bases et luterem, qui erat desuper : et mare deposuit de bobus æreis, qui sustentabant illud, et posuit super pavimentum stratum lapide.",
+      "french": "Le roi Achaz fit aussi ôter les socles ornés de gravures, et les cuves d’airain qui étaient dessus. Il fit aussi ôter la mer de dessus les bœufs d’airain qui la portaient, et il la mit sur le pavé du Temple, qui était de pierre.",
       "annotations": null,
       "source_pages": [
         "page_0227.json"
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Musach quoque sabbati, quod ædificaverat in Templo, et ingressum Regis exteriùs, convertit in Templum Domini, propter Regem Assyriorum.",
-      "french": "Il ôta aussi le Musach du sabbat, qu’il avait bâti dans le Temple ; il changea l’entrée de dehors, par où le Roi passait du Palais au Temple, et la mit au-dedans, à cause du Roi des Assyriens.",
+      "french": "Il ôta aussi le Musach du sabbat, qu’il avait bâti dans le Temple ; il changea l’entrée de dehors, par où le Roi passait du Palais au Temple, et la mit au-dedans, à cause du Roi des Assyriens.",
       "annotations": "An. du Monde 3264.",
       "source_pages": [
         "page_0228.json"
@@ -168,8 +168,8 @@
     },
     {
       "verse_number": 19,
-      "latin": "Reliqua autem verborum Achaz, quæ fecit, nonne hæc scripta sunt in Libro sermonum dierum Regum Juda?",
-      "french": "Le reste des actions d'Achaz et ce qu'il a fait, n'est-il pas écrit au Livre des Annales des Rois de Juda ?",
+      "latin": "Reliqua autem verborum Achaz, quæ fecit, nonne hæc scripta sunt in Libro sermonum dierum Regum Juda ?",
+      "french": "Le reste des actions d’Achaz et ce qu’il a fait, n’est-il pas écrit au Livre des Annales des Rois de Juda ?",
       "annotations": "An du Monde 3278.",
       "source_pages": [
         "page_0229.json"
@@ -178,7 +178,7 @@
     {
       "verse_number": 20,
       "latin": "Dormivitque Achaz cum patribus suis, et sepultus est cum eis in civitate David, et regnavit Ezechias filius ejus pro eo.",
-      "french": "Achaz s'endormit avec ses pères, et fut enseveli avec eux dans la ville de David, et Ézéchias son fils régna à sa place.",
+      "french": "Achaz s’endormit avec ses pères, et fut enseveli avec eux dans la ville de David, et Ézéchias son fils régna à sa place.",
       "annotations": "An du Monde 3264.",
       "source_pages": [
         "page_0230.json"

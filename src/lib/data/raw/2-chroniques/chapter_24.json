@@ -1,13 +1,13 @@
 {
   "book": "2 Chroniques",
   "chapter": 24,
-  "chapter_summary": "Piété de Joas tant que vécut le Grand-Prêtre Joïada. On amasse de l'argent pour les réparations du Temple. Joas après la mort de Joïada abandonne le culte du Seigneur. Il fait lapider Zacharie, et est livré aux Syriens, et ensuite assassiné par ses propres domestiques. Amasias lui succède.",
+  "chapter_summary": "Piété de Joas tant que vécut le Grand-Prêtre Joïada. On amasse de l’argent pour les réparations du Temple. Joas après la mort de Joïada abandonne le culte du Seigneur. Il fait lapider Zacharie, et est livré aux Syriens, et ensuite assassiné par ses propres domestiques. Amasias lui succède.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Septem annorum erat Joas, cùm regnare cœpisset : et quadraginta annis regnavit in Jerusalem; nomen matris ejus Sebia de Bersabee.",
-      "french": "Joas n'avait que sept ans, quand il commença à régner, et il régna quarante ans à Jérusalem. Sa mère s'appelait Sébie, et elle était de Bersabée.",
+      "latin": "Septem annorum erat Joas, cùm regnare cœpisset : et quadraginta annis regnavit in Jerusalem ; nomen matris ejus Sebia de Bersabee.",
+      "french": "Joas n’avait que sept ans, quand il commença à régner, et il régna quarante ans à Jérusalem. Sa mère s’appelait Sébie, et elle était de Bersabée.",
       "annotations": "An du M. 3126.",
       "source_pages": [
         "page_0157.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Congregavitque Sacerdotes, et Levitas, et dixit eis : Egredimini ad civitates Juda, et colligite de universo Israël pecuniam ad sarta-tecta templi Dei vestri, per singulos annos; festinatoque hoc facite, porrò Levitæ egêre negligentiùs.",
-      "french": "Ainsi il fit assembler les Prêtres et les Lévites, et il leur dit : Allez par toutes les villes de Juda, et ramassez tous les ans dans tout Israël, de l'argent pour les réparations du temple, et faites cela avec toute la diligence possible. Mais les Lévites exécutèrent cet ordre avec assez de négligence.",
+      "latin": "Congregavitque Sacerdotes, et Levitas, et dixit eis : Egredimini ad civitates Juda, et colligite de universo Israël pecuniam ad sarta-tecta templi Dei vestri, per singulos annos ; festinatoque hoc facite, porrò Levitæ egêre negligentiùs.",
+      "french": "Ainsi il fit assembler les Prêtres et les Lévites, et il leur dit : Allez par toutes les villes de Juda, et ramassez tous les ans dans tout Israël, de l’argent pour les réparations du temple, et faites cela avec toute la diligence possible. Mais les Lévites exécutèrent cet ordre avec assez de négligence.",
       "annotations": null,
       "source_pages": [
         "page_0157.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Vocavitque Rex Joiadam principem, et dixit ei: Quare tibi non fuit curæ, ut cogeres Levitas inferre de Juda, et de Jerusalem pecuniam, quæ constituta est à Moyse servo Domini, ut inferret eam omnis multitudo Israël in tabernaculum testimonii?",
-      "french": "Le Roi fit donc appeler le pontife Joiada, et lui dit: Pourquoi n'avez-vous point eu soin d'obliger les Lévites, d'apporter tout l'argent qui se lève sur Juda et sur Jérusalem, selon l'ordonnance que fit Moïse serviteur de Dieu, lorsqu'il obligea tout Israël de contribuer à la construction du tabernacle de l'alliance ?",
+      "latin": "Vocavitque Rex Joiadam principem, et dixit ei : Quare tibi non fuit curæ, ut cogeres Levitas inferre de Juda, et de Jerusalem pecuniam, quæ constituta est à Moyse servo Domini, ut inferret eam omnis multitudo Israël in tabernaculum testimonii ?",
+      "french": "Le Roi fit donc appeler le pontife Joiada, et lui dit : Pourquoi n’avez-vous point eu soin d’obliger les Lévites, d’apporter tout l’argent qui se lève sur Juda et sur Jérusalem, selon l’ordonnance que fit Moïse serviteur de Dieu, lorsqu’il obligea tout Israël de contribuer à la construction du tabernacle de l’alliance ?",
       "annotations": "An du M. 3148.",
       "source_pages": [
         "page_0158.json"
@@ -60,7 +60,7 @@
     },
     {
       "verse_number": 7,
-      "latin": "Athalia enim impiissima, et filii ejus, destruxerunt domum Dei; et universis, quæ sanctificata fuerant in templo Domini, ornaverunt fanum Baalim.",
+      "latin": "Athalia enim impiissima, et filii ejus, destruxerunt domum Dei ; et universis, quæ sanctificata fuerant in templo Domini, ornaverunt fanum Baalim.",
       "french": "Car la très-impie Athalie, et ses enfants avaient ruiné la maison de Dieu, et avaient orné le temple de Baalim, de tout ce qui avait été offert, et consacré au temple du Seigneur.",
       "annotations": null,
       "source_pages": [
@@ -69,7 +69,7 @@
     },
     {
       "verse_number": 8,
-      "latin": "Præcepit ergò Rex, et fecerunt arcam: posuerúntque eam juxta portam domus Domini forinsecùs.",
+      "latin": "Præcepit ergò Rex, et fecerunt arcam : posuerúntque eam juxta portam domus Domini forinsecùs.",
       "french": "Et le Roi leur commanda de faire un coffre, et ils le mirent auprès de la porte de la maison du Seigneur, en dehors.",
       "annotations": null,
       "source_pages": [
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Et prædicatum est in Juda, et Jerusalem, ut deferrent singuli pretium Domino, quod constituit Moyses servus Dei, super omnem Israël in deserto.",
-      "french": "Puis on fit publier en Juda, et à Jérusalem, que chacun vînt apporter au Seigneur l'argent, que Moïse son serviteur, avait imposé sur tout Israël, dans le désert.",
+      "french": "Puis on fit publier en Juda, et à Jérusalem, que chacun vînt apporter au Seigneur l’argent, que Moïse son serviteur, avait imposé sur tout Israël, dans le désert.",
       "annotations": null,
       "source_pages": [
         "page_0158.json"
@@ -88,7 +88,7 @@
     {
       "verse_number": 10,
       "latin": "Lætatíque sunt cuncti principes, et omnis populus, et ingressi contulerunt in arcam Domini, atque miserunt, ita ut impleretur.",
-      "french": "Tous les officiers, et le peuple, en eurent une grande joie. Ils entrèrent, et mirent dans le coffre du Seigneur, l'argent qu'ils devaient donner, et ils y en jetèrent tant, qu'il en fut rempli.",
+      "french": "Tous les officiers, et le peuple, en eurent une grande joie. Ils entrèrent, et mirent dans le coffre du Seigneur, l’argent qu’ils devaient donner, et ils y en jetèrent tant, qu’il en fut rempli.",
       "annotations": "An du M. 3148.",
       "source_pages": [
         "page_0159.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Cúmque tempus esset, ut deferrent arcam coram rege per manus Levitarum, ( videbant enim multam pecuniam ; ) ingrediebatur scriba regis, et quem primus sacerdos constituerat : effundebánque pecuniam quæ erat in arca : porro arcam reportabant ad locum suum : sicque faciebant per singulos dies, et congregata est infinita pecunia ;",
-      "french": "Lorsqu'il était temps de faire porter ce coffre devant le Roi, par les mains des Lévites, parce qu'ils voyaient qu'il y avait beaucoup d'argent; le secrétaire du Roi venait, avec celui que le Grand-Prêtre avait choisi, et ils vidaient tout l'argent de ce coffre, puis ils reportaient le coffre à sa place; ce qu'ils faisaient tous les jours : et ainsi ils amassèrent une somme immense d'argent,",
+      "latin": "Cúmque tempus esset, ut deferrent arcam coram rege per manus Levitarum, (videbant enim multam pecuniam ;) ingrediebatur scriba regis, et quem primus sacerdos constituerat : effundebánque pecuniam quæ erat in arca : porro arcam reportabant ad locum suum : sicque faciebant per singulos dies, et congregata est infinita pecunia ;",
+      "french": "Lorsqu’il était temps de faire porter ce coffre devant le Roi, par les mains des Lévites, parce qu’ils voyaient qu’il y avait beaucoup d’argent ; le secrétaire du Roi venait, avec celui que le Grand-Prêtre avait choisi, et ils vidaient tout l’argent de ce coffre, puis ils reportaient le coffre à sa place ; ce qu’ils faisaient tous les jours : et ainsi ils amassèrent une somme immense d’argent,",
       "annotations": null,
       "source_pages": [
         "page_0159.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Quam dederunt rex et Joiada his, qui præerant operibus Domini : at illi conducebant ex ea casores lapidum, et artifices operum singulorum, ut instaurarent domum Domini : fabros quoque ferri et æris, ut quod cadere cœperat, fulciretur.",
-      "french": "Que le Roi et le Pontife mirent entre les mains des officiers, qui conduisaient les ouvrages de la maison du Seigneur : ces officiers l'employaient à payer les tailleurs de pierres, et tous les autres ouvriers, qu'ils faisaient travailler aux réparations de la maison du Seigneur; ils en payaient aussi les artisans, qui travaillaient en fer et en cuivre, afin qu'ils rétablissent ce qui menaçait ruine.",
+      "latin": "Quam dederunt rex et Joiada his, qui præerant operibus Domini : at illi conducebant ex ea casores lapidum, et artifices operum singulorum, ut instaurarent domum Domini : fabros quoque ferri et æris, ut quod cadere cœperat, fulciretur.",
+      "french": "Que le Roi et le Pontife mirent entre les mains des officiers, qui conduisaient les ouvrages de la maison du Seigneur : ces officiers l’employaient à payer les tailleurs de pierres, et tous les autres ouvriers, qu’ils faisaient travailler aux réparations de la maison du Seigneur ; ils en payaient aussi les artisans, qui travaillaient en fer et en cuivre, afin qu’ils rétablissent ce qui menaçait ruine.",
       "annotations": null,
       "source_pages": [
         "page_0159.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Egerúntque hi qui operabantur industriè, et obducebatur parierum cicatrix per manus eorum , ac suscitaverunt domum Domini in statum pristinum; et firmiter cam stare fecerunt.",
-      "french": "Ces ouvriers habiles travaillèrent avec beaucoup de soin, et d'industrie, et ils réparèrent toutes les fentes, et ouvertures des murs. Ils rétablirent la maison du Seigneur dans son premier état, et l'affermirent sur ses fondements.",
+      "latin": "Egerúntque hi qui operabantur industriè, et obducebatur parierum cicatrix per manus eorum, ac suscitaverunt domum Domini in statum pristinum ; et firmiter cam stare fecerunt.",
+      "french": "Ces ouvriers habiles travaillèrent avec beaucoup de soin, et d’industrie, et ils réparèrent toutes les fentes, et ouvertures des murs. Ils rétablirent la maison du Seigneur dans son premier état, et l’affermirent sur ses fondements.",
       "annotations": null,
       "source_pages": [
         "page_0160.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Cúmque complessent omnia opera, detulerunt coram rege, et Joiada reliquam partem pecuniæ : de qua facta sunt vasa templi in ministerium, et ad holocausta, phialæ quoque, et cetera vasa aurea et argentea : et offerebantur holocausta in domo Domini jugiter, cunctis diebus Joiadæ.",
-      "french": "Après avoir fait faire entièrement tous ces ouvrages, ils portèrent au Roi et au Pontife Joiada, l'argent qui restait, et l'on en fit les vases nécessaires pour le ministère du temple, et pour les holocaustes ; des tasses, et tous les autres vaisseaux d'or et d'argent : et l'on ne cessa point d'offrir des holocaustes dans le temple du Seigneur, durant toute la vie de Joiada.",
+      "latin": "Cúmque complessent omnia opera, detulerunt coram rege, et Joiada reliquam partem pecuniæ : de qua facta sunt vasa templi in ministerium, et ad holocausta, phialæ quoque, et cetera vasa aurea et argentea : et offerebantur holocausta in domo Domini jugiter, cunctis diebus Joiadæ.",
+      "french": "Après avoir fait faire entièrement tous ces ouvrages, ils portèrent au Roi et au Pontife Joiada, l’argent qui restait, et l’on en fit les vases nécessaires pour le ministère du temple, et pour les holocaustes ; des tasses, et tous les autres vaisseaux d’or et d’argent : et l’on ne cessa point d’offrir des holocaustes dans le temple du Seigneur, durant toute la vie de Joiada.",
       "annotations": null,
       "source_pages": [
         "page_0160.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Senuit autem Joiada plenus dierum, et mortuus est, cùm esset centum triginta annorum.",
-      "french": "Joiada vécut jusqu'à une grande vieillesse, et étant plein de jours, il mourut âgé de cent trente ans.",
+      "french": "Joiada vécut jusqu’à une grande vieillesse, et étant plein de jours, il mourut âgé de cent trente ans.",
       "annotations": null,
       "source_pages": [
         "page_0160.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Sepelierúntque eum in Civitate David cum regibus, eò quòd fecisset bonum cum Israël, et cum domo ejus.",
-      "french": "On l'ensevelit avec les Rois dans la ville de David, parce qu'il avait fait beaucoup de bien à Israël, et à sa maison.",
+      "french": "On l’ensevelit avec les Rois dans la ville de David, parce qu’il avait fait beaucoup de bien à Israël, et à sa maison.",
       "annotations": null,
       "source_pages": [
         "page_0160.json"
@@ -150,7 +150,7 @@
     },
     {
       "verse_number": 17,
-      "latin": "Postquam autem obiit Joiada, ingressi sunt principes Juda, et adoraverunt regem : qui delinitus obsequiis eorum, acquievit eis.",
+      "latin": "Postquam autem obiit Joiada, ingressi sunt principes Juda, et adoraverunt regem : qui delinitus obsequiis eorum, acquievit eis.",
       "french": "Après que Joiada fut mort, les princes de Juda vinrent trouver le Roi, et lui rendirent de profonds respects. Ce prince gagné par leurs soumissions, se rendit fort complaisant à leur égard.",
       "annotations": "An du M. 31,2",
       "source_pages": [
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Et dereliquerunt templum Domini Dei patrum suorum, servierúntque lucis et sculptilibus, et facta est ira contra Judam, et Jerusalem propter hoc peccatum.",
-      "french": "Ils abandonnèrent le temple du Seigneur, le Dieu de leurs pères, et s'attachèrent au culte des idoles, et des bois consacrés aux faux-dieux. Et ce péché attira la colère du Seigneur sur Juda, et sur Jérusalem.",
+      "french": "Ils abandonnèrent le temple du Seigneur, le Dieu de leurs pères, et s’attachèrent au culte des idoles, et des bois consacrés aux faux-dieux. Et ce péché attira la colère du Seigneur sur Juda, et sur Jérusalem.",
       "annotations": null,
       "source_pages": [
         "page_0161.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Mittebátque eis prophetas ut reuerterentur ad Dominum, quos protestantes, illi audire nolebant.",
-      "french": "Il leur envoyait des Prophètes pour les ramener au Seigneur, mais ils ne voulaient point les écouter, quelques protestations qu'ils leur fissent.",
+      "french": "Il leur envoyait des Prophètes pour les ramener au Seigneur, mais ils ne voulaient point les écouter, quelques protestations qu’ils leur fissent.",
       "annotations": "An du M. 3146.",
       "source_pages": [
         "page_0162.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Spiritus itaque Dei induit Zachariam, filium Joiadæ sacerdotem, et stetit in conspectu populi, et dixit eis: Hæc dicit Dominus Deus : Quare transgredimini præceptum Domini, quod vobis non proderit, et dereliquistis Dominum, ut derelinqueret vos?",
-      "french": "L'Esprit de Dieu remplit donc le Grand-Prêtre Zacharie, fils de Joïada, et il vint se présenter devant le peuple, et leur dit : Voici ce que dit le Seigneur votre Dieu : Pourquoi violez-vous les préceptes du Seigneur? Cela ne vous sera pas avantageux. Et pourquoi avez-vous abandonné le Seigneur pour le porter aussi à vous abandonner?",
+      "latin": "Spiritus itaque Dei induit Zachariam, filium Joiadæ sacerdotem, et stetit in conspectu populi, et dixit eis : Hæc dicit Dominus Deus : Quare transgredimini præceptum Domini, quod vobis non proderit, et dereliquistis Dominum, ut derelinqueret vos ?",
+      "french": "L’Esprit de Dieu remplit donc le Grand-Prêtre Zacharie, fils de Joïada, et il vint se présenter devant le peuple, et leur dit : Voici ce que dit le Seigneur votre Dieu : Pourquoi violez-vous les préceptes du Seigneur ? Cela ne vous sera pas avantageux. Et pourquoi avez-vous abandonné le Seigneur pour le porter aussi à vous abandonner ?",
       "annotations": null,
       "source_pages": [
         "page_0162.json"
@@ -187,7 +187,7 @@
     {
       "verse_number": 21,
       "latin": "Qui congregati adversus eum, miserunt lapides juxta regis imperium in atrio domûs Domini.",
-      "french": "Ces gens s'unirent ensemble contre lui, et le lapidèrent dans le parvis du temple, selon l'ordre qu'ils en avaient reçu du Roi.",
+      "french": "Ces gens s’unirent ensemble contre lui, et le lapidèrent dans le parvis du temple, selon l’ordre qu’ils en avaient reçu du Roi.",
       "annotations": null,
       "source_pages": [
         "page_0163.json"
@@ -195,8 +195,8 @@
     },
     {
       "verse_number": 22,
-      "latin": "Et non est recordatus Joas rex misericordiæ, quam fecerat Joiada pater illius secum, sed interfecit filium ejus. Qui cùm moreretur, ait : Videat Dominus, et requirat.",
-      "french": "Ainsi Joas ne se souvint point des extrêmes obligations, qu'il avait à Joiada père de Zacharie, mais il fit tuer son fils, qui étant sur le point d'expirer, dit : Que Dieu voie le traitement que vous me faites, et qu'il venge ma mort.",
+      "latin": "Et non est recordatus Joas rex misericordiæ, quam fecerat Joiada pater illius secum, sed interfecit filium ejus. Qui cùm moreretur, ait : Videat Dominus, et requirat.",
+      "french": "Ainsi Joas ne se souvint point des extrêmes obligations, qu’il avait à Joiada père de Zacharie, mais il fit tuer son fils, qui étant sur le point d’expirer, dit : Que Dieu voie le traitement que vous me faites, et qu’il venge ma mort.",
       "annotations": null,
       "source_pages": [
         "page_0163.json"
@@ -204,8 +204,8 @@
     },
     {
       "verse_number": 23,
-      "latin": "Cúmque evolutus esset annus, ascendit contra eum exercitus Syriæ : venítque in Judam, et Jerusalem, et interfecit cunctos principes populi, atque universam prædam miserunt regi in Damascum.",
-      "french": "L'année finie, l'armée de Syrie vint contre Joas ; elle entra dans Juda, et dans Jérusalem, et fit mourir tous les princes du peuple, et elle envoya au Roi de Damas tout le butin qu'elle fit.",
+      "latin": "Cúmque evolutus esset annus, ascendit contra eum exercitus Syriæ : venítque in Judam, et Jerusalem, et interfecit cunctos principes populi, atque universam prædam miserunt regi in Damascum.",
+      "french": "L’année finie, l’armée de Syrie vint contre Joas ; elle entra dans Juda, et dans Jérusalem, et fit mourir tous les princes du peuple, et elle envoya au Roi de Damas tout le butin qu’elle fit.",
       "annotations": "An du M. 3165.",
       "source_pages": [
         "page_0164.json"
@@ -213,8 +213,8 @@
     },
     {
       "verse_number": 24,
-      "latin": "Et certè cùm permodicus venisset numerus Syrorum, tradidit Dominus in manibus eorum infinitam multitudinem, eò quòd dereliquissent Dominum Deum patrum suorum : in Joas quoque ignominiosa exercuere judicia.",
-      "french": "Et il est remarquable que ces Syriens étaient venus en fort petit nombre, et que Dieu leur livra entre les mains une multitude infinie, parce qu'ils avaient abandonné le Seigneur, le Dieu de leurs pères. Et ils traitèrent Joas avec la dernière ignominie.",
+      "latin": "Et certè cùm permodicus venisset numerus Syrorum, tradidit Dominus in manibus eorum infinitam multitudinem, eò quòd dereliquissent Dominum Deum patrum suorum : in Joas quoque ignominiosa exercuere judicia.",
+      "french": "Et il est remarquable que ces Syriens étaient venus en fort petit nombre, et que Dieu leur livra entre les mains une multitude infinie, parce qu’ils avaient abandonné le Seigneur, le Dieu de leurs pères. Et ils traitèrent Joas avec la dernière ignominie.",
       "annotations": null,
       "source_pages": [
         "page_0164.json"
@@ -222,8 +222,8 @@
     },
     {
       "verse_number": 25,
-      "latin": "Et abeuntes dimiserunt eum in languoribus magnis : surrexerunt autem contra eum servi sui, in ultionem sanguinis filii Joiadæ sacerdotis, et occiderunt eum in lectulo suo, et mortuus est : sepelierúntque eum in Civitate David, sed non in sepulchris Regum.",
-      "french": "Ils se retirèrent ensuite, et le laissèrent dans d'extrêmes langueurs : ses serviteurs mêmes s'élevèrent contre lui, pour venger le sang du fils de Joiada souverain pontife, et ils le tuèrent dans son lit. Il fut enterré dans la ville de David, mais non dans le tombeau des Rois.",
+      "latin": "Et abeuntes dimiserunt eum in languoribus magnis : surrexerunt autem contra eum servi sui, in ultionem sanguinis filii Joiadæ sacerdotis, et occiderunt eum in lectulo suo, et mortuus est : sepelierúntque eum in Civitate David, sed non in sepulchris Regum.",
+      "french": "Ils se retirèrent ensuite, et le laissèrent dans d’extrêmes langueurs : ses serviteurs mêmes s’élevèrent contre lui, pour venger le sang du fils de Joiada souverain pontife, et ils le tuèrent dans son lit. Il fut enterré dans la ville de David, mais non dans le tombeau des Rois.",
       "annotations": "An du M. 3165.",
       "source_pages": [
         "page_0165.json"
@@ -231,7 +231,7 @@
     },
     {
       "verse_number": 26,
-      "latin": "Infidiati verò sunt , Zabad filius Semmaath Ammanitidis , et Jozabad filius Semarith Moabitiidis.",
+      "latin": "Infidiati verò sunt, Zabad filius Semmaath Ammanitidis, et Jozabad filius Semarith Moabitiidis.",
       "french": "Ceux qui avaient conspiré contre lui, étaient Zabad, fils de Semmaath femme Ammonite, et Jozabad, fils de Sémarith femme de Moab.",
       "annotations": "An du M. 3126. avant J. C. 878.",
       "source_pages": [
@@ -240,8 +240,8 @@
     },
     {
       "verse_number": 27,
-      "latin": "Porrò filii ejus, ac summa pecuniæ quæ adunata fuerat sub eo, et instauratio domûs Dei, scripta sunt diligentius in libro Regum : regnavit autem Amasias filius ejus pro eo.",
-      "french": "Ce qui regarde ses enfants, la grande somme d'argent qu'on avait amassée sous lui, et le rétablissement de la maison de Dieu, est écrit avec plus de soin, et plus en détail dans le livre des Rois; et Amasias son fils régna en sa place.",
+      "latin": "Porrò filii ejus, ac summa pecuniæ quæ adunata fuerat sub eo, et instauratio domûs Dei, scripta sunt diligentius in libro Regum : regnavit autem Amasias filius ejus pro eo.",
+      "french": "Ce qui regarde ses enfants, la grande somme d’argent qu’on avait amassée sous lui, et le rétablissement de la maison de Dieu, est écrit avec plus de soin, et plus en détail dans le livre des Rois ; et Amasias son fils régna en sa place.",
       "annotations": null,
       "source_pages": [
         "page_0166.json"

@@ -1,13 +1,13 @@
 {
   "book": "Esdras",
   "chapter": 6,
-  "chapter_summary": "Darius confirme l'Ordonnance de Cyrus en faveur des Juifs, touchant le rétablissement du Temple de Jérusalem. Cet édifice est achevé, on le dédie, et on célèbre la Pâque.",
+  "chapter_summary": "Darius confirme l’Ordonnance de Cyrus en faveur des Juifs, touchant le rétablissement du Temple de Jérusalem. Cet édifice est achevé, on le dédie, et on célèbre la Pâque.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Tunc Darius Rex præcepit : et recensuerunt in bibliotheca librorum, qui erant repositi in Babylone.",
-      "french": "Alors le Roi Darius commanda qu'on allât consulter les livres de la bibliothèque qui était à Babylone.",
+      "latin": "Tunc Darius Rex præcepit : et recensuerunt in bibliotheca librorum, qui erant repositi in Babylone.",
+      "french": "Alors le Roi Darius commanda qu’on allât consulter les livres de la bibliothèque qui était à Babylone.",
       "annotations": "An du M. 3485.",
       "source_pages": [
         "page_0091.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Et inventum est in Ecbatanis, quod est castrum in Medena provincia, volumen unum, talisque scriptus erat in eo commentarius :",
-      "french": "Et il se trouva à Ecbatanes, qui est une forteresse de la Province de Médie, un livre où était écrit ce qui suit :",
+      "latin": "Et inventum est in Ecbatanis, quod est castrum in Medena provincia, volumen unum, talisque scriptus erat in eo commentarius :",
+      "french": "Et il se trouva à Ecbatanes, qui est une forteresse de la Province de Médie, un livre où était écrit ce qui suit :",
       "annotations": null,
       "source_pages": [
         "page_0092.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Anno primo Cyri Regis : Cyrus Rex decrevit ut domus Dei ædificaretur, quæ est in Jerusalem, in loco ubi immolent hostias, et ut ponant fundamenta supportantia altitudinem cubitorum sexaginta, et latitudinem cubitorum sexaginta.",
-      "french": "La première année du règne du Roi Cyrus : Le Roi Cyrus a ordonné que la maison de Dieu, qui est à Jérusalem, fût rebâtie dans le lieu où elle était, pour y offrir des hosties, et qu'on en posât les fondements, qui pussent porter un édifice de soixante coudées de haut, et de soixante coudées de long.",
+      "latin": "Anno primo Cyri Regis : Cyrus Rex decrevit ut domus Dei ædificaretur, quæ est in Jerusalem, in loco ubi immolent hostias, et ut ponant fundamenta supportantia altitudinem cubitorum sexaginta, et latitudinem cubitorum sexaginta.",
+      "french": "La première année du règne du Roi Cyrus : Le Roi Cyrus a ordonné que la maison de Dieu, qui est à Jérusalem, fût rebâtie dans le lieu où elle était, pour y offrir des hosties, et qu’on en posât les fondements, qui pussent porter un édifice de soixante coudées de haut, et de soixante coudées de long.",
       "annotations": null,
       "source_pages": [
         "page_0092.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Ordines de lapidibus impolitis tres, et fic ordines de lignis novis : sumptus autem de domo Regis dabuntur.",
-      "french": "Qu'il y eût trois étages de pierres non polies, et que l'on mît dessus, des rangs de bois tout neuf, et que l'argent pour cette dépense fût fourni de la maison du Roi.",
+      "latin": "Ordines de lapidibus impolitis tres, et fic ordines de lignis novis : sumptus autem de domo Regis dabuntur.",
+      "french": "Qu’il y eût trois étages de pierres non polies, et que l’on mît dessus, des rangs de bois tout neuf, et que l’argent pour cette dépense fût fourni de la maison du Roi.",
       "annotations": "An du M. 3485.",
       "source_pages": [
         "page_0093.json"
@@ -43,7 +43,7 @@
     {
       "verse_number": 5,
       "latin": "Sed et vasa Templi Dei aurea et argentea, quæ Nabuchodonosor tulerat de Templo Jerusalem, et attulerat ea in Babylonem, reddantur, et referantur in Templum in Jerusalem, in locum suum, quæ et posita sunt in Templo Dei.",
-      "french": "Que l'on rendît aussi les vases d'or et d'argent du Temple de Dieu, que Nabuchodonosor avait transportés du Temple de Jérusalem à Babylone, et qu'ils fussent reportés dans ce Temple, au même lieu où ils avaient été autrefois placés dans le Temple de Dieu.",
+      "french": "Que l’on rendît aussi les vases d’or et d’argent du Temple de Dieu, que Nabuchodonosor avait transportés du Temple de Jérusalem à Babylone, et qu’ils fussent reportés dans ce Temple, au même lieu où ils avaient été autrefois placés dans le Temple de Dieu.",
       "annotations": null,
       "source_pages": [
         "page_0093.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Nunc ergo Thathanaï, Dux regionis, quæ est trans flumen, Stharbuzanaï, et consiliarii vestri Apharsachæi, qui estis trans flumen, procul recedite ab illis:",
-      "french": "Maintenant donc, vous Thathanaï, Gouverneur du pays qui est au-delà du fleuve, Stharbuzanaï, et vous, Apharsachéens, qui êtes leurs conseillers, et qui demeurez au-delà du fleuve, retirez-vous loin des Juifs;",
+      "latin": "Nunc ergo Thathanaï, Dux regionis, quæ est trans flumen, Stharbuzanaï, et consiliarii vestri Apharsachæi, qui estis trans flumen, procul recedite ab illis :",
+      "french": "Maintenant donc, vous Thathanaï, Gouverneur du pays qui est au-delà du fleuve, Stharbuzanaï, et vous, Apharsachéens, qui êtes leurs conseillers, et qui demeurez au-delà du fleuve, retirez-vous loin des Juifs ;",
       "annotations": "An du M. 3485.",
       "source_pages": [
         "page_0094.json"
@@ -61,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "Et dimittite fieri Templum Dei illud à Duce Judæorum, et à Senioribus eorum, ut Domum Dei illam ædificent in loco suo.",
-      "french": "Et n'empêchez point le chef de ces Juifs, et leurs Anciens, de travailler au Temple de Dieu, et de bâtir sa maison dans le même lieu où elle était.",
+      "french": "Et n’empêchez point le chef de ces Juifs, et leurs Anciens, de travailler au Temple de Dieu, et de bâtir sa maison dans le même lieu où elle était.",
       "annotations": null,
       "source_pages": [
         "page_0094.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Sed et à me præceptum est, quid oporteat fieri à Presbyteris Judæorum illis, ut ædificetur Domus Dei; scilicet ut de arca Regis, id est, de tributis, quæ dantur de regione trans flumen, studiosè sumptus detur viris illis, ne impediatur opus.",
-      "french": "J'ai ordonné aussi de quelle manière on doit en user envers les anciens des Juifs, pour rebâtir cette maison de Dieu, et je veux que des coffres du Roi, et des tributs qui se lèvent sur le pays au-delà du fleuve, on leur fournisse avec soin tout ce qui sera nécessaire pour les frais de cet édifice, afin que rien n'empêche qu'il ne continue à se bâtir.",
+      "latin": "Sed et à me præceptum est, quid oporteat fieri à Presbyteris Judæorum illis, ut ædificetur Domus Dei ; scilicet ut de arca Regis, id est, de tributis, quæ dantur de regione trans flumen, studiosè sumptus detur viris illis, ne impediatur opus.",
+      "french": "J’ai ordonné aussi de quelle manière on doit en user envers les anciens des Juifs, pour rebâtir cette maison de Dieu, et je veux que des coffres du Roi, et des tributs qui se lèvent sur le pays au-delà du fleuve, on leur fournisse avec soin tout ce qui sera nécessaire pour les frais de cet édifice, afin que rien n’empêche qu’il ne continue à se bâtir.",
       "annotations": null,
       "source_pages": [
         "page_0094.json"
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Quòd si necesse fuerit, et vitulos, et agnos, et hædos in holocaustum Deo Cœli, frumentum, sal, vinum, et oleum, secundum ritum Sacerdotum, qui sunt in Jerusalem, detur eis per singulos dies, ne sit in aliquo querimonia.",
-      "french": "Nous voulons de plus, que s'il est nécessaire, on leur donne chaque jour les veaux, les agneaux, et les chevreaux qu'on doit offrir en holocauste au Dieu du ciel ; le froment, le sel, le vin et l'huile, selon les cérémonies des Prêtres qui sont à Jérusalem, sans qu'on leur laisse aucun sujet de se plaindre ;",
+      "french": "Nous voulons de plus, que s’il est nécessaire, on leur donne chaque jour les veaux, les agneaux, et les chevreaux qu’on doit offrir en holocauste au Dieu du ciel ; le froment, le sel, le vin et l’huile, selon les cérémonies des Prêtres qui sont à Jérusalem, sans qu’on leur laisse aucun sujet de se plaindre ;",
       "annotations": "An du m. 3485.",
       "source_pages": [
         "page_0095.json"
@@ -88,7 +88,7 @@
     {
       "verse_number": 10,
       "latin": "Et offerant oblationes Deo Cœli, orentque pro vita Regis, et filiorum ejus.",
-      "french": "Afin qu'ils offrent des sacrifices au Dieu du ciel, et qu'ils prient pour la vie du Roi et de ses enfants.",
+      "french": "Afin qu’ils offrent des sacrifices au Dieu du ciel, et qu’ils prient pour la vie du Roi et de ses enfants.",
       "annotations": null,
       "source_pages": [
         "page_0095.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "A me ergo positum est decretum: Ut omnis homo qui hanc mutaverit jussionem, tollatur lignum de domo ipsius, et erigatur, et configatur in eo; domus autem ejus publicetur.",
-      "french": "C'est pourquoi nous ordonnons que si quelqu'un, de quelque qualité qu'il soit, contrevient à cet Édit, on tire une pièce de bois de sa maison, qu'on la plante en terre, qu'on l'y attache, et que sa maison soit confisquée.",
+      "latin": "A me ergo positum est decretum : Ut omnis homo qui hanc mutaverit jussionem, tollatur lignum de domo ipsius, et erigatur, et configatur in eo ; domus autem ejus publicetur.",
+      "french": "C’est pourquoi nous ordonnons que si quelqu’un, de quelque qualité qu’il soit, contrevient à cet Édit, on tire une pièce de bois de sa maison, qu’on la plante en terre, qu’on l’y attache, et que sa maison soit confisquée.",
       "annotations": null,
       "source_pages": [
         "page_0095.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Deus autem, qui habitare fecit nomen suum ibi, dissipet omnia Regna, et populum, qui extenderit manum suam, ut oppugnet et dissipet Domum Dei illam, quæ est in Jerusalem. Ego Darius statui Decretum, quod studiosè impleri volo.",
-      "french": "Que Dieu qui a établi son nom en ce lieu-là, dissipe tous les Royaumes, et extermine le peuple, qui étendra sa main pour lui contredire, et pour ruiner cette maison qu'il a dans Jérusalem. Moi Darius j'ai fait cet Édit, et je veux qu'il soit exécuté très exactement.",
+      "french": "Que Dieu qui a établi son nom en ce lieu-là, dissipe tous les Royaumes, et extermine le peuple, qui étendra sa main pour lui contredire, et pour ruiner cette maison qu’il a dans Jérusalem. Moi Darius j’ai fait cet Édit, et je veux qu’il soit exécuté très exactement.",
       "annotations": null,
       "source_pages": [
         "page_0095.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Seniores autem Judæorum ædificabant, et prosperabantur, juxta prophetiam Aggæi Prophetæ, et Zachariæ, filii Addo: et ædificaverunt, et construxerunt, jubente Deo Israël, et jubente Cyro, et Dario, et Artaxerce, Regibus Persarum.",
-      "french": "Cependant les Anciens des Juifs bâtissaient le Temple, et tout leur succédait heureusement, selon la prophétie d'Aggée, et de Zacharie, fils d'Addo. Ils travaillaient à cet édifice par le commandement du Dieu d'Israël, et par l'ordre de Cyrus, de Darius, et d'Artaxercès, Rois de Perse.",
+      "latin": "Seniores autem Judæorum ædificabant, et prosperabantur, juxta prophetiam Aggæi Prophetæ, et Zachariæ, filii Addo : et ædificaverunt, et construxerunt, jubente Deo Israël, et jubente Cyro, et Dario, et Artaxerce, Regibus Persarum.",
+      "french": "Cependant les Anciens des Juifs bâtissaient le Temple, et tout leur succédait heureusement, selon la prophétie d’Aggée, et de Zacharie, fils d’Addo. Ils travaillaient à cet édifice par le commandement du Dieu d’Israël, et par l’ordre de Cyrus, de Darius, et d’Artaxercès, Rois de Perse.",
       "annotations": null,
       "source_pages": [
         "page_0096.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Et compleverunt Domum Dei istam usque ad diem tertium mensis Adar, qui est annus sextus regni Darii Regis.",
-      "french": "Et la maison de Dieu fut achevée de bâtir le troisième jour du mois d'Adar, la sixième année du règne du Roi Darius.",
+      "french": "Et la maison de Dieu fut achevée de bâtir le troisième jour du mois d’Adar, la sixième année du règne du Roi Darius.",
       "annotations": "An du M. 3489. avant J.C. 515.",
       "source_pages": [
         "page_0097.json"
@@ -141,8 +141,8 @@
     },
     {
       "verse_number": 16,
-      "latin": "Fecerunt autem filii Israël, Sacerdotes, et Levitæ, et reliqui filiorum Transmigrationis, Dedicationem Domûs Dei in gaudio ;",
-      "french": "Alors les enfants d'Israël, les Prêtres, et les Lévites, et tous les autres qui étaient revenus de captivité, firent la Dédicace de la Maison de Dieu avec de grandes réjouissances ;",
+      "latin": "Fecerunt autem filii Israël, Sacerdotes, et Levitæ, et reliqui filiorum Transmigrationis, Dedicationem Domûs Dei in gaudio ;",
+      "french": "Alors les enfants d’Israël, les Prêtres, et les Lévites, et tous les autres qui étaient revenus de captivité, firent la Dédicace de la Maison de Dieu avec de grandes réjouissances ;",
       "annotations": null,
       "source_pages": [
         "page_0097.json"
@@ -151,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Et obtulerunt in Dedicationem Domûs Dei, vitulos centum, arietes ducentos, agnos quadringentos, hircos caprarum, pro peccato totius Israël, duodecim, juxta numerum tribuum Israël.",
-      "french": "Et ils offrirent pour cette Dédicace de la Maison de Dieu, cent veaux, deux cents béliers, quatre cents agneaux, douze boucs pour le péché de tout Israël, selon le nombre des tribus d'Israël.",
+      "french": "Et ils offrirent pour cette Dédicace de la Maison de Dieu, cent veaux, deux cents béliers, quatre cents agneaux, douze boucs pour le péché de tout Israël, selon le nombre des tribus d’Israël.",
       "annotations": null,
       "source_pages": [
         "page_0098.json"
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Et statuenunt Sacerdotes in ordinibus suis, et Levitas in vicibus suis, super opera Dei in Jerusalem, sicut scriptum est in Libro Moysi.",
-      "french": "Et les Prêtres furent établis en leurs ordres, et les Lévites en leur rang, pour faire l'œuvre de Dieu dans Jérusalem, selon qu'il est écrit dans le Livre de Moïse.",
+      "french": "Et les Prêtres furent établis en leurs ordres, et les Lévites en leur rang, pour faire l’œuvre de Dieu dans Jérusalem, selon qu’il est écrit dans le Livre de Moïse.",
       "annotations": null,
       "source_pages": [
         "page_0098.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Fecerunt autem filii Israël transmigrationis, Pascha, quartadecimâ die mensis primi.",
-      "french": "Les enfants d'Israël qui étaient revenus de captivité, célébrèrent la Pâque le quatorzième jour du premier mois.",
+      "french": "Les enfants d’Israël qui étaient revenus de captivité, célébrèrent la Pâque le quatorzième jour du premier mois.",
       "annotations": "An du M. 3489.",
       "source_pages": [
         "page_0099.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Purificati enim fuerunt Sacerdotes et Levitæ quasi unus : omnes mundi ad immolandum Pascha universis filiis transmigrationis, et fratribus suis Sacerdotibus, et sibi.",
-      "french": "Car les Prêtres et les Lévites avaient été tous purifiés, comme s'ils n'eussent été qu'un seul homme ; et étant tous purs, ils immolèrent la Pâque pour tous les Israélites revenus de captivité, pour les Prêtres leurs frères, et pour eux-mêmes.",
+      "latin": "Purificati enim fuerunt Sacerdotes et Levitæ quasi unus : omnes mundi ad immolandum Pascha universis filiis transmigrationis, et fratribus suis Sacerdotibus, et sibi.",
+      "french": "Car les Prêtres et les Lévites avaient été tous purifiés, comme s’ils n’eussent été qu’un seul homme ; et étant tous purs, ils immolèrent la Pâque pour tous les Israélites revenus de captivité, pour les Prêtres leurs frères, et pour eux-mêmes.",
       "annotations": null,
       "source_pages": [
         "page_0099.json"
@@ -187,7 +187,7 @@
     {
       "verse_number": 21,
       "latin": "Et comederunt filii Israël, qui reversi fuerant de transmigratione, et omnes qui se separaverant à coinquinatione gentium terræ ad eos, ut quærerent Dominum Deum Israël.",
-      "french": "Les enfants d'Israël qui étaient retournés après la captivité, mangèrent la Pâque avec tous ceux, qui s'étant séparés de la corruption des nations du pays, s'étaient joints à eux, afin de chercher le Seigneur le Dieu d'Israël.",
+      "french": "Les enfants d’Israël qui étaient retournés après la captivité, mangèrent la Pâque avec tous ceux, qui s’étant séparés de la corruption des nations du pays, s’étaient joints à eux, afin de chercher le Seigneur le Dieu d’Israël.",
       "annotations": null,
       "source_pages": [
         "page_0099.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Et fecerunt solemnitatem azymorum septem diebus in lætitia, quoniam lætificaverat eos Dominus, et converterat cor Regis Assur ad eos, ut adjuvaret manus eorum in opere domûs Domini Dei Israël.",
-      "french": "Et ils célébrèrent la fête solennelle des pains sans levain pendant sept jours avec grande réjouissance, parce que le Seigneur les avait comblés de joie, et avait tourné le cœur du Roi d'Assyrie, afin qu'il les favorisât de son assistance, pour pouvoir rebâtir la maison du Seigneur le Dieu d'Israël.",
+      "french": "Et ils célébrèrent la fête solennelle des pains sans levain pendant sept jours avec grande réjouissance, parce que le Seigneur les avait comblés de joie, et avait tourné le cœur du Roi d’Assyrie, afin qu’il les favorisât de son assistance, pour pouvoir rebâtir la maison du Seigneur le Dieu d’Israël.",
       "annotations": "An du M. 3489.",
       "source_pages": [
         "page_0099.json"

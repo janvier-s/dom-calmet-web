@@ -1,13 +1,13 @@
 {
   "book": "2 Chroniques",
   "chapter": 17,
-  "chapter_summary": "Josaphat succède à Asa. Sa piété, ses grands biens. Soin qu'il prend de faire instruire le peuple. Dénombrement de ses troupes, et de ses Officiers.",
+  "chapter_summary": "Josaphat succède à Asa. Sa piété, ses grands biens. Soin qu’il prend de faire instruire le peuple. Dénombrement de ses troupes, et de ses Officiers.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Regnavit autem Josaphat filius ejus pro eo, et invaluit contra Israël.",
-      "french": "Josaphat son fils régna en sa place, et il eut toujours l'avantage sur Israël.",
+      "french": "Josaphat son fils régna en sa place, et il eut toujours l’avantage sur Israël.",
       "annotations": "An. du M. 3090.",
       "source_pages": [
         "page_0107.json"
@@ -16,7 +16,7 @@
     {
       "verse_number": 2,
       "latin": "Constituitque militum numeros in cunctis urbibus Juda, quæ erant vallatæ muris. Præsidiáque disposuit in terra Juda, et in civitatibus Ephraïm, quas ceperat Asa pater ejus.",
-      "french": "Il mit garnison dans toutes les villes de Juda fermées de murailles, et il distribua ses troupes dans la terre de Juda, et dans les villes d'Ephraïm, qu'Asa son père avait prises.",
+      "french": "Il mit garnison dans toutes les villes de Juda fermées de murailles, et il distribua ses troupes dans la terre de Juda, et dans les villes d’Ephraïm, qu’Asa son père avait prises.",
       "annotations": null,
       "source_pages": [
         "page_0107.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Et fuit Dominus cum Josaphat, quia ambulavit in viis David patris sui primis : et non speravit in Baalim.",
-      "french": "Le Seigneur fut avec Josaphat, parce qu'il marcha dans les premières voies de David son aïeul, et qu'il ne mit point sa confiance dans les idoles,",
+      "latin": "Et fuit Dominus cum Josaphat, quia ambulavit in viis David patris sui primis : et non speravit in Baalim.",
+      "french": "Le Seigneur fut avec Josaphat, parce qu’il marcha dans les premières voies de David son aïeul, et qu’il ne mit point sa confiance dans les idoles,",
       "annotations": null,
       "source_pages": [
         "page_0108.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Sed in Deo patris sui, et perrexit in præceptis illius, et non juxta peccata Israël.",
-      "french": "Mais dans le Dieu de son père, et il marcha fidèlement dans la voie de ses préceptes, et ne suivit point les dérèglements d'Israël.",
+      "french": "Mais dans le Dieu de son père, et il marcha fidèlement dans la voie de ses préceptes, et ne suivit point les dérèglements d’Israël.",
       "annotations": null,
       "source_pages": [
         "page_0108.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Confirmavitque Dominus regnum in manu ejus, et dedit omnis Juda munera Josaphat : factæque sunt ei infinitæ divitiæ, et multa gloria.",
-      "french": "Ainsi Dieu affermit le Royaume dans sa main, et tous ceux de Juda lui faisaient des présents. De sorte qu'il se trouva comblé d'une infinité de richesses, et d'une très grande gloire.",
+      "latin": "Confirmavitque Dominus regnum in manu ejus, et dedit omnis Juda munera Josaphat : factæque sunt ei infinitæ divitiæ, et multa gloria.",
+      "french": "Ainsi Dieu affermit le Royaume dans sa main, et tous ceux de Juda lui faisaient des présents. De sorte qu’il se trouva comblé d’une infinité de richesses, et d’une très grande gloire.",
       "annotations": null,
       "source_pages": [
         "page_0108.json"
@@ -52,7 +52,7 @@
     {
       "verse_number": 6,
       "latin": "Cúmque sumpsisset cor ejus audaciam propter vias Domini, etiam excelsa, et lucos de Juda abstulit.",
-      "french": "Son cœur étant rempli de confiance, à cause de l'observation des préceptes du Seigneur, il fit abattre dans Juda les hauts-lieux, et les bois consacrés aux idoles.",
+      "french": "Son cœur étant rempli de confiance, à cause de l’observation des préceptes du Seigneur, il fit abattre dans Juda les hauts-lieux, et les bois consacrés aux idoles.",
       "annotations": "An. 3092.",
       "source_pages": [
         "page_0108.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Tertio autem anno regni sui, misit de principibus suis, Benhaïl, et Obdiam, et Zachariam, et Nathanaël, et Michæam, ut docerent in civitatibus Juda :",
-      "french": "La troisième année de son règne, il envoya des premiers Seigneurs de sa cour ; Benhaïl, Obdias, Zacharie, Nathanaël, et Michée, pour instruire le peuple dans les villes de Juda.",
+      "latin": "Tertio autem anno regni sui, misit de principibus suis, Benhaïl, et Obdiam, et Zachariam, et Nathanaël, et Michæam, ut docerent in civitatibus Juda :",
+      "french": "La troisième année de son règne, il envoya des premiers Seigneurs de sa cour ; Benhaïl, Obdias, Zacharie, Nathanaël, et Michée, pour instruire le peuple dans les villes de Juda.",
       "annotations": "An. 3092.",
       "source_pages": [
         "page_0109.json"
@@ -70,7 +70,7 @@
     {
       "verse_number": 8,
       "latin": "Et cum eis Levitas, Semeïam, et Nathaniam, et Zabadiam, Azaël quoque, et Semiramoth, et Jonathan, et Adoniamque, et Thobiam, et Thobadoniam, Levitas, et cum eis Elisama et Joram Sacerdotes.",
-      "french": "Il joignit à eux les Lévites Semeïas, Nathanias, et Zabadias, Asaël, Sémiramoth, et Jonathan, Adonias, Thobias, Thobadonias, tous Lévites ; et les Prêtres Elisama et Joram.",
+      "french": "Il joignit à eux les Lévites Semeïas, Nathanias, et Zabadias, Asaël, Sémiramoth, et Jonathan, Adonias, Thobias, Thobadonias, tous Lévites ; et les Prêtres Elisama et Joram.",
       "annotations": null,
       "source_pages": [
         "page_0109.json"
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Docebántque populum in Juda, habentes librum Legis Domini, et circuibant cunctas urbes Juda, atque erudiebant populum.",
-      "french": "Et ils instruisaient tout le peuple de Juda, et portaient avec eux le livre de la Loi du Seigneur : et ils allaient dans toutes les villes de Juda, et y enseignaient le peuple.",
+      "french": "Et ils instruisaient tout le peuple de Juda, et portaient avec eux le livre de la Loi du Seigneur : et ils allaient dans toutes les villes de Juda, et y enseignaient le peuple.",
       "annotations": null,
       "source_pages": [
         "page_0110.json"
@@ -88,7 +88,7 @@
     {
       "verse_number": 10,
       "latin": "Itaque factus est pavor Domini super omnia regna terrarum, quæ erant per gyrum Juda, nec audibant bellare contra Josaphat.",
-      "french": "Ainsi la terreur du nom de Dieu se répandit dans tous les Royaumes qui étaient aux environs de Juda; de sorte qu'ils n'osaient prendre les armes contre Josaphat.",
+      "french": "Ainsi la terreur du nom de Dieu se répandit dans tous les Royaumes qui étaient aux environs de Juda ; de sorte qu’ils n’osaient prendre les armes contre Josaphat.",
       "annotations": null,
       "source_pages": [
         "page_0110.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Sed et Philisthæi Josaphat munera deferebant, et vectigal argenti; Arabes quoque adducebant pecora, arietum septem millia septingenta, et hircorum totidem.",
-      "french": "Les Philistins mêmes venaient faire des présents à Josaphat, et ils lui payaient un tribut d'argent. Les Arabes lui amenaient des troupeaux, sept mille sept cents moutons, et autant de boucs.",
+      "latin": "Sed et Philisthæi Josaphat munera deferebant, et vectigal argenti ; Arabes quoque adducebant pecora, arietum septem millia septingenta, et hircorum totidem.",
+      "french": "Les Philistins mêmes venaient faire des présents à Josaphat, et ils lui payaient un tribut d’argent. Les Arabes lui amenaient des troupeaux, sept mille sept cents moutons, et autant de boucs.",
       "annotations": null,
       "source_pages": [
         "page_0110.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Crevit ergo Josaphat, et magnificatus est usque in sublime : atque ædificavit in Juda domos ad instar turrium, urbésque muratas.",
-      "french": "de sorte que Josaphat devint puissant, et s’éleva jusqu’à un très haut point de grandeur : et il bâtit des maisons dans Juda en forme de tours, et des villes fermées de murailles.",
+      "latin": "Crevit ergo Josaphat, et magnificatus est usque in sublime : atque ædificavit in Juda domos ad instar turrium, urbésque muratas.",
+      "french": "de sorte que Josaphat devint puissant, et s’éleva jusqu’à un très haut point de grandeur : et il bâtit des maisons dans Juda en forme de tours, et des villes fermées de murailles.",
       "annotations": "An. 3097.",
       "source_pages": [
         "page_0111.json"
@@ -114,7 +114,7 @@
     },
     {
       "verse_number": 13,
-      "latin": "Et multa opera paravit in urbibus Juda : viri quoque bellatores, et r.busti erant in Jerusalem.",
+      "latin": "Et multa opera paravit in urbibus Juda : viri quoque bellatores, et r.busti erant in Jerusalem.",
       "french": "Et il fit de grandes choses dans toutes les villes de Juda. Et il avait aussi des gens aguerris, et vaillants dans Jérusalem.",
       "annotations": null,
       "source_pages": [
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Quorum iste numerus, per domos atque familias singulorum: in Juda principes exercitûs, Ednas dux, et cum eo robustissimi viri trecenta millia.",
-      "french": "Dont voici le dénombrement, selon les maisons et les familles de chacun: Dans Juda les principaux officiers de l'armée étaient, Ednas qui en était le Général, et qui avait avec lui trois cent mille hommes très vaillants.",
+      "latin": "Quorum iste numerus, per domos atque familias singulorum : in Juda principes exercitûs, Ednas dux, et cum eo robustissimi viri trecenta millia.",
+      "french": "Dont voici le dénombrement, selon les maisons et les familles de chacun : Dans Juda les principaux officiers de l’armée étaient, Ednas qui en était le Général, et qui avait avec lui trois cent mille hommes très vaillants.",
       "annotations": "An. 3032.",
       "source_pages": [
         "page_0112.json"

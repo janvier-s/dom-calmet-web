@@ -6,8 +6,8 @@
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Audierunt autem hostes Judæ et Benjamin, quia filii captivitatis ædificarent Templum Domino Deo Israël:",
-      "french": "Or les ennemis de Juda et de Benjamin apprirent que les Israélites revenus de leur captivité bâtissaient un Temple au Seigneur le Dieu d'Israël:",
+      "latin": "Audierunt autem hostes Judæ et Benjamin, quia filii captivitatis ædificarent Templum Domino Deo Israël :",
+      "french": "Or les ennemis de Juda et de Benjamin apprirent que les Israélites revenus de leur captivité bâtissaient un Temple au Seigneur le Dieu d’Israël :",
       "annotations": "An du M. 3469. avant J.C. 535.",
       "source_pages": [
         "page_0073.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Et accedentes ad Zorobabel, et ad Principes patrum, dixerunt eis : Ædificemus vobiscum, qui ita ut vos, quærimus Deum vestrum : ecce nos immolavimus victimas à diebus Asor Haddan Regis Assur, qui adduxit nos huc.",
-      "french": "Et étant venus trouver Zorobabel et les principaux chefs des familles, ils leur dirent : Laissez-nous bâtir avec vous ; parce que nous cherchons votre Dieu comme vous, et nous lui avons toujours immolé des victimes, depuis qu'Asor Haddan Roi de Syrie nous a envoyés en ce lieu.",
+      "latin": "Et accedentes ad Zorobabel, et ad Principes patrum, dixerunt eis : Ædificemus vobiscum, qui ita ut vos, quærimus Deum vestrum : ecce nos immolavimus victimas à diebus Asor Haddan Regis Assur, qui adduxit nos huc.",
+      "french": "Et étant venus trouver Zorobabel et les principaux chefs des familles, ils leur dirent : Laissez-nous bâtir avec vous ; parce que nous cherchons votre Dieu comme vous, et nous lui avons toujours immolé des victimes, depuis qu’Asor Haddan Roi de Syrie nous a envoyés en ce lieu.",
       "annotations": null,
       "source_pages": [
         "page_0073.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Et dixit eis Zorobabel, et Josue, et reliqui principes patrum Israël : Non est vobis et nobis ut ædificemus domum Deo nostro, sed nos ipsi soli ædificabimus Domino Deo nostro, sicut præcepit nobis Cyrus Rex Persarum.",
-      "french": "Zorobabel, Josué, et les autres chefs des familles d'Israël leur répondirent : Nous ne pouvons bâtir avec vous une maison à notre Dieu ; mais nous bâtirons nous seuls un Temple au Seigneur notre Dieu, comme Cyrus Roi des Perses nous l'a ordonné.",
+      "latin": "Et dixit eis Zorobabel, et Josue, et reliqui principes patrum Israël : Non est vobis et nobis ut ædificemus domum Deo nostro, sed nos ipsi soli ædificabimus Domino Deo nostro, sicut præcepit nobis Cyrus Rex Persarum.",
+      "french": "Zorobabel, Josué, et les autres chefs des familles d’Israël leur répondirent : Nous ne pouvons bâtir avec vous une maison à notre Dieu ; mais nous bâtirons nous seuls un Temple au Seigneur notre Dieu, comme Cyrus Roi des Perses nous l’a ordonné.",
       "annotations": "An du M. 3469.",
       "source_pages": [
         "page_0076.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Factum est igitur, ut populus terræ impediret manus populi Juda, et turbaret eos in ædificando.",
-      "french": "Ainsi tout le peuple du pays empêcha autant qu'il put le peuple de Juda de bâtir le Temple, et il le troubla dans son ouvrage.",
+      "french": "Ainsi tout le peuple du pays empêcha autant qu’il put le peuple de Juda de bâtir le Temple, et il le troubla dans son ouvrage.",
       "annotations": null,
       "source_pages": [
         "page_0076.json"
@@ -43,7 +43,7 @@
     {
       "verse_number": 5,
       "latin": "Conduxerunt autem adversùs eos consiliatores, ut destruerent consilium eorum omnibus diebus Cyri Regis Persarum, et usque ad regnum Darii Regis Persarum.",
-      "french": "Ils gagnèrent aussi par argent des Ministres du Roi, pour ruiner leur dessein pendant tout le règne de Cyrus Roi des Perses, jusqu'au règne de Darius Roi des Perses.",
+      "french": "Ils gagnèrent aussi par argent des Ministres du Roi, pour ruiner leur dessein pendant tout le règne de Cyrus Roi des Perses, jusqu’au règne de Darius Roi des Perses.",
       "annotations": null,
       "source_pages": [
         "page_0076.json"
@@ -52,7 +52,7 @@
     {
       "verse_number": 6,
       "latin": "In regno autem Assueri, in principio regni ejus, scripserunt accusationem adversus habitatores Judæ et Jerusalem.",
-      "french": "Au commencement du règne d'Assuérus, ils présentèrent par écrit une accusation contre ceux qui habitaient en Juda et dans Jérusalem.",
+      "french": "Au commencement du règne d’Assuérus, ils présentèrent par écrit une accusation contre ceux qui habitaient en Juda et dans Jérusalem.",
       "annotations": "An du M. 3469.",
       "source_pages": [
         "page_0077.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Et in diebus Artaxercis scripsit Beselam, Mithridates, et Thabeel, et reliqui qui erant in consilio eorum, ad Artaxercem Regem Persarum : epistola autem accusationis scripta erat Syriacè et legebatur sermone Syro.",
-      "french": "Et sous le règne d'Artaxercés, Béselam, Mithridate, Thabéel, et les autres qui étaient de leur conseil, écrivirent à Artaxercés Roi de Perse. Leur lettre, par laquelle ils accusaient les Israélites, était écrite en Syriaque, et se lisait en la langue des Syriens.",
+      "latin": "Et in diebus Artaxercis scripsit Beselam, Mithridates, et Thabeel, et reliqui qui erant in consilio eorum, ad Artaxercem Regem Persarum : epistola autem accusationis scripta erat Syriacè et legebatur sermone Syro.",
+      "french": "Et sous le règne d’Artaxercés, Béselam, Mithridate, Thabéel, et les autres qui étaient de leur conseil, écrivirent à Artaxercés Roi de Perse. Leur lettre, par laquelle ils accusaient les Israélites, était écrite en Syriaque, et se lisait en la langue des Syriens.",
       "annotations": null,
       "source_pages": [
         "page_0077.json"
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Reum Beelteem, et Samsaï scriba, et reliqui consiliatores eorum Dinæi, et Apharsathachæi, Terphalæi, Apharsai, Erchuæi, Babylonii, Susanechæi, Dievi, et Alamitæ.",
-      "french": "Reum Béeltéem, Samsaï secrétaire, et leurs autres conseillers, les Dinéens, les Apharsathachéens, les Terphaléens, les Apharséens, les Erchuéens, les Babyloniens, les Susanéchéens, les Diévéens, et les Elamites :",
+      "french": "Reum Béeltéem, Samsaï secrétaire, et leurs autres conseillers, les Dinéens, les Apharsathachéens, les Terphaléens, les Apharséens, les Erchuéens, les Babyloniens, les Susanéchéens, les Diévéens, et les Elamites :",
       "annotations": null,
       "source_pages": [
         "page_0079.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Et cæteri de gentibus, quas transtulit Asenaphar magnus et gloriosus : et habitare eas fecit in civitatibus Samariæ, et in reliquis regionibus trans flumen in pace :",
-      "french": "Et les autres d'entre les peuples, que le grand et glorieux Asenaphar a transférés d'Assyrie, et qu'il a fait demeurer en paix dans les villes de Samarie, et dans les autres Provinces au-delà du fleuve.",
+      "latin": "Et cæteri de gentibus, quas transtulit Asenaphar magnus et gloriosus : et habitare eas fecit in civitatibus Samariæ, et in reliquis regionibus trans flumen in pace :",
+      "french": "Et les autres d’entre les peuples, que le grand et glorieux Asenaphar a transférés d’Assyrie, et qu’il a fait demeurer en paix dans les villes de Samarie, et dans les autres Provinces au-delà du fleuve.",
       "annotations": "An du M. 3469.",
       "source_pages": [
         "page_0080.json"
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "(Hoc est exemplar epistolæ, quam miserunt ad eum.) Artaxerci Regi, servi tui, viri qui sunt trans fluvium, salutem dicunt.",
-      "french": "(Suit la copie de la lettre qu'ils lui envoyèrent.) Les serviteurs du Roi Artaxercès, qui sont au-delà du fleuve, souhaitent au Roi toute sorte de prospérité.",
+      "french": "(Suit la copie de la lettre qu’ils lui envoyèrent.) Les serviteurs du Roi Artaxercès, qui sont au-delà du fleuve, souhaitent au Roi toute sorte de prospérité.",
       "annotations": "An du m. 3469.",
       "source_pages": [
         "page_0081.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Notum sit Regi, quia Judæi, qui ascenderunt à te ad nos, venerunt in Jerusalem civitatem rebellem et pessimam, quam ædificant, extruentes muros ejus, et parietes componentes.",
-      "french": "Nous avons cru devoir avertir le Roi, que les Juifs qui sont retournés d'Assyrie en ce pays, étant venus à Jérusalem, qui est une ville rebelle et mutine, la rebâtissent, et travaillent à en rétablir les murailles et les maisons.",
+      "french": "Nous avons cru devoir avertir le Roi, que les Juifs qui sont retournés d’Assyrie en ce pays, étant venus à Jérusalem, qui est une ville rebelle et mutine, la rebâtissent, et travaillent à en rétablir les murailles et les maisons.",
       "annotations": null,
       "source_pages": [
         "page_0081.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Nunc igitur notum sit Regi, quia si civitas illa ædificata fuerit, et muri ejus instaurati, tributum, et vectigal, et annuos reditus non dabunt, et usque ad Reges hæc noxa perveniet.",
-      "french": "Nous supplions donc le Roi, de considérer que si cette ville se rebâtit, et qu'on en relève les murailles, on ne payera plus les tributs ni les impôts, et les revenus annuels, et cette perte retombera jusque sur les Rois.",
+      "french": "Nous supplions donc le Roi, de considérer que si cette ville se rebâtit, et qu’on en relève les murailles, on ne payera plus les tributs ni les impôts, et les revenus annuels, et cette perte retombera jusque sur les Rois.",
       "annotations": null,
       "source_pages": [
         "page_0081.json"
@@ -124,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Nos autem memores salis, quod in palatio comedimus, et quia læsiones Regis videre nefas ducimus, idcircò misimus et nuntiamus Regi.",
-      "french": "Et comme nous nous souvenons du sel que nous avons mangé autrefois au Palais du Roi, et que nous ne pouvons souffrir qu'on blesse ses intérêts en la moindre chose, nous avons cru vous devoir donner cet avis,",
+      "french": "Et comme nous nous souvenons du sel que nous avons mangé autrefois au Palais du Roi, et que nous ne pouvons souffrir qu’on blesse ses intérêts en la moindre chose, nous avons cru vous devoir donner cet avis,",
       "annotations": null,
       "source_pages": [
         "page_0081.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Ut recenseas in libris Historiarum patrum tuorum, et invenies scriptum in commentariis : et scies quoniam urbs illa, urbs rebellis est, et nocens Regibus et Provinciis, et bella concitantur in ea ex diebus antiquis ; quam ob rem et civitas ipsa destructa est.",
-      "french": "Et vous supplier d'ordonner que l'on consulte les livres de l'Histoire des Rois vos prédécesseurs, où vous trouverez écrit, et où vous reconnaîtrez que cette ville est une ville rebelle, ennemie des Rois, et des Provinces, qui a excité des guerres depuis plusieurs siècles, et que c'est pour cela même qu'elle a été ruinée.",
+      "latin": "Ut recenseas in libris Historiarum patrum tuorum, et invenies scriptum in commentariis : et scies quoniam urbs illa, urbs rebellis est, et nocens Regibus et Provinciis, et bella concitantur in ea ex diebus antiquis ; quam ob rem et civitas ipsa destructa est.",
+      "french": "Et vous supplier d’ordonner que l’on consulte les livres de l’Histoire des Rois vos prédécesseurs, où vous trouverez écrit, et où vous reconnaîtrez que cette ville est une ville rebelle, ennemie des Rois, et des Provinces, qui a excité des guerres depuis plusieurs siècles, et que c’est pour cela même qu’elle a été ruinée.",
       "annotations": "An du m.\n3469.",
       "source_pages": [
         "page_0082.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Nuntiamus nos Regi, quoniam si civitas illa ædificata fuerit et muri ipsius instaurati, possessionem trans fluvium non habebis.",
-      "french": "Nous vous déclarons donc, ô Roi ! que si cette ville est rétablie, et qu'on en rebâtisse les murailles; vous perdrez toutes les terres que vous possédez au-delà du fleuve.",
+      "french": "Nous vous déclarons donc, ô Roi ! que si cette ville est rétablie, et qu’on en rebâtisse les murailles ; vous perdrez toutes les terres que vous possédez au-delà du fleuve.",
       "annotations": null,
       "source_pages": [
         "page_0083.json"
@@ -151,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Verbum misit Rex ad Reum Beelteem, et Samsaï scribam, et ad reliquos qui erant in consilio eorum, habitatores Samariæ, et cæteris trans fluvium, salutem dicens et pacem.",
-      "french": "Le Roi répondit à Réum Béeltéem, et à Samsaï secrétaire, aux autres habitants de Samarie qui étaient de leur conseil, et à tous ceux qui demeuraient au-delà du fleuve. Il leur souhaita premièrement le salut, et la paix; et il leur écrivit en ces termes:",
+      "french": "Le Roi répondit à Réum Béeltéem, et à Samsaï secrétaire, aux autres habitants de Samarie qui étaient de leur conseil, et à tous ceux qui demeuraient au-delà du fleuve. Il leur souhaita premièrement le salut, et la paix ; et il leur écrivit en ces termes :",
       "annotations": "An du m. 3483. avant J.C. 521.",
       "source_pages": [
         "page_0083.json"
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Accusatio, quam misistis ad nos, manifestè lecta est coram me.",
-      "french": "La lettre d'accusation que vous m'avez envoyée, a été lue devant moi.",
+      "french": "La lettre d’accusation que vous m’avez envoyée, a été lue devant moi.",
       "annotations": null,
       "source_pages": [
         "page_0083.json"
@@ -168,8 +168,8 @@
     },
     {
       "verse_number": 19,
-      "latin": "Et à me præceptum est: et recensuerunt, inveneruntque quoniam civitas illa à diebus antiquis adversùm Reges rebellat, et seditiones et prælia concitantur in ea:",
-      "french": "J'ai commandé que l'on consultât les Histoires; on l'a fait; et il s'est trouvé que cette ville depuis longtemps s'est révoltée contre les Rois, et qu'il s'y est excité des séditions et des troubles.",
+      "latin": "Et à me præceptum est : et recensuerunt, inveneruntque quoniam civitas illa à diebus antiquis adversùm Reges rebellat, et seditiones et prælia concitantur in ea :",
+      "french": "J’ai commandé que l’on consultât les Histoires ; on l’a fait ; et il s’est trouvé que cette ville depuis longtemps s’est révoltée contre les Rois, et qu’il s’y est excité des séditions et des troubles.",
       "annotations": null,
       "source_pages": [
         "page_0083.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Nam et Reges fortissimi fuerunt in Jerusalem, qui et dominati sunt omni regioni, quæ trans fluvium est: tributum quoque et vectigal, et redditus accipiebant.",
-      "french": "Car il y a eu dans Jérusalem des Rois très vaillants, qui ont été maîtres de tous les pays qui sont au-delà du fleuve, et ils recevaient d'eux des tributs, des tailles et des impôts.",
+      "latin": "Nam et Reges fortissimi fuerunt in Jerusalem, qui et dominati sunt omni regioni, quæ trans fluvium est : tributum quoque et vectigal, et redditus accipiebant.",
+      "french": "Car il y a eu dans Jérusalem des Rois très vaillants, qui ont été maîtres de tous les pays qui sont au-delà du fleuve, et ils recevaient d’eux des tributs, des tailles et des impôts.",
       "annotations": null,
       "source_pages": [
         "page_0083.json"
@@ -186,8 +186,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Nunc ergo audite sententiam : Prohibeatis viros illos, ut urbs illa non ædificetur, donec si fortè à me jussum fuerit.",
-      "french": "Voici donc ce que j'ai ordonné sur ce que vous m'avez proposé : Empêchez ces gens-là de rebâtir cette ville jusqu'à nouvel ordre de ma part.",
+      "latin": "Nunc ergo audite sententiam : Prohibeatis viros illos, ut urbs illa non ædificetur, donec si fortè à me jussum fuerit.",
+      "french": "Voici donc ce que j’ai ordonné sur ce que vous m’avez proposé : Empêchez ces gens-là de rebâtir cette ville jusqu’à nouvel ordre de ma part.",
       "annotations": null,
       "source_pages": [
         "page_0084.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Videte ne negligenter hoc impleatis, et paulatim crescat malum contra Reges.",
-      "french": "Prenez garde de n'être pas négligents à faire exécuter cette ordonnance, de peur que ce mal ne croisse peu à peu contre l'intérêt des Rois.",
+      "french": "Prenez garde de n’être pas négligents à faire exécuter cette ordonnance, de peur que ce mal ne croisse peu à peu contre l’intérêt des Rois.",
       "annotations": null,
       "source_pages": [
         "page_0084.json"
@@ -204,7 +204,7 @@
     },
     {
       "verse_number": 23,
-      "latin": "Itaque exemplum edicti Artaxercis Regis lectum est coram Reum Beelteem, et Samsai scriba, et consiliariis eorum : et abierunt festini in Jerusalem ad Judæos, et prohibuerunt eos in brachio et robore.",
+      "latin": "Itaque exemplum edicti Artaxercis Regis lectum est coram Reum Beelteem, et Samsai scriba, et consiliariis eorum : et abierunt festini in Jerusalem ad Judæos, et prohibuerunt eos in brachio et robore.",
       "french": "La copie de cet Édit du Roi Artaxercès fut lue devant Réum Béeltéem, Samsaï secrétaire, et leurs conseillers. Ils allèrent ensuite en grande hâte la porter aux Juifs dans Jérusalem, et ils les empêchèrent par force de continuer à bâtir.",
       "annotations": null,
       "source_pages": [
@@ -214,7 +214,7 @@
     {
       "verse_number": 24,
       "latin": "Tunc intermissum est opus domûs Domini in Jerusalem, et non fiebat usque ad annum secundum regni Darii Regis Persarum.",
-      "french": "Alors l'ouvrage de la maison du Seigneur fut interrompu à Jérusalem, et on n'y travailla point jusqu'à la seconde année du règne de Darius Roi de Perse.",
+      "french": "Alors l’ouvrage de la maison du Seigneur fut interrompu à Jérusalem, et on n’y travailla point jusqu’à la seconde année du règne de Darius Roi de Perse.",
       "annotations": null,
       "source_pages": [
         "page_0084.json"

@@ -1,13 +1,13 @@
 {
   "book": "Néhémie",
   "chapter": 10,
-  "chapter_summary": "Noms de ceux qui signèrent l'alliance renouvelée avec le Seigneur. Divers règlements touchant l'observation des Lois.",
+  "chapter_summary": "Noms de ceux qui signèrent l’alliance renouvelée avec le Seigneur. Divers règlements touchant l’observation des Lois.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Signatores autem fuerunt, Nehemias Athersatha, filius Hachelai, et Sedecias,",
-      "french": "Ceux qui signèrent cette alliance, furent Néhémie Athersatha, fils d'Hachélaï, et Sédécias,",
+      "french": "Ceux qui signèrent cette alliance, furent Néhémie Athersatha, fils d’Hachélaï, et Sédécias,",
       "annotations": null,
       "source_pages": [
         "page_0079.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Maazia, Belgai, Semeia : hi Sacerdotes.",
-      "french": "Maazia, Belgaï, Séméïa; ceux-là étaient Prêtres.",
+      "latin": "Maazia, Belgai, Semeia : hi Sacerdotes.",
+      "french": "Maazia, Belgaï, Séméïa ; ceux-là étaient Prêtres.",
       "annotations": null,
       "source_pages": [
         "page_0079.json"
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Porrò Levitæ, Josue filius Azaniæ, Bennui de filiis Henadad, Cedmihel,",
-      "french": "Les Lévites étaient, Josué fils d'Azanias, Bennui des enfants d'Hénadad, Cedmihel,",
+      "french": "Les Lévites étaient, Josué fils d’Azanias, Bennui des enfants d’Hénadad, Cedmihel,",
       "annotations": null,
       "source_pages": [
         "page_0079.json"
@@ -240,8 +240,8 @@
     },
     {
       "verse_number": 27,
-      "latin": "Melluch, Haram, Baana:",
-      "french": "Melluch, Haran, Baana;",
+      "latin": "Melluch, Haram, Baana :",
+      "french": "Melluch, Haran, Baana ;",
       "annotations": null,
       "source_pages": [
         "page_0080.json"
@@ -250,7 +250,7 @@
     {
       "verse_number": 28,
       "latin": "Et reliqui de populo, Sacerdotes, Levitæ, Janitores, et Cantores, Nathinæi, et omnes qui se separaverunt de populis terrarum ad Legem Dei, uxores eorum, filii eorum, et filiæ eorum,",
-      "french": "Pour le reste du peuple, les Prêtres, les Lévites, les Portiers, les Chantres, les Nathinéens, et tous ceux qui s'étaient séparés des nations, pour embrasser la Loi de Dieu, leurs femmes, leurs fils et leurs filles,",
+      "french": "Pour le reste du peuple, les Prêtres, les Lévites, les Portiers, les Chantres, les Nathinéens, et tous ceux qui s’étaient séparés des nations, pour embrasser la Loi de Dieu, leurs femmes, leurs fils et leurs filles,",
       "annotations": null,
       "source_pages": [
         "page_0080.json"
@@ -258,8 +258,8 @@
     },
     {
       "verse_number": 29,
-      "latin": "Omnes qui poterant sapere spondentes pro fratribus suis, optimates eorum, et qui veniebant ad pollicendum et jurandum, ut ambularent in Lege Dei, quam dederat in manu Moysi servi Dei, ut facerent et custodirent universa mandata Domini Dei nostri, et judicia ejus, et ceremonias ejus;",
-      "french": "Tous ceux qui avaient le discernement et l'intelligence, donnèrent parole pour leurs frères; et les principaux d'entre eux vinrent promettre et jurer de marcher dans la Loi de Dieu, que le Seigneur a donnée par Moïse son serviteur, de garder et observer tous les commandements du Seigneur notre Dieu, ses ordonnances, et ses cérémonies;",
+      "latin": "Omnes qui poterant sapere spondentes pro fratribus suis, optimates eorum, et qui veniebant ad pollicendum et jurandum, ut ambularent in Lege Dei, quam dederat in manu Moysi servi Dei, ut facerent et custodirent universa mandata Domini Dei nostri, et judicia ejus, et ceremonias ejus ;",
+      "french": "Tous ceux qui avaient le discernement et l’intelligence, donnèrent parole pour leurs frères ; et les principaux d’entre eux vinrent promettre et jurer de marcher dans la Loi de Dieu, que le Seigneur a donnée par Moïse son serviteur, de garder et observer tous les commandements du Seigneur notre Dieu, ses ordonnances, et ses cérémonies ;",
       "annotations": null,
       "source_pages": [
         "page_0080.json"
@@ -277,7 +277,7 @@
     {
       "verse_number": 31,
       "latin": "Populi quoque terræ, qui important venalia, et omnia ad usum, per diem Sabbati, ut vendant, non accipiemus ab eis in Sabbato, et in die sanctificato. Et dimittemus annum septimum, et exactionem universæ manus.",
-      "french": "Nous n'achèterons point aussi aux jours du Sabbat, ni dans les autres jours consacrés, ce que les nations nous pourront apporter à vendre, ni rien de ce qui peut servir à l'usage de la vie. Nous laisserons la terre sans la cultiver la septième année, et nous n'y exigerons aucune dette.",
+      "french": "Nous n’achèterons point aussi aux jours du Sabbat, ni dans les autres jours consacrés, ce que les nations nous pourront apporter à vendre, ni rien de ce qui peut servir à l’usage de la vie. Nous laisserons la terre sans la cultiver la septième année, et nous n’y exigerons aucune dette.",
       "annotations": null,
       "source_pages": [
         "page_0081.json"
@@ -286,7 +286,7 @@
     {
       "verse_number": 32,
       "latin": "Et statuemus super nos præcepta, ut demus tertiam partem sicli per annum, ad opus domûs Dei nostri.",
-      "french": "Nous nous imposerons aussi une obligation de donner chaque année la troisième partie d'un sicle, pour tout ce qu'il faut faire à la maison de notre Dieu.",
+      "french": "Nous nous imposerons aussi une obligation de donner chaque année la troisième partie d’un sicle, pour tout ce qu’il faut faire à la maison de notre Dieu.",
       "annotations": null,
       "source_pages": [
         "page_0081.json"
@@ -294,8 +294,8 @@
     },
     {
       "verse_number": 33,
-      "latin": "Ad panes propositionis, et ad sacrificium sempiternum, et in holocaustum sempiternum in Sabbatis, in calendis, in sollemnitatibus, et in sanctificatis, et pro peccato : ut exoretur pro Israël, et in omnem usum domûs Dei nostri.",
-      "french": "Pour les pains exposés devant le Seigneur, pour le sacrifice perpétuel, et pour l'holocauste éternel au jour du Sabbat, aux premiers jours du mois, aux fêtes solennelles, aux sacrifices pacifiques, et à ceux qu'on offre pour le péché, afin que les prières soient offertes pour Israël, et qu'il ne manque rien au ministère de la maison du Seigneur notre Dieu.",
+      "latin": "Ad panes propositionis, et ad sacrificium sempiternum, et in holocaustum sempiternum in Sabbatis, in calendis, in sollemnitatibus, et in sanctificatis, et pro peccato : ut exoretur pro Israël, et in omnem usum domûs Dei nostri.",
+      "french": "Pour les pains exposés devant le Seigneur, pour le sacrifice perpétuel, et pour l’holocauste éternel au jour du Sabbat, aux premiers jours du mois, aux fêtes solennelles, aux sacrifices pacifiques, et à ceux qu’on offre pour le péché, afin que les prières soient offertes pour Israël, et qu’il ne manque rien au ministère de la maison du Seigneur notre Dieu.",
       "annotations": null,
       "source_pages": [
         "page_0082.json"
@@ -303,8 +303,8 @@
     },
     {
       "verse_number": 34,
-      "latin": "Sortes ergo misimus super oblationem lignorum, inter Sacerdotes, et Levitas, et populum, ut inferrentur in domum Dei nostri, per domos patrum nostrorum, per tempora, à temporibus anni usque ad annum : ut arderent super altare Domini Dei nostri, sicut scriptum est in Lege Moysi:",
-      "french": "Nous jetâmes aussi le sort sur les Prêtres, les Lévites et le peuple, pour l'offrande du bois, afin que chaque maison des familles de nos pères, en fît porter chaque année en la maison de notre Dieu, au temps qui aurait été marqué, pour le faire brûler sur l'autel du Seigneur notre Dieu, selon qu'il est écrit dans la Loi de Moïse.",
+      "latin": "Sortes ergo misimus super oblationem lignorum, inter Sacerdotes, et Levitas, et populum, ut inferrentur in domum Dei nostri, per domos patrum nostrorum, per tempora, à temporibus anni usque ad annum : ut arderent super altare Domini Dei nostri, sicut scriptum est in Lege Moysi :",
+      "french": "Nous jetâmes aussi le sort sur les Prêtres, les Lévites et le peuple, pour l’offrande du bois, afin que chaque maison des familles de nos pères, en fît porter chaque année en la maison de notre Dieu, au temps qui aurait été marqué, pour le faire brûler sur l’autel du Seigneur notre Dieu, selon qu’il est écrit dans la Loi de Moïse.",
       "annotations": null,
       "source_pages": [
         "page_0082.json"
@@ -312,8 +312,8 @@
     },
     {
       "verse_number": 35,
-      "latin": "Et ut afferremus primogenita terræ nostræ, et primitiva universi fructûs omnis ligni, ab anno in annum, in domo Domini;",
-      "french": "Nous promîmes aussi d'apporter tous les ans en la maison du Seigneur, les prémices des fruits de tous les arbres ;",
+      "latin": "Et ut afferremus primogenita terræ nostræ, et primitiva universi fructûs omnis ligni, ab anno in annum, in domo Domini ;",
+      "french": "Nous promîmes aussi d’apporter tous les ans en la maison du Seigneur, les prémices des fruits de tous les arbres ;",
       "annotations": "An du m. 3551.",
       "source_pages": [
         "page_0083.json"
@@ -321,8 +321,8 @@
     },
     {
       "verse_number": 36,
-      "latin": "Et primitiva filiorum nostrorum, et pecorum nostrorum, sicut scriptum est in Lege, et primitiva boum nostrorum, et ovium nostrarum, ut offerrentur in domo Dei nostri Sacerdotibus, qui ministrant in Domo Dei nostri :",
-      "french": "Les premiers-nés de nos fils, et de nos troupeaux, comme il est écrit dans la Loi, et les premiers-nés de nos bœufs, et de nos brebis, pour les offrir dans la maison de notre Dieu, aux Prêtres qui servent dans la maison de notre Dieu :",
+      "latin": "Et primitiva filiorum nostrorum, et pecorum nostrorum, sicut scriptum est in Lege, et primitiva boum nostrorum, et ovium nostrarum, ut offerrentur in domo Dei nostri Sacerdotibus, qui ministrant in Domo Dei nostri :",
+      "french": "Les premiers-nés de nos fils, et de nos troupeaux, comme il est écrit dans la Loi, et les premiers-nés de nos bœufs, et de nos brebis, pour les offrir dans la maison de notre Dieu, aux Prêtres qui servent dans la maison de notre Dieu :",
       "annotations": null,
       "source_pages": [
         "page_0083.json"
@@ -331,7 +331,7 @@
     {
       "verse_number": 37,
       "latin": "Et primitias ciborum nostrorum, et libaminum nostrorum, et poma omnis ligni, vindemiæ quoque et olei, afferemus Sacerdotibus ad gazophylacium Dei nostri, et decimam partem terræ nostræ Levitis. Ipsi Levitæ decimas accipient ex omnibus civitatibus operum nostrorum.",
-      "french": "Comme aussi les prémices de nos aliments, et de nos liqueurs. Nous promîmes aussi d'apporter aux Prêtres, au trésor de notre Dieu, les prémices de nos viandes, des fruits de tous les arbres, de la vigne, et des oliviers, et de payer la dîme de notre terre aux Lévites. Les mêmes Lévites recevront de toutes les villes, les dîmes de tout ce qui pourra venir de notre travail.",
+      "french": "Comme aussi les prémices de nos aliments, et de nos liqueurs. Nous promîmes aussi d’apporter aux Prêtres, au trésor de notre Dieu, les prémices de nos viandes, des fruits de tous les arbres, de la vigne, et des oliviers, et de payer la dîme de notre terre aux Lévites. Les mêmes Lévites recevront de toutes les villes, les dîmes de tout ce qui pourra venir de notre travail.",
       "annotations": null,
       "source_pages": [
         "page_0084.json"
@@ -339,8 +339,8 @@
     },
     {
       "verse_number": 38,
-      "latin": "Erit autem Sacerdos filius Aaron, cum Levitis in decimis Levitarum; et Levitæ offerent decimam partem, decimæ suæ in domo Dei nostri, ad gazophylacium, in domum thesauri.",
-      "french": "Il y aura un Prêtre de la race d'Aaron, avec les Lévites, lorsqu'ils recevront les dîmes; et les Lévites offriront la dixième partie de la dîme qu'ils auront reçue, en la maison de notre Dieu, pour être réservée dans la maison du trésor.",
+      "latin": "Erit autem Sacerdos filius Aaron, cum Levitis in decimis Levitarum ; et Levitæ offerent decimam partem, decimæ suæ in domo Dei nostri, ad gazophylacium, in domum thesauri.",
+      "french": "Il y aura un Prêtre de la race d’Aaron, avec les Lévites, lorsqu’ils recevront les dîmes ; et les Lévites offriront la dixième partie de la dîme qu’ils auront reçue, en la maison de notre Dieu, pour être réservée dans la maison du trésor.",
       "annotations": null,
       "source_pages": [
         "page_0084.json"
@@ -348,8 +348,8 @@
     },
     {
       "verse_number": 39,
-      "latin": "Ad gazophylacium anim deportabunt filii Israël, et filii Levi, primitias frumenti, vini, et olei: et ibi erunt vasa sanctificata, et Sacerdotes, et Cantores, et Janitores, et Ministri, et non dimittemus domum Dei nostri.",
-      "french": "Car les enfants d'Israël, et les enfants de Lévi, les Prêtres, les Chantres, les Portiers, et les Ministres, porteront les prémices du blé, du vin, et de l'huile en la maison du trésor; et c'est là que seront les vases consacrés; et nous n'abandonnerons point la maison de notre Dieu.",
+      "latin": "Ad gazophylacium anim deportabunt filii Israël, et filii Levi, primitias frumenti, vini, et olei : et ibi erunt vasa sanctificata, et Sacerdotes, et Cantores, et Janitores, et Ministri, et non dimittemus domum Dei nostri.",
+      "french": "Car les enfants d’Israël, et les enfants de Lévi, les Prêtres, les Chantres, les Portiers, et les Ministres, porteront les prémices du blé, du vin, et de l’huile en la maison du trésor ; et c’est là que seront les vases consacrés ; et nous n’abandonnerons point la maison de notre Dieu.",
       "annotations": null,
       "source_pages": [
         "page_0084.json"

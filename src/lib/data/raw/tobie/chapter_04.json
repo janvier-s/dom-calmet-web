@@ -1,13 +1,13 @@
 {
   "book": "Tobie",
   "chapter": 4,
-  "chapter_summary": "Tobie se croyant près de mourir, donne diverses instructions à son fils, et l'avertit de la somme qu'il avait mise entre les mains de Gabélus.",
+  "chapter_summary": "Tobie se croyant près de mourir, donne diverses instructions à son fils, et l’avertit de la somme qu’il avait mise entre les mains de Gabélus.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Igitur cùm Tobias putaret orationem suam exaudiri, ut mori posset, vocavit ad se Tobiam filium suum.",
-      "french": "Tobie croyant donc que Dieu exaucerait la prière qu'il lui avait faite, de mourir bientôt, appela à lui son fils Tobie;",
+      "french": "Tobie croyant donc que Dieu exaucerait la prière qu’il lui avait faite, de mourir bientôt, appela à lui son fils Tobie ;",
       "annotations": "An du M. 3322.",
       "source_pages": [
         "page_0054.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Dixitque ei : Audi, fili mi, verba oris mei, et ea in corde tuo quasi fundamentum construe.",
-      "french": "Et lui dit : Mon fils, écoutez les paroles de ma bouche, et mettez-les dans votre cœur, comme un fondement solide.",
+      "latin": "Dixitque ei : Audi, fili mi, verba oris mei, et ea in corde tuo quasi fundamentum construe.",
+      "french": "Et lui dit : Mon fils, écoutez les paroles de ma bouche, et mettez-les dans votre cœur, comme un fondement solide.",
       "annotations": null,
       "source_pages": [
         "page_0054.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Cùm acceperit Deus animam meam, corpus meum sepeli : et honorem habebis matri tuæ omnibus diebus vitæ ejus :",
-      "french": "Lorsque Dieu aura reçu mon âme, ensevelissez mon corps : et honorez votre mère tous les jours de sa vie.",
+      "latin": "Cùm acceperit Deus animam meam, corpus meum sepeli : et honorem habebis matri tuæ omnibus diebus vitæ ejus :",
+      "french": "Lorsque Dieu aura reçu mon âme, ensevelissez mon corps : et honorez votre mère tous les jours de sa vie.",
       "annotations": null,
       "source_pages": [
         "page_0054.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Memor enim esse debes, quæ et quanta pericula passa sit propter te in utero suo.",
-      "french": "Car vous devez vous souvenir de ce qu'elle a souffert, et à combien de périls elle a été exposée, lorsqu'elle vous portait en son sein.",
+      "french": "Car vous devez vous souvenir de ce qu’elle a souffert, et à combien de périls elle a été exposée, lorsqu’elle vous portait en son sein.",
       "annotations": null,
       "source_pages": [
         "page_0054.json"
@@ -51,7 +51,7 @@
     },
     {
       "verse_number": 6,
-      "latin": "Omnibus autem diebus vitæ tuæ in mente habeto Deum : et cave ne aliquando peccato consentias, et prætermittas præcepta Domini Dei nostri.",
+      "latin": "Omnibus autem diebus vitæ tuæ in mente habeto Deum : et cave ne aliquando peccato consentias, et prætermittas præcepta Domini Dei nostri.",
       "french": "Ayez Dieu dans l’esprit tous les jours de votre vie, et gardez-vous de consentir jamais à aucun péché, et de violer les préceptes du Seigneur notre Dieu.",
       "annotations": null,
       "source_pages": [
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Ex substantia tua fac eleemosynam, et noli avertere faciem tuam ab ullo paupere : ita enim fiet ut nec à te avertatur facies Domini.",
-      "french": "Faites l’aumône de votre bien, et ne détournez votre visage d’aucun pauvre ; car de cette sorte le Seigneur ne détournera point non plus son visage de dessus vous.",
+      "latin": "Ex substantia tua fac eleemosynam, et noli avertere faciem tuam ab ullo paupere : ita enim fiet ut nec à te avertatur facies Domini.",
+      "french": "Faites l’aumône de votre bien, et ne détournez votre visage d’aucun pauvre ; car de cette sorte le Seigneur ne détournera point non plus son visage de dessus vous.",
       "annotations": null,
       "source_pages": [
         "page_0055.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Si multum tibi fuerit, abundanter tribue : si exiguum tibi fuerit, etiam exiguum libenter impertiri stude.",
-      "french": "Si vous avez beaucoup de bien, donnez beaucoup ; si vous en avez peu, ayez soin de donner de ce peu même, de bon cœur.",
+      "latin": "Si multum tibi fuerit, abundanter tribue : si exiguum tibi fuerit, etiam exiguum libenter impertiri stude.",
+      "french": "Si vous avez beaucoup de bien, donnez beaucoup ; si vous en avez peu, ayez soin de donner de ce peu même, de bon cœur.",
       "annotations": null,
       "source_pages": [
         "page_0056.json"
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "Quoniam eleemosyna ab omni peccato, et à morte liberat, et non patietur animam ire in tenebras.",
-      "french": "Parce que l'aumône délivre de tout péché, et de la mort, et qu'elle ne laissera point tomber l'âme dans les ténèbres.",
+      "french": "Parce que l’aumône délivre de tout péché, et de la mort, et qu’elle ne laissera point tomber l’âme dans les ténèbres.",
       "annotations": null,
       "source_pages": [
         "page_0056.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Fiducia magna erit coram summo Deo eleemosyna, omnibus facientibus eam.",
-      "french": "L'aumône sera le sujet d'une grande confiance devant le Dieu suprême, pour tous ceux qui l'auront faite.",
+      "french": "L’aumône sera le sujet d’une grande confiance devant le Dieu suprême, pour tous ceux qui l’auront faite.",
       "annotations": "An du M. 3322.",
       "source_pages": [
         "page_0057.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Superbiam nunquam in tuo sensu, aut in tuo verbo dominari permittas: in ipsa enim initium sumpsit omnis perditio.",
-      "french": "Ne souffrez jamais que l'orgueil domine, ou dans vos pensées, ou dans vos paroles ; car c'est par l'orgueil que tous les maux ont commencé.",
+      "latin": "Superbiam nunquam in tuo sensu, aut in tuo verbo dominari permittas : in ipsa enim initium sumpsit omnis perditio.",
+      "french": "Ne souffrez jamais que l’orgueil domine, ou dans vos pensées, ou dans vos paroles ; car c’est par l’orgueil que tous les maux ont commencé.",
       "annotations": "An du m. 3322.",
       "source_pages": [
         "page_0058.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Quicúmque tibi aliquid operatus fuerit, statim ei mercedem restitue, et merces mercenarii tui apud te omninò non remaneat.",
-      "french": "Lorsqu'un homme aura travaillé pour vous, payez-lui aussitôt ce qui lui est dû pour son travail; et que la récompense du mercenaire ne demeure jamais chez vous.",
+      "french": "Lorsqu’un homme aura travaillé pour vous, payez-lui aussitôt ce qui lui est dû pour son travail ; et que la récompense du mercenaire ne demeure jamais chez vous.",
       "annotations": null,
       "source_pages": [
         "page_0058.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Quod ab alio oderis fieri tibi, vide ne tu aliquando alteri facias.",
-      "french": "Prenez garde de ne faire jamais à un autre, ce que vous seriez fâché qu'on vous fît.",
+      "french": "Prenez garde de ne faire jamais à un autre, ce que vous seriez fâché qu’on vous fît.",
       "annotations": "An du M. 3322.",
       "source_pages": [
         "page_0059.json"
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Panem tuum et vinum tuum, super sepulturam justi constitue, et noli ex eo manducare et bibere cum peccatoribus.",
-      "french": "Mettez votre pain et votre vin sur le tombeau du Juste, et gardez-vous d'en manger et d'en boire avec les pécheurs.",
+      "french": "Mettez votre pain et votre vin sur le tombeau du Juste, et gardez-vous d’en manger et d’en boire avec les pécheurs.",
       "annotations": null,
       "source_pages": [
         "page_0059.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Consilium semper a sapiente perquire.",
-      "french": "Prenez toujours conseil d'une personne sage.",
+      "french": "Prenez toujours conseil d’une personne sage.",
       "annotations": null,
       "source_pages": [
         "page_0061.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Omni tempore benedic Deum : et pete ab eo, ut vias tuas dirigat, et omnia consilia tua in ipso permaneant.",
-      "french": "Bénissez Dieu en tout temps, et demandez-lui qu'il conduise et rende droites vos voies, et ne faites fonds que sur lui pour tous vos desseins.",
+      "latin": "Omni tempore benedic Deum : et pete ab eo, ut vias tuas dirigat, et omnia consilia tua in ipso permaneant.",
+      "french": "Bénissez Dieu en tout temps, et demandez-lui qu’il conduise et rende droites vos voies, et ne faites fonds que sur lui pour tous vos desseins.",
       "annotations": "An du M. 3322.",
       "source_pages": [
         "page_0061.json"
@@ -187,7 +187,7 @@
     {
       "verse_number": 21,
       "latin": "Indico etiam tibi fili mi, dedisse me decem talenta argenti, dum adhuc infantulus esses, Gabelo, in Rages civitate Medorum, et chirographum ejus apud me habeo.",
-      "french": "Je vous avertis aussi, mon fils, que lorsque vous n'étiez qu'un petit enfant, j'ai donné dix talents d'argent à Gabélus, qui demeure dans la ville de Ragés, au pays des Mèdes; et que j'ai sa promesse entre mes mains.",
+      "french": "Je vous avertis aussi, mon fils, que lorsque vous n’étiez qu’un petit enfant, j’ai donné dix talents d’argent à Gabélus, qui demeure dans la ville de Ragés, au pays des Mèdes ; et que j’ai sa promesse entre mes mains.",
       "annotations": "An du m. 3322.",
       "source_pages": [
         "page_0062.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Et Ideò perquire quo modo ad eum pervenias, et recipias ab eo suprà memoratum pondus argenti, et restituas ei chirographum suum.",
-      "french": "C'est pourquoi faites vos diligences pour l'aller trouver, et pour retirer de lui cette somme d'argent, et lui rendre son obligation.",
+      "french": "C’est pourquoi faites vos diligences pour l’aller trouver, et pour retirer de lui cette somme d’argent, et lui rendre son obligation.",
       "annotations": null,
       "source_pages": [
         "page_0062.json"
@@ -204,8 +204,8 @@
     },
     {
       "verse_number": 23,
-      "latin": "Noli timere fili mi : pauperem quidem vitam gerimus, sed multa bona habebimus, si timuerimus Deum, et recesserimus ab omni peccato, et fecerimus benè.",
-      "french": "Ne craignez point, mon fils; il est vrai que nous sommes pauvres; mais nous aurons beaucoup de bien, si nous craignons Dieu, si nous nous retirons de tout péché, et que nous fassions de bonnes œuvres.",
+      "latin": "Noli timere fili mi : pauperem quidem vitam gerimus, sed multa bona habebimus, si timuerimus Deum, et recesserimus ab omni peccato, et fecerimus benè.",
+      "french": "Ne craignez point, mon fils ; il est vrai que nous sommes pauvres ; mais nous aurons beaucoup de bien, si nous craignons Dieu, si nous nous retirons de tout péché, et que nous fassions de bonnes œuvres.",
       "annotations": null,
       "source_pages": [
         "page_0062.json"

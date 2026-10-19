@@ -1,13 +1,13 @@
 {
   "book": "Josué",
   "chapter": 15,
-  "chapter_summary": "Partage assigné à la tribu de Juda. Othoniel épouse Axa fille de Caleb, pour récompense de ce qu'il avait pris Cariat-Sepher. Axa obtient de son père une terre arrosée d'eau. Villes de la tribu de Juda. Cette tribu ne peut chasser les Jébuséens hors de Jérusalem.",
+  "chapter_summary": "Partage assigné à la tribu de Juda. Othoniel épouse Axa fille de Caleb, pour récompense de ce qu’il avait pris Cariat-Sepher. Axa obtient de son père une terre arrosée d’eau. Villes de la tribu de Juda. Cette tribu ne peut chasser les Jébuséens hors de Jérusalem.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Igitur sors filiorum Judæ per cognationes suas ista fuit : A termino Edom, desertum Sin contra meridiem, et usque ad extremam partem australis plagæ.",
-      "french": "Voici le partage échu par sort aux enfants de Juda selon leurs familles. Les limites de leur pays sont depuis la frontière de l'Idumée, en passant par le désert de Sin vers le midi, et s'avançant jusqu'à l'extrémité de la contrée méridionale.",
+      "latin": "Igitur sors filiorum Judæ per cognationes suas ista fuit : A termino Edom, desertum Sin contra meridiem, et usque ad extremam partem australis plagæ.",
+      "french": "Voici le partage échu par sort aux enfants de Juda selon leurs familles. Les limites de leur pays sont depuis la frontière de l’Idumée, en passant par le désert de Sin vers le midi, et s’avançant jusqu’à l’extrémité de la contrée méridionale.",
       "annotations": null,
       "source_pages": [
         "page_0268.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Egreditúrque contra ascensum Scorpionis, et pertransit in Sina : ascenditque in Cadesbarne, et pervenit in Esron, ascendens ad Addar et circuiens Carcaa,",
-      "french": "Ils s'étendent vers la montée du Scorpion, et passent à Sina. Ils montent vers Cadesbarné, viennent jusqu'à Esron, et vers Addar ; et tournent vers Carcaa ;",
+      "latin": "Egreditúrque contra ascensum Scorpionis, et pertransit in Sina : ascenditque in Cadesbarne, et pervenit in Esron, ascendens ad Addar et circuiens Carcaa,",
+      "french": "Ils s’étendent vers la montée du Scorpion, et passent à Sina. Ils montent vers Cadesbarné, viennent jusqu’à Esron, et vers Addar ; et tournent vers Carcaa ;",
       "annotations": null,
       "source_pages": [
         "page_0270.json"
@@ -33,17 +33,17 @@
     },
     {
       "verse_number": 4,
-      "latin": "Atque inde pertransiens in Asemona, et perveniens ad torrentem Ægypti: erúmque termini ejus mare magnum. Hic erit finis meridianæ plagæ.",
-      "french": "Et passant de là jusqu'à Assemona, ils arrivent jusqu'au torrent d'Égypte, et se terminent à la grande mer. Ce sont là leurs limites du côté du midi.",
-      "annotations": "An. 2555?",
+      "latin": "Atque inde pertransiens in Asemona, et perveniens ad torrentem Ægypti : erúmque termini ejus mare magnum. Hic erit finis meridianæ plagæ.",
+      "french": "Et passant de là jusqu’à Assemona, ils arrivent jusqu’au torrent d’Égypte, et se terminent à la grande mer. Ce sont là leurs limites du côté du midi.",
+      "annotations": "An. 2555 ?",
       "source_pages": [
         "page_0271.json"
       ]
     },
     {
       "verse_number": 5,
-      "latin": "Ab oriente verò erit initium, mare salsissimum usque ad extrema Jordanis : et ea quæ respiciunt ad aquilonem, à lingua maris usque ad eundem Jordanis fluvium.",
-      "french": "Du côté de l'orient la tribu de Juda commence à la mer Salée, s'étend jusqu'à l'extrémité du Jourdain ; et du côté de l'aquilon, depuis la langue de mer, jusqu'au fleuve du Jourdain.",
+      "latin": "Ab oriente verò erit initium, mare salsissimum usque ad extrema Jordanis : et ea quæ respiciunt ad aquilonem, à lingua maris usque ad eundem Jordanis fluvium.",
+      "french": "Du côté de l’orient la tribu de Juda commence à la mer Salée, s’étend jusqu’à l’extrémité du Jourdain ; et du côté de l’aquilon, depuis la langue de mer, jusqu’au fleuve du Jourdain.",
       "annotations": null,
       "source_pages": [
         "page_0271.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Ascendítque terminus in Bet-Hagla, et transit ab aquilone in Beth-Araba : ascendens ad lapidem Boën filii Ruben,",
-      "french": "Sa frontière monte à Beth-Hagla, passe de l'aquilon à Beth Araba, monte à la pierre de Boën fils de Ruben,",
+      "latin": "Ascendítque terminus in Bet-Hagla, et transit ab aquilone in Beth-Araba : ascendens ad lapidem Boën filii Ruben,",
+      "french": "Sa frontière monte à Beth-Hagla, passe de l’aquilon à Beth Araba, monte à la pierre de Boën fils de Ruben,",
       "annotations": null,
       "source_pages": [
         "page_0271.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Et tendens usque ad terminos Debera de valle Achor, contra aquilonem respiciens Galgala, quæ est ex adverso ascensionis Adommim, ab australi parte torrentis : transitque aquas, quæ vocantur Fons solis : et erunt exitus ejus ad fontem Rogel.",
-      "french": "Et s'étend jusqu'à Débera de la vallée d'Achor. Vers le septentrion elle regarde Galgal, qui est vis-à-vis de la montée d'Adommim. Au côté du torrent qui regarde le midi, elle passe les eaux qui s'appellent la fontaine du Soleil, et vient se terminer à la fontaine de Rogel.",
+      "latin": "Et tendens usque ad terminos Debera de valle Achor, contra aquilonem respiciens Galgala, quæ est ex adverso ascensionis Adommim, ab australi parte torrentis : transitque aquas, quæ vocantur Fons solis : et erunt exitus ejus ad fontem Rogel.",
+      "french": "Et s’étend jusqu’à Débera de la vallée d’Achor. Vers le septentrion elle regarde Galgal, qui est vis-à-vis de la montée d’Adommim. Au côté du torrent qui regarde le midi, elle passe les eaux qui s’appellent la fontaine du Soleil, et vient se terminer à la fontaine de Rogel.",
       "annotations": "An. 2559.",
       "source_pages": [
         "page_0272.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Ascenditque per convallem filii Ennom ex latere Jebusæi ad meridiem, hæc est Jerusalem : et indè se erigens ad verticem montis qui est contra Geennom ad occidentem, in summitate vallis Raphaïm contra aquilonem.",
-      "french": "Elle monte par la vallée du fils d'Ennom au côté méridional du pays des Jébuséens, où est la ville de Jérusalem ; et de là montant jusqu'au haut de la montagne, qui est vis-à-vis de Géennom à l'occident, à l'extrémité de la vallée des Géants, vers l'aquilon :",
+      "latin": "Ascenditque per convallem filii Ennom ex latere Jebusæi ad meridiem, hæc est Jerusalem : et indè se erigens ad verticem montis qui est contra Geennom ad occidentem, in summitate vallis Raphaïm contra aquilonem.",
+      "french": "Elle monte par la vallée du fils d’Ennom au côté méridional du pays des Jébuséens, où est la ville de Jérusalem ; et de là montant jusqu’au haut de la montagne, qui est vis-à-vis de Géennom à l’occident, à l’extrémité de la vallée des Géants, vers l’aquilon :",
       "annotations": "An.2559.",
       "source_pages": [
         "page_0273.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Pervransitque à vertice montis usque ad fontem aquæ Nephtoa, et pervenit usque ad vicos montis Ephron : inclinaturque in Baala, quæ est Cariathiarim, id est, urbs sylvarum.",
-      "french": "Elle passe depuis le haut de la montagne jusqu'à la fontaine de Nephtoa ; et s'étend jusqu'aux villages du mont Ephron. Elle baisse ensuite vers Baala, qui est Cariathiarim, c'est-à-dire, la ville des Forêts.",
+      "latin": "Pervransitque à vertice montis usque ad fontem aquæ Nephtoa, et pervenit usque ad vicos montis Ephron : inclinaturque in Baala, quæ est Cariathiarim, id est, urbs sylvarum.",
+      "french": "Elle passe depuis le haut de la montagne jusqu’à la fontaine de Nephtoa ; et s’étend jusqu’aux villages du mont Ephron. Elle baisse ensuite vers Baala, qui est Cariathiarim, c’est-à-dire, la ville des Forêts.",
       "annotations": "An. 2559.",
       "source_pages": [
         "page_0274.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Et circuit de Baala contra occidentem, usque ad montem Seir : transitque juxta latus montis Jarim ad aquilonem in Cheslon : et descendit in Bethsames, transitque in Thamna.",
-      "french": "Et de Baala tourne vers l'occident jusqu'à la montagne de Séïr ; passe au côté du mont Jarim, qui est au septentrion de Cheslon, descend vers Bethsamès, passe à Thamna.",
+      "latin": "Et circuit de Baala contra occidentem, usque ad montem Seir : transitque juxta latus montis Jarim ad aquilonem in Cheslon : et descendit in Bethsames, transitque in Thamna.",
+      "french": "Et de Baala tourne vers l’occident jusqu’à la montagne de Séïr ; passe au côté du mont Jarim, qui est au septentrion de Cheslon, descend vers Bethsamès, passe à Thamna.",
       "annotations": null,
       "source_pages": [
         "page_0274.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Et pervenit contra aquilonem partis Accaron ex latere : inclinaturque Sechrona, et transit montem Baala : pervenitque in Jabneel, et magni maris contra occidentem fine concluditur.",
-      "french": "Vient vers le côté septentrional d'Accaron, baisse vers Séchrona, passe le mont Baala, s'étend jusqu'à Jebnéel, et se termine du côté de l'occident par la grande mer.",
+      "latin": "Et pervenit contra aquilonem partis Accaron ex latere : inclinaturque Sechrona, et transit montem Baala : pervenitque in Jabneel, et magni maris contra occidentem fine concluditur.",
+      "french": "Vient vers le côté septentrional d’Accaron, baisse vers Séchrona, passe le mont Baala, s’étend jusqu’à Jebnéel, et se termine du côté de l’occident par la grande mer.",
       "annotations": null,
       "source_pages": [
         "page_0275.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Caleb verò filio Jephone dedit partem in medio filiorum Juda, ficut præceperat ei Dominus, Cariath Arbe patris Enac, ipsa est Hebron.",
-      "french": "Mais Josué, suivant l'ordonnance du Seigneur, donna à Caleb fils de Jephoné pour son partage au milieu des enfants de Juda, Cariath-Arbe ville du père d'Enac, qui est la ville d'Hébron.",
+      "french": "Mais Josué, suivant l’ordonnance du Seigneur, donna à Caleb fils de Jephoné pour son partage au milieu des enfants de Juda, Cariath-Arbe ville du père d’Enac, qui est la ville d’Hébron.",
       "annotations": null,
       "source_pages": [
         "page_0276.json"
@@ -124,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Delevitque ex ea Caleb tres filios Enac, Sesaï et Ahiman et Tholmaï de stirpe Enac.",
-      "french": "Et Caleb extermina de cette ville les trois enfants d'Enac, Sesaï, Ahiman, et Tholmaï de la race d'Enac ;",
+      "french": "Et Caleb extermina de cette ville les trois enfants d’Enac, Sesaï, Ahiman, et Tholmaï de la race d’Enac ;",
       "annotations": null,
       "source_pages": [
         "page_0276.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Atque inde conscendens venit ad habitatores Dabir, quæ priùs vocabatur Cariath Sepher, id est civitas litterarum.",
-      "french": "Et montant de ce lieu il marcha vers les habitants de Dabir, qui s'appelait auparavant Cariat-Sepher, c'est-à-dire, la ville des Lettres.",
+      "french": "Et montant de ce lieu il marcha vers les habitants de Dabir, qui s’appelait auparavant Cariat-Sepher, c’est-à-dire, la ville des Lettres.",
       "annotations": null,
       "source_pages": [
         "page_0276.json"
@@ -141,8 +141,8 @@
     },
     {
       "verse_number": 16,
-      "latin": "Dixitque Caleb : Qui percusserit Cariath Sepher, et ceperit eam, dabo ei Axam filiam meam uxorem.",
-      "french": "Et Caleb dit : Je donnerai ma fille Axa en mariage, à quiconque prendra et détruira Cariath-Sepher.",
+      "latin": "Dixitque Caleb : Qui percusserit Cariath Sepher, et ceperit eam, dabo ei Axam filiam meam uxorem.",
+      "french": "Et Caleb dit : Je donnerai ma fille Axa en mariage, à quiconque prendra et détruira Cariath-Sepher.",
       "annotations": "An. 2559.",
       "source_pages": [
         "page_0277.json"
@@ -150,7 +150,7 @@
     },
     {
       "verse_number": 17,
-      "latin": "Cepitque eam Othoniel filius Cenez frater Caleb junior : deditque ei Axam filiam suam uxorem.",
+      "latin": "Cepitque eam Othoniel filius Cenez frater Caleb junior : deditque ei Axam filiam suam uxorem.",
       "french": "Othoniel fils de Cénez, et jeune frère de Caleb, la prit, et il lui donna sa fille Axa pour femme.",
       "annotations": null,
       "source_pages": [
@@ -159,8 +159,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "Quæ cùm pergerent simul, suasa est à viro suo ut peteret à patre suo agrum, suspiravitque ut sedebat in asino. Cui Caleb : Quid habes, inquit ?",
-      "french": "Et lorsqu'ils marchaient tous ensemble, son mari lui conseilla de demander un champ à son père. Axa étant donc montée sur un âne, se mit à soupirer ; et Caleb lui dit : Qu'avez-vous ?",
+      "latin": "Quæ cùm pergerent simul, suasa est à viro suo ut peteret à patre suo agrum, suspiravitque ut sedebat in asino. Cui Caleb : Quid habes, inquit ?",
+      "french": "Et lorsqu’ils marchaient tous ensemble, son mari lui conseilla de demander un champ à son père. Axa étant donc montée sur un âne, se mit à soupirer ; et Caleb lui dit : Qu’avez-vous ?",
       "annotations": "An. 2559.",
       "source_pages": [
         "page_0278.json"
@@ -168,8 +168,8 @@
     },
     {
       "verse_number": 19,
-      "latin": "At illa respondit : Da mihi benedictionem : Terram australem et arentem dedisti mihi, junge et irriguam. Dedit itaque ei Caleb irriguam superiùs et inferiùs.",
-      "french": "Elle lui répondit : Accordez-moi une grâce : Vous m'avez donné une terre exposée au midi et toute desséchée ; ajoutez-y-en une autre qui soit arrosée. Caleb lui donna donc en haut, et en bas des lieux arrosés d'eau.",
+      "latin": "At illa respondit : Da mihi benedictionem : Terram australem et arentem dedisti mihi, junge et irriguam. Dedit itaque ei Caleb irriguam superiùs et inferiùs.",
+      "french": "Elle lui répondit : Accordez-moi une grâce : Vous m’avez donné une terre exposée au midi et toute desséchée ; ajoutez-y-en une autre qui soit arrosée. Caleb lui donna donc en haut, et en bas des lieux arrosés d’eau.",
       "annotations": "An. 2559.",
       "source_pages": [
         "page_0279.json"
@@ -186,7 +186,7 @@
     },
     {
       "verse_number": 21,
-      "latin": "Eránque civitates ab extremis partibus filiorum Juda juxta terminos Edom à meridie : Cabseel et Eder et Jagur,",
+      "latin": "Eránque civitates ab extremis partibus filiorum Juda juxta terminos Edom à meridie : Cabseel et Eder et Jagur,",
       "french": "Les villes de cette tribu les plus méridionales vers les frontières de l’Idumée, sont Cabseel, Eder, et Jagur,",
       "annotations": null,
       "source_pages": [
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Et Cyna et Dimona et Adada,",
-      "french": "Cina, Dimona, Adada;",
+      "french": "Cina, Dimona, Adada ;",
       "annotations": null,
       "source_pages": [
         "page_0280.json"
@@ -223,7 +223,7 @@
     {
       "verse_number": 25,
       "latin": "Asor nova et Carioth Hesron, hæc est Asor.",
-      "french": "Asor la nouvelle et Carioth Hesron, qui est la même qu'Asor,",
+      "french": "Asor la nouvelle et Carioth Hesron, qui est la même qu’Asor,",
       "annotations": null,
       "source_pages": [
         "page_0281.json"
@@ -286,7 +286,7 @@
     {
       "verse_number": 32,
       "latin": "Lebaoth, et Selim et Aën et Remon, omnes civitates viginti novem, et villæ earum.",
-      "french": "Lebaoth, Sélim, Aën, et Rémon ; qui toutes font vingt-neuf villes avec leurs villages.",
+      "french": "Lebaoth, Sélim, Aën, et Rémon ; qui toutes font vingt-neuf villes avec leurs villages.",
       "annotations": "An. 2559.",
       "source_pages": [
         "page_0284.json"
@@ -294,7 +294,7 @@
     },
     {
       "verse_number": 33,
-      "latin": "In campestribus verò : Esthaol et Sarea et Asena,",
+      "latin": "In campestribus verò : Esthaol et Sarea et Asena,",
       "french": "Et dans la plaine, Estaot, Sarea, Afena,",
       "annotations": null,
       "source_pages": [
@@ -321,7 +321,7 @@
     },
     {
       "verse_number": 36,
-      "latin": "Et Saraim et Adithaim et Gedera et Gederothaim : urbes quatuordecim, et villæ earum.",
+      "latin": "Et Saraim et Adithaim et Gedera et Gederothaim : urbes quatuordecim, et villæ earum.",
       "french": "Saraïm, Adithaïm, Gédera, Géderothaïm, qui toutes font quatorze villes avec leurs villages.",
       "annotations": "An 2559.",
       "source_pages": [
@@ -366,7 +366,7 @@
     },
     {
       "verse_number": 41,
-      "latin": "Et Gideroth et Bethdagon et Naama et Maceda; civitates sedecim, et villæ earum.",
+      "latin": "Et Gideroth et Bethdagon et Naama et Maceda ; civitates sedecim, et villæ earum.",
       "french": "Gideroth, Bethdagon, Naama et Maceda, qui toutes font seize villes avec leurs villages.",
       "annotations": "An.2559.",
       "source_pages": [
@@ -393,7 +393,7 @@
     },
     {
       "verse_number": 44,
-      "latin": "Et Ceila et Achzib et Maresa: civitates novem, et villæ earum.",
+      "latin": "Et Ceila et Achzib et Maresa : civitates novem, et villæ earum.",
       "french": "Ceila, Achzib, Marésa, qui toutes font neuf villes avec leurs villages.",
       "annotations": null,
       "source_pages": [
@@ -411,8 +411,8 @@
     },
     {
       "verse_number": 46,
-      "latin": "Ab Accaron usque ad mare : omnia quæ vergunt ad Azotum et viculos ejus.",
-      "french": "Depuis Accaron jusqu'à la mer, tout le pays vers Azot et ses villages.",
+      "latin": "Ab Accaron usque ad mare : omnia quæ vergunt ad Azotum et viculos ejus.",
+      "french": "Depuis Accaron jusqu’à la mer, tout le pays vers Azot et ses villages.",
       "annotations": null,
       "source_pages": [
         "page_0288.json"
@@ -421,7 +421,7 @@
     {
       "verse_number": 47,
       "latin": "Azotus cum vicis et villulis suis, Gaza cum vicis et villulis suis, usque ad torrentem Ægypti, et mare magnum terminus ejus.",
-      "french": "Azot avec ses bourgs et ses villages, Gaza avec ses bourgs et ses villages jusqu'au torrent d'Égypte ; et la grande mer la termine.",
+      "french": "Azot avec ses bourgs et ses villages, Gaza avec ses bourgs et ses villages jusqu’au torrent d’Égypte ; et la grande mer la termine.",
       "annotations": null,
       "source_pages": [
         "page_0288.json"
@@ -429,7 +429,7 @@
     },
     {
       "verse_number": 48,
-      "latin": "Et in monte : Samir et Jether et Socoth,",
+      "latin": "Et in monte : Samir et Jether et Socoth,",
       "french": "Et dans les montagnes, Samir, Jether, Socoth,",
       "annotations": null,
       "source_pages": [
@@ -438,7 +438,7 @@
     },
     {
       "verse_number": 49,
-      "latin": "Et Danna et Cariathsenna, hoc est Dabir:",
+      "latin": "Et Danna et Cariathsenna, hoc est Dabir :",
       "french": "Danna, Cariathsenna, qui est la même que Dabir,",
       "annotations": null,
       "source_pages": [
@@ -456,7 +456,7 @@
     },
     {
       "verse_number": 51,
-      "latin": "Gosen et Olon et Gilo : civitates undecim et villæ earum.",
+      "latin": "Gosen et Olon et Gilo : civitates undecim et villæ earum.",
       "french": "Gosen, Olon, Gilo, qui toutes sont onze villes avec leurs villages.",
       "annotations": null,
       "source_pages": [
@@ -465,7 +465,7 @@
     },
     {
       "verse_number": 52,
-      "latin": "Arab et Ruma et Esaan :",
+      "latin": "Arab et Ruma et Esaan :",
       "french": "Arab, Ruma, Esaan,",
       "annotations": null,
       "source_pages": [
@@ -483,8 +483,8 @@
     },
     {
       "verse_number": 54,
-      "latin": "Athmatha et Cariatharbe : hæc est Hebron, et Sior : civitates novem, et villæ earum :",
-      "french": "Athmatha, Cariatharbé, qui est la même qu'Hébron, et Sior ; qui toutes sont neuf villes avec leurs villages.",
+      "latin": "Athmatha et Cariatharbe : hæc est Hebron, et Sior : civitates novem, et villæ earum :",
+      "french": "Athmatha, Cariatharbé, qui est la même qu’Hébron, et Sior ; qui toutes sont neuf villes avec leurs villages.",
       "annotations": null,
       "source_pages": [
         "page_0289.json"
@@ -510,7 +510,7 @@
     },
     {
       "verse_number": 57,
-      "latin": "Accain, Gabaa, et Thamna : civitates decem, et villæ earum.",
+      "latin": "Accain, Gabaa, et Thamna : civitates decem, et villæ earum.",
       "french": "Accaïn, Gabaa, Thamna, qui toutes sont dix villes avec leurs villages.",
       "annotations": null,
       "source_pages": [
@@ -537,7 +537,7 @@
     },
     {
       "verse_number": 60,
-      "latin": "Cariat-baal, hæc est Cariath-iarim arbs silvarum, et Arebba : civitates duæ et villæ earum.",
+      "latin": "Cariat-baal, hæc est Cariath-iarim arbs silvarum, et Arebba : civitates duæ et villæ earum.",
       "french": "Cariat-Baal, qui est la même que Cariath-Iarim, la ville des Forêts, et Arebba, deux villes et leurs villages.",
       "annotations": null,
       "source_pages": [
@@ -555,7 +555,7 @@
     },
     {
       "verse_number": 62,
-      "latin": "Et Nebsan, et civitas salis, et En-gaddi : civitates sex, et villæ earum.",
+      "latin": "Et Nebsan, et civitas salis, et En-gaddi : civitates sex, et villæ earum.",
       "french": "Nebsan, la ville du Sel, et En-gaddi, six villes et leurs villages.",
       "annotations": null,
       "source_pages": [
@@ -564,8 +564,8 @@
     },
     {
       "verse_number": 63,
-      "latin": "JEBUSÆUM HABITATOREM JERUSALEM, NON POTUERUNT FILII JUDA EXPELLERE. Jebusæum autem habitatorem Jerusalem non potuerunt filii Juda delere : habitavitque Jebusæus cum filiis Juda in Jerusalem, usque in præsentem diem.",
-      "french": "Les enfants de Juda ne purent exterminer les Jébuséens, qui habitaient à Jérusalem. Mais les enfants de Juda ne purent exterminer les Jébuséens qui habitaient dans Jérusalem, et les Jébuséens ont habité dans Jérusalem avec les enfants de Juda, jusqu'aujourd'hui.",
+      "latin": "JEBUSÆUM HABITATOREM JERUSALEM, NON POTUERUNT FILII JUDA EXPELLERE. Jebusæum autem habitatorem Jerusalem non potuerunt filii Juda delere : habitavitque Jebusæus cum filiis Juda in Jerusalem, usque in præsentem diem.",
+      "french": "Les enfants de Juda ne purent exterminer les Jébuséens, qui habitaient à Jérusalem. Mais les enfants de Juda ne purent exterminer les Jébuséens qui habitaient dans Jérusalem, et les Jébuséens ont habité dans Jérusalem avec les enfants de Juda, jusqu’aujourd’hui.",
       "annotations": null,
       "source_pages": [
         "page_0294.json",

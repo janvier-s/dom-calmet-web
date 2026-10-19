@@ -1,13 +1,13 @@
 {
   "book": "Josué",
   "chapter": 24,
-  "chapter_summary": "Assemblée du peuple à Sichem. Dieu leur représente par la bouche de Josué ce qu'il a fait pour leurs pères et pour eux. Alliance de Josué avec le peuple. Mort de Josué. Sépulture des os du Patriarche Joseph. Mort de Phinées.",
+  "chapter_summary": "Assemblée du peuple à Sichem. Dieu leur représente par la bouche de Josué ce qu’il a fait pour leurs pères et pour eux. Alliance de Josué avec le peuple. Mort de Josué. Sépulture des os du Patriarche Joseph. Mort de Phinées.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Congregavitque Josue omnes tribus Israël in Sichem, et vocavit majores natu, ac Principes, et Judices, et Magistros : steterúntque in conspectu Domini :",
-      "french": "Josué ayant assemblé toutes les tribus d'Israël à Sichem, fit venir les Anciens, les Princes, les Juges et les Magistrats, qui se présentèrent devant le Seigneur.",
+      "latin": "Congregavitque Josue omnes tribus Israël in Sichem, et vocavit majores natu, ac Principes, et Judices, et Magistros : steterúntque in conspectu Domini :",
+      "french": "Josué ayant assemblé toutes les tribus d’Israël à Sichem, fit venir les Anciens, les Princes, les Juges et les Magistrats, qui se présentèrent devant le Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0389.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Et ad populum fic locutus eft: Hæc dicit Dominus Deus Israël : Trans flumen habitaverunt patres veftri ab initio, Thare pater Abraham et Nachor : servierúntque diis alienis.",
-      "french": "Et il parla ainsi au peuple : Voici ce que dit le Seigneur, le Dieu d'Israël : Vos pères, Tharé père d'Abraham et de Nachor, ont habité anciennement au-delà du fleuve d'Euphrate, et ils ont servi des Dieux étrangers.",
+      "latin": "Et ad populum fic locutus eft : Hæc dicit Dominus Deus Israël : Trans flumen habitaverunt patres veftri ab initio, Thare pater Abraham et Nachor : servierúntque diis alienis.",
+      "french": "Et il parla ainsi au peuple : Voici ce que dit le Seigneur, le Dieu d’Israël : Vos pères, Tharé père d’Abraham et de Nachor, ont habité anciennement au-delà du fleuve d’Euphrate, et ils ont servi des Dieux étrangers.",
       "annotations": "An. 2572.",
       "source_pages": [
         "page_0390.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Tuli ergo patrem vestrum Abraham de Mesopotamiæ finibus : et adduxi eum in terram Chanaan: multiplicavique semen ejus.",
-      "french": "Mais je tirai Abraham votre père de la Mésopotamie , et je l’amenai au pays de Chanaan , je multipliai sa race,",
+      "latin": "Tuli ergo patrem vestrum Abraham de Mesopotamiæ finibus : et adduxi eum in terram Chanaan : multiplicavique semen ejus.",
+      "french": "Mais je tirai Abraham votre père de la Mésopotamie, et je l’amenai au pays de Chanaan, je multipliai sa race,",
       "annotations": "Au. 2572.",
       "source_pages": [
         "page_0391.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Et dedi ei Isaac : illique rursum dedi Jacob et Esaü. E quibus, Esaü dedi montem Seir ad possidendum : Jacob verò et filii ejus descenderunt in Ægyptum:",
-      "french": "Je lui donnai Isaac , et Isaac eut pour fils Jacob et Ésaü. Je donnai pour partage à Ésaü le mont de Seïr ; mais Jacob et ses enfants descendirent en Égypte.",
+      "latin": "Et dedi ei Isaac : illique rursum dedi Jacob et Esaü. E quibus, Esaü dedi montem Seir ad possidendum : Jacob verò et filii ejus descenderunt in Ægyptum :",
+      "french": "Je lui donnai Isaac, et Isaac eut pour fils Jacob et Ésaü. Je donnai pour partage à Ésaü le mont de Seïr ; mais Jacob et ses enfants descendirent en Égypte.",
       "annotations": null,
       "source_pages": [
         "page_0391.json"
@@ -43,7 +43,7 @@
     {
       "verse_number": 5,
       "latin": "Misique Moysen et Aaron, et percussi Ægyptum multis signis atque portentis.",
-      "french": "J'envoyai ensuite Moïse et Aaron. Je frappai l'Égypte par un grand nombre de miracles et de prodiges.",
+      "french": "J’envoyai ensuite Moïse et Aaron. Je frappai l’Égypte par un grand nombre de miracles et de prodiges.",
       "annotations": null,
       "source_pages": [
         "page_0391.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Eduxique vos et patres vestros de Ægypto, et venistis ad mare : persecutique sunt Ægyptii patres vestros cum curribus et equitatu, usque ad mare rubrum.",
-      "french": "Alors je vous fis sortir vous et vos pères de l'Égypte, et vous arrivâtes à la mer Rouge ; et les Égyptiens poursuivirent vos pères avec un grand nombre de chariots et de cavalerie jusqu'à cette mer.",
+      "latin": "Eduxique vos et patres vestros de Ægypto, et venistis ad mare : persecutique sunt Ægyptii patres vestros cum curribus et equitatu, usque ad mare rubrum.",
+      "french": "Alors je vous fis sortir vous et vos pères de l’Égypte, et vous arrivâtes à la mer Rouge ; et les Égyptiens poursuivirent vos pères avec un grand nombre de chariots et de cavalerie jusqu’à cette mer.",
       "annotations": null,
       "source_pages": [
         "page_0391.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Clamaverunt autem ad Dominum filii Israël: qui posuit tenebras inter vos et Ægyptios, et adduxit super eos mare, et operuit eos. Viderunt oculi vestri cuncta quæ in Ægypto fecerim, et habitastis in solitudine multo tempore.",
-      "french": "Alors les enfants d'Israël crièrent au Seigneur ; et il mit des ténèbres épaisses entre vous et les Égyptiens : Il fit revenir la mer sur eux, et il les enveloppa dans ses eaux. Vos yeux ont vu tout ce que j'ai fait dans l'Égypte, dit le Seigneur. Vous avez demeuré longtemps dans le désert.",
+      "latin": "Clamaverunt autem ad Dominum filii Israël : qui posuit tenebras inter vos et Ægyptios, et adduxit super eos mare, et operuit eos. Viderunt oculi vestri cuncta quæ in Ægypto fecerim, et habitastis in solitudine multo tempore.",
+      "french": "Alors les enfants d’Israël crièrent au Seigneur ; et il mit des ténèbres épaisses entre vous et les Égyptiens : Il fit revenir la mer sur eux, et il les enveloppa dans ses eaux. Vos yeux ont vu tout ce que j’ai fait dans l’Égypte, dit le Seigneur. Vous avez demeuré longtemps dans le désert.",
       "annotations": null,
       "source_pages": [
         "page_0391.json"
@@ -70,7 +70,7 @@
     {
       "verse_number": 8,
       "latin": "Et introduxi vos in terram Amorrhæi qui habitabat trans Jordanem. Cùmque pugnarent contra vos, tradidi eos in manus vestras, et possedistis terram eorum, atque interfecistis eos.",
-      "french": "Après cela je vous ai fait entrer dans le pays des Amorrhéens qui habitaient au-delà du Jourdain. Lorsqu'ils combattaient contre vous, je les ai livrés entre vos mains, et les ayant fait passer au fil de l'épée, vous vous êtes rendus maîtres de leur pays.",
+      "french": "Après cela je vous ai fait entrer dans le pays des Amorrhéens qui habitaient au-delà du Jourdain. Lorsqu’ils combattaient contre vous, je les ai livrés entre vos mains, et les ayant fait passer au fil de l’épée, vous vous êtes rendus maîtres de leur pays.",
       "annotations": null,
       "source_pages": [
         "page_0391.json"
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Surrexit autem Balac filius Sephor Rex Moab, et pugnavit contra Ifraëlem. Misitque et vocavit Balaam filium Beor, ut malediceret vobis.",
-      "french": "Balac fils de Séphor, Roi de Moab s'éleva alors et combattit contre Israël. Il envoya vers Balaam fils de Beor, et il le fit venir pour vous maudire.",
+      "french": "Balac fils de Séphor, Roi de Moab s’éleva alors et combattit contre Israël. Il envoya vers Balaam fils de Beor, et il le fit venir pour vous maudire.",
       "annotations": "An. 2571.",
       "source_pages": [
         "page_0392.json"
@@ -88,7 +88,7 @@
     {
       "verse_number": 10,
       "latin": "Et ego nolui audire eum, fed è contrario per illum benedixi vobis, et liberavi vos de manu ejus.",
-      "french": "Mais je ne voulus point l'écouter : je vous bénis au contraire par sa bouche, et je vous délivrai d'entre ses mains.",
+      "french": "Mais je ne voulus point l’écouter : je vous bénis au contraire par sa bouche, et je vous délivrai d’entre ses mains.",
       "annotations": null,
       "source_pages": [
         "page_0392.json"
@@ -96,7 +96,7 @@
     },
     {
       "verse_number": 11,
-      "latin": "Transiistisque Jordanem, et venistis ad Jericho. Pugnaveruntque contra vos viri civitatis ejus, Amorrhæus, et Pherezæus, et Chananæus, et Hethæus, et Gergezæus, et Hevæus, et Jebusæus: et tradidi illos in manus vestras.",
+      "latin": "Transiistisque Jordanem, et venistis ad Jericho. Pugnaveruntque contra vos viri civitatis ejus, Amorrhæus, et Pherezæus, et Chananæus, et Hethæus, et Gergezæus, et Hevæus, et Jebusæus : et tradidi illos in manus vestras.",
       "french": "Vous avez passé le Jourdain, et vous êtes venus à Jéricho. Les habitants de cette ville ont combattu contre vous, les Amorrhéens, les Phérézéens, les Cananéens, les Héthéens, les Gergéséens, les Hévéens, et les Jébuséens, et je les ai livrés entre vos mains.",
       "annotations": null,
       "source_pages": [
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Misique ante vos crabrones : et ejeci eos de locis suis, duos Reges Amorrhæorum, non in gladio nec in arcu tuo.",
-      "french": "J'ai envoyé devant vous des mouches piquantes, et j'ai chassé de leur pays deux Rois des Amorrhéens : et ce n'a été ni par votre épée, ni par votre arc qu'ils ont été vaincus.",
+      "latin": "Misique ante vos crabrones : et ejeci eos de locis suis, duos Reges Amorrhæorum, non in gladio nec in arcu tuo.",
+      "french": "J’ai envoyé devant vous des mouches piquantes, et j’ai chassé de leur pays deux Rois des Amorrhéens : et ce n’a été ni par votre épée, ni par votre arc qu’ils ont été vaincus.",
       "annotations": "An. 2570.",
       "source_pages": [
         "page_0394.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Dedique vobis terram, in qua non laborastis, et urbes quas non ædificastis, ut habitaretis in eis : vineas et oliveta, quæ non plantastis.",
-      "french": "Je vous ai donné une terre que vous n'aviez point cultivée ; des villes pour vous y retirer, que vous n'aviez point bâties ; des vignes et des plants d'oliviers que vous n'aviez point plantés.",
+      "latin": "Dedique vobis terram, in qua non laborastis, et urbes quas non ædificastis, ut habitaretis in eis : vineas et oliveta, quæ non plantastis.",
+      "french": "Je vous ai donné une terre que vous n’aviez point cultivée ; des villes pour vous y retirer, que vous n’aviez point bâties ; des vignes et des plants d’oliviers que vous n’aviez point plantés.",
       "annotations": null,
       "source_pages": [
         "page_0394.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Nunc ergo timete Dominum, et servite ei perfectè corde atque verissimo : et auferte Deos, quibus servierunt patres vestri in Mesopotamia et in Ægypto ac servite Domino.",
-      "french": "Maintenant donc craignez le Seigneur, et servez-le avec un cœur parfait et vraiment sincère. Ôtez du milieu de vous les dieux que vos pères ont adorés dans la Mésopotamie et dans l'Égypte, et servez le Seigneur.",
+      "latin": "Nunc ergo timete Dominum, et servite ei perfectè corde atque verissimo : et auferte Deos, quibus servierunt patres vestri in Mesopotamia et in Ægypto ac servite Domino.",
+      "french": "Maintenant donc craignez le Seigneur, et servez-le avec un cœur parfait et vraiment sincère. Ôtez du milieu de vous les dieux que vos pères ont adorés dans la Mésopotamie et dans l’Égypte, et servez le Seigneur.",
       "annotations": "An.2570.",
       "source_pages": [
         "page_0395.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Sin autem malum vobis videtur ut Domino serviatis, optio vobis datur : eligite hodie quod placet, cui servire potissimùm debeatis, utrùm diis, quibus servierunt patres vestri in Mesopotamia, an diis Amorrhæorum, in quorum terra habitatis : ego autem et domus mea serviemus Domino:",
-      "french": "Que si vous croyez que ce soit un malheur pour vous de servir le Seigneur, vous êtes dans la liberté de prendre tel parti que vous voudrez. Choisissez aujourd'hui ce qu'il vous plaira, et voyez qui vous devez plutôt adorer, ou les Dieux auxquels ont servi vos pères dans la Mésopotamie, ou les Dieux des Amorrhéens, au pays desquels vous habitez : mais pour ce qui est de moi et de ma maison, nous servirons le Seigneur.",
+      "latin": "Sin autem malum vobis videtur ut Domino serviatis, optio vobis datur : eligite hodie quod placet, cui servire potissimùm debeatis, utrùm diis, quibus servierunt patres vestri in Mesopotamia, an diis Amorrhæorum, in quorum terra habitatis : ego autem et domus mea serviemus Domino :",
+      "french": "Que si vous croyez que ce soit un malheur pour vous de servir le Seigneur, vous êtes dans la liberté de prendre tel parti que vous voudrez. Choisissez aujourd’hui ce qu’il vous plaira, et voyez qui vous devez plutôt adorer, ou les Dieux auxquels ont servi vos pères dans la Mésopotamie, ou les Dieux des Amorrhéens, au pays desquels vous habitez : mais pour ce qui est de moi et de ma maison, nous servirons le Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0396.json"
@@ -141,8 +141,8 @@
     },
     {
       "verse_number": 16,
-      "latin": "Responditque populus, et ait : Absit à nobis ut relinquamus Dominum, et serviamus diis alienis.",
-      "french": "Le peuple lui répondit : À Dieu ne plaise que nous abandonnions le Seigneur, et que nous servions des Dieux étrangers.",
+      "latin": "Responditque populus, et ait : Absit à nobis ut relinquamus Dominum, et serviamus diis alienis.",
+      "french": "Le peuple lui répondit : À Dieu ne plaise que nous abandonnions le Seigneur, et que nous servions des Dieux étrangers.",
       "annotations": null,
       "source_pages": [
         "page_0396.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Dominus Deus noster ipse eduxit nos, et patres nostros, de terra Ægypti, de domo servitutis : fecitque videntibus nobis signa ingentia, et custodivit nos in omni via, per quam ambulavimus, et in cunctis populis, per quos transivimus.",
-      "french": "C’est le Seigneur notre Dieu qui nous a tirés lui-même nous et nos pères du pays d’Égypte, de la maison de servitude ; qui a fait de très grands prodiges devant nos yeux, et qui nous a gardés dans tout le chemin par où nous avons marché, et parmi tous les peuples par où nous avons passé.",
+      "latin": "Dominus Deus noster ipse eduxit nos, et patres nostros, de terra Ægypti, de domo servitutis : fecitque videntibus nobis signa ingentia, et custodivit nos in omni via, per quam ambulavimus, et in cunctis populis, per quos transivimus.",
+      "french": "C’est le Seigneur notre Dieu qui nous a tirés lui-même nous et nos pères du pays d’Égypte, de la maison de servitude ; qui a fait de très grands prodiges devant nos yeux, et qui nous a gardés dans tout le chemin par où nous avons marché, et parmi tous les peuples par où nous avons passé.",
       "annotations": "An. 2570.",
       "source_pages": [
         "page_0397.json"
@@ -168,8 +168,8 @@
     },
     {
       "verse_number": 19,
-      "latin": "Dixitque Josue ad populum : Non poteritis servire Domino : Deus enim sanctus, et fortis æmulator est, nec ignoscet sceleribus vestris atque peccatis.",
-      "french": "Josué répondit au peuple : Vous ne pourrez servir le Seigneur, parce que c’est un Dieu saint, un Dieu fort et jaloux, et il ne vous pardonnera point vos crimes et vos péchés.",
+      "latin": "Dixitque Josue ad populum : Non poteritis servire Domino : Deus enim sanctus, et fortis æmulator est, nec ignoscet sceleribus vestris atque peccatis.",
+      "french": "Josué répondit au peuple : Vous ne pourrez servir le Seigneur, parce que c’est un Dieu saint, un Dieu fort et jaloux, et il ne vous pardonnera point vos crimes et vos péchés.",
       "annotations": null,
       "source_pages": [
         "page_0397.json"
@@ -186,8 +186,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Dixitque populus ad Josue : Nequaquam ita ut loqueris, erit, sed Domino serviemus.",
-      "french": "Le peuple dit à Josué : il n’en sera pas ainsi, mais nous servirons le Seigneur.",
+      "latin": "Dixitque populus ad Josue : Nequaquam ita ut loqueris, erit, sed Domino serviemus.",
+      "french": "Le peuple dit à Josué : il n’en sera pas ainsi, mais nous servirons le Seigneur.",
       "annotations": "An. 2570.",
       "source_pages": [
         "page_0398.json"
@@ -195,8 +195,8 @@
     },
     {
       "verse_number": 22,
-      "latin": "Et Josue ad populum, Testes, inquit, vos estis, quia ipsi elegeritis vobis Dominum ut serviatis ei. Responderúntque : Testes.",
-      "french": "Josué répondit au peuple : Vous êtes témoins que vous avez choisi vous-mêmes le Seigneur pour le servir. Ils lui répondirent : Nous en sommes témoins.",
+      "latin": "Et Josue ad populum, Testes, inquit, vos estis, quia ipsi elegeritis vobis Dominum ut serviatis ei. Responderúntque : Testes.",
+      "french": "Josué répondit au peuple : Vous êtes témoins que vous avez choisi vous-mêmes le Seigneur pour le servir. Ils lui répondirent : Nous en sommes témoins.",
       "annotations": null,
       "source_pages": [
         "page_0398.json"
@@ -213,8 +213,8 @@
     },
     {
       "verse_number": 24,
-      "latin": "Dixitque populus ad Josue : Domino Deo nostro serviemus, et obedientes erimus præceptis ejus.",
-      "french": "Le peuple répondit à Josué : Nous servirons le Seigneur notre Dieu, et nous obéirons à ses ordonnances.",
+      "latin": "Dixitque populus ad Josue : Domino Deo nostro serviemus, et obedientes erimus præceptis ejus.",
+      "french": "Le peuple répondit à Josué : Nous servirons le Seigneur notre Dieu, et nous obéirons à ses ordonnances.",
       "annotations": null,
       "source_pages": [
         "page_0398.json"
@@ -231,8 +231,8 @@
     },
     {
       "verse_number": 26,
-      "latin": "Scripsit quoque omnia verba hæc in volumine legis Domini : et tulit lapidem pergrandem, posuitque eum subter quercum, quæ erat in Sanctuario Domini.",
-      "french": "Il écrivit aussi toutes ces choses dans le livre de la Loi du Seigneur, et il prit une très grande pierre qu'il mit sous un chêne, qui était dans le sanctuaire du Seigneur.",
+      "latin": "Scripsit quoque omnia verba hæc in volumine legis Domini : et tulit lapidem pergrandem, posuitque eum subter quercum, quæ erat in Sanctuario Domini.",
+      "french": "Il écrivit aussi toutes ces choses dans le livre de la Loi du Seigneur, et il prit une très grande pierre qu’il mit sous un chêne, qui était dans le sanctuaire du Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0399.json"
@@ -240,8 +240,8 @@
     },
     {
       "verse_number": 27,
-      "latin": "Et dixit ad omnem populum : En lapis iste erit vobis in testimonium, quòd audierit omnia verba Domini quæ locutus est vobis : ne fortè posteà negare velitis, et mentiri Domino Deo vestro.",
-      "french": "Et il dit à tout le peuple : Cette pierre que vous voyez vous servira de monument et de témoignage qu'elle a entendu toutes les paroles que le Seigneur vous a dites, de peur qu'à l'avenir vous ne vouliez le nier, et mentir au Seigneur votre Dieu.",
+      "latin": "Et dixit ad omnem populum : En lapis iste erit vobis in testimonium, quòd audierit omnia verba Domini quæ locutus est vobis : ne fortè posteà negare velitis, et mentiri Domino Deo vestro.",
+      "french": "Et il dit à tout le peuple : Cette pierre que vous voyez vous servira de monument et de témoignage qu’elle a entendu toutes les paroles que le Seigneur vous a dites, de peur qu’à l’avenir vous ne vouliez le nier, et mentir au Seigneur votre Dieu.",
       "annotations": "An. 2530.",
       "source_pages": [
         "page_0400.json"
@@ -258,8 +258,8 @@
     },
     {
       "verse_number": 29,
-      "latin": "Et post hæc mortuus est Josue filius Nun servus Domini, centum et decem annorum:",
-      "french": "Après cela Josué fils de Nun, serviteur du Seigneur, mourut étant âgé de cent dix ans ;",
+      "latin": "Et post hæc mortuus est Josue filius Nun servus Domini, centum et decem annorum :",
+      "french": "Après cela Josué fils de Nun, serviteur du Seigneur, mourut étant âgé de cent dix ans ;",
       "annotations": null,
       "source_pages": [
         "page_0401.json"
@@ -268,7 +268,7 @@
     {
       "verse_number": 30,
       "latin": "Sepelierúntque eum in finibus possessionis suæ in Thamnath-sare, quæ est sita in monte Ephraïm, à septentrionali parte montis Gaas.",
-      "french": "Et ils l'enterrèrent dans son héritage en Thamnath-saré, qui est situé sur la montagne d'Ephraïm, vers le septentrion du mont Gaas.",
+      "french": "Et ils l’enterrèrent dans son héritage en Thamnath-saré, qui est situé sur la montagne d’Ephraïm, vers le septentrion du mont Gaas.",
       "annotations": "An. 2570.",
       "source_pages": [
         "page_0407.json"
@@ -286,7 +286,7 @@
     {
       "verse_number": 32,
       "latin": "Ossa quoque Joseph, quæ tulerant filii Israël de Ægypto, sepelierunt in Sichem, in parte agri, quem emerat Jacob à filiis Hemor patris Sichem, centum novellis ovibus, et fuit in possessionem filiorum Joseph.",
-      "french": "Ils prirent aussi les os de Joseph, que les enfants d'Israël avaient emportés d'Égypte, et ils les ensevelirent à Sichem, dans cet endroit du champ que Jacob avait acheté des enfants d'Hémor père de Sichem, pour cent jeunes brebis, et qui fut depuis aux enfants de Joseph.",
+      "french": "Ils prirent aussi les os de Joseph, que les enfants d’Israël avaient emportés d’Égypte, et ils les ensevelirent à Sichem, dans cet endroit du champ que Jacob avait acheté des enfants d’Hémor père de Sichem, pour cent jeunes brebis, et qui fut depuis aux enfants de Joseph.",
       "annotations": null,
       "source_pages": [
         "page_0409.json"
@@ -294,8 +294,8 @@
     },
     {
       "verse_number": 33,
-      "latin": "Eleazar quoque filius Aaron mortuus est : et sepelierunt eum in Gabaath Phinees filii ejus, quæ data est ei in monte Ephraim.",
-      "french": "Éléazar fils d'Aaron mourut aussi ; et ils l'ensevelirent à Gabaath, qui était à Phinées son fils, qui lui avait été donnée dans la montagne d'Ephraïm.",
+      "latin": "Eleazar quoque filius Aaron mortuus est : et sepelierunt eum in Gabaath Phinees filii ejus, quæ data est ei in monte Ephraim.",
+      "french": "Éléazar fils d’Aaron mourut aussi ; et ils l’ensevelirent à Gabaath, qui était à Phinées son fils, qui lui avait été donnée dans la montagne d’Ephraïm.",
       "annotations": null,
       "source_pages": [
         "page_0410.json"

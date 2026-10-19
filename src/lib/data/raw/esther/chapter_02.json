@@ -1,13 +1,13 @@
 {
   "book": "Esther",
   "chapter": 2,
-  "chapter_summary": "Esther devient l'épouse d'Assuérus. Mardochée demeurant à la porte du Palais, découvre la conspiration de deux Eunuques contre la personne du Roi.",
+  "chapter_summary": "Esther devient l’épouse d’Assuérus. Mardochée demeurant à la porte du Palais, découvre la conspiration de deux Eunuques contre la personne du Roi.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "His ita gestis, postquam Regis Assueri indignatio deferbuerat, recordatus est Vasthi, et quæ fecisset, vel quæ passa esset:",
-      "french": "Ces choses s'étant passées de la sorte ; lorsque la colère du Roi Assuérus fut adoucie, il se ressouvint de Vasthi, et de ce qu'elle avait fait, et de ce qu'elle avait souffert.",
+      "latin": "His ita gestis, postquam Regis Assueri indignatio deferbuerat, recordatus est Vasthi, et quæ fecisset, vel quæ passa esset :",
+      "french": "Ces choses s’étant passées de la sorte ; lorsque la colère du Roi Assuérus fut adoucie, il se ressouvint de Vasthi, et de ce qu’elle avait fait, et de ce qu’elle avait souffert.",
       "annotations": "An du M 3486.",
       "source_pages": [
         "page_0068.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Dixerúntque pueri Regis, ac Ministri ejus : Quærantur Regi puellæ virgines ac speciosæ,",
-      "french": "Alors les serviteurs et les officiers du Roi, lui dirent : Qu'on cherche pour le Roi des filles qui soient vierges et belles,",
+      "latin": "Dixerúntque pueri Regis, ac Ministri ejus : Quærantur Regi puellæ virgines ac speciosæ,",
+      "french": "Alors les serviteurs et les officiers du Roi, lui dirent : Qu’on cherche pour le Roi des filles qui soient vierges et belles,",
       "annotations": null,
       "source_pages": [
         "page_0068.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Et mittantur qui considerent per universas Provincias puellas speciosas et virgines : et adducant eas ad civitatem Susan, et tradant eas in domum feminarum sub manu Egei eunuchi, qui est præpositus et custos mulierum Regiarum : et accipiant mundum muliebrem, et cætera ad usum necessaria.",
-      "french": "Et qu'on envoie dans toutes les Provinces des gens, qui considèrent les plus belles d'entre les jeunes filles, qui sont vierges, pour les amener dans la ville de Suse, et les mettre dans le palais des femmes, sous la conduite de l'eunuque Egée, qui a soin de garder les femmes du Roi : là on leur donnera tout ce qui leur est nécessaire, tant pour leur parure, que pour les autres besoins.",
+      "latin": "Et mittantur qui considerent per universas Provincias puellas speciosas et virgines : et adducant eas ad civitatem Susan, et tradant eas in domum feminarum sub manu Egei eunuchi, qui est præpositus et custos mulierum Regiarum : et accipiant mundum muliebrem, et cætera ad usum necessaria.",
+      "french": "Et qu’on envoie dans toutes les Provinces des gens, qui considèrent les plus belles d’entre les jeunes filles, qui sont vierges, pour les amener dans la ville de Suse, et les mettre dans le palais des femmes, sous la conduite de l’eunuque Egée, qui a soin de garder les femmes du Roi : là on leur donnera tout ce qui leur est nécessaire, tant pour leur parure, que pour les autres besoins.",
       "annotations": null,
       "source_pages": [
         "page_0068.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Et quæcumque inter omnes oculis Regis placuerit, ipsa regnaret pro Vasthi. Placuit sermo Regi, et ita, ut suggesserant, jussit fieri.",
-      "french": "Et celle qui plaira davantage aux yeux du Roi, sera Reine à la place de Vasthi. Cet avis plut au Roi, et il leur commanda de faire ce qu'ils lui avaient conseillé.",
+      "french": "Et celle qui plaira davantage aux yeux du Roi, sera Reine à la place de Vasthi. Cet avis plut au Roi, et il leur commanda de faire ce qu’ils lui avaient conseillé.",
       "annotations": "An du M. 3486.",
       "source_pages": [
         "page_0069.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Qui fuit nutritius filiæ fratris sui Edissæ, quæ altero nomine vocabatur Esther : et utrumque parentem amiserat : pulchra nimis, et decora facie. Mortuisque patre ejus ac matre, Mardochaæus, sibi eam adoptavit in filiam.",
-      "french": "Il avait élevé auprès de lui la fille de son frère, nommée Edisse, qui s'appelait autrement Esther. Elle avait perdu son père et sa mère. Elle était parfaitement belle ; et elle avait tout à fait bonne grâce. Son père et sa mère étant morts, Mardochée l'avait adoptée pour sa fille.",
+      "latin": "Qui fuit nutritius filiæ fratris sui Edissæ, quæ altero nomine vocabatur Esther : et utrumque parentem amiserat : pulchra nimis, et decora facie. Mortuisque patre ejus ac matre, Mardochaæus, sibi eam adoptavit in filiam.",
+      "french": "Il avait élevé auprès de lui la fille de son frère, nommée Edisse, qui s’appelait autrement Esther. Elle avait perdu son père et sa mère. Elle était parfaitement belle ; et elle avait tout à fait bonne grâce. Son père et sa mère étant morts, Mardochée l’avait adoptée pour sa fille.",
       "annotations": "An du M. 3486.",
       "source_pages": [
         "page_0071.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Cùmque percrebuisset Regis imperium, et juxta mandatum illius multæ pulchræ virgines adducerentur Susan, et Egeo traderentur eunucho : Esther quoque inter ceteras puellas ei tradita est, ut servaretur in numero fœminarum.",
-      "french": "Cette ordonnance du Roi ayant donc été publiée partout, lorsqu'on amenait à Suses plusieurs filles très belles, et qu'on les mettait entre les mains de l'eunuque Égée ; on lui amena aussi Esther entre les autres, afin qu'elle fût gardée avec les femmes destinées pour le Roi.",
+      "latin": "Cùmque percrebuisset Regis imperium, et juxta mandatum illius multæ pulchræ virgines adducerentur Susan, et Egeo traderentur eunucho : Esther quoque inter ceteras puellas ei tradita est, ut servaretur in numero fœminarum.",
+      "french": "Cette ordonnance du Roi ayant donc été publiée partout, lorsqu’on amenait à Suses plusieurs filles très belles, et qu’on les mettait entre les mains de l’eunuque Égée ; on lui amena aussi Esther entre les autres, afin qu’elle fût gardée avec les femmes destinées pour le Roi.",
       "annotations": null,
       "source_pages": [
         "page_0071.json"
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Quæ placuit ei, et invenit gratiam in conspectu illius. Et præcepit eunucho, ut acceleraret mundum muliebrem, et traderet ei partes suas, et septem puellas speciosissimas de domo Regis, et tam ipsam, quàm pedissequas ejus, ornaret, atque excoleret.",
-      "french": "Esther lui plut, et trouva grâce devant lui. C'est pourquoi il commanda à un eunuque de se hâter de lui préparer tous ses ornements, et de lui donner la nourriture qui lui était destinée, avec sept filles parfaites, et les plus belles de la maison du Roi, pour la servir, et d'avoir grand soin de tout ce qui pouvait contribuer à la parer, et à l'embellir, elle et ses filles.",
+      "french": "Esther lui plut, et trouva grâce devant lui. C’est pourquoi il commanda à un eunuque de se hâter de lui préparer tous ses ornements, et de lui donner la nourriture qui lui était destinée, avec sept filles parfaites, et les plus belles de la maison du Roi, pour la servir, et d’avoir grand soin de tout ce qui pouvait contribuer à la parer, et à l’embellir, elle et ses filles.",
       "annotations": "An du M. 3486.",
       "source_pages": [
         "page_0072.json"
@@ -87,7 +87,7 @@
     },
     {
       "verse_number": 10,
-      "latin": "Quæ noluit indicare ei populum et patriam suam : Mardochæus enim præceperat ei, ut de hac re omninò reticeret :",
+      "latin": "Quæ noluit indicare ei populum et patriam suam : Mardochæus enim præceperat ei, ut de hac re omninò reticeret :",
       "french": "Esther ne voulut point lui dire de quel pays, et de quelle nation elle était, parce que Mardochée lui avait ordonné de tenir cela très secret.",
       "annotations": null,
       "source_pages": [
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "Qui deambulabat quotidie ante vestibulum domûs, in qua electæ virgines servabantur, curam agens salutis Esther, et scire volens quid ei accideret.",
-      "french": "Il se promenait tous les jours devant le vestibule de la maison, où étaient gardées les vierges choisies, se mettant en peine de l'état d'Esther, et voulant savoir ce qui lui arriverait.",
+      "french": "Il se promenait tous les jours devant le vestibule de la maison, où étaient gardées les vierges choisies, se mettant en peine de l’état d’Esther, et voulant savoir ce qui lui arriverait.",
       "annotations": null,
       "source_pages": [
         "page_0072.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Cùm autem venisset tempus singularum per ordinem puellarum, ut intrarent ad Regem, expletis omnibus quæ ad cultum muliebrem pertinebant, mensis duodecimo vertebatur : ita dumtaxat, ut sex mensibus oleo ungerentur myrrhino, et aliis sex, quibusdam pigmentis, et aromatibus uterentur.",
-      "french": "Lorsque le temps de ces filles était venu, elles étaient présentées au Roi en leur rang, après avoir fait tout ce qui était nécessaire pour se parer, et se rendre plus agréables pendant l'espace de douze mois, se servant pour cela, pendant les six premiers mois, d'une onction d'huile de myrrhe, et pendant les six autres, de parfums et d'aromates.",
+      "latin": "Cùm autem venisset tempus singularum per ordinem puellarum, ut intrarent ad Regem, expletis omnibus quæ ad cultum muliebrem pertinebant, mensis duodecimo vertebatur : ita dumtaxat, ut sex mensibus oleo ungerentur myrrhino, et aliis sex, quibusdam pigmentis, et aromatibus uterentur.",
+      "french": "Lorsque le temps de ces filles était venu, elles étaient présentées au Roi en leur rang, après avoir fait tout ce qui était nécessaire pour se parer, et se rendre plus agréables pendant l’espace de douze mois, se servant pour cela, pendant les six premiers mois, d’une onction d’huile de myrrhe, et pendant les six autres, de parfums et d’aromates.",
       "annotations": "An du M. 3486.",
       "source_pages": [
         "page_0073.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Ingredientésque ad Regem , quidquid postulassent ad ornatum pertinens, accipiebant, et ut eis placuerat, compositæ de triclinio fœminarum ad Regis cubiculum transibant.",
-      "french": "Lorsqu'elles allaient trouver le Roi ; on leur donnait tout ce qu'elles demandaient pour se parer, et elles passaient de la chambre des femmes à celle du Roi, avec tous les ornements qu'elles avaient désirés.",
+      "latin": "Ingredientésque ad Regem, quidquid postulassent ad ornatum pertinens, accipiebant, et ut eis placuerat, compositæ de triclinio fœminarum ad Regis cubiculum transibant.",
+      "french": "Lorsqu’elles allaient trouver le Roi ; on leur donnait tout ce qu’elles demandaient pour se parer, et elles passaient de la chambre des femmes à celle du Roi, avec tous les ornements qu’elles avaient désirés.",
       "annotations": null,
       "source_pages": [
         "page_0074.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Et quæ intraverat vespere , egrediebatur manè , atque inde in secundas ædes deducebatur , quæ sub manu Susagazi eunuchi erant , qui concubinis Regis præsidebat : nec habebat potestatem ad Regem ultrà redeundi, nisi voluisset Rex, et eam venire jussisset ex nomine.",
-      "french": "Celle qui y était entrée au soir, en sortait le matin, et elle était conduite de là dans un autre appartement, où demeuraient les concubines du Roi, dont Susagazi eunuque avait soin ; et elle ne pouvait plus de nouveau se présenter devant le Roi, à moins que lui-même ne le voulût, et qu'il ne l'eût commandé expressément, en la nommant par son nom.",
+      "latin": "Et quæ intraverat vespere, egrediebatur manè, atque inde in secundas ædes deducebatur, quæ sub manu Susagazi eunuchi erant, qui concubinis Regis præsidebat : nec habebat potestatem ad Regem ultrà redeundi, nisi voluisset Rex, et eam venire jussisset ex nomine.",
+      "french": "Celle qui y était entrée au soir, en sortait le matin, et elle était conduite de là dans un autre appartement, où demeuraient les concubines du Roi, dont Susagazi eunuque avait soin ; et elle ne pouvait plus de nouveau se présenter devant le Roi, à moins que lui-même ne le voulût, et qu’il ne l’eût commandé expressément, en la nommant par son nom.",
       "annotations": null,
       "source_pages": [
         "page_0074.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Evoluto autem tempore per ordinem, instabat dies, quo Esther filia Abihail fratris Mardochaï, quem sibi adoptaverat in filiam, deberet intrare ad Regem. Quæ non quæsivit muliebrem cultum, sed quæcumque voluit Egeus eunuchus custos virginum, hæc ei ad ornatum dedit. Erat enim formosa valdè, et incredibili pulchritudine, omnium oculis gratiosa, et amabilis videbatur.",
-      "french": "Après donc qu'il se fut passé du temps, le jour vint auquel Esther fille d'Abihail, frère de Mardochée, et que Mardochée avait adoptée pour sa fille, devait être présentée au Roi en son rang. Elle ne demanda rien pour se parer ; mais Égée eunuque, qui avait le soin de ces filles, lui donna pour cela tout ce qu'il voulut. Car elle était parfaitement bien faite, et son incroyable beauté la rendait aimable, et agréable à tous ceux qui la voyaient.",
+      "french": "Après donc qu’il se fut passé du temps, le jour vint auquel Esther fille d’Abihail, frère de Mardochée, et que Mardochée avait adoptée pour sa fille, devait être présentée au Roi en son rang. Elle ne demanda rien pour se parer ; mais Égée eunuque, qui avait le soin de ces filles, lui donna pour cela tout ce qu’il voulut. Car elle était parfaitement bien faite, et son incroyable beauté la rendait aimable, et agréable à tous ceux qui la voyaient.",
       "annotations": "An du M. 3486.",
       "source_pages": [
         "page_0075.json"
@@ -151,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Et adamavit eam Rex plus quàm omnes mulieres, habuitque gratiam et misericordiam coram eo super omnes mulieres, et posuit diadema regni in capite ejus, fecitque eam regnare in loco Vasthi.",
-      "french": "Le Roi l'aima plus que toutes ses autres femmes, et elle s'acquit dans son cœur et dans son esprit une considération plus grande que toutes les autres. Il lui mit sur la tête le diadème royal, et il la fit Reine à la place de Vasthi.",
+      "french": "Le Roi l’aima plus que toutes ses autres femmes, et elle s’acquit dans son cœur et dans son esprit une considération plus grande que toutes les autres. Il lui mit sur la tête le diadème royal, et il la fit Reine à la place de Vasthi.",
       "annotations": null,
       "source_pages": [
         "page_0075.json"
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Et jussit convivium præparari permagnificum cunctis principibus, et servis suis, et pro conjunctione et nuptiis Esther. Et dedit requiem universis Provinciis, ac dona largitus est juxta magnificentiam principalem.",
-      "french": "Et le Roi commanda qu'on fît un festin très magnifique à tous les grands de sa Cour, et à tous ses serviteurs, pour le mariage et les noces d'Esther. Il soulagea les peuples de toutes ses Provinces, et il fit des largesses dignes de la magnificence d'un si grand Prince.",
+      "french": "Et le Roi commanda qu’on fît un festin très magnifique à tous les grands de sa Cour, et à tous ses serviteurs, pour le mariage et les noces d’Esther. Il soulagea les peuples de toutes ses Provinces, et il fit des largesses dignes de la magnificence d’un si grand Prince.",
       "annotations": "An du M. 3490.",
       "source_pages": [
         "page_0077.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Cùmque secundò quærerentur virgines, et congregarentur, Mardochæus manebat ad januam Regis.",
-      "french": "Et tant qu'on chercha des filles pour le second mariage du Roi, et qu'on les assemblait en un même lieu, Mardochée demeura toujours à la porte du Roi.",
+      "french": "Et tant qu’on chercha des filles pour le second mariage du Roi, et qu’on les assemblait en un même lieu, Mardochée demeura toujours à la porte du Roi.",
       "annotations": "An du M. 3490.",
       "source_pages": [
         "page_0078.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Necdum prodiderat Esther patriam, et populum suum, juxta mandatum ejus. Quidquid enim ille præcipiebat, observabat Esther : et ita cuncta faciebat, ut eo tempore solita erat, quo eam parvulam nutriebat.",
-      "french": "Esther n'avait point encore découvert ni son pays, ni son peuple, selon l'ordre que Mardochée lui en avait donné. Car Esther observait tout ce qu'il lui ordonnait, et faisait encore toutes choses en ce temps-là par son avis, de même que lorsqu'il la nourrissait auprès de lui, étant encore toute petite.",
+      "latin": "Necdum prodiderat Esther patriam, et populum suum, juxta mandatum ejus. Quidquid enim ille præcipiebat, observabat Esther : et ita cuncta faciebat, ut eo tempore solita erat, quo eam parvulam nutriebat.",
+      "french": "Esther n’avait point encore découvert ni son pays, ni son peuple, selon l’ordre que Mardochée lui en avait donné. Car Esther observait tout ce qu’il lui ordonnait, et faisait encore toutes choses en ce temps-là par son avis, de même que lorsqu’il la nourrissait auprès de lui, étant encore toute petite.",
       "annotations": null,
       "source_pages": [
         "page_0078.json"
@@ -186,8 +186,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Eo igitur tempore, quo Mardo-chæus ad Regis januam morabatur, ira-ti sunt Bagathan et Thares, duo eunuchi Regis, qui janitores erant, et in primo palatii limine præsidebant : voluerúntque insurgere in Regem, et occidere eum.",
-      "french": "Lors donc que Mardochée demeurait à la porte du Roi, Bagathan et Tharés, deux de ses eunuques, qui commandaient à la première entrée du Palais, ayant conçu quelque mécontentement contre le Roi, entreprirent d'attenter sur sa personne, et de le tuer.",
+      "latin": "Eo igitur tempore, quo Mardo-chæus ad Regis januam morabatur, ira-ti sunt Bagathan et Thares, duo eunuchi Regis, qui janitores erant, et in primo palatii limine præsidebant : voluerúntque insurgere in Regem, et occidere eum.",
+      "french": "Lors donc que Mardochée demeurait à la porte du Roi, Bagathan et Tharés, deux de ses eunuques, qui commandaient à la première entrée du Palais, ayant conçu quelque mécontentement contre le Roi, entreprirent d’attenter sur sa personne, et de le tuer.",
       "annotations": "An du M. 3490.",
       "source_pages": [
         "page_0079.json"
@@ -195,8 +195,8 @@
     },
     {
       "verse_number": 22,
-      "latin": "Quod Mardochæum non latuit, statímque nuntiavit Reginæ Esther : et illa Regi, ex nomine Mardochæi, qui ad se rem detulerat.",
-      "french": "Mais Mardochée ayant découvert leur dessein, en avertit aussitôt la Reine Esther. La Reine en avertit le Roi, au nom de Mardochée, dont elle avait reçu l'avis.",
+      "latin": "Quod Mardochæum non latuit, statímque nuntiavit Reginæ Esther : et illa Regi, ex nomine Mardochæi, qui ad se rem detulerat.",
+      "french": "Mais Mardochée ayant découvert leur dessein, en avertit aussitôt la Reine Esther. La Reine en avertit le Roi, au nom de Mardochée, dont elle avait reçu l’avis.",
       "annotations": null,
       "source_pages": [
         "page_0079.json"
@@ -204,8 +204,8 @@
     },
     {
       "verse_number": 23,
-      "latin": "Quæsitum est, et inventum: et appensus est uterque eorum in patibulo. Mandatumque est historiæ, et annalibus traditum coram Rege.",
-      "french": "On en fit aussitôt les recherches, et l'avis ayant été trouvé véritable, l'un et l'autre fut pendu : et tout ceci fut écrit dans les Histoires, et marqué dans les Annales, par ordre du Roi.",
+      "latin": "Quæsitum est, et inventum : et appensus est uterque eorum in patibulo. Mandatumque est historiæ, et annalibus traditum coram Rege.",
+      "french": "On en fit aussitôt les recherches, et l’avis ayant été trouvé véritable, l’un et l’autre fut pendu : et tout ceci fut écrit dans les Histoires, et marqué dans les Annales, par ordre du Roi.",
       "annotations": "An du M. 3490.",
       "source_pages": [
         "page_0080.json"

@@ -1,13 +1,13 @@
 {
   "book": "Deutéronome",
   "chapter": 14,
-  "chapter_summary": "Défense de se faire des incisions, et de se couper les cheveux dans le deuil. Règlements pour la distinction des animaux purs et impurs ; touchant les dîmes, et les repas qu'on devait faire en la présence du Seigneur.",
+  "chapter_summary": "Défense de se faire des incisions, et de se couper les cheveux dans le deuil. Règlements pour la distinction des animaux purs et impurs ; touchant les dîmes, et les repas qu’on devait faire en la présence du Seigneur.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Filii esto te Domini Dei vestri: non vos incidetis, nec facietis calvitium super mortuo.",
-      "french": "Montrez-vous les enfants du Seigneur votre Dieu. Ne vous faites point d'incisions, et ne vous coupez point les cheveux, pour faire le deuil d'un mort.",
+      "latin": "Filii esto te Domini Dei vestri : non vos incidetis, nec facietis calvitium super mortuo.",
+      "french": "Montrez-vous les enfants du Seigneur votre Dieu. Ne vous faites point d’incisions, et ne vous coupez point les cheveux, pour faire le deuil d’un mort.",
       "source_pages": [
         "page_0201.json"
       ]
@@ -15,7 +15,7 @@
     {
       "verse_number": 2,
       "latin": "Quoniam populus sanctus es Domino Deo tuo, et te elegit ut sis ei in populum peculiarem, de cunctis gentibus quæ sunt super terram.",
-      "french": "Parce que vous êtes un peuple saint et consacré au Seigneur votre Dieu, et qu'il vous a choisis de toutes les Nations qui sont sur la terre, afin que vous fussiez particulièrement son peuple.",
+      "french": "Parce que vous êtes un peuple saint et consacré au Seigneur votre Dieu, et qu’il vous a choisis de toutes les Nations qui sont sur la terre, afin que vous fussiez particulièrement son peuple.",
       "annotations": null,
       "source_pages": [
         "page_0203.json"
@@ -33,7 +33,7 @@
     {
       "verse_number": 4,
       "latin": "Hoc est animal quod comedere debetis, bovem, et ovem, et capram,",
-      "french": "Voici les animaux dont vous devez manger ; le bœuf, la brebis, la chèvre.",
+      "french": "Voici les animaux dont vous devez manger ; le bœuf, la brebis, la chèvre.",
       "annotations": null,
       "source_pages": [
         "page_0204.json"
@@ -42,7 +42,7 @@
     {
       "verse_number": 5,
       "latin": "Cervum et capream, bubalum, tragelaphum, pygargum, orygem, camelopardalem.",
-      "french": "Le cerf, le chevreuil, le buffle, le chèvre-cerf, le pygargue, l'oryx, le giraffe.",
+      "french": "Le cerf, le chevreuil, le buffle, le chèvre-cerf, le pygargue, l’oryx, le giraffe.",
       "annotations": null,
       "source_pages": [
         "page_0204.json"
@@ -60,7 +60,7 @@
     {
       "verse_number": 7,
       "latin": "De his autem quæ ruminant, et ungulam non findunt, comedere non debetis, ut camelum, leporem, choerogrillum : hæc quia ruminant, et non dividunt ungulam, immunda erunt vobis.",
-      "french": "Mais vous ne devez point manger de ceux qui ruminent, et dont la corne n'est point fendue, comme du chameau, du lièvre, du porc-épi. Ces animaux vous seront impurs, parce qu'encore qu'ils ruminent, ils n'ont point la corne fendue.",
+      "french": "Mais vous ne devez point manger de ceux qui ruminent, et dont la corne n’est point fendue, comme du chameau, du lièvre, du porc-épi. Ces animaux vous seront impurs, parce qu’encore qu’ils ruminent, ils n’ont point la corne fendue.",
       "annotations": null,
       "source_pages": [
         "page_0205.json"
@@ -68,8 +68,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Sus quoque, quoniam dividit ungulam, et non ruminat, immunda erit ; carnibus corum non vescemini, et cadavera non tangetis.",
-      "french": "Le pourceau aussi vous sera impur, parce qu'encore qu'il ait la corne fendue, il ne rumine point. Vous ne mangerez point de la chair de ces animaux, et vous n'y toucherez point lorsqu'ils seront morts.",
+      "latin": "Sus quoque, quoniam dividit ungulam, et non ruminat, immunda erit ; carnibus corum non vescemini, et cadavera non tangetis.",
+      "french": "Le pourceau aussi vous sera impur, parce qu’encore qu’il ait la corne fendue, il ne rumine point. Vous ne mangerez point de la chair de ces animaux, et vous n’y toucherez point lorsqu’ils seront morts.",
       "annotations": null,
       "source_pages": [
         "page_0206.json"
@@ -87,7 +87,7 @@
     {
       "verse_number": 10,
       "latin": "Quæ absque pinnulis et squamis sunt, ne comedatis, quia immunda sunt.",
-      "french": "Vous ne mangerez point de ceux qui n'ont point de nageoires ni d'écailles, parce qu'ils sont impurs.",
+      "french": "Vous ne mangerez point de ceux qui n’ont point de nageoires ni d’écailles, parce qu’ils sont impurs.",
       "annotations": null,
       "source_pages": [
         "page_0206.json"
@@ -96,7 +96,7 @@
     {
       "verse_number": 11,
       "latin": "Omnes aves mundas comedite.",
-      "french": "Mangez de tous les oiseaux qui sont purs ;",
+      "french": "Mangez de tous les oiseaux qui sont purs ;",
       "annotations": null,
       "source_pages": [
         "page_0206.json"
@@ -105,7 +105,7 @@
     {
       "verse_number": 12,
       "latin": "Immundas ne comedatis : aquilam scilicet, et gryphem, et haliaeetum,",
-      "french": "Mais ne mangez point de ceux qui sont impurs, qui sont l'aigle, le griffon, l'aigle de mer,",
+      "french": "Mais ne mangez point de ceux qui sont impurs, qui sont l’aigle, le griffon, l’aigle de mer,",
       "annotations": null,
       "source_pages": [
         "page_0206.json"
@@ -114,7 +114,7 @@
     {
       "verse_number": 13,
       "latin": "Ixion, et vulturem, ac milvum, juxta genus suum :",
-      "french": "L'ixion, le vautour, et toutes les espèces de milan ;",
+      "french": "L’ixion, le vautour, et toutes les espèces de milan ;",
       "annotations": null,
       "source_pages": [
         "page_0207.json"
@@ -123,7 +123,7 @@
     {
       "verse_number": 14,
       "latin": "Et omne corvini generis,",
-      "french": "Les corbeaux, et tout ce qui est de la même espèce ;",
+      "french": "Les corbeaux, et tout ce qui est de la même espèce ;",
       "annotations": null,
       "source_pages": [
         "page_0207.json"
@@ -132,7 +132,7 @@
     {
       "verse_number": 15,
       "latin": "Et Struthionem, ac noctuam, et larum, atque accipitrem, juxta genus suum :",
-      "french": "L'autruche, la chouette, le larus avec l'épervier, et tout ce qui est de la même espèce ;",
+      "french": "L’autruche, la chouette, le larus avec l’épervier, et tout ce qui est de la même espèce ;",
       "annotations": null,
       "source_pages": [
         "page_0207.json"
@@ -141,7 +141,7 @@
     {
       "verse_number": 16,
       "latin": "Herodium, ac cygnum, et ibin.",
-      "french": "Le héron, le cygne, l'ibis,",
+      "french": "Le héron, le cygne, l’ibis,",
       "annotations": null,
       "source_pages": [
         "page_0207.json"
@@ -159,7 +159,7 @@
     {
       "verse_number": 18,
       "latin": "Onocrotalum, et charadrium, singula in genere suo, upupam quoque et vespertilionem.",
-      "french": "L'onocrotalus, et le charadrius, chacun selon son espèce, la hupe et la chauve-souris.",
+      "french": "L’onocrotalus, et le charadrius, chacun selon son espèce, la hupe et la chauve-souris.",
       "annotations": null,
       "source_pages": [
         "page_0207.json"
@@ -168,7 +168,7 @@
     {
       "verse_number": 19,
       "latin": "Et omne quod reptat et pennulas habet, immundum erit, et non comedetur.",
-      "french": "Tout ce qui rampe, et qui a des ailes, sera impur, et on n'en mangera point.",
+      "french": "Tout ce qui rampe, et qui a des ailes, sera impur, et on n’en mangera point.",
       "annotations": null,
       "source_pages": [
         "page_0208.json"
@@ -186,7 +186,7 @@
     {
       "verse_number": 21,
       "latin": "Quidquid autem morticinum est, ne vescamini ex eo. Peregrino, qui intra portas tuas est, da ut comedat, aut vende ei : quia populus sanctus Domini Dei tui es. Non coques hædum in lacte matris suæ.",
-      "french": "Ne mangez d'aucune bête qui sera morte d'elle-même ; mais donnez-la, ou vendez-la à l'étranger, qui est dans l'enceinte de vos murailles, afin qu'il en mange ; parce que pour vous, vous êtes le peuple saint du Seigneur votre Dieu. Vous ne cuirez point le chevreau dans le lait de sa mère.",
+      "french": "Ne mangez d’aucune bête qui sera morte d’elle-même ; mais donnez-la, ou vendez-la à l’étranger, qui est dans l’enceinte de vos murailles, afin qu’il en mange ; parce que pour vous, vous êtes le peuple saint du Seigneur votre Dieu. Vous ne cuirez point le chevreau dans le lait de sa mère.",
       "annotations": null,
       "source_pages": [
         "page_0208.json"
@@ -195,7 +195,7 @@
     {
       "verse_number": 22,
       "latin": "Decimam partem separabis de cunctis fructibus tuis, qui nascuntur in terra, per annos singulos,",
-      "french": "Vous mettrez à part chaque année, le dixième de tous vos fruits, qui naissent de la terre ;",
+      "french": "Vous mettrez à part chaque année, le dixième de tous vos fruits, qui naissent de la terre ;",
       "annotations": null,
       "source_pages": [
         "page_0209.json"
@@ -204,7 +204,7 @@
     {
       "verse_number": 23,
       "latin": "Et comedes in conspectu Domini Dei tui, in loco quem elegerit ut in eo nomen illius invocetur, decimam frumenti tui, et vini, et olei, et primogenita de armentis et ovibus tuis : ut discas timere Dominum Deum tuum omni tempore.",
-      "french": "Et vous mangerez, en la présence du Seigneur votre Dieu, au lieu qu'il aura choisi afin que son nom y soit invoqué, la dixième de votre froment, de votre vin, et de votre huile, et les premiers-nés de vos bœufs et de vos brebis ; afin que vous appreniez à craindre le Seigneur votre Dieu en tout temps.",
+      "french": "Et vous mangerez, en la présence du Seigneur votre Dieu, au lieu qu’il aura choisi afin que son nom y soit invoqué, la dixième de votre froment, de votre vin, et de votre huile, et les premiers-nés de vos bœufs et de vos brebis ; afin que vous appreniez à craindre le Seigneur votre Dieu en tout temps.",
       "annotations": null,
       "source_pages": [
         "page_0209.json"
@@ -213,7 +213,7 @@
     {
       "verse_number": 24,
       "latin": "Cum autem longior fuerit via, et locus quem elegerit Dominus Deus tuus, tibique benedixerit, nec potueris ad eum hæc cuncta portare,",
-      "french": "Mais lorsque vous aurez un trop long chemin à faire, jusqu'au lieu que le Seigneur votre Dieu aura choisi, et que le Seigneur votre Dieu vous ayant béni, vous ne pourrez lui apporter toutes ces dîmes,",
+      "french": "Mais lorsque vous aurez un trop long chemin à faire, jusqu’au lieu que le Seigneur votre Dieu aura choisi, et que le Seigneur votre Dieu vous ayant béni, vous ne pourrez lui apporter toutes ces dîmes,",
       "annotations": null,
       "source_pages": [
         "page_0209.json"
@@ -222,7 +222,7 @@
     {
       "verse_number": 25,
       "latin": "Vendes omnia, et in pretium rediges, portabisque manu tua, et proficisceris ad locum quem elegerit Dominus Deus tuus :",
-      "french": "Vous vendrez le tout, et vous en apporterez l'argent, au lieu que le Seigneur votre Dieu aura choisi ;",
+      "french": "Vous vendrez le tout, et vous en apporterez l’argent, au lieu que le Seigneur votre Dieu aura choisi ;",
       "annotations": null,
       "source_pages": [
         "page_0209.json"
@@ -231,7 +231,7 @@
     {
       "verse_number": 26,
       "latin": "Et emes ex eadem pecunia quidquid tibi placuerit, sive ex armentis, sive ex ovibus, vinum quoque et siceram, et omne quod desiderat anima tua : et comedes coram Domino Deo tuo, et epulaberis, tu et domus tua,",
-      "french": "Et vous acheterez de cet argent tout ce que vous voudrez, soit des bœufs, soit des brebis, du vin, ou d'autres liqueurs ; et vous en mangerez devant le Seigneur votre Dieu, vous réjouissant, vous et votre famille ;",
+      "french": "Et vous acheterez de cet argent tout ce que vous voudrez, soit des bœufs, soit des brebis, du vin, ou d’autres liqueurs ; et vous en mangerez devant le Seigneur votre Dieu, vous réjouissant, vous et votre famille ;",
       "annotations": null,
       "source_pages": [
         "page_0210.json"
@@ -240,7 +240,7 @@
     {
       "verse_number": 27,
       "latin": "Et Levitæ qui intra portas tuas est : cave ne derelinquas eum, quia non habet aliam partem in possessione tua.",
-      "french": "Avec le Lévite qui est dans l'enceinte de vos murailles : prenez bien garde de ne le pas abandonner, parce qu'il n'a point d'autre part dans la terre que vous possédez.",
+      "french": "Avec le Lévite qui est dans l’enceinte de vos murailles : prenez bien garde de ne le pas abandonner, parce qu’il n’a point d’autre part dans la terre que vous possédez.",
       "annotations": null,
       "source_pages": [
         "page_0210.json"
@@ -249,7 +249,7 @@
     {
       "verse_number": 28,
       "latin": "Anno tertio separabis aliam decimam ex omnibus quæ nascuntur tibi eo tempore, et repones intra januas tuas.",
-      "french": "Tous les trois ans vous séparerez encore une autre dîme, de tout le revenu de cette année-là, et vous le mettrez en réserve dans vos maisons ;",
+      "french": "Tous les trois ans vous séparerez encore une autre dîme, de tout le revenu de cette année-là, et vous le mettrez en réserve dans vos maisons ;",
       "annotations": null,
       "source_pages": [
         "page_0210.json"
@@ -258,7 +258,7 @@
     {
       "verse_number": 29,
       "latin": "Venietque Levites qui aliam non habet partem nec possessionem tecum, et peregrinus, ac pupillus, et vidua, qui intra portas tuas sunt, et comedent et saturabuntur : ut benedicat tibi Dominus Deus tuus, in cunctis operibus manuum tuarum, quæ feceris.",
-      "french": "Et le Lévite qui n'a point d'autre part dans la terre que vous possédez ; l'étranger, l'orphelin, et la veuve qui sont dans vos villes, viendront en manger et se rassasier, afin que le Seigneur votre Dieu vous bénisse, dans tout le travail que vous ferez de vos mains.",
+      "french": "Et le Lévite qui n’a point d’autre part dans la terre que vous possédez ; l’étranger, l’orphelin, et la veuve qui sont dans vos villes, viendront en manger et se rassasier, afin que le Seigneur votre Dieu vous bénisse, dans tout le travail que vous ferez de vos mains.",
       "annotations": null,
       "source_pages": [
         "page_0210.json"

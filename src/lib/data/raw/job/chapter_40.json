@@ -1,13 +1,13 @@
 {
   "book": "Job",
   "chapter": 40,
-  "chapter_summary": "Dieu continue à faire connaître à Job sa sagesse, et sa puissance infinie. Description de l'éléphant, et du crocodile.",
+  "chapter_summary": "Dieu continue à faire connaître à Job sa sagesse, et sa puissance infinie. Description de l’éléphant, et du crocodile.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Respondens autem Dominus Job de turbine, dixit:",
-      "french": "Le Seigneur parlant à Job du milieu d'un tourbillon, lui dit:",
+      "latin": "Respondens autem Dominus Job de turbine, dixit :",
+      "french": "Le Seigneur parlant à Job du milieu d’un tourbillon, lui dit :",
       "annotations": null,
       "source_pages": [
         "page_0477.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Accinge sicut vir lumbos tuos; interrogabo te, et indica mihi.",
-      "french": "Ceignez vos reins, comme un homme ferme; je vous interrogerai, et répondez-moi.",
+      "latin": "Accinge sicut vir lumbos tuos ; interrogabo te, et indica mihi.",
+      "french": "Ceignez vos reins, comme un homme ferme ; je vous interrogerai, et répondez-moi.",
       "annotations": null,
       "source_pages": [
         "page_0477.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Numquid irritum facies judicium meum, et condemnabis me, ut tu justificeris?",
-      "french": "Est-ce que vous prétendez détruire l'équité de mes Jugements, et me condamner moi-même pour vous justifier ?",
+      "latin": "Numquid irritum facies judicium meum, et condemnabis me, ut tu justificeris ?",
+      "french": "Est-ce que vous prétendez détruire l’équité de mes Jugements, et me condamner moi-même pour vous justifier ?",
       "annotations": null,
       "source_pages": [
         "page_0477.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Et si habes brachium sicut Deus, et si voce simili tonas?",
-      "french": "Avez-vous comme Dieu un bras tout-puissant, et votre voix tonne-t-elle comme la sienne ?",
+      "latin": "Et si habes brachium sicut Deus, et si voce simili tonas ?",
+      "french": "Avez-vous comme Dieu un bras tout-puissant, et votre voix tonne-t-elle comme la sienne ?",
       "annotations": null,
       "source_pages": [
         "page_0477.json"
@@ -43,7 +43,7 @@
     {
       "verse_number": 5,
       "latin": "Circumda tibi decorem, et in sublime erigere, et esto gloriosus, et speciosis induere vestibus.",
-      "french": "Revêtez-vous d'éclat et de beauté; montez sur un trône sublime, soyez plein de gloire, et parez-vous de vêtements les plus magnifiques.",
+      "french": "Revêtez-vous d’éclat et de beauté ; montez sur un trône sublime, soyez plein de gloire, et parez-vous de vêtements les plus magnifiques.",
       "annotations": null,
       "source_pages": [
         "page_0477.json"
@@ -61,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "Respice cunctos superbos, et confunde eos, et contere impios in loco suo.",
-      "french": "Jetez les yeux sur tous les orgueilleux, et confondez-les ; brisez et foulez aux pieds les impies, dans le lieu même où ils s’élèvent.",
+      "french": "Jetez les yeux sur tous les orgueilleux, et confondez-les ; brisez et foulez aux pieds les impies, dans le lieu même où ils s’élèvent.",
       "annotations": null,
       "source_pages": [
         "page_0478.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Absconde eos in pulvere simul, et facies eorum demerge in foveam:",
-      "french": "Cachez-les tous ensemble dans la poussière ; ensevelissez leurs visages, et les jetez au fond de la terre.",
+      "latin": "Absconde eos in pulvere simul, et facies eorum demerge in foveam :",
+      "french": "Cachez-les tous ensemble dans la poussière ; ensevelissez leurs visages, et les jetez au fond de la terre.",
       "annotations": null,
       "source_pages": [
         "page_0478.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Ecce, Behemoth, quem feci tecum; fœnum quasi bos comedet.",
-      "french": "Considérez Béhémoth, que j'ai créé avec vous ; il mangera le foin comme un bœuf.",
+      "latin": "Ecce, Behemoth, quem feci tecum ; fœnum quasi bos comedet.",
+      "french": "Considérez Béhémoth, que j’ai créé avec vous ; il mangera le foin comme un bœuf.",
       "annotations": null,
       "source_pages": [
         "page_0479.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Stringit caudam suam, quasi cedrum, nervi testiculorum ejus perplexi sunt.",
-      "french": "Sa queue se raidit comme un cèdre, les nerfs de cette partie qui sert à la conservation de l'espèce, sont entrelacés l'un dans l'autre.",
+      "french": "Sa queue se raidit comme un cèdre, les nerfs de cette partie qui sert à la conservation de l’espèce, sont entrelacés l’un dans l’autre.",
       "annotations": null,
       "source_pages": [
         "page_0481.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Ossa ejus velut fistulæ æris, cartilago illius quasi laminæ ferreæ.",
-      "french": "Ses os sont comme des tuyaux d'airain, ses cartilages sont comme des lames de fer.",
+      "french": "Ses os sont comme des tuyaux d’airain, ses cartilages sont comme des lames de fer.",
       "annotations": null,
       "source_pages": [
         "page_0481.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Ipse est principium viarum Dei; qui fecit eum, applicabit gladium ejus.",
-      "french": "Il est le commencement des voies de Dieu ; celui qui l'a fait, appliquera et conduira son épée.",
+      "latin": "Ipse est principium viarum Dei ; qui fecit eum, applicabit gladium ejus.",
+      "french": "Il est le commencement des voies de Dieu ; celui qui l’a fait, appliquera et conduira son épée.",
       "annotations": null,
       "source_pages": [
         "page_0481.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Huic montes herbas ferunt : omnes bestiæ agri ludent ibi.",
-      "french": "Les montagnes lui produisent des herbages ; c’est là que toutes les bêtes des champs viendront se jouer.",
+      "latin": "Huic montes herbas ferunt : omnes bestiæ agri ludent ibi.",
+      "french": "Les montagnes lui produisent des herbages ; c’est là que toutes les bêtes des champs viendront se jouer.",
       "annotations": null,
       "source_pages": [
         "page_0482.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Sub umbra dormit, in secreto calami, et in locis humentibus.",
-      "french": "Il dort à l'ombre, dans le frais des roseaux, et dans les lieux humides.",
+      "french": "Il dort à l’ombre, dans le frais des roseaux, et dans les lieux humides.",
       "annotations": null,
       "source_pages": [
         "page_0483.json"
@@ -151,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Protegunt umbra umbram ejus, circumdabunt eum salices torrentis.",
-      "french": "Les ombres couvrent son ombre ; les saules du torrent l'environnent.",
+      "french": "Les ombres couvrent son ombre ; les saules du torrent l’environnent.",
       "annotations": null,
       "source_pages": [
         "page_0483.json"
@@ -159,8 +159,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "Ecce, absorbebit fluvium, et non mirabitur: et habet fiduciam quod influat Jordanis in os ejus.",
-      "french": "Il absorbera un fleuve, sans s'étonner; il se promet même que le Jourdain viendra s'écouler dans sa gueule.",
+      "latin": "Ecce, absorbebit fluvium, et non mirabitur : et habet fiduciam quod influat Jordanis in os ejus.",
+      "french": "Il absorbera un fleuve, sans s’étonner ; il se promet même que le Jourdain viendra s’écouler dans sa gueule.",
       "annotations": null,
       "source_pages": [
         "page_0484.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "In oculis ejus quasi hamo capiet eum, et insudibus perforabit nares ejus.",
-      "french": "On le prendra par les yeux comme un poisson se prend à l'hameçon, et on lui percera les narines avec des pieux.",
+      "french": "On le prendra par les yeux comme un poisson se prend à l’hameçon, et on lui percera les narines avec des pieux.",
       "annotations": null,
       "source_pages": [
         "page_0484.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "An extrahere poteris Leviathan hamo, et fune ligabis linguam ejus?",
-      "french": "Pourrez-vous enlever le Léviathan avec l'hameçon, et lui lier la langue avec une corde?",
+      "latin": "An extrahere poteris Leviathan hamo, et fune ligabis linguam ejus ?",
+      "french": "Pourrez-vous enlever le Léviathan avec l’hameçon, et lui lier la langue avec une corde ?",
       "annotations": null,
       "source_pages": [
         "page_0486.json"
@@ -186,8 +186,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Numquid pones circulum in naribus ejus, aut armillâ perforabis maxillam ejus ?",
-      "french": "Lui mettrez-vous un cercle au nez, et lui percerez-vous la mâchoire avec un anneau ?",
+      "latin": "Numquid pones circulum in naribus ejus, aut armillâ perforabis maxillam ejus ?",
+      "french": "Lui mettrez-vous un cercle au nez, et lui percerez-vous la mâchoire avec un anneau ?",
       "annotations": null,
       "source_pages": [
         "page_0488.json"
@@ -195,8 +195,8 @@
     },
     {
       "verse_number": 22,
-      "latin": "Numquid multiplicabit ad te preces, aut loquetur tibi mollia ?",
-      "french": "Le réduirez-vous à vous faire d’instantes prières, et à vous dire des paroles flatteuses ?",
+      "latin": "Numquid multiplicabit ad te preces, aut loquetur tibi mollia ?",
+      "french": "Le réduirez-vous à vous faire d’instantes prières, et à vous dire des paroles flatteuses ?",
       "annotations": null,
       "source_pages": [
         "page_0488.json"
@@ -204,8 +204,8 @@
     },
     {
       "verse_number": 23,
-      "latin": "Numquid feriet tecum pactum, et accipies eum servum sempiternum ?",
-      "french": "Fera-t-il un pacte avec vous, et se donnera-t-il à vous, pour être votre esclave pour toujours ?",
+      "latin": "Numquid feriet tecum pactum, et accipies eum servum sempiternum ?",
+      "french": "Fera-t-il un pacte avec vous, et se donnera-t-il à vous, pour être votre esclave pour toujours ?",
       "annotations": null,
       "source_pages": [
         "page_0488.json"
@@ -213,8 +213,8 @@
     },
     {
       "verse_number": 24,
-      "latin": "Numquid illudes ei quasi avi, aut ligabis eum ancillis tuis ?",
-      "french": "Vous jouerez-vous de lui, comme d’un oiseau, et le lierez-vous, pour servir de jouet à vos servantes ?",
+      "latin": "Numquid illudes ei quasi avi, aut ligabis eum ancillis tuis ?",
+      "french": "Vous jouerez-vous de lui, comme d’un oiseau, et le lierez-vous, pour servir de jouet à vos servantes ?",
       "annotations": null,
       "source_pages": [
         "page_0488.json"
@@ -222,8 +222,8 @@
     },
     {
       "verse_number": 25,
-      "latin": "Consident eum amici, divident il-lum negotiatores?",
-      "french": "Vos amis le couperont-ils par pièces, et ceux qui trafiquent le diviseront-ils par morceaux?",
+      "latin": "Consident eum amici, divident il-lum negotiatores ?",
+      "french": "Vos amis le couperont-ils par pièces, et ceux qui trafiquent le diviseront-ils par morceaux ?",
       "annotations": null,
       "source_pages": [
         "page_0489.json"
@@ -232,7 +232,7 @@
     {
       "verse_number": 26,
       "latin": "Numquid implebis sagenas pelle ejus, et gurgustium piscium capite il-lius.",
-      "french": "Remplirez-vous de sa peau les filets des pêcheurs, et de sa tête le réservoir des poissons?",
+      "french": "Remplirez-vous de sa peau les filets des pêcheurs, et de sa tête le réservoir des poissons ?",
       "annotations": null,
       "source_pages": [
         "page_0489.json"
@@ -240,8 +240,8 @@
     },
     {
       "verse_number": 27,
-      "latin": "Pone super eum manum tuam ; memento belli, nec ultra addas loqui.",
-      "french": "Mettez la main sur lui ; souvenez-vous de la guerre, et ne parlez plus.",
+      "latin": "Pone super eum manum tuam ; memento belli, nec ultra addas loqui.",
+      "french": "Mettez la main sur lui ; souvenez-vous de la guerre, et ne parlez plus.",
       "annotations": null,
       "source_pages": [
         "page_0490.json"

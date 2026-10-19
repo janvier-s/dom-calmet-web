@@ -1,13 +1,13 @@
 {
   "book": "Deutéronome",
   "chapter": 8,
-  "chapter_summary": "Récit des bienfaits de Dieu envers les Israélites, pendant les quarante ans de leur voyage dans le désert. Menace de les perdre entièrement, s'ils oublient toutes ses bontés, et s'ils désobéissent à sa Loi.",
+  "chapter_summary": "Récit des bienfaits de Dieu envers les Israélites, pendant les quarante ans de leur voyage dans le désert. Menace de les perdre entièrement, s’ils oublient toutes ses bontés, et s’ils désobéissent à sa Loi.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Omne mandatum, quod ego præcipio tibi hodie, cave diligenter ut facias: ut possitis vivere, et multiplicemini, ingressique possideatis terram, pro qua juravit Dominus patribus vestris.",
-      "french": "Prenez bien garde d'observer avec grand soin tous les préceptes que je vous prescris aujourd'hui ; afin que vous puissiez vivre, que vous vous multipliez de plus en plus, et que vous possédiez le pays où vous allez entrer, que le Seigneur a promis à vos pères avec serment.",
+      "latin": "Omne mandatum, quod ego præcipio tibi hodie, cave diligenter ut facias : ut possitis vivere, et multiplicemini, ingressique possideatis terram, pro qua juravit Dominus patribus vestris.",
+      "french": "Prenez bien garde d’observer avec grand soin tous les préceptes que je vous prescris aujourd’hui ; afin que vous puissiez vivre, que vous vous multipliez de plus en plus, et que vous possédiez le pays où vous allez entrer, que le Seigneur a promis à vos pères avec serment.",
       "annotations": null,
       "source_pages": [
         "page_0143.json"
@@ -16,7 +16,7 @@
     {
       "verse_number": 2,
       "latin": "Et recordaberis cuncti itineris, per quod adduxit te Dominus Deus tuus quadraginta annis per desertum, ut affligeret te atque tentaret, et nota fierent quæ in tuo animo versabantur, utrum custodires mandata illius, an non.",
-      "french": "Vous vous souviendrez de tout le chemin par où le Seigneur votre Dieu vous a conduit dans le désert pendant quarante ans, pour vous punir et vous éprouver ; afin que ce qui était caché dans votre cœur, fût découvert, et que l'on connût si vous seriez fidèle ou infidèle à observer ses commandements.",
+      "french": "Vous vous souviendrez de tout le chemin par où le Seigneur votre Dieu vous a conduit dans le désert pendant quarante ans, pour vous punir et vous éprouver ; afin que ce qui était caché dans votre cœur, fût découvert, et que l’on connût si vous seriez fidèle ou infidèle à observer ses commandements.",
       "annotations": null,
       "source_pages": [
         "page_0143.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Afflixit te penuria, et dedit tibi cibum manna, quod ignorabas tu et patres tui: ut ostenderet tibi quod non in solo pane vivat homo, sed in omni verbo quod egreditur de ore Dei.",
-      "french": "Il vous a affligé par la faim, et il vous a donné pour nourriture la manne, qui était inconnue à vous et à vos pères, pour vous faire voir que l'homme ne vit pas seulement de pain, mais de toute parole qui sort de la bouche de Dieu.",
+      "latin": "Afflixit te penuria, et dedit tibi cibum manna, quod ignorabas tu et patres tui : ut ostenderet tibi quod non in solo pane vivat homo, sed in omni verbo quod egreditur de ore Dei.",
+      "french": "Il vous a affligé par la faim, et il vous a donné pour nourriture la manne, qui était inconnue à vous et à vos pères, pour vous faire voir que l’homme ne vit pas seulement de pain, mais de toute parole qui sort de la bouche de Dieu.",
       "annotations": null,
       "source_pages": [
         "page_0144.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Vestimentum tuum quo operiebaris, nequaquam vetustate defecit, et pes tuus non est subtritus, en quadragesimus annus est.",
-      "french": "Voici la quarantième année que vous êtes en chemin, et cependant les habits dont vous étiez couverts ne se sont point rompus par la longueur de ce temps, et vos pieds n'ont point été foulés.",
+      "french": "Voici la quarantième année que vous êtes en chemin, et cependant les habits dont vous étiez couverts ne se sont point rompus par la longueur de ce temps, et vos pieds n’ont point été foulés.",
       "annotations": null,
       "source_pages": [
         "page_0145.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Dominus enim Deus tuus introducet te in terram bonam, terram rivorum, aquarumque et fontium ; in cujus campis et montibus erumpunt fluviorum abyssi:",
-      "french": "Car le Seigneur votre Dieu est prêt de vous faire entrer dans un excellent pays, dans une terre pleine de ruisseaux, d'étangs, et de fontaines, où les sources des fleuves sortent des plaines et des montagnes ;",
+      "latin": "Dominus enim Deus tuus introducet te in terram bonam, terram rivorum, aquarumque et fontium ; in cujus campis et montibus erumpunt fluviorum abyssi :",
+      "french": "Car le Seigneur votre Dieu est prêt de vous faire entrer dans un excellent pays, dans une terre pleine de ruisseaux, d’étangs, et de fontaines, où les sources des fleuves sortent des plaines et des montagnes ;",
       "annotations": null,
       "source_pages": [
         "page_0147.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Terræ frumenti, hordei, ac vinearum, in qua ficus, et malogranata, et oliveta nascuntur: terram olei ac mellis ;",
-      "french": "Dans une terre qui produit du froment, de l'orge et des vignes, où naissent les figuiers, les grenadiers, les oliviers ; dans une terre abondante en huile et en miel ;",
+      "latin": "Terræ frumenti, hordei, ac vinearum, in qua ficus, et malogranata, et oliveta nascuntur : terram olei ac mellis ;",
+      "french": "Dans une terre qui produit du froment, de l’orge et des vignes, où naissent les figuiers, les grenadiers, les oliviers ; dans une terre abondante en huile et en miel ;",
       "annotations": null,
       "source_pages": [
         "page_0148.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Ubi absque ulla penuria comedes panem tuum, et rerum omnium abundantia perfrueris: cujus lapides ferrum sunt, et de montibus ejus aeris metalla fodiuntur:",
-      "french": "Où vous aurez de quoi manger, sans que vous en manquiez jamais ; où vous serez dans une abondance de toutes choses, dont les pierres sont du fer, et dont les montagnes sont pleines d'airain ;",
+      "latin": "Ubi absque ulla penuria comedes panem tuum, et rerum omnium abundantia perfrueris : cujus lapides ferrum sunt, et de montibus ejus aeris metalla fodiuntur :",
+      "french": "Où vous aurez de quoi manger, sans que vous en manquiez jamais ; où vous serez dans une abondance de toutes choses, dont les pierres sont du fer, et dont les montagnes sont pleines d’airain ;",
       "annotations": null,
       "source_pages": [
         "page_0148.json"
@@ -88,7 +88,7 @@
     {
       "verse_number": 10,
       "latin": "Ut cum comederis, et satiatus fueris, benedicas Domino Deo tuo pro terra optima, quam dedit tibi.",
-      "french": "Afin qu'après avoir mangé, et vous être rassasiés, vous bénissiez le Seigneur votre Dieu, qui vous aura donné une si excellente terre.",
+      "french": "Afin qu’après avoir mangé, et vous être rassasiés, vous bénissiez le Seigneur votre Dieu, qui vous aura donné une si excellente terre.",
       "annotations": null,
       "source_pages": [
         "page_0149.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Observa, et cave nequando obliviscaris Domini Dei tui, et negligas mandata ejus atque judicia, et cæremonias quas ego præcipio tibi hodie:",
-      "french": "Prenez garde avec grand soin de n'oublier jamais le Seigneur votre Dieu, et de ne point négliger ses préceptes, ses lois, et ses cérémonies, que je vous prescris aujourd'hui ;",
+      "latin": "Observa, et cave nequando obliviscaris Domini Dei tui, et negligas mandata ejus atque judicia, et cæremonias quas ego præcipio tibi hodie :",
+      "french": "Prenez garde avec grand soin de n’oublier jamais le Seigneur votre Dieu, et de ne point négliger ses préceptes, ses lois, et ses cérémonies, que je vous prescris aujourd’hui ;",
       "annotations": null,
       "source_pages": [
         "page_0149.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Ne postquam comederis, et satiatus fueris, domos pulchras ædificaveris, et habitaveris in eis,",
-      "french": "De peur qu'après que vous aurez mangé, et que vous vous serez rassasiés, que vous aurez bâti de belles maisons, et que vous vous y serez établis,",
+      "french": "De peur qu’après que vous aurez mangé, et que vous vous serez rassasiés, que vous aurez bâti de belles maisons, et que vous vous y serez établis,",
       "annotations": null,
       "source_pages": [
         "page_0150.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Habuerisque armenta boum, et ovium greges, argenti et auri, cunctarumque rerum copiam,",
-      "french": "Que vous aurez eu des troupeaux de bœufs, et des troupeaux de brebis, et une abondance d'or, et d'argent, et de toutes choses,",
+      "french": "Que vous aurez eu des troupeaux de bœufs, et des troupeaux de brebis, et une abondance d’or, et d’argent, et de toutes choses,",
       "annotations": null,
       "source_pages": [
         "page_0150.json"
@@ -124,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Elevetur cor tuum, et non reminiscaris Domini Dei tui, qui eduxit te de terra Ægypti, de domo servitutis,",
-      "french": "Votre cœur ne s'élève, et que vous ne vous souveniez plus du Seigneur votre Dieu, qui vous a tirés du pays d'Égypte, de ce séjour de servitude ;",
+      "french": "Votre cœur ne s’élève, et que vous ne vous souveniez plus du Seigneur votre Dieu, qui vous a tirés du pays d’Égypte, de ce séjour de servitude ;",
       "annotations": null,
       "source_pages": [
         "page_0150.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Et ductor tuus fuit in solitudine magna atque terribili, in qua erat serpens flatus adurens, et scorpio, ac dipsas, et nulla omnino aqua: qui eduxit rivos de petra durissima,",
-      "french": "Qui a été votre conducteur dans ce vaste et affreux désert, où il y avait des serpents qui brûlaient par leur souffle, des scorpions, et des dipsades, et dans des lieux où il n'y avait point d'eau, il en a fait sortir des plus durs rochers ;",
+      "latin": "Et ductor tuus fuit in solitudine magna atque terribili, in qua erat serpens flatus adurens, et scorpio, ac dipsas, et nulla omnino aqua : qui eduxit rivos de petra durissima,",
+      "french": "Qui a été votre conducteur dans ce vaste et affreux désert, où il y avait des serpents qui brûlaient par leur souffle, des scorpions, et des dipsades, et dans des lieux où il n’y avait point d’eau, il en a fait sortir des plus durs rochers ;",
       "annotations": null,
       "source_pages": [
         "page_0150.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Et cibavit te manna in solitudine, quod nescierunt patres tui. Et postquam afflixit ac probavit, ad extremum misertus est tui,",
-      "french": "Qui vous a nourris dans cette solitude de la manne inconnue à vos pères, et qui après vous avoir punis, et vous avoir éprouvés, a eu enfin pitié de vous ;",
+      "french": "Qui vous a nourris dans cette solitude de la manne inconnue à vos pères, et qui après vous avoir punis, et vous avoir éprouvés, a eu enfin pitié de vous ;",
       "annotations": null,
       "source_pages": [
         "page_0151.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Ne diceres in corde tuo: Fortitudo mea et robur manus meæ, hæc mihi omnia præsterunt?",
-      "french": "Afin que vous ne disiez point dans votre cœur : C'est ma propre puissance et la force de mon bras, qui m'ont procuré toutes ces choses.",
+      "latin": "Ne diceres in corde tuo : Fortitudo mea et robur manus meæ, hæc mihi omnia præsterunt ?",
+      "french": "Afin que vous ne disiez point dans votre cœur : C’est ma propre puissance et la force de mon bras, qui m’ont procuré toutes ces choses.",
       "annotations": null,
       "source_pages": [
         "page_0152.json"
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Sed recorderis Domini Dei tui, quod ipse vires tibi præbuerit, ut impleret pactum suum, super quo juravit patribus tuis, sicut præsens indicat dies.",
-      "french": "Mais que vous vous souveniez que c'est le Seigneur votre Dieu, qui vous a rempli de force, afin qu'il accomplît l'alliance qu'il a jurée avec vos pères, comme il paraît par ce que vous voyez aujourd'hui.",
+      "french": "Mais que vous vous souveniez que c’est le Seigneur votre Dieu, qui vous a rempli de force, afin qu’il accomplît l’alliance qu’il a jurée avec vos pères, comme il paraît par ce que vous voyez aujourd’hui.",
       "annotations": null,
       "source_pages": [
         "page_0152.json"
@@ -168,7 +168,7 @@
     },
     {
       "verse_number": 19,
-      "latin": "Sin autem oblitus Domini Dei tui, secutus fueris deos alienos, coluerisque illos et adoraveris: ecce nunc prædico tibi, quod omnino di pereas.",
+      "latin": "Sin autem oblitus Domini Dei tui, secutus fueris deos alienos, coluerisque illos et adoraveris : ecce nunc prædico tibi, quod omnino di pereas.",
       "french": "Que si oubliant le Seigneur votre Dieu, vous suivez des Dieux étrangers, et que vous les serviez et les adoriez, je vous prédis dès maintenant que vous serez tout à fait détruits.",
       "annotations": null,
       "source_pages": [

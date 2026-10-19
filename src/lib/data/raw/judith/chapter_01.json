@@ -1,13 +1,13 @@
 {
   "book": "Judith",
   "chapter": 1,
-  "chapter_summary": "Ecbatane bâtie par Arphaxad ; ce Prince est vaincu par Nabuchodonosor, qui veut ensuite étendre sa domination sur les autres peuples des environs.",
+  "chapter_summary": "Ecbatane bâtie par Arphaxad ; ce Prince est vaincu par Nabuchodonosor, qui veut ensuite étendre sa domination sur les autres peuples des environs.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Arphaxad itaque, Rex Medorum, subjugaverat multas Gentes imperio suo, et ipse ædificavit civitatem potentissimam, quam appellavit Ecbatana,",
-      "french": "Arphaxad Roi des Mèdes, ayant assujetti à son Empire un grand nombre de Nations, bâtit une ville très forte, qu'il appela Ecbatane.",
+      "french": "Arphaxad Roi des Mèdes, ayant assujetti à son Empire un grand nombre de Nations, bâtit une ville très forte, qu’il appela Ecbatane.",
       "annotations": null,
       "source_pages": [
         "page_0035.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Ex lapidibus quadratis, et sectis. Fecit muros ejus in latitudinem cubitorum septuaginta, et in altitudinem cubitorum triginta ; turres verò ejus posuit in altitudinem cubitorum centum.",
-      "french": "Il y fit faire des murailles de pierres de taille, de soixante-dix coudées de large, et de trente coudées de haut ; et des tours, qui avaient cent coudées de hauteur.",
+      "latin": "Ex lapidibus quadratis, et sectis. Fecit muros ejus in latitudinem cubitorum septuaginta, et in altitudinem cubitorum triginta ; turres verò ejus posuit in altitudinem cubitorum centum.",
+      "french": "Il y fit faire des murailles de pierres de taille, de soixante-dix coudées de large, et de trente coudées de haut ; et des tours, qui avaient cent coudées de hauteur.",
       "annotations": null,
       "source_pages": [
         "page_0038.json"
@@ -25,7 +25,7 @@
     {
       "verse_number": 3,
       "latin": "Per quadrum verò earum, latus utrumque vicenorum pedum spatio tendebatur, posuitque portas ejus in altitudinem turrium.",
-      "french": "Les tours étaient carrées ; chaque côté de la tour avait vingt pieds de largeur ; et il fit faire les portes de la ville de même hauteur que les tours.",
+      "french": "Les tours étaient carrées ; chaque côté de la tour avait vingt pieds de largeur ; et il fit faire les portes de la ville de même hauteur que les tours.",
       "annotations": null,
       "source_pages": [
         "page_0039.json"
@@ -52,7 +52,7 @@
     {
       "verse_number": 6,
       "latin": "In campo magno, qui appellatur Ragau, circa Euphraten, et Tigrin, et Jadason, in campo Erioch, Regis Elicorum.",
-      "french": "Dans la grande plaine de Ragau, près de l'Euphrate, du Tigre, et de Jadason, dans la campagne d'Erioch, Roi des Eliciens.",
+      "french": "Dans la grande plaine de Ragau, près de l’Euphrate, du Tigre, et de Jadason, dans la campagne d’Erioch, Roi des Eliciens.",
       "annotations": "An du m. 3347.",
       "source_pages": [
         "page_0040.json"
@@ -60,7 +60,7 @@
     },
     {
       "verse_number": 7,
-      "latin": "Tunc exaltatum est Regnum Nabuchodonosor, et cor ejus elevatum est ; et misit ad omnes qui habitabant in Cilicia, et Damasco, et Libano.",
+      "latin": "Tunc exaltatum est Regnum Nabuchodonosor, et cor ejus elevatum est ; et misit ad omnes qui habitabant in Cilicia, et Damasco, et Libano.",
       "french": "Alors le règne de Nabuchodonosor devint florissant, son cœur s’en éleva, et il envoya à tous ceux qui habitaient en la Cilicie, à Damas, au mont Liban,",
       "annotations": "An du M. 3347.",
       "source_pages": [
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Et ad Gentes quæ sunt in Carmelo, et Cedar, et inhabitantes Galilæam, in campo magno Esdrelon:",
-      "french": "Et aux peuples qui sont dans le Carmel, en Cédar, et à ceux qui habitent dans la Galilée, et dans la grande campagne d'Esdrélon.",
+      "latin": "Et ad Gentes quæ sunt in Carmelo, et Cedar, et inhabitantes Galilæam, in campo magno Esdrelon :",
+      "french": "Et aux peuples qui sont dans le Carmel, en Cédar, et à ceux qui habitent dans la Galilée, et dans la grande campagne d’Esdrélon.",
       "annotations": "An du m. 3347.",
       "source_pages": [
         "page_0042.json"
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Et ad omnes qui erant in Samaria, et trans flumen Jordanem usque ad Jerusalem, et omnem terram Jesse, quousque perveniatur ad terminos Æthiopiæ.",
-      "french": "À tous ceux encore qui étaient en Samarie, et au-delà du fleuve du Jourdain jusqu'à Jérusalem, et dans toute la terre de Jessé, jusqu'aux confins de l'Éthiopie.",
+      "french": "À tous ceux encore qui étaient en Samarie, et au-delà du fleuve du Jourdain jusqu’à Jérusalem, et dans toute la terre de Jessé, jusqu’aux confins de l’Éthiopie.",
       "annotations": "An du M. 3347.",
       "source_pages": [
         "page_0043.json"
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "Qui omnes uno animo contradixerunt, et remiserunt eos vacuos, et sine honore abjecerunt.",
-      "french": "Qui tous d'un commun accord refusèrent ce qu'il demandait, renvoyèrent ceux qui étaient venus de sa part, sans qu'ils pussent rien obtenir, et les traitèrent avec mépris.",
+      "french": "Qui tous d’un commun accord refusèrent ce qu’il demandait, renvoyèrent ceux qui étaient venus de sa part, sans qu’ils pussent rien obtenir, et les traitèrent avec mépris.",
       "annotations": null,
       "source_pages": [
         "page_0043.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Tunc indignatus Nabuchodonosor Rex adversus omnem terram illam, juravit per thronum et regnum suum, quòd defenderet se de omnibus regionibus his.",
-      "french": "Alors le Roi Nabuchodonosor entra dans une grande indignation contre tous ces peuples, et il jura par son trône, et par son Royaume, qu'il se vengerait de toutes ces Nations.",
+      "french": "Alors le Roi Nabuchodonosor entra dans une grande indignation contre tous ces peuples, et il jura par son trône, et par son Royaume, qu’il se vengerait de toutes ces Nations.",
       "annotations": null,
       "source_pages": [
         "page_0044.json"

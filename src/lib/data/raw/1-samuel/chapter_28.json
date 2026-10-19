@@ -1,13 +1,13 @@
 {
   "book": "1 Samuel",
   "chapter": 28,
-  "chapter_summary": "Dernière guerre des Philistins contre Saül. David s'engage d'y accompagner le Roi de Geth. Saül consulte une Pythonisse ; qui évoque Samuël. Ce Prophète menace Saül d'une perte prochaine.",
+  "chapter_summary": "Dernière guerre des Philistins contre Saül. David s’engage d’y accompagner le Roi de Geth. Saül consulte une Pythonisse ; qui évoque Samuël. Ce Prophète menace Saül d’une perte prochaine.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Factum est autem in diebus illis, congregaverunt Philisthiim agmina sua, ut præpararentur ad bellum contra Israël : dixitque Achis ad David : Sciens nunc scito, quoniam mecum egredieris in castris tu, et viri tui.",
-      "french": "En ce temps-là les Philistins assemblèrent leurs troupes, et se préparèrent à combattre contre Israël. Alors Achis dit à David : Assurez-vous que je vous mènerai avec moi à la guerre, vous et vos gens.",
+      "latin": "Factum est autem in diebus illis, congregaverunt Philisthiim agmina sua, ut præpararentur ad bellum contra Israël : dixitque Achis ad David : Sciens nunc scito, quoniam mecum egredieris in castris tu, et viri tui.",
+      "french": "En ce temps-là les Philistins assemblèrent leurs troupes, et se préparèrent à combattre contre Israël. Alors Achis dit à David : Assurez-vous que je vous mènerai avec moi à la guerre, vous et vos gens.",
       "annotations": "An. du Monde 2949. avant J.C. 1055.",
       "source_pages": [
         "page_0425.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Dixitque David ad Achis : Nunc scies quæ facturus est servus tuus. Et ait Achis ad David : Et ego custodem capitis mei ponam te cunctis diebus.",
-      "french": "David lui répondit : Vous verrez maintenant ce que votre serviteur fera. Et moi, lui dit Achis, je vous confierai pour toujours la garde de ma personne.",
+      "latin": "Dixitque David ad Achis : Nunc scies quæ facturus est servus tuus. Et ait Achis ad David : Et ego custodem capitis mei ponam te cunctis diebus.",
+      "french": "David lui répondit : Vous verrez maintenant ce que votre serviteur fera. Et moi, lui dit Achis, je vous confierai pour toujours la garde de ma personne.",
       "annotations": "An. du Monde 2949.",
       "source_pages": [
         "page_0426.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Samuël autem mortuus est ; planxitque eum omnis Israël et sepelierunt eum in Ramatha urbe sua. Et Saül abstulit Magos et ariolos de terra.",
-      "french": "Or Samuël était mort ; tout Israël l’avait pleuré , et il avait été enterré dans la ville de Ramatha , lieu de sa naissance. Et Saül avait chassé les magiciens , et les devins de son Royaume.",
+      "latin": "Samuël autem mortuus est ; planxitque eum omnis Israël et sepelierunt eum in Ramatha urbe sua. Et Saül abstulit Magos et ariolos de terra.",
+      "french": "Or Samuël était mort ; tout Israël l’avait pleuré, et il avait été enterré dans la ville de Ramatha, lieu de sa naissance. Et Saül avait chassé les magiciens, et les devins de son Royaume.",
       "annotations": "An. du Monde 2942",
       "source_pages": [
         "page_0427.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Congregatique sunt Philisthiim , et venerunt , et castrametati sunt in Sunam : congregavit autem et Saül universum Israël , et venit in Gelboë.",
-      "french": "Les Philistins s’étant donc assemblés, vinrent se camper à Sunam. Saül de son côté assembla toutes les troupes d’Israël , et vint à Gelboë.",
+      "latin": "Congregatique sunt Philisthiim, et venerunt, et castrametati sunt in Sunam : congregavit autem et Saül universum Israël, et venit in Gelboë.",
+      "french": "Les Philistins s’étant donc assemblés, vinrent se camper à Sunam. Saül de son côté assembla toutes les troupes d’Israël, et vint à Gelboë.",
       "annotations": null,
       "source_pages": [
         "page_0427.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Et vidit Saül castra Philisthiim , et timuit , et expavit cor ejus nimis.",
-      "french": "Et ayant vu l’armée des Philistins , il fut frappé de frayeur , et la crainte le saisit jusqu’au fond du cœur.",
+      "latin": "Et vidit Saül castra Philisthiim, et timuit, et expavit cor ejus nimis.",
+      "french": "Et ayant vu l’armée des Philistins, il fut frappé de frayeur, et la crainte le saisit jusqu’au fond du cœur.",
       "annotations": null,
       "source_pages": [
         "page_0427.json"
@@ -52,7 +52,7 @@
     {
       "verse_number": 6,
       "latin": "Consuluítque Dominum, et non respondit ei, neque per somnia, neque per Sacerdotes, neque per Prophetas.",
-      "french": "Il consulta le Seigneur ; mais le Seigneur ne lui répondit ni par songes, ni par les Prêtres, ni par les Prophètes.",
+      "french": "Il consulta le Seigneur ; mais le Seigneur ne lui répondit ni par songes, ni par les Prêtres, ni par les Prophètes.",
       "annotations": "An. du Monde 2949.",
       "source_pages": [
         "page_0428.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Dixítque Saul servis suis : Quærite mihi mulierem habentem pythonem, et vadam ad eam, et sciscitabor per illam. Et dixerunt servi ejus ad eum : Est mulier pythonem habens in Endor.",
-      "french": "Alors il dit à ses Officiers : Cherchez-moi une femme qui ait un esprit de Python, afin que je l'aille trouver, et que je la consulte. Ses serviteurs lui dirent : Il y a à Endor une femme qui a un esprit de Python.",
+      "latin": "Dixítque Saul servis suis : Quærite mihi mulierem habentem pythonem, et vadam ad eam, et sciscitabor per illam. Et dixerunt servi ejus ad eum : Est mulier pythonem habens in Endor.",
+      "french": "Alors il dit à ses Officiers : Cherchez-moi une femme qui ait un esprit de Python, afin que je l’aille trouver, et que je la consulte. Ses serviteurs lui dirent : Il y a à Endor une femme qui a un esprit de Python.",
       "annotations": null,
       "source_pages": [
         "page_0428.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Mutavit ergo habitum suum, vestitusque est aliis vestimentis, et abiit ipse, et duo viri cum eo, veneruntque ad mulierem nocte, et ait illi: Divina mihi in pythone, et suscita mihi quem dixero tibi.",
-      "french": "Saül se déguisa donc, changea d'habits, et s'en alla, accompagné de deux hommes seulement. Il vint la nuit chez cette femme, et lui dit : Consultez pour moi l'esprit de Python, et évoquez-moi celui que je vous dirai.",
+      "latin": "Mutavit ergo habitum suum, vestitusque est aliis vestimentis, et abiit ipse, et duo viri cum eo, veneruntque ad mulierem nocte, et ait illi : Divina mihi in pythone, et suscita mihi quem dixero tibi.",
+      "french": "Saül se déguisa donc, changea d’habits, et s’en alla, accompagné de deux hommes seulement. Il vint la nuit chez cette femme, et lui dit : Consultez pour moi l’esprit de Python, et évoquez-moi celui que je vous dirai.",
       "annotations": null,
       "source_pages": [
         "page_0430.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Et ait mulier ad eum : Ecce, tu nosti quanta fecerit Saül, et quomodo eraserit Magos, et ariolos de terra : quare ergo insidiaris animæ meæ, ut occidar ?",
-      "french": "Cette femme lui répondit : Vous savez tout ce qu'a fait Saül, et de quelle manière il a exterminé les magiciens, et les devins de toutes les terres : pourquoi donc me tendez-vous un piège, pour me perdre ?",
+      "latin": "Et ait mulier ad eum : Ecce, tu nosti quanta fecerit Saül, et quomodo eraserit Magos, et ariolos de terra : quare ergo insidiaris animæ meæ, ut occidar ?",
+      "french": "Cette femme lui répondit : Vous savez tout ce qu’a fait Saül, et de quelle manière il a exterminé les magiciens, et les devins de toutes les terres : pourquoi donc me tendez-vous un piège, pour me perdre ?",
       "annotations": "An. du Monde 2949.",
       "source_pages": [
         "page_0431.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Et juravit ei Saül in Domino, dicens : Vivit Dominus, quia non eveniet tibi quidquam mali propter hanc rem.",
-      "french": "Saül lui jura par le Seigneur, et lui dit : Vive le Seigneur, il ne vous arrivera de ceci aucun mal.",
+      "latin": "Et juravit ei Saül in Domino, dicens : Vivit Dominus, quia non eveniet tibi quidquam mali propter hanc rem.",
+      "french": "Saül lui jura par le Seigneur, et lui dit : Vive le Seigneur, il ne vous arrivera de ceci aucun mal.",
       "annotations": null,
       "source_pages": [
         "page_0431.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Dixitque ei mulier : Quem suscitabo tibi ? Qui ait : Samuëlem mihi suscita.",
-      "french": "La femme lui dit : Qui voulez-vous voir ? Il lui répondit : Faites-moi venir Samuël.",
+      "latin": "Dixitque ei mulier : Quem suscitabo tibi ? Qui ait : Samuëlem mihi suscita.",
+      "french": "La femme lui dit : Qui voulez-vous voir ? Il lui répondit : Faites-moi venir Samuël.",
       "annotations": null,
       "source_pages": [
         "page_0431.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Cùm autem vidisset mulier Samuelem, exclamavit voce magnâ, et dixit ad Saül : Quare imposuisti mihi ? Tu es enim Saül.",
-      "french": "La femme ayant vu paraître Samuël, jeta un grand cri, et dit à Saül : Pourquoi m'avez-vous trompée ? Car vous êtes Saül.",
+      "latin": "Cùm autem vidisset mulier Samuelem, exclamavit voce magnâ, et dixit ad Saül : Quare imposuisti mihi ? Tu es enim Saül.",
+      "french": "La femme ayant vu paraître Samuël, jeta un grand cri, et dit à Saül : Pourquoi m’avez-vous trompée ? Car vous êtes Saül.",
       "annotations": null,
       "source_pages": [
         "page_0431.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Dixitque ei Rex : Noli timere : quid vidisti ? et ait mulier ad Saül : Deos vidi ascendentes de terra.",
-      "french": "Le Roi lui dit : Ne craignez point : qu’avez-vous vu ? J’ai vu, lui dit-elle ; des Dieux qui sortaient de la terre.",
+      "latin": "Dixitque ei Rex : Noli timere : quid vidisti ? et ait mulier ad Saül : Deos vidi ascendentes de terra.",
+      "french": "Le Roi lui dit : Ne craignez point : qu’avez-vous vu ? J’ai vu, lui dit-elle ; des Dieux qui sortaient de la terre.",
       "annotations": "Ah. du 1.949.",
       "source_pages": [
         "page_0432.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Dixitque ei : Qualis est forma ejus ? Qui ait : Vir senex ascendit, et ipse amictus est pallio. Et intellexit Saül quòd Samuël esset, et inclinavit se super faciem suam in terra, et adoravit.",
-      "french": "Saül lui dit : Comment est-il fait ? C’est, dit-elle, un vieillard couvert d’un manteau. Saül reconnut donc que c’était Samuël, et lui fit une profonde révérence, en se baissant jusqu’en terre.",
+      "latin": "Dixitque ei : Qualis est forma ejus ? Qui ait : Vir senex ascendit, et ipse amictus est pallio. Et intellexit Saül quòd Samuël esset, et inclinavit se super faciem suam in terra, et adoravit.",
+      "french": "Saül lui dit : Comment est-il fait ? C’est, dit-elle, un vieillard couvert d’un manteau. Saül reconnut donc que c’était Samuël, et lui fit une profonde révérence, en se baissant jusqu’en terre.",
       "annotations": null,
       "source_pages": [
         "page_0432.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Dixit autem Samuël ad Saül : Quare inquietasti me ut suscitarer ? Et ait Saül : Coarctor nimis : si quidem Philisthiim pugnant adversum me, et Deus recessit à me, et exaudire me noluit neque in manu Prophetarum, neque per somnia : vocavi ergo te, ut ostenderes mihi quid faciam.",
-      "french": "Samuël dit à Saül : Pourquoi avez-vous troublé mon repos, en me faisant évoquer ? Saül lui répondit : Je suis dans une étrange extrémité : car les Philistins me font la guerre, et Dieu s’est retiré de moi. Il ne m’a point voulu répondre, ni par les Prophètes, ni par songes : c’est pourquoi je vous ai fait évoquer, afin que vous m’appreniez ce que je dois faire.",
+      "latin": "Dixit autem Samuël ad Saül : Quare inquietasti me ut suscitarer ? Et ait Saül : Coarctor nimis : si quidem Philisthiim pugnant adversum me, et Deus recessit à me, et exaudire me noluit neque in manu Prophetarum, neque per somnia : vocavi ergo te, ut ostenderes mihi quid faciam.",
+      "french": "Samuël dit à Saül : Pourquoi avez-vous troublé mon repos, en me faisant évoquer ? Saül lui répondit : Je suis dans une étrange extrémité : car les Philistins me font la guerre, et Dieu s’est retiré de moi. Il ne m’a point voulu répondre, ni par les Prophètes, ni par songes : c’est pourquoi je vous ai fait évoquer, afin que vous m’appreniez ce que je dois faire.",
       "annotations": null,
       "source_pages": [
         "page_0432.json"
@@ -141,8 +141,8 @@
     },
     {
       "verse_number": 16,
-      "latin": "Et ait Samüel: Quid interrogas me, cùm Dominus recesserit à te, et transierit ad æmulum tuum ?",
-      "french": "Samuel lui dit : Pourquoi vous adressez-vous à moi, puisque le Seigneur vous a abandonné, et qu'il est passé à votre rival ?",
+      "latin": "Et ait Samüel : Quid interrogas me, cùm Dominus recesserit à te, et transierit ad æmulum tuum ?",
+      "french": "Samuel lui dit : Pourquoi vous adressez-vous à moi, puisque le Seigneur vous a abandonné, et qu’il est passé à votre rival ?",
       "annotations": "An. dit 2949.",
       "source_pages": [
         "page_0433.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Faciet enim tibi Dominus sicut locutus est in manu mea, et scindet regnum tuum de manu tua, et dabit illud proximo tuo David:",
-      "french": "Car le Seigneur vous traitera comme je vous l'ai dit de sa part; il déchirera votre royaume, et l'arrachera de vos mains, pour le donner à un autre, c'est-à-dire, à David votre gendre:",
+      "latin": "Faciet enim tibi Dominus sicut locutus est in manu mea, et scindet regnum tuum de manu tua, et dabit illud proximo tuo David :",
+      "french": "Car le Seigneur vous traitera comme je vous l’ai dit de sa part ; il déchirera votre royaume, et l’arrachera de vos mains, pour le donner à un autre, c’est-à-dire, à David votre gendre :",
       "annotations": null,
       "source_pages": [
         "page_0433.json"
@@ -159,8 +159,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "Quia non obedisti voci Domini , neque fecisti iram furoris ejus in Amalec. Idcircò quod pateris , fecit tibi Dominus hodiè.",
-      "french": "Parce que vous n’avez ni obéi à la voix du Seigneur, ni exécuté l’arrêt de sa colère contre les Amalécites : c’est pour cela que le Seigneur vous envoie aujourd’hui ce que vous souffrez.",
+      "latin": "Quia non obedisti voci Domini, neque fecisti iram furoris ejus in Amalec. Idcircò quod pateris, fecit tibi Dominus hodiè.",
+      "french": "Parce que vous n’avez ni obéi à la voix du Seigneur, ni exécuté l’arrêt de sa colère contre les Amalécites : c’est pour cela que le Seigneur vous envoie aujourd’hui ce que vous souffrez.",
       "annotations": "An. du Monde 2949.",
       "source_pages": [
         "page_0434.json"
@@ -168,8 +168,8 @@
     },
     {
       "verse_number": 19,
-      "latin": "Et dabit Dominus etiam Israël tecum in manus Philisthiim : cras autem tu et filii tui mecum eritis : sed et castra Israël tradet Dominus in manus Philisthiim.",
-      "french": "Il livrera même Israël avec vous entre les mains des Philistins. Demain vous serez avec moi , vous et vos fils ; et le Seigneur abandonnera aux Philistins le camp d’Israël.",
+      "latin": "Et dabit Dominus etiam Israël tecum in manus Philisthiim : cras autem tu et filii tui mecum eritis : sed et castra Israël tradet Dominus in manus Philisthiim.",
+      "french": "Il livrera même Israël avec vous entre les mains des Philistins. Demain vous serez avec moi, vous et vos fils ; et le Seigneur abandonnera aux Philistins le camp d’Israël.",
       "annotations": null,
       "source_pages": [
         "page_0434.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Statímque Saül cecidit porrectus in terram : extimuerat enim verba Samuëlis, et robur non erat in eo, quia non comederat panem tota die illa.",
-      "french": "Saül tomba aussitôt, et demeura étendu sur la terre : car les paroles de Samuël l'avaient effrayé, et les forces lui manquèrent, parce qu'il n'avait point mangé de tout ce jour-là.",
+      "latin": "Statímque Saül cecidit porrectus in terram : extimuerat enim verba Samuëlis, et robur non erat in eo, quia non comederat panem tota die illa.",
+      "french": "Saül tomba aussitôt, et demeura étendu sur la terre : car les paroles de Samuël l’avaient effrayé, et les forces lui manquèrent, parce qu’il n’avait point mangé de tout ce jour-là.",
       "annotations": "An. du Monde 2949.",
       "source_pages": [
         "page_0435.json"
@@ -186,8 +186,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Ingressa est itaque mulier illa ad Saül, ( conturbatus enim erat valdè, ) dixitque ad eum : Ecce obedivit ancilla tua voci tuæ et posui animam meam in manu mea, et audivi sermones tuos, quos locutus es ad me.",
-      "french": "La magicienne vint à lui dans le grand trouble où il était, et elle lui dit : Vous voyez que votre servante vous a obéi, que j'ai exposé ma vie pour vous, et que je me suis rendue à ce que vous avez désiré de moi.",
+      "latin": "Ingressa est itaque mulier illa ad Saül, (conturbatus enim erat valdè,) dixitque ad eum : Ecce obedivit ancilla tua voci tuæ et posui animam meam in manu mea, et audivi sermones tuos, quos locutus es ad me.",
+      "french": "La magicienne vint à lui dans le grand trouble où il était, et elle lui dit : Vous voyez que votre servante vous a obéi, que j’ai exposé ma vie pour vous, et que je me suis rendue à ce que vous avez désiré de moi.",
       "annotations": null,
       "source_pages": [
         "page_0435.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Nunc igitur audi et tu vocem ancillæ tuæ, et ponam coram te bucellam panis ut comedens convalescas, et possis iter agere.",
-      "french": "Écoutez donc aussi votre servante ; et souffrez que je vous serve un peu de pain, afin qu'ayant mangé, vous repreniez vos forces, et que vous puissiez reprendre votre chemin.",
+      "french": "Écoutez donc aussi votre servante ; et souffrez que je vous serve un peu de pain, afin qu’ayant mangé, vous repreniez vos forces, et que vous puissiez reprendre votre chemin.",
       "annotations": null,
       "source_pages": [
         "page_0436.json"
@@ -204,8 +204,8 @@
     },
     {
       "verse_number": 23,
-      "latin": "Qui renuit, et ait : Non comedam. Coëgerunt autem eum servi sui et mulier, et tandem auditâ voce eorum surrexit de terrâ, et sedit super lectum.",
-      "french": "Saül le refusa, et lui dit : Je ne mangerai point. Mais ses serviteurs et cette femme le contraignirent de manger ; et s'étant enfin rendu à leurs prières, il se leva de terre, et s'assit sur le lit.",
+      "latin": "Qui renuit, et ait : Non comedam. Coëgerunt autem eum servi sui et mulier, et tandem auditâ voce eorum surrexit de terrâ, et sedit super lectum.",
+      "french": "Saül le refusa, et lui dit : Je ne mangerai point. Mais ses serviteurs et cette femme le contraignirent de manger ; et s’étant enfin rendu à leurs prières, il se leva de terre, et s’assit sur le lit.",
       "annotations": null,
       "source_pages": [
         "page_0436.json"
@@ -214,7 +214,7 @@
     {
       "verse_number": 24,
       "latin": "Mulier autem illa habebat vitulum pascualem in domo, et festinavit, et occidit eum, tollénsque farinam, miscuit eam, et coxit azyma.",
-      "french": "Or cette femme avait dans sa maison un veau gras, qu'elle alla tuer aussitôt : elle prit de la farine, la pétrit, et elle en fit du pain sans levain.",
+      "french": "Or cette femme avait dans sa maison un veau gras, qu’elle alla tuer aussitôt : elle prit de la farine, la pétrit, et elle en fit du pain sans levain.",
       "annotations": null,
       "source_pages": [
         "page_0436.json"
@@ -223,7 +223,7 @@
     {
       "verse_number": 25,
       "latin": "Et posuit antè Saül, et antè servos ejus. Qui cùm comedissent, surrexerunt, et ambulaverunt per totam noctem illam.",
-      "french": "Qu'elle servit devant Saül et ses serviteurs. Après donc qu'ils eurent mangé, ils s'en allèrent, et marchèrent toute la nuit.",
+      "french": "Qu’elle servit devant Saül et ses serviteurs. Après donc qu’ils eurent mangé, ils s’en allèrent, et marchèrent toute la nuit.",
       "annotations": null,
       "source_pages": [
         "page_0436.json"

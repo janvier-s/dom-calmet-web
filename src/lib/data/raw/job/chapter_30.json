@@ -1,13 +1,13 @@
 {
   "book": "Job",
   "chapter": 30,
-  "chapter_summary": "Job décrit l'état déplorable où il est tombé. Il le compare à celui où il était auparavant.",
+  "chapter_summary": "Job décrit l’état déplorable où il est tombé. Il le compare à celui où il était auparavant.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Nunc autem derident me juniores tempore, quorum non dignabar patres ponere cum canibus gregis mei:",
-      "french": "Mais maintenant je suis méprisé par des personnes plus jeunes que moi, dont je n'aurais pas daigné autrefois mettre les pères avec les chiens de mon troupeau :",
+      "latin": "Nunc autem derident me juniores tempore, quorum non dignabar patres ponere cum canibus gregis mei :",
+      "french": "Mais maintenant je suis méprisé par des personnes plus jeunes que moi, dont je n’aurais pas daigné autrefois mettre les pères avec les chiens de mon troupeau :",
       "annotations": null,
       "source_pages": [
         "page_0360.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Egestate et fame steriles, qui rodebant in solitudine, squallentes calamitate, et miseriâ;",
-      "french": "Des gens tout secs de faim, et de pauvreté, qui allaient chercher ce qu'ils pourraient ronger dans un désert : dont l'affliction, et la misère avaient défiguré le visage;",
+      "latin": "Egestate et fame steriles, qui rodebant in solitudine, squallentes calamitate, et miseriâ ;",
+      "french": "Des gens tout secs de faim, et de pauvreté, qui allaient chercher ce qu’ils pourraient ronger dans un désert : dont l’affliction, et la misère avaient défiguré le visage ;",
       "annotations": null,
       "source_pages": [
         "page_0361.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Et manducabant herbas, et arborum cortices, et radix juniperorum erat cibus corum:",
-      "french": "Qui mangeaient des herbes sauvages, et des écorces d'arbres, et qui se nourrissaient de racines de genévrier.",
+      "latin": "Et manducabant herbas, et arborum cortices, et radix juniperorum erat cibus corum :",
+      "french": "Qui mangeaient des herbes sauvages, et des écorces d’arbres, et qui se nourrissaient de racines de genévrier.",
       "annotations": null,
       "source_pages": [
         "page_0361.json"
@@ -43,7 +43,7 @@
     {
       "verse_number": 5,
       "latin": "Qui de convallibus ista rapientes, cùm singula reperissent, ad ea cum clamore currebant.",
-      "french": "Qui allaient ravir ces choses dans le fond des vallées; et qui en ayant trouvé quelques-unes, y accouraient avec de grands cris.",
+      "french": "Qui allaient ravir ces choses dans le fond des vallées ; et qui en ayant trouvé quelques-unes, y accouraient avec de grands cris.",
       "annotations": null,
       "source_pages": [
         "page_0363.json"
@@ -51,7 +51,7 @@
     },
     {
       "verse_number": 6,
-      "latin": "In desertis habitabant torrentium, et in cavernis terræ, vel super glaream:",
+      "latin": "In desertis habitabant torrentium, et in cavernis terræ, vel super glaream :",
       "french": "Qui habitaient dans le creux des torrents, dans les cavernes de la terre, ou dans les rochers.",
       "annotations": null,
       "source_pages": [
@@ -70,7 +70,7 @@
     {
       "verse_number": 8,
       "latin": "Filii stultorum et ignobilium, et in terra penitus non parentes.",
-      "french": "Ces hommes dont les pères sont des insensés, ces hommes de la dernière bassesse, qui sont le mépris, et le rebut de la terre, sont ceux qui m'insultent.",
+      "french": "Ces hommes dont les pères sont des insensés, ces hommes de la dernière bassesse, qui sont le mépris, et le rebut de la terre, sont ceux qui m’insultent.",
       "annotations": null,
       "source_pages": [
         "page_0364.json"
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Nunc in eorum canticum versus sum, et factus sum eis in proverbium.",
-      "french": "Je suis devenu le sujet de leurs chansons, je suis l'objet de leurs railleries.",
+      "french": "Je suis devenu le sujet de leurs chansons, je suis l’objet de leurs railleries.",
       "annotations": null,
       "source_pages": [
         "page_0364.json"
@@ -88,7 +88,7 @@
     {
       "verse_number": 10,
       "latin": "Abominantur me, et longè fugiunt à me, et faciem meam conspuere non verentur.",
-      "french": "Ils m'ont en horreur, et ils fuient loin de moi, et ils ne craignent pas de me cracher au visage.",
+      "french": "Ils m’ont en horreur, et ils fuient loin de moi, et ils ne craignent pas de me cracher au visage.",
       "annotations": null,
       "source_pages": [
         "page_0364.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Ad dexteram orientis calamitates meæ illicò surrexerunt: pedes meos subverterunt, et oppresserunt quasi fluctibus, semitis suis.",
-      "french": "Aussitôt que j’ai commencé à paraître, mes maux se sont élevés à côté de moi; ils ont renversé mes pieds, et me surprenant, ils m’ont accablé comme sous leurs flots.",
+      "latin": "Ad dexteram orientis calamitates meæ illicò surrexerunt : pedes meos subverterunt, et oppresserunt quasi fluctibus, semitis suis.",
+      "french": "Aussitôt que j’ai commencé à paraître, mes maux se sont élevés à côté de moi ; ils ont renversé mes pieds, et me surprenant, ils m’ont accablé comme sous leurs flots.",
       "annotations": null,
       "source_pages": [
         "page_0365.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Dissipaverunt itinera mea, insidiati sunt mihi, et prævaluerunt, et non fuit qui ferret auxilium.",
-      "french": "Ils ont rompu tous les chemins par où je marchais ; ils m’ont tendu des pièges, et ont eu sur moi l’avantage ; et il ne s’est trouvé personne pour me secourir.",
+      "french": "Ils ont rompu tous les chemins par où je marchais ; ils m’ont tendu des pièges, et ont eu sur moi l’avantage ; et il ne s’est trouvé personne pour me secourir.",
       "annotations": null,
       "source_pages": [
         "page_0366.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Redactus sum in nihilum; abstulisti quasi ventus desiderium meum; et velut nubes pertransiit salus mea.",
-      "french": "J'ai été réduit dans le néant : vous avez emporté comme un tourbillon ce qui m'était le plus cher, et ma vie a passé en un moment, comme un nuage.",
+      "latin": "Redactus sum in nihilum ; abstulisti quasi ventus desiderium meum ; et velut nubes pertransiit salus mea.",
+      "french": "J’ai été réduit dans le néant : vous avez emporté comme un tourbillon ce qui m’était le plus cher, et ma vie a passé en un moment, comme un nuage.",
       "annotations": null,
       "source_pages": [
         "page_0367.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Nunc autem in memeipso marcescit anima mea, et possident me dies afflictionis.",
-      "french": "Mon âme est maintenant toute languissante en moi-même, et je suis tout pénétré des maux qui m'accablent.",
+      "french": "Mon âme est maintenant toute languissante en moi-même, et je suis tout pénétré des maux qui m’accablent.",
       "annotations": null,
       "source_pages": [
         "page_0367.json"
@@ -150,7 +150,7 @@
     },
     {
       "verse_number": 17,
-      "latin": "Nocte os meum perforatur doloribus : et qui me comedunt, non dormiunt.",
+      "latin": "Nocte os meum perforatur doloribus : et qui me comedunt, non dormiunt.",
       "french": "Mes douleurs pendant la nuit transpercent mes os, et ceux qui me dévorent ne dorment point.",
       "annotations": null,
       "source_pages": [
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "In multitudine eorum consumitur vestimentum meum, et quasi capitis tunicæ succinxerunt me.",
-      "french": "Leur multitude consume mon vêtement; et ils m'environnent, et me serrent comme le haut d'une tunique.",
+      "french": "Leur multitude consume mon vêtement ; et ils m’environnent, et me serrent comme le haut d’une tunique.",
       "annotations": null,
       "source_pages": [
         "page_0368.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Clamo ad te, et non exaudis me: sto, et non respicis me.",
-      "french": "Je crie vers vous, ô mon Dieu, et vous ne m'écoutez point; je me présente à vous, et vous ne me regardez pas.",
+      "latin": "Clamo ad te, et non exaudis me : sto, et non respicis me.",
+      "french": "Je crie vers vous, ô mon Dieu, et vous ne m’écoutez point ; je me présente à vous, et vous ne me regardez pas.",
       "annotations": null,
       "source_pages": [
         "page_0368.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Elevasti me, et quasi super ventum ponens elisisti me validè.",
-      "french": "Vous m'avez élevé, et me tenant comme suspendu en l'air, vous m'avez laissé tomber, et brisé entièrement.",
+      "french": "Vous m’avez élevé, et me tenant comme suspendu en l’air, vous m’avez laissé tomber, et brisé entièrement.",
       "annotations": null,
       "source_pages": [
         "page_0369.json"
@@ -213,8 +213,8 @@
     },
     {
       "verse_number": 24,
-      "latin": "Verumtamen non ad consumptionem eorum emittis manum tuam: et si corruerint, ipse salvabis.",
-      "french": "Mais vous n'étendez pas néanmoins votre main pour les consumer entièrement. Car lorsqu'ils sont abattus, vous les sauvez.",
+      "latin": "Verumtamen non ad consumptionem eorum emittis manum tuam : et si corruerint, ipse salvabis.",
+      "french": "Mais vous n’étendez pas néanmoins votre main pour les consumer entièrement. Car lorsqu’ils sont abattus, vous les sauvez.",
       "annotations": null,
       "source_pages": [
         "page_0369.json"
@@ -231,8 +231,8 @@
     },
     {
       "verse_number": 26,
-      "latin": "Expectabam bona, et venerunt mihi mala: præstolabar lucem, et eruperunt tenebræ.",
-      "french": "J'attendais les biens ; et les maux sont venus en foule; j'espérais la lumière, et les ténèbres m'ont enveloppé.",
+      "latin": "Expectabam bona, et venerunt mihi mala : præstolabar lucem, et eruperunt tenebræ.",
+      "french": "J’attendais les biens ; et les maux sont venus en foule ; j’espérais la lumière, et les ténèbres m’ont enveloppé.",
       "annotations": null,
       "source_pages": [
         "page_0370.json"
@@ -241,7 +241,7 @@
     {
       "verse_number": 27,
       "latin": "Interiora mea efferbuerunt absque ulla requie, prævenerunt me dies afflictionis.",
-      "french": "Un feu brûle dans mes entrailles sans me donner aucun repos ; les jours de l'affliction m'ont prévenu.",
+      "french": "Un feu brûle dans mes entrailles sans me donner aucun repos ; les jours de l’affliction m’ont prévenu.",
       "annotations": null,
       "source_pages": [
         "page_0370.json"
@@ -249,8 +249,8 @@
     },
     {
       "verse_number": 28,
-      "latin": "Mœrens incedebam, sine furore ; consurgens, in turba clamabam.",
-      "french": "Je marchais tout triste ; mais sans me laisser aller à l'emportement : je me levais tout d'un coup, et poussais des cris au milieu du peuple.",
+      "latin": "Mœrens incedebam, sine furore ; consurgens, in turba clamabam.",
+      "french": "Je marchais tout triste ; mais sans me laisser aller à l’emportement : je me levais tout d’un coup, et poussais des cris au milieu du peuple.",
       "annotations": null,
       "source_pages": [
         "page_0370.json"
@@ -259,7 +259,7 @@
     {
       "verse_number": 29,
       "latin": "Frater fui draconum, et socius struthionum.",
-      "french": "J'ai été le frère des dragons, et le compagnon des autruches.",
+      "french": "J’ai été le frère des dragons, et le compagnon des autruches.",
       "annotations": null,
       "source_pages": [
         "page_0371.json"
@@ -268,7 +268,7 @@
     {
       "verse_number": 30,
       "latin": "Cutis mea denigrata est super me, et ossa mea aruerunt præ caumate.",
-      "french": "Ma peau est devenue toute noire sur ma chair, et mes os se sont desséchés par l'ardeur qui me consume.",
+      "french": "Ma peau est devenue toute noire sur ma chair, et mes os se sont desséchés par l’ardeur qui me consume.",
       "annotations": null,
       "source_pages": [
         "page_0371.json"
@@ -277,7 +277,7 @@
     {
       "verse_number": 31,
       "latin": "Versa est in luctum cithara mea, et organum-meum in vocem flentium.",
-      "french": "Ma harpe s'est changée en de tristes plaintes, et mes instruments de musique en des voix lugubres.",
+      "french": "Ma harpe s’est changée en de tristes plaintes, et mes instruments de musique en des voix lugubres.",
       "annotations": null,
       "source_pages": [
         "page_0371.json"

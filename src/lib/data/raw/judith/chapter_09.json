@@ -1,13 +1,13 @@
 {
   "book": "Judith",
   "chapter": 9,
-  "chapter_summary": "Prière de Judith, pour demander à Dieu qu'il la fortifie dans son entreprise, et qu'il lui en donne un heureux succès.",
+  "chapter_summary": "Prière de Judith, pour demander à Dieu qu’il la fortifie dans son entreprise, et qu’il lui en donne un heureux succès.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Quibus abscedentibus, Judith ingressa est oratorium suum: et induens se cilicio posuit cinerem super caput suum: et prosternens se Domino, clamabat ad Dominum, dicens:",
-      "french": "Après qu'ils furent partis, Judith entra dans son oratoire, et se revêtant d'un cilice, elle se mit de la cendre sur la tête, et se prosternant devant le Seigneur, elle criait vers lui, en disant:",
+      "latin": "Quibus abscedentibus, Judith ingressa est oratorium suum : et induens se cilicio posuit cinerem super caput suum : et prosternens se Domino, clamabat ad Dominum, dicens :",
+      "french": "Après qu’ils furent partis, Judith entra dans son oratoire, et se revêtant d’un cilice, elle se mit de la cendre sur la tête, et se prosternant devant le Seigneur, elle criait vers lui, en disant :",
       "annotations": "An du M. 3348. avant J.C. 656.",
       "source_pages": [
         "page_0106.json"
@@ -16,7 +16,7 @@
     {
       "verse_number": 2,
       "latin": "Domine, Deus patris mei Simeon, qui dedisti illi gladium in defensionem alienigenarum, qui violatores extiterunt in coinquinatione sua, et denudaverunt femur virginis in confusionem,",
-      "french": "Seigneur, Dieu de mon père Siméon, qui lui avez mis l'épée entre les mains, pour se venger des étrangers, qui transportés d'une passion impure, avaient violé une vierge, et l'avaient couverte de confusion en lui faisant outrage,",
+      "french": "Seigneur, Dieu de mon père Siméon, qui lui avez mis l’épée entre les mains, pour se venger des étrangers, qui transportés d’une passion impure, avaient violé une vierge, et l’avaient couverte de confusion en lui faisant outrage,",
       "annotations": null,
       "source_pages": [
         "page_0106.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Et dedisti mulieres illorum in prædam, et filias illorum in captivitatem : et omnem prædam in divisionem, servis tuis, qui zelaverunt zelum tuum : subveni quæso te, Domine Deus meus, mihi viduæ.",
-      "french": "Qui avez exposé leurs femmes en proie, qui avez rendu leurs filles captives, et qui avez donné toutes leurs dépouilles en partage à vos serviteurs, qui ont brûlé de zèle pour vous ; assistez, je vous prie, Seigneur mon Dieu, cette veuve désolée.",
+      "latin": "Et dedisti mulieres illorum in prædam, et filias illorum in captivitatem : et omnem prædam in divisionem, servis tuis, qui zelaverunt zelum tuum : subveni quæso te, Domine Deus meus, mihi viduæ.",
+      "french": "Qui avez exposé leurs femmes en proie, qui avez rendu leurs filles captives, et qui avez donné toutes leurs dépouilles en partage à vos serviteurs, qui ont brûlé de zèle pour vous ; assistez, je vous prie, Seigneur mon Dieu, cette veuve désolée.",
       "annotations": "An du M. 3348.",
       "source_pages": [
         "page_0107.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Tu enim fecisti priora, et illa post illa cogitasti : et hoc factum est quod ipse voluisti.",
-      "french": "Car c'est vous qui avez fait ces anciennes merveilles, et qui avez formé ces nouveaux desseins après ceux-là ; et il ne s'est fait que ce que vous avez voulu.",
+      "latin": "Tu enim fecisti priora, et illa post illa cogitasti : et hoc factum est quod ipse voluisti.",
+      "french": "Car c’est vous qui avez fait ces anciennes merveilles, et qui avez formé ces nouveaux desseins après ceux-là ; et il ne s’est fait que ce que vous avez voulu.",
       "annotations": null,
       "source_pages": [
         "page_0108.json"
@@ -43,7 +43,7 @@
     {
       "verse_number": 5,
       "latin": "Omnes enim viæ tuæ paratæ sunt, et tua judicia in tua Providentia posuisti.",
-      "french": "Toutes vos voies sont déjà préparées, et vous avez établi vos jugements dans l'ordre de votre Providence.",
+      "french": "Toutes vos voies sont déjà préparées, et vous avez établi vos jugements dans l’ordre de votre Providence.",
       "annotations": null,
       "source_pages": [
         "page_0108.json"
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Sic fiant et isti, Domine, qui conﬁdunt in multitudine sua, et in curribus suis, et in contis, et in scutis, et in sagittis suis, et in lanceis gloriantur.",
-      "french": "Seigneur, que ceux-ci périssent de même, eux qui s'appuient sur leur grande multitude, et qui se glorifient dans leurs chariots, dans leurs dards, dans leurs boucliers, dans leurs flèches, et dans leurs lances;",
+      "french": "Seigneur, que ceux-ci périssent de même, eux qui s’appuient sur leur grande multitude, et qui se glorifient dans leurs chariots, dans leurs dards, dans leurs boucliers, dans leurs flèches, et dans leurs lances ;",
       "annotations": null,
       "source_pages": [
         "page_0110.json"
@@ -88,7 +88,7 @@
     {
       "verse_number": 10,
       "latin": "Et nesciunt quia tu ipse es, Deus noster, qui conteris bella ab initio, et Dominus nomen est tibi.",
-      "french": "Et qui ne savent pas que c'est vous qui êtes notre Dieu; vous qui dès le commencement des siècles, écrasez les armées; et que votre nom est, Le Seigneur.",
+      "french": "Et qui ne savent pas que c’est vous qui êtes notre Dieu ; vous qui dès le commencement des siècles, écrasez les armées ; et que votre nom est, Le Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0110.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Erige brachium tuum sicut ab initio, et allide virtutem illorum in virtute tua : cadat virtus eorum in iracundia tua, qui promittunt se violare sancta tua, et polluere Tabernaculum nominis tui, et dejicere gladio suo cornu altaris tui.",
-      "french": "Élevez en haut votre bras, comme vous avez fait autrefois; brisez leur force par votre force; que votre colère fasse tomber devant vous, ceux qui se promettent de violer votre Sanctuaire, de déshonorer le Tabernacle de votre nom; et d'abattre avec leur épée les cornes de votre autel.",
+      "latin": "Erige brachium tuum sicut ab initio, et allide virtutem illorum in virtute tua : cadat virtus eorum in iracundia tua, qui promittunt se violare sancta tua, et polluere Tabernaculum nominis tui, et dejicere gladio suo cornu altaris tui.",
+      "french": "Élevez en haut votre bras, comme vous avez fait autrefois ; brisez leur force par votre force ; que votre colère fasse tomber devant vous, ceux qui se promettent de violer votre Sanctuaire, de déshonorer le Tabernacle de votre nom ; et d’abattre avec leur épée les cornes de votre autel.",
       "annotations": null,
       "source_pages": [
         "page_0110.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Capiatur laqueo oculorum suorum in me, et percuties eum ex labiis charitatis meæ.",
-      "french": "Qu'il soit pris par ses propres yeux, comme par un piège, en me regardant: et frappez-le par l'agrément des paroles qui sortiront de ma bouche.",
+      "french": "Qu’il soit pris par ses propres yeux, comme par un piège, en me regardant : et frappez-le par l’agrément des paroles qui sortiront de ma bouche.",
       "annotations": null,
       "source_pages": [
         "page_0110.json"
@@ -123,7 +123,7 @@
     },
     {
       "verse_number": 14,
-      "latin": "Da mihi in animo constantiam, ut contemnam illum : et virtutem, ut evertam illum.",
+      "latin": "Da mihi in animo constantiam, ut contemnam illum : et virtutem, ut evertam illum.",
       "french": "Donnez-moi assez de constance dans le cœur pour le mépriser, et assez de force pour le perdre.",
       "annotations": "An du M. 3348.",
       "source_pages": [
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Erit enim hoc memoriale nominis tui, cùm manus fœminæ dejecerit eum.",
-      "french": "Ce sera un monument glorieux pour votre nom, qu'il périsse par la main d'une femme.",
+      "french": "Ce sera un monument glorieux pour votre nom, qu’il périsse par la main d’une femme.",
       "annotations": null,
       "source_pages": [
         "page_0111.json"
@@ -141,8 +141,8 @@
     },
     {
       "verse_number": 16,
-      "latin": "Non enim in multitudine est virtus tua, Domine, neque in equorum viribus voluntas tua est, nec superbi ab initio placuerunt tibi : sed humilium et mansuetorum semper tibi placuit deprecatio.",
-      "french": "Car votre puissance, Seigneur, n’est point dans la multitude des hommes ; vous ne vous plaisez point dans la force des chevaux ; et dès le commencement du monde, les superbes ne vous ont point plu ; mais vous avez toujours agréé les prières de ceux qui sont humbles et doux.",
+      "latin": "Non enim in multitudine est virtus tua, Domine, neque in equorum viribus voluntas tua est, nec superbi ab initio placuerunt tibi : sed humilium et mansuetorum semper tibi placuit deprecatio.",
+      "french": "Car votre puissance, Seigneur, n’est point dans la multitude des hommes ; vous ne vous plaisez point dans la force des chevaux ; et dès le commencement du monde, les superbes ne vous ont point plu ; mais vous avez toujours agréé les prières de ceux qui sont humbles et doux.",
       "annotations": "An du m. 3348.",
       "source_pages": [
         "page_0112.json"
@@ -151,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Deus Cœlorum, Creator aquarum, et Dominus totius creaturæ, exaudi me miseram deprecantem, et de tua misericordia præsumentem.",
-      "french": "Dieu des Cieux, Créateur des eaux ; Seigneur de toute créature, exaucez-moi, exaucez celle qui a recours à vous, dans son affliction, et qui présume de votre miséricorde.",
+      "french": "Dieu des Cieux, Créateur des eaux ; Seigneur de toute créature, exaucez-moi, exaucez celle qui a recours à vous, dans son affliction, et qui présume de votre miséricorde.",
       "annotations": null,
       "source_pages": [
         "page_0112.json"
@@ -159,8 +159,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "Memento, Domine, testamenti tui, et da verbum in ore meo, et in corde meo consilium corrobora, ut Domus tua in sanctificatione tua permaneat :",
-      "french": "Souvenez-vous, Seigneur, de votre Alliance ; mettez vous-même les paroles dans ma bouche, et fortifiez la résolution de mon cœur, afin que votre Maison demeure toujours dans la sainteté qui lui est propre.",
+      "latin": "Memento, Domine, testamenti tui, et da verbum in ore meo, et in corde meo consilium corrobora, ut Domus tua in sanctificatione tua permaneat :",
+      "french": "Souvenez-vous, Seigneur, de votre Alliance ; mettez vous-même les paroles dans ma bouche, et fortifiez la résolution de mon cœur, afin que votre Maison demeure toujours dans la sainteté qui lui est propre.",
       "annotations": null,
       "source_pages": [
         "page_0112.json"

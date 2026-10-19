@@ -1,13 +1,13 @@
 {
   "book": "Job",
   "chapter": 8,
-  "chapter_summary": "Baldad veut prouver que le malheur de Job, et de ses enfants, est la peine de leurs péchés. Il traite sa vertu d'hypocrisie, et l'exhorte de recourir à Dieu.",
+  "chapter_summary": "Baldad veut prouver que le malheur de Job, et de ses enfants, est la peine de leurs péchés. Il traite sa vertu d’hypocrisie, et l’exhorte de recourir à Dieu.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Respondens autem Baldad Suhites, dixit:",
-      "french": "Alors Baldad de Suë prenant la parole, dit à Job:",
+      "latin": "Respondens autem Baldad Suhites, dixit :",
+      "french": "Alors Baldad de Suë prenant la parole, dit à Job :",
       "annotations": null,
       "source_pages": [
         "page_0145.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Usquequo loquêris talia, et spiritus multiplex sermones oris tui?",
-      "french": "Jusqu'à quand direz-vous toutes ces choses, et votre bouche proférera-t-elle des paroles; qui sont comme un vent impétueux?",
+      "latin": "Usquequo loquêris talia, et spiritus multiplex sermones oris tui ?",
+      "french": "Jusqu’à quand direz-vous toutes ces choses, et votre bouche proférera-t-elle des paroles ; qui sont comme un vent impétueux ?",
       "annotations": null,
       "source_pages": [
         "page_0145.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Numquid Deus supplantat judicium? Aut omnipotens subvertit quod justum est?",
-      "french": "Dieu est-il injuste dans ses Jugements, et le Tout-puissant renverse-t-il la justice?",
+      "latin": "Numquid Deus supplantat judicium ? Aut omnipotens subvertit quod justum est ?",
+      "french": "Dieu est-il injuste dans ses Jugements, et le Tout-puissant renverse-t-il la justice ?",
       "annotations": null,
       "source_pages": [
         "page_0145.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Etiamsi filii tui peccaverunt ei, et dimisit eos in manu iniquitatis suæ;",
-      "french": "Quand vos enfants auraient péché contre lui, et qu'ils les auraient abandonnés à leurs passions injustes;",
+      "latin": "Etiamsi filii tui peccaverunt ei, et dimisit eos in manu iniquitatis suæ ;",
+      "french": "Quand vos enfants auraient péché contre lui, et qu’ils les auraient abandonnés à leurs passions injustes ;",
       "annotations": null,
       "source_pages": [
         "page_0146.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Tu tamen si diluculo consurrexeris ad Deum, et omnipotentem fueris deprecatus:",
-      "french": "Si néanmoins vous vous empressez d'aller à Dieu, et de conjurer par vos prières le Tout-puissant;",
+      "latin": "Tu tamen si diluculo consurrexeris ad Deum, et omnipotentem fueris deprecatus :",
+      "french": "Si néanmoins vous vous empressez d’aller à Dieu, et de conjurer par vos prières le Tout-puissant ;",
       "annotations": null,
       "source_pages": [
         "page_0146.json"
@@ -52,7 +52,7 @@
     {
       "verse_number": 6,
       "latin": "Si mundus et rectus incesseris, statim evigilabit ad te, et pacatum reddet habitaculum justitiæ tuæ.",
-      "french": "Si vous marchez devant lui avec un cœur pur et droit; il se levera aussitôt pour vous secourir; et il récompensera votre justice, par la paix qu'il fera régner dans votre maison.",
+      "french": "Si vous marchez devant lui avec un cœur pur et droit ; il se levera aussitôt pour vous secourir ; et il récompensera votre justice, par la paix qu’il fera régner dans votre maison.",
       "annotations": null,
       "source_pages": [
         "page_0146.json"
@@ -61,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "In tantum, ut si priora tua fuerint parva, et novissima tua multiplicentur nimis.",
-      "french": "Il augmentera de telle sorte tout ce que vous avez eu de grandeur jusqu'alors; que votre premier état ne paraîtra rien au prix du second.",
+      "french": "Il augmentera de telle sorte tout ce que vous avez eu de grandeur jusqu’alors ; que votre premier état ne paraîtra rien au prix du second.",
       "annotations": null,
       "source_pages": [
         "page_0146.json"
@@ -70,7 +70,7 @@
     {
       "verse_number": 8,
       "latin": "Interroga enim generationem pristinam, et diligenter investiga patrum memoriam.",
-      "french": "Interrogez les races passées; consultez avec soin les histoires de nos pères.",
+      "french": "Interrogez les races passées ; consultez avec soin les histoires de nos pères.",
       "annotations": null,
       "source_pages": [
         "page_0146.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "( Hesterni quippe sumus, et ignoramus : quoniam sicut umbra dies nostri sunt super terram. )",
-      "french": "( Car nous ne sommes que d'hier au monde , et nous sommes pleins d'ignorance: nos jours s'écoulent sur la terre comme l'ombre. )",
+      "latin": "(Hesterni quippe sumus, et ignoramus : quoniam sicut umbra dies nostri sunt super terram.)",
+      "french": "(Car nous ne sommes que d’hier au monde, et nous sommes pleins d’ignorance : nos jours s’écoulent sur la terre comme l’ombre.)",
       "annotations": null,
       "source_pages": [
         "page_0147.json"
@@ -87,7 +87,7 @@
     },
     {
       "verse_number": 10,
-      "latin": "Et ipsi docebunt te : loquentur tibi, et de corde suo proferent eloquia.",
+      "latin": "Et ipsi docebunt te : loquentur tibi, et de corde suo proferent eloquia.",
       "french": "Et vos ancêtres vous enseigneront ce que je vous dis. Ils vous parleront, et vous découvriront les sentiments de leur cœur.",
       "annotations": null,
       "source_pages": [
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Numquid vivere potest scirpus absque humore? Aut criscere carectum sine aqua?",
-      "french": "Le jonc peut-il reverdir sans humidité, ou l'herbe du pré peut-elle croître sans eau ?",
+      "latin": "Numquid vivere potest scirpus absque humore ? Aut criscere carectum sine aqua ?",
+      "french": "Le jonc peut-il reverdir sans humidité, ou l’herbe du pré peut-elle croître sans eau ?",
       "annotations": null,
       "source_pages": [
         "page_0147.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Cum adhuc sit in flore, nec carpatur manu, ante omnes herbas arescit.",
-      "french": "À peine est-elle en fleur, qu'avant qu'on la cueille, elle sèche plus tôt que toutes les herbes.",
+      "french": "À peine est-elle en fleur, qu’avant qu’on la cueille, elle sèche plus tôt que toutes les herbes.",
       "annotations": null,
       "source_pages": [
         "page_0148.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Sic via omnium, qui obliviscuntur Deum, et spes hypocritæ peribit.",
-      "french": "Telle est la voie de tous ceux qui oublient Dieu, et c'est ainsi que périra l'espérance de l'hypocrite.",
+      "french": "Telle est la voie de tous ceux qui oublient Dieu, et c’est ainsi que périra l’espérance de l’hypocrite.",
       "annotations": null,
       "source_pages": [
         "page_0148.json"
@@ -124,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Non ei placebit vecordia sua, et sicut tela aranearum fiducia ejus.",
-      "french": "Il sera forcé à la fin de condamner lui-même sa folie, et ce qui fait sa confiance ne sera que comme une toile d'araignée.",
+      "french": "Il sera forcé à la fin de condamner lui-même sa folie, et ce qui fait sa confiance ne sera que comme une toile d’araignée.",
       "annotations": null,
       "source_pages": [
         "page_0148.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Innititur super domum suam , et non stabit : fulciet eam, et non consurget.",
-      "french": "Il se voudra appuyer sur sa maison, et elle n’aura point de fermeté; il fera ses efforts pour la soutenir, et elle ne subsistera point.",
+      "latin": "Innititur super domum suam, et non stabit : fulciet eam, et non consurget.",
+      "french": "Il se voudra appuyer sur sa maison, et elle n’aura point de fermeté ; il fera ses efforts pour la soutenir, et elle ne subsistera point.",
       "annotations": null,
       "source_pages": [
         "page_0149.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Humectus videtur antequam veniat sol, et in ortu suo germen ejus egredietur.",
-      "french": "Le Juste est comme une plante qui est verte avant que le soleil se lève , et qui pousse sa tige aussitôt qu’il est levé.",
+      "french": "Le Juste est comme une plante qui est verte avant que le soleil se lève, et qui pousse sa tige aussitôt qu’il est levé.",
       "annotations": null,
       "source_pages": [
         "page_0149.json"
@@ -151,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Super acervum petrarum radices ejus densabuntur, et inter lapides commorabitur.",
-      "french": "Ses racines se multiplient dans un tas de pierres , et elle demeure ferme au milieu des cailloux.",
+      "french": "Ses racines se multiplient dans un tas de pierres, et elle demeure ferme au milieu des cailloux.",
       "annotations": null,
       "source_pages": [
         "page_0150.json"
@@ -159,8 +159,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "Si absorbuerit eum de loco suo , negabit eum, et dicet: Non novi te.",
-      "french": "Si on l'arrache de sa place , elle renoncera le lieu où elle était ; elle dira : Je ne te connais point.",
+      "latin": "Si absorbuerit eum de loco suo, negabit eum, et dicet : Non novi te.",
+      "french": "Si on l’arrache de sa place, elle renoncera le lieu où elle était ; elle dira : Je ne te connais point.",
       "annotations": null,
       "source_pages": [
         "page_0150.json"
@@ -168,8 +168,8 @@
     },
     {
       "verse_number": 19,
-      "latin": "Hæc est enim lætitia viæ ejus , ut rursum de terra alii germinentur.",
-      "french": "C'est là le bonheur de sa voie , que d'autres prennent sa place , et germent de la terre.",
+      "latin": "Hæc est enim lætitia viæ ejus, ut rursum de terra alii germinentur.",
+      "french": "C’est là le bonheur de sa voie, que d’autres prennent sa place, et germent de la terre.",
       "annotations": null,
       "source_pages": [
         "page_0150.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Deus non projicit simplicem , nec porriget manum malignis :",
-      "french": "Dieu ne rejettera point celui qui est simple, comme il ne tendra point la main aux méchants ;",
+      "latin": "Deus non projicit simplicem, nec porriget manum malignis :",
+      "french": "Dieu ne rejettera point celui qui est simple, comme il ne tendra point la main aux méchants ;",
       "annotations": null,
       "source_pages": [
         "page_0150.json"
@@ -186,8 +186,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Donec impleatur risu os tuum , et labia tua jubilo.",
-      "french": "Jusqu'à ce que la joie se répande sur votre visage , et les chants d'allégresse sur vos lèvres ,",
+      "latin": "Donec impleatur risu os tuum, et labia tua jubilo.",
+      "french": "Jusqu’à ce que la joie se répande sur votre visage, et les chants d’allégresse sur vos lèvres,",
       "annotations": null,
       "source_pages": [
         "page_0150.json"
@@ -195,7 +195,7 @@
     },
     {
       "verse_number": 22,
-      "latin": "Qui oderunt te , induentur confusione : et tabernaculum impiorum non subsistet.",
+      "latin": "Qui oderunt te, induentur confusione : et tabernaculum impiorum non subsistet.",
       "french": "Alors ceux qui vous haïssent seront couverts de confusion, et la maison des impies ne subsistera plus.",
       "annotations": null,
       "source_pages": [

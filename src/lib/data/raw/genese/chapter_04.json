@@ -1,13 +1,13 @@
 {
   "book": "Genèse",
   "chapter": 4,
-  "chapter_summary": "Naissance de Caïn et d'Abel. Leurs Sacrifices. Abel est tué par Caïn. Naissance d'Énoch, de Lamech le Bigame, de Seth, et d'Énos fils de Seth.",
+  "chapter_summary": "Naissance de Caïn et d’Abel. Leurs Sacrifices. Abel est tué par Caïn. Naissance d’Énoch, de Lamech le Bigame, de Seth, et d’Énos fils de Seth.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Adam vero cognovit uxorem suam Hevam : quæ concepit et peperit Cain, dicens : Possedi hominem per Deum.",
-      "french": "Or Adam connut sa femme Ève, et elle conçut et enfanta Caïn, disant : J'ai possédé un homme par le secours de Dieu.",
+      "french": "Or Adam connut sa femme Ève, et elle conçut et enfanta Caïn, disant : J’ai possédé un homme par le secours de Dieu.",
       "annotations": null,
       "source_pages": [
         "page_0209.json"
@@ -16,7 +16,7 @@
     {
       "verse_number": 2,
       "latin": "Rursumque peperit fratrem ejus Abel. Fuit autem Abel pastor ovium, et Cain agricola.",
-      "french": "Elle eut ensuite Abel son frère ; Or Abel fut Pasteur de brebis, et Caïn Laboureur.",
+      "french": "Elle eut ensuite Abel son frère ; Or Abel fut Pasteur de brebis, et Caïn Laboureur.",
       "annotations": null,
       "source_pages": [
         "page_0210.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Abel quoque obtulit de primogenitis gregis sui, et de adipibus eorum : et respexit Dominus ad Abel, et ad munera ejus",
-      "french": "Abel offrit aussi des premiers nés de son troupeau, et de leurs graisses ; et le Seigneur regarda Abel et ses offrandes.",
+      "latin": "Abel quoque obtulit de primogenitis gregis sui, et de adipibus eorum : et respexit Dominus ad Abel, et ad munera ejus",
+      "french": "Abel offrit aussi des premiers nés de son troupeau, et de leurs graisses ; et le Seigneur regarda Abel et ses offrandes.",
       "annotations": null,
       "source_pages": [
         "page_0212.json"
@@ -43,7 +43,7 @@
     {
       "verse_number": 5,
       "latin": "Ad Cain vero, et ad munera illius non respexit : iratusque est Cain vehementer, et concidit vultus ejus.",
-      "french": "Mais il ne regarda point Caïn ni les offrandes qu'il lui avait faites : et Caïn entra dans une grande colère, et son visage en parut abattu.",
+      "french": "Mais il ne regarda point Caïn ni les offrandes qu’il lui avait faites : et Caïn entra dans une grande colère, et son visage en parut abattu.",
       "annotations": null,
       "source_pages": [
         "page_0213.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Dixitque Dominus ad eum : Quare iratus es ? Et cur concidit facies tua ?",
-      "french": "Et le Seigneur lui dit : Pourquoi êtes-vous en colère ? et pourquoi votre visage est-il abattu ?",
+      "latin": "Dixitque Dominus ad eum : Quare iratus es ? Et cur concidit facies tua ?",
+      "french": "Et le Seigneur lui dit : Pourquoi êtes-vous en colère ? et pourquoi votre visage est-il abattu ?",
       "annotations": null,
       "source_pages": [
         "page_0215.json"
@@ -61,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "Nonne si bene egeris, recipies : sin autem male, statim in foribus peccatum aderit. Sed sub te erit appetitus ejus, et tu dominaberis illius.",
-      "french": "Si vous faites bien, n'en recevrez-vous pas [la récompense ?] Mais si vous faites mal, le péché sera bientôt à votre porte. Votre concupiscence vous sera soumise, et vous la dominerez.",
+      "french": "Si vous faites bien, n’en recevrez-vous pas [la récompense ?] Mais si vous faites mal, le péché sera bientôt à votre porte. Votre concupiscence vous sera soumise, et vous la dominerez.",
       "annotations": null,
       "source_pages": [
         "page_0215.json"
@@ -70,7 +70,7 @@
     {
       "verse_number": 8,
       "latin": "Dixitque Cain ad Abel fratrem suum : Egrediamur foras. Cumque essent in agro, consurrexit Cain adversus fratrem suum Abel, et interfecit eum.",
-      "french": "Et Caïn dit à son frère Abel : Sortons dehors. Et lorsqu'ils furent dans la campagne, Caïn attaqua son frère Abel, et le tua.",
+      "french": "Et Caïn dit à son frère Abel : Sortons dehors. Et lorsqu’ils furent dans la campagne, Caïn attaqua son frère Abel, et le tua.",
       "annotations": null,
       "source_pages": [
         "page_0216.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Et ait Dominus ad Cain : Ubi est Abel frater tuus ? Qui respondit : Nescio ; Num custos fratris mei sum ego ?",
-      "french": "Et le Seigneur dit à Caïn : Où est votre frère Abel ? Caïn répondit : Je ne sais. Suis-je le gardien de mon frère ?",
+      "latin": "Et ait Dominus ad Cain : Ubi est Abel frater tuus ? Qui respondit : Nescio ; Num custos fratris mei sum ego ?",
+      "french": "Et le Seigneur dit à Caïn : Où est votre frère Abel ? Caïn répondit : Je ne sais. Suis-je le gardien de mon frère ?",
       "annotations": null,
       "source_pages": [
         "page_0217.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Dixitque ad eum : Quid fecisti ? vox sanguinis fratris tui clamat ad me de terra.",
-      "french": "Le Seigneur lui dit : Qu'avez-vous fait ? La voix du sang de votre frère crie de la terre jusqu'à moi.",
+      "latin": "Dixitque ad eum : Quid fecisti ? vox sanguinis fratris tui clamat ad me de terra.",
+      "french": "Le Seigneur lui dit : Qu’avez-vous fait ? La voix du sang de votre frère crie de la terre jusqu’à moi.",
       "annotations": null,
       "source_pages": [
         "page_0219.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Cum operatus fueris eam, non dabit tibi fructus suos : vagus et profugus eris super terram.",
-      "french": "Quand vous l'aurez cultivée ; elle ne vous donnera point son fruit. Vous serez vagabond et fugitif sur la terre.",
+      "french": "Quand vous l’aurez cultivée ; elle ne vous donnera point son fruit. Vous serez vagabond et fugitif sur la terre.",
       "annotations": null,
       "source_pages": [
         "page_0220.json"
@@ -124,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Ecce ejicis me hodie a facie terræ, et a facie tua abscondar, et ero vagus et profugus in terra : omnis igitur qui invenerit me, occidet me.",
-      "french": "Vous me chassez aujourd'hui de la terre, et je serai obligé de me cacher de devant votre face, et je serai vagabond et fugitif dans le monde ; le premier donc qui me trouvera, me mettra à mort.",
+      "french": "Vous me chassez aujourd’hui de la terre, et je serai obligé de me cacher de devant votre face, et je serai vagabond et fugitif dans le monde ; le premier donc qui me trouvera, me mettra à mort.",
       "annotations": null,
       "source_pages": [
         "page_0220.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Dixitque ei Dominus : Nequaquam ita fiet ; sed omnis qui occiderit Cain, septuplum punietur. Posuitque Dominus Cain signum, ut non interficeret eum omnis qui invenisset eum.",
-      "french": "Et le Seigneur lui répondit : Il n'en sera pas ainsi ; mais quiconque tuera Caïn, en souffrira la peine sept fois la double. Et le Seigneur mit un signe à Caïn, afin que ceux qui le rencontreraient, ne le tuassent pas.",
+      "latin": "Dixitque ei Dominus : Nequaquam ita fiet ; sed omnis qui occiderit Cain, septuplum punietur. Posuitque Dominus Cain signum, ut non interficeret eum omnis qui invenisset eum.",
+      "french": "Et le Seigneur lui répondit : Il n’en sera pas ainsi ; mais quiconque tuera Caïn, en souffrira la peine sept fois la double. Et le Seigneur mit un signe à Caïn, afin que ceux qui le rencontreraient, ne le tuassent pas.",
       "annotations": null,
       "source_pages": [
         "page_0221.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Egressusque Cain a facie Domini, habitavit profugus in terra ad orientalem plagam Eden.",
-      "french": "Et Caïn s'étant retiré de devant la face du Seigneur, il fut errant sur la terre, et demeura dans le pays, qui est à l'Orient d'Éden.",
+      "french": "Et Caïn s’étant retiré de devant la face du Seigneur, il fut errant sur la terre, et demeura dans le pays, qui est à l’Orient d’Éden.",
       "annotations": null,
       "source_pages": [
         "page_0223.json"
@@ -150,7 +150,7 @@
     },
     {
       "verse_number": 17,
-      "latin": "Cognovit autem Cain uxorem suam, quæ concepit et peperit Henoch ; et ædificavit civitatem, vocavitque nomen ejus ex nomine filii sui, Henoch.",
+      "latin": "Cognovit autem Cain uxorem suam, quæ concepit et peperit Henoch ; et ædificavit civitatem, vocavitque nomen ejus ex nomine filii sui, Henoch.",
       "french": "Et Caïn connut sa femme, qui conçut et enfanta Hénoch : Et il bâtit une Ville, à qui il donna le nom de son fils Hénoch.",
       "annotations": null,
       "source_pages": [
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Porro Henoch genuit Irad, et Irad genuit Maviael, et Maviael genuit Mathusael, et Mathusael genuit Lamech.",
-      "french": "Hénoch fut père d'Irad, et Irad de Maviaël, et Maviaël de Mathusaël, et Mathusaël de Lamech.",
+      "french": "Hénoch fut père d’Irad, et Irad de Maviaël, et Maviaël de Mathusaël, et Mathusaël de Lamech.",
       "annotations": null,
       "source_pages": [
         "page_0224.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Qui accepit duas uxores, nomen uni Adæ, et nomen alteri Sellæ.",
-      "french": "Lamech épousa deux femmes ; l'une s'appelait Ada, et l'autre Sella.",
+      "french": "Lamech épousa deux femmes ; l’une s’appelait Ada, et l’autre Sella.",
       "annotations": null,
       "source_pages": [
         "page_0224.json"
@@ -187,7 +187,7 @@
     {
       "verse_number": 21,
       "latin": "Et nomen fratris ejus Jubal : ipse fuit pater canentium cithara et organo.",
-      "french": "Le nom de son frère fut Jubal ; qui fut père de ceux qui jouent de la harpe et de l'orgue.",
+      "french": "Le nom de son frère fut Jubal ; qui fut père de ceux qui jouent de la harpe et de l’orgue.",
       "annotations": null,
       "source_pages": [
         "page_0225.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Sella quoque genuit Tubalcain, qui fuit malleator, et faber in cuncta opera aeris et ferri. Soror vero Tubalcain, Noema.",
-      "french": "Sella enfanta aussi Tubalcaïn, qui eut l'art de travailler avec le marteau, et qui fut habile en toute sorte d'ouvrage d'airain et de fer. La sœur de Tubalcaïn s'appelait Noéma.",
+      "french": "Sella enfanta aussi Tubalcaïn, qui eut l’art de travailler avec le marteau, et qui fut habile en toute sorte d’ouvrage d’airain et de fer. La sœur de Tubalcaïn s’appelait Noéma.",
       "annotations": null,
       "source_pages": [
         "page_0226.json"
@@ -205,7 +205,7 @@
     {
       "verse_number": 23,
       "latin": "Dixitque Lamech uxoribus suis Adæ et Sellæ : Audite vocem meam uxores Lamech, auscultate sermonem meum : quoniam occidi virum in vulnus meum, et adolescentulum in livorem meum.",
-      "french": "Or Lamech dit à ses deux femmes Ada et Sella : Femmes de Lamech, écoutez ma voix, entendez ce que je vais dire : J'ai tué un homme pour ma blessure, et un jeune homme pour ma meurtrissure.",
+      "french": "Or Lamech dit à ses deux femmes Ada et Sella : Femmes de Lamech, écoutez ma voix, entendez ce que je vais dire : J’ai tué un homme pour ma blessure, et un jeune homme pour ma meurtrissure.",
       "annotations": null,
       "source_pages": [
         "page_0227.json"
@@ -213,8 +213,8 @@
     },
     {
       "verse_number": 24,
-      "latin": "Septuplum ultio dabitur de Cain ; de Lamech vero septuagies septies.",
-      "french": "On tirera vengeance [du meurtrier] de Caïn jusqu'à sept fois, et de celui de Lamech septante fois sept fois.",
+      "latin": "Septuplum ultio dabitur de Cain ; de Lamech vero septuagies septies.",
+      "french": "On tirera vengeance [du meurtrier] de Caïn jusqu’à sept fois, et de celui de Lamech septante fois sept fois.",
       "annotations": null,
       "source_pages": [
         "page_0228.json"
@@ -223,7 +223,7 @@
     {
       "verse_number": 25,
       "latin": "Cognovit quoque adhuc Adam uxorem suam : Et peperit filium, vocavitque nomen ejus Seth, dicens : Posuit mihi Deus semen aliud pro Abel, quem occidit Cain.",
-      "french": "Adam connut encore sa femme, et elle enfanta un fils qu'elle nomma Seth, en disant : Le Seigneur m'a rendu un autre fils en la place d'Abel que Caïn a tué.",
+      "french": "Adam connut encore sa femme, et elle enfanta un fils qu’elle nomma Seth, en disant : Le Seigneur m’a rendu un autre fils en la place d’Abel que Caïn a tué.",
       "annotations": null,
       "source_pages": [
         "page_0231.json"
@@ -232,7 +232,7 @@
     {
       "verse_number": 26,
       "latin": "Sed et Seth natus est filius, quem vocavit Enos : iste coepit invocare nomen Domini.",
-      "french": "Seth eut aussi un fils, à qui il donna le nom d'Énos : celui-ci commença d'invoquer le nom du Seigneur.",
+      "french": "Seth eut aussi un fils, à qui il donna le nom d’Énos : celui-ci commença d’invoquer le nom du Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0231.json"

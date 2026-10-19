@@ -1,13 +1,13 @@
 {
   "book": "Genèse",
   "chapter": 3,
-  "chapter_summary": "Tentation d'Ève par le Serpent. Chute d'Ève et d'Adam. Malédictions contre le Serpent. Condamnation des premiers Hommes. Ils sont chassés du Paradis.",
+  "chapter_summary": "Tentation d’Ève par le Serpent. Chute d’Ève et d’Adam. Malédictions contre le Serpent. Condamnation des premiers Hommes. Ils sont chassés du Paradis.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Sed et Serpens erat callidior cunctis animantibus terræ quæ fecerat Dominus Deus. Qui dixit ad mulierem : Cur præcepit vobis Deus ut non comederetis de omni ligno Paradisi ?",
-      "french": "Or le Serpent était le plus rusé de tous les animaux de la terre, que le Seigneur Dieu avait fait ; et il dit à la femme : Pourquoi Dieu vous a-t-il défendu de manger du fruit de tous les arbres du Paradis ?",
+      "latin": "Sed et Serpens erat callidior cunctis animantibus terræ quæ fecerat Dominus Deus. Qui dixit ad mulierem : Cur præcepit vobis Deus ut non comederetis de omni ligno Paradisi ?",
+      "french": "Or le Serpent était le plus rusé de tous les animaux de la terre, que le Seigneur Dieu avait fait ; et il dit à la femme : Pourquoi Dieu vous a-t-il défendu de manger du fruit de tous les arbres du Paradis ?",
       "annotations": null,
       "source_pages": [
         "page_0184.json"
@@ -25,7 +25,7 @@
     {
       "verse_number": 3,
       "latin": "De fructu vero ligni, quod est in medio Paradisi, præcepit nobis Deus ne comederemus, et ne tangeremus illud, ne forte moriamur.",
-      "french": "Mais le Seigneur nous a défendu de manger du fruit de l'arbre qui est au milieu du Paradis, et d'y toucher, de peur que peut-être nous ne mourions.",
+      "french": "Mais le Seigneur nous a défendu de manger du fruit de l’arbre qui est au milieu du Paradis, et d’y toucher, de peur que peut-être nous ne mourions.",
       "annotations": null,
       "source_pages": [
         "page_0187.json"
@@ -43,7 +43,7 @@
     {
       "verse_number": 5,
       "latin": "Scit enim Deus quod in quocumque die comederitis ex eo, aperientur oculi vestri : Et eritis sicut dii, scientes bonum et malum.",
-      "french": "Car Dieu sait qu'aussitôt que vous aurez mangé de ce fruit, vos yeux seront ouverts : Et vous serez comme des Dieux, par la connaissance que vous aurez du bien et du mal.",
+      "french": "Car Dieu sait qu’aussitôt que vous aurez mangé de ce fruit, vos yeux seront ouverts : Et vous serez comme des Dieux, par la connaissance que vous aurez du bien et du mal.",
       "annotations": null,
       "source_pages": [
         "page_0189.json"
@@ -61,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "Et aperti sunt oculi amborum : cumque cognovissent se esse nudos, consuerunt folia ficus, et fecerunt sibi perizomata.",
-      "french": "Et en même temps leurs yeux furent ouverts, et ils reconnurent qu'ils étaient nus ; et ayant cousu ensemble des feuilles de figuier, ils s'en firent des ceintures.",
+      "french": "Et en même temps leurs yeux furent ouverts, et ils reconnurent qu’ils étaient nus ; et ayant cousu ensemble des feuilles de figuier, ils s’en firent des ceintures.",
       "annotations": null,
       "source_pages": [
         "page_0190.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Vocavitque Dominus Deus Adam, et dixit ei : Ubi es ?",
-      "french": "Et le Seigneur appela Adam, et lui dit : Où êtes-vous ?",
+      "latin": "Vocavitque Dominus Deus Adam, et dixit ei : Ubi es ?",
+      "french": "Et le Seigneur appela Adam, et lui dit : Où êtes-vous ?",
       "annotations": null,
       "source_pages": [
         "page_0193.json"
@@ -88,7 +88,7 @@
     {
       "verse_number": 10,
       "latin": "Qui ait : Vocem tuam audivi in Paradiso : et timui eo quod nudus essem, et abscondi me.",
-      "french": "Adam répondit : J'ai ouï votre voix dans le Paradis, et comme j'étais nu, j'ai eu peur [de paraître devant vous] et je me suis caché.",
+      "french": "Adam répondit : J’ai ouï votre voix dans le Paradis, et comme j’étais nu, j’ai eu peur [de paraître devant vous] et je me suis caché.",
       "annotations": null,
       "source_pages": [
         "page_0193.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Cui dixit : Quis enim indicavit tibi quod nudus esses, nisi quod ex ligno de quo præceperam tibi ne comederes, comedisti ?",
-      "french": "Dieu lui dit : Et d'où avez-vous appris que vous étiez nu, sinon de ce que vous avez mangé du fruit de l'arbre dont je vous avais ordonné de ne pas manger ?",
+      "latin": "Cui dixit : Quis enim indicavit tibi quod nudus esses, nisi quod ex ligno de quo præceperam tibi ne comederes, comedisti ?",
+      "french": "Dieu lui dit : Et d’où avez-vous appris que vous étiez nu, sinon de ce que vous avez mangé du fruit de l’arbre dont je vous avais ordonné de ne pas manger ?",
       "annotations": null,
       "source_pages": [
         "page_0193.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Dixitque Adam : Mulier, quam dedisti mihi sociam, dedit mihi de ligno, et comedi.",
-      "french": "Adam lui répondit : La femme que vous m'avez donnée pour compagne m'a donné de ce fruit, et j'en ai mangé.",
+      "french": "Adam lui répondit : La femme que vous m’avez donnée pour compagne m’a donné de ce fruit, et j’en ai mangé.",
       "annotations": null,
       "source_pages": [
         "page_0194.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Et dixit Dominus Deus ad mulierem: Quare hoc fecisti ? Quæ respondit : Serpens decepit me, et comedi.",
-      "french": "Et le Seigneur Dieu dit à la femme : Pourquoi avez-vous fait cela ? Elle répondit : Le serpent m'a trompée, et j'ai mangé [de ce fruit.]",
+      "latin": "Et dixit Dominus Deus ad mulierem : Quare hoc fecisti ? Quæ respondit : Serpens decepit me, et comedi.",
+      "french": "Et le Seigneur Dieu dit à la femme : Pourquoi avez-vous fait cela ? Elle répondit : Le serpent m’a trompée, et j’ai mangé [de ce fruit.]",
       "annotations": null,
       "source_pages": [
         "page_0194.json"
@@ -124,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Et ait Dominus Deus ad serpentem : Quia fecisti hoc, maledictus es inter omnia animantia, et bestias terræ : super pectus tuum gradieris, et terram comedes cunctis diebus vitæ tuæ.",
-      "french": "Et le Seigneur Dieu dit au serpent : Puisque tu as fait cette action, tu es maudit entre tous les animaux, et toutes les bêtes de la terre ; tu ramperas sur ton ventre, et tu mangeras de la terre tous les jours de ta vie.",
+      "french": "Et le Seigneur Dieu dit au serpent : Puisque tu as fait cette action, tu es maudit entre tous les animaux, et toutes les bêtes de la terre ; tu ramperas sur ton ventre, et tu mangeras de la terre tous les jours de ta vie.",
       "annotations": null,
       "source_pages": [
         "page_0194.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Inimicitias ponam inter te et mulierem, et semen tuum et semen illius : ipsa conteret caput tuum, et tu insidiaberis calcaneo ejus.",
-      "french": "Je mettrai des inimitiés entre toi et la femme, entre sa postérité et la tienne : Elle t'écrasera la tête, et tu tâcheras de lui mordre le talon.",
+      "french": "Je mettrai des inimitiés entre toi et la femme, entre sa postérité et la tienne : Elle t’écrasera la tête, et tu tâcheras de lui mordre le talon.",
       "annotations": null,
       "source_pages": [
         "page_0196.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Mulieri quoque dixit : Multiplicabo aerumuas tuas, et conceptus tuos : in dolore paries filios, et sub viri potestate eris, et ipse dominabitur tui.",
-      "french": "Il dit aussi à la femme : Je multiplierai vos douleurs, et le nombre de vos grossesses. Vous mettrez au monde vos enfants dans la douleur ; vous serez sous la puissance de l'homme, et il vous dominera.",
+      "french": "Il dit aussi à la femme : Je multiplierai vos douleurs, et le nombre de vos grossesses. Vous mettrez au monde vos enfants dans la douleur ; vous serez sous la puissance de l’homme, et il vous dominera.",
       "annotations": null,
       "source_pages": [
         "page_0198.json"
@@ -151,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Ada vero dixit : Quia audisti vocem uxoris tuæ, et comedisti de ligno, ex quo præceperam tibi, ne comederes, maledicta terra in opere tuo : in laboribus comedes ex ea cunctis diebus vitæ tuæ.",
-      "french": "Et il dit à Adam : Puisque vous avez écouté la voix de votre femme, et que vous avez mangé [du fruit] de l'arbre, dont je vous avais ordonné de ne pas manger ; la terre sera maudite dans vos ouvrages, vous n'en tirerez qu'avec beaucoup de travail votre nourriture tous les jours de votre vie.",
+      "french": "Et il dit à Adam : Puisque vous avez écouté la voix de votre femme, et que vous avez mangé [du fruit] de l’arbre, dont je vous avais ordonné de ne pas manger ; la terre sera maudite dans vos ouvrages, vous n’en tirerez qu’avec beaucoup de travail votre nourriture tous les jours de votre vie.",
       "annotations": null,
       "source_pages": [
         "page_0199.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "In sudore vultus tui vesceris pane, donec reuertaris in terram de qua sumptus es : quia pulvis es, et in pulverem reuerteris.",
-      "french": "Vous mangerez votre pain à la sueur de votre visage, jusqu'à ce que vous retourniez en la terre, dont vous avez été formé : Car vous êtes poudre, et vous retournerez en poudre.",
+      "french": "Vous mangerez votre pain à la sueur de votre visage, jusqu’à ce que vous retourniez en la terre, dont vous avez été formé : Car vous êtes poudre, et vous retournerez en poudre.",
       "annotations": null,
       "source_pages": [
         "page_0200.json"
@@ -178,7 +178,7 @@
     {
       "verse_number": 20,
       "latin": "Et vocavit Adam nomen uxoris suæ, Heva : eo quod mater esset cunctorum viventium.",
-      "french": "Et Adam donna à sa femme le nom d'Ève, parce qu'elle devait être la mère de tous les vivants.",
+      "french": "Et Adam donna à sa femme le nom d’Ève, parce qu’elle devait être la mère de tous les vivants.",
       "annotations": null,
       "source_pages": [
         "page_0202.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Et ait : Ecce Adam quasi unus ex nobis factus est, sciens bonum et malum : nunc ergo ne forte mittat manum suam, et sumat etiam de ligno vitæ, et comedat, et vivat in æternum.",
-      "french": "Et il dit : Voilà Adam devenu comme l'un de nous, connaissant le bien et le mal. Mais à présent de peur qu'il ne porte sa main, et que prenant [du fruit] de l'arbre de vie, il n'en mange, et ne vive éternellement.",
+      "french": "Et il dit : Voilà Adam devenu comme l’un de nous, connaissant le bien et le mal. Mais à présent de peur qu’il ne porte sa main, et que prenant [du fruit] de l’arbre de vie, il n’en mange, et ne vive éternellement.",
       "annotations": null,
       "source_pages": [
         "page_0203.json"
@@ -205,7 +205,7 @@
     {
       "verse_number": 23,
       "latin": "Et emisit eum Dominus Deus de Paradiso voluptatis, ut operaretur terram, de qua sumptus est.",
-      "french": "Le Seigneur le mit hors du Jardin de plaisir, afin qu'il cultivât la terre, dont il avait été tiré.",
+      "french": "Le Seigneur le mit hors du Jardin de plaisir, afin qu’il cultivât la terre, dont il avait été tiré.",
       "annotations": null,
       "source_pages": [
         "page_0203.json"
@@ -214,7 +214,7 @@
     {
       "verse_number": 24,
       "latin": "Ejectitque Adam : et collocavit ante Paradisum voluptatis Cherubim, et flammeum gladium atque versatilem, ad custodiendam viam ligni vitæ.",
-      "french": "Et après qu'il l'eut chassé du Jardin, il mit devant ce lieu de délices un Chérubin avec un glaive étincelant, pour garder l'entrée de l'arbre de vie.",
+      "french": "Et après qu’il l’eut chassé du Jardin, il mit devant ce lieu de délices un Chérubin avec un glaive étincelant, pour garder l’entrée de l’arbre de vie.",
       "annotations": null,
       "source_pages": [
         "page_0204.json"

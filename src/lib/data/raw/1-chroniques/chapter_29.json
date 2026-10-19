@@ -1,13 +1,13 @@
 {
   "book": "1 Chroniques",
   "chapter": 29,
-  "chapter_summary": "Offrandes de David, et des principaux d'Israël, pour le bâtiment du Temple. Seconde onction de Salomon. Mort de David.",
+  "chapter_summary": "Offrandes de David, et des principaux d’Israël, pour le bâtiment du Temple. Seconde onction de Salomon. Mort de David.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Locutusque est David Rex ad omnem ecclesiam : Salomonem filium meum unum elegit Deus, adhuc puerum et tenellum : opus namque grande est, neque enim homini præparatur habitatio, sed Deo.",
-      "french": "Ensuite le Roi adressa la parole à toute cette assemblée, et leur dit: Dieu a bien voulu choisir mon fils Salomon entre tous les autres, quoiqu'il soit encore jeune et délicat ; et que l'entreprise dont il s'agit soit grande, puisque ce n'est pas pour un homme, mais pour Dieu même, que nous voulons préparer une maison.",
+      "latin": "Locutusque est David Rex ad omnem ecclesiam : Salomonem filium meum unum elegit Deus, adhuc puerum et tenellum : opus namque grande est, neque enim homini præparatur habitatio, sed Deo.",
+      "french": "Ensuite le Roi adressa la parole à toute cette assemblée, et leur dit : Dieu a bien voulu choisir mon fils Salomon entre tous les autres, quoiqu’il soit encore jeune et délicat ; et que l’entreprise dont il s’agit soit grande, puisque ce n’est pas pour un homme, mais pour Dieu même, que nous voulons préparer une maison.",
       "annotations": "An. du M. 2990.",
       "source_pages": [
         "page_0314.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Ego autem totis viribus meis præparavi impensas domûs Dei mei ; aurum ad vasa aurea, et argentum in argentea, æs in ænea, ferrum in ferrea, ligna ad lignea, et lapides onychinos, et quasi stibinos, et diversorum colorum, omnemque pretiosum lapidem, et marmor Parium abundantissimè.",
-      "french": "Pour moi, je me suis employé de toutes mes forces, à amasser ce qui était nécessaire pour fournir à la dépense de la maison de mon Dieu : de l'or, pour les vases d'or, et de l'argent, pour ceux d'argent ; du cuivre, pour les ouvrages de cuivre ; du fer, pour ceux de fer ; et du bois, pour ceux de bois. J'ai aussi préparé des pierres d'onyx, des pierres blanches comme l'albâtre, et des pierres de diverses couleurs ; toutes sortes de pierres précieuses, et du marbre de Paros en quantité.",
+      "latin": "Ego autem totis viribus meis præparavi impensas domûs Dei mei ; aurum ad vasa aurea, et argentum in argentea, æs in ænea, ferrum in ferrea, ligna ad lignea, et lapides onychinos, et quasi stibinos, et diversorum colorum, omnemque pretiosum lapidem, et marmor Parium abundantissimè.",
+      "french": "Pour moi, je me suis employé de toutes mes forces, à amasser ce qui était nécessaire pour fournir à la dépense de la maison de mon Dieu : de l’or, pour les vases d’or, et de l’argent, pour ceux d’argent ; du cuivre, pour les ouvrages de cuivre ; du fer, pour ceux de fer ; et du bois, pour ceux de bois. J’ai aussi préparé des pierres d’onyx, des pierres blanches comme l’albâtre, et des pierres de diverses couleurs ; toutes sortes de pierres précieuses, et du marbre de Paros en quantité.",
       "annotations": null,
       "source_pages": [
         "page_0314.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Tria millia talenta auri de auro Ophir : et septem millia talentorum argenti probatissimi, ad deaurandos parietes templi.",
-      "french": "J'ai donc amassé trois mille talents d'or d'Ophir, et sept mille talents d'argent très fin et très pur, pour en revêtir les murailles du temple.",
+      "latin": "Tria millia talenta auri de auro Ophir : et septem millia talentorum argenti probatissimi, ad deaurandos parietes templi.",
+      "french": "J’ai donc amassé trois mille talents d’or d’Ophir, et sept mille talents d’argent très fin et très pur, pour en revêtir les murailles du temple.",
       "annotations": "An 1990.",
       "source_pages": [
         "page_0316.json"
@@ -43,7 +43,7 @@
     {
       "verse_number": 5,
       "latin": "Et ubicumque opus est, aurum de auro, et ubicumque opus est, argenium de argento, opera fiant per manus artificum. Et si quis sponte offert, impleat manum suam hodie, et offerat quod voluerit Domino.",
-      "french": "En sorte que partout où il en sera besoin, les ouvriers puissent employer l’or pour les ouvrages d’or ; et l’argent pour ceux qui doivent être d’argent. Mais si quelqu’un veut encore offrir quelque chose de lui-même au Seigneur, qu’il emplisse aujourd’hui ses mains, et qu’il offre au Seigneur ce qu’il lui plaira.",
+      "french": "En sorte que partout où il en sera besoin, les ouvriers puissent employer l’or pour les ouvrages d’or ; et l’argent pour ceux qui doivent être d’argent. Mais si quelqu’un veut encore offrir quelque chose de lui-même au Seigneur, qu’il emplisse aujourd’hui ses mains, et qu’il offre au Seigneur ce qu’il lui plaira.",
       "annotations": "An.2990.",
       "source_pages": [
         "page_0317.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Dederuntque in opera domûs Dei, auri talenta quinque millia, et solidos decem millia : argenti talenta decem millia, et æris talenta decem et octo millia : ferri quoque centum millia talentorum.",
-      "french": "Et ils donnèrent pour les ouvrages de la maison de Dieu, cinq mille talents d'or, et dix mille solides, dix mille talents d'argent, dix-huit mille talents de cuivre, et cent mille talents de fer.",
+      "latin": "Dederuntque in opera domûs Dei, auri talenta quinque millia, et solidos decem millia : argenti talenta decem millia, et æris talenta decem et octo millia : ferri quoque centum millia talentorum.",
+      "french": "Et ils donnèrent pour les ouvrages de la maison de Dieu, cinq mille talents d’or, et dix mille solides, dix mille talents d’argent, dix-huit mille talents de cuivre, et cent mille talents de fer.",
       "annotations": null,
       "source_pages": [
         "page_0318.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Lætatúsque est populus, cùm vota sponte promitterent : quia corde toto offerebant ea Domino : sed et David Rex lætatus est gaudio magno.",
-      "french": "Et tout le monde témoigna une grande joie, en promettant ces offrandes volontaires, parce qu'ils les offraient de tout leur cœur au Seigneur. Et le Roi David était aussi tout transporté de joie.",
+      "latin": "Lætatúsque est populus, cùm vota sponte promitterent : quia corde toto offerebant ea Domino : sed et David Rex lætatus est gaudio magno.",
+      "french": "Et tout le monde témoigna une grande joie, en promettant ces offrandes volontaires, parce qu’ils les offraient de tout leur cœur au Seigneur. Et le Roi David était aussi tout transporté de joie.",
       "annotations": null,
       "source_pages": [
         "page_0319.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Et benedixit Domino coram universa multitudine, et ait : Benedictus es, Domine Deus Israël patris nostri, ab æterno in æternum.",
-      "french": "C'est pourquoi il commença à louer Dieu devant toute cette multitude, et il dit : Seigneur, qui êtes le Dieu d'Israël notre père, vous êtes béni dans tous les siècles.",
+      "latin": "Et benedixit Domino coram universa multitudine, et ait : Benedictus es, Domine Deus Israël patris nostri, ab æterno in æternum.",
+      "french": "C’est pourquoi il commença à louer Dieu devant toute cette multitude, et il dit : Seigneur, qui êtes le Dieu d’Israël notre père, vous êtes béni dans tous les siècles.",
       "annotations": null,
       "source_pages": [
         "page_0319.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Tua est, Domine magnificentia et potentia, et gloria, atque victoria; et tibi laus : cuncta enim quæ in cælo sunt, et in terra, tua sunt : tuum Domine regnum, et tu es super omnes principes.",
-      "french": "C'est à vous, Seigneur, qu'appartient la grandeur, la puissance, la gloire, et la victoire : et c'est à vous que sont dues les louanges. Car tout ce qui est dans le ciel et sur la terre, est à vous. C'est à vous qu'il appartient de régner, et vous êtes élevé au-dessus de tous les princes.",
+      "latin": "Tua est, Domine magnificentia et potentia, et gloria, atque victoria ; et tibi laus : cuncta enim quæ in cælo sunt, et in terra, tua sunt : tuum Domine regnum, et tu es super omnes principes.",
+      "french": "C’est à vous, Seigneur, qu’appartient la grandeur, la puissance, la gloire, et la victoire : et c’est à vous que sont dues les louanges. Car tout ce qui est dans le ciel et sur la terre, est à vous. C’est à vous qu’il appartient de régner, et vous êtes élevé au-dessus de tous les princes.",
       "annotations": null,
       "source_pages": [
         "page_0319.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Tuæ divitiæ, et tua est gloria : tu dominaris omnium, in manu tua virtus et potentia : in manu tua magnitudo, et imperium omnium.",
-      "french": "Les richesses et la gloire sont à vous. C’est vous qui avez la souveraine puissance sur toutes les créatures. La force et l’autorité sont entre vos mains; vous possédez la grandeur, et le commandement sur tous les hommes.",
+      "latin": "Tuæ divitiæ, et tua est gloria : tu dominaris omnium, in manu tua virtus et potentia : in manu tua magnitudo, et imperium omnium.",
+      "french": "Les richesses et la gloire sont à vous. C’est vous qui avez la souveraine puissance sur toutes les créatures. La force et l’autorité sont entre vos mains ; vous possédez la grandeur, et le commandement sur tous les hommes.",
       "annotations": "An. 2990.",
       "source_pages": [
         "page_0320.json"
@@ -123,8 +123,8 @@
     },
     {
       "verse_number": 14,
-      "latin": "Quis ego, et quis populus meus, ut possimus hæc tibi universa promittere? tuæ sunt omnia : et quæ de manu tua accepimus, dedimus tibi.",
-      "french": "Mais qui suis-je, et qui est mon peuple, pour oser vous offrir toutes ces choses? Tout est à vous, et nous ne vous avons présenté, que ce que nous avons reçu de votre main.",
+      "latin": "Quis ego, et quis populus meus, ut possimus hæc tibi universa promittere ? tuæ sunt omnia : et quæ de manu tua accepimus, dedimus tibi.",
+      "french": "Mais qui suis-je, et qui est mon peuple, pour oser vous offrir toutes ces choses ? Tout est à vous, et nous ne vous avons présenté, que ce que nous avons reçu de votre main.",
       "annotations": null,
       "source_pages": [
         "page_0320.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Scio, Deus meus, quòd probes corda, et simplicitatem diligas, unde et ego in simplicitate cordis mei lætus obtuli universa hæc : et populum tuum, qui hic repertus est, vidi cum ingenti gaudio tibi offerre donaria.",
-      "french": "Je sais, mon Dieu, que c’est vous qui sondez les cœurs, et que vous aimez la simplicité. C’est pourquoi je vous ai aussi offert toutes ces choses, dans la simplicité de mon cœur, et avec joie ; et j’ai été ravi de voir aussi tout ce peuple assemblé en ce lieu, vous offrir de même ses présents.",
+      "latin": "Scio, Deus meus, quòd probes corda, et simplicitatem diligas, unde et ego in simplicitate cordis mei lætus obtuli universa hæc : et populum tuum, qui hic repertus est, vidi cum ingenti gaudio tibi offerre donaria.",
+      "french": "Je sais, mon Dieu, que c’est vous qui sondez les cœurs, et que vous aimez la simplicité. C’est pourquoi je vous ai aussi offert toutes ces choses, dans la simplicité de mon cœur, et avec joie ; et j’ai été ravi de voir aussi tout ce peuple assemblé en ce lieu, vous offrir de même ses présents.",
       "annotations": null,
       "source_pages": [
         "page_0321.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Salomoni quoque filio meo da cor perfectum, ut custodiat mandata tua, testimonia tua, et ceremonias tuas, et faciat universa, et ædificet ædem, cujus impensas paravi.",
-      "french": "Donnez aussi à mon fils Salomon un cœur parfait, afin qu'il garde vos commandements et vos paroles, et qu'il observe vos cérémonies, et accomplisse tous vos ordres, et qu'il bâtisse votre maison, pour laquelle j'ai préparé toutes les choses nécessaires.",
+      "french": "Donnez aussi à mon fils Salomon un cœur parfait, afin qu’il garde vos commandements et vos paroles, et qu’il observe vos cérémonies, et accomplisse tous vos ordres, et qu’il bâtisse votre maison, pour laquelle j’ai préparé toutes les choses nécessaires.",
       "annotations": "An. 2990.",
       "source_pages": [
         "page_0322.json"
@@ -177,8 +177,8 @@
     },
     {
       "verse_number": 20,
-      "latin": "Præcepit autem David universæ ecclesiæ: Benedicite Domino Deo nostro. Et benedixit omnis ecclesia Domino Deo patrum suorum : et inclinati adoraverunt Deum, et deinde Regem.",
-      "french": "David dit ensuite à toute l'assemblée : Bénissez le Seigneur notre Dieu. Et toute l'assemblée bénit le Seigneur, le Dieu de leurs pères: et se prosternant, ils adorèrent Dieu, et rendirent ensuite leur hommage au Roi.",
+      "latin": "Præcepit autem David universæ ecclesiæ : Benedicite Domino Deo nostro. Et benedixit omnis ecclesia Domino Deo patrum suorum : et inclinati adoraverunt Deum, et deinde Regem.",
+      "french": "David dit ensuite à toute l’assemblée : Bénissez le Seigneur notre Dieu. Et toute l’assemblée bénit le Seigneur, le Dieu de leurs pères : et se prosternant, ils adorèrent Dieu, et rendirent ensuite leur hommage au Roi.",
       "annotations": null,
       "source_pages": [
         "page_0322.json"
@@ -187,7 +187,7 @@
     {
       "verse_number": 21,
       "latin": "Immolaverúntque victimas Domino, et obtulerunt holocausta die sequenti, tauros mille, arietes mille, agnos mille, cum libaminibus suis, et universo ritu abundantissimè in omnem Israël.",
-      "french": "Ils immolèrent en même temps des victimes au Seigneur : et le lendemain ils lui offrirent en holocauste mille taureaux, mille béliers, et mille agneaux, avec leurs offrandes de liqueurs, et tout ce qui était prescrit : ce qui fut très suffisant pour tout Israël.",
+      "french": "Ils immolèrent en même temps des victimes au Seigneur : et le lendemain ils lui offrirent en holocauste mille taureaux, mille béliers, et mille agneaux, avec leurs offrandes de liqueurs, et tout ce qui était prescrit : ce qui fut très suffisant pour tout Israël.",
       "annotations": null,
       "source_pages": [
         "page_0322.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Et comederunt, et biberunt coram Domino in die illo cum grandi lætitia. Et unxerunt secundò Salomonem filium David. Unxerunt autem eum Domino in principem, et Sadoc in pontificem.",
-      "french": "Ainsi ils mangèrent, et burent ce jour-là en la présence du Seigneur, avec de grandes réjouissances. Ils sacrèrent une seconde fois Salomon fils de David. Ils le sacrèrent par l'ordre du Seigneur, pour être Roi, et Sadoc pour être Pontife.",
+      "french": "Ainsi ils mangèrent, et burent ce jour-là en la présence du Seigneur, avec de grandes réjouissances. Ils sacrèrent une seconde fois Salomon fils de David. Ils le sacrèrent par l’ordre du Seigneur, pour être Roi, et Sadoc pour être Pontife.",
       "annotations": null,
       "source_pages": [
         "page_0323.json"
@@ -204,8 +204,8 @@
     },
     {
       "verse_number": 23,
-      "latin": "Seditque Salomon super solium Domini in Regem, pro David patre suo; et cunctis placuit, et paruit illi omnis Israël.",
-      "french": "Ainsi Salomon fut mis sur le trône du Seigneur, pour régner au lieu de David son père ; il fut agréable à tous, et tout Israël lui rendit obéissance.",
+      "latin": "Seditque Salomon super solium Domini in Regem, pro David patre suo ; et cunctis placuit, et paruit illi omnis Israël.",
+      "french": "Ainsi Salomon fut mis sur le trône du Seigneur, pour régner au lieu de David son père ; il fut agréable à tous, et tout Israël lui rendit obéissance.",
       "annotations": null,
       "source_pages": [
         "page_0323.json"
@@ -222,8 +222,8 @@
     },
     {
       "verse_number": 25,
-      "latin": "Magnificavit ergo Dominus Salomonem super omnem Israël : et dedit illi gloriam regni, qualem nullus habuit ante eum Rex Israël.",
-      "french": "Dieu éleva donc Salomon sur tout Israël; et il combla son règne d'une telle gloire, que nul Roi d'Israël n'en avait eu avant lui de semblable.",
+      "latin": "Magnificavit ergo Dominus Salomonem super omnem Israël : et dedit illi gloriam regni, qualem nullus habuit ante eum Rex Israël.",
+      "french": "Dieu éleva donc Salomon sur tout Israël ; et il combla son règne d’une telle gloire, que nul Roi d’Israël n’en avait eu avant lui de semblable.",
       "annotations": null,
       "source_pages": [
         "page_0324.json"
@@ -232,7 +232,7 @@
     {
       "verse_number": 26,
       "latin": "Igitur David filius Isaï regnavit super universum Israël.",
-      "french": "David fils d'Isaï régna donc sur tout le peuple d'Israël.",
+      "french": "David fils d’Isaï régna donc sur tout le peuple d’Israël.",
       "annotations": null,
       "source_pages": [
         "page_0324.json"
@@ -240,8 +240,8 @@
     },
     {
       "verse_number": 27,
-      "latin": "Et dies, quibus regnavit super Israël, fuerunt quadraginta anni : in Hebron regnavit septem annis, et in Jerusalem annis triginta tribus.",
-      "french": "Et la durée de son règne sur Israël, fut de quarante ans ; il régna sept ans à Hebron, et trente-trois à Jérusalem.",
+      "latin": "Et dies, quibus regnavit super Israël, fuerunt quadraginta anni : in Hebron regnavit septem annis, et in Jerusalem annis triginta tribus.",
+      "french": "Et la durée de son règne sur Israël, fut de quarante ans ; il régna sept ans à Hebron, et trente-trois à Jérusalem.",
       "annotations": null,
       "source_pages": [
         "page_0325.json"
@@ -249,8 +249,8 @@
     },
     {
       "verse_number": 28,
-      "latin": "Et mortuus est in senectute bona, plenus dierum, et divitiis, et gloria : et regnavit Salomon filius ejus pro eo.",
-      "french": "Il mourut dans une heureuse vieillesse, comblé d'années, de biens, et de gloire : et Salomon son fils régna en sa place.",
+      "latin": "Et mortuus est in senectute bona, plenus dierum, et divitiis, et gloria : et regnavit Salomon filius ejus pro eo.",
+      "french": "Il mourut dans une heureuse vieillesse, comblé d’années, de biens, et de gloire : et Salomon son fils régna en sa place.",
       "annotations": null,
       "source_pages": [
         "page_0325.json"
@@ -258,7 +258,7 @@
     },
     {
       "verse_number": 29,
-      "latin": "Gesta autem David Regis, priora et novissima, scripta sunt in Libro Samuëlis Videntis, et in Libro Nathan Prophetæ, atque in volumine Gad Videntis :",
+      "latin": "Gesta autem David Regis, priora et novissima, scripta sunt in Libro Samuëlis Videntis, et in Libro Nathan Prophetæ, atque in volumine Gad Videntis :",
       "french": "Or toutes les actions du Roi David, tant les premières, que les dernières, sont écrites dans le Livre du Prophète Samuel, et dans le Livre du Prophète Nathan, et dans celui du Prophète Gad.",
       "annotations": null,
       "source_pages": [
@@ -268,7 +268,7 @@
     {
       "verse_number": 30,
       "latin": "Universique regni ejus, et fortitudinis, et temporum, quæ transierunt sub eo, sive in Israël, sive in cunctis regnis terrarum.",
-      "french": "Avec l'histoire de son règne, de ses forces, et de ce qui s'est passé de son temps, soit dans Israël, soit dans tous les autres Royaumes de la terre.",
+      "french": "Avec l’histoire de son règne, de ses forces, et de ce qui s’est passé de son temps, soit dans Israël, soit dans tous les autres Royaumes de la terre.",
       "annotations": null,
       "source_pages": [
         "page_0326.json"

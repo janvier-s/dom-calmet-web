@@ -6,7 +6,7 @@
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Locutusque est Dominus ad Moysen et Aaron, dicens:",
+      "latin": "Locutusque est Dominus ad Moysen et Aaron, dicens :",
       "french": "Le Seigneur parla ensuite à Moïse, et à Aaron, et il leur dit :",
       "annotations": null,
       "source_pages": [
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Dicite filiis Israel: Hæc sunt animalia quæ comedere debetis de cunctis animantibus terræ.",
-      "french": "Déclarez ceci aux enfants d'Israël : Entre tous les animaux de la terre, voici ceux que vous mangerez.",
+      "latin": "Dicite filiis Israel : Hæc sunt animalia quæ comedere debetis de cunctis animantibus terræ.",
+      "french": "Déclarez ceci aux enfants d’Israël : Entre tous les animaux de la terre, voici ceux que vous mangerez.",
       "annotations": null,
       "source_pages": [
         "page_0129.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Quidquid autem ruminat quidem, et habet ungulam, sed non dividit eam, sicut camelus, et cætera; non comedetis illud, et inter immunda reputabitis.",
-      "french": "Quant à celles qui ruminent, mais dont la corne du pied n'est point fendue, comme le chameau, et les autres ; vous n'en mangerez point, et vous les considérerez comme impurs.",
+      "latin": "Quidquid autem ruminat quidem, et habet ungulam, sed non dividit eam, sicut camelus, et cætera ; non comedetis illud, et inter immunda reputabitis.",
+      "french": "Quant à celles qui ruminent, mais dont la corne du pied n’est point fendue, comme le chameau, et les autres ; vous n’en mangerez point, et vous les considérerez comme impurs.",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -43,7 +43,7 @@
     {
       "verse_number": 5,
       "latin": "Choerogrillus qui ruminat, ungulamque non dividit, immundus est.",
-      "french": "Le hérisson terrestre, qui rumine, mais qui n'a point la corne du pied fendue, est impur.",
+      "french": "Le hérisson terrestre, qui rumine, mais qui n’a point la corne du pied fendue, est impur.",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Lepus quoque: nam et ipse ruminat, sed ungulam non dividit.",
-      "french": "Le lièvre aussi est impur, parce que quoiqu'il rumine, il n'a pas la corne fendue.",
+      "latin": "Lepus quoque : nam et ipse ruminat, sed ungulam non dividit.",
+      "french": "Le lièvre aussi est impur, parce que quoiqu’il rumine, il n’a pas la corne fendue.",
       "annotations": null,
       "source_pages": [
         "page_0133.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Et sus: qui cum ungulam dividat, non ruminat.",
-      "french": "Le pourceau aussi est impur, parce que quoiqu'il ait la corne fendue, il ne rumine point.",
+      "latin": "Et sus : qui cum ungulam dividat, non ruminat.",
+      "french": "Le pourceau aussi est impur, parce que quoiqu’il ait la corne fendue, il ne rumine point.",
       "annotations": null,
       "source_pages": [
         "page_0133.json"
@@ -78,7 +78,7 @@
     },
     {
       "verse_number": 9,
-      "latin": "Hæc sunt quæ gignuntur in aquis, et vesci licitum est: Omne quod habet pinnulas et squamas, tam in mari quam in fluminibus et stagnis, comedetis.",
+      "latin": "Hæc sunt quæ gignuntur in aquis, et vesci licitum est : Omne quod habet pinnulas et squamas, tam in mari quam in fluminibus et stagnis, comedetis.",
       "french": "Voici ceux des animaux aquatiques, dont il vous est permis de manger : Tout ce qui a des nageoires, et des écailles, tant dans la mer, que dans les rivières, et dans les étangs.",
       "annotations": null,
       "source_pages": [
@@ -88,7 +88,7 @@
     {
       "verse_number": 10,
       "latin": "Quidquid autem pinnulas et squamas non habet eorum quæ in aquis moventur vivunt, abominabile vobis,",
-      "french": "Mais tout ce qui se remue, ce qui vit dans les eaux, sans avoir de nageoires, ni d'écailles, vous fera en abomination, et en exécration.",
+      "french": "Mais tout ce qui se remue, ce qui vit dans les eaux, sans avoir de nageoires, ni d’écailles, vous fera en abomination, et en exécration.",
       "annotations": null,
       "source_pages": [
         "page_0135.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Execrandumque erit; carnes eorum non comedetis, et morticina vitabitis.",
-      "french": "Vous ne mangerez point de la chair de ces animaux, et vous n'y toucherez point lorsqu'ils seront morts.",
+      "latin": "Execrandumque erit ; carnes eorum non comedetis, et morticina vitabitis.",
+      "french": "Vous ne mangerez point de la chair de ces animaux, et vous n’y toucherez point lorsqu’ils seront morts.",
       "annotations": null,
       "source_pages": [
         "page_0135.json"
@@ -106,7 +106,7 @@
     {
       "verse_number": 12,
       "latin": "Cuncta quæ non habent pinnulas et squamas in aquis, polluta erunt.",
-      "french": "Vous tiendrez pour impurs, tous ceux qui n'ont point de nageoires, ni d'écailles dans les eaux.",
+      "french": "Vous tiendrez pour impurs, tous ceux qui n’ont point de nageoires, ni d’écailles dans les eaux.",
       "annotations": null,
       "source_pages": [
         "page_0135.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Hæc sunt quæ de avibus comedere non debetis, et vitanda sunt vobis: Aquilam, et gryphem, et haliaeatum.",
-      "french": "Entre les oiseaux, voici ceux dont vous ne mangerez point, et que vous aurez soin d'éviter : L'aigle, le griphon, et l'aigle de mer.",
+      "latin": "Hæc sunt quæ de avibus comedere non debetis, et vitanda sunt vobis : Aquilam, et gryphem, et haliaeatum.",
+      "french": "Entre les oiseaux, voici ceux dont vous ne mangerez point, et que vous aurez soin d’éviter : L’aigle, le griphon, et l’aigle de mer.",
       "annotations": null,
       "source_pages": [
         "page_0136.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Struthionem, et noctuam, et larum, et accipitrem juxta genus suum.",
-      "french": "L'autruche, le hibou, le larus, l'épervier, et toute son espèce.",
+      "french": "L’autruche, le hibou, le larus, l’épervier, et toute son espèce.",
       "annotations": null,
       "source_pages": [
         "page_0137.json"
@@ -151,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Bubonem, et mergulum, et ibin.",
-      "french": "Le chat-huant, le cormoran, l'ibis.",
+      "french": "Le chat-huant, le cormoran, l’ibis.",
       "annotations": null,
       "source_pages": [
         "page_0138.json"
@@ -168,8 +168,8 @@
     },
     {
       "verse_number": 19,
-      "latin": "Herodionem et charadrion juxta genus suum: upupam quoque, et vespertilionem.",
-      "french": "Le héron, le courlis, et tout ce qui est de la même espèce ; la hupe, et la chauve-souris.",
+      "latin": "Herodionem et charadrion juxta genus suum : upupam quoque, et vespertilionem.",
+      "french": "Le héron, le courlis, et tout ce qui est de la même espèce ; la hupe, et la chauve-souris.",
       "annotations": null,
       "source_pages": [
         "page_0139.json"
@@ -195,8 +195,8 @@
     },
     {
       "verse_number": 22,
-      "latin": "Comedere debetis; ut est bruchus in genere suo, et attacus, atque ophiomachus, ac locusta, singula juxta genus suum.",
-      "french": "Vous pourrez en manger ; comme le bruchus, selon son espèce, l'attacus, l'ophiomachus, et la sauterelle, selon leurs diverses espèces.",
+      "latin": "Comedere debetis ; ut est bruchus in genere suo, et attacus, atque ophiomachus, ac locusta, singula juxta genus suum.",
+      "french": "Vous pourrez en manger ; comme le bruchus, selon son espèce, l’attacus, l’ophiomachus, et la sauterelle, selon leurs diverses espèces.",
       "annotations": null,
       "source_pages": [
         "page_0140.json"
@@ -204,7 +204,7 @@
     },
     {
       "verse_number": 23,
-      "latin": "Quidquid autem ex volucribus quatuor tantum habet pedes, execrabile erit vobis:",
+      "latin": "Quidquid autem ex volucribus quatuor tantum habet pedes, execrabile erit vobis :",
       "french": "Tous les animaux qui volent, et qui ont quatre pieds, vous feront en exécration.",
       "annotations": null,
       "source_pages": [
@@ -213,8 +213,8 @@
     },
     {
       "verse_number": 24,
-      "latin": "Et quicumque morticina eorum tetigerit, polluetur, et erit immundus usque ad vesperum:",
-      "french": "Quiconque y touchera lorsqu'ils seront morts, en sera souillé, et demeurera impur jusqu'au soir.",
+      "latin": "Et quicumque morticina eorum tetigerit, polluetur, et erit immundus usque ad vesperum :",
+      "french": "Quiconque y touchera lorsqu’ils seront morts, en sera souillé, et demeurera impur jusqu’au soir.",
       "annotations": null,
       "source_pages": [
         "page_0142.json"
@@ -223,7 +223,7 @@
     {
       "verse_number": 25,
       "latin": "Et si necesse fuerit ut portet quidpiam horum mortuum, lavabit vestimenta sua, et immundus erit usque ad occasum solis.",
-      "french": "Que s'il est obligé de porter quelqu'un de ces animaux lorsqu'ils seront morts, il lavera ses vêtements, et sera impur jusqu'au coucher du soleil.",
+      "french": "Que s’il est obligé de porter quelqu’un de ces animaux lorsqu’ils seront morts, il lavera ses vêtements, et sera impur jusqu’au coucher du soleil.",
       "annotations": null,
       "source_pages": [
         "page_0142.json"
@@ -231,8 +231,8 @@
     },
     {
       "verse_number": 26,
-      "latin": "Omne animal quod habet quidem ungulam, sed non dividit eam, nec ruminat, immundum erit: et qui tetigerit illud, contaminabatur.",
-      "french": "Tout animal qui a de la corne au pied, mais dont la corne n'est point fendue, et qui ne rumine point, sera impur ; quiconque le touchera, sera souillé.",
+      "latin": "Omne animal quod habet quidem ungulam, sed non dividit eam, nec ruminat, immundum erit : et qui tetigerit illud, contaminabatur.",
+      "french": "Tout animal qui a de la corne au pied, mais dont la corne n’est point fendue, et qui ne rumine point, sera impur ; quiconque le touchera, sera souillé.",
       "annotations": null,
       "source_pages": [
         "page_0143.json"
@@ -240,8 +240,8 @@
     },
     {
       "verse_number": 27,
-      "latin": "Quod ambulat super manus, ex cunctis animantibus quæ incedunt quadrupedia, immundum erit: qui tetigerit morticina eorum, polluetur usque ad vesperum.",
-      "french": "Entre les animaux à quatre pieds, ceux qui ont comme des mains sur lesquelles ils marchent, seront impurs : celui qui y touchera lorsqu'ils seront morts, sera souillé jusqu'au soir.",
+      "latin": "Quod ambulat super manus, ex cunctis animantibus quæ incedunt quadrupedia, immundum erit : qui tetigerit morticina eorum, polluetur usque ad vesperum.",
+      "french": "Entre les animaux à quatre pieds, ceux qui ont comme des mains sur lesquelles ils marchent, seront impurs : celui qui y touchera lorsqu’ils seront morts, sera souillé jusqu’au soir.",
       "annotations": null,
       "source_pages": [
         "page_0143.json"
@@ -249,8 +249,8 @@
     },
     {
       "verse_number": 28,
-      "latin": "Et qui portaverit hujuscemodi cadavera, lavabit vestimenta sua, et immundus erit usque ad vesperum: quia omnia hæc immunda sunt vobis.",
-      "french": "Celui qui portera de ces bêtes lorsqu'elles seront mortes, lavera ses vêtements et sera impur jusqu'au soir ; parce que tous ces animaux vous seront impurs.",
+      "latin": "Et qui portaverit hujuscemodi cadavera, lavabit vestimenta sua, et immundus erit usque ad vesperum : quia omnia hæc immunda sunt vobis.",
+      "french": "Celui qui portera de ces bêtes lorsqu’elles seront mortes, lavera ses vêtements et sera impur jusqu’au soir ; parce que tous ces animaux vous seront impurs.",
       "annotations": null,
       "source_pages": [
         "page_0144.json"
@@ -258,8 +258,8 @@
     },
     {
       "verse_number": 29,
-      "latin": "Hæc quoque inter polluta reputabuntur de his quæ moventur in terra, mustela, et mus, et crocodilus, singula juxta genus suum;",
-      "french": "Entre les animaux qui se remuent sur la terre, voici ceux que vous regarderez comme impurs : la belette, la souris, le crocodile, chacun selon son espèce ;",
+      "latin": "Hæc quoque inter polluta reputabuntur de his quæ moventur in terra, mustela, et mus, et crocodilus, singula juxta genus suum ;",
+      "french": "Entre les animaux qui se remuent sur la terre, voici ceux que vous regarderez comme impurs : la belette, la souris, le crocodile, chacun selon son espèce ;",
       "annotations": null,
       "source_pages": [
         "page_0144.json"
@@ -277,7 +277,7 @@
     {
       "verse_number": 31,
       "latin": "Omnia hæc immunda sunt. Qui tetigerit morticina eorum, immundus erit usque ad vesperum.",
-      "french": "Tous ces animaux sont impurs : celui qui y touchera lorsqu'ils seront morts, sera souillé jusqu'au soir.",
+      "french": "Tous ces animaux sont impurs : celui qui y touchera lorsqu’ils seront morts, sera souillé jusqu’au soir.",
       "annotations": null,
       "source_pages": [
         "page_0145.json"
@@ -285,8 +285,8 @@
     },
     {
       "verse_number": 32,
-      "latin": "Et super quod ceciderit quidquam de morticinis eorum, polluetur, tam vas ligneum, et vestimentum, quam pelles et cilicia: et quocumque fit opus, tingentur aqua, et polluta erunt usque ad vesperum, et sic postea mundabuntur.",
-      "french": "Et s'il tombe quelque chose de leurs corps morts sur quoi que ce soit, il sera souillé ; soit que ce soit un vaisseau de bois, ou un vêtement, ou des peaux et des cilices : tous les vases dont on se sert pour faire quelque chose, seront lavés dans l'eau ; ils seront souillés jusqu'au soir, et après cela ils seront purifiés.",
+      "latin": "Et super quod ceciderit quidquam de morticinis eorum, polluetur, tam vas ligneum, et vestimentum, quam pelles et cilicia : et quocumque fit opus, tingentur aqua, et polluta erunt usque ad vesperum, et sic postea mundabuntur.",
+      "french": "Et s’il tombe quelque chose de leurs corps morts sur quoi que ce soit, il sera souillé ; soit que ce soit un vaisseau de bois, ou un vêtement, ou des peaux et des cilices : tous les vases dont on se sert pour faire quelque chose, seront lavés dans l’eau ; ils seront souillés jusqu’au soir, et après cela ils seront purifiés.",
       "annotations": null,
       "source_pages": [
         "page_0146.json"
@@ -294,8 +294,8 @@
     },
     {
       "verse_number": 33,
-      "latin": "Vas autem fictile, in quod horum quidquam intro ceciderit, polluetur; et idcirco frangendum est.",
-      "french": "Mais le vaisseau de terre dans lequel quelqu'une de ces choses sera tombée, en sera souillé ; c'est pourquoi il le faut casser.",
+      "latin": "Vas autem fictile, in quod horum quidquam intro ceciderit, polluetur ; et idcirco frangendum est.",
+      "french": "Mais le vaisseau de terre dans lequel quelqu’une de ces choses sera tombée, en sera souillé ; c’est pourquoi il le faut casser.",
       "annotations": null,
       "source_pages": [
         "page_0146.json"
@@ -303,8 +303,8 @@
     },
     {
       "verse_number": 34,
-      "latin": "Omnis cibus quem comederis, si fusa fuerit super eum aqua, immundus erit: et omne liquens quod bibitur de universo vase, immundum erit.",
-      "french": "S'il tombe de l'eau souillée sur quelque chose à manger, cette viande sera impure ; et toute liqueur qui se peut boire, sortant de quelqu'un de ces vaisseaux impurs, sera souillée.",
+      "latin": "Omnis cibus quem comederis, si fusa fuerit super eum aqua, immundus erit : et omne liquens quod bibitur de universo vase, immundum erit.",
+      "french": "S’il tombe de l’eau souillée sur quelque chose à manger, cette viande sera impure ; et toute liqueur qui se peut boire, sortant de quelqu’un de ces vaisseaux impurs, sera souillée.",
       "annotations": null,
       "source_pages": [
         "page_0147.json"
@@ -312,8 +312,8 @@
     },
     {
       "verse_number": 35,
-      "latin": "Et quidquid de morticinis hujuscemodi ceciderit super illud, immundum erit: sive clibani, sive chytropodes, destruentur, et immundi erunt.",
-      "french": "S'il tombe quelque chose de ces bêtes mortes sur quoi que ce soit, il deviendra impur, soit que ce soit des fourneaux, ou des marmites ; ils seront censés impurs, et seront détruits.",
+      "latin": "Et quidquid de morticinis hujuscemodi ceciderit super illud, immundum erit : sive clibani, sive chytropodes, destruentur, et immundi erunt.",
+      "french": "S’il tombe quelque chose de ces bêtes mortes sur quoi que ce soit, il deviendra impur, soit que ce soit des fourneaux, ou des marmites ; ils seront censés impurs, et seront détruits.",
       "annotations": null,
       "source_pages": [
         "page_0147.json"
@@ -322,7 +322,7 @@
     {
       "verse_number": 36,
       "latin": "Fontes vero, et cisternæ, et omnis aquarum congregatio, munda erit. Qui morticinum eorum tetigerit, polluetur.",
-      "french": "Mais les fontaines, les citernes, et tous réservoirs d'eaux, n'en seront point souillés : Quiconque touchera la charogne de ces animaux, sera impur.",
+      "french": "Mais les fontaines, les citernes, et tous réservoirs d’eaux, n’en seront point souillés : Quiconque touchera la charogne de ces animaux, sera impur.",
       "annotations": null,
       "source_pages": [
         "page_0148.json"
@@ -331,7 +331,7 @@
     {
       "verse_number": 37,
       "latin": "Si ceciderit super sementem, non polluetur eam.",
-      "french": "S'il en tombe quelque chose sur la semence, elle n'en sera pas souillée.",
+      "french": "S’il en tombe quelque chose sur la semence, elle n’en sera pas souillée.",
       "annotations": null,
       "source_pages": [
         "page_0148.json"
@@ -340,7 +340,7 @@
     {
       "verse_number": 38,
       "latin": "Si autem quispiam aqua sementem perfuderit, et postea morticinis tacta fuerit, illico polluetur.",
-      "french": "Mais si la semence a été mouillée, et qu'après cella elle touche à une charogne, elle en sera aussitôt souillée.",
+      "french": "Mais si la semence a été mouillée, et qu’après cella elle touche à une charogne, elle en sera aussitôt souillée.",
       "annotations": null,
       "source_pages": [
         "page_0148.json"
@@ -348,8 +348,8 @@
     },
     {
       "verse_number": 39,
-      "latin": "Si mortuum fuerit animal quod licet vobis comedere; qui cadaver ejus tetigerit, immundus erit usque ad vesperum.",
-      "french": "Si un animal de ceux qu'il vous est permis de manger, meurt de lui-même, celui qui en touchera la charogne, sera impur jusqu'au soir.",
+      "latin": "Si mortuum fuerit animal quod licet vobis comedere ; qui cadaver ejus tetigerit, immundus erit usque ad vesperum.",
+      "french": "Si un animal de ceux qu’il vous est permis de manger, meurt de lui-même, celui qui en touchera la charogne, sera impur jusqu’au soir.",
       "annotations": null,
       "source_pages": [
         "page_0149.json"
@@ -358,7 +358,7 @@
     {
       "verse_number": 40,
       "latin": "Et qui comederit ex eo quippiam, sive portaverit, lavabit vestimenta sua, et immundus erit usque ad vesperum.",
-      "french": "Celui qui en mangera, ou qui en portera quelque chose, lavera ses vêtements, et sera impur jusqu'au soir.",
+      "french": "Celui qui en mangera, ou qui en portera quelque chose, lavera ses vêtements, et sera impur jusqu’au soir.",
       "annotations": null,
       "source_pages": [
         "page_0149.json"
@@ -367,7 +367,7 @@
     {
       "verse_number": 41,
       "latin": "Omne quod reptat super terram, abominabile erit, nec assumetur in cibum.",
-      "french": "Tout ce qui rampe sur la terre, sera abominable, et on n'en prendra point pour sa nourriture.",
+      "french": "Tout ce qui rampe sur la terre, sera abominable, et on n’en prendra point pour sa nourriture.",
       "annotations": null,
       "source_pages": [
         "page_0149.json"
@@ -376,7 +376,7 @@
     {
       "verse_number": 42,
       "latin": "Quidquid super pectus quadrupes graditur, et multos habet pedes, sive per humum trahitur, non comedetis, quia abominabile est.",
-      "french": "Vous ne mangerez point de tout ce qui ayant quatre pieds, marche sur la poitrine, ni de ce qui a plusieurs pieds, ou qui se traîne sur la terre ; parce que ces animaux sont abominables.",
+      "french": "Vous ne mangerez point de tout ce qui ayant quatre pieds, marche sur la poitrine, ni de ce qui a plusieurs pieds, ou qui se traîne sur la terre ; parce que ces animaux sont abominables.",
       "annotations": null,
       "source_pages": [
         "page_0149.json"
@@ -393,8 +393,8 @@
     },
     {
       "verse_number": 44,
-      "latin": "Ego enim sum Dominus Deus vester: sancti estote, quia ego sanctus sum. Ne polluatis animas vestras in omni reptili quod movetur super terram.",
-      "french": "Car je suis le Seigneur votre Dieu ; soyez saint, parce que je suis saint ; ne souillez point vos âmes par l'attouchement d'aucun des reptiles qui se remuent sur la terre.",
+      "latin": "Ego enim sum Dominus Deus vester : sancti estote, quia ego sanctus sum. Ne polluatis animas vestras in omni reptili quod movetur super terram.",
+      "french": "Car je suis le Seigneur votre Dieu ; soyez saint, parce que je suis saint ; ne souillez point vos âmes par l’attouchement d’aucun des reptiles qui se remuent sur la terre.",
       "annotations": null,
       "source_pages": [
         "page_0150.json"
@@ -403,7 +403,7 @@
     {
       "verse_number": 45,
       "latin": "Ego enim sum Dominus, qui eduxi vos de terra Ægypti, ut essem vobis in Deum. Sancti eritis, quia ego sanctus sum.",
-      "french": "Car je suis le Seigneur qui vous ai tirés de l'Égypte, afin que je sois votre Dieu ; vous serez donc saints, parce que je suis saint.",
+      "french": "Car je suis le Seigneur qui vous ai tirés de l’Égypte, afin que je sois votre Dieu ; vous serez donc saints, parce que je suis saint.",
       "annotations": null,
       "source_pages": [
         "page_0150.json"
@@ -411,8 +411,8 @@
     },
     {
       "verse_number": 46,
-      "latin": "Ista est lex animantium ac volucrum, et omnis animæ viventis, quæ movetur in aqua, et reptat in terra:",
-      "french": "Voilà les règlements que je vous donne pour la distinction des bêtes, des oiseaux, et de tout animal vivant, qui se remue dans l'eau, ou qui rampe sur la terre ;",
+      "latin": "Ista est lex animantium ac volucrum, et omnis animæ viventis, quæ movetur in aqua, et reptat in terra :",
+      "french": "Voilà les règlements que je vous donne pour la distinction des bêtes, des oiseaux, et de tout animal vivant, qui se remue dans l’eau, ou qui rampe sur la terre ;",
       "annotations": null,
       "source_pages": [
         "page_0150.json"

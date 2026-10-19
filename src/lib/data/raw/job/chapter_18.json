@@ -1,29 +1,29 @@
 {
   "book": "Job",
   "chapter": 18,
-  "chapter_summary": "Baldad accuse Job d'impatience, et de désespoir. Il exagère les malheurs, et la mauvaise fin des méchants. Il fait indirectement tomber sur Job tout ce qu'il dit des plus grands scélérats.",
+  "chapter_summary": "Baldad accuse Job d’impatience, et de désespoir. Il exagère les malheurs, et la mauvaise fin des méchants. Il fait indirectement tomber sur Job tout ce qu’il dit des plus grands scélérats.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Respondens autem Baldad Suhites, dixit :",
-      "french": "Baldad de Sué répondit :",
+      "latin": "Respondens autem Baldad Suhites, dixit :",
+      "french": "Baldad de Sué répondit :",
       "source_pages": [
         "page_0238.json"
       ]
     },
     {
       "verse_number": 2,
-      "latin": "Usque ad quem finem verba jactabitis ? intelligite priùs, et sic loquamur.",
-      "french": "Jusqu'à quand vous répandrez-vous en tant de paroles ? Comprenez auparavant, et après cela nous parlerons.",
+      "latin": "Usque ad quem finem verba jactabitis ? intelligite priùs, et sic loquamur.",
+      "french": "Jusqu’à quand vous répandrez-vous en tant de paroles ? Comprenez auparavant, et après cela nous parlerons.",
       "source_pages": [
         "page_0238.json"
       ]
     },
     {
       "verse_number": 3,
-      "latin": "Quare reputati sumus ut jumenta, et sorduimus coram vobis?",
-      "french": "Pourquoi nous regardez-vous comme des animaux sans raison ; et pourquoi n'avez-vous que du mépris pour nous?",
+      "latin": "Quare reputati sumus ut jumenta, et sorduimus coram vobis ?",
+      "french": "Pourquoi nous regardez-vous comme des animaux sans raison ; et pourquoi n’avez-vous que du mépris pour nous ?",
       "annotations": null,
       "source_pages": [
         "page_0239.json"
@@ -31,8 +31,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Qui perdis animam tuam in furore tuo, numquid propter te derelinquetur terra, et transferentur rupes de loco suo?",
-      "french": "Pourquoi voulez-vous perdre votre âme dans votre fureur? La terre sera-t-elle abandonnée à cause de vous, et les rochers seront-ils transportés hors de leur place.",
+      "latin": "Qui perdis animam tuam in furore tuo, numquid propter te derelinquetur terra, et transferentur rupes de loco suo ?",
+      "french": "Pourquoi voulez-vous perdre votre âme dans votre fureur ? La terre sera-t-elle abandonnée à cause de vous, et les rochers seront-ils transportés hors de leur place.",
       "annotations": null,
       "source_pages": [
         "page_0239.json"
@@ -40,8 +40,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Nónne lux impii extinguetur, nec splendebit flamma ignis ejus ?",
-      "french": "La lumière de l’impie ne s’éteindra-t-elle pas ; et la flamme qui sort de son feu ne sera-t-elle pas sans éclat ?",
+      "latin": "Nónne lux impii extinguetur, nec splendebit flamma ignis ejus ?",
+      "french": "La lumière de l’impie ne s’éteindra-t-elle pas ; et la flamme qui sort de son feu ne sera-t-elle pas sans éclat ?",
       "annotations": null,
       "source_pages": [
         "page_0240.json"
@@ -59,7 +59,7 @@
     {
       "verse_number": 7,
       "latin": "Arctabuntur gressus virtutis ejus, et præcipitabit eum consilium suum.",
-      "french": "Avec toute sa force, il ne marchera qu’à l’étroit et avec peine ; et ses conseils le feront tomber dans le précipice.",
+      "french": "Avec toute sa force, il ne marchera qu’à l’étroit et avec peine ; et ses conseils le feront tomber dans le précipice.",
       "annotations": null,
       "source_pages": [
         "page_0240.json"
@@ -86,7 +86,7 @@
     {
       "verse_number": 10,
       "latin": "Abscondita est in terra pedica ejus, et decipula illius super semitam.",
-      "french": "Le piège qu'on lui préparait est caché sous la terre, et on lui tend un lacet le long du sentier.",
+      "french": "Le piège qu’on lui préparait est caché sous la terre, et on lui tend un lacet le long du sentier.",
       "annotations": null,
       "source_pages": [
         "page_0241.json"
@@ -95,7 +95,7 @@
     {
       "verse_number": 11,
       "latin": "Undique terrebunt eum formidines, et involvent pedes ejus.",
-      "french": "Les terreurs l'assiégeront de toutes parts, et l'envelopperont dans ses démarches.",
+      "french": "Les terreurs l’assiégeront de toutes parts, et l’envelopperont dans ses démarches.",
       "annotations": null,
       "source_pages": [
         "page_0241.json"
@@ -104,7 +104,7 @@
     {
       "verse_number": 12,
       "latin": "Attenuetur fame robur ejus, et inedia invadat costas illius.",
-      "french": "La faim changera sa force en langueur, et son estomac n'ayant point de nourriture, deviendra tout faible.",
+      "french": "La faim changera sa force en langueur, et son estomac n’ayant point de nourriture, deviendra tout faible.",
       "annotations": null,
       "source_pages": [
         "page_0242.json"
@@ -113,7 +113,7 @@
     {
       "verse_number": 13,
       "latin": "Devoret pulchritudinem cutis ejus, consumat brachia illius primogenita mors.",
-      "french": "La mort la plus terrible dévorera l'éclat de son teint, et elle consumera toute la force de ses bras.",
+      "french": "La mort la plus terrible dévorera l’éclat de son teint, et elle consumera toute la force de ses bras.",
       "annotations": null,
       "source_pages": [
         "page_0242.json"
@@ -130,8 +130,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Habitent in tabernaculo illius socii ejus, qui non est; aspergatur in tabernaculo ejus sulphur.",
-      "french": "Les compagnons de celui qui n'est plus, habiteront dans sa maison; et on y répandra le soufre.",
+      "latin": "Habitent in tabernaculo illius socii ejus, qui non est ; aspergatur in tabernaculo ejus sulphur.",
+      "french": "Les compagnons de celui qui n’est plus, habiteront dans sa maison ; et on y répandra le soufre.",
       "annotations": null,
       "source_pages": [
         "page_0243.json"
@@ -139,8 +139,8 @@
     },
     {
       "verse_number": 16,
-      "latin": "Deorsùm radices ejus siccentur ; sursùm autem atteratur messis ejus.",
-      "french": "Ses racines qui tendaient en bas se sécheront ; ses branches qui montaient en haut seront retranchées.",
+      "latin": "Deorsùm radices ejus siccentur ; sursùm autem atteratur messis ejus.",
+      "french": "Ses racines qui tendaient en bas se sécheront ; ses branches qui montaient en haut seront retranchées.",
       "annotations": null,
       "source_pages": [
         "page_0244.json"
@@ -176,7 +176,7 @@
     {
       "verse_number": 20,
       "latin": "In die ejus stupebunt novissimi, et primos invadet horror.",
-      "french": "Ceux qui viendront après lui seront étonnés de sa perte; et ceux qui sont de son temps en seront saisis d’horreur.",
+      "french": "Ceux qui viendront après lui seront étonnés de sa perte ; et ceux qui sont de son temps en seront saisis d’horreur.",
       "annotations": null,
       "source_pages": [
         "page_0245.json"

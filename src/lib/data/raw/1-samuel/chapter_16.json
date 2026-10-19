@@ -1,13 +1,13 @@
 {
   "book": "1 Samuel",
   "chapter": 16,
-  "chapter_summary": "Samuël est envoyé de Dieu à Bethléem pour sacrer David. Saül ayant ressenti les impressions d'un malin esprit qui l'agitait, fait venir David pour le soulager, en jouant des instruments auprès de lui.",
+  "chapter_summary": "Samuël est envoyé de Dieu à Bethléem pour sacrer David. Saül ayant ressenti les impressions d’un malin esprit qui l’agitait, fait venir David pour le soulager, en jouant des instruments auprès de lui.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Dixitque Dominus ad Samuëlem : Usquequò tu luges Saül, cùm ego projecerim eum ne regnet super Israël? Imple cornu tuum oleo, et veni, ut mittam te ad Isaï Bethlehemitam : providi enim in filiis ejus in Regem.",
-      "french": "Alors le Seigneur dit à Samuël : Jusqu'à quand pleurerez-vous Saül puisque je l'ai rejeté, et que je ne veux plus qu'il règne sur Israël? Emplissez d'huile votre corne, et venez, afin que je vous envoie à Isaï de Bethléem : car je me suis choisi un Roi entre ses enfants.",
+      "latin": "Dixitque Dominus ad Samuëlem : Usquequò tu luges Saül, cùm ego projecerim eum ne regnet super Israël ? Imple cornu tuum oleo, et veni, ut mittam te ad Isaï Bethlehemitam : providi enim in filiis ejus in Regem.",
+      "french": "Alors le Seigneur dit à Samuël : Jusqu’à quand pleurerez-vous Saül puisque je l’ai rejeté, et que je ne veux plus qu’il règne sur Israël ? Emplissez d’huile votre corne, et venez, afin que je vous envoie à Isaï de Bethléem : car je me suis choisi un Roi entre ses enfants.",
       "annotations": "An. du Monde 2934. avant J.C. 1070.",
       "source_pages": [
         "page_0284.json"
@@ -15,9 +15,9 @@
     },
     {
       "verse_number": 2,
-      "latin": "Et ait Samüel : Quo modo vadam ? audiet enim Saül, et interficiet me. Et ait Dominus : Vitulum de armento tolles in manu tua, et dices : Ad immolandum Domino veni.",
-      "french": "Samuel lui répondit : Comment irai-je ? Saül l'apprendra, et il me fera mourir. Le Seigneur lui dit : Prenez avec vous un veau du troupeau, et vous direz : Je suis venu sacrifier au Seigneur.",
-      "annotations": "An. du Monde 2934;",
+      "latin": "Et ait Samüel : Quo modo vadam ? audiet enim Saül, et interficiet me. Et ait Dominus : Vitulum de armento tolles in manu tua, et dices : Ad immolandum Domino veni.",
+      "french": "Samuel lui répondit : Comment irai-je ? Saül l’apprendra, et il me fera mourir. Le Seigneur lui dit : Prenez avec vous un veau du troupeau, et vous direz : Je suis venu sacrifier au Seigneur.",
+      "annotations": "An. du Monde 2934 ;",
       "source_pages": [
         "page_0286.json"
       ]
@@ -25,7 +25,7 @@
     {
       "verse_number": 3,
       "latin": "Et vocabis Isaï ad victimam, et ego ostendam tibi quid facias, et unges quemcumque monstravero tibi.",
-      "french": "Vous appellerez Isaï au festin de la victime ; je vous ferai savoir ce que vous aurez à faire, et vous sacrerez celui que je vous aurai montré.",
+      "french": "Vous appellerez Isaï au festin de la victime ; je vous ferai savoir ce que vous aurez à faire, et vous sacrerez celui que je vous aurai montré.",
       "annotations": null,
       "source_pages": [
         "page_0286.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Fecit ergo Samüel, sicut locutus est ei Dominus. Venitque in Bethlehem, et admirati sunt seniores civitatis, occurrentes ei, dixerúntque : Pacificúsne est ingressus tuus ?",
-      "french": "Samuel fit donc ce que le Seigneur lui avait dit. Il vint à Bethléem, et les anciens de la ville en furent tout surpris : ils allèrent au-devant de lui, et lui dirent : Venez-vous ici dans un esprit de paix ?",
+      "latin": "Fecit ergo Samüel, sicut locutus est ei Dominus. Venitque in Bethlehem, et admirati sunt seniores civitatis, occurrentes ei, dixerúntque : Pacificúsne est ingressus tuus ?",
+      "french": "Samuel fit donc ce que le Seigneur lui avait dit. Il vint à Bethléem, et les anciens de la ville en furent tout surpris : ils allèrent au-devant de lui, et lui dirent : Venez-vous ici dans un esprit de paix ?",
       "annotations": null,
       "source_pages": [
         "page_0286.json"
@@ -42,8 +42,8 @@
     },
     {
       "verse_number": 5,
-      "latin": "Es ait : Pacificus : ad immolandum Domino veni. Sanctificamini, et venite mecum ut immolem. Sanctificavit ergo Isaï et filios ejus, et vocavit eos ad sacrificium.",
-      "french": "Il leur répondit : Je viens en paix pour sacrifier au Seigneur. Purifiez-vous, et venez avec moi, afin que j'offre la victime. Samuel purifia donc Isaï et ses fils, et il les appela à son sacrifice.",
+      "latin": "Es ait : Pacificus : ad immolandum Domino veni. Sanctificamini, et venite mecum ut immolem. Sanctificavit ergo Isaï et filios ejus, et vocavit eos ad sacrificium.",
+      "french": "Il leur répondit : Je viens en paix pour sacrifier au Seigneur. Purifiez-vous, et venez avec moi, afin que j’offre la victime. Samuel purifia donc Isaï et ses fils, et il les appela à son sacrifice.",
       "annotations": "An. du Monde 2934.",
       "source_pages": [
         "page_0287.json"
@@ -51,8 +51,8 @@
     },
     {
       "verse_number": 6,
-      "latin": "Cúmque ingressi essent, vidit Eliab, et ait : Num coram Domino est Christus ejus ?",
-      "french": "Et lorsqu'ils furent entrés, Samuel dit en voyant Eliab : Est-ce là celui que le Seigneur a choisi pour être son Christ ?",
+      "latin": "Cúmque ingressi essent, vidit Eliab, et ait : Num coram Domino est Christus ejus ?",
+      "french": "Et lorsqu’ils furent entrés, Samuel dit en voyant Eliab : Est-ce là celui que le Seigneur a choisi pour être son Christ ?",
       "annotations": null,
       "source_pages": [
         "page_0287.json"
@@ -60,8 +60,8 @@
     },
     {
       "verse_number": 7,
-      "latin": "Et dixit Dominus ad Samuëlem : Ne respicias vultum ejus, neque altitudinem staturæ ejus : quoniam abjeci eum, nec juxta intuitum hominis ego judico : homo enim videt ea quæ parent, Dominus autem intuetur cor.",
-      "french": "Le Seigneur dit à Samuël : N'ayez égard ni à la bonne mine, ni à sa taille avantageuse, parce que je l'ai rejeté, et que je ne juge pas des choses par ce qui en paraît aux yeux des hommes ; car l'homme ne voit les choses que par le dehors ; mais le Seigneur voit le fond du cœur.",
+      "latin": "Et dixit Dominus ad Samuëlem : Ne respicias vultum ejus, neque altitudinem staturæ ejus : quoniam abjeci eum, nec juxta intuitum hominis ego judico : homo enim videt ea quæ parent, Dominus autem intuetur cor.",
+      "french": "Le Seigneur dit à Samuël : N’ayez égard ni à la bonne mine, ni à sa taille avantageuse, parce que je l’ai rejeté, et que je ne juge pas des choses par ce qui en paraît aux yeux des hommes ; car l’homme ne voit les choses que par le dehors ; mais le Seigneur voit le fond du cœur.",
       "annotations": null,
       "source_pages": [
         "page_0288.json"
@@ -69,8 +69,8 @@
     },
     {
       "verse_number": 8,
-      "latin": "Et vocavit Isaï Abinadab, et adduxit eum coram Samuële. Qui dixit : Nec hunc elegit Dominus.",
-      "french": "Isaï appela ensuite Abinadad, et le présenta à Samuël. Et Samuël lui dit : Ce n'est point non plus celui-là que le Seigneur a choisi.",
+      "latin": "Et vocavit Isaï Abinadab, et adduxit eum coram Samuële. Qui dixit : Nec hunc elegit Dominus.",
+      "french": "Isaï appela ensuite Abinadad, et le présenta à Samuël. Et Samuël lui dit : Ce n’est point non plus celui-là que le Seigneur a choisi.",
       "annotations": null,
       "source_pages": [
         "page_0288.json"
@@ -78,8 +78,8 @@
     },
     {
       "verse_number": 9,
-      "latin": "Adduxit autem Isaï Samma, de quo ait : Etiam hunc non elegit Dominus.",
-      "french": "Il lui présenta Samma ; et Samuël lui dit : Le Seigneur n'a point encore choisi celui-là.",
+      "latin": "Adduxit autem Isaï Samma, de quo ait : Etiam hunc non elegit Dominus.",
+      "french": "Il lui présenta Samma ; et Samuël lui dit : Le Seigneur n’a point encore choisi celui-là.",
       "annotations": null,
       "source_pages": [
         "page_0288.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Adduxit itaque Isaï septem filios suos coram Samuële. Et ait Samuël ad Isaï : Non elegit Dominus ex istis.",
-      "french": "Isaï fit donc venir ses sept fils devant Samuël ; et Samuël lui dit : Dieu n'en a choisi aucun de ceux-ci.",
+      "latin": "Adduxit itaque Isaï septem filios suos coram Samuële. Et ait Samuël ad Isaï : Non elegit Dominus ex istis.",
+      "french": "Isaï fit donc venir ses sept fils devant Samuël ; et Samuël lui dit : Dieu n’en a choisi aucun de ceux-ci.",
       "annotations": null,
       "source_pages": [
         "page_0288.json"
@@ -96,8 +96,8 @@
     },
     {
       "verse_number": 11,
-      "latin": "Dixitque Samuël ad Isaï : Numquid jam completi sunt filii ? Qui respondit : Adhuc reliquus est parvulus, et pascit oves. Et ait Samuël ad Isaï : Mitte, et adduc eum : nec enim discumbemus priùs quàm huc ille veniat.",
-      "french": "Alors Samuël dit à Isaï : Sont-ce là tous vos enfants ? Isaï lui répondit : Il en reste encore un petit qui garde les brebis. Envoyez-le quérir, dit Samuël ; car nous ne nous mettrons point à table qu'il ne soit venu.",
+      "latin": "Dixitque Samuël ad Isaï : Numquid jam completi sunt filii ? Qui respondit : Adhuc reliquus est parvulus, et pascit oves. Et ait Samuël ad Isaï : Mitte, et adduc eum : nec enim discumbemus priùs quàm huc ille veniat.",
+      "french": "Alors Samuël dit à Isaï : Sont-ce là tous vos enfants ? Isaï lui répondit : Il en reste encore un petit qui garde les brebis. Envoyez-le quérir, dit Samuël ; car nous ne nous mettrons point à table qu’il ne soit venu.",
       "annotations": null,
       "source_pages": [
         "page_0288.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Misit ergo, et adduxit eum. Erat autem Rufus, et pulcher aspectu, decoraque facie, et ait Dominus : Surge, et unge eum, ipse est enim.",
-      "french": "Il l'envoya donc quérir, et le présenta à Samuel. Or il était roux, bien fait, et beau de visage : Le Seigneur lui dit : Sacrez-le présentement ; car c'est celui-là.",
+      "latin": "Misit ergo, et adduxit eum. Erat autem Rufus, et pulcher aspectu, decoraque facie, et ait Dominus : Surge, et unge eum, ipse est enim.",
+      "french": "Il l’envoya donc quérir, et le présenta à Samuel. Or il était roux, bien fait, et beau de visage : Le Seigneur lui dit : Sacrez-le présentement ; car c’est celui-là.",
       "annotations": "An. du Monde 2934.",
       "source_pages": [
         "page_0289.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Tûlit ergo Samuël cornu olei, et unxit eum in medio fratrum ejus : et directus est Spiritus Domini à die illa in David, et deinceps : surgensque Samuël abiit in Ramatha.",
-      "french": "Samuel prit donc la corne pleine d'huile, et il le sacra au milieu de ses frères. Depuis ce jour-là, et en avant, l'Esprit du Seigneur se reposa sur David. Quant à Samuel, il s'en retourna à Ramatha.",
+      "latin": "Tûlit ergo Samuël cornu olei, et unxit eum in medio fratrum ejus : et directus est Spiritus Domini à die illa in David, et deinceps : surgensque Samuël abiit in Ramatha.",
+      "french": "Samuel prit donc la corne pleine d’huile, et il le sacra au milieu de ses frères. Depuis ce jour-là, et en avant, l’Esprit du Seigneur se reposa sur David. Quant à Samuel, il s’en retourna à Ramatha.",
       "annotations": null,
       "source_pages": [
         "page_0289.json"
@@ -124,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Spiritus autem Domini recessit à Saül, et exagitabat eum spiritus nequam à Domino.",
-      "french": "En même temps l'Esprit du Seigneur se retira de Saül, et Dieu permit qu'il fût agité par un mauvais esprit.",
+      "french": "En même temps l’Esprit du Seigneur se retira de Saül, et Dieu permit qu’il fût agité par un mauvais esprit.",
       "annotations": "An. du Monde 2934.",
       "source_pages": [
         "page_0290.json"
@@ -132,8 +132,8 @@
     },
     {
       "verse_number": 15,
-      "latin": "Dixerúntque servi Saül ad eum: Ecce Spiritus Dei malus exagitat te.",
-      "french": "Alors les Officiers de Saül lui dirent : Vous voyez que Dieu a permis que vous soyez inquiété par un mauvais esprit.",
+      "latin": "Dixerúntque servi Saül ad eum : Ecce Spiritus Dei malus exagitat te.",
+      "french": "Alors les Officiers de Saül lui dirent : Vous voyez que Dieu a permis que vous soyez inquiété par un mauvais esprit.",
       "annotations": "An. du Monde 2934.",
       "source_pages": [
         "page_0292.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Jubeat Dominus noster, et servi tui qui coram te sunt, quærent hominem scientem psallere citharâ, ut quando arripuerit te Spiritus Domini malus, psallat manu suâ, et levius feras.",
-      "french": "S'il plaît au Roi notre Seigneur, vos serviteurs, qui sont auprès de votre personne, chercheront un homme qui sache toucher de la harpe, afin qu'il en joue lorsque le malin esprit vous agitera, et que vous en receviez du soulagement.",
+      "french": "S’il plaît au Roi notre Seigneur, vos serviteurs, qui sont auprès de votre personne, chercheront un homme qui sache toucher de la harpe, afin qu’il en joue lorsque le malin esprit vous agitera, et que vous en receviez du soulagement.",
       "annotations": null,
       "source_pages": [
         "page_0292.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Et ait Saül ad servos suos: Providete ergo mihi aliquem benè psallentem, et adducite eum ad me.",
-      "french": "Saül dit donc à ses Officiers: Cherchez-moi quelqu'un qui sache bien jouer de la harpe, et amenez-le-moi.",
+      "latin": "Et ait Saül ad servos suos : Providete ergo mihi aliquem benè psallentem, et adducite eum ad me.",
+      "french": "Saül dit donc à ses Officiers : Cherchez-moi quelqu’un qui sache bien jouer de la harpe, et amenez-le-moi.",
       "annotations": null,
       "source_pages": [
         "page_0292.json"
@@ -159,8 +159,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "Et respondens unus de pueris, ait : Ecce vidi filium Isaï Bethlehemitem, scientem psallere, et fortissimum robore, et virum bellicosum, et prudentem in verbis, et virum pulchrum : et Dominus est cum eo.",
-      "french": "L'un d'entre eux lui répondit : J'ai vu l'un des fils d'Isaï de Bethléem, qui sait fort bien jouer de la harpe. C'est un jeune homme très fort, propre à la guerre, sage dans ses paroles, d'une mine avantageuse; et le Seigneur est avec lui.",
+      "latin": "Et respondens unus de pueris, ait : Ecce vidi filium Isaï Bethlehemitem, scientem psallere, et fortissimum robore, et virum bellicosum, et prudentem in verbis, et virum pulchrum : et Dominus est cum eo.",
+      "french": "L’un d’entre eux lui répondit : J’ai vu l’un des fils d’Isaï de Bethléem, qui sait fort bien jouer de la harpe. C’est un jeune homme très fort, propre à la guerre, sage dans ses paroles, d’une mine avantageuse ; et le Seigneur est avec lui.",
       "annotations": "An. du Monde 2934.",
       "source_pages": [
         "page_0295.json"
@@ -168,8 +168,8 @@
     },
     {
       "verse_number": 19,
-      "latin": "Misit ergo Saül nuntios ad Isaï, dicens : Mitte ad me David filium tuum, qui est in pascuis.",
-      "french": "Saül fit donc dire à Isaï : Envoyez-moi votre fils David, qui est avec vos troupeaux.",
+      "latin": "Misit ergo Saül nuntios ad Isaï, dicens : Mitte ad me David filium tuum, qui est in pascuis.",
+      "french": "Saül fit donc dire à Isaï : Envoyez-moi votre fils David, qui est avec vos troupeaux.",
       "annotations": null,
       "source_pages": [
         "page_0295.json"
@@ -178,7 +178,7 @@
     {
       "verse_number": 20,
       "latin": "Tulit itaque Isaï asinum plenum panibus et lagenam vini, et hædum de capris unum, et misit per manum David filii sui Saüli.",
-      "french": "Isaï aussitôt prit un âne, qu'il chargea de pains, d'une bouteille de vin, et d'un chevreau, et il les envoya à Saül par son fils David.",
+      "french": "Isaï aussitôt prit un âne, qu’il chargea de pains, d’une bouteille de vin, et d’un chevreau, et il les envoya à Saül par son fils David.",
       "annotations": "An. du Monde 2934.",
       "source_pages": [
         "page_0296.json"
@@ -186,8 +186,8 @@
     },
     {
       "verse_number": 21,
-      "latin": "Et venit David ad Saül, et stetit coram eo: ac ille dilexit eum nimis, et factus est ejus armiger.",
-      "french": "David vint trouver Saül, et se présenta devant lui. Saül l'aima fort, et il le fit son écuyer.",
+      "latin": "Et venit David ad Saül, et stetit coram eo : ac ille dilexit eum nimis, et factus est ejus armiger.",
+      "french": "David vint trouver Saül, et se présenta devant lui. Saül l’aima fort, et il le fit son écuyer.",
       "annotations": "An du Monde 2942.",
       "source_pages": [
         "page_0297.json"
@@ -195,8 +195,8 @@
     },
     {
       "verse_number": 22,
-      "latin": "Misitque Saül ad Isaï, dicens: Stet David in conspectu meo: invenit enim gratiam in oculis meis.",
-      "french": "Il envoya ensuite dire à Isaï : Que David demeure auprès de ma personne ; car il a trouvé grâce devant mes yeux.",
+      "latin": "Misitque Saül ad Isaï, dicens : Stet David in conspectu meo : invenit enim gratiam in oculis meis.",
+      "french": "Il envoya ensuite dire à Isaï : Que David demeure auprès de ma personne ; car il a trouvé grâce devant mes yeux.",
       "annotations": null,
       "source_pages": [
         "page_0297.json"
@@ -205,7 +205,7 @@
     {
       "verse_number": 23,
       "latin": "Igitur quandocumque Spiritus Domini malus arripiebat Saül, David tollebat citharam, et percutiebat manu sua, et refocillabatur Saül, et levius habebat, recedebat enim ab eo spiritus malus.",
-      "french": "Ainsi toutes les fois que l'esprit malin envoyé du Seigneur, saisissait Saül, David prenait sa harpe, et en jouait ; et Saül en était soulagé, et se trouvait mieux ; car l'esprit malin se retirait de lui.",
+      "french": "Ainsi toutes les fois que l’esprit malin envoyé du Seigneur, saisissait Saül, David prenait sa harpe, et en jouait ; et Saül en était soulagé, et se trouvait mieux ; car l’esprit malin se retirait de lui.",
       "annotations": null,
       "source_pages": [
         "page_0297.json"

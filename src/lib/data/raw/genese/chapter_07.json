@@ -1,13 +1,13 @@
 {
   "book": "Genèse",
   "chapter": 7,
-  "chapter_summary": "Noé avec sa famille entre dans l'Arche. Il y fait entrer les animaux, que Dieu voulait conserver. Le Déluge inonde toute la terre, et noie tous les hommes et les animaux qui n'étaient pas dans l'Arche.",
+  "chapter_summary": "Noé avec sa famille entre dans l’Arche. Il y fait entrer les animaux, que Dieu voulait conserver. Le Déluge inonde toute la terre, et noie tous les hommes et les animaux qui n’étaient pas dans l’Arche.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Dixitque Dominus ad eum : Ingredere tu, et omnis domus tua Arcam : te enim vidi justum coram me in generatione hac.",
-      "french": "Et le Seigneur dit à Noé : Entrez dans l'Arche, vous et toute votre maison, parce que j'ai reconnu que vous étiez juste en ma présence, entre tous ceux qui sont aujourd'hui sur la terre.",
+      "french": "Et le Seigneur dit à Noé : Entrez dans l’Arche, vous et toute votre maison, parce que j’ai reconnu que vous étiez juste en ma présence, entre tous ceux qui sont aujourd’hui sur la terre.",
       "annotations": null,
       "source_pages": [
         "page_0268.json"
@@ -16,7 +16,7 @@
     {
       "verse_number": 2,
       "latin": "Ex omnibus animantibus mundis tolle septena et septena, masculum et foeminam : de animantibus vero immundis duo et duo, masculum et foeminam.",
-      "french": "Prenez sept mâles et sept femelles, de tous les animaux purs ; et deux mâles et deux femelles, des animaux impurs.",
+      "french": "Prenez sept mâles et sept femelles, de tous les animaux purs ; et deux mâles et deux femelles, des animaux impurs.",
       "annotations": null,
       "source_pages": [
         "page_0268.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Sed et de volatilibus cæli septena et septena, masculum et foeminam ; ut salvetur semen super faciem universæ terræ.",
-      "french": "Prenez aussi sept mâles et sept femelles des oiseaux du Ciel, afin d'en conserver la race sur la terre.",
+      "latin": "Sed et de volatilibus cæli septena et septena, masculum et foeminam ; ut salvetur semen super faciem universæ terræ.",
+      "french": "Prenez aussi sept mâles et sept femelles des oiseaux du Ciel, afin d’en conserver la race sur la terre.",
       "annotations": null,
       "source_pages": [
         "page_0269.json"
@@ -34,7 +34,7 @@
     {
       "verse_number": 4,
       "latin": "Adhuc enim, et post dies septem ego pluam super terram quadraginta diebus, et quadraginta noctibus : et delebo omnem substantiam quam feci, de superficie terræ.",
-      "french": "Car dans sept jours je ferai pleuvoir sur la terre quarante jours et quarante nuits, et je détruirai de dessus la terre, toutes les créatures que j'ai faites.",
+      "french": "Car dans sept jours je ferai pleuvoir sur la terre quarante jours et quarante nuits, et je détruirai de dessus la terre, toutes les créatures que j’ai faites.",
       "annotations": null,
       "source_pages": [
         "page_0269.json"
@@ -61,7 +61,7 @@
     {
       "verse_number": 7,
       "latin": "Et ingressus est Noe et filii ejus, et uxores filiorum ejus cum eo, in Arcam propter aquas diluvii.",
-      "french": "Noé entra dans l'Arche avec ses fils, sa femme, et les femmes de ses fils, pour éviter les eaux du Déluge.",
+      "french": "Noé entra dans l’Arche avec ses fils, sa femme, et les femmes de ses fils, pour éviter les eaux du Déluge.",
       "annotations": null,
       "source_pages": [
         "page_0270.json"
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Duo et duo ingressa sunt ad Noe in arcam, masculus et foemina, sicut præceperat Dominus Noe.",
-      "french": "Entrèrent aussi dans l'Arche avec Noé, par couples, mâle et femelle, selon que le Seigneur l'avait commandé à Noé.",
+      "french": "Entrèrent aussi dans l’Arche avec Noé, par couples, mâle et femelle, selon que le Seigneur l’avait commandé à Noé.",
       "annotations": null,
       "source_pages": [
         "page_0271.json"
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "Anno sexcentesimo vitæ Noe, mense secundo, septimo decimo die mensis, rupti sunt omnes fontes abyssi magnæ, et cataractæ Cæli apertæ sunt.",
-      "french": "L'année six cent de la vie de Noé, le dix-septième jour du second mois de la même année, les sources du grand abîme des eaux furent rompues, et les cataractes du Ciel furent ouvertes.",
+      "french": "L’année six cent de la vie de Noé, le dix-septième jour du second mois de la même année, les sources du grand abîme des eaux furent rompues, et les cataractes du Ciel furent ouvertes.",
       "annotations": null,
       "source_pages": [
         "page_0273.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "In articulo diei illius ingressus est Noe, et Sem, et Cham, et Japheth, filii ejus : uxor illius, et tres uxores filiorum ejus cum eis in Arcam :",
-      "french": "Aussitôt que le jour parut, Noé entra dans l'Arche avec ses fils Sem, Cham et Japhet, sa femme et les trois femmes de ses fils.",
+      "french": "Aussitôt que le jour parut, Noé entra dans l’Arche avec ses fils Sem, Cham et Japhet, sa femme et les trois femmes de ses fils.",
       "annotations": null,
       "source_pages": [
         "page_0287.json"
@@ -124,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Ipsi et omne animal secundum genus suum, universaque jumenta in genere suo, et omne quod movetur super terram in genere suo, cunctumque volatile secundum genus suum, universa aves, omnesque volucres,",
-      "french": "Tous les animaux [sauvages,] et tous les animaux domestiques y entrèrent selon leurs espèces. Tout ce qui se meut sur la terre selon son espèce ; et tout ce qui vole chacun selon son espèce, tous les oiseaux, et tout ce qui s'élève dans l'air.",
+      "french": "Tous les animaux [sauvages,] et tous les animaux domestiques y entrèrent selon leurs espèces. Tout ce qui se meut sur la terre selon son espèce ; et tout ce qui vole chacun selon son espèce, tous les oiseaux, et tout ce qui s’élève dans l’air.",
       "annotations": null,
       "source_pages": [
         "page_0287.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Ingressa sunt ad Noe in Arcam, bina et bina ex omni carne, in qua erat spiritus vitæ.",
-      "french": "[Toutes ces espèces d'animaux] entrèrent avec Noé dans l'Arche par couple, mâle et femelle, de toute chair vivante et animée.",
+      "french": "[Toutes ces espèces d’animaux] entrèrent avec Noé dans l’Arche par couple, mâle et femelle, de toute chair vivante et animée.",
       "annotations": null,
       "source_pages": [
         "page_0288.json"
@@ -142,7 +142,7 @@
     {
       "verse_number": 16,
       "latin": "Et quæ ingressa sunt, masculus et foemina ex omni carne introierunt, sicut præceperat ei Deus : et inclusit eum Dominus de foris.",
-      "french": "Ceux qui y entrèrent donc étaient mâles et femelles, et de toute espèce, selon que Dieu l'avait commandé à Noé ; et le Seigneur l'y enferma par dehors.",
+      "french": "Ceux qui y entrèrent donc étaient mâles et femelles, et de toute espèce, selon que Dieu l’avait commandé à Noé ; et le Seigneur l’y enferma par dehors.",
       "annotations": null,
       "source_pages": [
         "page_0288.json"
@@ -151,7 +151,7 @@
     {
       "verse_number": 17,
       "latin": "Factumque est diluvium quadraginta diebus super terram : Et multiplicatæ sunt aquæ, et elevaverunt Arcam in sublime a terra.",
-      "french": "Le Déluge se répandit sur la terre pendant quarante jours, et les eaux s'étant tant accrues, élevèrent l'Arche en haut au-dessus de la terre.",
+      "french": "Le Déluge se répandit sur la terre pendant quarante jours, et les eaux s’étant tant accrues, élevèrent l’Arche en haut au-dessus de la terre.",
       "annotations": null,
       "source_pages": [
         "page_0288.json"
@@ -160,7 +160,7 @@
     {
       "verse_number": 18,
       "latin": "Vehementer enim inundaverunt : et omnia repleverunt in superficie terræ : porro Arca ferebatur super aquas.",
-      "french": "Elles inondèrent tout, et couvrirent toute la surface de la terre : Mais l'Arche était portée sur les eaux.",
+      "french": "Elles inondèrent tout, et couvrirent toute la surface de la terre : Mais l’Arche était portée sur les eaux.",
       "annotations": null,
       "source_pages": [
         "page_0289.json"
@@ -178,7 +178,7 @@
     {
       "verse_number": 20,
       "latin": "Quindecim cubitis altior fuit aqua super montes, quos operuerat.",
-      "french": "L'eau ayant gagné le sommet des montagnes, s'éleva encore de quinze coudées plus haut.",
+      "french": "L’eau ayant gagné le sommet des montagnes, s’éleva encore de quinze coudées plus haut.",
       "annotations": null,
       "source_pages": [
         "page_0289.json"
@@ -187,7 +187,7 @@
     {
       "verse_number": 21,
       "latin": "Consumptaque est omnis caro quæ movebatur super terram, volucrum, animantium, bestiarum, omniumque reptilium, quæ reptant super terram : universi homines.",
-      "french": "Toute chair qui se meut sur la terre fut consumée, tous les oiseaux ; tous les animaux, toutes les bêtes, et tout ce qui rampe sur la terre :",
+      "french": "Toute chair qui se meut sur la terre fut consumée, tous les oiseaux ; tous les animaux, toutes les bêtes, et tout ce qui rampe sur la terre :",
       "annotations": null,
       "source_pages": [
         "page_0290.json"
@@ -205,7 +205,7 @@
     {
       "verse_number": 23,
       "latin": "Et delevit omnem substantiam, quæ erat super terram, ab homine usque ad pecus, tam reptile quam volucres cæli, et deleta sunt de terra : Remansit autem solus Noe, et qui cum eo erant in Arca.",
-      "french": "Toutes les créatures qui étaient sur la terre, depuis l'homme jusqu'aux bêtes, tant celles qui rampent, que celles qui volent dans l'air, tout périt ; il ne demeura que Noé seul, et ceux qui étaient avec lui dans l'Arche.",
+      "french": "Toutes les créatures qui étaient sur la terre, depuis l’homme jusqu’aux bêtes, tant celles qui rampent, que celles qui volent dans l’air, tout périt ; il ne demeura que Noé seul, et ceux qui étaient avec lui dans l’Arche.",
       "annotations": null,
       "source_pages": [
         "page_0290.json"

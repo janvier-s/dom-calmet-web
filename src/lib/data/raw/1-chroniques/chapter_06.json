@@ -1,13 +1,13 @@
 {
   "book": "1 Chroniques",
   "chapter": 6,
-  "chapter_summary": "Généalogie de Lévi, et d'Aaron. Fonctions des Prêtres, et des Lévites ; villes qui leur furent assignées pour demeures.",
+  "chapter_summary": "Généalogie de Lévi, et d’Aaron. Fonctions des Prêtres, et des Lévites ; villes qui leur furent assignées pour demeures.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
-      "latin": "Filii Levi : Gerson, Caath, et Merari.",
-      "french": "Les fils de Lévi furent Gerson ; Caath et Mérari.",
+      "latin": "Filii Levi : Gerson, Caath, et Merari.",
+      "french": "Les fils de Lévi furent Gerson ; Caath et Mérari.",
       "annotations": null,
       "source_pages": [
         "page_0117.json"
@@ -15,7 +15,7 @@
     },
     {
       "verse_number": 2,
-      "latin": "Filii Caath : Amram, Isaar, Hebron, et Oziel.",
+      "latin": "Filii Caath : Amram, Isaar, Hebron, et Oziel.",
       "french": "Les fils de Caath, sont Amram, Isaar, Hébron, et Oziel.",
       "annotations": null,
       "source_pages": [
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Filii Amram : Aaron, Moyses, et Maria. Filii Aaron : Nadab et Abiu, Eleazar, et Ithamar.",
-      "french": "Les fils d'Amram, sont Aaron, Moïse, et Marie leur sœur. Les fils d'Aaron, sont Nadab, et Abiu, Éléazar, et Ithamar.",
+      "latin": "Filii Amram : Aaron, Moyses, et Maria. Filii Aaron : Nadab et Abiu, Eleazar, et Ithamar.",
+      "french": "Les fils d’Amram, sont Aaron, Moïse, et Marie leur sœur. Les fils d’Aaron, sont Nadab, et Abiu, Éléazar, et Ithamar.",
       "annotations": null,
       "source_pages": [
         "page_0117.json"
@@ -141,7 +141,7 @@
     },
     {
       "verse_number": 16,
-      "latin": "Filii ergo Levi : Gerson, Caath, et Merari.",
+      "latin": "Filii ergo Levi : Gerson, Caath, et Merari.",
       "french": "Les fils de Lévi furent donc Gerson, Caath, et Mérari.",
       "annotations": null,
       "source_pages": [
@@ -150,7 +150,7 @@
     },
     {
       "verse_number": 17,
-      "latin": "Et hæc nomina filiorum Gerson : Lobni, et Semeï.",
+      "latin": "Et hæc nomina filiorum Gerson : Lobni, et Semeï.",
       "french": "Les fils de Gerson, furent Lobni, et Sémeï.",
       "annotations": null,
       "source_pages": [
@@ -159,7 +159,7 @@
     },
     {
       "verse_number": 18,
-      "latin": "Filii Caath : Amram, et Isaar, et Hebron, et Oziel.",
+      "latin": "Filii Caath : Amram, et Isaar, et Hebron, et Oziel.",
       "french": "Les fils de Caath, furent Amram, Isaar, Hébron, et Oziel.",
       "annotations": null,
       "source_pages": [
@@ -168,7 +168,7 @@
     },
     {
       "verse_number": 19,
-      "latin": "Filii Merari : Moholi et Musi. Hæ autem cognationes Levi, secundùm familias eorum.",
+      "latin": "Filii Merari : Moholi et Musi. Hæ autem cognationes Levi, secundùm familias eorum.",
       "french": "Les fils de Mérari, furent Moholi, et Musi. Mais voici quelle a été la postérité de Lévi, prise selon ses différentes familles.",
       "annotations": null,
       "source_pages": [
@@ -178,7 +178,7 @@
     {
       "verse_number": 20,
       "latin": "Gerson, Lobni filius ejus, Jahath filius ejus, Zamma filius ejus.",
-      "french": "Gerson eut pour fils Lobni ; le fils de Lobni, fut Jahath ; le fils de Jahath, fut Zamma.",
+      "french": "Gerson eut pour fils Lobni ; le fils de Lobni, fut Jahath ; le fils de Jahath, fut Zamma.",
       "annotations": null,
       "source_pages": [
         "page_0120.json"
@@ -187,7 +187,7 @@
     {
       "verse_number": 21,
       "latin": "Joab filius ejus, Addo filius ejus, Zara filius ejus, Jethrai filius ejus.",
-      "french": "Le fils de Zamma, fut Joah ; le fils de Joah, fut Addo ; le fils d'Addo, fut Zara ; le fils de Zara, fut Jéthraï.",
+      "french": "Le fils de Zamma, fut Joah ; le fils de Joah, fut Addo ; le fils d’Addo, fut Zara ; le fils de Zara, fut Jéthraï.",
       "annotations": null,
       "source_pages": [
         "page_0120.json"
@@ -196,7 +196,7 @@
     {
       "verse_number": 22,
       "latin": "Filius Caath, Aminadab filius ejus, Core filius ejus, Asir filius ejus.",
-      "french": "Les fils de Caath, sont ceux-ci : Aminadab fils de Caath ; Coré fils d'Aminadab, eut pour fils Asir.",
+      "french": "Les fils de Caath, sont ceux-ci : Aminadab fils de Caath ; Coré fils d’Aminadab, eut pour fils Asir.",
       "annotations": null,
       "source_pages": [
         "page_0120.json"
@@ -205,7 +205,7 @@
     {
       "verse_number": 23,
       "latin": "Elcana filius ejus, Abiasaph filius ejus, Asir filius ejus.",
-      "french": "Elcana, et Abiasaph ; Asir, fut fils d'Abiasaph.",
+      "french": "Elcana, et Abiasaph ; Asir, fut fils d’Abiasaph.",
       "annotations": null,
       "source_pages": [
         "page_0120.json"
@@ -214,7 +214,7 @@
     {
       "verse_number": 24,
       "latin": "Thahath filius ejus, Uriel filius ejus, Ozias filius ejus, Saul filius ejus.",
-      "french": "Thahath fils d'Asir, Uriel fils de Thahath, Ozias fils d'Uriel ; Saül fils d'Ozias.",
+      "french": "Thahath fils d’Asir, Uriel fils de Thahath, Ozias fils d’Uriel ; Saül fils d’Ozias.",
       "annotations": null,
       "source_pages": [
         "page_0120.json"
@@ -222,8 +222,8 @@
     },
     {
       "verse_number": 25,
-      "latin": "Filii Elcana : Amasai, et Achimoth, et Elcana.",
-      "french": "Les fils d'Elcana, furent Amasaï, Achimoth, et Elcana.",
+      "latin": "Filii Elcana : Amasai, et Achimoth, et Elcana.",
+      "french": "Les fils d’Elcana, furent Amasaï, Achimoth, et Elcana.",
       "annotations": null,
       "source_pages": [
         "page_0121.json"
@@ -231,8 +231,8 @@
     },
     {
       "verse_number": 26,
-      "latin": "Filii Elcana : Sophai filius ejus, Nahath filius ejus,",
-      "french": "Les fils d'Elcana, furent Sophaï fils d'Elcana ; Nahath fils de Sophaï.",
+      "latin": "Filii Elcana : Sophai filius ejus, Nahath filius ejus,",
+      "french": "Les fils d’Elcana, furent Sophaï fils d’Elcana ; Nahath fils de Sophaï.",
       "annotations": null,
       "source_pages": [
         "page_0121.json"
@@ -241,7 +241,7 @@
     {
       "verse_number": 27,
       "latin": "Eliab filius ejus, Jeroham filius ejus, Elcana filius ejus.",
-      "french": "Eliab fils de Nahath ; Jéroham fils d'Eliab ; Elcana fils de Jéroham.",
+      "french": "Eliab fils de Nahath ; Jéroham fils d’Eliab ; Elcana fils de Jéroham.",
       "annotations": null,
       "source_pages": [
         "page_0121.json"
@@ -250,7 +250,7 @@
     {
       "verse_number": 28,
       "latin": "Filii Samuel, primogenitus Vasseni, et Abia.",
-      "french": "Les enfants de Samuel, furent Vasseni qui était l'aîné, et Abia.",
+      "french": "Les enfants de Samuel, furent Vasseni qui était l’aîné, et Abia.",
       "annotations": null,
       "source_pages": [
         "page_0121.json"
@@ -258,8 +258,8 @@
     },
     {
       "verse_number": 29,
-      "latin": "Filii autem Merari, Moholi, Lobni filius ejus, Semei filius ejus, Oza filius ejus ;",
-      "french": "Les enfants de Mérari, sont Moholi, son fils Lobni, Semeï fils de Lobni, Oza fils de Semeï ;",
+      "latin": "Filii autem Merari, Moholi, Lobni filius ejus, Semei filius ejus, Oza filius ejus ;",
+      "french": "Les enfants de Mérari, sont Moholi, son fils Lobni, Semeï fils de Lobni, Oza fils de Semeï ;",
       "annotations": null,
       "source_pages": [
         "page_0121.json"
@@ -268,7 +268,7 @@
     {
       "verse_number": 30,
       "latin": "Sammaa filius ejus, Haggia filius ejus, Asaia filius ejus.",
-      "french": "Sammaa fils d'Oza, Haggia fils de Sammaa, Asaïa fils d'Haggia.",
+      "french": "Sammaa fils d’Oza, Haggia fils de Sammaa, Asaïa fils d’Haggia.",
       "annotations": null,
       "source_pages": [
         "page_0121.json"
@@ -277,7 +277,7 @@
     {
       "verse_number": 31,
       "latin": "Isti sunt, quos constituit David super cantores domûs Domini, ex quo collocata est arca.",
-      "french": "Ce sont ceux-là, à qui David donna l'intendance sur les chantres de la maison du Seigneur, depuis que l'Arche eut été placée dans Jérusalem.",
+      "french": "Ce sont ceux-là, à qui David donna l’intendance sur les chantres de la maison du Seigneur, depuis que l’Arche eut été placée dans Jérusalem.",
       "annotations": "An. du m. 2909. avant J. C. 1045.",
       "source_pages": [
         "page_0122.json"
@@ -285,8 +285,8 @@
     },
     {
       "verse_number": 32,
-      "latin": "Et ministrabant coram tabernaculo testimonii, canentes, donec ædificaret Salomon domum Domini in Jerusalem : stabant autem juxta ordinem suum in ministerio.",
-      "french": "Ils accomplissaient leur ministère, en chantant devant le tabernacle de l'alliance, jusqu'à ce que Salomon eût bâti le temple du Seigneur dans Jérusalem ; et ils entraient en office chacun selon l'ordre de leurs familles.",
+      "latin": "Et ministrabant coram tabernaculo testimonii, canentes, donec ædificaret Salomon domum Domini in Jerusalem : stabant autem juxta ordinem suum in ministerio.",
+      "french": "Ils accomplissaient leur ministère, en chantant devant le tabernacle de l’alliance, jusqu’à ce que Salomon eût bâti le temple du Seigneur dans Jérusalem ; et ils entraient en office chacun selon l’ordre de leurs familles.",
       "annotations": null,
       "source_pages": [
         "page_0122.json"
@@ -294,7 +294,7 @@
     },
     {
       "verse_number": 33,
-      "latin": "Hi verò sunt, qui assistebant cum filiis suis ; de filiis Caath, Heman cantor, filius Johel, filii Samuel,",
+      "latin": "Hi verò sunt, qui assistebant cum filiis suis ; de filiis Caath, Heman cantor, filius Johel, filii Samuel,",
       "french": "Or voici les noms de ceux qui servaient avec leurs enfants. Dans la postérité de Caath, Héman faisait l’office de chantre. Il était fils de Johel, fils de Samuël,",
       "annotations": "An. 2959.",
       "source_pages": [
@@ -348,8 +348,8 @@
     },
     {
       "verse_number": 39,
-      "latin": "Et frater ejus Asaph, qui stabat à dextris ejus; Asaph filius Barachiæ, filii Samaa,",
-      "french": "Son frère Asaph était à sa droite ; il était fils de Barachias, fils de Samaa,",
+      "latin": "Et frater ejus Asaph, qui stabat à dextris ejus ; Asaph filius Barachiæ, filii Samaa,",
+      "french": "Son frère Asaph était à sa droite ; il était fils de Barachias, fils de Samaa,",
       "annotations": null,
       "source_pages": [
         "page_0124.json"
@@ -367,7 +367,7 @@
     {
       "verse_number": 41,
       "latin": "Filii Athanai, filii Zara, filii Adaiæ,",
-      "french": "fils d'Athanaï, fils de Zara, fils d'Adaïa,",
+      "french": "fils d’Athanaï, fils de Zara, fils d’Adaïa,",
       "annotations": null,
       "source_pages": [
         "page_0124.json"
@@ -376,7 +376,7 @@
     {
       "verse_number": 42,
       "latin": "Filii Ethan, filii Zamma, filii Semei,",
-      "french": "fils d'Ethan, fils de Zamma, fils de Semeï,",
+      "french": "fils d’Ethan, fils de Zamma, fils de Semeï,",
       "annotations": null,
       "source_pages": [
         "page_0124.json"
@@ -394,7 +394,7 @@
     {
       "verse_number": 44,
       "latin": "Filii autem Merari fratres eorum, ad sinistram, Ethan filius Cusi, filii Abdi, filii Maloch,",
-      "french": "Les enfants de Mérari leurs frères, tenaient la gauche, savoir, Ethan fils de Cusi, fils d'Abdi, fils de Maloch,",
+      "french": "Les enfants de Mérari leurs frères, tenaient la gauche, savoir, Ethan fils de Cusi, fils d’Abdi, fils de Maloch,",
       "annotations": null,
       "source_pages": [
         "page_0124.json"
@@ -403,7 +403,7 @@
     {
       "verse_number": 45,
       "latin": "Filii Hasabiæ, filii Amasiæ, filii Helciæ,",
-      "french": "fils d'Hasabias, fils d'Amasias, fils d'Helcias,",
+      "french": "fils d’Hasabias, fils d’Amasias, fils d’Helcias,",
       "annotations": null,
       "source_pages": [
         "page_0124.json"
@@ -412,7 +412,7 @@
     {
       "verse_number": 46,
       "latin": "Filii Amasai, filii Boni, filii Somer,",
-      "french": "fils d'Amasaï, fils de Boni, fils de Somer,",
+      "french": "fils d’Amasaï, fils de Boni, fils de Somer,",
       "annotations": null,
       "source_pages": [
         "page_0125.json"
@@ -438,8 +438,8 @@
     },
     {
       "verse_number": 49,
-      "latin": "Aaron verò et filii ejus adolebant incensum super altare holocausti, et super altare thymiainatis, in omne opus Sanctorum; et ut precarentur pro Israël, juxta omnia quæ præceperat Moyses servus Dei.",
-      "french": "Mais Aaron et ses fils offraient l'encens sur l'Autel des holocaustes, et sur l'Autel des parfums, pour tout ce qui regardait les fonctions du Sanctuaire ; et ils priaient pour la maison d'Israël, suivant en tout, l'ordre que Moïse serviteur de Dieu leur avait prescrit.",
+      "latin": "Aaron verò et filii ejus adolebant incensum super altare holocausti, et super altare thymiainatis, in omne opus Sanctorum ; et ut precarentur pro Israël, juxta omnia quæ præceperat Moyses servus Dei.",
+      "french": "Mais Aaron et ses fils offraient l’encens sur l’Autel des holocaustes, et sur l’Autel des parfums, pour tout ce qui regardait les fonctions du Sanctuaire ; et ils priaient pour la maison d’Israël, suivant en tout, l’ordre que Moïse serviteur de Dieu leur avait prescrit.",
       "annotations": null,
       "source_pages": [
         "page_0125.json"
@@ -447,8 +447,8 @@
     },
     {
       "verse_number": 50,
-      "latin": "Hi sunt autem filii Aaron : Eleazar filius ejus, Phinees filius ejus, Abisue filius ejus,",
-      "french": "Or voici quels étaient les fils d'Aaron : Eléazar son fils ; Phinée fils d'Eléazar, Abisué fils de Phinée,",
+      "latin": "Hi sunt autem filii Aaron : Eleazar filius ejus, Phinees filius ejus, Abisue filius ejus,",
+      "french": "Or voici quels étaient les fils d’Aaron : Eléazar son fils ; Phinée fils d’Eléazar, Abisué fils de Phinée,",
       "annotations": null,
       "source_pages": [
         "page_0125.json"
@@ -457,7 +457,7 @@
     {
       "verse_number": 51,
       "latin": "Bocci filius ejus, Ozi filius ejus, Zarahiæ filius ejus,",
-      "french": "Bocci fils d'Abisué, Ozi fils de Bocci, Zarahie fils d'Ozi,",
+      "french": "Bocci fils d’Abisué, Ozi fils de Bocci, Zarahie fils d’Ozi,",
       "annotations": null,
       "source_pages": [
         "page_0126.json"
@@ -466,7 +466,7 @@
     {
       "verse_number": 52,
       "latin": "Merajoth filius ejus, Amarias filius ejus, Achitob filius ejus,",
-      "french": "Merajoth fils de Zarahie, Amarias fils de Mérajoth, Achitob fils d'Amarias,",
+      "french": "Merajoth fils de Zarahie, Amarias fils de Mérajoth, Achitob fils d’Amarias,",
       "annotations": null,
       "source_pages": [
         "page_0126.json"
@@ -475,7 +475,7 @@
     {
       "verse_number": 53,
       "latin": "Sadoc filius ejus, Achimaas filius ejus.",
-      "french": "Sadoc fils d'Achitob ; Achimaas fils de Sadoc.",
+      "french": "Sadoc fils d’Achitob ; Achimaas fils de Sadoc.",
       "annotations": null,
       "source_pages": [
         "page_0126.json"
@@ -483,8 +483,8 @@
     },
     {
       "verse_number": 54,
-      "latin": "Et hæc habitacula eorum per vicos, atque confinia, filiorum scilicet Aaron, juxta cognationes Caathitarum : ipsis enim sorte contigerant.",
-      "french": "Et voici les lieux, où demeuraient ces enfants d'Aaron ; savoir, les Bourgades, et les environs, qui leur échurent par sort, en commençant par les familles de la branche de Caath.",
+      "latin": "Et hæc habitacula eorum per vicos, atque confinia, filiorum scilicet Aaron, juxta cognationes Caathitarum : ipsis enim sorte contigerant.",
+      "french": "Et voici les lieux, où demeuraient ces enfants d’Aaron ; savoir, les Bourgades, et les environs, qui leur échurent par sort, en commençant par les familles de la branche de Caath.",
       "annotations": null,
       "source_pages": [
         "page_0126.json"
@@ -492,8 +492,8 @@
     },
     {
       "verse_number": 55,
-      "latin": "Dederunt igitur eis Hebron in terra Juda, et suburbana ejus per circuitum :",
-      "french": "On leur donna donc Hébron dans la tribu de Juda, et tous les faubourgs qui l'environnent :",
+      "latin": "Dederunt igitur eis Hebron in terra Juda, et suburbana ejus per circuitum :",
+      "french": "On leur donna donc Hébron dans la tribu de Juda, et tous les faubourgs qui l’environnent :",
       "annotations": null,
       "source_pages": [
         "page_0126.json"
@@ -511,7 +511,7 @@
     {
       "verse_number": 57,
       "latin": "Porrò filiis Aaron dederunt civitates, ad confugiendum Hebron, et Lobna, et suburbana ejus,",
-      "french": "On donna aussi aux enfants d'Aaron des villes : Hébron ville de refuge, et Lobna, avec ses faubourgs ;",
+      "french": "On donna aussi aux enfants d’Aaron des villes : Hébron ville de refuge, et Lobna, avec ses faubourgs ;",
       "annotations": null,
       "source_pages": [
         "page_0126.json"
@@ -520,7 +520,7 @@
     {
       "verse_number": 58,
       "latin": "Jether quoque, et Esthemo, cum suburbanis suis, sed et Helon et Dabir cum suburbanis suis.",
-      "french": "comme aussi Jether, et Esthémo avec leurs faubourgs, et même Hélon et Dabir avec leurs faubourgs ;",
+      "french": "comme aussi Jether, et Esthémo avec leurs faubourgs, et même Hélon et Dabir avec leurs faubourgs ;",
       "annotations": null,
       "source_pages": [
         "page_0126.json"
@@ -537,8 +537,8 @@
     },
     {
       "verse_number": 60,
-      "latin": "De tribu autem Benjamin, Gabee, et suburbana ejus, et Almath cum suburbanis suis, Anathot quoque cum suburbanis suis : omnes civitates tredecim, per cognationes suas.",
-      "french": "On leur donna aussi de la tribu de Benjamin, Gabée avec ses faubourgs ; Almath avec ses faubourgs, comme aussi Anathoth avec ses faubourgs, le tout faisant treize villes, partagées entre leurs familles.",
+      "latin": "De tribu autem Benjamin, Gabee, et suburbana ejus, et Almath cum suburbanis suis, Anathot quoque cum suburbanis suis : omnes civitates tredecim, per cognationes suas.",
+      "french": "On leur donna aussi de la tribu de Benjamin, Gabée avec ses faubourgs ; Almath avec ses faubourgs, comme aussi Anathoth avec ses faubourgs, le tout faisant treize villes, partagées entre leurs familles.",
       "annotations": null,
       "source_pages": [
         "page_0127.json"
@@ -556,7 +556,7 @@
     {
       "verse_number": 62,
       "latin": "Porrò filiis Gerson per cognationes suas, de tribu Issachar, et de tribu Aser, et de tribu Nephthali, et de tribu Manasse in Basan, urbes tredecim.",
-      "french": "Les descendants de Gerson divisés en plusieurs branches, eurent treize villes de la tribu d'Issachar, de la tribu d'Aser, de la tribu de Nephthali, et de la tribu de Manassé qui demeurait dans Basan.",
+      "french": "Les descendants de Gerson divisés en plusieurs branches, eurent treize villes de la tribu d’Issachar, de la tribu d’Aser, de la tribu de Nephthali, et de la tribu de Manassé qui demeurait dans Basan.",
       "annotations": null,
       "source_pages": [
         "page_0127.json"
@@ -573,8 +573,8 @@
     },
     {
       "verse_number": 64,
-      "latin": "Dederunt quoque filii Israël Levitis civitates, et suburbana earum:",
-      "french": "Les enfants d'Israël donnèrent aussi aux Lévites, diverses villes avec leurs faubourgs ;",
+      "latin": "Dederunt quoque filii Israël Levitis civitates, et suburbana earum :",
+      "french": "Les enfants d’Israël donnèrent aussi aux Lévites, diverses villes avec leurs faubourgs ;",
       "annotations": null,
       "source_pages": [
         "page_0128.json"
@@ -592,7 +592,7 @@
     {
       "verse_number": 66,
       "latin": "Et his qui erant de cognatione filiorum Caath, fueruntque civitates in terminis eorum, de tribu Ephraïm.",
-      "french": "On en donna de même à ceux qui étaient de la famille de Caath ; et il y en eut quelques-unes, qui étaient de la tribu d'Éphraïm.",
+      "french": "On en donna de même à ceux qui étaient de la famille de Caath ; et il y en eut quelques-unes, qui étaient de la tribu d’Éphraïm.",
       "annotations": null,
       "source_pages": [
         "page_0128.json"
@@ -601,7 +601,7 @@
     {
       "verse_number": 67,
       "latin": "Dederunt ergo eis urbes ad confugiendum, Sichem cum suburbanis suis in monte Ephraïm, et Gazer cum suburbanis suis.",
-      "french": "comme Sichem ville de refuge, avec ses faubourgs, dans la montagne d'Éphraïm ; et Gazer avec ses faubourgs,",
+      "french": "comme Sichem ville de refuge, avec ses faubourgs, dans la montagne d’Éphraïm ; et Gazer avec ses faubourgs,",
       "annotations": null,
       "source_pages": [
         "page_0129.json"
@@ -610,7 +610,7 @@
     {
       "verse_number": 68,
       "latin": "Jecmaan quoque cum suburbanis suis, et Bethoron similiter.",
-      "french": "Jecman aussi avec ses faubourgs ; et de même Bethoron ;",
+      "french": "Jecman aussi avec ses faubourgs ; et de même Bethoron ;",
       "annotations": null,
       "source_pages": [
         "page_0129.json"
@@ -646,7 +646,7 @@
     {
       "verse_number": 72,
       "latin": "De tribu Issachar, Cedes et suburbana ejus, et Dabereth cum suburbanis suis.",
-      "french": "Dans la tribu d'Issachar, ils eurent Cédes avec ses faubourgs, et Dabéreth avec ses faubourgs ;",
+      "french": "Dans la tribu d’Issachar, ils eurent Cédes avec ses faubourgs, et Dabéreth avec ses faubourgs ;",
       "annotations": null,
       "source_pages": [
         "page_0130.json"
@@ -664,7 +664,7 @@
     {
       "verse_number": 74,
       "latin": "De tribu verò Aser, Masal cum suburbanis suis, et Abdon similiter.",
-      "french": "Dans celle d'Aser, ils eurent Masal avec ses faubourgs, et Abdon de même,",
+      "french": "Dans celle d’Aser, ils eurent Masal avec ses faubourgs, et Abdon de même,",
       "annotations": null,
       "source_pages": [
         "page_0130.json"
@@ -681,7 +681,7 @@
     },
     {
       "verse_number": 76,
-      "latin": "Porrò de tribu Nephthali, Cedes in Galilæa, et suburbana ejus ; Hamon cum suburbanis suis, et Cariathaïm et suburbana ejus.",
+      "latin": "Porrò de tribu Nephthali, Cedes in Galilæa, et suburbana ejus ; Hamon cum suburbanis suis, et Cariathaïm et suburbana ejus.",
       "french": "Dans la tribu de Nephthali, ils eurent Cédès en Galilée, et ses faubourgs, Hamon avec ses faubourgs, Cariathaïm et ses faubourgs.",
       "annotations": null,
       "source_pages": [
@@ -700,7 +700,7 @@
     {
       "verse_number": 78,
       "latin": "Trans Jordanem quoque, ex adverso Jericho, contra orientem Jordanis, de tribu Ruben, Bosor in solitudine cum suburbanis suis, et Jassa cum suburbanis suis.",
-      "french": "Au-delà du Jourdain, vis-à-vis de Jéricho, à l'orient de ce fleuve, ils eurent dans la tribu de Ruben, Bosor qui est dans le désert avec ses faubourgs, et Jassa avec ses faubourgs ;",
+      "french": "Au-delà du Jourdain, vis-à-vis de Jéricho, à l’orient de ce fleuve, ils eurent dans la tribu de Ruben, Bosor qui est dans le désert avec ses faubourgs, et Jassa avec ses faubourgs ;",
       "annotations": null,
       "source_pages": [
         "page_0130.json"
@@ -709,7 +709,7 @@
     {
       "verse_number": 79,
       "latin": "Cademoth quoque et suburbana ejus, et Mephaat cum suburbanis suis.",
-      "french": "Cadémoth aussi avec ses faubourgs, et Méphaat avec ses faubourgs ;",
+      "french": "Cadémoth aussi avec ses faubourgs, et Méphaat avec ses faubourgs ;",
       "annotations": null,
       "source_pages": [
         "page_0130.json"
@@ -717,8 +717,8 @@
     },
     {
       "verse_number": 80,
-      "latin": "Necnon et de tribu Gad, Ramoth in Galaad, et suburbana ejus, et Manaim cum suburbanis suis;",
-      "french": "comme aussi dans la tribu de Gad, Ramoth de Galaad et ses faubourgs, et Manaïm avec ses faubourgs;",
+      "latin": "Necnon et de tribu Gad, Ramoth in Galaad, et suburbana ejus, et Manaim cum suburbanis suis ;",
+      "french": "comme aussi dans la tribu de Gad, Ramoth de Galaad et ses faubourgs, et Manaïm avec ses faubourgs ;",
       "annotations": null,
       "source_pages": [
         "page_0131.json"

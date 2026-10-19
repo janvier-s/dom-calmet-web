@@ -1,13 +1,13 @@
 {
   "book": "Judith",
   "chapter": 12,
-  "chapter_summary": "Exercices de Judith dans le camp d'Holofernes. Elle est invitée à souper avec ce Général, qui s'enivre, lui, et ses gens.",
+  "chapter_summary": "Exercices de Judith dans le camp d’Holofernes. Elle est invitée à souper avec ce Général, qui s’enivre, lui, et ses gens.",
   "chapter_intro": null,
   "verses": [
     {
       "verse_number": 1,
       "latin": "Tunc jussit eam introire ubi repositi erant thesauri ejus, et jussit illic manere eam, et constituit quid daretur illi de convivio suo.",
-      "french": "Alors il commanda qu'on la fît entrer au lieu où étaient ses trésors, et qu'elle y demeurât ; et il ordonna ce qu'on lui donnerait de sa table.",
+      "french": "Alors il commanda qu’on la fît entrer au lieu où étaient ses trésors, et qu’elle y demeurât ; et il ordonna ce qu’on lui donnerait de sa table.",
       "annotations": "An du M. 3348. avant J. C. 656.",
       "source_pages": [
         "page_0127.json"
@@ -15,8 +15,8 @@
     },
     {
       "verse_number": 2,
-      "latin": "Cui respondit Judith, et dixit : Nunc non potero manducare ex his, quæ mihi præcipis tribui, ne veniat super me offensio : ex his autem, quæ mihi detuli, manducabo.",
-      "french": "Judith lui répondit : Je ne pourrai pas manger maintenant des choses que vous commandez qu'on me donne, de peur d'attirer l'indignation de Dieu sur moi ; mais je mangerai de ce que j'ai apporté avec moi.",
+      "latin": "Cui respondit Judith, et dixit : Nunc non potero manducare ex his, quæ mihi præcipis tribui, ne veniat super me offensio : ex his autem, quæ mihi detuli, manducabo.",
+      "french": "Judith lui répondit : Je ne pourrai pas manger maintenant des choses que vous commandez qu’on me donne, de peur d’attirer l’indignation de Dieu sur moi ; mais je mangerai de ce que j’ai apporté avec moi.",
       "annotations": null,
       "source_pages": [
         "page_0127.json"
@@ -24,8 +24,8 @@
     },
     {
       "verse_number": 3,
-      "latin": "Cui Holofernes ait : Si defecerint tibi ista , quæ tecum detulisti, quid faciemus tibi ?",
-      "french": "Holofernes lui repartit : Si ce que vous avez apporté avec vous, vient à vous manquer, que pourrons-nous faire ?",
+      "latin": "Cui Holofernes ait : Si defecerint tibi ista, quæ tecum detulisti, quid faciemus tibi ?",
+      "french": "Holofernes lui repartit : Si ce que vous avez apporté avec vous, vient à vous manquer, que pourrons-nous faire ?",
       "annotations": "An dum. 3348.",
       "source_pages": [
         "page_0128.json"
@@ -33,8 +33,8 @@
     },
     {
       "verse_number": 4,
-      "latin": "Et dixit Judith : Vivit anima tua, Domine meus, quoniam non expendet omnia hæc ancilla tua, donec faciat Deus in manu mea, hæc quæ cogitavi. Et induxerunt illam servi ejus in tabernaculum, quòd præceperat.",
-      "french": "Judith lui répliqua : Je jure par votre salut, Monseigneur, qu'avant que votre servante ait consumé tout ce qu'elle a apporté, Dieu fera par ma main, ce que j'ai pensé. Ensuite ses serviteurs la firent entrer dans la tente, où il leur avait donné ordre de la mener.",
+      "latin": "Et dixit Judith : Vivit anima tua, Domine meus, quoniam non expendet omnia hæc ancilla tua, donec faciat Deus in manu mea, hæc quæ cogitavi. Et induxerunt illam servi ejus in tabernaculum, quòd præceperat.",
+      "french": "Judith lui répliqua : Je jure par votre salut, Monseigneur, qu’avant que votre servante ait consumé tout ce qu’elle a apporté, Dieu fera par ma main, ce que j’ai pensé. Ensuite ses serviteurs la firent entrer dans la tente, où il leur avait donné ordre de la mener.",
       "annotations": null,
       "source_pages": [
         "page_0128.json"
@@ -43,7 +43,7 @@
     {
       "verse_number": 5,
       "latin": "Et petiit dum introiret, ut daretur ei copia, nocte et ante lucem, egrediendi foras ad orationem, et deprecandi Dominum.",
-      "french": "Elle demanda en y entrant, qu'on lui permît de sortir la nuit, et avant le jour, pour aller faire sa prière, et invoquer le Seigneur.",
+      "french": "Elle demanda en y entrant, qu’on lui permît de sortir la nuit, et avant le jour, pour aller faire sa prière, et invoquer le Seigneur.",
       "annotations": null,
       "source_pages": [
         "page_0128.json"
@@ -52,7 +52,7 @@
     {
       "verse_number": 6,
       "latin": "Et præcepit cubiculariis suis, ut sicut placeret illi, exiret et introiret ad adorandum Deum suum, per triduum.",
-      "french": "Et Holofernes commanda aux huissiers de sa chambre de la laisser entrer et sortir, selon qu'elle le voudrait durant trois jours, pour adorer son Dieu.",
+      "french": "Et Holofernes commanda aux huissiers de sa chambre de la laisser entrer et sortir, selon qu’elle le voudrait durant trois jours, pour adorer son Dieu.",
       "annotations": null,
       "source_pages": [
         "page_0128.json"
@@ -70,7 +70,7 @@
     {
       "verse_number": 8,
       "latin": "Et ut ascendebat, orabat Dominum Deum Israël, ut dirigeret viam ejus ad liberationem populi sui.",
-      "french": "Et en retournant, elle priait le Seigneur le Dieu d'Israël, afin qu'il la conduisît dans le dessein qu'elle avait prémédité, pour la délivrance de son peuple.",
+      "french": "Et en retournant, elle priait le Seigneur le Dieu d’Israël, afin qu’il la conduisît dans le dessein qu’elle avait prémédité, pour la délivrance de son peuple.",
       "annotations": null,
       "source_pages": [
         "page_0129.json"
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Et introiens, munda manebat in tabernaculo, usque dum acciperet escam suam in vespere.",
-      "french": "Puis rentrant dans sa tente, elle y demeurait pure; jusqu'à ce qu'elle prît sa nourriture vers le soir.",
+      "french": "Puis rentrant dans sa tente, elle y demeurait pure ; jusqu’à ce qu’elle prît sa nourriture vers le soir.",
       "annotations": null,
       "source_pages": [
         "page_0129.json"
@@ -87,8 +87,8 @@
     },
     {
       "verse_number": 10,
-      "latin": "Et factum est, in quarto die Holofernes fecit cœnam servis suis, et dixit ad Vagao eunuchum suum : Vade, et suade Hebræam illam, ut spontè consentiat habitare mecum.",
-      "french": "Quatre jours après, Holopherne fit un festin à ceux de sa maison, et il dit à Vagao un de ses eunuques : Allez, et persuadez à cette femme du peuple hébreu, qu'elle consente d'elle-même à venir me trouver.",
+      "latin": "Et factum est, in quarto die Holofernes fecit cœnam servis suis, et dixit ad Vagao eunuchum suum : Vade, et suade Hebræam illam, ut spontè consentiat habitare mecum.",
+      "french": "Quatre jours après, Holopherne fit un festin à ceux de sa maison, et il dit à Vagao un de ses eunuques : Allez, et persuadez à cette femme du peuple hébreu, qu’elle consente d’elle-même à venir me trouver.",
       "annotations": null,
       "source_pages": [
         "page_0129.json"
@@ -97,7 +97,7 @@
     {
       "verse_number": 11,
       "latin": "Factum est enim apud Assyrios, si femina irrideat virum, agendo ut immunis ab eo transeat.",
-      "french": "Car il serait honteux à un Assyrien, qu'une femme se moquât de lui, et qu'elle trouvât moyen de se tirer d'avec lui, sans consentir à ce qu'il désire d'elle.",
+      "french": "Car il serait honteux à un Assyrien, qu’une femme se moquât de lui, et qu’elle trouvât moyen de se tirer d’avec lui, sans consentir à ce qu’il désire d’elle.",
       "annotations": "An du M. 3348.",
       "source_pages": [
         "page_0130.json"
@@ -105,8 +105,8 @@
     },
     {
       "verse_number": 12,
-      "latin": "Tunc introivit Vagao ad Judith, et dixit : Non vereatur bona puella introire ad Dominum meum, ut honorificetur ante faciem ejus, ut manducet cum eo, et bibat vinum in jucunditate.",
-      "french": "Alors Vagao alla trouver Judith, et lui dit : Pourquoi cette bonne fille craindrait-elle d'entrer chez mon Seigneur, pour être honorée de lui, pour manger avec lui, pour boire du vin, et se réjouir ?",
+      "latin": "Tunc introivit Vagao ad Judith, et dixit : Non vereatur bona puella introire ad Dominum meum, ut honorificetur ante faciem ejus, ut manducet cum eo, et bibat vinum in jucunditate.",
+      "french": "Alors Vagao alla trouver Judith, et lui dit : Pourquoi cette bonne fille craindrait-elle d’entrer chez mon Seigneur, pour être honorée de lui, pour manger avec lui, pour boire du vin, et se réjouir ?",
       "annotations": null,
       "source_pages": [
         "page_0130.json"
@@ -114,8 +114,8 @@
     },
     {
       "verse_number": 13,
-      "latin": "Cui Judith respondit : Quia ego sum, ut contradicam Domino meo ?",
-      "french": "Judith lui répondit : Qui suis-je moi pour m'opposer à la volonté de mon Seigneur ?",
+      "latin": "Cui Judith respondit : Quia ego sum, ut contradicam Domino meo ?",
+      "french": "Judith lui répondit : Qui suis-je moi pour m’opposer à la volonté de mon Seigneur ?",
       "annotations": "An du M. 3348.",
       "source_pages": [
         "page_0131.json"
@@ -124,7 +124,7 @@
     {
       "verse_number": 14,
       "latin": "Omne quod erit ante oculos ejus bonum et optimum, faciam. Quidquid autem illi placuerit, hoc mihi erit optimum omnibus diebus vitæ meæ.",
-      "french": "Je ferai tout ce qu'il trouvera bon, qui lui paraîtra le meilleur ; car ce qui lui sera agréable, sera aussi le plus grand bien qui puisse m'arriver en toute ma vie.",
+      "french": "Je ferai tout ce qu’il trouvera bon, qui lui paraîtra le meilleur ; car ce qui lui sera agréable, sera aussi le plus grand bien qui puisse m’arriver en toute ma vie.",
       "annotations": null,
       "source_pages": [
         "page_0131.json"
@@ -133,7 +133,7 @@
     {
       "verse_number": 15,
       "latin": "Et surrexit, et ornavit se vestimento suo, et ingressa stetit ante faciem ejus.",
-      "french": "Elle se leva ensuite, et elle se para de tous ses ornements; et étant entrée dans sa tente, elle parut devant lui.",
+      "french": "Elle se leva ensuite, et elle se para de tous ses ornements ; et étant entrée dans sa tente, elle parut devant lui.",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -141,8 +141,8 @@
     },
     {
       "verse_number": 16,
-      "latin": "Cor autem Holofernis concupiscentia est : erat enim ardens in concupiscentia ejus.",
-      "french": "Holofernes en la voyant fut frappé au cœur, parce qu'il brûlait de passion pour elle.",
+      "latin": "Cor autem Holofernis concupiscentia est : erat enim ardens in concupiscentia ejus.",
+      "french": "Holofernes en la voyant fut frappé au cœur, parce qu’il brûlait de passion pour elle.",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -150,8 +150,8 @@
     },
     {
       "verse_number": 17,
-      "latin": "Et dixit ad eam Holofernes : Bibe nunc, et accumbe in jucunditate, quoniam invenisti gratiam coram me.",
-      "french": "Et il lui dit : Buvez maintenant et mangez avec joie, parce que vous avez trouvé grâce devant moi.",
+      "latin": "Et dixit ad eam Holofernes : Bibe nunc, et accumbe in jucunditate, quoniam invenisti gratiam coram me.",
+      "french": "Et il lui dit : Buvez maintenant et mangez avec joie, parce que vous avez trouvé grâce devant moi.",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -159,8 +159,8 @@
     },
     {
       "verse_number": 18,
-      "latin": "Et dixit Judith : Bibam Domine, quoniam magnificata est anima mea, hodie præ omnibus diebus meis.",
-      "french": "Judith lui répliqua : Je boirai, mon Seigneur, parce que mon âme reçoit aujourd'hui la plus grande gloire, qu'elle ait reçue dans toute sa vie.",
+      "latin": "Et dixit Judith : Bibam Domine, quoniam magnificata est anima mea, hodie præ omnibus diebus meis.",
+      "french": "Judith lui répliqua : Je boirai, mon Seigneur, parce que mon âme reçoit aujourd’hui la plus grande gloire, qu’elle ait reçue dans toute sa vie.",
       "annotations": null,
       "source_pages": [
         "page_0132.json"
@@ -169,7 +169,7 @@
     {
       "verse_number": 19,
       "latin": "Et accepit, et manducavit, et bibit coram ipso, ea quæ paraverat illi ancilla ejus.",
-      "french": "Elle prit ensuite ce que sa servante lui avait préparé ; et elle mangea et but devant lui.",
+      "french": "Elle prit ensuite ce que sa servante lui avait préparé ; et elle mangea et but devant lui.",
       "annotations": "An du M. 3348.",
       "source_pages": [
         "page_0133.json"
@@ -178,7 +178,7 @@
     {
       "verse_number": 20,
       "latin": "Et jucundus factus est Holofernes ad eam, bibitque vinum nimis, quantum numquam biberat in vita sua.",
-      "french": "Et Holofernes fut tellement transporté de joie en la voyant, qu'il but du vin plus qu'il n'en avait bu en aucun repas dans toute sa vie.",
+      "french": "Et Holofernes fut tellement transporté de joie en la voyant, qu’il but du vin plus qu’il n’en avait bu en aucun repas dans toute sa vie.",
       "annotations": null,
       "source_pages": [
         "page_0133.json"
