@@ -1,0 +1,57 @@
+{
+  "book": "Psaumes",
+  "chapter": 42,
+  "chapter_summary": "Continuation des plaintes, et des Prières que font au Seigneur les Captifs de Babylone.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Judica me, Deus, et discerne causam meam de gente non sancta ; ab homine iniquo et doloso erue me.",
+      "french": "Jugez-moi, mon Dieu, et prenez connaissance de ma cause, en me défendant d’une nation qui n’est pas sainte : tirez-moi des mains de l’homme méchant et trompeur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0553.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quia tu es, Deus, fortitudo mea : quare me repulisti ? Et quare tristis incedo, dum affligit me inimicus ?",
+      "french": "Puisque vous êtes ma force, ô mon Dieu, pourquoi m’avez-vous repoussé, et pourquoi me vois-je réduit à marcher dans la tristesse, étant affligé par l’ennemi ?",
+      "source_pages": [
+        "page_0554.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Emitte lucem tuam, et veritatem tuam : ipsa me deduxerunt, et adduxerunt in montem sanctum tuum, et in tabernacula tua.",
+      "french": "Répandez sur moi votre lumière, et votre vérité : elles me conduiront, et m’améneront jusqu’à votre montagne sainte, et à vos divins Tabernacles.",
+      "source_pages": [
+        "page_0554.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et introibo ad altare Dei : ad Deum, qui lætificat juventutem meam.",
+      "french": "Et j’entrerai jusqu’à l’autel de Dieu, jusqu’à Dieu même, qui remplit de joie ma jeunesse renouvelée.",
+      "source_pages": [
+        "page_0555.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Confitebor tibi in cythara, Deus, Deus meus : quare tristis es, anima mea ? Et quare conturbas me ?",
+      "french": "Ô Dieu, ô mon Dieu ! je vous louerai sur la harpe : pourquoi, mon âme, êtes-vous triste, et pourquoi me troublez-vous ?",
+      "source_pages": [
+        "page_0555.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Spera in Deo, quoniam adhuc confitebor illi : salutare vultûs mei, et Deus meus.",
+      "french": "Espérez en Dieu ; parce que je dois encore le louer, comme celui qui est le salut et la lumière de mon visage, et mon Dieu.",
+      "source_pages": [
+        "page_0555.json"
+      ]
+    }
+  ]
+}

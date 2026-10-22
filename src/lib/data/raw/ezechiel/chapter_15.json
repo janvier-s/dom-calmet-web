@@ -1,0 +1,80 @@
+{
+  "book": "Ézéchiel",
+  "chapter": 15,
+  "chapter_summary": "Comparaison des Juifs au bois de la vigne, qui n’est bon qu’à brûler.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Et factus est sermo Domini ad me, dicens :",
+      "french": "Le Seigneur m’adressa encore la parole, et me dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Fili hominis, quid fiet de ligno vitis, ex omnibus lignis nemorum, quæ sunt inter ligna sylvarum ?",
+      "french": "Fils de l’homme, que fera-t’on du bois de la vigne, si on le compare à tous les autres arbres qui sont dans les bois, et dans les forêts ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Namquid tolletur de eo lignum, ut fiat opus, aut fabricabitur de ea paxillus, ut dependeat in eo quodcumque vas.",
+      "french": "En peut-on prendre pour quelque ouvrage de bois, ou en peut-on faire seulement une cheville, pour y pendre quelque chose dans une maison ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Ecce igni datum est in escam : utramque partem ejus consumpsit ignis, et medietas ejus redacta est in favillam : numquid utile erit ad opus ?",
+      "french": "On le met dans le feu pour en être la pâture, la flamme en consume l’un et l’autre bout, et le milieu est réduit en cendres : après cela sera-t’il bon à quelque chose ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Etiam cùm esset integrum, non erat aptum ad opus : quantò magis cùm illud ignis devoraverit, et combusserit, nihil ex eo fiet operis ?",
+      "french": "Lors même qu’il était entier, il n’était bon à rien, combien plus sera-t’il inutile à toute sorte d’ouvrages, après que le feu l’aura dévoré ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Proptereà, hæc dicit Dominus Deus : Quomodo lignum vitis inter ligna sylvarum, quod dedi igni ad devorandum, sic tradam habitatores Jerusalem.",
+      "french": "C’est pourquoi, voici ce que dit le Seigneur notre Dieu : De même que j’ai abandonné au feu le bois de la vigne entre tous les bois des forêts, ainsi je livrerai les habitants de Jérusalem.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et ponam faciem meam in eos : de igne egredientur, et ignis consumet eos : et scietis quia ego Dominus, cùm posuero faciem meam in eos.",
+      "french": "J’affermirai mon visage contr’eux ; ils sortiront d’un feu, et ils tomberont dans un autre qui les consumera ; et vous saurez que c’est moi qui suis le Seigneur, lorsque je les aurai regardez dans ma colère,",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et dedero terram inviam, et desolatam : eò quòd prevaricatores extiterint, dicit Dominus Deus.",
+      "french": "Et que j’aurai rendu leur pays désert, et inaccessible ; parce qu’ils ont violé ma Loi, dit le Seigneur notre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    }
+  ]
+}

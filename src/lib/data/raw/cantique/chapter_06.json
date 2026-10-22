@@ -1,0 +1,115 @@
+{
+  "book": "Cantique des cantiques",
+  "chapter": 6,
+  "chapter_summary": null,
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Dilectus meus descendit in hortum suum ad areolam aromatum, ut pascatur in hortis, et lilia colligat.",
+      "french": "L’Epouse.\nMOn bien-aimé est descendu dans son jardin, dans le parterre des plantes aromatiques, pour se nourrir dans les jardins, et pour y cueillir des lys.",
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Ego dilecto meo, et dilectus meus mihi, qui pascitur inter lilia.",
+      "french": "Je suis à mon bien-aimé, et mon bien-aimé est à moi, lui qui se nourrit parmi les lys.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Pulchra es, amica mea, suavis, et decora, sicut Jerusalem : terribilis ut castrorum acies ordinata.",
+      "french": "Vous êtes belle, ô mon amie, et pleine de douceur ; vous êtes belle comme Jerusalem, et terrible comme une armée rangée en bataille.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Averte oculos tuos à me, quia ipsi me avolare fecerunt. Capilli tui sicut grex caprarum, quæ apparuerunt de Galaad.",
+      "french": "Détournez vos yeux de moi : car ce sont eux qui m’ont obligé de me retirer promptement. Vos cheveux sont comme un troupeau de chèvres, qui se sont fait voir venant de la montagne de Galaad.",
+      "annotations": null,
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Dentes tui sicut grex ovium, quæ ascenderunt de lavacro ; omnes gemellis fœtibus, et sterilis non est in eis.",
+      "french": "Vos dents sont comme un troupeau de brebis, qui sont montées du lavoir ; et qui portent toutes un double fruit, sans qu’il y en ait de stériles parmi elles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Sicut cortex mali punici, sic genæ tuæ absque occultis tuis.",
+      "french": "Vos jouës sont comme l’écorce d’une pomme de grenade, sans ce qui est caché au-dedans de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Sexaginta sunt Reginæ, et octoginta concubinæ, et adolescentularum non est numerus.",
+      "french": "Il y a soixante Reines, et quatre-vingt femmes du second rang, et les jeunes filles sont sans nombre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Una est columba mea, perfecta mea, una est matris suæ, electa genitrici suæ. Viderunt eam filiæ, et beatissimam prædicaverunt ; Reginæ et Concubinæ, et laudaverunt eam.",
+      "french": "Mais une seule est ma colombe, et ma parfaite amie ; elle est unique à sa mère, et choisie préférablement par celle qui lui a donné la vie. Les filles l’ont vue, et elles ont publié qu’elle est très heureuse ; les Reines, et les autres femmes l’ont vue, et lui ont donné des louanges.",
+      "annotations": null,
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Quæ est ista, quæ progreditur quasi aurora consurgens, pulchra ut luna, electa ut sol, terribilis ut castrorum acies ordinata ?",
+      "french": "LES COMPAGNES DE L’EPOUSE.\n9. Quelle est celle-ci qui s’avance comme l’aurore lorsqu’elle se leve, qui est belle comme la lune, et éclatante comme le soleil, et qui est terrible comme une armée rangée en bataille ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Descendi in hortum nucum, ut viderem poma convallium, et inspicerem si floruisset vinea, et germinassent mala punica.",
+      "french": "Je suis descendu dans le jardin des noyers, pour voir les fruits des vallées, pour considérer si la vigne avait fleuri, et si les pommes de grenade avaient poussé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Nescivi : anima mea conturbavit me, propter quadrigas Aminadab.",
+      "french": "Je n’ay plus sçû où j’étais : mon âme a été toute troublée dans moi, à cause des chariots d’Aminadab.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Revertere, revertere, Sulamitis : revertere, revertere, ut intueamur te.",
+      "french": "Revenez, revenez, ô Sulamite : revenez, revenez, afin que nous vous considérions.",
+      "annotations": "LES COMPAGNES DE L’EPOUSE.",
+      "source_pages": [
+        "page_0104.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "book": "Psaumes",
+  "chapter": 133,
+  "chapter_summary": "Exhortation aux Prêtres, et aux Lévites, afin qu’ils louent le Seigneur.\nCanticum graduum. Cantique des dégrez.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Ecce nunc benedicite Dominum, omnes servi Domini.",
+      "french": "Maintenant donc bénissez le Seigneur, vous tous qui êtes les serviteurs du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0304.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Qui statis in domo Domini, in atriis domûs Dei nostri.",
+      "french": "Vous qui demeurez dans la maison du Seigneur, dans les parvis de la maison de notre Dieu ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0304.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "In noctibus extollite manus vestras in sancta, et benedicite Dominum.",
+      "french": "Elevez vos mains durant les nuits vers le sanctuaire, et bénissez le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0304.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Benedicat te Dominus ex Sion, qui fecit cœlum, et terram.",
+      "french": "Que le Seigneur te bénisse de Sion, lui qui a fait le Ciel, et la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0305.json"
+      ]
+    }
+  ]
+}

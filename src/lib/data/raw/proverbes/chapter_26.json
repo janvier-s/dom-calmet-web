@@ -1,0 +1,255 @@
+{
+  "book": "Proverbes",
+  "chapter": 26,
+  "chapter_summary": "La gloire sied mal à l’insensé ; la correction est ce qui lui convient. Ne répondez pas au fol, selon sa folie ; répondez-lui, de peur qu’il ne se croye sage. Messager insensé. Imposer le silence au querelleux. Le paresseux se croit sage, il ne sort point de son lit. Ne se pas mêler dans les querelles d’autrui. Homme colere, et médisant. Ennemi qui cache sa haine. Celui qui creuse sa fosse, tombera dedans.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Quomodo nix in æstate, et pluvia in messe : sic indecens est stulto gloria.",
+      "french": "Comme la neige vient mal en été, et la pluie pendant la moisson ; ainsi la gloire sied mal à un insensé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0315.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Sicut auis ad alia transvolans, et passer quò libet vadens : sic maledictum frustrà prolatum in quempiam superveniet.",
+      "french": "Comme l’oiseau s’envole ailleurs, et comme le passereau court de tous côtés ; ainsi la médisance qu’on publie sans sujet contre une personne, se répand par tout.",
+      "annotations": null,
+      "source_pages": [
+        "page_0316.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Flagellum equo, et camus asino, et virga in dorso imprudentium.",
+      "french": "Le fouet est pour le cheval, le mords pour l’âne, et la verge pour le dos de l’insensé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0316.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Ne respondeas stulto, juxta stultitiam suam, ne efficiaris ei similis.",
+      "french": "Ne répondez point au fol, selon sa folie, de peur que vous ne lui deveniez semblable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0317.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Responde stulto, juxta stultitiam suam, ne sibi sapiens esse videatur.",
+      "french": "Répondez au fol, selon sa folie, de peur qu’il ne s’imagine qu’il est sage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0317.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Claudus pedibus, et iniquitatem bibens, qui mittit verba per nuntium stultum.",
+      "french": "Celui qui fait porter ses paroles par l’entremise d’un insensé, se rend boiteux, et il bait l’iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0318.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quomodo pulchras frustrà habet claudus tibias : sic indecens est in ore stultorum parabola.",
+      "french": "Comme en vain le boiteux à de belles jambes ; ainsi les sentences graves sont indécentes dans la bouche de l’insensé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0319.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Sicut qui mittit lapidem in acervum Mercurii : ita qui tribuit insipienti honorem.",
+      "french": "Celui qui éleve en honneur un homme qui n’est pas sage, est comme celui qui jette une pierre dans le monceau de Mercure.",
+      "annotations": null,
+      "source_pages": [
+        "page_0319.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Quomodo si spina nascatur in manu temulenti : sic parabola in ore stultorum.",
+      "french": "La parabole est dans la bouche des insensés, comme une épine qui se trouve dans la main d’un homme ivre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0322.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Judicium determinat causas, et qui imponit stulto silentium, iras mitigat.",
+      "french": "La sentence décide les procès ; et celui qui impose silence à l’insensé, apaise les troubles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0322.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Sicut canis, qui revertitur ad vomitum suum, sic imprudens, qui iterat stultitiam suam.",
+      "french": "L’imprudent qui retombe dans sa folie, est comme le chien qui retourne à ce qu’il avait vomi.",
+      "source_pages": [
+        "page_0323.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Vidisti hominem sapientem sibi videri ? Magis illo spem habebit insipiens.",
+      "french": "Avez-vous vu un homme qui se croit sage ? Espérez mieux de celui qui n’a point de sens.",
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Dicit piger : Leo est in via, et leæna in itineribus.",
+      "french": "Le paresseux dit : Le lion est dans la voie, la lionne est dans les chemins.",
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Sicut ostium vertitur in cardine suo, ita piger in lectulo suo.",
+      "french": "Comme une porte roule sur ses gons, ainsi un paresseux tourne dans son lit.",
+      "source_pages": [
+        "page_0325.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Abscondit piger manum sub ascella sua, et laborat si ad os suum eam converterit.",
+      "french": "Le paresseux cache sa main sous son aisselle, et il a peine de la porter jusqu’à sa bouche.",
+      "source_pages": [
+        "page_0325.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Sapientior sibi piger videtur septem viris loquentibus sententias.",
+      "french": "Le paresseux se croit plus sage, que sept hommes qui ne parlent que par sentences.",
+      "annotations": null,
+      "source_pages": [
+        "page_0326.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Sicut qui apprehendit auribus canem, sic qui transit impatiens, et commiscetur rixæ alterius.",
+      "french": "Celui qui en passant se mêle dans une querelle qui ne le regarde point, est comme celui qui prend un chien par les oreilles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0326.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Sicut noxius est qui mittit sagittas, et lanceas in mortem ;",
+      "french": "Comme celui qui lance des flèches, et des dards pour tuer un autre, est coupable de sa mort ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0327.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Ita vir, qui fraudulenter nocet amico suo : et cùm fuerit deprehensus, dicit : Ludens feci.",
+      "french": "Ainsi l’est celui qui use d’artifices pour nuire à son ami ; et qui dit, lorsqu’il est surpris : Je ne l’ai fait qu’en jouant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0327.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Cùm defecerint ligna, extinguetur ignis : et susurrone subtracto, jurgia conquiescent.",
+      "french": "Quand il n’y aura plus de bois, le feu s’éteindra ; et quand il n’y aura plus de semeurs de rapports, les querelles s’apaiseront.",
+      "annotations": null,
+      "source_pages": [
+        "page_0328.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Sicut carbones ad prunas, et ligna ad ignem, sic homo iracundus suscitat rixas.",
+      "french": "Ce qu’est le charbon à la braise, et le bois au feu, l’homme colère l’est pour allumer des disputes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0328.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Verba susurronis quasi simplicia, et ipsa perveniunt ad intima ventris.",
+      "french": "Les paroles du semeur de rapports paraissent simples ; mais elles percent jusqu’au fond des entrailles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0328.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Quomodo si argento sordido ornare velis vas fictile, sic labia tumentia cum pessimo corde sociata.",
+      "french": "Les lèvres superbes jointes au cœur corrompu, sont comme de l’argent impur, dont on veut orner un vase de terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0328.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Labiis suis intelligitur inimicus, cùm in corde tractaverit dolos.",
+      "french": "L’ennemi se fait connaître à ses paroles, lorsqu’au fond de son cœur il ne pense qu’à tromper.",
+      "annotations": null,
+      "source_pages": [
+        "page_0329.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Quando submiserit vocem suam, ne credideris ei : quoniam septem nequitiæ sunt in corde illius.",
+      "french": "Quand il vous parlerait d’un ton humble, ne vous fiez point à lui ; parce qu’il y a sept replis de malice au fond de son cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0329.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Qui operit odium fraudulenter, re- velabitur malitia ejus in concilio.",
+      "french": "Celui qui cache sa haine sous une ap- parence feinte, découvrira sa malice dans l’assemblée publique.",
+      "annotations": null,
+      "source_pages": [
+        "page_0330.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Qui fodit foveam, incidet in eam : et qui volvit lapidem, revertetur ad eum.",
+      "french": "Celui qui creuse la fosse, tombera dedans ; et la pierre retournera contre celui qui l’aura roûlée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0331.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Lingua fallax non amat veritatem : et os lubricum operatur ruinas.",
+      "french": "La langue trompeuse n’aime point la vérité ; et la bouche flateuse cause des ruines.",
+      "annotations": null,
+      "source_pages": [
+        "page_0331.json"
+      ]
+    }
+  ]
+}

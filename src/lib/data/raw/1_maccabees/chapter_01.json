@@ -1,0 +1,611 @@
+{
+  "book": "1 Maccabées",
+  "chapter": 1,
+  "chapter_summary": "Victoires d’Alexandre le Grand. Sa mort. Partage de ses Etats. Antiochus Epiphanes vient à Jérusalem, et y commet plusieurs actions impies, et cruelles.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Et factum est, postquam percussit Alexander Philippi Macedo, qui primus regnavit in Græcia, egressus de terra Cethim, Darium Regem Persarum et Medorum :",
+      "french": "Après qu’Alexandre Roi de Macédoine, fils de Philippe, qui regna premiérement dans la Grèce, * fut sorti du pays de Céthim, et qu’il eut vaincu Darius Roi des Perses, et des Mèdes,*",
+      "annotations": "* An du M. 3668.\n* An du M. 3674.",
+      "source_pages": [
+        "page_0051.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Constituit prœlia multa, et obtinuit omnium munitiones, et interfecit Reges terræ.",
+      "french": "Il donna plusieurs batailles ; il prit les villes les plus fortes de toutes les nations ; il tua les Rois de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0052.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et pertransiit usque ad fines terræ : et accepit spolia multitudinis Gentium : et siluit terra in conspectu ejus.",
+      "french": "Il passa jusqu’à l’extrémité du monde ; il s’enrichit des dépouilles des nations, et toute la terre se tut devant lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et congregavit virtutem, et exercitum fortem nimis : et exaltatum est, et elevatum cor ejus :",
+      "french": "Il assembla de grandes troupes, et fit une armée très forte : son cœur s’éleva, et s’enfla.",
+      "annotations": null,
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et obtinuit regiones gentium, et tyrannos : et facti sunt illi in tributum.",
+      "french": "Il se rendit maître des peuples, et des Rois, et il se les rendit tributaires.",
+      "annotations": null,
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et post hæc decidit in lectum, et cognovit quia moreretur.",
+      "french": "Après cela il tomba malade, et il reconnut qu’il devait bien-tôt mourir.",
+      "annotations": "An du M. 3681.",
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et vocavit pueros suos nobiles, qui secum erant nutriti à juventute : et divisit illis regnum suum, dum adhuc viveret.",
+      "french": "Et il appella les Grands de sa Cour, qui avaient été nourris avec lui dés leur jeunesse, et il leur partagea son Royaume, lorsqu’il vivait encore.",
+      "annotations": null,
+      "source_pages": [
+        "page_0054.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et regnavit Alexander annis duodecim, et mortuus est.",
+      "french": "Alexandre regna donc douze ans, et il mourut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0057.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et obtinuerunt pueri ejus regnum, unusquisque in loco suo :",
+      "french": "Et les Grands de sa Cour se firent Rois, chacun dans son gouvernement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0057.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et imposuerunt omnes sibi diadema post mortem ejus, et filii eorum post eos annis multis, et multiplicata sunt mala in terra.",
+      "french": "Ils prirent tous le diadême après sa mort, et leurs enfants après eux pendant plusieurs années ; et les maux se multipliérent sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0057.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et exiit ex eis radix peccatrix, Antiochus illustris, filius Antiochi Regis, qui fuerat Romæ obses : et regnavit in anno centesimo trigesimo septimo regni Græcorum.",
+      "french": "C’est de-là que sortit cette racine de péché, Antiochus, surnommé l’Illustre, fils du Roi Antiochus ; il avait été envoyé en ôtage à Rome, et il regna la cent trente-septième année du règne des Grecs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0058.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "In diebus illis exierunt ex Israël filii iniqui, et suaserunt multis, dicentes : Eamus et disponamus testamentum cum Gentibus, quæ circa nos sunt ; quia ex quo recessimus ab eis, invenerunt nos multa mala.",
+      "french": "En ce temps-là il sortit d’Israël des enfants d’iniquité, qui donnérent ce conseil à plusieurs : Allons, et faisons alliance avec les nations qui nous environnent ; parce que depuis que nous nous sommes retirez d’avec elles, nous sommes tombez dans beaucoup de maux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et bonus visus est sermo in oculis eorum.",
+      "french": "Et ce conseil leur parut bon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et destinaverunt aliqui de populo, et abierunt ad Regem : et dedit illis potestatem ut facerent justitiam Gentium.",
+      "french": "Quelques-uns du peuple furent donc députés pour aller trouver le Roi, et il leur donna pouvoir de vivre selon les coûtumes des Gentils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et ædificaverunt gymnasium in Jerosolymis secundùm leges Nationum :",
+      "french": "Et ils bâtirent dans Jérusalem un lieu destiné pour les exercices, suivant la coûtume des Gentils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et fecerunt sibi præputia, et recesserunt à testamento sancto, et juncti sunt Nationibus, et venumdati sunt ut facerent malum.",
+      "french": "Ils ôtèrent de dessus eux les marques de la circoncifion : ils se separèrent de l’alliance sainte, et se joignirent aux nations, et ils se vendirent pour faire le mal.",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et paratum est regnum in conspectu Antiochi, et cœpit regnare in terra Ægypti, ut regnaret super duo Regna.",
+      "french": "Et Antiochus s’étant établi dans son Royaume de Syrie, commença à vouloir régner aussi dans l’Egypte, pour se rendre Roi de ces deux Royaumes.",
+      "annotations": "An du M. 3854.",
+      "source_pages": [
+        "page_0065.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et intravit in Ægyptum in multitudine gravi, in curribus, et elephantis, et equitibus, et copiosa navium multitudine.",
+      "french": "C’est pourquoi il entra dans l’Egypte avec une puissante armée, avec des chariots, des éléphants, de la cavalerie ; et un grand nombre de vaisseaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0066.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Et constituit bellum adversùs Ptolemæum Regem Ægypti, et veritus est Ptolomæus à facie ejus, et fugit, et ceciderunt vulnerati multi.",
+      "french": "Il fit la guerre à Ptolomée Roi d’Egypte, et Ptolomée eut peur devant lui ; et il s’enfuit avec perte de beaucoup des siens.",
+      "annotations": null,
+      "source_pages": [
+        "page_0066.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et comprehendit civitates munitas in terra Ægypti : et accepit spolia terræ Ægypti.",
+      "french": "Et Antiochus prit les villes les plus fortes de l’Egypte, et s’enrichit de ses dépouilles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0066.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Et convertit Antiochus, postquam percussit Ægyptum in centesimo et quadragesimo tertio anno : et ascendit ad Israël.",
+      "french": "Et après avoir ravagé l’Egypte en la cent quarante-troisième année, il revint, et marcha contre Israël.",
+      "annotations": "An du M. 3834.",
+      "source_pages": [
+        "page_0066.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Et ascendit Jerosolymam in multitudine gravi.",
+      "french": "Et s’avança vers Jérusalem avec une puissante armée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et intravit in sanctificationem cum superbia, et accepit altare aureum, et candelabrum luminis, et universa vasa ejus, et mensam propositionis, et libatoria, et phialas, et mortariola aurea, et velum, et coronas, et ornamentum aureum, quod in facie templi erat : et comminuit omnia.",
+      "french": "Il entra plein d’orgueil dans le lieu saint : il prit l’autel d’or, le chandelier où étaient les lampes avec tous ses vases, la table où les pains étaient exposez, les bassins, les coupes, les encensoirs d’or ; le voile, les couronnes, et l’ornement d’or qui était devant le temple, et il brisa tout.",
+      "annotations": null,
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et accepit argentum, et aurum, et vasa concupiscibilia : et accepit thesauros occultos, quos invenit : et sublatis omnibus abiit in terram suam.",
+      "french": "Il prit l’argent, l’or, et tous les vaisseaux précieux ; et les trésors cachez qu’il trouva ; et ayant tout enlevé, il retourna en son pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et fecit cædem hominum, et locutus est in superbia magna.",
+      "french": "Il fit un grand carnage d’hommes, et il parla avec grand orgueil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Et factus est planctus magnus in Israël, et in omni loco eorum.",
+      "french": "Alors il y eut un grand deüil parmi le peuple d’Israël, et dans tout leur pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et ingemuerunt Principes, et seniores : virgines, et juvenes infirmati sunt : et speciositas mulierum immutata est.",
+      "french": "Les Princes, et les anciens furent dans les gémissements : les vierges, et les jeunes hommes dans l’abattement ; et la beauté des femmes fut toute changée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Omnis maritus sumpsit lamentum : et quæ sedebant in toro maritali, lugebant :",
+      "french": "Tous les maris s’abandonnérent aux pleurs, et les femmes assises sur leur lit nuptial, fondaient en larmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et commota est terra super habitantes in ea, et universa domus Jacob induit confusionem.",
+      "french": "La terre fut toute émue de la désolation de ses habitants, et toute la maison de Jacob fut couverte de confusion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et post duos annos dierum, misit Rex Principem tributorum in civitates Juda, et venit Jerusalem cum turba magna.",
+      "french": "Deux ans après, le Roi envoya dans les villes de Juda un Surintendant des tributs, qui vint à Jérusalem avec une grande suite.",
+      "annotations": "An du M. 3836.",
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Et locutus est ad eos verba pacifica in dolo : et crediderunt ei.",
+      "french": "Il leur parla d’abord avec une douceur feinte, comme s’il fût venu dans un esprit de paix : et ils le crurent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et irruit super civitatem repentè, et percussit eam plagâ magnâ, et perdidit populum multum ex Israël.",
+      "french": "Mais il se jetta tout d’un coup sur la ville, y fit un grand carnage, et tua un fort grand nombre du peuple d’Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Et accepit spolia civitatis : et succendit eam igni, et destruxit domos ejus, et muros ejus in circuitu :",
+      "french": "Il prit les dépouilles de la ville, et la brûla : il en détruisit les maisons, et les murs qui l’environnaient.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et captivas duxerunt mulieres : et natos et pecora possederunt.",
+      "french": "Ils emmenérent les femmes captives, et ils se rendirent maîtres de leurs enfants, et de leurs troupeaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et ædificaverunt civitatem David muro magno et firmo, et turribus firmis, et facta est illis in arcem :",
+      "french": "Et ils fortifiérent la ville de David avec une muraille grande et forte, et de bonnes tours, et ils en firent leur forteresse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et posuerunt illic gentem peccatricem, viros iniquos, et convaluerunt in ea, et posuerunt arma, et escas, et congregaverunt spolia Jerusalem :",
+      "french": "Ils y mirent une race de péché, des hommes corrompus, qui s’y établirent puissamment : ils y apportérent des armes, et des vivres : ils assemblérent, et y mirent en réserve les dépouilles de Jérusalem.",
+      "annotations": "An du M. 3836.",
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Et reposuerunt illic : et facti sunt in laqueum magnum.",
+      "french": "Et ils devinrent un filet très dangereux pour prendre les hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Et factum est hoc ad insidias sanctificationi, et diabolum malum in Israël :",
+      "french": "Ce fut un piège pour le lieu saint, et ils furent comme le mauvais démon d’Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Et effuderunt sanguinem innocentem per circuitum sanctificationis, et contaminaverunt sanctificationem.",
+      "french": "Ils répandirent le sang innocent devant le lieu saint, et ils souillèrent le Sanctuaire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Et fugerunt habitatores Jerusalem propter eos, et facta est habitatio exterorum, et facta est extera semini suo, et nati ejus reliquerunt eam.",
+      "french": "Les habitants de la ville de Jérusalem s’enfuirent à cause d’eux : elle devint la demeure des étrangers, et étrangère à ses citoyens, et ses propres enfants l’abandonnérent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Sanctificatio ejus desolata est sicut solitudo, dies festi ejus conversi sunt in luctum, sabbata ejus in opprobrium, honores ejus in nihilum.",
+      "french": "Son temple saint fut tout désolé, et devint une solitude ; ses jours de fêtes se changérent en des jours de pleurs ; ses jours de sabbat furent en opprobre, et tous ses honneurs furent anéantis.",
+      "annotations": "An du M. 3836.",
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Secundum gloriam ejus multiplicata est ignominia ejus : et sublimitas ejus conversa est in luctum.",
+      "french": "Le comble de son ignominie a égalé celui de sa gloire, et sa haute élévation a été changée en deüil, et en larmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Et scripsit Rex Antiochus omni regno suo : ut esset omnis populus unus : et relinqueret unusquisque legem suam.",
+      "french": "Alors le Roi Antiochus écrivit des lettres à tout son Royaume, afin que tous les peuples n’en fissent plus qu’un, et que chaque peuple abandonnât sa loi particuliere.",
+      "annotations": null,
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Et consenserunt omnes Gentes secundùm verbum Regis Antiochi :",
+      "french": "Toutes les nations consentirent à cette ordonnance du Roi Antiochus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Et multi ex Israël consenserunt servituti ejus, et sacrificaverunt idolis, et inquinaverunt sabbatum.",
+      "french": "Et plusieurs des Israëlites embrassérent cette servitude qu’il leur imposait ; ils sacrifiérent aux idoles, et ils violérent le sabbat.",
+      "annotations": null,
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Et misit Rex liberos per manus nuntiorum in Jerusalem, et in omnes civitates Juda, ut sequerentur leges Gentium terræ.",
+      "french": "Et le Roi envoya des lettres par des messagers à Jérusalem, et à toutes les villes de Juda, afin qu’ils eussent à suivre les loix des nations de la terre ;",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Et prohiberent holocausta, et sacrificia, et placationes fieri in templo Dei.",
+      "french": "Qu’ils empêchassent qu’on n’offrît dans le temple de Dieu des holocaustes, des sacrifices, et des oblations pour l’expiation du péché.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Et prohiberent celebrari sabbatum et dies sollemnes :",
+      "french": "Et qu’on ne célébrât le sabbat, et les fêtes solemnelles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Et jussit coinquinari sancta, et sanctum populum Israël.",
+      "french": "Et il commanda qu’on souillât les lieux saints, et le saint peuple d’Israël ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Et jussit ædificari aras, et templa, et idola, et immolari carnes suillas, et pecora communia.",
+      "french": "Qu’on bâtît des autels, et des temples ; qu’on dressât des idoles ; qu’on sacrifiât de la chair de pourceau, et d’autres bêtes immondes ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Et relinquere filios suos incircumcisos, et coinquinari animas eorum in omnibus immundis, et abominationibus, ita ut obliviscerentur legem, et immutarent omnes justificationes Dei.",
+      "french": "Qu’on laissât les enfants mâles incirconcis, et qu’ils souillassent leurs âmes par toutes fortes de viandes impures, et d’abominations ; en forte qu’ils oubliassent la loi de Dieu, et qu’ils renversassent toutes ses ordonnances ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Et quicumque non fecissent secundum verbum Regis Antiochi, morerentur.",
+      "french": "Et que si quelqu’un n’obéïssait pas à cet ordre du Roi Antiochus, il fût aussi-tôt puni de mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Secundum omnia verba hæc scripsit omni regno suo : et præposuit principes populo, qui hæc fieri cogerent.",
+      "french": "Il écrivit de cette forte dans tout son Roïaume, il établit des officiers pour contraindre le peuple d’obéir à cet édit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Et jusserunt civitatibus Juda sacrificare.",
+      "french": "Ils commandérent donc aux villes de Juda de sacrifier :",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Et congregati sunt multi de populo, ad eos qui dereliquerant legem Domini : et fecerunt mala super terram :",
+      "french": "Et plusieurs du peuple vinrent se joindre à ceux qui avaient abandonné la loi du Seigneur, et ils firent beaucoup de maux dans le pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "Et effugaverunt populum Israël in abditis, et in absconditis fugitivorum locis.",
+      "french": "Ils contraignirent le peuple d’Israël de s’enfuir dans des lieux écartez, et de chercher des retraites, où ils pussent se cacher dans leur fuite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 57,
+      "latin": "Die quinta decima mensis Casleu : quinto, et quadragesimo et centesimo anno, ædificavit Rex Antiochus abominandum idolum desolationis super altare Dei, et per universas civitates Juda in circuitu ædificaverunt aras :",
+      "french": "Le quinzième jour du mois de Casleu, en la cent quarante cinquième année, le Roi Antiochus dressa l’abominable idole de la désolation sur l’autel de Dieu : on bâtit des autels de tous côtés dans toutes les villes de Juda,",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 58,
+      "latin": "Et ante januas domorum, et in plateis incendebant thura, et sacrificabant :",
+      "french": "Et ils offraient de l’encens, et sacrifiaient devant les portes des maisons, et dans les places.",
+      "annotations": null,
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 59,
+      "latin": "Et libros legis Dei combufferunt igni, scindentes eos :",
+      "french": "Ils déchirérent les livres de la loi de Dieu, et les jetterent au feu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 60,
+      "latin": "Et apud quemcumque inventibantur libri testamenti Domini, et quicumque observabat legem Domini, secundum edictum Regis trucidabant eum.",
+      "french": "Et si l’on trouvait chez quelqu’un les livres de l’Alliance du Seigneur, et s’il observait la loi du Seigneur, il était tué aussi tôt selon l’Edit du Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 61,
+      "latin": "In virtute sua faciebant hæc populo Israël, qui inveniebatur in omni mense et mense in civitatibus.",
+      "french": "C’est ainsi qu’ils traitaient avec violence tout le peuple d’Israël, qui se trouvait chaque mois dans toutes les villes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 62,
+      "latin": "Et quinta et vigefima die menfis facrificabant super aram, quæ erat contra altare.",
+      "french": "Et le vingt-cinquième du mois ils sacrifierent sur l’autel, qui était vis-à-vis l’autel de Dieu.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 63,
+      "latin": "Et mulieres, quæ circumcidebant filios suos, trucidabantur, secundùm jussum regis Antiochi.",
+      "french": "Les femmes qui avaient circoncis leurs enfants, étaient tuées, selon le commandement du Roi Antiochus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 64,
+      "latin": "Et suspendebant pueros à cervicibus per universas domos eorum : et eos, qui circumciderant illos, trucidabant.",
+      "french": "Ils pendaient les enfants au cou de leurs mères, dans toutes les maisons où ils les avaient trouvez, et ils tuaient ceux qui les avaient circoncis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 65,
+      "latin": "Et multi de populo Israël definierunt apud se, ut non manducarent immunda : et elegerunt magis mori, quàm cibis coinquinari immundis.",
+      "french": "Alors plusieurs du peuple d’Israël résolurent en eux-mêmes de ne rien manger de ce qui serait impur, et ils aimerent mieux mourir, que de se souiller par des viandes impures.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 66,
+      "latin": "Et noluerunt infringere legem Dei sanctam, et trucidati sunt :",
+      "french": "Ils ne voulurent point violer la loi sainte de Dieu, et ils furent tuez ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 67,
+      "latin": "Et facta est ira magna super populum valdè.",
+      "french": "Et une grande colère tomba alors sur le peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    }
+  ]
+}

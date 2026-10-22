@@ -1,0 +1,309 @@
+{
+  "book": "Proverbes",
+  "chapter": 8,
+  "chapter_summary": "Eloge de la Sagesse, par l’éminence, et la justice de ses maximes, par ses œuvres admirables, et par les récompenses qu’elle donne à ceux qui la cherchent.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Numquid non sapientia clamitat, et prudentia dat vocem suam ?",
+      "french": "La sagesse ne crie-t’elle pas, et la prudence ne fait-elle pas entendre sa voix ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "In summis excelsis, quæ utriùsque supra viam : in mediis semitis stans,",
+      "french": "Elle se tient le long du chemin, sur les lieux les plus hauts, et les plus élevez : elle se met au milieu des sentiers.",
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Juxta portas civitatis in ipsis foribus loquitur, dicens :",
+      "french": "Près des portes, à l’entrée de la ville ; et elle parle en ces termes :",
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "O viri, ad vos clamiro, et vox mea ad filios hominum.",
+      "french": "C’est à vous, hommes, que je crie ; et c’est aux enfants des hommes que ma voix s’adresse.",
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Intelligite parvuli astutiam, et insipientes animadvertite.",
+      "french": "Vous, imprudents, apprenez ce que c’est que la sagesse ; et vous, insensés, rentrez en vous-mêmes.",
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Audite, quoniam de rebus magnis locutura sum : et aperientur labia mea, ut recta prædicent.",
+      "french": "Econtez-moi, car je vais vous dire de grandes choses ; et mes lèvres s’ouvriront pour annoncer la justice.",
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Veritatem meditabitur guttur meum, et labia mea detestabuntur impium.",
+      "french": "Ma bouche publicra la vérité, mes lèvres détesteront l’impiété.",
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Justi sunt omnes sermones mei, non est in eis pravum quid, neque perversum.",
+      "french": "Tous mes discours sont justes, ils n’ont rien de mauvais ni de corrompu.",
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Recti sunt intelligentibus, et aqui invenientibus scientiam.",
+      "french": "Ils sont pleins de droiture, pour ceux qui sont intelligents, et ils sont équitables pour ceux qui ont trouvé la science.",
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Accipite disciplinam meam, et non pecuniam : doctrinam magis, quàm aurum eligite.",
+      "french": "Recevez les instructions que je vous donne, avec plus de joie, que si c’était de l’argent, et préférez la doctrine à l’or.",
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Melior est enim sapientia cunctis pretiosissimis : et omne desiderabile ei non potest comparari.",
+      "french": "Car la sagesse est plus estimable que ce qu’il y a de plus précieux ; et tout ce qu’on désire le plus ne lui peut être comparé.",
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Ego sapientia habito in consilio, et eruditis intersum cogitationibus.",
+      "french": "Moi qui suis la sagesse, j’habite dans le conseil : je me trouve présente parmi les pensées judicieuses.",
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Timor Domini odit malum : arrogantiam, et superbiam, et viam pravam, et os bilingue detestor.",
+      "french": "La crainte du Seigneur hait le mal. Je déteste l’insolence, et l’orguëil ; la voie corrompuë, et la langue double.",
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Meum est consilium, et æquitas ; mea est prudentia, mea est fortitudo.",
+      "french": "C’est de moi que vient le conseil, et l’équité ; c’est de moi que vient la prudence et la force.",
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Per me Reges regnant, et legum conditores justa dicernunt.",
+      "french": "Les Rois régnent par moi ; et c’est par moi que les Legislateurs ordonnent ce qui est juste.",
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Per me Principes imperant, et potentes decernunt justitiam.",
+      "french": "Les Princes commandent par moi ; et c’est par moi que ceux qui sont puissants rendent la justice.",
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Ego diligentes me diligo : et qui manè vigilant ad me, invenient me.",
+      "french": "J’aime ceux qui m’aiment ; et ceux qui veillent dés le matin pour me chercher, me trouveront.",
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Mecum sunt divitiæ, et gloria, opes superbæ, et justitia.",
+      "french": "Les richesses, et la gloire sont avec moi, la magnificence, et la justice.",
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Melior est enim fructus meus auro, et lapide pretioso, et genimina mea argento electo.",
+      "french": "Car les fruits que je porte sont plus estimables que l’or, et les pierres précieuses : et ce qui vient de moi vaut mieux que l’argent le plus pur.",
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "In viis justitiæ ambulo, in medio semitarum judicii.",
+      "french": "Je marche dans les voies de la justice, au milieu des sentiers de la prudence.",
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Ut ditem diligentes me, et thesauros eorum repleam.",
+      "french": "Pour enrichir ceux qui m’aiment, et remplir leurs trésors.",
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Dominus possedit me in initio viarum suarum, antequam quidquam faceret à principio.",
+      "french": "Le Seigneur m’a possédée au commencement de ses voies : avant qu’il créât aucune chose, j’étais déjà.",
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Ab æterno ordinata sum ; et ex antiquis, antequam terra fieret.",
+      "french": "J’ai été établie dés l’éternité, et dés le commencement, avant que la terre fût créée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Nondum erant abyssi, et ego jam concepia eram : necdum fontes aquarum eruperant.",
+      "french": "Les abîmes n’étaient point encore, lorsque j’étais déjà conçûë : les fontaines n’étaient point encore sorties de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Necdum montes gravi mole constiterant : ante colles ego parturiebar.",
+      "french": "La pesante masse des montagnes n’était pas encore formée ; j’étais enfantée avant les collines.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Adhuc terram non fecerat, et flumina, et cardines orbis terræ.",
+      "french": "Il n’avait point encore créé la terre, ni les fleuves, ni affermi le monde sur ses poles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Quando preparabat cœlos, aderam : quando certa lege, et gyro vallabat abyssos.",
+      "french": "Lorsqu’il préparait les cieux, j’étais présente ; lorsqu’il environnait les abîmes de leurs bornes, et qu’il leur prescrivait une loi inviolable :",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Quando æthera firmabat sursum, et librabat fontes aquarum :",
+      "french": "Lorsqu’il affermissait l’air au-dessus de la terre, et qu’il dispensait dans leur équilibre les eaux des fontaines :",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Quando circumdabat mari terminum suum, et legem ponebat aquis, ne transirent fines suos : quando appendebat fundamenta terræ.",
+      "french": "Lorsqu’il renfermait la mer dans ses limites, et qu’il imposait une loi aux eaux, afin qu’elles ne passassent point leurs bornes ; lorsqu’il posait les fondements de la terre ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Cum eo eram cuncta componens : et delectabar per singulos dies, ludens coram eo omni tempore.",
+      "french": "J’étais avec lui, et je réglais toutes choses. J’étais chaque jour dans les délices, me jouant sans cesse devant lui ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Ludens in orbe terrarum : et deliciæ meæ, esse cum filiis hominum.",
+      "french": "Me jouant dans le monde : et mes délices sont d’être avec les enfants des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Nunc ergo, filii, audite me : Beati, qui custodiunt vias meas.",
+      "french": "Ecoutez-moi donc maintenant, mes enfants : Heureux ceux qui gardent mes voies.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Audite disciplinam, et estole sapientes, et nolite abjicere eam.",
+      "french": "Ecoutez mes instructions, soyez sages, et ne les rejetez point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Beatus homo qui audit me, et qui vigilat ad fores meas quotidie, et observat ad postes ostii mei.",
+      "french": "Heureux celui qui m’écoute, qui veille tous les jours à l’entrée de ma maison, et qui se tient à ma porte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Qui me invenerit, inveniet vitam, et hauriet salutem à Domino :",
+      "french": "Celui qui m’aura trouvée, trouvera la vie, et puisera le salut de la bonté du Seigneur.",
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Qui autem in me peccaverit, lædet animam suam. Omnes qui me oderunt, diligunt mortem.",
+      "french": "Mais celui qui péchera contre moi, blessera son âme. Tous ceux qui me haïssent aiment la mort.",
+      "source_pages": [
+        "page_0096.json"
+      ]
+    }
+  ]
+}

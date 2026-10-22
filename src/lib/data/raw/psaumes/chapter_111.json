@@ -1,0 +1,78 @@
+{
+  "book": "Psaumes",
+  "chapter": 111,
+  "chapter_summary": "Bonheur de l’homme qui craint le Seigneur, et qui exerce la miséricorde. Il sera riche, et puissant sur la terre, sa race sera comblée de bénédictions, sa justice ne périra point ; la mémoire du Juste subsistera éternellement, il sera supérieur à ses ennemis.\nAlleluia, reversionis Aggæi, et Zachariæ.\nLouez Dieu, du retour d’Aggée, et de Zacharie.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Beatus vir, qui timet Dominum : in mandatis jus volet nimis.",
+      "french": "Heureux est l’homme qui craint le Seigneur, et qui a une volonté ardente d’accomplir ses commandements.",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Potens in terra erit semen ejus : generatio rectorum benedicetur.",
+      "french": "Sa race sera puissante sur la terre : la postérité des Justes sera comblée de bénédictions.",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Gloria, et divitiæ in domo ejus : et justita ejus manet in sæculum sæculi.",
+      "french": "La gloire, et les richesses sont dans sa maison : et sa justice demeure dans tous les siècles.",
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Exortum est in tenebris lumen rectis : misericors, et miserator, et justus.",
+      "french": "La lumière s’est levée sur ceux qui ont le cœur droit : le Seigneur est miséricordieux, clément, et juste.",
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "In memoria æterna erit justus : ab audizione mala non timebit.",
+      "french": "La mémoire du Juste sera éternelle ; il ne craindra point qu’on parle mal de lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Paratum cor ejus sperare in Domino : confirmatum est cor ejus : non commovebitur donec despiciat inimicos suos.",
+      "french": "Il a le cœur toujours préparé à espérer au Seigneur : son cœur est puissamment affermi ; il ne sera point ébranlé, et méprisera tous ses ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Dispersit, dedit pauperibus. Justicia ejus manet in sæculum sæculi : cornu ejus exaltabitur in gloria.",
+      "french": "Il a répandu ses biens avec libéralité sur les pauvres. Sa justice demeure dans tous les siècles. Sa puissance sera élevée, et comblée de gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Peccator videbit et irafcetur : dentibus suis fremet et tabescet ; desiderium peccatorum peribit.",
+      "french": "Le pécheur le verra, et en sera en colère : il grincera les dents, et séchera de dépit ; mais le désir des pécheurs périra.",
+      "annotations": null,
+      "source_pages": [
+        "page_0133.json"
+      ]
+    }
+  ]
+}

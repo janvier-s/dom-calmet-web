@@ -1,0 +1,131 @@
+{
+  "book": "Psaumes",
+  "chapter": 107,
+  "chapter_summary": "Le Prophète s’excite à publier les louanges du Seigneur ; il le conjure de délivrer son peuple de l’oppression ; il se promet un promt, et heureux rétablissement dans ses anciennes limites.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "Canticum Psalmi, ipsi David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription): check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Paratum cor meum, Deus, paratum cor meum : cantabo, et psallam in gloria mea.",
+      "french": "Mon cœur est préparé, ô mon Dieu ; mon cœur est préparé. Je chanterai, et je ferai retentir vos louanges sur les instruments, au milieu de ma gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Exurge, gloria mea, exurge psalterium et cithara : exurgam diluculo.",
+      "french": "Levez-vous, ma gloire ; excitez-vous, mon luth, et ma harpe : je me leverai de grand matin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Confitebor tibi in populis, Domine : et psallam tibi in nationibus.",
+      "french": "Je vous louërai, Seigneur, au milieu des peuples ; et je chanterai votre gloire parmi les nations :",
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quia magna est super Cœlos misericordia tua : et usque ad nubes veritas tua.",
+      "french": "Parce que votre miséricorde est plus élevée que les Cieux, et que votre vérité s’éleve jusque aux nuées.",
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Exaltare super Cœlos, Deus, et super omnem terram gloria tua : ut liberentur dilecti tui.",
+      "french": "Elevez-vous, Seigneur, jusqu’au-dessus des Cieux, et que votre gloire éclate sur toute la terre ; afin que ceux qui sont aimez de vous, saient délivrez.",
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Salvum fac dextera tua, et exaudi me : Deus locutus est in sancto suo.",
+      "french": "Sauvez-moi par le secours de votre droite, et exaucez-moi : Dieu a parlé par son saint.",
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Exultabo, et dividam Sichimam, et convallem tabernaculorum dimetiar.",
+      "french": "Je me réjouirai, et je me rendrai maître de Sichem ; et je mesurerai la vallée des tentes.",
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "℣. Meus est Galaad, et meus est Manasses : et Ephraïm susceptio capitis mei.",
+      "french": "Galaad est à moi, aussi-bien que Manassé ; et Ephraïm est le soûtien de ma tête.",
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "℣. Juda Rex meus : Moab lebes spei meæ.",
+      "french": "Juda est le Prince de mes Etats : Moab est comme une marmite pleine de viandes, qui nourrit mon espérance.",
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "℣. In Idumæam extendam calceamentum meum : mihi alienigenæ amici facti sunt.",
+      "french": "Je m’avancerai dans l’Idumée, et je la foulerai aux pieds : les Philistins me sont devenus amis.",
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "℣. Quis deducet me in civitatem munitam ? quis deducet me usque in Idumæam ?",
+      "french": "Qui est celui qui me conduira jusque dans la ville fortifiée ? Qui est celui qui me conduira jusqu’en Idumée ?",
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "℣. Nonne tu Deus, qui repulisti nos, et non exibis, Deus, in virtutibus nostris ?",
+      "french": "Ne sera-ce pas vous, mon Dieu, vous qui nous aviez rejetez ? Et ne marcherez-vous pas, ô mon Dieu, à la tête de nos armées ?",
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "℣. Da nobis auxilium de tribulatione : quia vana salus hominis.",
+      "french": "Donnez-nous votre secours, pour nous tirer de l’affliction ; parce qu’on espère en vain son salut de la part de l’homme.",
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "℣. In Deo faciemus virtutem : et ipse ad nihilum deducet inimicos nostros.",
+      "french": "Ce sera par le secours de Dieu, que nous ferons des actions de vertu, et de courage : et lui-même réduira au néant nos ennemis.",
+      "source_pages": [
+        "page_0093.json"
+      ]
+    }
+  ]
+}

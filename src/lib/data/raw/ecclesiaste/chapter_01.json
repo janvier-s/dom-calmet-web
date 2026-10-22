@@ -1,0 +1,115 @@
+{
+  "book": "Ecclésiaste",
+  "chapter": 1,
+  "chapter_summary": "Vanité des choses du monde. Rien de nouveau sous le soleil. Difficultés et inutilités de nos études, et de nos recherches.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Verba Ecclesiastæ, filii David, Regis Jerusalem.",
+      "french": "Les paroles de l’Ecclesiaste, fils de David, et Roi de Jérusalem.",
+      "annotations": null,
+      "source_pages": [
+        "page_0006.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "¶. Oritur sol, et occidit, et ad locum suum revertitur : ibique renascens,",
+      "french": "Le soleil se lève, et se couche ; il retourne au lieu d’où il est parti, et renaissant au même endroit,",
+      "annotations": null,
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Gyrat per meridiem, et flectitur ad aquilonem. Lustrans universa in circuitu pergit spiritus, et in circulos suos revertitur.",
+      "french": "Il tourne vers le midi, et revient vers le nord. Le vent court de toutes parts, et visite toutes choses, et revient sur ses pas par de longs circuits.",
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Omnia flumina intrant in mare, et mare non redundat. Ad locum unde exeunt flumina, revertuntur, ut iterùm fluant.",
+      "french": "Tous les fleuves entrent dans la mer, et la mer ne regorge point. Les rivières reviennent au lieu d’où elles étaient sorties, pour couler de nouveau.",
+      "annotations": null,
+      "source_pages": [
+        "page_0012.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Quid est quod fuit ? ipsum quod futurum est : quid est quod factum est ? ipsum quod faciendum est.",
+      "french": "Qu’est ce qui a été ? ce qui doit être à l’avenir. Qu’est ce qui s’est fait ? ce qui se fera encore.",
+      "annotations": null,
+      "source_pages": [
+        "page_0014.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Nihil sub sole novum, nec valet quisquam dicere : Ecce hoc recens est : jam enim præcessit in sæculis, quæ fuerunt ante nos.",
+      "french": "Il n’y a rien de nouveau sous le soleil, et nul ne peut dire : Voilà une chose nouvelle ; car elle a déjà été dans les temps passez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0014.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Non est priorum memoria : sed nec eorum quidem, quæ posteà futura sunt, erit recordatio apud eos, qui futuri sunt in novißimo.",
+      "french": "Comme on a oublié le passé, ainsi on oubliera après nous ce qui doit arriver de-après.",
+      "annotations": null,
+      "source_pages": [
+        "page_0015.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Ego Ecclesiastes, fui Rex Israël in Jerusalem.",
+      "french": "Moi l’Ecclesiaste, j’ai été Roi d’Israël dans Jérusalem.",
+      "annotations": null,
+      "source_pages": [
+        "page_0015.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et proposui in animo meo querere, et inuestigare sapienter de omnibus, quæ fiunt sub sole. Hanc occupationem pessimam dedit Deus filiis hominum, ut occuparentur in eâ.",
+      "french": "Et je me suis proposé d’examiner, et de considérer avec sagesse, tout ce qui se fait sous le soleil. C’est une occupation fâcheuse que Dieu a imposé aux hommes durant leur vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0016.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Locutus sum in corde meo, dicens : Ecce magnus effectus sum, et præcessi omnes sapientiâ, qui fuerunt ante me in Jerusalem : et mens mea contemplata est multa sapienter, et didici.",
+      "french": "Je me suis dit à moi-même : Me voilà puissant, et je surpasse en sagesse tous ceux qui ont été avant moi en Jérusalem. Mon esprit a aquis plusieurs connaissances, et j’ai beaucoup appris.",
+      "annotations": null,
+      "source_pages": [
+        "page_0019.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Dedique cor meum ut scirem prudentiam, atque doctrinam, erroresque et stultitiam : et agnovi quòd in his quoque esset labor, et afflictio spiritûs :",
+      "french": "Je me suis appliqué à connaître la prudence, et la doctrine, les erreurs, et l’imprudence ; mais j’ai trouvé que cela même était travail, et affliction d’esprit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0020.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Eò quòd in multa sapientia, multa sit indignatio : et qui addit scientiam, addit et laborem.",
+      "french": "Car une grande sagesse est un grand sujet de douleur ; et plus on a de science, plus on a de peine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0020.json"
+      ]
+    }
+  ]
+}

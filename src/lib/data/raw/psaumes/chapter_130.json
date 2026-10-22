@@ -1,0 +1,53 @@
+{
+  "book": "Psaumes",
+  "chapter": 130,
+  "chapter_summary": "Sentiments d’humilité des captifs de Babylone. Ils mettent toute leur espérance au Seigneur.\nCanticum graduum. | Cantique des dégrez.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Domine, non est exaltatum cor meum : néque elati sunt oculi mei.",
+      "french": "Seigneur, mon cœur ne s’est point enflé d’orgueil, et mes yeux ne se sont point élevez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0285.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Neque ambulavi in magnis, neque in mirabilibus super me.",
+      "french": "Je n’ai point non plus marché d’une maniere pompeuse, et élevée au-dessus de moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0286.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Si non humiliter sentiebam : sed exaltavi animam meam.",
+      "french": "Si je n’avais pas des sentiments humbles, et rabaissez, et si au contraire j’ai élevé mon âme ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0286.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Sicut ablactatus est super matre sua, ita retributio in anima mea.",
+      "french": "Que mon âme soit reduite au même état qu’est un enfant lorsque sa mère l’a sevré.",
+      "annotations": null,
+      "source_pages": [
+        "page_0287.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Speret Israël in Domino : ex hoc nunc et usque in seculum.",
+      "french": "Qu’Israël espère au Seigneur ; dés maintenant, et dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0287.json"
+      ]
+    }
+  ]
+}

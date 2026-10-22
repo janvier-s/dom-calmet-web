@@ -1,0 +1,98 @@
+{
+  "book": "Psaumes",
+  "chapter": 51,
+  "chapter_summary": "Reproche contre Doëg l’Iduméen, qui avait irrité Saül contre David ; et avait été cause de la mort des Prêtres du Seigneur qui étaient à Nobé.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem. Intellectus David, cum venit Doëg Idumæus, et nuntiavit Sauli : Venit David in domum Achimelech.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0668.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Quid gloriaris in malitia ; qui potens es in iniquitate ?",
+      "french": "Pourquoi vous glorifiez-vous dans votre malice, vous qui n’êtes puissant que pour commettre l’iniquité ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0668.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Totâ die injustitiam cogitavit lingua tua : sicut novacula acuta fecisti dolum.",
+      "french": "Votre langue a médité l’injustice durant tout le jour : vous avez, comme un rasoir aiguisé, fait passer insensiblement votre tromperie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0669.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Dilexisti malitiam super benignitatem : iniquitatem magis quàm loqui æquitatem.",
+      "french": "Vous avez plus aimé la malice que la bonté : et vous avez préféré un langage d’iniquité, à celui de la justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0670.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Dilexisti omnia verba præcipitationis, lingua dolosa.",
+      "french": "Vous avez aimé, ô langue trompeuse ; toutes les paroles qui tendaient à précipiter, et à perdre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0670.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Propterea Deus destruet te in finem : evellet te, et emigrabit te de tabernaculo tuo : et radicem de terra viventium.",
+      "french": "C’est pourquoi Dieu vous détruira pour toujours ; il vous arrachera de votre place : vous fera sortir de votre tente, et ôtera votre racine de la terre des vivants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0671.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Videbunt justi et timebunt, et super eum ridebunt, et dicent :",
+      "french": "Les Justes le verront, et seront dans la crainte ; et ils se riront de lui, en disant :",
+      "annotations": null,
+      "source_pages": [
+        "page_0671.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Ecce homo qui non posuit Deum adjutorem suum ; Sed speravit in multitudine divitiarum suarum, prævaluit in vanitate sua.",
+      "french": "Voilà l’homme, qui n’a point pris Dieu pour son protecteur ; mais qui a mis son espérance dans la multitude de ses richesses, et qui s’est prévalu de souverain pouvoir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0672.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Ego autem, sicut oliva fructifera in domo Dei : speravi in misericordia Dei in æternum, et in sæculum sæculi.",
+      "french": "Mais pour moi, je suis comme un olivier, qui porte du fruit dans la maison de Dieu. J’ai établi pour toute l’éternité, et pour tous les siècles, mon espérance dans la miséricorde de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0672.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Confitebor tibi in sæculum, quia fecisti : et expectabo nomen tuum ; quoniam bonum est in conspectu Sanctorum tuorum.",
+      "french": "Je vous louerai éternellement, parce que vous en avez ainsi usé : et j’attendrai les effets de l’assistance de votre saint nom ; parce qu’il est rempli de bonté devant les yeux de vos Saints.",
+      "annotations": null,
+      "source_pages": [
+        "page_0672.json"
+      ]
+    }
+  ]
+}

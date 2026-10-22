@@ -1,0 +1,191 @@
+{
+  "book": "Lamentations",
+  "chapter": 1,
+  "chapter_summary": "Cantique lugubre sur la desolation de Jérusalem. Description de son état présent, comparé à son ancien bonheur.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": null,
+      "latin": "Quomodo sedet sola civitas plena populo ? facta est quasi vidua Domina gentium : Princeps provinciarum facta est sub tributo.",
+      "french": "Comment cette ville ci-devant pleine de peuple, est-elle maintenant si solitaire, et si désolée ? La maîtresse des nations est devenue comme veuve ; la Reine des provinces a été assujettie au tribut.",
+      "source_pages": [
+        "page_0006.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Plorans ploravit in nocte, et lacrymæ ejus in maxillis ejus : non est qui consoletur eam ex omnibus charis ejus : omnes amici ejus spreverunt eam, et facti sunt ei inimici.",
+      "french": "Elle n’a point cessé de pleurer pendant la nuit, et ses joues sont trempées de ses larmes. De tous ceux qui lui étaient chers, il n’y en a pas un qui la console ; tous ses amis l’ont méprisée, et sont devenus ses ennemis.",
+      "source_pages": [
+        "page_0007.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Migravit Judas propter afflictionem, et multitudinem servitutis : habitavit inter gentes, nec invenit requiem : omnes persecutores ejus apprehenderunt eam inter angustias.",
+      "french": "Juda s’est retiré en d’autres pays, à cause de la servitude insupportable dont il était accablé. Il a demeuré parmi les nations, et il n’y a point trouvé de repos. Tous ses persécuteurs se sont saisis de lui dans son extrême douleur.",
+      "source_pages": [
+        "page_0008.json"
+      ]
+    },
+    {
+      "id": 1,
+      "verse_number": 4,
+      "hebrew_letter": "DALETH.",
+      "latin": "Via Sion lugent, eò quòd non sint qui veniant ad solemnitatem : omnes portæ ejus destructæ : Sacerdotes ejus gementes : virgines ejus squalidæ, et ipsa oppressa amaritudine.",
+      "french": "Les chemins qui conduisent à Sion, sont comme dans les pleurs, parce qu’il n’y a plus personne qui vienne à ses solennités. Toutes ses portes sont détruites. Ses Prêtres ne sont que gémir : ses vierges sont toutes défigurées de douleur, et elle est plongée dans l’amertume.",
+      "source_pages": [
+        "page_0009.json"
+      ]
+    },
+    {
+      "id": 2,
+      "verse_number": 5,
+      "hebrew_letter": "HE.",
+      "latin": "Facti sunt hostes ejus in capite, inimici ejus locupletati sunt : quia Dominus locutus est super eam propter multitudinem iniquitatum ejus. Parvuli ejus ducti sunt in captivitatem ante faciem tribulantis.",
+      "french": "Ses ennemis se sont élevez au-dessus d’elle ; ceux qui la haïssaient se sont enrichis, parce que le Seigneur l’a condamnée, à cause de la multitude de ses iniquités. Ses petits enfants ont été emmenez captifs devant l’ennemi qui les chassait.",
+      "source_pages": [
+        "page_0009.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et egressus est à filia Sion omnis decor ejus : Facti sunt Principes ejus velut arietes non invenientes pascua : et abierunt absque fortitudine ante faciem subsequentis.",
+      "french": "Tout ce que la fille de Sion avait de beau, lui a été enlevé. Ses Princes sont devenus comme des béliers qui ne trouvent point de pâturage : et ils sont allez tous, faibles, et languissants, devant l’ennemi qui les poursuivait.",
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Recordata est Jerusalem dierum afflictionis suæ, et prævaricationis omnium desiderabilium suorum, quæ habuerat à diebus antiquis ; cùm caderet populus ejus in manu hostili, et non esset auxiliator : viderunt eam hostes, et deriserunt sabbatha ejus.",
+      "french": "Jérusalem s’est souvenue des jours de son affliction, de ses prévarications, et de tout ce qu’elle avait eu dans les siècles passez de plus désirable, lorsque son peuple tombait sous la main ennemie, sans qu’il y eût personne pour le secourir. Ses ennemis l’ont vue, et ils se sont moquez de ses fêtes.",
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Peccatum peccavit Jerusalem, propterea instabilis facta est. Omnes qui glorificabant eam, spreverunt illam, quia viderunt ignominiam ejus : ipsa autem gemens conversa est retrorsum.",
+      "french": "Jérusalem a commis un grand péché : c’est pourquoi elle est devenue errante, et vagabonde. Tous ceux qui l’honoraient, l’ont méprisée, parce qu’ils ont vu son ignominie, et elle a tourné son visage en arrière, en gémissant.",
+      "source_pages": [
+        "page_0012.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Sordes ejus in pedibus ejus, nec recordata est finis sui : deposita est vehementer, non habens consolatorem : vide, Domine, afflictionem meam, quoniam erectus est inimicus.",
+      "french": "Ses fouillures ont paru sur ses pieds, et elle ne s’est point souvenuë de sa fin. Elle a été prodigieusement abaissée, sans qu’elle ait eu de consolateur. Seigneur, considérez mon affliction, parce que l’ennemi s’est élevé avec orgueil.",
+      "source_pages": [
+        "page_0013.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Manum suam misit hostis ad omnia desiderabilia ejus : quia vidit gentes ingressas sanctuarium suum, de quibus præceperas ne intrarent in Ecclesiam tuam.",
+      "french": "Les ennemis ont porté leurs mains à tout ce qu’elle avait de plus désirable, elle a vu entrer dans son sanctuaire des nations, au sujet desquelles vous aviez ordonné qu’elles n’entreraient jamais dans votre assemblée.",
+      "source_pages": [
+        "page_0013.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Omnis populus ejus gemens, et quærens panem : dederunt pretiosa quæque pro cibo adresocillandam animam. Vide, Domine, et considera, quoniam facta sum vilis. L A M E D.",
+      "french": "Tout son peuple est dans les gémissements, et cherche du pain. Ils ont donné tout ce qu’ils avaient de plus précieux pour trouver de quoi soutenir leur vie. Voyez, Seigneur, et considérez l’avilissement où je suis réduite. L A M E D.",
+      "source_pages": [
+        "page_0014.json",
+        "page_0015.json"
+      ],
+      "annotations": null
+    },
+    {
+      "verse_number": 12,
+      "latin": "O vos omnes, qui transitis per viam, attendite, et videte si est dolor sicut dolor meus : quoniam vindemiavit me ut locutus est Dominus, in die iræ furoris sui. M E M.",
+      "french": "O vous tous, qui passez par le chemin, considérez, et voyez s’il y a une douleur comme la mienne : car le Seigneur m’a traitée selon sa parole au jour de sa fureur, comme une vigne qu’on a vendangée. M E M.",
+      "source_pages": [
+        "page_0015.json"
+      ],
+      "annotations": null
+    },
+    {
+      "verse_number": 13,
+      "latin": "De excelso misit ignem in ossibus meis, et erudivit me : expandit rete pedibus meis, convertit me retrorsùm : posuit me desolatam, tota die mœrore confectam.",
+      "french": "Il a envoyé d’enhaut un feu dans mes os, et il m’a châtiée. Il a tendu un rets à mes pieds, et il m’a fait tomber en arriere. Il m’a rendu toute désolée, et toute épuisée de tristesse pendant tout le jour.",
+      "source_pages": [
+        "page_0015.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Vigilavit jugum iniquitatum mearum : in manu ejus convoluta funt, et imposita collo meo : infirmata est virtus mea : dedit me Dominus in manu, de qua non potero surgere.",
+      "french": "Le joug que m’ont attiré mes iniquités, m’a accablé tout d’un coup. La main de Dieu en a fait comme des chaînes, qu’il m’a mises sur le coù. Ma force a été affaiblie. Le Seigneur m’a livrée à une main de laquelle je ne pourrai jamais me défaire.",
+      "source_pages": [
+        "page_0016.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "S A M E C H. Abstulit omnes magnificos meos Dominus de medio mei : vocavit adversum me tempus, ut contereret electos meos. Torcular calcavit Dominus virgini filiæ Juda.",
+      "french": "Le Seigneur a retiré du milieu de mon peuple tout ce que j’avais d’hommes magnifiques. Il a fait venir contre moi le temps qu’il avait marqué, pour réduire en poudre mes soldats choisis. Le Seigneur a foulé lui-même le pressoir contre la vierge fille de Juda.",
+      "source_pages": [
+        "page_0017.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Idcircò ego plorans, et oculus meus deducens aquas : quia longè factus est à me consolator, convertens animam meam : facti sunt filii mei perditi, quoniam invaluit inimicus.",
+      "french": "A I N.\nC’est pour cela que je fonds en pleurs, et que mes yeux répandent des ruisseaux de larmes, parce que celui qui me devait consoler en me redonnant la vie, s’est retiré loin de moi. Mes enfants sont perdus, parce que l’ennemi est devenu le plus fort.",
+      "source_pages": [
+        "page_0018.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Expandit Sion manus suas, non est qui consoletur eam : mandavit Dominus adversùm Jacob in circuitu ejus hostes ejus : facta est Jerusalem quasi polluta menstruata inter eos.",
+      "french": "P H E.\nSion a étendu ses mains, et il n’y a eu personne pour la consoler. Le Seigneur a ordonné aux ennemis de Jacob de le venir attaquer de toutes parts. Jérusalem est devenuë au milieu d’eux, comme une femme souillée de ses impuretés.",
+      "source_pages": [
+        "page_0018.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "S A D E.\nJustus est Dominus, quia os ejus ad iracundiam provocavi. Audite, obsecro, universi populi, et videte dolorem meum : virgines meæ, et juvenes mei abierunt in captivitatem.",
+      "french": "S A D E.\nLe Seigneur est juste, parce que je me suis attiré sa colère, en désobéïssant à sa parole. Peuples, écoutez tous, je vous en conjure, et considérez ma douleur. Mes vierges, et mes jeunes hommes ont été menez en captivité.",
+      "source_pages": [
+        "page_0019.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "C O P H.\nVocavi amicos meos, et ipsi deceperunt me : Sacerdotes mei, et senes mei in urbe consumpti sunt : quia quæsierunt cibum sibi ut refocillarent animam suam.",
+      "french": "C O P H.\nJ’ai appelé mes amis ; et ils ont trompé mon espérance : mes Prêtres, et mes vieillards ont été consumez dans la ville, lorsqu’ils voulaient chercher quelque nourriture pour soutenir leur vie.",
+      "source_pages": [
+        "page_0019.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Vide, Domine, quoniam tribulor, conturbatus est venter meus : subversum est cor meum in memetipsa, quoniam amaritudine plena sum. Foris interficit gladius, et domi mors similis est.",
+      "french": "Seigneur, considérez que je suis dans l’affliction ; mes entrailles sont émues, mon cœur est renversé dans moi-même, parce que je suis remplie d’amertume. L’épée tuë mes enfants au-dehors, et dans la maison on voit une image de la mort.",
+      "source_pages": [
+        "page_0020.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "SIN.\nAudierunt quia ingemisco ego, et non est qui consoletur me : omnes inimici mei audierunt malum meum ; lætati sunt, quoniam tu fecisti : adduxisti diem consolationis, et fient similes mei.",
+      "french": "SIN.\nIls ont sçû que je suis dans les gémissements ; et il n’y a personne qui me console. Tous mes ennemis ont appris mon malheur : et ils se réjouissent de ce que c’est vous qui m’avez réduite en cét état. Mais quand le jour sera arrivé auquel vous devez me consoler, ils deviendront semblables à moi.",
+      "source_pages": [
+        "page_0021.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "TAU.\nIngrediatur omne malum eorum coram te : et vindemia eos, sicut vindemiasti me propter omnes iniquitates meas : multi enim gemitus mei, et cor meum mœrens.",
+      "french": "TAU.\nQue tout le mal qu’ils ont commis, se présente devant vous. Traitez-les comme une vigne qu’on vendange, comme vous m’avez traitée, à cause de toutes mes iniquités. Car mes soûpirs se redoublent sans cesse, et mon cœur est accablé de douleur.",
+      "source_pages": [
+        "page_0021.json"
+      ]
+    }
+  ]
+}

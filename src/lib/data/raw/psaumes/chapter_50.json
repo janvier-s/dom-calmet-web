@@ -1,0 +1,190 @@
+{
+  "book": "Psaumes",
+  "chapter": 50,
+  "chapter_summary": "Prière ardente d’une âme affligée, et pénitente. Cœur contrit et humilié, plus agréable à Dieu que les hosties, et les holocaustes. On offrira des victimes au Seigneur, après que les murs de Jérusalem seront rétablis.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, Psalmus David, cùm venit ad eum Nathan Propheta, quando intravit ad Bethsabee.",
+      "french": "Pour la fin, Psaume que composa David, lorsque le Prophète Nathan vint le trouver, après qu’il eut péché avec Bethsabée.",
+      "source_pages": [
+        "page_0649.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Miferere mei, Deus, secundum magnam misericordiam tuam.",
+      "french": "Ayez pitié de moi, mon Dieu, selon votre grande miséricorde :",
+      "annotations": null,
+      "source_pages": [
+        "page_0651.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et secundum multitudinem miserationum tuarum, dele iniquitatem meam.",
+      "french": "Et effacez mon iniquité, selon la multitude de vos bontés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0651.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Ampliùs lava me ab iniquitate mea : et à peccato meo munda me.",
+      "french": "Lavez moi de plus en plus de mon iniquité ; et purifiez-moi de mon péché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0651.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quoniam iniquitatem meam ego cognosco : et peccatum meum contra me est semper.",
+      "french": "Parce que je connais mon iniquité ; et que j’ai toujours mon péché devant les yeux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0652.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Tibi soli peccavi, et malum coram te feci, ut justificeris in sermonibus tuis, et vincas cùm judicaris.",
+      "french": "J’ai péché contre vous seul, et j’ai fait le mal en votre présence. Je fais cet aveu, afin que vous soyez reconnu juste et véritable dans vos paroles, et que vous demeuriez victorieux, lorsqu’on jugera de votre conduite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0652.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ecce enim in iniquitatibus conceptus sum, et in peccatis concepit me mater mea.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0652.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Ecce enim veritatem dilexisti ; incerta et occulta sapientiæ tuæ manifestasti mihi.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0652.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Asperges me hyssopo, et mundabor : lavabis me et super nivem dealbabor.",
+      "french": "Vous m’arroserez avec l’hysope, et je serai purifié : vous me laverez, et je deviendrai plus blanc que la neige.",
+      "annotations": null,
+      "source_pages": [
+        "page_0658.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Auditui meo dabis gaudium, et lætitiam : et exultabunt ossa humiliata.",
+      "french": "Vous ferez entendre à mon cœur des paroles douces et consolantes, et mes os qui sont brisés et humiliés de douleur, tressailliront d’allégresse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0659.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Averte faciem tuam à peccatis meis : et omnes iniquitates meas dele.",
+      "french": "Détournez votre face de dessus mes péchés ; et effacez toutes mes iniquités.",
+      "source_pages": [
+        "page_0660.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Cor mundum crea in me Deus : et spiritum rectum innova in visceribus meis.",
+      "french": "Créez en moi, ô mon Dieu ! un cœur pur ; et rétablissez un esprit droit dans le fond de mes entrailles.",
+      "source_pages": [
+        "page_0660.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Ne projicias me à facie tua : et spiritum sanctum tuum ne auferas à me.",
+      "french": "Ne me rejetez pas de devant votre face ; et ne retirez pas de moi votre Saint Esprit.",
+      "source_pages": [
+        "page_0661.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Redde mihi lætitiam salutaris tui : et spiritu principali confirma me.",
+      "french": "Rendez-moi la joie, et le salut ; et affermissez-moi en me donnant un esprit de force.",
+      "source_pages": [
+        "page_0661.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Docebo iniquos vias tuas : et impii ad te convertentur.",
+      "french": "J’enseignerai vos voies aux méchants ; et les impies se convertiront vers vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0662.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Libera me de sanguinibus, Deus, Deus salutis meæ : et exultabit lingua mea justitiam tuam.",
+      "french": "Délivrez-moi, mon Dieu ! vous qui êtes le Dieu, et l’auteur de mon salut, de tout le sang que j’ai répandu ; et ma langue se réjouira dans votre justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0663.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Domine, labia mea aperies : et os meum annuntiabit laudem tuam.",
+      "french": "Vous ouvrirez mes lèvres, Seigneur, et ma bouche publiera vos louanges.",
+      "annotations": null,
+      "source_pages": [
+        "page_0663.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Quoniam si voluisses sacrificium, dediffem utique : holocaustis, non delectaberis.",
+      "french": "Parce que si vous aviez souhaité un sacrifice, je n’aurais pas manqué à vous en offrir : mais vous n’aurez pas les holocaustes pour agréables.",
+      "source_pages": [
+        "page_0664.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Sacrificium Deo spiritus contribulatus : cor contritum et humiliatum, Deus, non despicies.",
+      "french": "Un esprit brisé de douleur, est un sacrifice digne de Dieu : vous ne mépriserez pas, ô mon Dieu ! un cœur contrit et humilié.",
+      "source_pages": [
+        "page_0664.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Benignè fac, Domine, in bona voluntate tua Sion : ut ædificentur muri Jerusalem.",
+      "french": "Seigneur, traitez favorablement Sion ; et faites-lui sentir les effets de votre bonté, afin que les murs de Jérusalem saient bâtis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0665.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Tunc acceptabis sacrificium justitiæ, oblationes et holocausta ; tunc imponent super altare tuum vitulos.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0665.json"
+      ]
+    }
+  ]
+}

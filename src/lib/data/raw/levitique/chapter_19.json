@@ -1,7 +1,7 @@
 {
   "book": "Lévitique",
   "chapter": 19,
-  "chapter_summary": "Respect dû aux parents et aux vieillards. Lois pour l’observation du Sabbat. Il faut éviter l’idolâtrie. Défense de manger de l’hostie pacifique au troisième jour, de couper la moisson jusqu’à la terre, de cueillir les grappes qui restent, de jurer faussement, de calomnier son prochain, de différer le payement du mercenaire, de parler mal d’un sourd, de faire tomber un aveugle. Lois pour les Juges, contre la médisance, contre la haine du prochain, contre la vengeance. Défense d’accoupler des animaux de diverses espèces, d’abuser d’une fille esclave, de recueillir les fruits des nouveaux arbres, les trois premières années après qu’ils sont plantés ; de manger du sang, d’observer les songes et les augures, de couper ses cheveux en rond, de se faire des incisions, de prostituer les filles. Ordre d’aimer les étrangers, et d’avoir des poids et des mesures justes.",
+  "chapter_summary": "Respect dû aux parents et aux vieillards. Lois pour l’observation du Sabbat. Il faut éviter l’idolâtrie. Défense de manger de l’hostie pacifique au troisième jour, de couper la moisson jusqu’à la terre, de cueillir les grappes qui restent, de jurer faussement, de calomnier son prochain, de différer le paiement du mercenaire, de parler mal d’un sourd, de faire tomber un aveugle. Lois pour les Juges, contre la médisance, contre la haine du prochain, contre la vengeance. Défense d’accoupler des animaux de diverses espèces, d’abuser d’une fille esclave, de recueillir les fruits des nouveaux arbres, les trois premières années après qu’ils sont plantés ; de manger du sang, d’observer les songes et les augures, de couper ses cheveux en rond, de se faire des incisions, de prostituer les filles. Ordre d’aimer les étrangers, et d’avoir des poids et des mesures justes.",
   "chapter_intro": null,
   "verses": [
     {
@@ -79,7 +79,7 @@
     {
       "verse_number": 9,
       "latin": "Cum messueris segetes terræ tuæ ; non tondebis usque ad solum superficiem terræ : nec remanentes spicas colliges.",
-      "french": "Lorsque vous ferez la moisson dans vos champs, vous ne couperez point jusqu’au pied ce qui sera crû sur la terre, et vous ne ramasserez point les épis qui seront restés.",
+      "french": "Lorsque vous ferez la moisson dans vos champs, vous ne couperez point jusqu’au pied ce qui sera cru sur la terre, et vous ne ramasserez point les épis qui seront restés.",
       "annotations": null,
       "source_pages": [
         "page_0235.json"
@@ -115,7 +115,7 @@
     {
       "verse_number": 13,
       "latin": "Non facies calumniam proximo tuo, nec vi opprimes eum. Non morabitur opus mercenarii tui apud te usque mane.",
-      "french": "Vous ne calomnierez point votre prochain, et vous ne l’opprimerez point par violence. Vous ne différerez point le payement du mercenaire qui vous sert, jusqu’au lendemain.",
+      "french": "Vous ne calomnierez point votre prochain, et vous ne l’opprimerez point par violence. Vous ne différerez point le paiement du mercenaire qui vous sert, jusqu’au lendemain.",
       "annotations": null,
       "source_pages": [
         "page_0238.json"

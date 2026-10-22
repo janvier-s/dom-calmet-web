@@ -1,0 +1,62 @@
+{
+  "book": "Psaumes",
+  "chapter": 115,
+  "chapter_summary": "Cantique d’actions de grâces, pour la délivrance de la captivité de Babylone.\n\nAlleluia. I Louëz Dieu.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 3,
+      "latin": "Quid retribuam Domino, pro omnibus quæ retribuit mihi ?",
+      "french": "Que rendrai-je au Seigneur, pour tous les biens qu’il m’a faits ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0152.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Calicem salutaris accipiam : et nomen Domini invocabo.",
+      "french": "Je prendrai le calice du salut ; et j’invoquerai le nom du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0152.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Vota mea Domino reddam coram omni populo ejus. Pretiosa in conspectu Domini mors Sanctorum ejus.",
+      "french": "Je m’acquiterai de mes vœux envers le Seigneur devant tout son peuple. La mort des Saints est précieuse aux yeux du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0153.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "O Domine, quia ego servus tuus : ego servus tuus, et filius ancillæ tuæ.",
+      "french": "O Seigneur, parce que je suis votre serviteur ; parce que je suis votre serviteur, et le fils de votre servante ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Dirupisti vincula mea : tibi sacrificabo hostiam laudis, et nomen Domini invocabo.",
+      "french": "Vous avez brisé mes liens : c’est pourquoi je vous sacrifierai une hostie de louanges ; et j’invoquerai le nom du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Vota mea Domino reddam in conspectu omnis populi ejus : in atriis domûs Domini, in medio tui Jerusalem.",
+      "french": "Je m’acquiterai de mes vœux envers le Seigneur, devant tout son peuple ; à l’entrée de la maison du Seigneur, au milieu de vous, ô Jerusalem.",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    }
+  ]
+}

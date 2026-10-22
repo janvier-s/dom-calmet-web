@@ -1,0 +1,90 @@
+{
+  "book": "Baruch",
+  "chapter": 5,
+  "chapter_summary": "Consolation de Jérusalem. Elle verra ses enfants revenir de la captivité, comblez de gloire, et de bonheur.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Exue te, Jerusalem, stolâ luctûs et vexationis tuæ ; et indue te decore, et honore ejus quæ à Deo tibi est sempiterna gloria.",
+      "french": "Quittez, ô Jérusalem, les vêtements de votre deüil, et de votre affliction, et parez-vous de l’éclat, et de la majesté de cette gloire éternelle, qui vous vient de Dieu.",
+      "annotations": "✚.1. ℣. 1.",
+      "source_pages": [
+        "page_0041.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Circumdabit te Deus diploïde justitiæ, et imponet mitram capiti honoris æterni.",
+      "french": "Le Seigneur vous revêtira de la robe de justice, et il vous mettra sur la tête un diadême d’éternelle gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0041.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Deus enim ostendet splendorem suum in te, omni qui sub Cœlo est.",
+      "french": "Dieu fera luire aux yeux de tous les hommes qui sont sous le Ciel, la lumiere éclatante qu’il mettra dans vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0042.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Nominabitur enim tibi nomen tuum à Deo in sempiternum. Pax justitia, et honor pietatis.",
+      "french": "Voici le nom que Dieu vous donnera pour jamais : Il vous appellera la paix de la justice, et la gloire de la piété.",
+      "annotations": null,
+      "source_pages": [
+        "page_0042.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Exurge, Jerusalem, et sta in excelso ; et circumspice ad orientem, et vide collectos filios tuos ab oriente sole usque ad occidentem, in verbo Sancti gaudentes Dei memoriâ.",
+      "french": "Levez-vous, ô Jérusalem, tenez-vous en haut, regardez vers l’orient, et considérez vos enfants qui viennent tous ensemble à la parole du Saint, depuis l’orient, jusqu’à l’occident, étant pleins de joie dans le souvenir des bienfaits de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0042.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Exierunt enim abs te pedibus ducti ab inimicis : adducet autem illos Dominus ad te portatos in honore, ficut filios Regni.",
+      "french": "Lorfqu’ils font fortis de vous, ils ont été emmenez à pied par leurs ennemis : mais lorfque le Seigneur les fera revenir, ils feront portez avec honneur comme des enfants de Rois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0043.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Conftituit enim Deus humiliare omnem montem excelfum, et rupes perennes ; et convalles replere in æqualitatem terræ ; ut ambulet Ifraël diligenter in honorem Dei.",
+      "french": "Car le Seigneur a réfolu d’abaiffer toutes les montagnes élevées, et les roches éternelles, et de remplir les vallées, en les égalant à la terre unie ; afin qu’Ifraël marche avec viteffe pour la gloire de son Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0043.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Obumbraverunt autem et sylvæ, et omne lignum suavitatis, Israël ex mandato Dei.",
+      "french": "Des forêts, et des arbres odoriférants feront une ombre agréable à Israël, par l’ordre de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0044.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Adducet enim Deus Israël cum jucunditate in lumine Majestatis suæ, cum misericordia, et justitia, quæ ex ipso. EXemplar epistolæ, quam misit Jeremias ad abducendos captivos in Babyloniam à Rege Babyloniorum, ut annuntiaret illis secundùm quod præceptum est illi à Deo.",
+      "french": "Car Dieu fera venir Israël avec joie sous la conduite de la lumière de sa majesté : et en faisant éclater la miséricorde, et la justice qui vient de lui-même. COpie de la lettre que Jérémie envoya aux captifs que le Roi des Babyloniens devait emmener à Babylone, pour leur annoncer ce que Dieu lui avait ordonné de leur dire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0044.json",
+        "page_0045.json"
+      ]
+    }
+  ]
+}

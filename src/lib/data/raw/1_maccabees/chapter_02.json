@@ -1,0 +1,638 @@
+{
+  "book": "1 Maccabées",
+  "chapter": 2,
+  "chapter_summary": "Mathathias et les siens résistent aux ordres d’Antiochus ; ils se retirent dans les montagnes. Mort de Mathathias ; il laisse son fils Judas à la tête du peuple demeuré fidelle.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "In diebus illis surrexit Mathathias filius Joannis, filii Simeonis, Sacerdos ex filiis Joarib ab Jerusalem, et consedit in monte Modin.",
+      "french": "En ce temps-là Mathathias fils de Jean, fils de Simon, Prêtre d’entre les enfants de Joarib, sortit de Jérusalem, et se retira sur la montagne de Modin.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et habebat filios quinque, Joannem, qui cognominabatur Gaddis :",
+      "french": "Il avait cinq fils ; Jean, surnommé Gaddis ;",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et Simonem, qui cognominabatur Thasi :",
+      "french": "Simon, surnommé Thasi ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et Judam, qui vocabatur Machabæus :",
+      "french": "Judas, appelé Machabée ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et Eleazarum, qui cognominabatur Abaron, et Jonathan, qui cognominabatur Apphus.",
+      "french": "Eléazar, surnommé Abaron ; et Jonathas, surnommé Apphus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Hi viderunt mala, quæ fiebant in populo Juda, et in Jerusalem.",
+      "french": "Ils considérèrent les maux que l’on faisait au peuple de Juda, et dans Jérusalem.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et dixit Mathathias : Væ mihi, ut quid natus sum videre contritionem populi mei, et contritionem civitatis sanctæ, et sedere illic, cùm datur in manibus inimicorum ?",
+      "french": "Et Mathathias dit ces paroles : Malheur à moi ! faut-il que je sais né pour voir l’affliction de mon peuple, et le renversement de la ville sainte, et pour y demeurer pendant qu’elle est livrée entre les mains de ses ennemis ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Sancta in manu extraneorum facta sunt : templum ejus sicut homo ignobilis.",
+      "french": "Son Sanctuaire est entre les mains des étrangers, son temple est traité comme un homme infâme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Vasa gloriæ ejus captiva abducta sunt : trucidati sunt senes ejus in plateis, et juvenes ejus ceciderunt in gladio inimicorum.",
+      "french": "Les vases les plus beaux, et les plus précieux ont été enlevez, et emportez dans une terre étrangère ; ses vieillards ont été assassinez dans les ruës, et ses jeunes hommes sont tombez morts sous l’épée de leurs ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quæ gens non hæreditavit regnum ejus, et non obtinuit spolia ejus ?",
+      "french": "Quelle nation n’a point partagé son Royaume, et ne s’est point enrichie de ses dépouilles ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Omnis compositio ejus ablata est. Quæ erat libera, est ancilla.",
+      "french": "Toute sa magnificence lui a été enlevée ; de libre qu’elle était, elle est devenuë esclave.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et ecce sancta nostra, et pulchritudo nostra, et claritas nostra desolata est, et coinquinavérunt ea Gentes.",
+      "french": "Tout ce que nous avions de saint, de beau, et d’éclatant, a été désolé, et profané par les nations.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Quò ergo nobis adhuc vivere ?",
+      "french": "Pourquoi donc vivons-nous encore ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et scidit vestimenta sua Mathathias, et filii ejus : et operuerunt se ciliciis, et planxerunt valdè.",
+      "french": "Alors Mathathias, et ses fils déchirérent leurs vêtements ; ils se couvrirent de cilices, et ils firent un grand deüil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et venerunt illuc qui missi erant à Rege Antiocho, ut cogerent eos, qui confugerant in civitatem Modin, immolare, et accendere thura, et à lege Dei discedere.",
+      "french": "En même-temps ceux que le Roi Antiochus avait envoyez, vinrent pour contraindre ceux qui s’étaient retirez dans la ville de Modin, de sacrifier, et de brûler de l’encens, et d’abandonner la loi de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et multi de populo Israël consentientes accesserunt ad eos : sed Mathathias, et filii ejus constanter steterunt.",
+      "french": "Plusieurs du peuple d’Israël y consentirent, et se joignirent à eux : mais Mathathias, et ses fils demeurérent fermes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et respondentes qui missi erant ab Antiocho, dixerunt Mathatiæ : Princeps et clarissimus et magnus es in hac civitate, et ornatus filiis et fratribus.",
+      "french": "Et ceux qu’Antiochus avait envoyez, dirent à Mathathias : Vous êtes le premier, le plus grand, et le plus consideré de cette ville ; et vous recevez encore une nouvelle gloire de vos fils, et de vos frères.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Ergo accede prior, et fac jussum Regis, sicut fecerunt omnes Gentes, et viri Juda, et qui remanserunt in Jerusalem : et eris tu, et filii tui, inter amicos Regis, et amplificatus auro et argento, et muneribus multis.",
+      "french": "Venez donc le premier exécuter le commandement du Roi, comme ont fait toutes les nations, les hommes de Juda, et ceux qui sont demeurez dans Jérusalem : et vous serez vous, et vos fils au rang des amis du Roi, comblez d’or, et d’argent, et de grands présents.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Et respondit Mathathias, et dixit magna voce : Et si omnes Gentes Regi Antiocho obediunt, ut discedat unusquisque à servitute legis patrum suorum, et consentiat mandatis ejus :",
+      "french": "Mathathias lui répondit en haussant la voix : Quand toutes les nations obéïraient au Roi Antiochus, et que tous ceux d’Israël abandonneraient la loi de leurs pères, pour se soumettre à ses ordonnances ;",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Ego, et filii mei, et fratres mei, obediémus legi patrum nostrorum.",
+      "french": "Nous obéïrons toujours néanmoins mes enfants, mes frères, et moi à la loi de nos pères.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Propitius sit nobis Deus : non est nobis utile relinquere legem, et justitias Dei.",
+      "french": "A Dieu ne plaise que nous en usions autrement ! il ne nous est pas utile d’abandonner la loi, et les ordonnances de Dieu qui sont pleines de justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Non audiemus verba Regis Antiochi, nec sacrificabimus transgredientes legis nostræ mandata, ut eamus alterâ viâ.",
+      "french": "Nous n’obéïrons point au commandement du Roi Antiochus, ni ne nous écarterons point de nos anciennes voies, pour sacrifier, en violant les ordonnances de notre loi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et ut cessavit loqui verba hæc, accessit quidam Judæus in omnium oculis sacrificare idolis super aram in civitate Modin, secundùm jussum Regis.",
+      "french": "Comme il cessait de parler, un certain Juif s’avança pour sacrifier aux idoles devant tout le monde, sur l’autel qu’on avait dressé dans la ville de Modin, selon le commandement du Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et vidit Mathathias, et doluit : et contremuerunt renes ejus, et accensus est furor ejus secundùm judicium legis, et insiliens trucidavit eum super aram :",
+      "french": "Mathathias le vit, et fut saisi de douleur ; ses entrailles en furent émuës, et troublées ; et sa fureur s’étant allumée selon l’esprit de la loi, il se jetta sur cet homme, et le tua sur l’autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Sed et virum, quem rex Antiochus miserat, qui cogebat immolare, occidit in ipso tempore, et aram destruxit,",
+      "french": "Il tua aussi en même-temps, l’Officier que le Roi Antiochus avait envoyé pour contraindre les Juifs de sacrifier : et il renversa l’autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Et zelatus est legem, sicut fecit Phinées Zamri filio Salomi.",
+      "french": "Etant transporté du zèle de la loi, comme le fut Phinée lorsqu’il tua Zamri fils de Salomi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et exclamavit Mathathias voce magna in civitate, dicens : Omnis, qui zelum habet legis ftatuens teftamentum, exeat poft me.",
+      "french": "Alors Mathathias cria à haute voix dans la ville : Quiconque est zelé pour la loi, et veut demeurer ferme dans l’alliance du Seigneur, me fuive.",
+      "annotations": "An du M 3837.",
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et fugit ipfe, et filii ejus in montes, et reliquerunt quæcumque habebant in civitate.",
+      "french": "Et il s’enfuit avec ses fils fur les montagnes ; et ils abandonnérent tout ce qu’ils avaient dans la ville.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Tunc defcenderunt multi quærentes judicium, et juftitiam, in defertum.",
+      "french": "Alors plufieurs qui cherchaient à vivre felon la loi et la juftice, s’en allérent dans le defert.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et federunt ibi ipfi, et filii eorum, et mulieres eorum, et pecora eorum : quoniam inundaverunt fuper eos mala.",
+      "french": "Et ils y demeurerent avec leurs fils, et leurs femmes, et leurs troupeaux ; parce qu’ils se voyaient accablés de maux de tous côtés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Et renuntiatum eft viris Regis, et exercitui, qui erat in Jerufalem civitate David, quoniam difceffiffent viri quidam, qui diffipaverunt mandatum Regis, in loca occulta in deferto, et abiiffent poft illos multi.",
+      "french": "Les Officiers du Roi, et l’armée qui étaient à Jerufalem dans la ville de David, furent avertis que quelques gens qui avaient foulé aux pieds l’édit du Roi, s’étaient retirez dans les lieux deferts, et que plufieurs les avaient fuivis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et ftatim perrexerunt ad eos, et conftituerunt adverfus eos prælium in die fabbatorum.",
+      "french": "Ils marchérent auffi-tôt à eux, et se préparérent à les attaquer le jour du fabbath.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Et dixerunt ad eos : Refiftitis et nunc adhuc ? Exite, et facite fecundùm verbum Regis Antiochi, et vivetis.",
+      "french": "Et ils leur dirent : Résisterez vous encore à prefent ? Sortez, et obéïffez à l’édit Roi Antiochus, afin que vous viviez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et dixerunt : Non exibimus, neque faciemus verbum Regis, ut polluamus diem fabbatorum.",
+      "french": "Ils leur répondirent : Nous ne fortirons point, et nous ne violerons point le jour du fabbath, pour obéir au Roi Antiochus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et concitaverunt adversùs eos prælium.",
+      "french": "Ces gens les attaquerent donc.",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et non responderunt eis, nec lapidem miserunt in eos, nec oppilaverunt loca occulta.",
+      "french": "Les Juifs ne leur répondirent rien : ils ne jettérent pas une seule pierre contr’eux, et ils ne boucherent point les cavernes où ils étaient,",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Dicentes : Moriamur omnes in simplicitate nostra : et testes erunt super nos cælum et terra, quòd injustè perditis nos.",
+      "french": "Mais ils dirent : Mourons tous dans la simplicité de notre cœur, et le ciel et la terre feront témoins que vous nous faites mourir injustement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Et intulerunt illis bellum sabbatis : et mortui sunt ipsi, et uxores eorum, et filii eorum, et pecora eorum, usque ad mille animas hominum.",
+      "french": "Les ennemis les attaquérent donc le jour du sabbat, et ils furent tuez, eux, leurs femmes et leurs enfants avec leurs bestiaux : et il périt jusqu’à mille personnes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Et cognovit Mathathias, et amici ejus, et luctum habuerunt super eos valde.",
+      "french": "Mathathias et ses amis en reçurent la nouvelle, et ils firent un grand deüil de leur perte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Et dixit vir proximo suo : Si omnes fecerimus sicut fratres nostri fecerunt, et non pugnaverimus adversùs gentes pro animabus nostris, et justificationibus nostris, nunc citiùs disperdent nos à terra.",
+      "french": "Alors ils se dirent les uns aux autres : Si nous faisons tous comme nos frères ont fait, et que nous ne combattions point contre les nations pour notre vie et pour notre Loi, ils nous extermineront en peu de temps de dessus la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Et cogitaverunt in die illa, dicentes : Omnis homo quicumque venerit ad nos in bello die sabbatorum, pugnemus adversùs eum : et non moriemur omnes, sicut mortui sunt fratres nostri in occultis.",
+      "french": "Ils prirent donc ce jour-là cette resolution : Qui que ce soit, dirent-ils, qui nous attaque le jour du sabbat, ne faisons point de difficulté de combattre contre lui ; et ainsi nous ne mourrons point tous, comme nos frères sont morts dans les lieux cachez du désert.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Tunc congregata est ad eos synagoga Assidæorum fortis viribus ex Israël : omnis voluntarius in lege.",
+      "french": "Alors les Assidéens qui étaient des plus vaillants d’Israël s’assemblérent tous, et se joignirent à eux : tous ceux qui s’étaient attachez volontairement à la Loi ;",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Et omnes qui fugiebant à malis additi sunt ad eos, et facti sunt illis ad firmamentum.",
+      "french": "Et tous les autres qui fuyaient les maux dont ils étaient menacez, vinrent s’unir à eux, et fortifierent leurs troupes.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Et collegerunt exercitum, et persecuti sunt peccatores in ira sua, et viros iniquos in indignatione sua : et ceteri fugerunt ad nationes, ut evaderent.",
+      "french": "Ils firent donc un corps d’armée ; et ils se jettérent sur les prévaricateurs dans leur colère, et sur les méchants dans leur indignation, et les tuérent. Et tout le reste s’enfuit vers les nations, pour y trouver leur sûreté.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Et circuivit Mathathias, et amici ejus, et destruxerunt aras :",
+      "french": "Et Mathathias alla par tout avec ses amis : et ils détruisirent les autels,",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Et circumciderunt pueros incircumcisos, quotquot invenerunt in finibus Israël : et in fortitudine.",
+      "french": "Ils circoncirent tous les enfants incirconcis, qu’ils trouvérent dans tout le païs d’Israël ; et ils agirent avec grand courage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Et persecuti sunt filios superbiæ, et prosperatum est opus in manibus eorum.",
+      "french": "Ils poursuivirent les enfants d’orgueil, et ils reüssirent dans toutes leurs entreprises.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Et obtinuerunt legem de manibus gentium, et de manibus Regum : et non dederunt cornu peccatori.",
+      "french": "Ils délivrérent la loi de l’affervissement des nations, et de la puissance des Rois ; et ils ne permirent point au pécheur d’abuser impunément de son pouvoir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Et appropinquaverunt dies Mathathiæ moriendi, et dixit filiis suis : Nunc confortata est superbia, castigatio, et tempus eversionis, et ira indignationis.",
+      "french": "Après cela le jour de la mort de Mathathias s’approchant, il dit à ses fils, Le règne de l’orgueil s’est affermi : voici un temps de châtiment, et de ruine, d’indignation, et de colère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Nunc ergo, ô filii, æmulatores estote legis, et date animas vestras pro testamento patrum vestrorum.",
+      "french": "Soyez donc maintenant, mes enfants, de vrais zelateurs de la Loi, et donnez vos vies pour l’alliance de vos pères.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Et mementote operum patrum, quæ fecerunt in generationibus suis : et accipietis gloriam magnam, et nomen æternum.",
+      "french": "Souvenez-vous des œuvres qu’ont faites vos ancêtres, chacun dans leur temps ; et vous recevrez une grande gloire et un nom éternel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Abraham nonne in tentatione inventus est fidelis : et reputatum est ei ad justitiam ?",
+      "french": "Abraham n’a-t’il pas été trouvé fidelle dans la tentation ; et ne lui a-t’il pas été imputé à justice ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Joseph in tempore angustiæ suæ custodivit mandatum, et factus est Dominus Ægypti.",
+      "french": "Joseph a gardé les commandements de Dieu pendant le temps de son affliction, et il est devenu le Seigneur de toute l’Egypte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Phinees pater noster, zelando zelum Dei, accepit testamentum Sacerdotii æterni.",
+      "french": "Phinée notre père en brûlant de zèle pour la loi de Dieu, a reçu la promesse d’un sacerdoce éternel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Jifus dum implevit verbum, factus est dux in Israël.",
+      "french": "Josué accomplissant la parole du Seigneur, est devenu le chef d’Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "Caleb, dum testificaretur in Ecclesia, accepit hæreditatem.",
+      "french": "Caleb en rendant témoignage dans l’assemblée de son peuple, a reçu un héritage dans la terre promise.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 57,
+      "latin": "David in sua misericordia, consecutus est sedem regni in sæcula.",
+      "french": "David par sa douceur s’est acquis pour jamais le Trône Royal.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 58,
+      "latin": "Elias dum zelat zelum legis, receptus est in cœlum.",
+      "french": "Elie étant embrasé de zèle pour la loi, a été enlevé dans le ciel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 59,
+      "latin": "Ananias et Azarias et Misaël credentes, liberati sunt de flamma.",
+      "french": "Ananias, Azarias et Misaël croyant fermement en Dieu, ont été sauvez des flammes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 60,
+      "latin": "Daniel in simplicitate liberatus est de ore leonum.",
+      "french": "Daniel dans la simplicité de son cœur a été délivré de la gueule des lions.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 61,
+      "latin": "Et ita cogitate per generationem et generationem : quia omnes qui sperant in eum, non infirmantur.",
+      "french": "Ainsi considerez tout ce qui s’est passé de race en race ; et vous trouverez que tous ceux qui esperent en Dieu ne s’affoiblissent point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 62,
+      "latin": "Et à verbis viri peccatoris ne timueritis : quia gloria ejus, stercus et vermis est.",
+      "french": "Ne craignez donc point les paroles de l’homme pécheur ; parce que toute sa gloire n’est que de l’ordure, et que la pâture des vers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 63,
+      "latin": "Hodie extollitur, et cras non invenietur : quia conversus est in terram suam, et cogitatio ejus periit.",
+      "french": "Il s’éleve aujourd’hui, et il disparoîtra demain, parce qu’il sera retourné dans la terre d’où il est venu, et que toutes ses pensées se seront évanouies.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 64,
+      "latin": "Vos ergo, filii, confortamini, et viriliter agite in lege : quia in ipsa gloriosi eritis.",
+      "french": "Vous donc, mes enfants, armez-vous de courage, et agissez vaillamment pour la défense de la loi, parce que c’est elle qui vous comblera de gloire.",
+      "annotations": "An du M. 3838.",
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 65,
+      "latin": "Et ecce Simon frater vester, scio quòd vir consilii est : ipsum audite semper, et ipse erit vobis pater.",
+      "french": "Vous voyez ici Simon votre frère : je sçai qu’il est homme de conseil ; écoutez le toujours, et il vous tiendra lieu de père.",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 66,
+      "latin": "Et Judas Machabæus fortis viribus à juventute sua, sit vobis Princeps militiæ, et ipse aget bellum populi.",
+      "french": "Judas Maccabée a été fort et vaillant dés sa jeunesse. Qu’il soit le General de vos troupes ; et il conduira votre peuple dans la guerre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 67,
+      "latin": "Et adducetis ad vos omnes factores legis : et vindicate vindictam populi vestri :",
+      "french": "Joignez à vous tous les observateurs de la loi, et vangez votre peuple de ses ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 68,
+      "latin": "Retribuite retributionem Gentibus, et intendite in præceptum legis.",
+      "french": "Rendez aux nations le mal qu’elles vous ont fait, et soyez toujours attentifs aux préceptes de la loi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 69,
+      "latin": "Et benedixit eos, et appositus est ad patres suos.",
+      "french": "Après cela il les benit, et il fut reüni à ses pères.",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 70,
+      "latin": "Et defunctus est anno centesimo et quadragesimo sexto : et sepultus est à filiis suis in sepulchris patrum suorum in Modin, et planxerunt eum omnis Israël planctu magno.",
+      "french": "Il mourut en la cent quarante-sixième année, et fut enseveli à Modin par ses enfants dans le sépulcre de ses pères : et tout Israël le pleura et fit un grand deüil à sa mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    }
+  ]
+}

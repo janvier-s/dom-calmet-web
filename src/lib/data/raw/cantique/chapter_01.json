@@ -1,0 +1,135 @@
+{
+  "book": "Cantique des cantiques",
+  "chapter": 1,
+  "chapter_summary": null,
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Osculetur me osculo oris sui : quia meliora sunt ubera tua vino",
+      "french": "L’Épouse, ET LES FILLES DE LA NÔCE. QU’IL me donne un baiser de sa bouche : car vos mammelles sont meilleures que le vin,",
+      "annotations": "An du M. 100",
+      "source_pages": [
+        "page_0023.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Fragrantia unguentis optimis. Oleum effusum nomen tuum : ideò adolescentulæ dilexerunt te.",
+      "french": "Et elles ont l’odeur des parfums les plus précieux. Votre nom est comme une huile de parfum qu’on a répanduë : c’est pourquoi les jeunes filles vous aiment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0024.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Trahe me post te : curremus in odorem unguentorum tuorum. Introduxit me Rex in cellaria sua : exultabimus et lætabimur in te, memores uberum tuorum super vinum : recti diligunt te.",
+      "french": "Entraînez-moi après vous : nous courrons à l’odeur de vos parfums. Le Roi m’a fait entrer dans ses celliers. C’est-là que nous nous réjouirons en vous, et que nous serons ravies de joie, en nous souvenant que vos mammelles sont meilleures que le vin. Ceux qui ont le cœur droit vous aiment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0026.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Nigra sum, sed formosa, filiæ Jerusalem, sicut tabernacula Cedar, sicut pelles Salomonis.",
+      "french": "Je suis noire, mais je suis belle, ô filles de Jérusalem, comme les tentes de Cédar, comme les pavillons de Salomon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0029.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Nolite me considerare quòd fusca sim, quia decoloravit me sol : filii matris meæ pugnaverunt contra me, posuerunt me custodem in vineis : vineam meam non custodivi.",
+      "french": "Ne considérez pas que je suis devenuë brune, car c’est le soleil qui m’a ôté ma couleur. Les enfants de ma mère se sont élevez contre moi. Ils m’ont mise dans les vignes pour les garder, et je n’ai pas gardé ma propre vigne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Indica mihi, quem diligit anima mea, ubi pascas, ubi cubes in meridie ; ne vagari incipiam post greges sodalium tuorum.",
+      "french": "O vous, qui êtes le bien-aimé de mon âme, apprenez-moi où vous menez paître votre troupeau, où vous vous reposez à midi : de peur que je ne m’égare en suivant les troupeaux de vos compagnons.",
+      "annotations": null,
+      "source_pages": [
+        "page_0032.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Si ignoras te, ô pulcherrima inter mulieres, egredere, et abi post vestigia gregum, et pasce hædos tuos juxta tabernacula pastorum.",
+      "french": "L’EPOUX.\nSi vous ne vous connaissez pas, ô vous la plus belle d’entre les femmes, suivez les traces de vos troupeaux, et menez paître vos chevreaux près des tentes des Pasteurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0033.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Pulchræ sunt genæ tuæ sicut turturis : collum tuum sicut monilia.",
+      "french": "Vos jouës ont la beauté de la tourterelle : et votre coù est composé de riches colliers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0035.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Murenulas aureas faciemus tibi, vermiculatas argento. Dum esset Rex in accubitu suo, nardus mea dedit odorem suum.",
+      "french": "Nous vous ferons des chaînes d’or marquées d’argent. Pendant que le Roi se reposait, le nard dont j’étais parfumée, a repandu sa bonne odeur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0035.json",
+        "page_0036.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Fasciculus myrrhæ dilectus meus mihi, inter ubera mea commorabitur.",
+      "french": "Mon bien-aimé est pour moi comme un bouquet de myrrhe, il demeurera entre mes mammelles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0037.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Botrus cypri dilectus meus mihi, in vineis Engaddi.",
+      "french": "Mon bien-aimé est pour moi comme une grappe de raisin de cypie, qui croît dans les vignes d’Engaddi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0038.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Ecce tu pulchra es, amica mea ! ecce tu pulchra es ! oculi tui columbarum.",
+      "french": "L’EPOUX.\nO que vous êtes belle, ma bien-aimée ! O que vous êtes belle ! Vos yeux sont comme les yeux des colombes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0038.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Ecce tu pulcher es, dilecte mi, et decorus ! Lectulus noster floridus.",
+      "french": "L’EPOUSE.\nQue vous êtes beau, mon bien-aimé ! Que vous avez de grâce, et de charmes ! Notre lit est couvert de fleurs :",
+      "annotations": null,
+      "source_pages": [
+        "page_0039.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Tigna demorum nostrarum cedrina, laquearia nostra cypressina.",
+      "french": "Les solives de nos maisons sont de cèdre, nos lambris sont de cyprès.",
+      "annotations": null,
+      "source_pages": [
+        "page_0040.json"
+      ]
+    }
+  ]
+}

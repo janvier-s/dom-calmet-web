@@ -1,0 +1,206 @@
+{
+  "book": "Lamentations",
+  "chapter": 5,
+  "chapter_summary": "Le Prophète expose à Dieu les maux que son peuple souffrait dans la captivité, et il le prie de le rappeller, et de le retablir dans son premier état.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Recordare, Domine, quid acciderit nobis : intuere, et respice opprobrium nostrum.",
+      "french": "Souvenez-vous, Seigneur, de ce qui nous est arrivé : considérez, et regardez l’opprobre où nous sommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Hæreditas nostra versa est ad alienos : domus nostræ ad extraneos.",
+      "french": "Notre héritage est passé à ceux d’un autre pays, et nos maisons à des étrangers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Pupilli facti sumus absque patre, matres nostræ quasi viduæ.",
+      "french": "Nous sommes devenus comme des orphelins qui n’ont plus de pères ; nos mères sont comme des femmes veuves.",
+      "annotations": null,
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Aquam nostram pecuniâ bibimus : ligna nostra pretio comparavimus.",
+      "french": "Nous achettons à prix d’argent l’eau que nous bûvons, nous payons chéremẽt le bois que nous brûlons.",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Cervicibus nostris minabamur, bassis non dabatur requies.",
+      "french": "On nous a entraînez les chaînes au coũ, sans donner aucun repos à ceux qui étaient las.",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ægypto dedimus manum, et Assyriis ut saturaremur pane.",
+      "french": "Nous avons donné les mains à l’Egypte, et aux Assyriens, pour avoir de quoi nous rassasier de pain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Patres nostri peccaverunt, et non sunt : et nos iniquitates eorum portavimus.",
+      "french": "Nos pères ont péché, et ils ne sont plus ; et nous portons la peine de leurs iniquités.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Servi dominati sunt nostri : non fuit qui redimeret de manu eorum.",
+      "french": "Des esclaves nous ont dominez, sans qu’il se trouvât personne pour nous racheter d’entre leurs mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "In animabus noftris afferebamus panem nobis, à facie gladii in deferto.",
+      "french": "Nous allions chercher du pain dans le désert, au-travers des épées nuës, et au péril de notre vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Pellis noftra, quasi clibanus exusta est à facie tempestatum famis.",
+      "french": "Notre peau s’est brûlée, et s’est noircie comme un four, à cause de l’extrémité de la faim.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Mulieres in Sion humiliaverunt, et virgines in civitatibus Iuda.",
+      "french": "Ils ont humilié les femmes dans Sion, et les vierges dans les villes de Juda.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Principes manu suspensi sunt : facies senum non erubuerunt.",
+      "french": "Les Princes ont été pendus par la main : ils n’ont point respecté le visage des vieillards.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Adolescentibus impudicè abusi sunt : et pueri in ligno corruerunt.",
+      "french": "Ils ont abusé des jeunes hommes par un crime abominable : et les enfants sont morts sous le bois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Senes defecerunt de portis : juvenes de choro psallentium.",
+      "french": "Il n’y a plus de vieillards dans les portes, ni de jeunes hommes dans les concerts de musique.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Defecit gaudium cordis nostri : versus est in luctum chorus noster.",
+      "french": "La joie de notre cœur est éteinte, nos concerts sont changez en lamentations.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Cecidit corona capitis nostri. Væ nobis, quia peccavimus.",
+      "french": "La couronne est tombée de notre tête. Malheur à nous, parce que nous avons péché !",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Proptereà mœstum factum est cor nostrum, ideò contenebrati sunt oculi nostri.",
+      "french": "C’est pourquoi notre cœur est devenu triste, nos yeux sont couverts de tenébres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Propter montem Sion, quia disperiit : vulpes ambulaverunt in eo.",
+      "french": "Parce que le mont de Sion a été détruit, et que les renards y courent en sûreté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Tu autem, Domine, in æternum permanebis ; solium tuum in generationem et generationem.",
+      "french": "Mais vous, Seigneur, vous demeure-rez éternellement ; votre trône subsistera dans la suite de tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Quare in perpetuum oblivisceris nostri ; derelinques nos in longitudine dierum ?",
+      "french": "Pourquoi nous oublierez-vous pour jamais ? Pourquoi nous abandonnerez-vous pour toujours ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Converte nos, Domine, ad te, et convertemur : innova dies nostros, sicut à principio.",
+      "french": "Convertissez-nous à vous, Seigneur, et nous nous convertirons. Renouvelez nos jours comme ils étaient au commencement ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Sed projiciens repulisti nos : iratus es contra nos vehementer.",
+      "french": "Mais il semble que vous nous ayez rejetez pour jamais, et que votre colère soit sans retour contre nous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    }
+  ]
+}

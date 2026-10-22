@@ -1,0 +1,144 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "factus est sermo Domini ad me.",
+      "lemma": "Le Seigneur m’adressa sa parole.",
+      "text": "Ce fut apparemment après l’expiration des trois cens quatre-vingt-dix jours, qu’il devait demeurer couché sur son côté gauche, et après les quarante jours qu’il devait être couché sur son côté droit. C’est ici une nouvelle prophétie. [1]"
+    },
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "pone faciem tuam ad montes Israel.",
+      "lemma": "Tournez le visage contre les montagnes d’Israël.",
+      "text": "Regardez du côté de la Judée, et apostrophez cette terre souillée par les crimes de ses habitants. On ne peut entendre ici le nom d’Israël, comme marquant le Royaume des dix Tribus séparées de Juda : ce Royaume des dix Tribus était détruit depuis assez long-temps ; et depuis sa destruction, on donnait au Royaume de Juda indifféremment le nom de Juda, ou d’Israël. On en voit vingt exemples dans les Paralipoménes, dans Ezéchiel, dans Esdras, dans les Maccabées, et dans les Livres écrits, ou durant, ou après la captivité."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "simulachra.",
+      "lemma": "Vos statuës.",
+      "text": "L’Hébreu : [2] _Des figures, ou des temples du Soleil._"
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "dejiciam interfectos vestros ante idola vestra.",
+      "lemma": null,
+      "text": "TRA. Je vous ferai tomber morts devant vos idoles. A la lettre ; [3] Je ferai tomber vos blessez devant vos Dieux d’ordure. Dieu permit que ceux des Juifs qui s’étaient sauvez près des Autels de leurs Dieux, comme à des asyles inviolables, y furent mis à mort par les Caldéens."
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "dispergam ossa vestra circum aras vestras.",
+      "lemma": "Je répandrai vos os autour de vos autels.",
+      "text": "On vit à la lettre l’exécution de ces menaces, après la prise de Jérusalem. Les Caldéens violérent les tombeaux, [4] et jettérent les os de tous côtés."
+    },
+    {
+      "verse": 9,
+      "sub": false,
+      "latin_lemma": "recordabuntur mei liberati vestri.",
+      "lemma": "Ceux d’entre vous qui auront été délivrez, se souviendront de moi.",
+      "text": "Ils retourneront à moi du milieu de leur exil ; ils se repentiront, et se convertirent à moi. Les maux qu’ils souffriront, les feront rentrer en eux-mêmes."
+    },
+    {
+      "verse": 9,
+      "sub": false,
+      "latin_lemma": "quia contrivi cor eorum fornicans.",
+      "lemma": "Je briserai leur",
+      "text": "cœur, qui était tombé dans la fornication, dans l’infidélité, dans l’idolâtrie. Les Septante : [5] _J’ai juré à leur cœur fornicateur et rebelle ; à leurs yeux impudiques, etc. J’ai fait serment de les punir dans ma colère._ On peut aussi donner ce sens à l’Hébreu : [6] _j’ai été brisé par leur cœur infidèle._ Ils ont poussé ma patience à bout. Ou bien : _j’ai été touché de douleur, de compassion, à la vue de leur faiblesse, de leur misere._"
+    },
+    {
+      "verse": 11,
+      "sub": false,
+      "latin_lemma": "percute manum tuam, et allide pedem tuum.",
+      "lemma": "Frappez de la main, et battez du pied.",
+      "text": "Marquez votre indignation, votre étonnement, par votre mouvement, par vos gestes. Frapper des mains, et battre du pied, peuvent désigner divers sentiments, de joie, de douleur, détonnement. Ici la suite du discours les détermine à la tristesse, à la compassion."
+    },
+    {
+      "verse": 11,
+      "sub": false,
+      "latin_lemma": "dic : heu, ad omnes abominationes malorum.",
+      "lemma": "Dites : Malheur sur tous les crimes.",
+      "text": "Annoncez-leur tous les châtiments, dont leurs crimes doivent être suivis. L’Hébreu : [7] _Dites : Helas sur toutes leurs abominations._ Ou dites : _Ah, etc._"
+    },
+    {
+      "verse": 14,
+      "sub": false,
+      "latin_lemma": "a deserto Deblatha.",
+      "lemma": "Depuis le désert de Déblatha.",
+      "text": "Déblatha, ou Déblathaïm, est située dans le pays de Moab. Il en est parlé dans les Nombres, dans le Deutéronome, et dans Jérémie.[8] Je voudrais traduire ainsi l’Hébreu :[9] _Je réduirai votre pays dans un désert plus affreux que n’est celui de Déblatha._ En effet, je ne vois pas pourquoi on met ici Déblatha, comme un terme de la désolation du pays de Juda, puisque cette ville en est si éloignée, et qu’on ne marque aucun autre lieu opposé qui lui réponde."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0088>page_0089",
+      "verse": 4,
+      "mode": "flow",
+      "before": "",
+      "after": "TRA. Je vous ferai tomber morts devant vos idoles. A la le"
+    },
+    {
+      "seam": "page_0089>page_0090",
+      "verse": 9,
+      "mode": "flow",
+      "before": "Je briserai leur",
+      "after": "cœur, qui était tombé dans la fornication, dans l’infidéli"
+    }
+  ],
+  "pages_used": [
+    "page_0088",
+    "page_0089",
+    "page_0090",
+    "page_0091"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0088-a",
+      "n": 1,
+      "text": "Voyez Junius sur cet endroit."
+    },
+    {
+      "key": "page_0088-b",
+      "n": 2,
+      "text": "70. Aq. et Th. Τὰ εἴδωλα. delubra. [UNCERTAIN HEBREW]"
+    },
+    {
+      "key": "page_0089-a",
+      "n": 3,
+      "text": "חלליכם לפני גלוליכם"
+    },
+    {
+      "key": "page_0089-b",
+      "n": 4,
+      "text": "Baruch 2,24. Statuisti verba tua quæ locutus es in manibus puerorum tuorum Prophetarum, ut transferrentur ossa Regum nostrorum, et ossa patrum nostrorum de loco suo, etc. Et Jérémie 8,1."
+    },
+    {
+      "key": "page_0090-a",
+      "n": 5,
+      "text": "Ὀμώμοκα τῆ καρδία αὐτῶν τῆ ἐκπορνευούσῃ."
+    },
+    {
+      "key": "page_0090-b",
+      "n": 6,
+      "text": "נשברתי את לבם הזונה"
+    },
+    {
+      "key": "page_0090-c",
+      "n": 7,
+      "text": "ואמר אח על תועבות 70. et Theodot. Euge, etc. Aquil. et Σ. Symm, Σκίρτησον, Lamentare, plange."
+    },
+    {
+      "key": "page_0091-a",
+      "n": 8,
+      "text": "Nombres 33,46 ;\nDeutéronome 8,15 ;\nJérémie 48,22."
+    },
+    {
+      "key": "page_0091-b",
+      "n": 9,
+      "text": "משמה ממדבר דבלתה"
+    }
+  ],
+  "missing_footnotes": []
+}

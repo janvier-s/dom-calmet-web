@@ -1,0 +1,107 @@
+{
+  "book": "Psaumes",
+  "chapter": 6,
+  "chapter_summary": "David affligé d’une fâcheuse maladie, demande à Dieu qu’il le traite dans sa miséricorde, et non dans sa rigueur. Il espère sa guérison de Dieu seul, et méprise les insultes de ses ennemis.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, in carminibus. Psalmus David. Pro octava.",
+      "french": "Psaume de David pour la fin, dans les Cantiques de la huitième bande.",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Domine ne in furore tuo arguas me, neque in ira tua corripias me.",
+      "french": "Seigneur, ne me reprenez pas dans votre fureur, et ne me punissez pas dans votre colère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Miserere mei, Domine, quoniam infirmus sum : sana me, Domine, quoniam conturbata sunt ossa mea.",
+      "french": "Ayez pitié de moi, Seigneur ; parce que je suis faible : Seigneur, guérissez-moi, parce que mes os sont tout étonnés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et anima mea turbata est valde : sed tu, Domine, usquequo ?",
+      "french": "Et mon âme est toute troublée : mais vous, Seigneur, jusqu’à quand me laisserez-vous en cet état ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Convertere, Domine, et eripe animam meam : salvum me fac propter misericordiam tuam.",
+      "french": "Tournez-vous vers moi, Seigneur, et délivrez mon âme : Sauvez-moi en considération de votre miséricorde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quoniam non est in morte qui memor sit tui : in inferno autem quis confitebitur tibi ?",
+      "french": "Car dans la mort il n’y a personne qui se souvienne de vous. Et qui est celui qui vous louera dans l’enfer ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Laboravi in gemitu meo ; lavabo per singulas noctes lectum meum ; lacrymis meis stratum meum rigabo.",
+      "french": "Je me suis épuisé à force de soupirer ; je laverai toutes les nuits mon lit de mes pleurs ; j’arroserai de mes larmes le lieu où je suis couché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Turbatus est à furore oculus meus : inveteravi inter omnes inimicos meos.",
+      "french": "La fureur a rempli mon œil de trouble : je suis devenu vieux au milieu de tous mes ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Discedite à me, omnes qui operamini iniquitatem : quoniam exaudivit Dominus vocem fletûs mei.",
+      "french": "Eloignez-vous de moi ; vous tous qui commettez l’iniquité ; parce que le Seigneur a exaucé la voix de mes larmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Exaudivit Dominus deprecationem meam, Dominus orationem meam suscepit.",
+      "french": "Le Seigneur a exaucé l’humble supplication que je lui ai faite : Le Seigneur a agréé ma prière.",
+      "annotations": null,
+      "source_pages": [
+        "page_0133.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Erubescant, et conturbentur vehementer omnes inimici mei : convertantur, et erubescant valdè velociter.",
+      "french": "Que tous mes ennemis rougissent ; et saient remplis de trouble ; qu’ils se retirent très promptement, et qu’ils saient couverts de confusion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0133.json"
+      ]
+    }
+  ]
+}

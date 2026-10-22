@@ -1,0 +1,127 @@
+{
+  "book": "Psaumes",
+  "chapter": 35,
+  "chapter_summary": "Impiété des méchants, et des incrédules. Grandeur de la miséricorde, de la vérité, de la justice de Dieu. Prière pour obtenir la miséricorde du Seigneur, et pour éviter les pièges des méchants.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, servo Domini ipsi David.",
+      "french": "Pour la fin, à David le serviteur du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0465.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Dixit injustus, ut delinquat in semetipso. non est timor Dei ante oculos ejus.",
+      "french": "L’injuste a dit en lui-même, qu’il voulait pécher. La crainte de Dieu n’est point devant ses yeux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0466.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quoniam dolosè egit in conspectu ejus : ut inveniatur iniquitas ejus ad odium.",
+      "french": "Car il a agi avec tromperie en sa presence ; ensorte que son iniquité l’a rendu digne de toute haine.",
+      "source_pages": [
+        "page_0467.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Verba oris ejus iniquitas, et dolus : noluit intelligere ut benè ageret.",
+      "french": "Les paroles de sa bouche ne sont qu’iniquité, et que tromperie : il n’a point voulu s’instruire pour faire le bien.",
+      "source_pages": [
+        "page_0468.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Iniquitatem meditatus est in cubili suo : astitit omni viæ non bonæ, malitiam autem non odivit.",
+      "french": "Il a médité l’iniquité dans le secret de son lit : il s’est arrêté dans toutes les voies qui n’étaient pas bonnes, et il n’a point eu de haine pour la malice.",
+      "source_pages": [
+        "page_0468.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Domine, in cœlo misericordia tua : et veritas tua usque ad nubes.",
+      "french": "Seigneur, votre miséricorde est dans le Ciel ; et votre vérité s’élève jusqu’aux nues.",
+      "source_pages": [
+        "page_0468.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Justitia tua sicut montes Dei ; judicia tua abyssus multa. Homines et jumenta salvabis, Domine,",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0468.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Homines, et jumenta salvabis, Domine, quemadmodum multiplicasti misericordiam tuam, Deus.",
+      "french": "Vous sauverez, Seigneur, et les hommes, et les bêtes, selon l’abondance de votre infinie miséricorde, ô mon Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0470.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Filii autem hominum, in tegmine alarum tuarum sperabunt.",
+      "french": "Mais les enfants des hommes espéreront particulièrement, étant à couvert sous vos ailes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0471.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Inebriabuntur ab ubertate domûs tuæ : et torrente voluptatis tuæ potabis eos.",
+      "french": "Ils seront enivrez de l’abondance qui est dans votre maison ; et vous les ferez boire dans le torrent de vos délices.",
+      "annotations": null,
+      "source_pages": [
+        "page_0471.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quoniam apud te est fons vitæ : et in lumine tuo videbimus lumen.",
+      "french": "Parce que la source de la vie est dans vous : et nous verrons la lumière dans votre lumière même.",
+      "annotations": null,
+      "source_pages": [
+        "page_0471.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Prætende misericordiam tuam scientibus te, et justitiam tuam his, qui recto sunt corde.",
+      "french": "Étendez votre miséricorde sur ceux qui vous connaissent, et votre justice sur ceux qui ont le cœur droit.",
+      "source_pages": [
+        "page_0472.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Non veniat mihi pes superbiæ : et manus peccatoris non moveat me.",
+      "french": "Que le pied du superbe ne vienne point jusqu’à moi ; et que la main du pécheur ne m’ébranle point.",
+      "source_pages": [
+        "page_0473.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Ibi ceciderunt qui operantur iniquitatem : expulsi sunt, nec potuerunt stare.",
+      "french": "C’est là que ceux qui commettent l’iniquité sont tombés. On les a chassés, et ils n’ont pu se tenir debout.",
+      "source_pages": [
+        "page_0473.json"
+      ]
+    }
+  ]
+}

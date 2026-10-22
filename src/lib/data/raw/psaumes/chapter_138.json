@@ -1,0 +1,218 @@
+{
+  "book": "Psaumes",
+  "chapter": 138,
+  "chapter_summary": "Dieu connaît tout, et pénetre dans les choses les plus obscures, et les plus profondes. Malheur aux impies qui croient se pouvoir soustraire à sa lumière infinie.\n\nIn finem, Psalmus David. Pour la fin, Pseaume de David.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, psalmus David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription): check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0334.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Domine, probasti me, et cognovisti me : tu cognovisti sessionem meam, et resurrectionem meam.",
+      "french": "Seigneur, vous m’avez éprouvé, et connu parfaitement. Vous m’avez",
+      "annotations": null,
+      "source_pages": [
+        "page_0334.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Intellexisti cogitationes meas de longè : semitam meam, et funiculum meum investigasti.",
+      "french": "Vous avez découvert de loin mes pensées : vous avez remarqué le sentier par lequel je marche, et toute la suite de ma vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0334.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et omnes vias meas prævidisti : quia non est sermo in lingua mea.",
+      "french": "Et vous avez prevû toutes mes voies : et avant même que ma langue ait proféré aucune parole, vous la savez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0335.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Ecce, Domine, tu cognovisti omnia, novissima et antiqua : tu formasti me, et posuisti super me manum tuam.",
+      "french": "Vous avez, Seigneur, une égale connaissance de toutes les choses, et futures, et anciennes. C’est vous qui m’avez formé, et qui avez mis votre main sur moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0336.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Mirabilis facta est scientia tua ex me : confortata est, et non potero ad eam.",
+      "french": "Votre science est élevée d’une manière merveilleuse au-dessus de moi ; elle me surpasse infiniment ; et je ne pourrai jamais y atteindre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0337.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Quò ibo à spiritu tuo ? et quò à facie tua fugiam ?",
+      "french": "Où irai-je pour me dérober à votre Esprit ? et où m’enfuirai-je de devant votre face ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0337.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Si ascendero in Cœlum, tu illic es : si descendero in infernum, ades.",
+      "french": "Si je monte dans le Ciel, vous y êtes : si je descens dans l’enfer, vous y êtes encore.",
+      "source_pages": [
+        "page_0338.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Si sumpsero pennas meas diluculo, et habitavero in extremis maris :",
+      "french": "Si je prends des aîles dés le matin, et si je vais demeurer dans les extrémités de la mer ;",
+      "source_pages": [
+        "page_0338.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Etenim illuc manus tua deducet me : et tenebit me dextera tua.",
+      "french": "Votre main même m’y conduira ; et ce sera votre droite qui me soûtiendra.",
+      "source_pages": [
+        "page_0338.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et dixi : Forsitan tenebræ conculcabunt me : et nox illuminatio mea in deliciis meis.",
+      "french": "Et j’ai dit : Peut-être que les ténèbres me cacheront : mais la nuit même devient toute lumineuse, pour me découvrir dans mes plaisirs ;",
+      "source_pages": [
+        "page_0338.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Quia tenebræ non obscurabuntur à te ; et nox sicut dies illuminabitur : sicut tenebræ ejus, ita et lumen ejus.",
+      "french": "Parce que les ténèbres n’ont aucune obscurité pour vous ; que la nuit est aussi claire que le jour ; et que ses ténèbres sont à votre égard comme la lumière du jour même :",
+      "source_pages": [
+        "page_0339.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Quia tu possedisti renes meos : suscepisti me de utero matris meæ.",
+      "french": "Parce que mes reins vous appartiennent : vous m’avez reçu dés le ventre de ma mère.",
+      "source_pages": [
+        "page_0339.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Confitebor tibi, quia terribiliter magnificatus es : mirabilia opera tua, et anima mea cognoscit nimis.",
+      "french": "Je vous louerai, parce que votre grandeur a éclaté d’une manière étonnante : vos ouvrages sont admirables ; et mon âme en est toute pénétrée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0340.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Non est occultatum os meum à te, quod fecisti in occulto : et substantia mea in inferioribus terræ.",
+      "french": "Mes os ne vous sont point cachez, à vous qui les avez produits dans le secret ; ni toute ma substance que vous avez formée comme au fond de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0340.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Imperfectum meum viderunt oculi tui, et in libro tuo omnes scribentur : dies formabuntur, et nemo in eis.",
+      "french": "Vos yeux m’ont vu lorsque j’étais encore informe : et tous les hommes sont écrits dans votre livre. Leurs jours sont marquez, et nul d’entr’eux n’y manque.",
+      "annotations": null,
+      "source_pages": [
+        "page_0341.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "M’hi autem nimis honorificati sunt amici tui, Deus : nimis confortatus est principatus eorum.",
+      "french": "Mais je voi, mon Dieu, que vous avez honoré d’une façon toute singulière vos amis : et leur empire s’est affermi, et augmenté extraordinairement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0343.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Dinumeroabo eos, et super arenam multiplicabuntur : exurrexi, et adhuc sum tecum.",
+      "french": "Si j’entreprens de les compter, je trouverai que leur nombre surpasse celui des grains de sable de la mer. Et quand je me lève, je me trouve encore au même état devant vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0344.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Si occideris, Deus, peccatores : viri sanguinum, declinate à me.",
+      "french": "O Dieu, si vous tuez les pécheurs ; hommes de sang, retirez-vous de moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0344.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Quia dicitis in cogitatione : Accipient in vanitate civitates tuas.",
+      "french": "Parce que vous dites dans votre pensée : C’est en vain qu’ils deviendront maîtres de vos villes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0344.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Nonne qui oderunt te, Domine, oderam : et super inimicos tuos tabescebam ?",
+      "french": "Seigneur, n’ai-je pas haï ceux qui vous haïssaient ; et ne séchais-je pas d’ennui, à cause de vos ennemis ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0345.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Perfecto odio oderam illos : et inimici facti sunt mihi.",
+      "french": "Je les haïssais d’une haine parfaite ; et ils sont devenus mes ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0346.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Proba me, Deus, et scito cor meum : interroga me, et cognosce semitas meas.",
+      "french": "O Dieu, éprouvez-moi, et sondez mon cœur. Interrogez-moi, et connaissez les sentiers par lesquels je marche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0346.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et vide, si via iniquitatis in me est : et deduc me in via æterna.",
+      "french": "Voyez si la voie de l’iniquité se trouve en moi ; et conduisez-moi dans la voie qui est éternelle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0346.json"
+      ]
+    }
+  ]
+}

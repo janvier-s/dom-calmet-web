@@ -1,0 +1,52 @@
+{
+  "book": "Jérémie",
+  "chapter": 47,
+  "chapter_summary": "Prédiction du malheur des Philistins.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 2,
+      "latin": "Hæc dicit Dominus : Ecce aquæ ascendunt ab aquilone, et erunt quasi torrens inundans, et operient terram, et plenitudinem ejus, urbem, et habitatores ejus : clamabunt homines, et ululabunt omnes habitatores terræ.",
+      "french": "Voici ce que dit le Seigneur : De grandes eaux s’élèvent de l’aquilon : elles seront comme un torrent qui inondera les campagnes, qui couvrira la terre, et tout ce qu’elle contient, les villes, et tous ceux qui les habitent. Les hommes crieront, et tous ceux qui sont sur la terre, pousseront des hurlements.",
+      "annotations": null,
+      "source_pages": [
+        "page_0579.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "A strepitu pompæ armorum, et bellatorum ejus, à commotione quadrigarum ejus, et multitudine rotarum illius. Non respexerunt patres filios manibus dissolutis.",
+      "french": "À cause du bruit des armes, et de la marche de ses gens de guerre, de l’agitation de ses chariots, et de la multitude de leurs rouës. Les pères n’ont pas seulement regardé leurs enfants, tant leurs bras étaient abattus ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0579.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Venit calvitium super Gazam, conticuit Ascalon, et reliquiæ vallis eorum. Usquequò concideris ?",
+      "french": "Gaza s’arrache les cheveux, Ascalon est dans le silence, avec ce qui lui reste de sa vallée. Jusqu’à quand vous ferez-vous des incisions dans votre douleur ?",
+      "source_pages": [
+        "page_0581.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "O mucro Domini, usquequò non quiesces ? Ingredere in vaginam tuam, refrigera, et sile.",
+      "french": "O épée du Seigneur, ne te reposeras-tu jamais ? Rentre en ton fourreau, refroidis-toi, et ne frappe plus.",
+      "source_pages": [
+        "page_0583.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quomodo quiescet, cùm Dominus præceperit ei adversùs Ascalonem, et adversùs maritimas ejus regiones, ibique condixerit illi ? AD Moab : hæc dicit Dominus exercituum, Deus Israël : Væ super Nabo, quoniam vastata est, et confusa : capta est Cariathaim : confusa est fortis, et tremuit.",
+      "french": "Comment se reposerait-elle, puisque le Seigneur lui a commandé d’attaquer Ascalon, et tout le pays de la côte de la mer, et qu’il lui a prescrit ce qu’elle doit y faire ? Voici ce que le Seigneur des armées, le Dieu d’Israël dit contre Moab : Malheur à Nabo, parce qu’elle a été détruite, et qu’elle est tombée dans la confusion. Cariathaim a été prise, la ville forte a été couverte de confusion, et pénétrée de frayeur.",
+      "source_pages": [
+        "page_0583.json",
+        "page_0584.json"
+      ],
+      "annotations": null
+    }
+  ]
+}

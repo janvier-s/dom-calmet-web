@@ -1,0 +1,422 @@
+{
+  "book": "2 Maccabées",
+  "chapter": 14,
+  "chapter_summary": "Démétrius Roi de Syrie, envoye contre les Juifs une grande armée, à la sollicitation d’Alcime. Nicanor fait la paix avec Judas. Alcime la trouble, et Démétrius ordonne à Nicanor de se saisir de Judas, et de le lui envoyer. Judas se retire. Mort généreuse du vieillard Razià.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Sed post triennii tempus, cognovit Judas, et qui cum eo erant, Demetrium Seleuci, cum multitudine valida, et navibus per portum Tripolis ascendisse ad loca opportuna,",
+      "french": "Mais trois ans après, Judas, et ceux qui étaient avec lui, apprirent que Démétrius fils de Séleucus, était venu avec une puissante armée, et quantité de vaisseaux ; qu’ayant pris terre au port de Tripoli, il s’était saisi des postes les plus avantageux,",
+      "annotations": "An du M. 3842.",
+      "source_pages": [
+        "page_0156.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et tenuisse regiones adversùs Antiochum, et ducem ejus Lysiam.",
+      "french": "Et s’était rendu maître d’un grand pays, malgré Antiochus, et Lysias Général de son armée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0156.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Alcimus autem quidam, qui summus Sacerdos fuerat, sed voluntariè coinquinatus est temporibus commistionis, considerans nullo modo sibi esse salutem, neque accessum ad altare,",
+      "french": "Or un certain homme nommé Alcime, qui avait été grand Prêtre, et qui s’était volontairement souillé dans le temps du mélange des Juifs avec les païens, considerant qu’il n’y avait plus aucune ressource pour lui, et que l’entrée de l’autel lui était fermée pour jamais ;",
+      "annotations": "An du M. 3842.",
+      "source_pages": [
+        "page_0157.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Venit ad Regem Demetrium, centesimo quinquagesimo anno, offerens ei coronam auream, et palmam, super hæc et thallos, qui templi esse videbantur. Et ipsa quidem die siluit.",
+      "french": "Vint trouver le Roi Démétrius en la cent cinquantième année : il lui présenta une couronne, et une palme d’or, avec des rameaux qui semblaient être du Temple ; et il ne lui dit rien pour ce jour-là.",
+      "annotations": "An du M. 3843.",
+      "source_pages": [
+        "page_0157.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Tempus autem opportunum dementiæ suæ nactus, convocatus à Demetrio ad consilium, et interrogatus quibus rebus, et consiliis Judæi niterentur.",
+      "french": "Mais ayant trouvé une occasion favorable pour exécuter son dessein plein de folie, lorsque Démétrius le fit venir au conseil, et lui demanda sur quels fondements, et sur quels conseils les Juiss s’appuyaient principalement ;",
+      "annotations": "An da M. 3843.",
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Respondit : Ipsi qui dicuntur Assidæi Judæorum, quibus præest Judas Machabæus, bella nutriunt, et seditiones movent, nec patiuntur Regnum esse quitum.",
+      "french": "Il répondit : Ceux d’entre les Juiss qu’on nomme Assidéens, dont Judas Maccabée est le Chef, entretiennent la guerre, excitent des séditions, et ne peuvent souffrir que le Royaume demeure en paix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Nam et ego defraudatus parentum gloriâ (dico autem summo Sacerdotio,) huc veni :",
+      "french": "Car j’ai moi-même été dépouillé de la dignité qui est héréditaire à ma famille, c’est-à-dire, du souverain Sacerdoce, et c’est ce qui m’a obligé de venir ici ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Primò quidem utilitatibus Regis sidem servans, secundò autem etiam civibus consulens : nam illorum pravitate universum genus nostrum non minimè vexatur.",
+      "french": "Premierement pour garder la fidélité que je dois au Roi en ce qui regarde ses interêts ; et puis pour procurer aussi l’avantage de mes concitoyens. Car toute notre nation est affligée de grands maux par la méchanceté de ces personnes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Sed oro his fingulis, ô Rex, cognitis, et regioni, et generi, secundùm humanitatem tuam pervulgatam omnibus, prospice.",
+      "french": "Ainfi je vous prie, ô Roi, que connoiffant tous ces désordres, vous vouliez bien prendre foin des interêts de notre pays, et de notre nation, felon votre bonté, qui est si connue de tout le monde.",
+      "annotations": "An du M. 3843.",
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Nam, quamdiu superest Judas, impossibile est pacem esse negotiis.",
+      "french": "Car tant que Judas vivra, il est impossible qu’il y ait aucune paix dans l’Etat.",
+      "annotations": null,
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Talibus autem ab hoc dictis, et cæteri amici, hostiliter se habentes adversùs Judam, inflammaverunt Demetrium.",
+      "french": "Après qu’il eut parlé de la forte, tous ses amis animérent encore Démétrius contre Judas, dont ils étaient les ennemis déclarez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Qui statim Nicanorem præpositum elephantorum, ducem misit in Judæam :",
+      "french": "C’est pourquoi il ordonna auffi-tôt à Nicanor, qui commandait les éléphants, d’aller en Judée en qualité de Général ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Datis mandatis, ut ipsum quidem Judam caperet, eos verò, qui cum illo erant, dispergeret, et constitueret Alcimum maximi Templi summum Sacerdotem.",
+      "french": "De prendre Judas en vie ; de diffiper tous ceux qui feraient avec lui ; et d’établir Alcime fouverain Prêtre du grand Temple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Tunc gentes, quæ de Judæa fugerant Judam, gregatim se Nicanori miscebant : miserias, et clades Judæorum, prosperitates rerum suarum existimantes.",
+      "french": "Alors les païens, que Judas avait fait fuir de Judée, vinrent en foule se joindre à Nicanor, regardant les miseres, et les pertes des Juifs, comme leur prospérité propre, et le rétablissement de leurs affaires.",
+      "annotations": "An du M. 3843.",
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Audito itaque Judæi Nicanoris adventu, et conventu nationum, conspersi terrâ rogabant eum, qui populum suum constituit, ut in æternum custodiret, quique suam portionem signis evidentibus protegit.",
+      "french": "Les Juifs ayant appris l’arrivée de Nicanor, et que cette multitude de nations s’était unie contr’eux, se couvrirent la tête de poussière, et offrirent leurs prières à celui, qui s’était choisi un peuple pour le conserver éternellement, et qui s’était déclaré par tant de marques éclatantes, le Protecteur de ce peuple, qu’il avait pris pour son partage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Imperante autem duce statim indè moverunt, convenerúntque ad castellum Dessau.",
+      "french": "Aussi-tôt après ils partirent du lieu où ils étaient par l’ordre de leur Général, et vinrent se rendre près le château de Dessau.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Simon verò frater Judæ commiserat cum Nicanore : sed conterritus est repentino adventu adversariorum.",
+      "french": "Simon, frère de Judas, ayant commencé à combattre contre Nicanor, fut effrayé par l’arrivée imprévûë des ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Nicanor tamen, audiens virtutem comitum Judæ, et animi magnitudinem quam pro patria certaminibus habebant, sanguine judicium facere metuebat.",
+      "french": "Nicanor néanmoins connaissant quelle était la valeur des gens de Judas, et la grandeur de courage, avec laquelle ils combattaient pour leur patrie, craignait de s’exposer au hasard d’un combat.",
+      "annotations": null,
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Quamobrem præmisit Posidonium, et Theodotium, et Matthiam, ut darent dextras atque acciperent.",
+      "french": "C’est pourquoi il envoya devant, Posidonius, Théodotius, et Matthias, pour presenter, et pour recevoir des propositions de paix.",
+      "annotations": "An du M. 3843.",
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et cùm diu de his consilium ageretur, et ipse dux ad multitudinem retulisset, omnium una fuit sententia amicitüs annuere.",
+      "french": "Cette déliberation ayant duré longtems, et le Général ayant exposé luimême la chose à tout le peuple, tous furent d’avis d’accepter l’accord.",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Itáque et em constituerunt, qua secretò inter se agerent : et singulis sellæ prolatæ sunt, et positæ.",
+      "french": "C’est pourquoi les deux Généraux prirent un jour pour en conferer entr’eux en secret, et on leur porta à chacun une chaise, où ils s’assirent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Præcepit autem Judas armatos esse locis opportunis, ne fortè ab hostibus repentè mali aliquid oriretur : et congruum colloquium fecerunt.",
+      "french": "Cependant Judas fit tenir des gens armez dans des lieux avantageux, de peur que les ennemis n’entreprissent tout d’un coup quelque chose contre ses gens ; et la conférence qu’ils eurent entr’eux se passa comme elle devait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Morabatur autem Nicanor Jerosolymis, nihilque iniquè agebat, gregésque turbarum, quæ congregatæ fuerant, dimisit.",
+      "french": "Nicanor demeura ensuite à Jérusalem, où il ne fit rien contre l’équité ; et ils congedia ces grandes troupes qu’il avait levées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Habebat autem Judam semper charum ex animo, et erat viro inclinatus.",
+      "french": "Il aimait toujours Judas d’un amour sincère, et il sentait une inclination particulière pour sa personne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Rogavitque eum ducere uxorem, filiosque procreare. Nuptias fecit, quietè egit, communiterque vivebant.",
+      "french": "Il le pria même de se marier, et de songer à avoir des enfants. Ainsi Judas se maria, il jouit d’un grand repos, et ils vivaient l’un et l’autre familiérement ensemble.",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Alcimus autem videns charitatem illorum ad invicem, et conventiones, venit ad Demetrium, et dicebat, Nicanorem rebus alienis assentire, Judæámque Regni insidiatorem successorem sibi destinasse.",
+      "french": "Mais Alcime voyant l’amitié, et la bonne intelligence qui était entr’eux, vint trouver Démétrius, et lui dit que Nicanor favorisait les interêts de ses ennemis, et qu’il lui avait destiné pour successeur Judas, qui trahissait le Roi, et son Royaume.",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Itáque Rex exasperatus, et pessimis hujus criminationibus irritatus, scripsit Nicanori, dicens, graviter quidem se ferre de amicitiæ conventione ; jubere tamen Maccabæum citiùs vinctum mittere Antiochiam.",
+      "french": "Alors le Roi étant aigri, et tout-à-fait irrité par les calomnies détestables de ce méchant homme, écrivit à Nicanor, qu’il trouvait fort mauvais qu’il eût fait ainsi amitié avec Maccabée ; et c’est pourquoi il lui commandait de l’envoyer au plutôt lié, et garotté à Antioche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Quibus cognitis, Nicanor consternabatur, et graviter ferebat, si ea quæ convenerant, irrita faceret, nihil læsus à viro.",
+      "french": "Nicanor ayant reçu cette nouvelle, en fut consterné : et il souffrait une grande peine de violer l’accord qu’il avait fait avec Maccabée, qui ne l’avait en aucune sorte offensé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Sed quia Regi resistere non poterat, opportunitatem observabat, qua præceptum perficeret.",
+      "french": "Mais parce qu’il ne pouvait résister au Roi, il cherchait une occasion favorable pour exécuter l’ordre qu’il avait reçu.",
+      "annotations": "An du M. 3843.",
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "At Machabæus, videns secum austeriùs agere Nicanorem, et consuetum occursum ferociùs exhibentem, intelligens non ex bono esse austeritatem istam, paucis suorum congregatis, occultavit se à Nicanore.",
+      "french": "Cependant Maccabée s’étant aperçu que Nicanor le traitait plus durement qu’à l’ordinaire ; et que lorsqu’ils s’abordaient, il lui paraissait plus fier qu’il n’avait accoutumé, il jugea bien que cette fierté ne pouvait avoir une bonne cause. C’est pourquoi ayant assemblé près de lui quelques-uns de ses gens, il se déroba de Nicanor.",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Quod cùm ille cognovisset fortiter se à viro præventum, venit ad maximum, et sanctissimum Templum : et Sacerdotibus solitas hostias offerentibus, jussit sibi tradi virum.",
+      "french": "Lorsque Nicanor eut sçû que Judas avait eu l’habileté, et la force de le prévenir, il vint au très auguste, et très saint Temple, et les Prêtres offrant les victimes ordinaires, il leur commanda de lui mettre Maccabée entre les mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Quibus cum juramento dicentibus nescire se ubi esset qui quærebatur, extendens manum ad Templum,",
+      "french": "Mais ces Prêtres l’ayant assuré avec serment, qu’ils ne sçavaient où était celui qu’il cherchait, il étendit la main vers le Temple,",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Juravit, dicens : Nisi Judam mihi vinctum tradideritis, istud Dei fanum in planitiem deducam, et altare effodiam, et Templum hoc Libero patri consecrabo.",
+      "french": "Et jura, en disant : Si vous ne me remettez Judas lié entre les mains, je raserai jusqu’en terre ce Temple de Dieu, je renverserai cet autel, et je consacrerai ce Temple au Dieu Bacchus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et his dictis, abiit. Sacerdotes autem protendentes manus in cælum, invocabant eum, qui semper propugnator esset gentis ipsorum, hæc dicentes :",
+      "french": "Après avoir parlé de la sorte, il s’en alla. Or les Prêtres étendant leurs mains vers le Ciel, invoquaient celui qui s’était toujours déclaré le Protecteur de leur nation, en disant :",
+      "annotations": "An du M. 3843.",
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Tu, Domine universorum, qui nullius indiges, voluisti Templum habitationis tuæ fieri in nobis.",
+      "french": "Seigneur de tout l’univers, qui n’avez besoin d’aucune chose, vous avez voulu qu’on bâtît un Temple, où vous demeurassiez au milieu de nous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et nunc, Sancte sanctorum omnium Domine, conserva in æternum impollutam domum istam, quæ nuper mundata est.",
+      "french": "Maintenant donc, ô Saint des Saints, ô Seigneur de toutes choses, exemptez pour jamais de profanation, cette maison qui vient d’être purifiée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Razias autem quidam de senioribus ab Jerosolymis delatus est Nicanori, vir amator civitatis, et benè audiens, qui pro affectu pater Judæorum appellabatur.",
+      "french": "On accusa alors auprès de Nicanor un des anciens de Jérusalem, nommé Razias, homme zélé pour la ville, qui était en grande réputation, et qu’on appelait le père des Juifs, à cause de l’affection qu’il leur portait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Hic multis temporibus continentiæ propositum tenuit in Judaismo, corpúsque, et animam tradere contentus pro perseverantia.",
+      "french": "Il menait depuis long-temps dans le Judaïsme une vie très pure, et éloignée de toutes les souillures du paganisme ; et il était prêt d’abandonner son corps, et sa vie, pour y perseverer jusqu’à la fin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Volens autem Nicanor manifestare odium, quod habebat in Judæos, misit milites quingentos, ut eum comprehenderent.",
+      "french": "Nicanor voulant donc donner une marque publique de la haine qu’il avait contre les Juifs, envoya cinq cens soldats pour le prendre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Putabat enim, si illum decipisset, se cladem Judæis maximam illaturum.",
+      "french": "Car il croyait que s’il séduisait cet homme, il ferait aux Juifs un grand mal.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Turbis autem irruere in domum ejus, et januam difrumpere, atque ignem admovere cupientibus, cùm jam comprehenderetur, gladio se petiit ;",
+      "french": "Lors donc que ces troupes s’efforçaient d’entrer dans sa maison, d’en rompre la porte, et d’y mettre le feu, comme il se vit sur le point d’être pris, il se donna un coup d’épée,",
+      "annotations": "An du M. 3844.",
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Eligens nobiliter mori po iùs, quàm subditus fieri peccatoribus, et contra natales suos indignis injuriis agi.",
+      "french": "Aimant mieux mourir courageusement, que de se voir assujetti aux pécheurs, et de souffrir des outrages indignes de sa naissance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Sed, cùm per festinationem non certo istu plagam dedisset, et turbæ intra ostia irrumperent, recurrens audacter ad murum, præcipitavit semetipsum viriliter in turbas.",
+      "french": "Mais parce que dans la précipitation où il était, il ne s’était pas donné un coup mortel, lorsqu’il vit tous ces soldats entrer en foule dans sa maison, il courut avec une fermeté extraordinaire à la muraille, et il se précipita lui-même courageusement du haut en bas sur le peuple.",
+      "annotations": "An du M. 3843.",
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Quibus velociter locum dantibus, et casui ejus, venit per mediam cervicem.",
+      "french": "Et tous s’étant retirez promptement pour n’être pas accablez de sa chute, il tomba la tête la premiere.",
+      "annotations": "An du M. 3843.",
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Et cùm adhuc spiraret, accensus animo surrexit : et cùm sanguis ejus magno fluxu deflueret, et gravissimis vulneribus esset saucius, cursu turbam pertransiit.",
+      "french": "Lorsqu’il respirait encore, il fit un nouvel effort, et se releva, et des ruiffeaux de sang lui coulant de tous côtés, à cause des grandes plaies qu’il s’était faites, il passa en courant au travers du peuple :",
+      "annotations": "An du M. 3843.",
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Et stans supra quandam petram præruptam, et jam exsanguis effectus, complexus intestina sua utrisque manibus, projecit super turbas, invocans Dominatorem vitæ ac spiritûs, ut hæc illi iterùm redderet : atque vitâ defunctus est.",
+      "french": "Et étant monté sur une pierre escarpée, lorsqu’il avait presque perdu tout son sang, il tira ses entrailles hors de son corps, et les jetta avec ses deux mains sur le peuple ; invoquant le Dominateur de la vie, et de l’âme, afin qu’il les lui rendît un jour : et il mourut de cette forte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    }
+  ]
+}

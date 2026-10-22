@@ -1,0 +1,398 @@
+{
+  "book": "Psaumes",
+  "chapter": 105,
+  "chapter_summary": "Prière des Captifs de Babylone, qui confessent les bienfaits de Dieu, et reconnaissent leurs péchés, et ceux de leurs pères. Ils prient le Seigneur de les rassembler dans leur pays, et de les tirer de leur exil.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 2,
+      "latin": "Quis loquetur potentias Domini, auditas faciet omnes laudes ejus ?",
+      "french": "Qui racontera les œuvres de la puissance du Seigneur, et qui fera entendre toutes ses louanges ?",
+      "source_pages": [
+        "page_0057.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Beati qui custodiunt judicium, et faciunt justitiam in omni tempore.",
+      "french": "Heureux ceux qui gardent l’équité, et pratiquent la justice en tout temps.",
+      "source_pages": [
+        "page_0057.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Memento nostri, Domine, in beneplacito populi tui : visita nos in salutari tuo :",
+      "french": "Souvenez-vous de nous, Seigneur, selon la bonté qu’il vous a plû de témoigner à votre peuple : visitez-nous par votre assistance salutaire.",
+      "source_pages": [
+        "page_0057.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "℣. Ad videndum in bonitate electorum tuorum ; ad lætandum in lætitia gentis tuæ : ut lauderis cum hæreditate tua.",
+      "french": "Afin que nous soyons comblez de biens avec vos élûs ; afin que nous prenions part à la joie de votre peuple ; et que vous soyez loué dans votre héritage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0058.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "℣. Peccavimus cum patribus nostris : injustè egimus, iniquitatem fecimus.",
+      "french": "Nous avons péché avec nos pères ; nous avons agi injustement ; nous nous sommes abandonnez à l’iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0058.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Patres nostri in Ægypto non intellexerunt mirabilia tua : non fuerunt memores multitudinis misericordiæ tuæ.",
+      "french": "Nos pères ne comprirent point vos merveilles dans l’Egypte ; ils ne se souvinrent point de la multitude de vos miséricordes.",
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et irritaverunt ascendentes in mare, mare Rubrum.",
+      "french": "Et ils vous irritérent, lorsqu’ils furent arrivez à la mer Rouge.",
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et salvavit eos propter nomen suum : ut notam faceret potentiam suam.",
+      "french": "Et le Seigneur les sauva pour la gloire de son nom, afin de faire connaître sa puissance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et increpuit mare Rubrum, et exsiccatum est : et deduxit eos in abyssis sicut in deserto.",
+      "french": "Il menaça la mer Rouge, et elle se secha ; il les conduisit au milieu des abîmes, comme au milieu d’une campagne déserte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et salvavit eos de manu odientium : et redemit eos de manu inimici.",
+      "french": "Et il les sauva des mains de ceux qui les haïssaient, et les délivra des mains de Pharaon leur ennemi.",
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et operuit aqua tribulantes eos : unus ex eis non remansit.",
+      "french": "L’eau couvrit ceux qui les poursuivaient, sans qu’il en restât un seul.",
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et crediderunt verbis ejus : et laudaverunt laudem ejus.",
+      "french": "Alors ils crurent à ses paroles, et ils firent retentir ses louanges.",
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Citò fecerunt, obliti sunt operum ejus : et non sustinuerunt consilium ejus.",
+      "french": "Mais ils oubliérent bien-tôt ses œuvres merveilleuses ; et ils n’attendirent pas avec patience, qu’il accomplît ses desseins sur eux.",
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et concupierunt concupiscentiam in deserto : et tentaverunt Deum in inaquoso.",
+      "french": "Ils désirérent de manger des viandes dans le désert, et tentérent Dieu dans la solitude.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et dedit eis petitionem ipsorum : et misit saturitatem in animas eorum.",
+      "french": "Il leur accorda leur demande ; et envoya de quoi rassasier leurs âmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et irritaverunt Moysen in castris : et Aaron sanctum Domini.",
+      "french": "Et ils irritérent dans le camp Moyse, et Aaron le saint du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Aperta est terra, et deglutivit Dathan : et operuit super congregationem Abiron.",
+      "french": "La terre s’entr’ouvrit alors ; elle engloutit Dathan ; et couvrit Abiron, et toute sa troupe.",
+      "annotations": null,
+      "source_pages": [
+        "page_0064.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Et exarsit ignis in synagoga eorum : flamma combussit peccatores.",
+      "french": "Un feu s’alluma au milieu de ces factieux, et la flamme consuma ces méchants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0064.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et fecerunt vitulum in Horeb : et adoraverunt sculptile.",
+      "french": "Et ils se firent un veau près d’Horeb ; et adorérent un ouvrage de sculpture.",
+      "annotations": null,
+      "source_pages": [
+        "page_0065.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Et mutaverunt gloriam suam in similitudinem vituli comedentis fœnum.",
+      "french": "Et ils substituérent à Dieu, qui était leur gloire, la ressemblance d’un veau, qui mange de l’herbe.",
+      "annotations": null,
+      "source_pages": [
+        "page_0065.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Obliti sunt Deum, qui salvavit eos, qui fecit magnalia in Ægypto, mirabilia in terra Cham : terribilia in mari Rubro.",
+      "french": "Ils oubliérent le Dieu qui les avait sauvez ; qui avait fait de grandes choses dans l’Egypte, des prodiges dans la terre de Cham, des choses terribles dans la mer Rouge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0065.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et dixit ut disperderet eos : si non Moyses electus ejus stetisset in confractione in conspectu ejus :",
+      "french": "Et il avait résolu de les perdre, si Moyse, qu’il avait choisi, ne s’était mis comme sur la bréche devant lui,",
+      "annotations": null,
+      "source_pages": [
+        "page_0065.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Ut averteret iram ejus ne disperderet eos : et pro nihilo habuerunt terram desiderabilem :",
+      "french": "Pour détourner sa colère, et empêcher qu’il ne les exterminât ; et ils n’eurent que du mépris pour une terre si désirable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0066.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Non crediderunt verbo ejus, et murmuraverunt in tabernaculis suis : non exaudierunt vocem Domini.",
+      "french": "Ils ne crurent point à sa parole ; ils murmurérent dans leurs tentes ; et n’écoutérent point la voix du Seigneur.",
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Et elevavit manum suam super eos : ut prosterneret eos in deserto :",
+      "french": "Il leva la main, et jura de les faire mourir dans le désert,",
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et ut dejiceret semen eorum in nationibus : et dispergeret eos in regionibus.",
+      "french": "Et de rendre leur race miserable parmi les nations, et de les disperser en divers pays.",
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et initiati sunt Beelphegor : et comederunt sacrificia mortuorum.",
+      "french": "Ils se consacrérent à Béelphégor ; et mangérent des sacrifices des morts.",
+      "annotations": null,
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et irritaverunt eum in adinventionibus suis : et multiplicata est in eis ruina.",
+      "french": "Et ils irritérent le Seigneur par leurs œuvres criminelles, et il en périt un grand nombre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et stetit Phinees, et placavit : et cessavit quassatio.",
+      "french": "Phinées s’opposa à leur impiété ; il apaisa la colère du Seigneur ; et fit cesser cette plaie, dont il les avait frappez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Et reputatum est ei in justitiam, in generationem et generationem usque in sempiternum.",
+      "french": "Et ce zèle lui a été imputé à justice pour toujours, et dans la suite de toutes les races.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et irritaverunt eum ad aquas contradictionis : et vexatus est Moyses propter eos ; quia exacerbaverunt spiritum ejus.",
+      "french": "Ils irritérent encore Dieu aux eaux de contradiction ; et Moyse fut affligé à cause d’eux, parce qu’ils remplirent son esprit de tristesse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Et distinxit in labiis suis. Non disperdiderunt gentes, quas dixit Dominus illis.",
+      "french": "Et il fit paraître de la défiance dans ses paroles. Ils n’exterminérent point les nations que le Seigneur leur avait marquées.",
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et commixti sunt inter gentes, et didicerunt opera eorum : et servierunt sculptilibus eorum, et factum est illis in scandalum.",
+      "french": "Mais ils se mêlérent parmi ces nations : ils apprirent à les imiter dans leurs œuvres, et adorérent leurs idoles taillées en sculpture, qui leur devinrent une occasion de scandale, et de chute.",
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et immolaverunt filios suos, et filias suas dæmoniis.",
+      "french": "Ils immolérent leurs fils, et leurs filles aux démons.",
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et effuderunt sanguinem innocentem : sanguinem filiorum suorum, et filiarum suarum : quas sacrificaverunt sculptilibus Chanaan.",
+      "french": "Ils répandirent le sang innocent ; le sang de leurs fils, et de leurs filles, qu’ils sacrifiérent aux idoles de Chanaan.",
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Et infecta est terra in sanguinibus ; et contaminata est in operibus eorum : et fornicati sunt in adinventionibus suis.",
+      "french": "Et la terre fut infectée par l’abondance du sang qu’ils répandirent : elle fut souillée par leurs œuvres criminelles ; et ils se prostituerent à leurs passions.",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Et iratus est furore Dominus in populum suum : et abominatus est hæreditatem suam.",
+      "french": "Et le Seigneur se mit en colère, et entra en fureur contre son peuple ; et il eut en abomination son héritage.",
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Et tradidit eos in manus gentium : et dominati sunt eorum qui oderunt eos.",
+      "french": "Et il les livra entre les mains des nations ; et ceux qui les haïssaient, eurent l’empire sur eux.",
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Et tribulaverunt eos inimici eorum : et humiliati sunt sub manibus eorum : sæpè liberabit eos.",
+      "french": "Leurs ennemis leur firent souffrir plusieurs maux ; ils furent humiliez, et accablez sous leur puissance : et souvent Dieu les délivra ;",
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Ipsi autem exacerbaverunt eum in consilio suo : et humiliati sunt in iniquitatibus suis.",
+      "french": "Mais ils l’irritaient de nouveau par l’impiété de leurs desseins : et leurs propres iniquités leur attiraient de nouvelles afflictions.",
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Et vidit cùm tribularentur : et audivit orationem eorum.",
+      "french": "Il les regarda lorsqu’ils étaient affligez, et il écouta leur prière.",
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Et memor fuit testamenti sui : et pœnituit eum secundum multitudinem misericordiæ suæ.",
+      "french": "Il se souvint de son alliance ; et étant touché de repentir, selon la grandeur de sa miséricorde.",
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Et dedit eos in misericordias, in conspectu omnium qui ceperant eos.",
+      "french": "Il leur fit trouver grâces devant ceux qui les avaient assujettis.",
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Salvos nos fac, Domine Deus noster : et congrega nos de nationibus.",
+      "french": "Sauvez-nous, Seigneur notre Dieu ; et rassemblez-nous du milieu des nations ;",
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Ut confiteamur nomini sancto tuo : et gloriemur in laude tua.",
+      "french": "Afin que nous rendions gloire à votre saint nom ; et que nous nous glorifiions dans vos louanges.",
+      "annotations": null,
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Benedictus Dominus Deus Israël, à seculo et usque in seculum : et dicet omnis populus : Fiat, fiat.",
+      "french": "Que le Seigneur le Dieu d’Israël soit béni dans tous les siècles ; et tout le peuple dira : Ainsi soit-il, ainsi soit-il.",
+      "annotations": null,
+      "source_pages": [
+        "page_0074.json"
+      ]
+    }
+  ]
+}

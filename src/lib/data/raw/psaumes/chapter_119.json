@@ -1,0 +1,63 @@
+{
+  "book": "Psaumes",
+  "chapter": 119,
+  "chapter_summary": "Le Prophète se plaint des mauvaises Langues. Il gémit de la longue durée de son exil.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Canticum graduum. Ad Dominum, cum tribularer clamavi : et exaudivit me.",
+      "french": "Cantique des dégrez. J’Ai crié vers le Seigneur, lorsque j’étais dans l’accablement de l’affliction ; et il m’a exaucé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0231.json",
+        "page_0239.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Domine, libera animam meam à labiis iniquis, et à lingua dolosa.",
+      "french": "Seigneur, délivrez mon âme des lèvres injustes, et de la langue trompeuse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0239.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quid detur tibi, aut quid apponatur tibi ad linguam dolosam ?",
+      "french": "Que recevrez-vous, et quel fruit vous reviendra-t’il de votre langue trompeuse ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0239.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Sagitta potentis acuta, cum carbonibus desolatoriis.",
+      "french": "Elle est de même que des flèches très pointuës, poussées par une main puissante, avec des charbons dévorants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Heu mihi, quia incolatus meus prolongatus est ! habitavi cum habitantibus Cedar : multum incola fuit anima mea.",
+      "french": "Hélas, que mon pélerinage est long ! J’ai demeuré avec les habitants de Cédar. Mon âme a été long-temps étrangère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Cum his qui oderunt pacem, eram pacificus : cùm loquebar illis, impugnabant me gratis.",
+      "french": "J’étais pacifique avec ceux qui haïssaient la paix. Lorsque je parlais à eux, ils m’attaquaient sans sujet.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    }
+  ]
+}

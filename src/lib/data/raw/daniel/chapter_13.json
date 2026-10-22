@@ -1,0 +1,593 @@
+{
+  "book": "Daniel",
+  "chapter": 13,
+  "chapter_summary": "Histoire de Susanne, injustement accusée, et condamnée. Daniel la délivre.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Et erat vir habitans in Babylone, et nomen ejus Joakim.",
+      "french": "Il y avait dans Babylone un homme nommé Joakim.",
+      "annotations": null,
+      "source_pages": [
+        "page_0236.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et accepit uxorem nomine Susannam, filiam Helciæ, pulchram nimis, et timentem Deum.",
+      "french": "Il épousa un femme nommée Susanne, fille d’Helcias, qui était parfaitement belle, et qui craignait Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0236.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Parentes enim illius, cùm essent justi, erudierunt filiam suam secundùm Legem Moysi.",
+      "french": "Car comme son père et sa mère étaient justes, ils avaient instruit leur fille selon la Loi de Moyse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0236.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Erat autem Joakim dives valdè, et erat ei pomarium vicinum domui suæ : et ad ipsum consluebant Judæi, eò quòd esset honorabilior omnibus.",
+      "french": "Or Joakim était fort riche ; et il avait un jardin fruitier près de sa maison ; et les Juifs s’assemblaient chez lui, parce qu’il était le plus considerable de tous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0236.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et constituti sunt de populo duo senes judices in illo anno : de quibus locutus est Dominus : Quia egressa est iniquitas de Babylone à senioribus judicibus, qui videbantur regere populum.",
+      "french": "On avait établi d’entre le peuple, pour juges cette année-là, deux vieillards, dont le Seigneur a parlé, lorsqu’il a dit : Que l’iniquité est sortie de Babylone, par des vieillards qui étaient juges, et qui semblaient conduire le peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0236.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Isi frequentabant domum Joakim, et veniebant ad eos omnes qui habebant judicia.",
+      "french": "Ces vieillards allaient d’ordinaire à la maison de Joakim ; et tous ceux qui avaient des affaires à juger, venaient les y trouver.",
+      "annotations": null,
+      "source_pages": [
+        "page_0237.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Cùm autem populus revertisset per meridiem, ingrediebatur Susanna, et deambulabat in pomario viri sui.",
+      "french": "Sur le midi, lorsque le peuple s’en était allé, Susanne entrait et se promenait dans le jardin de son mari.",
+      "annotations": null,
+      "source_pages": [
+        "page_0237.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et videbant eam senes quotidie ingredientem, et deambulantem : et exarserunt in concupiscentiam ejus.",
+      "french": "Ces vieillards l’y voyaient entrer, et se promener tous les jours, et ils conçurent une ardente passion pour elle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0238.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et everterunt sensum suum, et declinaverunt oculos suos, ut non viderent cœlum, neque recordarentur judiciorum justorum.",
+      "french": "Leur sens fut troublé, et ils détournérent leurs yeux, pour ne point voir le ciel, et pour ne se point souvenir des justes jugements de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0238.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Erant ergo ambo vulnerati amore ejus, nec indicaverunt sibi vicissim dolorem suum.",
+      "french": "Ils étaient donc tous deux blessez de l’amour de Susanne ; et neanmoins ils ne s’entredirent point le sujet de leurs peines.",
+      "annotations": null,
+      "source_pages": [
+        "page_0238.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Erubescebant enim indicare sibi concupiscentiam suam, volentes concumbere cum ea.",
+      "french": "Car ils rougissaient de se découvrir l’un à l’autre leur passion criminelle, ayant dessein de corrompre cette femme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0238.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et observabant quotidie sollicitiùs videre eam. Dixítque alter ad alterum.",
+      "french": "Et ils observaient tous les jours avec grand soin, le temps où ils la pourraient voir. Un jour l’un dit à l’autre :",
+      "annotations": null,
+      "source_pages": [
+        "page_0238.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Eamus domum, quia hora prandii est. Et egressi recesserunt à se.",
+      "french": "Allons-nous-en chez nous, parce qu’il est temps de dîner ; et étant sortis, ils se séparérent l’un de l’autre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0238.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Cùmque revertissent, venerunt in unum : et sciscitantes ab invicem causam, confessi sunt concupiscentiam suam : et tunc in communi statuerunt tempus, quando eam possent invenire solam.",
+      "french": "Mais revenant aussi-tôt, ils se rencontrèrent ; et après s’en être demandé la raison l’un à l’autre, ils s’entr’avouèrent leur passion ; et alors ils convinrent de prendre le temps où ils pourraient trouver Susanne seule.",
+      "annotations": null,
+      "source_pages": [
+        "page_0238.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Factum est autem, cùm observarent diem aptum, ingressa est aliquando sicut heri, et nudiustertius, cùm duabus solis puellis, voluitque lavari in pomario : æstus quippe erat.",
+      "french": "Lorsqu’ils observaient un jour propre pour leur dessein, il arriva que Susanne entra dans le jardin, selon sa coutume, étant accompagnée de deux filles seulement, et elle voulut se baigner, parce qu’il faisait chaud.",
+      "annotations": null,
+      "source_pages": [
+        "page_0239.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et non erat ibi quisquam, præter duos senes absconditos, et contemplantes eam.",
+      "french": "Et il n’y avait alors personne que les deux vieillards qui étaient cachez, et qui la regardaient.",
+      "annotations": null,
+      "source_pages": [
+        "page_0239.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Dixit ergo puellis : Afferte mihi oleum et smigmata, et ostia pomarii claudite, ut laver.",
+      "french": "Alors Susanne dit à ses filles : Apportez-moi de l’huile de parfum, et des pommades, et fermez les portes du jardin, afin que je me baigne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0239.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et fecerunt sicut præceperat : clauserúntque ostia pomarii, et egressæ sunt per posticum, ut afferrent quæ jusserat : nesciebántque senes intùs esse absconditos.",
+      "french": "Ses filles firent ce qu’elle leur avait commandé : elles fermerent les portes du jardin, et elles sortirent par une porte de derrière, pour apporter ce que Susanne leur avait dit ; et elles ne savaient point que les vieillards fussent cachez au-dedans du jardin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0239.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Cùm autem egressæ essent puellæ, surrexerunt duo senes, et accurrerunt ad eam, et dixerunt :",
+      "french": "Aussi-tôt que les filles furent sorties, les deux vieillards accoururent à Susanne, et lui dirent :",
+      "annotations": null,
+      "source_pages": [
+        "page_0239.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Ecce ostia pomarii clausa sunt, et nemo nos videt, et nos in concupiscentia tui sumus : quam ob rem assentire nobis, et commiscere nobiscum.",
+      "french": "Les portes du jardin sont fermées ; personne ne nous voit, et nous brûlons de passion pour vous : rendez-vous donc à notre désir, et faites ce que nous voulons.",
+      "annotations": null,
+      "source_pages": [
+        "page_0239.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Quod si nolueris, dicemus contra te testimonium, quòd fuerit tecum juvenis, et ob hanc causam emiseris puellas à te.",
+      "french": "Que si vous ne le voulez pas, nous porterons témoignage contre vous, et nous dirons qu’il y avait un jeune homme avec vous, et que c’est pour cela que vous avez renvoyé vos filles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0239.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Ingemuit Susanna, et ait : Angustiæ sunt mihi undique : si enim hoc egero, mors mihi est : si autem non egero, non effugiam manus vestras.",
+      "french": "Susanne jetta un profond soupir, et leur dit : Je ne vois que péril, et qu’angoisse de toutes parts. Car si je fais ce que vous désirez, je suis morte ; et si je ne le fais point, je n’échapperai pas de vos mains :",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Sed melius est mihi absque opere incidere in manus vestras, quàm peccare in conspectu Domini.",
+      "french": "Mais il vaut mieux que je tombe entre vos mains sans avoir commis le mal, que de pécher en la présence du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et exclamavit voce magna Susanna : exclamaverunt autem et senes adversùs eam.",
+      "french": "Susanne aussi-tôt jetta un grand cri, et les vieillards criérent aussi contr’elle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et cucurrit unus ad ostia pomarii, et aperuit.",
+      "french": "Et l’un d’eux courut à la porte du jardin, et l’ouvrit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Cùm ergo audissent clamorem famuli domûs in pomario, irruerunt per posticum, ut viderent quidnam esset.",
+      "french": "Les serviteurs de la maison ayant entendu crier dans le jardin, y coururent par la porte de derrière, pour voir ce que c’était.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Postquam autem senes locuti sunt, erubuerunt servi vehementer, quia numquam dictus fuerat sermo hujuscemodi de Susanna. Et facta est dies crastina.",
+      "french": "Et les vieillards le leur ayant dit, ces serviteurs en furent extrémement surpris, parce qu’on n’avait jamais rien dit de semblable de Susanne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Cùmque venisset populus ad Joakim virum ejus, venerunt et duo presbyteri pleni iniqua cogitatione adversus Susannam, ut interficerent eam.",
+      "french": "Le lendemain le peuple étant venu en la maison de Joakim son mari, les deux vieillards y vinrent aussi, pleins de la résolution criminelle qu’ils avaient formée contre Susanne, pour lui faire perdre la vie :",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et dixerunt coram populo : Mittite ad Susannam filiam Helciæ uxorem Joakim. Et statim miserunt.",
+      "french": "Et ils dirent devant le peuple : Envoyez querir Susanne fille d’Helcias, femme de Joakim.",
+      "annotations": null,
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et venit cum parentibus, et filiis, et universis cognatis suis.",
+      "french": "On y envoya aussi-tôt ; et elle vint accompagnée de son père, et de sa mère, de ses enfants, et de toute sa famille.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Porrò Susanna erat delicata nimis, et pulchra specie.",
+      "french": "Susanne avait une délicatesse dans le teint, et une beauté toute extraordinaire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "At iniqui illi jusserunt ut discooperiretur, (erat enim cooperta) ut vel sic satiarentur decore ejus.",
+      "french": "Et comme elle avait alors le visage couvert d’un voile, ces méchants commandérent qu’on le lui ôtât, afin qu’il se satisfisent au moins en cette manière, par la vue de sa beauté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Flebant igitur sui, et omnes qui noverant eam.",
+      "french": "Tous ses parents répandaient des larmes, et tous ceux qui l’avaient connue auparavant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Consurgentes autem duo presbyteri in medio populi, posuerunt manus suas super caput ejus.",
+      "french": "Alors ces deux vieillards se levant au milieu du peuple, mirent leurs mains sur la tête de Susanne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Quæ flens suspexit ad cœlum : erat enim cor ejus fiduciam habens in Domino.",
+      "french": "Qui leva en pleurant les yeux au ciel, parce que son cœur avait une ferme confiance au Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et dixerunt presbyteri : Cùm deambularemus in pomario soli, ingressa est hæc cum duabus puellis : et clausit ostia pomarii, et dimisit à se puellas.",
+      "french": "Et ces vieillards dirent : Lorsque nous nous promenions seuls dans le jardin, cette femme est venue avec deux filles, et ayant fait fermer les portes du jardin, elle a renvoyé ses filles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Venitque ad eam adolescens qui erat absconditus, et concubuit cum ea.",
+      "french": "Et un jeune homme, qui était caché, est venu, et a commis le crime avec elle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0242.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Porrò nos cùm essemus in angulo pomarii, videntes iniquitatem, cucurrimus ad eos, et vidimus eos pariter commisceri.",
+      "french": "Nous étions alors dans un coin du jardin, et voyant cette méchante action, nous sommes courus à eux, et nous les avons vus dans cette infamie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Et illum quidem non quivimus comprehendere, quia fortior nobis erat, et apertis ostiis exilivit.",
+      "french": "Nous n’avons pu prendre le jeune homme, parce qu’il était plus fort que nous, et qu’ayant ouvert la porte, il s’est sauvé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Hanc autem cùm apprehendissemus, interrogavimus, quisnam esset adolescens, et noluit indicare nobis : hujus rei testes sumus.",
+      "french": "Mais pour elle, l’ayant prise, nous lui avons demandé quel était ce jeune homme, et elle n’a point voulu nous le dire. C’est de quoi nous sommes témoins.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Credidit eis multitudo, quasi senibus, et judicibus populi, et condemnaverunt eam ad mortem.",
+      "french": "Toute l’assemblée les crut, comme étant anciens, et juges du peuple, et ils condamnèrent Susanne à la mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Exclamavit autem voce magnâ Susanna, et dixit : Deus æterne, qui absconditorum es cognitor, qui nosti omnia antequam fiant,",
+      "french": "Alors Susanne jetta un grand cri, et elle dit : Dieu éternel, qui pénétrez ce qui est de plus caché, et qui connaissez toutes choses avant même qu’elles saient faites,",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Tu scis quoniam falsum testimonium tulerunt contra me : et ecce morior, cùm nihil horum fecerim, quæ isti malitiosè composuerunt adversùm me.",
+      "french": "Vous savez qu’ils ont porté contre moi un faux témoignage, et cependant je meurs sans avoir rien fait de tout ce qu’ils ont inventé si malicieusement contre moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Exaudivit autem Dominus vocem ejus.",
+      "french": "Le Seigneur exauça sa prière.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Cúmque duceretur ad mortem, suscitavit Dominus spiritum sanctum pueri junioris, cujus nomen Daniel,",
+      "french": "Et lorsqu’on la conduisait à la mort, il suscita l’esprit saint d’un jeune enfant, nommé Daniel,",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Et exclamavit voce magna : Mundus ego sum à sanguine hujus.",
+      "french": "Qui cria à haute voix : Je suis innocent du sang de cette femme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0244.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Et conversus omnis populus ad eum, dixit : Quis est iste sermo, quem tu locutus es ?",
+      "french": "Tout le peuple se tourna vers lui, et lui dit : Que veut dire cette parole que vous venez de prononcer ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0244.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Qui cùm staret in medio eorum, ait : Sic fatui, filii Israël, non judicantes, neque quod verum est cognoscentes, condemnastis filiam Israël ?",
+      "french": "Daniel se tenant debout au milieu d’eux, leur dit : Etes-vous si insensés, enfants d’Israël, que d’avoir ainsi sans discerner, et sans connaître la vérité, condamné une fille d’Israël ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0244.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Revertimini ad judicium, quia falsum testimonium locuti sunt adversus eam.",
+      "french": "Retournez, pour la juger de nouveau, parce qu’ils ont porté un faux témoignage contr’elle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0244.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Reversus est ergo populus cum festinatione, et dixerunt ei senes : Veni, et sede in medio nostrûm, et indica nobis : quia tibi Deus dedit honorem senectutis.",
+      "french": "Le peuple retourna donc en grande hâte, et les vieillards dirent à Daniel : Venez, et prenez votre place au milieu de nous, et instruisez-nous, parce que Dieu vous a donné l’honneur de la vieillesse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0244.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "E dixit ad eos Daniel : Separate illos ab invicem procul, et dijudicabo eos.",
+      "french": "Daniel dit au peuple : Séparez-les l’un de l’autre, et je les jugerai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0245.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Cùm ergo divisi essent alter ab altero, vocavit unum de eis, et dixit ad eum : Inveterate dierum malorum, nunc venerunt peccata tua, quæ operabaris priùs,",
+      "french": "Ayant donc été séparez l’un de l’autre, Daniel appella l’un d’eux, et lui dit : Vieux scélérat, le temps de vos péchés est venu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0245.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Judicans judicia injusta, innocentes opprimens, et dimittens noxios, dicente Domino : Innocentem et justum non interficies.",
+      "french": "Vous qui rendiez des jugements injustes, qui opprimiez les innocents, et qui sauviez les coupables, quoique le Seigneur ait dit : Vous ne ferez point mourir l’innocent, et le juste.",
+      "annotations": null,
+      "source_pages": [
+        "page_0245.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Nunc ergo si vidisti eam, dic sub qua arbore videris eos colloquentes sibi. Qui ait : Sub schino.",
+      "french": "Maintenant donc si vous avez surpris cette femme, dites-moi sous quel arbre vous les avez vu parler ensemble ? Il lui répondit : Sous un lentisque.",
+      "annotations": null,
+      "source_pages": [
+        "page_0245.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Dixit autem Daniel : Rectè mentitus es in caput tuum : Ecce enim Angelus Dei acceptâ sententiâ ab eo, scindet te medium.",
+      "french": "Daniel lui dit : C’est justement que votre mensonge va retomber sur votre tête. Car voilà l’Ange qui sera l’exécuteur de l’arrêt que le Seigneur a prononcé contre vous, et qui vous coupera en deux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0245.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "Et, amoto eo, jussit venire alium, et dixit ei : Semen Chanaan, et non Juda, species decepit te, concupiscentia subvertit cor tuum.",
+      "french": "Après l’avoir fait retirer, il commanda qu’on fit venir l’autre ; et il lui dit : Race de Chanaan, et non de Juda, la beauté vous a séduit, et la passion vous a perverti le cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0246.json"
+      ]
+    },
+    {
+      "verse_number": 57,
+      "latin": "Sic faciebatis filiabus Israël, et illæ timentes loquebantur vobis : sed filia Judæ non sustinuit iniquitatem vestram.",
+      "french": "C’est ainsi que vous traitiez les filles d’Israël ; et elles ayant peur de vous, vous parlaient : mais la fille de Juda n’a pu souffrir votre iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0247.json"
+      ]
+    },
+    {
+      "verse_number": 58,
+      "latin": "Nunc ergo dic mihi, sub qua arbore comprehenderis eos loquentes sibi. Qui ait : Sub prino.",
+      "french": "Maintenant donc, dites-moi sous quel arbre vous les avez surpris, lorsqu’ils se parlaient ? Il lui répondit : Sous une yeuse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0247.json"
+      ]
+    },
+    {
+      "verse_number": 59,
+      "latin": "Dixit autem ei Daniel : Rectè mentitus es, et tu in caput tuum : manet enim Angelus Domini, gladium habens, ut secet te medium, et interficiat vos.",
+      "french": "Daniel lui dit : C’est justement que votre mensonge va retomber maintenant sur votre tête. Car l’Ange du Seigneur est tout prêt, et tient l’épée pour vous couper par le milieu du corps, et pour vous faire mourir tous deux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0247.json"
+      ]
+    },
+    {
+      "verse_number": 60,
+      "latin": "Exclamavit itàque omnis cœtus voce magna, et benedixerunt Deum, qui salvat sperantes in se.",
+      "french": "Aussi-tôt tout le peuple jetta un grand cri, et ils bénirent Dieu, qui sauve ceux qui espérent en lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0247.json"
+      ]
+    },
+    {
+      "verse_number": 61,
+      "latin": "Et consurrexerunt adversus duos presbyteros, (conviceras enim eos Daniel ex ore suo falsum dixisse testimonium,) feceruntque eis sicut malè egerant adversus proximum,",
+      "french": "Et ils s’élevérent contre les deux vieillards, parce que Daniel les avait convaincus par leur propre bouche, d’avoir porté un faux témoignage ; et ils leur firent souffrir le même mal, qu’ils avaient voulu faire à leur prochain,",
+      "annotations": null,
+      "source_pages": [
+        "page_0247.json"
+      ]
+    },
+    {
+      "verse_number": 62,
+      "latin": "Ut facerent secundum legem Moysi : et interfecerunt eos, et salvatus est sanguis innoxius in die illa.",
+      "french": "Pour exécuter la Loi de Moyse. Ainsi ils les firent mourir, et le sang innocent fut sauvé en ce jour-là.",
+      "annotations": null,
+      "source_pages": [
+        "page_0248.json"
+      ]
+    },
+    {
+      "verse_number": 63,
+      "latin": "Helcias autem et uxor ejus laudaverunt Deum, pro filia sua Susanna, cum Joachim marito ejus, et cognatis omnibus, quia non esset inventa in ea res turpis.",
+      "french": "Helcias et sa femme rendirent grâces à Dieu, pour Susanne leur fille, avec Joachim son mari, et tous ses parents, de ce qu’il ne s’était trouvé rien en elle qui blessât l’honnêteté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0248.json"
+      ]
+    },
+    {
+      "verse_number": 64,
+      "latin": "Daniel autem factus est magnus in conspectu populi, à die illa, et deinceps.",
+      "french": "Quant à Daniel, depuis ce jour-là, et dans la suite du temps il devint grand devant le peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0248.json"
+      ]
+    },
+    {
+      "verse_number": 65,
+      "latin": "Et Rex Astyages appositus est ad patres suos, et suscepit Cyrus Perses regnum ejus.",
+      "french": "Et le Roi Astyages se réünit à ses pères par la mort, et Cyrus de Perse lui succéda au Royaume.",
+      "annotations": null,
+      "source_pages": [
+        "page_0248.json"
+      ]
+    }
+  ]
+}

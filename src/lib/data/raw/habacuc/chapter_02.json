@@ -1,0 +1,186 @@
+{
+  "book": "Habacuc",
+  "chapter": 2,
+  "chapter_summary": "Ordre au Prophète d’écrire sa vision. L’incrédule condamné ; le Juste vit de la foi. Malheur à celui dont l’ambition est insatiable. Malheur à celui qui établit sa maison par la violence. Malheur à celui qui bâtit sa ville de sang ; et à celui qui mêle le fiel dans son vin pour enivrer son allié. Enfin malheur à celui qui adore le bois, et la pierre.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Super custodiam meam stabo, et figam gradum super munitionem : et contemplabor, ut videam quid dicatur mihi, et quid respondeam ad arguentem me.",
+      "french": "Je me tiendrai en sentinelle dans mon poste, je demeurerai ferme sur les remparts, et je regarderai attentivement pour voir ce que l’on me pourra dire, et ce que je devrai répondre à celui qui me reprendra.",
+      "annotations": null,
+      "source_pages": [
+        "page_0017.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et respondit mihi Dominus, et dixit : Scribe visum, et explana eum super tabulas, ut percurrat qui legerit eum.",
+      "french": "Alors le Seigneur me parla, et me dit : Ecrivez ce que vous voyez, et marquez-le distinctement sur des tablettes, afin qu’on le puisse lire couramment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0019.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quia adhuc visus procul, et apparebit in finem, et non mentietur : si moram fecerit, expecta illum : quia veniens veniet, et non tardabit.",
+      "french": "Car ce qui vous a été révélé est encore éloigné, et ne paroîtra pas si-tôt ; mais s’il diffère un peu, attendez-le ; car il arrivera assûrément, et il ne tardera pas.",
+      "annotations": null,
+      "source_pages": [
+        "page_0019.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Ecce qui incredulus est, non erit recta anima ejus in semetipso : Justus autem in fide sua vivet.",
+      "french": "Celui qui est incrédule n’a point l’âme droite ; mais le juste vivra de sa foi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0021.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et quomodo vinum potantem decipit : fic erit vir superbus, et non decorabitur : qui dilatavit quasi infernus animam suam : et ipse quasi mors, et non adimpletu : et congregabit ad se omnes gentes, et coacervabit ad se omnes populos.",
+      "french": "Comme le vin trompe celui qui en bait avec excès, ainsi le superbe sera trompé, et il ne demeurera point dans son éclat ; parce que ses desirs sont vastes comme l’enfer, qu’il est insatiable comme la mort, et qu’il travaille à réünir sous sa domination toutes les nations, et à s’assujettir tous les peuples.",
+      "annotations": null,
+      "source_pages": [
+        "page_0022.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Numquid non omnes isti super eum parabolam sument, et loquelam enigmatum ejus, et dicetur : Væ ei, qui multiplicat non sua ? Usquequò et aggravat contra se densum lutum ?",
+      "french": "Mais ne deviendra-t’il pas lui-même comme la fable de tous ces peuples, et ne lui insulteront-ils pas par des railleries sanglantes ? Ne dira-t’on pas : Malheur à celui qui ravit sans cesse ce qui ne lui appartient point : Jusqu’à quand amassera-t’il contre lui-même des monceaux de bouë ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0023.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Numquid non repentè consurgent qui mordeant te : et suscitabuntur lacerantes te, et eris in rapinam eis ?",
+      "french": "Ne verrez-vous pas s’élever tout d’un coup contre vous des gens qui vous mordront, et vous déchireront, dont vous deviendrez vous-même la proie ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0024.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Quia tu spoliasti gentes multas, spoliabunt te omnes qui reliqui fuerint de populis, propter sanguinem hominis, et iniquitatem terræ civitatis, et omnium habitantium in ea.",
+      "french": "Comme vous avez dépouillé tant de peuples, tous ceux qui en feront restez vous dépouilleront à leur tour, à cause du sang des hommes que vous avez versé, et des injustices que vous avez exercées contre les pays, contre leur ville, et contre tous ceux qui l’habitent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0024.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Væ qui congregat avaritiam malam domui suæ, ut sit in excelso nidus ejus, et liberari se putat de manu mali.",
+      "french": "Malheur à celui qui amasse du bien par une avarice criminelle pour établir sa maison, et pour mettre son nid le plus haut qu’il pourra, s’imaginant qu’il sera ainsi à couvert de tous les maux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0025.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Cogitasti confusionem domui tuæ, concidisti populos multos, et peccavit anima tua.",
+      "french": "Vos grands desseins pour votre maison en feront la honte. Vous avez ruiné plusieurs peuples, et votre âme s’est plongée dans le péché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0025.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Quia lapis de pariete clamabit : et lignum, quod inter juncturas ædificiorum est, respondebit.",
+      "french": "Mais la pierre criera contre vous du milieu de la muraille, et le bois qui sert à lier le bâtiment, rendra témoignage contre vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0026.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Væ qui ædificat civitatem in sanguinibus, et præparat urbem in iniquitate.",
+      "french": "Malheur à celui qui bâtit une ville du sang des hommes, et qui la fonde dans l’iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0027.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Numquid non hæc sunt à Domino exercituum ? Laborabunt enim populi in multo igne, et gentes in vacuum, et deficient.",
+      "french": "Tout cela ne vient-il pas du Seigneur ? Tous les travaux des peuples seront consumez par le feu, et les efforts des nations seront réduits au néant ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0027.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Quia replebitur terra, ut cognoscant gloriam Domini, quasi aquæ operientes mare.",
+      "french": "Parce que la terre sera remplie d’ennemis, comme le fond de la mer est tout couvert de ses eaux ; afin que la gloire, et la justice du Seigneur soient connues de tout le monde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0028.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Væ qui potum dat amico suo mittens fel suum, et inebrians ut aspiciat nuditatem ejus.",
+      "french": "Malheur à celui qui mêle son fiel dans le breuvage qu’il donne à son ami, et qui l’enivre pour voir sa nudité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0028.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Repletus es ignominiâ pro gloria : Bibe tu quoque, et consopire : circumdabis te calix dexteræ Domini, et vomitus ignominiæ super gloriam tuam.",
+      "french": "Vous serez rempli d’ignominie, au lieu de la gloire qui vous environne. Bûvez aussi vous-même, et soyez frappé d’assoupissement. Le calice que vous recevrez de la main du Seigneur viendra à vous à votre tour ; et toute votre gloire se terminera à un infâme vomissement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0029.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Quia iniquitas Libani operiet te, et vastitas animalium deterrebit eos de sanguinibus hominum, et iniquitate terræ, et civitatis, et omnium habitantium in ea.",
+      "french": "Car les maux que vous avez faits sur le Liban, retomberont sur vous ; la mort des animaux les effrayera, et les punira du sang humain qu’ils ont répandu, et des injustices qu’ils ont commises dans la terre, dans la ville sainte, et contre tous ceux qui y habitaient.",
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Quid prodest sculptile, quia sculpsit illud fictor suus, conflatile, et imaginem falsam ? quia speravit in figmento fictor ejus, ut faceret simulachra muta.",
+      "french": "Que sert la statue qu’un sculpteur a faite, ou l’image fausse qui se jette en fonte ? Et néanmoins l’ouvrier espère en son propre ouvrage, et dans l’idole muette qu’il a formée.",
+      "source_pages": [
+        "page_0031.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Væ qui dicit ligno : Expergiscere ; Surge, lapidi tacenti : numquid ipse docere poterit ? Ecce iste coopertus est auro, et argento : et omnis spiritus non est in visceribus ejus.",
+      "french": "Malheur à celui qui dit au bois : Réveillez-vous ; et à la pierre muëtte : Levez-vous. Cette pierre lui pourra-t’elle apprendre quelque chose ? Elle est couverte au-dehors d’or, et d’argent ; et elle est au-dedans sans âme, et sans vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0032.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Dominus autem in Templo sancto suo : sileat à facie ejus omnis terra.",
+      "french": "Mais le Seigneur habite dans son Temple saint : que toute la terre demeure en silence devant lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0032.json"
+      ]
+    }
+  ]
+}

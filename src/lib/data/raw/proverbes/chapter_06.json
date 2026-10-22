@@ -1,0 +1,312 @@
+{
+  "book": "Proverbes",
+  "chapter": 6,
+  "chapter_summary": "Ne se rendre pas légérement caution pour un autre. Imiter la diligence de la fourmi. Peinture de l’homme apostat. Exhortation à l’étude de la Loi, et de la Sagesse. Eviter les commerces illicites, et dangereux avec les femmes.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Fili mi, si spoponderis pro amico tuo, defixisti apud extraneum manum tuam ;",
+      "french": "Mon fils si vous vous êtes rendu garant pour votre ami, et que vous ayez engagé votre main à un étranger,",
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Illaqueatus es verbis oris tui, et captus propriis sermonibus.",
+      "french": "Vous vous êtes jetté dans le filet par votre propre bouche, et vous êtes pris par vos propres paroles.",
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Fac ergo quod dico, fili mi, et temetipsum libera : quia incidisti in manum proximi tui. Discurre, festina, suscita amicum tuum :",
+      "french": "Faites donc ce que je vais vous dire, mon fils, et dégagez vous, parce que vous vous êtes livré à votre prochain. Courez de tous côtés, allez avec empressement réveiller votre ami.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Ne dederis somnum oculis tuis, nec dormitent palpebræ tuæ.",
+      "french": "Que vos yeux ne prennent point de sommeil, ni vos paupières de repos.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Eruere quasi damula de manu, et quasi avis de manu aucupis.",
+      "french": "Dégagez-vous comme un Dain, qui se sauve, et comme un oiseau, qui fuit de la main de l’oiseleur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Vade ad formicam, ô piger, et considera vias ejus, et disce sapientiam :",
+      "french": "Allez à la fourmi, paresseux, examinez ses voies, et apprenez la sagesse :",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quæ cùm non habeat ducem, nec præceptorem, nec principem.",
+      "french": "Elle n’a ni chef, ni maître, ni Prince ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Parat in æstate cibum sibi, et congregat in messe quod comedat.",
+      "french": "Et toutefois elle fait sa provision durant l’Eté, et amasse pendant la moisson dequoi se nourrir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Vsquequò, piger, dormies ? Quando consurges è somno tuo ?",
+      "french": "Jusqu’à quand dormirez-vous, paresseux ? Quand vous éveillerez-vous ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Paululum dormies, paululum dormitabis, paululum conseres manus, ut dormias.",
+      "french": "Vous dormirez un peu, vous sommeillerez un peu ; vous joindrez un peu vos mains l’une dans l’autre, pour vous endormir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et veniet tibi quasi viator, egestas ; et pauperies quasi vir armatus. Si vtrò impiger fueris, veniet ut fons messis tua, et egestas longè fugiet à te.",
+      "french": "Et cependant l’indigence vous viendra surprendre, comme un homme qui marche à grands pas : et la pauvreté se saisira de vous, comme un homme armé. Que si vous êtes diligent, votre moisson sera comme une source abondante, et l’indigence fuira loin de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Homo apostata, vir inutilis, gra ditur ore perverso ;",
+      "french": "L’homme apostat, est un homme qui n’est bon à rien ; ses actions démentent sa bouche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Annuit oculis, terit pede ; digito loquitur.",
+      "french": "Il fait des signes des yeux ; il frappe du pied ; il parle avec les doigts.",
+      "annotations": null,
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Pravò corde machinatur malum, et omni tempore jurgia seminat.",
+      "french": "Il médite le mal dans la corruption de son cœur ; et il seme des querelles en tout temps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Huic extemplò veniet perditio sua, et subitò conteretur, nec habebit ultrà medicinam.",
+      "french": "Sa ruine viendra fondre sur lui en un moment : il sera brisé tout d’un coup, et sa perte sera sans ressource.",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Sex sunt, quæ odit Dominus, et septimum detestatur anima ejus :",
+      "french": "Il y a six choses que le Seigneur hait, et son âme déteste la septième :",
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Oculos sublimes ; linguam mendacem ; manus effundentes innoxium sanguinem :",
+      "french": "Les yeux altiers ; la langue amie du mensonge ; les mains qui répandent le sang innocent ;",
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Cor machinans cogitationes pessimas ; pedes veloces ad currendum in malum :",
+      "french": "Le cœur qui forme de noirs desseins ; les pieds legers pour courir au mal ;",
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Proferentem mendacia testem falsacem, et eum qui seminat inter fratres discordias.",
+      "french": "Le témoin trompeur, qui assûre des mensonges ; et celui qui sème des dissensions entre les frères.",
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Conserva, fili mi, præcepta patris tui, et ne dimittas legem matris tuæ.",
+      "french": "Observez, mon fils, les préceptes de votre père, et n’abandonnez point la loi de votre mère.",
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Liga ea in corde tuo jugiter, et circumda gutturi tuo.",
+      "french": "Tenez-les sans cesse liez à votre cœur, et attachez-les autour de votre col.",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Cùm ambulaveris, gradiantur tecum ; cùm dormieris, custodiant te, et evigilans loquere cum eis.",
+      "french": "Lorsque vous marchez, qu’ils vous accompagnent ; lorsque vous dormez, qu’ils vous gardent ; et en vous réveillant, entretenez-vous avec eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Quia mandatum lucerna est, et Lex lux, et via vitæ increpatio disciplinæ.",
+      "french": "Parce que le commandement est une lampe ; la loi est une lumière ; et la réprimande, qui retient dans la discipline, est la voie de la vie :",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Ut custodiant te à muliere mala, et à blanda lingua extraneæ.",
+      "french": "Afin qu’ils vous deffendent de la femme corrompuë, et de la langue flateuse de l’étrangère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Non concupiscat pulchritudinem ejus, cor tuum, nec capiaris nutibus illius :",
+      "french": "Que votre cœur ne conçoive point de passion pour sa beauté, et ne vous laissez pas surprendre aux signes de ses yeux :",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Pretium enim scorti vix est unius panis : mulier autem viri pretiosam animam capit.",
+      "french": "Car le prix de la courtisanne est à peine d’un pain seul ; mais la femme rend captive l’âme de l’homme, laquelle n’a point de prix.",
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Numquid potest homo abscondere ignem in sinu suo, ut vestimenta illius non ardeant ?",
+      "french": "Un homme peut-il cacher le feu dans son sein, sans que ses vêtements en saient consumez ?",
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Aut ambulare super prunas, ut non comburantur plantæ ejus ?",
+      "french": "Ou peut-il marcher sur les charbons, sans se brûler la plante des pieds ?",
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Sic qui ingreditur ad mulierem proximi sui, non erit mundus cùm tetigerit eam.",
+      "french": "Ainsi celui qui s’approche de la femme de son prochain, ne sera pas pur lorsqu’il l’aura touchée.",
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Non grandis est culpa, cùm quis furatus fuerit : furatur enim ut esurientem impleat animam.",
+      "french": "Ce n’est pas une grande faute qu’un homme dérobe, pour avoir de quoi manger, lorsqu’il est pressé de la faim.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Deprehensus quoque reddet septuplum, et omnem substantiam domûs suæ tradet.",
+      "french": "S’il est pris, il en rendra sept fois autant, et il donnera tout ce qu’il a dans sa maison.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Qui autem adulter est, propter cordis inopiam perdet animam suam.",
+      "french": "Mais celui qui est adultère perdra son âme, par la folie de son cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Turpitudinem, et ignominiam congregat sibi ; et opprobrium illius non delebitur.",
+      "french": "Il s’attire de plus en plus l’opprobre, et l’ignominie, et sa honte ne s’effacera jamais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Quia zelus, et furor viri non parcet in die vindictæ.",
+      "french": "Car la jalousie, et la fureur du mari ne pardonnera point au jour de la vengeance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Nec acquiescet cujusquam precibus, nec suscipiet pro redemptione dona plurima.",
+      "french": "Il ne se rendra aux prières de personne ; et il ne recevra point pour satisfaction tous les présents qu’on lui pourra faire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    }
+  ]
+}

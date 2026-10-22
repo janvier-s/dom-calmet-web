@@ -1,0 +1,163 @@
+{
+  "book": "Ecclésiaste",
+  "chapter": 5,
+  "chapter_summary": "Discrétion à parler des choses de Dieu. Fidélité à rendre ses vœux ; Providence de Dieu, qui permet l’oppression des innocents. Avare insatiable ; Riche malheureux au milieu de ses richesses.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Ne temerè quid loquaris, neque cor tuum sit velox ad proferendum sermonem coram Deo. Deus enim in cælo, et tu super terram : idcircò sint pauci sermones tui.",
+      "french": "Ne dites rien inconsidérément, et que votre cœur ne se hâte point de proférer des paroles devant Dieu. Car Dieu est dans le Ciel, et vous sur la terre ; c’est pourquoi parlez peu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0058.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Multas curas sequuntur somnia, et in multis sermonibus invenitur stultitia.",
+      "french": "La multitude des soins produit les songes ; et l’imprudence se trouve dans l’abondance des paroles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Si quid vovisti Deo, ne morêris reddere : displicet enim ei infidelis et stulta promissio, sed quodcúmque voveris, redde.",
+      "french": "Si vous avez fait un vœu à Dieu, ne différez point de vous en acquitter : car la promesse infidelle, et imprudente lui déplaît. Mais accomplissez tous les vœux que vous aurez faits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Múltóque melius est non vovere, quàm post votum promissa non reddere.",
+      "french": "Il vaut beaucoup mieux ne faire point de vœux, que d’en faire, et de ne les pas accomplir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Ne dederis os tuum ut peccare facias carnem tuam : neque dicas coram Angelo : Non est providentia : ne fortè iratus Deus contra sermones tuos, dissipet cuncta opera manuum tuarum.",
+      "french": "N’employez point votre bouche à donner à votre chair une occasion de tomber dans le péché, et ne dites pas devant l’Ange : Il n’y a point de providence, de peur que Dieu étant irrité contre vos paroles, ne détruise tous les ouvrages de vos mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ubi multa sunt somnia, plurima sunt vanitates, et sermones innumeri. Tu verò Deum time.",
+      "french": "Où il y a beaucoup de songes, il y a aussi beaucoup de vanité, et des discours sans fin. Mais pour vous, craignez Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Si videris calumnias egenorum, et violenta judicia, et subverti justitiam in provincia, non mireris super hoc negotio : quia excelso excelsior est alius, et super hos quoque eminentiores sunt alii ;",
+      "french": "Si vous voyez l’oppression des pauvres ; la violence qui règne dans les jugements, et le renversement de la justice dans une province, que cela ne vous étonne pas : car celui qui est élevé, en a un autre au-dessus de lui ; et il y en a encore d’autres qui sont élevez au-dessus d’eux ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et insuper universa terra Rex imperat servienti.",
+      "french": "Et de plus, il y a un Roi qui commande à tout le pays qui lui est assujetti.",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Avarus non implebitur pecuniâ : et qui amat divitias, fructum non capiet ex eis : et hoc ergo vanitas.",
+      "french": "L’avare n’aura jamais assez d’argent, et celui qui aime les richesses, n’en recueillera point de fruit : c’est donc là encore une vanité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0064.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Dulcis est somnus operanti, sive parum, sive multum comedat : saturitas autem divitis non sinit eum dormire.",
+      "french": "Le sommeil est doux à l’ouvrier qui travaille, soit qu’il ait peu ou beaucoup mangé ; mais le riche est si rempli de viandes, qu’il ne peut dormir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0066.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Est et alia infirmitas pessima, quam vidi sub sole : divitiæ conservatæ in malum domini sui.",
+      "french": "Il y a encore une autre maladie bien fâcheuse que j’ai vue sous le soleil ; des richesses conservées avec soin pour le tourment de celui qui les possède.",
+      "annotations": null,
+      "source_pages": [
+        "page_0066.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Pereunt enim in afflictione pessima. Generavit filium, qui in summa egestate erit.",
+      "french": "Il les voit périr avec une extrême affliction. Il a mis au monde un fils qui sera reduit à la derniere pauvreté.",
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Sicut egressus est nudus de utero matris suæ, sic revertetur, et nihil auferet secum de labore suo.",
+      "french": "Comme il est sorti nud du sein de sa mère, il y retournera de même, et n’emportera rien avec lui de son travail.",
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Miserabilis prorsùs infirmitas : quomodo venit, sic revertetur. Quid ergo prodest ei quòd laboravit in ventum ?",
+      "french": "C’est-là vraiment une maladie bien digne de compassion, il s’en retournera comme il est venu. De quoi lui sert donc d’avoir tant travaillé en vain ?",
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Cunctis diebus vitæ suæ comedit in tenebris, et in curis multis, et in ærumna atque tristitia.",
+      "french": "Tous les jours de sa vie il a mangé dans les ténèbres, dans un embarras de soins, dans la misere, et dans le chagrin.",
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Hoc itaque visum est mihi bonum, ut comedat quis et bibat, et fruatur lætitiâ ex labore suo, quo laboravit ipse sub sole, numero dierum vitæ suæ, quos dedit ei Deus : et hæc est pars illius.",
+      "french": "J’ai cru donc qu’il est bon qu’un homme mange et boive, et qu’il se réjouisse dans le fruit qu’il tire de tout son travail qu’il endure sous le soleil, pendant les jours que Dieu lui a donnez pour la durée de sa vie ; et que c’est-là son partage.",
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et omni homini, cui dedit Deus divitias, atque substantiam, potestatemque ei tribuit ut comedat ex eis, et fruatur parte sua, et lætetur de labore suo : hoc est donum Dei.",
+      "french": "Et quand Dieu a donné à un homme des richesses, du bien, et le pouvoir d’en manger, de jouir de ce qu’il a eu en partage, et de trouver sa joie dans son travail, cela même est un don de Dieu.",
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Non enim satis recordabitur dierum vitæ suæ, eò quòd Deus occupet deliciis cor ejus.",
+      "french": "Car il se souviendra peu des jours de sa vie, parce que Dieu occupe son cœur de délices.",
+      "source_pages": [
+        "page_0068.json"
+      ]
+    }
+  ]
+}

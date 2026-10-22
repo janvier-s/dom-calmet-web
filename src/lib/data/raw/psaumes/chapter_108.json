@@ -1,0 +1,259 @@
+{
+  "book": "Psaumes",
+  "chapter": 108,
+  "chapter_summary": "Prières du Psalmiste contre les calomnies, la haine, et la perfidie de ses ennemis. Imprécations, et invectives contre eux. Description de l’état d’humiliation, et d’affliction, où le Prophète est réduit. Il implore le secours du Seigneur, et promet de célébrer éternellement ses louanges.\n\nIn finem, Psalmus David. | Pour la fin, Pseaume de David.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem. Psalmus David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription): check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Deus laudem meam ne tacueris : quia os peccatoris, et os dolosi super me apertum est.",
+      "french": "Ne vous taisez pas, mon Dieu, sur le sujet de mon innocence ; parce que la bouche du pécheur, et la bouche de l’homme trompeur, se sont ouvertes contre moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Locuti sunt adversum me linguâ dolosâ, et sermonibus odii circumdederunt me : et expugnaverunt me gratis.",
+      "french": "Ils ont parlé contre moi avec une langue trompeuse ; ils m’ont comme assiégé par leurs discours remplis de haine ; et ils m’ont fait la guerre sans aucun sujet.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et posuerunt adversum me mala pro bonis : et odium pro dilectione mea.",
+      "french": "Ils m’ont fait plusieurs maux, au lieu des biens que je leur ai faits ; et leur haine a été la récompense de l’amour que je leur portais.",
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Constitue super eum peccatorem : et Diabolus stet à dextris ejus.",
+      "french": "Donnez au pécheur l’empire sur lui ; et que le Démon soit toujours à son côté droit.",
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Cùm judicatur, exeat condemnatus : et oratio ejus fiat in peccatum.",
+      "french": "Lorsqu’on le jugera, qu’il soit condamné, et que sa priere même lui soit imputée à péché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Fiant dies ejus pauci : et Episcopatum ejus accipiat alter.",
+      "french": "Que ses jours saient abrégez ; et qu’un autre reçoive son Episcopat.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Fiant filii ejus orphani : et uxor ejus vidua.",
+      "french": "Que ses enfants deviennent orphelins ; et que sa femme devienne veuve.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Nutantes transferamur filii ejus, et mendicent : et ejiciantur de habitationibus suis.",
+      "french": "Que ses enfants saient vagabonds, et errants : qu’ils saient réduits à mendier ; et qu’ils saient chassez de leurs demeures.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Non fit illi adjutor : nec sit qui misereatur pupillis ejus.",
+      "french": "Qu’il demeure dénué de tout secours ; et que nul n’ait compassion de ses orphelins.",
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Fiant nati ejus in interitum : in generatione una deleatur nomen ejus.",
+      "french": "Que ses enfants périssent ; et que son nom soit effacé, et oublié dans le cours d’une seule génération.",
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "In memoriam redeat iniquitas patrum ejus in conspectu Domini : et peccatum matris ejus non deleatur.",
+      "french": "Que l’iniquité de ses pères revive dans le souvenir du Seigneur ; et que le péché de sa mère ne soit point effacé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Fiant contra Dominum semper, et dispereat de terra memoria eorum : pro eo quod non est recordatus facere misericordiam.",
+      "french": "Qu’ils saient toujours en butte au Seigneur ; et que leur mémoire soit exterminée de dessus la terre ; parce qu’il ne s’est point souvenu de faire miséricorde ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et persecutus est hominem inopem, et mendicum, et compunctum corde mortificare.",
+      "french": "Qu’il a poursuivi celui qui était pauvre, et dans l’indigence, et dont le cœur était percé de douleur ; afin de le faire mourir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et dilexit maledictionem, et veniet ei : et noluit benedictionem, et elongabitur ab eo.",
+      "french": "Qu’ayant aimé la malédiction, elle tombera sur lui ; et qu’ayant rejetté la bénédiction, elle sera éloignée de lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et induit maledictionem sicut vestimentum : et intravit sicut aqua in interiora ejus, et sicut oleum in ossibus ejus.",
+      "french": "Et il s’est revêtu de la malédiction, ainsi que d’un vêtement : elle a pénétré comme l’eau au dedans de lui, et comme l’huile jusque dans ses os.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Fiat ei sicut vestimentum quo operitur : et sicut zona, qua semper præcingitur.",
+      "french": "Qu’elle lui soit comme l’habit qui le couvre : et comme la ceinture, de laquelle il est toujours ceint.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Hoc opus eorum, qui detrahunt mihi apud Dominum : et qui loquuntur mala adversùs animam meam.",
+      "french": "Voilà quelle sera la peine de ceux qui m’attaquent par leurs médisances devant le Seigneur ; et qui proférent des paroles meurtrières contre mon âme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et tu, Domine, Domine, fac mecum propter nomen tuum : quia suavis est misericordia tua.",
+      "french": "Et vous, Seigneur, Seigneur, prenez ma défense pour la gloire de votre nom ; parce que votre miséricorde est remplie de douceur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Libera me, quia egenus et pauper ego sum : et cor meum conturbatum est intra me.",
+      "french": "Délivrez-moi, parce que je suis pauvre, et dans l’indigence ; et que mon cœur est tout troublé au dedans de moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Sicut umbra cùm declinat, ablatus sum : et excussus sum sicut locustæ.",
+      "french": "J’ai disparu comme l’ombre qui est sur son déclin ; et j’ai été dissipé comme les sauterelles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Genua mea infirmata sunt à jejunio : et caro mea immutata est propter oleum.",
+      "french": "Mes genoux se sont affaiblis par le jeûne ; et ma chair a été toute changée, faute d’huile.",
+      "source_pages": [
+        "page_0106.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et ego factus sum opprobrium illis : viderunt me, et moverunt capita sua.",
+      "french": "Je suis devenu un sujet d’opprobre à leur égard : ils m’ont vu, et ils ont secoué la tête.",
+      "source_pages": [
+        "page_0106.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Adjuva me, Domine Deus meus : salvum me fac secundum misericordiam tuam.",
+      "french": "Secourez-moi, Seigneur mon Dieu ; sauvez-moi par votre miséricorde.",
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Et sciant quia manus tua hæc : et tu, Domine, fecisti eam.",
+      "french": "Et qu’ils sachent que c’est ici un coup de votre main ; et que c’est vous, Seigneur, qui avez fait ceci.",
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Maledicent illi, et tu benedices : qui insurgunt in me, confundantur : servus autem tuus lætabitur.",
+      "french": "Ils me maudiront, et vous me bénirez : que ceux qui s’élevent contre moi, saient confondus : mais pour votre serviteur, il sera rempli de joie.",
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Induantur qui detrahunt mihi, pudore : et operiantur sicut diploïde confusione sua.",
+      "french": "Que ceux qui me déchirent par leurs médisances, saient confondus ; et qu’ils saient couverts de honte comme d’un habit doublé.",
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Confitebor Domino nimis in ore meo : et in medio multorum laudabo eum.",
+      "french": "Je publierai de toute ma force la gloire du Seigneur ; et je le louerai au milieu d’une grande assemblée ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Quia astitit à dextris pauperis, ut salvam faceret à persequentibus animam meam.",
+      "french": "Parce qu’il s’est tenu à la droite du pauvre, afin de sauver mon âme des mains de mes persécuteurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    }
+  ]
+}

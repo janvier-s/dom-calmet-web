@@ -1,0 +1,87 @@
+{
+  "book": "Psaumes",
+  "chapter": 121,
+  "chapter_summary": "Les Captifs assûrez de leur délivrance, témoignent leur joie de revoir bien-tôt le Temple du Seigneur, et la Ville sainte. Ils prient le Seigneur de verser ses bénédictions sur Jérusalem, et sur se habitants.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Lætatus sum in his quæ dicta sunt mihi : in domum Domini ibimus.",
+      "french": "Je me suis réjoui, à cause de ce qui m’a été dit : Que nous irons en la maison du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0247.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Stantes erant pedes nostri, in atriis tuis Jerusalem.",
+      "french": "Nos pieds se sont arrêtez dans vos parvis, ô Jerusalem !",
+      "annotations": null,
+      "source_pages": [
+        "page_0248.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Jerusalem, quæ ædificatur ut civitas : cujus participatio ejus in idipsum.",
+      "french": "Jérusalem, que l’on bâtit comme une ville : au bonheur de laquelle tous ses habitants participent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0248.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Illuc enim ascenderunt tribus, tribus Domini : testimonium Israël, ad confitendum nomini Domini.",
+      "french": "Car c’est-là que monteront toutes les tribus, les tribus du Seigneur : selon le précepte donné à Israël, pour y célébrer les louanges du nom du Seigneur.",
+      "source_pages": [
+        "page_0249.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quia illic sederunt sedes in judicio, sedes super domum David.",
+      "french": "Car c’est-là qu’ont été établis les trônes de la justice, les trônes de la maison de David.",
+      "source_pages": [
+        "page_0249.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Rogate quæ ad pacem sunt Jerusalem : et abundantia diligentibus te.",
+      "french": "Demandez à Dieu tout ce qui peut contribuer à la paix de Jérusalem ; et que ceux qui t’aiment, ô ville sainte, saient dans l’abondance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0250.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Fiat pax in virtute tua : et abundantia in turribus tuis.",
+      "french": "Que la paix règne dans tes forteresses, et l’abondance dans tes tours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0250.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Propter fratres meos, et proximos meos, loquebar pacem de te.",
+      "french": "Je t’ai souhaité la paix, à cause de mes frères, et de mes proches.",
+      "annotations": null,
+      "source_pages": [
+        "page_0251.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Propter domum Domini Dei nostri, quæsivi bona tibi.",
+      "french": "J’ai cherché à te procurer toute forte de biens, à cause de la maison du Seigneur notre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0251.json"
+      ]
+    }
+  ]
+}

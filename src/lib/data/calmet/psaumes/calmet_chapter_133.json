@@ -1,0 +1,78 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "ecce nunc benedicite Dominum.",
+      "lemma": "Maintenant donc bénissez le Seigneur, vous qui êtes les serviteurs du Seigneur, qui demeurez dans sa Maison, et dans ses parvis.",
+      "text": "Cette exhortation s’adresse aux Prêtres, et aux Lévites. Ils sont désignez par ces mots : _Vous qui demeurez dans la Maison de Dieu, et dans ses parvis._ Vous voilà heureusement réunis, et rétablis dans vos fonctions. C’est à vous à en remplir fidélement les devoirs. Ne cessez donc de bénir le Seigneur, et de lui représenter les besoins de tout son peuple, dont vous recevez les offrandes, et dont vous êtes les médiateurs."
+    },
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "qui statis in domo Domini, in atriis domus Dei nostri.",
+      "lemma": "Vous qui demeurez dans la Maison du Seigneur, dans les parvis de sa Maison.",
+      "text": "Ces derniers mots : _In atriis Domûs Dei nostri_, ne sont point dans l’Hébreu, ni dans le Caldéen. Ils sont pris du Pseaume suivant, ℣. 2. [1] L’Hébreu joint à ce verset le commencement du verset suivant, de cette sorte : ℣. 2. _Vous qui demeurez dans la Maison du Seigneur pendant la nuit_ ; ℣. 3. _Elevez vos mains vers le Sanctuaire._ Les Laïcs ne demeuraient pas dans le Temple pendant la nuit ; les Prêtres, et les Lévites de quartier y demeuraient seuls, et y faisaient bonne garde. On sait qu’il n’y avait proprement que deux parvis dans le Temple ; celui des Prêtres, et celui du peuple. Mais il y avait quelque séparation dans celui-ci pour les femmes ; et peut-être aussi dans celui-là, pour distinguer les Prêtres des Lévites."
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "in noctibus extollite manus vestras in sancta.",
+      "lemma": "Elevez vos mains durant les nuits vers le Sanctuaire.",
+      "text": "Vous qui passez la nuit dans le Temple, priez le Seigneur qu’il ait pitié d’Israël. Ceci a rapport aux Lévites de garde, car on ne voit pas par la Loi que les Prêtres veillassent ; si ce n’est peut-être qu’il y en ait eu quelqu’un, pour conserver le feu de l’Autel des holocaustes, où l’on mettait la derniere hostie, au crépuscule du soir ; et l’on faisait en sorte qu’elle durât jusqu’à l’aurore, où l’on y en remettait une autre. Les Juifs priaient souvent les mains élevées au Ciel, ou vers le Temple. C’est un geste naturel à tous ceux qui prient Dieu. Saint Paul [2] veut que les Fidèles lévent les mains pures vers le Ciel, en tout lieu, et en tout temps. Agatharcides [3] dit que les jours de Sabbat les Juifs ne font aucune œuvre servile, et laborieuse ; mais qu’ils demeurent dans le Temple jusqu’au soir, priant Dieu les mains élevées en haut. On peut traduire l’Hébreu [4] par : _Elevez vos mains dans la sainteté, dans la pureté, dans l’innocence._ Le Caldéen : _Sur la tribune de la sainteté._ Les Lévites montaient quelquefois sur cette tribune, pour chanter, et pour lire la Loi. [5]"
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "benedicat te Dominus ex Sion, qui fecit coelum, et terram.",
+      "lemma": "Que le Seigneur vous bénisse de Sion, lui qui a fait le Ciel, et la terre ; le Dieu tout-puissant, Créateur de l’univers.",
+      "text": "C’est la réponse des Prêtres, et des Lévites au peuple qui s’en retourne après la Dédicace du Temple. Nous exécuterons vos désirs : Allez en paix : Que le Seigneur vous comble de ses bénédictions. Bénir le peuple, était une fonction réservée aux Prêtres, selon la Loi. [6] Et voici les formules dont ils se servaient, lesquelles sont équivalentes à celle que nous lisons ici. Voici comme vous bénirez les enfants d’Israël, dit Moyse ; et vous leur direz : _Que le Seigneur vous bénisse, et vous regarde : Qu’il vous monstre son visage favorable, et qu’il ait compassion de vous : Qu’il tourne son visage vers vous, et qu’il vous donne la paix._"
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0304>page_0305",
+      "verse": 3,
+      "mode": "flow",
+      "before": "n y en remettait une autre. Les Juifs priaient souvent les",
+      "after": "mains élevées au Ciel, ou vers le Temple. C’est un geste n"
+    }
+  ],
+  "pages_used": [
+    "page_0304",
+    "page_0305"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0304-a",
+      "n": 1,
+      "text": "תאות לבו נתתה לו וארשת שפתיו בל מנעת"
+    },
+    {
+      "key": "page_0305-a",
+      "n": 2,
+      "text": "2 Rois 12,30."
+    },
+    {
+      "key": "page_0305-b",
+      "n": 3,
+      "text": "Ecclésiastique 47,7. _Laudavit eum in benedictionibus Domini, in offerendo illi coronam gloriæ._"
+    },
+    {
+      "key": "page_0305-c",
+      "n": 4,
+      "text": "עטרת* פז* _saint Jérôme : Coronam de obrizo._"
+    },
+    {
+      "key": "page_0305-d",
+      "n": 5,
+      "text": "Le Chaldéen ; Saint Jérôme ; Saint Augustin ; Génébrard ; Bellarmin ; et d’autres."
+    },
+    {
+      "key": "page_0305-e",
+      "n": 6,
+      "text": "Voyez Euthyme ; Ferrand ; de Muis."
+    }
+  ],
+  "missing_footnotes": []
+}

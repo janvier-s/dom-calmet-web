@@ -1,0 +1,125 @@
+{
+  "book": "Psaumes",
+  "chapter": 2,
+  "chapter_summary": "Efforts inutiles des ennemis du Messie contre lui, et contre son Église. Sa victoire, sa génération, son règne.",
+  "chapter_intro": "Ce Psaume est l’ouvrage de David, comme les Disciples de Jésus-Christ et les Apôtres le publient dans les Actes/^{(b)} Il n’a point de titre dans l’Hébreu, ni dans la plupart des exemplaires des Septante, ni dans la Vulgate. Mais dans d’autres Exemplaires grecs et latins,^{(c)} il a pour titre : _Psaume de David_. Dans quelques-uns, il est cité comme le _premier Psaume_.^{(d)} Dans quelques Exemplaires des Actes des Apôtres, il est cité comme le premier Psaume, et dans d’autres comme le second.^{(e)} Saint Jérôme n’y lisait point de titre ; et il dit même qu’il ne faisait qu’un seul Psaume avec le premier, suivant cette maxime des Hébreux ; que l’on ne compte pas les Psaumes qui sont sans titre : ^{(f)} _Qui prætitulati non habentur, apud Hebræos pro uno Psalmo habentur_. Saint Grégoire de Nysse, saint Hilaire, Cassiodore, et quelques autres, y reconnaissent un titre. Théodoret au contraire n’y en reconnaît point. Cela fait voir que dès les premiers siècles, les Exemplaires Grecs et Latins ont varié. A l’égard des Hébreux, Origène ^{(a)} témoigne qu’ayant consulté deux Exemplaires Hébreux des Pseaumes, il y en avait un qui joignait le second Psaume avec le premier, et un autre qui l’en séparait. Il ajoute qu’en général les Hébreux ne mettent aucun chiffre pour marquer le nombre, et l’ordre des Psaumes dans leur Bible. Kimchi témoigne qu’encore de son temps (au XIIe siècle) il y avait des Exemplaires Hébreux, et plusieurs RaBbins, qui ne faisaient qu’un Psaume des deux. Agellius dit qu’il a vu quelques Exemplaires Grecs, où le second n’était pas séparé du premier.\nLes Apôtres dans le nouveau Testament, ^{(b)} les anciens Pères Grecs, et Latins, ^{(c)} les anciens Rabbins, ^{(d)} les Interprètes Chrétiens nous apprennent, que ce Psaume regarde le Messie ; mais avec cette différence que les Pères, et les anciens Interprètes le bornent à Jésus-Christ seul, en excluant tout autre sens, au lieu que plusieurs nouveaux Commentateurs ^{(e)} croient qu’il peut s’entendre, selon quelques-unes de ses parties, de David : et de Jésus-Christ seul dans tout le reste ; en sorte toutefois que ces endroits-là mêmes, qu’on explique de David, s’entendent encore mieux de Jésus-Christ. Les nouveaux Rabbins le bornent à David seul. Mais il faut faire une violence visible au Texte, pour soutenir ce sentiment, comme on le verra dans le Commentaire. Quelques nouveaux Critiques ^{(f)} veulent qu’il convienne à David dans le sens historique et litteral, et à Jésus-Christ seulement dans le sens mystique et spirituel. Sentiment dont tous les bons Chrétiens doivent avoir horreur, puisque cette explication énerve toute la force de la Prophétie. Nous nous en tenons donc à la méthode des Pères, sans toutefois condamner absolument ceux, qui adaptent à David quelques passages de ce Psaume.\nOn conjecture que le Psalmiste le composa, lorsqu’après la prise de Jérusalem sur les Jébuséens, il y établit le siège de son Royaume. ^{(g)} Les Philistins l’ayant appris, vinrent se camper dans la vallée des Réphaims, fort près de Jérusalem. Joseph assure ^{(h)} que toute la Syrie, toute la Phénicie, et d’autres Peuples belliqueux avaient joint leurs armes à celles des Philistins, pour opprimer David, avant qu’il pût s’affermir dans sa nouvelle domination. David consulta le Seigneur, ^{(i)} battit les ennemis, et remporta sur eux une glorieuse victoire. Ce fut donc à l’occasion de son avénement au Royaume de tout Israël, de la prise de Jérusalem, de la conspiration des Princes voisins contre lui, et de la victoire qu’il remporta sur eux, que David composa ce Psaume, où il chante les combats, la victoire et le règne du Messie, dont lui-même était la figure.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Quare fremuerunt Gentes, et populi meditati sunt inania ?",
+      "french": "Pourquoi les Nations se sont-elles soulevées avec un grand bruit, et les peuples ont-ils formé de vains desseins ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Astiterunt Reges terræ, et Principes convenerunt in unum, adversus Dominum, et adversus Christum ejus.",
+      "french": "Les Rois de la terre se sont opposés ; et les Princes se sont assemblés contre le Seigneur, et contre son CHRIST et son Oint.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Dirumpamus vincula eorum : et projiciamus à nobis jugum ipsorum.",
+      "french": "Rompons, disent-ils ; leurs liens, et rejetons loin de nous leur joug.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Qui habitat in cœlis irridebit eos, et Dominus subsannabit eos.",
+      "french": "Celui qui demeure dans les cieux se rira d’eux ; et le Seigneur s’en moquera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Tunc loquetur ad eos in ira sua, et in furore suo conturbabit eos.",
+      "french": "Il leur parlera alors dans sa colère, et les remplira de trouble dans sa fureur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ego autem constitutus sum Rex ab eo super Sion montem sanctum ejus, prædicans præceptum ejus.",
+      "french": "Mais pour moi, j’ai été établi Roi par lui sur Sion, sa sainte montagne, afin que j’annonce ses préceptes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Dominus dixit ad me : Filius meus es tu ; ego hodie genui te.",
+      "french": "Le Seigneur m’a dit : vous êtes mon fils ; je vous ai engendré aujourd’hui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Postula à me, et dabo tibi Gentes hæreditatem tuam, et possessionem tuam terminos terræ.",
+      "french": "Demandez-moi, et je vous donnerai les nations pour votre héritage, et j’étendrai votre empire jusqu’aux extrémités de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Reges eos in virga ferrea, et tamquam vas figuli confringes eos.",
+      "french": "Vous les gouvernerez avec une verge de fer, et les briserez comme le vase du potier.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et nunc, Reges, intelligite : erudimini, qui judicatis terram.",
+      "french": "Et vous maintenant, ô Rois, ouvrez votre cœur à l’intelligence ; recevez les instructions de la verité, vous qui jugez la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Servite Domino in timore : et exultate ei cum tremore.",
+      "french": "Servez le Seigneur dans la crainte, et réjouissez-vous en lui avec tremblement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Apprehendite disciplinam, nequando irascatur Dominus, et pereatis de via justa.",
+      "french": "Embrassez étroitement la pureté de la discipline, de peur qu’enfin le Seigneur ne se mette en colère, et que vous ne périssiez hors de la voie de la justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Cum exarserit in brevi ira ejus, beati omnes qui confidunt in eo.",
+      "french": "Lorsque dans peu de temps sa colère se sera embrasée, heureux tous ceux qui mettent en lui leur confiance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0101.json"
+      ]
+    }
+  ]
+}

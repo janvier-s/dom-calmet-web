@@ -1,0 +1,88 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "in quarto-decimo anno regis Ezechiæ, ascendit Sennacherib.",
+      "lemma": "La quatorzième année du règne d’Ezéchias, Sennachérib, Roi des Assyriens, prit toutes les plus fortes villes de Juda ; en sorte qu’il ne restait presque plus que Jérusalem au pouvoir d’Ezéchias.",
+      "text": "Comme nous avons expliqué tout ce Chapitre dans le Commentaire sur le Ch. XVIII. du quatrième Livre des Rois, ℣. 13. et dans les suivants, nous nous contenterons ici de marquer quelques differences qui se trouvent entre Isaïe, et les Rois. Le Prophète Isaïe, ou ceux qui ont ramassé ses Ouvrages après sa mort, ont inséré ici quatre Chapitres, qui contiennent le récit des choses que le Prophète avait prédites dans les Chapitres précédents. C’était une espece de Commentaire, qui expliquait la prophétie. La conformité entre ces Chapitres, et le Texte du quatrième Livre des Rois, est sensible, et la fin du Chap. XXXVIII. 22. d’Isaïe est ici imparfaite, puisque le Roi Ezéchias y fait une question à Isaïe, à laquelle le Prophète ne répond pas, et dont on ne trouve la réponse que dans le quatrième Livre des Rois, Chap. XX. ℣. 9. Ainsi on ne peut raisonnablement douter que ceci ne soit tiré d’ailleurs."
+    },
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "misit Rabsacen.",
+      "lemma": "Il envoya Rabsacés.",
+      "text": "Ce ne fut qu’à son retour de la guerre contre l’Egypte, et après avoir reçu trois cens talents d’argent, et trente talents d’or, dont Sennachérib était convenu avec Ezéchias. Pour faire cette somme, Ezéchias avait été obligé d’épuiser ses trésors, et ceux de la Maison de Dieu, et d’arracher l’or qui couvrait les portes. du Temple. [1] Toutes circonstances qui sont omises en cet endroit-ci."
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "quo consilio, vel fortitudine rebellare disponis ?",
+      "lemma": "Par quel dessein, et avec quelle force prétendez-vous vous révolter ?",
+      "text": "L’Hébreu : [2] _J’ai dit_ (ou plutôt, _vous avez dit_) _un discours des lèvres ; vous avez prononcé des discours en l’air, et pleins de vanité : J’ai du conseil, et de la force pour faire la guerre. Mais à présent qui vous a donné la consiance de vous révolter contre moi ? Ou bien : Vous avez fait un complot ; ou, vous avez tenu des discours : mais il faut du conseil, et de la force pour faire la guerre ; et en qui vous confiez-vous, pour vous révolter_ contre moi ? Les Septante : (_a_) _Met-on une armée en bataille avec du conseil, et des discours ? Et à présent en qui mettez-vous votre confiance, pour me manquer de fidélité ?_ Le Caldéen : _Vous avez dit : Je ferai la guerre par mes discours, par mes conseils, et par ma puissance, etc._"
+    },
+    {
+      "verse": 8,
+      "sub": false,
+      "latin_lemma": "trade te Domino meo.",
+      "lemma": "Rendez-vous au Roi des Assyriens.",
+      "text": "Rabsacés parle aux Officiers du Roi Ezéchias, comme si ce Prince eût été présent. Il lui dit selon l’Hébreu, (_b_) de livrer des ôtages, ou de s’engager par serment de reconnaître le Roi des Assyriens, et de lui obéir. Saint Jérôme lit dans les Livres des Rois : (_c_) _Passez vers le Roi mon Maître._"
+    },
+    {
+      "verse": 9,
+      "sub": false,
+      "latin_lemma": "quomodo sustinebis faciem unius judicis ?",
+      "lemma": "Comment pourrez-vous soûtenir contre un des moindres Juges ?",
+      "text": "L’Hébreu : (_d_) _Comment vous tiendrez-vous devant un Gouverneur des moindres serviteurs_ de mon Maître ? Saint Jérôme traduit _Pachas_ par un _Satrape_ ; 4 Rois 18:24."
+    },
+    {
+      "verse": 21,
+      "sub": false,
+      "latin_lemma": "et siluerunt, et non responderunt.",
+      "lemma": "Ils demeurérent dans le silence, et ils ne lui répondirent pas un mot.",
+      "text": "Tout le peuple qui écoutait sur les murailles, et les trois Envoyez demeurerent dans le"
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0520>page_0521",
+      "verse": 2,
+      "mode": "hyphen",
+      "before": "aison de Dieu, et d’arracher l’or qui couvrait les portes.",
+      "after": "tes du Temple. ^{(a)} Toutes circonstances qui sont omises"
+    },
+    {
+      "seam": "page_0521>page_0522",
+      "verse": 5,
+      "mode": "mend",
+      "before": "guerre ; et en qui vous confiez-vous, pour vous révolter_.",
+      "after": "contre moi ? Les Septante : (_a_) _Met-on une armée en bat"
+    },
+    {
+      "seam": "page_0522>page_0523",
+      "verse": 9,
+      "mode": "flow",
+      "before": "iendrez-vous devant un Gouverneur des moindres serviteurs_",
+      "after": "de mon Maître ? Saint Jérôme traduit _Pachas_ par un _Satr"
+    }
+  ],
+  "pages_used": [
+    "page_0520",
+    "page_0521",
+    "page_0522",
+    "page_0523"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0521-a",
+      "n": 1,
+      "text": "4 Rois 18,14-16."
+    },
+    {
+      "key": "page_0521-b",
+      "n": 2,
+      "text": "אמרתי אך דבר שפתים עצה וגבורה למלחמה כי עתה על מי בטחת כי מרדת בי _Vous avez dit_, au lieu de אמרתי _j’ai dit_. Saint Jérôme, et le Cald. et les Sept. et quelques Exemplaires Hébreux, lisent de même ici. Au quatrième des Rois Ch. XVIII. 19. on lit אמרת"
+    }
+  ],
+  "missing_footnotes": []
+}

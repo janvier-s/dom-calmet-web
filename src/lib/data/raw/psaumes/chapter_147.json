@@ -1,0 +1,75 @@
+{
+  "book": "Psaumes",
+  "chapter": 147,
+  "chapter_summary": "Le Prophète exhorte Jérusalem à louer le Seigneur, à cause de la protection qu’il lui a donnée, et des biens dont il l’a comblée. Il relève la puissance que Dieu fait paraître dans la production de la neige, de la bruine, de la grêle, de la glace ; et les faveurs singulières qu’il a faites à Israël.\n\nAlleluia. | Louez Dieu.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Lauda, Jerusalem, Dominum : lauda Deum tuum, Sion.",
+      "french": "Jerusalem, loue le Seigneur : Sion, loue ton Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0401.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quoniam confortavit seras portarum tuarum : benedixit filiis tuis in te.",
+      "french": "Parce qu’il a fortifié les ferrures de tes portes ; et qu’il a béni les enfants que tu renfermes dans ton enceinte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0401.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Qui posuit fines tuos pacem : et adipe frumenti satiat te.",
+      "french": "Il a établi la paix jusqu’à tes confins ; et il te rassasie du meilleur froment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0401.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Qui emittit eloquium suum terræ : velociter currit sermo ejus.",
+      "french": "Il envoye sa parole à la terre ; et cette parole est portée par tout avec une extrême vîtesse.",
+      "source_pages": [
+        "page_0402.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Qui dat nivem sicut lanam : nebulam sicut cinerem spargit.",
+      "french": "Il fait que la neige tombe comme de la laine sur la terre : il y répand le brouillard comme de la cendre.",
+      "source_pages": [
+        "page_0402.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Mittit chrystallum suam sicut buccellas : ante faciem frigoris ejus quis sustinebit ?",
+      "french": "Il envoye sa glace divisée en une infinité de parties. Qui pourra soûtenir la rigueur extrême de son froid ?",
+      "source_pages": [
+        "page_0403.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Emitet verbum suum, et liquefaciet ea : flabit spiritus ejus, et fluent aquæ.",
+      "french": "Mais au moment qu’il aura donné ses ordres, il fera fondre toutes ces glaces. Son vent soufflera, et les eaux couleront à l’heure même.",
+      "source_pages": [
+        "page_0404.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Qui annuntiat verbum suum Jacob : justitias, et judicia sua Israël.",
+      "french": "Il annonce sa parole à Jacob ; ses jugements, et ses ordonnances à Israël.",
+      "source_pages": [
+        "page_0404.json"
+      ]
+    }
+  ]
+}

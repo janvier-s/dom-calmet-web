@@ -1,0 +1,130 @@
+{
+  "book": "Psaumes",
+  "chapter": 47,
+  "chapter_summary": "La grandeur du Seigneur éclate dans son saint Temple, et dans Jérusalem. Il les défend contre les entreprises des Rois, et des Puissances de la terre. Il fait éclater sa gloire jusqu’aux extrémités du monde.\n\nPsalmus Cantici filiis Core, secunda sabbathi. Psaume, ou Cantique des enfants de Coré, le second jour de la semaine.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "Psalmus cantici. Filiis Core, secunda sabbati.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0608.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Magnus Dominus, et laudabilis nimis, in civitate Dei nostri, in monte sancto ejus.",
+      "french": "Le Seigneur est grand, et digne de toute louange, dans la cité de notre Dieu, et sur sa sainte montagne.",
+      "source_pages": [
+        "page_0608.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Fundatur exultatione universæ terræ mons Sion, latera Aquilonis, civitas Regis magni.",
+      "french": "Le mont de Sion, cette ville du grand Roi, bâtie du côté de l’Aquilon, est fondée avec les réjouissances de toute la terre.",
+      "source_pages": [
+        "page_0608.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Deus in domibus ejus cognoscetur, cùm suscipiet eam.",
+      "french": "Dieu sera connu dans ses maisons, lorsqu’il en prendra la défense.",
+      "annotations": null,
+      "source_pages": [
+        "page_0610.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quoniam ecce Reges terræ congregati sunt : convenerunt in unum.",
+      "french": "Parce que les Rois de la terre se sont assemblés, et ont conspiré unanimement contre elle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0610.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Ipsi videntes sic admirati sunt, conturbati sunt, commoti sunt : tremor apprehendit eos.",
+      "french": "L’ayant vu eux-mêmes ; ils ont été tout étonnés, tout remplis de trouble, et d’une émotion extraordinaire ; et le tremblement les a saisis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0611.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ibi dolores ut parturientis : in spiritu vehementi conteres naves Tharsis.",
+      "french": "Alors ils ont été saisis comme des douleurs de l’enfantement ; vous avez brisé les vaisseaux de Tharse, par le souffle d’un vent impétueux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0611.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Sicut audivimus, sic vidimus in civitate Domini virtutum, in civitate Dei nostri : Deus fundavit eam in æternum.",
+      "french": "Nous avons vu dans la cité du Seigneur des armées, dans la cité de notre Dieu, tout ce que nous avons dit : Dieu l’a fondée, et affermie pour toute l’éternité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0612.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Suscepimus, Deus, misericordiam tuam in medio templi tui.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0612.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Secundum nomen tuum, Deus, sic et laus tua in fines terræ : justitia plena est dextera tua.",
+      "french": "Comme la gloire de votre nom, ô Dieu ! s’étend jusqu’aux extrémités de la terre, votre louange s’y étend de même. Votre droite est pleine de justice.",
+      "source_pages": [
+        "page_0614.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Lætetur mons Sion, et exultent filiæ Judæ, propter judicia tua Domine.",
+      "french": "Que le mont de Sion se réjouisse, et que les filles de Juda saient dans des transports de joie, à cause de vos jugements, Seigneur.",
+      "source_pages": [
+        "page_0614.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Circumdate Sion et complectimini eam : narrate in turribus ejus.",
+      "french": "Environnez Sion, et embrassez-la : racontez toutes ces choses du haut de ses tours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0615.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Ponite corda vestra in virtute ejus : et distribuite domos ejus, ut enarretis in progenie altera.",
+      "french": "Appliquez-vous à considérer sa force ; et faites le dénombrement de ses maisons ; afin que vous en fassiez le récit aux races futures.",
+      "annotations": null,
+      "source_pages": [
+        "page_0615.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Quoniam hic est Deus, Deus noster in æternum, et in sæculum sæculi : ipse reget nos in sæcula.",
+      "french": "Car c’est lui qui est notre Dieu, notre Dieu pour toute l’éternité, et il regnera sur nous dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    }
+  ]
+}

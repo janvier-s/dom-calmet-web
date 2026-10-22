@@ -1,0 +1,113 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "jubilate Deo, omnis terra, servite Domino in lætitia.",
+      "lemma": "Chantez au Seigneur, vous tous habitants de la terre, servez le Seigneur avec joie.",
+      "text": "Que toute la terre, que tous les peuples du monde, sans distinction de Juifs, ou de Gentils, viennent adorer le Seigneur, et reconnaître sa Majesté, et son empire ; qu’ils viennent lui rendre leurs respects, leurs hommages, et leurs services dans de saints transports de joie. Dieu veut être servi de bon cœur, avec joie, avec plaisir. Les hommes mêmes méprisent des services forcez, et rendus à contre-cœur."
+    },
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "in exultatione.",
+      "lemma": "Avec joie.",
+      "text": "L’Hébreu : [1] _Avec des chants de joie, ou des louanges, des hymnes._"
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "Dominus ipse est Deus, ipse fecit nos, et non ipsi nos.",
+      "lemma": "Le Seigneur est le vrai Dieu, c’est lui qui nous a faits, et nous ne nous sommes pas faits nous-mêmes.",
+      "text": "Voilà ce que le Psalmiste veut que toute la terre reconnaisse. La plupart des hommes étaient plongez dans une ignorance si prodigieuse, qu’ils ignoraient jusqu’à l’Auteur de leur être ; ils rendaient de souverains hommages à des créatures plus viles, plus méprisables, plus vicieuses, plus corrompuës, qu’ils ne l’étaient eux-mêmes. Il n’y a que la vraie Religion qui ait pu les détromper, et les ramener au vrai principe de leur être. L’Hébreu se traduit de différentes sortes. [2] Symmaque : [3] _Il nous a tirez du néant, et nous a donné l’être._ Saint Jérôme, et le Chaldéen : [4] _Il nous a créez, et nous sommes_ més à lui. Mais la traduction de la Vulgate, et des Septante,[5] est la plus simple, et la plus conforme au texte. Quelques-uns le joignent à ce qui suit : _C’est lui qui nous a faits, mais nous ne sommes pas demeurez son peuple, et son troupeau._ Nous ne lui avons pas gardé la fidélité que nous lui devions. Cela est trop subtil."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "populus eius, et oves pascuæ eius.",
+      "lemma": "Vous qui êtes son peuple, et qu’il nourrit comme ses brebis.",
+      "text": "Les Pères[6] sous le nom de peuple, entendent les Juifs ; et sous celui de troupeau, ou de brebis, les Gentils. Théodoret est plus naturel, lorsqu’il dit que Dieu est non seulement notre Roi, mais aussi notre Pasteur : nous sommes son peuple, et son troupeau."
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "in æternum misericordia ejus, et usque in generationem… veritas ejus.",
+      "lemma": "Sa miséricorde est éternelle, et sa verité s’étendra dans la suite de toutes les races.",
+      "text": "L’Ecriture joint presque toujours la miséricorde, et la verité. La miséricorde qui prévient, et qui promet des grâces ; et la verité qui les accomplit, et qui les exécute. Le Seigneur a promis par sa bonté, de délivrer un jour son peuple de la captivité de Babylone, il a tenu sa parole ; nous avons des preuves certaines de sa constante miséricorde envers nous. Le même Seigneur a promis d’appeller les nations étrangères à sa connaissance, et à la foi : nous voyons l’heureux accomplissement de ces promesses. Il est donc vrai que sa miséricorde, et sa verité, sont éternelles.\n\nQUelques anciens Exemplaires Grecs portaient : [7] Pseaume de David, pour le quatrième jour de la semaine. Mais cette addition ne se lisais ni dans l’Hébreu, ni dans les anciens Interprètes, ni dans les meilleurs Exemplaires des Septante. Ce Pseaume est tout moral ; on peut le considérer, suivant la pensée de saint Athanase, comme la description d’un homme parfait. Un Commentateur célèbre [8] dit qu’on pourrait lui donner pour titre : Miroir des Princes. Théodoret croit que David a eu dessein d’y peindre le saint et pieux Roi Josias. Il applique au zèle que ce Prince témoigna contre les Prêtres des faux-Dieux, qu’il fit tous tuer, [9] ce qui est dit à la fin de ce Pseaume, je mettais à mort dés le matin tous les pécheurs de la terre. D’autres [10] croient que David s’y dépeint lui-même, et répand son cœur devant Dieu, en lui disant ce qu’il était résolu de faire, et ce qu’il faisait en effet, depuis qu’il était paisible possesseur du Royaume des douze Tribus. C’est ce qui nous paraît le plus probable."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0625>page_0626",
+      "verse": 3,
+      "mode": "flow",
+      "before": "déen : ^{fn:page_0625-e} _Il nous a créez, et nous sommes_",
+      "after": "més à lui. Mais la traduction de la Vulgate, et des Septan"
+    },
+    {
+      "seam": "page_0626>page_0627",
+      "verse": 5,
+      "mode": "para",
+      "before": "nc vrai que sa miséricorde, et sa verité, sont éternelles.",
+      "after": "QUelques anciens Exemplaires Grecs portaient : ^{(a)} Psea"
+    }
+  ],
+  "pages_used": [
+    "page_0625",
+    "page_0626",
+    "page_0627"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0625-b",
+      "n": 1,
+      "text": "[UNCERTAIN HEBREW] (c) [UNCERTAIN HEBREW] Je prens [UNCERTAIN HEBREW] pour [UNCERTAIN HEBREW] seculum. Euum. Voies Isaïe 38,11. Psaumes 38,5."
+    },
+    {
+      "key": "page_0625-c",
+      "n": 2,
+      "text": "אנהנו"
+    },
+    {
+      "key": "page_0625-d",
+      "n": 3,
+      "text": "Sym. Αὐτὸς ἐποίησεν ἡμᾶς ἐκ ἀντος."
+    },
+    {
+      "key": "page_0625-e",
+      "n": 4,
+      "text": "Ils ont lû הוא עשנו ולו אנחנו כי"
+    },
+    {
+      "key": "page_0626-a",
+      "n": 5,
+      "text": "_Saint Ambroise : Jumentis quæ sensum non habent. Saint Augustin : Jumentis insensatis. Les Septante : Ἀνοήτοις. L’Hébreu_ דמה, _Silentibus_, ou, _De quibus siletur._"
+    },
+    {
+      "key": "page_0626-b",
+      "n": 6,
+      "text": "_Theodoret. Hieronym._"
+    },
+    {
+      "key": "page_0627-a",
+      "n": 7,
+      "text": "Voyez saint Jean Chrysostome."
+    },
+    {
+      "key": "page_0627-b",
+      "n": 8,
+      "text": "Saint Augustin ; Cassiodore ; le Psautier romain ; le Psautier de Saint-Germain ; le Psautier de Chartres : In ore suo benedicent. Les Septante ; l’édition de Complute ; Héracléote ; Saint Jean Chrysostome ; Théodoret ; Codices Grecs Regii et Colbert : Εὐδοκιμήσουσι ; l’édition romaine : Εὐλογήσουσιν."
+    },
+    {
+      "key": "page_0627-c",
+      "n": 9,
+      "text": "Théodoret."
+    },
+    {
+      "key": "page_0627-d",
+      "n": 10,
+      "text": "זה דרכם כסל למו ואחריהם בפיהם ירצו"
+    }
+  ],
+  "missing_footnotes": []
+}

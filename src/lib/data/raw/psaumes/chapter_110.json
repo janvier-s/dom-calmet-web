@@ -1,0 +1,85 @@
+{
+  "book": "Psaumes",
+  "chapter": 110,
+  "chapter_summary": "Le Prophète relève la grandeur, la puissance, la justice, la vérité du Seigneur. Il loue la magnificence de ses œuvres, la majesté de son nom. Le commencement de la sagesse est la crainte du Seigneur.\n\nAlleluia. | Louez Dieu.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 2,
+      "latin": "Magna opera Domini : exquisita in omnes voluntates ejus.",
+      "french": "Les œuvres du Seigneur sont grandes, ce sont des productions exquises de sa bonne volonté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0121.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Confessio, et magnificentia opus ejus : et justitia ejus manet in sæculum sæculi.",
+      "french": "Tout ce qu’il fait, publie ses louanges et sa magnificence ; sa justice subsiste dans tous les siècles.",
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Memoriam fecit mirabilium suorum, misericors, et miserator Dominus : escam dedit timentibus se.",
+      "french": "Le Seigneur qui est miséricordieux, et plein de clémence, a rappellé la mémoire de ses merveilles : il a donné la nourriture nécessaire à ceux qui le craignent.",
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Memor erit in sæculum testamenti sui : virtutem operum suorum annuntiabit populo suo :",
+      "french": "Il a conservé éternellement le souvenir de son alliance ; il a fait connaître à son peuple la puissance de ses œuvres ;",
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ut det illis hæreditatem gentium. Opera manuum ejus, veritas, et judicium.",
+      "french": "En leur donnant l’héritage des nations. Les œuvres de ses mains ne sont autre chose que vérité, et que justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Fidelia omnia mandata ejus : confirmata in sæculum sæculi, facta in veritate, et æquitate.",
+      "french": "Tous ses préceptes sont fidèles, et stables, dans tous les siècles ; ayant été faits sur les régles de la vérité, et de l’équité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Redemptionem misit populo suo : mandavit in æternum testamentum suum.",
+      "french": "Il a envoyé un Rédempteur à son peuple : il a fait une alliance avec lui pour toute l’éternité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Sanctum et terribile nomen ejus : initium sapientiæ timor Domini.",
+      "french": "Son nom est saint, et terrible. La crainte du Seigneur est le commencement de la sagesse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Intellectus bonus omnibus facientibus eum : laudatio ejus manet in sæculum sæculi.",
+      "french": "Tous ceux qui agissent conformément à cette crainte, sont remplis d’une intelligence salutaire. La louange du Seigneur subsiste dans tous les siècles.",
+      "source_pages": [
+        "page_0125.json"
+      ]
+    }
+  ]
+}

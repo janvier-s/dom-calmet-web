@@ -1,0 +1,159 @@
+{
+  "book": "Psaumes",
+  "chapter": 41,
+  "chapter_summary": "L’Auteur brûle du désir de revoir le Temple du Seigneur. Il est pénétré de douleur de s’entendre dire : Où est votre Dieu ? Il se console dans l’espérance de revoir sa patrie, et le Tabernacle de son Dieu.\n\nIn finem, Intellectus filiis Core. Pour la fin, Psaume instructif des enfants de Coré.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem. Intellectus filiis Core.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0543.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Quemadmodum desiderat cervus ad fontes aquarum, ita desiderat anima mea ad te, Deus.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0543.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Sitivit anima mea ad Deum, fortem, vivum ; quando veniam et apparebo ante faciem Dei ?",
+      "french": "Mon âme est toute brûlante de soif pour Dieu, pour le Dieu fort, et vivant. Quand viendrai-je, et quand paraîtrai-je devant la face de Dieu ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0543.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Fuerunt mihi lacrymæ meæ panes die ac nocte : dum dicitur mihi quotidie : Ubi est Deus tuus ?",
+      "french": "Mes larmes m’ont servi de pain, le jour et la nuit, lorsqu’on me dit tous les jours : Où est ton Dieu ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0544.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Hæc recordatus sum, et effudi in me animam meam : quoniam transibo in locum Tabernaculi admirabilis, usque ad domum Dei.",
+      "french": "Je me suis souvenu de ces choses, et je suis tombé en défaillance ; parce que je passerai dans le lieu du Tabernacle admirable, jusqu’à la maison de Dieu :",
+      "annotations": null,
+      "source_pages": [
+        "page_0545.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "In voce exultationis, et confessionis : sonus epulantis.",
+      "french": "Au milieu des chants d’allégresse, et de louange, et des cris de joie de ceux qui sont dans un grand festin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0547.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Quare tristis es, anima mea ? Et quare conturbas me ?",
+      "french": "Pourquoi mon âme, êtes-vous triste ? Et pourquoi me troublez-vous ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0547.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Spera in Deo, quoniam adhuc confitebor illi : salutare vultûs mei, et Deus meus.",
+      "french": "Espérez en Dieu ; parce que je dois encore le louer, comme celui qui est le salut, et la lumière de mon visage, et mon Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0548.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Ad meipsum anima mea conturbata est : proptereà memor ero tui de terra Jordanis, et Hermoniim à monte modico.",
+      "french": "Mon âme a été toute troublée en moi-même. C’est pourquoi je me souviendrai de vous, dans le pays du Jourdain, à Hermon, et à la petite montagne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0549.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Abyssus abyssum invocat, in voce cataractarum tuarum.",
+      "french": "Un abîme appelle et attire un autre abîme, au bruit des tempêtes, et des eaux que vous envoyez.",
+      "source_pages": [
+        "page_0550.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Omnia excelsa tua, et fluctus tui super me transierunt.",
+      "french": "Toutes vos eaux élevées comme des montagnes, et tous vos flots ont passé sur moi.",
+      "source_pages": [
+        "page_0550.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "In die mandavit Dominus misericordiam suam, et nocte canticum ejus.",
+      "french": "Le Seigneur a envoyé sa miséricorde durant le jour, et je lui chanterai la nuit un cantique d’action de grâces.",
+      "annotations": null,
+      "source_pages": [
+        "page_0551.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Apud me oratio Deo vitæ meæ. Dicam Deo ; Susceptor meus es.",
+      "french": "Voici la prière que j’offrirai au-dedans de moi, à Dieu, qui est l’auteur de ma vie. Je dirai à Dieu : Vous êtes mon défenseur, et mon refuge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0551.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Quare oblitus es mei ? Et quare contristatus incedo, dum affligit me inimicus ?",
+      "french": "Pourquoi m’avez-vous oublié ? Et pourquoi faut-il que je marche tout accablé de tristesse, tandis que je suis affligé par l’ennemi ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0552.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Dum confringuntur ossa mea, exprobraverunt mihi, qui tribulant me inimici mei.",
+      "french": "Pendant qu’on brise mes os, mes ennemis qui me persécutent, m’accablent par leurs reproches ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0552.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Dum dicunt mihi per singulos dies : Ubi est Deus tuus ? Quare tristis es anima mea ? Et quare conturbas me ?",
+      "french": "En me disant tous les jours : Où est ton Dieu ? Pourquoi, mon âme, êtes-vous triste ? et pourquoi me remplissez-vous de trouble ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0552.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Spera in Deo, quoniam adhuc confitebor illi : salutare vultûs mei, et Deus meus.",
+      "french": "Espérez en Dieu, parce que je dois encore le louer, comme celui qui est le salut et la lumière de mon visage, et mon Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0552.json"
+      ]
+    }
+  ]
+}

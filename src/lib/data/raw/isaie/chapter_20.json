@@ -1,0 +1,62 @@
+{
+  "book": "Isaïe",
+  "chapter": 20,
+  "chapter_summary": "Isaïe marche nud, et déchaux, pour marquer la captivité des Egyptiens, et des Ethiopiens assujettis par le Roi d’Assyrie.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "In anno, quo ingressus est Tharthan in Azotum, cùm misisset eum Sargon Rex Assyriorum, et pugnasset contra Azotum, et cepisset eam :",
+      "french": "L’Année que Thartan envoyé par Sargon Roi des Assyriens, vint à Azot, l’assiégea, et la prit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0352.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "In tempore illo locutus est Dominus in manu Isaiæ filii Amos, dicens : Vade, et solve saccum tuum de lumbis tuis, et calceamenta tua tolle de pedibus tuis. Et fecit sic, vadens nudus, et discalceatus.",
+      "french": "Cette année-là, dis-je, le Seigneur parla à Isaïe fils d’Amos, et il lui dit : Allez, ôtez le sac de dessus vos reins, et les souliez de vos pieds. Isaïe le fit, et il alla nud, et sans souliez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0354.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et dixit Dominus : sicut ambulavit servus meus Isaïas nudus, et discalceatus, trium annorum signum, et portentum erit super Ægyptum, et super Æthiopiam :",
+      "french": "Alors le Seigneur dit : Comme mon serviteur Isaïe a marché nud, et sans souliez pour être comme un prodige, qui marque ce qui doit arriver durant trois ans à l’Egypte, et à l’Ethiopie :",
+      "annotations": null,
+      "source_pages": [
+        "page_0355.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Sic minabit Rex Assyriorum captivitatem Ægypti, et transmigrationem Æthiopiæ, juvenum et senum, nudam et discalceatam, discoopertis natibus ad ignominiam Ægypti.",
+      "french": "Ainsi le Roi des Assyriens emmenera d’Egypte, et d’Ethiopie une foulé de captifs, et de prisonniers de guerre, les jeunes, et les vieillards, tous nuds, sans habits, et sans soulier, sans avoir même de quoi couvrir ce qui doit être caché dans le corps, à la honte de l’Egypte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0356.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et timebunt, et confundentur ab Æthiopia spe sua, et ab Ægypto gloriâ suâ.",
+      "french": "Et ils seront saisis de crainte, et ils rougiront d’avoir fondé leur espérance sur l’Ethiopie, et leur gloire sur l’Egypte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0357.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et dicet habitator insulæ hujus in die illa : Ecce hæc erat spes nostra ad quos confugimus in auxilium, ut liberarent nos à facie Regis Assyriorum : et quomodo effugere poterimus nos ?",
+      "french": "Les habitants de cette île diront alors : C’était donc là notre espérance ; voilà ceux dont nous implorions le secours pour nous délivrer de la violence du Roi des Assyriens ? et comment pourrons-nous nous sauver nous-mêmes ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0357.json"
+      ]
+    }
+  ]
+}

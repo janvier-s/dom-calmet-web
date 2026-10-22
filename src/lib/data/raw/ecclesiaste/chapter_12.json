@@ -1,0 +1,116 @@
+{
+  "book": "Ecclésiaste",
+  "chapter": 12,
+  "chapter_summary": "Craindre Dieu en tout temps. Enigne de la vieillesse, et de la mort. Vanité des choses du monde. Maximes de l’Ecclesiaste publiées après beaucoup d’études. Inutilité du grand nombre des livres. Tout se réduit à craindre Dieu, et à observer ses préceptes. L’homme lui rendra compte de tout le bien, et de tout le mal qu’il aura fait.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Memento Creatoris tui in diebus juventutis tuæ, antequam veniat tempus afflictionis, et appropinquent anni, de quibus dicas : Non mihi placent :",
+      "french": "Souvenez-vous de votre Créateur pendant les jours de votre jeunesse, avant que le temps de l’affliction soit arrivé, et que vous approchiez des années dont vous direz : Ce temps me déplaît :",
+      "annotations": null,
+      "source_pages": [
+        "page_0140.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Antequam tenebrescat sol, et lumen, et luna, et stellæ, et revertantur nubes post pluviam.",
+      "french": "Avant que le soleil, la lumière, l. lune et les étoiles s’obscurcissent ; et que les nuées retournent après la pluie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0140.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quando commovebuntur custodes domûs, et nutabunt viri fortissimi, et otiosæ erunt molentes in minùto numero, et tenebrescent videntes per foramina :",
+      "french": "Lorsque les gardes de la maison commenceront à trembler ; que les hommes les plus forts s’ébranleront ; que celles qui avaient accoutumé de moudre seront réduites en petit nombre, et deviendront oisives, et que ceux qui regardaient par les trous seront couverts de ténèbres :",
+      "annotations": null,
+      "source_pages": [
+        "page_0141.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Er claudent ostia in platea, in humilitate vocis molentis ; et consurgent ad vocem volucris, et obsurdescent omnes filiæ carminis.",
+      "french": "Quand ils fermeront les portes dans la ruë ; quand la voix de celle qui avait accoustumé de moudre, sera faible ; lorsqu’ils se leveront au chant de l’oiseau, et que les filles de l’harmonie deviendront sourdes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0142.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Excelsa quoque timebunt, et formidabunt in via. Florebit amygdalus, impinguescet locusta, et dissipabitur capparis : quoniam ibit homo in domum æternitatis suæ, et circuibunt in plateis plangentes.",
+      "french": "Ils auront même peur des lieux élevez, et ils craindront en chemin. L’amandier fleurira, la sauterelle s’engraissera, et les cappres se dissiperont : parce que l’homme s’en ira dans la maison de son éternité, et qu’on marchera en pleurant autour des ruës.",
+      "annotations": null,
+      "source_pages": [
+        "page_0144.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Antequam rumpatur funiculus argenteus, et recurrat vitta aurea, et conteratur hydria super fontem, et confringatur rota super cisternam.",
+      "french": "Avant que la chaine d’argent soit rompuë, que la bandelette d’or se retire, que la cruche se brise sur la fontaine, et que la rouë se rompe sur la citerne ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0146.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Vanitas vanitatum, dixit Ecclesiastes, et omnia vanitas.",
+      "french": "Vanité des vanités, dit l’Ecclésiaste ; tout est vanité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0148.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Cumque esset sapientissimus Ecclesiastes, docuit populum, et enarravit quæ fecerat : et investigans composuit parabolas multas.",
+      "french": "L’Ecclésiaste étant très sage, enseigna le peuple ; il publia ce qu’il avait fait, et dans cette étude il composa plusieurs paraboles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0149.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quæsivit verba utilia, et conscripsit sermones rectissimos ac veritate plenos.",
+      "french": "Il rechercha des paroles utiles, et il écrivit des discours pleins de droiture, et de vérité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0149.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Verba sapientium sicut stimuli, et quasi clavi in altum defixi, quæ per magistrorum consilium data sunt à pastore uno.",
+      "french": "Les paroles des sages sont comme des aiguillons, et comme des clous enfoncés profondément, que le Pasteur unique nous a donnés par le conseil, et la sagesse des maîtres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0149.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "His amplius, fili mi, ne requiras. Faciendi plures libros nullus est finis : frequentemque meditatio, carnis afflictio est.",
+      "french": "Ne recherchez rien davantage, mon fils. Il n’y a point de fin à multiplier les livres : et la continuelle méditation de l’esprit afflige le corps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0150.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et cuncta, quæ fiunt, adducet Deus in judicium pro omni errato, sive bonum, sive malum illud sit.",
+      "french": "Et Dieu fera rendre compte en son jugement de tout ce que l’on fait de plus secret, soit en bien, soit en mal.",
+      "annotations": null,
+      "source_pages": [
+        "page_0152.json"
+      ]
+    }
+  ]
+}

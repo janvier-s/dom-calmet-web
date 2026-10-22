@@ -5,6 +5,15 @@
   "chapter_intro": null,
   "verses": [
     {
+      "verse_number": 1,
+      "latin": "Cecidit quoque sors filiorum Joseph ab Jordane contra Jericho, et aquas ejus ab oriente : solitudo quæ ascendit de Jericho ad montem Bethel :",
+      "french": "Le partage échu par sort aux enfants de Joseph, fut depuis cette partie du Jourdain, qui coule vis-à-vis de Jéricho, et depuis les eaux de cette ville vers l’orient, le désert qui monte de Jéricho à la montagne de Bethel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0297.json"
+      ]
+    },
+    {
       "verse_number": 2,
       "latin": "Et egreditur de Bethel Luza, transitque terminum Archi, Atharoth,",
       "french": "Et sort de Bethel, en allant vers Luza, passe le long des confins d’Archi vers Atharoth,",

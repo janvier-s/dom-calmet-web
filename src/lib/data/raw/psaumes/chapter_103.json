@@ -1,0 +1,302 @@
+{
+  "book": "Psaumes",
+  "chapter": 103,
+  "chapter_summary": "Louange de la sagesse, de la providence, du pouvoir du Créateur.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Benedic, anima mea, Domino : Domine Deus meus, magnificatus es vehementer.",
+      "french": "Benissez le Seigneur, ô mon âme : Seigneur mon Dieu, vous avez fait paraître votre grandeur d’une maniere bien éclatante.",
+      "annotations": null,
+      "source_pages": [
+        "page_0021.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Confessionem, et decorem induisti : amictus lumine sicut vestimento.",
+      "french": "Vous êtes tout environné de majesté, et de gloire ; et tout revêtu de lumière, comme d’un vêtement.",
+      "source_pages": [
+        "page_0022.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Extendens Cœlum sicut pellem : qui tegis aquis superiora ejus.",
+      "french": "Vous qui étendez le Ciel comme une tente, et qui couvrez d’eaux sa partie la plus élevée.",
+      "source_pages": [
+        "page_0022.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Qui ponis nubem ascensum tuum : qui ambulas super pennas ventorum.",
+      "french": "Qui montez sur les nuées, et qui marchez sur les aîles des vents.",
+      "annotations": null,
+      "source_pages": [
+        "page_0023.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Qui facis Angelos tuos, spiritus : et Ministros tuos, ignem urentem.",
+      "french": "Qui rendez vos Anges aussi promts que les vents, et vos Ministres aussi ardents que les flammes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0024.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Qui fundasti terram super stabilitatem suam : non inclinabitur in sæculum sæculi.",
+      "french": "Qui avez fondé la terre sur sa propre fermeté, sans qu’elle puisse jamais être renversée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0025.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Ab increpatione tua fugient : à voce tonitrui tui formidabunt.",
+      "french": "Mais vos menaces les font fuir, et la voix de votre tonnerre les remplit de crainte.",
+      "source_pages": [
+        "page_0027.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ascendunt montes, et descendunt campi, in locum quem fundasti eis.",
+      "french": "Les montagnes s’élevent, et les vallons s’abaissent dans le lieu que vous leur avez établi.",
+      "source_pages": [
+        "page_0027.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Terminum posuisti, quem non transgredientur : neque convertentur operire terram.",
+      "french": "Vous avez prescrit des bornes aux eaux, qu’elles ne passeront point ; et elles ne reviendront point couvrir la terre.",
+      "source_pages": [
+        "page_0027.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Qui emittis fontes in convallibus : inter medium montium pertransibunt aquæ.",
+      "french": "Vous conduisez les fontaines dans les vallées, et vous faites couler les eaux entre les montagnes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0028.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Potabunt omnes bestiæ agri : expectabunt onagri in siti sua.",
+      "french": "Elles servent à abreuver toutes les bêtes des champs ; les ânes sauvages soupirent après elles dans leur soif.",
+      "annotations": null,
+      "source_pages": [
+        "page_0028.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Super ea volucres Cœli habitabunt : de medio petrarum dabunt voces.",
+      "french": "Les oiseaux du Ciel font leur demeure sur ces eaux ; ils font entendre leurs chants du milieu des rochers.",
+      "source_pages": [
+        "page_0029.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Rigans montes de superioribus suis : de fructu operum tuorum satiabitur terra.",
+      "french": "Vous arroserez les montagnes par les eaux qui tombent d’enhaut ; la terre sera rassasiée du fruit de vos ouvrages.",
+      "source_pages": [
+        "page_0029.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Producens fœnum jumentis, et herbam servituti hominum.",
+      "french": "Vous produisez le foin pour les bêtes, et l’herbe pour servir à l’usage de l’homme.",
+      "source_pages": [
+        "page_0029.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Ut educas panem de terra : et vinum lætificet cor hominis.",
+      "french": "Vous faites sortir le pain de la terre, et le vin qui réjouit le cœur de l’homme.",
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Ut exhilaret faciem in oleo : et panis cor hominis confirmet.",
+      "french": "Vous lui donnez l’huile, afin qu’elle répande la joie sur son visage ; et le pain, afin qu’il fortifie son cœur.",
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Saturabuntur ligna campi, et cedri Libani, quas plantavit : illic passeres nidificabunt.",
+      "french": "Les arbres de la campagne seront nourris avec abondance, aussi-bien que les cèdres du Liban, que Dieu a plantez, et où les petits oiseaux feront leurs nids.",
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Herodii domus dux est eorum. Montes excelsi cervis : petra refugium herinaciis.",
+      "french": "Celui du héron est comme le premier ; et le chef des autres. Les hautes montagnes servent de retraite aux cerfs, et les rochers aux hérissons.",
+      "annotations": null,
+      "source_pages": [
+        "page_0031.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Fecit Lunam in tempora : Sol cognovit occasum suum.",
+      "french": "Il a fait la Lune, pour marquer les temps : le Soleil connaît le moment auquel il doit se coucher.",
+      "annotations": null,
+      "source_pages": [
+        "page_0032.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Posuisti tenebras, et facta est nox : in ipsa pertransibunt omnes bestiæ sylvæ.",
+      "french": "Vous avez répandu les ténèbres ; et la nuit a été faite : et c’est durant la nuit que toutes les bêtes de la forêt marcheront.",
+      "source_pages": [
+        "page_0033.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Catuli leonum rugientes, ut rapiant, et quærant à Deo escam sibi.",
+      "french": "Et que les petits des lions rugiront après leur proie, et chercheront la nourriture que Dieu leur a destinée.",
+      "source_pages": [
+        "page_0033.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Ortus est sol, et congregati sunt : et in cubilibus suis collocabuntur.",
+      "french": "Le soleil se levant ensuite, elles se rassemblent, et se vont coucher dans leurs retraites.",
+      "source_pages": [
+        "page_0034.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Exibit homo ad opus suum, et ad operationem suam usque ad vesperam.",
+      "french": "Alors l’homme sort pour aller faire son ouvrage, et travailler jusqu’au soir.",
+      "source_pages": [
+        "page_0034.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Quàm magnificata sunt opera tua : Domine ! omnia in sapientia fecisti : impleta est terra possessione tua.",
+      "french": "Que vos œuvres sont grandes, et excellentes, Seigneur ! Vous avez fait toutes choses avec une souveraine sagesse : la terre est toute remplie de vos biens.",
+      "source_pages": [
+        "page_0034.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Hoc mare magnum, et spatiosum manibus ; illic reptilia, quorum non est numerus.",
+      "french": "Que cette mer est grande, et d’une vaste étendue ! Elle est remplie d’un nombre infini de poissons.",
+      "source_pages": [
+        "page_0034.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Animalia pusilla cum magnis : illic naves pertransibunt.",
+      "french": "De grands, et de petits animaux ; et c’est-là que les navires passeront.",
+      "source_pages": [
+        "page_0035.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Draco iste, quem formasti ad illudendum ei : omnia à te expectant, ut des illis escam in tempore.",
+      "french": "Là se voit ce monstre que vous avez formé, Seigneur, pour s’y jouer : tous attendent de vous que vous leur donniez leur nourriture, lorsque le temps en est venu.",
+      "source_pages": [
+        "page_0035.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Dante te illis, colligent : aperiente te manum tuam, omnia implebuntur bonitate.",
+      "french": "Lorsque vous leur donnez, ils recueillent : et lorsque vous ouvrez votre main, ils sont tous remplis des effets de votre bonté.",
+      "source_pages": [
+        "page_0036.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Avertente autem te faciem, turbabuntur : auferes spiritum eorum, et deficient, et in pulverem suum revertentur.",
+      "french": "Mais si vous détournez d’eux votre face, ils seront troublés ; vous leur ôterez la vie ; ils tomberont dans la défaillance, et retourneront dans leur poussière.",
+      "source_pages": [
+        "page_0036.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Emittes spiritum tuum, et creabuntur : et renovabis faciem terræ.",
+      "french": "Vous envoyerez ensuite votre Esprit, et votre souffle divin, et ils seront créez ; et vous renouvellerrez toute la face de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0037.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Sit gloria Domini in saculum : latabitur Dominus in operibus suis :",
+      "french": "Que la gloire du Seigneur soit célébrée dans tous les siècles : le Seigneur se réjouira dans ses ouvrages :",
+      "annotations": null,
+      "source_pages": [
+        "page_0038.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Qui respicit terram, et facit eam tremere : qui tangit montes, et fumigant.",
+      "french": "Lui qui regarde la terre, et la fait trembler ; qui touche seulement les montagnes, et en fait sortir les flammes, et la fumée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0038.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Cantabo Domino in vita mea : psallam Deo meo, quamdiu sum.",
+      "french": "Je chanterai les louanges du Seigneur, tant que je vivrai ; je les chanterai sur l’instrument à dix cordes, tant que je subsisterai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0038.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Jucundum sit ei eloquium meum : et ego delectabor in Domino.",
+      "french": "Que mes paroles puissent lui être agréables ; pour moi je trouverai ma joie dans le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0039.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Deficiant peccatores à terra, et iniqui ita ut non sint : benedic, anima mea, Domino.",
+      "french": "Que les pécheurs, et les injustes saient effacez de dessus la terre ; ensorte qu’ils ne saient plus. O mon âme, bénis le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0039.json"
+      ]
+    }
+  ]
+}

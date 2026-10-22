@@ -1,0 +1,100 @@
+{
+  "book": "Ecclésiaste",
+  "chapter": 6,
+  "chapter_summary": "Malheureuse condition d’un avare. Véritable usage des biens de la fortune.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Est et aliud malum, quod vidi sub sole, et quidem frequens apud homines.",
+      "french": "Il y a encore un autre mal que j’ai vu sous le soleil, et qui est ordinaire parmi les hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Vir cui dedit Deus divitias, et substantiam, et honorem, et nihil deest animæ suæ, ex omnibus quæ desiderat : nec tribuit ei potestatem Deus ut comedat ex eo, sed homo extraneus vorabit illud : hoc vanitas, et miseria magna est.",
+      "french": "Un homme à qui Dieu a donné des richesses, du bien, de l’honneur, et à qui il ne manque rien pour la vie, de tout ce qu’il peut desirer ; et Dieu ne lui a point donné le pouvoir d’en manger, mais un étranger devorera tout : c’est-là une vanité, et une grande misère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Si genuerit quispiam centum liberos, et vixerit multos annos, et plures dies ætatis habuerit, et anima illius non utatur bonis substantiæ suæ, sepulturaque careat : de hoc ego pronuntio quòd melior illo sit abortivus.",
+      "french": "Quand un homme aurait eu cent enfants, qu’il aurait vu beaucoup d’années, et qu’il serait fort avancé en âge, si son âme n’use point des biens qu’il possède, et qu’il soit même privé de la sepulture ; je ne crains pas d’avancer de cet homme, qu’un avorton vaut mieux que lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Frustrà enim venit, et pergit ad tenebras, et oblivione delebitur nomen ejus.",
+      "french": "Car c’est en vain qu’il est venu au monde, il s’en retournera dans les ténèbres, et son nom sera enseveli dans l’oubli.",
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Non vidit solem, neque cognovit distantiam boni et mali.",
+      "french": "Il n’a point vu le soleil ; et n’a point connu la différence du bien, et du mal.",
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Etiam si duobus millibus annis vixerit, et non fuerit perfruitus bonis : nonne ad unum locum properant omnia ?",
+      "french": "Quand il aurait vêcu deux mille ans, s’il n’a point joui de ses biens : tous ne vont-ils pas au même lieu ?",
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Omnis labor hominis in ore ejus : sed anima ejus non implebitur.",
+      "french": "Tout le travail de l’homme est pour sa bouche, mais son âme n’en sera pas remplie.",
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Quid habet amplius sapiens à stulto ? et quid pauper, nisi ut pergat illuc, ubi est vita ?",
+      "french": "Qu’a le sage de plus que l’insensé ? Qu’a le pauvre au-dessus du riche, sinon qu’il va au lieu où est la vie ?",
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Melius est videre quod cupias, quàm desiderare quod nescias : sed et hoc vanitas est, et præsumptio spiritûs.",
+      "french": "Il vaut mieux voir ce que l’on desire, que de souhaiter ce que l’on ignore. Mais cela même est une vanité, et une présomption d’esprit.",
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Qui futurus est, jam vocatum est nomen ejus : et scitur quòd homo sit, et non possit contra fortiorem se in judicio contendere.",
+      "french": "Celui qui doit être, est déjà connu par son nom : on sait qu’il est homme, et qu’il ne peut pas disputer en jugement contre un plus puissant que lui.",
+      "source_pages": [
+        "page_0072.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Verba sunt plurima, multámque in disputando habentia vanitatem.",
+      "french": "On discourt beaucoup, on se répand en beaucoup de paroles dans la dispute, et ce n’est que vanité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0073.json"
+      ]
+    }
+  ]
+}

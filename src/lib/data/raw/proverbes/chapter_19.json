@@ -1,0 +1,259 @@
+{
+  "book": "Proverbes",
+  "chapter": 19,
+  "chapter_summary": "Pauvre dans son innocence. Les richesses donnent des amis. Faux témoins. Faux amis. Patience. Colère du Roi. Enfant insensé. La femme sage, est un don de Dieu. La paresse. Avoir pitié du pauvre. Crainte du Seigneur. Respect pour ses parents.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Melior est pauper, qui ambulat in simplicitate sua, quàm dives torquens labia sua, et insipiens.",
+      "french": "Le pauvre qui marche dans sa simplicité, vaut mieux que le riche qui a les lèvres doubles, et est insensé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0221.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Ubi non est scientia animæ, non est bonum : et qui festinus est pedibus, offendit.",
+      "french": "Où la science de l’âme n’est point, il n’y a point de bien ; et celui qui va trop vite, tombera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0221.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Stultitia hominis supplantat gressus ejus : et contra Deum fervet animo suo.",
+      "french": "La folie de l’homme lui fait prendre une fausse route, et il brûle en son cœur de colère contre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0222.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Divitiæ addunt amicos plurimos : à paupere autem, et hi, quos habuit, separantur.",
+      "french": "Les richesses donnent beaucoup de nouveaux amis ; mais ceux mêmes qu’avait le pauvre, se séparent de lui.",
+      "source_pages": [
+        "page_0223.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Testis falsus non erit impunis : et qui mendacia loquitur, non effugiet.",
+      "french": "Le faux témoin ne demeurera point impuni : celui qui dit des mensonges n’échapera pas.",
+      "source_pages": [
+        "page_0223.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Multi colunt personam potentis, et amici sunt dona tribuentis.",
+      "french": "Plusieurs honorent la personne d’un homme puissant, et sont amis de celui qui a de quoi donner.",
+      "source_pages": [
+        "page_0223.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Fratres hominis pauperis oderunt eum : insuper et amici procul recesserunt ab eo.",
+      "french": "Les frères du pauvre le haïssent, et ses amis se retirent loin de lui.",
+      "source_pages": [
+        "page_0223.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Qui autem possessor est mentis, diligit animam suam, et custos prudentiæ inveniet bona.",
+      "french": "Celui qui ne cherche que les paroles, n’aura rien. 8. Mais celui qui possede son cœur, l’aime ; et celui qui conserve la prudence, trouvera le bien.",
+      "source_pages": [
+        "page_0224.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Falsus testis non erit impunitus : et qui loquitur mendacia, peribit.",
+      "french": "Le faux témoin ne demeurera point impuni ; et celui qui dit des mensonges, périra.",
+      "source_pages": [
+        "page_0224.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Non decent stultum deliciæ, nec servum dominari Principibus.",
+      "french": "Les délices sient mal à l’insensé ; et ce n’est pas à l’esclave à dominer sur les Princes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0225.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Doctrina viri per patientiam noscitur : et gloria ejus est iniqua prætergredi.",
+      "french": "La science d’un homme se connaît par sa patience ; et il doit mettre sa gloire à passer par dessus le tort qu’on lui a fait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0226.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Sicut fremitus leonis, ita et Regis ira : et sicut ros super herbam, ita et hilaritas ejus.",
+      "french": "La colère du Roi, est comme le rugissement du lion ; et la sérénité de son visage, est comme la rosée qui tombe sur l’herbe.",
+      "annotations": null,
+      "source_pages": [
+        "page_0226.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Dolor patris, filius stultus : et tecta jugiter perstillantia, litigiosa mulier.",
+      "french": "L’enfant insensé, est la douleur du père ; et la femme querelleuse est comme un toit, d’où l’eau dégoute toujours.",
+      "source_pages": [
+        "page_0227.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Domus, et divitiæ dantur à parentibus : à Domino autem propriè uxor prudens.",
+      "french": "Le père, et la mère donnent les maisons, et les richesses ; mais c’est proprement le Seigneur, qui donne à l’homme une femme sage.",
+      "source_pages": [
+        "page_0227.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Pigredo immittit soporem, et anima dissoluta esuriet.",
+      "french": "La paresse produit l’assoupissement, et l’âme lâche languira de faim.",
+      "source_pages": [
+        "page_0227.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Qui custodit mandatum, custodit animam suam : qui autem negligit viam suam, mortificabitur.",
+      "french": "Celui qui garde le commandement, garde son âme ; mais celui qui se néglige dans sa voie, tombera dans la mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0228.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Fœneratur Domino, qui miseretur pauperis : et vicissitudinem suam reddet ei.",
+      "french": "Celui qui a pitié du pauvre, prête au Seigneur à interêt ; et il lui rendra ce qu’il lui aura prêté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0228.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Erudi filium tuum, ne desperes : ad interfectionem autem ejus ne ponas animam tuam.",
+      "french": "Corrigez votre enfant, et n’en désespérez pas ; et ne prenez pas une résolution qui aille à la mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0229.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Qui impatiens est, sustinebit damnum : et cum rapuerit, aliud apponet.",
+      "french": "Car celui qui ne peut rien endurer ; en souffrira de la perte ; et lorsqu’il aura pris quelque chose, il prendra encore autre chose.",
+      "annotations": null,
+      "source_pages": [
+        "page_0230.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Audi consilium, et suscipe disciplinam, ut sis sapiens in novissimis tuis.",
+      "french": "Ecoutez le conseil, et recevez les instructions, afin que vous soyez sage à la fin de votre vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0230.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Multæ cogitationes in corde viri : voluntas autem Domini permanebit.",
+      "french": "Le cœur de l’homme a diverses pensées ; mais la volonté du Seigneur demeurerà ferme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0230.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Homo indigens, misericors est : et melior est pauper, quàm vir mendax.",
+      "french": "L’homme qui est dans le besoin a de la compassion ; et le pauvre vaut mieux que celui qui ment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0231.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Timor Domini ad vitam : et in plenitudine commorabitur, absque visitatione pessima.",
+      "french": "La crainte du Seigneur conduit à la vie ; et elle jouira de l’abondance, sans être traversée par aucun mal.",
+      "annotations": null,
+      "source_pages": [
+        "page_0232.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Abscondit piger manum suam sub ascella, nec ad os suum applicat eam.",
+      "french": "Le paresseux cache sa main sous son aisselle, et il ne prend pas la peine de la porter à sa bouche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0237.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Pestilente flagellato, stultus sapientior erit : si autem corripueris sapientem, intelliget disciplinam.",
+      "french": "Quand l’homme corrompu sera châtié ; l’insensé deviendra plus sage ; mais si vous reprenez l’homme sage, il comprendra ce que vous lui voulez faire savoir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0238.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Qui affligit patrem, et fugat matrem, ignominiosus est, et infelix.",
+      "french": "Celui qui afflige son père, et met en fuite sa mère, est infame, et malheureux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0239.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Non cesses, fili, audire doctrinam, nec ignores sermones scientiæ.",
+      "french": "Ne cessez point, mon fils, d’écouter ce qu’on vous enseigne, et n’ignorez point les paroles de science.",
+      "annotations": null,
+      "source_pages": [
+        "page_0239.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Testis iniquus deridet judicium : et os impiorum devorat iniquitatem.",
+      "french": "Le témoin injuste se moque de la justice ; et la bouche des méchants dévore l’iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0239.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Parata sunt derisoribus judicia : et mallei percutientes stultorum corporibus.",
+      "french": "Le jugement est préparé pour les moqueurs, et les coups de marteaux, pour les corps des insensés.",
+      "source_pages": [
+        "page_0240.json"
+      ]
+    }
+  ]
+}

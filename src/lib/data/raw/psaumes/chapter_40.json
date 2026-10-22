@@ -1,0 +1,143 @@
+{
+  "book": "Psaumes",
+  "chapter": 40,
+  "chapter_summary": "Bienheureux ceux qui consolent, et qui visitent les malades. Prières de David, où il se plaint de ses ennemis. Jésus-Christ dans sa Passion se plaint de la trahison de Judas, et prie Dieu son Père de le ressusciter.\n\nIn finem, Psalmus ipsi David. | Pour la fin, Pseaume à David même.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem. Psalmus ipsi David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0533.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Beatus qui intelligit super egenum, et pauperem ! in die mala liberabit eum Dominus.",
+      "french": "Heureux l’homme qui est attentif aux besoins du pauvre, et de l’indigent ! Le Seigneur le délivrera dans le jour mauvais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0533.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Dominus conservet eum, et vivificet eum, et beatum faciat eum in terra : et non tradat eum in animam inimicorum ejus.",
+      "french": "Que le Seigneur le conserve, et lui donne une longue vie, qu’il le rende heureux sur la terre, et qu’il ne le livre pas au désir de ses ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0533.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Dominus opem ferat illi super lectum doloris ejus : universum stratum ejus versasti in infirmitate ejus.",
+      "french": "Que le Seigneur le soulage, lorsqu’il sera sur le lit de la douleur. Vous avez, mon Dieu, changé et remué tout son lit durant son infirmité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0534.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Ego dixi : Domine, miserere mei : sana animam meam, quia peccavi tibi.",
+      "french": "Pour moi, j’ai dit : Seigneur, ayez pitié de moi : guérissez mon âme, parce que j’ai péché contre vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0535.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Inimici mei dixerunt mala mihi : Quando morietur, et peribit nomen ejus ?",
+      "french": "Mes ennemis m’ont souhaité plusieurs maux, en disant : Quand mourra-t-il donc ; et quand son nom sera-t-il exterminé ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0535.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et si ingrediebatur ut videret, vana loquebatur, cor ejus congregavit iniquitatem sibi.",
+      "french": "Si l’un d’eux entrait pour me voir, il ne me tenait que de vains discours. Et son cœur s’est amassé un trésor d’iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0535.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Egrediebatur foras, et loquebatur in idipsum.",
+      "french": "En même temps qu’il était sorti dehors, il allait s’entretenir avec les autres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0536.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Adversùm me susurrabant omnes inimici mei : adversùm me cogitabant mala mihi.",
+      "french": "Tous mes ennemis parlaient en secret contre moi : et ils conspiraient pour me faire plusieurs maux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0536.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Verbum iniquum construerunt adversum me : Numquid qui dormit, non adjiciet ut resurgat ?",
+      "french": "Ils ont arrêté une chose très injuste contre moi. Mais celui qui dort, ne pourra-t-il donc pas ressusciter ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0537.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Etenim homo pacis meæ, in quo speravi : qui edebat panes meos, magnificavit super me supplantationem.",
+      "french": "Car l’homme avec lequel je vivais en paix, à qui je me suis fié, et qui mangeait avec moi, a fait éclater sa trahison contre moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0538.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Tu autem, Domine, miserere mei, et resuscita me : et retribuam eis.",
+      "french": "Mais vous, Seigneur, ayez compassion de moi, et ressuscitez-moi ; et je leur rendrai ce qu’ils méritent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0539.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "In hoc cognovi quoniam voluisti me : quoniam non gaudebit inimicus meus super me.",
+      "french": "J’ai connu quel a été votre amour pour moi, en ce que mon ennemi ne se réjouira point sur mon sujet.",
+      "annotations": null,
+      "source_pages": [
+        "page_0539.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Me autem propter innocentiam suscepisti : et confirmasti me in conspectu tuo in æternum.",
+      "french": "Or vous m’avez pris en votre protection, à cause de mon innocence ; et vous m’avez établi et affermi pour toujours devant vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0539.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Benedictus Dominus, Deus Israël à sæculo, et usque in sæculum : fiat, fiat.",
+      "french": "Que le Seigneur, le Dieu d’Israël soit béni dans tous les siècles. Ainsi soit-il. Ainsi soit-il.",
+      "annotations": null,
+      "source_pages": [
+        "page_0540.json"
+      ]
+    }
+  ]
+}

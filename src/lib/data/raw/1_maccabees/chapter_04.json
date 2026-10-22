@@ -1,0 +1,557 @@
+{
+  "book": "1 Maccabées",
+  "chapter": 4,
+  "chapter_summary": "Judas Maccabée attaque séparément Nicanor, et Gorgias, et les met en déroute ; il combat ensuite l’armée envoyée par Lysias, et remporte encore la victoire. Il va à Jérusalem, et fait la dédicace du Temple.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Et assumpsit Gorgias quinque millia virorum, et mille equites electos, et moverunt castra nocte,",
+      "french": "Alors Gorgias prit cinq mille hommes de pied, et mille chevaux choisis, et décampa la nuit,",
+      "annotations": "An du M. 3839.",
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Ut applicarent ad castra Judæorum, et percuterent eos subitò : et filii, qui erant ex arce, erant illis Duces.",
+      "french": "Pour venir attaquer le camp des Juifs, et les accabler tout-d’un-coup sans qu’ils y pensassent : et ceux de la forteresse leur servaient de guide.",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et audivit Judas, et surrexit ipse, et potentes, percutere virtutem exercituum Regis, qui erans in Emmaüm.",
+      "french": "Mais Judas en fut averti, et il marcha aussi-tôt avec les plus vaillants de ses troupes, pour aller attaquer le gros de l’armée du Roi qui était à Emmaüs ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Adhuc enim dispersus erat exercitus à castris.",
+      "french": "Car une partie de cette armée était encore dispersée hors du camp.",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et venit Gorgias in castra Judæ nocte, et neminem invenit, et quærebat eos in montibus : quoniam dixit : Fugiunt bi à nobis.",
+      "french": "Gorgias étant donc venu pendant la nuit au camp de Judas, n’y trouva personne ; et il les cherchait sur les montagnes, en disant : Ces gens-ci fuient devant nous.",
+      "annotations": "An du M. 3839.",
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et cùm dies factus esset, apparuit Judas in campo cum tribus millibus virorum tantùm, qui tegmenta et gladios non habebant.",
+      "french": "Lorsque le jour fut venu, Judas parut dans la plaine accompagné seulement de trois mille hommes, qui n’avaient ni boucliers, ni épées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et viderunt castra Gentium valida, et loricatos : et equitatus in circuitu corum, et hi docti ad prœlium.",
+      "french": "Et ils reconnurent que l’armée des nations était forte, et environnée de cuiraffiers et de cavalerie, qui étaient tous gens aguerris et exercez au combat.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et ait Judas viris, qui secum erant : Ne timueritis multitudinem eorum, et impetum eorum ne formidetis.",
+      "french": "Alors Judas dit à ceux qui étaient avec lui : Ne craignez point cette grande multitude, et n’apprehendez point leur choc.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Mementote qualiter salvi facti sunt patres nostri in mari rubro, cùm sequeretur eos Pharao cum exercitu multo.",
+      "french": "Souvenez-vous de quelle manière nos pères furent sauvez dans la mer rouge, lorsque Pharaon les poursuivait avec une grande armée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et nunc clamemus in cœlum, et miserebitur nostri Dominus, et memor erit testamenti patrum nostrorum, et conteret exercitum istum ante faciem nostram hodie :",
+      "french": "Crions donc maintenant au ciel, et le Seigneur nous fera miséricorde ; il se souviendra de l’alliance qu’il a faite avec nos pères, et il brisera aujourd’hui toute la force de cette armée devant nos yeux :",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et scient omnes gentes, quia est qui redimat et liberet Israël.",
+      "french": "Et toutes les nations reconnoîtront qu’il y a un redempteur et un libérateur d’Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et elevaverunt alienigenæ oculos suos, et viderunt eos venientes ex adverso.",
+      "french": "Alors les étrangers levant les yeux, aperçurent les gens de Judas qui marchaient contr’eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et exierunt de castris in prœlium, et tubâ cecinerunt hi qui erant cum Juda.",
+      "french": "En même-temps ils sortirent de leur camp pour les combattre, et ceux qui étaient avec Judas sonnèrent de la trompette,",
+      "annotations": null,
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et congressi sunt : et contritæ sunt Gentes, et fugerunt in campum.",
+      "french": "Et les chargèrent ; et les troupes des nations furent battuës, et s’enfuirent dans la plaine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Novissimi autem omnes ceciderunt in gladio, et persecuti sunt eos usque Gezeron, et usque in campos Idumææ, et Azoti, et Jamniæ, et ceciderunt ex illis usque ad tria millia virorum.",
+      "french": "Les derniers furent tous taillez en pièces ; et Judas avec ses gens les poursuivit jusqu’à Gézeron, et jusqu’aux campagnes de l’Idumée, d’Azot, et de Jamnias ; et il en demeura sur la place jusqu’à trois mille.",
+      "annotations": "An du M. 3839.",
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et reversus est Judas, et exercitus ejus sequens eum.",
+      "french": "Judas retourna avec son armée qui le suivait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Dixitque ad populum : Non concupiscatis spolia : quia bellum contra nos est,",
+      "french": "Et il dit à ses gens : Ne vous laissez point emporter au désir du butin, parce que nous avons encore des ennemis à combattre,",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et Gorgias et exercitus ejus prope nos in monte : sed state nunc contra inimicos nostros, et expugnate eos, et sumetis postea spolia securi.",
+      "french": "Et que Gorgias avec son armée est près de nous sur la montagne : mais demeurez fermes maintenant contre nos ennemis, et achevez de les défaire ; et après cela vous emporterez leurs dépouilles en sûreté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Et adhuc loquente Juda hæc, ecce apparuit pars quædam prospiciens de monte.",
+      "french": "Lorsque Judas parlait encore, on vit paraître quelques troupes qui regardaient de dessus la montagne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et vidit Gorgias quod in fugam conversi sunt sui, et incenderent castra : fumus enim, qui videbatur, declarabat quod factum est.",
+      "french": "Et Gorgias vit que ses gens avaient été mis en fuite, et son camp brûlé ; car la fumée qui paraissait, lui faisait voir ce qui était arrivé :",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Quibus illi conspectis timuerunt valdè, aspicientes simul et Judam, et exercitum in campo paratum ad prœlium.",
+      "french": "Ce qu’ayant aperçu, et voyant Judas avec son armée dans la plaine tout prêt à combattre, ils eurent grande frayeur,",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Et fugerunt omnes in campum alienigenarum.",
+      "french": "Et ils s’enfuirent tous dans la plaine des Philistins.",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et Judas reversus est ad spolia castrorum, et acceperunt aurum multum et argentum, et hyacinthum, et purpuram marinam, et opes magnas.",
+      "french": "Ainsi Judas retourna pour enlever le butin du camp ; et ils emportérent beaucoup d’or et d’argent, de l’hyacinthe, de la pourpre marine, et de grandes richesses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et conversi, hymnum canebant, et benedicebant Deum in cœlum, quoniam bonus est, quoniam in sæculum misericordia ejus.",
+      "french": "Et en revenant ils chantaient des hymnes, et benissaient Dieu hautement, en disant : Qu’il est bon, et que sa miséricorde s’étend dans tous les siècles.",
+      "annotations": "An du M. 3839.",
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et facta est salus magna in Israël in die illa.",
+      "french": "Et en ce jour-là, Israël remporta une grande victoire, qui fut son salut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Quicumque autem alienigenarum evaserunt, venerunt, et nunciaverunt Lysiæ universa quæ acciderant.",
+      "french": "Ceux des étrangers qui échappérent, en vinrent porter la nouvelle à Lysias, et dirent tout ce qui était arrivé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Quibus illis auditis, consternatus animo deficiebat : quod non qualia voluisset, talia contigerunt in Israël, et qualia mandavit Rex.",
+      "french": "Ce qu’ayant appris, il en fut tout consterné, et pensa mourir de douleur, à cause qu’il n’avait pu réussir dans ses desseins contre Israël, ni dans l’exécution des ordres qu’il avait reçus du Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et sequenti anno congregavit Lysias virorum electorum sexaginta millia, et equitum quinque millia, ut debellaret eos.",
+      "french": "L’année suivante, Lysias leva une armée de soixante mille hommes choisis, et de cinq mille chevaux, pour exterminer les Juifs.",
+      "annotations": "An du M. 3839.",
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et venerunt in Judæam, et castra posuerunt in Bethoron, et occurrit illis Judas cum decem millibus viris.",
+      "french": "Cette armée marcha en Judée, et campa près de Béthoron : et Judas vint audevant d’eux avec dix mille hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et viderunt exercitum fortem, et oravit, et dixit : Benedictus es, Salvator Israël, qui contrivisti impetum potentis in manu servi tui David, et tradidisti castra alienigenarum in manu Jonathæ filii Saül, et armigeri ejus.",
+      "french": "Ils reconnurent que l’armée ennemie était forte, et Judas fit sa prière, et dit : Soyez beni, Sauveur d’Israël, vous qui brisâtes la force d’un géant par la main de votre serviteur David, et qui livrâtes le camp des étrangers entre les mains de Jonathas fils de Saül, et de son écuyer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Conclude exercitum istum in manu populi tui Isr.ël, et confundantur in exercitu suo et equitibus.",
+      "french": "Livrez de même maintenant cette armée de nos ennemis entre les mains de votre peuple d’Israël, et qu’ils saient couverts de confusion avec toutes leurs troupes, et leur cavalerie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Da illis formidinem, et tabifac audaciam virtutis eorum, et commoveantur contrizione sua.",
+      "french": "Frappez-les de crainte ; faites les sécher de frayeur, en abattant cette audace que leur inspirent leurs forces ; qu’ils saient brisez par eux-mêmes en votre présence.",
+      "annotations": null,
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Dejice illos gladio diligentium te : et collaudent te omnes, qui noverunt nomen tuum, in hymnis.",
+      "french": "Détruisez-les par l’épée de ceux qui vous aiment ; afin que tous ceux qui connoiffent votre nom, publient vos louanges dans leurs cantiques.",
+      "annotations": "An du M. 3839.",
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et commiferunt prœlium, et ceciderunt de exercitu Lyfiæ quinque millia virorum.",
+      "french": "Le combat fut donné en même-temps, et cinq mille hommes de l’armée de Lyfias furent taillez en pièces.",
+      "annotations": null,
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Videns autem Lyfias fugam fuam, et Judæorum audaciam, et quòd parati funt aut vivere, aut mori fortiter, abiit Antiochiam, et elegit milites, ut multiplicati rursùs venirent in Judæam.",
+      "french": "Lyfias voyant la fuite des fiens, et le courage des Juifs, et cette difpofition où ils étaient de vivre avec honneur, ou de mourir généreufement, s’en alla à Antioche, et y leva de nouveaux foldats, pour revenir en Judée avec plus de troupes qu’auparavant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Dixit autem Judas, et fratres ejus : Ecce contriti funt inimici noftri : afcendamus nunc mandare fancta, et renovare.",
+      "french": "Alors Judas, et ses frères, dirent : Voilà nos ennemis défaits ; allons maintenant purifier, et renouveller le temple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Et congregatus eft omnis exercitus, et afcenderunt in montem Sion.",
+      "french": "Auffi-tôt toute l’armée s’affembla, et ils montérent à la montagne de Sion.",
+      "annotations": "An du M. 3840.",
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Et viderunt fanctificationem defertam, et altare profanatum, et portas exuftas, et in atriis virgulta nata ficut in faltu, vel in montibus, et paftophoria diruta.",
+      "french": "Ils virent les lieux saints tout déferts, l’autel profané, les portes brûlées, le parvis rempli d’épines, et d’arbriffeaux, comme on en voit dans un bois, et fur les montagnes ; et les chambres joignant le temple toutes détruites.",
+      "annotations": null,
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Et fciderunt veftimenta fua, et planxerunt planctu magno, et impofuerunt cinerem fuper caput fuum.",
+      "french": "Ils déchirérent leurs vêtements, firent un grand deüil, et se mirent la cendre fur la tête.",
+      "annotations": null,
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Et ceciderunt in faciem super terram, et exclamaverunt tubis signorum, et clamaverunt in cœlum.",
+      "french": "Ils se prosternérent le visage contre terre, firent retentir les trompettes dont on donnait le signal, et poussérent leurs cris jusqu’au ciel.",
+      "annotations": "An du M. 3840.",
+      "source_pages": [
+        "page_0116.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Tunc ordinavit Judas viros, ut pugnarent adversus eos qui erant in arce, donec emundarent sancta.",
+      "french": "Alors Judas commanda des gens, pour combattre ceux qui étaient dans la forteresse, jusqu’à ce qu’ils eussent purifié les lieux saints.",
+      "annotations": null,
+      "source_pages": [
+        "page_0116.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Et elegit Sacerdotes sine macula, voluntatem habentes in lege Dei :",
+      "french": "Et il choisit des Prêtres sans tache, religieux observateurs de la Loi de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0117.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Et mundaverunt sancta, et tulerunt lapides contaminationis in locum immundum.",
+      "french": "Ils purifiérent les lieux saints, et emportérent en un lieu impur les pierres profanes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0117.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Et cogitavit de altari holocaustorum, quod profanatum erat, quid de eo faceret.",
+      "french": "Et Judas délibéra de ce qu’il ferait de l’autel des holocaustes, qui avait été profané.",
+      "annotations": null,
+      "source_pages": [
+        "page_0117.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Et incidit illis consilium bonum, ut destruerent illud : ne fortè illis esset in opprobrium, quia contaminaverunt illud Gentes, et demolisi sunt illud.",
+      "french": "Et ils prirent un bon conseil ; qui fut de le détruire, de peur qu’il ne leur devînt un sujet d’opprobre, ayant été souillé par les nations. Ainsi ils le démolirent,",
+      "annotations": null,
+      "source_pages": [
+        "page_0117.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Et reposuerunt lapides in monte domûs in loco apto, quoadúsque veniret Propheta, et responderet de eis.",
+      "french": "Et ils en mirent les pierres sur la montagne du temple, dans un lieu propre, en attendant qu’il vînt un Prophète qui déclarât ce qu’on en ferait.",
+      "annotations": "An du M. 3840.",
+      "source_pages": [
+        "page_0118.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Et accêperunt lapides integros secundùm legem : et ædificaverunt altare novum, secundùm illud quod fuit priùs :",
+      "french": "Et ils prirent des pierres entières, selon l’ordonnance de la Loi ; et en bâtirent un autel nouveau semblable au premier.",
+      "annotations": null,
+      "source_pages": [
+        "page_0118.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Et ædificaverunt sancta, et quæ intra domum erant intrinsecus : et ædem, et atria sanctificaverunt.",
+      "french": "Ils rebâtirent le Sanctuaire, et ce qui était au-dedans du Temple, et sanctifiérent le Temple, et le parvis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0118.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Et fecerunt vasa sancta nova, et intulerunt candelabrum, et altare incensorum, et mensam in Templum.",
+      "french": "Ils firent de nouveaux vases sacrés, et placérent dans le Temple le chandelier, l’autel des parfums, et la table.",
+      "annotations": "An du M. 3840.",
+      "source_pages": [
+        "page_0119.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Et incensum posuerunt super altare, et accenderunt lucernas, quæ super candelabrum erant, et lucebant in Templo.",
+      "french": "Ils mirent l’encens sur l’autel, allumérent les lampes qui étaient sur le chandelier, et qui éclairaient dans le Temple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0119.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Et posuerunt super mensam panes, et appenderunt vela, et consummaverunt omnia opera quæ fecerant.",
+      "french": "Ils posérent les pains sur la table, suspendirent les voiles, et enfin achevérent tout ce qu’ils avaient commencé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0119.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Et ante matutinum surrexerunt quintâ et vigesimâ die mensis noni, (hic est mensis Casleu,) centesimi quadragesimi octavi anni.",
+      "french": "Le vingt-cinquième du neuvième mois nommé Casleu, la cent quarante-huitième année, ils se levérent avant le point du jour :",
+      "annotations": null,
+      "source_pages": [
+        "page_0119.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Et obtulerunt sacrificium secundùm legem, super altare holocaustorum novum quod fecerunt.",
+      "french": "Et ils offrirent le sacrifice selon la Loi, sur le nouvel autel des holocaustes qu’ils avaient bâti.",
+      "annotations": null,
+      "source_pages": [
+        "page_0119.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Secundùm tempus et secundùm diem, in qua contaminaverant illud Gentes, in ipsa renovatum est in canticis, et citharis, et cinyris, et in cymbalis.",
+      "french": "Il fut dédié de nouveau au bruit des cantiques, des harpes, des lyres, et des tymbales, dans le même temps, et le même jour qu’il avait été souillé par les nations.",
+      "annotations": "An du M. 3840.",
+      "source_pages": [
+        "page_0120.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Et cecidit omnis populus in faciem, et adoraverunt, et benedixerunt in cœlum eum, qui prosperavit eis.",
+      "french": "Tout le peuple se prosterna le visage contre terre, ils adorérent Dieu, et poussérent jusque au ciel les bénédictions qu’ils donnaient à celui qui les avait fait réussir si heureusement dans leur entreprise.",
+      "annotations": null,
+      "source_pages": [
+        "page_0120.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "Et fecerunt dedicationem altaris diebus octo, et obtulerunt holocausta cum lætitia, et sacrificium salutaris et laudis.",
+      "french": "Ils célébérent la dédicace de l’autel pendant huit jours ; ils offrirent des holocaustes avec joie, et un sacrifice d’actions de grâces, et de louanges.",
+      "annotations": null,
+      "source_pages": [
+        "page_0120.json"
+      ]
+    },
+    {
+      "verse_number": 57,
+      "latin": "Et ornaverunt faciem templi coronis aureis, et scutulis : et dedicaverunt portas, et pastophoria, et imposuerunt eis januas.",
+      "french": "Ils parérent le devant du Temple avec des couronnes d’or, et de petits écussons ; ils renouvellérent les entrées du Temple, et les chambres des côtés, et y mirent des portes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0120.json"
+      ]
+    },
+    {
+      "verse_number": 58,
+      "latin": "Et facta est lætitia in populo magna valdè, et aversum est opprobrium Gentium.",
+      "french": "Tout le peuple fut comblé de joie, et l’opprobre des nations fut banni du milieu d’eux.",
+      "annotations": "An. du M. 3840.",
+      "source_pages": [
+        "page_0121.json"
+      ]
+    },
+    {
+      "verse_number": 59,
+      "latin": "Et statuit Judas, et fratres ejus, et universa Ecclesia Israël, ut agatur dies dedicationis altaris in temporibus suis, ab anno in annum, per dies octo, à quinta et vigesima die mensis Casleu, cum lætitia et gaudio.",
+      "french": "Alors Judas avec ses frères, et toute l’assemblée d’Israël, ordonna que dans la suite des temps, on célébrerait ce jour-là la dédicace de l’autel, chaque année, pendant huit jours, à commencer le vingt-cinquième du mois de Casleu, avec beaucoup de réjouissance, et d’alégresse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0121.json"
+      ]
+    },
+    {
+      "verse_number": 60,
+      "latin": "Et ædificaverant in tempore illo montem Sion : et per circuitum muros altos, et turres firmas, nequando venirent Gentes, et conculcarent eam ficut anteà fecerant.",
+      "french": "En ce même temps ils fortifiérent la montagne de Sion, et l’environnérent de hauts murs, et de fortes tours, de peur que les nations ne vinssent la profaner de nouveau, comme ils avaient fait auparavant.",
+      "annotations": "An du M. 3840.",
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 61,
+      "latin": "Et collocavit illic exercitum, ut servarent eum, et munivit eum ad custodiendam Bethsuram, ut haberet populus munitionem contra faciem Idumææ.",
+      "french": "Il mit des gens de guerre pour la garder, et la fortifia pour assurer encore Bethesura, afin que le peuple eût une forteresse contre l’Idumée.",
+      "annotations": "An du M. 3840.",
+      "source_pages": [
+        "page_0123.json"
+      ]
+    }
+  ]
+}

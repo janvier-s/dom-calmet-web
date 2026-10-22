@@ -1,0 +1,116 @@
+{
+  "book": "Psaumes",
+  "chapter": 57,
+  "chapter_summary": "Invective contre les mauvais Conseillers, qui irritaient Saül contre David. Prières, et prédictions contre eux. Ils périront, et tout le monde connaîtra la Justice, et la Providence du Seigneur.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem : Ne disperdas. David in tituli inscriptionem.",
+      "french": "Pour la fin : Ne m’exterminez pas. David a mis cette inscription pour titre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0713.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Si verè utique justitiam loquimini ; recta judicate, filii hominum.",
+      "french": "Si vous parlez véritablement, et selon la justice ; jugez aussi selon l’équité, ô enfants des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0714.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Etenim in corde iniquitates operamini : in terra injustitias manus vestra concinnant.",
+      "french": "Mais au contraire vous formez dans le fond de votre cœur des desseins d’iniquité : et vos mains ne s’emploient qu’à commettre des injustices sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0714.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Alienati sunt peccatores à vulvâ ; erraverunt ab utero : locuti sunt falsa.",
+      "french": "Ces pécheurs se sont éloignés de la justice dès leur naissance ; et ils se sont égarés dès qu’ils sont sortis du sein de leur mère : ils ont dit des choses fausses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0715.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Furor illis secundùm similitudinem serpentis ; sicut aspidis surdæ, et obturantis aures suas ;",
+      "french": "Leur fureur est semblable à celle du serpent, et de l’aspic, qui se rend sourd en se bouchant les oreilles,",
+      "annotations": null,
+      "source_pages": [
+        "page_0715.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quæ non exaudiet vocem incantantium, et venefici incantantis sapienter.",
+      "french": "Et qui n’entend point la voix des enchanteurs, et du magicien habile qui sait charmer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0716.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Deus conteret dentes eorum in ore ipsorum : molas leonum confringet Dominus.",
+      "french": "Dieu brisera leurs dents dans leur bouche : le Seigneur mettra en poudre les dents mâchelières des lions.",
+      "annotations": null,
+      "source_pages": [
+        "page_0717.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Ad nihilum devenient, tamquam aqua decurrens : intendit arcum suum donec infirmentur.",
+      "french": "Ils seront réduits à rien, comme une eau qui passe : il a tendu son arc jusqu’à ce qu’ils saient abattus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0717.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Sicut cera quæ fluit, auferentur : supercecidit ignis, et non viderunt solem.",
+      "french": "Ils seront détruits comme la cire que la chaleur fait fondre et couler : le feu tombera d’enhaut sur eux ; et ils ne verront point le Soleil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0718.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Priusquam intelligerent spinæ vestræ rhamnum : sicut viventes, sic in ira absorbet eos.",
+      "french": "Avant qu’ils puissent connaître que leurs épines sont parvenues jusqu’à la force d’un arbrisseau, il les engloutira comme tout vivants dans sa colère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0719.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Lætabitur justus cùm viderit vindictam : manus suas lavabit in sanguine peccatoris.",
+      "french": "Le Juste se réjouira en voyant la vengeance que Dieu prendra des impies ; et il lavera ses mains dans le sang du pécheur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0720.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et dicet homo : Si utique est fructus justo ; utique est Deus judicans eos in terra.",
+      "french": "Et les hommes diront alors : Puisque le juste retire du fruit de sa justice ; il y a sans doute un Dieu qui juge les hommes sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0721.json"
+      ]
+    }
+  ]
+}

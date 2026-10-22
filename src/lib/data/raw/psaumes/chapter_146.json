@@ -1,0 +1,107 @@
+{
+  "book": "Psaumes",
+  "chapter": 146,
+  "chapter_summary": "Louanges du Seigneur. Récit de ses œuvres merveilleuses. Il rassemble son peuple dispersé. Il rétablit Jérusalem. Il humilie les méchants. Il comble de biens les Justes. Il donne aux hommes, et aux animaux la nourriture convenable.\n\nAlleluia. | Louez Dieu.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Laudate Dominum, quoniam bonus est psalmus : Deo nostro sit jucunda, decoraque laudatio.",
+      "french": "Oyez le Seigneur, parce qu’il est bon de le louer : que la louange que l’on donne à notre Dieu, lui soit agréable, et digne de lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Ædificans Jerusalem Dominus : dispersiones Israëlis congregabit.",
+      "french": "C’est le Seigneur qui bâtit Jerusalem ; qui a rassemblé tous les enfants d’Israël qui sont dispersez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Qui sanat contritos corde : et alligat contritiones eorum.",
+      "french": "Qui guérit ceux dont le cœur est brisé d’affliction, qui lie, et qui bande leurs plaies.",
+      "annotations": null,
+      "source_pages": [
+        "page_0394.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Qui numerat multitudinem stellarum : et omnibus eis nomina vocat.",
+      "french": "Qui fait le nombre si prodigieux des étoiles, et qui les connaît toutes par leur nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0394.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Suscipiens mansuetos Dominus : humilians autem peccatores usque ad terram.",
+      "french": "Le Seigneur prend en sa protection ceux qui sont doux : mais il humilie les pécheurs, et les abaisse jusqu’en terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Præcinite Domino in confessione : psallite Deo nostro in cithara.",
+      "french": "Entonnez les louanges du Seigneur par de saints cantiques ; et publiez avec la harpe la gloire de notre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Qui operit Cœlum nubibus, et parat terræ pluviam.",
+      "french": "C’est lui qui couvre le Ciel de nuées, et qui prépare la pluie pour la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Qui producit in montibus fœnum : et herbam servituti hominum.",
+      "french": "Qui produit le foin sur les montagnes, et fait craître l’herbe pour l’usage des hommes :",
+      "annotations": null,
+      "source_pages": [
+        "page_0397.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Qui dat jumentis escam ipsorum, et pullis corvorum invocantibus eum.",
+      "french": "Qui donne aux bêtes la nourriture qui leur est propre, et qui nourrit les petits des corbeaux qui implorent son secours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0397.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Non in fortitudine equi voluntatem habebit : nec in tibiis viri beneplacitum erit ei.",
+      "french": "Il n’aime point qu’on se fie à la force du cheval ; et il ne se plaît point que l’homme s’assûre sur la vîtesse de ses jambes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0399.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Beneplacitum est Domino super timentes eum : et in eis, qui sperant super misericordia ejus.",
+      "french": "Le Seigneur met son plaisir en ceux qui le craignent, et en ceux qui espérent en sa miséricorde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0399.json"
+      ]
+    }
+  ]
+}

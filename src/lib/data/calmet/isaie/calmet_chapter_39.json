@@ -1,0 +1,32 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "misit Merodach Baladan libros, et munera.",
+      "lemma": "Mérodach Baladan envoya des lettres, et des présents à Ezéchias.",
+      "text": "Les Septante : [1] _Des lettres, des Ambassadeurs, et des présents._ Nous n’avons rien à ajouter ici à ce que nous avons dit dans le Commentaire sur le quatrième Livre des Rois, Chapitre xx. ℣. 22. et suivants, où la même histoire est racontée en mêmes termes dans l’Original Hébreu."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0542>page_0543",
+      "verse": 1,
+      "mode": "splice",
+      "before": "rien à ajouter ici à ce que nous avons dit dans le Commen-",
+      "after": "taire sur le quatrième Livre des Rois, Chapitre xx. ℣. 22."
+    }
+  ],
+  "pages_used": [
+    "page_0542",
+    "page_0543"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0542-a",
+      "n": 1,
+      "text": "E'πιτολὰς καὶ πρέσβεις καὶ δῶρα. Heb. ספרים ומנחה"
+    }
+  ],
+  "missing_footnotes": []
+}

@@ -31,9 +31,9 @@
     {
       "verse": 6,
       "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "Mais il est vrai qu’il y a dans le monde des endroits, où l’on peut dire en quelque sens que les pierres précieuses, et les marbres sont aussi communs que les pierres ordinaires ; et tout de même, que l’or s’y rencontre tout communément dans le sable, et dans la terre. On a des preuves de ce fait dans ce qui a été découvert au Pérou dans ces derniers siècles. On en voit des vestiges dans les Anciens, et dans l’Écriture même, qui nous parle si souvent de l’or d’Ophir, et du Phase, comme du meilleur or du monde ; et de l’endroit où il était le plus commun. On sait que les marbres les plus rares viennent des carrières, comme les autres pierres. Les pierres précieuses, comme les saphirs fins, ne furent jamais si fréquents. Mais il était naturel de croire que le pays qui les produisait, en avait en très grande abondance, puisque tout ce qu’on en voyait dans le monde, en venait, et prenait son nom de ce pays. Les meilleurs saphirs viennent de la Médie, et apparemment du pays des Sapires, ou Tapyres, ou Saffires, Peuple entre l’Arménie, et la Médie. [8] Quelques-uns traduisent ainsi l’Hébreu : [9] _Il y a des lieux où l’on trouve les saphirs dans les rochers ; et l’on voit du gravier d’or qui brille dans ces pierres._ Il est vrai que Pline [10] le dit du saphir : _Saphirus et aureis punctis collucet._ Mais cet Auteur a mal pris les paroles de Théophraste qu’il avait devant les yeux. [11] Il est certain qu’il n’y a point de saphir de cette sorte."
+      "latin_lemma": "locus sapphiri lapides ejus, et glebæ illius aurum.",
+      "lemma": "Il y a des lieux dont les pierres sont de saphir, & dont les mottes sont des grains d’or.",
+      "text": "Il y a de l’exagération en cela. Mais il est vrai qu’il y a dans le monde des endroits, où l’on peut dire en quelque sens que les pierres précieuses, et les marbres sont aussi communs que les pierres ordinaires ; et tout de même, que l’or s’y rencontre tout communément dans le sable, et dans la terre. On a des preuves de ce fait dans ce qui a été découvert au Pérou dans ces derniers siècles. On en voit des vestiges dans les Anciens, et dans l’Écriture même, qui nous parle si souvent de l’or d’Ophir, et du Phase, comme du meilleur or du monde ; et de l’endroit où il était le plus commun. On sait que les marbres les plus rares viennent des carrières, comme les autres pierres. Les pierres précieuses, comme les saphirs fins, ne furent jamais si fréquents. Mais il était naturel de croire que le pays qui les produisait, en avait en très grande abondance, puisque tout ce qu’on en voyait dans le monde, en venait, et prenait son nom de ce pays. Les meilleurs saphirs viennent de la Médie, et apparemment du pays des Sapires, ou Tapyres, ou Saffires, Peuple entre l’Arménie, et la Médie. [8] Quelques-uns traduisent ainsi l’Hébreu : [9] _Il y a des lieux où l’on trouve les saphirs dans les rochers ; et l’on voit du gravier d’or qui brille dans ces pierres._ Il est vrai que Pline [10] le dit du saphir : _Saphirus et aureis punctis collucet._ Mais cet Auteur a mal pris les paroles de Théophraste qu’il avait devant les yeux. [11] Il est certain qu’il n’y a point de saphir de cette sorte."
     },
     {
       "verse": 7,
@@ -75,10 +75,17 @@
       "sub": false,
       "latin_lemma": "sapientia vero ubi invenitur ?",
       "lemma": "Mais où trouvera-t-on la sagesse ?",
-      "text": "C’est ici où la nature, où l’instinct des animaux, où l’adresse, et l’industrie de l’homme sont à bout. Nul pays ne produit la sagesse. On ne la trouve ni dans les rochers, ni dans les montagnes. Toute la sagacité naturelle des animaux, toute la pénétration, la curiosité, le travail de l’homme, ne la découvriront pas. Il n’y a que Dieu seul qui soit capable de la donner, comme lui seul la possède, et en est le maître. Il parle principalement de cette sagesse surnaturelle, qui nous fait connaître, et aimer le bien ; qui nous conduit à Dieu ; qui nous élève à la connaissance des vérités divines ; et surtout, qui nous découvre les voies, les desseins, les Jugements de Dieu. Car la sagesse humaine, la connaissance des choses naturelles, la prudence de la chair ; tout cela est compris parmi les choses dont il a parlé ci-devant, et qu’il a si bien distinguées de la vraie sagesse.\n\nElle n’est point du nombre des choses qu’on achète, et auxquelles on peut mettre un certain prix. Sa valeur est inestimable. Comparez Baruch 3:15. où il parle de la sagesse presque dans les mêmes termes que Job."
+      "text": "C’est ici où la nature, où l’instinct des animaux, où l’adresse, et l’industrie de l’homme sont à bout. Nul pays ne produit la sagesse. On ne la trouve ni dans les rochers, ni dans les montagnes. Toute la sagacité naturelle des animaux, toute la pénétration, la curiosité, le travail de l’homme, ne la découvriront pas. Il n’y a que Dieu seul qui soit capable de la donner, comme lui seul la possède, et en est le maître. Il parle principalement de cette sagesse surnaturelle, qui nous fait connaître, et aimer le bien ; qui nous conduit à Dieu ; qui nous élève à la connaissance des vérités divines ; et surtout, qui nous découvre les voies, les desseins, les Jugements de Dieu. Car la sagesse humaine, la connaissance des choses naturelles, la prudence de la chair ; tout cela est compris parmi les choses dont il a parlé ci-devant, et qu’il a si bien distinguées de la vraie sagesse."
     },
     {
-      "verse": 12,
+      "verse": 13,
+      "sub": false,
+      "latin_lemma": "nescit homo pretium ejus.",
+      "lemma": "L’homme n’en connaît point le prix.",
+      "text": "Elle n’est point du nombre des choses qu’on achète, et auxquelles on peut mettre un certain prix. Sa valeur est inestimable. Comparez Baruch 3:15. où il parle de la sagesse presque dans les mêmes termes que Job."
+    },
+    {
+      "verse": 13,
       "sub": false,
       "latin_lemma": "nec invenitur in terra suaviter viventium.",
       "lemma": "Elle ne se trouve point en la terre de ceux qui vivent dans les délices.",
@@ -88,15 +95,22 @@
       "verse": 15,
       "sub": false,
       "latin_lemma": "non dabitur aurum obrizum pro ea.",
-      "lemma": "Elle ne se donne point pour l’or le plus pur. L’Hébreu à la lettre : [20] On ne donnera point ce qui est enfermé, (Hébr. Segur,) pour elle.",
-      "text": "On donne le nom d’enfermé, à l’or le plus pur ; parce qu’on le conserve précieusement, et qu’on ne l’expose pas comme les autres choses d’une valeur commune. Quelquefois on joint le nom d’or à l’adjectif _enfermé_, comme 3 Rois 6:20-21. et 2 Paralipomènes 3:4. Le Latin _obrizum_, est un or qui a été souvent éprouvé par le feu, et qui prend dans le creuset la même couleur que le feu. [19]"
+      "lemma": "Elle ne se donne point pour l’or le plus pur.",
+      "text": "L’Hébreu à la lettre : [19] _On ne donnera point ce qui est enfermé_, (Hébr. _Segur_,) _pour elle_. On donne le nom d’enfermé, à l’or le plus pur ; parce qu’on le conserve précieusement, et qu’on ne l’expose pas comme les autres choses d’une valeur commune. Quelquefois on joint le nom d’or à l’adjectif _enfermé_, comme 3 Rois 6:20-21. et 2 Paralipomènes 3:4. Le Latin _obrizum_, est un or qui a été souvent éprouvé par le feu, et qui prend dans le creuset la même couleur que le feu. [20]"
     },
     {
       "verse": 16,
       "sub": false,
       "latin_lemma": "non conferetur tinctis Indiæ coloribus.",
       "lemma": "On ne la mettra point en comparaison avec les marchandises des Indes, dont les couleurs sont les plus vives.",
-      "text": "L’Hébreu : [21] _On ne la comparera point au Kétem d’Ophir._ On sait que le nom d’Ophir signifie un pays fameux par son or : mais _Kétem_ est plus inconnu. La plupart l’entendent de l’or. Il a déjà parlé de ce métal au verset précédent, sous le nom d’_enfermé_, ou de _Kétem_. Dans le Texte Hébreu ce terme est quelquefois mis seul : [22] _J’ai dit au Kétem : Tu es mon espérance._ D’autres fois il est joint avec _pur_, ou _épuré_ : [23] _Du Kétem épuré._ Ailleurs [24] on l’appelle _Kétem de Phas_, ou d’_Uphas_. Enfin plus souvent[25] on le joint comme ici, au nom d’Ophir : _Du Kétem d’Ophir_. Les Septante n’ont point été uniformes dans la manière de le traduire. Souvent ils le rendent par de l’or ; quelquefois,[26] par de l’argent ; d’autres fois,[27] par des pierres précieuses. Dans les Psaumes,[28] par _un habit doré_. Au même endroit, Aquila le traduit par une _teinture_ ; et Symmaque, par un _diadème_. Les Rabbins ne sont pas plus assurés. Les uns l’entendent d’une _couronne_ ; d’autres, des _pierres précieuses_ ; d’autres, des _atours d’une femme_. Nous croyons que dans tous les passages où il se trouve, il signifie de l’or ; mais un or plus épuré, plus précieux que l’ordinaire. _Kétem_ en Hébreu,[29] et en Arabe, signifie enfermer, sceller, cacher. Les Hébreux n’ont qu’un substantif pour marquer l’or : mais pour en désigner les divers degrés de valeur, ils ont plusieurs adjectifs, comme _Ségur_, _Kétem_, _Tabor_, etc. Outre cela, ils le désignent par le pays d’où il vient : L’or d’Ophir, l’or du Phase. Avant David, et Salomon, nous ne voyons pas ces diverses dénominations de l’or.\n\nNEC LAPIDI SARDONICHO PRETIOSISSIMO, VEL SAPHIRO. _Ni avec la sardoine, et le saphir le plus précieux._ L’Hébreu :[30] Avec le sohem précieux, et le saphir. Le saphir est connu. Le sohem est apparemment l’émeraude. Voyez ce que nous avons dit sur la Genèse.[31] Moïse joint au même endroit l’or du Phison, et la pierre de sohem, comme fait ici Job l’or d’Ophir, et le sohem."
+      "text": "L’Hébreu : [21] _On ne la comparera point au Kétem d’Ophir._ On sait que le nom d’Ophir signifie un pays fameux par son or : mais _Kétem_ est plus inconnu. La plupart l’entendent de l’or. Il a déjà parlé de ce métal au verset précédent, sous le nom d’_enfermé_, ou de _Kétem_. Dans le Texte Hébreu ce terme est quelquefois mis seul : [22] _J’ai dit au Kétem : Tu es mon espérance._ D’autres fois il est joint avec _pur_, ou _épuré_ : [23] _Du Kétem épuré._ Ailleurs [24] on l’appelle _Kétem de Phas_, ou d’_Uphas_. Enfin plus souvent[25] on le joint comme ici, au nom d’Ophir : _Du Kétem d’Ophir_. Les Septante n’ont point été uniformes dans la manière de le traduire. Souvent ils le rendent par de l’or ; quelquefois,[26] par de l’argent ; d’autres fois,[27] par des pierres précieuses. Dans les Psaumes,[28] par _un habit doré_. Au même endroit, Aquila le traduit par une _teinture_ ; et Symmaque, par un _diadème_. Les Rabbins ne sont pas plus assurés. Les uns l’entendent d’une _couronne_ ; d’autres, des _pierres précieuses_ ; d’autres, des _atours d’une femme_. Nous croyons que dans tous les passages où il se trouve, il signifie de l’or ; mais un or plus épuré, plus précieux que l’ordinaire. _Kétem_ en Hébreu,[29] et en Arabe, signifie enfermer, sceller, cacher. Les Hébreux n’ont qu’un substantif pour marquer l’or : mais pour en désigner les divers degrés de valeur, ils ont plusieurs adjectifs, comme _Ségur_, _Kétem_, _Tabor_, etc. Outre cela, ils le désignent par le pays d’où il vient : L’or d’Ophir, l’or du Phase. Avant David, et Salomon, nous ne voyons pas ces diverses dénominations de l’or."
+    },
+    {
+      "verse": 16,
+      "sub": false,
+      "latin_lemma": "nec lapidi sardonicho pretiosissimo, vel saphiro.",
+      "lemma": "Ni avec la sardoine, et le saphir le plus précieux.",
+      "text": "L’Hébreu :[30] Avec le _sohem précieux, et le saphir_. Le saphir est connu. Le sohem est apparemment l’émeraude. Voyez ce que nous avons dit sur la Genèse.[31] Moïse joint au même endroit _l’or du Phison, et la pierre de sohem_, comme fait ici Job l’or d’Ophir, et le sohem."
     },
     {
       "verse": 17,
@@ -110,21 +124,28 @@
       "sub": false,
       "latin_lemma": "excelsa, et eminentia non commemorabuntur comparatione ejus.",
       "lemma": "Ce qu’il y a de plus grand, et de plus élevé, ne sera pas seulement nommé auprès d’elle.",
-      "text": "On ne fera pas même mention de Ramoth, ou Réémoth, et de Gabisch.[33] Ces deux termes sont inconnus, et l’on ne les traduit qu’au hasard Les Septante :[34] _Les choses élevées, et gabeis_. Symmaque :[35] _Des choses élevées, et sublimes_. La plupart des nouveaux Commentateurs croient que Job veut marquer deux sortes de pierres précieuses. Réémoth se traduit communément par du corail. Aquila : _Des toiles fines, comme de soie_. Théodotion : _Des aromates_. D’autres : _Des peaux, ou des cornes de monocéros_ ; ou même des animaux de ce nom. Ce dernier sens me paraîtrait le plus sûr, puisque Réémoth est le féminin de _Réémim_,[36] qui se trouve souvent dans l’Hébreu, pour désigner des monocéros. On trouve le même terme dans Ézéchiel parmi les marchandises précieuses qu’on portait à Tyr.\nQuant à Gabisch, il est encore moins connu. Les uns disent qu’en général il signifie une pierre précieuse ; d’autres, _des perles_ ; d’autres, _un diamant_ ; d’autres, _un pyrope_ ; d’autres, _des habits de diverses couleurs_. Dans Ézéchiel,[37] on trouve la pierre d’_Al-Gabisch_, qui marque ou la grêle, ou la pierre de foudre ; et je ne doute point que ce ne soit la vraie signification de ce terme. Les Anciens estimaient ces sortes de pierres qui tombent quelquefois des nues avec la foudre, ou pour leur rareté, ou pour quelque effet surnaturel qu’on leur attribuait. Pline[38] parle de plusieurs espèces de pierres _céraunies_, ou pierres de foudre. Il y en avait une entre autres qui était fort rare, et que les Mages des Parthes recherchaient fort, pour s’en servir dans leurs secrètes opérations. C’est, dit-il, celle qui tombe avec la foudre. Sotacus en marque deux autres espèces, dont l’une sert, dit-il, à prendre les villes, et à battre les armées navales. Nous mettons au rang"
+      "text": "On ne fera pas même mention de Ramoth, ou Réémoth, et de Gabisch.[33] Ces deux termes sont inconnus, et l’on ne les traduit qu’au hasard Les Septante :[34] _Les choses élevées, et gabeis_. Symmaque :[35] _Des choses élevées, et sublimes_. La plupart des nouveaux Commentateurs croient que Job veut marquer deux sortes de pierres précieuses. Réémoth se traduit communément par du corail. Aquila : _Des toiles fines, comme de soie_. Théodotion : _Des aromates_. D’autres : _Des peaux, ou des cornes de monocéros_ ; ou même des animaux de ce nom. Ce dernier sens me paraîtrait le plus sûr, puisque Réémoth est le féminin de _Réémim_,[36] qui se trouve souvent dans l’Hébreu, pour désigner des monocéros. On trouve le même terme dans Ézéchiel[37] parmi les marchandises précieuses qu’on portait à Tyr.\nQuant à Gabisch, il est encore moins connu. Les uns disent qu’en général il signifie une pierre précieuse ; d’autres, _des perles_ ; d’autres, _un diamant_ ; d’autres, _un pyrope_ ; d’autres, _des habits de diverses couleurs_. Dans Ézéchiel,[38] on trouve la pierre d’_Al-Gabisch_, qui marque ou la grêle, ou la pierre de foudre ; et je ne doute point que ce ne soit la vraie signification de ce terme. Les Anciens estimaient ces sortes de pierres qui tombent quelquefois des nues avec la foudre, ou pour leur rareté, ou pour quelque effet surnaturel qu’on leur attribuait. Pline[39] parle de plusieurs espèces de pierres _céraunies_, ou pierres de foudre. Il y en avait une entre autres qui était fort rare, et que les Mages des Parthes recherchaient fort, pour s’en servir dans leurs secrètes opérations. C’est, dit-il, celle qui tombe avec la foudre. Sotacus en marque deux autres espèces, dont l’une sert, dit-il, à prendre les villes, et à battre les armées navales. Nous mettons au rang"
     },
     {
       "verse": 18,
       "sub": false,
       "latin_lemma": "trahitur autem sapientia de occultis.",
       "lemma": "La sagesse a une secrète origine d’où elle se tire.",
-      "text": "des fables ces prétendus effets des pierres céraunies. Nous n’ajoutons pas même foi à celles qu’on montre comme telles. Nous avons montré ailleurs, [39] que ce n’était autre chose que des armes anciennes ; et Pline lui-même semble l’avouer, puisqu’il dit qu’elles sont semblables à des cognées : _Nigras, rubentésque, ac similes eas esse securibus._ Mais on pouvait déjà être dans l’erreur à cet égard dès le temps de Job. Et quant aux véritables pierres qui tombent quelquefois du Ciel, surtout dans les pays de montagnes, elles n’ont rien qui les puisse faire estimer, que leur rareté, ou quelque effet particulier qu’on leur attribuerait ; et on ne doit pas les mettre au nombre des pierres précieuses. Elles n’en ont ni l’éclat, ni la beauté, ni le mérite.\n[40] La pêche de la sagesse est plus difficile que celle des perles. C’est le vrai sens de cet endroit. [41] La peine des plongeurs à chercher les mères-perles au fond de la mer, et celle de tirer les perles du poisson à écailles, où elles sont enfermées, ne sont rien en comparaison de ce qu’il faut faire pour rechercher la sagesse. L’Hébreu _Péninim_, est la racine de _Pinna_, dont les Latins, et les Grecs se servent pour marquer le poisson qui produit la perle. L’endroit le plus célèbre dans l’Antiquité pour la pêche des perles, est le Golfe Persique, [42] voisin de l’Idumée, et qui ne pouvait être inconnu à Job, ni à ses amis, ni à l’Auteur de ce Livre, quel qu’il soit. Ce n’est pas sans raison que Job se sert d’un terme, qui signifie tirer, arracher ; parce qu’en effet la perle, ou le poisson nommé _Pinna_, est attaché, planté, enraciné dans le fond de la mer. Il y tient par une espèce de laine précieuse, que nous croyons être le byssus. [43] Il faut donc que le plongeur qui va au fond de la mer pour pêcher les perles, arrache ce poisson avec sa laine, ou sa racine. Quant à la couleur rouge que Jérémie [44] semble donner aux _Péninim_, ou aux perles, nous l’avons expliquée dans le Commentaire sur les Lamentations ; et nous apprenons par les Anciens, que l’on connaissait des perles, surtout celles des Indes, qui avaient la couleur de l’or, [45] à qui par conséquent on pouvait donner l’épithète de rouge, ou de vermeil, comme on le donne quelquefois à l’or. [46] De plus Bochart montre fort bien que l’Hébreu _Adam_, ne signifie pas seulement le rouge, mais aussi ce qui est brillant, et éclatant. Les Latins se servent de même du nom _purpureus_, pour marquer des choses brillantes. Horace [47] donne cette épithète à des cygnes : _Purpureis ales coloribus_ ; et Albinovanus, à des bras plus blancs que la neige : _Brachia purpureâ candidiora nive_. Les Arabes se servent aussi du verbe _adam_, pour marquer la couleur la plus blanche.\n\nL’Hébreu : [48] _On ne lui comparera point le pitdaïh de Chus._ Le pays de Chus s’étendait sur le bord oriental de la mer rouge, et s’avançait vers la basse Égypte. Les Anciens nous apprennent unanimement [49] que la topaze se trouvait principalement dans l’Île de même nom dans la mer rouge, au voisinage du pays de Chus. Pline parle d’une Île de _Chythis_, ou _Chutis_, dans la même mer, qui produisait aussi des topazes. C’est peut-être cette Île que Job désigne ici sous le nom de Chus. Le nom Pitdaïh, n’est pas fort éloigné de _Topaze_."
+      "text": "des fables ces prétendus effets des pierres céraunies. Nous n’ajoutons pas même foi à celles qu’on montre comme telles. Nous avons montré ailleurs, [40] que ce n’était autre chose que des armes anciennes ; et Pline lui-même semble l’avouer, puisqu’il dit qu’elles sont semblables à des cognées : _Nigras, rubentésque, ac similes eas esse securibus._ Mais on pouvait déjà être dans l’erreur à cet égard dès le temps de Job. Et quant aux véritables pierres qui tombent quelquefois du Ciel, surtout dans les pays de montagnes, elles n’ont rien qui les puisse faire estimer, que leur rareté, ou quelque effet particulier qu’on leur attribuerait ; et on ne doit pas les mettre au nombre des pierres précieuses. Elles n’en ont ni l’éclat, ni la beauté, ni le mérite.\n[41] La pêche de la sagesse est plus difficile que celle des perles. C’est le vrai sens de cet endroit. [42] La peine des plongeurs à chercher les mères-perles au fond de la mer, et celle de tirer les perles du poisson à écailles, où elles sont enfermées, ne sont rien en comparaison de ce qu’il faut faire pour rechercher la sagesse. L’Hébreu _Péninim_, est la racine de _Pinna_, dont les Latins, et les Grecs se servent pour marquer le poisson qui produit la perle. L’endroit le plus célèbre dans l’Antiquité pour la pêche des perles, est le Golfe Persique, [43] voisin de l’Idumée, et qui ne pouvait être inconnu à Job, ni à ses amis, ni à l’Auteur de ce Livre, quel qu’il soit. Ce n’est pas sans raison que Job se sert d’un terme, qui signifie tirer, arracher ; parce qu’en effet la perle, ou le poisson nommé _Pinna_, est attaché, planté, enraciné dans le fond de la mer. Il y tient par une espèce de laine précieuse, que nous croyons être le byssus. [44] Il faut donc que le plongeur qui va au fond de la mer pour pêcher les perles, arrache ce poisson avec sa laine, ou sa racine. Quant à la couleur rouge que Jérémie [45] semble donner aux _Péninim_, ou aux perles, nous l’avons expliquée dans le Commentaire sur les Lamentations ; et nous apprenons par les Anciens, que l’on connaissait des perles, surtout celles des Indes, qui avaient la couleur de l’or, [46] à qui par conséquent on pouvait donner l’épithète de rouge, ou de vermeil, comme on le donne quelquefois à l’or. [47] De plus Bochart montre fort bien que l’Hébreu _Adam_, ne signifie pas seulement le rouge, mais aussi ce qui est brillant, et éclatant. Les Latins se servent de même du nom _purpureus_, pour marquer des choses brillantes. Horace [48] donne cette épithète à des cygnes : _Purpureis ales coloribus_ ; et Albinovanus, à des bras plus blancs que la neige : _Brachia purpureâ candidiora nive_. Les Arabes se servent aussi du verbe _adam_, pour marquer la couleur la plus blanche."
     },
     {
-      "verse": 18,
+      "verse": 19,
+      "sub": false,
+      "latin_lemma": "non adæquabitur ei topazius de Æthiopia.",
+      "lemma": "On ne la comparera point avec la topaze d’Ethiopie.",
+      "text": "L’Hébreu : [49] _On ne lui comparera point le pitdaïh de Chus._ Le pays de Chus s’étendait sur le bord oriental de la mer rouge, et s’avançait vers la basse Égypte. Les Anciens nous apprennent unanimement [50] que la topaze se trouvait principalement dans l’Île de même nom dans la mer rouge, au voisinage du pays de Chus. Pline parle d’une Île de _Chythis_, ou _Chutis_, dans la même mer, qui produisait aussi des topazes. C’est peut-être cette Île que Job désigne ici sous le nom de Chus. Le nom _Pitdaïh_, n’est pas fort éloigné de _Topaze_."
+    },
+    {
+      "verse": 19,
       "sub": false,
       "latin_lemma": "nec tincturæ mundissimæ componetur.",
       "lemma": "On ne la comparera point aux teintures les plus éclatantes.",
-      "text": "L’Hébreu : [50] _Au Kétem épuré._ On a déjà montré que _Kétem_ signifie l’or le plus précieux. Voyez le verset 16."
+      "text": "L’Hébreu : [51] _Au Kétem épuré._ On a déjà montré que _Kétem_ signifie l’or le plus précieux. Voyez le verset 16."
     },
     {
       "verse": 21,
@@ -145,21 +166,21 @@
       "sub": false,
       "latin_lemma": "qui fecit ventis pondus, et aquas appendit in mensura.",
       "lemma": "Il a donné du poids aux vents ; il a pesé, et mesuré l’eau.",
-      "text": "Il conserve les vents dans l’équilibre, et les empêche de tomber sur la terre avec impétuosité, et de détruire tout ce qui y est : [51]\n_Mollitque animos, et temperat iras,_\n_Ni faciat, maria, et terras, Cœlumque profundum_\n_Quippe ferant rapidi secum, verrántque per auras._\nOu plutôt : C’est lui qui pèse les vents, et qui mesure les eaux. Les vents, tout légers qu’ils puissent être, ne le sont pourtant pas assez, pour empêcher que Dieu n’en sache le juste poids ; et la masse infinie des eaux, dont le poids est immense, n’a rien qui embarrasse le Tout-puissant. Il les mesure, et sait jusqu’au nombre des gouttes qu’elles contiennent. Il fait deux choses presque incompréhensibles, et infiniment au-dessus des forces de l’homme. Il pèse le vent, et mesure toutes les eaux. Voyez Proverbes 16:2. _Deus spirituum ponderatur_."
+      "text": "Il conserve les vents dans l’équilibre, et les empêche de tomber sur la terre avec impétuosité, et de détruire tout ce qui y est : [52]\n_Mollitque animos, et temperat iras,_\n_Ni faciat, maria, et terras, Cœlumque profundum_\n_Quippe ferant rapidi secum, verrántque per auras._\nOu plutôt : C’est lui qui pèse les vents, et qui mesure les eaux. Les vents, tout légers qu’ils puissent être, ne le sont pourtant pas assez, pour empêcher que Dieu n’en sache le juste poids ; et la masse infinie des eaux, dont le poids est immense, n’a rien qui embarrasse le Tout-puissant. Il les mesure, et sait jusqu’au nombre des gouttes qu’elles contiennent. Il fait deux choses presque incompréhensibles, et infiniment au-dessus des forces de l’homme. Il pèse le vent, et mesure toutes les eaux. Voyez Proverbes 16:2. _Deus spirituum ponderatur_."
     },
     {
       "verse": 26,
       "sub": false,
       "latin_lemma": "quando ponebat pluviis legem, et viam procellis sonantibus.",
       "lemma": "Lorsqu’il prescrivait une loi aux pluies ; lorsqu’il marquait un chemin aux foudres, et aux tempêtes.",
-      "text": "L’Hébreu :[52] _il donne des lois à la pluie, et prescrit un chemin aux éclairs qui accompagnent le tonnerre._ Il tient les pluies renfermées dans les nues, comme dans une outre, ainsi qu’il le dit ailleurs.[53] Il les retient, et ne les laisse tomber que goutte à goutte, et autant qu’il en faut pour humecter la terre, sans l’inonder, et sans la couvrir d’un nouveau déluge. L’éclair ne sort point de la nuée sans ses ordres, et la foudre ne frappe que suivant ses lois ; elle ne tombe qu’au lieu qu’il lui a marqué. Quelques-uns[54] soutiennent que l’Hébreu _Chasit_, que nous avons traduit par un éclair, signifie la nuée, ou la pluie qui tombe du Ciel."
+      "text": "L’Hébreu :[53] _il donne des lois à la pluie, et prescrit un chemin aux éclairs qui accompagnent le tonnerre._ Il tient les pluies renfermées dans les nues, comme dans une outre, ainsi qu’il le dit ailleurs.[54] Il les retient, et ne les laisse tomber que goutte à goutte, et autant qu’il en faut pour humecter la terre, sans l’inonder, et sans la couvrir d’un nouveau déluge. L’éclair ne sort point de la nuée sans ses ordres, et la foudre ne frappe que suivant ses lois ; elle ne tombe qu’au lieu qu’il lui a marqué. Quelques-uns[55] soutiennent que l’Hébreu _Chasit_, que nous avons traduit par un éclair, signifie la nuée, ou la pluie qui tombe du Ciel."
     },
     {
       "verse": 27,
       "sub": false,
       "latin_lemma": "tunc vidit illam.",
       "lemma": "C’est alors qu’il l’a vue.",
-      "text": "Dans le temps que Dieu a fait toutes ces merveilles, qu’il mettait toutes les parties de l’univers dans l’état, et dans l’ordre où nous les voyons, dès lors il possédait parfaitement la sagesse. Il l’a toujours possédée, il ne l’a point acquise comme un bien étranger, et auparavant inconnu. C’est lui qui nous l’a fait connaître, qui en a fondé la profondeur, qui l’a établie, et fondée. Il en est le maître, la source, le père ; et cela de toute éternité.[55]"
+      "text": "Dans le temps que Dieu a fait toutes ces merveilles, qu’il mettait toutes les parties de l’univers dans l’état, et dans l’ordre où nous les voyons, dès lors il possédait parfaitement la sagesse. Il l’a toujours possédée, il ne l’a point acquise comme un bien étranger, et auparavant inconnu. C’est lui qui nous l’a fait connaître, qui en a fondé la profondeur, qui l’a établie, et fondée. Il en est le maître, la source, le père ; et cela de toute éternité.[56]"
     },
     {
       "verse": 28,
@@ -206,15 +227,8 @@
       "after": "d’en arrêter l’impétuosité par des digues, etc. Les Septan"
     },
     {
-      "seam": "page_0345>page_0345",
-      "verse": 12,
-      "mode": "para",
-      "before": "evant, et qu’il a si bien distinguées de la vraie sagesse.",
-      "after": "Elle n’est point du nombre des choses qu’on achète, et aux"
-    },
-    {
       "seam": "page_0345>page_0346",
-      "verse": 12,
+      "verse": 13,
       "mode": "flow",
       "before": "es._ On a mis _suaviter_ dans la Vulgate, apparemment pour",
       "after": "montrer que la vertu, et la véritable sagesse ne s’acquièr"
@@ -227,25 +241,11 @@
       "after": "vent^{(a)} on le joint comme ici, au nom d’Ophir : _Du Két"
     },
     {
-      "seam": "page_0347>page_0347",
-      "verse": 16,
-      "mode": "para",
-      "before": "on, nous ne voyons pas ces diverses dénominations de l’or.",
-      "after": "NEC LAPIDI SARDONICHO PRETIOSISSIMO, VEL SAPHIRO. _Ni avec"
-    },
-    {
       "seam": "page_0349>page_0350",
       "verse": 18,
       "mode": "flow",
       "before": "de l’or, ^{fn:page_0349-g} à qui par conséquent on pouvait",
       "after": "donner l’épithète de rouge, ou de vermeil, comme on le don"
-    },
-    {
-      "seam": "page_0350>page_0350",
-      "verse": 18,
-      "mode": "para",
-      "before": " du verbe _adam_, pour marquer la couleur la plus blanche.",
-      "after": "L’Hébreu : ^{(c)} _On ne lui comparera point le pitdaïh de"
     },
     {
       "seam": "page_0351>page_0352",
@@ -318,12 +318,12 @@
     {
       "key": "page_0342-c",
       "n": 8,
-      "text": "Taphÿri Ptolemæo, et Strabon Sassiri."
+      "text": "Taphÿri Ptolemæo, et Strabon Saspiri. Hérodote, livre 3, chapitre 94."
     },
     {
       "key": "page_0342-d",
       "n": 9,
-      "text": "מקום ספיר אבניה ועפרות זהב לו ¹ Hérodote, livre 3, chapitre 94."
+      "text": "מקום ספיר אבניה ועפרות זהב לו"
     },
     {
       "key": "page_0342-e",
@@ -371,14 +371,14 @@
       "text": "Οὐδὲ μὴν εὑρίσκεται ἐν ἀνθρώποις."
     },
     {
-      "key": "page_0346-b",
+      "key": "page_0346-a",
       "n": 19,
-      "text": "_Plin. lib._ XXXIII, _cap._ 3. _Aurum quo magis arsit, eo magis proficit ad bonitatem : aurique experimentum ignis est, ut simili colore rubrat, ut ignis ; atque ipsum obrizum vocatum._"
+      "text": "לא יותן סגור תחתיה. Οὐ δώσουσι χρυσίον ἀντ᾽ ἀυτῆς. L’ancienne version latine : _Aurum conclusum pro ea._"
     },
     {
-      "key": "page_0346-a",
+      "key": "page_0346-b",
       "n": 20,
-      "text": "לא יותן סגור תחתיה. Οὐ δώσουσι χρυσίον ἀντ᾽ ἀυτῆς. L’ancienne version latine : _Aurum conclusum pro ea._"
+      "text": "_Plin. lib._ XXXIII, _cap._ 3. _Aurum quo magis arsit, eo magis proficit ad bonitatem : aurique experimentum ignis est, ut simili colore rubrat, ut ignis ; atque ipsum obrizum vocatum._"
     },
     {
       "key": "page_0346-c",
@@ -443,12 +443,12 @@
     {
       "key": "page_0348-a",
       "n": 33,
-      "text": "[UNCERTAIN HEBREW] רמות וגביש לא יזכיר"
+      "text": "רמות וגביש לא יזכיר"
     },
     {
       "key": "page_0348-b",
       "n": 34,
-      "text": "70*. Μετέωρα καὶ γαβεῖς."
+      "text": "70. Μετέωρα καὶ γαβεῖς."
     },
     {
       "key": "page_0348-c",
@@ -458,105 +458,108 @@
     {
       "key": "page_0348-d",
       "n": 36,
-      "text": "ראמות* ראמים Nombres 23,22 ; Deutéronome 33,17 ; Job 39,9 ; Psaumes 21,22 ; etc."
+      "text": "ראמות ראמים Nombres 23,22 ; Deutéronome 33,17 ; Job 39,9 ; Psaumes 21,22 ; etc."
     },
     {
-      "key": "page_0348-f",
+      "key": "page_0348-e",
       "n": 37,
       "text": "Ézéchiel 27,16."
     },
     {
-      "key": "page_0348-g",
+      "key": "page_0348-f",
       "n": 38,
+      "text": "Ézéchiel 13,2."
+    },
+    {
+      "key": "page_0348-g",
+      "n": 39,
       "text": "Pline, Histoire naturelle, livre 37, chapitre 9 _Faciunt et aliam raram admodum, et Parthorum Magis quæsitam, quoniam non aliubi inveniatur, nisi in loco fulmine isto._"
     },
     {
       "key": "page_0349-a",
-      "n": 39,
-      "text": "Dissertation sur la pluye de pierres de Josué."
+      "n": 40,
+      "text": "Dissertation sur la pluie de pierres de Josué."
     },
     {
       "key": "page_0349-b",
-      "n": 40,
+      "n": 41,
       "text": "[UNCERTAIN HEBREW] ספנינים חכמה מבו"
     },
     {
       "key": "page_0349-c",
-      "n": 41,
+      "n": 42,
       "text": "Voyez Lamentations 4,7."
     },
     {
       "key": "page_0349-d",
-      "n": 42,
+      "n": 43,
       "text": "_Plin. IX. 35. et XXXVII. 4._"
     },
     {
       "key": "page_0349-e",
-      "n": 43,
-      "text": "Voyez-nôtre Commentaire sur I, PAY. ℣. 27."
+      "n": 44,
+      "text": "Voyez-notre Commentaire sur I, PAY. ℣. 27."
     },
     {
       "key": "page_0349-f",
-      "n": 44,
+      "n": 45,
       "text": "_Lamentations 4,7. Rubicundi pre peninim._ [UNCERTAIN HEBREW] אדמו עצם מפנינים"
     },
     {
       "key": "page_0349-g",
-      "n": 45,
+      "n": 46,
       "text": "_Vide Androsthen. apud Athen. lib. 3. cap. 15. [UNCERTAIN GREEK] Καὶ ἔςι ὁ Δρ χρυσονδὴς σφίδεα, ὡς ἐπὶ ἰη δια-σίας διαγῶναι ὄρος κατιδῆ παρὰ τὸ χρυσίον, ὃ δὲ ἀργυροειδὴς, ὃ δὲ νελίμῳ λευκῷ, ἐμεῖς τοῖς σφ-δαλμοῖς τῶν ἰχθύων_"
     },
     {
       "key": "page_0350-a",
-      "n": 46,
+      "n": 47,
       "text": "Pindare, Ode 1. O’ δέ χρυσός αἰθόμενον πῦρ ἅτε διαπρέπει νυκτί."
     },
     {
       "key": "page_0350-b",
-      "n": 47,
+      "n": 48,
       "text": "Horace, livre 4, ode 1."
     },
     {
       "key": "page_0350-c",
-      "n": 48,
+      "n": 49,
       "text": "לא יערכנה פטדת כוש"
     },
     {
       "key": "page_0350-d",
-      "n": 49,
-      "text": "Diodore de Sicile, livre 3, page 121 ;\nPline, Histoire naturelle, livre 6, chapitre 29 ;\nStrabon, livre 10 ;\nsaint Épiphane, Des pierres précieuses."
+      "n": 50,
+      "text": "Diodore de Sicile, livre 3, page 121 ;\nPline, Histoire naturelle, livre 6, chapitre 29 ;\nStrabon, livre 10 ;\nSaint Épiphane, Des pierres précieuses."
     },
     {
       "key": "page_0350-e",
-      "n": 50,
+      "n": 51,
       "text": "בכתם טהור לא תסלה"
     },
     {
       "key": "page_0351-a",
-      "n": 51,
+      "n": 52,
       "text": "Virgile, Énéide 1."
     },
     {
       "key": "page_0352-a",
-      "n": 52,
+      "n": 53,
       "text": "וְשׂוּמוֹ לִמְטַר חֹק וְדֶרֶךְ לַחֲזִיז קוֹלוֹת"
     },
     {
       "key": "page_0352-b",
-      "n": 53,
+      "n": 54,
       "text": "Job 26,8. _Qui ligat aquas in nubibus suis._"
     },
     {
       "key": "page_0352-c",
-      "n": 54,
+      "n": 55,
       "text": "_Louis de Dieu ;\nJunius ;\nRabbi Nasha, etc._"
     },
     {
       "key": "page_0352-d",
-      "n": 55,
+      "n": 56,
       "text": "_Voyez Prov._ VIII. 23. Ecclésiastique 24,14."
     }
   ],
-  "missing_footnotes": [
-    "page_0348-e"
-  ]
+  "missing_footnotes": []
 }

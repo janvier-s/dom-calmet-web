@@ -1,0 +1,159 @@
+{
+  "book": "Psaumes",
+  "chapter": 18,
+  "chapter_summary": "Les Cieux, et les Corps célestes publient la grandeur de Dieu. Excellence et perfection de la Loi de Dieu. Qu’il est malaisé de l’observer exactement !\n\nIn finem, Psalmus David. | Psaume de David, pour la fin.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem. Psalmus David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0284.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Coeli enarrant gloriam Dei, et opera manuum ejus annuntiat firmamentum.",
+      "french": "Les Cieux racontent la gloire de Dieu, et le Firmament publie les ouvrages de ses mains.",
+      "source_pages": [
+        "page_0284.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Dies diei eructat verbum, et nox nocti indicat scientiam.",
+      "french": "Un jour annonce cette vérité à un autre jour ; et une nuit en donne la connaissance à une autre nuit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0285.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Non sunt loquelæ, neque sermones, quorum non audiantur voces eorum.",
+      "french": "Il n’y a ni langue, ni peuples divers, qui n’entendent leur voix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0286.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "In omnem terram exivit sonus eorum : et in fines orbis terræ verba eorum.",
+      "french": "Leur bruit s’est répandu dans toute la terre ; et leurs paroles se sont fait entendre jusque aux extrémités du monde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0287.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "In sole posuit tabernaculum suum : et ipse tamquam sponsus procedens de thalamo suo :",
+      "french": "Il a établi sa tente dans le Soleil ; et il est lui-même, comme un époux qui sort de sa chambre nuptiale.",
+      "annotations": null,
+      "source_pages": [
+        "page_0287.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Exultavit ut gigas ad currendam viam ; A summo Cœlo egressio ejus,",
+      "french": "Il sort plein d’ardeur, pour courir comme un géant dans sa carriere : il part de l’extrémité du Ciel,",
+      "annotations": null,
+      "source_pages": [
+        "page_0289.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et occursus ejus usque ad summum ejus : nec est qui se abscondat à calore ejus.",
+      "french": "Et il arrive jusqu’à l’autre extrémité du Ciel ; et il n’y a personne qui se cache à sa chaleur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0289.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Lex Domini immaculata convertens animas : testimonium Domini fidele, sapientiam præstans parvulis.",
+      "french": "La Loi du Seigneur, qui est sans tache, convertit les âmes ; le témoignage du Seigneur est fidèle, et il donne la sagesse aux petits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0290.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Justitia Domini rectæ, lætificantes corda : præceptum Domini lucidum, illuminans oculos.",
+      "french": "Les justices du Seigneur sont droites ; elles font naître la joie dans les cœurs : le précepte du Seigneur est tout rempli de lumière, et il éclaire les yeux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0291.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Timor Domini sanctus, permanens in sæculum sæculi : judicia Domini vera, justificata in semetipsa.",
+      "french": "La crainte du Seigneur, qui est sainte, subsiste dans tous les siècles : les jugements du Seigneur sont véritables, et pleins de justice en eux-mêmes :",
+      "annotations": null,
+      "source_pages": [
+        "page_0291.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Desiderabilia super aurum et lapidem pretiosum multum : et dulciora super mel et favum.",
+      "french": "Ils sont plus désirables que l’abondance de l’or, et des pierres précieuses, et plus doux que n’est le miel, et qu’un rayon plein de miel.",
+      "source_pages": [
+        "page_0292.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Etenim servus tuus custodit ea, in custodiendis illis retributio multa.",
+      "french": "Car votre serviteur les garde avec soin ; et il trouve en les gardant une grande récompense.",
+      "annotations": null,
+      "source_pages": [
+        "page_0293.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Delicta quis intelligit ? Ab occultis meis munda me : Et ab alienis parce servo tuo.",
+      "french": "Qui est celui qui connaît ses fautes ? Purifiez-moi, mon Dieu, de celles qui sont cachées en moi ; et préservez votre serviteur de la corruption des étrangers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0294.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Si mei non fuerint dominati, tunc immaculatus ero : et emundabor à delicto maximo.",
+      "french": "Si je n’en suis point dominé, je serai alors sans tache, et purifié d’un très grand péché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0295.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et erunt ut complaceant eloquia oris mei, et meditatio cordis mei in conspectu tuo semper.",
+      "french": "Alors les paroles de ma bouche vous seront agréables, aussi bien que la méditation secrète de mon cœur, que je ferai toujours en votre présence.",
+      "annotations": null,
+      "source_pages": [
+        "page_0295.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Domine, adjutor meus, et redemptor meus.",
+      "french": "Seigneur, vous êtes mon aide, et mon Rédempteur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0295.json"
+      ]
+    }
+  ]
+}

@@ -5,7 +5,7 @@
       "sub": false,
       "latin_lemma": "factum est ut David… tolleret Geth, et filias ejus de manu Philisthiim.",
       "lemma": "David retira Geth et ses dépendances, d’entre les mains des Philistins.",
-      "text": "Voyez ce qu’on a dit sur le second Livre des Rois, chap. XIII. I. où on lit dans la Vulgate, _tulit David frænum tributi de manu Philisthiim._"
+      "text": "Voyez ce qu’on a dit sur le 2 Rois 8:1. où on lit dans la Vulgate, _tulit David frænum tributi de manu Philisthiim._"
     },
     {
       "verse": 2,
@@ -78,6 +78,13 @@
       "text": "il est nommé _Joram_, 2 Rois 8:10."
     },
     {
+      "verse": 10,
+      "sub": false,
+      "latin_lemma": "ut postularet ab eo pacem, et congratularetur.",
+      "lemma": "Pour lui demander la paix, et pour lui témoigner sa joie, de ce qu’il avait vaincu Adarézer.",
+      "text": "L’Hébreu : [11] _Pour lui demander si tout allait bien, et pour le bénir._ En un mot pour le complimenter, et le féliciter de la victoire."
+    },
+    {
       "verse": 11,
       "sub": false,
       "latin_lemma": "omnia vasa aurea, et argentea consecravit David rex.",
@@ -118,13 +125,6 @@
       "latin_lemma": "filii David primi ad manum regis.",
       "lemma": "Les fils de David étaient les premiers auprès du Roi.",
       "text": "À la lettre : [22] _Les premiers à la main du Roi._ Ils étaient les premiers auprès de sa personne, pour exécuter ses ordres, et pour l’aider dans les travaux du gouvernement. Les Septante : [23] _Les premiers Vicaires du Roi._ Le Syriaque, et l’Arabe : _Les fils de David étaient les Princes, les premiers de tous les Officiers, dont on vient de parler._ Dans le passage parallèle du second Livre des Rois, on lit qu’ils étaient Prêtres. [24]"
-    },
-    {
-      "verse": 21,
-      "sub": false,
-      "latin_lemma": "ut postularet ab eo pacem, et congratularetur",
-      "lemma": "Pour lui demander la paix, et pour lui témoigner sa joie, de ce qu’il avait vaincu Adarézer.",
-      "text": "L’Hébreu : [11] _Pour lui demander si tout allait bien, et pour le bénir._ En un mot pour le complimenter, et le féliciter de la victoire."
     }
   ],
   "joins": [

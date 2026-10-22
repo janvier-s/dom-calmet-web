@@ -26,7 +26,14 @@
       "sub": false,
       "latin_lemma": "tace, et noli turbari… satis fidelis est vir ille cum quo misimus eum.",
       "lemma": "Cessez, je vous prie, de parler ainsi ; ne vous troublez point… cet homme, avec qui nous l’avons en-",
-      "text": "voyé, est très fidèle. À la lettre : Assez ta satis : [4] Homines boni satis : [5] Bellum durum satis : [6] Ne irascaris, Domine, satis. [7] Ce verset est un peu différent dans le Grec : Tobie lui dit : Taisez-vous, n’ayez point d’inquiétude ; il se porte bien. Mais Anne lui répondit : Taisez-vous, ne me trompez point ; mon fils est perdu. Les Textes Hébreux lisent ainsi : Taisez-vous, ne pleurez pas ; il reviendra, ou ils reviendront sains, et saufs."
+      "text": ""
+    },
+    {
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "voyé, est très fidèle.",
+      "text": "À la lettre : Assez ta satis : [4] Homines boni satis : [5] Bellum durum satis : [6] Ne irascaris, Domine, satis. [7] Ce verset est un peu différent dans le Grec : Tobie lui dit : Taisez-vous, n’ayez point d’inquiétude ; il se porte bien. Mais Anne lui répondit : Taisez-vous, ne me trompez point ; mon fils est perdu. Les Textes Hébreux lisent ainsi : Taisez-vous, ne pleurez pas ; il reviendra, ou ils reviendront sains, et saufs."
     },
     {
       "verse": 7,
@@ -71,13 +78,6 @@
       "mode": "flow",
       "before": "culté sur le paiement ? N’aura-t-on pas fait refus de leur",
       "after": "rendre ma somme ? Souvent confondre, se prend pour refuser"
-    },
-    {
-      "seam": "page_0097>page_0098",
-      "verse": 6,
-      "mode": "splice",
-      "before": " vous troublez point… cet homme, avec qui nous l’avons en-",
-      "after": "voyé, est très fidèle. À la lettre : Assez ta satis : ^{(a"
     },
     {
       "seam": "page_0099>page_0100",

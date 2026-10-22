@@ -1,0 +1,113 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "ecce quam bonum, et quam jucundum, habitare fratres in unum !",
+      "lemma": "Hà qu’il est doux, et agréable, de voir les frères réunis ensemble !",
+      "text": "Que c’est un spectacle consolant pour tout Israël de voir les Ministres du Seigneur rassemblez dans son saint Temple, et n’ayant plus d’autre soin que de servir le Seigneur ! Que c’est une chose agréable pour ces Prêtres, et ces Lévites, après un si long exil, de se voir aujourd’hui réunis dans la ville sainte, et dans la Maison du Seigneur ! Les Septante à la lettre : [1] _Qu’y a-t’il de beau, et d’agréable, comme de voir les frères réunis ?_"
+    },
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "sicut unguentum in capite, quod descendit in barbam, etc.",
+      "lemma": "C’est comme le parfum répandu sur la tête, qui descend sur toute la barbe d’Aaron.",
+      "text": "L’union des Prêtres, et des Lévites dans la Maison du Seigneur, est aussi douce, aussi suave, que l’était le parfum dont on oignit Aaron dans sa consécration ; Ce parfum que Moyse répandit sur la tête du grand-Prêtre avec tant d’abondance, que non-seulement ses cheveux, et sa barbe en furent humectez ; mais aussi qu’il coula jusque sur le bord, ou le collet de sa robe. [2] L’Hébreu à la lettre : [3] _Sur la bouche de ses habits._ Et dans le style de l’Ecriture, la bouche des habits, signifie l’ouverture d’en haut, par où l’on passe le col. [4] Les Septante [5] se servent d’un terme, qui signifie proprement une bordure de peau de mouton, qui se mettait au bas, et même au collet des habits, pour les conserver. [6] Moyse [7] parle au long de la composition du parfum, dont Aaron fut oint au jour de sa consécration, et des cérémonies qui s’observérent au sacre de ce grand-Prêtre. C’est à quoi le Psalmiste fait ici attention."
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "sicut ros Hermon, qui descendit in montem Sion.",
+      "lemma": "Comme la rosée du mont Hermon, qui descend sur la montagne",
+      "text": "de Sion. L’Hébreu, et les Septante : [8] _Sur les montagnes de Sion_. L’union des Prêtres dans le ministere sacré, leur retour dans le Temple, est aussi agréable à tout le peuple, que la rosée l’est aux montagnes d’Hermon, et de Sion : Car c’est ainsi que la plupart des Interprètes l’entendent ; comme s’il y avait : _Sicut Ros qui descendit in Hermon, et qui descendit in montem Sion_. Et en effet comment la rosée qui descend sur le mont Hermon, situé au-delà du Jourdain, tomberait-elle sur le mont de Sion, situé au-deçà de ce fleuve, à plus de cinquante lieuës de là ? Quelques-uns pour répondre à cette difficulté, veulent que _Sion_ en cet endroit, soit appellatif, et qu’il signifie toute montagne séche, et stérile.[9]\nD’autres veulent avec beaucoup plus de vrai-semblance, que l’Héb. _Zion_, soit mis ici pour _Sion_, par un changement qui est très aisé entre deux lettres qui ont à peu près le même son.[10] Or _Sion_ écrite avec un _Sin_, est le nom d’un des côteaux du mont Hermon.[11] Le nom de _Sion_, mis comme synonime à Hermon, se remarque aussi dans l’Ecclésiastique :[12] _Quasi cypressus in monte Sion_. Le Grec lit : _in monte Hermon_. Le Psalmiste ne veut donc dire que la même chose dans les deux membres du verset. L’union des Prêtres, et des Lévites est aussi agréable, et aussi désirée, que le peut être la rosée qui tombe sur le mont Hermon, et sur le côteau de Sion, qui est contigu."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "quoniam illic mandavit Dominus benedictionem, et vitam usque in sæculum.",
+      "lemma": "Car c’est-là que le Seigneur a répandu sa bénédiction, et une très longue vie.",
+      "text": "Là où est l’union, Dieu y répand ses grâces, et une vie longue, et heureuse. Ou bien : C’est dans le Temple, où les Prêtres, et les Lévites sont rassemblez dans un même cœur, et un même esprit, que le Seigneur répand ses bénédictions, et la vie, c’est-à-dire, toutes sortes de grâces, et de faveurs. L’Hébreu,[13] et les Septante à la lettre : _Car c’est-là que le Seigneur ordonne la bénédiction, la vie_ (sans et,) _jusqu’au siècle futur_. Je soupçonne qu’il y a faute dans le Texte Hébreu, et qu’il faudrait lire : _Le Seigneur y a versé ses bénédictions aujourd’hui, et pour toujours_."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0301>page_0302",
+      "verse": 3,
+      "mode": "flow",
+      "before": "Comme la rosée du mont Hermon, qui descend sur la montagne",
+      "after": "de Sion. L’Hébreu, et les Septante : ^{(a)} _Sur les monta"
+    }
+  ],
+  "pages_used": [
+    "page_0301",
+    "page_0302"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0301-a",
+      "n": 1,
+      "text": "_Ita les Septante, édition romaine._ Ἡμεῖς δὲ ἐν ὀνόματι Κυρίου Θεοῦ ἡμῶν, μεγαλυνθησόμεθα. _Ita Apollinaire, Métaphrase ; Saint Cyprien, Exhortation aux martyrs ; Saint Ambroise ; Saint Jérôme, sur Osée 10 ; et Vie d’Hilarion (sed hic legit, Invocabimus.) Ita et le Psautier éthiopien ; l’Arabe ; le Syriaque ; le Psautier romain ; le Psautier de Saint-Germain ; le Psautier de Chartres. Magnificabimur._"
+    },
+    {
+      "key": "page_0301-b",
+      "n": 2,
+      "text": "ואנחנו בשם יהוה אלהינו נזכיר"
+    },
+    {
+      "key": "page_0301-c",
+      "n": 3,
+      "text": "_70._ Αὐτοὶ συνεποδίσθησαν, καὶ επεσον."
+    },
+    {
+      "key": "page_0301-d",
+      "n": 4,
+      "text": "_Exode 14,25._ Καὶ συνέδησε τοὺς ἄξονας τῶν ἁρμάτων αὐτῶν, etc."
+    },
+    {
+      "key": "page_0301-e",
+      "n": 5,
+      "text": "המה כרעו ונפלו"
+    },
+    {
+      "key": "page_0301-f",
+      "n": 6,
+      "text": "Vide Ludov. de Dieu. hic. et Boch. de animal. p. 1. l. 2. c. 43. ?"
+    },
+    {
+      "key": "page_0301-g",
+      "n": 7,
+      "text": "Exode 30,23-25, 30 ; Lévitique 8,10."
+    },
+    {
+      "key": "page_0302-a",
+      "n": 8,
+      "text": "יהוה* הושיעה* המלך* יעננו* ביום* קראנו* saint Jérôme : _Domine, salva : Rex, exaudi nos in die invocationis nostræ._"
+    },
+    {
+      "key": "page_0302-b",
+      "n": 9,
+      "text": "_Vide Muis, hic._"
+    },
+    {
+      "key": "page_0302-c",
+      "n": 10,
+      "text": "_Beda._"
+    },
+    {
+      "key": "page_0302-d",
+      "n": 11,
+      "text": "Théodoret ;\nNicéphore ;\nEuthyme ;\nSaint Basile."
+    },
+    {
+      "key": "page_0302-e",
+      "n": 12,
+      "text": "4 Rois 20,6."
+    },
+    {
+      "key": "page_0302-f",
+      "n": 13,
+      "text": "כי שם צוה יהוה את הברכה חיים עד העולם Je voudrois lire שם ירד יהוה את הברכה חיים עד העולם Hodie usque in sæculum."
+    }
+  ],
+  "missing_footnotes": []
+}

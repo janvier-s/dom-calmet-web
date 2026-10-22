@@ -1,0 +1,98 @@
+{
+  "book": "Psaumes",
+  "chapter": 11,
+  "chapter_summary": "Peinture de la corruption du siècle, et de l’infidélité des hommes. Le Psalmiste implore le secours de Dieu. Il prédit la perte de ses ennemis.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem pro octava. Psalmus David.",
+      "french": "Psaume de David pour la fin, sur l’octave.",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0191.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Salvum me fac, Domine ; quoniam defecit sanctus : quoniam diminutæ sunt veritates à filiis hominum.",
+      "french": "Sauvez-moi, Seigneur, parce qu’il n’y a plus de saint ; parce que les vérités ont été altérées par les enfants des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0191.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Vana locuti sunt unusquisque ad proximum suum : labia dolosa, in corde et corde locuti sunt.",
+      "french": "On n’entend que mensonge ; et que vanité : leurs lèvres sont pleines de tromperies, et ils parlent avec un cœur double.",
+      "annotations": null,
+      "source_pages": [
+        "page_0192.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Disperdat Dominus universa labia dolosa, et linguam magniloquam.",
+      "french": "Que le Seigneur extermine toutes les lèvres trompeuses, et la langue superbe.",
+      "annotations": null,
+      "source_pages": [
+        "page_0193.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Qui dixerunt : Linguam nostram magnificabimus, labia nostra à nobis sunt ; quis noster Dominus est ?",
+      "french": "Ils ont dit : Nous acquerrons de la gloire, et de l’éclat par notre langue ; nos lèvres sont à nous et nous appartiennent : Qui est notre seigneur et notre maître ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0193.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Propter miseriam inopum, et gemitum pauperum, nunc exurgam, dicit Dominus.",
+      "french": "Je vais me lever, dit le Seigneur, à cause de la misère des indigents, et du gémissement des pauvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0194.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ponam in salutari : fiducialiter agam in eo.",
+      "french": "Je procurerai leur salut en les mettant en un lieu sûr ; et j’agirai en cela avec une entière liberté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0194.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Eloquia Domini, eloquia casta ; argentum igne examinatum, probatum terræ, purgatum septuplum.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0194.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Tu, Domine, servabis nos : et custodies nos à generatione hac in æternum.",
+      "french": "C’est vous, Seigneur, qui nous garderez, et qui nous mettrez éternellement à couvert de cette nation corrompue.",
+      "annotations": null,
+      "source_pages": [
+        "page_0196.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "In circuitu impii ambulant : secundum altitudinem tuam multiplicasti filios hominum.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0196.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "book": "Psaumes",
+  "chapter": 78,
+  "chapter_summary": "Plaintes du Psalmiste contre la cruauté des Babyloniens, qui ont ruiné la ville et le Temple de Jérusalem. Prières pour le peuple captif à Babylone.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": null,
+      "latin": "Psalmus Asaph.",
+      "french": "Pseaume d’Asaph.",
+      "annotations": null,
+      "source_pages": [
+        "page_0437.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Deus, venerunt gentes in hereditatem tuam ; polluerunt templum sanctum tuum : posuerunt Jerusalem in pomorum custodiam.",
+      "french": "O Dieu, les nations sont entrées dans votre héritage ; elles ont souillé votre saint Temple ; elles ont fait de Jerusalem une cabane de sentinelle, qui garde les fruits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0438.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Posuerunt morticina servorum tuorum, escas volatilibus cæli : carnes sanctorum tuorum, bestiis terræ.",
+      "french": "Et elles ont exposé les corps morts de vos serviteurs pour servir de nourriture aux oiseaux du ciel ; les chairs de vos saints, pour être la proie des bêtes de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0438.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Effuderunt sanguinem eorum tanquam aquam in circuitu Jerusalem : et non erat qui sepeliret.",
+      "french": "Elles ont répandu leur sang comme l’eau autour de Jérusalem ; et il n’y avait personne qui leur donnât la sépulture.",
+      "annotations": null,
+      "source_pages": [
+        "page_0439.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Facti sumus opprobrium vicinis nostris : subsannatio et illusio his, qui in circuitu nostro sunt.",
+      "french": "Nous sommes devenus un sujet d’opprobre à nos voisins ; ceux qui sont autour de nous se moquent de nous, et nous insultent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0439.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Usquequò Domine irascêris in finem : accendetur velut ignis zelus tuus ?",
+      "french": "Jusqu’à quand, Seigneur, vous mettrez-vous en colère, comme si votre colère devait être éternelle ? Jusqu’à quand votre fureur s’allumera-t’elle comme un feu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0439.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Effunde iram tuam in gentes, quæ te non noverunt : et in regna, quæ nomen tuum non invocaverunt.",
+      "french": "Répandez abondamment votre colère sur les nations qui ne vous connaissent pas ; et sur les Royaumes qui n’invoquent point votre nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0440.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quia comederunt Jacob : et locum ejus desolaverunt.",
+      "french": "Parce qu’ils ont dévoré Jacob, et rempli de désolation le lieu de sa demeure.",
+      "annotations": null,
+      "source_pages": [
+        "page_0440.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Ne memineris iniquitatum nostrarum antiquarum, citò anticipent nos misericordiæ tuæ : quia pauperes facti sumus nimis.",
+      "french": "Ne vous souvenez point de nos anciennes iniquités ; et que vos miséricordes nous préviennent promptement ; parce que nous sommes réduits à la dernière misere.",
+      "annotations": null,
+      "source_pages": [
+        "page_0440.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Adjuva nos Deus, salutaris noster : et propter gloriam nominis tui, Domine, libera nos : et propitius esto peccatis nostris, propter nomen tuum :",
+      "french": "Aidez-nous, ô Dieu, qui êtes notre Sauveur ; délivrez-nous, Seigneur, pour la gloire de votre nom ; et pardonnez-nous nos péchés, à cause du nom vraiment saint qui vous est propre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0441.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Ne fortè dicant in gentibus : Ubi est Deus eorum ? et innotescat in nationibus coram oculis nostris.",
+      "french": "De peur qu’on ne dise parmi les peuples : Où est maintenant leur Dieu ? Faites éclater contre les nations devant nos yeux",
+      "annotations": null,
+      "source_pages": [
+        "page_0441.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Ultio sanguinis servorum tuorum, qui effusus est : introeat in conspectu tuo gemitus compeditorum.",
+      "french": "La vengeance du sang de vos serviteurs qui a été répandu : que les gémissements de ceux qui sont captifs, s’élevent jusqu’à vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0442.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Secundum magnitudinem brachii tui, posside filios mortificatorum.",
+      "french": "Possédez et conservez par la force toute-puissante de votre bras, les enfants de ceux qu’on a fait mourir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0442.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et redde vicinis nostris septuplum, in sinu eorum : improperium ipsorum, quod exprobraverunt tibi, Domine.",
+      "french": "Versez dans le sein de nos voisins les effets de votre colère, sept fois au double de ce qu’ils ont fait contre nous : faites retomber sur eux sept fois plus d’opprobres, qu’ils ne vous en ont fait, Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0442.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Nos autem populus tuus, et oves pascuæ tuæ, confitebimur tibi in sæculum.",
+      "french": "Mais pour nous qui sommes votre peuple, et les brebis que vous nourrissez, nous vous louerons éternellement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0443.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "In generationem et generationem annuntiabimus laudem tuam.",
+      "french": "Et nous publierons vos louanges dans la suite de toutes les races.",
+      "annotations": null,
+      "source_pages": [
+        "page_0443.json"
+      ]
+    }
+  ]
+}

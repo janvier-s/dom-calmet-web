@@ -1,0 +1,206 @@
+{
+  "book": "Psaumes",
+  "chapter": 58,
+  "chapter_summary": "Prière d’un homme exposé au dernier danger, et environné de ses ennemis. La miséricorde du Seigneur le prévient. Menace contre ses ennemis. Actions de grâces pour sa délivrance.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "Ne disperdas. David in tituli inscriptionem, quando misit Saül, et custodivit domum ejus, ut eum interficeret.",
+      "french": "Pour la fin : Ne m’exterminez pas. David mit cette inscription pour titre, quand Saül envoya des gens, et fit garder sa maison pour le tuer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0722.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Eripe me de inimicis meis, Deus meus ; et ab insurgentibus in me libera me.",
+      "french": "Sauvez-moi, mon Dieu, des mains de mes ennemis ; et délivrez-moi de ceux qui s’élèvent contre moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0724.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Eripe me de operantibus iniquitatem ; et de viris sanguinum salva me.",
+      "french": "Arrachez-moi du milieu de ces ouvriers d’iniquité : et sauvez-moi de tous ces hommes de sang.",
+      "annotations": null,
+      "source_pages": [
+        "page_0724.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quia ecce ceperunt animam meam : irruerunt in me fortes.",
+      "french": "Parce que les voilà qui en veulent à ma vie : des hommes puissants sont venus fondre sur moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0724.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Neque iniquitas mea, neque peccatum meum, Domine : sine iniquitate cucurri, et direxi.",
+      "french": "Ce n’est point, Seigneur, mon iniquité, ni mon péché qui m’ont attiré leur inimitié ; j’ai couru, et j’ai conduit tous mes pas sans injustice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0725.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Exurge in occursum meum, et vide : et tu, Domine, Deus virtutum, Deus Israël.",
+      "french": "Levez-vous, pour venir au-devant de moi à mon secours, et considérez le péril où je me trouve. Vous, Seigneur, qui êtes le Dieu des armées, le Dieu d’Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0725.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Intende ad visitandas omnes gentes : non miserearis omnibus, qui operantur iniquitatem.",
+      "french": "Songez à visiter dans votre colère toutes ces Nations ; ne faites point de miséricorde à tous ceux qui commettent l’iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0726.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Convertentur ad vesperam, et famem patientur ut canes : et circuibunt civitatem.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0726.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Ecce loquentur in ore suo, et gladius in labiis eorum : quoniam quis audivit ?",
+      "french": "Leur bouche proférera des paroles contre moi, et ils ont une épée sur leurs lèvres : car, qui est celui qui nous a écoutés, disent-ils ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0728.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et tu, Domine, deridebis eos : ad nihilum deduces omnes gentes.",
+      "french": "Et vous, Seigneur, vous vous rirez d’eux ; vous réduirez toutes les Nations au néant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0728.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Fortitudinem meam ad te custodiam, quia, Deus, susceptor meus es.",
+      "french": "C’est à vous que je rapporterai toute ma force ; parce que vous êtes, ô mon Dieu, mon défenseur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0729.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Deus meus, misericordia ejus præveniet me.",
+      "french": "La miséricorde de mon Dieu me préviendra.",
+      "annotations": null,
+      "source_pages": [
+        "page_0730.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Deus ostendet mihi super inimicos meos : ne occidas eos : nequando obliviscantur populi mei.",
+      "french": "Dieu m’a fait voir la manière dont il veut traiter mes ennemis : ne les faites pas mourir ; de peur qu’ils n’oublient mon peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0730.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Disperge illos in virtute tua : et depone vos protector meus, Domine ;",
+      "french": "Dispersés-les par votre puissance, et faites-les déchoir de cet état d’élévation où ils sont, vous, Seigneur, qui êtes mon protecteur,",
+      "annotations": null,
+      "source_pages": [
+        "page_0731.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Delictum oris eorum, sermonem labiorum ipsorum : et comprehendantur in superbia sua.",
+      "french": "A cause du crime sorti de leur bouche, et du discours de leurs lèvres ; et qu’ils saient surpris dans leur propre orgueil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0732.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et de execratione, et mendacio annuntiabuntur in consummatione : in ira consummationis, et non erunt.",
+      "french": "Et l’on publiera contre eux l’exécration, et le mensonge dont ils sont coupables au jour de la consommation, lorsqu’ils seront consumés par la colère, et ils ne subsisteront plus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0733.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et scient quia Deus dominabitur Jacob, et finium terræ.",
+      "french": "Et ils sauront que Dieu domine non-seulement sur Jacob ; mais encore sur toute l’étendue de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0733.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Convertentur ad vesperam, et famem patientur ut canes : et circuibunt civitatem.",
+      "french": "Ils reviendront vers le soir, et ils souffriront la faim, comme des chiens ; et ils tourneront autour de la ville.",
+      "annotations": null,
+      "source_pages": [
+        "page_0734.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Ipsi dispergentur ad manducandum : si verò non fuerint saturati, et murmurabunt.",
+      "french": "Ils se disperseront pour chercher de quoi manger : mais s’ils ne sont point rassasiez, ils s’abandonneront alors au murmure.",
+      "annotations": null,
+      "source_pages": [
+        "page_0734.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Ego autem cantabo fortitudinem tuam : et exultabo manè misericordiam tuam.",
+      "french": "Mais pour moi je chanterai les louanges de votre puissance, et je rendrai gloire dès le matin à votre miséricorde, par des chants de joie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0735.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Quia factus es susceptor meus, et refugium meum, in die tribulationis meæ.",
+      "french": "Parce que vous vous êtes déclaré mon protecteur, et que vous êtes devenu mon refuge, au jour de mon affliction.",
+      "annotations": null,
+      "source_pages": [
+        "page_0735.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Adjutor meus tibi psallam, quia Deus susceptor meus es : Deus meus misericordia mea.",
+      "french": "Je chanterai votre gloire, ô mon défenseur ; parce que vous êtes le Dieu qui me protégez : vous êtes mon Dieu, ma miséricorde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0735.json"
+      ]
+    }
+  ]
+}

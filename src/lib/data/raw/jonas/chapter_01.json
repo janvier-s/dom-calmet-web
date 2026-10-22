@@ -1,0 +1,152 @@
+{
+  "book": "Jonas",
+  "chapter": 1,
+  "chapter_summary": "Jonas envoyé à Ninive pour y prêcher, s’enfuit de devant le Seigneur, et s’embarque pour aller à Tharse. Le vaisseau où il s’était embarqué étant agité par une violente tempête, on tire au sort pour en découvrir la cause. Jonas est jetté dans la mer.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Et factum est verbum Domini ad Jonam filium Amathi, dicens :",
+      "french": "Le Seigneur adressa sa parole à Jonas fils d’Amathi, et lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0005.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Surge, et vade in Niniven civitatem grandem, et prædica in ea : quia ascendit malitia ejus coram me.",
+      "french": "Allez presentement en la grande ville de Ninive, et y prêchez ; parce que la voix de sa malice s’est élevée jusqu’à moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0005.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et surrexit Jonas, ut fugeret in Tharsis à facie Domini : et descendit in Joppen, et invenit navem euntem in Tharsis : et dedit naulum ejus, et descendit in eam ut iret cum eis in Tharsis à facie Domini.",
+      "french": "Et Jonas partit pour s’enfuir à Tharsis de devant la face du Seigneur. Il vint à Joppé, et ayant trouvé un vaisseau qui faisait voile à Tharsis, il y entra avec les autres, et paya son passage pour aller en cette ville, et pour se sauver de devant la face du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0007.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Dominus autem misit ventum magnum in mare : et facta est tempestas magna in mari, et navis periclitabatur conteri.",
+      "french": "Mais le Seigneur envoya sur la mer un vent furieux ; et une grande tempête s’étant excitée, le vaisseau était en danger d’être brisé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0009.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et timuerunt nautæ, et clamaverunt viri ad Deum suum : et miserunt vasa, quæ erant in navi, in mare, ut alleviaretur ab eis : et Jonas descendit ad interiora navis, et dormiebat sopore gravi.",
+      "french": "La peur saisit les mariniers ; chacun invoqua son Dieu avec de grand cris ; et ils jettérent dans la mer ce qui était dans le vaisseau pour le soulager. Cependant Jonas était descendu au fond du navire, et y dormait d’un profond sommeil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et accessit ad eum gubernator, et dixit ei : Quid tu sopore deprimeris ? Surge, invoca Deum tuum, et si fortè recogitet Deus de nobis, et non pereamus.",
+      "french": "Et le pilote s’approchant de lui, lui dit : Comment pouvez vous ainsi dormir ? Levez vous, invoquez votre Dieu ; si par hasard il veut se souvenir de nous, et ne permettre pas que nous périssions.",
+      "annotations": null,
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et dixit vir ad collegam suum : Venite, et mittamus sortes, et sciamus quare hoc malum sit nobis. Et miserunt sortes : et cecidit sors super Jonam.",
+      "french": "Ils se dirent ensuite l’un à l’autre : Allons, jettons le sort, pour savoir d’où ce malheur nous est pu venir. Et ayant jetté le sort, il tomba sur Jonas.",
+      "annotations": null,
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et dixerunt ad eum : Indica nobis cujus causâ malum istud sit nobis : quod est opus tuum ? Quæ terra tua, et quò vadis ? Vel ex quo populo es tu ?",
+      "french": "Ils lui dirent donc : Apprenez-nous quelle est la cause de ce péril où nous sommes. Quel est votre métier ? D’où êtes-vous ? Où allez-vous ? Et quel est votre peuple ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et dixit ad eos : Hebræus ego sum, et Dominum Deum Cœli ego timeo, qui fecit mare, et aridam.",
+      "french": "Il leur répondit : Je suis Hébreu, et je sers le Seigneur, le Dieu du Ciel, qui a fait la mer, et la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et timuerunt viri timore magno, et dixerunt ad eum : Quid hoc fecisti ? Cognoverunt enim quòd à facie Domini fugeret, quia indicaverat eis.",
+      "french": "Alors ils furent saisis d’une grande crainte, et ils lui dirent : Pourquoi avez-vous fait cela ? Car ils avaient sçu de lui-même, qu’il fuyait de devant la face du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et dixerunt ad eum : Quid faciemus tibi, et cessabit mare à nobis ? Quia mare ibat, et intumescebat.",
+      "french": "Ils lui dirent donc : Que vous ferons-nous pour nous mettre à couvert de la violence de la mer ? Car les vagues s’élevaient, et se grossissaient de plus en plus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et dixit ad eos : Tollite me, et mittite in mare, et cessabit mare à vobis : scio enim ego, quoniam propter me tempestas hæc grandis venit super vos.",
+      "french": "Jonas leur répondit : Prenez-moi, et me jetez dans la mer, et elle s’apaisera. Car je sai que c’est à cause de moi, que cette grande tempête est venue fondre sur vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et remigabant viri ut reverterentur ad aridam, et non valebant : quia mare ibat, et intumescebat super eos.",
+      "french": "Cependant les pilotes tâchaient de regagner la terre ; mais ils ne pouvaient ; parce que la mer s’enflait de plus en plus, et les couvrait de ses vagues.",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et clamaverunt ad Dominum, et dixerunt : Quæsumus, Domine, ne pereamus in anima viri istius, et ne des super nos sanguinem innocentem : quia tu, Domine, sicut voluisti, fecisti.",
+      "french": "Ainsi ils criérent au Seigneur, et lui dirent : Nous vous prions, Seigneur, que la mort de cet homme ne soit pas cause de notre perte ; et ne faites pas retomber sur nous le sang innocent : parce que c’est vous même, Seigneur, qui faites en ceci ce que vous voulez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et tulerunt Jonam, et miserunt in mare : et stetit mare à fervore suo.",
+      "french": "Puis ayant pris Jonas, ils le jettérent dans la mer, et elle s’appaifa aussi-tôt.",
+      "annotations": null,
+      "source_pages": [
+        "page_0012.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et timuerunt viri timore magno Dominum : et immolaverunt hostias Domino, et voverunt vota.",
+      "french": "Alors ces hommes conçûrent pour le vrai Dieu une frayeur pleine de respect. Ils immolérent des hosties au Seigneur, et firent des vœux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0012.json"
+      ]
+    }
+  ]
+}

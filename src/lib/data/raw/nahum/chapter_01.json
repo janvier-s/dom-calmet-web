@@ -1,0 +1,143 @@
+{
+  "book": "Nahum",
+  "chapter": 1,
+  "chapter_summary": "Prophétie contre Ninive. Dieu vengeur, patient, et miséricordieux protège ceux qui espérent en lui. Il punit ceux qui le méprisent.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Onus Ninivæ. Liber visionis Nahum Elcesæi.",
+      "french": "Prophétie contre Ninive. Livre des visions divines de Nahum, qui était d’Elkésaï.",
+      "annotations": null,
+      "source_pages": [
+        "page_0003.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Deus æmulator, ulciscens Dominus : ulciscens Dominus, et habens furorem : ulciscens Dominus in hostes suos, et irascens ipse inimicis suis.",
+      "french": "Le Seigneur est un Dieu jaloux, et un Dieu vengeur. Le Seigneur fait éclater sa vengeance, et le fait avec fureur : et il se met en colère contre ceux qui le haïssent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0004.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Dominus patiens, et magnus fortitudine, et mundans non faciet innocentem. Dominus in tempestate, et turbine viæ ejus, et nebula pulvis pedum ejus.",
+      "french": "Le Seigneur est patient, il est grand en puissance, il ne laissera pas le crime impuni. Le Seigneur marche parmi les tourbillons, et les tempêtes ; et il s’éleve sous ses pieds des nuages de poussière.",
+      "annotations": null,
+      "source_pages": [
+        "page_0004.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Increpans mare, et exficcans illud : et omnia flumina ad defertum deducens. Infirmatus est Basan, et Carmelus : et flos Libani elanguit.",
+      "french": "Il menace la mer, et la desseche : et il change tous les fleuves en un desert. La beauté de Basan, et du Carmel s’efface, et les fleurs du Liban se flétrissent aussi-tôt qu’il a parlé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0005.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Montes commoti sunt ab eo, et colles desolati sunt : et contremuit terra à facie ejus, et orbis, et omnes habitantes in eâ.",
+      "french": "Il ébranle les montagnes, il désole les collines : la terre, le monde, et tous ceux qui l’habitent tremblent devant lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0005.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ante faciem indignationis ejus quis stabit ? Et quis resistet in ira furoris ejus ? Indignatio effusa est ut ignis : et petræ dissolutæ sunt ab eo.",
+      "french": "Qui pourra soûtenir sa colère ? Et qui lui resistera lorsqu’il sera dans sa fureur ? Son indignation se répandrà comme un feu, et elle fera fondre les pierres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0006.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Bonus Dominus, et confortans in die tribulationis : et sciens sperantes in se.",
+      "french": "Le Seigneur est bon, il soûtient les siens au jour de l’affliction, et il connaît ceux qui espérent en lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0006.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et in diluvio prætereunte, consummationem faciet loci ejus : et inimicos ejus persequentur tenebræ.",
+      "french": "Il détruira ce lieu par l’inondation d’un déluge qui passera : et les ténèbres poursuivront ses ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0007.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Quid cogitatis contra Dominum ? Consummationem ipse faciet : non consurget duplex tribulatio.",
+      "french": "Pourquoi formez-vous des desseins contre le Seigneur ? Il a entrepris lui-même de vous détruire absolument : et il n’en sera point à deux fois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0008.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quia ficut spinæ se invicem complectuntur, sic convivium eorum pariter potantium : consumentur quasi stipula ariditate plena.",
+      "french": "Comme les épines s’entrelassent l’une dans l’autre ; ainsi ils s’unissent dans les festins où ils s’enivrent ensemble : mais ils seront enfin consumez comme la paille seche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0009.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Ex te exibit cogitans contra Dominum malitiam : mente pertractans prævaricationem.",
+      "french": "Car il sortira de vous un homme qui formera contre le Seigneur de noirs desseins, et qui nourrira dans son esprit des pensées de malice, et de perfidie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Hæc dicit Dominus : Si perfecti fuerint, et ita plures ; sic quoque attondentur, et pertransibit : afflixi te, et non affligam te ultrà.",
+      "french": "Voici ce que dit le Seigneur : Qu’ils saient aussi forts qu’ils voudront, ils tomberont comme les cheveux sous le rasoir, et toute cette armée disparoîtra. Je vous ai affligé, mais je ne vous affligerai plus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et nunc conteram virgam ejus de dorso tuo, et vincula sua’disrumpam.",
+      "french": "Je m’en vais briser cette verge dont l’ennemi vous frappait, et je romprai vos chaînes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et præcipiet super te Dominus : non seminabitur ex nomine tuo amplius : de domo Dei tui interficiam sculptile, et conflatile, ponam sepulchrum tuum, quia inhonoratus es.",
+      "french": "Le Seigneur prononcera ses arrêts contre vous, le bruit de votre nom ne se répandrá plus à l’avenir. J’exterminerai les statuës, et les idoles de la maison de votre Dieu ; je le rendrai votre sépulcre, et vous tomberez dans le mépris.",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Ecce super montes pedes evangelizantis, et annuntiantis pacem : celebra, Juda, festivitates tuas, et redde vota tua : quia non adjiciet ultrà ut pertranseat in te Belial : universus interiit.",
+      "french": "Je vois les pieds de celui qui apporte la bonne nouvelle, et qui annonce la paix ; je les vois paraître sur les montagnes. O Juda, célébrez vos jours de fêtes, et rendez vos vœux au Seigneur ; parce que Bélial ne passera plus à l’avenir au travers de vous : il est péri avec tout son peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    }
+  ]
+}

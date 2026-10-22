@@ -1,0 +1,78 @@
+{
+  "book": "Psaumes",
+  "chapter": 22,
+  "chapter_summary": "Dieu est le Pasteur de son Peuple ! Il leur donne un festin abondant ; il les comble de biens.",
+  "chapter_intro": "Il y a bien des sentiments divers sur le temps, et l’occasion auxquels ce Psaume a été composé. Le Chaldéen l’explique des Israélites dans le désert. Dieu les y conduisait alors comme un Pasteur, et les nourrissait du pain du Ciel. D’autres le rapportent aux persécutions que David souffrit de la part de Saül, lorsqu’il fut obligé de se retirer tantôt dans un désert, et tantôt dans un autre, n’ayant point d’autre appui, point d’autre ressource, que la miséricorde du Seigneur, qui ne lui manqua jamais. Le Père le Blanc le fixe au temps de la consécration de David pour Roi. Ce jeune Prince s’en étant retourné à son occupation ordinaire de paître les troupeaux de son père, en prit occasion de composer ce Psaume, où il dit que Dieu est son Pasteur. De Muis veut qu’il ait été composé, lorsque David était en paisible possession de ses États, et délivré de tous ses ennemis. On n’y remarque ni plaintes, ni sentiments de douleur, ou de crainte. C’est une âme tranquille, et pénétrée de reconnaissance, qui y loue le Seigneur, qui l’a comblé de faveurs, et de grâces. Les Pères l’expliquent mystiquement de JÉSUS-CHRIST, qui est le Pasteur de son Église, et de ses Fidèles ^{(a)}.\nSaint Athanase ^{(b)} en fait l’application aux Juifs délivrés de captivité, qui rendent grâces à Dieu de leur liberté. Les versets 3. 4. et 6. favorisent ce sentiment. Les captifs y reconnaissent que Dieu a rappelé leurs âmes : Animam meam convertit ; qu’il leur a rendu la vie, qu’il les a tirés de la captivité, comme du tombeau. Ils se représentent dans la Judée, comme dans des pâturages excellents. Ils déclarent qu’après les dangers qu’ils ont courus, et dont Dieu les a délivrés, ils n’ont plus rien à craindre. Enfin ils se promettent que la miséricorde du Seigneur ne les abandonnera jamais, et qu’ils demeureront pour toujours dans la Maison du Seigneur. Le Psaume",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Dominus regit me, et nihil mihi deerit : in loco pascuæ ibi me collocavit.",
+      "french": "C’est le Seigneur qui me conduit ; rien ne pourra me manquer : il m’a placé dans d’excellents pâturages.",
+      "annotations": null,
+      "source_pages": [
+        "page_0337.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Super aquam refectionis educavit me : animam meam convertit.",
+      "french": "Il m’a élevé près d’une eau fortifiante, et il a fait revenir mon âme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0337.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Deduxt me super semitas justitia, propter nomen suum.",
+      "french": "Il m’a conduit par les sentiers de la justice, pour la gloire de son nom.",
+      "source_pages": [
+        "page_0338.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Nam, et si ambulavero in medio umbræ mortis, non timebo mala : quoniam tu mecum es.",
+      "french": "Car quand même je marcherais au milieu de l’ombre de la mort, je ne craindrai aucuns maux, parce que vous êtes avec moi.",
+      "source_pages": [
+        "page_0338.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Virga tua, et baculus tuus, ipsa me consolata sunt.",
+      "french": "Votre verge, et votre bâton ont été le sujet d’une grande consolation pour moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0339.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Parasti in conspectu meo mensam, adversùs eos, qui tribulant me.",
+      "french": "Vous avez préparé une table devant moi, contre ceux qui me persécutent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0340.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Impinguasti in oleo caput meum : et calix meus inebrians quàm præclarus est !",
+      "french": "Vous avez oint ma tête avec une huile de parfums. Que mon calice, qui a la force d’enivrer, est admirable !",
+      "annotations": null,
+      "source_pages": [
+        "page_0340.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et ut inhabitem in domo Domini, in longitudinem dierum.",
+      "french": "Afin que j’habite très longtemps dans la maison du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0342.json"
+      ]
+    }
+  ]
+}

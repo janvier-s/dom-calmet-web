@@ -1,0 +1,134 @@
+{
+  "book": "Ézéchiel",
+  "chapter": 19,
+  "chapter_summary": "Cantique de deüil sur le desastre des Princes de Juda, representez sous l’idée de deux lionceaux pris aux filets, et enfermez ; et d’une vigne bien plantée, puis arrachée, et jettée dans une terre aride.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Et tu, assume planctum super principes Israel.",
+      "french": "Et vous, ô Ezéchiel, faites un grand deüil sur les Princes d’Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et dices : Quare mater tua leæna inter leones cubavit, in medio leunculorum enutrivit catulos suos ?",
+      "french": "Et dites-leur : Pourquoi votre mère qui est une lionne, s’est-elle reposée parmi les lions, et pourquoi a-t’elle nourri ses petits au milieu des lionceaux ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et eduxit unum de leunculis suis, et leo factus est : et didicit capere prædam, hominemque comedere.",
+      "french": "Elle a produit un de ses lionceaux, et il est devenu lion : il s’est instruit à prendre la proie, et à dévorer les hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et audierunt de eo gentes, et non absque vulneribus suis ceperunt eum : et adduxerunt eum in catenis in terram Ægypti.",
+      "french": "Les peuples ont oui parler de lui, et ils l’ont pris, non sans en recevoir beaucoup de blessures, et ils l’ont emmené enchaîné en Egypte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quæ cùm vidisset quoniam infirmata est, periit expectatio ejus : tulit unum de leunculis suis, leonem constituit eum.",
+      "french": "Mais la mère voyant qu’elle était sans force, et que ses espérances étaient ruinées, prit un autre de ses lionceaux, et l’établit pour être lion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Qui incedebat inter leones, et factus est leo : et didicit prædam capere, et homines devorare.",
+      "french": "Il marcha parmi les lions, et il devint lion. Il s’instruisit à prendre la proie, et à dévorer les hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0211.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Didicit viduas facere, et civitates eorum in desertum adducere : et desolata est terra, et plenitudo ejus à voce rugitûs illius.",
+      "french": "Il apprit à faire des veuves, et à déferter les villes ; et au bruit de son rugissement toute la terre fut désolée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0211.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et convenerunt adversus eum gentes undique de provinciis, et expanderunt super eum rete suum, in vulneribus eorum captus est.",
+      "french": "Alors les peuples de toutes les provinces s’assemblérent contre lui ; ils jettérent sur lui leur filet, et ils le prirent, non sans recevoir des blessures.",
+      "annotations": null,
+      "source_pages": [
+        "page_0211.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et miserunt eum in caveam, in catenis adduxerunt eum ad regem Babylonis : miseruntque eum in carcerem, ne audiretur vox ejus ultrà super montes Israel.",
+      "french": "Ils le mirent dans une cage, et l’emmenèrent au Roi de Babylone chargé de chaînes ; et ils le renfermérent dans une prison, afin qu’on n’entendit plus à l’avenir son rugissement sur les montagnes d’Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0212.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Mater tua quasi vinea in sanguine tuo super aquam plantata est : fructus ejus, et frondes ejus creverunt ex aquis multis.",
+      "french": "Votre mère est comme une vigne qui a été plantée dans votre sang sur le bord des eaux. Elle a cru sur les grandes eaux, et elle a poussé son bois, et son fruit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0212.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et factæ sunt ei virgæ solidæ in sceptra dominantium, et exaltata est statura ejus inter frondes : et vidit altitudinem suam in multitudine palmitum suorum.",
+      "french": "Les branches solides qui en sont sorties, sont devenuës les sceptres des Princes ; la tige s’est élevée au milieu de ses branches, et elle s’est vue dans une grande hauteur parmi la multitude de ses branches.",
+      "annotations": null,
+      "source_pages": [
+        "page_0213.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et evulsa est in ira, in terramque projecta : et ventus urens siccavit fructum ejus : marcuerunt, et arefactæ sunt virgæ roboris ejus : ignis comêdit eam.",
+      "french": "Elle a été arrachée ensuite avec colère, et jettée contre terre ; un vent brûlant a séché son fruit : ses branches si vigoureuses ont perdu leurs forces, et elles sont devenuës toutes séches, et le feu l’a dévorée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0213.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et nunc transplantata est in desertum, in terra invia, et sitienti.",
+      "french": "Elle a été maintenant transplantée dans le désert, dans une terre sans eau, et sans route.",
+      "annotations": null,
+      "source_pages": [
+        "page_0214.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et egressus est ignis de virga ramorum ejus, qui fructum ejus comêdit : et non fuit in ea virga fortis, sceptrum dominantium. Planctus est, et erit in planctum.",
+      "french": "Il est sorti une flamme du bois de ses branches qui a dévoré son fruit ; et elle n’a plus poussé de bois fort, qui devînt le sceptre des Princes du monde. Voilà le cantique de deüil, et il sera chanté dans la suite des temps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0214.json"
+      ]
+    }
+  ]
+}

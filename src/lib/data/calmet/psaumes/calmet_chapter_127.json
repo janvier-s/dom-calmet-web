@@ -1,0 +1,126 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "beati omnes qui timent Dominum.",
+      "lemma": "Heureux sont ceux qui craignent le Seigneur.",
+      "text": "Dans le Pseaume précédent, il a relevé le bonheur de ceux qui esperent en Dieu ; ici il parle des avantages temporels dont jouissent ceux qui craignent le Seigneur, et qui sont fidèles observateurs de ses Loix. L’on a vu dans l’ancien Testament des Saints qui n’ont pas reçu dans leur maison l’accomplissement de ces promesses. Et c’est cela même qui doit le plus animer notre foi ; puisque c’est une preuve qu’il y a une autre vie, où Dieu leur a réservé d’autres biens plus solides. Nous devons donc à leur exemple, ne pas borner nos attentes au siècle présent ; mais les porter à une autre vie, où Dieu accomplira ce qu’il promet d’une manière infiniment plus parfaite, qu’il ne le fait en celleci, en faveur de ceux qui le craignent, et qui le servent : Car ses paroles ne peuvent être vaines, et sans effet."
+    },
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "labores manuum tuarum quia [6] manducaris : beatus es, etc.",
+      "lemma": "Vous mangerez le fruit de vos travaux ; et en cela vous êtes heureux.",
+      "text": "Le Psalmiste ne met pas le bonheur à vivre dans l’abondance, et sans travailler. Ce n’est point-là la vie d’un Saint, ni le bonheur d’un homme qui craint Dieu. Il travaillera. Dieu bénira son travail. Il mangera tranquillement, et avec actions de grâces ce que la Providence lui aura donné. L’ennemi ne ravira point sa recolte. La chenille ne rongera point ses fruits : La sauterelle ne mangera point ses bleds en herbe ; la nielle ne les gâtera point ; la tempête ne les brisera point. Il sera exemt des fleaux dont Dieu frappe les impies, et ceux qui ont renoncé à sa crainte. _Vous semerez en vain les fruits de vos travaux._ Et ailleurs : [1] _l’ennemi dévorera les fruits de vos travaux : [2] Puissiez-vous planter une vigne, sans en recueillir le fruit ; parce qu’un autre la vendangera._\nOn peut traduire l’Hébreu : [3] _Lorsque vous mangerez le travail de vos mains, vous serez heureux, et vous serez comblez de bonheurs._ Les Septante [4] lisent de même. Mais plusieurs anciens Interprètes [5] trompez par l’équivoque du mot Grec _carpos_, qui signifie _la main_, et _le fruit_, ont traduit : _Vous mangerez les travaux de vos mains_, qui est la véritable Leçon."
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "uxor tua sicut vitis abundans, in lateribus domus tuæ.",
+      "lemma": "Votre femme sera à côté de votre maison, comme une vigne qui porte beaucoup de fruit.",
+      "text": "Il compare une femme à une vigne, à cause de sa fécondité, et de l’excellence de son fruit. _Vôtre femme sera comme une treille chargée de fruits à côté de votre maison._ L’Hébreu [7] est traduit par quelques-uns, [8] comme une vigne abondante dans l’intérieur de votre maison. Mais on ne peut l’entendre que de quelque cour, ou de quelque jardin intérieur, puisque la vigne ne croît pas dans les maisons. La traduction des Septante, et de la Vulgate paraît meilleure. Il est ordinaire de planter des vignes contre les murs, et à côté des maisons."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "filii tui sicut novellæ olivarum.",
+      "lemma": null,
+      "text": "Vos enfants seront autour de votre table comme de jeunes oliviers, ou de jeunes rejettons d’oliviers, ou de jeunes oliviers qui poussent, et qui forment autour de votre table un agréable berceau. Les enfants des Justes sont encore comparez à de jeunes plantes, et en particulier, à des oliviers, au Psaume 143:12. Le Prophète lui-même se représente comme un olivier planté dans la Maison de Dieu : [9] _Ego autem sicut oliva fructifera in Domo Dei._ Et les Prophètes emploient la même similitude, en parlant du peuple du Seigneur. [10]"
+    },
+    {
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": "benedicat tibi Dominus ex Sion.",
+      "lemma": "Que le Seigneur vous bénisse de Sion.",
+      "text": "Que le Seigneur, dont la demeure est dans Sion, répande de-là sur vous ses bénédictions. Il parle suivant l’opinion du peuple.\nET VIDEAS BONA JERUSALEM OMNIBUS DIEBUS VITÆ TUÆ. _Que vous contempliez les biens de Jerusalem pendant tous les jours de votre vie._ Dans le style des Hébreux, voir les biens, signifie les posséder, et en jouir. Puissiez-vous voir les biens de Jerusalem ; c’est-à-dire : Que le Seigneur vous fasse la grâce de voir Jerusalem dans la prospérité. et de jouir dans elle des fruits d’une longue, et heureuse paix. C’est ce que l’on pouvait souhaiter de plus doux, et de plus consolant aux Juifs, après cette longue captivité de Babylone, dont ils étaient revenus depuis peu de temps."
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "videas filios filiorum tuorum.",
+      "lemma": "Que vous voiyez les enfants de vos enfants.",
+      "text": "Que vous viviez jusqu’à une extrême vieillesse ; et que vous puissiez voir votre famille nombreuse, et bien établie, et tout Israël dans une profonde paix : _Pacem super Israël._ [11]"
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0273>page_0274",
+      "verse": 1,
+      "mode": "flow",
+      "before": " de ceux qui esperent en Dieu ; ici il parle des avantages",
+      "after": "temporels dont jouissent ceux qui craignent le Seigneur, e"
+    },
+    {
+      "seam": "page_0275>page_0276",
+      "verse": 6,
+      "mode": "hyphen",
+      "before": " vous fasse la grâce de voir Jerusalem dans la prospérité.",
+      "after": "rité, et de jouir dans elle des fruits d’une longue, et he"
+    }
+  ],
+  "pages_used": [
+    "page_0273",
+    "page_0274",
+    "page_0275",
+    "page_0276"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0274-b",
+      "n": 1,
+      "text": "ונתת לי מגן ישעך"
+    },
+    {
+      "key": "page_0274-c",
+      "n": 2,
+      "text": "70. Ἔδωκάς μοι ὑπερασπισμὸν σωτηρίας μου."
+    },
+    {
+      "key": "page_0274-d",
+      "n": 3,
+      "text": "Complus. et Codices Regii septem, et Colbert quatuor."
+    },
+    {
+      "key": "page_0274-e",
+      "n": 4,
+      "text": "Saint Jérôme, Lettre à Sunia et Fretela."
+    },
+    {
+      "key": "page_0274-f",
+      "n": 5,
+      "text": "Le Psautier romain ; le Psautier de Saint-Germain ; le Psautier de Chartres."
+    },
+    {
+      "key": "page_0274-a",
+      "n": 6,
+      "text": "Rabbi Salomon, d’après l’Hébreu, dans de Muis."
+    },
+    {
+      "key": "page_0275-a",
+      "n": 7,
+      "text": "Symmaque : Καὶ τὸ ὑπακούειν με, αὐξήσει με."
+    },
+    {
+      "key": "page_0275-b",
+      "n": 8,
+      "text": "ומרבני תרחבני"
+    },
+    {
+      "key": "page_0275-d",
+      "n": 9,
+      "text": "Proverbes 4,12."
+    },
+    {
+      "key": "page_0275-e",
+      "n": 10,
+      "text": "תרחיב צעדי תחתני ולא מעדו קרסלי"
+    },
+    {
+      "key": "page_0276-a",
+      "n": 11,
+      "text": "אמחצם ולא יכלו קום"
+    }
+  ],
+  "missing_footnotes": []
+}

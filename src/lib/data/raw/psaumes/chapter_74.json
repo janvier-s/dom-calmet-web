@@ -1,0 +1,107 @@
+{
+  "book": "Psaumes",
+  "chapter": 74,
+  "chapter_summary": "Les Justes loueront le Seigneur. Dieu jugera les superbes. Il leur fera boire jusqu’aux lies du calice de sa colère ; Il brisera leur orgueil.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, ne corrumpas. Psalmus cantici Asaph.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription): check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0379.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Confitebimur tibi, Deus : confitebimur, et invocabimus nomen tuum.",
+      "french": "Nous vous louerons, ô Dieu ; nous vous louerons, et nous invoquerons votre nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0379.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Narrabimus mirabilia tua : cum accepero tempus, ego justitias judicabo.",
+      "french": "Nous raconterons vos merveilles. Lorsque j’aurai pris mon temps, je jugerai, et rendrai justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0380.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Liquefacta est terra, et omnes qui habitant in ea : ego confirmavi columnas ejus.",
+      "french": "La terre s’est fonduë avec tous ses habitants. C’est moi qui ai affermi ses colonnes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0380.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Dixi iniquis : Nolite iniquè agere : et delinquentibus : Nolite exaltare cornu.",
+      "french": "J’ai dit aux méchants : Ne commettez plus l’iniquité ; et aux pécheurs : Cessez de vous élever avec orgueil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0381.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Nolite extollere in altum cornu vestrum : nolite loqui adversùs Deum iniquitatem.",
+      "french": "Cessez de lever vos têtes avec insolence : cessez de parler contre Dieu, et de proférer des blasphêmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0381.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Quia neque ab oriente, neque ab occidente, neque à desertis montibus : quoniam Deus judex est.",
+      "french": "Parce que ni de l’orient, ni de l’occident, ni du côté des montagnes désertes, il ne vous viendra aucun secours : car c’est Dieu même qui est votre Juge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0382.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Hunc humiliat, et hunc exaltat : quia calix in manu Domini vini meri, plenus mixto.",
+      "french": "Il humilie celui-ci, et il éleve celui-là ; parce que le Seigneur tient en sa main une coupe de vin mêlé, et prêt à boire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0383.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et inclinavit ex hoc in hoc : verumtamen fæx ejus non est exinanita : bibent omnes peccatores terræ.",
+      "french": "Il en fait boire aux uns, et aux autres ; mais la lie n’en est pas pourtant épuisée : tous les pécheurs de la terre en boiront.",
+      "annotations": null,
+      "source_pages": [
+        "page_0383.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ego autem annuntiabo in saculum : cantabo Deo Jacob.",
+      "french": "Mais pour moi, j’annoncerai ses louanges dans toute l’éternité : je chanterai des Cantiques à la gloire du Dieu de Jacob.",
+      "annotations": null,
+      "source_pages": [
+        "page_0385.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et omnia cornua peccatorum confringam : et exaltabuntur cornua justi.",
+      "french": "Et je briserai toute la force des pécheurs : et le juste sera élevé en gloire, et en puissance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0385.json"
+      ]
+    }
+  ]
+}

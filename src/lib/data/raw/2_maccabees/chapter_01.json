@@ -1,0 +1,332 @@
+{
+  "book": "2 Maccabées",
+  "chapter": 1,
+  "chapter_summary": "Lettre des Juifs de Jérusalem à ceux d’Egypte, dans laquelle ils les prient de célébrer la fête du renouvellement du Temple. Autre lettre pour les exhorter à célébrer la Fête du recouvrement du nouveau feu.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Fratribus, qui sunt per Ægyptum, Judæis, salutem dicunt fratres, qui sunt in Jerosolymis, Judæi, et qui in regione Judæa, et pacem bonam.",
+      "french": "Les Juifs qui sont dans Jérusalem, et dans le pays de Judée, aux Juifs leurs frères qui demeurent en Egypte, Salut, et une heureuse paix.",
+      "annotations": "An du M. 3860.",
+      "source_pages": [
+        "page_0001.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Benefaciat vobis Deus, et meminerit testamenti sui, quod locutus est ad Abraham, et Isaac, et Jacob, servorum suorum fidelium.",
+      "french": "Que Dieu vous comble de biens ; qu’il se souvienne de l’alliance qu’il a faite avec Abraham, Isaac, et Jacob ses fidelles serviteurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0002.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et det vobis cor omnibus, ut colatis eum, et faciatis ejus voluntatem, corde magno, et animo volenti.",
+      "french": "Qu’il vous donne à tous un cœur, afin que vous l’adoriez, et que vous accomplissiez sa volonté avec grand cœur ; et avec une noble ardeur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0002.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Adaperiat cor vestrum in lege sua, et in præceptis suis, et faciat pacem.",
+      "french": "Qu’il ouvre votre cœur à sa Loi, et à ses préceptes, et qu’il vous donne la paix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0002.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Exaudiat orationes vestras, et reconcilietur vobis, nec vos deserat in tempore malo.",
+      "french": "Qu’il exauce vos prières, qu’il se réconcilie avec vous, et qu’il ne vous abandonne point dans le temps mauvais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0002.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et nunc hic sumus orantes pro vobis.",
+      "french": "Quant à nous, nous sommes occupez ici à prier pour vous, à present.",
+      "annotations": null,
+      "source_pages": [
+        "page_0002.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Regnante Demetrio, anno centesimo sexagesimo nono, nos Judæi scripsimus vobis in tribulatione, et impetu, qui supervenit nobis in istis annis, ex quo recessit Jason à sancta terra, et à Regno.",
+      "french": "Sous le règne de Démétrius, l’an cent soixante-neuf, nous vous écrivîmes nous autres Juifs, dans l’accablement des maux qui nous étaient survenus pendant ces années, depuis que Jason se fut retiré de la terre sainte, et du Royaume.",
+      "annotations": null,
+      "source_pages": [
+        "page_0002.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Portam succenderunt, et effuderunt sanguinem innocentem : et oravimus ad Dominum, et exauditi sumus, et obtulimus sacrificium, et similaginem, et accendimus lucernas, et proposuimus panes.",
+      "french": "Ils brûlèrent la porte du Temple, et ils répandirent le sang innocent. Nous priâmes le Seigneur, et nous fûmes exaucez : nous offrîmes le sacrifice accoutumé, et les offrandes de la fleur de farine : nous allumâmes les lampes, et nous exposâmes les pains devant lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0004.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et nunc frequentate dies scenopegiæ mensis Casleu.",
+      "french": "Célébrez donc maintenant la fête des Tabernacles du mois de Casleu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0005.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Anno centesimo octogesimo octavo, populus qui est Jerosolymis, et in Judæa, Senatúsque, et Judas, Aristobolo magistro Ptolemæi Regis, qui est de genere christorum Sacerdotum, et his qui in Ægypto sunt, Judæis, salutem, et sanitatem.",
+      "french": "L’an cent quatre-vingt-huit, le peuple qui est dans Jérusalem, et dans la Judée, le Sénat, et Judas, à Aristobule Précepteur du Roi Ptolémée, de la race des Prêtres sacrés, et aux Juifs qui sont en Egypte, Salut, et prospérité.",
+      "annotations": "An du M. 3860.",
+      "source_pages": [
+        "page_0005.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "De magnis periculis à Deo liberati, magnificè gratias agimus ipsi, mportè qui adversus talem Regem dimicavimus.",
+      "french": "Dieu nous ayant délivrez de très grands périls, nous lui en rendons aussi de très grandes actions de grâces, pour avoir eu la force de combattre contre un tel Roi.",
+      "annotations": "An du M. 3880.",
+      "source_pages": [
+        "page_0006.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Ipse enim ebullire fecit de Perside eos qui pugnaverunt contra nos, et sanctam civitatem.",
+      "french": "Car ce fut lui qui fit sortir de Perse cette multitude de gens qui combattirent contre nous, et contre la ville sainte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0006.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Nam cùm in Perside esset dux ipse, et cum ipso immensus exercitus, accidit in templo Nanææ, consilio deceptus Sacerdotum Nanææ.",
+      "french": "Mais ce Chef de nos ennemis étant lui-même en Perse avec une armée innombrable, périt dans le temple de Nanée, ayant été trompé par le conseil frauduleux des Prêtres de cette Idole.",
+      "annotations": "An. do M. 3880.",
+      "source_pages": [
+        "page_0007.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Etenim cùm ea habitaturus venit ad locum Antiochus, et amici ejus, ut acciperet pecunias multas datis nomine.",
+      "french": "Car Antiochus étant venu avec ses amis au temple de cette Déesse, comme pour l’épouser, et pour y recevoir de grandes sommes d’argent à titre de dot.",
+      "annotations": null,
+      "source_pages": [
+        "page_0007.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Cùmque propofuiffent eas Sacerdotes Naneæ : et ipfe cum paucis ingressus esset intra ambitum fani, clauferunt templum.",
+      "french": "Les Prêtres de Nanée découvrirent tout l’argent qui y était ; et après qu’Antiochus fut entré avec peu de gens au-dedans du temple, ils le fermerent sur lui.",
+      "annotations": "An du M. 3880.",
+      "source_pages": [
+        "page_0008.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Cùm intrasset Antiochus, apertoque occulto aditu templi, mittentes lapides percusserant ducem, et eos qui cum eo erant, et diviserunt membratim, et capitibus amputatis foras projecerunt.",
+      "french": "Alors ouvrant une ouverture secrette du temple, ils l’assommerent à coups de pierres, lui et ceux qui l’accompagnaient : et mettant leurs corps en pièces, ils leur coupérent la tête, et les jettérent dehors.",
+      "annotations": null,
+      "source_pages": [
+        "page_0008.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Per omnia benedictus Deus, qui tradidit impios.",
+      "french": "Que Dieu soit béni en toutes choses ; lui qui a livré ainsi des impies.",
+      "annotations": null,
+      "source_pages": [
+        "page_0008.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Facturi igitur quinta et vigesima die mensis Casleu purificationem templi, necessarium duximus, significare vobis : ut et vos quoque agatis diem Scenopegiæ, et diem ignis qui datus est quando Nehemias ædificato templo, et altari, obtulit sacrificia.",
+      "french": "Comme donc nous devons célébrer le vingt-cinquième jour du mois de Casleu la purification du Temple, nous avons jugé nécessaire de vous en donner avis, afin que vous célébriez aussi la fête des Tabernacles, et la fête du feu qui fut donné, lorsque Néhémie, après avoir rebâti le Temple, et l’Autel, y offrit les sacrifices.",
+      "annotations": "An du M. 3880.",
+      "source_pages": [
+        "page_0009.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Nam cùm in Persidem ducerentur patres nostri, Sacerdotes qui tunc cultores Dei erant, acceptum ignem de altari occulè absconderunt in valle, ubi erat puteus altus et siccus, et in eo continuitati funt eum, ita ut omnibus ignotus esset locus.",
+      "french": "Car lorsque nos pères furent emmenez captifs en Perse, ceux d’entre les Prêtres qui craignaient Dieu, ayant pris le feu qui était sur l’autel, le cachèrent secrettement dans une vallée, où il y avait un puits qui était profond, et à sec, et le mirent là pour être gardé sûrement, comme en effet ce lieu demeura inconnu à tout le monde.",
+      "annotations": "An du M. 3846.",
+      "source_pages": [
+        "page_0009.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Cùm autem præterissent anni multi, et placuit Deo ut mitteretur Nehemias à Rege Persidis : nepotes Sacerdotum illorum, qui absconderant, misit ad requirindum ignem : et sicut narraverunt nobis, non invenerunt ignem ; sed aquam crassam.",
+      "french": "Et beaucoup d’années s’étant passées depuis ce temps là, lorsqu’il plût à Dieu de faire envoyer Néhémie en Judée par le Roi de Perse, il envoya les petits fils de ces Prêtres qui avaient caché ce feu, pour le chercher ; et ils ne trouvèrent point ce feu, comme ils nous l’ont dit eux-mêmes ; mais seulement une eau épaisse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Et jussit eos haurire, et afferre sibi, et sacrificia, quæ imposita erant, jussit Sacerdos Nehemias aspergi ipsâ aquâ, et ligna, et quæ erant superposita.",
+      "french": "Alors le Prêtre Néhémie leur commanda de puiser cette eau, et de la lui apporter ; et il leur ordonna d’en faire des aspersions sur les sacrifices, sur le bois, et sur ce qu’on avait mis dessus",
+      "annotations": null,
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Utque hoc factum est, et tempus affuit quo sol refulsit, qui priùs erat in nubilo, accensus est ignis magnus, ita ut omnes mirarentur.",
+      "french": "Ce qui ayant été fait, et le soleil qui était auparavant caché d’un nuage, ayant commencé à luire, il s’alluma un grand feu, qui remplit d’admiration tous ceux qui étaient présents.",
+      "annotations": null,
+      "source_pages": [
+        "page_0010.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Orationem autem faciebant omnes Sacerdotes, dum consummaretur sacrificium, Jonatha inchoante, cæteris autem respondentibus.",
+      "french": "Cependant tous les Prêtres faisaient la prière à Dieu, jusqu’à ce que le sacrifice fut consumé, Jonathas commençant, et les autres lui répondant.",
+      "annotations": "An du M. 3550.",
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et Nehemia erat oratio hunc habens modum : Domine Deus omnium Creator, terribilis, et fortis, justus, et misericors, qui solus es bonus Rex.",
+      "french": "Et Néhémie priait en ces termes : Seigneur Dieu, Créateur de toutes choses, terrible, et fort, juste, et miséricordieux, qui êtes le seul bon Roi ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Solus præstans, solus justus, et omnipotens, et æternus, qui liberas Israël de omni malo, qui fecisti patres electos, et sanctificasti eos.",
+      "french": "Seul excellent, seul juste, tout-puissant, et éternel ; qui délivrez Israël de tout mal, qui avez choisi nos pères, et qui les avez sanctifiez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Accipe sacrificium pro universo populo tuo Israël : et custodi partem tuam, et sanctifica.",
+      "french": "Recevez ce sacrifice pour tout votre peuple d’Israël. Conservez, et sanctifiez ceux que vous avez rendus votre portion, et votre héritage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Congrega dispersionem nostram, libera eos qui serviunt Gentibus, et contemptos, et abominatos respice : ut sciant Gentes quia tu es Deus noster.",
+      "french": "Rassemblez tous nos frères dispersez ; délivrez ceux qui sont sous l’esclavage des Gentils ; regardez favorablement ceux qui sont devenus un objet de mépris et d’abomination ; afin que les Nations connaissent que vous êtes notre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Afflige opprimentes nos, et contumeliam facientes in superbia.",
+      "french": "Humiliez ceux qui nous oppriment, et qui nous outragent avec orgueil ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Constitue populum tuum in loco sancto tuo, sicut dixit Moyses.",
+      "french": "Et établissez votre peuple dans votre saint lieu, selon que Moyse l’a prédit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0011.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Sacerdotes autem psallebant hymnos, usquequò consumptum esset sacrificium.",
+      "french": "Cependant, les Prêtres chantaient des Hymnes, et des Cantiques, jusqu’à ce que le sacrifice fût consumé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0012.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Cùm autem consumptum esset sacrificium, ex residua aqua Nehemias jussit lapides majores prosundi.",
+      "french": "Et le sacrifice étant consumé, Néhémie ordonna que l’on répandît ce qui restait de cette eau sur les grandes pierres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0012.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Quod ut factum est, ex eis flamma accensa est : sed ex lumine, quod refulsit ab altari, consumpta est.",
+      "french": "Ce qu’on n’eut pas plutôt fait, qu’il s’y alluma une grande flamme : mais elle fut consumée par la lumière qui s’éleva de dessus l’autel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0012.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Ut verò manifestata est res, renuntiatum est Regi Persarum, quòd in loco, in quo ignem absconderant hi qui translati fuerant Sacerdotes, aqua apparuit, de qua Nehemias, et qui cum eo erant, purificaverunt sacrificia.",
+      "french": "Lorsque cet événement fut rendu public, on rapporta au Roi de Perse, qu’au même lieu où les Prêtres qui avaient été emmenez captifs, avaient caché le feu sacré, on avait trouvé une eau, dont Néhémie, et ceux qui étaient avec lui, avaient purifié, et consumé les sacrifices.",
+      "annotations": null,
+      "source_pages": [
+        "page_0012.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Considerans autem Rex, et rem diligenter examinans, fecit ei templum, ut probaret quod factum erat.",
+      "french": "Le Roi, après avoir consideré ce qu’on lui disait, et s’être assuré par une recherche exacte de la verité des choses, fit bâtir en ce même lieu un Temple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0012.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et cum probasset, Sacerdotibus donavit multa bona, et alia atque alia munera, et accipiens manu sua tribuebat eis.",
+      "french": "Et après s’en être bien assuré, il donna aux Prêtres de grands biens, et leur fit divers présents, qu’il leur distribuait de sa propre main.",
+      "annotations": null,
+      "source_pages": [
+        "page_0012.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Appellavit autem Nehemias hunc locum N phthar, quod interpretatur, Purificatio. Vocatur autem apud plures Nephti.",
+      "french": "Néhémie appella ce lieu, Nephtar, c’est-à-dire, Purification : mais il y en a plusieurs qui l’appellent, Néphi.",
+      "annotations": "An du M. 3550.",
+      "source_pages": [
+        "page_0013.json"
+      ]
+    }
+  ]
+}

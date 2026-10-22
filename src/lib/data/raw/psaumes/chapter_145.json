@@ -1,0 +1,86 @@
+{
+  "book": "Psaumes",
+  "chapter": 145,
+  "chapter_summary": "Le Prophète s’excite à louer le Seigneur. Il ne faut mettre sa confiance ni dans les Princes, ni dans les enfants des hommes ; mais dans Dieu seul, dont la puissance, et la bonté sont infinies.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Lauda, anima mea, Dominum : laudabo Dominum in vita mea ; psallam Deo meo quamdiu fuero.",
+      "french": "O Mon âme, louez le Seigneur : je louerai le Seigneur pendant toute ma vie ; je célébrerai la gloire de mon Dieu tant que je vivrai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0388.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Nolite confidere in principibus : in filiis hominum, in quibus non est salus.",
+      "french": "Gardez-vous bien de mettre votre confiance dans les Princes, ni dans les enfants des hommes, d’où ne peut venir le salut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0388.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Exibit spiritus ejus, et revertetur in terram suam : in illa die peribunt omnes cogitationes eorum.",
+      "french": "Leur âme étant sortie de leur corps, ils retourneront dans la terre d’où ils sont sortis : alors toutes leurs vaines pensées périront.",
+      "annotations": null,
+      "source_pages": [
+        "page_0389.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Beatus, cujus Deus Jacob adjutor ejus : spes ejus in Domino Deo ipsius, qui fecit cœlum, et terram, mare, et omnia quæ in eis sunt.",
+      "french": "Heureux qui a pour protecteur le Dieu de Jacob, et dont l’espérance est dans le Seigneur son Dieu ; qui a fait le Ciel, et la terre, la mer, et toutes les choses qu’ils contiennent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0389.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Qui custodit veritatem in sæculum ; facit judicium injuriam patientibus : dat escam esurientibus.",
+      "french": "Qui garde toujours la vérité de ses promesses ; qui fait justice à ceux qui souffrent injure ; qui donne la nourriture à ceux qui ont faim.",
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dominus solvit compeditos : Dominus illuminat cæcos.",
+      "french": "Le Seigneur délie ceux qui sont enchaînez : Le Seigneur éclaire ceux qui sont aveugles.",
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Dominus erigit elisos ; Dominus diligit justos.",
+      "french": "Le Seigneur redresse ceux qui sont brisez ; le Seigneur aime ceux qui sont justes.",
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Dominus custodit advenas : pupillum, et viduam suscipiet : et vias peccatorum disperdet.",
+      "french": "Le Seigneur défend les étrangers ; il prendra en sa protection l’orphelin, et la veuve ; et il détruira les voies des pécheurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0391.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Regnabit Dominus in secula, Deus tuus, Sion : in generationem et generationem.",
+      "french": "Le Seigneur regnera dans tous les siècles ; ton Dieu, ô Sion, regnera dans la suite de toutes les races.",
+      "annotations": null,
+      "source_pages": [
+        "page_0391.json"
+      ]
+    }
+  ]
+}

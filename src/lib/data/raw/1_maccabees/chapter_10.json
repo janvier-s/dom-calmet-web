@@ -1,0 +1,809 @@
+{
+  "book": "1 Maccabées",
+  "chapter": 10,
+  "chapter_summary": "Alexandre Balés, et Démétrius Soter recherchent l’amitié de Jonathas. Il se déclare pour Alexandre, qui le comble d’honneurs. Victoire de Jonathas contre Apollonius. Alexandre lui donne Accaron, et le pays voisin.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Et anno centesimo sexagesimo ascendit Alexander Antiochi filius, qui cognominatus est Nobilis, et occupavit Ptolemaïdam : et receperunt eum, et regnavit illic.",
+      "french": "En la cent soixantième année, Alexandre fils d’Antiochus surnommé l’Illustre, s’empara de Ptolemaïde, où il fut reçu par les habitants ; et il commença à y régner.",
+      "annotations": "An du M. 3851",
+      "source_pages": [
+        "page_0206.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et audivit Demetrius Rex, et congregavit exercitum copiofum valdè, et exivit obviam illi in prœlium.",
+      "french": "Le Roi Démétrius en ayant été averti, leva une puissante armée, et marcha à lui pour le combattre.",
+      "annotations": "An du M. 3851.",
+      "source_pages": [
+        "page_0207.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et misit Demetrius epistolam ad Jonathan verbis pacificis, ut magnificaret eum.",
+      "french": "Il envoya en même-temps à Jonathas une lettre qui ne respirait que la paix, et où il relevait beaucoup son mérite.",
+      "annotations": "An du M. 3851.",
+      "source_pages": [
+        "page_0208.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Dixit enim : Anticipemus facere pacem cum eo, priusquam faciat cum Alexandro adversùm nos.",
+      "french": "Car il disait à ses gens : Hâtons-nous de faire la paix avec lui, avant qu’il la fasse avec Alexandre contre nous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0208.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Recordabitur enim omnium malorum quæ fecimus in eum, et in fratrem ejus, et in gentem ejus.",
+      "french": "Car il se souviendra de tous les maux que nous lui avons faits, à lui, à son frère, et à toute sa nation.",
+      "annotations": null,
+      "source_pages": [
+        "page_0208.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et dedit ei potestatem congregandi exercitum, et fabricare arma, et esse ipsum socium ejus : et obsides, qui erant in arce, jussit tradi ei.",
+      "french": "Il lui donna donc pouvoir de lever une armée, et de faire faire des armes. Il le déclara son allié, et commanda qu’on lui remît les ôtages qui étaient dans la forteresse.",
+      "annotations": "38 § 1.",
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et venit Jonathas in Jerusalem, et legit epistolas in auditu omnis populi, et eorum cui in arce erant.",
+      "french": "Jonathas étant venu à Jérusalem, lut ses lettres devant tout le peuple, et devant ceux qui étaient dans la forteresse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et timuerunt timore magno, quoniam audierunt quòd dedit ei Rex potestatem congregandi exercitum.",
+      "french": "Et ils furent saisis d’une grande crainte, lorsqu’ils apprirent que le Roi lui avait donné le pouvoir de mettre une armée sur pied.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et traditi sunt Jonathæ obsides, et reddidit eos parentibus suis.",
+      "french": "Les ôtages furent remis entre les mains de Jonathas ; et il les rendit à leurs parents.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et habitavit Jonathas in Jerusalem, et cœpit ædificare, et innovare civitatem.",
+      "french": "Il demeura dans Jérusalem ; et il commença à bâtir, et à renouveller la ville.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et dixit facientibus opera, ut extruerent muros et montem Sion in circuitu lapidibus quadratis ad munitionem : et ita fecerunt.",
+      "french": "Il commanda à ceux qui y travoillaient, de bâtir tout autour de la montagne de Sion des murs de pierre de taille pour la fortifier : et ils le firent comme il leur avait dit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et fugerunt alienigenæ, qui erant in munitionibus, quas Bacchides ædificaverat.",
+      "french": "Alors les Etrangers qui étaient dans les forteresses que Bacchide avait bâties, s’enfuirent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et reliquit unusquisque locum suum, et abiit in terram suam.",
+      "french": "Ils quittérent tous le lieu où ils étaient, et s’en retournérent en leur pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Tantùm in Bethsura remanserunt aliqui ex his qui reliquerant legem, et præcepta Dei ; erat enim hæc eis ad refugium.",
+      "french": "Il resta seulement dans Bethsura quelques-uns de ceux qui avaient abandonné la Loi, et les ordonnances de Dieu, parce que cette forteresse leur servait de retraite.",
+      "annotations": "An du M. 3851.",
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et audivit Alexander Rex promissa, quæ promisit Demetrius Jonathæ : et narraverunt ei prœlia, et virtutes, quas ipse fecit, et fratres ejus, et labores quos laboraverunt.",
+      "french": "Cependant le Roi Aléxandre aprit les promesses, que Démétrius avait faites à Jonathas. On lui raconta aussi les combats que lui, et ses frères avaient donnez, les victoires qu’ils avaient gagnées, et les grands travaux qu’ils avaient soufferts ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et ait : Numquid inveniemus aliquem virum talem ? et nunc faciemus eum amicum, et socium nostrum.",
+      "french": "Et il dit : Pourrons-nous trouver un autre homme tel que celui-ci ? Songeons donc à le faire aussi notre ami, et notre allié.",
+      "annotations": null,
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et scripsit epistolam, et misit ei secundùm hæc verba, dicens :",
+      "french": "Ainsi il lui écrivit, et lui envoya une lettre conçûë en ces termes :",
+      "annotations": null,
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Rex Alexander fratri Jonathæ salutem.",
+      "french": "Le Roi Aléxandre, à son frère Jonathas, Salut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Audivimus de te, quòd vir potens sis viribus, et aptus es ut sis amicus noster.",
+      "french": "Nous avons appris que vous êtes un homme puissant, et digne de devenir notre ami.",
+      "annotations": "An du M. 3852.",
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et nunc constituimus te hodie summum Sacerdotem gentis tuæ, et ut amicus voceris Regis, (et misit ei purpuram, et coronam auream.) et quæ nostra sunt sentias nobiscum, et conserves amicitias ad nos.",
+      "french": "C’est pourquoi nous vous établissons aujourd’hui grand-Prêtre de votre nation ; nous voulons que vous portiez la qualité d’ami du Roi, et que vous soyez toujours attaché à nos interêts, et que vous conserviez l’amitié avec nous. Il lui envoya en même-temps une robbe de pourpre, et une couronne d’or.",
+      "annotations": null,
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Et induit se Jonathas stolâ sanctâ septimo mense, anno centesimo sexagesimo, in die solemni scenopegiæ : et congregavit exercitum, et fecit arma copiosa.",
+      "french": "En l’année cent soixante, au septième mois, Jonathas se revêtit de la robbe sainte en la fête solemnelle des Tabernacles. Il leva une armée, et fit faire une grande quantité d’armes.",
+      "annotations": "An du M. 3852.",
+      "source_pages": [
+        "page_0211.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Et audivit Demetrius verba ista, et contristatus est nimis, et ait :",
+      "french": "Démétrius l’ayant sçu, en fut extrémement affligé, et il dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0211.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Quid hoc fecimus quod præoccupavit nos Alexander apprehendere amicitiam Judæorum ad munimen sui ?",
+      "french": "Comment avons-nous permis qu’Alexandre nous ait prévenus, et que pour fortifier son parti, il ait gagné l’amitié des Juifs ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0211.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Scribam et ego illis verba deprecatoria, et dignitates, et dona : ut sint mecum in adjutorium.",
+      "french": "Je veux leur écrire, et leur offrir des dignités, et des dons, afin de les engager à se joindre à moi pour me secourir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0211.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et scripsit eis in hæc verba : Rex Demetrius genti Judæorum salutem :",
+      "french": "Il leur écrivit donc en ces termes : Le Roi Démétrius, au peuple Juif, Salut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0211.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Quoniam servastis ad nos pactum, et mansistis in amicitia nostra, et non accessistis ad inimicos nostros, audivimus et gavisi sumus.",
+      "french": "Nous avons appris avec joie que vous avez gardé l’alliance que vous aviez faite avec nous ; que vous êtes demeurez dans notre amitié, et que vous ne vous êtes point unis à nos ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0211.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et nunc perseverate adhuc conservare ad nos fidem, et retribuemus vobis bona pro his quæ fecistis nobifcum :",
+      "french": "Continuez donc maintenant à nous conserver toujours la même fidelité ; et nous vous rendrons avantageusement ce que vous aurez fait pour nous.",
+      "annotations": "An du M. 3852.",
+      "source_pages": [
+        "page_0212.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et remittemus vobis præstationes multas, et dabimus vobis donationes.",
+      "french": "Nous vous remettrons beaucoup de choses qui vous avaient été imposées, et nous vous ferons de grands dons.",
+      "annotations": null,
+      "source_pages": [
+        "page_0212.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et nunc absolvo vos, et omnes Judæos à tributis, et pretia salis indulgeo, et coronas remitto, et tertias seminis.",
+      "french": "Et dés à present je vous remets, et à tous les Juifs, les tributs que vous aviez accoutumé de payer, les impôts du sel, les couronnes, la troisième partie de la semence ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0212.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et dimidiam partem fructûs ligni, quod est portionis meæ, relinquo vobis ex hodierno die, et deinceps, ne accipiatur à terra Juda, et à tribus civitatibus, quæ additæ sunt illi ex Samaria, et Galilæa, ex hodierna die et in totum tempus.",
+      "french": "Et ce que j’avais droit de prendre pour la moitié des fruits des arbres. Je vous quitte toutes ces choses dés-à-present, et pour l’avenir, ne voulant plus qu’on les lève sur le pays de Juda, ni sur les trois villes qui lui ont été ajoûtées de la Samarie, et de la Galilée ; à commencer depuis ce jour, et dans toute la suite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0212.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Et Jerusalem sit sancta, et libera cum finibus suis : et decimæ et tributa ipsius sint.",
+      "french": "Je veux aussi que Jerusalem soit sainte, et libre avec tout son territoire, et que les dixmes, et les tributs lui appartiennent.",
+      "annotations": "An du M. 3852.",
+      "source_pages": [
+        "page_0213.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Remitto etiam poteftatem arcis, quæ eft in Jerufalem : et do eam fummo Sacerdoti, ut conftituat in ea viros quofcúmque ipfe elegerit qui cuftodiant eam.",
+      "french": "Je remets aussi entre vos mains la forteresse qui est dans Jérusalem ; et je la donne au grand-Prêtre, afin qu’il y établisse pour la garder, les gens que lui-même aura choisis.",
+      "annotations": "An du M. 3852.",
+      "source_pages": [
+        "page_0214.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Et omnem animam Judæorum, quæ captiva eft à terra Juda in omni Regno meo, relinquo liberam gratis, et omnes à tributis folvantur, etiam pecorum fuorum.",
+      "french": "Je donne encore la liberté, sans aucune rançon, à tous les Juifs qui ont été emmenez captifs du pays de Juda, qui se trouveront en tout mon Royaume ; et je les affranchis tous des tributs, et des charges mêmes qu’ils devaient pour leurs bestiaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0214.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et omnes dies solemnes, et sabbata et neomeniæ, et dies decreti, et tres dies ante diem sollemnem, et tres dies post diem sollemnem, sint omnis immunitatis et remissionis omnibus Judæis qui sunt in Regno meo :",
+      "french": "Je veux aussi que toutes les fêtes solemnelles, les jours de sabbat, les nouvelles lunes, les fêtes instituées, les trois jours de devant la fête solemnelle, et les trois jours d’après, saient des jours d’immunité, et de franchise pour tous les Juifs qui sont en mon Royaume.",
+      "annotations": "An du M. 3852.",
+      "source_pages": [
+        "page_0215.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et nemo habebit potestatem agere aliquid, et movere negotia adversus aliquem illorum, in omni causa.",
+      "french": "Et qu’il ne soit permis alors à personne d’agir en justice contre eux, ni de leur faire aucune peine, pour quelque affaire que ce puisse être.",
+      "annotations": null,
+      "source_pages": [
+        "page_0215.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et ascribantur ex Judæis in exercitu Regis ad triginta millia virorum, et dabuntur illis copiæ ut oportet omnibus exercitibus Regis, et ex eis ordinabuntur qui sint in munitionibus Regis magni :",
+      "french": "J’ordonne de plus, qu’on fera entrer dans les troupes du Roi jusqu’à trente mille Juifs, qui seront entretenus comme le doivent être toutes les troupes des armées du Roi, et qu’on en choisira d’entr’eux pour les mettre dans les forteresses du grand Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0215.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Et ex his constituentur super negotia regni, quæ aguntur ex fide, et principes sint ex eis, et ambulent in legibus suis, sicut præcepit Rex in terra Juda.",
+      "french": "Que l’on commettra aussi à quelques-uns d’eux les affaires importantes du Royaume, qui demandent le plus de fidélité, et que leurs chefs saient pris d’entr’eux, en vivant toujours selon leurs loix, comme le Roi l’a ordonné pour le pays de Juda :",
+      "annotations": null,
+      "source_pages": [
+        "page_0215.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Et tres civitates, quæ additæ sunt Judææ ex regione Samariæ, cum Judæa reputentur : ut sint sub uno, et non obediant alii potestati, nisi summi Sacerdotis.",
+      "french": "Et que les trois villes du pays de Samarie, qui ont été annéxées à la Judée, saient censées être de la Judée, afin qu’elles ne dépendent que d’un chef, sans obéir à aucune autre puissance, qu’à celle du souverain Prêtre.",
+      "annotations": "An du M. 3852.",
+      "source_pages": [
+        "page_0216.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Ptolemaïda, et confines ejus, quas dedi domum sanctis, qui sunt in Jerusalem, ad necessarios sumptus sanctorum.",
+      "french": "Je donne aussi Ptolemaïde, et son territoire, en don au Temple de Jerusalem, pour fournir toute la dépense nécessaire à l’entretenement des choses saintes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0216.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Et ego do singulis annis quindecim millia siclorum argenti de rationibus Regis, quæ me contingunt :",
+      "french": "Je donnerai outre cela tous les ans quinze mille sicles d’argent à prendre sur les droits du Roi, et sur les revenus qui m’appartiennent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0216.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Et omne quod reliquum fuerit, quod non reddiderant qui super negotia erant annis prioribus, ex hoc dabunt in opera domûs.",
+      "french": "J’ordonne aussi que ceux qui gouvernaient mes finances les années passées, payeront pour les ouvrages de la maison du Seigneur, tout ce qui reste de ces années qu’ils n’ont point encore payé.",
+      "annotations": "An du M. 3852.",
+      "source_pages": [
+        "page_0217.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Et super hæc quinque millia siclorum argenti, quæ accipiebant de sanctorum ratione per singulos annos : et hæc ad Sacerdotes pertineant, qui ministerio funguntur.",
+      "french": "Pour ce qui est des cinq mille sicles d’argent qui se prenaient sur le compte du Temple chaque année, ils seront remis aux Prêtres, comme appartenant à ceux qui font les fonctions du saint ministère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0217.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Et quicúmque confugerint in templum, quod est Jerosolymis, et in omnibus finibus ejus, obnoxii Regi in omni negotio, dimittantur, et universa quæ sunt eis in Regno meo, libera habeant.",
+      "french": "Je veux encore que tous ceux qui étant redevables au Roi pour quelque affaire que ce puisse être, se réfugieront dans le Temple de Jérusalem, et dans tout son territoire, saient en sûreté, et qu’on leur laisse la jouissance libre de tout ce qu’ils ont dans mon Royaume.",
+      "annotations": null,
+      "source_pages": [
+        "page_0217.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Et ad ædificanda vel restauranda opera sanctorum, sumptus dabuntur de ratione Regis.",
+      "french": "On donnera aussi de l’épargne du Roi de quoi fournir aux bâtiments, ou aux réparations des lieux saints.",
+      "annotations": "An du M. 3852.",
+      "source_pages": [
+        "page_0218.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Et ad extruendos muros Jerusalem, et communiendos in circuitu, sumptus dabuntur de ratione Regis, et ad construendos muros in Judæa.",
+      "french": "Et on prendra encore des mêmes deniers dequoi bâtir, et fortifier les murailles de Jérusalem, et des autres villes qui sont en Judée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0218.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Ut audivit autem Jonathas et populus sermones istos, non crediderunt eis, nec receperunt eos : quia recordati sunt malitiæ magnæ, quam fecerat in Israël, et tribulaverat eos valdè.",
+      "french": "Jonathas et le peuple ayant entendu ces propositions de Démétrius, ne les crurent point sincères, et ne les reçurent point : parce qu’ils se ressouvinrent des grands maux qu’il avait faits à Israël, et de quelle maniere il les avait accablés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0218.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Et complacuit eis in Alexandrum, quia ipse fuerat eis princeps sermonum pacis, et ipsi auxilium ferebant omnibus diebus.",
+      "french": "Ils se portérent donc à favoriser plutôt Alexandre, parce qu’il leur avait parlé le premier de paix ; et ils l’assistérent toujours dans la suite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0218.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Et congregavit Rex Alexander exercitum magnum, et admovit castra contra Demetrium.",
+      "french": "Après cela le Roi Alexandre leva une grande armée, et marcha contre Démétrius.",
+      "annotations": null,
+      "source_pages": [
+        "page_0219.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Et commiserunt prælium duo Reges, et fugit exercitus Demetrii, et insecutus est eum Alexander, et incubuit super eos.",
+      "french": "Les deux Rois donnérent bataille, et l’armée de Démétrius s’enfuit ; Alexandre les poursuivit, et fondit sur eux.",
+      "annotations": "An du M. 3853.",
+      "source_pages": [
+        "page_0219.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Et invaluit prælium nimis donec occidit sol : et cecidit Demetrius die illa.",
+      "french": "Le combat fut rude, et opiniâtré, et dura jusqu’au coucher du soleil ; et Démétrius y fut tué.",
+      "annotations": null,
+      "source_pages": [
+        "page_0219.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Et misit Alexander ad Ptolemæum Regem Ægypti legatos secundùm hæc verba, dicens :",
+      "french": "Alexandre envoya ensuite des Ambaffadeurs à Ptolemée Roi d’Egypte, et lui écrivit en ces termes :",
+      "annotations": null,
+      "source_pages": [
+        "page_0219.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Quoniam regressus sum in Regnum meum, et sedi in sede patrum meorum, et obtinui principatum, et contrivi Demetrium, et possedi regionem nostram ;",
+      "french": "Comme je suis rentré dans mon Royaume ; que je suis assis sur le trône de mes pères ; que j’ai recouvré mon empire, et tous les pays qui m’appartenaient, par la défaite de Démétrius ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0219.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Et commisi pugnam cum eo, et contritus est ipse, et castra ejus à nobis ; et sedimus in sede Regni ejus :",
+      "french": "A qui j’ai donné bataille, et que j’ai défait avec toute son armée, étant ainsi remonté sur le siège du Royaume qu’il occupait ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0219.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Et nunc statuamus ad invicem amicitiam : et da mihi filiam tuam uxorem, et ego ero gener tuus, dabo tibi dona, et ipsi, digna te.",
+      "french": "Faisons maintenant amitié ensemble. Donnez-moi votre fille en mariage, et je serai votre gendre, et je vous ferai, aussi bien qu’à elle, des présents dignes de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0219.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Et respondit Rex Ptolemæus, dicens : Felix dies in qua reversus es ad terram patrum tuorum, et sedisti in sede Regni torum.",
+      "french": "Le Roi Ptolemée lui répondit : Heureux le jour où vous êtes rentré en possession du pays de vos pères, et où vous vous êtes assis sur le trône de leur Royaume !",
+      "annotations": null,
+      "source_pages": [
+        "page_0219.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "Et nunc faciam tibi quod scripsisti : sed occurre mihi Ptolemaïdam, ut videamus invicem nos, et spondeam tibi sicut dixisti.",
+      "french": "Je suis prêt de vous accorder ce que vous m’avez demandé : mais venez jusqu’à Ptolemaïde, afin que nous nous voyions, et que je vous donne ma fille comme vous le desirez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0220.json"
+      ]
+    },
+    {
+      "verse_number": 57,
+      "latin": "Et exivit Ptolemæus de Ægypto, ipse, et Cleopatra filia ejus, et venit Ptolemaïdam, anno centesimo sexagesimo secundo.",
+      "french": "Ptolemée sortit donc d’Egypte avec sa fille Cléopatre, et vint à Ptolemaïde l’an cent soixante-deux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0220.json"
+      ]
+    },
+    {
+      "verse_number": 58,
+      "latin": "Et occurrit ei Alexander Rex, et dedit Cleopatram filiam suam : et fecit nuptias ejus Ptolemaïda, sicut Reges, in magna gloria.",
+      "french": "Le Roi Alexandre l’y vint trouver ; et Ptolemée lui donna sa fille Cléopatre : et les nôces furent célébrées à Ptolemaïde, avec une grande magnificence, selon la coûtume des Rois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0220.json"
+      ]
+    },
+    {
+      "verse_number": 59,
+      "latin": "Et scripsit Rex Alexander Jonathæ, ut veniret obviam sibi.",
+      "french": "Le Roi Alexandre écrivit aussi à Jonathas, afin qu’il les vînt trouver à Ptolemaïde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0220.json"
+      ]
+    },
+    {
+      "verse_number": 60,
+      "latin": "Et abiit cum gloria Ptolemaïdam, et occurrit ibi duobus Regibus, et dedit illis argentum multum, et aurum, et dona : et invenit gratiam in conspectu eorum.",
+      "french": "Jonathas y alla avec grand éclat, et salüa les deux Rois : il leur apporta quantité d’or et d’argent, et leur fit de grands presens ; et il fut fort bien reçu de ces deux Princes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0220.json"
+      ]
+    },
+    {
+      "verse_number": 61,
+      "latin": "Et convenerunt adversus eum viri pestilentes ex Israël, viri iniqui interpellantes adversus eum : et non intendit ad eos Rex.",
+      "french": "Alors quelques gens d’Israël, qui étaient des hommes couverts d’iniquité, et comme des pestes publiques, s’unirent ensemble pour présenter des chefs d’accusation contre lui : mais le Roi ne voulut point les écouter.",
+      "annotations": null,
+      "source_pages": [
+        "page_0220.json"
+      ]
+    },
+    {
+      "verse_number": 62,
+      "latin": "Et jussit spoliari Jonathan vestibus suis, et indui eum purpurâ : et ita fecerunt. Et collocavit eum Rex sedere secum.",
+      "french": "Il ordonna même qu’on ôtat à Jonathas ses vêtements, et qu’on le revêtît de pourpre : ce qui fut fait, et le Roi le fit asseoir près de lui.",
+      "annotations": "An du M. 3854.",
+      "source_pages": [
+        "page_0221.json"
+      ]
+    },
+    {
+      "verse_number": 63,
+      "latin": "Dixitque principibus suis : Exite cum eo in medium civitatis, et prædicate ut nemo adversùs eum interpellet de ullo negotio, nec quisquam ei molestus sit de ulla ratione.",
+      "french": "Et il dit aux Grands de sa Cour : Allez avec lui au milieu de la ville, et dites tout haut : Que nul n’entreprenne de former aucune plainte contre lui, et qui fasse aucune peine pour quelque affaire que ce puisse être.",
+      "annotations": null,
+      "source_pages": [
+        "page_0221.json"
+      ]
+    },
+    {
+      "verse_number": 64,
+      "latin": "Et factum est, ut viderunt qui interpellabant gloriam ejus, quæ prædicabantur, et opertum eum purpurâ, fugerunt omnes.",
+      "french": "Ceux donc qui étaient venus pour l’accuser, voyant ce qu’on publiait de lui, l’éclat dans lequel il paraissait, et la pourpre dont il était revetu, s’enfuirent tous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0221.json"
+      ]
+    },
+    {
+      "verse_number": 65,
+      "latin": "Et magnificavit eum Rex : et scripsit eum inter primos amicos, et posuit eum ducem, et participem principatûs.",
+      "french": "Le Roi l’éleva en grand honneur, le mit au nombre de ses principaux amis, et l’établit Chef, et Prince avec lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0221.json"
+      ]
+    },
+    {
+      "verse_number": 66,
+      "latin": "Et reversus est Jonathas in Jerusalem cum pace et lætitia.",
+      "french": "Et Jonathas revint à Jerusalem en paix, et avec joie.",
+      "annotations": "An du M. 3856.",
+      "source_pages": [
+        "page_0221.json"
+      ]
+    },
+    {
+      "verse_number": 67,
+      "latin": "In anno centesimo sexagesimo quinto, venit Demetrius filius Demetrii à Creta in terram patrum suorum.",
+      "french": "En la cent-soixante-cinquième année, Démétrius fils de Démétrius, vint de Crète au pays de ses pères.",
+      "annotations": null,
+      "source_pages": [
+        "page_0221.json"
+      ]
+    },
+    {
+      "verse_number": 68,
+      "latin": "Et audivit Alexander Rex, et contristatus est valdè, et reversus est Antiochiam.",
+      "french": "Le Roi Aléxandre en ayant été averti, fut extrémement affligé, et retourna à Antioche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0221.json"
+      ]
+    },
+    {
+      "verse_number": 69,
+      "latin": "Et constituit Demetrius Rex Apollonium ducem, qui præerat Cœlesyriæ : et congregavit exercitum magnum, et accessit ad Jamniam : et misit ad Jonathan summum Sacerdotem,",
+      "french": "Le Roi Démétrius fit Général de ses troupes Apollonius Gouverneur de la Célésyrie, lequel leva une grande armée ; et étant venu à Jamnia, il envoya dire à Jonathas grand-Prêtre",
+      "annotations": "An du M. 3856.",
+      "source_pages": [
+        "page_0222.json"
+      ]
+    },
+    {
+      "verse_number": 70,
+      "latin": "Dicens : Tu solus resistis nobis : ego autem factus sum in derisum, et in opprobrium, proptereà quia tu potestatem adversum nos exerces in montibus.",
+      "french": "Vous êtes le seul qui nous résistez, et je suis devenu un sujet de risée et d’opprobre, parce que vous vous prévalez contre nous de l’avantage que vous donnent vos montagnes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0222.json"
+      ]
+    },
+    {
+      "verse_number": 71,
+      "latin": "Nunc ergo si confidis in virtutibus tuis, descende ad nos in campum ; comparemus illic invicem : quia mecum est virtus bellorum.",
+      "french": "Si vous vous fiez donc maintenant en vos troupes, descendez à nous dans la plaine et faisons-là l’essai de nos forces ; car la valeur et la victoire m’accompagnent toujours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0222.json"
+      ]
+    },
+    {
+      "verse_number": 72,
+      "latin": "Interroga, et disce quis sum ego, et cæteri, qui auxilio sunt mihi, qui et dicunt quia non potest stare pes vester ante faciem nostram, quia bis in fugam conversi sunt patres tui in terra sua.",
+      "french": "Informez-vous, et apprenez qui je suis, et qui sont ceux qui combattent avec moi, lesquels disent hautement que vous ne sçauriez tenir ferme devant nous, et que vos pères ont été mis en fuite par deux fois dans leur pays.",
+      "annotations": "An du M. 3856.",
+      "source_pages": [
+        "page_0223.json"
+      ]
+    },
+    {
+      "verse_number": 73,
+      "latin": "Et nunc quomodo poteris sustinere equitatum et exercitum tantum in campo, ubi non est lapis, neque saxum, neque locus fugiendi ?",
+      "french": "Comment donc pourrez-vous soûtenir présentement l’effort de ma cavalerie, et d’une si grande armée, dans une campagne où il n’y a ni pierres, ni rochers, ni aucun lieu pour vous enfuir ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0223.json"
+      ]
+    },
+    {
+      "verse_number": 74,
+      "latin": "Ut audivit autem Jonathas sermones Apollonii, motus est animo : et elegit decem millia virorum, et exiit ab Jerusalem, et occurrit ei Simon frater ejus in adjutorium :",
+      "french": "Jonathas ayant entendu ces paroles d’Apollonius, fut ému au fond de son cœur ; et il choisit aussi tôt dix mille hommes, et partit de Jérusalem, et Simon son frère vint à son secours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0223.json"
+      ]
+    },
+    {
+      "verse_number": 75,
+      "latin": "Et applicuerunt castra in Joppen, et exclusit eum à civitate, (quia custodia Apollonii Joppe erat), et oppugnavit eam.",
+      "french": "Ils vinrent camper près de Joppé, et ceux de la ville lui fermérent les portes, parce qu’il y avait dedans un garnison d’Apollonius. Jonathas assiégea donc cette ville.",
+      "annotations": null,
+      "source_pages": [
+        "page_0223.json"
+      ]
+    },
+    {
+      "verse_number": 76,
+      "latin": "Et exterriti qui erant in civitate aperuerunt ei, et obtinuit Jonathas Joppen.",
+      "french": "Et ceux de dedans étant épouvantez, lui ouvrirent les portes : et il se rendit ainsi maître de Joppé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0223.json"
+      ]
+    },
+    {
+      "verse_number": 77,
+      "latin": "Et audivit Apollonius, et admovit tria millia equitum, et exercitum multum.",
+      "french": "Apollonius l’ayant sçu, prit avec lui trois mille chevaux, et beaucoup de troupes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0223.json"
+      ]
+    },
+    {
+      "verse_number": 78,
+      "latin": "Et abiit Azotum tanquam iter faciens, et statim exiit in campum, eò quod haberet multitudinem equitum, et confideret in eis. Et insecutus est eum Jonathas in Azotum, et commiserunt prælium.",
+      "french": "Il marcha comme pour aller vers Azot, et il se jetta tout d’un coup dans la plaine, parce qu’il avait beaucoup de cavalerie, en qui il se fiait principalement. Jonathas le suivit vers Azot, et là ils donnérent bataille.",
+      "annotations": null,
+      "source_pages": [
+        "page_0223.json"
+      ]
+    },
+    {
+      "verse_number": 79,
+      "latin": "Et reliquit Apollonius in castris mille equites post eos occultè.",
+      "french": "Apollonius avait laissé secrettement dans son camp mille chevaux derriere les ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0224.json"
+      ]
+    },
+    {
+      "verse_number": 80,
+      "latin": "Et cognovit Jonathas quoniam insidiæ sunt post se, et circuierunt castra ejus, et jecerunt jacula in populum à mane usque ad vesperam.",
+      "french": "Et Jonathas fut averti qu’il y avait derriere lui une embuscade. Les ennemis environnérent donc son camp, et lancérent beaucoup de traits contre ses gens, depuis le matin jusqu’au soir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0224.json"
+      ]
+    },
+    {
+      "verse_number": 81,
+      "latin": "Populus autem stabat, sicut præceperat Jonathas : et laboraverunt equi corum.",
+      "french": "Mais les gens de Jonathas demeurérent fermes, selon l’ordre qu’il leur en avait donné. Cependant les chevaux des ennemis se fatiguérent beaucoup.",
+      "annotations": null,
+      "source_pages": [
+        "page_0224.json"
+      ]
+    },
+    {
+      "verse_number": 82,
+      "latin": "Et ejecit Simon exercitum suum, et commisit contra legionem : equites enim fatigati erant : et contriti sunt ab eo, et fugerunt.",
+      "french": "Alors Simon fit avancer ses troupes et attaqua l’infanterie, parce que la cavalerie était déjà fatiguée ; et l’ayant rompuë, elle prit la fuite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0224.json"
+      ]
+    },
+    {
+      "verse_number": 83,
+      "latin": "Et qui dispersi sunt per campum, fugerunt in Azotum, et intraverunt in Bethdagon idolum suum, ut ibi se liberarent.",
+      "french": "Et ceux qui étaient dispersez par la campagne, se refugiérent à Azot, et entrérent dans le Temple de Dagon leur idole, pour y être en sûreté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0224.json"
+      ]
+    },
+    {
+      "verse_number": 84,
+      "latin": "Et succendit Jonathas Azotum, et civitates quæ erant in circuitu ejus, et accepit spolia eorum, et templum Dagon : et omnes qui fugerunt in illud, succendit igni.",
+      "french": "Mais Jonathas brûla Azot ; et les villes des environs, et il en emporta les dépouilles ; et il brûla aussi le Temple de Dagon, avec tous ceux qui s’y étaient refugiez.",
+      "annotations": "An du M. 3856.",
+      "source_pages": [
+        "page_0225.json"
+      ]
+    },
+    {
+      "verse_number": 85,
+      "latin": "Et fuerunt qui ceciderunt gladio, cum his qui succensi sunt, ferè octo millia virorum.",
+      "french": "Il y périt près de huit mille hommes, tant de ceux qui furent tuez par l’épée, que de ceux qui furent brûlez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0225.json"
+      ]
+    },
+    {
+      "verse_number": 86,
+      "latin": "Et movit inde Jonathas castra, et applicuit ea Ascalonem : et exierunt de civitate obviam illi in magna gloria.",
+      "french": "Jonathas ayant décampé de ce lieu, marcha contre Ascalon : mais ceux de la ville sortirent au-devant de lui, et le reçurent avec de grands honneurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0225.json"
+      ]
+    },
+    {
+      "verse_number": 87,
+      "latin": "Et reversus est Jonathas in Jerusalem cum suis, habentibus spolia multa.",
+      "french": "Il revint ensuite à Jérusalem, avec ses gens chargez de butin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0225.json"
+      ]
+    },
+    {
+      "verse_number": 88,
+      "latin": "Et factum est, ut audivit Alexander Rex sermones istos, addidit adhuc glorificare Jonathan.",
+      "french": "Le Roi Alexandre ayant appris ces heureux succès de Jonathas, l’éleva encore en plus grande gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0225.json"
+      ]
+    },
+    {
+      "verse_number": 89,
+      "latin": "Et misit ei fibulam auream, sicut consuetudo est dari cognatis Regum. Et dedit ei Accaron, et omnes fines ejus, in possessionem.",
+      "french": "Et il lui envoya une agrafe d’or, telle que l’on en donnait d’ordinaire aux parents du Roi ; il lui donna de plus Accaron avec tout son territoire, afin qu’il la possedât en propre.",
+      "annotations": "An du M. 3856.",
+      "source_pages": [
+        "page_0226.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "book": "Psaumes",
+  "chapter": 92,
+  "chapter_summary": "Règne éternel du Seigneur ; sa puissance, et sa grandeur supérieure aux eaux des fleuves, et aux flots de la mer. Vérité de ses témoignages.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "Laus Cantici ipsi David, in die ante Sabbatum, quando fundata est terra.",
+      "french": "Louange, ou Cantique de David, au jour de devant le Sabbat, lorsque la terre fut fondée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0580.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Dominus regnavit, decorem indutus est : indutus est Dominus fortitudinem, et præcinxit se.",
+      "french": "Le Seigneur a regné, et a été revêtu de gloire, et de force : il s’est préparé pour un grand ouvrage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0581.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Etenim firmavit orbem terræ, qui non commovebitur.",
+      "french": "Car il a affermi le vaste corps de la terre, ensorte qu’il ne sera point ébranlé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0581.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Parata sedes tua ex tunc : à sæculo tu es.",
+      "french": "Votre trône, ô Dieu, était établi dés-lors ; vous êtes de toute éternité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0582.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Elevaverunt flumina, Domine : elevaverunt flumina vocem suam.",
+      "french": "Les fleuves, Seigneur, ont élevé ; les fleuves ont élevé leur voix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0582.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Elevaverunt flumina fluctus suos, à vocibus aquarum multarum.",
+      "french": "Les fleuves ont élevé leurs flots, par l’abondance des eaux, qui retentissaient avec grand bruit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0582.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Mirabiles elationes maris, mirabilis in altis Dominus.",
+      "french": "Les flots de la mer font admirables : mais le Seigneur qui est dans les Cieux, est encore plus admirable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0583.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Testimonia tua credibilia facta sunt nimis : domum tuam decet sanctitudo, Dómine, in longitudinem dierum.",
+      "french": "Vos témoignages, Seigneur, sont très dignes de créance. La sainteté doit être l’ornement de votre maison, dans toute la suite des siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0583.json"
+      ]
+    }
+  ]
+}

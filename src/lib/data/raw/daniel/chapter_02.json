@@ -1,0 +1,450 @@
+{
+  "book": "Daniel",
+  "chapter": 2,
+  "chapter_summary": "Songe de Nabuchodonosor d’une statuë composée de plusieurs métaux. Les Devins de Chaldée ne peuvent le lui expliquer. Daniel lui en donne l’explication. Honneurs que le Roi fait à Daniel.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "In anno secundo regni Nabuchodonosor, vidit Nabuchodonosor somnium, et conterritus est spiritus ejus, et somnium ejus fugit ab eo.",
+      "french": "A seconde année du règne de Nabuchodonosor, ce Prince eut un songe, dont son esprit fut extrémement effrayé, et ensuite il l’oublia entiérement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0058.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Præcepit autem Rex, ut convocarentur arioli, et magi, et malefici, et Chaldæi, ut indicarent Regi somnia sua : qui cùm venissent, steterunt coram Rege.",
+      "french": "Le Roi commanda en même-temps qu’on fit assembler les Devins, les Mages, et les Enchanteurs, et les Chaldéens, pour lui déclarer quel avait été son songe. Ils vinrent donc se présenter devant lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et dixit ad eos Rex : Vidi somnium, et mente confusus ignoro quid viderim.",
+      "french": "Et le Roi leur dit : J’ai eu un songe ; et je ne sai ce que j’ai vu, parce que rien ne m’en est resté dans l’esprit qu’une idée confuse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Responderuntque Chaldæi Regi Syriacè : Rex in sempiternum vive : dic somnium servis tuis, et interpretatio-nem ejus indicabimus.",
+      "french": "Les Chaldéens répondirent au Roi en langue Syriaque : O Roi, vivez à jamais : Dites à vos serviteurs le songe que vous avez eu, et nous l’interprétons.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et respondens Rex, ait Chaldæis : Sermo recessit à me : nisi indicaveritis mihi somnium, et conjecturam ejus, peribitis vos, et domus vestra publicabuntur.",
+      "french": "Le Roi répondit aux Chaldéens : Mon songe m’est échappé de la mémoire ; si vous ne me déclarez ce que j’ai songé, et ce que mon songe signifie, vous périrez tous, et vos maisons seront confisquées :",
+      "annotations": null,
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Si autem somnium, et conjecturam ejus narraveritis, præmia, et dona, et honorem multum accipietis à me : somnium igitur, et interpretationem ejus indicate mihi.",
+      "french": "Mais si vous me dites mon songe, et ce qu’il signifie, je vous ferai des dons, et des présents ; et je vous éleverai à de grands honneurs. Dites-moi donc, et interprétez-moi ce que j’ai songé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Responderunt secundò, atque dixerunt : Rex somnium dicat servis suis, et interpretationem illius indicabimus.",
+      "french": "Les Chaldéens lui répondirent pour la seconde fois : S’il plaît au Roi de déclarer son songe à ses serviteurs, nous lui en donnerons l’interprétation.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Respondit Rex, et ait : Certè novi quòd tempus redimitis, scientes quòd recesserit à me sermo.",
+      "french": "Le Roi leur répondit : Je vois bien que vous cherchez qu’à gagner du temps, parce que vous savez que j’ai oublié mon songe.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Si ergo somnium non indicaveritis mihi, una est de vobis sententia : quòd et interpretationem quoque fallacem, et deceptione plenam composueritis, ut loquamini mihi donec tempus pertranseat. Somnium itaque dicite mihi, ut sciam quòd et interpretationem quoque ejus veram loquamini.",
+      "french": "Que si vous ne me pouvez dire ce que j’ai songé, c’est que vous voulez composer une interprétation trompeuse, et pleine d’illusion, pour me la proposer, jusqu’à ce que le temps se passe. Dites-moi donc quel a été mon songe, afin que je sache que l’interprétation que vous lui donnerez sera véritable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Respondentes ergo Chaldæi coram Rege, dixerunt : Non est homo super terram, qui sermonem tuum, Rex, possit implere : sed neque Regum quisquam magnus et potens verbum hujuscemodi sciscitatur ab omni ariolo, et mago, et Chaldæo.",
+      "french": "Les Chaldéens répondirent au Roi : Seigneur, il n’y a point d’homme sur la terre qui puisse faire ce que vous nous commandez, et il n’y a point de Roi, quelque grand et puissant qu’il soit, qui ait jamais exigé une telle chose des devins, des magiciens, et des Chaldéens.",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Sermo enim, quem tu quæris, Rex, gravis est : nec reperietur quisquam, qui indicet illum in conspectu Regis : exceptis diis, quorum non est cum hominibus conversatio.",
+      "french": "Car ce que vous nous demandez, ô Roi, est si difficile, qu’il ne se trouvera personne qui puisse vous en éclaircir, excepté les Dieux, qui n’ont point de commerce avec les hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Quo audito, Rex in furore, et in ira magna præcepit, ut perirent omnes sapientes Babylonis.",
+      "french": "Après cette réponse le Roi entra en fureur, et dans son extrême colère, il commanda qu’on fit mourir tous les Sages de Babylone.",
+      "annotations": null,
+      "source_pages": [
+        "page_0064.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et egressâ sententiâ, sapientes interficiebantur : quærebanturque Daniel, et socii ejus, ut perirent.",
+      "french": "Cet arrêt ayant été prononcé, on allait faire mourir les Sages, et on cherchait Daniel et ses Compagnons pour les faire périr avec les autres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0064.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Tunc Daniel requisivit de lege atque sententia, ab Arioch principe militiæ Regis, qui egressus fuerat ad interficiendos sapientes Babylonis.",
+      "french": "Alors Daniel voulant savoir quelle était cette loi, et cette ordonnance, s’en informa d’Arioch général des armées du Roi, qui se préparait à faire mourir les Sages de Babylone.",
+      "annotations": null,
+      "source_pages": [
+        "page_0064.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et interrogavit eum, qui à Rege poteftatem acceperat, quam ob caufam tam crudelis fententia à facie Regis effet egreffa. Cùm ergo rem indicaffet Arioch Danieli ;",
+      "french": "Et comme c’était lui qui avait reçu cet ordre du Roi, Daniel lui demanda quel était le sujet qui avait pu porter le Roi à prononcer une sentence si cruelle. Arioch ayant dit toute l’affaire à Daniel ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0065.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Daniel ingreffus rogavit Regem, ut tempus daret fibi ad folutionem indicandam Regi.",
+      "french": "Daniel se présenta devant le Roi, et le supplia de lui accorder quelque temps pour lui donner l’éclaircissement qu’il désirait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0065.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et ingressus est domum suam, Ananiaque, et Misaëli, et Azariæ sociis suis indicavit negotium :",
+      "french": "Et étant entré dans sa maison, il déclara ce qui se passait à ses compagnons, Ananias, Misaël, et Azarias ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0066.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Ut quærerent misericordiam à facie Dei cæli super sacramento isto, et non perirent Daniel et socii ejus, cum cæteris sapientibus Babylonis.",
+      "french": "Afin qu’ils implorassent la miséricorde du Dieu du Ciel, pour la révélation de ce secret, et que Daniel et ses Compagnons ne périssent pas avec les autres Sages de Babylone.",
+      "annotations": null,
+      "source_pages": [
+        "page_0066.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Tunc Danieli mysterium per visionem nocte revelatum est : et benedixit Daniel Deum cæli.",
+      "french": "Alors ce mystère fut découvert à Daniel dans une vision pendant la nuit, et il bénit le Dieu du Ciel, et dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0066.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et locutus ait : Sit nomen Domini benedictum à sæculo, et usque in sæculum : quia sapientia et fortitudo ejus sunt.",
+      "french": "Que le nom du Seigneur soit béni dans tous les siècles, comme il l’a été dès le commencement : parce que la sagesse, et la force sont à lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Et ipse mutat tempora, et ætates : transfert regna, atque constituit : dat sapientiam sapientibus, et scientiam intelligentibus disciplinam.",
+      "french": "C’est lui qui change les temps, et les siècles ; qui transfere, et qui établit les Royaumes ; qui donne la sagesse aux sages, et la science à ceux qui ont l’intelligence ; et la lumière.",
+      "annotations": null,
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Ipse revelat profunda, et abscondita, et novit in tenebris constituta : et lux cum eo est.",
+      "french": "C’est lui qui révèle les choses les plus profondes, et les plus cachées, qui connaît ce qui est dans les ténèbres : et c’est en lui que se trouve la vraie lumière.",
+      "annotations": null,
+      "source_pages": [
+        "page_0067.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Tibi, Deus patrum noftrorum, confiteor, teque laudo : quia sapientiam, et fortitudinem dedisti mihi : et nunc ostendisti mihi quæ rogavimus te, quia sermonem Regis aperuisti nobis.",
+      "french": "Je vous rends grâces, et je vous bénis ; ô Dieu de nos pères, parce que vous m’avez donné la sagesse, et la force, et que vous m’avez fait voir ce que nous vous avons demandé, en nous découvrant ce que le Roi désire de nous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Post hæc Daniel ingressus ad Arioch, quem constituerat Rex ut perderet sapientes Babylonis, sic ei locutus est : Sapientes Babylonis ne perdas : introduc me in conspectu Regis, et solutionem Regi narrabo.",
+      "french": "Daniel alla ensuite trouver Arioch ; à qui le Roi avait ordonné de faire mourir les Sages de Babylone, et il lui dit : Ne faites point mourir les Sages de Babylone, menez-moi au Roi, et je lui donnerai l’éclaircissement qu’il désire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Tunc Arioch festinus introduxit Danielem ad Regem, et dixit ei : Inveni hominem de filiis transmigrationis Juda, qui solutionem Regi annuntiet.",
+      "french": "Arioch aussi tôt présenta Daniel au Roi, et lui dit : J’ai trouvé un homme d’entre les captifs des enfants de Juda, qui donnera au Roi l’éclaircissement qu’il demande.",
+      "annotations": null,
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Respondit Rex, et dixit Danieli, cujus nomen erat Baltassar : Putásne verè potes mihi indicare somnium, quod vidi, et interpretationem ejus ?",
+      "french": "Le Roi répondit en se retournant vers Daniel, surnommé Balthasar : Croyez-vous me pouvoir dire véritablement ce que j’ai vu dans mon songe, et m’en donner l’interprétation ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et respondens Daniel coram Rege, ait : Mysterium, quod Rex interrogat, sapientes, magi, arioli, et aruspices nequeunt indicare Regi.",
+      "french": "Daniel répondit au Roi : Les Sages, les Mages, les Devins, et les Augures, ne peuvent découvrir au Roi le mystere dont il est en peine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0068.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Sed est Deus in cœlo revelans mysteria, qui indicavit tibi, Rex Nabuchodonosor, quæ ventura sunt in novissimis temporibus. Somnium tuum, et visiones capitis tui in cubili tuo hujuscemodi sunt.",
+      "french": "Mais il y a un Dieu au Ciel, qui révèle les mystères, qui vous a montré, ô Roi, les choses qui doivent arriver dans les derniers temps. Voici donc quel a été votre songe, et les visions qui vous ont passé dans l’esprit, lorsque vous étiez dans votre lit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Tu, Rex, cogitare cœpisti in strato tuo, quid esset futurum post hæc : et qui revelat mysteria, ostendit tibi quæ ventura sunt.",
+      "french": "Vous pensiez, ô Roi, étant dans votre lit, à ce qui devait arriver après ce temps ; et celui qui révèle les mystères, vous a découvert les choses à venir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Mihi quoque non in sapientia, quæ est in me plus quàm in cunctis viventibus sacramentum hoc revelatum est : sed ut interpretatio Regi manifesta fieret, et cogitationes mentis tuæ scires.",
+      "french": "Ce secret m’a aussi été particulièrement révélé, non par une sagesse naturelle que j’aye, et qui ne se trouve pas dans le reste des hommes ; mais afin que le Roi sçût l’interprétation de son songe, et que les pensées de son esprit lui fussent connues.",
+      "annotations": null,
+      "source_pages": [
+        "page_0069.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Tu Rex videbas, et ecce quasi statua una grandis : statua illa magna, et statura sublimis stabat contra te, et intuitus ejus erat terribilis.",
+      "french": "Voici donc, ô Roi, ce que vous avez vu. Il vous a paru comme une grande statuë. Cette statuë grande et haute extraordinairement, se tenait debout devant vous, et son regard était effroyable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Hujus statuæ caput ex auro optimo erat, pectus autem et brachia de argento : porrò venter, et femora ex ære.",
+      "french": "La tête de cette statuë était d’un or très pur ; la poitrine et les bras étaient d’argent ; le ventre, et les cuisses étaient d’airain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Tibiæ autem ferreæ, pedum quædam pars erat ferrea, quædam autem fictilis.",
+      "french": "Les jambes étaient de fer, et une partie des pieds était de fer, et l’autre d’argile.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Videbas ita, donec abscissus est lapis de monte sine manibus : et percussit statuam in pedibus ejus ferreis et fictilibus, et comminuit eos.",
+      "french": "Vous étiez attentif à cette vision, lorsqu’une pierre se détacha d’elle-même, et sans la main d’aucun homme, de la montagne, et que frappant la statuë dans ses pieds de fer et d’argile, elle les mit en pièces.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Tunc contrita sunt pariter ferrum, testa, æs, argentum, et aurum, et redacta quasi in favillam æstivæ areæ, quæ raptæ sunt vento : nullúsque locus inventus est eis : lapis autem, qui percusserat statuam, factus est mons magnus, et implevit universam terram.",
+      "french": "Alors le fer, l’argile, l’airain, l’argent, et l’or, se brisérent tous ensemble, et devinrent comme la menuë paille que le vent emporte hors de l’aire pendant l’été, et ils disparurent, sans qu’il s’en trouvât plus rien en aucun lieu : mais la pierre qui avait frappé la statuë, devint une grande montagne qui remplit toute la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Hoc est somnium : interpretationem quoque ejus dicemus coram te, Rex.",
+      "french": "Voilà votre songe, ô Roi, et nous l’interpréterons aussi devant vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Tu Rex Regum es : et Deus cæli, regnum, et fortitudinem, et imperium, et gloriam dedit tibi :",
+      "french": "Vous êtes le Roi des Rois, et le Dieu du Ciel vous a donné le Royaume, la force, l’empire, et la gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0070.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Et omnia in quibus habitant filii hominum, et bestia agri : volucres quoque cœli dedit in manu tua, et sub ditione tua universa constituit : tu es ergo caput aureum.",
+      "french": "Il vous a assujetti les enfants des hommes, et les bêtes de la campagne, en quelque lieu qu’ils habitent : il a mis en votre main les oiseaux mêmes du ciel, et il a soumis toutes choses à votre puissance. C’est donc vous qui êtes la tête d’or.",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Et post te consurget regnum aliud minus te, argenteum : et regnum tertium aliud æreum, quod imperabit universæ terræ.",
+      "french": "Il s’élevera après vous un autre Royaume moindre que le vôtre, qui sera d’argent ; et ensuite un troisième Royaume, qui sera d’airain, et qui commandera à toute la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0071.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Et regnum quartum erit velut ferrum. Quomodo ferrum comminuit et domat omnia, fic comminuet, et conteret omnia hæc. REGNUM QUARTUM ERIT VELUT FERRUM.",
+      "french": "Le quatrième Royaume sera comme le fer : il brisera, et il réduira tout en poudre, comme le fer brise, et dompte toutes choses. Le quatrième Royaume sera comme de fer : son caractère est, qu’il brisera et réduira tout en poudre, comme le fer brise et dompte toutes choses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0072.json",
+        "page_0073.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Porrò quia vidisti pedum, et digitorum partem testæ figuli, et partem ferream : regnum divisum erit, quod tamen de plantario ferri orietur, secundum quod vidisti ferrum mistum testæ ex luto.",
+      "french": "Mais comme vous avez vu que les pieds de la statuë, et les doigts des pieds étaient en partie d’argile, et en partie de fer : le Royaume, quoique prenant son origine du fer, sera divisé, selon que vous avez vu, que le fer était mêlé avec la terre, et l’argile.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Et digitos pedum ex parte ferreos, et ex parte fictiles : ex parte regnum erit solidum, et ex parte contritum.",
+      "french": "Et comme les doigts des pieds étaient en partie de fer, et en partie de terre, le Royaume aussi sera ferme en partie, et en partie faible et fragile.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Quòd autem vidisti ferrum mistum testæ ex luto, commiscebuntur quidem humano semine, sed non adhærebunt sibi, sicuti ferrum misceri non potest testæ.",
+      "french": "Et comme vous avez vu que le fer était mêlé avec la terre et l’argile, ils se mêleront aussi par des alliances humaines ; mais ils ne demeureront point unis, comme le fer ne peut se lier, ni s’unir avec l’argile.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "In diebus autem regnorum illorum, suscitabit Deus cœli regnum, quod in æternum non dissipabitur, et regnum ejus alteri populo non tradetur : comminuet autem, et consumet universa regna hæc : et ipsum stabit in æternum.",
+      "french": "Dans le temps de ces Royaumes, le Dieu du Ciel suscitera un Royaume qui ne sera jamais détruit ; un Royaume qui ne passera point à un autre peuple ; qui renversera, et qui réduira en poudre tous ces Royaumes, et qui subsistera éternellement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Secundùm quod vidisti, quòd de monte abscissus est lapis sine manibus, et comminuit testam, et ferrum, et æs, et argentum, et aurum, Deus magnus ostendit Regi, quæ ventura sunt posteà, et verum est somnium, et fidelis interpretatio ejus.",
+      "french": "Selon que vous avez vu que la pierre qui avait été attachée de la montagne, sans la main d’aucun homme, a brisé l’argile, le fer, l’airain, l’argent, et l’or ; le grand Dieu a fait voir au Roi ce qui doit arriver à l’avenir. Le songe est véritable, et l’interprétation en est très certaine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Tunc Rex Nabuchodonosor cecidit in faciem suam, et Danielem adoravit, et hostias et incensum præcepit ut sacrificarent ei.",
+      "french": "Alors le Roi Nabuchodonosor se prosterna le visage contre terre, et adora Daniel ; et il commanda que l’on fit venir des victimes, et de l’encens, et qu’on lui sacrifiât.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Loquens ergo Rex, ait Danieli : Vere Deus vester Deus Deorum est, et Dominus Regum, et revelans mysteria ; quoniam tu potuisti aperire hoc sacramentum.",
+      "french": "Et le Roi parlant ensuite à Daniel, il lui dit : Votre Dieu est véritablement le Dieu des Dieux, et le Seigneur des Rois, et celui qui révèle les mystères, puisque vous avez pu découvrir un mystère si caché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Tunc Rex Danielem in sublime extulit, et munera multa, et magna dedit ei : et constituit eum principem super omnes provincias Babylonis, et præfectum magistratuum super cunctos sapientes Babylonis.",
+      "french": "Alors le Roi éleva en honneur Daniel, lui fit beaucoup de grands et magnifiques présents ; il lui donna le gouvernement de toutes les Provinces de la Babylonie, et l’établit maître de tous les Sages de Babylone.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Daniel autem postulavit à Rege ; et constituit super opera provinciæ Babylonis, Sidrach, Misach, et Abdenago : ipse autem Daniel erat in foribus Regis.",
+      "french": "Et le Roi ordonna, selon que Daniel le lui avait demandé, que Sidrach, Misach et Abdenago auraient l’intendance des ouvrages de la Province de Babylone : mais Daniel était toujours à la porte du Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    }
+  ]
+}

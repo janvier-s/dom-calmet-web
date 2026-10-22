@@ -1,0 +1,62 @@
+{
+  "book": "Psaumes",
+  "chapter": 127,
+  "chapter_summary": "Bonheur temporel des Juifs qui craignent le Seigneur. Manger les travaux de ses mains. Avoir une femme feconde, et un grand nombre d’enfants. Jouir d’une paix profonde dans le pays.\nCanticum graduum. | Cantique des dégrez.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Beati omnes qui timent Dominum, qui ambulant in viis ejus.",
+      "french": "Heureux sont tous ceux qui craignent le Seigneur, et qui marchent dans ses voies.",
+      "annotations": null,
+      "source_pages": [
+        "page_0273.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Labores manuum tuarum quia manducabis : beatus es, et benè tibi erit.",
+      "french": "Vous mangerez le fruit des travaux de vos mains : et en cela vous êtes heureux ; et vous le serez encore à l’avenir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0274.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Uxor tua sicut vitis abundans, in lateribus domûs tuæ.",
+      "french": "Votre femme sera à côté de votre maison, comme une vigne qui porte beaucoup de fruit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0274.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Filii tui sicut novellæ olivarum ; in circuitu mensæ tuæ.",
+      "french": "Vos enfants seront tout autour de votre table, comme de jeunes oliviers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0275.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Ecce sic benedicetur homo, qui timet Dominum.",
+      "french": "C’est ainsi que sera béni l’homme qui craint le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0275.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Benedicat tibi Dominus ex Sion : et videas bona Jerusalem, omnibus diebus vitæ tuæ.",
+      "french": "Que le Seigneur vous bénisse de Sion : afin que vous contempliez les biens de Jerusalem, pendant tous les jours de votre vie ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0275.json"
+      ]
+    }
+  ]
+}

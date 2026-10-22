@@ -1,0 +1,89 @@
+{
+  "book": "Psaumes",
+  "chapter": 52,
+  "chapter_summary": "Corruption et impiété des méchants. Leur frayeur panique, leur confusion. Le Seigneur rappellera son Peuple de la Captivité.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, pro Maëleth : intelligentiæ David.",
+      "french": "Pour la fin, Psaume instructif de David, sur Maëleth. Intelligence à David.",
+      "annotations": null,
+      "source_pages": [
+        "page_0673.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Dixit insipiens in corde suo : Non est Deus.",
+      "french": "L’Insensé a dit dans son cœur : Il n’y a point de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0674.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Corrupti sunt, et abominabiles facti sunt iniquitatibus : non est qui faciat bonum.",
+      "french": "Ils ont été corrompus, et sont devenus abominables dans leurs iniquités : il n’y en a point qui fasse le bien.",
+      "annotations": null,
+      "source_pages": [
+        "page_0674.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Deus de cælo prospexit super filios hominum : ut videat si est intelligens, aut requirens Deum.",
+      "french": "Dieu a regardé du haut du Ciel sur les enfants des hommes ; afin de voir s’il en trouvera quelqu’un qui ait l’intelligence, et qui cherche Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0675.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Omnes declinaverunt, simul inutiles facti sunt : non est qui faciat bonum, non est usque ad unum.",
+      "french": "Mais tous se sont détournés de la vraie voie, et sont devenus inutiles : il n’y en a point qui fasse le bien, il n’y en a pas un seul.",
+      "annotations": null,
+      "source_pages": [
+        "page_0675.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Nónne scient omnes qui operantur iniquitatem ; qui dévorant plebem meam ut cibum panis ?",
+      "french": "Ne me connaîtront-ils point enfin, tous ces hommes, qui commettent l’iniquité ; qui dévorent mon peuple ainsi qu’un morceau de pain ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0675.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Deum non invocaverunt : illic trepidaverunt timore, ubi non erat timor.",
+      "french": "Ils n’ont point invoqué Dieu ; ils ont tremblé, et ont été effrayez là, où il n’y avait aucun lieu de craindre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0676.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quoniam Deus dissipavit ossa eorum qui hominibus placent : confusi sunt, quoniam Deus sprevit eos.",
+      "french": "Parce que Dieu a brisé les os de ceux qui s’attachent à plaire aux hommes : ils sont tombés dans la confusion ; parce que Dieu les a méprisés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0676.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Quis dabit ex Sion salutare Israël ? Cùm converterit Deus captivitatem plebis suæ, exultabit Jacob, et lætabitur Israël.",
+      "french": "Qui procurera du côté de Sion le salut d’Israël ? Quand Dieu aura fait finir la captivité de son peuple, Jacob sera transporté de joie, et Israël d’allégresse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0676.json"
+      ]
+    }
+  ]
+}

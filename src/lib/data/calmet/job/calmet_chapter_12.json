@@ -12,21 +12,35 @@
       "sub": false,
       "latin_lemma": "qui deridetur ab amico suo, sicut ego, invocabit Deum.",
       "lemma": "Celui qui devient comme moi, l’objet des railleries de son ami, invoquera Dieu, etc.",
-      "text": "L’Hébreu peut recevoir un autre sens : [3] _Celui qui s’adresse au Seigneur, et qui lui répond, sera un objet de raillerie à son ami ; le juste qui vit dans l’innocence, sera ex-_ posé à la raillerie. Ou bien : C’est se moquer de son ami, de lui dire d’invoquer le Seigneur, et qu’il me juste, et parfait. Job se raille à son tour de ses amis, qui lui disaient fort sérieusement de s’adresser au Seigneur, et qu’il l’exaucerait ; comme s’il n’eût pas su son devoir envers Dieu. Autrement : Je suis exposé à la raillerie de mes amis : mais j’invoquerai le Seigneur, et il m’exaucera. Les insultes de mes amis ne m’empêcheront pas de mettre ma confiance au Seigneur."
+      "text": "L’Hébreu peut recevoir un autre sens : [3] _Celui qui s’adresse au Seigneur, et qui lui répond, sera un objet de raillerie à son ami ; le juste qui vit dans l’innocence, sera ex-_ _posé à la raillerie._ Ou bien : _C’est se moquer de son ami, de lui dire d’invoquer le Seigneur, et qu’il me juste, et parfait_. Job se raille à son tour de ses amis, qui lui disaient fort sérieusement de s’adresser au Seigneur, et qu’il l’exaucerait ; comme s’il n’eût pas su son devoir envers Dieu. Autrement : Je suis exposé à la raillerie de mes amis : mais j’invoquerai le Seigneur, et il m’exaucera. Les insultes de mes amis ne m’empêcheront pas de mettre ma confiance au Seigneur."
     },
     {
       "verse": 5,
       "sub": false,
       "latin_lemma": "lampas contempta apud cogitationes divitum, parata ad tempus statutum.",
       "lemma": "C’est une lampe que les riches regardent avec mépris ; mais qui est prête à luire au temps que Dieu a marqué.",
-      "text": "Le juste est comme une lampe toute éclatante de lumière ; mais les riches, qui sont dans l’éclat d’une belle fortune, n’ont que du mépris pour cette lumière. L’Hébreu :[4] _Le juste est comme une lampe de mépris dans l’idée d’un homme qui est dans la prospérité, et qui est prêt à tomber ; ou comme une lampe qui s’éteint, qui n’est bonne à rien._ Ceux qui sont dans la bonne fortune, la méprisent, quoiqu’ils soient sur le bord du précipice, dont ils pourraient se garantir par son moyen. Autrement : Ceux qui sont au milieu de la paix, et qui marchent avec une pleine assurance, n’ont que faire de lampe pour éclairer leurs pas ; on la prépare pour ceux qui sont exposés à faire des faux pas, ou qui marchent au milieu des ténèbres ou plutôt, sont dans la paix, et dans la tranquillité, pendant qu’ils irritent le Seigneur par les biens qu’il leur a donnés.[5]"
+      "text": "Le juste est comme une lampe toute éclatante de lumière ; mais les riches, qui sont dans l’éclat d’une belle fortune, n’ont que du mépris pour cette lumière. L’Hébreu :[4] _Le juste est comme une lampe de mépris dans l’idée d’un homme qui est dans la prospérité, et qui est prêt à tomber ; ou comme une lampe qui s’éteint, qui n’est bonne à rien._ Ceux qui sont dans la bonne fortune, la méprisent, quoiqu’ils soient sur le bord du précipice, dont ils pourraient se garantir par son moyen. Autrement : Ceux qui sont au milieu de la paix, et qui marchent avec une pleine assurance, n’ont que faire de lampe pour éclairer leurs pas ; on la prépare pour ceux qui sont exposés à faire des faux pas, ou qui marchent au milieu des ténèbres."
     },
     {
-      "verse": 5,
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": "abundant tabernacula prædonum.",
+      "lemma": "Les maisons des voleurs sont dans l’abondance, &c.",
+      "text": "ou plutôt, sont dans la paix, et dans la tranquillité, pendant qu’ils irritent le Seigneur par les biens qu’il leur a donnés.[5]"
+    },
+    {
+      "verse": 6,
       "sub": false,
       "latin_lemma": "et audacter provocant Deum, etc.",
       "lemma": "Ils s’élèvent",
-      "text": "audacieusement contre Dieu, etc. L’Hébreu : [6] _Et ceux qui irritent le Seigneur, vivent dans une entière assurance, et jouissent des biens que Dieu lui-même leur a mis en main._ Ou bien : _Ils sont dans l’assurance, eux que le Seigneur a abandonnés à eux-mêmes ;_ ou enfin, _eux qui ont pris leur Dieu à la main ;_ les Idolâtres. On peut s’en tenir à la Vulgate, qui fait un très bon sens."
+      "text": ""
+    },
+    {
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "audacieusement contre Dieu, etc.",
+      "text": "L’Hébreu : [6] _Et ceux qui irritent le Seigneur, vivent dans une entière assurance, et jouissent des biens que Dieu lui-même leur a mis en main._ Ou bien : _Ils sont dans l’assurance, eux que le Seigneur a abandonnés à eux-mêmes ;_ ou enfin, _eux qui ont pris leur Dieu à la main ;_ les Idolâtres. On peut s’en tenir à la Vulgate, qui fait un très bon sens."
     },
     {
       "verse": 7,
@@ -68,7 +82,7 @@
       "sub": false,
       "latin_lemma": null,
       "lemma": "La force, et la sagesse résident en lui.",
-      "text": "Le terme [8] _Tousiah_, qui est ici rendu par la _sagesse_, a une signification bien plus étendue, comme il a été remarqué sur le Chap. XI. ℣. 4."
+      "text": "Le terme [8] _Tousiah_, qui est ici rendu par la _sagesse_, a une signification bien plus étendue, comme il a été remarqué sur le chapitre 11:4."
     },
     {
       "verse": 17,
@@ -140,21 +154,7 @@
       "verse": 4,
       "mode": "flow",
       "before": "e à son ami ; le juste qui vit dans l’innocence, sera ex-_",
-      "after": "posé à la raillerie. Ou bien : C’est se moquer de son ami,"
-    },
-    {
-      "seam": "page_0184>page_0184",
-      "verse": 5,
-      "mode": "mend",
-      "before": "aire des faux pas, ou qui marchent au milieu des ténèbres.",
-      "after": "ou plutôt, sont dans la paix, et dans la tranquillité, pen"
-    },
-    {
-      "seam": "page_0184>page_0185",
-      "verse": 5,
-      "mode": "flow",
-      "before": "Ils s’élèvent",
-      "after": "audacieusement contre Dieu, etc. L’Hébreu : ^{(a)} _Et ceu"
+      "after": "_posé à la raillerie._ Ou bien : _C’est se moquer de son a"
     },
     {
       "seam": "page_0185>page_0186",

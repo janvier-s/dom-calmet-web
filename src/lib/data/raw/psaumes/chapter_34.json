@@ -1,0 +1,282 @@
+{
+  "book": "Psaumes",
+  "chapter": 34,
+  "chapter_summary": "Prière de David persécuté, et en danger. Il se plaint vivement de l’injustice de ses ennemis. Il prédit leur disgrâce, et leur perte.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "Ipsi David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0452.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Judica, Domine, nocentes me ; expugna impugnantes me.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0452.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Apprehende arma et scutum : et exurge in adjutorium mihi.",
+      "french": "Prenez vos armes, et votre bouclier ; et levez-vous pour venir à mon secours.",
+      "source_pages": [
+        "page_0452.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Effunde frameam, et conclude adversus eos, qui persequuntur me : dic animæ meæ : Salus tua ego sum.",
+      "french": "Tirez votre épée, et enveloppez ceux qui me persécutent ; dites à mon âme : C’est moi qui suis ton salut.",
+      "source_pages": [
+        "page_0452.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Confundantur et revereantur, quærentes animam meam.",
+      "french": "Que ceux qui cherchent à m’ôter la vie saient couverts de confusion, et de honte.",
+      "source_pages": [
+        "page_0453.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Avertantur retrorfum, et confundantur cogitantes mihi mala.",
+      "french": "Que ceux qui ont de mauvais desseins contre moi, saient renversés, et confondus.",
+      "source_pages": [
+        "page_0453.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Fiant tamquam pulvis ante faciem venti : et Angelus Domini coarctans eos.",
+      "french": "Qu’ils deviennent comme la poussière qui est emportée par le vent ; et que l’Ange du Seigneur les pousse en les serrant de fort près.",
+      "source_pages": [
+        "page_0453.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Fiat via illorum tenebræ et lubricum : et Angelus Domini persequens eos.",
+      "french": "Que leur chemin soit couvert de ténèbres, et glissant ; et que l’Ange du Seigneur soit attaché à les poursuivre.",
+      "source_pages": [
+        "page_0454.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Quoniam gratis absconderunt mihi interitum laquei sui : supervacuè exprobraverunt animam meam.",
+      "french": "Parce que sans aucun sujet ils ont voulu me faire périr, dans le piège qu’ils m’ont dressé en secret, et qu’ils m’ont très injustement couvert d’outrages.",
+      "source_pages": [
+        "page_0454.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Veniat illi laqueus, quem ignorat : et captio, quam abscondit, apprehendat eum : et in laqueum cadat in ipsum.",
+      "french": "Qu’un piège dont il ne se doute pas vienne le surprendre : qu’il soit pris dans celui qu’il avait caché pour prendre les autres ; et qu’il tombe dans le filet même qu’il avait tendu.",
+      "source_pages": [
+        "page_0455.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Anima autem mea exultabit in Domino : et delectabitur super salutari suo.",
+      "french": "Mais mon âme se réjouira au Seigneur, et trouvera toute sa consolation dans son Sauveur.",
+      "source_pages": [
+        "page_0455.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Omnia ossa mea dicent : Domine, quis similis tibi ?",
+      "french": "Tous mes os vous rendront gloire, en disant : Seigneur, qui vous est semblable ?",
+      "source_pages": [
+        "page_0455.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Eripiens inopem de manu fortiorum ejus : egenum et pauperem à diripientibus eum.",
+      "french": "C’est vous qui tirez le pauvre des mains de ceux qui étaient plus forts que lui ; et qui sauvez celui qui est abandonné, et dans l’indigence, de ses ennemis qui le pillaient.",
+      "source_pages": [
+        "page_0456.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Surgentes testes iniqui, quæ ignorabam interrogabant me.",
+      "french": "Des témoins injustes s’étant élevés, m’ont interrogé sur des choses que je ne connaissais pas.",
+      "source_pages": [
+        "page_0456.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Retribuebant mihi mala pro bonis : sterilitatem animæ meæ.",
+      "french": "Ils me rendaient le mal pour le bien, et voulaient m’ôter la vie.",
+      "source_pages": [
+        "page_0456.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Ego autem cùm mihi molesti essent, induebar cilicio.",
+      "french": "Mais pour moi, lorsqu’ils m’accablaient de cette sorte, je me revêtais d’un cilice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0457.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Humiliabam in jejunio animam meam : et oratio mea in sinu meo convertetur.",
+      "french": "J’humiliais mon âme par le jeûne ; et je répandais ma priere dans le secret de mon sein.",
+      "annotations": null,
+      "source_pages": [
+        "page_0457.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Quasi proximum, et quasi fratrem nostrum, sic complacebam : quasi lugens, et contristatus, sic humiliabar.",
+      "french": "J’avais pour chacun d’eux de la complaisance, comme pour un proche et pour un frère ; et je m’abaissais, comme étant touché d’une vraie douleur, qui me portait à gémir pour eux.",
+      "source_pages": [
+        "page_0458.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et adversùm me lætati sunt, et convenerunt : congregata sunt super me flagella, et ignoravi.",
+      "french": "Quant à eux, ils se sont réjouis sur mon sujet, et ils se sont assemblés contre moi : ils m’ont accablé de maux, sans que j’en connusse la raison.",
+      "source_pages": [
+        "page_0459.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Dissipati sunt, nec compuncti : tentaverunt me, subsannaverunt me subsannatione : frenduerunt super me dentibus suis.",
+      "french": "Ils ont été divisés : mais n’étant pas néanmoins touchés de componction, ils m’ont tenté, et éprouvé de nouveau, ils m’ont insulté avec moquerie ; ils ont grincé les dents contre moi.",
+      "source_pages": [
+        "page_0459.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Domine, quando respicies ? Restitue animam meam à malignitate eorum, à leonibus unicam meam.",
+      "french": "Quand ouvrirez-vous les yeux, Seigneur ? Rendez-moi la vie, en me delivrant de leur mauvaise volonté ; sauvez de la cruauté des lions, mon âme qui est désolée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0460.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Confitebor tibi in ecclesia magna, in populo gravi laudabo te.",
+      "french": "Je publierai vos louanges dans une grande assemblée ; je vous louerai au milieu d’un peuple très nombreux.",
+      "source_pages": [
+        "page_0461.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Non supergaudeant mihi qui adversantur mihi iniquè : qui oderunt me gratis, et annuunt oculis.",
+      "french": "Que je ne sais point un sujet de joie, et d’insulte à ceux qui m’attaquent injustement ; qui me haïssent sans aucun sujet, et qui feignent par leurs regards d’être mes amis.",
+      "source_pages": [
+        "page_0461.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Quoniam mihi quidem pacificè loquebantur : et in iracundia terræ loquentes, dolos cogitabant.",
+      "french": "Car ils me parlaient en apparence avec un esprit de paix ; mais lorsqu’émus de colère ils parlaient à la terre, ils ne pensaient qu’à des tromperies.",
+      "source_pages": [
+        "page_0461.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et dilataverunt super me os suum : dixerunt : Euge, euge, viderunt oculi nostri.",
+      "french": "Ils ont ouvert contre moi leur bouche, et ils ont dit : Courage, courage ; nos yeux ont vu à la fin ce qu’ils souhaitaient.",
+      "source_pages": [
+        "page_0463.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Vidisti, Domine, ne sileas : Domine ne discedas à me.",
+      "french": "Vous l’avez vu, Seigneur ; ne gardez pas le silence : Seigneur, ne vous éloignez point de moi.",
+      "source_pages": [
+        "page_0463.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Exurge, et intende judicio meo ; Deus meus, et Dominus meus, in causam meam.",
+      "french": "Levez-vous, et appliquez-vous à mon jugement ; mon Dieu, et mon Seigneur, songez à la défense de ma cause.",
+      "source_pages": [
+        "page_0463.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Judica me secundum justitiam tuam, Domine Deus meus, et non supergaudeant mihi.",
+      "french": "Jugez-moi, selon les règles de votre justice, Seigneur mon Dieu ; et qu’ils ne se réjouissent pas en triomphant de moi.",
+      "source_pages": [
+        "page_0463.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Non dicant in cordibus suis : Euge, euge, animæ nostræ : nec dicant : Devoravimus eum.",
+      "french": "Qu’ils ne disent pas dans leurs cœurs : Courage, réjouissons-nous. Qu’ils ne disent pas : Nous l’avons enfin dévoré.",
+      "annotations": null,
+      "source_pages": [
+        "page_0464.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Erubescant et revereantur simul, qui gratulantur malis meis.",
+      "french": "Que ceux qui témoignent de la joie de mes maux, rougissent, et saient confondus",
+      "annotations": null,
+      "source_pages": [
+        "page_0464.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Induantur confusione et reverentiâ, qui magna loquuntur super me.",
+      "french": "Que ceux qui parlent avec orgueil contre moi, saient couverts de confusion, et de honte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0464.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Exultent et lætentur qui volunt justitiam meam : et dicant semper : Magnificetur Dominus, qui volunt pacem servi ejus.",
+      "french": "Que ceux qui veulent que ma justice soit reconnue, se réjouissent et saient transportés de joie. Et que ceux-là disent sans cesse : Que le Seigneur soit glorifié, qui désirent la paix de son serviteur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0464.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et lingua mea meditabitur justitiam tuam, tota die laudem tuam.",
+      "french": "Et ma langue annoncera votre justice ; elle publiera durant tout le jour vos louanges.",
+      "annotations": null,
+      "source_pages": [
+        "page_0464.json"
+      ]
+    }
+  ]
+}

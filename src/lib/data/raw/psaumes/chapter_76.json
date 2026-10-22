@@ -1,0 +1,197 @@
+{
+  "book": "Psaumes",
+  "chapter": 76,
+  "chapter_summary": "Prière ardente dans le temps de l’affliction. L’Auteur rappelle les anciennes miséricordes du Seigneur. Il s’étonne de la conduite si pleine de rigueur, que le Seigneur observe à présent envers son peuple.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, pro Idithun. Psalmus Asaph.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription): check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Voce mea ad Dominum clamavi : voce mea ad Deum, et intendit mihi.",
+      "french": "J’Ai élevé ma voix, et j’ai crié au Seigneur ; j’ai poussé ma voix vers Dieu, et il m’a écouté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "In die tribulationis meæ Deum exquisivi, manibus meis nocte contra eum : et non sum deceptus.",
+      "french": "J’ai cherché Dieu au jour de mon affliction ; j’ai tendu mes mains vers lui durant la nuit ; et je n’ai pas été trompé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Renuit consolari anima mea, memor fui Dei, et delectatus sum, et exercitatus sum : et defecit spiritus meus.",
+      "french": "Mon âme a refusé toute consolation ; je me suis souvenu de Dieu, et j’y ai trouvé ma joie ; je me suis exercé dans la méditation, et mon esprit est tombé dans la défaillance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0397.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Anticipaverunt vigilias oculi mei : turbatus sum, et non sum locutus.",
+      "french": "Mes yeux devançaient les veilles de la nuit : j’étais plein de trouble, et je ne pouvais parler.",
+      "annotations": null,
+      "source_pages": [
+        "page_0398.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Cogitavi dies antiquos : et annos æternos in mente habui.",
+      "french": "Je songeais aux jours anciens ; et j’avais les années éternelles dans l’esprit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0399.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et meditatus sum nocte cum corde meo, et exercitabar, et scopebam spiritum meum.",
+      "french": "Je méditais durant la nuit au fond de mon cœur ; et m’entretenant en moi-même, j’agitais, et je roulais dans mon esprit plusieurs pensées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0399.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Numquid in æternum projiciet Deus : aut non apponet ut complacitior sit adhuc ?",
+      "french": "Dieu nous rejettera-t’il donc pour toujours ? ou ne pourra-t’il plus se resoudre à nous être favorable ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0400.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Aut in finem misericordiam suam abscindet, à generatione in generationem ?",
+      "french": "Nous privera-t’il éternellement, et dans toute la suite des races, de sa miséricorde ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0401.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Aut obliviscetur misereri Deus ? aut continebit in ira sua misericordias suas ?",
+      "french": "Dieu oubliera-t’il sa bonté compatissante envers les hommes ; et sa colère arrêtera-t’elle le secours de ses miséricordes ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0401.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et dixi : nunc cœpi : hæc mutatio dexteræ Excelsi.",
+      "french": "Et j’ai dit : C’est maintenant que je commence à espérer. Ce changement est l’ouvrage de la droite du Très-Haut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0401.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Memor fui operum Domini : quia memor ero ab initio mirabilium tuorum.",
+      "french": "Je me suis souvenu des œuvres du Seigneur ; et je me souviendrai de toutes les merveilles, que vous avez faites depuis le commencement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0402.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et meditabor in omnibus operibus tuis : et in adinventionibus tuis exercebor.",
+      "french": "Et je méditerai sur toutes vos œuvres ; et je considérerai tous les secrets de votre conduite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0403.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Deus, in sancto via tua : quis Deus magnus sicut Deus noster ? tu es Deus qui facis mirabilia.",
+      "french": "O Dieu, vos voies sont toutes dans la sainteté. Quel est le Dieu aussi grand que notre Dieu ? Vous êtes le Dieu qui opérez des merveilles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0403.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Notam fecisti in populis virtutem tuam : redemisti in brachio tuo populum tuum, filios Jacob, et Joseph.",
+      "french": "Vous avez fait connaître parmi les peuples votre puissance : vous avez racheré, et délivré votre peuple, les enfants de Jacob, et de Joseph, par la force de votre bras.",
+      "annotations": null,
+      "source_pages": [
+        "page_0404.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Viderunt te aquæ, Deus, viderunt te aquæ : et timuerunt, et turbatæ sunt abyssi.",
+      "french": "Les eaux vous ont vu, ô Dieu ; les eaux vous ont vu, et ont eu peur ; et les abîmes ont été troublés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0404.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Multitudo sonitûs aquarum : vocem dederunt nubes.",
+      "french": "Les eaux sont tombées en abondance, et avec grand bruit ; les nuées ont fait retentir leur voix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0404.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Etenim sagittæ tuæ transeunt : vox tonitrui tui in rota.",
+      "french": "Vos flèches ont été lancées ; et la voix de votre tonnerre a éclaté, pour renverser les rouës des Egyptiens.",
+      "annotations": null,
+      "source_pages": [
+        "page_0405.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Illuxerunt coruscationes tuæ orbi terræ : commota est, et contremuit terra.",
+      "french": "Vos éclairs ont fait briller leur lumière dans toute la terre : et elle en a été émue, et en a tremblé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0405.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "In mari via tua, et semita tua in aquis multis : et vestigia tua non cognoscentur.",
+      "french": "Vous vous êtes fait un chemin dans la mer ; vous avez marché au milieu des eaux ; et les traces de vos pieds ne feront point connues.",
+      "annotations": null,
+      "source_pages": [
+        "page_0406.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Deduxisti sicut oves populum tuum, in manu Moysi, et Aaron.",
+      "french": "Vous avez conduit votre peuple comme un troupeau de brebis, par la main de Moyse, et d’Aaron.",
+      "annotations": null,
+      "source_pages": [
+        "page_0406.json"
+      ]
+    }
+  ]
+}

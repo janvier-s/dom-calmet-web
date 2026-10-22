@@ -1,0 +1,228 @@
+{
+  "book": "Proverbes",
+  "chapter": 25,
+  "chapter_summary": "Nouvelles Paraboles de Salomon. Cacher les Mysteres de Dieu. Le cœur des Rois est impénétrable. Ne se point élever en présence du Roi. Traiter de ses affaires avec ses amis, et ne découvrir point son secret à un étranger. Parole dite en son temps. Réprimande utile. Ambassadeur fidèle. Manger peu de miel. Ne voir pas trop ses amis. Tristesse dangereuse. Faire du bien à ses ennemis. N’être pas grand parleur.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Hæ quoque Parabolæ Salomonis, quas transtulerunt viri Ezechiæ, Regis Juda.",
+      "french": "Es Paraboles suivantes sont aussi de Salomon ; et elles ont été recueillies par les serviteurs d’Ezéchias, Roi de Juda.",
+      "annotations": null,
+      "source_pages": [
+        "page_0298.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Gloria Dei, est celare verbum, et gloria Regum, investigare sermonem.",
+      "french": "La gloire de Dieu, est de cacher sa parole sous des voiles, et la gloire des Rois, de l’étudier.",
+      "annotations": null,
+      "source_pages": [
+        "page_0299.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Cœlum sursùm, et terra deorsùm, et cor Regum inscrutabile.",
+      "french": "Le ciel dans sa hauteur, la terre dans sa profondeur, et le cœur des Rois, est impénétrable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0300.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Aufer rubiginem de argento, et egredietur vas purissimum.",
+      "french": "Otez la rouille de l’argent, et il s’en formera un vase très pur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0300.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Aufer impietatem de vultu Regis, et firmabitur justitiâ thronus ejus.",
+      "french": "Otez l’impiété de devant le Roi, et son trône s’affermira par la justice.",
+      "source_pages": [
+        "page_0301.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ne gloriosus appareas coram Rege, et in loco magnorum ne steteris.",
+      "french": "Ne vous élevez point en honneur devant le Roi ; et ne vous tenez point au rang des Grands.",
+      "source_pages": [
+        "page_0301.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Melius est enim ut dicatur tibi : Ascende huc, quàm ut humilieris coram Principe.",
+      "french": "Car il vaut mieux qu’on vous dise : Montez ici, que d’être humilié devant le Prince.",
+      "source_pages": [
+        "page_0301.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Quæ viderunt oculi tui, ne proferas in jurgio citò : ne posteà emendare non possis, cùm dehonestaveris amicum tuum.",
+      "french": "Ne vous hâtez pas de découvrir dans une querelle, ce que vous avez vu de vos propres yeux, de peur qu’après avoir ôté l’honneur à votre ami, vous ne puissiez plus le réparer.",
+      "source_pages": [
+        "page_0301.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Ne fortè insultet tibi, cùm audierit, et exprobrare non cesset. Gratia, et amicitia liberant : quasi tibi serva, ne exprobrabilis sias.",
+      "french": "De peur que l’ayant appris, il ne vous insulte, et qu’il ne vous le reproche sans cesse. La grâce, et l’amitié délivrent : assûrez-les-vous, de peur de tomber dans le mépris.",
+      "annotations": null,
+      "source_pages": [
+        "page_0303.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Mala aurea in lectis argenteis, qui loquitur verbum in tempore suo.",
+      "french": "La parole dite en son temps ; est comme des pommes d’or sur un lit d’argent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0303.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Sicut frigus nivis in die messis, ita legatus fidelis ei, qui misit eum ; animam ipsius requiescere facit.",
+      "french": "L’ambassadeur fidèle, est à celui qui l’a envoyé, ce qu’est la fraîcheur de la neige au temps de la moisson ; et il donne le repos à son âme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0305.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Nubes, et ventus, et pluvia non sequentes, vir gloriosus, et promissa non complens.",
+      "french": "Celui qui se vante, et qui ne tient point ses promesses, est comme le vent, et les nuées qui ne sont point suivies de la pluie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0305.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Patientiâ lenietur Princeps, et lingua mollis confringet duritiam.",
+      "french": "Le Prince se laisse fléchir par la patience ; et la langue douce rompt ce qu’il y a de plus dur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0306.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Mel invenisti, comede quod sufficit tibi, nefortè satiatus evomas illud.",
+      "french": "Avez-vous trouvé du miel ? Mangez-en ce qui vous suffit ; de peur qu’en ayant pris avec excez, vous ne le rejettiez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0306.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Subtrahe pedem tuum de domo proximi tui, ne quando satiatus oderit te.",
+      "french": "Ne fréquentez pas trop la maison de votre prochain ; de peur qu’étant dégoûté de vous, il ne vous haïsse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0306.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Jaculum, et gladius, et sagitta acuta, homo qui loquitur contra proximum suum falsum testimonium.",
+      "french": "Celui qui porte un faux témoignage contre son prochain, est un dard, une épée, et une flèche perçante.",
+      "source_pages": [
+        "page_0307.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Dens putridus, et pes lassus, qui sperat super infideli, in die angustiæ.",
+      "french": "Espérer en un infidèle, au jour de l’affliction, c’est faire fond sur une dent pourrie, et sur un pied lassé.",
+      "source_pages": [
+        "page_0307.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et amittit pallium in die frigoris. Acetum in nitro, qui cantat carmina cordi pessimo.\nSicut tinea vestimento, et vermis ligno : ita tristitia viri nocet cordi.",
+      "french": "Et c’est se trouver sans manteau, dans le plus grand froid. Chanter des cantiques devant celui dont le cœur est corrompu ; c’est mettre du vinaigre dans le nitre.\nComme le ver mange le vêtement, et la pourriture le bois ; ainsi la tristesse de l’homme ronge le cœur.",
+      "source_pages": [
+        "page_0307.json",
+        "page_0309.json"
+      ],
+      "annotations": null
+    },
+    {
+      "verse_number": 21,
+      "latin": "Si esurierit inimicus tuus, ciba illum : si sitierit, da ei aquam bibere :",
+      "french": "Si votre ennemi a faim, donnez lui à manger ; et s’il a soif, donnez-lui de l’eau à boire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0309.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Prunas enim congregabis super caput ejus, et Dominus reddet tibi.",
+      "french": "Car vous amasserez ainsi sur sa tête des charbons de feu ; et le Seigneur vous le rendra.",
+      "annotations": null,
+      "source_pages": [
+        "page_0309.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Melius est sedere in angulo domatis, quàm cum muliere litigiosa, et in domo communi.",
+      "french": "Il vaut mieux se retirer en un coin, sur le haut de la maison, que de demeurer avec une femme querelleuse, dans une maison commune.",
+      "annotations": null,
+      "source_pages": [
+        "page_0312.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Aqua frigida animæ sitienti, et nuntius bonus de terra longinqua.",
+      "french": "Une bonne nouvelle, qui vient d’un pays éloigné, est comme de l’eau fraîche à celui qui a soif.",
+      "annotations": null,
+      "source_pages": [
+        "page_0312.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Fons turbatus pede, et vena corrupta, justus cadens coram impio.",
+      "french": "Le juste qui tombe devant le méchant, est une fontaine troublée avec le pied, et une source qu’on a corrompuë.",
+      "annotations": null,
+      "source_pages": [
+        "page_0312.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Sicut qui mel multum comedit, non est ei bonum : sic qui scrutator est majestatis, opprimetur à gloria.",
+      "french": "Le miel n’est pas bon à celui qui en mange beaucoup ; et celui qui veut sonder la majesté, sera accablé de sa gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0313.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Sicut urbs patens, et absque murorum ambitu, ita vir qui non potest in loquendo cohibere spiritum suum.",
+      "french": "Celui qui ne peut retenir son esprit en parlant, est comme une ville toute ouverte, qui n’est point environnée de murailles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0314.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "book": "Psaumes",
+  "chapter": 66,
+  "chapter_summary": "Le Prophète prie Dieu de bénir son Peuple. Il souhaite que toutes les Nations connaissent et louent le Seigneur. Il lui rend grâces de la fécondité qu’il a donnée à la terre.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, in hymnis. Psalmus cantici David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0800.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Deus misereatur nostri, et benedicat nobis : illuminet vultum suum super nos, et misereatur nostri.",
+      "french": "Que Dieu ait enfin pitié de nous, et nous comble de ses bénédictions : qu’il répande sur nous la lumière de son visage, et qu’il fasse éclater sur nous sa miséricorde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0800.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Ut cognoscamus in terra viam tuam : in omnibus gentibus salutare tuum.",
+      "french": "Afin que nous connaissions, Seigneur, votre voie sur la terre, et que le salut que vous procurez, soit connu de toutes les nations.",
+      "annotations": null,
+      "source_pages": [
+        "page_0800.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Confiteantur tibi populi omnes, Deus : confiteantur tibi populi omnes.",
+      "french": "Que tous les peuples, ô Dieu, publient vos louanges : que tous les peuples vous louent et vous rendent grâces.",
+      "annotations": null,
+      "source_pages": [
+        "page_0800.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Lætentur et exultent gentes : quoniam judicas populos in æquitate, et gentes in terra dirigis.",
+      "french": "Que les Nations se réjouissent, et saient transportées de joie ; parce que vous jugez les peuples dans l’équité, et que vous conduisez dans la droiture les Nations sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0801.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Confiteantur tibi populi, Deus : confiteantur tibi populi omnes : terra dedit fructum suum.",
+      "french": "Que les peuples, ô Dieu, publient vos louanges : que tous les peuples vous louent : la terre a donné son fruit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0801.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Benedicat nos Deus, Deus noster, benedicat nos Deus : et metuant eum omnes fines terræ.",
+      "french": "Que Dieu, que notre Dieu nous bénisse ; que Dieu nous comble de ses bénédictions ; et qu’il soit craint jusqu’aux extrémités de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0802.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "book": "Psaumes",
+  "chapter": 104,
+  "chapter_summary": "Cantique d’actions de grâces pour tous les bienfaits, dont le Seigneur a comblé la nation des Juifs. Récit de ces bienfaits depuis la vocation d’Abraham, jusqu’à l’entrée des Hébreux dans la terre promise.\nAlleluia. | Louez le Seigneur.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Confitemini Domino, et invocate nomen ejus : annunciate inter gentes opera ejus.",
+      "french": "Oyez le Seigneur, et invoquez son nom : annoncez ses œuvres parmi les nations.",
+      "annotations": null,
+      "source_pages": [
+        "page_0041.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Cantate ei, et psallite ei : narrate omnia mirabilia ejus.",
+      "french": "Chantez ses louanges, chantez-les sur les instruments ; racontez toutes ses merveilles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0041.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Laudamini in nomine sancto ejus : lætetur cor quærentium Dominum.",
+      "french": "Glorifiez-vous dans son saint nom : que le cœur de ceux qui cherchent le Seigneur, se réjouisse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0042.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quærite Dominum, et confirmamini : quærite faciem ejus semper.",
+      "french": "Cherchez le Seigneur, et soyez remplis de force ; cherchez sa face sans cesse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0042.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Mementote mirabilium ejus, quæ fecit : prodigia ejus, et judicia oris ejus.",
+      "french": "Souvenez-vous de ses merveilles, des prodiges qu’il a faits, et des jugements qui sont sortis de sa bouche ;",
+      "source_pages": [
+        "page_0043.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Semen Abraham, servi ejus : filii Jacob, electi ejus.",
+      "french": "Vous qui êtes la race d’Abraham son serviteur ; vous, enfants de Jacob, qu’il a choisi.",
+      "source_pages": [
+        "page_0043.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Ipse Dominus Deus noster : in universa terra judicia ejus.",
+      "french": "C’est lui qui est le Seigneur notre Dieu, lui dont les jugements s’exercent dans toute la terre.",
+      "source_pages": [
+        "page_0043.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Memor fuit in sæculum testamenti sui : verbi, quod mandavit in mille generationes :",
+      "french": "Il s’est souvenu pour toujours de son alliance ; de la parole qu’il a prononcée, pour être accomplie dans la suite de toutes les races ;",
+      "source_pages": [
+        "page_0043.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Quod disposuit ad Abraham : et juramenti sui ad Isaac :",
+      "french": "De ce qu’il a promis à Abraham ; et du serment qu’il a fait à Isaac :",
+      "source_pages": [
+        "page_0043.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et statuit illud Jacob in præceptum : et Israël in testamentum æternum :",
+      "french": "Qu’il a confirmé à Jacob, pour être un decret irrévocable : et à Israël, pour être un accord éternel ;",
+      "source_pages": [
+        "page_0044.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Dicens : Tibi dabo terram Chanaan, funiculum hæreditatis vestræ.",
+      "french": "En disant : Je vous donnerai la terre de Chanaan pour votre héritage.",
+      "source_pages": [
+        "page_0044.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Cùm essent numero brevi, paucissimi et incolæ ejus.",
+      "french": "Et le disant, lorsqu’ils étaient encore en très petit nombre, et étrangers dans cette terre.",
+      "source_pages": [
+        "page_0044.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et pertransierunt de gente in gentem, et de Regno ad populum alterum.",
+      "french": "Et ils passérent d’une nation chez une autre ; et d’un Royaume à un autre peuple.",
+      "source_pages": [
+        "page_0044.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Non reliquit hominem nocere eis : et corripuit pro eis Reges.",
+      "french": "Il ne permit point qu’aucun homme leur fit du mal ; et il châtia même des Rois, à cause d’eux.",
+      "source_pages": [
+        "page_0044.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et vocavit famem super terram : et omne firmamentum panis contrivit.",
+      "french": "Et il appella la famine sur la terre ; et il brisa toute la force du pain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0046.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Misit ante eos virum : in servum venumdatus est Joseph.",
+      "french": "Il envoya devant eux un homme en Egypte : Joseph, qui fut vendu pour être esclave.",
+      "annotations": null,
+      "source_pages": [
+        "page_0046.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Humiliaverunt in compedibus pedes ejus : ferrum pertransit animam ejus, donec veniret verbum ejus.",
+      "french": "Il fut humilié par les chaînes qu’on lui mit aux pieds ; le fer transperça son âme, jusqu’à ce que la parole fût accomplie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0047.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Eloquium Domini inflammavit eum : misit Rex, et solvit eum : Princeps populorum, et dimisit eum.",
+      "french": "Il fut embrasé par la parole du Seigneur. Le Roi envoya dans la prison, et le délia ; le Prince des peuples d’Egypte le renvoya libre.",
+      "source_pages": [
+        "page_0048.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Constituit eum dominum domûs suæ : et Principem omnis possessionis suæ.",
+      "french": "Il l’établit le maître de sa maison, et comme le Prince de tout ce qu’il possédait.",
+      "source_pages": [
+        "page_0048.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Ut erudiret Principes ejus sicut semetipsum : et senes ejus prudentiam doceret.",
+      "french": "Afin qu’il instruisît tous les Princes de sa Cour comme lui-même, et qu’il apprît la sagesse aux anciens de son Conseil.",
+      "source_pages": [
+        "page_0048.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Et intravit Israël in Ægyptum : et Jacob accola fuit in terra Cham.",
+      "french": "Et Israël entra dans l’Egypte ; et Jacob demeura comme étranger dans la terre de Cham.",
+      "annotations": null,
+      "source_pages": [
+        "page_0049.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et auxit populum suum vehementer : et firmavit eum super inimicos ejus.",
+      "french": "Or le Seigneur multiplia extraordinairement son peuple, et le rendit plus puissant que ses ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0049.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Convertit cor eorum, ut odirent populum ejus : et dolum facerent in servos ejus.",
+      "french": "Et il changea le cœur des Egyptiens, afin qu’ils haïssent son peuple, et qu’ils accablassent ses serviteurs par mille artifices.",
+      "annotations": null,
+      "source_pages": [
+        "page_0049.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Misit Moysen servum suum : Aaron, quem elegit ipsum.",
+      "french": "Alors il envoya Moyse son serviteur, et Aaron, qu’il choisit aussi pour l’accompagner.",
+      "source_pages": [
+        "page_0050.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Posuit in eis verba signorum suorum, et prodigiorum in terra Cham.",
+      "french": "Il mit en eux sa puissance, pour faire des signes, et des prodiges dans la terre de Cham.",
+      "source_pages": [
+        "page_0050.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Misit tenebras, et obscuravit : et non exacerbavit sermones suos.",
+      "french": "Il envoya les ténèbres, et remplit l’air d’obscurité : et il ne manqua point d’accomplir ce qu’il avait dit.",
+      "source_pages": [
+        "page_0050.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Convertit aquas eorum in sanguinem : et occidit pisces eorum.",
+      "french": "Il changea leurs eaux en sang, et fit mourir leurs poissons.",
+      "annotations": null,
+      "source_pages": [
+        "page_0051.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Edidit terra eorum ranas, in penetralibus Regum ipsorum.",
+      "french": "Leur terre produisit des grenouïlles, jusque dans les chambres des Rois mêmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0051.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Dixit et venit cœnomyia, et cynifes, in omnibus finibus eorum.",
+      "french": "Il parla, et on vit venir toutes sortes de mouches, et de moucherons dans tout leur pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0052.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Posuit pluvias eorum grandinem : ignem comburentem in terra ipsorum.",
+      "french": "Il changea leurs pluies en grêles ; et fit tomber un feu, qui brûlait tout dans leur terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0052.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et percussit vineas eorum, et ficulneas eorum : et contrivit lignum finium eorum.",
+      "french": "Et il frappa leurs vignes, et leurs figuiers ; et il brisa tous les arbres, qui étaient dans tout le pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0052.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Dixit, et venit locusta, et bruchus, cujus non erat numerus :",
+      "french": "Il commanda, et on vit venir un nombre infini de sauterelles, de différentes espèces.",
+      "annotations": null,
+      "source_pages": [
+        "page_0052.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et comedit omne fœnum in terra eorum : et comedit omnem fructum terræ eorum.",
+      "french": "Elles mangérent toute l’herbe de leur terre ; elles consumérent tous les fruits de leurs pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0052.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et percussit omne primogenitum in terra eorum : primitias omnis laboris eorum.",
+      "french": "Et il frappa tous les premiers-nez de l’Egypte, les prémices de tout leur travail.",
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et eduxit eos cum argento, et auro : et non erat in tribubus eorum infirmus.",
+      "french": "Il fit sortir les Israëlites avec beaucoup d’or, et d’argent ; et il n’y avait pas un malade dans leurs tribus.",
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Lætata est Ægyptus in profectione eorum : quia incubuit timor eorum super eos.",
+      "french": "L’Egypte se réjouit de leur départ : à cause que la frayeur qu’elle avait d’eux, l’avait saisie.",
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Expandit nubem in protectionem eorum, et ignem ut luceret eis per noctem.",
+      "french": "Il étendit une nuée, pour les mettre à couvert durant le jour ; et il fit paraître un feu pour les éclairer pendant la nuit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0054.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Petierunt, et venit coturnix : et pane Cœli saturavit eos.",
+      "french": "Ils demandérent à manger ; et il fit venir des cailles ; et il les rassasia du pain du Ciel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0054.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Dirupit petram, et fluxerunt aquæ : abierunt in sicco flumina.",
+      "french": "Il fendit la pierre, et il en coula des eaux ; des fleuves se répandirent dans ce lieu désert, et aride.",
+      "annotations": null,
+      "source_pages": [
+        "page_0054.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Quoniam memor fuit verbi sancti sui, quod habuit ad Abraham puerum suum.",
+      "french": "Parce qu’il se souvint de la sainte parole, qu’il avait donnée à Abraham son serviteur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0054.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Et eduxit populum suum in exultatione : et electos suos in lætitia.",
+      "french": "Et il fit sortir son peuple avec allégresse, et ses élus avec des transports de joie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0054.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Et dedit illis regiones gentium : et labores populorum possederunt :",
+      "french": "Il leur donna les pays des nations, et les fit entrer en possession des travaux des peuples.",
+      "annotations": null,
+      "source_pages": [
+        "page_0054.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Ut custodiant justificationes ejus, et legem ejus requirant.",
+      "french": "Afin qu’ils gardassent ses ordonnances pleines de justice, et qu’ils s’appliquassent à la pratique de sa Loi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0054.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "book": "Psaumes",
+  "chapter": 60,
+  "chapter_summary": "Prière du Peuple relégué aux extrémités de la terre. Dieu l’a exaucé, et l’a rétabli dans son héritage. Il souhaite une longue vie à son Roi, et promet de chanter éternellement la miséricorde, et la vérité du Seigneur.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem. In hymnis David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0747.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Exaudi, Deus, deprecationem meam : intende orationi meæ.",
+      "french": "Exaucez, mon Dieu, l’ardente supplication que je vous fais : soyez attentif à ma prière.",
+      "annotations": null,
+      "source_pages": [
+        "page_0747.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "A finibus terræ ad te clamavi : dum anxiaretur cor meum, in petra exaltasti me.",
+      "french": "J’ai crié vers vous des extrémités de la terre, lorsque mon cœur était accablé de tristesse : vous m’avez élevé sur la pierre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0747.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Deduxisti me, quia factus es spes mea : turris fortitudinis à face inimici.",
+      "french": "Vous m’avez conduit vous-même, parce que vous êtes devenu mon espérance, et comme une forte tour contre l’ennemi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0748.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Inhabitabo in tabernaculo tuo in sæcula : protegar in velamento alarum tuarum.",
+      "french": "Je demeurerai pour toujours dans votre saint Tabernacle ; je serai en sûreté, et à couvert sous vos aîles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0748.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quoniam tu, Deus meus, exaudisti orationem meam : dedisti hæreditatem timentibus nomen tuum.",
+      "french": "Parce que vous avez exaucé, ô mon Dieu, ma prière : vous avez donné un héritage à ceux qui craignent votre nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0748.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dies super dies Regis adjicies : annos ejus usque in diem generationis et generationis.",
+      "french": "Vous multiplierez les jours du Roi, et ses années à l’infini.",
+      "annotations": null,
+      "source_pages": [
+        "page_0749.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Permanet in æternum in conspectu Dei : misericordiam et veritatem ejus quis requiret ?",
+      "french": "Il subsistera éternellement en la présence de Dieu. Qui pourra rechercher, et approfondir sa miséricorde, et la vérité ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0749.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Sic psalmum dicam nomini tuo in sæculum sæculi : ut reddam vota mea de die in diem.",
+      "french": "C’est ainsi que je chanterai dans toute la suite des siècles, des Cantiques à la gloire de votre nom, pour m’acquitter chaque jour des vœux que je vous ai faits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0750.json"
+      ]
+    }
+  ]
+}

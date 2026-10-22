@@ -1,0 +1,98 @@
+{
+  "book": "Psaumes",
+  "chapter": 97,
+  "chapter_summary": "Puiffance infinie du Seigneur ; certitude infaillible de ses promesses. Justice de ses jugements. Joie et bonheur des peuples.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Cantate Domino canticum novum : quia mirabilia fecit.",
+      "french": "Chantez au Seigneur un nouveau Cantique ; parce qu’il a fait des prodiges.",
+      "annotations": null,
+      "source_pages": [
+        "page_0614.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Salvavit sibi dextera ejus, et brachium sanctum ejus.",
+      "french": "Sa droite, et son saint bras nous ont sauvez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0615.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Notum fecit Dominus salutare suum : in conspectu gentium revelavit justitiam suam.",
+      "french": "Le Seigneur a fait connaître le salut qu’il nous réservait : il a manifesté sa justice aux yeux des nations.",
+      "annotations": null,
+      "source_pages": [
+        "page_0615.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Recordatus est misericordiæ suæ, et veritatis suæ domui Israël.",
+      "french": "Il s’est souvenu de sa miséricorde, et de la vérité des promesses, qu’il avait faites à la maison d’Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0615.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Viderunt omnes termini terræ, salutare Dei nostri.",
+      "french": "Toute l’étendue de la terre a vu le salut que notre Dieu nous a procuré.",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Jubilate Deo omnis terra : cantate, et exultate, et psallite.",
+      "french": "Chantez avec joie les louanges de Dieu, vous tous habitants de la terre : chantez des Cantiques, tressaillez de joie, et jouez des instruments.",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Psallite Domino in cithara : in cithara et voce psalmi : in tubis ductilibus, et voce tubæ corneæ.",
+      "french": "Chantez sur la harpe des Cantiques au Seigneur ; sur la harpe, et sur l’instrument à dix cordes ; au son des trompettes battuës au marteau, et au bruit des cors.",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Jubilate in conspectu Regis Domini : moveatur mare, et plenitudo ejus, orbis terrarum, et qui habitant in eo.",
+      "french": "Faites retentir de saints transports de joie en présence du Seigneur votre Roi : que la mer en soit émuë, avec tout ce qui la remplit, toute la terre, et ceux qui l’habitent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0616.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Flumina plaudent manu, simul montes exultabunt, à conspectu Domini : quoniam venit judicare terram.",
+      "french": "Les fleuves frapperont des mains ; comme aussi les montagnes tressailliront de joie à la présence du Seigneur : à cause qu’il vient juger la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0617.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Judicabis orbem terrarum in justitia, et populos in æquitate.",
+      "french": "Il jugera toute la terre selon la justice, et les peuples selon l’équité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0617.json"
+      ]
+    }
+  ]
+}

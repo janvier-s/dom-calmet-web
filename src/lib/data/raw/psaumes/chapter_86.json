@@ -1,0 +1,71 @@
+{
+  "book": "Psaumes",
+  "chapter": 86,
+  "chapter_summary": "Eloge de la ville de Jérusalem, et sous son nom de la Cité de Dieu, de l’Eglise de Jésus-Christ, où tous les peuples du monde se sont rassemblez en une même foi.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Fundamenta ejus in montibus sanctis : diligit Dominus portas Sion super omnia tabernacula Jacob.",
+      "french": "Ses fondements sont posez sur les saintes montagnes : le Seigneur aime les portes de Sion, plus que toutes les tentes de Jacob.",
+      "annotations": null,
+      "source_pages": [
+        "page_0509.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Gloriosa dicta sunt de te, civitas Dei.",
+      "french": "On a dit de vous des choses glorieuses, ô Cité de Dieu !",
+      "annotations": null,
+      "source_pages": [
+        "page_0510.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Memor ero Rahab, et Babylonis scientium me.",
+      "french": "Je me souviendrai de Rahab, et de Babylone, qui me connoîtront.",
+      "annotations": null,
+      "source_pages": [
+        "page_0510.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Ecce alienigenæ, et Tyrus, et populus Æthiopum, hi fuerunt illic.",
+      "french": "Les étrangers, ceux de Tyr, et le peuple d’Ethiopie, s’y sont trouvez réunis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0511.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Numquid Sion dicet : Homo, et homo natus est in ea : et ipse fundavit eam Altissimus ?",
+      "french": "Ne dira-t’on pas à Sion : Un grand nombre d’hommes sont nez dans elle : et le Très-Haut lui-même l’a fondée ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0511.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dominus narrabit in scripturis populorum, et Principum, horum qui fuerunt in ea.",
+      "french": "Le Seigneur dans le dénombrement des peuples, et des Princes, dira le nombre de ceux qui auront été dans elle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0513.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Sicut lætantium omnium habitatio est in te.",
+      "french": "Ceux qui habitent dans vous, ô Sion, sont tous dans la joie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0513.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "notes": [
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "quis annuntiavit Domino ?",
+      "lemma": "Qui a annoncé qui j’étais à mon Seigneur ?",
+      "text": "Le Syriaque : _Et qui annoncera à mon_ Dieu ? C’est lui qui est le Seigneur, et mon Dieu. L’Arabe : _Qui est celui qui m’a enseigné ? C’est mon Seigneur, et mon Dieu, etc._ Quelques Manuscrits lisent _annuntiabit_, conformément au Grec. [1] Mais _annuntiavit_ fait un meilleur sens."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "oleo unctionis suæ.",
+      "lemma": "Il m’a donné l’onction de son huile sainte.",
+      "text": "De fort bons Manuscrits portent : [2] _Unxit in misericordia unctionis suæ_ ; par la miséricorde de son oction, au lieu, _de l’huile de son onction_. On a pu remarquer la même faute dans plus d’un endroit des Pseaumes, où l’on a lû dans le Grec _eleos_, la miséricorde, au lieu de _elaion_, de l’huile. Notre Leçon est la meilleure, et la plus conforme au Grec. [3]"
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "fratres mei pulchri, et magni.",
+      "lemma": "Mes frères étaient beaux, et bien-faits.",
+      "text": "Les mêmes Manuscrits qu’on vient de citer, portent : _Fratres mei boni, et magni_, conformément à la lettre du Grec. [4] Mais _bonus_ en cet endroit, vaut autant que _pulcher_. Le même terme Hébreu, _tob_, répond à bon, et à beau."
+    },
+    {
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": null,
+      "text": "Après ce verset, l’Arabe ajoute : _J’ai jetté contre lui avec ma fronde trois pierres, qui lui ont donné dans le front ; et par la vertu du Seigneur, je l’ai abattu._ (℣. 7.) _Et j’ai tiré son épée, etc._"
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0421>page_0422",
+      "verse": 3,
+      "mode": "flow",
+      "before": "Le Syriaque : _Et qui annoncera à mon_",
+      "after": "Dieu ? C’est lui qui est le Seigneur, et mon Dieu. L’Arabe"
+    }
+  ],
+  "pages_used": [
+    "page_0421",
+    "page_0422"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0422-a",
+      "n": 1,
+      "text": "_Ita A thanas. et August. i. Enarrat. Gambr._ | _μὴ διὰ τὸ ὀδώριζον. Aquil. ὁτι ἐσιώπησα παλαιωθέντα ὀςᾶ με ἐν βρύχειν με._"
+    },
+    {
+      "key": "page_0422-b",
+      "n": 2,
+      "text": "_Hebrai plerique._ כי החרשתי בלו עצמי בשאגתי כל היום _Syr. O’ti ἐσιώπησα, ἐπαλαιώθη τὰ ὀᾶ με._"
+    },
+    {
+      "key": "page_0422-c",
+      "n": 3,
+      "text": "_Euthym. Euseb._"
+    },
+    {
+      "key": "page_0422-d",
+      "n": 4,
+      "text": "_Vatab._"
+    }
+  ],
+  "missing_footnotes": []
+}

@@ -1,0 +1,95 @@
+{
+  "book": "Psaumes",
+  "chapter": 46,
+  "chapter_summary": "Le Psalmiste invite les Nations à louer le Seigneur, en considération de sa grandeur, et de sa puissance infinie.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, pro filiis Core. Psalmus.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0600.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Omnes Gentes, plaudite manibus : jubilate Deo, in voce exultationis.",
+      "french": "Nations, frappez des mains toutes ensemble : chantez la gloire de Dieu, par des cris d’une sainte allégresse ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0600.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quoniam Dominus excelsus, terribilis : Rex magnus super omnem terram.",
+      "french": "Parce que le Seigneur est très élevé, et très redoutable, et qu’il est le Roi suprême, qui a l’empire sur toute la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0601.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Subjecit populos nobis, et gentes sub pedibus nostris.",
+      "french": "Il nous a assujetti les peuples, et a mis les nations sous nos pieds.",
+      "annotations": null,
+      "source_pages": [
+        "page_0601.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Elegit nobis hæreditatem suam : speciem Jacob, quam dilexit.",
+      "french": "Il a choisi dans nous son héritage ; il a pris pour lui la beauté de Jacob qu’il a aimée.",
+      "source_pages": [
+        "page_0602.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Ascendit Deus in jubilo, et Dominus in voce tubæ.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0602.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Psallite Deo nostro, psallite : psallite Regi nostro, psallite.",
+      "french": "Chantez à la gloire de notre Dieu, chantez : Chantez à la gloire de notre Roi ; chantez.",
+      "source_pages": [
+        "page_0604.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quoniam Rex omnis terræ, Deus : psallite sapienter.",
+      "french": "Chantez avec sagesse ; parce que Dieu est le Roi de toute la terre.",
+      "source_pages": [
+        "page_0604.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Regnabit Deus super Gentes : Deus sedet super sedem sanctam suam.",
+      "french": "Dieu régnera sur les nations : Dieu est assis sur son saint trône.",
+      "annotations": null,
+      "source_pages": [
+        "page_0605.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Principes populorum congregati sunt cum Deo Abraham : quoniam Dii fortes terræ vehementer elevati sunt.",
+      "french": "Les Princes des peuples se sont assemblés, et unis avec le Dieu d’Abraham : parce que les Dieux puissants de la terre ont été extraordinairement élevés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0605.json"
+      ]
+    }
+  ]
+}

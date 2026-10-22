@@ -1,0 +1,908 @@
+{
+  "book": "Daniel",
+  "chapter": 3,
+  "chapter_summary": "Statuë d’or dressée par le Roi de Babylone. Les trois Compagnons de Daniel accusez de ne vouloir pas l’adorer. Ils sont jetez dans une fournaise ardente. Dieu les y conserve, et les délivre du feu. Leur Prière dans cette fournaise. Ordonnance de Nabuchodonosor en faveur de la Religion des Juiss.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Nabuchodonosor rex fecit statuam auream, altitudine cubitorum sexaginta, latitudine cubitorum sex, et statuit eam in campo Dura provinciæ Babylonis.",
+      "french": "Le Roi Nabuchodonosor fit faire une statuë d’or qui avait soixante coudées de haut, et six de large, et il la fit mettre dans la campagne de Dura, qui était de la Province de Babylone.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Itaque Nabuchodonosor rex misit ad congregandos satrapas, magistratus, et judices, duces, et tyrannos, et præfectos, omnesque principes regionum, ut convenirent ad dedicationem statuæ, quam erexerat Nabuchodonosor rex.",
+      "french": "Il envoya ensuite un ordre pour faire assembler les Satrapes, les Magistrats, les Juges, les Officiers de l’armée, les Intendants, ceux qui possédaient les premières Charges, et tous les Gouverneurs de Provinces, afin qu’ils se trouvassent au jour qu’on dédierait la statuë qu’il avait dressée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Tunc congregati sunt satrapæ, magistratus, et judices, duces, et tyranni, et optimates qui erant in potestatibus constituti, et universi principes regionum, ut convenirent ad dedicationem statuæ, quam erexerat Nabuchodonosor rex : stabant autem in conspectu statuæ, quam posuerat Nabuchodonosor rex :",
+      "french": "Alors les Satrapes, les Magistrats, les Juges, les Officiers de l’armée, les Intendants, les Seigneurs qui étaient établis dans les premières Charges, et tous les Gouverneurs de Provinces s’assemblérent pour assister à la dédicace de la statuë, que le Roi Nabuchodonosor avait dressée. Ils se présentérent devant la statuë, que le Roi Nabuchodonosor avait fait dresser ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et præco clamabat valenter : Vobis dicitur populis, tribubus, et linguis :",
+      "french": "Et le Héraut cria à haute voix : Peuples et Tribus de toutes langues, on vous ordonne,",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "In hora, quâ audieritis sonitum tubæ, et fistulæ, et citharæ, sambucæ, et psalterii, et symphoniæ, et universi generis musicorum, cadentes adorate statuam auream, quam constituit Nabuchodonosor rex.",
+      "french": "Qu’au moment que vous entendrez le son de la trompette, de la flûte, de la harpe, du haut-bois, de la lyre, et des concerts de toutes sortes de musiciens, vous vous prosterniez en terre, et que vous adoriez la statuë d’or, que le Roi Nabuchodonosor a dressée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Si quis autem non prostratus adoraverit, eâdem horâ mittetur in fornacem ignis ardentis.",
+      "french": "Que si quelqu’un ne se prosterne pas, et n’adore point cette statuë, il sera jetté sur l’heure au milieu des flammes de la fournaise.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Post hæc igitur statim ut audierunt omnes populi sonitum tubæ, fistulæ, et citharæ, sambucæ, et psalterii, et symphoniæ, et omnis generis musicorum : cadentes omnes populi, tribus, et linguæ adoraverunt statuam auream, quam constituerat Nabuchodonosor rex.",
+      "french": "Aussi-tôt donc que tous les peuples entendirent le son de la trompette, de la flûte, de la harpe, du haut-bois, de la lyre, et des concerts de toute sorte de musiciens, tous les hommes, de quelque nation, de quelque Tribu, et de quelque langue qu’ils fussent, se jettèrent par terre, et adorèrent la statuë d’or que Nabuchodonosor avait dressée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Statimque in ipso tempore accesserunt viri Chaldæi, accusaverunt Judæos :",
+      "french": "Aussi-tôt, et dans le même moment, des Chaldéens s’approchèrent, et accusèrent les Juifs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Dixeruntque Nabuchodonosor regi : Rex in æternum vive :",
+      "french": "En disant au Roi Nabuchodonosor : O Roi, vivez à jamais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Tu, rex, posuisti decretum, ut omnis homo qui audierit sonitum tubæ, fistulæ, et citharæ, sambucæ, et psalterii, et symphoniæ, et universi generis musicorum prosternat se, et adoret statuam auream :",
+      "french": "Vous avez fait une ordonnance, ô Roi, que tout homme au moment qu’il entendrait le son de la trompette, de la flûte, de la harpe, du haut-bois, de la lyre, et des concerts de toute sorte de musiciens, se prosternât en terre, et adorât la statuë d’or ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Si quis autem non procidens adoraverit, mittatur in fornacem ignis ardentis.",
+      "french": "Et que si quelqu’un ne se prosternait pas, et ne l’adorait point, il serait jetté au milieu des flammes de la fournaise.",
+      "annotations": null,
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Sunt ergo viri Judæi, quos constituisti super opera regionis Babylonis, Sidrach, Misach, et Abdenago : viri isti contempserunt, rex, decretum tuum : deos tuos non colunt, et statuam auream, quam erexisti, non adorant.",
+      "french": "Cependant ceux des Juifs, à qui vous avez donné l’intendance des ouvrages de la Province de Babylone, Sidrach, Misach, et Abdénago, méprisent, ô Roi, votre ordonnance ; ils n’honorent point vos Dieux, et ils n’adorent point la statuë d’or que vous avez dressée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Tunc Nabuchodonosor in furore, et in ira præcepit ut adducerentur Sidrach, Misach, et Abdenago : qui confestim adducti sunt in conspectu regis.",
+      "french": "Alors Nabuchodonosor plein de furie et de colère, commanda qu’on amenât devant lui, Sidrach, Misach, et Abdénago, qui furent amenez aussi-tôt devant le Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Pronuntiansque Nabuchodonosor rex, ait eis : Verène Sidrach, Misach, et Abdenago, deos meos non colitis, et statuam auream, quam constitui, non adoratis ?",
+      "french": "Et le Roi Nabuchodonosor leur dit ces Paroles : Est-il vrai, Sidrach, Misach, et Abdénago, que vous n’honorez point mes Dieux, et que vous n’adorez point la statuë que j’ai dressée ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Nunc ergo si estis parati, quâcumque horâ audieritis sonitum tubæ, fistulæ, citharæ, sambucæ, et psalterii, et symphoniæ, omnisque generis musicorum, prosternite vos, et adorate statuam quam feci : quòd si non adoraveritis, eâdem horâ mittemini in fornacem ignis ardentis : et quis est Deus, qui eripiet vos de manu mea ?",
+      "french": "Maintenant donc, si vous êtes prêts de m’obéir, au moment que vous entendrez le son de la trompette, de la flûte, de la harpe, du haut-bois, de la lyre, et des concerts de toute sorte de musiciens, prosternez-vous en terre, et adorez la statuë que j’ai faite. Que si vous ne l’adorez pas, vous serez jetez au même moment au milieu des flammes de la fournaise. Et qui est le Dieu qui vous puisse arracher d’entre mes mains ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Respondentes Sidrach, Misach, et Abdenago, dixerunt regi Nabuchodonosor : Non oportet nos de hac re respondere tibi.",
+      "french": "Sidrach, Misach, et Abdénago répondirent au Roi Nabuchodonosor : Il n’est pas besoin, ô Roi, que nous vous répondions sur ce sujet :",
+      "annotations": null,
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Ecce enim Deus noster, quem colimus, potest eripere nos de camino ignis ardentis, et de manibus tuis, ô Rex, liberare.",
+      "french": "Car nostre Dieu, le Dieu que nous adorons, peut certainement nous retirer du milieu des flammes de la fournaise et nous délivrer, ô Roi, d’entre vos mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Quòd si noluerit, notum sit tibi, Rex, quia deos tuos non colimus, et statuam auream, quam erexisti, non adoramus.",
+      "french": "Que s’il ne veut pas le faire, nous vous déclarons, ô Roi, que nous n’honorons point vos Dieux, et que nous n’adorons point la statuë d’or que vous avez fait élever.",
+      "annotations": null,
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Tunc Nabuchodonosor repletus est furore : et aspectus faciei illius immutatus est super Sidrach, Misach, et Abdenago, et præcepit ut succenderetur fornax septuplùm quàm succendi consueverat.",
+      "french": "Alors Nabuchodonosor fut rempli de fureur ; il changea de visage, et il regarda d’un œil de colère Sidrach, Misach, et Abdénago : il commanda qu’on allumât le feu de la fournaise sept fois plus qu’il n’avait accoutumé de l’être.",
+      "annotations": null,
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et viris fortissimis de exercitu suo jussit, ut ligatis pedibus Sidrach, Misach, et Abdenago, mitterent eos in fornacem ignis ardentis.",
+      "french": "Il donna ordre à quelques-uns des plus forts soldats de son armée de lier les pieds à Sidrach, Misach, et Abdénago, et de les jeter ainsi au milieu de la fournaise.",
+      "annotations": null,
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Et confestim viri illi vincti, cum braccis suis, et tiaris, et calceamentis, et vestibus missi sunt in medium fornacis ignis ardentis.",
+      "french": "En même-temps ces trois hommes furent liez, et jetez au milieu des flammes de la fournaise, avec leurs chausses, leurs thiares, leur chaussure, et leurs habits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Nam jussio regis urgebat : fornax autem succensa erat nimis. Porrò viros illos, qui miserant Sidrach, Misach, et Abdenago, interfecit flamma ignis.",
+      "french": "Car le commandement du Roi pressait fort. Et comme la fournaise était extraordinairement embrasée, les flammes du feu étoufférent les hommes qui y avaient jetté Sidrach, Misach, et Abdénago.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Viri autem hi tres, id est Sidrach, Misach, et Abdenago, ceciderunt in medio camino ignis ardentis, colligati.",
+      "french": "Cependant ces trois hommes, Sidrach, Misach, et Abdénago tombérent tous liez au milieu des flammes de la fournaise.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et ambulabant in medio flammæ laudantes Dñm, et benedicentes Domino.",
+      "french": "Ils marchaient au milieu de la flamme, louant Dieu, et bénissant le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Stans autem Azarias oravit sic : aperiensque os suum in medio ignis, ait :",
+      "french": "Alors Azarias se tenant debout, prononça cette prière au milieu du feu, et il dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Benedictus es, Domine Deus patrum nostrorum, et laudabilis, et gloriosum nomen tuum in sæcula ;",
+      "french": "Soyez béni, Seigneur Dieu de nos pères, et que votre nom soit loué, et glorifié dans tous les siècles ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Quia justus es in omnibus quæ fecisti nobis, et universa opera tua vera, et viæ tuæ rectæ, et omnia judicia tua vera.",
+      "french": "Parce que vous êtes juste dans tout ce que vous nous avez fait, que toutes vos œuvres sont fondées dans l’équité, que vos voies sont droites, et que tous vos jugements sont justes et véritables.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Judicia enim vera fecisti, juxta omnia quæ induxisti super nos, et super civitatem sanctam patrum nostrorum Jerusalem : quia in veritate, et in judicio, induxisti omnia hæc propter peccata nostra.",
+      "french": "Vos jugements ont été très équitables dans tous les maux que vous avez fait fondre sur nous, et sur Jérusalem la Cité sainte de nos pères ; parce que vous nous avez envoyé tous ces châtiments dans la vérité et dans la justice, à cause de nos péchés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Peccavimus enim, et iniquè egimus recedentes à te : et deliquimus in omnibus.",
+      "french": "Car nous avons péché, et nous sommes tombez dans l’iniquité en nous retirant de vous ; et nous avons manqué en toutes choses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et precepta tua non audivimus, nec observavimus, nec fecimus sicut preceperas nobis, ut benè nobis eßet.",
+      "french": "Nous n’avons point écouté vos ordonnances ; nous ne les avons point observées ; et nous ne les avons point gardées comme vous nous l’aviez commandé, afin que nous fussions heureux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Omnia ergo que induxisti super nos, et universa que fecisti nobis, in vero judicio fecisti.",
+      "french": "Ainsi c’est par une justice très véritable que vous nous avez envoyé ces châtiments, que vous nous avez fait souffrir tous ces maux,",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et tradidisti nos in manibus inimicorum nostrorum iniquorum, et pessimorum, prevaricatorúmque, et regi injusto, et pessimo ultrà omnem terram.",
+      "french": "Et que vous nous avez livrez entre les mains de nos ennemis, qui sont des injustes, des scélérats, et des prévaricateurs de votre Loi : et entre les mains d’un Roi qui est le plus injuste, et le plus méchant qui soit sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Et nunc non possumus aperire os : confusio, et opprobrium facti sumus servis tuis, et his qui colunt te.",
+      "french": "Et maintenant nous n’osons pas ouvrir la bouche, et nous sommes devenus un sujet de confusion et de honte à vos serviteurs, et à ceux qui vous adorent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Ne, quesumus, tradas nos in perpetuum propter nomen tuum, et ne dissipes testamentum tuum.",
+      "french": "Ne nous abandonnez pas, Seigneur, pour jamais, nous vous en conjurons à cause de votre nom ; ne détruisez pas votre alliance,",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Neque auferas misericordiam tuam à nobis propter abraham dilectum tuum, et Isaac servum tuum, et Israel sanctum tuum.",
+      "french": "Et ne retirez pas de nous votre miséricorde, en considération d’Abraham votre bien-aimé, d’Isaac votre serviteur, et d’Israël votre saint.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Quibus locutus es pollicens quòd multiplicares semen eorum sicut stellàs Cœli, et sicut arenam quæ in littore maris :",
+      "french": "Ausquels vous avez promis que vous multiplieriez leur race comme les étoiles du Ciel ; et comme le sable qui est sur le rivage de la mer :",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Quia, Domine, imminuti sumus plus quàm omnes gentes, sumusque humiles in universa terra hodie propter peccata nostra.",
+      "french": "Car nous sommes au contraire réduits à un plus petit nombre que toutes les autres nations : et nous sommes aujourd’hui humiliez dans toute la terre, à cause de nos péchés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Et non est in tempore hoc Princeps, et Dux, et Propheta, neque holocaustum, neque sacrificium, neque oblatio, neque incensum, neque locus primitiarum coram te,",
+      "french": "Et il n’y a plus maintenant parmi nous ni de Prince, ni de Chef, ni de Prophète, ni holocauste, ni sacrifice, ni oblations, ni encens, ni de lieu pour vous offrir nos prémices.",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Ut possimus invenire misericordiam tuam : sed in animo contrito, et spiritu humilitatis suscipiamur,",
+      "french": "Afin que nous puissions avoir part à votre miséricorde. Mais recevez-nous, Seigneur, dans un cœur contrit, et dans un esprit humilié.",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Sicut in holocausto arietum, et taurorum, et sicut in millibus agnorum pinguium : sic fiat sacrificium nostrum in conspectu tuo hodie, ut placeat tibi : quoniam non est confusio confidentibus in te.",
+      "french": "Que notre sacrifice se consomme aujourd’hui devant vous, et qu’il vous soit agréable comme si nous vous offrions des holocaustes de béliers, et de taureaux, et de mille agneaux gras ; parce que ceux qui mettent leur confiance en vous, ne tomberont point dans la confusion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Et nunc sequimur te in toto corde, et timemus te, et quærimus faciem tuam.",
+      "french": "Et maintenant nous vous suivons de tout notre cœur, nous vous craignons, et nous recherchons votre face.",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Ne confundas nos : sed fac nobiscum juxta mansuetudinem tuam, et secundùm multitudinem misericordiæ tuæ.",
+      "french": "Ne nous confondez pas ; mais traitez-nous selon votre douceur, et selon la multitude de vos miséricordes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Et erue nos in mirabilibus tuis, et da gloriam nomini tuo, Domine :",
+      "french": "Délivrez-nous par les merveilles de votre puissance, et donnez, Seigneur, gloire à votre nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Et confundantur omnes qui ostendunt servis tuis mala, confundantur in omni potentiâ tuâ, et robur eorum conteratur :",
+      "french": "Que tous ceux qui font souffrir des maux à vos serviteurs saient confondus ; qu’ils saient confondus par votre toute-puissance ; que leur force soit réduite en poudre ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Et sciant quia tu es Dominus Deus solus, et gloriosus super orbem terrarum.",
+      "french": "Et qu’ils sachent que c’est vous seul qui êtes le Seigneur, le Dieu, et le Roi de gloire sur toute la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Et non cessabant qui miserant eos ministri Regis succendere fornacem naphthâ, et stupâ, et pice, et malleolis.",
+      "french": "Cependant les serviteurs du Roi qui avaient jetté ces trois jeunes hommes dans le feu, ne cessaient point d’allumer la fournaise avec du bitume, de l’étoupe, de la poix, et du sarment ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Et effundebatur flamma super fornacem cubitis quadraginta novem.",
+      "french": "Et la flamme s’élevait quarante-neuf coudées de haut au dessus de la fournaise ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Et erupit, et incendit quos reperit juxta fornacem de Chaldæis.",
+      "french": "Et s’étant élancée dehors, elle brûla les Chaldéens qu’elle trouva les plus proches de la fournaise.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Angelus autem Domini descendit cum Azaria, et sociis ejus, in fornacem : et excussit flammam ignis de fornace,",
+      "french": "Or l’Ange du Seigneur était descendu vers Azarias, et ses Compagnons dans la fournaise ; et écartant les flammès,",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Et fecit medium fornacis quasi ventum roris flantem, et non tetigit eos omninò ignis, neque contristavit, nec quidquam molestiæ intulit.",
+      "french": "il avait formé au milieu de la fournaise un vent frais, et une douce rosée, et le feu ne les toucha en aucune sorte ; il ne les incommoda point, et il ne leur fit aucune peine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Tunc hi tres quasi ex uno ore laudabant, et glorificabant, et benedicebant Deum in fornace, dicentes :",
+      "french": "Alors ces trois hommes louaient Dieu dans la fournaise, et le glorifiaient, et le benissaient d’une même bouche, en disant :",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Benedictus es, Domine, Deus patrum nostrorum : et laudabilis, et gloriosus, et superexaltatus in sæcula, et benedictum nomen gloriæ tuæ sanctum : et laudabile, et superexaltatum in omnibus sæculis.",
+      "french": "Vous êtes beni, Seigneur, Dieu de nos pères ; vous êtes digne de toutes louanges, et vous êtes plein de gloire, et élevé au-dessus de tout dans tous les siècles : le saint nom de votre gloire est béni ; il est digne de toute louange, et élevé au dessus de tout dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Benedictus es in templo sancto gloriæ tuæ : et superlaudabilis, et supergloriosus in sæcula.",
+      "french": "Vous êtes beni dans le temple saint de votre gloire, et élevé au-dessus de toute louange, et de toute gloire dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Benedictus es in throno regni tui : et superlaudabilis, et superexaltatus in sæcula.",
+      "french": "Vous êtes beni dans le trône de votre Royaume, et élevé au-dessus de toute louange, et au-dessus de toute gloire dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Benedictus es, qui intueris abyssos, et sedes super Cherubim : et laudabilis, et superexaltatus in sæcula.",
+      "french": "Vous êtes beni, vous qui voyez le fond des abîmes, et qui êtes assis sur les Chérubins : et vous êtes digne de toute louange, et élevé au-dessus de toute gloire dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "Benedictus es in firmamento cœli : et laudabilis, et gloriosus in sæcula.",
+      "french": "Vous êtes beni dans le firmament du Ciel, et vous êtes digne de toute louange, et de toute gloire dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 57,
+      "latin": "Benedicite omnia opera Domini Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Ouvrages du Seigneur, bénissez tous le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 58,
+      "latin": "Benedicite Angeli Domini Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Anges du Seigneur, bénissez le Seigneur ; louez-le, et relevez la souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 59,
+      "latin": "Benedicite Cœli Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Cieux, benissez le Seigneur ; louez-le, et relevez la souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 60,
+      "latin": "Benedicite aquæ omnes, quæ super cœlos sunt, Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Eaux qui êtes au-dessus des Cieux, bénissez toutes le Seigneur : louez le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 61,
+      "latin": "Benedicite omnes virtutes Domini Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Puissances, et Vertus du Seigneur, beniffez toutes le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 62,
+      "latin": "Benedicite sol et luna Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Soleil et Lune, beniffez le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 63,
+      "latin": "Benedicite stellæ cœli Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Etoiles du Ciel, beniffez le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 64,
+      "latin": "Benedicite omnis imber, et ros Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Pluies et rosées, beniffez toutes le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 65,
+      "latin": "Benedicite omnes spiritus Dei Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Vents et souffles de Dieu, beniffez tous le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 66,
+      "latin": "Benedicite ignis, et æstus Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Feux et chaleurs de l’été, beniffez le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 67,
+      "latin": "Benedicite frigus, et æstus Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Froids et rigueurs de l’hiver, benissez le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 68,
+      "latin": "Benedicite rores, et pruina Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Rofées et bruines, benissez le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 69,
+      "latin": "Benedicite gelu, et frigus Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Gelées et froidures, benissez le Seigneur, louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 70,
+      "latin": "Benedicite glacies, et nives Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Glaces et neiges, benissez le Seigneur, louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 71,
+      "latin": "Benedicite noctes, et dies Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Nuits et jours, benissez le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 72,
+      "latin": "Benedicite lux, et tenebræ Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Lumière et ténèbres, benissez le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 73,
+      "latin": "Benedicite fulgura, et nubes Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Eclairs et nuages, benissez le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 74,
+      "latin": "Benedicat terra Dominum : laudet, et superexaltet eum in sæcula.",
+      "french": "Que la terre benisse le Seigneur ; qu’elle le loue, et qu’elle releve sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 75,
+      "latin": "Benedicite montes, et colles Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Montagnes et colines, benissez le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 76,
+      "latin": "Benedicite universa germinantia in terra Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Plantes qui naissez de la terre, benissez toutes le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 77,
+      "latin": "Benedicite fontes Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Fontaines, benissez le Seigneur, louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 78,
+      "latin": "Benedicite maria, et flumina Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Mers et fleuves, benissez le Seigneur, louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 79,
+      "latin": "Benedicite cete, et omnia quæ moventur in aquis, Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Baleines et poissons qui vivez dans les eaux, benissez tous le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 80,
+      "latin": "Benedicite omnes volucres cæli Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Oiseaux du Ciel, benissez tous le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 81,
+      "latin": "Benedicite omnes bestiæ, et peco-ra Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Bêtes, soit privées, ou sauvages, benissez toutes le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 82,
+      "latin": "Benedicite filii hominum Domino : laudate et superexaltate eum in sæcula.",
+      "french": "Enfants des hommes, benissez le Seigneur ; louez-le, et relevez sa grandeur souveraine dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 83,
+      "latin": "Benedicat Israël Dominum : laudet, et superexaltet eum in sæcula.",
+      "french": "Qu’Israël benisse le Seigneur ; qu’il le loué, et qu’il releve sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 84,
+      "latin": "Benedicite sacerdotes Domini Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Prêtres du Seigneur, benissez le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 85,
+      "latin": "Benedicite servi Domini Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Serviteurs du Seigneur, benissez le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 86,
+      "latin": "Benedicite spiritus, et animæ justorum Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Esprits et âmes des justes, benissez le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 87,
+      "latin": "Benedicite sancti, et humiles corde Domino : laudate, et superexaltate eum in sæcula.",
+      "french": "Vous qui êtes saints, et humbles de cœur, benissez le Seigneur ; louez-le, et relevez sa souveraine grandeur dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 88,
+      "latin": "Benedicite Anania, Azaria, Misael Domino : laudate, et superexaltate eum in sæcula. Quia eruit nos de inferno, et salvos fecit de manu mortis : et liberavit nos de medio ardentis flammæ, et de medio ignis eruit nos.",
+      "french": "Ananias, Azarias, et Misaël, benissez le Seigneur ; louez-le, et relevez sa souveraine grandeur d’ans tous les siècles ; parce qu’il nous a préservez du tombeau, qu’il nous a sauvez de la puissance de la mort, qu’il nous a délivrez du milieu des flammes ardentes, et nous a tirez du milieu du feu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 89,
+      "latin": "Confitemini Domino, quoniam bonus : quoniam in sæculum misericordia ejus.",
+      "french": "Rendez grâces au Seigneur, parce qu’il est bon ; parce que sa miséricorde s’étend dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 90,
+      "latin": "Benedicite omnes religiosi Domino Deo Deorum : laudate, et confitemini ei ; quia in omnia sæcula misericordia ejus.",
+      "french": "Vous qui êtes religieux, et craignant Dieu, benissez le Seigneur le Dieu des Dieux ; louez-le, et rendez-lui des actions de grâces ; parce que sa miséricorde s’étend dans la suite de tous les siècles.",
+      "annotations": "Hucufque in Hebræo non habetur ; et quæ posuimus, de Theodotionis editione translata sunt. Ce qui a été mis jusqu’ici ne se trouve point dans l’Hébreu, et a été pris de la traduction de Théodotion. Cette remarque est de S. Jérôme.",
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 91,
+      "latin": "Tunc Nabuchodonosor Rex obstupuit, et surrexit properè, et ait optimatibus suis : Nónne tres viros misimus in medium ignis compedites ? qui respondentes Regi, dixerunt : Verè, Rex.",
+      "french": "Alors le Roi Nabuchodonosor fut frappé d’étonnement ; il se leva tout d’un coup, et dit aux Grands de sa Cour : N’avons-nous pas jetté trois hommes liez au milieu du feu ? Ils répondirent au Roi : Oui, Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 92,
+      "latin": "Respondit, et ait : Ecce ego video quatuor viros solutos, et ambulantes in medio ignis, et nihil corruptionis in eis est, et species quarti similis Filio Dei.",
+      "french": "Nabuchodonosor leur dit : J’en vois quatre néanmoins qui marchent déliez au milieu du feu, qui sont incorruptibles dans les flammes, et dont le quatrième est semblable au Fils de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 93,
+      "latin": "Tunc accessit Nabuchodonosor ad ostium fornacis ignis ardentis, et ait : Sidrach, Misach, et Abdenago, servi Dei excelsi, egredimini, et venite. Statimque egressi sunt Sidrach, Misach, et Abdenago de medio ignis.",
+      "french": "Alors Nabuchodonosor s’étant approché de la porte de la fournaise ardente, dit : Sidrach, Misach, et Abdénago, serviteurs du Dieu Très-Haut, sortez, et venez. Aussi-tôt Sidrach, Misach, et Abdénago sortirent du milieu, du feu :",
+      "annotations": null,
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 94,
+      "latin": "Et congregati satrapæ, et magistratus, et judices, et potentes Regis, contemplabantur viros illos, quoniam nihil potestatis habuisset ignis in corporibus eorum, et capillus capitis eorum non esset adustus, et sarabala eorum non fuissent immutata, et odor ignis non transisset per eos.",
+      "french": "Et les Satrapes, les premiers Officiers, les Juges, et les Grands de la Cour du Roi, regardaient attentivement ces jeunes hommes, voyant que le feu n’avait eu aucun pouvoir sur leur corps, qu’un seul cheveu de leur tête n’en avait été brûlé, qu’il n’en paraissait aucune trace sur leurs vêtements, et que l’odeur même du feu n’était pas venue jusqu’à eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 95,
+      "latin": "Et erumpens Nabuchodonosor, ait : Benedictus Deus eorum, Sidrach videlicet, Misach, et Abdenago, qui misit Angelum suum, et eruit servos suos, qui crediderunt in eum : et verbum Regis immutaverunt, et tradiderunt corpora sua, ne servirent, et ne adorarent omnem deum, excepto Deo suo.",
+      "french": "Alors Nabuchodonosor étant comme hors de lui-même, s’écria : Beni soit leur Dieu, le Dieu de Sidrach, de Misach, et d’Abdenago, qui a envoyé son Ange, et a délivré ses serviteurs qui ont cru en lui, qui ont résisté au commandement du Roi, et qui ont abandonné leur corps pour ne se point rendre esclaves, et pour n’adorer aucun autre Dieu que le seul Dieu qu’ils adorent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 96,
+      "latin": "A me ergo positum est hoc decretum, ut omnis populus, tribus, et lingua quæcumque locuta fuerit blasphemiam contra Deum Sidrach, Misach, et Abdenago, dispereat, et domus ejus vastetur : neque enim est alius Deus, qui possit ita salvare.",
+      "french": "Voici donc l’ordonnance que je fais : Que tout homme de quelque peuple, de quelque tribu, et de quelque langue qu’il puisse être, qui aura proféré un blasphême contre le Dieu de Sidrach, de Misach, et d’Abdénago, périsse, et que sa maison soit détruite ; parce qu’il n’y a point d’autre Dieu qui puisse sauver que celui-là.",
+      "annotations": null,
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 97,
+      "latin": "Tunc Rex promovit Sidrach, Misach, et Abdenago in provincia Babylonis.",
+      "french": "Alors le Roi éleva en dignité Sidrach, Misach, et Abdénago dans la Province de Babylone.",
+      "annotations": null,
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 98,
+      "latin": "NABUCHODONOSOR Rex, omnibus populis, gentibus, et linguis, qui habitant in universa terra, pax vobis multiplicetur.",
+      "french": "Le Roi Nabuchodonosor, à tous les peuples, et à toutes les nations, quelque langue qu’elles parlent dans toute la terre : que la paix s’établisse en vous de plus en plus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 99,
+      "latin": "Signa, et mirabilia fecit apud me Deus excelsus. Placuit ergo mihi prædicare.",
+      "french": "Le Dieu Très-Haut a fait des prodiges, et des merveilles dans mon Royaume.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 100,
+      "latin": "Signa ejus, quia magna sunt : et mirabilia ejus, quia fortia : et regnum ejus regnum sempiternum, et potestas ejus in generationem et generationem.",
+      "french": "J’ai donc résolu de publier ses prodiges, parce qu’ils sont grands ; et ses merveilles, parce qu’elles sont étonnantes : car son Royaume est un Royaume éternel, et sa puissance s’étend dans la suite de tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    }
+  ]
+}

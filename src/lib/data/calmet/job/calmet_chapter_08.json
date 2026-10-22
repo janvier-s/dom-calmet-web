@@ -5,7 +5,7 @@
       "sub": false,
       "latin_lemma": "Baldad, Suhites.",
       "lemma": null,
-      "text": "Baldad de Suë. Voyez ci-devant, Chapitre II. ℣. II."
+      "text": "Baldad de Suë. Voyez ci-devant, chapitre 2:2."
     },
     {
       "verse": 2,
@@ -40,7 +40,7 @@
       "sub": false,
       "latin_lemma": "pacatum reddet habitaculum justitiæ tuæ.",
       "lemma": "Il récompensera votre justice par la paix qu’il fera régner dans votre maison.",
-      "text": "Ou plutôt : _Il vous rétablira paisible dans votre demeure, si vous pratiquez la justice. Si votre demeure est une maison de justice, elle sera aussi une maison de paix, de bonheur, de prospérité._"
+      "text": "Ou plutôt : Il vous rétablira paisible dans votre demeure, si vous pratiquez la justice. Si votre demeure est une maison de justice, elle sera aussi une maison de paix, de bonheur, de prospérité."
     },
     {
       "verse": 8,
@@ -61,7 +61,7 @@
       "sub": false,
       "latin_lemma": "numquid vivere potest scirpus absque humore ? aut crescere carectum sine aqua ?",
       "lemma": "Le jonc peut-il reverdir sans humidité ? Ou l’herbe du pré peut-elle croître sans eau ?",
-      "text": "L’Hébreu : [3] _Le jonc verdira-t-il, s’il n’est dans un lieu marécageux ; et le roseau, s’il n’a de l’eau ?_ Les Septante : [4] _Ou la prairie sans eau ?_ Ainsi la prospérité qui n’est point fondée sur la justice, ne peut subsister, ni s’accroître. Au lieu de _carectum_ ; les Manuscrits de S. Jérôme portent _biblus_, qui se prend aussi pour un jonc."
+      "text": "L’Hébreu : [3] _Le jonc verdira-t-il, s’il n’est dans un lieu marécageux ; et le roseau, s’il n’a de l’eau ?_ Les Septante : [4] _Ou la prairie sans eau ?_ Ainsi la prospérité qui n’est point fondée sur la justice, ne peut subsister, ni s’accroître. Au lieu de _carectum_ ; les Manuscrits de saint Jérôme portent _biblus_, qui se prend aussi pour un jonc."
     },
     {
       "verse": 12,
@@ -81,8 +81,8 @@
       "verse": 15,
       "sub": false,
       "latin_lemma": "innitetur super domum suam, et non stabit.",
-      "lemma": "Il se voudra appuyer sur sa maison, et elle n’aura point de fermeté. L’araignée voudra se reposer sur sa toile, qu’il a appelée sa maison au ℣. 14. mais cette maison sera renversée, et l’entraînera dans sa chute.",
-      "text": "J’aime mieux l’entendre de l’hypocrite, qui veut s’appuyer sur sa maison, sur ses biens, sur ses richesses, et qui n’y trouve aucune solidité. Dieu renversera sa maison, malgré toutes les précautions que l’impie prendra pour la soutenir. Il est contre l’expérience que l’araignée ne soit pas portée, et soutenue par sa toile ; celle-ci est toujours assez forte pour porter l’insecte qui l’a faite : mais une maison qui n’a pas plus de solidité que des toiles d’araignée, n’est nullement propre à loger un homme, quelque soin qu’il apporte à la soutenir, et à l’affermir."
+      "lemma": "Il se voudra appuyer sur sa maison, et elle n’aura point de fermeté.",
+      "text": "L’araignée voudra se reposer sur sa toile, qu’il a appelée sa maison au ℣. 14. mais cette maison sera renversée, et l’entraînera dans sa chute. J’aime mieux l’entendre de l’hypocrite, qui veut s’appuyer sur sa maison, sur ses biens, sur ses richesses, et qui n’y trouve aucune solidité. Dieu renversera sa maison, malgré toutes les précautions que l’impie prendra pour la soutenir. Il est contre l’expérience que l’araignée ne soit pas portée, et soutenue par sa toile ; celle-ci est toujours assez forte pour porter l’insecte qui l’a faite : mais une maison qui n’a pas plus de solidité que des toiles d’araignée, n’est nullement propre à loger un homme, quelque soin qu’il apporte à la soutenir, et à l’affermir."
     },
     {
       "verse": 16,
@@ -99,10 +99,17 @@
       "text": ""
     },
     {
+      "verse": 20,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "celui qui est simple.",
+      "text": "Ou, suivant l’hébreu : [11] _Il ne méprisera point celui qui est parfait,_ irréprochable, sans défauts ; le juste, l’homme vraiment pieux."
+    },
+    {
       "verse": 21,
       "sub": false,
       "latin_lemma": "donec impleatur risu os tuum.",
-      "lemma": "Jusqu’à ce que la joie se répande sur votre visage",
+      "lemma": "Jusqu’à ce que la joie se répande sur votre visage.",
       "text": "Le Seigneur ne vous abandonnera pas, si vous vivez dans la justice ; il vous rétablira dans votre premier état, et vous rendra la joie, et la paix dont vous jouissiez auparavant. celui qui est simple. Ou, suivant l’Hébreu :[11] il ne méprisera point celui qui est parfait, irreprochable, sans défauts ; le juste, l’homme vraiment pieux."
     }
   ],
@@ -110,15 +117,15 @@
     {
       "seam": "page_0145>page_0146",
       "verse": 3,
-      "mode": "mend",
-      "before": "leur péché ; mais il les éprouve, et augmente leur mérite.",
+      "mode": "flow",
+      "before": " leur péché ; mais il les éprouve, et augmente leur mérite",
       "after": "par des maux temporels, qui sont plutôt des faveurs de sa "
     },
     {
       "seam": "page_0146>page_0147",
       "verse": 6,
       "mode": "splice",
-      "before": "Ou plutôt : _Il vous rétablira paisible dans votre demeu-",
+      "before": "Ou plutôt : Il vous rétablira paisible dans votre demeu-",
       "after": "re, si vous pratiquez la justice. Si votre demeure est une"
     },
     {
@@ -156,12 +163,12 @@
     {
       "key": "page_0145-a",
       "n": 1,
-      "text": "Hebr. רוח כביר Ventus vehemens. 70. Πνεῦμα πολὺ ῥῆμα. Th. Πνεῦμα βαρύλαλον. Un vent trés-violent."
+      "text": "Hebr. רוח כביר Ventus vehemens. 70. Πνεῦμα πολὺ ῥῆμα. Th. Πνεῦμα βαρύλαλον. Un vent très violent."
     },
     {
       "key": "page_0145-b",
       "n": 2,
-      "text": "Job 4,7. _Quis unquam innocens periit ?_"
+      "text": "Job 4,7. _Quis unquam innocents periit ?_"
     },
     {
       "key": "page_0147-a",
@@ -206,7 +213,7 @@
     {
       "key": "page_0151-a",
       "n": 11,
-      "text": "הן* אל* לא ימאס תם"
+      "text": "הן אל לא ימאס תם"
     }
   ],
   "missing_footnotes": []

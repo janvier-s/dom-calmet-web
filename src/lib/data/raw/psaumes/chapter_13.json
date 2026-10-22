@@ -1,0 +1,96 @@
+{
+  "book": "Psaumes",
+  "chapter": 13,
+  "chapter_summary": "Sentiments des Athées et des Impies, qui nient la Providence. Le Seigneur les remplira de frayeur ; il protégera le pauvre, et rappellera son Peuple de la captivité.\nIn finem, Psalmus David. | Pour la fin, Psaume de David.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 2,
+      "latin": "Corrupti funt, et abominabiles facti funt in studiis suis : non est qui faciat bonum, non est usque ad unum.",
+      "french": "Ils se sont corrompus ; et sont devenus abominables dans toutes leurs affections, et leurs désirs. Il n’y en a point qui fasse le bien ; il n’y en a pas un seul.",
+      "annotations": null,
+      "source_pages": [
+        "page_0205.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Dominus de cœlo prospexit super filios hominum, ut videat si est intelligens, aut requirens Deum.",
+      "french": "Le Seigneur a regardé du haut du Ciel sur les enfants des hommes, afin de voir s’il en trouvera quelqu’un qui ait l’intelligence, ou qui cherche Dieu.",
+      "source_pages": [
+        "page_0206.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Omnes declinaverunt, simul inutiles facti sunt : non est qui faciat bonum, non est usque ad unum.",
+      "french": "Mais tous se sont détournés de la droite voie, ils sont tous devenus inutiles. Il n’y en a point qui fasse le bien, il n’y en a pas un seul.",
+      "source_pages": [
+        "page_0206.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Sepulchrum patens est guttur eorum : linguis suis dolosè agebant : venenum aspidum sub labiis eorum.",
+      "french": "Leur gosier est comme un sépulcre ouvert : ils se servent de leurs langues pour tromper : le venin des aspics est sous leurs lèvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0207.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Quorum os maledictione et amaritudine plenum est : veloces pedes eorum ad effundendum sanguinem.",
+      "french": "Leur bouche est remplie de malédiction et d’amertume ; leurs pieds courent avec vitesse, pour répandre le sang.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Contritio et infelicitas in viis eorum, et viam pacis non cognoverunt : non est timor Dei ante oculos eorum.",
+      "french": "Toutes leurs voies ne tendent qu’à affliger, et qu’à opprimer les autres ; et ils n’ont point connu la voie de la paix : la crainte de Dieu n’est point devant leurs yeux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Nonne cognofcent omnes qui operantur iniquitatem, qui devorant plebem meam sicut escam panis ?",
+      "french": "Tous ces hommes, qui commettent l’iniquité, ne connoîtront-ils donc point enfin ma Justice ; eux qui dévorent mon peuple, ainsi qu’un morceau du pain ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Dominum non invocaverunt ; illic trepidaverunt timore, ubi non erat timor.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quoniam Dominus in generatione justa est, consilium inopis confudistis : quoniam Dominus spes ejus est.",
+      "french": "Parce que le Seigneur est dans la race des Justes ; vous avez renversé les desseins du pauvre ; mais le Seigneur est son espérance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0212.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Quis dabit ex Sion salutare Israël ? Cum averterit Dominus captivitatem plebis suæ, exultabit Jacob, et lætabitur Israël.",
+      "french": "Qui procurera du côté de Sion le salut d’Israël ? Quand le Seigneur aura rappelé son peuple de captivité, Jacob sera transporté de joie, et Israël d’allégresse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0213.json"
+      ]
+    }
+  ]
+}

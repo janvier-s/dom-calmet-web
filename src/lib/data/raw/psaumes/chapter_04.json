@@ -1,0 +1,107 @@
+{
+  "book": "Psaumes",
+  "chapter": 4,
+  "chapter_summary": "David implore le secours du Seigneur, qu’il a si souvent éprouvé. Il invite ses ennemis à la paix, et à rentrer en eux-mêmes. Il se repose entièrement dans le secours de Dieu.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem in carminibus, Psalmus David.",
+      "french": "Psaume de David pour la fin, sur les Cantiques.",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Cum invocarem, exaudivit me Deus justitia mea, in tribulatione dilatasti mihi.",
+      "french": "Dieu, qui est le principe de ma justice, m’a exaucé dans le temps que je l’invoquais. Lorsque j’étais resserré dans l’affliction, vous m’avez, mon Dieu, dilaté le cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Miserere mei, et exaudi orationem meam.",
+      "french": "Ayez pitié de moi ; et exaucez ma prière.",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Filii hominum usquequò gravi corde ? Ut quid diligitis vanitatem, et quæritis mendacium ?",
+      "french": "Jusqu’à quand, ô enfants des hommes, aurez-vous le cœur appésanti ? Pourquoi aimez-vous la vanité, et cherchez-vous le mensonge ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et scitote quoniam mirificavit Dominus sanctum suum : Dominus exaudiet me, cùm clamavero ad eum.",
+      "french": "Sachez donc que c’est le Seigneur qui a rempli son Saint d’une gloire admirable. Le Seigneur m’exaucera, quand je crierai vers lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Irascimini, et nolite peccare : quæ dicitis in cordibus vestris, in cubilibus vestris compungimini.",
+      "french": "Mettez-vous en colère ; mais gardez-vous de pécher. Soyez touchez de componction dans le repos de vos lits, sur les choses que vous méditez contre moi, au fond de vos cœurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Sacrificate sacrificium justitiæ, et sperate in Domino. Multi dicunt : Quis ostendit nobis bona ?",
+      "french": "Offrez à Dieu un sacrifice de justice ; et espérez au Seigneur. Plusieurs disent : Qui nous fera voir les biens que l’on nous promet ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Signatum est super nos lumen vultus tui, Domine : dedisti lætitiam in corde meo.",
+      "french": "La lumière de votre visage est gravée sur nous, Seigneur. Vous avez fait naître la joie dans mon cœur",
+      "annotations": null,
+      "source_pages": [
+        "page_0116.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "A fructu frumenti, vini, et olei sui, multiplicati sunt.",
+      "french": "Ils se sont accrus et enrichis par l’abondance de leurs fruits, de leur froment, de leur vin, et de leur huile.",
+      "annotations": null,
+      "source_pages": [
+        "page_0117.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "In pace, in-idipsum dormiam, et requiescam.",
+      "french": "Mais pour moi je dormirai en paix, et je jouirai d’un parfait repos.",
+      "annotations": null,
+      "source_pages": [
+        "page_0118.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quoniam tu, Domine, singulariter in spe constituisti me.",
+      "french": "Parce que vous m’avez, Seigneur, affermi d’une manière toute singulière dans l’espérance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0118.json"
+      ]
+    }
+  ]
+}

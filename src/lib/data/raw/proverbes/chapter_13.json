@@ -1,0 +1,217 @@
+{
+  "book": "Proverbes",
+  "chapter": 13,
+  "chapter_summary": "Diverses Sentences de morale. De l’enfant sage. Retenuë dans ses paroles. Du pauvre riche, et du riche pauvre. Des biens acquis trop promptement. Désirs du paresseux. Espérances differées. Châtier ses enfants, etc.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Filius sapiens, doctrina patris : qui autem illusor est, non audit, cùm arguitur.",
+      "french": "Le fils qui est sage, est attentif à la doctrine de son père : mais celui qui se moque, n’écoute point quand on le reprend.",
+      "annotations": null,
+      "source_pages": [
+        "page_0136.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "De fructu oris sui homo satiabitur bonis ; anima autem prævaricatorum iniqua.",
+      "french": "L’homme sera rassasié de biens par les fruits de sa bouche : l’âme des violateurs de la Loi, est pleine d’iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0137.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Qui custodit os suum, custodit animam suam : qui autem inconsideratus est ad loquendum, sentiet mala.",
+      "french": "Celui qui garde sa bouche, garde son âme : mais celui qui est inconsideré dans ses paroles, tombera dans beaucoup de maux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0137.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Vult, et non vult piger : anima autem operantium impinguabitur.",
+      "french": "Le paresseux veut, et ne veut pas : mais l’âme de ceux qui travaillent, s’engraissera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0137.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Justitia custodit innocentis viam : impietas autem peccatorum supplantat.",
+      "french": "La justice garde la voie de l’innocent ; l’iniquité fait tomber le pécheur dans le piège.",
+      "source_pages": [
+        "page_0139.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Est quasi dives, cùm nihil habeat : et est quasi pauper, cùm in multis divitiis sit.",
+      "french": "Tel paraît riche, qui n’a rien ; et tel paraît pauvre, qui est fort riche.",
+      "source_pages": [
+        "page_0139.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Redemptio animæ viri, divitiæ suæ : qui autem pauper est, increpationem non sustinet.",
+      "french": "Les richesses de l’homme, sont la rançon de sa vie ; mais celui qui est pauvre, ne peut résister aux menaces.",
+      "annotations": null,
+      "source_pages": [
+        "page_0140.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Lux justorum lætificat : lucerna autem impiorum extinguetur.",
+      "french": "La lumiere des justes donne de la joie ; la lampe des méchants s’éteindra.",
+      "annotations": null,
+      "source_pages": [
+        "page_0140.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Inter superbos semper jurgia sunt : qui autem agunt omnia cum consilio, reguntur sapientiâ.",
+      "french": "Il y a toujours des querelles entre les superbes ; mais ceux qui font tout avec conseil, sont conduits par la sagesse.",
+      "source_pages": [
+        "page_0141.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Substantia festinata minuetur : quæ autem paulatim colligitur manu, multiplicabitur.",
+      "french": "Le bien amassé à la hâte diminuera ; celui qui se recueille à la main, et peu à peu, se multipliera.",
+      "source_pages": [
+        "page_0141.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Spes quæ differtur, affligit animam : lignum vitæ desiderium veniens. Anima dolosa errant in peccatis : justi autem misericordes sunt, et miserantur.",
+      "french": "L’espérance différée afflige l’âme ; le désir accompli est comme l’arbre de vie. Les âmes trompeuses errent dans les péchés : les justes sont compatissants, et sont miséricorde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0142.json",
+        "page_0143.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Qui detrahit alicui rei, ipse se in futurum obligat : qui autem timet præceptum, in pace versabitur.",
+      "french": "Celui qui parle avec mépris de quelque chose, s’engage pour l’avenir ; mais celui qui craint le précepte, demeurera en paix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0142.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Lex sapientis fons vitæ, ut declinet à ruina mortis.",
+      "french": "La loi du sage est une source de vie, pour éviter la ruine de la mort.",
+      "source_pages": [
+        "page_0143.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Doctrina bona dabit gratiam : in itinere contemptorum vorago.",
+      "french": "La bonne doctrine attire la grâce : la voie des moqueurs méne au précipice.",
+      "source_pages": [
+        "page_0143.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Astutus omnia agit cum consilio : qui autem fatuus est, aperit stultitiam.",
+      "french": "L’homme habile fait tout avec conseil : mais l’insensé fait voir sa folie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0144.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Nuntius impii cadet in malum : legatus autem, fidelis sanitas.",
+      "french": "L’ambassadeur de l’impie tombera dans le mal ; mais celui qui est fidèle, est une source de santé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0144.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Egressus, et ignominia ei qui deserit disciplinam : qui autem acquiescit arguenti, glorificabitur.",
+      "french": "Celui qui se retire de la discipline, tombera dans l’indigence, et l’ignominie ; mais celui qui reçoit de bon cœur les repréhensions, sera élevé en gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0145.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Desiderium si compleatur, delectat animam : detestatur stulti eos qui fugiunt mala.",
+      "french": "L’accomplissement du désir est la joie de l’âme : les insensés détestent ceux qui fuient le mal.",
+      "annotations": null,
+      "source_pages": [
+        "page_0145.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Qui cum sapientibus graditur, sapiens erit : amicus stultorum similis efficietur.",
+      "french": "Celui qui marche avec les sages, deviendra sage : l’ami des insensés leur ressemblera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0146.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Peccatores persequitur malum : et justis retribuentur bona.",
+      "french": "Le mal poursuit les pécheurs : et les biens seront la récompense des justes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0146.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Bonus relinquit hæredes filios, et nepotes : et custoditur justo substantia peccatoris.",
+      "french": "L’homme vertueux laisse après lui des fils, et des petits-fils pour ses héritiers : et le bien du pécheur est réservé pour le juste.",
+      "source_pages": [
+        "page_0147.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Multi cibi in novalibus patrum : et aliis congregantur absque judicio.",
+      "french": "Les champs qui viennent des pères sont pleins de fruits ; mais on les amasse pour d’autres sans jugement.",
+      "source_pages": [
+        "page_0147.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Qui parcit virga, odit filium suum : qui autem diligit illum, instanter erudit.",
+      "french": "Celui qui épargne la verge, hait son fils ; mais celui qui l’aime, s’applique à le corriger.",
+      "annotations": null,
+      "source_pages": [
+        "page_0148.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Justus comedit, et replet animam suam : venter autem impiorum insaturabilis.",
+      "french": "Le juste mange, et se rassasie : le ventre des méchants est insatiable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0148.json"
+      ]
+    }
+  ]
+}

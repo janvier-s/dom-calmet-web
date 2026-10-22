@@ -1,0 +1,302 @@
+{
+  "book": "Proverbes",
+  "chapter": 14,
+  "chapter_summary": "Diverses Sentences de Morale. Antithèse entre la Sagesse et la folie, et les différents effets de l’une, et de l’autre.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Sapiens mulier ædificat domum suam : insipiens extructam quoque manibus destruet.",
+      "french": "A femme sage bâtit sa maison ; l’insensée détruit de ses mains celle qui était déjà bâtie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0149.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Ambulans recto itinere, et timens Deum, despicitur ab eo qui infami graditur viâ.",
+      "french": "Celui qui marche par un chemin droit, et qui craint Dieu, est méprisé de celui qui marche dans une voie infame.",
+      "annotations": null,
+      "source_pages": [
+        "page_0149.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "In ore stulti virga superbiæ : labia autem sapientum custodiunt eos.",
+      "french": "La langue de l’insensé, est une verge d’orgueil : les lèvres des sages les conservent.",
+      "source_pages": [
+        "page_0150.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Ubi non sunt boves, præsepe vacuum est : ubi autem plurimæ segetes, ibi manifesta est fortitudo bovis.",
+      "french": "Où il n’y a point de bœufs, la créche est vuide ; mais la force du bœuf paraît clairement, où l’on recueille beaucoup de bled.",
+      "source_pages": [
+        "page_0150.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Testis fidelis non mentitur : profert autem mendacium dolosus testis.",
+      "french": "Le témoin fidèle ne ment point ; mais le faux témoin publie le mensonge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0151.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Quærit derisor sapientiam, et non invenit : doctrina prudentium facilis.",
+      "french": "Le moqueur cherche la sagesse, et il ne la trouve point : l’homme prudent s’instruit sans peine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0151.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Vade contra virum stultum, et nescit labia prudentiæ.",
+      "french": "Marchez contre l’homme insensé ; et vous trouverez qu’il ne connaît point les paroles de prudence.",
+      "annotations": null,
+      "source_pages": [
+        "page_0152.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Sapientia callidi est intelligere viam suam : et imprudentia stultorum errans.",
+      "french": "La sagesse de l’homme habile, est de bien connaître les régles de sa conduite : l’imprudence des insensés est toujours errante.",
+      "annotations": null,
+      "source_pages": [
+        "page_0152.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Stultus illudet peccatum ; et inter justos morabitur gratia.",
+      "french": "L’insensé regarde le péché comme un jeu ; et les justes trouveront grâce.",
+      "source_pages": [
+        "page_0153.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Cor quod novit amaritudinem animæ suæ, in gaudio ejus non miscebitur extraneus.",
+      "french": "L’orsqu’un cœur sent bien l’amertume de son âme, l’étranger ne se mêlera point de lui donner de la joie.",
+      "source_pages": [
+        "page_0153.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Domus impiorum delebitur : tabernacula verò justorum germinabunt.",
+      "french": "La maison des méchants sera détruite : les tentes des justes seront florissantes.",
+      "source_pages": [
+        "page_0153.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Est via, quæ videtur homini justa : noviffima autem ejus deducunt ad mortem.",
+      "french": "Il y a une voie, qui paraît droite à l’homme, dont la fin néanmoins conduit à la mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Risus dolore miscebitur, et extrema gaudii luctus occupat.",
+      "french": "Le ris sera mêlé de douleur, et la tristesse succède à la joie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Vias suis replebitur stultus, et super eum erit vir bonus.",
+      "french": "L’insensé sera rassasié de ses voies, et l’homme vertueux le sera encore plus des biens qu’il a fait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0155.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Innocens credit omni verbo : astutus considerat gressus suos.\nFilio doloso nihil erit boni : servo autem sapienti prosperi erunt actus, et dirigetur via ejus.",
+      "french": "L’innocent croit tout ce qu’on lui dit ; l’homme habile considère tous ses pas.\nTout succède mal à l’enfant qui n’est point sincère : le serviteur sage travaille utilement, et il réüssira dans sa voie.",
+      "source_pages": [
+        "page_0156.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Sapiens timet, et declinat à malo : stultus transit, et confidit.",
+      "french": "Le sage craint, et se détourne du mal ; l’insensé passe outre, et se croit en sûreté.",
+      "source_pages": [
+        "page_0156.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Impatiens operabitur stultitiam : et vir versutus odiosus est.",
+      "french": "L’impatient fera des actions de folie ; et l’homme dissimulé se rend odieux.",
+      "source_pages": [
+        "page_0157.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Possidebunt parvuli stultitiam ; et expectabunt astuti scientiam.",
+      "french": "Les imprudents posséderont la folie ; et les hommes habiles attendront la science.",
+      "source_pages": [
+        "page_0157.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Jacebunt mali ante bonos ; et impii ante portas justorum.",
+      "french": "Les méchants seront couchez par terre devant les bons ; et les impies devant la porte des justes.",
+      "source_pages": [
+        "page_0157.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Etiam proximo suo pauper odiosus erit : amici verò divitum multi.",
+      "french": "Le pauvre sera odieux à ses proches mêmes ; mais les riches ont beaucoup d’amis.",
+      "source_pages": [
+        "page_0157.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Qui despicit proximum suum, peccat : qui autem miseretur pauperis, beatus erit.\nQui credit in Domino, misericordiam diligit.",
+      "french": "Celui qui méprise son prochain, péche ; mais celui qui a compassion du pauvre, sera bienheureux.\nCelui qui croit au Seigneur, aime la miséricorde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Errant qui operantur malum : misericordia et veritas præparant bona.",
+      "french": "Ceux qui s’appliquent à faire le mal, se trompent. C’est la miséricorde, et la vérité qui nous acquérent les biens.",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "In omni opere erit abundantia : ubi autem verba sunt plurima, ibi frequenter egestas.",
+      "french": "Par tout où l’on travaille, là est l’abondance ; mais où l’on parle beaucoup, l’indigence se trouve souvent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Corona sapientium, divitiæ corum : fatuitas sultorum, imprudentia.",
+      "french": "Les richesses des sages leur sont comme une couronne : la folie des insensés est toujours folie.",
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Liberat animas testis fidelis ; et profert mendacia virsipellis.",
+      "french": "Le témoin fidèle sauve la vie ; celui qui est double, publie des mensonges.",
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "In timore Domini fiducia fortitudinis ; et filiis ejus erit spes.",
+      "french": "Celui qui craint le Seigneur, est dans une confiance pleine de force ; et ses enfants auront sujet de bien espérer.",
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Timor Domini fons vitæ, ut declinent à ruina mortis.",
+      "french": "La crainte du Seigneur est une source de vie, pour éviter la chute qui donne la mort.",
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "In multitudine populi dignitas Regis ; et in paucitate plebis, ignominia Principis.",
+      "french": "la multitude du peuple est l’honneur du Roi ; et le petit nombre des sujets, est la honte du Prince.",
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Qui patiens est, multâ gubernatur prudentiâ : qui autem impatiens est, exaltat stultitiam suam.",
+      "french": "Celui qui est patient, se gouverne avec une grande prudence : mais l’impatient signale sa folie.",
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Vita carnium, sanitas cordis : putredo ossium invidia.",
+      "french": "Un cœur bien sain conserve la vie du corps ; l’envie cause la pourriture des os.",
+      "source_pages": [
+        "page_0159.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Qui calumniatur egentem, exprobrat factori ejus : honorat autem eum, qui miseretur pauperis.",
+      "french": "Celui qui opprime le pauvre, fait injure à celui qui l’a créé ; mais celui qui en a compassion, rend l’honneur à Dieu.",
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "In malitia sua expelletur impius : sperat autem justus in morte sua.",
+      "french": "L’impie sera rejetté dans sa malice ; et le juste au contraire espère au jour de sa mort.",
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "In corde prudentis requiescit sapientia ; et indoctos quoque erudiet.",
+      "french": "La sagesse repose dans le cœur de l’homme prudent ; et il instruira tous les ignorants.",
+      "source_pages": [
+        "page_0160.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Justitia elevat gentem : miseros autem facit populos peccatum.",
+      "french": "La justice éleve les nations ; et le péché rend les peuples miserables.",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Acceptus est Regi minister intelligens : iracundiam ejus inutilis sustinebit.",
+      "french": "Le ministre intelligent est aimé du Roi ; et celui qui est inutile ressentira sa colere.",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    }
+  ]
+}

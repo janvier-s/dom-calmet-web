@@ -1,0 +1,151 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "nisi quia Dominus erat in nobis, etc.",
+      "lemma": "Si-le Seigneur n’avait été avec nous, lorsque les hommes s’élevaient contre nous, peut-être nous auraient-ils dévorez tout vivants.",
+      "text": "Israël peut bien dire aujourd’hui que sans une bonté particulière de Dieu, ç’en était fait. Il était dévoré tout vivant ; il était perdu sans resource. _Forsitan_ en cet endroit, ne marque point le doute ; mais il est plutôt affirmatif, de même qu’en plusieurs autres endroits de l’Ecriture. [1] L’Hébreu : [2] _Alors ils nous auraient engloutis tout vivants_ ; ou, _il y a long-temps qu’ils nous auraient dévorez tout vivants_. Les Septante : [3] _Ils nous auraient donc_, ou, _ils nous auraient certainement engloutis tout vivants_. Si Dieu n’avait mis des bornes à la malice, et à la domination des Babyloniens ; s’il n’avait bien-tôt terminé notre exil, Juda était abîmé ; il n’aurait jamais pu subsister long-temps au milieu de tant de maux."
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "cum irasceretur furor eorum [5] in nos.",
+      "lemma": "Lorsque leur fureur s’est irritée contre nous.",
+      "text": "Il faut joindre ceci avec ce qui précède. Ils nous auraient engloutis tout vivants dans leur fureur. Tout le monde sent assez la force de cette dernière expression. Voyez Proverbes 1:12. et Job 19:22. 31:31. On le trouve aussi dans Homère. [4]"
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "forsitan aqua absorbuisset nos. [12] (℣. 4.) torrentem pertransivit anima nostra : forsitan pertransisset… aquam intolerabilem. [13]",
+      "lemma": "Peut-être nous auraient-ils engloutis comme une mer. Notre âme a traversé le torrent ; et peut-être aurait-elle passé dans une eau d’où elle n’aurait pu se tirer.",
+      "text": "Si le Seigneur n’eût arrêté la fureur des Babyloniens, nous aurions fait naufrage, et nous aurions été engloutis dans un abîme de maux, dans une mer d’afflictions. Nous avons passé l’Euphrate, pour aller en Babylone ; mais ce n’est-là qu’une légère figure des peines que nous aurions essuyées. Nous nous serions trouvez dans des eaux si profondes, que nous n’en serions jamais sortis. On peut aussi traduire avec la Version de Complute = Peut-être aurions-nous été engloutis dans les eaux. Notre âme aurait passé le torrent ; elle aurait passé des eaux, d’où elle ne serait point revenue. Tout le monde sait que dans le langage des Livres saints, les eaux, les fleuves, les torrents désignent ordinairement de grandes calamités. Le terme Grec[6] qui est traduit dans la Vulgate par _intolerabilem_, peut signifier ce qui ne subsiste point, qui n’a rien de solide ; une eau qui n’a point de fond ; ou une chose insupportable, et au-dessus de nos forces. En cet endroit, on peut l’entendre dans l’un et dans l’autre de ces deux sens. Notre âme aurait passé une eau sans fond ; ou une eau rapide, d’où elle n’aurait pas eu la force de se tirer.\nL’Hébreu :[7] _Alors les eaux nous auraient submergez. Un torrent aurait passé sur notre âme. Alors des eaux superbes auraient passé sur notre âme._ Il y a long-temps que nous serions abîmez sous les eaux. Cette expression : _Le torrent aurait passé sur notre âme_, signifie : Nous aurions été submergez sous les eaux. Voyez Jonas 2:4. _Fluctus tui super me transierunt._ Et Nahum :[8] _Super quem non transiit malitia tua._ Et Psaumes 87:17. _In me transierunt iræ tuæ._ Et dans le même Pseaume, ℣. 7. _Super me confirmatus est furor tuus ; et omnes fluctus tuos induxisti super me._ Ce qu’il ajoûte, que _des eaux superbes auraient passé sur notre âme_, marque de grandes eaux, des eaux débordées, une inondation impétueuse. C’est dans ce sens que le débordement du Jourdain est appelé dans l’Ecriture, l’orgueil du Jourdain :[9] _Vastata est superbia Jordanis._ Le Caldéen par ces eaux superbes, entend le Roi de Babylone, et son armée, semblable aux flots de la mer. Un ancien Interprète Grec dans saint Chrysostome, traduit :[10] _Alors les superbes auraient passé sur mon âme, comme des eaux._ Ces superbes, sont les Babyloniens, comme on l’a vu ci souvent.[11]"
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "quinon dedit nos in captionem[14] dentibus eorum.",
+      "lemma": "Qui ne nous a point donnez en proie à leurs dents.",
+      "text": "Il a dit ci-devant qu’ils l’auraient dévoré, et mangé tout vivant, si Dieu ne les en eût empêché. Il les représente ici comme des chasseurs, qui le poursuivaient, et qui l’avaient déjà jetté dans leurs filets. Mais heureusement le piège a été rompu, et il s’est échappé. Tout cela marque la délivrance de la captivité, et les dangers qu’il y a courus."
+    },
+    {
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": "sicut passer.",
+      "lemma": "Comme un passereau.",
+      "text": "L’Hébreu : [15] _Comme un oiseau._ Cette comparaison exprime parfaitement la faiblesse, et l’impuissance des Juifs ; et le filet rompu tout d’un coup, la manière miraculeuse dont ils ont été délivrez. [16] Cette peinture est charmante ; et dans sa bréveté, elle marque tout ce qu’on peut désirer. Il conclut, en rapportant la gloire de tout cela au Seigneur : _Adjutorium nostrum in nomine Domini._"
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0255>page_0256",
+      "verse": 1,
+      "mode": "flow",
+      "before": "Israël peut bien",
+      "after": "dire aujourd’hui que sans une bonté particulière de Dieu, "
+    },
+    {
+      "seam": "page_0256>page_0257",
+      "verse": 4,
+      "mode": "flow",
+      "before": "rtis. On peut aussi traduire avec la Version de Complute =",
+      "after": "Peut-être aurions-nous été engloutis dans les eaux. Notre "
+    },
+    {
+      "seam": "page_0257>page_0258",
+      "verse": 5,
+      "mode": "flow",
+      "before": "l’auraient dévoré, et mangé tout vivant, si Dieu ne les en",
+      "after": "eût empêché. Il les représente ici comme des chasseurs, qu"
+    }
+  ],
+  "pages_used": [
+    "page_0255",
+    "page_0256",
+    "page_0257",
+    "page_0258"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0256-a",
+      "n": 1,
+      "text": "מגני וקרן ישעי משגבי"
+    },
+    {
+      "key": "page_0256-b",
+      "n": 2,
+      "text": "Voyez Genèse 15,1 ;\nDeutéronome 33,29 ;\nPsaumes 3,4 etc."
+    },
+    {
+      "key": "page_0256-c",
+      "n": 3,
+      "text": "Theodoret. Tò ò κέρας σωτηρίας πᾶκὴν ἐκ μεταφορᾶς ἀπὸ ζώων τῶν τοῖς κέρασιν τοῖς"
+    },
+    {
+      "key": "page_0256-e",
+      "n": 4,
+      "text": "Luc 1,69."
+    },
+    {
+      "key": "page_0256-d",
+      "n": 5,
+      "text": "Deutéronome 33,17."
+    },
+    {
+      "key": "page_0257-a",
+      "n": 6,
+      "text": "Isaïe 8,8. Ibit per Judam inundans | Mai. XVII 13. XXVIII. 2. 17. 18. Daniel 11,10. Vide Theodoret. hic. καὶ τῆς θανατοφόρες κινδύνες. Χειμάῤῥες ἢ ἀτομίας, ὡς ἀδίκως καὶ ἀθέως τῶν ἐχθρῶν φερομένων."
+    },
+    {
+      "key": "page_0257-b",
+      "n": 7,
+      "text": "אפפוני חבלי מות ונחלי בליעל יבעתוני"
+    },
+    {
+      "key": "page_0257-c",
+      "n": 8,
+      "text": "Voyez 3 Rois 20,31-32."
+    },
+    {
+      "key": "page_0257-d",
+      "n": 9,
+      "text": "2 Rois 22,5. משברי מות"
+    },
+    {
+      "key": "page_0257-e",
+      "n": 10,
+      "text": "Théodoret : Οὐδ᾽ αἱ θανατῶ, καὶ ἀδίκως ἐπαγόμεναι."
+    },
+    {
+      "key": "page_0257-f",
+      "n": 11,
+      "text": "Le Psautier de Milan ; le Psautier romain ; le Psautier de Saint-Germain ; le Psautier de Chartres."
+    },
+    {
+      "key": "page_0256-f",
+      "n": 12,
+      "text": "מהלל אקרא יהוה ומן איבי אושע"
+    },
+    {
+      "key": "page_0256-g",
+      "n": 13,
+      "text": "Var. Munster ; la version de Zurich ; Ainsworth ; et d’autres."
+    },
+    {
+      "key": "page_0257-g",
+      "n": 14,
+      "text": "חבלי שאול קדמוני מקשי מות"
+    },
+    {
+      "key": "page_0258-a",
+      "n": 15,
+      "text": "_Euseb. Theodoret. Basil. Genebr. Abenezra._ | ἐκ ὡς πάντως ὄντω γεγενημένα, ἀλλ᾽ ὡς ὄντω τῆ δυνάμει νενοημένα … Διὰ τόπων τοίνυν, καὶ ὁ παρὼν Περιφίτης τῆς τοῖς πολεμίοις ἐπενεχθείσης τιμωρίαν ἐμφαίνει. _Vide et Genebr._ _Muis, Chal. Cocc. alii._"
+    },
+    {
+      "key": "page_0258-b",
+      "n": 16,
+      "text": "_Liran. Ferrand._"
+    }
+  ],
+  "missing_footnotes": []
+}

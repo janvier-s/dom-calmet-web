@@ -1,0 +1,35 @@
+{
+  "book": "Psaumes",
+  "chapter": 132,
+  "chapter_summary": "Bonheur, et avantage de l’union des Lévites.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Ecce quam bonum, et quàm jucundum, habitare fratres in unum !",
+      "french": "Ha qu’il est doux et agréable, de voir les frères réunis ensemble !",
+      "annotations": null,
+      "source_pages": [
+        "page_0301.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Sicut unguentum in capite, quod descendit in barbam, barbam Aaron.",
+      "french": "C’est comme le parfum répandu sur la tête, qui descend sur toute la barbe d’Aaron ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0301.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quod descendit in oram vestimenti ejus : sicut ros Hermon, qui descendit in montem Sion.",
+      "french": "Qui descend sur le bord de son vêtement : comme la rosée du mont Hermon, qui descend sur la montagne de Sion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0301.json"
+      ]
+    }
+  ]
+}

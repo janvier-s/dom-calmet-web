@@ -1,0 +1,61 @@
+{
+  "book": "Psaumes",
+  "chapter": 128,
+  "chapter_summary": "Israël persecuté dés sa jeunesse ; Mais le Seigneur l’a toujours délivré. Chute soudaine de ses ennemis.\n\nCanticum graduum. | Cantique des dégrez.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Sæpè expugnaverunt me à juventute mea, dicat nunc Israël.",
+      "french": "Qu’Israël dise maintenant : Ils m’ont souvent attaqué depuis ma jeunesse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0277.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Sæpè expugnaverunt me à juventute mea : etenim non potuerunt mihi.",
+      "french": "Ils m’ont depuis ma jeunesse souvent attaqué : mais ils n’ont pu prévaloir sur moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0277.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Supra dorsum meum fabricaverunt peccatores : prolongaverunt iniquitatem suam.",
+      "french": "Les pécheurs ont travaillé sur mon dos : ils m’ont fait sentir long-temps leur injustice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0277.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Dominus justus concidit cervices peccatorum : confundantur et convertantur retrorsùm omnes, qui oderunt Sion.",
+      "french": "Le Seigneur qui est juste, coupera la tête des pécheurs. Que les ennemis de Sion, saient couverts de confusion, et retournent en arrière.",
+      "annotations": null,
+      "source_pages": [
+        "page_0278.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Fiant sicut fœnum tectorum : quod priùsquam evellatur, exaruit : de quo non implevit manum suam qui metit, et sinum suum qui manipulos colligit.",
+      "french": "Qu’ils deviennent comme l’herbe qui croît sur les toits, qui se séche avant qu’on l’arrache : dont celui qui fait la moisson ne remplit point sa main, ni celui qui ramasse les gerbes, son sein.",
+      "annotations": null,
+      "source_pages": [
+        "page_0278.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et non dixerunt qui præteribant : Benedictio Domini super vos : benediximus vobis in nomine Domini.",
+      "french": "Et ceux qui passaient n’ont point dit : Que la bénédiction du Seigneur soit sur vous. Nous vous bénissons au nom du Seigneur.",
+      "source_pages": [
+        "page_0279.json"
+      ]
+    }
+  ]
+}

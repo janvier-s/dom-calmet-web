@@ -1,0 +1,51 @@
+{
+  "book": "Psaumes",
+  "chapter": 124,
+  "chapter_summary": "Dieu protecteur des Justes. Il est leur rempart. Il ne les laissera pas assujettis au sceptre des pécheurs. Il punira ceux qui se détournent de ses voies.\n\nCanticum graduum. | Cantique des dégrez.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Qui confidunt in Domino, ficut mons Sion. Non commovebitur in æternum, qui habitat in Jerusalem.",
+      "french": "Ceux qui mettent leur confiance dans le Seigneur, sont inébranlables, comme la montagne de Sion. Celui qui demeure dans Jérusalem, ne sera jamais ébranlé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0259.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Montes in circuitu ejus : et Dominus in circuitu populi sui, ex hoc nunc et usque in sæculum.",
+      "french": "Jérusalem est environnée de montagnes ; et le Seigneur est tout autour de son peuple, dés maintenant, et pour toujours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0259.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quia non relinquet Dominus virgam peccatorum super sortem justorum : ut non extendant justi ad iniquitatem manus suas.",
+      "french": "Car le Seigneur ne laissera pas toujours la race des justes assujettie à la verge des pécheurs ; de peur que les justes n’étendent leurs mains vers l’iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0260.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Benefac, Domine, bonis, et rectis corde.",
+      "french": "Faites du bien, Seigneur, à ceux qui sont bons, et dont le cœur est droit.",
+      "source_pages": [
+        "page_0261.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Declinantes autem in obligationes, adducet Dominus cum operantibus iniquitatem : pax super Israël.",
+      "french": "Mais pour ceux qui se détournent dans des voies tortuës, le Seigneur les joindra à ceux qui commettent l’iniquité. Que la paix soit sur Israël.",
+      "source_pages": [
+        "page_0261.json"
+      ]
+    }
+  ]
+}

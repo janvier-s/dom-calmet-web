@@ -1,0 +1,239 @@
+{
+  "book": "Sagesse",
+  "chapter": 6,
+  "chapter_summary": "Exhortation aux Princes, et aux Juges, d’aimer la sagesse, et de ne pas s’élever d’orgueil. Dieu est également le Père des petits, et des grands. Ceux qui sont les plus élevez en dignité, seront jugez plus sévérement. Eloge de la sagesse. Elle se présente à ceux qui l’aiment. La multitude des sages, est le salut du monde.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Melior est sapientia quàm vires ; et vir prudens quàm fortis.",
+      "french": "La sagesse est plus estimable que la force, et l’homme prudent vaut mieux que le courageux.",
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Audite ergo, Reges, et intelligite ; discite, Judices finium terræ.",
+      "french": "Ecoutez donc, ô Rois, et comprenez le bien ; recevez l’instruction, Juges de la terre.",
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Præbete aures, vos qui continetis multitudines, et placetis vobis in turbis nationum.",
+      "french": "Prêtez l’oreille, vous qui gouvernez les peuples, et qui vous glorifiez de voir sous vous un grand nombre de nations.",
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quoniam data est à Domino potestas vobis, et virtus ab Altissimo, qui interrogabit opera vestra, et cogitationes scrutabitur.",
+      "french": "Considérez que vous avez reçu cette puissance du Seigneur, et cette domination du Très-Haut, qui interrogera vos œuvres, et qui sondera le fond de vos pensées.",
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quoniam cùm essetis ministri regni illius, non rectè judicastis, nec custodistis legem justitiæ, neque secundum voluntatem Dei ambulastis.",
+      "french": "Parce qu’étant les Ministres de son Royaume, vous n’avez pas jugé équitablement, que vous n’avez point gardé la Loi de la justice, et que vous n’avez point marché selon la volonté de Dieu ;",
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Horrendè, et citò apparebit vobis : quoniam judicium durissimum his qui præsunt fiet.",
+      "french": "Il se fera voir à vous d’une maniere effroyable, et dans peu de temps : parce que ceux qui commandent les autres, seront jugez avec une extrême rigueur.",
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Exiguo enim conceditur misericordia : potentes autem potenter tormenta patientur.",
+      "french": "Car on a plus de compassion pour les petits, et on leur pardonne plus aisément ; mais les puissants seront puissamment tourmentez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Non enim subtrahet personam cujusquam Deus, nec verebitur magnitudinem cujusquam ; quoniam pusillum, et magnum ipse fecit, et æqualiter cura est illi de omnibus.",
+      "french": "Dieu n’exceptera personne, et il ne respectera la grandeur de qui que ce soit : parce qu’il a fait les grands comme les petits, et qu’il a également soin de tous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Fortioribus autem fortior instat cruciatio.",
+      "french": "Mais les plus grands sont menacez des plus grands supplices.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Ad vos ergo, Reges, sunt hi sermones mei, ut discatis sapientiam, et non excidatis.",
+      "french": "C’est donc à vous, ô Rois, que j’adresse ces discours, afin que vous appreniez la sagesse, et que vous vous gardiez d’en décheoir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Qui enim custodierint justa justè, justificabuntur ; et qui didicerint ista, invenient quid respondeant.",
+      "french": "Car ceux qui auront fait justement les actions de justice, seront traitez comme justes ; et ceux qui auront appris ce que j’enseigne, trouveront de quoi se défendre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Concupiscite ergo sermones meos ; diligite illos, et habebitis disciplinam.",
+      "french": "Ayez donc un désir ardent pour mes paroles ; aimez-les, et vous y trouverez votre instruction.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Clara est, et quæ numquam marcescit sapientia : et facilè videtur ab his qui diligunt eam, et invenitur ab his qui quærunt illam.",
+      "french": "La sagesse est pleine de lumiere, et sa beauté ne se flétrit point. Ceux qui l’aiment, la découvrent aisément ; et ceux qui la cherchent, la trouvent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Præoccupat qui se concupiscunt, ut illis se prior ostendat.",
+      "french": "Elle prévient ceux qui la désirent, et elle se montre à eux la premiere.",
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Qui de luce vigilaverit ad illam, non laborabit : assidentem enim illam foribus suis inveniet.",
+      "french": "Celui qui veille dés le matin pour la posseder, n’aura pas de peine, parce qu’il la trouvera assise à sa porte.",
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Cogitare ergo de illa, sensus est consummatus ; et qui vigilaverit propter illam, citò securus erit.",
+      "french": "Ainsi, occuper sa pensée de la sagesse, c’est la parfaite prudence, et celui qui veillera pour l’acquérir, sera bien-tôt en repos.",
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Quoniam dignos se ipsa circuit quærens, et in viis ostendit se illis hilariter, et in omni providentia occurrit illis.",
+      "french": "Car elle tourne elle-même de tous côtés, pour chercher ceux qui sont dignes d’elle. Elle se montre à eux agréablement dans ses voies, et elle va au-devant d’eux, avec tout le soin de sa providence.",
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Initium enim illius, veriffima est disciplinæ concupiscentia ; cura ergo disciplinæ, dilectio est ; et dilectio, custodia legum illius.",
+      "french": "Le commencement donc de la sagesse, est le désir sincere de l’instruction ; le désir de l’instruction est l’amour ; l’amour est l’observation de ses Loix ;",
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Custoditio autem legum, consummatio incorruptionis est.",
+      "french": "L’attention à observer ses Loix, est l’affermissement de la parfaite pureté de l’âme.",
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Incorruptio autem facit esse proximum Deo.",
+      "french": "Et cette parfaire pureté approche l’homme de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Concupiscentia itaque sapientiæ deducit ad Regnum perpetuum.",
+      "french": "C’est ainsi que le désir de la sagesse conduit au Royaume éternel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Si ergo delectamini sedibus, et sceptris, ô Reges populi, diligite sapientiam, ut in perpetuum regnetis.",
+      "french": "Si donc vous désirez les trônes, et les sceptres, ô Rois des peuples, aimez la sagesse, afin que vous regniez éternellement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Diligite lumen sapientiæ, omnes qui præestis populis.",
+      "french": "Aimez la lumiere de la sagesse, vous tous qui commandez les peuples du monde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Quid est autem sapientia, et quemadmodum facta sit referam : et non abscondam à vobis sacramenta Dei, sed ab initio nativitatis investigabo, et ponam in lucem scientiam illius, et non præteribo veritatem :",
+      "french": "Je représenterai maintenant ce que c’est que la sagesse, et quelle a été son origine. Je ne vous cacherai point les secrets de Dieu ; mais je remonterai jusqu’au commencement de sa naissance ; je la produirai au jour, et la ferai connaître, et je ne cacherai point la vérité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Neque cum invidia tabescente iter habebo : quoniam talis homo non erit particeps sapientiæ.",
+      "french": "Je n’imiterai point celui qui est desse-\nché d’envie, parce que l’envieux n’aura\npoint de part à la sagesse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Multitudo autem sapientium sanitas est orbis terrarum : et Rex sapiens stabilimentum populi est.",
+      "french": "Or la multitude des sages est le salut\ndu monde : et un Roi prudent est le soûtien\nde son peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Ergo accipite disciplinam per sermones meos, et proderit vobis.",
+      "french": "Recevez donc l’instruction par mes\nparoles, et elle vous sera avantageuse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0091.json"
+      ]
+    }
+  ]
+}

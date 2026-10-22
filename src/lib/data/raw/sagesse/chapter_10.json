@@ -1,0 +1,185 @@
+{
+  "book": "Sagesse",
+  "chapter": 10,
+  "chapter_summary": null,
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 2,
+      "latin": "Et eduxit illum à delicto suo, et dedit illi virtutem continendi omnia.",
+      "french": "C’est elle aussi qui le tira de son péché, et qui lui donna la force de gouverner toutes choses.",
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Ab hac enim recessit injustus in ira sua, per iram homicidii fraterni deperiit.",
+      "french": "Lorsque l’injuste dans sa colere se sépara d’elle, il périt malheureusement par la fureur qui le rendit le meurtrier de son frère.",
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Propter quem, cùm aqua deleret terram, sanavit iterum sapientia, per contemptibile lignum justum gubernans.",
+      "french": "Et lorsque le déluge inonda la terre, à cause de lui, la sagesse sauva encore le monde, ayant gouverné le juste sur les eaux, par un bois qui paraissait méprisable.",
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Hæc et in consensu nequitiæ cùm se nationes contulissent, scivit justum, et conservavit sine querela Deo, et in filii misericordia fortem custodivit.",
+      "french": "Et lorsque les nations conspirerent ensemble pour s’abandonner au mal, c’est elle qui connut le juste, qui le conserva irrépréhensible devant Dieu, et qui lui donna la force de vaincre la tendresse qu’il ressentait pour son fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Hæc justum à pereuntibus impiis liberavit fugientem, descendente igne in Pentapolim :",
+      "french": "C’est elle qui délivra le juste lorsqu’il fuyait du milieu des méchants, qui périrent par le feu tombé sur les cinq villes :",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quibus in testimonium nequitiæ fumigabunda constat deserta terra, et incerto tempore fructus habentes arbores, et incredibilis animæ memoria stans sig-mentum salis.",
+      "french": "On voit encore un témoignage permanent de la corruption de ces anciens habitants dans la fumée qui sort de cette terre, qui est demeurée toute déserte, et dont les arbres portent des fruits qui ne mûrissent point, et où l’on voit une statuë de sel, qui est le monument de cette âme incrédule.",
+      "annotations": null,
+      "source_pages": [
+        "page_0127.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Sapientiam enim prætereuntes, non tantùm in hoc lapsi sunt ut ignorarent bona, sed et insipientiæ suæ reliquerunt hominibus memoriam, ut in his quæ peccaverunt, nec latêre potuissent.",
+      "french": "Car ceux qui ont abandonné la sagesse, non seulement sont tombez dans l’ignorance du bien, mais ils ont encore laissé aux hommes des marques de leur folie, sans que leurs fautes aient pu demeurer cachées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Sapientia autem hos, qui se observant, a doloribus liberavit.",
+      "french": "Mais la sagesse a délivré de tous les maux, ceux qui ont eu soin de la révérer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Hæc profugum iræ fratris justum deduxit per vias rectas, et ostendit illi Regnum Dei, et dedit illi scientiam sanctorum : honestavit illum in laboribus, et complevit labores illius.",
+      "french": "C’est elle qui a conduit par des voies droites le juste, lorsqu’il fuyait la colere de son frère. Elle lui a fait voir le Royaume de Dieu, lui a donné la science des Saints, l’a enrichi dans ses travaux, et lui en a fait recueillir de grands fruits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "In fraude circumventientium illum affuit illi, et honestum fecit illum.",
+      "french": "C’est elle qui l’a aidé contre ceux qui voulaient le surprendre par leurs tromperies, et qui l’a fait devenir riche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Custodivit illum ab inimicis, et à seductoribus tutavit illum, et certamen forte dedit illi ut vinceret, et scires quoniam omnium potentior est sapientia.",
+      "french": "Elle l’a protegé contre ses ennemis, la défendu des séducteurs, et l’a engagé dans un rude combat, afin qu’il demeurât victorieux, et qu’il sût que la sagesse est plus puissante que toutes choses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Hæc venditum justum non dereliquit, sed à peccatoribus liberavit eum : descenditque cum illo in foveam,",
+      "french": "C’est elle qui n’a point abandonné le juste lorsqu’il fut vendu, mais qui l’a délivré des mains des pécheurs : elle est descendue avec lui dans la fosse,",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et in vinculis non dereliquit illum, donec offerret illi sceptrum Regni, et potentiam adversus eos, qui eum deprimebant. Et mendaces ostendit, qui maculaverunt illum, et dedit illi claritatem æternam.",
+      "french": "Et elle ne l’a point quitté dans ses chaînes, jusqu’à ce qu’elle lui eût mis entre les mains le sceptre Royal, et qu’elle l’eût rendu maître de ceux qui l’avaient traité si injustement. Elle a convaincu de mensonge ceux qui l’avaient déshonoré, et lui a donné une réputation éternelle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Hæc populum justum, et semen sine querela, liberavit à nationibus, quæ illum deprimebant.",
+      "french": "C’est elle qui a délivré le peuple juste, et la race irrépréhensible de la nation qui l’opprimait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Intravit in animam servi-Dei, et stetit contra Reges horrendos in portentis et signis.",
+      "french": "Elle est entrée dans l’âme du serviteur de Dieu, et elle s’est élevée avec des signes, et des prodiges contre les Rois redoutables.",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et reddidit justis mercedem laborum suorum, et deduxit illos in via mirabili : et fuit illis in velamento diei, et in luce stellarum per noctem :",
+      "french": "Elle a rendu aux justes la récompense de leurs travaux, les a conduits par une voie admirable, et leur a tenu lieu de couvert pendant le jour, et de la lumiere des étoiles pendant la nuit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Transtulit illos per mare Rubrum, et transvexit illos per aquam nimiam.",
+      "french": "Elle les a conduits par la mer Rouge, et les a fait passer au travers des eaux profondes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Inimicos autem illorum demersit in mare, et ab altitudine inferorum eduxit illos. Ideò justi tulerunt spolia impiorum.",
+      "french": "Elle a enseveli leurs ennemis dans la mer, et a retiré les siens du fond du tombeau. Ainsi les justes ont remporté les dépouilles des méchants,",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et decantaverunt, Domine, nomen sanctum tuum, et victricem manum tuam laudaverunt pariter :",
+      "french": "Ils ont honoré par leurs cantiques votre saint nom, ô Seigneur, et ils ont loué tous ensemble votre main victorieuse :",
+      "annotations": null,
+      "source_pages": [
+        "page_0133.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Quoniam sapientia aperuit os mutorum, et linguas infantium fecit disertas.",
+      "french": "Parce que la sagesse a ouvert la bouche des muets, et qu’elle a rendu éloquentes les langues des petits enfants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0133.json"
+      ]
+    }
+  ]
+}

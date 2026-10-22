@@ -4,22 +4,22 @@
       "verse": 1,
       "sub": false,
       "latin_lemma": "super hoc expavit cor meum.",
-      "lemma": "C’est pour cela que mon cœur est saisi d’effroi, à la vue de tant de merveilles, et principalement quand je fais attention au tonnerre, dont les effets sont si terribles, et dont la cause est si inconnue. C’est la suite du discours d’Eliu.",
-      "text": ""
+      "lemma": "C’est pour cela que mon cœur est saisi d’effroi,",
+      "text": "à la vue de tant de merveilles, et principalement quand je fais attention au tonnerre, dont les effets sont si terribles, et dont la cause est si inconnue. C’est la suite du discours d’Eliu."
     },
     {
       "verse": 2,
       "sub": false,
       "latin_lemma": "in terrore vocis ejus.",
-      "lemma": "Écoutez sa voix terrible ; son tonnerre, qui est si souvent appelé la voix de Dieu.",
-      "text": ""
+      "lemma": "Écoutez sa voix terrible ;",
+      "text": "son tonnerre, qui est si souvent appelé la voix de Dieu."
     },
     {
       "verse": 3,
       "sub": false,
       "latin_lemma": "subter omnes cœlos ipse considerat.",
-      "lemma": "Il considère tout ce qui se passe sous le Ciel. Rien de tout ce qui se fait sur la terre, n’est caché à ses yeux.",
-      "text": "L’Hébreu : [1] _il l’envoie sous tous_ les Cieux. Son tonnerre se fait entendre par tout le monde, et les éclairs qui l’accompagnent, se répandent d’une extrémité de la terre à l’autre : _Et lumen illius super terminos terræ_. Le Sauveur dans l’Évangile, s’exprime à peu près de même : [2] _Fulgur exit ab oriente, et paret usque ad occidentem_."
+      "lemma": "Il considère tout ce qui se passe sous le Ciel.",
+      "text": "Rien de tout ce qui se fait sur la terre, n’est caché à ses yeux. L’Hébreu : [1] _il l’envoie sous tous_ _les Cieux_. Son tonnerre se fait entendre par tout le monde, et les éclairs qui l’accompagnent, se répandent d’une extrémité de la terre à l’autre : _Et lumen illius super terminos terræ_. Le Sauveur dans l’Évangile, s’exprime à peu près de même : [2] _Fulgur exit ab oriente, et paret usque ad occidentem_."
     },
     {
       "verse": 4,
@@ -29,7 +29,7 @@
       "text": "Partout où il va, l’on entend des bruits effrayants, qui annoncent sa présence. Ou plutôt : Après l’éclair, on entend le tonnerre. C’est ce que l’expérience confirme, et dont la Physique rend raison. Quoique l’éclair, et le tonnerre se forment en même temps, la lumière de l’éclair se fait sentir bien plus tôt à nos yeux, que le bruit du tonnerre ne vient à nos oreilles ; parce que le mouvement qui cause la lumière, est produit en un moment, et que l’agitation de l’air qui fait le bruit, ne se communique que par ondées, et par des secousses successives, et réciproques."
     },
     {
-      "verse": 5,
+      "verse": 4,
       "sub": false,
       "latin_lemma": "et non investigabitur, cum audita fuerit vox ejus.",
       "lemma": "Nul ne pourra le sonder, lorsqu’il fera entendre la voix de son tonnerre.",
@@ -46,15 +46,22 @@
       "verse": 8,
       "sub": false,
       "latin_lemma": "ingredietur bestia latibulum suum.",
-      "lemma": "La bête entrera dans sa retraite, pour se mettre à couvert de la pluie, et effrayée par le bruit du tonnerre, et de la tempête.",
-      "text": "Ou bien : Les animaux prévoient la pluie, et la tempête, et se retirent de bonne heure dans leur retraite. C’est encore ce que l’expérience confirme.\n\nPlusieurs croient qu’il faut suppléer ici _le midi_, et traduire : _La tempête viendra du plus caché du midi._ Comme le pôle méridional n’était pas sous la vue de Job, comme le pôle arctique, ou septentrional, il donne pour l’ordinaire au premier le nom de _secret_, ou d’intérieur du midi.[11] Dans l’Idumée, et dans la Judée,[12] il paraît que les tourbillons, les vents impétueux, les tempêtes, venaient le plus souvent du côté du midi, qui était le côté de l’océan, par rapport à ces régions. Par exemple, Jérémie parle d’un vent terrible qui vient du côté du midi, ou du désert ; et Zacharie dit que le Seigneur se fera entendre comme dans un tourbillon du midi. Isaïe décrit la venue des ennemis sous l’idée d’une tempête qui vient du midi :[13] _Sicut turbines ab Africo veniunt, de deserto venit, etc._"
+      "lemma": "La bête entrera dans sa retraite,",
+      "text": "pour se mettre à couvert de la pluie, et effrayée par le bruit du tonnerre, et de la tempête. Ou bien : Les animaux prévoient la pluie, et la tempête, et se retirent de bonne heure dans leur retraite. C’est encore ce que l’expérience confirme."
     },
     {
-      "verse": 8,
+      "verse": 9,
+      "sub": false,
+      "latin_lemma": "ab interioribus egredietur tempestas.",
+      "lemma": "La tempête sortira des lieux les plus cachez.",
+      "text": "Plusieurs croient qu’il faut suppléer ici _le midi_, et traduire : _La tempête viendra du plus caché du midi._ Comme le pôle méridional n’était pas sous la vue de Job, comme le pôle arctique, ou septentrional, il donne pour l’ordinaire au premier le nom de _secret_, ou d’intérieur du midi.[11] Dans l’Idumée, et dans la Judée,[12] il paraît que les tourbillons, les vents impétueux, les tempêtes, venaient le plus souvent du côté du midi, qui était le côté de l’océan, par rapport à ces régions. Par exemple, Jérémie parle d’un vent terrible qui vient du côté du midi, ou du désert ; et Zacharie dit que le Seigneur se fera entendre comme dans un tourbillon du midi. Isaïe décrit la venue des ennemis sous l’idée d’une tempête qui vient du midi :[13] _Sicut turbines ab Africo veniunt, de deserto venit, etc._"
+    },
+    {
+      "verse": 9,
       "sub": false,
       "latin_lemma": "et ab Arcturo frigus.",
       "lemma": "Et le froid vient des vents d’aquilon.",
-      "text": "On prétend que le froid venait dans la Judée, comme dans les autres parties du monde, du côté du Septentrion. L’Hébreu :[14] _Le froid vient des vents qui dispersent_ ; des vents de bise, qui amènent la gelée, et qui purifient l’air. D’où leur viennent les épithètes de _Boréas le balayeur du Ciel_,[15] et le producteur du Ciel net, et serein.[16] Et dans Ovide,[17] ce vent parle ainsi de lui-même :\n_Apta mihi vis est, hac tristia nubila pello,_\n_Induróque nives, et terras grandine pulso._\nMais nous croyons que l’Hébreu _Mazarim_, signifie précisément le midi, et est la même chose que Mazaloth[18] du quatrième Livre des Rois, que l’on traduit par : _Les Planètes, ou les signes du Zodiaque, ou même les influences._ Mais il signifie constamment le midi, comme il paraît, en comparant le ℣. 32. du Chap. XXXVIII. avec le ℣. 9. du Chap. IX. où l’intérieur du midi, est équivalent à Mazéroth du Chap. XXXVIII. Ainsi voici comment je traduis ce passage : _La tempête viendra de l’intérieur du midi, et le froid des Mazéroth._ Le froid, et la tempête sont ici synonymes, de même que l’intérieur, et les Mazéroth. On a montré un peu plus haut, que les tempêtes, les pluies froides, et les vents froids venaient du midi dans la Judée. Cela paraît encore ici au verset 17. _Vos habits ne sont-ils pas trop chauds, lorsque la terre du midi est tranquille_, lorsqu’il ne vient ni tempête, ni bruine, ni vent impétueux, ni pluie du côté du midi. L’Hébreu _Darom_, signifie le midi, le côté de l’Arabie Pétrée, par rapport à la Judée, du consentement de tous les Interprètes."
+      "text": "On prétend que le froid venait dans la Judée, comme dans les autres parties du monde, du côté du Septentrion. L’Hébreu :[14] _Le froid vient des vents qui dispersent_ ; des vents de bise, qui amènent la gelée, et qui purifient l’air. D’où leur viennent les épithètes de _Boréas le balayeur du Ciel_,[15] et le producteur du Ciel net, et serein.[16] Et dans Ovide,[17] ce vent parle ainsi de lui-même :\n_Apta mihi vis est, hac tristia nubila pello,_\n_Induróque nives, et terras grandine pulso._\nMais nous croyons que l’Hébreu _Mazarim_, signifie précisément le midi, et est la même chose que Mazaloth[18] du quatrième Livre des Rois, que l’on traduit par : _Les Planètes, ou les signes du Zodiaque, ou même les influences._ Mais il signifie constamment le midi, comme il paraît, en comparant le ℣. 32. du chapitre 38 avec le ℣. 9. du chapitre 9 où l’intérieur du midi, est équivalent à Mazéroth du chapitre 38. Ainsi voici comment je traduis ce passage : _La tempête viendra de l’intérieur du midi, et le froid des Mazéroth._ Le froid, et la tempête sont ici synonymes, de même que l’intérieur, et les Mazéroth. On a montré un peu plus haut, que les tempêtes, les pluies froides, et les vents froids venaient du midi dans la Judée. Cela paraît encore ici au verset 17. _Vos habits ne sont-ils pas trop chauds, lorsque la terre du midi est tranquille_, lorsqu’il ne vient ni tempête, ni bruine, ni vent impétueux, ni pluie du côté du midi. L’Hébreu _Darom_, signifie le midi, le côté de l’Arabie Pétrée, par rapport à la Judée, du consentement de tous les Interprètes."
     },
     {
       "verse": 10,
@@ -75,7 +82,14 @@
       "sub": false,
       "latin_lemma": "quæ lustrant per circuitum, quocumque eas voluntas gubernantis direxerit.",
       "lemma": "Elles sont portées de toutes parts sur la face de la terre, suivant la volonté de",
-      "text": "celui qui les gouverne. Les nuées sont conduites par la volonté du souverain Maître de la nature, par tout où il juge à propos. Eliu veut montrer par-là la dépendance où sont toutes les créatures à l’égard du Tout-puissant. L’Hébreu :[26] Et la nue est roulée de toutes parts, suivant les desseins de son Créateur. Ou bien : Il marche sur les nues tout le long du Ciel, et il le gouverne par sa sagesse. Si les pluies tombent en un lieu plutôt qu’en un autre, ce n’est point le hasard qui conduit cela ; c’est la main du Tout-puissant."
+      "text": ""
+    },
+    {
+      "verse": 12,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "celui qui les gouverne.",
+      "text": "Les nuées sont conduites par la volonté du souverain Maître de la nature, par tout où il juge à propos. Eliu veut montrer par-là la dépendance où sont toutes les créatures à l’égard du Tout-puissant. L’Hébreu :[26] Et la nue est roulée de toutes parts, suivant les desseins de son Créateur. Ou bien : Il marche sur les nues tout le long du Ciel, et il le gouverne par sa sagesse. Si les pluies tombent en un lieu plutôt qu’en un autre, ce n’est point le hasard qui conduit cela ; c’est la main du Tout-puissant."
     },
     {
       "verse": 13,
@@ -96,14 +110,14 @@
       "sub": false,
       "latin_lemma": "numquid nosti semitas nubium magnas, et perfectas scientias ?",
       "lemma": "Connaissez-vous les grandes routes des nuées, et la parfaite science de celui qui les conduit ?",
-      "text": "L’Hébreu :[29] _Savez-vous les balancements des nues, et les merveilles de celui dont la science est parfaite ?_ Savez-vous le secret qui fait que ces vastes corps de nuées demeurent suspendus dans l’air, par la souveraine sagesse de celui qui sait tout ? Il a déjà donné à Dieu l’épithète de parfait en science, ci-devant[30] Chap. XXXVI. 4. Les Septante :[31] _Le Seigneur connaît les différences des nues, et les funestes chutes des méchants._"
+      "text": "L’Hébreu :[29] _Savez-vous les balancements des nues, et les merveilles de celui dont la science est parfaite ?_ Savez-vous le secret qui fait que ces vastes corps de nuées demeurent suspendus dans l’air, par la souveraine sagesse de celui qui sait tout ? Il a déjà donné à Dieu l’épithète de parfait en science, ci-devant[30] chapitre 36:4. Les Septante :[31] _Le Seigneur connaît les différences des nues, et les funestes chutes des méchants._"
     },
     {
       "verse": 17,
       "sub": false,
       "latin_lemma": "numquid vestimenta tua calida sunt, cum perflata fuerit terra austro ?",
       "lemma": "Vos vêtements ne sont-ils pas échauffés, lorsque le vent du midi souffle sur la terre ?",
-      "text": "Ce Texte paraît contraire à ce qu’il a dit au verset 9. que dans ce pays-là, les tempêtes, et les pluies venaient ordinairement du midi. C’est pourquoi quelques-uns traduisent : _N’est-il pas vrai que vous ne sentez la chaleur de vos habits, et que vous n’en voyez proprement la nécessité, que lorsque les vents du midi donnent sur la terre ?_ D’autres donnent à l’Hébreu un sens tout contraire :[32] _Vos habits ne sont-ils pas chauds, lorsque la terre est en repos du côté du midi ? Ne sentez-vous pas que vos habits sont trop chauds, et vous deviennent à charge, dès que le vent, et les pluies du midi sont cessées ?_[33]. Mais il est certain que dans l’Idumée, de même que dans la Judée, les vents du nord causaient le froid, et la sécheresse, et les vents du midi la chaleur. Ainsi il faut traduire : _Vos habits ne sont-ils pas trop chauds, lorsque le vent du midi donne doucement sur la terre ?_ l’Impétuosité de ces vents cause la tempête ; mais leur souffle modéré cause des chaleurs étouffantes. Voici apparemment quel est le raisonnement d’Eliu. Pouvez-vous rendre raison de ces effets admirables de la puissance de Dieu ? Je ne parle pas de ce qui se passe dans le Ciel, et dans les nues, qui sont si fort au-dessus de vous : Mais les choses mêmes qui vous touchent, vous font-elles mieux connues ? Dites-moi pourquoi vous vous sentez incommodé de vos habits, lorsque les vents sont abaissés, et la tempête dissipée ; pourquoi la chaleur vient du midi plutôt que des autres parties du monde ? Et vous osez après cela sonder les Jugements de Dieu, et les censurer ?"
+      "text": "Ce Texte paraît contraire à ce qu’il a dit au verset 9. que dans ce pays-là, les tempêtes, et les pluies venaient ordinairement du midi. C’est pourquoi quelques-uns traduisent : _N’est-il pas vrai que vous ne sentez la chaleur de vos habits, et que vous n’en voyez proprement la nécessité, que lorsque les vents du midi donnent sur la terre ?_ D’autres donnent à l’Hébreu un sens tout contraire :[32] _Vos habits ne sont-ils pas chauds, lorsque la terre est en repos du côté du midi ? Ne sentez-vous pas que vos habits sont trop chauds, et vous deviennent à charge, dès que le vent, et les pluies du midi sont cessées ?_ [33] Mais il est certain que dans l’Idumée, de même que dans la Judée, les vents du nord causaient le froid, et la sécheresse, et les vents du midi la chaleur. Ainsi il faut traduire : _Vos habits ne sont-ils pas trop chauds, lorsque le vent du midi donne doucement sur la terre ?_ l’Impétuosité de ces vents cause la tempête ; mais leur souffle modéré cause des chaleurs étouffantes. Voici apparemment quel est le raisonnement d’Eliu. Pouvez-vous rendre raison de ces effets admirables de la puissance de Dieu ? Je ne parle pas de ce qui se passe dans le Ciel, et dans les nues, qui sont si fort au-dessus de vous : Mais les choses mêmes qui vous touchent, vous font-elles mieux connues ? Dites-moi pourquoi vous vous sentez incommodé de vos habits, lorsque les vents sont abaissés, et la tempête dissipée ; pourquoi la chaleur vient du midi plutôt que des autres parties du monde ? Et vous osez après cela sonder les Jugements de Dieu, et les censurer ?"
     },
     {
       "verse": 18,
@@ -116,8 +130,8 @@
       "verse": 19,
       "sub": false,
       "latin_lemma": "ostende quid dicamus illi.",
-      "lemma": "Apprenez-nous ce que nous pourrons lui dire ; car pour nous, nous sommes enveloppés de ténèbres, nous ne sommes qu’ignorance.",
-      "text": "Vous qui êtes si habile, instruisez-nous de ce que nous pourrons reprendre dans ses œuvres, s’il nous prend envie de les examiner, et de les critiquer. C’est une ironie des plus piquantes."
+      "lemma": "Apprenez-nous ce que nous pourrons lui dire ;",
+      "text": "car pour nous, nous sommes enveloppés de ténèbres, nous ne sommes qu’ignorance. Vous qui êtes si habile, instruisez-nous de ce que nous pourrons reprendre dans ses œuvres, s’il nous prend envie de les examiner, et de les critiquer. C’est une ironie des plus piquantes."
     },
     {
       "verse": 20,
@@ -152,7 +166,7 @@
       "sub": false,
       "latin_lemma": "ideo timebunt eum viri, etc.",
       "lemma": "Les hommes le craindront, et nul de ceux qui se croient sages, n’osera envisager sa grandeur.",
-      "text": "Voici l’Hébreu à la lettre : [43] _C’est pourquoi les hommes le craignent ; il ne craint point ceux qui sont sages de cœur. Dieu ne craint point que ceux qui se croient intelligents, et éclairés, découvrent_ jamais la profondeur de ses desseins, et de sa sagesse, quelques efforts qu’ils fassent pour cela. Dans lui sont cachées les causes de toutes les vicissitudes, les sources de tous les changements, les raisons de tous les événements. [44]"
+      "text": "Voici l’Hébreu à la lettre : [43] _C’est pourquoi les hommes le craignent ; il ne craint point ceux qui sont sages de cœur_. Dieu ne craint point que ceux qui se croient intelligents, et éclairés, découvrent jamais la profondeur de ses desseins, et de sa sagesse, quelques efforts qu’ils fassent pour cela. Dans lui sont cachées les causes de toutes les vicissitudes, les sources de tous les changements, les raisons de tous les événements. [44]"
     }
   ],
   "joins": [
@@ -160,12 +174,12 @@
       "seam": "page_0434>page_0435",
       "verse": 3,
       "mode": "flow",
-      "before": "L’Hébreu : ^{fn:page_0434-a} _il l’envoie sous tous_",
-      "after": "les Cieux. Son tonnerre se fait entendre par tout le monde"
+      "before": "yeux. L’Hébreu : ^{fn:page_0434-a} _il l’envoie sous tous_",
+      "after": "_les Cieux_. Son tonnerre se fait entendre par tout le mon"
     },
     {
       "seam": "page_0435>page_0436",
-      "verse": 5,
+      "verse": 4,
       "mode": "flow",
       "before": "tance de la terre, où la chaleur les fait fondre, elles se",
       "after": "résolvent en eau, et l’air ne pouvant plus les soutenir, e"
@@ -178,25 +192,11 @@
       "after": "D’autres expliquent ainsi l’Hébreu :^{(a)} Le Seigneur ret"
     },
     {
-      "seam": "page_0437>page_0437",
-      "verse": 8,
-      "mode": "para",
-      "before": " leur retraite. C’est encore ce que l’expérience confirme.",
-      "after": "Plusieurs croient qu’il faut suppléer ici _le midi_, et tr"
-    },
-    {
       "seam": "page_0437>page_0438",
-      "verse": 8,
+      "verse": 9,
       "mode": "splice",
       "before": "nt des vents qui dispersent_ ; des vents de bise, qui amè-",
       "after": "nent la gelée, et qui purifient l’air. D’où leur viennent "
-    },
-    {
-      "seam": "page_0439>page_0440",
-      "verse": 12,
-      "mode": "flow",
-      "before": "outes parts sur la face de la terre, suivant la volonté de",
-      "after": "celui qui les gouverne. Les nuées sont conduites par la vo"
     },
     {
       "seam": "page_0440>page_0441",
@@ -230,7 +230,7 @@
       "seam": "page_0444>page_0445",
       "verse": 24,
       "mode": "flow",
-      "before": "ceux qui se croient intelligents, et éclairés, découvrent_",
+      "before": " ceux qui se croient intelligents, et éclairés, découvrent",
       "after": "jamais la profondeur de ses desseins, et de sa sagesse, qu"
     }
   ],

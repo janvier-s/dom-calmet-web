@@ -1,0 +1,282 @@
+{
+  "book": "Psaumes",
+  "chapter": 30,
+  "chapter_summary": "Prière du Juste persécuté, abandonné de ses amis, réduit dans la pauvreté. Sa confiance en Dieu ; sa délivrance.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem. Psalmus David, pro extasi.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0407.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "In te, Domine, speravi ; non confundar in æternum : in justitia tua libera me.",
+      "french": "C’Est en vous, Seigneur, que j’ai espéré ; ne permettez pas que je sais confondu pour jamais : délivrez-moi selon votre justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0407.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Inclina ad me aurem tuam, accelera ut eruas me.",
+      "french": "Rendez votre oreille attentive à mes prières ; hâtez-vous de me retirer de ce danger.",
+      "annotations": null,
+      "source_pages": [
+        "page_0407.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Esto mihi in Deum protectorem ; et in domum refugii, ut salvum me facias.",
+      "french": "Que je trouve en vous un Dieu qui soit mon protecteur, et un asile où je puisse être en sûreté.",
+      "source_pages": [
+        "page_0408.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quoniam fortitudo mea, et refugium meum es tu : et propter nomen tuum deduces me, et enutries me.",
+      "french": "Parce que vous êtes ma force, et mon refuge ; et à cause de votre nom, vous me conduirez, et me nourrirez.",
+      "source_pages": [
+        "page_0408.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Educes me de laqueo hoc, quem absconderunt mihi : quoniam tu es protector meus.",
+      "french": "Vous me tirerez de ce piège, qu’ils m’avaient caché ; parce que vous êtes mon protecteur.",
+      "source_pages": [
+        "page_0408.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "In manus tuas commendo spiritum meum : redemisti me, Domine, Deus veritatis.",
+      "french": "Je remets mon âme entre vos mains ; vous m’avez déjà racheté, Seigneur, Dieu de vérité.",
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Odisti observantes vanitates, supervacuè.",
+      "french": "Vous haïssez ceux qui observent des choses vaines, et sans aucun fruit.",
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Ego autem in Domino speravi : exultabo, et lætabor in misericordia tua.",
+      "french": "Mais pour moi, je n’ai espéré que dans le Seigneur. Je me réjouirai, et serai ravi de joie dans votre miséricorde.",
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Quoniam respexisti humilitatem meam, salvasti de necessitatibus animam meam.",
+      "french": "Parce que vous avez regardé mon état si humilié ; vous avez sauvé mon âme des nécessités fâcheuses qui l’accablaient.",
+      "annotations": null,
+      "source_pages": [
+        "page_0410.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Nec conclusisti me in manibus inimici : statuisti in loco spatioso pedes meos.",
+      "french": "Et vous ne m’avez point livré entre les mains de l’ennemi ; mais vous avez mis mes pieds en un lieu spacieux :",
+      "annotations": null,
+      "source_pages": [
+        "page_0410.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Miserere mei, Domine, quoniam tribulor : conturbatus est in ira oculus meus, anima mea, et venter meus.",
+      "french": "Ayez pitié de moi, Seigneur, parce que je suis très affligé : mon œil, mon âme, et mes entrailles sont toutes troublées par la colère.",
+      "source_pages": [
+        "page_0411.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Quoniam defecit in dolore vita mea, et anni mei in gemitibus.",
+      "french": "Parce que ma vie se consume par la douleur, et mes années par de continuels gémissements.",
+      "source_pages": [
+        "page_0411.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Infirmata est in paupertate virtus mea : et ossa mea conturbata sunt.",
+      "french": "Toute ma force s’est affaiblie par la pauvreté où je suis réduit ; et j’en sens le trouble jusque dans mes os.",
+      "source_pages": [
+        "page_0411.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Super omnes inimicos meos factus sum opprobrium, et vicinis meis valdè ; et timor notis meis.",
+      "french": "Je suis devenu parmi tous mes ennemis un sujet d’opprobre, principalement à l’égard de mes voisins ; et une occasion de frayeur pour ceux dont je suis connu,",
+      "source_pages": [
+        "page_0412.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Qui videbant me, foras fugerunt à me : oblivioni datus sum, tamquam mortuus à corde.",
+      "french": "Ceux qui me voyaient, s’enfuyaient loin de moi. J’ai été mis en oubli, et effacé de leur cœur, comme si j’eusse été mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0413.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Factus sum tamquam vas perditum : Quoniam audivi vituperationem multorum commorantium in circuitu.",
+      "french": "Je suis devenu semblable à un vase qui est brisé : car j’ai entendu les reproches injurieux de plusieurs de ceux qui demeurent aux environs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0413.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "In eo dum convenirent simul adversùm me, accipere animam meam consiliati sunt.",
+      "french": "Dans le temps qu’ils s’assemblaient contre moi, ils ont tenu conseil, pour m’ôter la vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0413.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Ego autem in te speravi, Domine, dixi : Deus meus es tu : In manibus tuis sortes meæ.",
+      "french": "Mais j’ai espéré en vous, Seigneur. J’ai dit : Vous êtes mon Dieu : tous les événements de ma vie sont entre vos mains.",
+      "source_pages": [
+        "page_0414.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Eripe me de manu inimicorum meorum, et à persequentibus me.",
+      "french": "Arrachez-moi des mains de mes ennemis, et de mes persécuteurs.",
+      "source_pages": [
+        "page_0414.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Illustra faciem tuam super servum tuum, salvum me fac in misericordia tua : Domine, non confundar, quoniam invocavi te.",
+      "french": "Répandez sur votre serviteur la lumière de votre visage ; sauvez-moi selon votre miséricorde. Que je ne sais point confondu, Seigneur, parce que je vous ai invoqué.",
+      "source_pages": [
+        "page_0414.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Erubescant impii, et deducantur in infernum : muta fiant labia dolosa.",
+      "french": "Que les impies saient chargés de confusion, ou réduits au tombeau : que les lèvres trompeuses saient rendues muettes,",
+      "source_pages": [
+        "page_0414.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Quæ loquuntur adversus justum iniquitatem, in superbia, et in abusione.",
+      "french": "Ces lèvres qui profèrent des paroles d’iniquité contre le Juste, avec un orgueil plein de mépris.",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Quàm magna multitudo dulcedinis tuæ, Domine, quam abscondisti timentibus te !",
+      "french": "Combien est grande, Seigneur, l’abondance de votre douceur ineffable, que vous avez cachée et réservée pour ceux qui vous craignent !",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Perfecisti eis, qui sperant in te, in conspectu filiorum hominum.",
+      "french": "Vous l’avez rendue pleine et parfaite, pour ceux qui espèrent en vous, à la vue des enfants des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Abscondes eos in abscondito faciei tuæ à conturbatione hominum.",
+      "french": "Vous les cacherez dans le secret de votre face, afin qu’ils saient à couvert de tout trouble du côté des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Proteges eos in tabernaculo tuo, à contradictione linguarum.",
+      "french": "Vous les défendrez dans votre saint Tabernacle, contre les langues qui les attaquent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0416.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Benedictus Dominus, quoniam mirificavit misericordiam suam mihi in civitate munita.",
+      "french": "Que le Seigneur soit béni, parce qu’il a fait paraître envers moi sa miséricorde d’une manière admirable, en me retirant dans une ville bien fortifiée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0416.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Ego autem dixi in excessu mentis meæ : Projectus sum à facie oculorum tuorum.",
+      "french": "Pour moi, j’avais dit dans le transport de mon esprit : J’ai été rejetté de devant vos yeux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0417.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Ideò exaudisti vocem orationis meæ, dum clamarem ad te.",
+      "french": "C’est pour cela que vous avez exaucé ma voix et ma prière, lorsque je criais vers vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0417.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Diligite Dominum, omnes sancti ejus, quoniam veritatem requiret Dominus, et retribuet abundanter facientibus superbiam.",
+      "french": "Aimez le Seigneur, vous tous qui êtes ses Saints ; parce que le Seigneur recherchera la vérité, et qu’il rendra aux superbes selon la grandeur de leur orgueil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0417.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Viriliter agite, et confortetur cor vestrum, omnes qui speratis in Domino.",
+      "french": "Armez-vous d’un grand courage ; et que votre coeur s’affermisse, vous tous qui mettez votre espérance au Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0417.json"
+      ]
+    }
+  ]
+}

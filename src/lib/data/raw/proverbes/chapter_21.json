@@ -1,0 +1,269 @@
+{
+  "book": "Proverbes",
+  "chapter": 21,
+  "chapter_summary": "Cœur du Roi dans la main de Dieu. Faire la miséricorde, et la justice. Langue de mensonge. Femme querelleuse. Châtiment du méchant. Celui qui ferme l’oreille au pauvre, ne sera point écouté. Présent secret. Joie du juste. Méchant livré pour le juste. Celui qui est maître de sa langue, se préserve des afflictions. Désirs du paresseux. Témoin menteur. Le Seigneur qui sauve.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Sicut divisiones aquarum, ita cor Regis in manu Domini : quocumque voluerit, inclinabit illud.",
+      "french": "Le cœur du Roi est dans la main du Seigneur, comme une eau courante ; il le fait tourner de quel côté il veut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0250.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Omnis via viri recta sibi videtur : appendit autem corda Dominus.",
+      "french": "Toutes les voies de l’homme lui paraissent droites ; mais le Seigneur pèse les cœurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0251.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Facere misericordiam, et judicium, magis placet Domino quàm victimæ.",
+      "french": "Faire miséricorde, et justice, est plus agréable au Seigneur, que de lui offrir des victimes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0251.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Exaltatio oculorum est dilatatio cordis : lucerna impiorum, peccatum.",
+      "french": "L’orgueil du cœur rend les yeux altiers : la lampe des méchants n’est que péché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0251.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Cogitationes robusti semper in abundantia : omnis autem piger semper in egestate est.",
+      "french": "Les projets d’un homme fort, et laborieux, produisent toujours l’abondance ; mais le paresseux est toujours pauvre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0252.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Qui congregat thesauros linguâ mendacii, vanus et excors est ; et impingetur ad laqueos mortis.",
+      "french": "Celui qui amasse des trésors par une langue de mensonge, est un homme vain, et sans jugement ; et il s’engagera dans les filets de la mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0252.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Rapina impiorum detrahent eos, quia noluerunt facere judicium.",
+      "french": "Les rapines des impies feront leur ruine, parce qu’ils n’ont pas voulu agir selon la justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0253.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Perversa via viri, aliena est : qui autem mundus est, rectum opus ejus.",
+      "french": "La voie corrompuë de l’homme, est une voie étrangère ; mais quand l’homme est pur, ses œuvres sont droites.",
+      "annotations": null,
+      "source_pages": [
+        "page_0253.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Melius est sedere in angulo domatis quàm cum muliere litigiosa, et in domo communi.",
+      "french": "Il vaudrait mieux demeurer en un coin sur le haut de la maison, que de vivre avec une femme querelleuse, dans une maison commune.",
+      "source_pages": [
+        "page_0254.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Anima impii desiderat malum, non miserebitur proximo suo.",
+      "french": "L’âme du méchant désire le mal, et il n’aura point de compassion de son prochain.",
+      "source_pages": [
+        "page_0254.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Mulctato pestilente, sapientior erit parvulus : et si sectetur sapientem, sumet scientiam. Excogitat justus de domo impii, ut detrahat impios à malo.",
+      "french": "Quand un homme contagieux sera puni, le simple en deviendra plus sage : et s’il s’attache à un homme sage, il acquérera la science. Le juste pense avec application à la maison du méchant, pour retirer les méchants du mal.",
+      "source_pages": [
+        "page_0254.json",
+        "page_0255.json"
+      ],
+      "annotations": null
+    },
+    {
+      "verse_number": 13,
+      "latin": "Qui obturat aurem suam ad clamorem pauperis, et ipse clamabit, et non exaudietur.",
+      "french": "Celui qui ferme l’oreille au cri du pauvre, criera lui-même, et ne sera point écouté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0256.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Munus absconditum extinguit iras, et donum in sinu indignationem maximam.",
+      "french": "Un présent secret éteint la colère ; et un don qu’on met dans le sein, apaise l’aigreur la plus grande.",
+      "annotations": null,
+      "source_pages": [
+        "page_0256.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Gaudium justo est facere judicium, et pavor operantibus iniquitatem.",
+      "french": "La joie du juste, est de faire la justice ; et c’est ce que craignent ceux qui commettent l’iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0256.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Vir, qui erraverit à via doctrinæ, in cœtu gigantum commorabitur.",
+      "french": "L’homme qui s’égare de la voie de la doctrine, demeurera dans l’assemblée des géants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0256.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Qui diligit epulas, in egestate erit : qui amat vinum, et pinguia, non ditabitur.",
+      "french": "Celui qui aime les festins, sera dans l’indigence : celui qui aime le vin, et la bonne chère, ne s’enrichira point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0257.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Pro justo datur impius : et pro rectis iniquus.",
+      "french": "Le méchant sera livré pour le juste ; et l’injuste, pour ceux qui ont le cœur droit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0257.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Melius est habitare in terra deserta, quàm cum muliere rixosa, et iracunda.",
+      "french": "Il vaut mieux habiter dans une terre déserte, qu’avec une femme querelleuse, et colère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0257.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Thesaurus desiderabilis, et oleum in habitaculo justi : et imprudens homo dissipabit illud.",
+      "french": "Il y a un trésor précieux, et de l’huile dans la maison du juste ; mais l’homme imprudent dissipera tout.",
+      "source_pages": [
+        "page_0258.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Qui sequitur justitiam, et misericordiam, inveniet vitam, justitiam, et gloriam.",
+      "french": "Celui qui exerce la justice, et la miséricorde trouvera la vie, la justice, et la gloire.",
+      "source_pages": [
+        "page_0258.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Civitatem fortium ascendit sapiens, et destruxit robur fiduciæ ejus.",
+      "french": "Le sage s’est rendu maître de la ville des forts, et il a détruit la force où elle mettait sa confiance.",
+      "source_pages": [
+        "page_0258.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Qui custodit os suum, et linguam suam, custodit ab anguftiis animam suam.",
+      "french": "Celui qui garde sa bouche, et sa langue, garde son âme des pressantes afflictions.",
+      "source_pages": [
+        "page_0258.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Superbus et arrogans vocatur indoctus, quia in ira operatur superbiam.",
+      "french": "Le superbe et le présomptueux passe pour ignorant ; parce que dans la colère il s’emporte à des actions insolentes.",
+      "source_pages": [
+        "page_0259.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Desideria occidunt pigrum : noluerunt enim quidquam manus ejus operari.",
+      "french": "Les désirs tuent le paresseux : car ses mains ne veulent rien faire.",
+      "source_pages": [
+        "page_0259.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Tota die concupiscit, et desiderat : qui autem justus est, tribuet, et non cessabit.",
+      "french": "Il passe toute la journée à faire des souhaits ; mais celui qui est juste, donne, et ne cesse point d’agir.",
+      "source_pages": [
+        "page_0259.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Hostiæ impiorum abominabiles, quia offeruntur ex scelere.",
+      "french": "Les hosties des méchants sont abominables, parce qu’ils les offrent du fruit de leurs crimes.",
+      "source_pages": [
+        "page_0259.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Testis mendax peribit : vir obediens loquetur victoriam.",
+      "french": "Le témoin menteur périra ; celui qui obéit, sera victorieux dans ses paroles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0260.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Vir impius procaciter obfirmat vultum suum : qui autem rectus est, corrigit viam suam.",
+      "french": "Le méchant fait paraître sur son visage une assurance effrontée ; mais celui qui a le cœur droit, corrige sa voie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0260.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Non est sapientia, non est prudentia, non est consilium contra Dominum.",
+      "french": "Il n’y a point de sagesse, il n’y a point de prudence, il n’y a point de conseil contre le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0261.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Equus paratur ad diem belli : Dominus autem salutem tribuit.",
+      "french": "On prépare un cheval pour le jour du combat ; mais c’est le Seigneur qui sauve.",
+      "annotations": null,
+      "source_pages": [
+        "page_0261.json"
+      ]
+    }
+  ]
+}

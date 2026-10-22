@@ -1,0 +1,386 @@
+{
+  "book": "Psaumes",
+  "chapter": 106,
+  "chapter_summary": "Actions de grâces des Juifs délivrez de la captivité de Babylone. Ils comparent cette captivité à un voyage dans un désert affreux ; à une prison, à une maladie dangereuse, à une tempête.\nAlleluia. | Louez le Seigneur.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Confitemini Domino, quoniam bonus : quoniam in saculum misericordia ejus.",
+      "french": "Louez le Seigneur, parce qu’il est bon, parce que sa miséricorde est éternelle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Dicant qui redempti sunt à Domino : quos redemit de manu inimici, et de regionibus congregavit eos.",
+      "french": "Que ceux-là le disent, et le publient, qui ont été rachetez par le Seigneur, qu’il a rachetez de la puissance de l’ennemi, et rassemblez de divers pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "A solis ortu, et occasu : ab aquilone, et mari.",
+      "french": "De l’orient, et du couchant ; du nord, et de la mer méridionale.",
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Erraverunt in solitudine, in inaquoso : viam civitatis habitaculi, non invenerunt.",
+      "french": "Ils ont erré dans la solitude, dans les lieux où il n’y avait point d’eaux ; sans trouver de chemin pour aller en une ville habitée.",
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Esurientes, et sitientes : anima eorum in ipsis defecit.",
+      "french": "Ils souffraient la faim, et la soif ; et leur âme était tombée en défaillance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et clamaverunt ad Dominum ; cùm tribularentur : et de necessitatibus eorum eripuit eos.",
+      "french": "Au milieu de leur affliction, ils criérent au Seigneur, qui les tira par sa puissance des nécessités pressantes où ils se trouvaient ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et deduxit eos in viam rectam : ut irent in civitatem habitationis.",
+      "french": "Et les conduisit dans le droit chemin ; afin qu’ils pûssent aller à la ville où ils devaient demeurer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Confiteantur Domino misericordiæ ejus : et mirabilia ejus filiis hominum.",
+      "french": "Que les miséricordes du Seigneur saient le sujet de ses louanges ; qu’il soit loué, à cause des merveilles qu’il a faites en faveur des enfants des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Quia satiavit animam inanem : et animam esurientem satiavit bonis.",
+      "french": "Parce qu’il a rassasié l’âme épuisée, et rempli de biens l’âme qui souffrait la faim.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Sedentes in tenebris, et umbra mortis : vinctos in mendicitate, et ferro.",
+      "french": "Ils étaient assis dans les ténèbres, et dans l’ombre de la mort ; ils étaient captifs, dans l’indigence de toutes choses, et chargez de fers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Quia exacerbaverunt eloquia Dei : et consilium Altissimi irritaverunt.",
+      "french": "Parce qu’ils avaient irrité Dieu, en violant ses préceptes ; et mis en colère le Très-Haut, en méprisant son conseil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et humiliatum est in laboribus cor eorum : infirmati sunt, nec fuit qui adjuvaret.",
+      "french": "Leur cœur a été humilié par la fatigue de plusieurs travaux ; ils ont été malades, sans que personne les secourût.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et clamaverunt ad Dominum, cùm tribularentur : et de necessitatibus eorum liberavit eos.",
+      "french": "Ils criérent au Seigneur du milieu de leur affliction ; et il les délivra des necessitez pressantes où ils se trouvaient.",
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et eduxit eos de tenebris, et umbra mortis : et vincula eorum disrupit.",
+      "french": "Il les fit sortir des ténèbres, et de l’ombre de la mort ; et il rompit leurs liens.",
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Confiteantur Domino misericordiæ ejus : et mirabilia ejus filiis hominum.",
+      "french": "Que les miséricordes du Seigneur saient le sujet de ses louanges ; qu’il soit loué, à cause des merveilles qu’il fait en faveur des enfants des hommes.",
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Quia contrivit portas æreas : et vectes ferreos confregit.",
+      "french": "Parce qu’il a brisé les portes d’airain, et rompu les barres de fer.",
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Suscepit eos de via iniquitatis eorum : propter injustitias enim suas humiliati sunt.",
+      "french": "Il les a retirez de la voie de leur iniquité : car ils avaient été humiliez, à cause de leurs injustices.",
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Omnem escam abominata est anima eorum : et appropinquaverunt usque ad portas mortis.",
+      "french": "Leur âme avait en horreur toute sorte de nourriture ; et ils étaient proches des portes de la mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Et clamaverunt ad Dominum, cùm tribularentur : et de necessitatibus eorum liberavit eos.",
+      "french": "Ils criérent au Seigneur du milieu de leur affliction ; et il les délivra de l’extrêmité où ils se trouvaient.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Misit verbum suum, et sanavit eos : et eripuit eos de interitionibus eorum.",
+      "french": "Il envoya sa parole ; et il les guérit : et les tira de la mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Confiteantur Domino misericordia ejus : et mirabilia ejus filiis hominum.",
+      "french": "Que les miséricordes du Seigneur saient le sujet de ses louanges ; qu’il soit loué à cause des merveilles qu’il a faites en faveur des enfants des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Et sacrificent sacrificium laudis : et annuntient opera ejus in exultatione.",
+      "french": "Qu’ils lui offrent un sacrifice de louanges ; et qu’ils publient ses œuvres avec allégresse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Qui descendunt mare in navibus, facientes operationem in aquis multis :",
+      "french": "Ceux qui descendent sur mer dans les navires ; et qui travaillent au milieu des grandes eaux,",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Ipsi viderunt opera Domini, et mirabilia ejus in profundo.",
+      "french": "Ont vu les œuvres du Seigneur, et ses merveilles dans la profondeur des abîmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Dixit, et stetit spiritus procellæ : et exaltati sunt fluctus ejus.",
+      "french": "Il a commandé, et aussi-tôt il s’est levé un vent qui a amené la tempête ; et les flots de la mer se sont élevez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Ascendunt usque ad Cœlos, et descendunt usque ad abyssos : anima eorum in malis tabescebat.",
+      "french": "Ils montaient jusqu’au Ciel, et descendaient jusqu’au fond des abîmes : leur âme tombait en défaillance à la vue de tant de maux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Turbati sunt, et moti sunt sicut ebrius : et omnis sapientia eorum devorata est.",
+      "french": "Ils étaient troublés, et agitez comme un homme qui est ivre ; et leur sagesse était toute renversée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et clamaverunt ad Dominum, cùm tribularentur : et de necessitatibus eorum eduxit eos.",
+      "french": "Ils criérent au Seigneur du milieu de leur affliction ; et il les tira de l’extrémité où ils se trouvaient.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et statuït procellam ejus in auram : et siluerunt fluctus ejus.",
+      "french": "Il changea cette tempête en bonace ; et les flots de la mer se calmérent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et lætati sunt quia siluerunt : et deduxit eos in portum voluntatis eorum.",
+      "french": "Ils se réjouirent de ce que ses flots s’étaient calmez ; et il les conduisit jusqu’au port où ils voulaient arriver.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Consiteantur Domino misericordiæ ejus : et mirabilia ejus filiis hominum.",
+      "french": "Que les miséricordes du Seigneur saient le sujet de ses louanges ; qu’il soit loué à cause des merveilles qu’il fait en faveur des enfants des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et exaltent eum in ecclesia plebis : et in cathedra seniorum laudent eum.",
+      "french": "Que l’on relève sa gloire dans l’assemblée du peuple, et qu’on le loué dans le lieu où sont assis les anciens.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Posuit flumina in desertum : et exitus aquarum in sitim :",
+      "french": "Il a changé les fleuves en un desert ; et les pays arrosez d’eaux, en un lieu sec :",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Terram fructiferam in salsuginem, à malitia inhabitantium in ea.",
+      "french": "Et il a rendu la terre qui portait beaucoup de fruits, aussi stérile, que celle qui est semée de sel, à cause de la malice de ses habitants.",
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Posuit desertum in stagna aquarum : et terram sine aqua in exitus aquarum.",
+      "french": "Il a changé les déserts en des étangs ; et la terre qui était sans eau, en des eaux courantes.",
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et collocavit illic esurientes ; et constituerunt civitatem habitationis.",
+      "french": "Et il y a établi ceux qui étaient affamez ; ils y ont bâti une ville pour y demeurer ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Et seminaverunt agros, et plantaverunt vineas : et fecerunt fructum nativitatis.",
+      "french": "Ils ont semé les champs, et planté des vignes, qui ont produit grande abondance de fruits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Et benedixit eis, et multiplicati sunt nimis : et jumenta eorum non minoravit.",
+      "french": "Il les a béni, et ils se sont multipliez extrémement ; et il a augmenté leurs bestiaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Et pauci facti sunt : et vexati sunt à tribulatione malorum, et dolore.",
+      "french": "Lorsqu’ils ont été réduits à un petit nombre, et affligez de plusieurs maux, et de douleur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Effusa est contemptio super principes : et errare fecit eos in invio, et non in via.",
+      "french": "Lorsque leurs Princes sont tombez dans le dernier mépris ; et qu’il les a fait errer hors de la voie, par des lieux où il n’y avait point de chemin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Et adjuvit pauperem de inopia : et posuit sicut oves familias.",
+      "french": "Il a délivré le pauvre de son indigence, et multiplié ses enfants comme des troupeaux de brebis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Videbunt recti et lætabuntur : et omnis iniquitas oppilabit os suum.",
+      "french": "Les justes verront ces choses, et seront remplis de joie ; et le méchant n’osera ouvrir la bouche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Quis sapiens et custodiet hæc ? et intelliget misericordias Domini ?",
+      "french": "Qui est l’homme sage, et il conservera le souvenir de ces choses ? et il comprendra les miséricordes du Seigneur ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0089.json"
+      ]
+    }
+  ]
+}

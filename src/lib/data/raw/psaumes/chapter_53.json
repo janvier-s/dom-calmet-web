@@ -1,0 +1,80 @@
+{
+  "book": "Psaumes",
+  "chapter": 53,
+  "chapter_summary": "David implore le secours du Seigneur, contre ses ennemis. Il se promet la victoire contre eux. Il voue des sacrifices d’actions de grâces.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, in carminibus. Intellectus David, cum venissent Ziphæi, et dixissent ad Saul : Nonne David absconditus est apud nos ?",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0678.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Deus in nomine tuo salvum me fac : et in virtute tua judica me.",
+      "french": "Sauvez-moi, mon Dieu, par la vertu de votre nom ; et faites éclater votre puissance, en jugeant en ma faveur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0678.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Deus, exaudi orationem meam : auribus percipe verba oris mei.",
+      "french": "Exaucez, ô Dieu ! ma prière ; rendez vos oreilles attentives aux paroles de ma bouche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0678.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quoniam alieni insurrexerunt adversum me, et fortes quæsierunt animam meam : et non proposuerunt Deum ante conspectum suum.",
+      "french": "Parce que des étrangers se sont élevés contre moi ; que des ennemis puissants ont cherché à m’ôter la vie ; et qu’ils ne se sont point proposé Dieu devant les yeux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0678.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Ecce enim Deus adjuvat me : et Dominus susceptor est animæ meæ.",
+      "french": "Mais voilà que Dieu prend ma défense, et que le Seigneur se déclare le protecteur de ma vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0679.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Averte mala inimicis meis : et in veritate tua disperde illos.",
+      "french": "Faites retomber sur mes ennemis les maux dont ils veulent m’accabler ; et exterminez-les, selon la vérité de votre parole.",
+      "annotations": null,
+      "source_pages": [
+        "page_0679.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Voluntariè sacrificabo tibi, et confitebor nomini tuo, Domine, quoniam bonum est.",
+      "french": "Je vous offrirai volontairement un sacrifice, et je louerai votre nom, Seigneur, parce qu’il est rempli de bonté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0680.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quoniam ex omni tribulatione eripuisti me : et super inimicos meos despexit oculus meus.",
+      "french": "Parce que vous m’avez délivré de toutes mes afflictions ; et que mon œil a méprisé tous mes ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0680.json"
+      ]
+    }
+  ]
+}

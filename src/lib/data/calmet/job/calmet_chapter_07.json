@@ -40,7 +40,14 @@
       "sub": false,
       "latin_lemma": "repleta est caro mea putredine, et sordibus pulveris.",
       "lemma": "Ma chair est couverte de pourriture, et d’une",
-      "text": "sale poussière. L’Hébreu est un peu différent : [6] _Ma chair est chargée_ (_est revêtue_) _de vers, et de poussière, ou de morceau de terre ; ou même de croûtes de mes ulcères : Ma peau est toute fendue, et ma chair_ _pourrie tombe en morceaux._ Les Septante : [7] _Tout mon corps est_ _couvert de pourriture, et de vers ; j’arrose_ (_ou je pourris_) _les mottes de_ _terre, par le pus que je tire en frottant mes ulcères._"
+      "text": ""
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "sale poussière.",
+      "text": "L’Hébreu est un peu différent : [6] _Ma chair est chargée_ (_est revêtue_) _de vers, et de poussière, ou de morceau de terre ; ou même de croûtes de mes ulcères : Ma peau est toute fendue, et ma chair_ _pourrie tombe en morceaux._ Les Septante : [7] _Tout mon corps est_ _couvert de pourriture, et de vers ; j’arrose_ (_ou je pourris_) _les mottes de_ _terre, par le pus que je tire en frottant mes ulcères._"
     },
     {
       "verse": 6,
@@ -117,7 +124,14 @@
       "sub": false,
       "latin_lemma": "visitas eum diluculo, et subito pro-",
       "lemma": null,
-      "text": "BAS ILLUM. _Vous le visitez dès le matin, et vous le mettez à l’épreuve aussitôt._ Vous étudiez toutes ses démarches avec une diligence, une application aussi grande, que s’il s’agissait d’une chose fort importante. Vous l’éprouverez aussitôt, à chaque moment,[22] sans cesse ; et vous ne le quittez point de vue. Cette occupation, Seigneur, est-elle digne de votre Majesté ? Méritons-nous tous ces soins ? Que ne me laissez-vous enfin respirer un moment ? (℣. 19.) _Usquequò non parcis mihi ? etc._"
+      "text": ""
+    },
+    {
+      "verse": 18,
+      "sub": false,
+      "latin_lemma": "bas illum.",
+      "lemma": "Vous le visitez dès le matin, et vous le mettez à l’épreuve aussitôt.",
+      "text": "Vous étudiez toutes ses démarches avec une diligence, une application aussi grande, que s’il s’agissait d’une chose fort importante. Vous l’éprouverez aussitôt, à chaque moment,[22] sans cesse ; et vous ne le quittez point de vue. Cette occupation, Seigneur, est-elle digne de votre Majesté ? Méritons-nous tous ces soins ? Que ne me laissez-vous enfin respirer un moment ? (℣. 19.) _Usquequò non parcis mihi ? etc._"
     },
     {
       "verse": 20,
@@ -150,13 +164,6 @@
       "after": "nuits dans la peine, et dans la douleur : mais elle diffèr"
     },
     {
-      "seam": "page_0137>page_0138",
-      "verse": 5,
-      "mode": "flow",
-      "before": "Ma chair est couverte de pourriture, et d’une",
-      "after": "sale poussière. L’Hébreu est un peu différent : ^{(a)} _Ma"
-    },
-    {
       "seam": "page_0138>page_0139",
       "verse": 7,
       "mode": "flow",
@@ -183,13 +190,6 @@
       "mode": "flow",
       "before": "si ; et mourir, que de subsister comme je fais._ Ou bien :",
       "after": "Mon âme souhaiterait la suffocation, et la mort, plutôt qu"
-    },
-    {
-      "seam": "page_0142>page_0143",
-      "verse": 18,
-      "mode": "flow",
-      "before": "",
-      "after": "BAS ILLUM. _Vous le visitez dès le matin, et vous le mette"
     },
     {
       "seam": "page_0143>page_0144",
@@ -225,7 +225,7 @@
     {
       "key": "page_0136-a",
       "n": 3,
-      "text": "saint Thomas ; Nicolas de Lyre ; la Haye ; et quelques autres."
+      "text": "Saint Thomas ; Nicolas de Lyre ; la Haye ; et quelques autres."
     },
     {
       "key": "page_0137-a",
@@ -275,7 +275,7 @@
     {
       "key": "page_0140-b",
       "n": 13,
-      "text": "Voyez Job 38,8 et 16 ;\nProverbes* 8,27, 29, et Psaumes 103,9* ;\nJérémie 5,22 ;\nAmos 5,8 ;\nAmos 9,6 ;\nProverbes."
+      "text": "Voyez Job 38,8 et 16 ;\nProverbe* 8,27, 29, et Psaumes 103,9 ;\nJérémie 5,22 ;\nAmos 5,8 ;\nAmos 9,6 ;\nProverbes."
     },
     {
       "key": "page_0141-a",
@@ -340,7 +340,7 @@
     {
       "key": "page_0144-b",
       "n": 26,
-      "text": "[UNCERTAIN GREEK] S. Aug. Quare constituisti hominem"
+      "text": "[UNCERTAIN GREEK] saint Aug. Quare constituisti hominem"
     }
   ],
   "missing_footnotes": []

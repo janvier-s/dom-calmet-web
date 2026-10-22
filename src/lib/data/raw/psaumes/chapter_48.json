@@ -1,0 +1,206 @@
+{
+  "book": "Psaumes",
+  "chapter": 48,
+  "chapter_summary": "Inutilité des richesses. Elles ne peuvent ni conserver la vie à celui qui les possède, ni la donner à un autre. La mort est inévitable. Elle rend tous les hommes égaux. Les méchants se rendent semblables aux bêtes.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, filiis Core. Psalmus.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Audite hæc, omnes Gentes : auribus percipite omnes, qui habitatis orbem.",
+      "french": "Peuples, écoutez tout ceci ; soyez attentifs, vous tous qui habitez l’univers ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quique terrigenæ, et filii hominum : simul in unum, dives et pauper.",
+      "french": "Soit que vous soyez d’une basse, ou d’une illustre naissance ; que vous soyez riches ou pauvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Os meum loquetur sapientiam : et meditatio cordis mei prudentiam.",
+      "french": "Ma bouche proférera des paroles de sagesse, et la méditation de mon cœur des paroles de prudence.",
+      "annotations": null,
+      "source_pages": [
+        "page_0618.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Inclinabo in parabolam aurem meam : aperiam in psalterio propositionem meam.",
+      "french": "Je rendrai moi-même mon oreille attentive à l’intelligence de la parabole ; je découvrirai sur la harpe ce que j’ai à proposer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0619.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Cur timebo in die mala ? Iniquitas calcanei mei circumdabit me.",
+      "french": "Quel sujet aurai-je de craindre au jour mauvais ? Ce sera si je me trouve enveloppé dans l’iniquité de ma voie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0620.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Qui confidunt in virtute sua ; et in multitudine divitiarum suarum gloriantur.",
+      "french": "Que ceux qui se confient dans leur force, et qui se glorifient dans l’abondance de leurs richesses, entendent ceci.",
+      "annotations": null,
+      "source_pages": [
+        "page_0621.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Frater non redimit, redimet homo ? non dabit Deo placationem suam.",
+      "french": "Le frère ne rachette point son frère : l’homme étranger le rachetera-t’il ? Il n’offrira point à Dieu un sacrifice d’expiation, ni un prix, pour racheter sa vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0621.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et pretium redemptionis animæ suæ : et laborabit in æternum : et vivet adhuc in finem.",
+      "french": "Il sera éternellement dans le travail et la peine ; et il vivra néanmoins jusqu’à la fin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0622.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Non videbit interitum, cùm viderit sapientes morientes ; simul insipiens, et stultus peribunt.",
+      "french": "Il ne verra point lui-même la mort, lorsqu’il verra les Sages mourir. L’insensé, et le fou périront également ; et ils abandonneront leurs richesses à des étrangers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0624.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et relinquent alienis divitias suas : Et sepulchra eorum domus illorum in æternum.",
+      "french": "Leurs sépulcres seront leurs maisons, jusqu’à la consommation des siècles ; et leurs demeures dans la suite de toutes les races.",
+      "annotations": null,
+      "source_pages": [
+        "page_0625.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Tabernacula eorum in progenie, et progenie ; vocaverunt nomina sua in terris suis.",
+      "french": "Quoiqu’ils aient voulu se rendre immortels, en donnant leurs noms à leurs terres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0625.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et homo cùm in honore esset, non intellexit : comparatus est jumentis insipientibus, et similis factus est illis.",
+      "french": "Et l’homme, tandis qu’il était élevé en honneur, ne l’a point compris. Il a été comparé aux bêtes qui n’ont point de raison ; et il leur est devenu semblable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0626.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Hæc via illorum scandalum ipsis ; et postea in ore suo complacebunt.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0626.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Sicut oves in inferno positi sunt : mors depascet eos.",
+      "french": "Ils ont été à la fin placés dans l’enfer, comme des brebis : la mort les dévorera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0628.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et dominabuntur eorum justi in matutino : et auxilium eorum veterascet in inferno à gloria eorum.",
+      "french": "Et les Justes auront l’empire sur eux dès le matin : et tout leur appui sera détruit dans l’enfer, après qu’ils auront été dépouillés de leur gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0628.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Verumtamen Deus redimet animam meam de manu inferni, cùm acceperit me.",
+      "french": "Mais Dieu rachètera et délivrera mon âme de la puissance de l’enfer, lorsqu’il m’aura pris en sa protection.",
+      "annotations": null,
+      "source_pages": [
+        "page_0630.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Ne timueris cùm dives factus fuerit homo, et cùm multiplicata fuerit gloria domûs ejus.",
+      "french": "Ne craignez point en voyant un homme devenu riche, et sa maison comblée de gloire ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0630.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Quoniam cùm interierit, non sumet omnia : neque descendet cum eo gloria ejus.",
+      "french": "Parce que lorsqu’il sera mort, il n’emportera point tous ses biens ; et que sa gloire ne descendra point avec lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0631.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Quia anima ejus in vita ipsius benedicetur : confitebitur tibi cùm benefeceris ei.",
+      "french": "Car son âme recevra la bénédiction pendant sa vie. Il vous louera quand vous lui ferez du bien.",
+      "annotations": null,
+      "source_pages": [
+        "page_0631.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Introibit usque in progenies patrum suorum : et usque in æternum non videbit lumen.",
+      "french": "Il entrera dans le lieu de la demeure de tous ses pères : durant toute l’éternité il ne verra jamais la lumière.",
+      "annotations": null,
+      "source_pages": [
+        "page_0632.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Homo, cùm in honore esset, non intellexit : comparatus est jumentis insipientibus, et similis factus est illis.",
+      "french": "L’homme, tandis qu’il était en honneur, ne l’a point compris : il a été comparé aux bêtes qui n’ont point de raison ; et il leur est devenu semblable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0632.json"
+      ]
+    }
+  ]
+}

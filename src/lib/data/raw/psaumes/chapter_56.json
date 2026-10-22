@@ -1,0 +1,143 @@
+{
+  "book": "Psaumes",
+  "chapter": 56,
+  "chapter_summary": "David implore le secours du Seigneur dans le fort de son affliction. Il lui rend grâces de l’avoir délivré. Il promet de publier ses louanges parmi toutes les Nations.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem : Ne disperdas. David in tituli inscriptionem, cùm fugeret à facie Saul in speluncam.",
+      "french": "Pour la fin : Ne perdez pas. David mit cette inscription pour titre, lorsqu’il s’enfuit de devant la face de Saül dans une caverne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0705.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Miserere mei, Deus, miserere mei ; quoniam in te confidit anima mea.",
+      "french": "Ayez pitié de moi, mon Dieu ; ayez pitié de moi, parce que mon âme a mis en vous sa confiance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0706.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et in umbra alarum tuarum sperabo, ’donec transeat iniquitas.’",
+      "french": "Et j’espérerai à l’ombre de vos ailes, jusqu’à ce que l’iniquité soit passée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0706.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Clamabo ad Deum altissimum ; Deum qui beneficit mihi.",
+      "french": "Je crierai vers le Dieu très haut ; vers le Dieu qui a été mon bienfaiteur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0707.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Misit de Cœlo, et liberavit me : dedit in opprobrium conculcantes me.",
+      "french": "Il a envoyé du haut du ciel, et il m’a délivré : il a couvert de confusion et d’opprobre ceux qui me foulaient aux pieds.",
+      "annotations": null,
+      "source_pages": [
+        "page_0707.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Mifit Deus mifericordiam suam, et veritatem suam, et eripuit animam meam de medio catulorum leonum : dormivi conturbatus.",
+      "french": "Dieu a envoyé sa miséricorde, et sa vérité : et il a arraché mon âme du milieu des petits lions : j’ai dormi plein de trouble.",
+      "annotations": null,
+      "source_pages": [
+        "page_0708.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Filii hominum, dentes eorum arma et sagittæ ; et lingua eorum gladius acutus.",
+      "french": "Les enfants des hommes ont les dents comme des armes, et des flèches ; et leur langue est une épée très aiguë.",
+      "annotations": null,
+      "source_pages": [
+        "page_0709.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Exaltare super Cœlos, Deus ; et in omnem terram gloria tua.",
+      "french": "Elevez-vous, Seigneur, au-dessus des Cieux ; et que votre gloire éclate dans toute la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0709.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Laqueum paraverunt pedibus meis ; et incurvaverunt animam meam.",
+      "french": "Ils ont tendu un piège à mes pieds ; et ils ont rendu mon âme toute courbée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0710.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Foderunt ante faciem meam foveam ; et inciderunt in eam.",
+      "french": "Ils ont creusé une fosse devant mes yeux ; et ils y sont eux-mêmes tombés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0710.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Paratum cor meum, Deus ; paratum cor meum : cantabo, et psalmum dicam.",
+      "french": "Mon cœur est préparé, ô mon Dieu ; mon cœur est tout préparé : je chanterai, et je ferai retentir vos louanges.",
+      "annotations": null,
+      "source_pages": [
+        "page_0710.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Exurge, gloria mea ; exurge, psalterium, et cithara : exurgam diluculo.",
+      "french": "Levez-vous, ma gloire ; éveillez-vous, mon luth, et ma harpe ; je me lèverai de grand matin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0711.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Confitebor tibi in populis, Domine ; et psalmum dicam tibi in Gentibus :",
+      "french": "Je vous louerai, Seigneur, au milieu des peuples, et je chanterai votre gloire parmi les nations ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0711.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Quoniam magnificata est usque ad Cœlos misericordia tua, et usque ad nubes veritas tua.",
+      "french": "Parce que votre miséricorde est élevée jusqu’aux Cieux, et votre vérité jusqu’aux nuées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0712.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Exaltare super Cœlos, Deus ; et super omnem terram gloria tua.",
+      "french": "Faites connaître, ô mon Dieu, que vous êtes élevé au-dessus des Cieux, et que votre gloire éclate dans toute la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0712.json"
+      ]
+    }
+  ]
+}

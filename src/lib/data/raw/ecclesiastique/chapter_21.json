@@ -1,0 +1,266 @@
+{
+  "book": "Siracide",
+  "chapter": 21,
+  "chapter_summary": "Fuir le péché. Expier ses fautes. La priere du pauvre arrive jusqu’à Dieu. Maison du méchant, bâtie au dépens des autres. Le chemin du pécheur conduit à l’enfer. Vraie, et fausse sagesse. Caracteres de l’imprudent. Ne pas écouter aux portes, et aux fenêtres. Semeur de rapports.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Fili, peccasti ? Non adjicias iterum : sed et de pristinis deprecare, ut tibi dimittantur.",
+      "french": "Mon fils, avez-vous péché ? Ne péchez plus ; mais priez pour vos fautes passées, afin qu’elles vous saient pardonnées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0369.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quasi à facie colubri fuge peccata : et si accesseris ad illa, suscipient te.",
+      "french": "Fuyez le péché, comme ont fuit un serpent : car si vous vous en approchez, il se saisira de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0369.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Dentes leonis, dentes ejus, interficientes animas hominum.",
+      "french": "Ses dents, sont des dents de lion, qui tuent les âmes des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0370.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quasi romphæa bis acuta, omnis iniquitas : plagæ illius non est sanitas.",
+      "french": "Tout péché est comme une épée à deux tranchants : et la plaie qu’il fait est incurable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0370.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Objurgatio, et injuriæ annullabunt substantiam : et domus quæ nimis locuples est, annullabitur superbiâ : sic substantia superbi eradicabitur.",
+      "french": "Les outrages, et les violences dissiperont les richesses ; [ la maison la plus riche se ruinera par l’orgueil ; ] et le bien du superbe sera détruit jusqu’à la racine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0370.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Deprecatio pauperis ex ore usque ad aures ejus perveniet, et judicium festinatò adveniet illi.",
+      "french": "La priere du pauvre s’élevera de sa bouche jusqu’aux oreilles de Dieu, et il se hâtera de lui faire justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0371.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Qui odit correptionem, vestigium est peccatoris : et qui timet Deum, convertetur ad cor suum.",
+      "french": "Celui qui hait la réprimande, marche sur les traces du méchant ; et celui qui craint Dieu, se convertira du fond du cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0371.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Notus à longè, potens linguâ audaci : et sensatus scit labi ab ipso.",
+      "french": "L’homme puissant et audacieux en paroles, se fait connaître de loin ; et le sage sait la maniere de se défaire de lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0371.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Via peccantium complanata lapidibus ; et in fine illorum inferi, et tenebræ, et pœnæ.",
+      "french": "Le chemin des pécheurs est uni, et pavé de pierres ; mais il conduit à l’enfer, [aux ténèbres, et aux supplices.]",
+      "annotations": null,
+      "source_pages": [
+        "page_0373.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Qui custodit justitiam, continebit sensum ejus.",
+      "french": "Celui qui garde la justice, en pénétrera l’esprit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0373.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Consummatio timoris Dei, sapientia, et sensus.",
+      "french": "La sagesse, et le bon sens, est le fruit de la parfaite crainte de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0374.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Non erudietur, qui non est sapiens in bono.",
+      "french": "Celui qui n’est pas sage dans le bien ; ne deviendra jamais habile.",
+      "annotations": null,
+      "source_pages": [
+        "page_0374.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Est autem sapientia, que abundat in malo : et non est sensus ubi est amaritudo.",
+      "french": "Il y a une sagesse qui est habile dans le mal : et la prudence n’est point où est l’amertume du cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0374.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Scientia sapientis tamquam inundatio abundabit, et consilium illius sicut fons vitæ permanet.",
+      "french": "16 La science du sage se répandrà comme une eau qui se déborde, et le conseil qu’il donne, subsistera comme une source de vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0375.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Cor fatui quasi vas confractum, et omnem sapientiam non tenebit.",
+      "french": "Le cœur de l’insensé est comme un vase rompu, il ne peut rien retenir de la sagesse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0375.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Verbum sapiens quodcumque audierit scins, laudabit, et a ! se adjiciet : audivit luxuriosus, et displicebit illi : et projiciet illud post dorsum suum.",
+      "french": "Que l’homme habile entende une parole sage, il la louera aussi-tôt, et il se l’appliquera ; que le voluptueux l’entende, elle lui déplaira, et il la rejettera derrière lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0376.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Narratio fatui quasi sarcina in via : nam in labiis sensati invenietur gratia.",
+      "french": "L’entretien de l’insensé est comme un fardeau qui pèse dans le chemin ; et la grâce se trouvera sur les lèvres de l’homme sensé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0376.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Os prudentis quæritur in ecclesia, et verba illius cogitabunt in cordibus suis.",
+      "french": "La bouche de l’homme prudent est recherchée dans les assemblées, et les hommes repasseront ses paroles dans leur cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0376.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Tamquam domus exterminata, sic fatuo sapientia : et scientia insensati inenarrabilia verba.",
+      "french": "La sagesse est à l’imprudent comme une maison ruinée ; et la science de l’insensé, est une confusion de paroles mal digérées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0376.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Compedes in pedibus, stulto doctrina ; et quasi vincula manuum super manum dexteram.",
+      "french": "L’instruction est à l’imprudent comme des fers aux pieds, et comme des chaînes qui lui chargent la main droite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Fatuus in risu exaltat vocem suam : vir autem sapiens vix tacitè ridebit.",
+      "french": "L’insensé en riant éleve sa voix ; mais l’homme sage rira à peine tout bas.",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Ornamentum aureum prudenti doctrina, et quasi brachiale in brachio dextro.",
+      "french": "La science est à l’homme prudent un ornement d’or ; elle est comme un brasselet à son bras droit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0378.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Pes fatui facilis in domum proximi : et homo peritus confundetur à persona potentis.",
+      "french": "L’insensé met aisément le pied dans la maison [ de son voisin ; ] mais l’homme qui sait vivre, est fort réservé à visiter une personne puissante.",
+      "annotations": null,
+      "source_pages": [
+        "page_0378.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Stultus à fenestra respiciet in domum : vir autem eruditus foris stabit.",
+      "french": "L’insensé regardera par la fenêtre dans une maison ; mais l’homme discret se tiendra dehors.",
+      "annotations": null,
+      "source_pages": [
+        "page_0378.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Stultitia hominis auscultare per ostium : et prudens gravabitur contumeliâ.",
+      "french": "Le fol montrera sa folie, en écoutant à une porte ; mais cette bassesse sera insupportable à l’homme prudent.",
+      "source_pages": [
+        "page_0379.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Labia imprudentium stulta narrabunt : verba autem prudentium, statêrâ pondrabuntur.",
+      "french": "Les lèvres des imprudents diront des sottises ; mais les paroles des hommes prudents, seront pesées à la balance.",
+      "source_pages": [
+        "page_0379.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "In ore fatuorum cor illorum : et in corde sapientium os illorum.",
+      "french": "Le cœur des insensés est dans leur bouche ; et la bouche des sages est dans leur cœur.",
+      "source_pages": [
+        "page_0379.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Dum maledicit impius diabolum, maledicit ipse animam suam.",
+      "french": "Lorsque l’impie maudit le diable, il se maudit lui-même.",
+      "annotations": null,
+      "source_pages": [
+        "page_0380.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Susurro coinquinabit animam suam, et in omnibus odietur : et qui cum eo manserit odiosus erit : tacitus, et sensatus honorabitur.",
+      "french": "Le semeur de rapports souillera son âme ; et il sera haï de tout le monde : [Celui qui demeure avec lui, lui sera odieux ; mais l’homme sensé, et ami du silence, sera honoré.]",
+      "annotations": null,
+      "source_pages": [
+        "page_0380.json"
+      ]
+    }
+  ]
+}

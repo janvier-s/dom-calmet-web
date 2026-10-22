@@ -1,0 +1,103 @@
+{
+  "book": "Psaumes",
+  "chapter": 141,
+  "chapter_summary": "David dans la caverne d’Engaddi, prie le Seigneur de le délivrer, et promet de célébrer ses louanges, et de lui rendre de solemnelles actions de grâces, après qu’il sera échappé de ce péril.\nIntellectus David, cùm esset in spelunca. Oratio. Intelligence de David, lorsqu’il était dans la caverne. Prière.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "Intellectus David, cum esset in spelunca, oratio.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription): check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0363.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Voce mea ad Dominum clamavi : voce mea ad Dominum deprecatus sum.",
+      "french": "J’ai élevé ma voix pour crier vers le Seigneur : j’ai élevé ma voix pour prier le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0363.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Effundo in conspectu ejus orationem meam : et tribulationem meam ante ipsum pronuntio.",
+      "french": "Je répans ma prière en sa présence ; et j’expose devant lui mon extrême affliction,",
+      "annotations": null,
+      "source_pages": [
+        "page_0363.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "In deficiendo ex me spiritum meum : et tu cognovisti semitas meas.",
+      "french": "Lorsque mon âme est toute prête à me quitter : et vous connaissez, Seigneur, mes voies.",
+      "annotations": null,
+      "source_pages": [
+        "page_0363.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "In via hac, quâ ambulabam, absconderunt laqueum mihi.",
+      "french": "Ils m’ont tendu un piège en secret, dans cette voie où je marchais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0364.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Considerabam ad dexteram, et videbam : et non erat qui cognosceret me.",
+      "french": "Je considérais à ma droite, et je regardais : et il n’y avait personne qui me connût.",
+      "annotations": null,
+      "source_pages": [
+        "page_0364.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Periit fuga à me ; et non est qui requirat animam meam.",
+      "french": "Tout moyen de m’enfuir m’est ôté : et nul ne cherche à sauver ma vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0364.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Clamavi ad te, Domine ; dixi : Tu es spes mea, portio mea in terra viventium.",
+      "french": "J’ai crié vers vous, Seigneur ; j’ai dit : Vous êtes mon espérance, et mon partage dans la terre des vivants.",
+      "source_pages": [
+        "page_0365.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Intende ad deprecationem meam : quia humiliatus sum nimis.",
+      "french": "Soyez attentif à ma prière ; parce que je suis extrémement humilié.",
+      "source_pages": [
+        "page_0365.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Libera me à persequentibus me : quia confortati sunt super me.",
+      "french": "Délivrez-moi de ceux qui me persécutent ; parce qu’ils sont devenus plus forts que moi.",
+      "source_pages": [
+        "page_0365.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Educ de custodia animam meam ad confitendum nomini tuo : me expectant justi, donec retribuas mihi.",
+      "french": "Tirez mon âme de la prison où elle est ; afin que je bénisse votre nom. Les justes sont dans l’attente de la justice que vous me rendrez.",
+      "source_pages": [
+        "page_0365.json"
+      ]
+    }
+  ]
+}

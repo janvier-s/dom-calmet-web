@@ -1,0 +1,125 @@
+{
+  "book": "Psaumes",
+  "chapter": 75,
+  "chapter_summary": "Actions de grâces à Dieu pour la défaite de l’armée des Assyriens. Dieu terrible, juste Juge, arbitre de la vie, et de la mort des Princes.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, in laudibus. Psalmus Asaph, canticum ad Assyrios.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription): check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0387.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Notus in Judæa Deus : in Israel magnum nomen ejus.",
+      "french": "Dieu s’est fait connaître dans la Judée : son nom est grand dans Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0387.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et factus est in pace locus ejus, et habitatio ejus in Sion.",
+      "french": "Il a choisi la ville de paix pour son lieu, et Sion pour sa demeure.",
+      "annotations": null,
+      "source_pages": [
+        "page_0387.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Ibi confregit potentias arcuum scutum, gladium, et bellum.",
+      "french": "C’est-là qu’il a brisé toute la force des arcs, les boucliers, et les épées ; et qu’il a éteint la guerre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0388.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Illuminans tu mirabiliter à montibus æternis : turbati sunt omnes insipientes corde.",
+      "french": "Vous avez, ô Dieu, fait briller votre lumière d’une manière admirable du haut des montagnes éternelles ; et tous ceux dont le cœur était rempli de folie, ont été troublés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0388.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Dormierunt somnum suum : et nihil invenerunt omnes viri divitiarum in manibus suis.",
+      "french": "Ils se sont endormis du sommeil de la mort : et tous ces hommes qui se glorisiaient de leurs richesses, n’ont rien trouvé dans leurs mains lorsqu’ils se sont éveilleZ.",
+      "annotations": null,
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ab increpatione tua, Deus Jacob, dormisaverunt qui ascenderunt equos.",
+      "french": "A la voix de vos menaces, ô Dieu de Jacob, ces fiers cavaliers se sont endormis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Tu terribilis es, et quis resistet tibi ? ex tunc ira tua.",
+      "french": "Vous êtes vraiment terrible ; et qui pourra vous résister au moment que vous vous mettrez en colère ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0391.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "De cœlo auditum fecisti judicium : terra tremuit, et quievit.",
+      "french": "Vous avez fait entendre du Ciel le jugement que vous avez prononcé. La terre a tremblé, et elle est demeurée en paix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0392.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Cùm exurgeret in judicium Deus, ut salvos faceret omnes mansuetos terræ.",
+      "french": "Lorsque Dieu s’est levé pour rendre justice, afin de sauver tous ceux qui font doux, et paisibles sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0392.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quoniam cogitatio hominis confitebitur tibi : et reliquiæ cogitationis diem festum agent tibi.",
+      "french": "La pensée de l’homme sera occupée à vous louer ; et le souvenir qui lui restera de cette pensée, le tiendra comme dans une fête perpétuelle devant vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Vovete, et reddite Domino Deo vestro, omnes qui in circuitu ejus affertis munera.",
+      "french": "Faites des vœux au Seigneur votre Dieu, et vous acquittez de ces vœux ; vous tous qui êtes autour de lui, et qui lui offrez des présents.",
+      "annotations": null,
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Terribili, et ei qui aufert spiritum Principum, terribili apud Reges terræ.",
+      "french": "Faites des vœux à celui qui est vraiment terrible, qui ôte la vie aux Princes, qui est terrible aux Rois de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0394.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "book": "1 Maccabées",
+  "chapter": 3,
+  "chapter_summary": "Victoires de Judas Maccabée sur Appollonius, sur Seron, sur Lysias. Antiochus passe l’Euphrate, et va dans l’Arménie.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Et surrexit Judas, qui vocabatur Maccabæus, filius ejus pro eo :",
+      "french": "Alors Judas son fils, surnommé Maccabée, prit sa place.",
+      "annotations": "An du M. 3838.",
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et adjuvabant eum omnes fratres ejus, et universi qui se conjunxerant patri ejus, et præliabantur prælium Israël cum lætitia.",
+      "french": "Il était assisté par tous ses frères, et par tous ceux qui s’étaient joints à son père : et ils combattaient avec joie pour la défense d’Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et dilatavit gloriam populo suo, et induit se loricam sicut gigas, et succinxit se arma bellica sua in præliis, et protegebat castra gladio suo.",
+      "french": "Ce fut lui qui accrut la gloire de son peuple : il se revêtit de la cuiraffe comme un géant ; il se couvrait de ses armes dans les combats, et son épée était la protection de tout le camp.",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Similis factus est leoni in operibus suis, et sicut catulus leonis rugiens in venatione.",
+      "french": "Il devint semblable a un lion dans ses grandes actions, et à un lionceau qui rugit en voyant sa proie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et persecutus est iniquos perscrutans eos : et qui conturbabant populum suum, eos succidit flammis.",
+      "french": "Il poursuivit les méchants en les cherchant de tous côtés, et il brûla ceux qui troublaient son peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et repulsi sunt inimici ejus præ timore ejus, et omnes operarii iniquitatis conturbati sunt : et directa est salus in manu ejus.",
+      "french": "La terreur de son nom fit fuir ses ennemis devant lui ; tous les ouvriers d’iniquité furent dans le trouble, et son bras procura le salut du peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0094.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et exacerbabat Reges multos, et lætificabat Jacob in operibus suis, et in sæculum memoria ejus in benedictione.",
+      "french": "Ses grandes actions irritérent plusieurs Rois, et furent en même-temps la joie de Jacob ; et sa mémoire sera éternellement en bénédiction.",
+      "annotations": "An du M. 3838.",
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et perambulavit civitates Juda, et perdidit impios ex eis, et avertit iram Israël.",
+      "french": "Il parcourut les Villes de Juda ; il en chassa les impies, et il détourna la colère de dessus Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et nominatus est usque ad novissimum terræ, et congregavit pereuntes.",
+      "french": "Son nom devint célèbre jusqu’aux extrémités du monde, et il rassembla ceux qui étaient prêts de périr.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et congregavit Apollonius Gentes, et à Samaria virtutem multam et magnam, ad bellandum contra Israël.",
+      "french": "Alors Apollonius assembla les nations, et leva de Samarie une grande et puissante armée, pour combattre contre Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0095.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et cognovit Judas, et exiit obviam illi : et percussit, et occidit illum : et ceciderunt vulnerati multi, et reliqui fugerunt.",
+      "french": "Et Judas en ayant été averti, marcha contre lui, le défit et le tua ; et un grand nombre de ses ennemis fut taillé en pièces, et le reste mis en fuite.",
+      "annotations": "An du M. 3838.",
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et accepit spolia eorum : et gladium Apollonii abstulit Judas, et erat pugnans in eo omnibus diebus.",
+      "french": "Il en rapporta les dépouilles, et il prit l’épée d’Apollonius, et s’en servit dans les combats toute sa vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et audivit Seron Princeps exercitûs Syriæ, quòd congregavit Judas congregationem fidelium et Ecclesiam secum :",
+      "french": "Seron Général de l’armée de Syrie ayant appris que Judas avait rassemblé auprès de lui une grande troupe de ceux qui étaient fidelles à sa Loi,",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et ait : Faciam mihi nomen, et glorificabor in regno, et debellabo Judam, et eos qui cum ipso sunt, qui spernebant verbum Regis.",
+      "french": "Dit en lui-même : Je m’acquerrai de la réputation et de la gloire dans tout le Royaume, par la défaite de Judas et de tous ceux qui font avec lui, qui méprisent les ordres du Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et preparavit se : et ascenderunt cum eo castra impiorum, fortes auxiliarii, ut facerent vindictam in filios Israël.",
+      "french": "Il se prépara donc pour le combattre ; et l’armée des impies le suivit avec un puissant secours, pour se venger des enfants d’Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0096.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et appropinquaverunt usque ad Bethoron : et exivit Judas obviam illi cum paucis.",
+      "french": "Ils s’avancérent jusqu’à Béthoron, et Judas vint au-devant d’eux avec peu de gens.",
+      "annotations": "An du M 3838.",
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Ut autem viderunt exercitum venientem sibi obviam, dixerunt Judæ : Quomodo poterimus pauci pugnare contra multitudinem tantam, et tam fortem, et nos fatigati sumus jejunio hodie ?",
+      "french": "Mais ceux-ci ayant vu marcher contre eux l’armée ennemie, ils lui dirent : Comment pourrons-nous combattre contre une armée si grande et si forte, nous qui sommes en si petit nombre, et fatiguez du jeûne d’aujourd’hui ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et ait Judas : Facile est concludi multos in manus paucorum : et non est differentia in conspectu Dei cœli liberare in multis, et in paucis :",
+      "french": "Judas leur dit : Il est aisé que peu de gens en battent beaucoup ; et quand le Dieu du Ciel veut sauver, il n’y a point de différence à son égard, entre un grand, et un petit nombre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Quoniam non in multitudine exercitûs victoria belli, sed de cœlo fortitudo est.",
+      "french": "Car la victoire ne dépend point de la grandeur des armées ; mais c’est du ciel que nous vient toute la force.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Ipsi veniunt ad nos in multitudine contumaci et superbia, ut disperdant nos, et uxores nostras, et filios nostros, et ut spolient nos.",
+      "french": "Ils marchent contre nous avec une multitude de gens superbes et insolents, pour nous perdre tous, avec nos femmes et nos enfants, et pour s’enrichir de nos dépouilles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Nos verò pugnabimus pro animabus nostris, et legibus nostris :",
+      "french": "Mais pour nous, nous combattrons pour notre vie et pour notre Loi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Et ipse Dominus conteret eos ante faciem nostram : vos autem ne timueritis eos.",
+      "french": "Et le Seigneur brisera lui-même tous leurs efforts devant nous : c’est pourquoi ne les craignez point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Ut cessavit autem loqui, insiluit in eos subitò : et contritus est Seron, et exercitus ejus in conspectu ipsius :",
+      "french": "Quand il eut cessé de parler, il se jetta aussi-tôt sur eux ; et Seron fut renversé devant lui avec toute son armée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et persecutus est eum in descensu Bethoron usque in campum, et ceciderunt ex eis octinginti viri, reliqui autem fugerunt in terram Philistiim.",
+      "french": "Judas le poursuivit à la descente de Béthoron jusqu’à la plaine ; et huit cens hommes des ennemis furent tuez : mais le reste s’enfuit au païs des Philistins.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et cecidit timor Judæ, ac fratrum ejus, et formido super omnes gentes in circuitu corum.",
+      "french": "Alors la terreur de Judas et de ses frères se répandit de tous côtés parmi les nations voisines.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Et pervenit ad Regem nomen ejus, et de præliis Juda narrabant omnes gentes.",
+      "french": "Son nom fut connu du Roi même, et tous les peuples parlaient des combats et des victoires de Judas.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Ut audivit autem Rex Antiochus sermones istos, iratus est animo : et misit, et congregavit exercitum universi regni sui castra fortia valdè :",
+      "french": "Lors donc que le Roi Antiochus eut reçu ces nouvelles, il entra dans une grande colère ; et il envoya dans tout son Royaume lever des troupes, dont il fit une puissante armée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et aperuit ærarium suum, et dedit stipendia exercitui in annum : et mandavit illis ut essent parati ad omnia.",
+      "french": "Il ouvrit son trésor, il paya ses gens pour un an, et il leur commanda d’être prêts à tout.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et vidit quòd defecit pecunia de thesauris suis, et tributa regionis modica propter dissensionem, et plagam quam fecit in terra ut tolleret legitima, quæ erant à primis diebus.",
+      "french": "Mais ayant vu que l’argent de ses trésors avait manqué, et qu’il retirait peu de tributs du pays de Judée, à cause des troubles qu’il y avait excitez, et des maux qu’il y avait faits, en leur ôtant la Loi qu’ils avaient gardée de tout temps ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et timuit ne non haberet ut semel et bis, in sumptus et donaria, quæ dederat antè larga manu : et abundave rat super Reges, qui ante eum fuerant.",
+      "french": "Il eut peur de n’avoir pas de quoi fournir, comme auparavant, aux frais de la guerre, et aux grandes libéralités qu’il avait accoutumé de faire avec une largesse extraordinaire, ayant été magnifique plus que tous les Rois qui l’avaient précedé.",
+      "annotations": "An du M. 3839.",
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Et consternatus erat animo valdè, et cogitavit ire in Persidem, et accipere tributa regionum, et congregare argentum multum.",
+      "french": "Dans cette grande consternation où il se trouvait, il résolut d’aller en Perse pour y lever les tributs des peuples, et y amasser beaucoup d’argent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et reliquit Lysiam hominem nobilem de genere regali, super negotia regia, à flumine Euphrate usque ad flumen Ægypti :",
+      "french": "Il laissa donc Lysias, Prince de la maison royale, pour avoir soin des affaires du Royaume, et commander depuis le fleuve d’Euphrate jusqu’au Fleuve de l’Egypte ;",
+      "annotations": "An du M. 3839.",
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Et ut nutriret Antiochum filium suum, donec rediret :",
+      "french": "Et pour avoir soin de l’éducation de son fils Antiochus, jusqu’à ce qu’il fût de retour.",
+      "annotations": "An du M. 3839.",
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et tradidit ei medium exercitum, et elephantes, et mandavit ei de omnibus quæ volebat, et de inhabitantibus Judæam et Jerusalem.",
+      "french": "Il lui laissa la moitié de l’armée, et des éléphants, et il lui donna ses ordres pour tout ce qu’il voulait faire ; et pour ce qui regardait aussi les peuples de la Judée, et les habitants de Jerusalem ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et ut mitteret ad eos exercitum, ad conterendam et extirpandam virtutem Israël, et reliquias Jerusalem, et auferendam memoriam eorum de loco.",
+      "french": "Lui commandant d’y envoyer une armée, pour perdre et exterminer entièrement toutes les troupes d’Israël, et les restes de Jérusalem, et pour effacer de ce lieu tout ce qui en pourrait renouveller la mémoire ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et ut constitueret habitatores filios alienigenas in omnibus finibus eorum, et sorte distribueret terram eorum :",
+      "french": "D’établir des étrangers dans tout leur pays pour l’habiter, et de distribuer au fort toutes les terres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Et Rex assumpsit partem exercitûs residui, et exivit ab Antiochia civitate regni sui, anno centesimo et quadragesimo septimo : et transfreavit Euphraten flumen, et perambulabat superiores regiones.",
+      "french": "Le Roi prit la moitié de l’armée qui lui restait, partit d’Antioche capitale de son Royaume, en la cent quarante-septième année, passa l’Euphrate, et traversa les Provinces superieures.",
+      "annotations": null,
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Et elegit Lysias Ptolemæum filium Dorymini, et Nicanorem, et Gorgiam, viros potentes ex amicis Regis :",
+      "french": "Et Lysias choisit Ptolomée fils de Dorymini, Nicanor, et Gorgias, qui étaient des hommes puissants entre les amis du Roi ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0102.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Et misit cum eis quadraginta millia virorum, et septem millia equitum, ut venirent in terram Juda, et disperderent eam secundùm verbum Regis.",
+      "french": "Et envoya avec eux quarante mille hommes de pied et sept mille chevaux : il leur donna ordre d’aller dans le pays de Juda, et de ruiner tout, selon que le Roi l’avait commandé.",
+      "annotations": "An du M. 3839.",
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Et processerunt cum universa virtute sua, et venerunt, et applicuerunt Emmaüm in terra campestri.",
+      "french": "Ils s’avancérent donc avec toutes leurs troupes, et vinrent camper près d’Emmaüs dans la plaine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Et audierunt mercatores regionum nomen eorum : et acceperunt argentum et aurum multum valdè, et pueros : et venerunt in castra, ut acciperent filios Israël in servos : et additi sunt ad eos exercitus Syriæ, et terræ alienigenarum.",
+      "french": "Les marchands des pays voisins ayant sçû leur arrivée, prirent beaucoup d’or et d’argent, et des serviteurs, et vinrent au camp, afin d’acheter les enfants d’Israël que l’on devait faire esclaves : et l’armée de Syrie se joignit à eux, avec celle du pays des étrangers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Et vidit Judas, et fratres ejus, quia multiplicata sunt mala, et exercitus applicabant ad fines eorum : et cognoverunt verba Regis, quæ mandaverat populo facere in interitum et consummationem :",
+      "french": "Judas et ses frères reconnurent alors que leurs maux s’étaient multipliez, et que l’armée ennemie s’approchait de leur pays. Il sçeut l’ordre que le Roi avait donné de perdre leur peuple, et de le détruire entierement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Et dixerunt unusquisque ad proximum suum : Erigamus dejectionem populi nostri, et pugnemus pro populo nostro, et sanctis nostris.",
+      "french": "Et ils se dirent les uns aux autres : Relevons les ruines de notre nation, et combattons pour notre peuple et pour les choses saintes de notre Religion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Et congregatus est conventus ut essent parati in prœlium : et ut orarent, et peterent misericordiam et miserationes.",
+      "french": "Ils s’assemblérent donc pour se préparer à combattre, et pour prier le Seigneur, et implorer sa bonté et ses miséricordes.",
+      "annotations": "An du M. 3839.",
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Et Jerusalem non habitabatur, sed erat sicut desertum : non erat qui ingrederetur, et egrederetur de natis ejus : et sanctum conculcabatur : et filii alienigenarum erant in arce : ibi erat habitatio Gentium, et ablata est voluptas à Jacob, et defecit ibi tibia et cithara.",
+      "french": "Jérusalem n’était point alors habitée, mais paraissait comme un désert : on ne voyait plus aucun de ses enfants y entrer ou en sortir : son Sanctuaire était foulé aux pieds : les étrangers demeuraient dans la forteresse, qui était devenuë la retraite des nations : toute la joie de Jacob en était bannie, et on n’y entendait plus le son de la flute ni de la harpe.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Et congregati sunt, et venerunt in Maspha contra Jerusalem : quia locus orationis erat in Maspha in Israël.",
+      "french": "Ils s’assemblérent donc, et vinrent à Maspha, vis-à-vis de Jérusalem, parce qu’il y avait eu autrefois à Maspha un lieu de prière dans Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Et jejunaverunt illa die, et induerunt se ciliciis, et cinerem imposuerunt capitifuo, et disciderunt vestimenta sua :",
+      "french": "Ils jeûnèrent ce jour-là, ils se revêtirent de cilices, ils se mirent de la cendre sur la tête, ils déchirérent leurs vêtements.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Et expanderunt libros legis, de quibus scrutabantur Gentes similitudinem simulachrorum suorum :",
+      "french": "Ils étendirent les Livres de la Loi, où les Gentils cherchaient à trouver quelque chose qui eût du rapport avec leurs idoles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Et attulerunt ornamenta sacerdotalia, et primitias, et decimas : et suscitaverunt Nazaræos, qui impleverant dies :",
+      "french": "Ils apportérent les ornements Sacerdotaux, les prémices, et les decimes ; et ils firent venir les Nazaréens qui avaient accompli leurs jours.",
+      "annotations": "An do M. 3839.",
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Et clamaverunt voce magna in cœlum, dicentes : Quid faciemus istis, et quò eos ducemus ?",
+      "french": "Et élevant leurs voix, ils poufférent leurs cris jusqu’au ciel, en disant : Que ferons-nous à ceux-ci, et où les menerons-nous ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Et sancta tua conculcata sunt, et contaminata sunt, et Sacerdotes tui sacti sunt in luctum ; et in humilitatem.",
+      "french": "Votre Sanctuaire a été souillé et foulé aux pieds : vos Prêtres sont dans les larmes, et dans l’humiliation.",
+      "annotations": "An du M. 3839.",
+      "source_pages": [
+        "page_0106.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "Et ecce nationes convenerunt adversùm nos, ut nos disperdant : tu scis quæ cogitant in nos.",
+      "french": "Vous voyez que ces nations se sont assemblées pour nous perdre : vous sçavez les desseins qu’elles ont formé contre nous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0106.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "Quomodo poterimus subsistere ante faciem eorum, nisi tu Deus adjuves nos ?",
+      "french": "Comment pourrons-nous subsister devant eux, si vous-même, ô Dieu, ne nous assistez ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0106.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "Et tubis exclamaverunt voce magna.",
+      "french": "Et ils firent retentir les trompettes avec un grand bruit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0106.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "Et post hæc, constituit Judas Duces populi, Tribunos, et Centuriones, et Pentacontarchos, et Decuriones.",
+      "french": "Après cela, Judas établit des Officiers pour commander l’armée, des Tribuns, des Capitaines de cent hommes, et des Officiers de cinquante, et de dix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0106.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "Et dixit his qui ædificabant domos, et sponsabant uxores, et plantabant vineas, et formidolosis, ut redirent unusquisque in domum suam secundùm legem.",
+      "french": "Et il dit à ceux qui venaient de bâtir des maisons, d’épouser des femmes, et de planter des vignes, et à tous ceux qui étaient timides, de retourner chacun en leur maison, selon la loi.",
+      "annotations": "An du M. 3839.",
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 57,
+      "latin": "Et moverunt castra, et collocaverunt ad Austrum Emmaum.",
+      "french": "Alors l’armée marcha, et vint camper près d’Emmaüs, du côté du midi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 58,
+      "latin": "Et ait Judas : Accingimini, et estote filii potentes, et estote parati in mane, ut pugnetis adversus nationes has, quæ convenerunt adversus nos, disperdere nos et sancta nostra :",
+      "french": "Et Judas leur dit : Prenez vos armes et remplissez-vous de courage : tenez-vous prêts pour demain au matin, afin de combattre contre ces nations assemblées contre nous pour nous perdre, et pour renverser notre sainte Religion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 59,
+      "latin": "Quoniam melius est nos mori in bello, quàm videre mala gentis nostræ, et sanctorum :",
+      "french": "Car il nous est meilleur de mourir dans le combat, que de voir les maux de notre peuple, et la destruction de toutes les choses saintes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 60,
+      "latin": "Sicut autem fuerit voluntas in cœlo, sic fiat.",
+      "french": "Mais que ce qui est ordonné par la volonté de Dieu dans le Ciel, s’accomplisse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0107.json"
+      ]
+    }
+  ]
+}

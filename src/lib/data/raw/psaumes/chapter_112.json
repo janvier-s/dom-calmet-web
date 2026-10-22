@@ -1,0 +1,77 @@
+{
+  "book": "Psaumes",
+  "chapter": 112,
+  "chapter_summary": "Le Prophète relève la grandeur, la providence, et la force toute-puissante du Seigneur.\n\nAlleluia. Louez Dieu.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Audate, pueri, Dominum ; laudate nomen Domini.",
+      "french": "Enfants, louez le Seigneur ; louez le nom du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0134.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Sit nomen Domini benedictum, ex hoc nunc, et usque in sæculum.",
+      "french": "Que le nom du Seigneur soit béni dés maintenant, et dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0134.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "A solis ortu usque ad occasum, laudabile nomen Domini.",
+      "french": "Le nom du Seigneur doit être loué depuis le lever, jusqu’au coucher du soleil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0135.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Excelsus super omnes gentes Dominus, et super Cœlos gloria ejus.",
+      "french": "Le Seigneur est élevé au-dessus de toutes les nations ; et sa gloire au-dessus des Cieux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0135.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quis sicut Dominus Deus noster, qui in altis habitat, et humilia respicit in Cœlo, et in terra ?",
+      "french": "Qui est semblable au Seigneur notre Dieu, qui habite les lieux les plus élevez, et qui regarde ce qu’il y a de plus abaissé dans le Ciel, et sur la terre ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0135.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Suscitans à terra inopem : et de stercore erigens pauperem,",
+      "french": "Qui tire de la poussière celui qui est dans l’indigence, et qui éleve le pauvre de dessus le fumier ;",
+      "source_pages": [
+        "page_0136.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Ut collocet eum cum Principibus : cum Principibus populi sui.",
+      "french": "Pour le placer avec les Princes, avec les Princes de son peuple ;",
+      "source_pages": [
+        "page_0136.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Qui habitare facit sterilem in domo, matrem filiorum lætantem.",
+      "french": "Qui donne à celle qui était stérile, la joie de se voir dans sa maison, la mère de plusieurs enfants.",
+      "source_pages": [
+        "page_0136.json"
+      ]
+    }
+  ]
+}

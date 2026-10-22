@@ -1,0 +1,49 @@
+{
+  "book": "Psaumes",
+  "chapter": 14,
+  "chapter_summary": "Qualités de ceux qui doivent demeurer dans la Cité de Dieu, et sur la montagne sainte. Éviter le mal, la calomnie, l’usure ; pratiquer la justice, être fidèle dans ses promesses, etc.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 2,
+      "latin": "Qui ingreditur sine macula, et operatur justitiam :",
+      "french": "Celui qui vit sans reproche, et qui pratique la justice :",
+      "source_pages": [
+        "page_0216.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Qui loquitur veritatem in corde suo, qui non egit dolum in lingua sua :",
+      "french": "Qui parle sincèrement, selon la vérité qui est dans son cœur, qui n’use point de tromperie dans ses paroles ;",
+      "source_pages": [
+        "page_0216.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Nec fecit proximo suo malum, et opprobrium non accepit adversus proximos suos.",
+      "french": "Qui n’a point fait de mal à son prochain ; et qui n’a point écouté les calomnies contre ses frères.",
+      "source_pages": [
+        "page_0217.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Ad nihilum deductus est in conspectu ejus malignus : timentes autem Dominum glorificat.",
+      "french": "Le méchant paraît à ses yeux, comme un néant ; mais il relève et il honore ceux qui craignent le Seigneur.",
+      "source_pages": [
+        "page_0217.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Qui jurat proximo suo, et non decipit : qui pecuniam suam non dedit ad usuram, et munera super innocentem non accepit.",
+      "french": "Il ne trompe jamais son prochain dans les serments qu’il lui fait : il ne donne point son argent à usure, et ne reçoit point de présents, pour opprimer l’innocent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0218.json"
+      ]
+    }
+  ]
+}

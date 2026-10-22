@@ -1,0 +1,188 @@
+{
+  "book": "Psaumes",
+  "chapter": 87,
+  "chapter_summary": "Instante Prière d’un homme qui est dans l’affliction, et abandonné de ses amis, et de ses proches.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "Canticum Psalmi filiis Core, in finem pro Maeleth, ad respondendum, intellectus Eman Ezraitæ.",
+      "french": "Cantique, ou Pseaume des enfants de Coré, pour la fin, pour être chanté alternativement ; intelligence, ou instruction d’Eman Ezraïte-",
+      "annotations": null,
+      "source_pages": [
+        "page_0514.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Domine, Deus salutis meæ, in die clamavi, et nocte, coram te.",
+      "french": "Seigneur, qui êtes le Dieu, et l’Auteur de mon salut, j’ai crié vers vous durant le jour, et durant la nuit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0516.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Intret in conspectu tuo oratio mea : inclina aurem tuam ad precem meam.",
+      "french": "Que ma prière pénètre jusqu’à vous : daignez prêter l’oreille à l’humble supplication que je vous fais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0516.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quia repleta est malis anima mea : et vita mea inferno appropinquavit.",
+      "french": "Parce que mon âme est remplie de maux ; et que ma vie est toute proche de la mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0516.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Astimatus sum cum descendentibus in lacum : factus sum sicut homo sine adjutorio, inter mortuos liber.",
+      "french": "J’ai été mis au rang de ceux qui descendent dans la fosse : j’ai été comme un homme abandonné de tout secours, libre entre les morts.",
+      "annotations": null,
+      "source_pages": [
+        "page_0516.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Sicut vulnerati dormientes in sepulchris, quorum non es memor ampliùs : et ipsi de manu tua repulsi sunt.",
+      "french": "Comme ceux qui ayant été blessez à mort, dorment dans les sépulcres, dont vous ne vous souvenez plus, et qui ont été rejetez de votre main.",
+      "annotations": null,
+      "source_pages": [
+        "page_0518.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Posuerunt me in lacu inferiori : in tenebrosis, et in umbra mortis.",
+      "french": "Ils m’ont mis dans une fosse profonde, dans des lieux ténébreux, et dans l’ombre de la mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0518.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Super me confirmatus est furor tuus : et omnes fluctus tuos induxisti super me.",
+      "french": "Votre fureur s’est appesantie sur moi, et vous avez fait passer sur moi tous les flots de votre colère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0518.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Longè fecisti notos meos à me : posuerunt me abominationem sibi.",
+      "french": "Vous avez éloigné de moi tous ceux qui me connaissent ; ils m’ont eu en abomination.",
+      "annotations": null,
+      "source_pages": [
+        "page_0519.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Traditus sum, et non egrediebar : oculi mei languerunt præ inopia.",
+      "french": "J’ai été comme livré et affligé, sans pouvoir sortir : mes yeux se sont presque desséchez d’affliction.",
+      "annotations": null,
+      "source_pages": [
+        "page_0520.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Clamavi ad te Domine, tota die : expandi ad te manus meas.",
+      "french": "J’ai crié vers vous, Seigneur, durant tout le jour, et j’ai étendu mes mains vers vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0520.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Numquid mortuis facies mirabilia : aut medici suscitabunt, et confitebuntur tibi ?",
+      "french": "Ferez-vous donc des miracles à l’égard des morts ; ou les médecins les ressusciteront-ils, afin qu’ils vous louent ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0520.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Numquid narrabit aliquis in sepulchro misericordiam tuam, et veritatem tuam in perditione ?",
+      "french": "Quelqu’un racontera-t’il dans le sépulcre votre miséricorde, et votre vérité dans le tombeau ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0521.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Numquid cognoscentur in tenebris mirabilia tua, et justitia tua in terra oblivionis ?",
+      "french": "Vos merveilles seront-elles connues dans les ténèbres de la mort, et votre justice dans la terre de l’oubli ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0521.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et ego ad te, Domine, clamavi : et manè oratio mea præveniet te.",
+      "french": "Mais pour moi, je crie vers vous, Seigneur ; et je me hâte de vous offrir dés le matin ma prière.",
+      "annotations": null,
+      "source_pages": [
+        "page_0522.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Ut quid, Domine, repellis orationem meam : avertis faciem tuam à me ?",
+      "french": "Pourquoi, Seigneur, rejetez-vous la prière que je vous présente ? et pourquoi détournez-vous votre face de dessus moi ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0522.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Pauper sum ego, et in laboribus à juventute mea : exaltatus autem, humiliatus sum, et conturbatus.",
+      "french": "Je suis pauvre, et dans les travaux dés ma jeunesse ; et après avoir été élevé, j’ai été humilié, et rempli de trouble.",
+      "annotations": null,
+      "source_pages": [
+        "page_0522.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "In me transierunt iræ tuæ : et terrores tui conturbaverunt me.",
+      "french": "Les flots de votre colère ont passé sur moi, et les terreurs dont vous m’avez frappé, m’ont tout troublé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0523.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Circumdederunt me sicut aqua totâ die : circumdederunt me simul.",
+      "french": "Elles m’ont environné durant tout le jour, comme une grande abondance d’eaux ; elles m’ont enveloppé toutes ensemble.",
+      "annotations": null,
+      "source_pages": [
+        "page_0523.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Elongasti à me amicum, et proximum, et notos meos à miseria.",
+      "french": "Vous avez éloigné de moi mes amis, et mes proches, et ceux qui me connaissaient m’ont quitté, à cause de ma misère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0523.json"
+      ]
+    }
+  ]
+}

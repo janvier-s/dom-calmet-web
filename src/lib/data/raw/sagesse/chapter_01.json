@@ -1,0 +1,149 @@
+{
+  "book": "Sagesse",
+  "chapter": 1,
+  "chapter_summary": "Aimer la justice ; croire Dieu plein de bonté, et de sagesse. Il voit tout, et connaît tout. Il punira l’injustice, et le murmure. La mort, et le péché, ne sont point son ouvrage.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Dilígite justitiam, qui judicátis terram. Sentíte de Domino in bonitáte, et in simplicitáte cordis quærite illum.",
+      "french": "Aimez la justice, vous qui êtes les Juges de la terre. Ayez du Seigneur des sentiments dignes de sa bonté, et cherchez-le avec un cœur simple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0036.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quoniam invenitur ab his, qui non tentant illum : apparet autem eis, qui fidem habent in illum.",
+      "french": "Parce que ceux qui ne le tentent point, le trouvent, et qu’il se fait connaître à ceux qui croient en lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0037.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Perversæ enim cogitationes separant à Deo : probata autem virtus corripit insipientes.",
+      "french": "Car les pensées perverses séparent de Dieu : et lorsque les hommes veulent tenter sa puissance, elle les convainc de folie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0038.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quoniam in malevolam animam non introibit sapientia, nec habitabit in corpore subdito peccatis.",
+      "french": "Aussi la sagesse n’entrera-t’elle point dans une âme maligne, et n’habitera point dans un corps assujetti au péché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0039.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Spiritus enim sanctus disciplinæ effugiet fictum, et auferet se à cogitationibus quæ sunt sine intellectu, et corripietur superveniente iniquitate.",
+      "french": "Car l’Esprit Saint, qui est le maître de la science, fuit le déguisement ; il se retire des pensées qui sont sans intelligence, et l’iniquité survenant, le bannit de l’âme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0039.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Benignus est enim spiritus sapientiæ, et non liberabit maledicum à labiis suis : quoniam renum illius testis est Deus, et cordis illius scrutator est verax, et linguæ ejus auditor.",
+      "french": "L’Esprit de Sagesse est plein de bonté ; mais il ne laissera pas impunies les lèvres du médisant, parce que Dieu sonde ses reins, qu’il pénètre le fond de son cœur, et qu’il entend les paroles de sa langue.",
+      "annotations": null,
+      "source_pages": [
+        "page_0040.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quoniam spiritus Domini replevit orbem terrarum : et hoc, quod continet omnia, scientiam habet vocis.",
+      "french": "Car l’Esprit du Seigneur remplit l’univers ; et comme il contient tout, il connaît aussi tout ce qui se dit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0040.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Propter hoc, qui loquitur iniqua non potest latere, nec præteriet illum corripiens judicium.",
+      "french": "C’est pourquoi celui qui prononce des paroles d’iniquité, ne peut se cacher à lui ; et il n’échappera point au jugement qui doit tout punir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0041.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "In cogitationibus enim impii interrogatio erit : sermonum autem illius auditio ad Deum veniet ad correptionem iniquitatum illius.",
+      "french": "Car l’impie sera interrogé sur ses pensées ; et ses discours monteront jusqu’à Dieu, qui les entendra pour le punir de son iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0041.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quoniam auris Dei audit omnia, et tumultus murmurationum non abscondetur.",
+      "french": "Parce que l’oreille de ce Dieu jaloux, entend tout, et que le tumulte des murmures ne lui sera point caché.",
+      "source_pages": [
+        "page_0042.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Custodite ergo vos à murmuratione, quæ nihil prodest, et à detractione parcite linguæ, quoniam sermo obscurus in vacuum non ibit : os autem quod mentitur, occidit animam.",
+      "french": "Gardez-vous donc des murmures, qui ne peuvent servir de rien, et ne souillez point votre langue par la médisance, parce que la parole la plus secrette ne sera point impunie, et que la bouche qui ment, tuëra l’âme.",
+      "source_pages": [
+        "page_0042.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Nolite zelare mortem in errore vitæ vestræ, neque acquiratis perditionem in operibus manuum vestrarum.",
+      "french": "Cessez de chercher la mort avec tant d’ardeur dans les égarements de votre vie, et n’employez pas les travaux de vos mains à attirer votre perte.",
+      "source_pages": [
+        "page_0042.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Quoniam Deus mortem non fecit, nec lætatur in perditione vivorum.",
+      "french": "Car Dieu n’a point fait la mort, et il ne se réjouit point de la perte des vivants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0043.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Creavit enim, ut essent omnia, et sanabiles fecit nationes orbis terrarum : et non est in illis medicamentum exterminii, nec inferorum regnum in terra.",
+      "french": "Il a tout créé, afin que tout subsiste : toutes les créatures étaient saines dans leur origine : il n’y avait en elles rien de contagieux, ni de mortel ; et le règne des enfers n’était point alors sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0043.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Justitia enim perpetua est, et immortalis.",
+      "french": "Car la justice est stable, et immortelle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0044.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Impij autem manibus, et verbis accersierunt illam : et æstimantes illam amicam, defluxerunt, et sponsiones posuerunt ad illam : quoniam digni sunt qui sint ex parte illius.",
+      "french": "Mais les méchants ont appelé la mort à eux par leurs œuvres, et par leurs paroles ; et la croyant amie, ils en ont été consumez, et ils ont fait alliance avec elle, parce qu’ils étaient dignes d’un tel partage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0045.json"
+      ]
+    }
+  ]
+}

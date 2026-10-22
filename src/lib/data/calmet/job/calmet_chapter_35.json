@@ -12,7 +12,7 @@
       "sub": false,
       "latin_lemma": "dixisti enim : non tibi placet quod rectum est ; vel quid tibi proderit, si ego peccavero ?",
       "lemma": "Vous avez dit en parlant à Dieu : Ce qui est juste, ne vous plaît point ; ou quel avantage retirerez-vous, si je pèche ?",
-      "text": "Job n’avait point dit cela : mais on pouvait en quelque sorte l’inférer de ce qu’il avait avancé,[3] que Dieu punit souvent les bons, et épargne les méchants ; et que d’autres fois il enveloppe les uns, et les autres dans les mêmes peines : Car en prenant ce principe dans la rigueur, il s’ensuivrait que Dieu agit envers nous, sans avoir égard au bien, ni au mal que nous avons fait. Mais ce n’était nullement là l’intention de Job. Il voulait seulement réfuter ses amis, qui prétendaient que les afflictions envoyées de Dieu, étaient une marque certaine de son indignation, et du crime de celui qui était affligé : Principe absolument insoutenable. Voici ce que porte l’Hébreu :[4] _Car vous avez dit : A quoi vous sert, et quelle utilité vous revient de mon péché ?_ Eliu impute à Job d’avoir dit à Dieu : Qu’est-ce qui vous revient de mon péché ? Soit que vous le punissiez, ou que vous le laissiez impuni ; que je le commette, ou que je m’en abstienne ; tout cela ne vous est-il pas égal ? Qu’est-ce que le péché fait à Dieu ? Voyez ce qu’on a dit sur une expression pareille d’Eliphaz, au Chapitre XXII. 3. Autrement ; A quoi me sert-il de souffrir pour l’expiation de mes fautes, et d’être accablé de maux, si Dieu regarde de même œil le juste, et le méchant ? C’est le sentiment qu’Eliu imputait faussement à Job."
+      "text": "Job n’avait point dit cela : mais on pouvait en quelque sorte l’inférer de ce qu’il avait avancé,[3] que Dieu punit souvent les bons, et épargne les méchants ; et que d’autres fois il enveloppe les uns, et les autres dans les mêmes peines : Car en prenant ce principe dans la rigueur, il s’ensuivrait que Dieu agit envers nous, sans avoir égard au bien, ni au mal que nous avons fait. Mais ce n’était nullement là l’intention de Job. Il voulait seulement réfuter ses amis, qui prétendaient que les afflictions envoyées de Dieu, étaient une marque certaine de son indignation, et du crime de celui qui était affligé : Principe absolument insoutenable. Voici ce que porte l’Hébreu :[4] _Car vous avez dit : A quoi vous sert, et quelle utilité vous revient de mon péché ?_ Eliu impute à Job d’avoir dit à Dieu : Qu’est-ce qui vous revient de mon péché ? Soit que vous le punissiez, ou que vous le laissiez impuni ; que je le commette, ou que je m’en abstienne ; tout cela ne vous est-il pas égal ? Qu’est-ce que le péché fait à Dieu ? Voyez ce qu’on a dit sur une expression pareille d’Eliphaz, au chapitre 22:3. Autrement ; A quoi me sert-il de souffrir pour l’expiation de mes fautes, et d’être accablé de maux, si Dieu regarde de même œil le juste, et le méchant ? C’est le sentiment qu’Eliu imputait faussement à Job."
     },
     {
       "verse": 4,
@@ -26,7 +26,14 @@
       "sub": false,
       "latin_lemma": "suspice coelum, quod altior te sit.",
       "lemma": "Levez",
-      "text": "les yeux au Ciel, et apprenez que le Seigneur est plus haut que vous. Envisagez les Cieux, et la seule vue de ce grand objet vous fera comprendre, que puisque vous êtes infiniment au-dessous de Dieu ; tout ce que vous ferez contre lui, ne parviendra jamais jusqu’à son trône ; [6] de même que ce que vous pourrez entreprendre pour le servir, ou pour lui plaire, n’ajoutera jamais rien à sa grandeur. [7] Si donc il vous humilie, et s’il vous afflige, concluez que c’est uniquement pour satisfaire sa justice, et que ce ne peut être ni par ressentiment, comme s’il se sentait blessé par vos crimes, ni par jalousie, comme si vous diminuiez de sa gloire ; mais uniquement pour venger l’injure que vous vous faites à vous-même, en déshonorant votre nature, et en donnant la mort à votre âme ; [8] et qu’ainsi votre raisonnement est faux, lorsque vous dites : A quoi sert à Dieu, si je suis accablé d’afflictions pour mes péchés ? Car (℣. 8.) Une impiété pareille à la vôtre, nuit beaucoup à celui qui l’a faite, et votre justice ne peut servir qu’à vous-même. Voilà le raisonnement d’Eliu."
+      "text": ""
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "les yeux au Ciel, et apprenez que le Seigneur est plus haut que vous.",
+      "text": "Envisagez les Cieux, et la seule vue de ce grand objet vous fera comprendre, que puisque vous êtes infiniment au-dessous de Dieu ; tout ce que vous ferez contre lui, ne parviendra jamais jusqu’à son trône ; [6] de même que ce que vous pourrez entreprendre pour le servir, ou pour lui plaire, n’ajoutera jamais rien à sa grandeur. [7] Si donc il vous humilie, et s’il vous afflige, concluez que c’est uniquement pour satisfaire sa justice, et que ce ne peut être ni par ressentiment, comme s’il se sentait blessé par vos crimes, ni par jalousie, comme si vous diminuiez de sa gloire ; mais uniquement pour venger l’injure que vous vous faites à vous-même, en déshonorant votre nature, et en donnant la mort à votre âme ; [8] et qu’ainsi votre raisonnement est faux, lorsque vous dites : A quoi sert à Dieu, si je suis accablé d’afflictions pour mes péchés ? Car (℣. 8.) Une impiété pareille à la vôtre, nuit beaucoup à celui qui l’a faite, et votre justice ne peut servir qu’à vous-même. Voilà le raisonnement d’Eliu."
     },
     {
       "verse": 9,
@@ -79,13 +86,6 @@
     }
   ],
   "joins": [
-    {
-      "seam": "page_0418>page_0419",
-      "verse": 5,
-      "mode": "flow",
-      "before": "Levez",
-      "after": "les yeux au Ciel, et apprenez que le Seigneur est plus hau"
-    },
     {
       "seam": "page_0419>page_0420",
       "verse": 9,
@@ -155,7 +155,7 @@
     {
       "key": "page_0419-c",
       "n": 8,
-      "text": "saint Augustin, Confessions, livre 3, chapitre 8. Quæ ad versum te facinora, cui noceri non potest ? Sed"
+      "text": "Saint Augustin, Confessions, livre 3, chapitre 8. Quæ ad versum te facinora, cui noceri non potest ? Sed"
     },
     {
       "key": "page_0420-a",

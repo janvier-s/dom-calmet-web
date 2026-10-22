@@ -1,0 +1,156 @@
+{
+  "book": "Proverbes",
+  "chapter": 9,
+  "chapter_summary": "Maison de la Sagesse ; son festin ; elle y invite les simples ; mais non pas les moqueurs. La femme corrompuë invite les insensés à venir à son banquet. Malheur de ceux qui s’y rendent.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Sapientia ædificavit sibi domum, | excidit columnas septem.",
+      "french": "La Sagesse s’est bâti une maison, elle a taillé sept colomnes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0097.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Immolavit victimas suas, miscuit vinum, et proposuit mensam suam.",
+      "french": "Elle a immolé ses victimes, préparé le vin, et disposé sa table.",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Misit ancillas suas ut vocarent ad arcem, et ad mœnia civitatis.",
+      "french": "Elle a envoyé ses servantes pour appeller ses conviez ; elle les a envoyées à la fortereffe, et aux murailles de la ville :",
+      "annotations": null,
+      "source_pages": [
+        "page_0098.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Si quis est parvulus, veniat ad me. Et insipientibus locuta est :",
+      "french": "Quiconque est simple, qu’il vienne à moi ; et elle dit aux insensés :",
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Venite, comedite panem meum, et bibite vinum quod miscui vobis.",
+      "french": "Venez, mangez le pain que je vous donne, et buvez le vin que je vous ai préparé.",
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Relinquite infantiam, et vivite, et ambulate per vias prudentiæ.",
+      "french": "Quittez l’enfance, et vivez et marchez par les voies de la prudence.",
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Qui erudit derisorem, ipse injuriam sibi facit : et qui arguit impium, sibi maculam generat.",
+      "french": "Celui qui instruit le moqueur, se fait injure ; et celui qui reprend l’impie, se deshonore lui-même.",
+      "source_pages": [
+        "page_0099.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Noli arguere derisorem, ne oderit te. Argue sapientem, et diliget te.",
+      "french": "Ne reprenez point le moqueur, de peur qu’il ne vous haïsse ; reprenez le sage, et il vous aimera.",
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Da sapienti occasionem, et addetur ei sapientia. Doce justum, et festinabit accipere.",
+      "french": "Donnez une occasion au sage, et il en deviendra encore plus sage : enseignez le juste, et il recevra l’instruction avec empressement.",
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Principium sapientiæ, timor Domini : et scientia Sanctorum, prudentia.",
+      "french": "La crainte du Seigneur est le principe de la sagesse ; et la science des Saints est la vraie prudence.",
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Per me enim multiplicabuntur dies tui, et addentur tibi anni vitæ.",
+      "french": "Car c’est moi qui augmenterai le nombre de vos jours, et qui ajoûterai de nouvelles années à votre vie.",
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Si sapiens fueris, tibi metipsi eris : si autem illusor, solus portabis malum.",
+      "french": "Si vous êtes sage, vous le serez pour vous-même : et si vous êtes un moqueur, vous en porterez la peine vous seul.",
+      "source_pages": [
+        "page_0100.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Mulier stulta et clamosa, plenaque illecebris, et nihil omninò sciens,",
+      "french": "La femme insensée et querelleuse, pleine d’attraits, et qui ne fait rien du tout,",
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Sedit in foribus domûs suæ super sellam, in excelso urbis loco,",
+      "french": "S’est assise à la porte de sa maison sur un siège, en un lieu élevé de la ville,",
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Vt vocaret transeuntes per viam, et pergentes itinere suo.",
+      "french": "Pour appeller ceux qui passaient, et qui allaient leur chemin.",
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Qui est parvulus, declinet ad me. Et vecordi locuta est :",
+      "french": "Que celui qui est simple se détourne, et s’en vienne à moi ; et elle a dit à l’insensé :",
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Aquæ furtivæ dulciores sunt, et panis absconditus suavior.",
+      "french": "Les eaux dérobées sont plus douces ; et le pain pris en cachette est plus agréable.",
+      "source_pages": [
+        "page_0101.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et ignoravit quod ibi sint gigantes, et in profundis inferni convivæ ejus.",
+      "french": "Mais il ignore que les géants sont avec elle, et que ceux qui mangent à sa table, sont dans le plus profond de l’enfer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0102.json"
+      ]
+    }
+  ]
+}

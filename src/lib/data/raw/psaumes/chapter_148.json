@@ -1,0 +1,118 @@
+{
+  "book": "Psaumes",
+  "chapter": 148,
+  "chapter_summary": "Le Psalmiste invite toutes les créatures à publier les louanges du Seigneur.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Laudate Dominum de Cœlis : laudate eum in excelsis.",
+      "french": "Louez le Seigneur, ô vous qui êtes dans les Cieux ; louez-le dans les plus hauts lieux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0406.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Laudate eum, omnes Angeli ejus : laudate eum, omnes virtutes ejus.",
+      "french": "Louez-le, vous tous qui êtes ses Anges ; louez-le, vous tous qui êtes ses puissances.",
+      "annotations": null,
+      "source_pages": [
+        "page_0406.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Laudate eum, sol et luna : laudate eum, omnes stellæ, et lumen.",
+      "french": "Soleil et lune, louez-le : etoiles et lumiere, louez-le toutes ensemble.",
+      "annotations": null,
+      "source_pages": [
+        "page_0406.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quia ipse dixit, et facta sunt : ipse mandavit, et creata sunt.",
+      "french": "Parce qu’il a parlé, et que ces choses ont été faites ; qu’il a commandé, et qu’elles ont été créées.",
+      "source_pages": [
+        "page_0408.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Statuit ea in æternum, et in sæculum sæculi : præceptum posuit, et non præteribit.",
+      "french": "Il les a établies pour subsister éternellement, et dans tous les siècles. Il leur a prescrit ses ordres, qui ne manqueront point de s’accomplir.",
+      "source_pages": [
+        "page_0408.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Laudate Dominum de terra, dracones, et omnes abyssi.",
+      "french": "Louez le Seigneur, ô vous qui êtes sur la terre ; vous dragons, et vous tous abîmes d’eaux.",
+      "source_pages": [
+        "page_0408.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Ignis, grando, nix, glacies, spiritus procellarum : quæ faciunt verbum ejus.",
+      "french": "Feu, grêle, neige, glace, vents qui excitent les tempêtes, vous tous qui exécutez sa parole.",
+      "annotations": null,
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Montes, et omnes colles : ligna fructifera, et omnes cedri.",
+      "french": "Vous montagnes, avec toutes les collines : arbres qui portez du fruit, avec tous les cèdres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0409.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Bestia, et universa pecora : serpentes, et volucres pinnatæ.",
+      "french": "Vous bêtes sauvages, avec tous les autres animaux ; vous serpents, et vous oiseaux.",
+      "source_pages": [
+        "page_0410.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Reges terræ, et omnes populi : Principes, et omnes Judices terræ.",
+      "french": "Que les Rois de la terre, et tous les peuples ; que les Princes, et tous les Juges de la terre ;",
+      "source_pages": [
+        "page_0410.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Juvenes, et virgines, senes cum junioribus laudent nomen Domini : quia exaltatum est nomen ejus solius.",
+      "french": "Que les jeunes hommes, et les jeunes filles, les vieillards, et les enfants, louent le nom du Seigneur : parce qu’il n’y a que lui dont le nom soit vraiment grand, et élevé.",
+      "source_pages": [
+        "page_0410.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Confessio ejus super Cœlum, et terram : et exaltavit cornu populi sui.",
+      "french": "Le Ciel et la terre publient ses louanges : et c’est lui qui a élevé la puissance de son peuple.",
+      "source_pages": [
+        "page_0410.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Hymnus omnibus sanctis ejus : filiis Israël, populo appropinquanti sibi. Alleluia.",
+      "french": "Qu’il soit loué par tous les Saints ; par les enfants d’Israël, par ce peuple qui est proche de lui. Alleluia.",
+      "annotations": null,
+      "source_pages": [
+        "page_0411.json"
+      ]
+    }
+  ]
+}

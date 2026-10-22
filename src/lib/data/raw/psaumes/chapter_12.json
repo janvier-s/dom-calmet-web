@@ -1,0 +1,71 @@
+{
+  "book": "Psaumes",
+  "chapter": 12,
+  "chapter_summary": "Sentiments d’une âme affligée, et qui demande ardemment le secours de Dieu.",
+  "chapter_intro": "Le titre de ce Psaume n’a rien de particulier. Les Interprétes sont partagés sur le temps auquel il fut composé. Les uns le rapportent au temps de la persécution de Saül ^{(d)} ; d’autres, à celle d’Absolon ^{(e)} ; d’autres, à Ezéchias attaqué par Sennachérib ^{(f)} ; d’autres, à la Captivité de Babylone. ^{(g)} D’autres, sans fixer aucun temps, le prennent comme une expression des sentiments d’une âme affligée, ^{(a)} et qui attend le secours de Dieu avec quelque espèce d’impatience ; quoiqu’à la fin elle témoigne une parfaite confiance, et même de la joie, d’avoir obtenu ce qu’elle attendait. C’est ce dernier sens que nous suivrons.",
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem. Psalmus David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0200.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Usquequo, Domine, oblivisceris me in finem ? usquequo avertis faciem tuam a me ?",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0200.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quamdiu ponam consilia in anima mea, dolorem in corde meo per diem ?",
+      "french": "Jusqu’à quand formerai-je tant de desseins divers ? Jusqu’à quand mon cœur sera-t’il tout le jour dans la douleur ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0200.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Usquequò exaltabitur inimicus meus super me ? Respice, et exaudi me Domine, Deus meus.",
+      "french": "Jusqu’à quand mon ennemi sera-t’il élevé au-dessus de moi ? Regardez-moi, et exaucez-moi, Seigneur, mon Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0200.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Illumina oculos meos, ne unquam obdormiam in morte : Nequando dicat inimicus meus : prævalui adversus eum.",
+      "french": "Eclairez mes yeux, afin que je ne m’endorme jamais dans la mort ; de peur que mon ennemi ne dise : J’ai eu l’avantage sur lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0200.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Qui tribulant me, exultabunt si motus fuero. Ego autem in misericordia tua speravi.",
+      "french": "Ceux qui me persecutent ressentiront une grande joie, s’il arrive que je sais ébranlé ; mais j’ai mis mon espérance dans votre miséricorde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0201.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Exultabit cor meum in salutari tuo : cantabo Domino, qui bona tribuit mihi : et psallam nomini Domini altissimi.",
+      "french": "Mon cœur sera transporté de joie, à cause du salut que vous nous procurerez. Je chanterai des cantiques au Seigneur, qui m’a comblé de faveurs ; et je ferai retentir des airs à la gloire du nom du Très-Haut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0202.json"
+      ]
+    }
+  ]
+}

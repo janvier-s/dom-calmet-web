@@ -1,0 +1,104 @@
+{
+  "book": "Psaumes",
+  "chapter": 136,
+  "chapter_summary": "Les Lévites captifs à Babylone pendent leurs instruments de musique aux saules, et ne peuvent se résoudre à chanter les saints Cantiques, ainsi que les Babyloniens les en priaient. Prédiction du malheur des Iduméens, et des Babyloniens.\nPsalmus David, Jeremiæ. | Pseaume de David, pour Jérémie.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Super flumina Babylonis, illic sedimus et flevimus : cùm recordaremur Sion :",
+      "french": "Nous nous sommes assis en pleurant sur le bord des fleuves de Babylone, en nous souvenant de Sion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0319.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "In salicibus in medio ejus, suspendimus organa nostra.",
+      "french": "Nous avons suspendu nos instruments de musique, aux saules qui sont au milieu de Babylone ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0319.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quia illic interrogaverunt nos, qui captivos duxerunt nos, verba cantionum.",
+      "french": "Parce que ceux qui nous avaient emmenez captifs, nous demandaient que nous leur chantassions des cantiques.",
+      "annotations": null,
+      "source_pages": [
+        "page_0320.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et qui abduxerunt nos : hymnum cantate nobis de canticis Sion.",
+      "french": "Ceux qui nous avaient enlevez, nous disaient : Chantez-nous quelqu’un des cantiques de Sion.",
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quomodo cantabimus canticum Domini in terra aliena ?",
+      "french": "Comment chanterons-nous un cantique du Seigneur dans une terre étrangère ?",
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Si oblitus fuero tui, Jerusalem, oblivioni detur dextera mea.",
+      "french": "Si je t’oublie, ô Jerusalem, que ma main droite soit mise en oubli.",
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Adhæreat lingua mea faucibus meis, si non meminero tui :",
+      "french": "Que ma langue soit attachée à mon gosier, si je ne me souviens point de toi ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0322.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Si non proposuero Jerusalem, in principio lætitiæ meæ.",
+      "french": "Si je ne me propose pas Jérusalem, comme le principal sujet de ma joie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0322.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Qui dicunt : Exinanite, exinanite usque ad fundamentum in ea.",
+      "french": "Lorsqu’ils disaient : Exterminez, et arrachez jusqu’à ses fondements.",
+      "annotations": null,
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Filia Babylonis misera : beatus, qui retribuet tibi retributionem tuam, quàm retribuisti nobis.",
+      "french": "Malheur à toi, fille de Babylone : heureux celui qui te rendra tous les maux que tu nous as faits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Beatus, qui tenebit, et allidet parvulos tuos ad petram.",
+      "french": "Heureux celui qui prendra tes petits enfants, et les brisera contre la pierre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0324.json"
+      ]
+    }
+  ]
+}

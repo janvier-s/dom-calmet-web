@@ -1,0 +1,85 @@
+{
+  "book": "Psaumes",
+  "chapter": 10,
+  "chapter_summary": "Les amis de David lui conseillent de se sauver dans les montagnes, pour éviter les poursuites de Saül. Il répond qu’ayant mis sa confiance au Seigneur, il ne craint rien sous sa protection.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem Psalmus David.",
+      "french": "Psaume de David pour la fin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0184.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "In Domino confido : quomodo dicitis animæ meæ : Transmigra in montem sicut passer ?",
+      "french": "Je mets ma confiance au Seigneur : comment dites-vous à mon âme : Passez promptement sur la montagne comme un passereau.",
+      "annotations": null,
+      "source_pages": [
+        "page_0184.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quoniam ecce peccatores intenderunt arcum, paraverunt sagittas suas in pharetra : ut sagittent in obscuro rectos corde.",
+      "french": "Parce que voilà les pécheurs qui ont déjà tendu leur arc : ils ont préparé leurs flèches dans leurs carquais, afin d’en tirer dans l’obscurité, contre ceux qui ont le cœur droit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0186.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quoniam quæ perfecisti, destruxerunt : justus autem quid fecit ?",
+      "french": "Parce qu’ils ont détruit tout ce que vous avez fait de plus grand : mais le juste, qu’a-t’il fait ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0186.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Dominus in Templo sancto suo, Dominus in Cœlo sedes ejus.",
+      "french": "Le Seigneur habite dans son saint Temple : le trône du Seigneur est dans le Ciel.",
+      "source_pages": [
+        "page_0187.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Oculi ejus pauperem respiciunt : palpebræ ejus interrogant filios hominum.",
+      "french": "Ses yeux sont attentifs à regarder le pauvre : ses paupières interrogent les enfants des hommes.",
+      "source_pages": [
+        "page_0187.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dominus interrogat justum, et impium : qui autem diligit iniquitatem, odit animam suam.",
+      "french": "Le Seigneur interroge le juste, et l’impie. Or celui qui aime l’iniquité hait son âme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0188.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Pluet super peccatores laqueos : ignis et sulphur, et spiritus procellarum, pars calicis eorum.",
+      "french": "Il fera pleuvoir des pièges sur les pécheurs : le feu, et le soufre, et le vent impétueux des tempêtes sont le calice qui leur sera présenté pour leur partage.",
+      "source_pages": [
+        "page_0189.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Quoniam justus Dominus, et justitias dilexit : æquitatem vidit vultus ejus.",
+      "french": "Parce que le Seigneur est juste, et qu’il aime la justice : son visage est appliqué à regarder l’équité.",
+      "source_pages": [
+        "page_0189.json"
+      ]
+    }
+  ]
+}

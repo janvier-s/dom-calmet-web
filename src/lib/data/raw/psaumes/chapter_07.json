@@ -1,0 +1,172 @@
+{
+  "book": "Psaumes",
+  "chapter": 7,
+  "chapter_summary": "David persécuté par Saül, implore le secours du Seigneur. Il menace ses ennemis de la vengeance de Dieu, et prédit leur fin malheureuse.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "Psalmus David, quem cantavit Domino, pro verbis Chusi, filii Jemini.",
+      "french": "Psaume de David, qu’il chanta au Seigneur, à cause des paroles de Chus, fils de Jémini.",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0136.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Domine Deus meus, in te speravi : salvum me fac ex omnibus persequentibus me, et libera me.",
+      "french": "Seigneur mon Dieu, j’ai mis en vous mon espérance : sauvez-moi de tous ceux qui me persécutent, et délivrez-moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0136.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Nequando rapiat ut leo animam meam, dum non est qui redimat, neque qui salvum faciat.",
+      "french": "De peur qu’enfin il ne me ravisse la vie, s’il n’y a personne qui me tire d’entre ses mains, et qui me sauve.",
+      "annotations": null,
+      "source_pages": [
+        "page_0137.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Domine Deus meus, si feci istud ; si est iniquitas in manibus meis ;",
+      "french": "Seigneur mon Dieu, si j’ai fait ce que l’on m’impute ; si mes mains se trouvent coupables d’iniquité ;",
+      "source_pages": [
+        "page_0138.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Si reddidi retribuentibus mihi mala, decidam meritò ab inimicis meis inanis.",
+      "french": "Si j’ai rendu le mal à ceux qui m’en avaient fait, je consens de succomber sous mes ennemis, frustré de mes espérances.",
+      "annotations": null,
+      "source_pages": [
+        "page_0139.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Persequatur inimicus animam meam, et comprehendat ; et conculcet in terra vitam meam, et gloriam meam in pulverem deducat.",
+      "french": "Que l’ennemi poursuive mon âme, et s’en rende maître ; qu’il me foule aux pieds sur la terre, en m’ôtant la vie, et qu’il réduise toute ma gloire en poussière.",
+      "annotations": null,
+      "source_pages": [
+        "page_0139.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Exurge, Domine, in ira tua, et exaltare in finibus inimicorum meorum.",
+      "french": "Levez-vous, Seigneur, dans votre colère, et faites éclater votre grandeur au milieu de mes ennemis.",
+      "source_pages": [
+        "page_0140.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et exurge, Domine Deus meus, in præcepto quod mandasti ; et synagoga populorum circumdabit te.",
+      "french": "Levez-vous, Seigneur mon Dieu, suivant le précepte que vous avez établi ; et l’assemblée des peuples vous environnera.",
+      "source_pages": [
+        "page_0140.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et propter hanc, in altum regredere. Dominus judicat populos",
+      "french": "En considération de cette assemblée ; remontez en haut. C’est le Seigneur qui juge les peuples.",
+      "annotations": null,
+      "source_pages": [
+        "page_0141.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Judica me, Domine, secundum justitiam meam, et secundum innocentiam meam super me.",
+      "french": "Jugez-moi, Seigneur, selon ma justice ; et selon l’innocence qui est en moi.",
+      "source_pages": [
+        "page_0142.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Consumetur nequitia peccatorum ; et diriges justum, scrutans corda et renes, Deus.",
+      "french": "la malice des pécheurs finira ; et vous conduirez le juste à une fin heureuse, ô Dieu ; qui sondez les cœurs et les reins.",
+      "source_pages": [
+        "page_0142.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Justum adjutorium meum à Domino, qui salvos facit rectos corde.",
+      "french": "C’est avec justice que j’attens le secours du Seigneur, puisqu’il sauve ceux dont le cœur est droit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0143.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Deus Judex justus, fortis, et patiens, numquid irascitur per singulas dies ?",
+      "french": "Dieu est un Juge également juste, fort, et patient : Se met-il en colère tous les jours ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0144.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Nisi conversi fueritis, gladium suum vibrabit : arcum suum tetendit, et paravit illum.",
+      "french": "Si vous ne vous convertissez, il fera briller son épée : il a déjà tendu son arc, et le tient tout prêt.",
+      "source_pages": [
+        "page_0145.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et in eo paravit vasa mortis : sagittas suas ardentibus effecit.",
+      "french": "Et il y a préparé des instruments de mort : il a rendu ses flèches brûlantes.",
+      "source_pages": [
+        "page_0145.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Ecce parturiit injustitiam ; concepit dolorem, et peperit iniquitatem.",
+      "french": "L’ennemi a travaillé à commettre l’injustice ; il a conçu la douleur, et a enfanté l’iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0146.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Lacum aperuit, et effodit eum ; et incidit in foveam quam fecit.",
+      "french": "Il a ouvert une fosse, et l’a creusée, et il est tombé dans la même fosse qu’il avait faite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0147.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Convertetur dolor ejus in caput ejus ; et in verticem ipsius iniquitas ejus descendet.",
+      "french": "La douleur qu’il a voulu me causer retournera sur lui-même ; et son injustice descendra sur sa tête.",
+      "annotations": null,
+      "source_pages": [
+        "page_0148.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Confitebor Domino secundum justitiam ejus ; et psallam nomini Domini Altissimi.",
+      "french": "Je rendrai gloire au Seigneur, à cause de sa justice, et je chanterai des cantiques au nom du Très-Haut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0148.json"
+      ]
+    }
+  ]
+}

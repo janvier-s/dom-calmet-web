@@ -1,0 +1,145 @@
+{
+  "book": "Psaumes",
+  "chapter": 29,
+  "chapter_summary": "Actions de grâces de David après un grand danger, et pour le rétablissement de sa santé.\n\nIn dedicatione domûs David.\nPour la dédicace de la maison de David.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "Psalmus cantici, in dedicatione domus David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0400.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Exaltabo te, Domine, quoniam suscepisti me : nec delectasti inimicos meos super me.",
+      "french": "Je publierai vos grandeurs, Seigneur, parce que vous m’avez tiré de danger, et que vous n’avez pas donné lieu à mes ennemis de se réjouir sur mon sujet.",
+      "annotations": null,
+      "source_pages": [
+        "page_0400.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Domine, Deus meus, clamavi ad te, et sanasti me.",
+      "french": "Seigneur, mon Dieu, j’ai crié vers vous, et vous m’avez guéri.",
+      "annotations": null,
+      "source_pages": [
+        "page_0401.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Domine, eduxisti ab inferno animam meam : salvasti me à descendentibus in lacum.",
+      "french": "Vous avez, Seigneur, retiré mon âme de l’enfer ; vous m’avez sauvé du milieu de ceux qui descendent dans la fosse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0401.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Psallite Domino sancti ejus : confitemini memoriæ sanctitatis ejus.",
+      "french": "Chantez des Cantiques au Seigneur, vous qui êtes ses Saints, et célébrez par vos louanges sa mémoire qui est sainte et sacrée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0401.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quoniam ira in indignatione ejus : et vita in voluntate ejus.",
+      "french": "Car il nous frappe dans sa colère, et il nous rend la vie dans sa bonne volonté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0402.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ad vesperum demorabitur fletus : et ad matutinum lætitia.",
+      "french": "Le soir on est dans les pleurs, et le matin dans la joie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0402.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Ego autem dixi in abundantia mea : Non movebor in æternum.",
+      "french": "Pour moi j’ai dit, étant dans l’abondance : Je ne déchoirai jamais de cet état.",
+      "annotations": null,
+      "source_pages": [
+        "page_0403.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Domine in voluntate tua, præstitisti decori meo virtutem.",
+      "french": "C’était, Seigneur, par un pur effet de votre volonté, que vous m’aviez affermi dans l’état si florissant où j’étais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0403.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Avertisti faciem tuam à me, et factus sum conturbatus.",
+      "french": "Aussitôt que vous avez détourné votre visage de dessus moi, j’ai été tout rempli de trouble.",
+      "source_pages": [
+        "page_0404.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Ad te, Domine, clamabo : et ad Deum meum deprecabor.",
+      "french": "Je crierai vers vous, Seigneur ; et j’adresserai mes prières à mon Dieu.",
+      "source_pages": [
+        "page_0404.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Quæ utilitas in sanguine meo, dum descendo in corruptionem ?",
+      "french": "Quelle utilité retirerez-vous de ma mort, lorsque je descendrai dans la pourriture du tombeau ?",
+      "source_pages": [
+        "page_0404.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Numquid confitebitur tibi pulvis, aut annuntiabit veritatem tuam ?",
+      "french": "Est-ce qu’une poussière vous pourra louer ; ou publiera-t-elle votre vérité ?",
+      "source_pages": [
+        "page_0405.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Audivit Dominus, et misertus est mei : Dominus factus est adjutor meus.",
+      "french": "Le Seigneur m’a entendu, et a eu pitié de moi : le Seigneur s’est déclaré mon protecteur.",
+      "source_pages": [
+        "page_0405.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Convertisti planctum meum in gaudium mihi : conscidisti saccum meum, et circumdedisti me lætitia :",
+      "french": "Vous avez changé mes gémissements en réjouissance ; vous avez déchiré le sac dont je m’étais revêtu ; et vous m’avez tout environné de joie :",
+      "source_pages": [
+        "page_0405.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Ut cantet tibi gloria mea, et non compungar : Domine, Deus meus, in æternum confitebor tibi.",
+      "french": "Afin qu’au milieu de ma gloire, je chante vos louanges, et que je ne sente plus les pointes de la tristesse. Seigneur, mon Dieu, je vous louerai, et vous rendrai grâces éternellement.",
+      "source_pages": [
+        "page_0405.json"
+      ]
+    }
+  ]
+}

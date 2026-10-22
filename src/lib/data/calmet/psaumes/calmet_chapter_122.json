@@ -1,0 +1,109 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "ad te levavi oculos meos, qui habitas in coelis.",
+      "lemma": "J’ai élevé mes yeux vers vous, mon Dieu, qui habitez dans les Cieux.",
+      "text": "Je n’ai d’espérance qu’en vous seul, ô mon Dieu, et j’ai toujours les yeux attachez au Ciel ; c’est de-là que j’attens mon secours, et ma délivrance."
+    },
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "ecce sicut oculi servorum, in manibus [6] dominorum suorum… (3.) ita oculi nostri ad Dominum.",
+      "lemma": "Comme les yeux des serviteurs sont arrêtez sur la main de leur maître ;… (3.) De même nos yeux sont fixez sur le Seigneur notre Dieu.",
+      "text": "On peut donner trois sens à ce passage. \n1º. De même que les serviteurs, et les servantes attendent leur secours, leur défense, leur liberté, de la main de leur maître, et de leur maîtresse ; ainsi nous n’espérons que de vous seul, ô mon Dieu, notre délivrance, et notre secours. \n2º. De même que les esclaves de l’un, et de l’autre sexe, ont sans cesse les yeux arrêtez sur leurs maîtres, et sur leurs maîtresses, pour leur obéir au moindre signe qu’ils feront ; ainsi nos yeux sont attachez sur vous, ô mon Dieu, pour courir au moindre signal de votre main. Anciennement la condition des esclaves était si méprisée, que plusieurs maîtres ne daignaient pas leur parler pour se faire servir.[1] Encore aujourd’hui dans l’Orient, les serviteurs paraissent devant leur maître dans une posture, qui marque leur extrême dépendance. On les voit collez contre un mur, sans branler, les mains en croix devant l’estomac, ayant les yeux sur leur maître, et prêts à exécuter ses ordres au moindre geste qu’il fait. Homère relevant la déférence de Ménélaus pour Agamemnon,[2] dit qu’il a toujours les yeux sur lui, et qu’il observe ses moindres mouvements.\nLe troisième sens qu’on peut donner à ce passage, est celui-ci : De même que les esclaves attendent leur nourriture, et leur subsistance uniquement de la main de leurs maîtres, et de leurs maîtresses ; ainsi, Seigneur, nous ne regardons que vous seul ; vous êtes notre unique espérance dans cette longue, et fâcheuse captivité. Avoir les yeux sur quelqu’un, se prend assez souvent pour en attendre la nourriture. _Les yeux de tous les animaux vous regardent_, dit le Prophète,[3] _et vous leur donnez à manger au temps convenable. Vous ouvrez votre main, et vous les remplissez de vos bénédictions_. Et ailleurs,[4] il se sert de la même expression pour désigner la confiance qu’on a dans le pouvoir de Dieu. _Mes yeux sont élevez vers vous, Seigneur ; j’ai mis en vous mon espérance, ne me privez point de la vie_. Et[5] _mes yeux sont toujours attachez sur le Seigneur, parce que c’est lui qui préservera mes pieds du piège qu’on leur tend_. Cette dernière explication paraît la plus simple. Voyez Théodoret, et Génébrard."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "miserere nostri, quia multum repleti sumus despectione.",
+      "lemma": "Ayez pitié de nous, parce que nous sommes remplis de confusion, et de mépris.",
+      "text": "L’Hébreu : [7] Car nous sommes fort rassasiez de mépris, et d’opprobres. Nous sommes las de tant souffrir ; notre patience est à bout. Il est dit dans Jérémie, [8] que le peuple accablé, et captif, sera rassasié d’opprobres : _Saturabitur opprobriis._"
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "quia [12] multum repleta est anima nostra : opprobrium abundantibus, et despectio superbis.",
+      "lemma": "Notre âme en est toute remplie ; elle est un sujet d’opprobre à ceux qui sont dans l’abondance, et de mépris aux superbes.",
+      "text": "Elle en est toute rassasiée ; elle a été chargée de confusion, et pénétrée de douleur jusqu’à l’excès. Les Babyloniens, ces riches insolents, ces superbes vainqueurs, nous traitent avec un souverain mépris, et nous chargent d’opprobres, et d’outrages. Symmaque : [9] Notre âme est rassasiée, pendant que les riches nous attaquent par leurs discours, et les superbes par leurs mépris. Quelques-uns traduisent ainsi : [10] Notre âme ne peut plus souffrir ces insultes. Que les outrages dont les riches nous accablent, et que le mépris qu’ils font de nous, retombent sur eux. Qu’ils saient eux-mêmes dans la confusion, et dans l’opprobre. Ce dernier sens paraît plus conforme à l’Hébreu. [11]"
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0252>page_0253",
+      "verse": 2,
+      "mode": "para",
+      "before": ".) De même nos yeux sont fixez sur le Seigneur notre Dieu.",
+      "after": "On peut donner trois sens à ce passage. \n1º. De même que l"
+    }
+  ],
+  "pages_used": [
+    "page_0252",
+    "page_0253",
+    "page_0254"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0253-a",
+      "n": 1,
+      "text": "Vide Pignor. de servis, p. 64. et notre Comment. sur Proverbes 5,1, 11."
+    },
+    {
+      "key": "page_0253-b",
+      "n": 2,
+      "text": "Homer. Iliad. A’. ἱμῖν τισυείατ, ὴ ἱμῖν ωελιδίγκω ἐφιμι."
+    },
+    {
+      "key": "page_0253-c",
+      "n": 3,
+      "text": "Psaumes 144,15."
+    },
+    {
+      "key": "page_0253-d",
+      "n": 4,
+      "text": "Psaumes 110,8."
+    },
+    {
+      "key": "page_0253-e",
+      "n": 5,
+      "text": "Psaumes 24,15."
+    },
+    {
+      "key": "page_0252-c",
+      "n": 6,
+      "text": "Nombres 12,8. פה אל פה אדבר בו ומראה ולא בחידת ותמנת יהוה יביט"
+    },
+    {
+      "key": "page_0254-a",
+      "n": 7,
+      "text": "Voyez Eusèbe de Césarée ; et de Muis, sur ce passage."
+    },
+    {
+      "key": "page_0254-b",
+      "n": 8,
+      "text": "_Genèse 8,22 ; Psaumes, chapitre 11, cit. 15._"
+    },
+    {
+      "key": "page_0254-d",
+      "n": 9,
+      "text": "ארחמך יהוה חזקי"
+    },
+    {
+      "key": "page_0254-e",
+      "n": 10,
+      "text": "_Abenezra, Abarban. alii._"
+    },
+    {
+      "key": "page_0254-f",
+      "n": 11,
+      "text": "רבת שבעה לה נפשנו הלעג השאננים הבוז לגאיונים"
+    },
+    {
+      "key": "page_0254-c",
+      "n": 12,
+      "text": "_Abarbanel en a compté jusqu’à 74._"
+    }
+  ],
+  "missing_footnotes": []
+}

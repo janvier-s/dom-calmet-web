@@ -1,0 +1,86 @@
+{
+  "book": "Psaumes",
+  "chapter": 114,
+  "chapter_summary": "Actions de grâces pour la délivrance de la captivité de Babylone, qui est comparée à la mort, et au tombeau. Heureux retour dans la Terre promise, designée sous le nom de la terre des vivants.\n\nAlleluia.\n\nI Louez Dieu.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Dilexi : quoniam exaudiet Dominus vocem orationis meæ.",
+      "french": "J’ai aimé, parce que le Seigneur doit exaucer la voix de ma prière ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0147.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quia inclinavit aurem suam mihi : et in diebus meis invocabo.",
+      "french": "Parce qu’il a abaissé son oreille vers moi, je l’invoquerai pendant tous les jours de ma vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0147.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Circumdederunt me dolores mortis : et pericula inferni invenerunt me.",
+      "french": "J’ai été environné des douleurs de la mort, et surpris des dangers de l’enfer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0147.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Tribulationem et dolorem inveni : et nomen Domini invocavi.",
+      "french": "J’ai trouvé l’affliction, et la douleur dans ma voie ; et j’ai invoqué le nom du Seigneur, en disant :",
+      "annotations": null,
+      "source_pages": [
+        "page_0148.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "O Domine, libera animam meam : misericors Dominus, et justus, et Deus noster miseretur.",
+      "french": "O Seigneur, délivrez mon âme. Le Seigneur est miséricordieux, et juste ; et notre Dieu est porté à faire grâce.",
+      "annotations": null,
+      "source_pages": [
+        "page_0148.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Custodiens parvulos Dominus : humiliatus sum, et liberavit me.",
+      "french": "Le Seigneur protège les petits : Je me suis humilié, et il m’a delivré.",
+      "annotations": null,
+      "source_pages": [
+        "page_0148.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Convertere, anima mea, in requiem tuam : quia Dominus benefecit tibi :",
+      "french": "Rentre, ô mon âme, dans ton repos ; parce que le Seigneur t’a comblée de biens :",
+      "source_pages": [
+        "page_0149.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Quia eripuit animam meam de morte, oculos meos à lacrymis, pedes meos à lapsu.",
+      "french": "Car il a délivré mon âme de la mort, mes yeux des larmes qu’ils répandaient, mes pieds de leur chute.",
+      "source_pages": [
+        "page_0149.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Placebo Domino in regione vivorum.",
+      "french": "Je ferai agréable au Seigneur dans la terre des vivants.",
+      "source_pages": [
+        "page_0149.json"
+      ]
+    }
+  ]
+}

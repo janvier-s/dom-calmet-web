@@ -1,0 +1,476 @@
+{
+  "book": "Psaumes",
+  "chapter": 88,
+  "chapter_summary": "Miséricorde du Seigneur envers la maison de David ; sa fidélité à exécuter ses promesses. Plaintes d’Ethan sur les disgrâces, et les malheurs arrivez au Royaume de Juda, et à la famille Royale de David. Il prie le Seigneur d’avoir compassion de Juda, et de la race de David.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "Intellectus Ethan Ezrahitæ.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription): check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0525.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Misericordias Domini, in æternum cantabo.",
+      "french": "Je chanterai éternellement les miséricordes du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0525.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "In generationem et generationem, annuntiabo veritatem tuam in ore meo.",
+      "french": "Et ma bouche annoncera la vérité de vos promesses dans toutes les races.",
+      "annotations": null,
+      "source_pages": [
+        "page_0525.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quoniam dixisti : In æternum misericordia ædificabitur in cœlis : præparabitur veritas tua in eis.",
+      "french": "Parce que vous avez dit : Que la miséricorde s’élevera comme un édifice éternel dans les Cieux : votre vérité, Seigneur, y sera établie d’une manière solide.",
+      "annotations": null,
+      "source_pages": [
+        "page_0526.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Disposui testamentum electis meis, juravi David servo meo : usque in æternum præparabo semen tuum.",
+      "french": "J’ai fait un pacte avec ceux que j’ai choisis : j’ai juré à David mon serviteur : Que je conserverai éternellement sa race ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0527.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et ædificabo in generationem et generationem sedem tuam.",
+      "french": "Et que j’affermirai son trône dans toute la postérité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0527.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Confitebuntur cœli mirabilia tua, Domine : etenim veritatem tuam in Ecclesia Sanctorum.",
+      "french": "Les Cieux publieront, Seigneur, vos merveilles : et on louera votre vérité dans l’assemblée des Saints.",
+      "annotations": null,
+      "source_pages": [
+        "page_0527.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quoniam quis in nubibus æquabitur Domino : similis erit Deo in filiis Dei ?",
+      "french": "Car qui dans les nuës sera égal au Seigneur ? Et qui parmi les enfants de Dieu sera semblable à Dieu ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0528.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Deus, qui glorificatur in concilio Sanctorum : magnus et terribilis super omnes qui in circuitu ejus sunt.",
+      "french": "Dieu, qui est rempli de gloire dans l’assemblée des Saints ; il est plus redoutable au milieu de tous ceux qui l’environnent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0528.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Domine, Deus virtutum, quis similis tibi ? Potens es Domine, et veritas tua in circuitu tuo.",
+      "french": "Seigneur, Dieu des armées, qui est semblable à vous ? Vous êtes, Seigneur, très puissant ; et votre vérité est sans cesse autour de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0529.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Tu dominaris potestati maris : motum autem fluctuum ejus tu mitigas.",
+      "french": "Vous dominez sur la puissance de la mer, et vous apaisez le mouvement de ses flots.",
+      "annotations": null,
+      "source_pages": [
+        "page_0529.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Tu humiliasti sicut vulneratum, superbum : in brachio virtutis tuæ dispersisti inimicos tuos.",
+      "french": "Vous avez humilié l’orgüeillex, comme un homme blessé à mort : vous avez dispersé vos ennemis, par la force de votre bras.",
+      "annotations": null,
+      "source_pages": [
+        "page_0529.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Tui sunt cœli, et tua est terra : orbem terræ, et plenitudinem ejus tu fundasti : aquilonem et mare tu creasti.",
+      "french": "Les Cieux sont à vous, et la terre vous appartient : vous avez fondé l’Univers, avec tout ce qu’il contient ; vous avez créé l’aquilon, et la mer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0530.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Thabor et Hermon in nomine tuo exultabunt : tuum brachium cum potentia.",
+      "french": "Thabor et Hermon feront retentir leur joie, par les louanges de votre nom : il n’appartient qu’à vous de faire paraître la souveraine puissance de votre bras.",
+      "annotations": null,
+      "source_pages": [
+        "page_0530.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Firmetur manus tua, et exaltetur dextera tua : justitia et judicium præparatio sedis tuæ.",
+      "french": "Que votre nom s’affermisse, et que votre droite paraisse avec éclat. La justice, et l’équité font la base de votre trône.",
+      "annotations": null,
+      "source_pages": [
+        "page_0530.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Misericordia et veritas præcedent faciem tuam : Beatus populus, qui scit jubilationem.",
+      "french": "La miséricorde, et la vérité marcheront devant votre face. Heureux est le peuple qui sait vous louer, et se réjouir en vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0531.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Domine, in lumine vultûs tui ambulabunt, et in nomine tuo exultabunt tota die : et in justitia tua exaltabuntur.",
+      "french": "Seigneur, ils marcheront dans la lumière de votre visage ; ils se réjouiront dans les louanges qu’ils donneront à votre nom durant tout le jour : et ils seront élevez par votre justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0531.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Quoniam gloria virtutis eorum tu es : et in beneplacito tuo exaltabitur cornu nostrum.",
+      "french": "Parce que vous seul êtes la gloire de leur force, et que c’est sur votre bonté qu’est fondée notre gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0532.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Quia Domini est assumptio nostra, et sancti Israël Regis nostri.",
+      "french": "Car c’est le Seigneur qui nous a pris pour son peuple ; c’est le Saint d’Israël qui est notre Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0532.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Tunc locutus es in visione sanctis tuis, et dixisti : Posui adjutorium in potente : et exaltavi electum de plebe mea.",
+      "french": "Alors vous parlâtes en vision à vos saints Prophètes, et vous leur dîtes : J’ai prêté mon secours à un homme puissant, et j’ai élevé celui que j’ai choisi du milieu de mon peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0532.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Inveni David servum meum : oleo sancto meo unxi eum :",
+      "french": "J’ai trouvé David mon serviteur, et je l’ai oint de mon huile sainte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0534.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Manus enim mea auxiliabitur ei : et brachium meum confortabit eum.",
+      "french": "Car ma main l’assistera, et mon bras le fortifiera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0534.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Nihil proficiet inimicus in eo : et filius iniquitatis non apponet nocere ei.",
+      "french": "L’ennemi ne gagnera rien à l’attaquer ; et le méchant ne pourra lui nuire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0534.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et concidam à facie ipsius inimicos ejus : et odientes eum in fugam convertam.",
+      "french": "Et je taillerai en pièces à sa vue ses ennemis ; et je mettrai en fuite ceux qui le haïssent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0535.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et veritas mea, et misericordia mea cum ipso : et in nomine meo exaltabitur cornu ejus.",
+      "french": "Ma miséricorde, et ma vérité seront toujours avec lui, et il sera élevé en puissance, par la vertu de mon nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0535.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Et ponam in mari manum ejus, et in fluminibus dexteram ejus.",
+      "french": "Et j’étendrai la puissance de sa main sur la mer, et celle de sa droite sur les fleuves.",
+      "annotations": null,
+      "source_pages": [
+        "page_0536.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Ipse invocabit me : Pater meus es tu : Deus meus, et susceptor salutis meæ.",
+      "french": "Il m’invoquera, en disant : Vous êtes mon Père, mon Dieu, et l’Auteur de mon salut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0537.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et ego primogenitum ponam illum, excelsum præ Regibus terræ.",
+      "french": "Je l’établirai le premier-né, et je l’éleverai au-dessus des Rois de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0537.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "In æternum servabo illi misericordiam meam : et testamentum meum fidele ipsi.",
+      "french": "Je lui conserverai éternellement ma miséricorde, et l’alliance que j’ai faite avec lui, demeurera inviolable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0538.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et ponam in sæculum sæculi semen ejus, et thronum ejus sicut dies Cœli.",
+      "french": "Et je ferai subsister sa race dans tous les siècles, et son trône durera autant que les Cieux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0538.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Si autem dereliquerint filiis ejus Legem meam : et in judiciis meis non ambulaverint :",
+      "french": "Que si ses enfants abandonnent ma Loi, et s’ils ne marchent point dans mes préceptes :",
+      "annotations": null,
+      "source_pages": [
+        "page_0538.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Si justitias meas profanaverint : et mandata mea non custodierint :",
+      "french": "S’ils violent la justice de mes ordonnances, et s’ils ne gardent point mes commandements :",
+      "annotations": null,
+      "source_pages": [
+        "page_0538.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Visitabo in virga iniquitates eorum : et in verberibus peccata eorum.",
+      "french": "Je visiterai avec la verge leurs iniquités ; et je punirai leurs péchés par des plaies différentes :",
+      "annotations": null,
+      "source_pages": [
+        "page_0538.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Misericordiam autem meam non dispergam ab eo : neque nocebo in veritate mea :",
+      "french": "Mais je ne retirerai point de dessus lui ma miséricorde, et j’accomplirai avec fidélité les promesses que je lui ai faites.",
+      "annotations": null,
+      "source_pages": [
+        "page_0539.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Neque profanabo testamentum meum : et quæ procedunt de labiis meis non faciam irrita.",
+      "french": "Et je ne violerai point mon alliance ; et je ne rendrai point inutiles les paroles qui sont sorties de mes lèvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0539.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Semel juravi in sancto meo, si David mentiar : semen ejus in æternum manebit.",
+      "french": "J’ai fait à David un ferment irrévocable par mon saint Nom, et je ne lui mentirai point : que sa race subsistera éternellement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0539.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et thronus ejus sicut Sol in conspectu meo, et sicut Luna perfecta in æternum : et testis in Cœlo fidelis.",
+      "french": "Et son trône sera éternel en ma présence, comme le Soleil, comme la Lune, qui est dans sa plénitude ; il y a dans le Ciel un témoin fidèle de mon alliance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0540.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Tu verò repulisti et despexisti : distulisti Christum tuum.",
+      "french": "Cependant vous l’avez rejetté et méprisé ; vous avez differé votre Christ.",
+      "annotations": null,
+      "source_pages": [
+        "page_0540.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Evertisti testamentum servi tui : profanasti in terra Sanctuarium ejus.",
+      "french": "Vous avez renversé l’alliance faite avec votre serviteur ; et jetté par terre, comme une chose profane, les marques sacrées de sa dignité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0541.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Destruxisti omnes sepes ejus : posuisti firmamentum ejus formidinem.",
+      "french": "Vous avez détruit toutes les hayes qui l’environnaient ; vous avez répandu la frayeur dans ses forteresses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0541.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Diripuerunt eum omnes transeuntes viam : factus est opprobrium vicinis suis.",
+      "french": "Tous ceux qui passaient dans le chemin, l’ont pillé ; et il est devenu l’opprobre de ses voisins.",
+      "annotations": null,
+      "source_pages": [
+        "page_0542.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Exaltasti dexteram deprimentium eum : lætificasti omnes inimicos ejus.",
+      "french": "Vous avez relevé la main de ceux qui travaillaient à l’accabler ; vous avez rempli de joie tous ses ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0542.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Avertisti adjutorium gladii ejus : et non es auxiliatus ei in bello.",
+      "french": "Vous avez ôté toute la force à son épée, et vous ne l’avez point secouru durant la guerre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0542.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Destruxisti eum ab emundatione, et sedem ejus in terram collisisti.",
+      "french": "Vous l’avez dépouillé de tout son éclat, et vous avez brisé son trône contre la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0543.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Minorasti dies temporis ejus : perfudisti eum confusione.",
+      "french": "Vous avez abrégé les jours de son règne, vons l’avez couvert de confusion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0543.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Usquequò, Domine, avertis in finem ? Exardescet sicut ignis ira tua ?",
+      "french": "Jusqu’à quand, Seigneur, détournerez-vous votre visage de dessus nous ? Sera-ce éternellement ? Jusqu’à quand votre colère s’embrasera-t’elle comme un feu ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0543.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Memorare quæ mea substantia : numquid enim vanè constituisti omnes filios hominum ?",
+      "french": "Souvenez-vous combien c’est peu de chose que ma vie : car tous les hommes ne sont-ils pas créez sujets à la vanité ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0544.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Quis est homo, qui vivet, et non videbit mortem ? eruet animam suam de manu inferi ?",
+      "french": "Qui est l’homme qui pourra vivre sans voir la mort ? Qui retirera son âme de la puissance de l’enfer ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0544.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Ubi sunt misericordiæ tuæ antiquæ, Domine, sicut jurasti David in veritate tua ?",
+      "french": "Où sont, Seigneur, vos anciennes miséricordes, que vous avez promises à David avec serment, et en prenant votre verité à témoin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0544.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Memor esto, Domine, opprobrii servorum tuorum, (quod continui in sinu meo) multarum gentium.",
+      "french": "Souvenez-vous, Seigneur, de l’opprobre que vos serviteurs ont souffert de la part de plusieurs Nations, et que j’ai tenu comme renfermé dans mon sein.",
+      "annotations": null,
+      "source_pages": [
+        "page_0545.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Quod exprobraverunt inimici tui, Domine, quod exprobraverunt commutationem Christi tui.",
+      "french": "Du reproche de vos ennemis, de ce reproche qu’ils ont fait, Seigneur, que vous avez changé à l’égard de votre Christ.",
+      "annotations": null,
+      "source_pages": [
+        "page_0545.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "Benedictus Dominus in æternum ; fiat, fiat.",
+      "french": "Que le Seigneur soit beni éternellement ; que cela soit ainsi, que cela soit ainsi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0546.json"
+      ]
+    }
+  ]
+}

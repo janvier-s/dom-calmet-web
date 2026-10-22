@@ -1,0 +1,77 @@
+{
+  "book": "Psaumes",
+  "chapter": 129,
+  "chapter_summary": "Prière des Juiss en captivité à Babylone. Ils confessent leurs péchés au Seigneur ; ils mettent toute leur confiance en sa miséricorde, et espérent le pardon de leurs iniquités.\nCanticum graduum. | Cantique des dégrez.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "De profundis clamavi ad te, Domine : Domine, exaudi vocem meam.",
+      "french": "J’Ai crié vers vous, Seigneur, du fond des abîmes : Seigneur, exaucez ma voix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0281.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Fiant aures tuæ intendentes, in vocem deprecationis meæ.",
+      "french": "Que vos oreilles se rendent attentives à la voix de mon ardente prière.",
+      "source_pages": [
+        "page_0282.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Si iniquitates observaveris, Domine : Domine quis sustinebit ?",
+      "french": "Si vous observez exactement, Seigneur, nos iniquités ; Seigneur, qui subsistera devant vous ?",
+      "source_pages": [
+        "page_0282.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quia apud te propitiatio est : et propter legem tuam sustinui te, Domine.",
+      "french": "Mais vous êtes plein de miséricorde ; et j’ai espéré en vous, Seigneur, à cause de votre Loi.",
+      "source_pages": [
+        "page_0282.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Sustinuit anima mea in verbo ejus : speravit anima mea in Domino.",
+      "french": "Mon âme s’est soutenuë par la parole du Seigneur ; mon âme a espéré au Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0283.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "A custodia matutina usque ad noctem : speret Israël in Domino.",
+      "french": "Qu’Israël espère au Seigneur, depuis la veille du matin, jusqu’à la nuit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0283.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quia apud Dominum misericordia : et copiosa apud eum redemptio.",
+      "french": "Parce que le Seigneur est plein de miséricorde, et qu’on trouve en lui une rédemption abondante.",
+      "annotations": null,
+      "source_pages": [
+        "page_0284.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et ipse redimet Israël, ex omnibus iniquitatibus ejus.",
+      "french": "Et il rachetera Israël de toutes ses iniquités.",
+      "annotations": null,
+      "source_pages": [
+        "page_0284.json"
+      ]
+    }
+  ]
+}

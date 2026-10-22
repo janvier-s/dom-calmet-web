@@ -1,0 +1,233 @@
+{
+  "book": "Isaïe",
+  "chapter": 65,
+  "chapter_summary": "Conversion des Gentils. Réprobation des Juifs. Idolâtrie, et superstitions de ce peuple. Bonheur des fidèles.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Quæsierunt me qui antè non interrogabant : invenerunt qui non quæsierunt me. Dixi : Ecce ego, ecce ego, ad gentem, quæ non invocabat nomen meum.",
+      "french": "Ceux qui ne se mettaient point en peine de me connaître, sont venus vers moi, et ceux qui ne me cherchaient point, m’ont trouvé. J’ai dit à une nation qui n’invoquait point mon nom auparavant : Me voici, me voici.",
+      "annotations": null,
+      "source_pages": [
+        "page_0796.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Expandi manus meas tota die ad populum incredulum, qui graditur in via non bona post cogitationes suas.",
+      "french": "J’ai étendu mes mains pendant tout le jour vers un peuple incrédule, qui marche dans une voie qui n’est pas bonne, en suivant ses pensées ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0797.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Populus qui ad iracundiam provocat ante faciem meam semper : qui immolant in hortis, et sacrificant super lateres.",
+      "french": "Vers un peuple, qui fait sans cesse devant mes yeux, ce qui n’est propre qu’à m’irriter, qui immole des hosties dans les jardins, et qui sacrifie sur les tuiles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0797.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Qui habitant in sepulchris, et in delubris idolorum dormiunt : qui comedunt carnem suillam, et jus profanum in vasis eorum :",
+      "french": "Qui habite dans les sépulcres, qui dort dans les temples des idoles, qui mange de la chair de pourceau, et qui met dans ses vases une liqueur profane ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0798.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Qui dicunt : Recede à me, non appropinques mihi, quia immundus es : isti fumus erunt in furore meo, ignis ardens tota die.",
+      "french": "Qui dit aux autres : Retirez-vous de moi, ne vous approchez pas ; parce que vous n’êtes pas pur. Ils deviendront une fumée au jour de ma fureur, un feu qui brûlera toujours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0800.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ecce scriptum est coram me : non tacebo, sed reddam, et retribuam in sinum eorum.",
+      "french": "Leur péché est écrit devant mes yeux, je ne me tairai plus ; mais je leur rendrai, et je verserai dans leur sein ce qu’ils méritent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0801.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Iniquitates vestras, et iniquitates patrum vestrorum simul, dicit Dominus, qui sacrificaverunt super montes, et super colles exprobraverunt mihi, et remetiar opus eorum primum in sinu eorum.",
+      "french": "Je punirai vos iniquités, dit le Seigneur, et tout ensemble les iniquités de vos pères, qui ont sacrifié sur les montagnes, et qui m’ont deshonoré sur les collines. Et en vous punissant, je verserai dans votre sein une peine proportionnée à leurs anciens dérèglements.",
+      "annotations": null,
+      "source_pages": [
+        "page_0801.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Hæc dicit Dominus : Quomodo si inveniatur granum in botro, et dicatur : Ne dissipes illud, quoniam benedictio est : sic faciam propter servos meos, ut non disperdam totum.",
+      "french": "Voici ce que dit le Seigneur : Comme lorsqu’on trouve un beau grain dans une grappe, on dit : Ne le gâtez pas, parce que c’est une bénédiction : ainsi en faveur de mes serviteurs, je n’exterminerai pas Israël entièrement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0802.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et educam de Jacob semen, et de Juda possidentem montes meos : et hæreditabunt eam electi mei, et servi mei habitabunt ibi.",
+      "french": "Je ferai sortir une postérité de Jacob, et de Juda celui qui possédera mes montagnes. Ceux que j’aurai élûs, seront les héritiers de cette terre, et mes serviteurs y habiteront.",
+      "annotations": null,
+      "source_pages": [
+        "page_0802.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et erunt campestria in caulas gregum, et vallis Achor in cubile armentorum, populo meo qui requisierunt me.",
+      "french": "Les campagnes feront remplies de parcs de troupeaux, et la vallée d’Achor servira de retraite aux bœufs de mon peuple, de ceux qui m’auront recherché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0803.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et vos, qui dereliquistis Dominum, qui obliti estis montem sanctum meum, qui ponitis fortunæ mensam, et libatis super eam.",
+      "french": "Mais pour vous qui avez abandonné le Seigneur, qui avez oublié ma montagne sainte, qui dressez une table à la fortune, et qui lui offrez des liqueurs :",
+      "annotations": null,
+      "source_pages": [
+        "page_0804.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Numerabo vos in gladio, et omnes in cæde corruetis : pro eo quòd vocavi, et non respondistis : locutus sum, et non audistis : et faciebatis malum in oculis meis, et quæ nolui elegistis.",
+      "french": "Je vous ferai passer l’un après l’autre au fil de l’épée, et vous périrez tous dans ce carnage : parce que j’ai appelé, et vous n’avez point répondu ; j’ai parlé, et vous n’avez point entendu ; vous avez fait le mal devant mes yeux, et vous avez voulu tout ce que je ne voulais point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0806.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Propter hoc hæc dicit Dominus Deus : Ecce servi mei comedent, et vos e­surietis : ecce servi mei bibent, et vos sitietis.",
+      "french": "C’est pourquoi voici ce que dit le Seigneur Dieu : Mes serviteurs mangeront, et vous souffrirez la faim ; mes serviteurs boiront, et vous souffrirez la soif ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0807.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Ecce servi mei lætabuntur, et vos confundemini : Ecce servi mei laudabunt præ exultatione cordis, et vos clamabitis præ dolore cordis, et præ contritione spiritus ululabitis.",
+      "french": "Mes serviteurs se réjouiront, et vous serez couverts de confusion ; mes serviteurs éclateront par des cantiques de louanges dans le ravissement de leur cœur, et vous éclaterez par de grands cris, dans l’amertume de votre cœur, et en de tristes hurlements, dans le déchirement de votre esprit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0807.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et dimittetis nomen vestrum in juramentum electis meis : et interficiet te Dominus Deus, et servos suos vocabit nomine alio.",
+      "french": "Et vous rendrez votre nom à mes élûs, un nom d’imprécation ; le Seigneur Dieu vous fera périr, et il donnera à ses serviteurs un autre nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0807.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "In quo qui benedictus est super terram, benedicetur in Deo amen : et qui jurat in terra, jurabit in Deo amen : quia oblivioni traditæ sunt angustiæ priores, et quia absconditæ sunt ab oculis meis.",
+      "french": "Celui qui sera béni en ce nom sur la terre, sera béni du Dieu de vérité, et celui qui jurera sur la terre, jurera au nom du Dieu de vérité ; parce que les anciennes afflictions seront alors mises en oubli, et qu’elles disparoîtront de devant mes yeux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0808.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Ecce enim ego creo cælos novos, et terram novam : et non erunt in memoria priora, et non ascendent super cor.",
+      "french": "Car je m’en vais créer de nouveaux Cieux, et une terre nouvelle, et tout ce qui a été auparavant, s’effacera de la mémoire, sans qu’il revienne dans l’esprit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0808.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Sed gaudebitis, et exultabitis usque in sempiternum, in his quæ ego creo : quia ecce ego creo Jerusalem exultationem, et populum ejus gaudium.",
+      "french": "Mais vous vous réjouirez, et vous serez éternellement pénétrez de joie dans les choses que je vais créer ; parce que je m’en vais rendre Jérusalem une ville d’allégresse, et son peuple, un peuple de joie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0809.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Et exultabo in Jerusalem, et gaudebo in populo meo : et non audietur in eo ultrà vox fletûs, et vox clamoris.",
+      "french": "Je prendrai mes délices dans Jérusalem, je trouverai ma joie dans mon peuple ; et on n’y entendra plus de voix lamentables, ni de tristes cris.",
+      "annotations": null,
+      "source_pages": [
+        "page_0809.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Non erit ibi amplius infans dierum, et senex qui non impleat dies suos : quoniam puer centum annorum morietur, et peccator centum annorum maledictus erit.",
+      "french": "On n’y verra point d’enfant qui ne vive que peu de jours, ni de vieillard qui n’accomplisse le temps de sa vie ; parce que celui qui mourra à cent ans, mourra enfant, et le pécheur de cent années sera maudit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0810.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Et ædificabunt domos, et habitabunt : et plantabunt vineas, et comedent fructus earum.",
+      "french": "Ils bâtiront des maisons, et ils les habiteront ; ils planteront des vignes, et ils en mangeront le fruit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0811.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Non ædificabunt, et alius habitabit : non plantabunt, et alius comedet : secundùm enim dies ligni, erunt dies populi mei, et opera manuum eorum inveterabunt.",
+      "french": "Il ne leur arrivera point de bâtir des maisons, et qu’un autre les habite, ni de planter des vignes, et qu’un autre en mange le fruit. Car la vie de mon peuple égalera celle des grands arbres, et les ouvrages de leurs mains, feront de longue durée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0811.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Electi mei non laborabunt frustrà, neque generabunt in conturbatione : quia semen benedictorum Domini est, et nepotes eorum cum eis.",
+      "french": "Mes élûs ne travailleront point en vain, et ils n’engendreront point d’enfants, qui leur causent de la peine : parce qu’ils seront la race bénie du Seigneur, et que leurs petits enfants seront bénis comme eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0812.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Eritque antequam clament, ego exaudiam : adhuc illis loquentibus, ego audiam.",
+      "french": "On verra qu’avant qu’ils crient vers moi, je les exaucerai ; et lorsqu’ils parleront encore, j’écouterai leurs prières.",
+      "annotations": null,
+      "source_pages": [
+        "page_0812.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Lupus, et agnus pascentur simul, leo, et bos comedent paleas : et serpenti pulvis panis ejus : non nocebunt, neque occident in omni monte sancto meo, dicit Dominus.",
+      "french": "Le loup, et l’agneau iront paître ensemble : le lion, et le bœuf mangeront la paille, et la poussière sera la nourriture du serpent. Ils ne nuiront point, et ne tuëront point sur toute ma montagne sainte, dit le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0812.json"
+      ]
+    }
+  ]
+}

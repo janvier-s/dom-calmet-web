@@ -1,0 +1,270 @@
+{
+  "book": "Proverbes",
+  "chapter": 10,
+  "chapter_summary": "Différence du fils sage, et de l’insensé ; du juste, et de l’impie ; du diligent, et du paresseux ; de la charité, et de la haine ; de la bonne et de la mauvaise langue.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Filius sapiens lætificat patrem : filius verò stultus mœstitia est matris suæ.",
+      "french": "Le fils qui est sage est la joie du père : le fils insensé est la tristesse de sa mère.",
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Nil proderunt thesauri impietatis : justitia verò liberabit à morte.",
+      "french": "Les trésors de l’iniquité ne serviront de rien : mais la justice délivrera de la mort.",
+      "source_pages": [
+        "page_0103.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Non affliget Dominus fame animam justi, et insidias impiorum subvertet.",
+      "french": "Le Seigneur n’affligera point par la famine l’âme du juste, et il détruira les mauvais desseins des méchants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Egestatem operata est manus remissa : manus autem fortium divitias parat. Qui nititur mendaciis, hic pascit ventos : idem autem ipse sequitur aves volantes.",
+      "french": "La main relâchée produit l’indigence ; la main des forts acquiert les richesses. Celui qui s’appuye sur des mensonges, se repaît de vents ; et le même encore court après des oiseaux qui volent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json",
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Qui congregat in messe, filius sapiens est : qui autem stertit æstate, filius confusionis.",
+      "french": "Celui qui amasse pendant la moisson, est sage ; mais celui qui dort pendant l’été, est un enfant de confusion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Benedictio Domini super caput justi : os autem impiorum operit iniquitas.",
+      "french": "La bénédiction du Seigneur, est sur la tête du juste ; mais l’iniquité des méchants leur couvrira le visage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Memoria justi cum laudibus : et nomen impiorum putrescet.",
+      "french": "La mémoire du juste sera accompagnée de louanges ; mais le nom des méchants pourrira comme eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0106.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Sapiens corde præcepta suscipit : stultus cæditur labiis.",
+      "french": "L’homme sage, qui est tel dans le cœur, reçoit les avis qu’on lui donne ; l’insensé est frappé par les lèvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0106.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Qui ambulat simpliciter, ambulat confidenter : qui autem depravat vias suas, manifestus erit.",
+      "french": "Celui qui marche simplement, marche en assurance : mais celui qui pervertit ses voies, sera découvert.",
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Qui annuit oculo, dabit dolorem : et stultus labiis verberabitur.",
+      "french": "Celui qui fait signe des yeux, causera de la douleur ; l’insensé sera blessé par les lèvres.",
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Vena vitæ, os justi : et os impiorum operit iniquitatem.",
+      "french": "La bouche du juste est une source de vie ; la bouche des méchants cache l’iniquité.",
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Odium suscitat rixas : et universa delicta operit charitas.",
+      "french": "La haine excite les querelles ; et la charité couvre toutes les fautes.",
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "In labiis sapientis invenitur sapientia : et virga in dorso ejus qui indiget corde.",
+      "french": "La sagesse se trouve sur les lèvres du sage ; et la verge sur le dos de celui qui n’a point de sens.",
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Sapientes abscondunt scientiam : os autem stulti confusioni proximum est.",
+      "french": "Les sages cachent leur science ; la bouche de l’insensé est toujours prête de s’attirer la confusion.",
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Substantia divitis, urbs fortitudinis ejus : pavor pauperum, egestas eorum.",
+      "french": "Les richesses du riche sont la ville forte ; l’indigence des pauvres les tient dans la crainte.",
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Opus justi ad vitam : fructus autem impii ad peccatum.",
+      "french": "L’œuvre du juste conduit à la vie ; le fruit du méchant tend au péché.",
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Via vitæ, custodienti disciplinam : qui autem increpationes relinquit, errat.",
+      "french": "Celui qui garde la discipline, est dans le chemin de la vie ; mais celui qui néglige les réprimandes, s’égare.",
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Abscundunt odium labia mendacia : qui profert contumeliam, insipiens est.",
+      "french": "Les lèvres menteuses cachent la haine, celui qui outrage ouvertement est un insensé.",
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "In multiloquio non deerit peccatum : qui autem moderatur labia sua, prudentissimus est.",
+      "french": "Les longs discours ne seront point exemts de péché ; mais celui qui est modéré dans ses paroles, est très prudent.",
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Argentum electum, lingua justi : cor autem impiorum pro nihilo.",
+      "french": "La langue du juste est un argent épuré ; et le cœur des méchants est de nul prix.",
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Labia justi erudiunt plurimos : qui autem indocti sunt, in cordis egestate morientur.",
+      "french": "Les lèvres du juste en instruisent plusieurs ; mais les ignorants mourront dans l’indigence de leur cœur.",
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Benedictio Domini divites facit, nec sociabitur eis afflictio.",
+      "french": "La bénédiction du Seigneur fait les hommes riches ; et l’affliction n’aura point de part avec eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Quasi per risum stultus operatur scelus ; sapientia autem est viro prudentiæ.",
+      "french": "L’insensé commet le crime comme en se jouant ; la sagesse est la prudence de l’homme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Quod timet impius, veniet super eum : desiderium suum justis dabitur.",
+      "french": "Ce que craint le méchant lui arrivera ; les justes obtiendront ce qu’ils désirent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Quasi tempestas transiens non erit impius : justus autem quasi fundamentum sempiternum.",
+      "french": "Le méchant disparoîtra comme une tempête qui passe ; le juste sera comme un fondement éternel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Sicut acetum dentibus, et fumus oculis ; sic piger, his qui miserunt eum.",
+      "french": "Ce qu’est le vinaigre aux dents, et la fumée aux yeux ; tel est le paresseux à l’égard de ceux qui l’ont envoyé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Timor Domini apponet dies : et anni impiorum breviabuntur.",
+      "french": "La crainte du Seigneur prolonge les jours ; les années des méchants seront abrégées.",
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Exspectatio justorum lætitia : spes autem impiorum peribit.",
+      "french": "L’attente des justes, c’est la joie : mais l’espérance des méchants périra.",
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Fortitudo simplicis, via Domini : et pavor his, qui operantur malum.",
+      "french": "La voie du Seigneur, est la force du simple : ceux qui font le mal sont dans l’effroi.",
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Justus in æternum non commovebitur : impii autem non habitabunt super terram.",
+      "french": "Le juste ne sera jamais ébranlé ; mais les méchants n’habiteront point sur la terre.",
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Os justi parturiet sapientiam : lingua pravorum peribit. Labia justi considerant placita : et os impiorum perversa.",
+      "french": "La bouche du juste enfantera la sagesse : la langue des hommes corrompus périra. Les lèvres du juste considérent ce qui peut plaire : et la bouche des méchants se répand en des paroles malignes.",
+      "source_pages": [
+        "page_0112.json",
+        "page_0113.json"
+      ],
+      "annotations": null
+    }
+  ]
+}

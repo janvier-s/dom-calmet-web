@@ -24,13 +24,6 @@
     {
       "verse": 4,
       "sub": false,
-      "latin_lemma": "occupet eum caligo, et involvatur amaritudine.",
-      "lemma": "Qu’une noire obscurité l’environne, et qu’il soit plongé dans l’amertume.",
-      "text": "L’Hébreu :[10] _Que l’obscurité se couche sur lui_, qu’elle l’accable, et le couvre tout entier, et que les chaleurs excessives du jour l’effrayent. Qu’il soit brûlé par les ardeurs excessives de la Canicule, et qu’il soit un objet de terreur aux mortels, comme ces jours fatals, où la maladie en enlève un si grand nombre. D’autres traduisent : Que les tireurs d’horoscopes ne marquent jamais ce jour parmi les jours heureux ; qu’ils le notent comme un jour terrible, et dangereux. D’autres enfin : Que l’on évite ce jour, comme on fait les jours de deuil, et d’affliction. Ou bien : Que ceux qui sont dans l’affliction, le maudissent. Les Septante :[11] _Que l’obscurité tombe sur lui ; et qu’il soit dans le trouble._ Aq.[12] _qu’elle le souille_ ; Sym.[13] _qu’elle s’en rende maîtresse, comme d’une chose à laquelle elle a droit._"
-    },
-    {
-      "verse": 5,
-      "sub": false,
       "latin_lemma": "non requirat eum Deus desuper.",
       "lemma": "Que Dieu ne le regarde non plus du Ciel, que s’il n’avait jamais été.",
       "text": "L’Hébreu :[8] _Que les ténèbres le souillent._ Ou : _Que les ténèbres le revendiquent, comme un jour qui leur appartient._ Les Septante :[9] _Que les ténèbres l’emportent._"
@@ -41,6 +34,13 @@
       "latin_lemma": "umbra mortis.",
       "lemma": "L’ombre de la mort.",
       "text": "Des ténèbres mortelles ; une obscurité pareille à celle de la mort, et du tombeau."
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "occupet eum caligo, et involvatur amaritudine.",
+      "lemma": "Qu’une noire obscurité l’environne, et qu’il soit plongé dans l’amertume.",
+      "text": "L’Hébreu :[10] _Que l’obscurité se couche sur lui_, qu’elle l’accable, et le couvre tout entier, et que les chaleurs excessives du jour l’effrayent. Qu’il soit brûlé par les ardeurs excessives de la Canicule, et qu’il soit un objet de terreur aux mortels, comme ces jours fatals, où la maladie en enlève un si grand nombre. D’autres traduisent : Que les tireurs d’horoscopes ne marquent jamais ce jour parmi les jours heureux ; qu’ils le notent comme un jour terrible, et dangereux. D’autres enfin : Que l’on évite ce jour, comme on fait les jours de deuil, et d’affliction. Ou bien : Que ceux qui sont dans l’affliction, le maudissent. Les Septante :[11] _Que l’obscurité tombe sur lui ; et qu’il soit dans le trouble._ Aq.[12] _qu’elle le souille_ ; Sym.[13] _qu’elle s’en rende maîtresse, comme d’une chose à laquelle elle a droit._"
     },
     {
       "verse": 6,
@@ -54,14 +54,21 @@
       "sub": false,
       "latin_lemma": "sit nox illa solitaria.",
       "lemma": "Que cette nuit-là soit",
-      "text": "dans une affreuse solitude. Le mot Hébreu n’est pas bien connu. Les Septante : [16] _Que cette nuit soit une nuit de douleur._ Le Chaldéen : _Qu’elle soit désolée._ D’autres : _Qu’elle soit souillée ; qu’on n’en approche non plus que d’une femme souillée, et séparée._"
+      "text": ""
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "dans une affreuse solitude.",
+      "text": "Le mot Hébreu n’est pas bien connu. Les Septante : [16] _Que cette nuit soit une nuit de douleur._ Le Chaldéen : _Qu’elle soit désolée._ D’autres : _Qu’elle soit souillée ; qu’on n’en approche non plus que d’une femme souillée, et séparée._"
     },
     {
       "verse": 7,
       "sub": false,
       "latin_lemma": "nec laude digna.",
-      "lemma": "Qu’on n’en parle jamais avantageusement. Qu’on ne la loue jamais ; qu’on ne la bénisse jamais.",
-      "text": "L’Hébreu : [17] _Que le chant ne vienne jamais dans elle. Qu’on n’y chante, qu’on ne s’y réjouisse jamais, qu’elle ne soit pas de ces nuits, où l’on s’assemble pour les noces, pour les festins, pour les assemblées de réjouissances. On sait qu’on conduisait l’épouse chez son époux, à la clarté des flambeaux, ou des lampes. [18] Ou bien : Que les astres n’y paraissent point, et n’y forment ce concert, qui loue le Seigneur. Voyez ci-après XXXVIII. 7. Cum me laudarent simul astra matutina, etc._"
+      "lemma": "Qu’on n’en parle jamais avantageusement.",
+      "text": "Qu’on ne la loue jamais ; qu’on ne la bénisse jamais. L’Hébreu : [17] _Que le chant ne vienne jamais dans elle_. Qu’on n’y chante, qu’on ne s’y réjouisse jamais, qu’elle ne soit pas de ces nuits, où l’on s’assemble pour les noces, pour les festins, pour les assemblées de réjouissances. On sait qu’on conduisait l’épouse chez son époux, à la clarté des flambeaux, ou des lampes. [18] Ou bien : Que les astres n’y paraissent point, et n’y forment ce concert, qui loue le Seigneur. Voyez ci-après 38:7. _Cum me laudarent simul astra matutina, etc._"
     },
     {
       "verse": 8,
@@ -138,14 +145,21 @@
       "sub": false,
       "latin_lemma": "qui expectant mortem, et non venit, quasi effodientes thesaurum.",
       "lemma": "Qui attendent la mort, et la mort ne vient point, quoiqu’ils la cherchent avec le même empresse-",
-      "text": "ment que s’ils déterraient un trésor. ℣. 22. Et qui sont ravis de joie, lorsqu’ils ont enfin trouvé le tombeau. On peut donner un autre sens à la Vulgate : _Ceux qui attendent la mort, et la mort ne vient pas, sont comme ceux qui cherchent un trésor caché dans la terre, lesquels sont remplis de joie, lorsqu’ils viennent à trouver un tombeau_ ; parce qu’ils espèrent d’y rencontrer les richesses qu’ils souhaitent ; car autrefois, comme on l’a dit, on cachait volontiers de l’or, ou de l’argent, dans les tombeaux. Ainsi ceux qui trouvent la mort au milieu de leurs maux, se croient au comble de leurs désirs ; ils la reçoivent avec joie. Le premier sens est plus conforme au Texte Hébreu. [53]"
+      "text": ""
+    },
+    {
+      "verse": 21,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "ment que s’ils déterraient un trésor.",
+      "text": "℣. 22. _Et qui sont ravis de joie, lorsqu’ils ont enfin trouvé le tombeau._ On peut donner un autre sens à la Vulgate : _Ceux qui attendent la mort, et la mort ne vient pas, sont comme ceux qui cherchent un trésor caché dans la terre, lesquels sont remplis de joie, lorsqu’ils viennent à trouver un tombeau_ ; parce qu’ils espèrent d’y rencontrer les richesses qu’ils souhaitent ; car autrefois, comme on l’a dit, on cachait volontiers de l’or, ou de l’argent, dans les tombeaux. Ainsi ceux qui trouvent la mort au milieu de leurs maux, se croient au comble de leurs désirs ; ils la reçoivent avec joie. Le premier sens est plus conforme au Texte Hébreu. [53]"
     },
     {
       "verse": 23,
       "sub": false,
       "latin_lemma": "viro, cujus abscondita est via.",
       "lemma": "À un homme, qui marche par une route inconnue.",
-      "text": "Voici un des principaux motifs des plaintes de Job sur l’état où il est réduit. Pourquoi Dieu donne-t-il la vie à un homme, dont les voies ne sont que ténèbres, qui n’a jamais de certitude parfaite s’il est digne d’amour, ou de haine, [54] et qui ne sait, lors même qu’il est plus affermi dans le bien, si Dieu lui donnera la grâce de la persévérance ? C’est en effet ce qui serait le plus capable de jeter l’homme dans le découragement, et le désespoir, s’il n’était assuré de l’infinie miséricorde du Seigneur, qui ne nous abandonne jamais le premier, et qui ne refuse point sa grâce à ceux qui la lui demandent humblement ; enfin qui ne permettra point que nous soyons tentés au-dessus de nos forces, mais qui proportionnera ses secours aux dangers auxquels il permettra que nous soyons exposés.  J’aimerais mieux entendre le Texte de cette manière : _Pourquoi Dieu donne-t-il la vie à un homme, dont les voies sont inconnues, qui ne sait quelle route il doit prendre, qui est envi-_ ronné de profondes ténèbres, et à qui le Seigneur a fermé toute issue. [55] Il se représente comme un homme environné de précipices, au milieu des ténèbres, et enfermé de tous côtés."
+      "text": "Voici un des principaux motifs des plaintes de Job sur l’état où il est réduit. Pourquoi Dieu donne-t-il la vie à un homme, dont les voies ne sont que ténèbres, qui n’a jamais de certitude parfaite s’il est digne d’amour, ou de haine, [54] et qui ne sait, lors même qu’il est plus affermi dans le bien, si Dieu lui donnera la grâce de la persévérance ? C’est en effet ce qui serait le plus capable de jeter l’homme dans le découragement, et le désespoir, s’il n’était assuré de l’infinie miséricorde du Seigneur, qui ne nous abandonne jamais le premier, et qui ne refuse point sa grâce à ceux qui la lui demandent humblement ; enfin qui ne permettra point que nous soyons tentés au-dessus de nos forces, mais qui proportionnera ses secours aux dangers auxquels il permettra que nous soyons exposés.  J’aimerais mieux entendre le Texte de cette manière : Pourquoi Dieu donne-t-il la vie à _un homme, dont les voies sont inconnues_, qui ne sait quelle route il doit prendre, qui est environné de profondes ténèbres, et à qui le Seigneur a fermé toute issue. [55] Il se représente comme un homme environné de précipices, au milieu des ténèbres, et enfermé de tous côtés."
     },
     {
       "verse": 25,
@@ -178,17 +192,10 @@
       "after": "ses amis, il exprime sa peine dans des termes animés, et p"
     },
     {
-      "seam": "page_0093>page_0094",
-      "verse": 7,
-      "mode": "flow",
-      "before": "Que cette nuit-là soit",
-      "after": "dans une affreuse solitude. Le mot Hébreu n’est pas bien c"
-    },
-    {
       "seam": "page_0094>page_0095",
       "verse": 8,
-      "mode": "hyphen",
-      "before": "s à commencer les chants lugubres pour un mort, maudissent",
+      "mode": "splice",
+      "before": "t prêts à commencer les chants lugubres pour un mort, mau-",
       "after": "dissent cette nuit-là. Mais Louis de Dieu soutient que Lév"
     },
     {
@@ -213,17 +220,10 @@
       "after": "maisons dans la solitude, et dans des lieux incultes, pour"
     },
     {
-      "seam": "page_0100>page_0101",
-      "verse": 21,
-      "mode": "splice",
-      "before": "ient point, quoiqu’ils la cherchent avec le même empresse-",
-      "after": "ment que s’ils déterraient un trésor. ℣. 22. Et qui sont r"
-    },
-    {
       "seam": "page_0101>page_0102",
       "verse": 23,
-      "mode": "flow",
-      "before": ", qui ne sait quelle route il doit prendre, qui est envi-_",
+      "mode": "splice",
+      "before": "_, qui ne sait quelle route il doit prendre, qui est envi-",
       "after": "ronné de profondes ténèbres, et à qui le Seigneur a fermé "
     }
   ],
@@ -281,12 +281,12 @@
     {
       "key": "page_0092-a",
       "n": 8,
-      "text": "יגאלהו*"
+      "text": "יגאלהו"
     },
     {
       "key": "page_0092-b",
       "n": 9,
-      "text": "Ἐκλάβοι* αὐτὴν* σκότος*"
+      "text": "Ἐκλάβοι αὐτὴν σκότος"
     },
     {
       "key": "page_0093-a",
@@ -361,7 +361,7 @@
     {
       "key": "page_0095-d",
       "n": 24,
-      "text": "Psaumes 103,26*."
+      "text": "Psaumes 103,26."
     },
     {
       "key": "page_0095-e",
@@ -426,17 +426,17 @@
     {
       "key": "page_0097-c",
       "n": 37,
-      "text": "_τὸ* μέγα* κῆτος* Hebr._ לויתן*"
+      "text": "τὸ μέγα κῆτος Hebr. לויתן"
     },
     {
       "key": "page_0097-d",
       "n": 38,
-      "text": "_Origène ; Didyme ; Olympiodore ; et d’autres Grecs ; saint Ambroise, livre 2 sur Luc, etc._"
+      "text": "_Origène ; Didyme ; Olympiodore ; et d’autres Grecs ; Saint Ambroise, livre 2 sur Luc, etc._"
     },
     {
       "key": "page_0097-e",
       "n": 39,
-      "text": "יחשכו* כוכבי* נשפו*"
+      "text": "יחשכו כוכבי נשפו"
     },
     {
       "key": "page_0098-a",
@@ -486,7 +486,7 @@
     {
       "key": "page_0099-f",
       "n": 49,
-      "text": "saint Jean Chrysostome, Homélie sur la prière d’Anne."
+      "text": "Saint Jean Chrysostome, Homélie sur la prière d’Anne."
     },
     {
       "key": "page_0099-g",
@@ -506,7 +506,7 @@
     {
       "key": "page_0101-a",
       "n": 53,
-      "text": "ויחפרהו* ממטמונים*"
+      "text": "ויחפרהו ממטמונים"
     },
     {
       "key": "page_0101-b",

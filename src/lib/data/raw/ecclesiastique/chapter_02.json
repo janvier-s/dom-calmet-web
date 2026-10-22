@@ -1,0 +1,200 @@
+{
+  "book": "Siracide",
+  "chapter": 2,
+  "chapter_summary": "Exhortation à la patience dans les tentations et dans les épreuves. Crainte du Seigneur. Cœur double. Confiance au Seigneur. Cœur timide, et abattu. Fermeté, et confiance de ceux qui craignent Dieu.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Fili, accedens ad servitutem Dei, sta in justitia, et timore ; et præpara animam tuam ad tentationem.",
+      "french": "Mon fils, lorsque vous entrerez au service de Dieu, [ demeurez ferme dans la justice, et dans la crainte ; ] et préparez votre âme à la tentation.",
+      "annotations": null,
+      "source_pages": [
+        "page_0119.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Deprime cor tuum, et sustine : inclina aurem tuam, et suscipe verba intellectûs : et ne festines in tempore obductionis.",
+      "french": "Humiliez votre cœur, et attendez avec patience ; [ prêtez l’oreille, et recevez les paroles de sagesse ; ] et ne vous hâtez point au temps de l’obscurité.",
+      "source_pages": [
+        "page_0120.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Sustine sustentationes Dei : conjungere Deo, et sustine : ut crescat in noviffimo vita tua.",
+      "french": "[ Souffrez les suspensions, et les retardements de Dieu : ] demeurez uni à Dieu, et ne vous laissez point d’attendre, afin que votre vie soit à la fin plus abondante.",
+      "source_pages": [
+        "page_0120.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Omne quod tibi applicitum fuerit, accipe : et in dolore sustine, et in humilitate tua patientiam habe :",
+      "french": "Acceptez de bon cœur tout ce qui vous arrivera : [ demeurez en paix dans votre douleur, ] et au temps de votre humiliation conservez la patience ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0121.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quoniam in igne probatur aurum et argentum : homines verò receptibiles in camino humiliationis.",
+      "french": "Car l’or [ et l’argent, ] s’épurent par le feu : mais les hommes que Dieu veut recevoir au nombre des siens, s’éprouvent dans le fourneau de l’humiliation.",
+      "annotations": null,
+      "source_pages": [
+        "page_0121.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Crede Deo, et recuperabis te : et dirige viam tuam, et spera in illum. Serva timorem illius, et in illo veterasce.",
+      "french": "Ayez confiance en Dieu, et il vous tirera de tous ces maux : rendez votre voie droite, et esperez en lui ; [conservez sa crainte, et y vieillissez.",
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Metuentes Dominum, sustinete misericordiam ejus : et non deflectatis ab illo, ne cadatis.",
+      "french": "Vous qui craignez le Seigneur, attendez sa miséricorde, et ne vous détournez point de lui, de peur que vous ne tombiez.]",
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Qui timetis Dominum, credite illi : et non evacuabitur merces vestra.",
+      "french": "Vous qui craignez le Seigneur, croyez en lui ; et vous ne perdrez point votre récompense.",
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Qui timetis Dominum, sperate in illum : et in oblectationem veniet vobis misericordia.",
+      "french": "Vous qui craignez le Seigneur, espérez en lui ; et la miséricorde qu’il vous fera, vous comblera de joie.",
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Qui timetis Dominum, diligite illum, et illuminabuntur corda vestra.",
+      "french": "[Vous qui craignez le Seigneur, aimez-le, et vos cœurs seront remplis de lumiere.]",
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Respicite, filii, nationes hominum : et scitote quia nullus speravit in Domino, et confusus est.",
+      "french": "Mes enfants, considérez tout ce qu’il y a eu d’hommes parmi les nations, et sachez que nul de ceux qui ont espéré au Seigneur, n’a été confondu.",
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Quis enim permansit in mandatis ejus, et derelictus est ? Aut quis invocavit eum, et despexit illum ?",
+      "french": "Qui est l’homme qui soit demeuré ferme dans les Commandements de Dieu, et qui ait été abandonné ? Qui est celui qui l’ait invoqué, et qui ait été méprisé de lui ?",
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Quoniam pius, et misericors est Deus, et remittet in die tribulationis peccata : et protector est omnibus exquirentibus se in veritate.",
+      "french": "Car Dieu est plein de bonté, et de miséricorde, il pardonne les péchés au jour de l’affliction, [ et il est le protecteur de tous ceux qui le cherchent dans la vérité. ]",
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Væ duplici corde, et labiis scelestis, et manibus malefacientibus, et peccatori terram ingredienti duabus viis.",
+      "french": "Malheur au cœur double, [ aux lèvres corrompuës, ] aux mains souillées de crimes ; et au pécheur qui marche sur la terre par deux voies.",
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Væ dissolutis corde, qui non credunt Deo : et ideò non protegemur ab eo.",
+      "french": "Malheur à ceux qui manquent de cœur, qui ne se fient point à Dieu, et que Dieu, pour cette raison, ne protège point.",
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Væ his, qui perdiderunt sustinentiam, et qui dereliquerunt vias rectas, et diverterunt in vias pravas.",
+      "french": "Malheur à ceux qui ont perdu la patience, [ qui ont quitté les voies droites, et qui se sont détournez dans des routes égarées. ]",
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et quid facient, cùm inspicere cœperit Dominus ?",
+      "french": "Et que feront-ils, lorsque le Seigneur commencera à examiner toutes choses ?",
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Qui timent Dominum, non erunt incredibiles verbo illius : et qui diligunt illum, conservabunt viam illius.",
+      "french": "Ceux qui craignent le Seigneur, ne seront point incrédules à sa parole ; et ceux qui l’aiment, demeureront fermes dans sa voie.",
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Qui timent Dominum, inquirent quæ beneplacita sunt ei : et qui diligunt eum, replebuntur Lege ipsius.",
+      "french": "Ceux qui craignent le Seigneur, rechercheront ce qui lui est agréable ; et ceux qui l’aiment seront remplis de sa Loi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Qui timent Dominum, præparabunt corda sua : et in conspectu illius sanctificabunt animas suas.",
+      "french": "Ceux qui craignent le Seigneur, prépareront leur cœur ; et sanctifieront leurs âmes en sa présence.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Qui timent Dominum, custodiunt mandata illius, et patientiam habebunt usque ad inspectionem illius.",
+      "french": "Ceux qui craignent le Seigneur, garderont ses Commandements, et ils auront patience jusqu’à ce qu’il jette les yeux sur eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Dicentes : Si pœnitentiam non egerimus, incidimus in manus Domini, et non in manus hominum.",
+      "french": "En disant : Si nous ne faisons pénitence, c’est dans les mains du Seigneur que nous tomberons, et non dans les mains des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Secundum enim magnitudinem ipsius, sic et misericordia illius cum ipso est.",
+      "french": "Car autant que sa majesté est élevée, autant est grande sa miséricorde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    }
+  ]
+}

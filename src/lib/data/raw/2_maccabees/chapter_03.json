@@ -1,0 +1,368 @@
+{
+  "book": "2 Maccabées",
+  "chapter": 3,
+  "chapter_summary": "Bonheur des Juifs sous le Pontificat d’Onias troisième. Simon Préset du Temple, rapporte à Séleucus Roi de Syrie, qu’il y a de grands trésors dans le Temple. Héliodore est envoyé pour les enlever. Deçu le châtie par la main des Anges.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Igitur cùm sancta civitas habitaretur in omni pace, leges etiam adhuc optimè custodirentur, propter Oniæ Pontificis pietatem, et animos odio habentes mala ;",
+      "french": "La cité sainte jouissant donc d’une paix parfaite, et les loix y étant exactement observées, à cause de la piété du grand-Prêtre Onias, et de la haine qu’il avait du mal ;",
+      "annotations": "An du M. 3828.",
+      "source_pages": [
+        "page_0025.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Fiebat ut et ipsi Reges, et Principes locum summo honore dignum ducerent, et Templum maximis muneribus illustrarent.",
+      "french": "Il arrivait de là que les Rois mêmes, et les Princes honoraient ce lieu, et ornaient le Temple de riches présents.",
+      "annotations": null,
+      "source_pages": [
+        "page_0025.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Ita ut Seleucus Asiæ Rex, de redditibus suis præstaret omnes sumptus ad ministerium sacrificiorum pertinentes.",
+      "french": "En sorte que Séleucus Roi d’Asie faisait fournir de son domaine, toute la dépense qui regardait le ministere des sacrifices.",
+      "annotations": null,
+      "source_pages": [
+        "page_0026.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Simon autem de tribu Benjamin, præpositus Templi constitutus, contendebat, obsistente sibi Principe Sacerdotum, iniquum aliquid in civitate moliri.",
+      "french": "Mais Simon, qui était de la tribu de Benjamin, et qui avait l’Intendance du Temple, s’efforççait de faire quelque entreprise injuste dans la ville, malgré la résistance qu’y apportait le Prince des Prêtres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0026.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Sed cùm vincere Oniam non posset, venit ad Apollonium Tharsæa filium, qui eo tempore erat dux Cœlesyriæ, et Phœnicis.",
+      "french": "Et voyant qu’il ne pouvait vaincre Onias, il alla trouver Apollonius fils de Tharsée, qui commandait en ce temps-là dans la Célésyrie, et dans la Phénicie.",
+      "annotations": "An du M. 3828.",
+      "source_pages": [
+        "page_0027.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et nuntiavit ei, pecunias innumerabilibus plenum esse ærarium Jerosolymis, et communes copias immensas esse, quæ non pertinent ad rationem sacrificiorum : esse autem possibile sub potestate Regis cadere universa.",
+      "french": "Il lui déclara que les richesses du trésor public du Temple étaient immenses, que cet argent n’était pas de celui qui était destiné aux affaires publiques, ou à la dépense des sacrifices : et qu’on pourrait bien trouver le moyen de faire tomber tous ces trésors entre les mains du Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0027.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Cúmque retuliffet ad Regem Apollonius de pecuniis quæ delatæ erant, ille accitum Heliodorum, qui erat super negotia ejus, misit cum mandatis, ut prædictam pecuniam transportaret.",
+      "french": "Apollonius ayant donné au Roi cet avis, qu’il avait reçu touchant cette grande quantité d’argent, le Roi fit venir Héliodore, qui était son premier Ministre, et l’envoya avec ordre de faire transporter tout cet argent.",
+      "annotations": "An du M. 3828.",
+      "source_pages": [
+        "page_0028.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Statimque Heliodorus iter est aggressus, specie quidem quasi per Cœlesyriam, et Phœnicen civitates esset peragraturus, revera autem Regis propositum persecturus.",
+      "french": "Héliodore se mit aussi-tôt en chemin, comme pour visiter les villes de Célésyrie, et de Phénicie ; mais véritablement dans le dessein d’exécuter l’intention du Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0028.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Sed, cùm venisset Jerosolymam, et benignè à summo Sacerdote in civitate esset exceptus, narravit de dato indicio pecuniarum : et cujus rei gratiâ adeffet, aperuit : interrogabat autem si verè hæc ita essent.",
+      "french": "Etant arrivé à Jérusalem, et ayant été reçu dans la ville par le grand-Prêtre avec toute sorte d’honnêteté, il lui déclara l’avis qu’on avait donné au Roi touchant cet argent, et le vrai sujet de son voyage, et il demanda si ce que l’on avait dit était véritable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0028.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Tunc summus Sacerdos ostendit deposita esse hæc, et victualia viduarum, et pupillorum :",
+      "french": "Alors le grand-Prêtre lui représenta que cet argent était en dépôt dans le Temple ; que c’était pour la subsistance des veuves, et des orphelins ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0028.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Quædam verò esse Hircani Tobiæ, viri valdè eminentis, in his quæ detulerat impius Simon : universa autem argenti talenta esse quadringenta, et auri ducenta.",
+      "french": "Qu’une partie même de cet argent, dont l’impie Simon avait donné avis, appartenait à Hircan-Tobiæ, qui était un homme de grande considération ; et que cette somme consistait en quatre cens talents d’argent, et en deux cens talents d’or ;",
+      "annotations": "An du M. 3828.",
+      "source_pages": [
+        "page_0029.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Decipi verò eos, qui credidissent loco, et templo, quod per universum mundum honoratur, pro sui veneratione, et sanctitate omninò impossibile esse.",
+      "french": "Qu’au reste il était absolument impossible de tromper ceux, qui avaient cru ne pouvoir mieux assurer leur argent, que de le mettre en dépôt dans un Temple, qui était en vénération à toute la terre pour sa sainteté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0029.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "At ille pro his quæ habebat in mandatis à Rege, dicebat omni genere Regi ea esse deferenda.",
+      "french": "Mais Héliodore insistant sur les ordres qu’il avait reçus du Roi, répondit qu’il fallait à quelque prix que ce fût, que cet argent fût porté au Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Constituta autem die intrabat bis Heliodorus ordinaturus. Non modica verò per universam civitatem erat trepidatio.",
+      "french": "Il entra donc dans le Temple le jour qu’il avait marqué pour éxécuter cette entreprise. Cependant toute la ville était remplie de crainte, et d’effroi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Sacerdotes autem ante altare cum stolis Sacerdotalibus jactaverunt se, et invocabant de cœlo eum, qui de depositis legem posuit, ut his, qui deposuerant ea, salva custodiret.",
+      "french": "Les Prêtres se prosternaient au pied de l’autel, avec leurs robbes sacerdotales, et ils invoquaient celui qui est dans le ciel, et qui a fait la loi touchant les dépôts, le priant de conserver les dépôts de ceux qui les avaient mis dans son Temple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Jam verò qui videbat summi Sacerdotis vultum, mente vulnerabatur : facies enim et color immutatus, declarabat internum animi dolorem.",
+      "french": "Mais nul ne pouvait regarder le visage du grand Prêtre, sans être blessé jusqu’au cœur. Car le changement de son teint, et de sa couleur, marquait clairement la douleur intérieure de son âme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Circumfusa enim erat mæstitia quædam viro, et horror corporis, per quem manifestus aspicientibus dolor cordis ejus efficiebatur.",
+      "french": "Une certaine tristesse répanduë dans tout son extérieur, et l’horreur même dont son corps paraissait comme tout saisi, découvrait à ceux qui le regardaient, quelle était la plaie de son cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Alii etiam gregatim de domibus confluibant publica supplicatione obsecrantes, pro eò quòd in contemptum locus esset venturus.",
+      "french": "Plusieurs accouraient aussi en troupes de leurs maisons, conjurant Dieu par des prières publiques, de ne permettre pas qu’un lieu si saint fût exposé au mépris.",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Accinctæque mulieres ciliciis pectus, per plateas confluebant, sed et virgines, quæ conclusæ erant, procurrebant ad Oniam ; aliæ autem ad muros, quædam verò per fenestras aspiciebant.",
+      "french": "Les femmes ayant le sein couvert de cilices, allaient en foule par les ruës ; les filles mêmes qui demeuraient auparavant renfermées, couraient les unes vers Onias, les autres vers les murailles, et quelques-unes regardaient par les fenêtres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Universa autem, protendentes manus in cœlum, deprecabantur.",
+      "french": "Toutes adressaient leurs prières à Dieu, en étendant leurs mains vers le Ciel.",
+      "annotations": "An du M 3828.",
+      "source_pages": [
+        "page_0031.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Erat enim misera commista multitudinis, et magni Sacerdotis in agone constituti, expectatio.",
+      "french": "Et c’était vrayment un spectacle digne de pitié, de voir toute cette multitude confuse de peuple, et le grand-Prêtre, accablé d’affliction, dans l’attente où ils étaient de ce qui arriverait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0031.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Et hi quidem invocabant omnipotentem Deum, ut credita sibi, his qui crediderant, cum omni integritate conservarentur.",
+      "french": "Pendant que les Prêtres invoquaient le Dieu Tout-puissant, afin qu’il conservât inviolable le dépôt de ceux qui le leur avaient confié ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0031.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Heliodorus autem, quod decreverat, perficiebat, eodem loco ipse cum satellitibus circa ærarium præsens.",
+      "french": "Héliodore ne pensait qu’à éxécuter son dessein, étant lui-même présent avec ses gardes à la porte du trésor pour le forcer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0031.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Sed spiritus omnipotentis Dei magnam fecit suæ ostensionis evidentiam, ita ut omnes, qui ausi fuerant parere ei, ruentes Dei virtute, in dissolutionem, et formidinem converterentur.",
+      "french": "Mais l’esprit du Dieu tout-puissant se fit voir alors par des marques bien sensibles, en sorte que tous ceux qui avaient osé obéir à Héliodore, étant renversez par une vertu divine, furent tout d’un coup frappez d’une frayeur, qui les mit tout hors d’eux-mêmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0031.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Apparuit enim illis quidam eques terribilem habens sessorem, optimis operimentis adornatus : isque cum impetu Heliodoro priores calces elisit : qui autem ei sidebat, videbatur arma habere aurea.",
+      "french": "Car ils virent paraître un cheval, sur lequel était monté un homme terrible habillé magnifiquement, et qui fondant avec impétuosité sur Héliodore, le frappa en luî donnant plusieurs coups des deux pieds de devant : et celui qui était monté dessus semblait avoir des armes d’or.",
+      "annotations": "An du M. 3828.",
+      "source_pages": [
+        "page_0032.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Alii etiam apparuerunt duo juvenes virtute decori, optimi gloriâ, speciosique amictu : qui circumsteterunt eum, et ex utráque parte flagellabant, sine intermissione multis plagis verberantes.",
+      "french": "Deux autres jeunes hommes parurent en même temps, pleins de force, et de beauté, brillant de gloire, et richement vêtus, qui se tenant aux deux côtés d’Héliodore, le fouettaient chacun de son côté, et le frappaient sans relâche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0032.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Subitò autem Heliodorus concidit in terram, eúmque multa caligine circumfusum rapuerunt, atque in sella gestatoria positum ejecerunt.",
+      "french": "Héliodore tomba donc tout d’un coup par terre, étant tout enveloppé d’obscurité, et de ténèbres ; et ayant été mis dans une chaise à porteur, on l’emporta de-là, et on le porta hors du Temple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0032.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et is, qui cum multis cursoribus, et satellibus, prædictum ingressus est ærarium, portabatur nullo sibi auxilium ferente, manifesta Dei cognita virtute.",
+      "french": "Ainsi celui qui était entré dans le trésor avec un grand nombre de coureurs, et de gardes, était emporté sans que personne le pût secourir, la vertu de Dieu s’étant fait connaître manifestement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0032.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et ille quidem per divinam virtutem jacebat mutus, atque omni spe, et salute privatus.",
+      "french": "Cette vertu divine le réduisit à demeurer couché par terre, sans voix, et sans aucune espérance de vie.",
+      "annotations": "An du M. 3828.",
+      "source_pages": [
+        "page_0033.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Hi autem Dominum benedicebant quia magnificabat locum suum : et templum, quod paulò antè timore ac tumultu erat plenum, apparente omnipotente Domino, gaudio et lætitia impletum est.",
+      "french": "Mais les autres benissaient le Seigneur, de ce qu’il relevait la gloire de son lieu saint ; et le Temple qui était rempli auparavant de frayeur, et de tumulte, le fut ensuite d’allégresse, et de cris de joie, le Seigneur y ayant fait paraître sa toute puissance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0033.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Tunc verò ex amicis Heliodori quidam rogabant confestim Oniam, ut invocaret Altissimum, ut vitam donaret ei, qui in supremo spiritu erat constitutus.",
+      "french": "Alors quelques-uns des amis d’Héliodore se hâtérent de supplier Onias, de vouloir invoquer le Très-Haut, afin qu’il donnât la vie à celui qui était réduit à l’extrêmité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0033.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Considerans autem summus Sacerdos, ne fortè Rex suspicaretur malitiam aliquam ex Judæis, circa Heliodorum consummatam, obtulit pro salute viri hostiam salutarem.",
+      "french": "Le grand-Prêtre considérant que le Roi pourrait peut-être soupçonner les Juifs, d’avoir commis quelque attentat contre Héliodore, offrit pour sa guérison une hostie salutaire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0033.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Cùmque summus Sacerdos exoraret, iidem juvenes iisdem vestibus amicti, astantes Heliodoro, dixerunt : Oniæ Sacerdoti gratias age : nam propter eum Dominus tibi vitam donavit.",
+      "french": "Et lorsque le grand-Prêtre faisait sa prière, les mêmes jeunes hommes, revêtus des mêmes habits, se présentérent à Héliodore, et lui dirent : Rendez grâces au grand-Prêtre Onias ; car le Seigneur vous a donné la vie à cause de lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0033.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Tu autem à Deo flagellatus, nuntia omnibus magnalia Dei, et potestatem. Et his dictis, non comparuerunt.",
+      "french": "Ayant donc été ainsi châtié de Dieu, annoncez à tout le monde ses merveilles, et sa puissance. Après avoir dit ces paroles, ils disparurent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0033.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Heliodorus autem, hostia Deo oblatâ, et votis magnis promissis ei, qui vivere illi concessit, et Oniæ gratias agens, recepto exercitu repedabat ad Regem.",
+      "french": "Héliodore ayant offert une hostie à Dieu, et fait des vœux, et de grandes promesses à celui qui lui avait donné la vie, rendit grâces à Onias, alla rejoindre ses troupes, et retourna vers le Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0033.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Testabatur autem omnibus, ea quæ sub oculis suis viderat opera magni Dei.",
+      "french": "Il rendait témoignage à tout le monde, des œuvres merveilleuses du grand. Dieu, qu’il avait vues de ses yeux.",
+      "annotations": "An du M. 3828.",
+      "source_pages": [
+        "page_0034.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Cùm autem Rex interrogasset Heliodorum, quis esset aptus adhuc semel Jerosolymam mitti, ait :",
+      "french": "Et le Roi lui demandant, qui lui paraissait propre pour être encore envoyé à Jerusalem, il lui répondit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0034.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Si quem habes hostem, aut regni tui insidiatorem, mitte illuc, et flagellatum eum recipies, si tamen evaserit ; eò quòd in loco sit verè Dei quædam virtus.",
+      "french": "Si vous avez quelque ennemi, ou quelqu’un qui ait formé des desseins sur votre Royaume, envoyez-le en ce lieu ; et vous le verrez revenir déchiré de coups, si néanmoins il en revient ; parce qu’il y a véritablement quelque vertu divine dans ce Temple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0034.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Nam ipse, qui habet in cælis habitationem, visitator et adjutor est loci illius, et venientes ad malefaciendum percutit, ac perdit.",
+      "french": "Car celui qui habite dans le Ciel ; est lui-même present en ce lieu, il en est le protecteur, et il frappe de plaies, et fait périr ceux qui y viennent pour faire du mal.",
+      "annotations": null,
+      "source_pages": [
+        "page_0034.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Igitur de Heliodoro, et ærarii custodia, ita res se habet.",
+      "french": "Voilà donc ce qui se passa à l’égard d’Héliodore, et la maniere dont le trésor fut conservé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0034.json"
+      ]
+    }
+  ]
+}

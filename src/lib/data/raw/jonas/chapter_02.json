@@ -1,0 +1,107 @@
+{
+  "book": "Jonas",
+  "chapter": 2,
+  "chapter_summary": "Jonas est englouti par un grand poisson, qui le garde trois jours dans son ventre. Le poisson le jette à bord sain, et sauf.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Et præparavit Dominus piscem grandem ut deglutiret Jonam : et erat Jonas in ventre piscis tribus diebus, et tribus noctibus.",
+      "french": "Dieu disposa en même-temps un grand poisson pour engloutir Jonas. Il demeura trois jours, et trois nuits dans le ventre de ce poisson,",
+      "annotations": null,
+      "source_pages": [
+        "page_0013.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et oravit Jonas ad Dominum Deum suum de ventre piscis.",
+      "french": "Où adressant sa prière au Seigneur son Dieu,",
+      "annotations": null,
+      "source_pages": [
+        "page_0013.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et dixit : Clamavi de tribulatione mea ad Dominum, et exaudivit me : de ventre inferi clamavi, et exaudisti vocem meam.",
+      "french": "Il lui dit : J’ai crié au Seigneur dans le fort de mon affliction, et il m’a exaucé ; j’ai crié du fond du tombeau, et vous avez entendu ma voix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0013.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et projecisti me in profundum, in corde maris, et flumen circumdedit me : omnes gurgites tui, et fluctus tui super me transierunt.",
+      "french": "Vous m’avez jetté au milieu de la mer, jusqu’au fond des eaux ; j’en ai été inondé de toutes parts : toutes vos vagues, et tous vos flots ont passé sur moi :",
+      "annotations": null,
+      "source_pages": [
+        "page_0014.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et ego dixi : Abjectus sum à conspectu oculorum tuorum : verumtamen rursus videbo Templum sanctum tuum.",
+      "french": "Et j’ai dit en moi-même : Je suis rejetté de devant vos yeux ; mais néanmoins je verrai encore votre Temple saint.",
+      "annotations": null,
+      "source_pages": [
+        "page_0014.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Circumdederunt me aquæ, usque ad animam : abyssus vallavit me, pelagus operuit caput meum.",
+      "french": "Je me suis vu à l’extrémité parmi les eaux qui m’environnaient ; l’abîme m’a enveloppé de toutes parts, la mer a couvert ma tête.",
+      "annotations": null,
+      "source_pages": [
+        "page_0015.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Ad extrema montium descendi : terræ vectes concluserunt me in æternum : et sublevabis de corruptione vitam meam, Domine Deus meus.",
+      "french": "Je suis descendu jusqu’aux fondements des montagnes ; je me vis comme enfermé par les barrières de la terre ; et vous préserverez néanmoins ma vie de la corruption, ô Seigneur mon Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0015.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Cùm angustiaretur in me anima mea, Domini recordatus sum : ut veniat ad te oratio mea, ad Templum sanctum tuum.",
+      "french": "Dans la douleur profonde dont mon âme a été saisie, je me suis souvenu de vous, Seigneur. Que ma prière monte jusqu’à vous, jusqu’à votre Temple saint.",
+      "annotations": null,
+      "source_pages": [
+        "page_0016.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Qui custodiunt vanitates frustrà, misericordiam suam derelinquunt.",
+      "french": "Ceux qui s’attachent inutilement à la vanité, abandonnent leur miséricorde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0016.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Ego autem in voce laudis immolabo tibi : quæcumque vovi, reddam pro salute Domino.",
+      "french": "Mais pour moi, je vous offrirai des sacrifices avec des cantiques de louanges ; je rendrai au Seigneur tous les vœux que j’ai faits pour mon salut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0016.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et dixit Dominus pisci : et evomuit Jonam in aridam.",
+      "french": "Alors le Seigneur commanda au poisson de rendre Jonas, et il le jetta sur le bord.",
+      "annotations": null,
+      "source_pages": [
+        "page_0017.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "book": "Psaumes",
+  "chapter": 16,
+  "chapter_summary": "Le Psalmiste implore le secours de Dieu contre ses ennemis. Il représente à Dieu sa propre innocence, et décrit la malice, et la violence de ceux qui le persécutent.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Exaudi, Domine, justitiam meam : intende deprecationem meam.",
+      "french": "Ecoutez, Seigneur, favorablement la justice de ma cause ; soyez attentif à mon humble supplication.",
+      "annotations": null,
+      "source_pages": [
+        "page_0237.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Auribus percipe orationem meam, non in labiis dolosis.",
+      "french": "Ouvrez vos oreilles à la prière que je vous présente, avec des lèvres qui ne sont point trompeuses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0237.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "De vultu tuo judicium meum prodeat : oculi tui videant æquitates.",
+      "french": "Que mon jugement sorte de la lumière de votre visage ; que vos yeux considèrent l’équité de ma cause.",
+      "annotations": null,
+      "source_pages": [
+        "page_0238.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Probasti cor meum, et visitasti nocte : igne me examinasti, et non est inventa in me iniquitas.",
+      "french": "Vous avez mis mon cœur à l’épreuve, et vous l’avez visité durant la nuit : Vous m’avez éprouvé par le feu ; et l’iniquité ne s’est point trouvée en moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0238.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Ut non loquatur os meum opera hominum : propter verba labiorum tuorum ego custodivi vias duras.",
+      "french": "§. 5. Afin que ma bouche ne parle point selon les œuvres des hommes. J’ai suivi des voies dures et pénibles, à cause des paroles de vos lèvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0240.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Perfice gressus meos in semitis tuis, ut non moveantur vestigia mea.",
+      "french": "Affermissez mes pas dans vos sentiers ; afin que je ne sais point ébranlé en marchant.",
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Ego clamavi, quoniam exaudisti me, Deus : inclina aurem tuam mihi, et exaudi verba mea.",
+      "french": "J’ai crié vers vous, mon Dieu, parce que vous m’avez exaucé ; prêtez l’oreille pour m’écouter, et exaucez mes paroles.",
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Mirifica misericordias tuas, qui salvos facis sperantes in te.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0241.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "A resistentibus dexteræ tuæ custodi me, ut pupillam oculi.",
+      "french": "Gardez-moi de ceux qui résistent à votre droite ; gardez-moi comme la prunelle de l’œil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Sub umbra alarum tuarum protege me, à facie impiorum qui me afflixerunt.",
+      "french": "Protégez-moi, en me mettant à couvert sous l’ombre de vos ailes, contre les impies qui me comblent d’affliction.",
+      "annotations": null,
+      "source_pages": [
+        "page_0243.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "a facie impiorum qui me afflixerunt. Inimici mei animam meam circumdederunt ; adipem suum concluserunt : os eorum locutum est superbiam.",
+      "french": "Mes ennemis ont environné mon âme de toutes parts ; ils sont tout remplis de graisse ; leur bouche a parlé avec orgueil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0244.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Projicientes me nunc circumdederunt me : oculos suos statuêrunt declinare in terram.",
+      "french": "Après qu’ils m’ont rejeté, ils m’affligent maintenant ; et ils ont résolu de tenir leurs yeux baissés vers la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0245.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Susceperunt me sicut leo paratus ad prædam, et sicut catulus leonis habitans in abditis.",
+      "french": "Ils m’ont saisi, comme un lion qui est préparé à ravir sa proie ; et comme le petit d’un lion, qui habite dans des lieux cachez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0246.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Exurge, Domine, præveni eum, et supplanta eum ; eripe animam meam ab impio, frameam tuam ab inimicis manûs tuæ.",
+      "french": "Levez-vous, Seigneur ; prévenez-le ; et faites-le tomber lui-même : délivrez mon âme de l’impie, et arrachez votre épée d’entre les mains des ennemis de votre droite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0247.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Domine, à paucis de terra divide eos in vita eorum : de absconditis tuis adimpletus est venter eorum.",
+      "french": "Seigneur, séparez-les dès cette vie ; du petit nombre de ceux qui vous appartiennent sur la terre ; leur ventre est rempli des biens, qui sont renfermés dans vos trésors.",
+      "annotations": null,
+      "source_pages": [
+        "page_0248.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Saturati sunt filiis, et dimiserunt reliquias suas parvulis suis.",
+      "french": "Ils ont une famille aussi nombreuse qu’ils le peuvent souhaiter, et ils laissent leurs biens en mourant à leurs enfants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0250.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Ego autem in justitia apparebo conspectui tuo : satiabor, cùm apparuerit gloria tua.",
+      "french": "Mais pour moi je paraîtrai devant vos yeux dans la justice ; et je serai rassasié, lorsque vous m’aurez fait paraître votre gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0251.json"
+      ]
+    }
+  ]
+}

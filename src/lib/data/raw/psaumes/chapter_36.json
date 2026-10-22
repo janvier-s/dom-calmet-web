@@ -1,0 +1,371 @@
+{
+  "book": "Psaumes",
+  "chapter": 36,
+  "chapter_summary": "Instruction morale pour ceux qui sont dans l’adversité. Ne pas envier le bonheur du méchant, parce qu’il n’est qu’apparent, et de peu de durée. Mettre en Dieu son espérance, pratiquer la vertu ; c’est un moyen pour être heureux en cette vie, et en l’autre.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Noli æmulari in malignantibus : ne que zelaveris facientes iniquitatem.",
+      "french": "Gardez-vous d’envier le bonheur des méchants, et n’ayez point de jalousie contre ceux qui commettent l’iniquité.",
+      "source_pages": [
+        "page_0475.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quoniam tanquam fœnum velociter arescent : et quemadmodum olera herbarum cito decident.",
+      "french": "Parce qu’ils se sécheront aussi promptement que le foin : et se faneront aussi vite que les herbes, et les légumes.",
+      "source_pages": [
+        "page_0475.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Spera in Domino, et fac bonitatem : et inhabita terram, et pasceris in divitiis ejus.",
+      "french": "Mettez votre espérance dans le Seigneur, et faites-le bien : et alors vous habiterez la terre, et serez nourri de ses richesses.",
+      "source_pages": [
+        "page_0476.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Delectare in Domino : et dabit tibi petitiones cordis tui.",
+      "french": "Mettez vos délices dans le Seigneur ; et il vous accordera ce que votre cœur demande.",
+      "source_pages": [
+        "page_0476.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Revela Domino viam tuam, et spera in eo, et ipse faciet.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0476.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et educet quasi lumen justitiam tuam, et judicium tuum tamquam meridiem.",
+      "french": "Et il fera éclater votre justice, comme une lumière, et l’équité de votre cause comme le Soleil, lorsqu’il est dans son midi.",
+      "source_pages": [
+        "page_0478.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Subditus esto Domino, et ora eum. Noli æmulari in eo, qui prosperatur in via sua : in homine faciente injustitias.",
+      "french": "Soyez soumis au Seigneur, et priez-le. Ne portez point d’envie à celui qui est heureux dans sa voie, à l’homme qui s’abandonne aux injustices.",
+      "source_pages": [
+        "page_0478.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Desine ab ira, et derelinque furorem : noli æmulari ut maligneris.",
+      "french": "Quittez tous ces mouvements de colère, et de fureur ; ne vous laissez point aller à une mauvaise émulation, pour imiter les méchants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0479.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Quoniam qui malignantur, exterminabuntur : sustinentes autem Dominum, ipsi hæreditabunt terram.",
+      "french": "Car les méchants seront exterminés ; mais la terre sera donnée en héritage à ceux qui attendent le Seigneur avec patience.",
+      "annotations": null,
+      "source_pages": [
+        "page_0479.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et adhuc pusillum, et non erit peccator : et quæres locum ejus, et non invenies.",
+      "french": "Dans peu de temps le pécheur ne sera plus : et vous chercherez le lieu où il était, et vous ne pourrez le trouver.",
+      "annotations": null,
+      "source_pages": [
+        "page_0479.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Mansueti autem hereditabunt terram ; et delectabuntur in multitudine pacis.",
+      "french": "Mais la terre tombera en héritage à ceux qui sont doux ; et ils se verront comblés de joie dans l’abondance d’une paix heureuse.",
+      "source_pages": [
+        "page_0480.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Observabit peccator justum : et stridebit super eum dentibus suis.",
+      "french": "Le pécheur observera le juste ; et il grincera les dents contre lui.",
+      "source_pages": [
+        "page_0480.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Dominus autem irridebit eum : quoniam prospicit quòd veniet dies ejus.",
+      "french": "Mais le Seigneur s’en moquera ; parce qu’il voit que son jour doit venir bientôt.",
+      "source_pages": [
+        "page_0480.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Gladiu evaginaverunt peccatores et intenderunt arcum suum,",
+      "french": "Les pécheurs ont tiré l’épée du fourreau, et ils ont tendu leur arc.",
+      "annotations": null,
+      "source_pages": [
+        "page_0481.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Ut dejiciant pauperem et inopem : ut trucident rectos corde.",
+      "french": "Pour renverser celui qui est pauvre ; et dans l’indigence, pour égorger ceux qui ont le cœur droit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0481.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Gladius eorum intret in corda ipsorum, et arcus eorum confringatur.",
+      "french": "Mais que leur épée leur perce le cœur à eux-mêmes, et que leur arc soit brisé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0481.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Melius est modicum Justo, super divitias peccatorum multas.",
+      "french": "Un bien médiocre vaut mieux au Juste, que les grandes richesses des pécheurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0481.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Quoniam brachia peccatorum conterentur : confirmat autem Justos Dominus.",
+      "french": "Parce que les bras des pécheurs seront brisés : mais le Seigneur affermit les Justes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0482.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Novit Dominus dies immaculatorum : et hæreditas eorum in æternum erit.",
+      "french": "Le Seigneur connaît les jours de ceux qui vivent sans reproche, et l’héritage qu’ils posséderont sera éternel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0482.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Non confundentur in tempore malo, et in diebus famis saturabuntur.",
+      "french": "Ils ne seront point confondus dans le temps mauvais ; et dans les jours de famine ils seront rassasiés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0482.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Quia peccatores peribunt. Inimici verò Domini mox ut honorificati fuerint et exaltati : deficientes, quemadmodum fumus deficient.",
+      "french": "Parce que les pécheurs périront. Mais les ennemis du Seigneur n’auront pas plutôt été honorés et élevés dans le monde, qu’ils tomberont, et s’évanouiront comme la fumée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0482.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Mutuabitur peccator, et non solvet : Justus autem miseretur et tribuet.",
+      "french": "Le pécheur empruntera, et ne paiera point : mais le Juste est touché de compassion, et fait charité aux autres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0483.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Quia benedicentes ei hæreditabunt terram : maledicentes autem ei disperibunt.",
+      "french": "Parce que ceux qui le bénissent, recevront la terre en héritage ; mais ceux qui le maudissent, périront sans ressource.",
+      "annotations": null,
+      "source_pages": [
+        "page_0484.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Apud Dominum gressus hominis dirigentur, et viam ejus volet.",
+      "french": "Les pas de l’homme seront conduits par le Seigneur ; et sa voie sera approuvée de lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0484.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Cum ceciderit, non collidetur, quia Dominus supponit manum suam.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0484.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Junior fui, etenim senui : et non vidi Justum derelictum, nec semen ejus quærens panem.",
+      "french": "J’ai été jeune, car je suis vieux, et je n’ai point vu le Juste abandonné, ni ses enfants obligés à demander leur pain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0486.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Totâ die miseretur, et commodat, et semen illius in benedictione erit.",
+      "french": "Il fait la charité, et prête tous les jours ; et sa race est en bénédiction.",
+      "annotations": null,
+      "source_pages": [
+        "page_0488.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Declina à malo, et fac bonum : et inhabita in saculum saculi.",
+      "french": "Détournez-vous du mal, et faites le bien ; et vous aurez une demeure éternelle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0489.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Quia Dominus amat judicium, et non derelinquet sanctos suos : in æternum conservabuntur.",
+      "french": "Parce que le Seigneur aime l’équité, et qu’il n’abandonnera point ses Saints ; ils seront éternellement conservés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0489.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Injusti punientur : et semen impiorum peribit.",
+      "french": "Ceux qui sont injustes seront punis, et la race des impies périra.",
+      "annotations": null,
+      "source_pages": [
+        "page_0489.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Justi autem hæreditabunt terram : et inhabitabunt in sæculum sæculi super eam.",
+      "french": "Mais les Justes recevront la terre en héritage ; et ils y demeureront durant tout le cours des siècles.",
+      "source_pages": [
+        "page_0490.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Os Justi meditabitur sapientiam, et lingua ejus loquetur judicium.",
+      "french": "La bouche du Juste méditera la sagesse ; et sa langue parlera selon l’équité, et la justice.",
+      "source_pages": [
+        "page_0490.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Lex Dei ejus in corde ipsius : et non supplantabuntur gressus ejus.",
+      "french": "La Loi de son Dieu est dans son cœur ; et il ne sera point renversé en marchant.",
+      "source_pages": [
+        "page_0490.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Considerat peccator Justum : et quærit mortificare eum.",
+      "french": "Le pécheur observe et épie le Juste, et il cherche à le tuer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0491.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Dominus autem non derelinquet eum in manibus ejus : nec damnabit eum cum judicabitur illi.",
+      "french": "Mais le Seigneur ne le laissera point entre ses mains, et ne le condamnera point lorsque le pécheur le jugera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0491.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Expecta Dominum, et custodi viam ejus : et exaltabit te, ut hæreditate capias terram : cum perierint peccatores videbis.",
+      "french": "Attendez le Seigneur, et ayez soin de garder sa voie ; et il vous élèvera, afin que vous receviez la terre en héritage. Quand les pécheurs auront péri, vous le verrez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0491.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Vidi impium superexaltatum, et elevatum sicut cedros Libani.",
+      "french": "J’ai vu l’impie extrêmement élevé, et qui égalait en hauteur les cèdres du Liban.",
+      "source_pages": [
+        "page_0492.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Et transivi, et ecce non erat, et quæsivi eum, et non est inventus locus ejus.",
+      "french": "Et j’ai passé, et il n’était plus ; et je l’ai cherché ; mais l’on n’a pu trouver le lieu où il était.",
+      "source_pages": [
+        "page_0492.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Custodi innocentiam, et vide æquitatem : quoniam sunt reliquiæ homini pacifico.",
+      "french": "Gardez l’innocence, et n’ayez en vue que l’équité ; parce que l’homme pacifique laissera une nombreuse postérité.",
+      "source_pages": [
+        "page_0492.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Injusti autem disperibunt simul : reliquiæ impiorum interibunt.",
+      "french": "Mais les injustes périront tous également : et leur race périra aussi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0493.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Salus autem Justorum à Domino : et protector eorum in tempore tribulationis.",
+      "french": "C’est du Seigneur que vient le salut des Justes ; et c’est lui qui est leur protecteur dans le temps de l’affliction.",
+      "annotations": null,
+      "source_pages": [
+        "page_0493.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Et adjuvabit eos Dominus, et liberabit eos : et eruet eos à peccatoribus, et salvabit eos : quia speraverunt in eo.",
+      "french": "Le Seigneur les assistera, et il les délivrera : il les arrachera d’entre les mains des pecheurs, et les sauvera, parce qu’ils ont esperé en lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0493.json"
+      ]
+    }
+  ]
+}

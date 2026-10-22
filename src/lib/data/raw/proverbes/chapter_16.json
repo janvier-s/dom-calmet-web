@@ -1,0 +1,268 @@
+{
+  "book": "Proverbes",
+  "chapter": 16,
+  "chapter_summary": "L’homme prépare, et Dieu gouverne. Dieu a fait toutes choses pour lui même ; il déteste l’orgueil. Jugements de Dieu ; sagesse des Rois, leur justice, leur colère, leur clémence. Dieu fait tout avec poids et mesure. L’indigence fait naître l’industrie. L’homme patient. Le sort est gouverné par le Seigneur.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 2,
+      "latin": "Omnes viæ hominis patent oculis ejus : spirituum ponderator est Dom nus.",
+      "french": "Toutes les voies de l’homme sont exposées à ses yeux : mais le Seigneur pèse les esprits.",
+      "source_pages": [
+        "page_0177.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Abominatio Domini est omnis arrogans : etiam si manus ad manum fuerit, non est innocens. Initium viæ bonæ, facere justitiam : accepta est autem apud Deum magis, quàm immolare hostias.",
+      "french": "Tout homme insolent est en abomination au Seigneur ; et lors même qu’il a les mains l’une dans l’autre, il n’est point innocent. Le commencement de la bonne voie, est de faire la justice ; et elle est plus agréable à Dieu, que l’immolation des hosties.",
+      "annotations": null,
+      "source_pages": [
+        "page_0179.json",
+        "page_0180.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Misericordiâ, et veritate redimitur iniquitas : et in timore Domini declinatur à malo.",
+      "french": "L’iniquité se rachete par la miséricorde, et la vérité ; et on évite le mal par la crainte du Seigneur.",
+      "source_pages": [
+        "page_0180.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Cùm placuerint Domino viæ hominis, inimicos quoque ejus convertet ad pacem.",
+      "french": "Lorsque Dieu agréera les voies de l’homme, il réduira à la paix ses ennemis mêmes.",
+      "source_pages": [
+        "page_0180.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Melius est parum cum justitia, quàm multifructus cum iniquitate.",
+      "french": "Peu, avec la justice, vaut mieux que de grands biens avec l’iniquité.",
+      "source_pages": [
+        "page_0181.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Cor hominis disponit viam suam : sed Domini est dirigere gressus ejus.",
+      "french": "Le cœur de l’homme prépare sa voie ; mais c’est au Seigneur à conduire ses pas.",
+      "source_pages": [
+        "page_0181.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Divinatio in labiis Regis ; in judicio non errabit os ejus.",
+      "french": "Les lèvres du Roi sont comme un oracle ; sa bouche ne se trompera point dans les jugements.",
+      "source_pages": [
+        "page_0181.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Pondus et statera judicia Domini sunt : et opera ejus omnis lapides sacculi.",
+      "french": "Les jugements du Seigneur sont pesez à la balance ; et toutes ses œuvres ont leur mesure, et leur poids.",
+      "annotations": null,
+      "source_pages": [
+        "page_0183.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Abominabiles Regi qui agunt impie : quoniam justitia firmatur solium.",
+      "french": "Ceux qui agissent injustement, sont abominables au Roi ; parce que la justice est l’affermissement du trône.",
+      "annotations": null,
+      "source_pages": [
+        "page_0184.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Voluntas Regum labia justa : qui recta loquitur, diligetur.",
+      "french": "Les lèvres justes sont les délices des Rois : celui qui parle dans l’équité, sera aimé d’eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0184.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Indignatio Regis, nuntii mortis : et vir sapiens placabit eam.",
+      "french": "La colère du Roi, est un avant-coureur de la mort, et l’homme sage l’apaisera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0184.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "In hilaritate vultûs Regis vita : et clementia ejus quasi imber serotinus.",
+      "french": "Le regard favorable du Roi donne la vie, et sa clémence est comme les pluies de l’arrière-saison.",
+      "source_pages": [
+        "page_0185.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Posside sapientiam, quia auro melior est : et acquire prudentiam, quia pretiosior est argento.",
+      "french": "Possédez la sagesse, parce qu’elle est meilleure que l’or ; et acquérez la prudence, parce qu’elle est plus précieuse que l’argent.",
+      "source_pages": [
+        "page_0185.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Semita justorum declinat mala : custos animæ suæ servat vitam suam.",
+      "french": "Le sentier des justes s’écarte des maux : celui qui garde son âme, se tient dans sa voie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0186.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Contritionem præcedit superbia : et ante ruinam exaltatur spiritus.",
+      "french": "L’orgueil précède la ruine de l’âme, et l’esprit s’éleve avant la chute.",
+      "annotations": null,
+      "source_pages": [
+        "page_0186.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Melius est humiliari cum mitibus, quam dividere spolia cum superbis.",
+      "french": "Il vaut mieux être humilié avec les humbles, que de partager les dépouilles avec les superbes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0186.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Eruditus in verbo reperiet bona : et qui sperat in Domino, beatus est.",
+      "french": "Celui qui est habile dans les choses qu’il entreprend, y réüssira ; et celui qui espere au Seigneur, sera vraiment heureux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0186.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Qui sapiens est corde, appellabitur prudens ; et qui dulcis eloquio, majora percipiet.",
+      "french": "Celui qui a la sagesse du cœur, sera appelé prudent ; et celui qui a une douce éloquence, recevra de plus grands dons.",
+      "annotations": null,
+      "source_pages": [
+        "page_0187.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Fons vitæ eruditio possidentis : doctrina stultorum fatuitas.",
+      "french": "La science est une source de vie à celui qui la possède : mais la science des insensés, est une folie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0187.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Cor sapientis erudiet os ejus : et labiis ejus addet gratiam.",
+      "french": "Le cœur du sage instruira sa bouche, et il répandrá une nouvelle grâce sur ses lèvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0187.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Favus mellis, composita verba : dulcedo animæ, sanitas ossium.",
+      "french": "Le discours composé, est comme un rayon de miel : la douceur de l’âme, est la santé des os.",
+      "annotations": null,
+      "source_pages": [
+        "page_0188.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Est via quæ videtur homini recta : et novissima ejus ducunt ad mortem.",
+      "french": "Il y a une voie qui paraît droite à l’homme, dont la fin néanmoins conduit à la mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0188.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Anima laborantis laborat sibi, quia compulit eum os suum.",
+      "french": "Celui qui travaille, travaille pour lui-même ; parce que sa bouche l’y contraint.",
+      "annotations": null,
+      "source_pages": [
+        "page_0188.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Vir impius fodit malum, et in labiis ejus ignis ardescit.",
+      "french": "Le méchant creuse pour trouver le mal ; et il y a sur ses lèvres comme un feu brûlant.",
+      "source_pages": [
+        "page_0189.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Homo perversus suscitat lites : et verbosus separat Principes.",
+      "french": "L’homme corrompu excite des querelles ; et le grand parleur divise les Princes.",
+      "source_pages": [
+        "page_0189.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Vir iniquus lactat amicum suum : et ducit eum per viam non bonam.",
+      "french": "L’homme injuste attire son ami par ses flateries, et il le conduit par une voie qui n’est pas bonne.",
+      "source_pages": [
+        "page_0189.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Qui attonitis oculis cogitat prava, mordens labia sua perficit malum.",
+      "french": "Celui qui roule de noirs desseins avec des yeux étonnés, éxécute le mal en se mordant les lèvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0190.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Corona dignitatis senectus, quæ in viis justitia reperietur.",
+      "french": "La vieillesse est une couronne d’honneur, lorsquelle se trouve dans la voie de la justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0190.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Melior est patiens viro forti : et qui dominatur animo suo, expugnatore urbium.",
+      "french": "L’homme patient vaut mieux que le courageux ; et celui qui est maître de son esprit, vaut mieux que celui qui force les villes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0191.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Sortes mittuntur in sinum ; sed à Domino temperantur.",
+      "french": "Les billets du sort se jettent dans le sein : mais c’est le Seigneur qui en dispose.",
+      "annotations": null,
+      "source_pages": [
+        "page_0191.json"
+      ]
+    }
+  ]
+}

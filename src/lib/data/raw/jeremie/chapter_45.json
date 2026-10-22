@@ -1,0 +1,35 @@
+{
+  "book": "Jérémie",
+  "chapter": 45,
+  "chapter_summary": "Plaintes de Baruch, de ce qu’il est exposé à tant de traverses. Jérémie le console, et lui promet de la part de Dieu, qu’il échappera à tous les dangers.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Verbum, quod locutus est Jeremias Propheta ad Baruch filium Neriæ, cùm scripsisset verba hæc in libro ex ore Jeremiæ, anno quarto Joakim filii Josiæ Regis Juda, dicens :",
+      "french": "Parole que le Prophète Jérémie dit à Baruch fils de Nérias, lorsqu’il eut écrit dans un livre ces paroles que Jérémie lui dictait, la quatrième année de Joakim fils de Josias Roi de Juda. Jérémie lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0561.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Hæc dicit Dominus Deus Israël ad te, Baruch :",
+      "french": "Voici ce que le Seigneur, le Dieu d’Israël vous dit à vous, ô Baruch :",
+      "annotations": null,
+      "source_pages": [
+        "page_0561.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Dixisti : Væ misero mihi, quoniam addidit Dominus dolorem dolori meo : laboravi in gemitu meo, et requiem non inveni.",
+      "french": "Vous avez dit : Hélas, que je suis malheureux ! Le Seigneur m’a ajoûté douleur sur douleur ; je me suis lassé à force de gémir, et je ne puis trouver de repos.",
+      "annotations": null,
+      "source_pages": [
+        "page_0561.json"
+      ]
+    }
+  ]
+}

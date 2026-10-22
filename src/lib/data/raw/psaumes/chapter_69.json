@@ -1,0 +1,80 @@
+{
+  "book": "Psaumes",
+  "chapter": 69,
+  "chapter_summary": "Le Prophète demande à Dieu une prompte assistance contre la malice, et les insultes de ses ennemis.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem. Psalmus David in rememorationem, quod salvum fecerit eum Dominus.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0855.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Deus, in adjutorium meum intende : Domine, ad adjuvandum me festina.",
+      "french": "Venez à mon aide, ô mon Dieu : hâtez-vous, Seigneur, de me secourir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0855.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Confundantur, et revereantur, qui quærunt animam meam.",
+      "french": "Que ceux-là saient confondus, et couverts de honte, qui cherchent à m’ôter la vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0855.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Avertantur retrorsùm, et erubescant, qui volunt mihi mala.",
+      "french": "Que ceux qui veulent m’accabler de maux, saient obligés de retourner en arrière, et qu’ils saient chargés de confusion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0855.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Avertantur statim erubescentes, qui dicunt mihi : Euge, euge.",
+      "french": "Que ceux qui me disent des paroles de raillerie, et d’insulte, saient renversés aussitôt avec honte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0855.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Exultent, et lætentur in te omnes qui quærunt te, et dicant semper : Magnificetur Dominus, qui diligunt salutare tuum.",
+      "french": "Mais que tous ceux qui vous cherchent, se réjouissent en vous, et saient transportés de joie. Et que ceux qui aiment le salut qui vient de vous, disent sans cesse : Que le Seigneur soit glorifié.",
+      "annotations": null,
+      "source_pages": [
+        "page_0856.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ego verò egenus, et pauper sum : Deus, adjuva me.",
+      "french": "Pour moi, je suis pauvre, et dans l’indigence ; ô Dieu, aidez-moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0856.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Adjutor meus, et liberator meus es tu : Domine, ne moreris.",
+      "french": "C’est vous qui êtes mon protecteur, et mon libérateur, Seigneur, ne tardez pas davantage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0856.json"
+      ]
+    }
+  ]
+}

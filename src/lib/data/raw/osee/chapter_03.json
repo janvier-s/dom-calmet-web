@@ -1,0 +1,53 @@
+{
+  "book": "Osée",
+  "chapter": 3,
+  "chapter_summary": "Ofée donne de l’orge, et de l’argent à une femme adultere, et l’oblige à l’attendre long-temps sans voir aucun homme, pour marquer la longue captivité des Ifraëlites.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Et dixit Dominus ad me : Adhuc vade, et dilige mulierem dilectam amico, et adulteram : ficut diligit Dominus filios Ifraël, et ipfi refpiciunt ad Deos alienos, et diligunt vinacia uuarum.",
+      "french": "Le Seigneur me dit : Allez, et aimez encore une femme adultere, qui est aimée d’un autre que de son mari : comme le Seigneur aime les enfants d’Ifraël, pendant qu’ils mettent leur confiance en des Dieux étrangers, et qu’ils aiment le marc du vin, au lieu du raifin frais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0119.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et fodi eam mihi quindecim argenteis, et coro hordei, et dimidio coro hordei.",
+      "french": "J’achettai cette femme quinze pièces d’argent, et une mesure et demie d’orge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0120.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et dixi ad eam : Dies multos exspectabis me : non fornicaberis, et non eris viro : sed et ego expectabo te.",
+      "french": "Alors je lui dis : Vous m’attendrez longtems ; vous ne vous abandonnerez cependant à personne ; et vous ne verrez point d’homme ; et je vous attendrai aussi moi-même.",
+      "annotations": null,
+      "source_pages": [
+        "page_0121.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quia dies multos sedebunt filii Israël sine Rege, et sine Principe, et sine sacrificio, et sine altari, et sine ephod, et sine theraphim.",
+      "french": "C’est l’état où les enfants d’Israël seront pendant un long temps ; sans Roi, sans Prince, sans sacrifice, sans autel, sans éphod, et sans théraphim.",
+      "annotations": null,
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et post hæc revertentur filii Israël, et quærent Dominum Deum suum, et David Regem suum : et pavebunt ad Dominum, et ad bonum ejus in novissimo dierum.",
+      "french": "Et après cela les enfants d’Israël reviendront, et ils chercheront le Seigneur leur Dieu, et David leur Roi : et dans les derniers jours, ils recevront avec une frayeur respectueuse le Seigneur, et les grâces qu’il leur doit faire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "book": "Psaumes",
+  "chapter": 31,
+  "chapter_summary": "Bonheur de celui qui a mérité le pardon de ses fautes, par la Pénitence et la Confession. Le Seigneur l’instruira de ses devoirs et le protégera dans l’adversité.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Beati, quorum remissæ sunt iniquitates : et quorum tecta sunt peccata.",
+      "french": "Heureux sont ceux à qui les iniquités ont été remises, et dont les péchés sont couverts.",
+      "annotations": null,
+      "source_pages": [
+        "page_0419.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Beatus vir, cui non imputavit Dominus peccatum, nec est in spiritu ejus dolus.",
+      "french": "Heureux est l’homme à qui le Seigneur n’a imputé aucun péché, et dont l’esprit est exempt de tromperie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0421.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quoniam tacui, inveteraverunt ossa mea, dum clamarem tota die.",
+      "french": "Parce que je me suis tu, mes os ont vieilli et perdu leur force, tandis que je criais tout le jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0421.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quoniam die ac nocte gravata est super me manus tua : conversus sum in ærumna mea, dum configitur spina.",
+      "french": "Parce que votre main s’est appesantie jour et nuit sur moi, je me suis tourné dans mon affliction, pendant que j’étais percé par la pointe de l’épine.",
+      "source_pages": [
+        "page_0422.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Delictum meum cognitum tibi feci : et injustitiam meam non abscondi.",
+      "french": "Je vous ai fait connaître mon péché, et je n’ai point caché davantage mon injustice.",
+      "source_pages": [
+        "page_0423.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dixi : Confitebor adversùm me injustitiam meam Domino : et tu remisisti impietatem peccati mei.",
+      "french": "J’ai dit : Je déclarerai au Seigneur, et confesserai contre moi-même mon injustice ; et vous m’avez aussitôt remis l’impiété de mon péché.",
+      "source_pages": [
+        "page_0424.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Pro hac orabis ad te omnis sanctus, in tempore opportuno.",
+      "french": "C’est pour cette raison que tout homme saint vous priera, dans le temps qui est favorable.",
+      "source_pages": [
+        "page_0424.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Verumtamen in diluvio aquarum multarum, ad eum non approximabunt.",
+      "french": "Et quand les grandes eaux inonderont comme dans un déluge, elles n’approcheront point de lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0425.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Tu es refugium meum à tribulatione, quæ circumdedit me : exultatio mea, erue me à circumdantibus me.",
+      "french": "Vous êtes mon refuge dans l’affliction dont je suis environné. Arrachez-moi du milieu de ceux qui m’environnent, vous, mon Dieu, qui êtes toute ma joie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0425.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Intellectum tibi dabo, et instruam te in via hac, qua gradieris : firmabo super te oculos meos.",
+      "french": "Je vous donnerai l’intelligence ; je vous enseignerai la voie par laquelle vous devez marcher : et j’arrêterai mes yeux sur vous.",
+      "source_pages": [
+        "page_0426.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Nolite fieri sicut equus et mulus, quibus non est intellectus ;",
+      "french": "Gardez-vous d’être comme le cheval et le mulet, qui n’ont point d’intelligence ;",
+      "source_pages": [
+        "page_0426.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "In camo et fræno maxillas eorum consringe, qui non approximant ad te.",
+      "french": "Retenez-les avec le mors et le frein ; si vous voulez qu’ils n’approchent point de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0427.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Multa flagella peccatoris : sperantem autem in Domino, misericordia circumdabit.",
+      "french": "Le pécheur sera exposé à un grand nombre de peines ; mais pour celui qui espère au Seigneur, il sera tout environné de la miséricorde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0427.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Lætamin in Domino, et exultate justi, et gloriamini omnes recti corde.",
+      "french": "Réjouissez-vous au Seigneur, et soyez transportés de joie, vous qui êtes justes ; et glorifiez-vous dans le Seigneur, vous tous qui avez le cœur droit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0428.json"
+      ]
+    }
+  ]
+}

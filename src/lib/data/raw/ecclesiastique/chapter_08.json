@@ -1,0 +1,206 @@
+{
+  "book": "Siracide",
+  "chapter": 8,
+  "chapter_summary": "Régles de conduite envers les riches, les ignorants, les grands parleurs. Ne pas mépriser celui qui revient de ses égarements. Ne se pas réjouir de la mort de ses ennemis. Ecouter les vieillards. Ne se rendre pas caution d’un autre. Ne prendre pas querelle avec un querelleux, et un emporté. Ne pas découvrir son secret à tout le monde.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Non litiges cum homine potente, ne fortè incidas in manus illius.",
+      "french": "N’Ayez point de démêlé avec un homme puissant, de peur que vous ne tombiez entre ses mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0206.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Non contendas cum viro locuplete, ne fortè contra te constituat litem tibi.",
+      "french": "Ne disputez point avec un homme riche, de peur qu’il ne vienne à vous faire un procès.",
+      "annotations": null,
+      "source_pages": [
+        "page_0206.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Multos enim perdidit aurum, et argentum, et usque ad cor Regum extendit, et conve tit.",
+      "french": "Car l’or, et l’argent en ont perdu plusieurs ; et leur pouvoir s’étend même jusqu’au cœur des Rois, pour les faire pancher où l’on veut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0207.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Non litiges cum homine linguato ; et non strues in ignem illius ligna.",
+      "french": "Ne disputez pas avec un grand parleur ; et ne mettez pas davantage de bois dans son feu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0207.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Non communices homini indocto : ne malè de progenie tua loquatur.",
+      "french": "N’ayez point de commerce avec un homme mal instruit, de peur qu’on ne parle mal de votre race.",
+      "annotations": null,
+      "source_pages": [
+        "page_0207.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ne despicias hominem avertentem se à peccato, neque improperes ei : memento quoniam omnes in correptione sumus.",
+      "french": "Ne méprisez point un homme qui se retire du péché, et ne lui en faites point de reproches : Souvenez-vous que nous avons tous mérité le châtiment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0208.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Ne spernas hominem in sua senectute : etenim ex nobis senescunt.",
+      "french": "Ne méprisez point un homme dans sa vieillesse ; car ceux qui sont vieux ont été comme nous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0208.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Noli de mortuo inimico tuo gaudere : sciens quoniam omnes morimur, et in gaudium nolumus venire.",
+      "french": "Ne vous réjouissez point de la mort de votre ennemi ; considérez que nous mourons tous, [ et que nous ne voulons point devenir un sujet de raillerie. ]",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ne despicias narrationem presbyterorum sapientium, et in prove biis eorum conversare.",
+      "french": "Ne méprisez point les discours des sages [ vieillards ; ] mais entretenez-vous de leurs paraboles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Ab ipsis enim disces sapientiam, et doctrinam intellectûs, et servire magnatis sine querela.",
+      "french": "Car vous apprendrez d’eux la sagesse, [ la doctrine, qui donne l’intelligence, ] et l’art de servir les Grands, d’une maniere irrépréhensible.",
+      "annotations": null,
+      "source_pages": [
+        "page_0209.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Non te prætereat narratio seniorum : ipsi enim didicerunt à patribus suis.",
+      "french": "Ne négligez point les entretiens des vieillards, parce qu’ils disent ce qu’ils ont oui de leurs pères.",
+      "annotations": null,
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Quoniam ab ipsis disces intellectum, et in tempore necessitatis dare responsum.",
+      "french": "Car vous apprendrez d’eux l’intelligence ; et à répondre, lorsqu’il en sera temps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Non incendas carbones peccatorum, arguens eos, et ne incendaris flammâ ignis peccatorum illorum.",
+      "french": "N’allumez point les charbons des pécheurs, [ en les reprenant ] de peur que le feu [ de leurs péchés ] ne vous consume par ses flammes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0210.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Ne contra faciem stes contumeliosi, ne sedeat quasi insidiator ori tuo.",
+      "french": "Ne résistez point en face à un homme insolent, de peur qu’il ne s’applique à tendre des pièges à vos paroles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0211.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Noli fœnerari homini fortiori te : quòd si fœneraveris, quasi perditum habe.",
+      "french": "Ne prêtez point d’argent à un homme plus puissant que vous. Que si vous lui en avez prêté, tenez-le perdu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0211.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Non spondeas super virtutem tuam ; quòd si spoponderis, quasi restituens cogita.",
+      "french": "Ne répondez point pour un autre au-dessus de vos forces. Que si vous avez répondu, mettez-vous en peine, comme étant déjà obligé de satisfaire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0212.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Non judices contra judicem : quoniam secundum quod justum est judicat.",
+      "french": "Ne jugez point au désavantage du Juge, parce qu’il prononce selon ce qui est juste.",
+      "annotations": null,
+      "source_pages": [
+        "page_0212.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Cum audace non eas in via, ne fortè gravet mala sua in te : ipse enim secundùm voluntatem suam vadit, et simul cum stultitia illius peries.",
+      "french": "Ne vous mettez point en voyage avec un homme audacieux, de peur qu’il ne fasse retomber sur vous le mal qu’il sera. Car il se conduira suivant sa passion, et vous périrez avec lui par sa folie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0213.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Cum iracundo non facies rixam, et cum audace non eas in desertum : quoniam quasi est ante illum sanguis, et ubi non est adjutorium, elidet te.",
+      "french": "N’ayez point de querelle avec un homme colere ; et n’allez point avec l’audacieux dans un lieu désert : car ce n’est rien pour lui de répandre le sang ; et lorsque vous trouverez sans secours, il vous écrasera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0213.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Cum fatuis consilium non habeas : non enim poterunt diligere, nisi quæ ei placent.",
+      "french": "Ne délibérez point de vos affaires avec des fols ; car ils ne pourront aimer que ce qui leur plaît.",
+      "annotations": null,
+      "source_pages": [
+        "page_0213.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Coram extraneo ne facias consilium : nescis enim quid pariet.",
+      "french": "Ne traitez rien de secret devant un étranger ; car vous ne savez ce qu’il enfantera un jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0214.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Non omni homini cor tuum manifestes : ne fortè inferat tibi gratiam falsam, et convitietur tibi.",
+      "french": "Ne découvrez point votre cœur à toutes sortes de personnes, de peur que celui à qui vous vous fiez, ne soit un faux ami, [et qu’il ne médise ensuite de vous.]",
+      "annotations": null,
+      "source_pages": [
+        "page_0214.json"
+      ]
+    }
+  ]
+}

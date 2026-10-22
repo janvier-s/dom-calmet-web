@@ -12,7 +12,7 @@
       "sub": false,
       "latin_lemma": "vivit Deus, qui abstulit judicium meum.",
       "lemma": "Vive le Seigneur, qui m’a traité comme coupable, quoique je fusse innocent.",
-      "text": "A la lettre :[2] _Vive le Seigneur, qui a écarté mon jugement_ ; ou suivant le Chaldéen, _qui a renversé la règle de mon jugement ; qui ne m’a pas déclaré absous, quelque innocent que je fusse._ On pourrait traduire d’une manière moins dure : _Vive le Seigneur, qui ne m’a pas permis de justifier mon innocence, quoique j’eusse appelé à lui ; et qui m’a abandonné aux jugements injustes que l’on a faits de moi._ Job est si sûr de son innocence, qu’il en prend Dieu à témoin ; et si rempli d’un profond respect pour la justice de son Juge, quelque sévérité qu’il exerce contre lui, qu’il ne craint point de jurer en son nom. Les Septante : [3] _Vive le Seigneur, qui m’a ainsi jugé._ Symmaque : [4] _Qui a méprisé mon jugement._ Quelque tour qu’on donne à cette expression de Job, elle renferme toujours quelque chose de choquant ; et il est probable qu’elle est une de celles que Dieu même désapprouvera, en disant : [5] _Rendez-vous mes jugements vains, et sans effet ? Et me condamnerez-vous, pour vous justifier ?_ On peut voir dans Isaïe 40:27. 59:9, 11, 14. Sophonie 3:15. des manières de parler à peu près semblables à celle de Job. Il la répète encore ci-après, Chap. XXXIV. 5."
+      "text": "A la lettre :[2] _Vive le Seigneur, qui a écarté mon jugement_ ; ou suivant le Chaldéen, _qui a renversé la règle de mon jugement ; qui ne m’a pas déclaré absous, quelque innocent que je fusse._ On pourrait traduire d’une manière moins dure : _Vive le Seigneur, qui ne m’a pas permis de justifier mon innocence, quoique j’eusse appelé à lui ; et qui m’a abandonné aux jugements injustes que l’on a faits de moi._ Job est si sûr de son innocence, qu’il en prend Dieu à témoin ; et si rempli d’un profond respect pour la justice de son Juge, quelque sévérité qu’il exerce contre lui, qu’il ne craint point de jurer en son nom. Les Septante : [3] _Vive le Seigneur, qui m’a ainsi jugé._ Symmaque : [4] _Qui a méprisé mon jugement._ Quelque tour qu’on donne à cette expression de Job, elle renferme toujours quelque chose de choquant ; et il est probable qu’elle est une de celles que Dieu même désapprouvera, en disant : [5] _Rendez-vous mes jugements vains, et sans effet ? Et me condamnerez-vous, pour vous justifier ?_ On peut voir dans Isaïe 40:27. 59:9, 11, 14. Sophonie 3:15. des manières de parler à peu près semblables à celle de Job. Il la répète encore ci-après, chapitre 34:5."
     },
     {
       "verse": 3,
@@ -26,7 +26,14 @@
       "sub": false,
       "latin_lemma": "nec lingua mea meditabitur mendacium.",
       "lemma": null,
-      "text": "Et ma langue ne dira point de mensonge. Job éloigne le soupçon qu’on pourrait avoir qu’il ne parle pas sincèrement. Je suis si persuadé de mon innocence, de la justice de ma cause, et que la conduite de Dieu sur moi, n’est pas une conduite de colère, et de vengeance, que rien ne sera capable de me faire changer de sentiment, et de discours sur cela."
+      "text": ""
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": null,
+      "lemma": "Et ma langue ne dira point de mensonge.",
+      "text": "Job éloigne le soupçon qu’on pourrait avoir qu’il ne parle pas sincèrement. Je suis si persuadé de mon innocence, de la justice de ma cause, et que la conduite de Dieu sur moi, n’est pas une conduite de colère, et de vengeance, que rien ne sera capable de me faire changer de sentiment, et de discours sur cela."
     },
     {
       "verse": 5,
@@ -61,7 +68,7 @@
       "sub": false,
       "latin_lemma": "docebo vos per manum Dei, quæ omnipotens habeat.",
       "lemma": "Je vous enseignerai avec le secours de Dieu, ce qui est renfermé dans le Tout-puissant.",
-      "text": "On peut aussi traduire l’Hébreu [11] par : _Je vous instruirai de tout ce que Dieu fait ; de ses desseins, de sa conduite, de sa main ; je ne vous cacherai rien de tout ce_ qui est avec le Seigneur ; de tout ce qu’il possède, de tout ce qui est en son pouvoir, des effets de sa puissance infinie. Autrement : Je vous instruirai de ce que le Seigneur a fait en moi, de ce que j’ai appris de lui. Le premier sens qu’on a exprimé dans la traduction de la Vulgate, paraît le meilleur. Voyez 2 Esdras 2:8, 18."
+      "text": "On peut aussi traduire l’Hébreu [11] par : _Je vous instruirai de tout ce que Dieu fait ; de ses desseins, de sa conduite, de sa main ; je ne vous cacherai rien de tout ce_ _qui est avec le Seigneur ;_ de tout ce qu’il possède, de tout ce qui est en son pouvoir, des effets de sa puissance infinie. Autrement : Je vous instruirai de ce que le Seigneur a fait en moi, de ce que j’ai appris de lui. Le premier sens qu’on a exprimé dans la traduction de la Vulgate, paraît le meilleur. Voyez 2 Esdras 2:8, 18."
     },
     {
       "verse": 12,
@@ -143,13 +150,6 @@
       "after": "biens ; il faut que la créature demeure dans la crainte, e"
     },
     {
-      "seam": "page_0332>page_0333",
-      "verse": 4,
-      "mode": "flow",
-      "before": "",
-      "after": "Et ma langue ne dira point de mensonge. Job éloigne le sou"
-    },
-    {
       "seam": "page_0333>page_0334",
       "verse": 7,
       "mode": "flow",
@@ -161,7 +161,7 @@
       "verse": 11,
       "mode": "flow",
       "before": "onduite, de sa main ; je ne vous cacherai rien de tout ce_",
-      "after": "qui est avec le Seigneur ; de tout ce qu’il possède, de to"
+      "after": "_qui est avec le Seigneur ;_ de tout ce qu’il possède, de "
     }
   ],
   "pages_used": [

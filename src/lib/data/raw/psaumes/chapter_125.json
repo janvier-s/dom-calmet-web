@@ -1,0 +1,80 @@
+{
+  "book": "Psaumes",
+  "chapter": 125,
+  "chapter_summary": "Joie, et consolation des Juifs délivrez de la captivité. Ils prient le Seigneur de ramener leurs frères qui sont encore dans la dispersion. Ils espérent de les voir bien-tôt revenir.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "In convertendo Dominus captivitatem Sion, facti sumus sicut consolati.",
+      "french": "Lorsque le Seigneur a fait revenir ceux de Sion, qui étaient captifs, nous avons été comblez de consolation.",
+      "annotations": null,
+      "source_pages": [
+        "page_0263.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Tunc repletum est gaudio os nostrum : et lingua nostra exultatione.",
+      "french": "Alors notre bouche a été remplie de chants de joie, et notre langue de cris d’allégresse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0263.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Tunc dicent inter gentes : Magnificavit Dominus facere cum eis.",
+      "french": "Alors on dira parmi les nations : Le Seigneur a fait de grandes choses en leur faveur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0264.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Magnificavit Dominus facere nobifcum : facti fumus lætantes.",
+      "french": "Il est vrai que le Seigneur a fait pour nous de grandes choses : et nous en sommes remplis de joie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0264.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Converte, Domine, captivitatem nostram, sicut torrens in austro.",
+      "french": "Faites revenir, Seigneur, nos captifs, comme un torrent dans le païs du midi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0265.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Qui seminant in lacrymis, in exultatione metent.",
+      "french": "Ceux qui sement dans les larmes, moissonneront dans la joie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0265.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Euntes ibant et flebant, mittentes semina sua.",
+      "french": "Ils marchaient, et s’en allaient en pleurant, et jettaient la semence sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0266.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Venientes autem venient cum exultatione, portantes manipulos suos.",
+      "french": "Mais ils reviendront avec des transports de joie, en portant les gerbes de leur moisson.",
+      "annotations": null,
+      "source_pages": [
+        "page_0266.json"
+      ]
+    }
+  ]
+}

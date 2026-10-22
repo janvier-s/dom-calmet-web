@@ -1,0 +1,76 @@
+{
+  "book": "Psaumes",
+  "chapter": 109,
+  "chapter_summary": "Le Messie assis à la droite du Père. Ses ennemis réduits sous ses pieds. Son règne sur toutes les Nations. Sa génération éternelle. Prêtre selon l’ordre de Melchisedech. Rigueur de son Jugement. Sa vie laborieuse. Ses victoires.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "Psalmus David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription): check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Dixit Dominus Domino meo : Sede à dextris meis.",
+      "french": "Le Seigneur a dit à mon Seigneur : Asseyez-vous à ma droire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Virgam virtutis tuæ emittet Dominus ex Sion : dominare in medio inimicorum tuorum.",
+      "french": "Le Seigneur fera partir de Sion le sceptre de votre puissance : dominez au milieu de vos ennemis.",
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Tecum principium in die virtutis tuæ : in splendoribus sanctorum ex utero ante luciferum genui te.",
+      "french": "Le principe est avec vous au jour de votre puissance ; je vous ai engendré de mon sein au milieu de l’éclat de la sainteté, et avant l’étoile du matin.",
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Juravit Dominus, et non pœnitebit eum : Tu es Sacerdos in æternum, secundum ordinem Melchisedech.",
+      "french": "Le Seigneur a juré, et il ne s’en repentira point ; vous êtes le Prêtre éternel selon l’ordre de Melchisedech.",
+      "annotations": null,
+      "source_pages": [
+        "page_0115.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dominus à dextris tuis : confregit in die iræ suæ Reges.",
+      "french": "Le Seigneur est à votre droite ; il a brisé les Rois au jour de sa colère.",
+      "source_pages": [
+        "page_0117.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Judicabit in nationibus, implebit ruinas : conquassabit capita in terra multorum.",
+      "french": "Il exercera ses jugements au milieu des Nations ; il remplira tout de ruine, et de saccagements ; il écrasera sur la terre les têtes d’un grand nombre de personnes.",
+      "source_pages": [
+        "page_0117.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "De torrente in via bibet : propterea exaltabit caput.",
+      "french": "Il boira de l’eau du torrent dans le chemin ; c’est pourquoi il ira tête levée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0118.json"
+      ]
+    }
+  ]
+}

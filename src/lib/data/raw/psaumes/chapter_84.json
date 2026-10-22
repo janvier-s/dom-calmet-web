@@ -1,0 +1,143 @@
+{
+  "book": "Psaumes",
+  "chapter": 84,
+  "chapter_summary": "Actions de grâces pour le retour de la captivité de Babylone ; Prédiction de la rédemption du genre humain par Jésus-Christ. In finem, filiis Core, Pfalmus. | Pseaume pour la fin, adreßé aux fils de Coré.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, filiis Core. Psalmus.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription): check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0491.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Benedixisti, Domine, terram tuam : avertisti captivitatem Jacob.",
+      "french": "Vous avez béni, Seigneur, votre terre : vous avez délivré Jacob de la captivité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0491.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Remisisti iniquitatem plebis tuæ : operuisti omnia peccata eorum.",
+      "french": "Vous avez remis l’iniquité de votre peuple : vous avez couvert tous leurs péchés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0492.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Mitigasti omnem iram tuam : avertisti ab ira indignationis tuæ.",
+      "french": "Vous avez adouci toute votre colère, et arrêté les essets rigoureux de votre indignation.",
+      "annotations": null,
+      "source_pages": [
+        "page_0492.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Converte nos, Deus salutaris noster : et averte iram tuam à nobis.",
+      "french": "Convertissez-nous, ô Dieu notre Sauveur ; et détournez votre colère de dessus nous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0492.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Numquid in æternum irascéris nobis : aut extendes iram tuam à generatione in generationem ?",
+      "french": "Serez-vous éternellement en colère contre nous ? ou étendrez-vous votre colère sur toutes les races ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0493.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Deus, tu conversus vivificabis nos : et plebs tua lætabitur in te.",
+      "french": "O Dieu, vous vous tournerez de nouveau vers nous, et vous nous donnerez la vie ; et votre peuple se réjouira en vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0493.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Ostende nobis, Domine, misericordiam tuam : et salutare tuum da nobis.",
+      "french": "Montrez-nous, Seigneur, votre miséricorde ; et accordez-nous votre assistance salutaire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0494.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Audiam quid loquatur in me Dominus Deus : quoniam loquetur pacem in plebem suam.",
+      "french": "J’écouterai ce que le Seigneur mon Dieu dira au-dedans de moi ; parce qu’il annoncera la paix à son peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0494.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et super Sanctos suos, et in eos qui convertuntur ad cor.",
+      "french": "A ses Saints, et à ceux qui se convertissent du fond de leur cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0495.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Verumtamen prope timentes eum salutare ipsius : ut inhabitet gloria in terra nostra.",
+      "french": "Il donnera le salut à ceux qui le craignent : et la gloire habitera dans notre terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0496.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Misericordia et veritas obviaverunt sibi : justitia et pax osculatæ sunt.",
+      "french": "La miséricorde et la vérité se sont rencontrées : la justice et la paix se sont donné le baiser.",
+      "annotations": null,
+      "source_pages": [
+        "page_0496.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Veritas de terra orta est : et justitia de cœlo prospexit.",
+      "french": "La vérité est sortie de la terre ; et la justice nous a regardez du haut du Ciel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0497.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Etenim Dominus dabit benignitatem : et terra nostra dabit fructum suum.",
+      "french": "Car le Seigneur repandra sa bénédiction ; et notre terre portera son fruit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0497.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Justitia ante eum ambulabit : et ponet in via gressus suos.",
+      "french": "La Justice marchera devant lui, et il la suivra dans le chemin.",
+      "annotations": "Scriu iis etc videas iuxtà Heb. צדק לפניו יהלך וישם לדרך פעמיו",
+      "source_pages": [
+        "page_0498.json"
+      ]
+    }
+  ]
+}

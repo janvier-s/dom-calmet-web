@@ -1,0 +1,61 @@
+{
+  "book": "Psaumes",
+  "chapter": 126,
+  "chapter_summary": "Inutilité des soins, et des travaux des hommes, sans le secours du Seigneur. Les enfants sont une bénédiction particulière de Dieu. Bonheur d’un père qui a une famille nombreuse.\nCanticum graduum. | Cantique des dégrez.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Nisi Dominus ædificaverit domum, in vanum laboraverunt qui ædificant eam.",
+      "french": "Si le Seigneur ne bâtit la maison, c’est en vain que travaillent ceux qui la bâtissent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0268.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Nisi Dominus custodierit civitatem, frustra vigilat qui custodit eam.",
+      "french": "Si le Seigneur ne garde la ville, c’est en vain que veille celui qui la garde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0268.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Vanum est vobis ante lucem surgere : surgite postquam sederitis, qui manducatis panem doloris.",
+      "french": "C’est en vain que vous vous levez avant le jour. Levez-vous après que vous vous serez reposez, vous qui mangez d’un pain de douleur.",
+      "source_pages": [
+        "page_0269.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Cùm dederit dilectis suis somnum : ecce hereditas Domini, filii ; merces, fructus ventris.",
+      "french": "Lorsqu’il aura accordé le sommeil à ses bien-aimez, ils recevront du Seigneur pour heritage, des enfants ; et pour récompense, le fruit des entrailles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0270.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Sicut sagittæ in manu potentis : ita filii excussorum.",
+      "french": "Les enfants de ceux qui sont éprouvez par l’affliction, sont comme des flèches entre les mains d’un homme robuste, et puissant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0271.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Beatus vir qui implevit desiderium suum ex ipsis : non confundetur cùm loquetur inimicis suis in porta.",
+      "french": "Heureux est l’homme qui en aura un grand nombre ; il ne sera point confondu, lorsqu’il parlera à ses ennemis à la porte de la ville.",
+      "annotations": null,
+      "source_pages": [
+        "page_0272.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "book": "Psaumes",
+  "chapter": 140,
+  "chapter_summary": "Le Psalmiste prie Dieu d’exaucer sa prière, de le garder de l’impatience, et de le préserver de l’amitié, et de la compagnie des méchants. Il préfère les répréhensions des Justes. Il se plaint des persecutions qu’il souffre. Il espère au Seigneur.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Domine, clamavi ad te, exaudi me : intende voci meæ, cùm clamavero ad te.",
+      "french": "Seigneur, j’ai crié vers vous ; exaucez moi : écoutez ma voix lorsque je crierai pour vous prier.",
+      "annotations": null,
+      "source_pages": [
+        "page_0355.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Dirigatur oratio mea sicut incensum in conspectu tuo : elevatio manuum mearum sacrificium vespertinum.",
+      "french": "Que ma prière s’élève vers vous comme la fumée de l’encens : que l’élévation de mes mains vous soit agréable, comme le sacrifice du soir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0355.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Pone, Domine, custodiam ori meo : et ostium circumstantiæ labiis meis.",
+      "french": "Mettez, Seigneur, une garde à ma bouche, et une porte à mes lèvres, qui les ferme exactement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0356.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Non declines cor meum in verba malitiæ, ad excusandas excusationes in peccatis,",
+      "french": "Ne souffrez point que mon cœur se laisse aller à des paroles de malice, pour chercher des excuses à mes péchés,",
+      "annotations": null,
+      "source_pages": [
+        "page_0357.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Cum hominibus operantibus iniquitatem, et non communicabo cum electis eorum.",
+      "french": "Comme les hommes qui commettent l’iniquité : et je n’aurai aucun commerce avec les plus distinguez d’entr’eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0357.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quoniam adhuc et oratio mea in beneplacitis eorum : absorpti sunt juncti petræ judices eorum.",
+      "french": "Parce que j’opposerai même ma prière à toutes les choses qui flattent leur cupidité : leurs juges ont été précipitez, et brisez contre la pierre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Audiant verba mea quoniam potuerunt : sicut crassitudo terræ erupta est super terram.",
+      "french": "Et ils écouteront enfin mes paroles, à cause qu’elles sont puissantes, et efficaces. De même qu’une terre dure, et serrée étant rompüe avec le soc, est renversée sur une autre terre ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0360.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Dissipata sunt ossa nostra secùs infernum : quia ad te, Domine, Domine, oculi mei : in te speravi, non auferas animam meam.",
+      "french": "Nos os ont été dispersez jusque sur l’entrée du tombeau. Mais, Seigneur, parce que mes yeux sont élevez vers vous ; parce que j’ai espéré en vous, Seigneur, ne m’ôtez pas la vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0361.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Custodi me à laqueo, quem statuerunt mihi : et à scandalis operantium iniquitatem.",
+      "french": "Gardez-moi du piège qu’ils m’ont dressé ; et des embûches de ceux qui commettent l’iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0361.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Cadent in retiaculo ejus peccatores : singulariter sum ego donec transeam.",
+      "french": "Les pécheurs tomberont dans son filet. Pour moi, je suis seul, jusqu’à ce que je passe.",
+      "annotations": null,
+      "source_pages": [
+        "page_0361.json"
+      ]
+    }
+  ]
+}

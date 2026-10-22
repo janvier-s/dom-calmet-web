@@ -1,0 +1,238 @@
+{
+  "book": "Ecclésiaste",
+  "chapter": 7,
+  "chapter_summary": "Vaine curiosité. Bonne réputation. Utilité des corrections. Ris de l’insensé. Avantages que le sage peut tirer des richesses. Ne soyez ni trop juste, ni trop sage. Négliger les rapports, et les discours des hommes. La femme dangereuse. L’homme créé droit.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Quid necesse est homini majora se quærere : cùm ignoret quid conducat sibi in vita sua : numero dierum peregrinationis suæ, et tempore quod velut umbra præterit ? Aut quis ei poterit indicare quid post eum futurum sub sole sit ?",
+      "french": "Qu’est-il nécessaire à un homme de rechercher ce qui est au-dessus de lui, lui qui ignore ce qui lui est avantageux en sa vie, pendant les jours qu’il est étranger sur la terre, et durant le temps qui passe comme l’ombre ? Ou qui lui pourra découvrir ce qui doit être après lui sous le soleil ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0074.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Melius est nomen bonum, quàm unguenta pretiosa, et dies mortis, die nativitatis.",
+      "french": "La bonne réputation vaut mieux que les parfums précieux, et le jour de la mort, que celui de la naissance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Melius est ire ad domum luctûs, quam ad domum convivii : in illa enim finis cunctorum admonetur hominum, et vivens cogitat quid futurum sit.",
+      "french": "Il vaut mieux aller à une maison de deüil, qu’à une maison de festin : car dans celle-là on est averti de la fin de tous les hommes, et celui qui est vivant pense à ce qui lui doit arriver un jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Melior est ira risu : quia per tristitiam vultûs, corrigitur animus delinquentis.",
+      "french": "La colère vaut mieux que les ris ; parce que le cœur de celui qui péche est corrigé par la tristesse qui paraît sur le visage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quia sicut sonitus spinarum ardentium sub olla, sic risus stulti : sed et hoc vanitas.",
+      "french": "Car le ris de l’insensé est comme le bruit que font les épines, lorsqu’elles brûlent sous un pot : mais cela même est une vanité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Calumnia conturbat sapientem, et perdet robur cordis illius.",
+      "french": "La calomnie trouble le sage, et elle abattra la fermeté de son cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Melior est finis orationis, quàm principium. Melior est patiens arrogante.",
+      "french": "La fin d’un discours vaut mieux que le commencement. L’homme patient vaut mieux qu’un presomptueux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Ne sis velox ad irascendum : quia ira in sinu stulti requiescit.",
+      "french": "Ne soyez point promt à vous mettre en colère ; parce que la colère repose dans le sein de l’insensé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Ne dicas : Quid putas causæ est quod priora tempora meliora fuere quàm nunc sunt ? stulta enim est hujusmodi interrogatio.",
+      "french": "Ne dites point : D’où vient que les premiers temps ont été meilleurs que ceux d’aujourd’hui ? Car cette demande n’est pas sage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Sicut enim protegit sapientia, sic protegit pecunia : hoc autem plus habet eruditio et sapientia, quod vitam tribunt possessori suo.",
+      "french": "Car comme la sagesse protège, l’argent protège aussi ; mais la science et la sagesse ont cela de plus, qu’elles donnent la vie à celui qui les possède.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Considera opera Dei, quod nemo possit corrigere quem ille despexerit.",
+      "french": "Considérez les œuvres de Dieu, et que nul ne peut corriger celui qu’il méprise.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "In die bona fruere bonis, et malam diem præcave : sicut enim hanc, sic et illam fecit Deus, ut non invenias homo contra eum justas querimonias.",
+      "french": "Jouissez des biens au jour heureux, et prévoyez le mauvais jour : car Dieu a fait l’un comme l’autre, sans que l’homme ait aucun juste sujet de se plaindre de lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Hoc quoque vidi in diebus vanitatis meæ : justus perit in justitia sua, et impius multo vivit tempore in malitia sua.",
+      "french": "J’ai vu encore ceci pendant les jours de ma vanité : Le juste périt dans sa justice, et le méchant vit long-temps dans sa malice.",
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Noli esse justus multùm : neque plus sapias quàm necesse est, ne obstupescas.",
+      "french": "Ne soyez pas trop juste, et ne soyez pas plus sage qu’il n’est nécessaire, de peur que vous n’en deveniez stupide.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Ne impiè agas multum : et noli esse stultus, ne moriaris in tempore non tuo.",
+      "french": "Ne vous affermissez pas dans les actions criminelles, et ne devenez pas insensé, de peur que vous ne mouriez avant votre temps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Bonum est te sustentare justum ; sed et ab illo ne subtrahas manum tuam : quia qui timet Deum, nihil negligit.",
+      "french": "Il est bon que vous soûteniez le juste ; mais ne retirez pas aussi votre main de celui qui ne l’est pas ; car celui qui craint Dieu, ne neglige rien.",
+      "annotations": null,
+      "source_pages": [
+        "page_0086.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Non est enim homo justus in terra, qui faciat bonum, et non peccet.",
+      "french": "Car il n’y a point d’homme juste sur la terre qui fasse le bien, et ne péche point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Sed et cunctis sermonibus, qui dicuntur ; ne accommodes cor tuum ; ne fortè audias servum tuum maledicentem tibi.",
+      "french": "Que votre cœur ne se rende point attentif à toutes les paroles qui se disent ; de peur que vous n’entendiez votre serviteur parler mal de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0088.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Scit enim conscientia tua, quia et tu crebrò maledixisti aliis.",
+      "french": "Car vous savez en votre conscience que vous avez vous-même souvent parlé mal des autres.",
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Cuncta tentavi in sapientia. Dixi : Sapiens efficiar : et ipsa longiùs recessit à me.",
+      "french": "J’ai tenté tout pour acquérir la sagesse : J’ai dit en moi-même : Je deviendrai sage ; et la sagesse s’est retirée loin de moi.",
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Multò magis quàm erat ; et alta profunditas ! quis inveniet eam ?",
+      "french": "Encore beaucoup plus qu’elle n’était auparavant. O combien est grande sa profondeur ! et qui la pourra sonder ?",
+      "source_pages": [
+        "page_0089.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Lustravi universa animo meo, ut scirem, et considerarem, et quærerem sapientiam, et rationem : et ut cognoscerem impietatem stulti, et errorem imprudentium.",
+      "french": "Mon esprit a porté sa lumière sur toutes choses, pour savoir, pour considérer, pour chercher la sagesse, et les raisons de tout, et pour connaître la malice des insensés, et l’erreur des imprudents.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et inveni amariorem morte mulierem, quæ laqueus venatorum est, et sagitta cor ejus, vincula sunt manus illius. Qui placet Deo, effugiet illam : qui autem peccator est, capietur ab illa.",
+      "french": "Et j’ai reconnu que la femme est plus amère que la mort, qu’elle est le filet des chasseurs, que son cœur est un rets, et que ses mains sont des chaines. Celui qui est agréable à Dieu se sauvera d’elle : mais le pécheur s’y trouvera pris.",
+      "annotations": null,
+      "source_pages": [
+        "page_0090.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Ecce hoc inveni, dixit Ecclesiastes, unum et alterum, ut invenirem rationem,",
+      "french": "Voici ce que j’ai trouvé, dit l’Ecclésiaste, après avoir comparé une chose avec une autre pour trouver une raison,",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Quam adhuc quærit anima mea, et non inveni. Virum de mille unum reperi, mulierem ex omnibus non inveni.",
+      "french": "Que mon âme cherche encore sans l’avoir pu découvrir. Entre mille hommes j’en ai trouvé un ; mais de toutes les femmes, je n’en ai pas trouvé une seule.",
+      "annotations": null,
+      "source_pages": [
+        "page_0092.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Solummodò hoc inveni, quod fecerit Deus hominem rectum, et ipse se infinitis miscuerit quæstionibus. Quis talis ut sapiens est ? et quis cognovit solutionem verbi ?",
+      "french": "Ce que j’ai trouvé seulement, est que Dieu a créé l’homme droit et juste, et qu’il s’est lui-même embarassé dans une infinité de questions. Qui est semblable au sage ? et qui connaît l’éclaircissement de cette parole ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0093.json"
+      ]
+    }
+  ]
+}

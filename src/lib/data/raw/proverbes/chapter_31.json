@@ -1,0 +1,265 @@
+{
+  "book": "Proverbes",
+  "chapter": 31,
+  "chapter_summary": "Lamuël rapporte les instructions qu’il a reçues de sa mère. Fuir la débauche, et les femmes. Les Rois ne doivent point être adonnez au vin. Cette liqueur est pour ceux qui sont dans le deüil. Louanges de la femme forte. Son économie, sa sagesse, sa vigilance, son assiduité au travail. Fragilité de la beauté du corps.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Verba Lamuëlis Regis. Visio qua erudivit eum mater sua.",
+      "french": "Paroles de Lamuël Roi. Vision prophétique, par laquelle sa mère l’a instruit.",
+      "source_pages": [
+        "page_0390.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quid, dilecte mi, quid dilecte uteri mei, quid dilecte votorum meorum ?",
+      "french": "Que vous dirai-je, mon fils bien-aimé ? Que vous dirai-je, ô cher fruit de mes entrailles ? Que vous dirai-je, enfant chéri, et souhaité par tant de vœux ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0391.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Ne dederis mulieribus substantiam tuam, et divitias tuas ad delendos Reges.",
+      "french": "Ne donnez point votre bien aux femmes ; et n’employez point vos richesses pour perdre les Rois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0392.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Noli Regibus, ô Lamuël ! noli Regibus dare vinum : quia nullum secretum est ubi regnat ebrietas.",
+      "french": "Ne donnez point, ô Lamuel ! ne donnez point de vin aux Rois : parce qu’il n’y a nul secret où règne l’ivrognerie ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et ne fortè bibant, et obliviscantur judiciorum, et mutent causam filiorum pauperis.",
+      "french": "De peur qu’ils ne boivent, et qu’ils n’oublient la justice, et qu’ils ne blessent l’équité, dans la cause des enfants du pauvre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0394.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Date siceram mœrentibus, et vinum his qui amaro sunt animo.",
+      "french": "Donnez à ceux qui sont affligez une liqueur capable de les enivrer ; et du vin à ceux qui sont dans l’amertume du cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0394.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Bibant, et oblivifcantur egestatis suæ, et doloris sui non recordentur amplius.",
+      "french": "Qu’ils boivent, et qu’ils oublient leur pauvreté ; et qu’ils perdent pour jamais la mémoire de leurs douleurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0395.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Aperi os tuum muto, et causis omnium filiorum qui pertranseunt.",
+      "french": "Ouvrez la bouche pour le muët, et pour soûtenir la cause de tous les enfants qui ne font que passer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Aperi os tuum, decerne quod justum est, et judica inopem, et pauperem.",
+      "french": "Ouvrez votre bouche, ordonnez ce qui est juste, et rendez justice au pauvre, et à l’indigent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Mulierem fortem quis inveniet ? Procul, et de ultimis finibus pretium ejus.",
+      "french": "Qui trouvera une femme forte ? Elle est plus précieuse que ce qui s’apporte de l’extrémité du monde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Confidit in ea cor viri sui, et spoliis non indigebit.",
+      "french": "Le cœur de son mari met sa confiance en elle, et il ne manquera point de dépouilles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0398.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Reddet ei bonum, et non malum, omnibus diebus vitæ suæ.",
+      "french": "Elle lui rendra le bien, et non le mal, pendant tous les jours de sa vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0398.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Quæsivit lanam, et linum : et operata est consilio manuum suarum.",
+      "french": "Elle a cherché la laine, et le lin ; et elle a travaillé avec des mains sages, et ingénieuses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0398.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et de nocte surrexit, deditque prædam domesticis suis, et cibaria ancillis suis.",
+      "french": "Elle se leve lorsqu’il est encore nuit ; elle partage à manger à ses serviteurs, et à ses servantes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0400.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Consideravit agrum, et emit eum : de fructu manuum suarum plantavit vineam.",
+      "french": "Elle a consideré un champ, et l’a acheté : elle a planté une vigne du fruit de ses mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0401.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Accinxit fortitudine lumbos suos, et roboravit brachium suum.",
+      "french": "Elle a ceint ses reins de force, et elle a affermi son bras.",
+      "annotations": null,
+      "source_pages": [
+        "page_0401.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Gustavit, et vidit quia bona est negotiatio ejus : non extinguitur in nocte lucerna ejus.",
+      "french": "Elle a goûté, et elle a vu que son trafic est bon ; sa lampe ne s’éteindra point pendant la nuit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0401.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Manum suam misit ad fortia, et digiti ejus apprehenderunt fusum.",
+      "french": "Elle a porté sa main à des choses fortes, et ses doigts ont pris le fuseau.",
+      "annotations": null,
+      "source_pages": [
+        "page_0402.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Manum suam aperuit inopi, et palmas suas extendit ad pauperem.",
+      "french": "Elle a ouvert sa main à l’indigent, elle a étendu ses bras vers le pauvre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0402.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Non timebit domui suæ à frigoribus nivis : omnes enim domestici ejus vestiti sunt duplicibus.",
+      "french": "Elle ne craindra point pour sa maison le froid, ni la neige ; parce que tous les domestiques ont un double vêtement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0403.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Nobilis in portis vir ejus, quando sederit cum senatoribus terræ.",
+      "french": "Son mari sera illustre dans l’assemblée des Juges, lorsqu’il sera assis avec les Sénateurs de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0405.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Sidonem fecit, et vendidit, et cingulum tradidit Chananæo.",
+      "french": "Elle a fait des toiles fines, et les a vendües ; et elle a donné des ceintures au Chananéen.",
+      "annotations": null,
+      "source_pages": [
+        "page_0405.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Fortitudo et decor, indumentum ejus, et ridebit in die novißimo.",
+      "french": "Elle est revétuë de force, et de beauté ; et elle rira au dernier jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0406.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Os suum aperuit sapientiæ, et lex clementiæ in lingua ejus.",
+      "french": "Elle a ouvert sa bouche à la sagesse, et la loi de la clémence est sur sa langue.",
+      "annotations": null,
+      "source_pages": [
+        "page_0406.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Consideravit semitas domûs suæ, et panem otiosa non comedit.",
+      "french": "Elle a consideré les sentiers de sa maison ; et elle n’a point mangé son pain dans l’oisiveté.",
+      "source_pages": [
+        "page_0407.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Surrexerunt filii ejus, et beatissimam prædicaverunt : vir ejus, et laudavit eam.",
+      "french": "Ses enfants se sont levez, et ont publié qu’elle était très heureuse : son mari s’est levé, et l’a louée.",
+      "source_pages": [
+        "page_0407.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Multæ filiæ congregaverunt divitias : tu supergressa es universas.",
+      "french": "Beaucoup de filles ont amassé des richesses ; mais vous les avez toutes surpassées.",
+      "source_pages": [
+        "page_0407.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Fallax gratia, et vana est pulchritudo : mulier timens Dominum, ipsa laudabitur.",
+      "french": "La grâce est trompeuse, et la beauté est vaine : la femme qui craint le Seigneur, est celle qui sera louée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0408.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Date ei de fructu manuum suarum, et laudent eam in portis opera ejus.",
+      "french": "Donnez lui du fruit de ses mains ; et que ses propres œuvres la louent dans l’assemblée des Juges.",
+      "annotations": null,
+      "source_pages": [
+        "page_0408.json"
+      ]
+    }
+  ]
+}

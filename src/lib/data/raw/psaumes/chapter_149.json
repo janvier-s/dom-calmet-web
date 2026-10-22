@@ -1,0 +1,85 @@
+{
+  "book": "Psaumes",
+  "chapter": 149,
+  "chapter_summary": "Israël, louez le Seigneur, qui doit vous combler de gloire, et de bonheur, et humilier vos ennemis, et les réduire sous vos pieds.\n\nAlleluia.\n\nI Louez Dieu.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Cantate Domino canticum novum : laus ejus in Ecclesia sanctorum.",
+      "french": "Hantez au Seigneur un nouveau cantique : que sa louange retentisse dans l’assemblée des Saints.",
+      "source_pages": [
+        "page_0413.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Lætetur Israël in eo, qui fecit eum : et filii Sion exultent in Rege suo.",
+      "french": "Qu’Israël se réjouïsse en celui qui l’a créé : que les enfants de Sion tressaillent de joie en celui qui est leur Roi.",
+      "source_pages": [
+        "page_0413.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Laudent nomen ejus in choro : in tympano et psalterio psallant ei :",
+      "french": "Qu’ils louent son nom par de saints concerts : qu’ils célébrent ses louanges avec le tambour, et avec l’instrument à dix cordes :",
+      "annotations": null,
+      "source_pages": [
+        "page_0414.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quia beneplacitum est Domino in populo suo : et exaltabit mansuetos in salutem.",
+      "french": "Parce que le Seigneur a mis son plaisir en son peuple ; et qu’il élevera ceux qui sont doux, et les sauvera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0414.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Exultabunt Sancti in gloria : lætabuntur in cubilibus suis.",
+      "french": "Les Saints seront dans la joie, se voyant comblez de gloire : ils se réjouiront dans le repos de leurs lits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0414.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Exaltationes Dei in gutture eorum : et gladii ancipites in manibus eorum :",
+      "french": "Les louanges de Dieu seront toujours dans leur bouche ; et ils auront dans leurs mains des épées à deux tranchants :",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Ad faciendam vindictam in nationibus, increpationes in populis.",
+      "french": "Pour se venger des nations, et châtier les peuples :",
+      "annotations": null,
+      "source_pages": [
+        "page_0415.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Ad alligandos Reges eorum in compedibus : et nobiles eorum in manicis ferreis.",
+      "french": "Pour mettre leurs Rois dans les chaînes ; et les Grands d’entr’eux dans les liens.",
+      "source_pages": [
+        "page_0416.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ut faciant in eis judicium conscriptum : gloria haec est omnibus sanctis ejus. Alleluia.",
+      "french": "Et pour exercer ainsi contr’eux le jugement qui est marqué, et prescrit. Telle est la gloire de tous ses Saints. Alleluia.",
+      "source_pages": [
+        "page_0416.json"
+      ]
+    }
+  ]
+}

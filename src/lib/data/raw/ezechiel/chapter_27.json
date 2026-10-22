@@ -1,0 +1,332 @@
+{
+  "book": "Ézéchiel",
+  "chapter": 27,
+  "chapter_summary": "Cantique lugubre sur la chute de Tyr. Description de ses grandes richesses, et de son négoce.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Et factum est verbum Domini ad me, dicens :",
+      "french": "Le Seigneur me parla encore, et me dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0307.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Tu ergo, fili hominis, assume super Tyrum lamentum.",
+      "french": "Fils de l’homme, faites un cantique lugubre sur la chute de Tyr :",
+      "annotations": null,
+      "source_pages": [
+        "page_0307.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et dices Tyro, quæ habitat in introitu maris, negotiationi populorum ad insulas multas : Hæc dicit Dominus Deus : O Tyre, tu dixisti : Perfecti decoris ego sum.",
+      "french": "Et vous direz à cette ville, qui est située à l’entrée de la mer, qui est le siège du commerce, et du trafic des peuples de tant d’îles différentes : Voici ce que dit le Seigneur nostre Dieu : O Tyr, vous avez dit en vous-même : Je suis une ville d’une beauté parfaite,",
+      "annotations": null,
+      "source_pages": [
+        "page_0308.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et in corde maris sita. Finitimi tui qui te ædificaverunt, impleverunt decorem tuum.",
+      "french": "Et je suis placée au milieu de la mer. Vos voisins qui vous ont bâtie, n’ont rien oublié pour vous embellir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0308.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Abietibus de Sanir extruxerant te cum omnibus tabulatis maris : cedrum de Libano tulerunt, ut facerent tibi malum.",
+      "french": "Ils ont fait tout le corps, et les divers étages de votre vaisseau, de sapins de Sanir. Ils ont pris un cèdre du Liban pour vous faire un mât.",
+      "annotations": null,
+      "source_pages": [
+        "page_0308.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Quercus de Basan dolaverunt in remos tuos : et transtra tua fecerunt tibi ex ebore Indico, et præteriola de insulis Italiæ.",
+      "french": "Ils ont poli les chênes de Basan pour faire vos rames. Ils ont employé l’ivoire des Indes pour faire vos bancs, et ce qui vient des îles de l’Italie, pour faire vos chambres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0309.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Byssus varia de Ægypto, texta est tibi in velum, ut poneretur in malo : hyacinthus et purpura de insulis Elisa facta sunt operimentum tuum.",
+      "french": "Le fin lin d’Egypte tissu en broderie, à composé la voile qui a été suspenduë à votre mât : l’hyacinthe, et la pourpre des îles d’Elisa ont fait votre pavillon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0310.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Habitatores Sidonis et Aradii fuerunt remiges tui : sapientes tui, Tyre, facti sunt gubernatores tui.",
+      "french": "Les habitants de Sidon, et d’Arad ont été vos rameurs ; et vos sages, ô Tyr, sont devenus vos pilotes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0311.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Senes Giblii, et prudentes ejus, habuerunt nautas ad ministerium variæ supellectilis tuæ : omnes naves maris, et nautæ earum, fuerunt in populo negotiationis tuæ.",
+      "french": "Les vieillards de Gébal, les plus habiles d’entr’eux ont donné leurs mariniers pour vous servir dans tout l’équipage de votre vaisseau. Tous les navires de la mer, et tous les mariniers ont été engagez dans votre commerce, et votre trafic.",
+      "annotations": null,
+      "source_pages": [
+        "page_0312.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Persæ, et Lydii, et Lybies erant in exercitu tuo viri bellatores tui : clypeum, et galeam suspenderunt in te pro ornatu tuo.",
+      "french": "Les Perses, ceux de Lydie, et ceux de Libye étaient vos gens de guerre dans votre armée, et ils ont suspendu dans vous leurs boucliers, et leurs casques, pour vous servir d’ornement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0312.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Filii Aradii cum exercitu tuo erant super muros tuos in circuitu : sed et Pigmæi, qui erant in turribus tuis, pharetras suas suspenderunt in muris tuis, per gyrum : ipsi compleverunt pulchritudinem tuam.",
+      "french": "Les Aradiens avec leurs troupes étaient tout autour de vos murailles ; et les Pygmées qui étaient sur vos tours, ont suspendu leurs carquais le long de vos murs, afin qu’il ne manquât rien à votre beauté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0313.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Carbaginenses negotiatores tui, à multitudine cunctarum divitiarum, argento, ferro, stanno, plumbóque, repleverunt nundinas tuas.",
+      "french": "Les Carthaginais trafiquaient avec vous, en vous apportant toutes sortes de richesses, et remplissaient vos marchez d’argent, de fer, d’étain, et de plomb.",
+      "annotations": null,
+      "source_pages": [
+        "page_0314.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Gracia, Thubal, et Mosoch, ipsi institores tui : mancipia, et vasa ærea advexerunt populo tuo.",
+      "french": "La Grèce, Thubal, et Mosoch entretenaient aussi votre commerce, et amenaient à votre peuple des esclaves, et des vases d’airain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0314.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "De domo Thogorma equos, et equites, et mulos adduxerunt ad forum tuum.",
+      "french": "On a amené de Thogorma dans vos marchez des chevaux, des cavaliers, et des mulets.",
+      "annotations": null,
+      "source_pages": [
+        "page_0314.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Filii Dedan negotiatores tui : insulæ multæ, negotiatio manûs tuæ : dentes eburneos, et hebeninos commutaverunt in pretio tuo.",
+      "french": "Les enfants de Dédan ont trafiqué avec vous ; votre commerce s’est étendu en plusieurs îles, et ils vous ont donné en échange de vos marchandises, des dents d’ivoire, et de l’ébène.",
+      "annotations": null,
+      "source_pages": [
+        "page_0315.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Syrus negotiator tuus propter multitudinem operum tuorum, gemmam, et purpuram, et scutulata, et sericum, et chodchod proposuerunt in mercatu tuo.",
+      "french": "Les Syriens ont été engagez dans votre trafic, à cause de la multitude de vos ouvrages ; et ils ont exposé en vente dans vos marchez des perles, de la pourpre, des toiles ouvragées, du byssus, de la soye, et toutes sortes de marchandises précieuses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0316.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Juda, et terra Israel ipsi institores tui in frumento primo, balsamum, et mel, et oleum, et resinam proposuerunt in nundinis tuis.",
+      "french": "Les peuples de Juda, et d’Israël ont entretenu aussi leur commerce avec vous, et ils ont apporté dans vos marchez le plus pur froment, le baume, le miel, l’huile, et la résine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0318.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Damascenus negotiator tuus in multitudine operum tuorum, in multitudine diversarum opum, in vino pingui, in lanis coloris optimi.",
+      "french": "Damas trafiquait avec vous, et en échange de vos ouvrages si différents, il vous apportait de grandes richesses, du vin excellent, et des laines d’une couleur vive, et éclatante.",
+      "annotations": null,
+      "source_pages": [
+        "page_0319.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Dan, et Græcia, et Mosel, in nundinis tuis proposuerunt ferrum fabrefactum : staste et calamus in negotiatione tua.",
+      "french": "Dan, la Grèce, et Mosel, ont exposé en vente dans vos marchez des ouvrages de fer, de la myrrhe, et des cannes d’excellente odeur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0319.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Dedan institores tui in tapetibus ad sedendum.",
+      "french": "Ceux de Dédan trafiquaient avec vous avec des tapis à s’asseoir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Arabia, et universi Principes Cedar, ipsi negotiatores manûs tuæ : cum agnis, et arietibus, et hædis venerunt ad te negotiatores tui.",
+      "french": "L’Arabie, et tous les Princes de Cédar étaient aussi engagez dans votre commerce, et ils venaient vous amener leurs agneaux, leurs béliers, et leurs boucs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Venditores Saba, et Rema, ipsi negotiatores tui : cum universis primis aromatibus, et lapide pretioso, et auro, quod proposuerunt in mercatu tuo.",
+      "french": "Saba et Réma venaient aussi vendre et acheter avec vous, et exposaient dans vos marchez tous les plus excellents parfums, les pierres précieuses, et l’or.",
+      "annotations": null,
+      "source_pages": [
+        "page_0321.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Haran, et Chene, et Eden, negotiatores tui : Saba, Assur, et Chelmad, venditores tui.",
+      "french": "Haran, Chéné, et Eden entraient pareillement dans votre trafic : Saba, Assur, et Chelmad venaient vous vendre leurs marchandises.",
+      "annotations": null,
+      "source_pages": [
+        "page_0322.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Ipsi negotiatores tui multifariam, involucris hyacinthi, et polymitorum, gazárumque pretiosarum, quæ obvolutæ, et astrictæ erant funibus : cedros quoque habebat in negotiationibus tuis.",
+      "french": "Ils entretenaient un trafic de diverses choses avec vous, et ils vous apportaient des balles d’hyacinthe, et d’ouvrages en broderie, de riches trésors, qui étaient enveloppez, et liez de cordes ; et ils trafiquaient encore avec vous pour des bois de cèdre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0322.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Naves maris, principes tui in negotiatione tua : et repleta es, et glorificata nimis in corde maris.",
+      "french": "Les vaisseaux ont entretenu votre principal commerce ; vous avez été comblée de biens, et élevée dans la plus haute gloire au milieu de la mer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "In aquis multis adduxerunt te remiges tui : ventus auster contrivit te in corde maris.",
+      "french": "Vos rameurs vous ont conduite sur les grandes eaux ; mais le vent du midi vous a brisée au milieu de la mer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Divitiæ tuæ, et thesauri tui, et multiplex instrumentum tuum, nautæ tui, et gubernatores tui, qui tenebant supellectilem tuam, et populo tuo præerant : viri quoque bellatores tui, qui erant in te, cum universa multitudine tua, quæ est in medio tui : cadent in corde maris in die ruinæ tuæ.",
+      "french": "Vos richesses, vos trésors, votre équipage si grand, et si magnifique ; vos mariniers, et vos pilotes, qui disposaient de tout ce qui était à vous : vos gens de guerre qui combattaient pour vous, avec toute la multitude de peuple qui était au milieu de vous, tomberont tous ensemble au fond de la mer, au jour de votre ruine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0324.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "A sonitu clamoris gubernatorum tuorum, conturbabuntur classes.",
+      "french": "Les cris, et les plaintes de vos pilotes épouvanteront les flottes entières.",
+      "annotations": null,
+      "source_pages": [
+        "page_0325.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et descendent de navibus suis omnes qui tenebant remum : nautæ et universi gubernatores maris in terra stabunt :",
+      "french": "Tous ceux qui tenaient la rame descendront de leurs vaisseaux ; les mariniers avec tous les pilotes se tiendront sur terre ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0325.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et ejulabunt super te voce magnâ, et clamabunt amarè : et superjacient pulverem capitibus suis, et cinere conspergentur.",
+      "french": "Ils déploreront vos maux avec de grandes plaintes ; ils crieront dans leur douleur ; ils se jetteront de la poussière sur la tête, ils se couvriront de cendre ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0325.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Et radent super te calvitium, et accingentur ciliciis : et plorabunt te in amaritudine animæ, ploratu amarissimo.",
+      "french": "Ils se raseront les cheveux, se vêtiront de cilices, et dans l’amertume de leur cœur, ils verseront des larmes sur vous, avec un regret sensible, et cuisant :",
+      "annotations": null,
+      "source_pages": [
+        "page_0325.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et assument super te carmen lugubre, et plangent te : Quæ est ut Tyrus, et quæ obmutuit in medio maris ?",
+      "french": "Ils feront sur vous des plaintes lugubres ; ils déploreront votre malheur, en di-sant : Où trouvera-t’on une ville semblable à Tyr, qui est devenuë muette, et qui a été ensevelie au milieu de la mer ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0325.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Quæ in exitu negotiationum tuarum de mari implesti populos multos : in multitudine divitiarum tuarum, et populorum tuorum, ditasti Reges terræ.",
+      "french": "O Tyr, qui par votre grand commerce sur la mer avez comblé de biens tant de nations differentes, qui par la multitude de vos richesses, et par l’abondance de vos peuples, avez enrichi les Rois de la terre :",
+      "annotations": null,
+      "source_pages": [
+        "page_0326.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Nunc contrita es à mari, in profundis aquarum opes tuæ, et omnis multitudo tua, quæ erat in medio tui, ceciderunt.",
+      "french": "La mer maintenant vous a brisée, vos richesses sont au fond de ses eaux ; et toute cette multitude de peuple qui était au milieu de vous, est tombée, et périe avec vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0326.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Universi habitatores insularum obstupuerunt super te : et Reges earum omnes tempestate perculsi mutaverunt vultus.",
+      "french": "Vous êtes devenuë un sujet de surprise, et d’étonnement à tous les habitants des îles ; et tous leurs Rois abattus par cette tempête, ont changé de visage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0326.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Negotiatores populorum sibilaverunt super te : ad nihilum deducta es, et non eris usque in perpetuum.",
+      "french": "Les Marchands de tous les peuples vous ont considerée comme l’objet de leurs railleries, et de leurs insultes ; vous êtes réduite dans le néant, et vous ne serez jamais rétablie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0327.json"
+      ]
+    }
+  ]
+}

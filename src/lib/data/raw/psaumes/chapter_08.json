@@ -1,0 +1,96 @@
+{
+  "book": "Psaumes",
+  "chapter": 8,
+  "chapter_summary": "Œuvres admirables de Dieu. Sa bonté et sa miséricorde infinie envers nous. Toutes les créatures soumises à l’homme.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, pro torcularibus. Psalmus David.",
+      "french": "Psaume de David pour la fin, sur les Pressoirs.",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0150.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Domine, Dominus noster, quàm admirabile est nomen tuum in universa terra !",
+      "french": "Seigneur, notre souverain maître ; que la gloire de votre nom paraît admirable dans toute la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0150.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quoniam elevata est magnificentia tua super Cœlos.",
+      "french": "Car votre grandeur est élevée au-dessus des Cieux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0151.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Ex ore infantium et lactentium, perfecisti laudem propter inimicos tuos, ut destruas inimicum, et ultorem.",
+      "french": "Vous avez formé dans la bouche des enfants, et de ceux qui sont encore à la mamelle, une louange parfaite, pour confondre vos adversaires, et pour détruire l’ennemi, et celui qui veut se venger.",
+      "annotations": null,
+      "source_pages": [
+        "page_0152.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quoniam videbo cælos tuos, opera digitorum tuorum, lunam et stellas quæ tu fundasti.",
+      "french": "Quand je considère vos cieux, qui sont les ouvrages de vos doigts ; la lune et les étoiles, que vous avez affermies ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0154.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quid est homo, quod memor es ejus ; aut filius hominis, quoniam visitas eum ?",
+      "french": "Je m’écrie : Qu’est-ce que l’homme ; pour mériter que vous vous souveniez de lui ; ou le fils de l’homme, pour être digne que vous le visitiez ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0155.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Minuisti eum paulo minùs ab Angelis ; gloriâ et honore coronasti eum, et constituisti eum super opera manuum tuarum.",
+      "french": "Vous ne l’avez mis qu’un peu au-dessous des Anges, vous l’avez couronné de gloire et d’honneur, et vous l’avez établi sur les ouvrages de vos mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0156.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Omnia subjecisti sub pedibus ejus ; oves et boves universas, insuper et peccora campi ;",
+      "french": "Vous avez mis toutes choses sous ses pieds, et les lui avez assujetties, toutes les brebis, tous les bœufs, et même les bêtes des champs.",
+      "source_pages": [
+        "page_0157.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Volucres cæli, et pisces maris, qui perambulant semitas maris.",
+      "french": "Les oiseaux du ciel, et les poissons de la mer, qui se promènent dans les sentiers de l’océan.",
+      "source_pages": [
+        "page_0157.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Domine Dominus noster, quàm admirabile est nomen tuum in universa terra !",
+      "french": "Seigneur, notre souverain maître, que la gloire de votre nom paraît admirable dans toute la terre !",
+      "annotations": null,
+      "source_pages": [
+        "page_0158.json"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "book": "Daniel",
+  "chapter": 4,
+  "chapter_summary": "Songe de Nabuchodonosor, d’un grand arbre abattu. Daniel le lui explique. Le Roi demeure sept ans avec les bêtes. Il reconnaît la main de Dieu, et est rétabli dans son Royaume.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Ego Nabuchodonosor quietus eram in domo mea, et florens in palatio meo :",
+      "french": "Moi Nabuchodonosor, étant en paix dans ma maison, et plein de gloire dans mon palais :",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Somnium vidi, quod perterruit me : et cogitationes meæ in strato meo, et visiones capitis mei, conturbaverunt me.",
+      "french": "J’ai vu un songe qui m’a effrayé, et étant dans mon lit, mes pensées et les images qui se présentaient à mon imagination, m’épouvantérent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et per me propositum est decretum ut introducerentur in conspectu meo cuncti sapientes Babylonis, et ut solutionem somnii indicarent mihi.",
+      "french": "C’est pourquoi j’ordonnai qu’on fist venir devant moi tous les Sages de Babylone, afin qu’ils me donnassent l’explication de mon songe.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Tunc ingrediebantur Arioli, Magi, Chaldæi, et Aruspices, et somnium narravi in conspectu eorum : et solutionem ejus non indicaverunt mihi.",
+      "french": "Alors les devins, les Mages, les Chaldéens, et les Augures étant venus devant moi, je leur racontai mon songe, et ils ne purent me l’expliquer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0104.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Donec collega ingressus est in conspectu meo Daniel, cui nomen Balthasar secundùm nomen Dei mei, qui habet spiritum Deorum sanctorum in semetipso : et somnium coram ipso locutus sum.",
+      "french": "Enfin, Daniel notre collégue parut devant nous, lui à qui j’ai donné le nom de Balthasar, selon le nom de mon Dieu, et qui est rempli de l’esprit des Dieux saints. Je lui racontai mon songe, et je lui dis :",
+      "annotations": null,
+      "source_pages": [
+        "page_0105.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Balthasar, princeps ariolorum, quoniam ego scio quòd spiritum sanctorum Deorum habeas in te, et omne sacramentum non est impossibile tibi : Visiones somniorum meorum, quas vidi, et solutionem earum narra.",
+      "french": "Balthasar, prince des Devins, comme je sai que vous êtes rempli de l’esprit des Dieux saints, et qu’il n’y a point de secret que vous ne puissiez pénétrer : dites-moi ce que j’ai vu en songe, et donnez-m’en l’explication.",
+      "annotations": null,
+      "source_pages": [
+        "page_0106.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Visio capitis mei in cubili meo : Videbam, et ecce arbor in medio terræ, et altitudo ejus nimia.",
+      "french": "Voici ce qui m’a été représenté en vision, lorsque j’étais dans mon lit : Il me semblait que je voyais un arbre au milieu de la terre, qui était excessivement haut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0106.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Magna arbor, et fortis : et proceritas ejus contingens cœlum : aspectus illius erat usque ad terminos universæ terræ.",
+      "french": "C’était un arbre grand et fort, dont la hauteur allait jusqu’au ciel, et qui paraissait s’étendre jusque aux extrémités du monde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Folia ejus pulcherrima, et fructus ejus nimius : et esca universorum in ea, subter eam habitabant animalia, et bestia, et in ramis ejus conversabantur volucres cæli : et ex ea vescebatur omnis caro.",
+      "french": "Ses feuilles étaient très belles, et il était chargé de fruits, capables de nourrir toutes choses : les bêtes privées, et les bêtes sauvages habitaient dessous, les oiseaux du ciel demeuraient sur ses branches, et tout ce qui avait vie, y trouvait de quoi se nourrir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Videbam in visione capitis mei super stratum meum : et ecce vigil, et sanctus de cœlo descendit.",
+      "french": "J’eus cette vision étant sur mon lit. Alors un Veillant, et un saint, descendit du ciel,",
+      "annotations": null,
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Clamavit fortiter, et sic ait : Succidite arborem, et præcidite ramos ejus : excutite folia ejus, et dispergite fructus ejus : fugiant bestiæ quæ subter eam sunt, et volucres de ramis ejus.",
+      "french": "Et cria d’une voix forte : Abattez l’arbre par le pied, coupez-en les branches, faites-en tomber les feuilles, et jetez-en les fruits : que les bêtes qui étaient dessous s’enfuyent, et que les oiseaux s’envolent de dessus ses branches.",
+      "annotations": null,
+      "source_pages": [
+        "page_0107.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Verumtamen germen radicum ejus in terra sinite, et alligetur vinculo ferreo, et æreo, in herbis quæ foris sunt, et rore cœli tingatur, et cum feris pars ejus in herba terræ.",
+      "french": "Laissez-en néanmoins en terre la tige avec ses racines ; qu’il soit lié avec des chaînes de fer, et d’airain, parmi les herbes des champs ; qu’il soit mouillé de la rosée du ciel, et qu’il paisse avec les bêtes sauvages l’herbe de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Cor ejus ab humano commmutetur, et cor feræ detur ei : et septem tempora mutentur super eum.",
+      "french": "Qu’on lui ôte son cœur d’homme, et qu’on lui donne un cœur de bête ; et que sept temps se passent sur lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0108.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "In sententia vigilum decretum est, et sermo sanctorum, et petitio : donec cognoscant viventes, quoniam dominatur Excelsus in regno hominum : et cui-cumque voluerit, dabit illud, et humillimum hominem constituet super eum.",
+      "french": "C’est ce qui a été ordonné par les Veillants ; c’est l’ordre et la demande des Saints ; jusqu’à ce que les vivants connaissent que c’est le Très-Haut qui a la domination sur les Royaumes des hommes, qui les donne à qui il lui plaît, et qui établit Roi quand il veut le dernier d’entre les hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Hoc somnium vidi, ego Nabuchodonosor Rex : Tu ergo Balthasar interpretationem narra festinus : quia omnes sapientes regni mei non queunt solutionem edicere mihi : tu autem potes, quia spiritus Deorum sanctorum in te est.",
+      "french": "Voilà le songe que j’ai eu, moi Nabuchodonosor Roi. Hâtez-vous donc, Balthasar, de m’en donner l’explication : car tous les Sages de mon Royaume n’ont pu me l’interpréter : mais pour vous, vous le pouvez, parce que l’esprit des Dieux saints est en vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Tunc Daniel, cujus nomen Balthasar, cœpit intra semetipsum tacitus cogitare quasi unâ horâ : et cogitationes ejus conturbabant eum. Respondens autem Rex, ait : Balthasar, somnium et interpretatio ejus non conturbent te. Respondit Balthasar, et dixit : Domine mi, somnium his qui te oderunt, et interpretatio ejus hostibus tuis sit.",
+      "french": "Alors Daniel, surnommé Balthasar, commença à penser en lui-même, sans rien dire, pendant près d’une heure, et les pensées qui lui venaient lui jettaient le trouble dans l’esprit. Mais le Roi prenant la parole, lui dit : Balthasar, que ce songe ni l’interprétation que vous avez à lui donner ne vous troublent point. Balthasar lui répondit : Seigneur, que le songe retourne sur ceux qui vous haïssent, et son interprétation sur vos ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0109.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Arborem quam vidisti sublimem atque robustam, cujus altitudo pertingit ad cœlum, et aspectus illius in omnem terram,",
+      "french": "Vous avez vu un arbre qui était trèsgrand, et très fort, dont la hauteur allait jusqu’au ciel, qui semblait s’étendre sur toute la terre ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et rami ejus pulcherrimi, et fructus ejus nimius, et esca omnium in ea, subter eam habitantes bestiæ agri, et in ramis ejus commorantes aves cœli.",
+      "french": "Ses branches étaient très belles ; il était chargé de fruits, et tous y trouvaient de quoi se nourrir : les bêtes de la campagne habitaient dessous, et les oiseaux du ciel se retiraient sur ses branches.",
+      "annotations": null,
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Tu es Rex, qui magnificatus es, et invaluisti : et magnitudo tua crevit, et pervenit usque ad cœlum, et potestas tua in terminos universæ terræ.",
+      "french": "Cet arbre, ô Roi, c’est vous-même ; qui êtes devenu si grand, et si puissant ; car votre grandeur s’est acruë et élevée jusqu’au ciel ; votre puissance s’est étendue jusqu’aux extrémités du monde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Quòd autem vidit, Rex ; vigilem, et sanctum descendere de cœli, et dicere : Succidite arborem, et dissipate illam : attamen germen radicum ejus in terra dimittite, et vinciatur ferro, et ære in herbis foris, et rore cœli conspergatur, et cum feris sit pabulum ejus, donec septem tempora mutentur super eum.",
+      "french": "Vous avez vu ensuite, ô Roi, que le Veillant et le Saint, est descendu du ciel, et qu’il a dit : Abattez cet arbre, coupez-en les branches ; réservez-en néanmoins en terre la tige avec les racines ; qu’il soit lié avec le fer, et l’airain parmi les herbes des champs ; qu’il soit trempé par la rosée du ciel, et qu’il paisse avec les bêtes sauvages, jusqu’à ce que sept temps saient passez sur lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Hæc est interpretatio sententiæ Altissimi, quæ pervenit super Dominum meum Regem.",
+      "french": "Et voici l’interprétation de la sentence du Très-Haut, qui a été prononcée contre le Roi mon Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Ejicient te ab hominibus, et cum bestiis ferisque erit habitatio tua, et fœnum ut bos comedes : et rore cœli infunderis : septem quoque tempora mutabuntur super te, donec scias quòd dominetur Excelsus super regnum hominum, et cuicumque voluerit det illud.",
+      "french": "Vous serez chassé de la compagnie des hommes, et vous habiterez avec les animaux, et les bêtes sauvages ; vous mangerez du foin, comme un bœuf ; vous serez trempé de la rosée du ciel ; sept temps passeront sur vous, jusqu’à ce que vous reconnoissiez que le Très-Haut tient sous sa domination les Royaumes des hommes, et qu’il les donne à qui il lui plaît.",
+      "annotations": null,
+      "source_pages": [
+        "page_0110.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Quòd autem præcepit ut relinqueretur germen radicum ejus, id est arboris : regnum tuum tibi manebit, postquam cognoveris potestatem esse cœlestem.",
+      "french": "Quant à ce qui a été commandé, qu’on réservât la tige de l’arbre avec ses racines, cela vous marque que votre Royaume vous demeurera, après que vous aurez reconnu que toute puissance vient du ciel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Quam ob rem, Rex, consilium meum placeat tibi, et peccata tua eleemosynis redime, et iniquitates tuas misericordiis pauperum : forsitan ignoscet delictis tuis.",
+      "french": "C’est pourquoi suivez, ô Roi, le conseil que je vous donne. Rachetez vos péchés par les aumônes, et vos iniquités par les œuvres de miséricorde envers les pauvres : peut-être que le Seigneur vous pardonnera vos offenses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0111.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Omnia hæc venerunt super Nabuchodonosor Regem.",
+      "french": "Toutes ces choses arrivérent depuis au Roi Nabuchodonosor.",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Post finem mensium duodecim, in aula Babylonis deambulabat.",
+      "french": "Douze mois après il se promenait dans le palais de Babylone.",
+      "annotations": null,
+      "source_pages": [
+        "page_0112.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Responditque Rex, et ait : Nónne hæc est Babylon magna, quam ego ædificavi in domum regni : in robore fortitudinis meæ, et in gloria decoris mei ?",
+      "french": "Et il commença à dire : N’est-ce pas là cette grande Babylone, dont j’ai fait le siège de mon Royaume, que j’ai bâtie dans la grandeur de ma puissance, et dans l’éclat de ma gloire ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Cùmque sermo adhuc esset in ore Regis, vox de cælo ruit : Tibi dicitur, Nabuchodonosor Rex : Regnum tuum transibit à te.",
+      "french": "A peine le Roi avait prononcé cette parole, qu’on entendit cette voix du ciel : Voici ce qui vous est annoncé, ô Nabuchodonosor Roi ; votre Royaume passera en d’autres mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et ab hominibus ejicient te, et cum bestiis, et feris erit habitatio tua : fœnum quasi bos comedes, et septem tempora mutabuntur super te, donec scias quod dominetur Excelsus in regno hominum, et cuicumque voluerit, det illud.",
+      "french": "Vous serez chassé de la compagnie des hommes ; vous habiterez avec les animaux, et avec les bêtes farouches ; vous mangerez du foin, comme un bœuf ; et sept temps se passeront sur vous, jusqu’à ce que vous reconnoissiez que le Très-Haut a un pouvoir absolu sur les Royaumes des hommes, et qu’il les donne à qui il lui plaît.",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Eâdem horâ sermo completus est super Nabuchodonosor, et ex hominibus abjectus est, et fœnum ut bos comedit, et rore cæli corpus ejus infectum est, donec capilli ejus in similitudinem aquilarum crescerent, et ungues ejus quasi avium.",
+      "french": "Cette parole fut accomplie à la même heure en la personne de Nabuchodonosor. Il fut chassé de la compagnie des hommes ; il mangea du foin, comme un bœuf ; son corps fut trempé de la rosée du ciel, en sorte que les cheveux lui crurent comme les plumes d’un aigle, et que ses ongles devinrent comme les griffes des oiseaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0113.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Igitur post finem dierum : ego Nabuchodonosor oculos meos ad cœlum levavi, et sensus meus redditus est mihi : et Altissimo benedixi, et viventem in sempiternum laudavi, et glorificavi : quia potestas ejus potestas sempiterna, et regnum ejus in generationem et generationem.",
+      "french": "Après que le temps marqué de Dieu eût été accompli, moi Nabuchodonosor, j’élevai les yeux au ciel ; le sens, et l’esprit me furent rendus. je bénis le Très-Haut, je louai et je glorifiai celui qui vit éternellement, parce que sa puissance est une puissance éternelle, et que son Royaume s’étend dans la succession de tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0114.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et omnes habitatores terræ apud eum in nihilum reputati funt : juxta voluntatem enim fuam facit tam in virtutibus cœli quàm in habitatoribus terræ : et non eft qui refiftat manui ejus, et dicat ei : Quare fecifti ?",
+      "french": "Tous les habitants de la terre sont devant lui comme un néant ; il fait tout ce qu’il lui plaît, soit dans les vertus célestes, soit dans ceux qui sont sur la terre ; et nul ne peut résister à sa main puissante, ni lui dire : Pourquoi avez-vous fait ainsi ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0116.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "In ipso tempore sensus meus reversus eft ad me, et ad honorem regni mei decoremque perueni : et figura mea reversa eft ad me : et optimates mei, et magiftratus mei requifierunt me, et in regno meo reftitutus fum, et magnificentia amplior addita eft mihi.",
+      "french": "En ce même temps le sens me revint, et je recouvrai tout l’éclat, et toute la gloire de la dignité royale : ma première forme me fut renduë ; les grands de ma Cour, et mes principaux officiers me vinrent chercher. Je fus rétabli dans mon Royaume, et je devins plus grand que jamais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0116.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Nunc igitur ego Nabuchodonosor laudo, et magnifico, et glorifico Regem cœli : quia omnia opera ejus vera, et viæ ejus judicia, et gradientes in superbia poteft humiliare.",
+      "french": "Maintenant donc, moi Nabuchodonosor, je loue le Roi du Ciel, et je publie sa grandeur, et sa gloire ; parce que toutes ses œuvres sont fondées dans la vérité, que toutes ses voies sont pleines de justice, et qu’il peut humilier les superbes quand il lui plaît.",
+      "annotations": null,
+      "source_pages": [
+        "page_0116.json"
+      ]
+    }
+  ]
+}

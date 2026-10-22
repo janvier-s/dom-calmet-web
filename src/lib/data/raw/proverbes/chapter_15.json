@@ -1,0 +1,294 @@
+{
+  "book": "Proverbes",
+  "chapter": 15,
+  "chapter_summary": "Réponse sage. Correction utile. Stabilité de la maison du juste. Victimes des impies. Pauvreté contente. Paresseux, insensé, avare, impie, opposez au juste, au sage, au diligent, à l’homme de bien.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Responsio mollis frangit iram : sermo durus suscitat furorem.",
+      "french": "La parole douce rompt la colère ; la parole dure excite la fureur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Lingua sapientium ornat scientiam : os satuorum ebullit stultitiam.",
+      "french": "La langue des sages orne la science ; la bouche des insensés se répand en folie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "In omni loco oculi Domini contemplantur bonos, et malos.",
+      "french": "Les yeux du Seigneur contemplent en tout lieu les bons, et les méchants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Lingua placabilis, lignum vitæ : quæ autem immoderata est, contrit spiritum.",
+      "french": "La langue pacifique est un arbre de vie ; mais celle qui est immodérée brise l’esprit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Stultus irridet disciplinam patris sui ; qui autem custodit increpationes, astutior fiet.\nIn abundanti justitia virtus maxima est : cogitationes autem impiorum eradicabuntur.",
+      "french": "L’insensé se moque de la correction de son père ; mais celui qui se rend au châtiment, deviendra plus sage.\n• La justice abondante aura une grande vertu : les pensées des impies secheront jusqu’à la racine.",
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Domus justi plurima fortitudo : et in fructibus impii conturbatio.",
+      "french": "Il y a une grande force dans la maison du juste : et il n’y a que trouble dans les fruits de l’impie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Labia sapientium disseminabunt scientiam : cor stultorum dissimile erit.",
+      "french": "Les lèvres des sages répandront la science, comme une semence : il n’en est pas de même du cœur des insensés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Victima impiorum abominabilis Domino : vota justorum placabilia.",
+      "french": "Les victimes des impies sont abominables devant le Seigneur ; les vœux des justes lui sont agréables.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Abominatio est Domino via impii : qui sequitur justitiam, diligitur ab eo.",
+      "french": "La voie de l’impie est en abomination devant le Seigneur : celui qui suit la justice est aimé de lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Doctrina mala deserenti viam vitæ : qui increpationes odit, morietur.",
+      "french": "Celui qui abandonne la voie de la vie, fuit de mauvaises instructions : celui qui hait les réprimandes, mourra.",
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Infernus, et perditio coram Domino : quantò magis corda filiorum hominum ?",
+      "french": "L’enfer, et la perdition sont à nud devant le Seigneur : combien plus les cœurs des enfants des hommes ?",
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Non amat pestilens eum qui se corripit : nec ad sapientes graditur.",
+      "french": "L’homme corrompu n’aime point celui qui le reprend ; et il ne va point trouver les sages.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Cor gaudens exhilarat faciem : in mœrore animi dejicitur spiritus.",
+      "french": "La joie du cœur se répand sur le visage : la tristesse de l’âme abat l’esprit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Cor sapientis quærit doctrinam : et os stultorum pascitur imprudentiâ.",
+      "french": "Le cœur du sage cherche l’instruction : la bouche des insensés se repaît d’ignorance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Omnes dies pauperis, mali : secura mens quasi juge convivium.",
+      "french": "Tous les jours du pauvre sont mauvais : l’âme tranquille est comme un festin continuel.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Melius est parum cum timore Domini, quàm thesauri magni, et insatiabiles.",
+      "french": "Peu, avec la crainte de Dieu, vaut mieux que de grands trésors, qui ne rassasient point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Melius est vocari ad olera cum charitate, quàm ad vitulum saginatum cum odio.",
+      "french": "Il vaut mieux être invité avec affection à manger des herbes, qu’à manger le veau gras, lorsqu’on est haï.",
+      "annotations": null,
+      "source_pages": [
+        "page_0170.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Vir iracundus provocat rixas : qui patiens est, mitigat suscitatas.",
+      "french": "L’homme colère excite des querelles : celui qui est patient, apaise celles qui étaient déjà nées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0170.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Iter pigrorum quasi sepes spinarum : via justorum absque offendiculo.",
+      "french": "Le chemin des paresseux est comme une haye d’épines : la voie du juste n’a rien qui l’arrête.",
+      "annotations": null,
+      "source_pages": [
+        "page_0170.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Filius sapiens lætificat patrem : et stultus homo despicit matrem suam.",
+      "french": "L’enfant sage est la joie de son père ; et l’homme insensé méprise sa mère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0170.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Stultitiæ gaudium stulto : et vir prudens dirigit gressus suos.",
+      "french": "La folie est la joie de l’insensé ; mais l’homme prudent mesure tous ses pas.",
+      "source_pages": [
+        "page_0171.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Dissipantur cogitationes, ubi non est consilium : ubi verò sunt plures consiliarii, confirmantur.",
+      "french": "Les pensées se dissipent, où il n’y a point de conseil ; mais où il y a plusieurs conseillers, elles s’affermissent.",
+      "source_pages": [
+        "page_0171.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Lætatur homo in sententia oris sui : et sermo opportunus est optimus.",
+      "french": "Chacun aime son sentiment, quand il l’a dit : mais ce qu’on doit estimer, est la parole dite à propos.",
+      "source_pages": [
+        "page_0171.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Semita vitæ super eruditum, ut declinet de inferno novissimo.",
+      "french": "L’homme bien instruit voit au-dessus de lui le sentier de la vie, qui lui fait éviter le plus profond de l’enfer.",
+      "source_pages": [
+        "page_0172.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Domum superborum demolietur Dominus : et firmos faciet terminos viduæ.",
+      "french": "Le Seigneur détruira la maison des superbes, et affermira l’héritage de la veuve.",
+      "source_pages": [
+        "page_0172.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Abominatio Domini cogitationes male : et purus sermo pulcherrimus firmabitur ab eo.",
+      "french": "Les pensées mauvaises sont en abomination au Seigneur : la parole pure lui sera très agréable.",
+      "source_pages": [
+        "page_0172.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Conturbat domum suam qui sectatur avaritiam : Qui autem odit munera, vivet. Per misericordiam, et fidem purgantur peccata : per timorem autem Domini declinat omnis à malo.",
+      "french": "L’avare met le trouble dans sa maison ; Celui qui hait les présents vivra. Les péchés se purifient par la miséricorde, et par la foi : et tout homme évitera les maux, par la crainte du Seigneur.",
+      "source_pages": [
+        "page_0172.json",
+        "page_0173.json"
+      ],
+      "annotations": null
+    },
+    {
+      "verse_number": 28,
+      "latin": "Mens justi meditatur obedientiam : os impiorum redundat malis.",
+      "french": "L’âme du juste médite l’obéissance : la bouche des impies se répand en mauvais discours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0173.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Longè est Dominus ab impiis : et orationes justorum exaudiet.",
+      "french": "Le Seigneur est loin des impies ; et il éxaucera les prières des justes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0174.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Lux oculorum lætificat animam : fama bona impinguat ossa.",
+      "french": "La lumière des yeux est la joie de l’âme ; la bonne réputation engraisse les os.",
+      "annotations": null,
+      "source_pages": [
+        "page_0174.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Auris, quæ audit increpationes vitæ, in medio sapientium commorabitur.",
+      "french": "L’oreille qui écoute les réprimandes salutaires, demeurera au milieu des sages.",
+      "source_pages": [
+        "page_0175.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Qui abjicit disciplinam, despicit animam suam : qui autem acquiescit increpationibus, possessor est cordis.",
+      "french": "Celui qui rejette la correction, méprise son âme : mais celui qui se rend aux réprimandes, possède son cœur.",
+      "source_pages": [
+        "page_0175.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Timor Domini, disciplina sapientiæ : et gloriam præcedit humilitas.",
+      "french": "La crainte du Seigneur, est ce qui apprend la sagesse ; et l’humilité précède la gloire.",
+      "source_pages": [
+        "page_0175.json"
+      ]
+    }
+  ]
+}

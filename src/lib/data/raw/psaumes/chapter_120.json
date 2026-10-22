@@ -1,0 +1,77 @@
+{
+  "book": "Psaumes",
+  "chapter": 120,
+  "chapter_summary": "Les Captifs prient le Seigneur de les venir secourir. Ils mettent toute leur confiance au Seigneur. C’est une suite du Pseaume précédent.\n\nCanticum graduum. | Cantique des dégrez.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Levavi oculos meos in montes : unde veniet auxilium mihi.",
+      "french": "J’ai levé mes yeux vers les montagnes, d’où me doit venir du secours.",
+      "source_pages": [
+        "page_0244.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Auxilium meum à Domino, qui fecit Cœlum et terram.",
+      "french": "Mon secours me doit venir du Seigneur, qui a fait le Ciel, et la terre.",
+      "source_pages": [
+        "page_0244.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Non det in commotionem pedem tuum : neque dormitet qui custodit te.",
+      "french": "Qu’il ne permette point que votre pied soit ébranlé ; et que celui qui vous garde, ne s’endorme point.",
+      "source_pages": [
+        "page_0244.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Ecce non dormitabit neque dormiet qui custodit Israël.",
+      "french": "Assûrément que celui qui garde Israël, ne s’assoupira, ni ne s’endormira point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0245.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Dominus custodit te, Dominus protectio tua, super manum dexteram tuam.",
+      "french": "Le Seigneur vous garde ; le Seigneur est à votre main droite pour vous donner sa protection.",
+      "annotations": null,
+      "source_pages": [
+        "page_0245.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Per diem Sol non uret te, neque Luna per noctem.",
+      "french": "Le Soleil ne vous brûlera point durant le jour, ni la Lune pendant la nuit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0245.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Dominus custodit te ab omni malo : custodiat animam tuam Dominus.",
+      "french": "Le Seigneur vous garde de tout mal : que le Seigneur garde votre âme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0245.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Dominus custodiat introitum tuum, et exitum tuum ; ex hoc nunc, et usque in sæculum.",
+      "french": "Que le Seigneur soit votre garde, tant à votre entrée, qu’à votre sortie, dés maintenant, et pour toujours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0246.json"
+      ]
+    }
+  ]
+}

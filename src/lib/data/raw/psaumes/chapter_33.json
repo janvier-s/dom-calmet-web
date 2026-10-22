@@ -1,0 +1,200 @@
+{
+  "book": "Psaumes",
+  "chapter": 33,
+  "chapter_summary": "David rend grâces à Dieu, de l’avoir délivré des mains du Roi de Geth. Il relève le bonheur des Justes, et la protection dont Dieu les honore. Il donne des préceptes de morale, pour mériter cette protection.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "Davidi, cum immutavit vultum suum coram Achimelech, et dimisit eum, et abiit.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0441.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Benedicam Dominum in omni tempore : semper laus ejus in ore meo.",
+      "french": "Je bénirai le Seigneur en tout temps : sa louange sera toujours dans ma bouche.",
+      "source_pages": [
+        "page_0441.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "In Domino laudabitur anima mea : audiant mansueti, et lætentur.",
+      "french": "Mon âme ne mettra sa gloire que dans le Seigneur. Que ceux qui sont doux et humbles écoutent ceci, et qu’ils se réjouissent.",
+      "source_pages": [
+        "page_0441.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Magnificate Dominum mecum : et exaltemus nomen ejus in idipsum.",
+      "french": "Publiez avec moi, combien le Seigneur est grand ; et célébrons tous ensemble la gloire de son saint nom.",
+      "source_pages": [
+        "page_0441.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Exquisivi Dominum, et exaudivit me : et ex omnibus tribulationibus meis eripuit me.",
+      "french": "J’ai cherché le Seigneur, et il m’a exaucé ; il m’a tiré de toutes mes peines par sa puissance.",
+      "source_pages": [
+        "page_0442.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Accedite ad eum, et illuminamini : et facies vestræ non confundentur.",
+      "french": "Approchez-vous de lui, afin que vous en soyez éclairés ; et vos visages ne seront point couverts de confusion.",
+      "source_pages": [
+        "page_0442.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Iste pauper clamavit, et Dominus exaudivit eum : et de omnibus tribulationibus ejus salvavit eum.",
+      "french": "Ce pauvre a crié, et le Seigneur l’a exaucé ; et il l’a sauvé de toutes ses différentes afflictions.",
+      "source_pages": [
+        "page_0443.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Immittet Angelus Domini in circuitu timentium eum : et eripiet eos.",
+      "french": "L’Ange du Seigneur environnera ceux qui le craignent ; et il les délivrera.",
+      "source_pages": [
+        "page_0443.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Gustate et videte quoniam suavis est Dominus : beatus vir, qui sperat in eo.",
+      "french": "Goûtez, et voyez combien le Seigneur est doux : heureux est l’homme qui espère en lui.",
+      "source_pages": [
+        "page_0444.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Timete Dominum omnes sancti ejus : quoniam non est inopia timentibus eum.",
+      "french": "Craignez le Seigneur, vous tous qui êtes ses Saints : parce que ceux qui le craignent ne tombent point dans l’indigence.",
+      "source_pages": [
+        "page_0444.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Divites eguerunt et esurierunt : inquirentes autem Dominum, non minuentur omni bono.",
+      "french": "Les riches ont été dans le besoin, et ont eu faim : mais pour ceux qui cherchent le Seigneur, ils ne manqueront d’aucun bien.",
+      "annotations": null,
+      "source_pages": [
+        "page_0445.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Venite filii, audite me : timorem Domini docebo vos.",
+      "french": "Venez, mes enfants, écoutez-moi ; je vous enseignerai la crainte du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0445.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Quis est homo qui vult vitam, diligit dies videre bonos ?",
+      "french": "Qui est l’homme qui souhaite une vie heureuse, et qui desire de voir des jours comblez de biens ?",
+      "source_pages": [
+        "page_0446.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Prohibe linguam tuam à malo : et labia tua ne loquantur dolum.",
+      "french": "Gardez votre langue de tout mal ; et que vos lèvres ne proférent-aucune parole de tromperie.",
+      "source_pages": [
+        "page_0446.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Diverte à malo, et fac bonum : inquire pacem, et persequere eam.",
+      "french": "Détournez-vous du mal ; et faites le bien : recherchez la paix, et poursuivez-la avec persévérance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0447.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Oculi Domini super justos : et aures ejus in preces eorum.",
+      "french": "Les yeux du Seigneur sont attachés sur les Justes, et ses oreilles sont ouvertes à leurs prières.",
+      "annotations": null,
+      "source_pages": [
+        "page_0447.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Vultus autem Domini super facientes mala : ut perdat de terra memoriam eorum.",
+      "french": "Mais le Seigneur regarde d’un visage sévère ceux qui font le mal, pour exterminer leur mémoire de dessus la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0447.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Clamaverunt justi, et Dominus exaudivit eos : et ex omnibus tribulationibus eorum liberavit eos.",
+      "french": "Les Justes ont crié, et le Seigneur les a exaucés ; et il les a délivrés de toutes leurs peines.",
+      "source_pages": [
+        "page_0448.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Juxta est Dominus iis, qui tribulato sunt corde : et humiles spiritu salvabit.",
+      "french": "Le Seigneur est proche de ceux dont le cœur est affligé ; et il sauvera les humbles d’esprit.",
+      "source_pages": [
+        "page_0448.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Multæ tribulationes justorum ; et de omnibus his liberabit eos Dominus.",
+      "french": "Les Justes sont exposés à beaucoup d’afflictions ; et le Seigneur les délivrera de toutes ces peines.",
+      "source_pages": [
+        "page_0448.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Custodit Dominus omnia ossa eorum : unum ex his non conteretur.",
+      "french": "Le Seigneur garde exactement tous leurs os : un seul de ces os ne pourra être brisé.",
+      "source_pages": [
+        "page_0448.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Mors peccatorum pessima : et qui oderunt justum delinquent.",
+      "french": "La mort des pécheurs est très funeste ; et ceux qui ont de la haine pour le Juste, pécheront contre eux-mêmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0449.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Redimet Dominus animas servorum suorum : et non delinquent omnes qui sperant in eo.",
+      "french": "Le Seigneur rachètera les âmes de ses serviteurs : et tous ceux qui mettent en lui leur espérance, ne seront point frustrés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0449.json"
+      ]
+    }
+  ]
+}

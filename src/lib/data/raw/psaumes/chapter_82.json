@@ -1,0 +1,170 @@
+{
+  "book": "Psaumes",
+  "chapter": 82,
+  "chapter_summary": "Asaph demande inflamment le secours du Seigneur, contre un grand nombre d’ennemis qui s’étaient élevez contre Juda. Il prie Dieu de les dissiper, et de leur faire connaître la force de son bras.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "Canticum Psalmi Asaph.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription): check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0474.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Deus, quis similis erit tibi ? Ne taceas, neque compescaris Deus :",
+      "french": "O Dieu, qui sera semblable à vous ? Ne vous taisez pas, ô Dieu, et n’arrêtez pas plus long-temps les effets de votre puissance :",
+      "annotations": null,
+      "source_pages": [
+        "page_0474.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quoniam ecce inimici tui sonuerunt : et qui oderunt te, extulerunt caput.",
+      "french": "Parce que vous voyez que vos ennemis ont excité un grand bruit, et que ceux qui vous haïssent, ont élevé orgüeuillement leur tête.",
+      "annotations": null,
+      "source_pages": [
+        "page_0475.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Super populum tuum malignaverunt consilium : et cogitaverunt adversùs sanctos tuos.",
+      "french": "Ils ont formé un dessein plein de malice contre votre peuple ; et ils ont conspiré contre vos Saints.",
+      "annotations": null,
+      "source_pages": [
+        "page_0475.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Dixerunt : Venite, et disperdamus eos de gente : et non memoretur nomen Israël ultrà.",
+      "french": "Ils ont dit : Venez, et exterminons-les du milieu des peuples ; et qu’on ne se souvienne plus à l’avenir du nom d’Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0476.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quoniam cogitaverunt unanimiter, simul adversùm te testamentum disposuerunt, tabernacula Idumæorum et Ismaëlita.",
+      "french": "On a vu conspirer ensemble, et faire alliance contre vous, les tentes des Iduméens, et les Ismaëlites :",
+      "annotations": null,
+      "source_pages": [
+        "page_0477.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Moab, et Agareni, Gebal, et Ammon, et Amalec : alienigenæ cum habitantibus Tyrum.",
+      "french": "Moab, les Agarénéẽs, Gébal, et Ammon, et Amalec ; les étrangers, et les habitants de Tyr.",
+      "annotations": null,
+      "source_pages": [
+        "page_0478.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Etenim Assur venit cum illis : facti sunt in adjutorium filiis Loth.",
+      "french": "Les Assyriens sont aussi venus avec eux ; et se sont joints aux enfants de Loth pour les secourir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0479.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Fac illis ficut Madian, et Sifara, ficut Jabin in torrente Ciffon.",
+      "french": "Traitez-les comme vous traitâtes les Madianites ; et comme Sifara, et Jabin proche le torrent de Ciffon.",
+      "annotations": null,
+      "source_pages": [
+        "page_0480.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Difperierunt in Endor : facti funt ut ftercus terræ.",
+      "french": "Ils périrent à Endor, et devinrent comme le fumier de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0480.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Pone Principes eorum ficut Oreb, et Zeb, et Zebee, et Salmana.",
+      "french": "Traitez leurs Princes comme vous avez traité Oreb et Zeb, Zébée et Salmana.",
+      "annotations": null,
+      "source_pages": [
+        "page_0480.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Omnes Principes eorum, qui dixerunt : Hæreditate poffideamus Sanctuarium Dei.",
+      "french": "Traitez de même tous ces Princes qui ont dit : Rendons-nous maîtres du Temple du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0480.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Deus meus, pone illos ut rotam : et sicut stipulam ante faciem venti.",
+      "french": "Rendez-les, mon Dieu, comme une rouë qui tourne sans cesse, et comme la paille qui est emportée par le vent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0481.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Sicut ignis, qui comburit silvam : et sicut flamma comburens montes :",
+      "french": "De même qu’un feu qui brûle une forêt, et qu’une flamme qui consume les montagnes :",
+      "annotations": null,
+      "source_pages": [
+        "page_0481.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Ita persequêris illos in tempestate tua : et in ira tua turbabis eos.",
+      "french": "Vous les poursuivrez par le souffle impétueux de votre tempête, et vous les troublerez entiérement dans votre colère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0482.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Imple facies eorum ignominiâ : et quærent nomen tuum, Domine.",
+      "french": "Couvrez leurs visages de confusion ; et ils chercheront votre nom, Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0482.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Erubescant, et conturbentur in sæculum sæculi : et confundantur, et pereant.",
+      "french": "Qu’ils rougissent, et saient troublez pour toujours ; qu’ils saient confondus, et qu’ils périssent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0482.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et cognoscant quia nomen tibi Dominus : in solus Altissimus in omni terra.",
+      "french": "Et qu’ils connaissent enfin que votre nom est, le Seigneur, et que vous seul êtes le Très-Haut dans toute la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0482.json"
+      ]
+    }
+  ]
+}

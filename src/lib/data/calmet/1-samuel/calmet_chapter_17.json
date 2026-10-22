@@ -52,16 +52,16 @@
     {
       "verse": 4,
       "sub": false,
-      "latin_lemma": "cassis ærea super caput ejus.",
-      "lemma": "Il avait en tête un casque d’airain.",
-      "text": "On a prouvé ailleurs[18] l’usage ancien des armes de cuivre."
-    },
-    {
-      "verse": 4,
-      "sub": false,
       "latin_lemma": "lorica squamata induebatur.",
       "lemma": "Il était revêtu d’une cuirasse à écailles.",
       "text": "Quelques Exemplaires Latins portent, conformément aux Septante :[19] _Lorica hamata_, une chemise de mailles. Mais le terme Hébreu[20] signifie proprement des écailles de poissons. Cette cuirasse pesait cinq mille sicles, c’est-à-dire, cent cinquante livres et un quart, en prenant le sicle à demi-once, et la livre à seize onces. Ce poids paraîtrait incroyable, si Goliath n’eût eu des forces proportionnées à la grandeur de son corps. Plutarque décrit comme une chose extraordinaire une cuirasse du poids de quarante livres.[21]"
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "cassis ærea super caput ejus.",
+      "lemma": "Il avait en tête un casque d’airain.",
+      "text": "On a prouvé ailleurs[18] l’usage ancien des armes de cuivre."
     },
     {
       "verse": 6,
@@ -117,7 +117,7 @@
       "sub": false,
       "latin_lemma": "qui habebat octo filios.",
       "lemma": "Qui avait huit fils.",
-      "text": "Voyez ce qu’on a dit ci-devant sur le Chap. XVI. ℣. 10."
+      "text": "Voyez ce qu’on a dit ci-devant sur le chapitre 16:10."
     },
     {
       "verse": 12,
@@ -225,7 +225,7 @@
       "text": "Ceci n’est ni dans l’Hébreu, ni dans les Septante ; et il est marqué comme une addition dans les anciens Manuscrits."
     },
     {
-      "verse": 36,
+      "verse": 39,
       "sub": false,
       "latin_lemma": "cœpit tentare si armatur incedere posset.",
       "lemma": "Il commença à essayer s’il pourrait marcher avec ces armes.",
@@ -236,7 +236,7 @@
       "sub": false,
       "latin_lemma": "quinque limpidissimos lapides.",
       "lemma": "Cinq pierres polies.",
-      "text": "L’Hébreu : _Cinq pierres glissantes._ On prétend que des cailloux lisses et polis vont plus droit, frappent plus roide, et partent plus promptement de la fronde, que d’autres. L’air s’oppose moins à leur rapidité, parce qu’ils n’ont point les inégalités raboteuses, qui retardent nécessairement leur force. Louis de Dieu est de sentiment contraire. Il veut que des pierres mal polies, et brutes, aient été plus propres au dessein de David. Elles frappent plus vivement, et pénètrent plus aisément, que les pierres lisses. Il traduit l’Hébreu : [60] par : _Cinq morceaux de pierres_, cinq fragments d’une pierre écaillée, et rompue. Il faut avouer qu’on peut donner ce sens à l’original, en abandonnant la ponctuation des Massorètes."
+      "text": "L’Hébreu : _Cinq pierres glissantes._ On prétend que des cailloux lisses et polis vont plus droit, frappent plus raide, et partent plus promptement de la fronde, que d’autres. L’air s’oppose moins à leur rapidité, parce qu’ils n’ont point les inégalités raboteuses, qui retardent nécessairement leur force. Louis de Dieu est de sentiment contraire. Il veut que des pierres mal polies, et brutes, aient été plus propres au dessein de David. Elles frappent plus vivement, et pénètrent plus aisément, que les pierres lisses. Il traduit l’Hébreu : [60] par : _Cinq morceaux de pierres_, cinq fragments d’une pierre écaillée, et rompue. Il faut avouer qu’on peut donner ce sens à l’original, en abandonnant la ponctuation des Massorètes."
     },
     {
       "verse": 40,
@@ -513,7 +513,7 @@
     {
       "key": "page_0301-f",
       "n": 21,
-      "text": "Plutarque, Démétrios. Θώρακα δ' ἐνέδυ τρισχιλίας τετρακοσίας δραχμὰς ἕλκοντα. Lipse veut qu’ils n’ayent pesé chacun que vingt livres."
+      "text": "Plutarque, Démétrios. Θώρακα δ' ἐνέδυ τρισχιλίας τετρακοσίας δραχμὰς ἕλκοντα. Lipse veut qu’ils n’aient pesé chacun que vingt livres."
     },
     {
       "key": "page_0301-g",
@@ -718,7 +718,7 @@
     {
       "key": "page_0312-c",
       "n": 62,
-      "text": "Voyez Homére en plusieurs endroits."
+      "text": "Voyez Homère en plusieurs endroits."
     },
     {
       "key": "page_0313-a",

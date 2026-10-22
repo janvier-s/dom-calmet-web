@@ -1,0 +1,98 @@
+{
+  "book": "Psaumes",
+  "chapter": 100,
+  "chapter_summary": "Modèle d’un bon Prince, qui vit dans l’innocence, qui hait l’injustice ; qui réprime les méchants, qui choisit de bons Ministres, qui protège les Justes.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Misericordiam, et judicium cantabo tibi, Domine.",
+      "french": "Je chanterai, Seigneur, devant vous votre miséricorde, et votre justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0627.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Psallam, et intelligam in via immaculata. Quando venies ad me ?",
+      "french": "Je les chanterai sur des instruments de musique ; et je m’appliquerai à connaître la voie qui est pure, et sans tache. Quand viendrez-vous à moi ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0628.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Perambulabam in innocentiæ cordis mei, in medio domûs meæ.",
+      "french": "Je marchais dans l’innocence de mon cœur, au milieu de ma maison.",
+      "annotations": null,
+      "source_pages": [
+        "page_0629.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Non proponebam ante oculos meos rem injustam : facientes prævaricationes odivi.",
+      "french": "Je ne me proposais rien d’injuste devant les yeux : je haïssais ceux qui violaient votre loi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0629.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Non adhæsit mihi cor pravum : declinantem à me malignum non cognoscebam.",
+      "french": "Celui dont le cœur était corrompu, n’avait aucune société avec moi : et je ne connaissais point celui qu’une conduite maligne éloignait de moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0629.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Detrahentem secretò proximo suo, hunc persequabar.",
+      "french": "Je persécutais celui qui médisait en secret de son prochain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0630.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Superbo oculo, et insatiabili cor de, cum hoc non edebam.",
+      "french": "Je ne mangeais point avec ceux dont l’œil est superbe, et le cœur insatiable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0631.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Oculi mei ad fideles terræ, ut sedeant mecum : ambulans in via immaculata, hic mihi ministrabat.",
+      "french": "Mes yeux ne regardaient que ceux qui étaient fidèles, afin de les faire asseoir près de moi : et je n’avais pour Ministre, et pour Officier, que celui qui marchait dans l’innocence.",
+      "annotations": null,
+      "source_pages": [
+        "page_0631.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Non habitabit in medio domûs meæ qui facit superbiam : qui loquitur iniqua, non direxit in conspectu oculorum meorum.",
+      "french": "Celui qui agit avec orgueil, ne demeurera point dans ma maison. Celui qui profère des choses injustes, n’a pu se rendre agréable devant mes yeux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0632.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "In matutino interficiebam omnes peccatores terræ : ut disperderem de civitate Domini omnes operantes iniquitatem.",
+      "french": "Je mettais à mort dès le matin tous les pécheurs de la terre, afin de purger la ville du Seigneur de tous ceux qui commettent l’iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0633.json"
+      ]
+    }
+  ]
+}

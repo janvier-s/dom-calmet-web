@@ -1,0 +1,80 @@
+{
+  "book": "Psaumes",
+  "chapter": 81,
+  "chapter_summary": "Invective contre les mauvais Juges. Exhortation à exercer la justice sans acception de personnes, et dans la crainte du jugement du Seigneur.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Deus stetit in synagoga Deorum : in medio autem Deos dijudicat.",
+      "french": "Dieu s’est trouvé dans l’assemblée des Dieux ; et il juge les Dieux, étant au milieu d’eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0466.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Usquequò judicatis iniquitatem : et facies peccatorum sumitis ?",
+      "french": "Jusqu’à quand jugerez vous injustement, et ferez-vous acception de la personne des méchants dans vos jugements ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0468.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Judicate egeno, et pupillo : humilem, et pauperem justificate.",
+      "french": "Jugez la cause du pauvre et de l’orphelin : rendez justice aux petits, et aux pauvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0468.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Eripite pauperem : et egenum de manu peccatoris liberate.",
+      "french": "Délivrez le pauvre, et arrachez l’indigent des mains du pécheur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0469.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Nescierunt, neque intellexerunt, in tenebris ambulant : movebuntur omnia fundamenta terræ.",
+      "french": "Mais ils sont dans l’ignorance, et ils ne comprennent point les choses, ils marchent dans les ténèbres ; et c’est pour cela que tous les fondements de la terre seront ébranlez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0469.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ego dixi : Dii estis, et filii excelsi omnes.",
+      "french": "J’ai dit : Vous êtes des Dieux ; et vous êtes tous enfants du Très-Haut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0470.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Vos autem sicut homines moriemini : et sicut unus de principibus cadetis.",
+      "french": "Mais vous mourrez cependant comme des hommes ; et vous tomberez comme l’un des Princes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0470.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Surge, Deus, judica terram : quoniam tu hereditabis in omnibus Gentibus.",
+      "french": "Levez-vous, ô Dieu, jugez la terre ; parce que vous devez avoir toutes les Nations pour votre héritage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0470.json"
+      ]
+    }
+  ]
+}

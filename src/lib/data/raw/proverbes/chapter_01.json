@@ -1,0 +1,287 @@
+{
+  "book": "Proverbes",
+  "chapter": 1,
+  "chapter_summary": "Exhortation à l’étude de la Sagesse. Malheur de ceux qui la méprisent, et qui cherchent à séduire les simples.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Parabolæ Salomonis, filii David, Regis Israël.",
+      "french": "Les Paraboles de Salomon, fils de David, et Roi d’Israël.",
+      "source_pages": [
+        "page_0025.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Ad sciendam sapientiam, et disciplinam.",
+      "french": "Qu’il a écrites pour faire connaître la sagesse et la discipline :",
+      "source_pages": [
+        "page_0026.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Ad intelligenda verba prudentiæ, et suscipiendam eruditionem doctrinæ, justitiam, et judicium, et æquitatem.",
+      "french": "Pour enseigner les paroles de la Prudence, et pour disposer à recevoir les instructions, la doctrine, la justice, le jugement, et la droiture.",
+      "source_pages": [
+        "page_0026.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Ut detur parvulis astutia ; adolescenti scientia, et intellectus.",
+      "french": "Pour inspirer de la sagesse aux simples ; de la science et de l’intelligence aux jeunes gens.",
+      "source_pages": [
+        "page_0027.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Audiens sapiens, sapientior erit ; et intelligens, gubernacula possidebit.",
+      "french": "Le sage en écoutant, deviendra plus sage ; et l’intelligent apprendra l’art de gouverner.",
+      "source_pages": [
+        "page_0027.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Animadvertet parabolam, et interpretationem ; verba sapientum, et ænigmata eorum.",
+      "french": "Il découvrira le mystère des Paraboles, et leurs sens cachez ; il pénetrera les discours des Sages, et leurs énigmes.",
+      "source_pages": [
+        "page_0028.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Timor Domini, principium sapientiæ. Sapientiam, atque doctrinam stulti despiciunt.",
+      "french": "La crainte du Seigneur est le commencement de la sagesse : les incensez n’auront que du mépris pour la sagesse, et pour la doctrine.",
+      "source_pages": [
+        "page_0028.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Audi, fili mi, disciplinam patris tui, et ne dimittas legem matris tuæ.",
+      "french": "Mon fils, recevez les instructions de votre père, et ne rejetez point la loi de votre mère.",
+      "source_pages": [
+        "page_0029.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ut addatur gratia capiti tuo, et torques collo tuo.",
+      "french": "Elles serviront de couronne à votre tête, et de collier à votre col.",
+      "source_pages": [
+        "page_0029.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Fili mi, si te lactaverint peccatores, ne acquiescas eis.",
+      "french": "Mon fils, si les pécheurs vous tentent par leurs caresses, ne vous laissez point séduire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Si dixerint : Veni nobiscum, insidiemur sanguini, abscondamus tendiculas contra insontem frustrà :",
+      "french": "S’ils vous disent : Venez avec nous ; tendons des pièges pour répandre le sang, dressons des embuches à l’innocent, qui ne nous a fait aucun mal :",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Deglutiamus eum sicut infernus viventem ; et integrum quasi descendentem in lacum.",
+      "french": "Engloutissons-le tout vivant, comme le tombeau : dévorons-le tout entier, comme le sépulcre dévore ceux qui y descendent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Omnem pretiosam substantiam reperiemus, implebimus domos nostras spoliis.",
+      "french": "Nous nous enrichirons de toutes sortes de biens, et de choses précieuses ; nous remplirons nos maisons de dépouilles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Sortem mitte nobiscum : marsupium unum sit omnium nostrûm.",
+      "french": "Partagez avec nous ; n’ayons tous qu’une même bourse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Fili mi, ne ambules cum eis : prohibe pedem tuum à semitis eorum.",
+      "french": "Mon fils, gardez-vous bien d’aller avec eux, et de marcher dans leurs voies.",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Pedes enim illorum ad malum currunt, et festinant ut effundant sanguinem.",
+      "french": "Car leurs pieds courent au mal, ils se hâtent à répandre le sang.",
+      "annotations": null,
+      "source_pages": [
+        "page_0030.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Frustrà autem jacitur rete aute oculos pennatorum.",
+      "french": "Mais c’est en vain qu’on jette les filets devant les oiseaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0031.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Ipsi quoque contra sanguinem suum insidiantur, et moliuntur fraudes contra animas suas.",
+      "french": "Ils dressent des embûches à leur propre sang ; ils tendent des pièges à leurs propres âmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0031.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Sic semita omnis avari : animas possidentium rapium.",
+      "french": "Telle est la voie de tous les avares : il en veulent aux âmes de tous ceux qui ont du bien.",
+      "annotations": null,
+      "source_pages": [
+        "page_0032.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Sapientia foris prædicat, in plateis dat vocem suam.",
+      "french": "La sagesse éleve sa voix dans les ruës, elle se fait entendre dans les places publiques.",
+      "annotations": null,
+      "source_pages": [
+        "page_0032.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "In capite turbarum clamitat, in foribus portarum urbis profert verba sua, dicens :",
+      "french": "Elle crie à la tête des troupes ; elle fait retentir sa voix aux portes de la ville, et elle dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0032.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Usquequò, parvuli, diligitis infantiam, et stulti ea quæ sibi sunt noxia, cupient, et imprudentes odibunt scientiam ?",
+      "french": "O enfants, jusqu’à quand aimerez-vous l’enfance ; jusqu’à quand les insensés chériront-ils ce qui leur est pernicieux ; et les imprudents haïront-ils la science ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0033.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Convertimini ad correctionem meam : en proferam vobis spiritum meum, et ostendam vobis verba mea.",
+      "french": "Retournez, écoutez mes remontrances ; je vais vous communiquer mon esprit, et je vous ferai comprendre mes paroles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0034.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Quia vocavi, et renuistis : extendi manum meam, et non fuit qui aspiceret.",
+      "french": "Puisque je vous ai appelez, et que vous n’avez point voulu m’écouter ; que j’ai étendu mes mains, et que personne ne m’a regardé :",
+      "annotations": null,
+      "source_pages": [
+        "page_0034.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Despexistis omne consilium meum, et increpationes meas neglexistis.",
+      "french": "Que vous n’avez eu que du mépris pour mes conseils, et que de l’indifference pour mes réprimandes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0034.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Ego quoque in interitu vestro ridebo, et subsannabo, cùm vobis, id quod timebatis, advenerit.",
+      "french": "Je rirai à mon tour à votre mort, et je me raillerai, lorsque ce que vous craignez, vous sera arrivé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0034.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Cùm irruerit repentina calamitas, et interitus quasi tempestas ingruerit : quando venerit super vos tribulatio, et angustia.",
+      "french": "Lorsque le malheur imprévû tombera sur vous, et que la mort vous surprendra comme une tempête. Lorsque l’affliction vous saisira, et que les plus grands maux fondront sur vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0034.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Tunc invocabunt me, et non exaudiam : manè consurgent, et non invenient me.",
+      "french": "Alors ils m’appelleront à leur secours, et je ne les écouterai point. Ils se leveront dès le matin, pour me chercher, et ils ne me rencontreront point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0035.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Eò quòd exofam habuerint disciplinam, et timorem Domini non susceperint.",
+      "french": "Parce qu’ils ont eu horreur de la réprimande, et qu’ils n’ont point reçu la crainte du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0035.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Nec acquieverint consilio meo, et detraxerint universæ correptioni meæ.",
+      "french": "Qu’ils n’ont point déféré à mes avis, et qu’ils ont méprisé mes remontrances.",
+      "annotations": null,
+      "source_pages": [
+        "page_0035.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Comedent igitur fructus viæ suæ, suisque consiliis saturabuntur.",
+      "french": "Aussi ils mangeront le fruit de leur voie, et ils seront rassassiez de leurs projets.",
+      "annotations": null,
+      "source_pages": [
+        "page_0035.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Aversio parvulorum interficiet eos, et prosperitas stultorum perdet illos.",
+      "french": "L’erreur des enfants les fera mourir ; et la prosperité des insensés les perdra.",
+      "annotations": null,
+      "source_pages": [
+        "page_0035.json"
+      ]
+    }
+  ]
+}

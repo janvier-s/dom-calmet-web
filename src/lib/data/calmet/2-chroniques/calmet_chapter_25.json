@@ -1,11 +1,11 @@
 {
   "notes": [
     {
-      "verse": 1,
+      "verse": 2,
       "sub": false,
       "latin_lemma": "fecit bonum in conspectu Domini : verumtamen non in corde perfecto.",
-      "lemma": "Il fit le bien en la présence du Seigneur, mais non pas d’un cœur parfait, d’un",
-      "text": "cœur sincère, [1] d’un cœur plein ; [2] il ne chercha pas Dieu de tout son cœur ; sa fidélité ne fut pas constante, et persévérante ; il se démentit bientôt de la piété qu’il avait d’abord fait paraître."
+      "lemma": "Il fit le bien en la présence du Seigneur, mais non pas d’un cœur parfait,",
+      "text": "d’un cœur sincère, [1] d’un cœur plein ; [2] il ne chercha pas Dieu de tout son cœur ; sa fidélité ne fut pas constante, et persévérante ; il se démentit bientôt de la piété qu’il avait d’abord fait paraître."
     },
     {
       "verse": 5,
@@ -54,7 +54,7 @@
       "sub": false,
       "latin_lemma": "adduxerunt ad præruptum cujusdam petræ.",
       "lemma": "Ils les menèrent sur la pointe d’un rocher.",
-      "text": "Ce rocher fut nommé Jectéel ensuite de cette action ; quelques Interprètes croient, [6] qu’il s’agit ici de la ville de Pétra en Arabie. Voyez ce qu’on a dit sur le quatrième des Rois Ch. XIV. 7."
+      "text": "Ce rocher fut nommé Jectéel ensuite de cette action ; quelques Interprètes croient, [6] qu’il s’agit ici de la ville de Pétra en Arabie. Voyez ce qu’on a dit sur le 4 Rois 14:7."
     },
     {
       "verse": 13,
@@ -123,9 +123,9 @@
   "joins": [
     {
       "seam": "page_0167>page_0168",
-      "verse": 1,
+      "verse": 2,
       "mode": "flow",
-      "before": "présence du Seigneur, mais non pas d’un cœur parfait, d’un",
+      "before": "d’un",
       "after": "cœur sincère, ^{(a)} d’un cœur plein ; ^{(b)} il ne cherch"
     },
     {

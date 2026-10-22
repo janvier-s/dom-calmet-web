@@ -1,0 +1,231 @@
+{
+  "book": "Proverbes",
+  "chapter": 17,
+  "chapter_summary": "Le serviteur sage. Les cœurs éprouvez par le Seigneur. L’homme qui méprise le pauvre. Les enfants sont la couronne des pères. Cacher les fautes de son prochain. Ne pas mépriser le pauvre. Eviter les procès, et les querelles. Grands biens inutiles à l’insensé. Bon ami. L’insensé passe pour sage, lorsqu’il se tait.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Melior est buccella sicca cum gaudio, quam domus plena victimis cum jurgio.",
+      "french": "Un peu de pain sec, avec la joie, vaut mieux qu’une maison pleine de victimes, avec des querelles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0193.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Servus sapiens dominabitur filiis stultis, et inter fratres hæreditatem dividet.",
+      "french": "Le serviteur sage dominera les enfants insensés ; et il partagera l’héritage entre les frères.",
+      "annotations": null,
+      "source_pages": [
+        "page_0193.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Sicut igne probatur argentum, et auro in camino : ita corda probat Dominus.",
+      "french": "Comme l’argent s’éprouve par le feu ; et l’or dans le creuset : ainsi le Seigneur éprouve les cœurs.",
+      "source_pages": [
+        "page_0194.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Malus obedit linguæ iniquæ, et fallax obtemperat labiis mendacibus.",
+      "french": "Le méchant obëit à la langue injuste, et le trompeur écoute les lèvres mensongeres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0195.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Qui despicit pauperem, exprobrat factori ejus : et qui ruinâ lætatur aliorum, non erit impunitus.",
+      "french": "L’homme qui méprise le pauvre, fait injure à celui qui l’a créé ; et celui qui se réjouit de la ruine des autres, ne demeurera point impuni.",
+      "annotations": null,
+      "source_pages": [
+        "page_0195.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Corona senum filii filiorum : et gloria filiorum patres eorum.",
+      "french": "Des enfants des enfants, font la couronne des vieillards, et les pères font la gloire des enfants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0195.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Non decent stultum verba composita : nec Principem labium mentiens.",
+      "french": "Les paroles graves ne conviennent pas à un insensé ; et la langue menteuse sied mal à un Prince.",
+      "annotations": null,
+      "source_pages": [
+        "page_0196.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Gemma gratissima, expectatio præstolantis : quocumque se vertit, prudenter intelligit.",
+      "french": "L’espérance de celui qui attend, est une perle très belle ; de quelque côté qu’il se tourne, il agira avec intelligence, et avec prudence.",
+      "annotations": null,
+      "source_pages": [
+        "page_0196.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Qui celat delictum, quærit amicitias : qui altero sermone repetit, separat fœderatos.",
+      "french": "Celui qui cache les fautes, gagne l’amitié : celui qui rapelle les fautes passées, sépare ceux qui étaient unis.",
+      "source_pages": [
+        "page_0197.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Plus proficit correptio apud prudentem, quàm centum plagæ apud stultum.",
+      "french": "Une réprimande sert plus à un homme prudent, que cent coups à l’insensé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0198.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Semper jurgia quærit malus : Angelus autem crudelis mittetur contra eum.",
+      "french": "Le méchant cherche toujours des querelles ; l’Ange cruel sera envoyé contre lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0198.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Expedit magis ursæ occurrere raptis fœtibus, quam stulto confidenti in stultitia sua.",
+      "french": "Il vaudrait mieux rencontrer une ourse, à qui l’on a ravi ses petits, qu’un insensé qui se fie en sa folie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0199.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Qui reddit mala pro bonis, non recedet malum de domo ejus.",
+      "french": "Le malheur ne sortira jamais de la maison de celui qui rend le mal pour le bien.",
+      "annotations": null,
+      "source_pages": [
+        "page_0199.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Qui justificat impium, et qui condemnat justum ; abominabilis est uterque apud Deum.",
+      "french": "Celui qui justifie l’injuste, et celui qui condamne le juste, sont tous deux abominables devant Dieu.",
+      "source_pages": [
+        "page_0201.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Quid prodest stulto habere divitias : cùm sapientiam emere non possit ?",
+      "french": "Que sert à l’insensé d’avoir de grands biens, puisqu’il ne peut pas en acheter la sagesse ?",
+      "source_pages": [
+        "page_0201.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Omni tempore diligit, qui amicus est : et frater in angustiis comprobatur.",
+      "french": "Celui qui est ami, aime en tout temps ; et le frère se connaît dans l’affliction.",
+      "annotations": null,
+      "source_pages": [
+        "page_0202.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Stultus homo plaudet manibus, cùm spoponderit pro amico suo.",
+      "french": "L’insensé frappera des mains, après qu’il aura répondu pour son ami.",
+      "annotations": null,
+      "source_pages": [
+        "page_0202.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Qui meditatur discordias, diligit rixas : et qui exaltat ostium, quærit ruinam.",
+      "french": "Celui qui médite des dissensions, aime les querelles ; et celui qui éleve son portail, cherche la ruine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0203.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Qui perversi cordis est, non inveniet bonum : et qui vertit linguam, incidet in malum.",
+      "french": "Celui dont le cœur est corrompu, ne trouvera point le bien ; et celui qui a la langue double, tombera dans le mal.",
+      "annotations": null,
+      "source_pages": [
+        "page_0203.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Natus est stultus in ignominiam suam : sed nec pater in fatuo lætabitur.",
+      "french": "L’insensé est né pour sa honte ; il ne donnera point de joie à son propre père.",
+      "source_pages": [
+        "page_0204.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Animus gaudens ætatem floridam facit : spiritus tristis exsiccat ossa.",
+      "french": "La joie de l’esprit rend les corps pleins de vigueur ; et la tristesse du cœur desséche les os.",
+      "source_pages": [
+        "page_0204.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Munera de sinu impius accipit, ut pervertat semitas judicii.",
+      "french": "Le méchant reçoit des présents en secret, pour pervertir l’ordre de la justice.",
+      "source_pages": [
+        "page_0204.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "In facie prudentis lucet sapientia : oculi stultorum in finibus terræ.",
+      "french": "La sagesse reluit sur le visage de l’homme prudent : les yeux de l’insensé sont au bout du monde.",
+      "source_pages": [
+        "page_0204.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Ira patris, filius stultus : et dolor matris quæ genuit eum.",
+      "french": "L’enfant insensé est l’indignation du père ; et la douleur de la mère qui l’a mis au monde.",
+      "source_pages": [
+        "page_0205.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Non est bonum damnum inferre justo : nec percutere Principem, qui recta judicat.",
+      "french": "Il n’est pas bon de faire tort au juste, ni de frapper le Prince, qui juge selon la justice.",
+      "source_pages": [
+        "page_0205.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Qui moderatur sermones suos, doctus et prudens est : et pretiosi spiritûs vir eruditus.",
+      "french": "Celui qui est modéré dans ses discours, est docte, et prudent ; et l’homme savant ménage son esprit, comme une chose précieuse.",
+      "source_pages": [
+        "page_0205.json"
+      ]
+    }
+  ]
+}

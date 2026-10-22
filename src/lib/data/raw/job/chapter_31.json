@@ -248,7 +248,7 @@
     {
       "verse_number": 28,
       "latin": "Quæ est iniquitas maxima, et negatio contra Deum altissimum.",
-      "french": "Ce qui est le comble de l’iniquité, et un renoncement du Dieu très-haut.",
+      "french": "Ce qui est le comble de l’iniquité, et un renoncement du Dieu très haut.",
       "annotations": null,
       "source_pages": [
         "page_0379.json"
@@ -355,8 +355,17 @@
     },
     {
       "verse_number": 40,
-      "latin": "Pro frumento oriatur mihi tribulus, et pro hordeo spina. Finita sunt verba Job.",
-      "french": "Qu’elle produise pour moi des ronces au lieu de froment, et des épines au lieu d’orge. Fin des paroles de Job.",
+      "latin": "Pro frumento oriatur mihi tribulus, et pro hordeo spina.",
+      "french": "Qu’elle produise pour moi des ronces au lieu de froment, et des épines au lieu d’orge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0384.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Finita sunt verba Job.",
+      "french": "Fin des paroles de Job.",
       "annotations": null,
       "source_pages": [
         "page_0384.json"

@@ -1,0 +1,107 @@
+{
+  "book": "Psaumes",
+  "chapter": 94,
+  "chapter_summary": "Invitation à louer le Seigneur, et à se réjouir en sa présence ; on exhorte le peuple à ne pas endurcir son cœur, mais à retourner sincérement à Dieu.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Venite, exultemus Domino : jubilemus Deo salutari nostro.",
+      "french": "Venez, réjouissons-nous au Seigneur ; chantons en l’honneur de Dieu notre Sauveur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0595.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Præoccupemus faciem ejus in confessione : et in Psalmis jubilemus ei.",
+      "french": "Hâtons-nous de nous présenter devant lui, pour célébrer ses louanges ; et chantons sur les instruments, des Cantiques à la gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0595.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quoniam Deus magnus Dominus : et Rex magnus super omnes Deos.",
+      "french": "Parce que le Seigneur est le grand Dieu, et le grand Roi, élevé au-dessus de tous les Dieux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0596.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quia in manu ejus sunt omnes fines terræ : et altitudines montium ipsius sunt.",
+      "french": "Parce que la terre dans toute son étendue, est en sa main : et que les plus hautes montagnes lui appartiennent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0596.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Quoniam ipsius est mare, et ipse fecit illud : et siccam manus ejus formaverunt.",
+      "french": "Parce que la mer est à lui, qu’elle est l’ouvrage de ses mains, et que ses mains ont formé la terre ferme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0597.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Venite, adoremus, et procidamus, et ploremus ante Dominum, qui fecit nos.",
+      "french": "Venez, adorons-le, prosternons-nous, et pleurons devant le Seigneur, qui nous a créez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0597.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quia ipse est Dominus Deus noster : et nos populus pascuæ ejus, et oves manus ejus.",
+      "french": "Parce qu’il est le Seigneur notre Dieu, et que nous sommes son peuple, qu’il nourrit dans ses pâturages ; et les brebis qu’il conduit lui-même.",
+      "annotations": null,
+      "source_pages": [
+        "page_0597.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Hódiè si vocem ejus audieritis, nolite obdurare corda nostra :",
+      "french": "Si vous entendez aujourd’hui sa voix, gardez-vous bien d’endurcir vos cœurs :",
+      "annotations": null,
+      "source_pages": [
+        "page_0598.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Sicut in irritatione secundùm diem tentationis in deserto : ubi tentaverunt me patres vestri, probaverunt me, et viderunt opera mea.",
+      "french": "Comme il arriva au temps du murmure qui excita ma colère, au jour de la tentation dans le désert, où vos pères me tentérent, et éprouvérent ma puissance, et furent témoins de mes œuvres miraculeuses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0598.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quadraginta annis offenfus fui generationi illi, et dixi : Semper hi errant corde.",
+      "french": "Je fus durant quarante ans en colère contre cette race, et je difais : Le cœur de ce peuple est toujours dans l’égarement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0599.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et isti non cognoverunt vias meas : ut juravi in ira mea : si introibunt in requiem meam.",
+      "french": "Ils n’ont point connu mes voies : et j’ai juré dans ma colère, qu’ils n’entreront point dans le lieu de mon repos.",
+      "annotations": null,
+      "source_pages": [
+        "page_0599.json"
+      ]
+    }
+  ]
+}

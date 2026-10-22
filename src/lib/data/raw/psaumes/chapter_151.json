@@ -1,0 +1,71 @@
+{
+  "book": "Psaumes",
+  "chapter": 151,
+  "chapter_summary": "Cantique d’actions de grâces de David ; lorsqu’il eut vaincu Goliath.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Pusillus eram inter fratres meos, et adolescentior in domo patris mei : pascebam oves patris mei.",
+      "french": "J’Etais le plus petit de mes frères, et le plus jeune de la maison de mon père ; et je paissais les brebis de mon père.",
+      "annotations": null,
+      "source_pages": [
+        "page_0421.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Manus meæ fecerunt organum : et digiti mei aptaverunt psalterium.",
+      "french": "Mes mains ont fait un instrument de musique, et mes doigts ont formé un psalterion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0421.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et quis annuntiavit Domino meo ? Ipse Dominus : ipse omnium exauditor.",
+      "french": "Et qui a annoncé qui j’étais à mon Seigneur ? C’est le Seigneur, qui écoute tous ceux qui l’invoquent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0421.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Ipse misit Angelum suum, et tulit me de ovibus patris mei : et unxit me oleo unctionis suæ.",
+      "french": "Il a envoyé son Ange, et m’a tiré des troupeaux de mon père, et m’a donné l’onction de son huile sainte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0422.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Fratres mei pulchri, et magni : et non fuit beneplacitum in eis Domino.",
+      "french": "Mes frères étaient beaux, et bien-faits : mais le Seigneur n’eut point pour agréable de les choisir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0422.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Exivi obviam alienigenæ : et maledixit me in simulacris suis.",
+      "french": "Je marchai contre le Philistin, et il me maudit au nom de ses Idoles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0422.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Ego autem evaginato ab eo ipsius gladio, amputavi caput ejus : et abstuli opprobrium à filiis Israel.",
+      "french": "Mais je tirai sa propre épée, je lui coupai la tête, et j’ôtai l’opprobre des enfants d’Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0422.json"
+      ]
+    }
+  ]
+}

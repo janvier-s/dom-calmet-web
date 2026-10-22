@@ -1,0 +1,89 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "quid fiet de ligno vitis ?",
+      "lemma": "Que fera-t’on du bois de la vigne ?",
+      "text": "Sanctius croit que le Prophète parle ici de la vigne sauvage, qui est entiérement inutile à toute forte d’ouvrages, et qui n’est bonne qu’à brûler. Le Texte semble favoriser sa prétention : [1] _Que deviendra le bois de la vigne, parmi tous les bois branchus qui sont dans les arbres des forêts ?_ Mais le plus grand nombre des Interprètes l’entend de la vigne cultivée. L’Ecriture compare souvent les Juifs à cet arbrisseau ; [2] et voici le sens que quelques Interprètes donnent à l’hébreu de ce passage : Que fera-t’on de la vigne, si ses branches sont comme celles des autres arbres des forêts ? Si la vigne est aussi stérile qu’un arbre sauvage, qu’est-ce qui la distinguera des autres arbres ? [3] Il y a beaucoup d’apparence que les vignes en Judée étaient petites, qu’elles ne s’élevaient pas après de gros arbres, et ne croissaient pas elles-mêmes à une grosseur considérable comme en certains pays ; car alors la comparaison qu’on fait ici, n’aurait point de force ; puisqu’on a vu des statuës, et des échelles, et même des colonnes d’un temple faites du bois de la vigne. Pour l’ordinaire, elles surpassent en hauteur les ormes mêmes auxquels on les attache. On ne connait point d’arbre, dont le bois dure plus long-temps : _Nec est ligno ulli æternior natura_. Pline [4] qui rapporte toutes ces choses, croit que c’est de la vigne sauvage. _Verùm ista ex sylvestribus facta crediderim._ Mais Strabon [5] assure que dans la Margiane on a trouvé des troncs de vigne d’une telle grosseur, qu’il fallait deux hommes pour les embrasser, et qu’elles portaient des grappes de deux coudées de haut. En tout cas, on pourrait tout concilier, en disant qu’il ne s’agit ici que du sarment ; et c’est ce qu’on peut inferer de l’hébreu : _Que deviendra le bois de la vigne, parmi les autres bois des branches des forêts ?_"
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "aut fabricabitur de ea paxillus ?",
+      "lemma": "En peut-on faire seulement une cheville, pour y pendre quelque chose ?",
+      "text": "Chez les Turcs, quelque gros Seigneurs qu’ils saient, ils mettent leurs hardes, et leurs armes à des chevilles attachées dans la muraille, ou sur des cordes tenduës exprès dans leurs chambres. Ils y mettent même les selles, et autres harnais de leurs chevaux. On n’y voit ni armoire, ni coffre, ni autre meuble précieux. [6] Isaïe parlant d’un Grand de la Cour de Juda, [7] dit qu’il sera fiché comme une cheville dans un lieu fidèle ; c’est-à-dire, dans un lieu ferme, et inébranlable."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "utramque partem ejus consumpsit ignis, et medietas ejus est in favillam.",
+      "lemma": "La flamme en consume l’un et l’autre bout, et le milieu est réduit en cendres.",
+      "text": "Ou bien : Le feu consume l’un et l’autre côté, et le coeur est réduit en cendres. Le coeur du sarment n’est pas même propre à faire du feu ; il n’est point assez solide pour nourrir de la flamme ; le bois qui l’environne étant consumé, ce n’est plus que de la cendre. Les Septante ; [8] _On met au feu ce qui s’ôte tous les ans de la vigne, pour la nettoyer ;_ c’est-à-dire ; les sarments, le bois inutile."
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "de igne egredietur, et ignis consumet eos.",
+      "lemma": "Ils sortiront d’un feu, et tomberont dans un autre.",
+      "text": "S’ils échappent à l’épée, ils périront par la famine : s’ils échappent à la famine, ils seront pris captifs par l’ennemi. Ils veulent éviter Scylla, ils tomberont dans Charybde : _Incidit in Scyllam, cupiens vitare Charybdim._ L’événement ne justifia que trop ces menaces,"
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0158>page_0159",
+      "verse": 1,
+      "mode": "flow",
+      "before": "8-d} qui rapporte toutes ces choses, croit que c’est de la",
+      "after": "vigne sauvage. _Verùm ista ex sylvestribus facta credideri"
+    }
+  ],
+  "pages_used": [
+    "page_0158",
+    "page_0159",
+    "page_0160"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0158-a",
+      "n": 1,
+      "text": "מה יהיה עץ הגפן מכל עץ הזמורה אשר היה בעצי היער"
+    },
+    {
+      "key": "page_0158-b",
+      "n": 2,
+      "text": "Vide Jérémie 2,21. Isaïe 5,2, 7. Psalm LXXIX. Matthieu 20,1."
+    },
+    {
+      "key": "page_0158-c",
+      "n": 3,
+      "text": "Grot. Vacab."
+    },
+    {
+      "key": "page_0158-d",
+      "n": 4,
+      "text": "Plin. lib. 14. c. 1. Jovis simulachrum in urbe Populonia ex una [ vite ] conspicimus, tot ævis incorruptum. Metaponti Templum Junonis vitigineis columnis stetit. Etiam nunc scalis sectum Ephesiæ Dianæ scanditur vite unâ Cyprid."
+    },
+    {
+      "key": "page_0159-a",
+      "n": 5,
+      "text": "Strabo. lib. 2. pag. 51. et lib. XI p. 349. | Inveniri adhuc in locis. Hebr. [UNCERTAIN HEBREW]"
+    },
+    {
+      "key": "page_0159-b",
+      "n": 6,
+      "text": "Roger Tomo-sainct. lib. 1. Chapitre 12."
+    },
+    {
+      "key": "page_0159-c",
+      "n": 7,
+      "text": "Isaïe 22,23."
+    },
+    {
+      "key": "page_0159-d",
+      "n": 8,
+      "text": "Idem [ILLEGIBLE] [ILLEGIBLE] [ILLEGIBLE] Aquila : Depastiones ejus. Sym. Duras summitates ejus. [ILLEGIBLE] V [ILLEGIBLE]"
+    }
+  ],
+  "missing_footnotes": []
+}

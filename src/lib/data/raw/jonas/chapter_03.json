@@ -1,0 +1,98 @@
+{
+  "book": "Jonas",
+  "chapter": 3,
+  "chapter_summary": "Jonas reçoit ordre pour la seconde fois d’aller à Ninive. Il prédit la ruine prochaine de cette ville. Les Ninivites se convertissent, et sont pénitence. Dieu leur pardonne.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Et factum est verbum Domini ad Jonam secundo, dicens :",
+      "french": "Le Seigneur parla une seconde fois à Jonas, et lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0018.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Surge, et vade in Niniven civitatem magnam : et prædica in ea prædicationem, quam ego loquor ad te.",
+      "french": "Allez présentement en la grande ville de Ninive, et prêchez-y ce que je vous ordonne de leur dire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0018.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et surrexit Jonas, et abiit in Niniven, juxta verbum Domini : et Ninive erat civitas magna itinere trium dierum.",
+      "french": "Jonas partit aussi-tôt, et alla à Ninive, selon l’ordre du Seigneur. Ninive était une grande ville qui avait trois jours de chemin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0018.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et cœpit Jonas introire in civitatem itinere diei unius : et clamavit, et dixit : Adhuc quadraginta dies, et Ninive subvertetur.",
+      "french": "Et Jonas y étant entré, y marcha pendant un jour ; et il cria, en disant : Dans quarante jours Ninive sera détruite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0019.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et crediderunt viri Ninivitæ in Deum, et prædicaverunt jejunium, et vestiti sunt saccis à majore, usque ad minorem.",
+      "french": "Les Ninivites crurent à la parole de Dieu, ils ordonnérent un jeûne public, et se couvrirent de sacs, depuis le plus grand, jusqu’au plus petit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0020.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et pervenit verbum ad Regem Ninive : et surrexit de solio suo, et abjecit vestimentum suum : se, et indutus est sacco, et sedit in cinere.",
+      "french": "Cette nouvelle ayant été portée au Roi de Ninive, il se leva de son trône, quitta ses habits royaux, se couvrit d’un sac, et s’assit sur la cendre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0020.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et clamavit, et dixit in Ninive ex ore Regis, et Principum ejus, dicens : Homines, et jumenta, et boves, et pecora non gustent quidquam : nec pascantur, et aquam non bibant.",
+      "french": "Il fit crier par tout, et publier dans Ninive cet ordre, comme venant de la bouche du Roi, et de ses Princes : Que les hommes, les animaux, les bœufs, et les brebis ne mangent rien, qu’on ne les méne point aux pâturages, et qu’ils ne boivent point d’eau.",
+      "annotations": null,
+      "source_pages": [
+        "page_0021.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et operiantur saccis homines, et jumenta, et clament ad Dominum in fortitudine, et convertatur vir à via sua mala, et ab iniquitate, quæ est in manibus eorum.",
+      "french": "Que les hommes, et les bêtes saient couverts de sacs, et qu’ils crient au Seigneur de toute leur force. Que chacun se convertisse, qu’il quitte sa mauvaise voie, et l’iniquité, dont les mains étaient souillées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0022.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Quis scit si convertatur, et ignoscat Deus : et r.vertatur à furore iræ suæ, et non peribimus ?",
+      "french": "Qui sait si Dieu ne se tournera point vers nous pour nous pardonner ? s’il n’apaisera point sa fureur, et sa colère, et s’il ne changera point l’arrêt qu’il a donné pour nous perdre ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0022.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et vidit Deus opera eorum, quia conversi sunt de via sua mala : et misertus est Deus super malitiam, quam locutus fuerat ut faceret eis, et non fecit.",
+      "french": "Dieu donc considéra leurs œuvres, il vit qu’ils s’étaient convertis en quittant leur mauvaise voie ; et la compassion qu’il eut d’eux, l’empêcha de leur envoyer les maux qu’il avait résolu de leur faire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0023.json"
+      ]
+    }
+  ]
+}

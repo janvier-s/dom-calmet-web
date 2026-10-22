@@ -33,7 +33,7 @@
       "sub": false,
       "latin_lemma": "cujus messem famelicus comedet, et ipsum rapiet armatus, et bibent sitientes divitias ejus.",
       "lemma": "Le famélique mangera le blé de cet insensé, le soldat le ravira lui même, et des gens altérés boiront ses richesses.",
-      "text": "De quoi servira à l’homme insensé d’avoir amassé de grands biens ? Un soldat affamé enlèvera sa moisson, etc. Quelques savants Interprètes traduisent l’Hébreu [6] par : _Ses richesses seront consumées par celui, dont l’affamé mange la moisson ; il la tirera même du milieu des épines, et le voleur altéré, et mourant de soif, la prendra. Sa moisson sera envahie par des hommes violents, avides, affamés, qui la tireront même du milieu des épines._ Nul danger, nul travail ne les rebutera. Les Septante : [7] _Les Justes mangeront ce qu’ils ont amassé ; les méchants ne seront pas garantis de leurs propres malheurs ; que leur force soit_ épuisée. Je préfère la version de la Vulgate, qui est celle d’Aquila, et de Symmaque. [8]"
+      "text": "De quoi servira à l’homme insensé d’avoir amassé de grands biens ? Un soldat affamé enlèvera sa moisson, etc. Quelques savants Interprètes traduisent l’Hébreu [6] par : _Ses richesses seront consumées par celui, dont l’affamé mange la moisson ; il la tirera même du milieu des épines, et le voleur altéré, et mourant de soif, la prendra. Sa moisson sera envahie par des hommes violents, avides, affamés, qui la tireront même du milieu des épines._ Nul danger, nul travail ne les rebutera. Les Septante : [7] _Les Justes mangeront ce qu’ils ont amassé ; les méchants ne seront pas garantis de leurs propres malheurs ; que leur force soit_ _épuisée_. Je préfère la version de la Vulgate, qui est celle d’Aquila, et de Symmaque. [8]"
     },
     {
       "verse": 6,
@@ -75,7 +75,7 @@
       "sub": false,
       "latin_lemma": "salvum faciet egenum a gladio oris eorum.",
       "lemma": "Il sauvera le pauvre des traits de leur Langue.",
-      "text": "L’Hébreu : [17] _Il sauvera le pauvre de l’épée, de leur bouche, et de la main puissante ; de l’épée, ou de la guerre ; de leur bouche, de leurs calom-_ nies, de leurs médisances ; de la main puissante, de leur oppression ; de leur violence."
+      "text": "L’Hébreu : [17] _Il sauvera le pauvre de l’épée, de leur bouche, et de la main puissante ; de l’épée,_ ou de la guerre ; _de leur bouche,_ de leurs calomnies, de leurs médisances ; de la main puissante, de leur oppression ; de leur violence."
     },
     {
       "verse": 19,
@@ -96,7 +96,7 @@
       "sub": false,
       "latin_lemma": "cum lapidibus regionum pactum tuum.",
       "lemma": null,
-      "text": "COMMENTAIRE.\nLes pierres mêmes vous respecteront. À la lettre : [23] _Vous ferez alliance avec elles_. Lorsque vous en rencontrerez dans votre chemin, vous ne vous y heurterez point, ou elles ne vous blesseront pas. Il y a vingt expressions dans l’Écriture, qui font allusion à la même chose. On peut aussi l’entendre ainsi : Les rochers de la campagne vous recevront comme amis ; vous vous y retirerez, et vous y demeurerez en sûreté. Les Septante de l’Édition Romaine, ni de celle de Complute, ne lisent point cet endroit, ni aucun des Exemplaires consultés par Nobilius. Mais on le voit dans le Grec donné par Patricius Junius, dans la Chaîne, [24] et dans l’ancienne Vulgate, et dans S. Augustin."
+      "text": "Les pierres mêmes vous respecteront. À la lettre : [23] _Vous ferez alliance avec elles_. Lorsque vous en rencontrerez dans votre chemin, vous ne vous y heurterez point, ou elles ne vous blesseront pas. Il y a vingt expressions dans l’Écriture, qui font allusion à la même chose. On peut aussi l’entendre ainsi : Les rochers de la campagne vous recevront comme amis ; vous vous y retirerez, et vous y demeurerez en sûreté. Les Septante de l’Édition Romaine, ni de celle de Complute, ne lisent point cet endroit, ni aucun des Exemplaires consultés par Nobilius. Mais on le voit dans le Grec donné par Patricius Junius, dans la Chaîne, [24] et dans l’ancienne Vulgate, et dans saint Augustin."
     },
     {
       "verse": 24,
@@ -116,8 +116,8 @@
       "verse": 27,
       "sub": false,
       "latin_lemma": "ecce hoc ut investigavimus, ita est ; quod auditum mente pertracta.",
-      "lemma": "Ce que nous venons de vous dire est très-véritable ; écoutez-le donc, et le repassez dans votre esprit.",
-      "text": "Éliphaz a rapporté ce qui lui avait été dit en vision, et ce qu’il y avait ajouté de lui-même. Les choses que Dieu lui avait révélées, sont très-justes, et très-véritables ; mais ses réflexions sont outrées. L’Hébreu : [29] _Voilà ce que nous avons décidé, après un mûr examen ; cela est droit ; écoutez-le, et pensez-y._ Les Septante : [30] _Voilà ce que nous avons recherché, et appris ; pensez à vous, si vous avez fait quelque chose._"
+      "lemma": "Ce que nous venons de vous dire est très véritable ; écoutez-le donc, et le repassez dans votre esprit.",
+      "text": "Éliphaz a rapporté ce qui lui avait été dit en vision, et ce qu’il y avait ajouté de lui-même. Les choses que Dieu lui avait révélées, sont très justes, et très véritables ; mais ses réflexions sont outrées. L’Hébreu : [29] _Voilà ce que nous avons décidé, après un mûr examen ; cela est droit ; écoutez-le, et pensez-y._ Les Septante : [30] _Voilà ce que nous avons recherché, et appris ; pensez à vous, si vous avez fait quelque chose._"
     }
   ],
   "joins": [
@@ -140,7 +140,7 @@
       "verse": 5,
       "mode": "flow",
       "before": " garantis de leurs propres malheurs ; que leur force soit_",
-      "after": "épuisée. Je préfère la version de la Vulgate, qui est cell"
+      "after": "_épuisée_. Je préfère la version de la Vulgate, qui est ce"
     },
     {
       "seam": "page_0116>page_0117",
@@ -159,8 +159,8 @@
     {
       "seam": "page_0118>page_0119",
       "verse": 15,
-      "mode": "flow",
-      "before": "l’épée, ou de la guerre ; de leur bouche, de leurs calom-_",
+      "mode": "splice",
+      "before": "épée,_ ou de la guerre ; _de leur bouche,_ de leurs calom-",
       "after": "nies, de leurs médisances ; de la main puissante, de leur "
     },
     {
@@ -168,7 +168,7 @@
       "verse": 23,
       "mode": "flow",
       "before": "",
-      "after": "COMMENTAIRE.\nLes pierres mêmes vous respecteront. À la let"
+      "after": "Les pierres mêmes vous respecteront. À la lettre : ^{(a)} "
     },
     {
       "seam": "page_0120>page_0121",

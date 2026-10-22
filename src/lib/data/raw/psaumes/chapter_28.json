@@ -1,0 +1,95 @@
+{
+  "book": "Psaumes",
+  "chapter": 28,
+  "chapter_summary": "Description d’une tempête. Action de grâces pour la pluie que le Seigneur a donnée à son Peuple.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Afferte Domino filii Dei : afferte Domino filios arietum.",
+      "french": "Apportez au Seigneur vos offrandes, enfants de Dieu ; apportez au Seigneur les petits des béliers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0391.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Afferte Domino gloriam et honorem ; afferte Domino gloriam nomini ejus : adorate Dominum in atrio sancto ejus.",
+      "french": "Rendez au Seigneur, la gloire et l’honneur qui lui sont dus ; rendez au Seigneur la gloire que vous devez à son nom : adorez le Seigneur à l’entrée de son Tabernacle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0392.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Vox Domini super aquas, Deus majeftatis intonuit : Dominus super aquas multas.",
+      "french": "La voix du Seigneur a retenti sur les eaux ; le Dieu de majesté a tonné ; le Seigneur s’est fait entendre sur une grande abondance d’eaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0392.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Vox Domini in virtute : vox Domini in magnificentia.",
+      "french": "La voix du Seigneur est accompagnée de force ; la voix du Seigneur est pleine de magnificence et d’éclat.",
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Vox Domini confringentis cedros : et confringet Dominus cedros Libani.",
+      "french": "C’est la voix du Seigneur qui brise les cèdres ; car le Seigneur brisera les cèdres du Liban.",
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et comminuet eas tamquam vitulum Libani : et dilectus quemadmodum filius unicornium.",
+      "french": "Il les brisera, et il les mettra en pièces aussi facilement que si c’étaient de jeunes taureaux du Liban, ou les petits des licornes chéris de leurs mères.",
+      "source_pages": [
+        "page_0393.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Vox Domini intercidentis flammam ignis : vox Domini concutientis desertum : et commovebit Dominus desertum Cades.",
+      "french": "C’est la voix du Seigneur, qui divise les flammes et les feux qui sortent des nuées. C’est la voix du Seigneur qui ébranle le désert ; il fera trembler le désert de Cadès.",
+      "annotations": null,
+      "source_pages": [
+        "page_0395.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Vox Domini preparantis cervos, et revelabit condensa : et in Templo ejus omnes dicent gloriam.",
+      "french": "C’est la voix du Seigneur qui prépare les cerfs, et qui découvre les lieux sombres et épais ; et dans son Temple tous publieront sa gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0396.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Dominus diluvium inhabitare facit : et sedebit Dominus Rex in æternum.",
+      "french": "Le Seigneur répand un déluge d’eaux sur la terre : et le Seigneur sera assis comme le Roi souverain dans toute l’éternité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0397.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Dominus virtutem populo suo dabit : Dominus benedicet populo suo in pace.",
+      "french": "Le Seigneur donnera la force à son peuple : Le Seigneur bénira son peuple en le comblant d’une paix parfaite.",
+      "annotations": null,
+      "source_pages": [
+        "page_0398.json"
+      ]
+    }
+  ]
+}

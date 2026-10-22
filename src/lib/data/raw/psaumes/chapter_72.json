@@ -1,0 +1,260 @@
+{
+  "book": "Psaumes",
+  "chapter": 72,
+  "chapter_summary": "Prosperité des Impies ; scandale des bons ; inconstance et revers du bonheur des méchants.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Quàm bonus Israël Deus, his qui recto sunt corde !",
+      "french": "Que Dieu est bon à Israël, à ceux qui ont le cœur droit !",
+      "annotations": "⁕",
+      "source_pages": [
+        "page_0347.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Mei autem penè moti sunt pedes : penè effusi sunt gressus mei.",
+      "french": "Mais pour moi, mes pieds m’ont pensé manquer ; et je suis presque tombé en marchant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0348.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quia zelavi super iniquos, pacem peccatorum videns.",
+      "french": "Parce que j’ai été touché d’un zèle d’indignation contre les méchants, en voyant la paix des pécheurs ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0348.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quia non est respectus mortis eorum : et firmamentum in plaga eorum.",
+      "french": "Parce qu’ils ne pensent point à leur mort ; et que les plaies, dont ils sont frappez, ne durent pas.",
+      "annotations": null,
+      "source_pages": [
+        "page_0348.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "In labore hominum non sunt, et cum hominibus non flagellabuntur.",
+      "french": "Ils ne participent point aux travaux, ni aux fatigues des hommes, et n’éprouvent point les fléaux ausquels les autres mortels sont exposez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0349.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ideò tenuit eos superbia, operti sunt iniquitate, et impietate sua.",
+      "french": "C’est ce qui les rend superbes ; ils sont tout couverts de leur iniquité, et de leur impieté.",
+      "annotations": null,
+      "source_pages": [
+        "page_0350.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Prodiit quasi ex adipe iniquitas eorum, transierunt in affectum cordis.",
+      "french": "Leur iniquité est comme née de leur abondance, et de leur graisse ; ils se sont abandonnez à toutes les passions de leur cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0350.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Cogitaverunt, et locuti sunt nequitiam ; iniquitatem in excelso locuti sunt.",
+      "french": "Toutes leurs pensées, et toutes leurs paroles étaient remplies de malice : ils ont proféré hautement l’iniquité qu’ils avaient conçûë.",
+      "annotations": null,
+      "source_pages": [
+        "page_0351.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Posuerunt in cœlum os suum : et lingua eorum transivit in terra.",
+      "french": "Ils ont ouvert leur bouche contre le ciel : et leur langue a attaqué tout le monde.",
+      "annotations": null,
+      "source_pages": [
+        "page_0351.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Ideò convertetur populus meus hic : et dies pleni invenientur in eis.",
+      "french": "C’est pourquoi mon peuple se convertira, et il aura des jours pleins, et heureux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0351.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et dixerunt : Quomodo scit Deus, et si est scientia in excelso ?",
+      "french": "Il se laisse aller à dire : Comment est-il possible que Dieu connaisse ce qui se passe ; et le Très-Haut a-t’il véritablement la connaissance de toutes choses ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0352.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Ecce ipsi peccatores, et abundantes in sæculo, obtinuerunt divitias.",
+      "french": "Voilà ces pécheurs qui sont dans l’abondance, et qui ont acquis de grandes richesses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0352.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et dixi : Ergo sine causa justificavi cor meum, et lavi inter innocentes manus meas :",
+      "french": "Et j’ai dit : C’est donc inutilement que j’ai travaillé à purifier mon cœur ; et que j’ai lavé mes mains dans la compagnie des innocents.",
+      "annotations": null,
+      "source_pages": [
+        "page_0353.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et fui flagellatus tota die, et castigatio mea in matutinis.",
+      "french": "Puisque j’ai été affligé durant tout le jour, et châtié dés le matin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0353.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Si dicebam : narrabo sic : ecce nationem filiorum tuorum reprobavi.",
+      "french": "Que si je voulais raisonner de la sorte, je condamnerais toute la société de vos enfants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0353.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Existimabam ut cognoscerem hoc : Labor est ante me :",
+      "french": "J’ai donc songé à vouloir pénétrer ce secret : mais un grand travail s’est présenté devant moi :",
+      "annotations": null,
+      "source_pages": [
+        "page_0354.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Donec intrem in Sanctuarium Dei : et intelligam in novissimis eorum.",
+      "french": "Jusqu’à ce que j’entre dans le Sanctuaire de Dieu, et que j’y comprenne quelle doit être leur fin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0354.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Veruntamen propter dolos posuisti eis : dejecisti eos dum allevarentur.",
+      "french": "Il est très vrai, ô Dieu, que cette prospérité, où vous les avez établis, leur est devenuë un piège : vous les avez renversez dans le temps même qu’ils s’élevaient.",
+      "annotations": null,
+      "source_pages": [
+        "page_0355.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Quomodo facti sunt in desolationem ? subitò defecerunt : perierunt propter iniquitatem suam.",
+      "french": "O comment sont-ils tombez dans la dernière désolation ? Ils ont manqué tout d’un coup ; et ils ont péri à cause de leur iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0356.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Velut somnium surgentium, Domine, in civitate tua imaginem ipsorum ad nihilum rediges.",
+      "french": "Seigneur, vous réduirez au néant dans votre cité, la vaine image de leur bonheur, comme le songe de ceux qui s’éveillent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0356.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Quia inflammatum est cor meum, et renes mei commutati sunt : Et ego ad nihilum redactus sum, et nescivi.",
+      "french": "C’est pourquoi mon cœur a été tout enflammé, et mes reins tout altérés ; et je me suis vu comme réduit au néant, et dans la derniere ignorance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0357.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Ut jumentum factus sum apud te ; et ego semper tecum.",
+      "french": "Et qu’étant enfin devenu comme une bête en votre présence, je ne me suis point cependant éloigné de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0358.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Tenuisti manum dexteram meam, et in voluntate tua deduxisti me, et cum gloria suscepisti me.",
+      "french": "Vous avez soûtenu ma main droite, vous m’avez conduit selon votre volonté, et comblé de gloire en me recevant entre vos bras.",
+      "annotations": null,
+      "source_pages": [
+        "page_0358.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Quid enim mihi est in cælo ? et à te quid volui super terram ?",
+      "french": "Car qu’y a-t’il pour moi dans le ciel ? et que désirai-je sur la terre, sinon vous ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Defecit caro mea, et cor meum : Deus cordis mei, et pars mea, Deus in æternum.",
+      "french": "Ma chair, et mon cœur sont dans la défaillance, ô Dieu de mon cœur, et mon partage pour toute l’éternité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Quia ecce, qui elongant se à te peribunt : perdidisti omnes, qui fornicantur abs te.",
+      "french": "Parce que ceux qui s’éloignent de vous périront, et que vous avez résolu de perdre tous ceux, qui vous abandonnent pour se prostituer aux créatures.",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Mihi autem adhærere Deo bonum est ; ponere in Domino Deo spem meam.",
+      "french": "Mais pour moi, c’est mon avantage de demeurer attaché à Dieu, et de mettre mon espérance dans celui, qui est le Seigneur mon Dieu :",
+      "annotations": null,
+      "source_pages": [
+        "page_0360.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Ut annuntiem omnes prædicationes tuas, in portis filiæ Sion.",
+      "french": "Afin que je publie toutes vos louanges, aux portes de la fille de Sion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0360.json"
+      ]
+    }
+  ]
+}

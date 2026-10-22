@@ -1,0 +1,143 @@
+{
+  "book": "Isaïe",
+  "chapter": 52,
+  "chapter_summary": "Consolation de Sion. Elle est délivrée de sa captivité ; elle est tirée des mains des Assyriens. Louanges du Libérateur d’Israël.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Consurge, consurge, induere fortitudine tua, Sion : induere vestimentis gloriæ tuæ, Jerusalem, civitas Sancti : quia non adjiciet ultrà ut pertranseat per te incircumcisus, et immundus.",
+      "french": "Levez-vous, ô Sion, levez-vous ; revêtez-vous de votre force ; parez-vous des vêtements de votre gloire, Jérusalem, ville du Saint : parce qu’à l’avenir il n’y aura plus d’incirconcis, ni d’impur qui passe au travers de vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0666.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Excutere de pulvere, consurge, sede, Jerusalem : solve vincula colli tui, captiva, filia Sion.",
+      "french": "Sortez de la poussière, levez-vous, asséyez-vous, ô Jérusalem : rompez les chaînes de votre cou, fille de Sion, captive depuis si long-temps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0667.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quia hæc dicit Dominus : Gratis venundati estis, et sine argento redimemini.",
+      "french": "Car voici ce que dit le Seigneur : Vous avez été vendus pour rien, et vous serez rachetez sans argent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0667.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quia hæc dicit Dominus Deus : In Ægyptum descendit populus meus in principio, ut colonus esset ibi : et Assur absque ulla causa calumniatus est eum.",
+      "french": "Voici ce que dit le Seigneur votre Dieu : Mon peuple descendit autrefois en Egypte pour habiter dans ce pays étranger : et Assur l’a depuis opprimé sans aucun sujet.",
+      "annotations": null,
+      "source_pages": [
+        "page_0668.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et numquid mihi est hic, dicit Dominus, quoniam ablatus est populus meus gratis ? Dominatores ejus iniquè agunt, dicit Dominus, et jugiter tota die nomen meum blasphematur.",
+      "french": "Qu’ai-je donc à faire maintenant, dit le Seigneur, voyant mon peuple enlevé sans aucune raison ? Ceux qui le dominent, le traitent injustement, et mon nom est blasphémé sans cesse pendant tout le jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0669.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Propter hoc sciet populus meus nomen meum in die illa : quia ego ipse qui loquebar, ecce adsum.",
+      "french": "C’est pourquoi il viendra un jour, auquel mon peuple connoîtra la grandeur de mon nom ; un jour auquel je dirai : Moi qui parlais autrefois, me voici présent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0669.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quàm pulchri super montes pedes annuntiantis, et prædicantis pacem ! annuntiantis bonum, prædicantis salutem, dicentis Sion : Regnabit Deus tuus !",
+      "french": "Que les pieds de celui qui annonce, et qui prêche la paix sur les montagnes, sont beaux ! les pieds de celui qui annonce la bonne nouvelle, qui prêche le salut, qui dit à Sion : Votre Dieu va régner !",
+      "annotations": null,
+      "source_pages": [
+        "page_0670.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Vox speculatorum tuorum, levaverunt vocem, simul laudabunt : quia oculo ad oculum videbunt cùm converterit Dominus Sion.",
+      "french": "J’entends la voix de vos sentinelles : ils éleveront leurs voix, ils chanteront ensemble des cantiques de louanges ; parce qu’ils verront de leurs yeux que le Seigneur aura converti Sion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0670.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Gaudete, et laudate simul, deserta Jerusalem : quia consolatus est Dominus populum suum, redemit Jerusalem.",
+      "french": "Réjouissez-vous, déserts de Jérusalem, louez tous ensemble le Seigneur ; parce qu’il a consolé son peuple, et qu’il a rachetté Jérusalem.",
+      "annotations": null,
+      "source_pages": [
+        "page_0671.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Paravit Dominus brachium sanctum suum in oculis omnium gentium : et videbunt omnes fines terræ salutare Dei nostri.",
+      "french": "Le Seigneur a préparé son bras saint aux yeux de toutes les nations ; et toutes les régions de la terre verront le Sauveur, que notre Dieu nous doit envoyer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0671.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Recedite, recedite, exite inde, pollutum nolite tangere : exite de medio ejus, mundamini qui fertis vasa Domini.",
+      "french": "Retirez-vous, retirez-vous ; sortez de Babylone, ne touchez rien d’impur : sortez du milieu d’elle ; purifiez-vous, vous qui portez les vases du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0671.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Quoniam non in tumultu exibitis, nec in fuga properabitis : præcedet enim vos Dominus, et congregabit vos Deus Israël.",
+      "french": "Vous n’en sortirez point en tumulte, ni par une fuite précipitée : parce que le Seigneur marchera devant vous, et que le Dieu d’Israël vous rassemblera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0672.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Ecce intelliget servus meus, exaltabitur, et elevabitur, et sublimis erit valdè.",
+      "french": "Mon serviteur sera rempli d’intelligence ; il sera grand, et élevé ; il montera au plus haut comble de gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0672.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Sicut obstupuerunt super te multi, sic inglorius erit inter viros aspectus ejus, et forma ejus inter filios hominum.",
+      "french": "Comme vous avez été l’étonnement de plusieurs, vous paraîtrez aussi sans gloire devant les hommes, et dans une forme méprisable aux yeux des enfants des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0673.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Iste asperget gentes multas, super ipsum continebunt Reges os suum : quia quibus non est narratum de eo, viderunt ; et qui non audierunt, contemplasi sunt.",
+      "french": "Il arrosera beaucoup de nations, les Rois se tiendront devant lui dans le silence ; parce que ceux ausquels il n’avait point été annoncé, le verront ; et ceux qui n’avaient point entendu parler de lui, le contempleront.",
+      "annotations": null,
+      "source_pages": [
+        "page_0674.json"
+      ]
+    }
+  ]
+}

@@ -5,7 +5,7 @@
       "sub": false,
       "latin_lemma": "in diebus Assueri.",
       "lemma": "Au temps d’Assuérus.",
-      "text": "L’Hébreu[1] commence par la conjonction _Et_. On a déjà remarqué ailleurs, que les Juifs commencent ainsi la plupart de leurs Livres. Dans les Exemplaires Grecs, on lit au commencement de ce Livre le songe de Mardochée, que nous lisons dans nos Exemplaires Latins dans le Chapitre 11:2 et suivants. Le nom d’_Assuérus_ est rendu par Artaxerxès, dans la plupart des Exemplaires Grecs. Il y en a toutefois quelques-uns[2], qui lisent Assuérus. L’Exemplaire manuscrit de l’Ancienne Vulgate, qui nous a été communiqué par le P. Martianay, porte Assuérus, et Artaxercès. Ce dernier nom est le seul qui paraisse dans les Fragments d’Esther [3]. Le nom d’Assuérus, ou Artaxercès, a été fort commun parmi les Rois de Perse ; et il y a de fort habiles gens, qui croient qu’il leur était commun à tous, de même que celui de Pharaon aux anciens Rois d’Égypte, et celui de César aux Empereurs Romains. _Artaxercès_ en Persan, signifie la même chose que _Grand Guerrier_ [4].\nParmi la grande variété de sentiments qui partagent les Chronologistes, et les Commentateurs, sur l’âge, et sur la personne d’Assuérus, nous nous sommes déterminés pour _Darius_, fils d’_Hystaspe_, ainsi que nous l’avons déclaré dans la Préface. Nous croyons remarquer dans sa personne tous les caractères, que l’Écriture nous fournit pour le véritable Assuérus, mari d’Esther. C’est lui dont nous avons déjà parlé dans Esdras, et qui donna son Ordonnance pour le rétablissement du Temple [5]."
+      "text": "L’Hébreu[1] commence par la conjonction _Et_. On a déjà remarqué ailleurs, que les Juifs commencent ainsi la plupart de leurs Livres. Dans les Exemplaires Grecs, on lit au commencement de ce Livre le songe de Mardochée, que nous lisons dans nos Exemplaires Latins dans le Chapitre 11:2 et suivants. Le nom d’_Assuérus_ est rendu par Artaxerxès, dans la plupart des Exemplaires Grecs. Il y en a toutefois quelques-uns, [2] qui lisent Assuérus. L’Exemplaire manuscrit de l’Ancienne Vulgate, qui nous a été communiqué par le P. Martianay, porte Assuérus, et Artaxercès. Ce dernier nom est le seul qui paraisse dans les Fragments d’Esther. [3] Le nom d’Assuérus, ou Artaxercès, a été fort commun parmi les Rois de Perse ; et il y a de fort habiles gens, qui croient qu’il leur était commun à tous, de même que celui de Pharaon aux anciens Rois d’Égypte, et celui de César aux Empereurs Romains. _Artaxercès_ en Persan, signifie la même chose que _Grand Guerrier_. [4]\nParmi la grande variété de sentiments qui partagent les Chronologistes, et les Commentateurs, sur l’âge, et sur la personne d’Assuérus, nous nous sommes déterminés pour _Darius_, fils d’_Hystaspe_, ainsi que nous l’avons déclaré dans la Préface. Nous croyons remarquer dans sa personne tous les caractères, que l’Écriture nous fournit pour le véritable Assuérus, mari d’Esther. C’est lui dont nous avons déjà parlé dans Esdras, et qui donna son Ordonnance pour le rétablissement du Temple. [5]"
     },
     {
       "verse": 1,
@@ -166,7 +166,7 @@
       "sub": false,
       "latin_lemma": null,
       "lemma": "fût publié parmi tous les peuples.",
-      "text": "L’Hébreu à la lettre : [87] _Que tout homme domine sur sa maison, et parle la Langue de son peuple._ Le Grec : [88] _Et qu’on les craigne dans leurs maisons._ Le Syriaque rapporte ces paroles du Texte : _Et parle la Langue de son peuple_, à ce qui précède : Et on publia cet Édit dans la Langue propre à chaque peuple. Et il paraît que S. Jérôme, le Grec, et l’ancienne Vulgate, l’ont entendu de même, aussi bien que plusieurs nouveaux Interprètes. [89] Mais le Chaldéen, et quelques autres [90] soutiennent que l’Édit portait que les femmes parleraient le langage de leurs maris, si elles étaient d’un pays étranger. Drusius croit que cette expression est figurée, et qu’elle ne signifie autre chose, sinon que les femmes se soumettront à l’avis, et aux ordres de leurs maris : _Elles parleront comme eux ; elles ne refuseront pas d’obéir._ Mais le sens de la Vulgate paraît le plus naturel. L’Hébreu est au masculin. Ainsi il ne doit pas s’entendre des femmes."
+      "text": "L’Hébreu à la lettre : [87] _Que tout homme domine sur sa maison, et parle la Langue de son peuple._ Le Grec : [88] _Et qu’on les craigne dans leurs maisons._ Le Syriaque rapporte ces paroles du Texte : _Et parle la Langue de son peuple_, à ce qui précède : Et on publia cet Édit dans la Langue propre à chaque peuple. Et il paraît que saint Jérôme, le Grec, et l’ancienne Vulgate, l’ont entendu de même, aussi bien que plusieurs nouveaux Interprètes. [89] Mais le Chaldéen, et quelques autres [90] soutiennent que l’Édit portait que les femmes parleraient le langage de leurs maris, si elles étaient d’un pays étranger. Drusius croit que cette expression est figurée, et qu’elle ne signifie autre chose, sinon que les femmes se soumettront à l’avis, et aux ordres de leurs maris : _Elles parleront comme eux ; elles ne refuseront pas d’obéir._ Mais le sens de la Vulgate paraît le plus naturel. L’Hébreu est au masculin. Ainsi il ne doit pas s’entendre des femmes."
     }
   ],
   "joins": [
@@ -174,7 +174,7 @@
       "seam": "page_0051>page_0052",
       "verse": 1,
       "mode": "splice",
-      "before": "toutefois quelques-uns^{fn:page_0051-b}, qui lisent Assué-",
+      "before": "outefois quelques-uns, ^{fn:page_0051-b} qui lisent Assué-",
       "after": "rus. L’Exemplaire manuscrit de l’Ancienne Vulgate, qui nou"
     },
     {
@@ -607,7 +607,7 @@
     {
       "key": "page_0061-a",
       "n": 64,
-      "text": "Hérodote, livre 3, chapitres 68, 88."
+      "text": "Hérodote, livre 3, chapitres 68 et 88."
     },
     {
       "key": "page_0061-b",
@@ -717,7 +717,7 @@
     {
       "key": "page_0066-e",
       "n": 86,
-      "text": "Diodore de Sicile, livre 14, page 577. Καὶ ἡ ἀπόφασις τὸ γεγονὸς διὰ τῆς Βασιλέως ἐξεσίας ἀμετάθετον καθεστάκει. Cela peut marquer que Charidéme étoit déja mort, et qu’il ne lui servit de rien que le Roi eût changé de sentiment."
+      "text": "Diodore de Sicile, livre 14, page 577. Καὶ ἡ ἀπόφασις τὸ γεγονὸς διὰ τῆς Βασιλέως ἐξεσίας ἀμετάθετον καθεστάκει. Cela peut marquer que Charidéme était déjà mort, et qu’il ne lui servit de rien que le Roi eût changé de sentiment."
     },
     {
       "key": "page_0067-a",

@@ -1,0 +1,97 @@
+{
+  "book": "Psaumes",
+  "chapter": 23,
+  "chapter_summary": "Dieu souverain maître de toute la terre, a choisi pour sa demeure le mont de Sion. Qui est l’homme qui osera y paraître en la présence d’une si redoutable Majesté ? Et comment le Temple lui-même, y recevra-t’il le Seigneur des Armées ?",
+  "chapter_intro": "Ce titre ne se lisait pas dans les Exemplaires des Héxaples ; mais seulement dans les Exemplaires de l’Édition commune des Septante ^{(b)}. On croit qu’il fut ajouté par quelque Juif, qui crut qu’il regardait le premier jour de la Création, commencée un Dimanche ; ou même par quelques Chrétiens, qui le regardèrent comme une Prophétie de la Résurrection de JÉSUS-CHRIST ^{(c)}, arrivée aussi le premier jour de la semaine. Mais si cette raison était bonne, pourquoi n’y mettre pas plutôt : Quintâ Sabbathi, puisque l’Ascension de JÉSUS-CHRIST y est si distinctement marquée ^{(d)} ? La plupart des Rabbins, et quelques-uns de nos Commentateurs ^{(e)} croient qu’il fut composé par David, après que Dieu lui eut déclaré par Nathan, que le lieu où il voulait qu’on lui bâtît un Temple, était Sion ^{(f)}. D’autres ^{(g)} veulent qu’il ait été chanté dans la solennité du transport de l’Arche de la maison d’Obédédom dans le Tabernacle dressé dans Sion ^{(h)}.\nLes Juifs, cités par saint Justin le Martyr, dans son Dialogue contre Tryphon, et Ferrand, le rapportent au temps de la Dédicace du Temple de Salomon. Le Rabbin Salomon ajoute que dans cette rencontre, les portes du Sanctuaire se fermèrent, et se rouvrirent ensuite d’elles-mêmes, pour marquer en leur manière le respect qui est dû à la présence du Seigneur. Les trois dernières hypothèses qu’on vient de proposer, sont à peu près également probables ; et on peut les suivre dans le sens littéral, et historique. Mais on doit y reconnaître un autre sens aussi littéral, mais plus sublime, qui regarde la Résurrection, et l’Ascension du Sauveur. Nous ne séparerons point ces deux vues, pour ne nous point éloigner de celle du Prophète, et de l’Esprit saint qui l’animait.\nLe Psalmiste nous dit d’abord que quoique Dieu soit Créateur, et Maître absolu de toute la terre, il a toutefois bien voulu, par un choix spécial, destiner la montagne de Sion, pour lui servir de demeure. Ensuite il demande quelles doivent être les qualités de ceux qui paraîtront devant la face de ce Dieu terrible, et tout-puissant. Il exige pour cela l’innocence, la justice, la pureté de cœur. Enfin comme s’il était présent à l’entrée triomphante de ce Roi de gloire, il excite les portes du Temple à s’ouvrir promptement, et à faire honneur au Dieu des armées.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Domini est terra, et plenitudo ejus : orbis terrarum, et universi qui habitant in eo.",
+      "french": "La terre, et tout ce qu’elle renferme est au Seigneur : toute la terre habitable, et tous ceux qui l’habitent sont à lui ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0344.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quia ipse super maria fundavit eum, et super flumina præparavit eum.",
+      "french": "Parce que c’est lui qui l’a fondée au-dessus des mers, et établie au-dessus des fleuves.",
+      "annotations": null,
+      "source_pages": [
+        "page_0345.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quis ascendit in montem Domini ? Aut quis stabit in loco sancto ejus ?",
+      "french": "Qui est-ce qui montera sur la montagne du Seigneur ? Ou qui s’arrêtera dans son lieu saint ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0346.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Innocens manibus, et mundo corde ; Qui non accepit in vano animam suam, nec juravit in dolo proximo suo.",
+      "french": "Celui dont les mains sont innocentes et le cœur pur ; qui n’a pas reçu son âme en vain, ni fait un serment faux et trompeur à son prochain.",
+      "annotations": null,
+      "source_pages": [
+        "page_0346.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Hic accipiet benedictionem à Domino, et misericordiam à Deo salutari suo.",
+      "french": "C’est celui-là qui recevra du Seigneur la bénédiction, et qui obtiendra miséricorde du Dieu son Sauveur.",
+      "source_pages": [
+        "page_0347.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Hac est generatio quærentium eum : quærentium faciem Dei Jacob.",
+      "french": "Telle est la race de ceux qui le cherchent, de ceux qui cherchent à voir la face du Dieu de Jacob.",
+      "annotations": null,
+      "source_pages": [
+        "page_0348.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Attollite portas, Principes, vestras, et elevamini, portæ æternales : et introibit Rex gloriæ.",
+      "french": "Levez vos portes, ô Princes ! et vous, portes éternelles, levez-vous, et vous ouvrez, afin de laisser entrer le Roi de gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0349.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Quis est iste Rex gloriæ ? Dominus fortis et potens : Dominus potens in prœlio.",
+      "french": "Qui est ce Roi de gloire ? C’est le Seigneur fort, et puissant, le Seigneur qui est puissant dans les combats.",
+      "annotations": null,
+      "source_pages": [
+        "page_0351.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Attollite portas, Principes, vestras, et elevamini, portæ æternales : et introibit Rex gloriæ.",
+      "french": "Levez vos portes, ô Princes ! et vous, portes éternelles, levez-vous, et vous ouvrez ; afin de laisser entrer le Roi de gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0351.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quis est iste Rex gloriæ ? Dominus virtutum ipse est Rex gloriæ.",
+      "french": "Qui est donc ce Roi de gloire ? Le Seigneur des puissances est lui-même ce Roi de gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0351.json"
+      ]
+    }
+  ]
+}

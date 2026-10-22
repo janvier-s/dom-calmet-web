@@ -1,0 +1,105 @@
+{
+  "book": "Cantique des cantiques",
+  "chapter": 3,
+  "chapter_summary": null,
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "In lectulo meo per noctes quæsivi quem diligit anima mea : quæsivi illum, et non inveni.",
+      "french": "L’Epouse. J’ai cherché dans mon lit durant les nuits celui qu’aime mon âme : je l’ai cherché, et je ne l’ai point trouvé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0058.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Surgam, et circuibo civitatem : per vicos, et plateas, quæram quem diligit anima mea : quæsivi illum, et non inveni.",
+      "french": "Je me leverai, ai-je dit ensuite, je ferai le tour de la ville ; et je chercherai dans les ruës, et dans les places publiques, celui qui est le bien-aimé de mon âme : je l’ai cherché, et je ne l’ai point trouvé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0058.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Invenerunt me vigiles, qui custodiunt civitatem : Num quem diligit anima mea vidistis ?",
+      "french": "Les sentinelles qui gardent la ville, m’ont rencontrée, et je leur ai dit : N’avez-vous point vu celui qu’aime mon âme ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Paululum cùm pertransissem eos, inveni quem diligit anima mea : tenui eum : nec dimittam, donec introducam illum in domum matris meæ, et in cubiculum genitricis meæ.",
+      "french": "Lorsque j’eus passé tant soit peu au-delà d’eux, je trouvai celui qu’aime mon âme : je l’ai arrêté ; et je ne le laisserai point aller, jusqu’à ce que je le fasse entrer dans la maison de ma mère, et dans la chambre de celle qui m’a donné la vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0059.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Adjuro vos, filiæ Jerusalem, per capreas, cervosque camporum, ne suscitetis, neque evigilare faciatis dilectam, donec ipsa velit.",
+      "french": "Filles de Jérusalem, je vous conjure par les chevreüils, et par les cerfs de la campagne, de ne point réveiller celle qui est la bien-aimée, et de ne la point tirer de son repos, à moins qu’elle-même ne s’éveille.",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Quæ est ista quæ ascendit per desertum, sicut virgula fumi ex aromatibus myrrhæ, et thuris, et universi pulveris pigmentarii ?",
+      "french": "Qui est celle-ci qui s’éleve du désert, comme une fumée qui monte des parfums de myrrhe, d’encens, et de toutes sortes de poudres de senteur ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0060.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "En lectulum Salomonis sexaginta fortes ambiunt ex fortissimis Israël :",
+      "french": "Voici le lit de Salomon environné de soixante hommes des plus vaillants d’entre les forts d’Israël.",
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Omnes tenentes gladios, et ad bella doctissimi : uniuscusque ensis super femur suum, propter timores nocturnos :",
+      "french": "Qui portent tous des épées, et qui sont très expérimentez dans la guerre : chacun d’eux a l’épée au côté, à cause des surprises qu’on peut craindre durant la nuit.",
+      "source_pages": [
+        "page_0061.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ferculum fecit sibi Rex Salomon de lignis Libani.",
+      "french": "Le Roi Salomon s’est fait une litière de bois du Liban.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Columnas ejus fecit argenteas, reclinatorium aureum, ascensum purpureum : media charitate constravit propter filias Jerusalem.",
+      "french": "Il en a fait les colomnes d’argent, et le reposoir d’or ; les dégrez pour y monter sont de pourpre : et il a orné le milieu de tout ce qu’il y a de plus précieux, en faveur des filles de Jérusalem.",
+      "annotations": null,
+      "source_pages": [
+        "page_0062.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Egredimini, et videte filiæ Sion Regem Salomonem in diademate, quo coronavit illum mater sua in die desponsationis illius, et in die lætitiæ cordis ejus.",
+      "french": "Sortez dehors, filles de Sion, et venez voir le Roi Salomon avec le diadême, dont sa mère l’a couronné le jour de ses nôces, le jour où son cœur a été comblé de joie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0063.json"
+      ]
+    }
+  ]
+}

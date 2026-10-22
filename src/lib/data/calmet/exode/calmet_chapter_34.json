@@ -22,21 +22,21 @@
       "text": "L’Hébreu :[4] _Et il se tint avec lui, et il cria au nom du Seigneur._ Les Interprètes sont partagés sur le nominatif du verbe _vocavit_, ou _clamavit_, _il cria_. Quelques-uns[5] lui donnent Moïse pour nominatif ; et les autres,[6] Dieu. Ce dernier sens nous paraît le plus juste. Moïse étant arrivé à la montagne, et s’étant placé dans l’endroit du rocher que Dieu lui avait désigné, il vit descendre la nuée ; et s’étant caché dans la caverne, il ouït le signal que Dieu lui avait donné, qui était le nom de Jéhovah. Le Seigneur fit retentir à ses oreilles ce sacré nom, comme il le lui avait promis.[7]"
     },
     {
-      "verse": 5,
+      "verse": 6,
       "sub": false,
       "latin_lemma": "quo transeunte coram eo, ait : dominator, Domine Deus.",
       "lemma": "Et comme le Seigneur passait devant lui, il dit : Dominateur, Seigneur Dieu.",
-      "text": "C’est une prière que Moïse[8] fait à Dieu, dans le moment que Dieu passe devant la caverne. Mais l’Hébreu fait un sens qui paraît contraire à celui de la Vulgate. Ce sont ici les paroles de Dieu même, qui en passant découvre ses attributs à Moïse ; et Moïse commence seulement sa prière au verset 9 où il dit : _Seigneur, si j’ai trouvé grâce à vos yeux, je vous prie de marcher avec nous._ Les meilleurs Commentateurs[9] suivent ici le sens de l’Hébreu. Les Septante le favorisent, en mettant le verbe, _il rendra innocent_, ou _il tiendra pour juste_, à la troisième personne, conformément à l’Hébreu, au verset 7 au lieu que la Vulgate lit à la seconde personne. Le Targum de Jérusalem est conforme à la Vulgate. On remarque que des onze attributs que Dieu prend ici, les trois premiers regardent son essence et sa puissance ; les sept autres concernent sa miséricorde, et les deux derniers ont rapport à sa justice."
+      "text": "C’est une prière que Moïse[8] fait à Dieu, dans le moment que Dieu passe devant la caverne. Mais l’Hébreu fait un sens qui paraît contraire à celui de la Vulgate. Ce sont ici les paroles de Dieu même, qui en passant découvre ses attributs à Moïse ; et Moïse commence seulement sa prière au verset 9 où il dit : _Seigneur, si j’ai trouvé grâce à vos yeux, je vous_ _prie de marcher avec nous._ Les meilleurs Commentateurs[9] suivent ici le sens de l’Hébreu. Les Septante le favorisent, en mettant le verbe, _il rendra innocent_, ou _il tiendra pour juste_, à la troisième personne, conformément à l’Hébreu, au verset 7 au lieu que la Vulgate lit à la seconde personne. Le Targum de Jérusalem est conforme à la Vulgate. On remarque que des onze attributs que Dieu prend ici, les trois premiers regardent son essence et sa puissance ; les sept autres concernent sa miséricorde, et les deux derniers ont rapport à sa justice."
     },
     {
-      "verse": 5,
+      "verse": 6,
       "sub": false,
       "latin_lemma": "dominator, Domine.",
       "lemma": "Dominateur, Seigneur.",
       "text": "Hébreu : _Jehovah, Jehovah_. Les Septante : _Seigneur, Seigneur ; ou, Seigneur Dieu_."
     },
     {
-      "verse": 5,
+      "verse": 6,
       "sub": false,
       "latin_lemma": "multæ miserationis, et verax.",
       "lemma": "Riche en miséricorde, et véritable.",
@@ -207,10 +207,10 @@
   "joins": [
     {
       "seam": "page_0577>page_0578",
-      "verse": 5,
+      "verse": 6,
       "mode": "flow",
-      "before": " dit : _Seigneur, si j’ai trouvé grâce à vos yeux, je vous",
-      "after": "prie de marcher avec nous._ Les meilleurs Commentateurs^{("
+      "before": "dit : _Seigneur, si j’ai trouvé grâce à vos yeux, je vous_",
+      "after": "_prie de marcher avec nous._ Les meilleurs Commentateurs^{"
     },
     {
       "seam": "page_0578>page_0579",
@@ -492,7 +492,7 @@
     {
       "key": "page_0586-b",
       "n": 39,
-      "text": "saint Épiphane, Hérésie 55, sur les melchisédéciens."
+      "text": "Saint Épiphane, Hérésie 55, sur les melchisédéciens."
     },
     {
       "key": "page_0586-c",

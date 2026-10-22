@@ -1,0 +1,458 @@
+{
+  "book": "1 Maccabées",
+  "chapter": 7,
+  "chapter_summary": "Démétrius Soter arrive en Syrie, et fait tuer Antiochus Eupator, et Lysias. Alcime est établi grand-Prêtre des Juifs. Il vient en Judée avec Bacchides, et y commet plusieurs cruautés. Judas s’oppose à lui, et l’oblige à retourner à Antioche. Nicanor est envoyé contre Judas ; il est vaincu, et sa tête suspenduë aux murs de Jérusalem.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Anno centesimo quinquagesimo primo, exiit Demetrius Seleuci filius ab urbe Roma, et ascendit cum paucis viris in civitatem maritimam, et regnavit illic.",
+      "french": "En la cent cinquante-unième année, Démétrius fils de Séleucus, étant sorti de la ville de Rome, vint avec peu de gens dans une ville sur la côte de la mer, et commença à y régner.",
+      "annotations": "An du M. 3842.",
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et factum est, ut ingressus est domum regni patrum suorum, comprehendit exercitus Antiochum, et Lysiam, ut adducerent eos ad eum.",
+      "french": "Et lorsqu’il fut rentré dans son païs, et dans le siège du Royaume de ses pères, l’armée se saisit d’Antiochus, et de Lysias, pour les amener à Démétrius.",
+      "annotations": "An du M. 3842",
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et res ei innotuit, et ait : Nolite mihi ostendere faciem eorum.",
+      "french": "Lorsqu’il en fut averti, il leur dit : Ne me faites point voir leur visage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et occidit eos exercitus : Et sedit Demetrius super sedem regni sui.",
+      "french": "Ils furent donc tuez par l’armée, et Démétrius s’assit sur le trône de son Royaume.",
+      "annotations": null,
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et venerunt ad eum viri iniqui, et impii ex Israël : et Alcimus dux eorum, qui volebat fieri Sacerdos.",
+      "french": "Alors des hommes d’Israël méchants, et impies, le vinrent trouver, ayant à leur tête Alcime, qui aspirait à être établi Grand-Prêtre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et accufaverunt populum apud Regem, dicentes : Perdidit Judas, et fratres ejus, omnes amicos tuos, et nos difperfit de terra noftra.",
+      "french": "Et ils accuférent le peuple devant le Roi, en lui difant : Judas et ses frères ont fait périr tous vos amis, et il nous a nous-mêmes chaffez de notre pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Nunc ergo mitte virum, cui credis, ut eat, et videat exterminium omne quod fecit nobis, et regionibus Regis : et puniat omnes amicos ejus, et adjutores eorum.",
+      "french": "Envoyez donc maintenant un homme dont vous soyiez assuré, afin qu’il reconnoiffe tous les maux qu’il nous a fait souffrir, et aux Provinces qui appartiennent au Roi ; et qu’il puniffe tous ses amis, et tous ceux qui le soûtiennent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et elegit Rex ex amicis fuis Bacchidem, qui dominabatur trans flumen magnum in regno, et fidelem Regi : et mifit eum :",
+      "french": "Et le Roi choifit d’entre ses amis, Bacchide, qui commandait dans son Royaume au-delà du grand fleuve, et qui lui était fidelle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ut videret exterminium, quod fecit Judas : fed et Alcimum impium conftituit in facerdotium, et mandavit ei facere ultionem in filios Ifraël.",
+      "french": "Il l’envoya reconnaître tous les maux qu’avait faits Judas ; et il établit Grand-Prêtre l’impie Alcime, et lui ordonna de punir les enfants d’Ifraël.",
+      "annotations": "An du M. 3842.",
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et furrexerunt, et venerunt cum exercitu magno in terram Juda, et miferunt nuntios, et locuti funt ad Judam, et ad fratres ejus, verbis pacificis in dolo.",
+      "french": "Ils vinrent donc en diligence avec une grande armée dans le pays de Juda, et ils députérent vers Judas, et vers ses frères, pour leur faire des propofitions de paix, dans le deffein de les furprendre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et non intenderunt fermonibus eorum : viderunt enim quia venerunt cum exercitu magno.",
+      "french": "Mais ils n’eurent aucun égard à leurs paroles, voyant qu’ils étaient venus avec une puiffante armée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et convenerunt ad Alcimum, et Bacchidem congregatio Scribarum, requirere quæ jufta funt.",
+      "french": "Cependant la compagnie des Scribes vint trouver Alcime, et Bacchides, pour leur faire des propofitions très juftes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et primi, Assidæi qui erant in filiis Israël, et exquirebant ab eis pacem.",
+      "french": "Ceux d’entre les enfants d’Israël appelez Assidéens, étaient les premiers de cette compagnie, et ils leur voulaient demander la paix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Dixerunt enim : Homo Sacerdos de semine Aaron venit, non decipiet nos.",
+      "french": "Car ils disaient : C’est un Prêtre de la race d’Aaron qui vient à nous, il ne nous trompera pas.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et locutus est cum eis verba pacifica : et juravit illis, dicens : Non inferemus vobis malum, neque amicis vestris.",
+      "french": "Alcime leur répondit comme un homme qui n’aurait eu que des pensées de paix, et leur dit avec serment : Nous ne vous ferons aucun mal, ni à vos amis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et crediderunt ei : et comprehendit ex eis sexaginta viros, et occidit eos in una die, secundùm verbum quod scriptum est :",
+      "french": "Ils le crurent ; mais il en fit arrêter soixante d’entre eux, qu’il fit mourir tous en un même jour, selon cette parole de l’Ecriture :",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Carnes sanctorum tuorum, et sanguinem ipsorum effuderunt in circuitu Jerusalem, et non erat qui sepeliret.",
+      "french": "Ils ont fait mourir les corps de vos Saints, et ils ont répandu leur sang autour de Jérusalem ; et il ne s’est trouvé personne qui les ensevelît.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et incubuit timor et tremor in omnem populum, quia dixerunt : Non est veritas, et judicium in iis : transgressi sunt enim constitutum, et jusjurandum quod juraverunt.",
+      "french": "Et tout le peuple fut saisi de crainte, et de frayeur, et ils se disaient les uns aux autres : Il n’y a ni vérité, ni justice parmi eux ; car ils ont violé la parole qu’ils avaient donnée, et le serment qu’ils avaient fait.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Et movit Bacchides castra Jerusalem, et applicuit in Bethzecha : et misit, et comprehendit multos ex eis qui à se effugerant, et quosdam de populo mactavit, et in puteum magnum projecit.",
+      "french": "Bacchides étant parti de Jérusalem, alla camper près de Bethzécha, et il envoya prendre plusieurs de ceux qui avaient quitté son parti, et quelques-uns du peuple ; et les ayant tuez, il les fit jeter dans un grand puits.",
+      "annotations": "An du M. 3842.",
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et commisit regionem Alcimo, et reliquit cum eo auxilium in adjutorium ipsi. Et abiit Bacchides ad Regem.",
+      "french": "Après cela il remit toute la Province entre les mains d’Alcime, à qui il laissa des troupes pour le soutenir ; et il retourna trouver le Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Et satis agebat Alcimus pro Principatu sacerdotii sui.",
+      "french": "Cependant Alcime faisait tous ses efforts pour s’affermir dans la grande Sacrificature.",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Et convenerunt ad eum omnes, qui perturbabant populum suum, et obtinuerunt terram Judæ, et fecerunt plagam magnam in Israël.",
+      "french": "Et tous ceux qui troublaient le peuple s’étant assemblez près de lui, se rendirent maîtres du pays de Juda, et firent un grand carnage dans Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Et vidit Judas omnia mala quæ fecit Alcimus, et qui cum eo erant, filiis Israël, multò plus quàm Gentes.",
+      "french": "Judas considérant que tous les maux qu’Alcime, et ceux qui étaient avec lui, avaient fait aux enfants d’Israël, étaient beaucoup plus grands, que tout ce que les nations leur avaient fait ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et exiit in omnes fines Judææ circum, et fecit vindictam in viros desertores, et cessaverunt ultrà exire in regionem.",
+      "french": "Alla de tous côtés dans la Judée, et punit les déserteurs de son parti : et depuis ce temps-là, ils ne firent plus de courses dans le pays.",
+      "annotations": "An du M. 3842.",
+      "source_pages": [
+        "page_0170.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Vidit autem Alcimus quòd prævaluit Judas, et qui cum eo erant : et cognovit qu’à non potest sustinere eos, et regressus est ad Regem, et accusavit eos multis criminibus.",
+      "french": "Mais lorsqu’Alcime eut reconnu que Judas, et ses gens étaient les plus forts, et qu’il eut senti qu’il ne pouvait leur résister, il retourna vers le Roi, et les accusa de plusieurs crimes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0170.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Et misit Rex Nicanorem, unum ex Principibus suis nobilioribus, qui erat inimicitias exercens contra Israël : et mandavit ei evertere populum.",
+      "french": "Alors le Roi envoya Nicanor, l’un des principaux Seigneurs de la Cour, qui était un des plus grands ennemis d’Israël, et lui commanda de perdre ce peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0170.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Et venit Nicanor in Jerusalem cum exercitu magno, et misit ad Judam, et ad fratres ejus verbis pacificis cum dolo,",
+      "french": "Nicanor vint donc à Jérusalem avec une grande armée, et il députe vers Judas, et ses frères, pour les surprendre, sous prétexte de traiter de paix avec eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0170.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Dicens : Non fit pugna inter me et vos : veniam cum viris paucis, ut videam facies vestras cum pace.",
+      "french": "Il leur fit dire : Qu’il n’y ait point de guerre entre vous et moi. Je viendrai avec peu de gens pour vous voir, et pour vous parler de paix.",
+      "annotations": "An du M. 3842.",
+      "source_pages": [
+        "page_0171.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et venit ad Judam, et salutaverunt se invicem pacificè : et hostes parati erant rapere Judam.",
+      "french": "Il vint ensuite trouver Judas ; et ils se saluërent comme amis : et les ennemis se préparaient à se saisir de Judas.",
+      "annotations": null,
+      "source_pages": [
+        "page_0171.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Et innotuit sermo Judæ, quoniam cum dolo venerant ad eum : et conterritus est ab eo, et ampliùs noluit videre faciem ejus.",
+      "french": "Mais Judas reconnut qu’il était venu à lui pour le surprendre : et il craignit de tomber entre ses mains, et ne voulut plus le voir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0171.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Et cognovit Nicanor quoniam denudatum est consilium ejus : et exivit obviam Judæ in pugnam juxta Capharsalama.",
+      "french": "Nicanor voyant que son dessein était découvert, marcha contre Judas pour le combattre près de Caphar-salama.",
+      "annotations": null,
+      "source_pages": [
+        "page_0171.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Et ceciderunt de Nicanoris exercitu ferè quinque millia viri, et fugerunt in civitatem David.",
+      "french": "Et il y eut près de cinq mille hommes de l’armée de Nicanor, qui demeurerent sur la place ; et le reste s’enfuit dans la ville de David.",
+      "annotations": "An du M. 3842.",
+      "source_pages": [
+        "page_0172.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Et post hæc verba ascendit Nicanor in montem Sion : et exierunt de sacerdotibus populi salutare eum in pace, et demonstrare ei holocautomata, quæ offerebantur pro Rege.",
+      "french": "Après cela Nicanor monta sur la montagne de Sion, et quelques-uns des Prêtres le vinrent saluër avec un esprit de paix, et lui montrérent les holocaustes qui s’offraient pour le Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0172.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et irridens sprevit eos, et polluit : et locutus est superbè.",
+      "french": "Mais il les méprisa en les raillant ; et les traita comme des personnes profanes, et leur parla avec grand orgueil.",
+      "annotations": "An du Mōde 3842.",
+      "source_pages": [
+        "page_0173.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et juravit cum ira, dicens : Nisi traditus fuerit Judas, et exercitus ejus in manus meas, continuò cùm regressus fuero in pace, succendam domum istam. Et exiit cum ira magna.",
+      "french": "Il leur dit en colère, et en jurant : Si on ne me livre entre les mains Judas avec son armée, aussi-tôt que je serai revenu victorieux, je brûlerai ce Temple. Et il s’en alla plein de fureur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0173.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Et intraverunt Sacerdotes, et steterunt ante faciem altaris et templi ; et flentes dixerunt :",
+      "french": "Alors les Prêtres étant entrez se presentérent devant l’autel, et devant le temple ; et ils dirent en pleurant :",
+      "annotations": null,
+      "source_pages": [
+        "page_0173.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Tu Domine, elegisti domum istam ad invocandum nomen tuum in ea, ut esset domus orationis, et obsecrationis populo tuo.",
+      "french": "Seigneur, vous avez choisi cette maison, afin que votre nom y fût invoqué, et qu’elle fût une maison d’oraison, et de prière pour votre peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0173.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Fac vindictam in homine isto, et exercitu ejus, et cadant in gladio : memento blasphemias eorum, et ne dederis eis ut permaneant.",
+      "french": "Faites éclater votre vengeance contre cet homme, et contre ses troupes ; et qu’ils tombent sous le tranchant de l’épée. Souvenez-vous de leurs blasphêmes, et ne permettez pas qu’ils subsistent longtems sur la terre.",
+      "annotations": "An du M. 3842.",
+      "source_pages": [
+        "page_0174.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Et exiit Nicanor ab Jerusalem, et castra applicuit ad Bethoron : et occurrit illi exercitus Syriæ.",
+      "french": "Nicanor étant parti de Jérusalem, vint camper près de Béthoron, où l’armée de Syrie le vint joindre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0174.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Et Judas applicuit in Adarsa cum tribus millibus viris : et oravit Judas et dixit :",
+      "french": "Et Judas alla camper près d’Adarsa, avec trois mille hommes, et fit sa prière, en disant :",
+      "annotations": null,
+      "source_pages": [
+        "page_0174.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Qui missi erant à Rege Sennacherib, Domine, quia blasphemaverunt te, exiit Angelus, et percussit ex eis centum octoginta quinque millia.",
+      "french": "Seigneur, lorsque ceux qui avaient été envoyez par le Roi Sennachérib, vous blasphémérent, un Ange vint, qui leur tua cent quatre-vingt-cinq mille hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0174.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Sic contere exercitum istum in conspectu nostro hodie : et sciant cæteri quia malè locutus est super sancta tua : et judica illum secundùm malitiam illius.",
+      "french": "Exterminez de même aujourd’hui cette armée devant nous ; afin que tous les autres sachent que Nicanor a deshonoré par ses blasphêmes votre maison sainte ; et jugez-le selon sa malice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0174.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Et commiserunt exercitus prælium tertia decima die mensis Adar : et contrita sunt castra Nicanoris, et cecidit ipse primus in prælio.",
+      "french": "La bataille fut donc donnée le treizième jour du mois d’Adar : et l’armée de Nicanor fut défaite ; et lui tué le premier dans le combat.",
+      "annotations": null,
+      "source_pages": [
+        "page_0174.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Ut autem vidit exercitus ejus quia occidisset Nicanor, projecerunt arma sua, et fugerunt.",
+      "french": "Ses troupes voyant que leur Général était mort, jettérent leurs armes, et prirent la fuite.",
+      "annotations": "An du M. 3842.",
+      "source_pages": [
+        "page_0175.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Et persecuti sunt eos vsque unius diei, ab Adazer usquequò veniatur in Gazara, et tubis cecinerunt post eos cum significationibus.",
+      "french": "Et les gens de Judas les poursuivirent une journée de chemin, depuis Adazer jusqu’à Gazara ; et ils sonnérent des trompettes derrière eux, pour avertir tout le monde de leur victoire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0175.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Et exierunt de omnibus castellis Judææ in circuitu, et ventilabant eos cornibus, et convertebantur iterùm ad eos, et ceciderunt omnes gladio, et non est relictus ex eis nec unus.",
+      "french": "Et les peuples de tous les villages de la Judée, qui étaient aux environs, les chargérent avec une grande vigueur ; et revenant attaquer de front ceux qui demeurez derrière, ils les taillérent tous en pièces, en sorte qu’il n’en échappa pas un seul.",
+      "annotations": null,
+      "source_pages": [
+        "page_0175.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Et acceperunt spolia eorum in prædam : et caput Nicanoris amputaverunt, et dexteram ejus, quam extenderat superbè, et attulerunt et suspenderunt contra Jerusalem.",
+      "french": "Ils s’enrichirent ensuite de leurs dépouilles ; ils coupérent la tête de Nicanor, et la main droite, qu’il avait étendue insolemment contre le Temple, et les ayant apportées, ils les suspendirent à la vue de Jérusalem.",
+      "annotations": null,
+      "source_pages": [
+        "page_0175.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Et lætatus est populus valdè, et egerunt diem illum in lætitia magna.",
+      "french": "Le peuple ressentit une grande joie ; et ils passerent ce jour dans une réjouissance publique.",
+      "annotations": null,
+      "source_pages": [
+        "page_0176.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Et constituit agi omnibus annis diem istam, tertiâ decimâ die mensis Adar.",
+      "french": "On ordonna que ce même jour serait célébré tous les ans comme une fête, au treizième du mois d’Adar.",
+      "annotations": null,
+      "source_pages": [
+        "page_0176.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "Et siluit terra Juda dies paucos.",
+      "french": "Et le pays de Juda demeura en repos pendant peu de jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0176.json"
+      ]
+    }
+  ]
+}

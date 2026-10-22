@@ -1,0 +1,172 @@
+{
+  "book": "Jérémie",
+  "chapter": 37,
+  "chapter_summary": "Sédécias succède à Jéchonias. Il se recommande aux prieres de Jérémie. Nabuchodonofor leve le siege de Jérusalem, pour aller contre le Roi d’Egypte. Jérémie prédit que ce Prince assiegera de nouveau la ville. Le Prophète, voulant aller à Anathoth, est arrêté, et mis en prison. Sédécias l’en tire, et le met dans le vestibule de la prison, où il lui fait donner à manger.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Et regnavit Rex Sedecias filius Josiæ, pro Jechonia filio Joakim, quem constituit Regem Nabuchodonosor Rex Babylonis in terra.",
+      "french": "Le Roi Sédécias fils de Josias, regna en la place de Jéchonias fils de Joakim, Nabuchodonofor Roi de Babylone l’ayant établi Roi dans la terre de Juda.",
+      "source_pages": [
+        "page_0501.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et non obedivit ipse, et servi ejus, et populus terræ, verbis Domini, quæ locutus est in manu Jeremiæ Prophetæ.",
+      "french": "Mais il n’obéit point, ni lui, ni ses serviteurs, ni tout le peuple de Juda aux paroles que le Seigneur avait dites par la bouche du Prophète Jérémie.",
+      "source_pages": [
+        "page_0501.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et misit Rex Sedecias Juchal filium Selemiæ, et Sophoniam filium Maasiæ Sacerdotem, ad Jeremiam Prophetam, dicens : Ora pro nobis Dominum Deum nostrum.",
+      "french": "Et le Roi Sédécias envoya Juchal fils de Sélémias, et Sophonias fils de Maasias Prêtre, dire au Prophète Jérémie : Priez pour nous le Seigneur notre Dieu.",
+      "source_pages": [
+        "page_0501.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Jeremias autem liberè ambulabat in medio populi : non enim miserant eum in custodiam carceris. Igitur exercitus Pharaonis egressus est de Ægypto : et audientes Chaldæi, qui obsidebant Jerusalem, hujuscemodi nuntium, recesserunt ab Jerusalem.",
+      "french": "Jérémie allait alors librement parmi le peuple, parce qu’il n’avait pas encore été mis en prison. Cependant l’armée de Pharaon étant sortie de l’Égypte, les Chaldéens qui assiégeaient Jérusalem, ayant appris cette nouvelle, se retirèrent de devant la ville.",
+      "annotations": null,
+      "source_pages": [
+        "page_0502.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et factum est verbum Domini ad Jeremiam Prophetam, dicens :",
+      "french": "Alors le Seigneur parla au Prophète Jérémie, et il lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0502.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Hæc dicit Dominus Deus Israël : Sic dicetis Regi Juda, qui misit vos ad me interrogandum : Ecce exercitus Pharaonis, qui egressus est vobis in auxilium, revertetur in terram suam in Ægyptum.",
+      "french": "Voici ce que dit le Seigneur, le Dieu d’Israël : Vous direz ceci au Roi de Juda, qui vous a envoyé pour me consulter : L’armée de Pharaon qui vient pour vous donner du secours, va retourner dans l’Égypte, d’où elle est venue ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0502.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et redient Chaldæi, et bellabunt contra civitatem hanc : et capient eam, et succendent eam igni.",
+      "french": "Et les Chaldéens reviendront, et ils assiégeront de nouveau cette ville ; ils la prendront, et la brûleront.",
+      "annotations": null,
+      "source_pages": [
+        "page_0502.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Hæc dicit Dominus : Nolite decipere animas vestras, dicentes : Euntes abibunt, et recedent à nobis Chaldæi : quia non abibunt.",
+      "french": "Voici ce que dit le Seigneur : Ne vous trompez point vous-mêmes, en disant : Les Caldéens s’en iront certainement, et se retireront de nous : car ils ne s’en iront point.",
+      "source_pages": [
+        "page_0503.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Sed et si percusseritis omnem exercitum Chaldæorum, qui prœliantur adversùm vos, et derelicti fuerint ex eis aliqui vulnerati : singuli de tentorio suo consurgent, et incendent civitatem hanc igni.",
+      "french": "Mais quand même vous auriez taillé en pièces toute l’armée des Caldéens qui combattent contre vous, et qu’il en serait demeuré seulement quelques-uns couverts de blessures, ils sortiraient chacun de leur tente, et viendraient mettre le feu dans cette ville.",
+      "source_pages": [
+        "page_0503.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Ergò cùm recessisset exercitus Chaldæorum ab Jerusalem propter exercitum Pharaonis ;",
+      "french": "L’armée des Caldéens s’étant donc retirée du siège de Jérusalem, à cause de l’armée de Pharaon ;",
+      "source_pages": [
+        "page_0503.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Egressus est Jeremias de Jerusalem, ut iret in terram Benjamin, et divideret ibi possessionem in conspectu civium.",
+      "french": "Jérémie sortit de Jérusalem pour aller au pays de Benjamin, et pour y faire le partage de son bien, en présence des habitants de ce lieu.",
+      "source_pages": [
+        "page_0503.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Cumque pervenisset ad portam Benjamin, erat ibi custos portæ per vices, nomine Jerias, filius Selemiæ filii Hananiæ. et apprehendit Jeremiam Prophetam, dicens : Ad Chaldæos profugis.",
+      "french": "Et étant arrivé à la porte de Benjamin, le Capitaine qui était en garde à son tour à la porte, nommé Jérias, fils de Sélémias fils d’Hananias, arrêta le Prophète Jérémie, et lui dit : Vous fuyez pour vous aller rendre aux Caldéens.",
+      "source_pages": [
+        "page_0504.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et respondit Jeremias : Falsum est, non fugio ad Chaldæos. Et non audivit eum : sed comprehendit Jerias Jeremiam, et adduxit eum ad Principes.",
+      "french": "Jérémie lui répondit : Cela est faux ; je ne fuis point pour m’aller rendre aux Caldéens. Jérias n’écouta point Jérémie ; mais s’étant saisi de lui, il l’aména devant les Grands.",
+      "source_pages": [
+        "page_0504.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Quam ob rem irati Principes contra Jeremiam, cæsum eum miserunt in carcerem, qui erat in domo Jonathanæ scribæ : ipse enim præpositus erat super carcerem.",
+      "french": "Qui étant en colère contre Jérémie, le firent battre, et l’envoyerent en la prison, qui était dans la maison de Jonathas Secretaire ; car c’est lui qui avait l’inspection sur la prison.",
+      "source_pages": [
+        "page_0505.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Itaque ingressus est Jeremias in domum laci, et in ergastulum : et sedit ibi Jeremias diebus multis.",
+      "french": "Jérémie ayant donc été mis dans la basse fosse, et dans un cachot, il y demeura plusieurs jours.",
+      "source_pages": [
+        "page_0505.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Mittens autem Sedecias Rex tulir eum : et interrogavit eum in domo sua absconditè, et dixit : Putasne est sermo à Domino ? Et dixit Jeremias : Est, et ait : In manus Regis Babylonis traderis.",
+      "french": "Or le Roi Sédécias l’envoya ensuite tirer de ce cachot, et l’entretenant en secret dans sa maison, il lui demanda : Avez-vous quelque chose à nous dire de la part du Seigneur ? Jérémie lui dit : Oui : vous serez livré entre les mains du Roi de Babylone.",
+      "source_pages": [
+        "page_0505.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et dixit Jeremias ad Regem Sedeciam : Quid peccavi tibi, et servis tuis, et populo tuo, quia misisti me in domum carceris ?",
+      "french": "Et Jérémie dit au Roi Sédécias : Quelle faute ai-je commise contre vous, contre vos serviteurs, et contre votre peuple, pour m’avoir fait mettre dans une prison ?",
+      "source_pages": [
+        "page_0506.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Ubi sunt Prophetæ vestri qui prophetabant vobis, et dicebant : Non veniet Rex Babylonis super vos, et super terram hanc ?",
+      "french": "Où sont vos Prophètes qui vous prophérisaient, et qui disaient : Le Roi de Babylone ne viendra point combattre contre vous, et contre cette terre ?",
+      "source_pages": [
+        "page_0506.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Nunc ergo audi obsecro, Domine mi Rex : Valeat deprecatio mea in conspectu tuo : et ne me remittas in domum Jonathan scribæ, ne moriar ibi.",
+      "french": "Ecoutez-moi donc maintenant, je vous supplie, ô Roi mon Seigneur, recevez favorablement la priere que je vous fais, et ne me renvoyez point dans la prison de Jonathan Secretaire, de peur que je n’y meure.",
+      "source_pages": [
+        "page_0506.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Præcepit ergo Rex Sedecias ut traderetur Ieremias in vestibulo carceris, et daretur ei torta panis quotidie, excepto pulmento, donec consumerentur omnes panes de civitate : et mansit Ieremias in vestibulo carceris.",
+      "french": "Le Roi Sédécias ordonna donc que Jérémie fût mis dans le vestibule de la prison, et qu’on lui donnât tous les jours un pain, outre les viandes ordinaires, jusqu’à ce que tout le pain de la ville fut consumé. Et Jérémie demeura pendant ce temps dans le vestibule de la prison.",
+      "source_pages": [
+        "page_0507.json"
+      ]
+    }
+  ]
+}

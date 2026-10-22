@@ -1,0 +1,130 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "cum audisset rex Ezechias, scidit vestimenta sua.",
+      "lemma": "Le Roi Ezéchias ayant entendu ces paroles, déchira ses vêtements.",
+      "text": "Ce Chapitre est presque mot pour mot le même que le XIX. du quatrième Livre des Rois."
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "dabo ei spiritum.",
+      "lemma": "Je m’en vais envoyer un Esprit contre lui ;",
+      "text": "ou, je vais l’abandonner à un mauvais Ange, [1] qui lui fera bien changer de dessein ; ou, je vais lui donner une autre volonté, [2] lui inspirer une autre envie ; ou enfin, je vais lui envoyer un esprit de frayeur, [3] qui lui fera penser à toute autre chose qu’à vous attaquer ; ou, je vais le renverser de mon souffle. Comparez 2 Thessaloniciens 2:8."
+    },
+    {
+      "verse": 25,
+      "sub": false,
+      "latin_lemma": "siccavi vestigio pedis mei omnes rivos aggerum.",
+      "lemma": "J’ai séché par la multitude de mes gens de pied, toutes les rivières qui étaient retenuës par des chaussées.",
+      "text": "L’Hébreu[4] à la lettre : _J’ai desséché par la plante de mes pieds, tous les ruisseaux de l’Egypte. J’ai passé dans l’Egypte, et je me suis fait un passage à travers ses ruisseaux ; je les ai desséchez, ou j’en ai tellement diminué les eaux, que mon armée les a passées sans peine, et sans danger._ Nabuchodonosor se vantait long-temps après d’en faire autant.[5] Voyez les autres explications de ce passage dans le Commentaire sur les Livres des Rois.[6] Celle que nous venons de donner, nous paraît la plus naturelle. On ne peut douter que Sennachérib n’ait porté la guerre en Egypte, après ce que l’Ecriture, et les Auteurs profanes nous en apprennent. _Mazor_, que nous traduisons ici par l’Egypte, a véritablement cette signification en plusieurs rencontres. [7]"
+    },
+    {
+      "verse": 29,
+      "sub": false,
+      "latin_lemma": "ponam circulum in naribus tuis, et frænum in labiis tuis.",
+      "lemma": "Je te mettrai un anneau aux narines, et un mords à la bouche ;",
+      "text": "comme on fait passer un anneau de cuivre dans les nazeaux des taureaux, et des bœufs, [8] et comme on met un mords dans la bouche des chevaux ; comme on donne des muselières aux mulets, et aux bœufs, pour les conduire. Theodoret [9] assûre que quelquefois on met une espece de muselière de cuir aux esclaves indociles. On a des exemples dans l’Histoire d’un pareil traitement fait à des hommes libres. Cambyses fit paraître devant Psammetichus, Roi d’Egypte, le fils de ce Prince, avec deux mille jeunes Egyptiens de même âge, ayant la corde au col, et la bride à la bouche. [10] L’Ecriture fait assez souvent allusion à cette barbare coutume : _Je parle à toi, Pharaon, Roi d’Egypte, grand poisson, qui couches au milieu de tes fleuves, je mettrai un frein à tes machoires_, disait Ezéchiel. [11] _Et ailleurs, en parlant à Gog, Prince de Magog : [12] Je te conduirai comme un animal indompté, je te mettrai une bride dans la bouche, etc._"
+    },
+    {
+      "verse": 36,
+      "sub": false,
+      "latin_lemma": "et surrexerunt mane, etc.",
+      "lemma": "De grand matin quand on fut levé, on trouva le camp plein de corps morts.",
+      "text": "A la lettre : _Ils se levérent du matin, et trouverent_, ceux de Jérusalem, suivant plusieurs Interprètes, qui supposent que les cent quatre-vingt-cinq mille Assyriens furent mis à mort devant Jérusalem. Mais ce furent plutôt les gens du Roi, qui s’étant levez, trouverent tout le camp plein de cadavres : Car ceci arriva entre Lobna, et Péluse, où Sennachérib allait à la rencontre de Tharaca, Roi d’Ethiopie. La Vulgate dans les Livres des Rois, [13] porte que ce fut Sennachérib qui se leva, et qui vit toute son armée mise à mort. Mais l’Hébreu, le Caldéen, les Septante en cet endroit-là, comme ici, lisent au plurier."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0527>page_0528",
+      "verse": 25,
+      "mode": "splice",
+      "before": ". _Mazor_, que nous traduisons ici par l’Egypte, a vérita-",
+      "after": "blement cette signification en plusieurs rencontres. ^{(a)"
+    },
+    {
+      "seam": "page_0528>page_0529",
+      "verse": 29,
+      "mode": "flow",
+      "before": "deux mille jeunes Egyptiens de même âge, ayant la corde au",
+      "after": "col, et la bride à la bouche. ^{(a)} L’Ecriture fait assez"
+    }
+  ],
+  "pages_used": [
+    "page_0524",
+    "page_0525",
+    "page_0527",
+    "page_0528",
+    "page_0529"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0525-a",
+      "n": 1,
+      "text": "Ieronym."
+    },
+    {
+      "key": "page_0525-b",
+      "n": 2,
+      "text": "Piscator ; Vatable."
+    },
+    {
+      "key": "page_0525-c",
+      "n": 3,
+      "text": "Nicolas de Lyre ; Cornelius a Lapide."
+    },
+    {
+      "key": "page_0527-a",
+      "n": 4,
+      "text": "ואחרב בכל כף פעמי כל יארי מצור num aridos."
+    },
+    {
+      "key": "page_0527-b",
+      "n": 5,
+      "text": "Ézéchiel 30,12. Faciam alveos flumi-"
+    },
+    {
+      "key": "page_0527-c",
+      "n": 6,
+      "text": "4 Rois 19,24."
+    },
+    {
+      "key": "page_0528-a",
+      "n": 7,
+      "text": "Voyez ci-devant Isaïe 19,6. Deficient flumina, attenuabuntur rivi aggerum. Heb. ודאכו יארי מצור Michée 7,12. מצור ועד נהר"
+    },
+    {
+      "key": "page_0528-b",
+      "n": 8,
+      "text": "Theodoret. in Cant. Cantic. præfat. 991."
+    },
+    {
+      "key": "page_0528-c",
+      "n": 9,
+      "text": "Theodoret. hic. Εἴδομεν δ' αὐτὸν καὶ δωλικοὺς ἱκέτας εὐθὺς ἐπειδὰν γὰρ ἀπέλθοι τοῖς ὑμετέροις περιτιθέναι τῆς ἐκ δερμάτων κημοὺς. Εἰκότως ὡς ἀπειθηκότας τῇ κηρύξει βουλόμενον αὐτῷ καὶ ταύτῃ περιθεῖναι αἰσχύνην."
+    },
+    {
+      "key": "page_0529-a",
+      "n": 10,
+      "text": "Herodot. lib. 3. c. 14. Τὸν παῖδα ψαμμιτίυ ἐζήμιωσαν μιὲ ἄλλως Αἰγυπτίων διπλήσιοι τὴν αὐτὴν ἀριθμὸν ἐξέλιπον ; τὰς δ᾽ ἀρχὰς πάλιν διέφθειραν ἄγον, κὶ τὰ σώματα ἐγκεχαλινωμένα."
+    },
+    {
+      "key": "page_0529-b",
+      "n": 11,
+      "text": "Ézéchiel 29,4."
+    },
+    {
+      "key": "page_0529-c",
+      "n": 12,
+      "text": "Ézéchiel 38,4."
+    },
+    {
+      "key": "page_0529-d",
+      "n": 13,
+      "text": "4 Rois 19,35. וישכימו בבקר"
+    }
+  ],
+  "missing_footnotes": []
+}

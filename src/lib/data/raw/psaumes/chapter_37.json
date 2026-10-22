@@ -1,0 +1,217 @@
+{
+  "book": "Psaumes",
+  "chapter": 37,
+  "chapter_summary": "David demande humblement pardon de ses péchés. Il se plaint de la fureur de ses ennemis ; il implore instamment le secours de Dieu.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "Psalmus David, in rememorationem de sabbato.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0495.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Domine, ne in furore tuo arguas me, neque in ira tua corripias me.",
+      "french": "Seigneur, ne me reprenez pas dans votre fureur, et ne me punissez pas dans votre colère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0495.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Quoniam sagittæ tuæ infixæ sunt mihi : et confirmasti super me manum tuam.",
+      "french": "Parce que je suis percé de vos flèches, et que vous avez appesanti votre main sur moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0496.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Non est sanitas in carne mea, à facie iræ tuæ : non est pax ossibus meis, à facie peccatorum meorum.",
+      "french": "À la vue de votre colère, ma chair est toute malade ; et à la vue de mes péchés il n’y a plus aucune paix dans mes os.",
+      "annotations": null,
+      "source_pages": [
+        "page_0496.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quoniam iniquitates meæ supergressæ sunt caput meum : et sicut onus grave gravatæ sunt super me.",
+      "french": "Parce que mes iniquités se sont élevées jusqu’au-dessus de ma tête ; et qu’elles se sont appesanties sur moi, comme un fardeau insupportable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0497.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Putruerunt et corruptæ sunt cicatrices meæ, à facie insipientiæ meæ.",
+      "french": "Mes plaies ont été remplies de corruption, et de pourriture, à cause de mon extrême folie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0497.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Miser factus sum, et curvatus sum usque in finem : tota die contristatus ingrediebar.",
+      "french": "Je suis accablé de misères ; je suis tout courbé ; et je marche plongé dans la tristesse durant tout le jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0498.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quoniam lumbi mei impleti sunt illusionibus : et non est sanitas in carne mea.",
+      "french": "Parce que mes reins ont été remplis d’illusions : et qu’il n’y a dans ma chair aucune partie qui soit saine.",
+      "annotations": null,
+      "source_pages": [
+        "page_0499.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Afflictus sum, et humiliatus sum nimis : rugiebam à gemitu cordis mei.",
+      "french": "J’ai été affligé, je suis tombé dans la dernière humiliation ; et le gémissement secret de mon cœur, me faisait pousser au dehors comme des rugissements.",
+      "annotations": null,
+      "source_pages": [
+        "page_0499.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Domine, ante te omne desiderium meum : et gemitus meus à te non est absconditus.",
+      "french": "Seigneur, tout mon désir est exposé à vos yeux ; et mon gémissement ne vous est point caché.",
+      "source_pages": [
+        "page_0500.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Cor meum conturbatum est, dereliquit me virtus mea : et lumen oculorum meorum, et ipsum non est mecum.",
+      "french": "Mon cœur est rempli de trouble, toute ma force m’a quitté ; et même la lumière de mes yeux n’est plus avec moi.",
+      "source_pages": [
+        "page_0500.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Amici mei, et proximi mei adversum me appropinquaverunt, et steterunt.",
+      "french": "Mes amis et mes proches se sont approchés, et élevés contre moi,",
+      "annotations": null,
+      "source_pages": [
+        "page_0501.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Et qui juxta me erant, de longè steterunt : Et vim faciebant qui quærebant animam meam.",
+      "french": "Ceux qui étaient proches de moi, s’en sont tenus éloignés, et ceux qui cherchaient à m’ôter la vie, usaient de violence à mon égard.",
+      "annotations": null,
+      "source_pages": [
+        "page_0502.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et qui inquirebant mala mihi, locuti sunt vanitates : et dolos tota die meditabantur.",
+      "french": "Ceux qui souhaitaient ma perte, tenaient des discours pleins de vanité et de mensonge, et ne pensaient qu’à des tromperies durant tout le jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0502.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Ego autem tanquam surdus non audiebam : et sicut mutus non aperiens os suum.",
+      "french": "Mais pour moi, je n’entendais rien ; comme si j’eusse été sourd ; et je n’ouvrais non plus la bouche, que si j’eusse été muet.",
+      "annotations": null,
+      "source_pages": [
+        "page_0503.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et factus sum sicut homo non audiens : et non habens in ore suo redargutiones.",
+      "french": "Je suis devenu semblable à un homme qui n’entend point, et qui n’a rien dans la bouche pour répliquer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0503.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Quoniam in te, Domine, speravi, tu exaudies me, Domine, Deus meus.",
+      "french": "Parce que j’ai espéré en vous, Seigneur, vous m’exaucerez, Seigneur, mon Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0503.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Quid dixi : Nequando supergaudeant mihi inimici mei : et dum commoventur pedes mei, super me magna locuti sunt.",
+      "french": "Parce que je vous ai demandé que mes ennemis ne m’insultent point, eux qui ayant vu mes pieds ébranlés, ont parlé avec orgueil sur mon sujet.",
+      "source_pages": [
+        "page_0504.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Quoniam ego en flagella paratus sum : et dolor meus in conspectu meo semper.",
+      "french": "Parce que je suis préparé à souffrir tous les châtiments ; et que ma douleur est continuellement devant mes yeux.",
+      "source_pages": [
+        "page_0504.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Quoniam iniquitatem meam annuntiabo : et cogitabo pro peccato meo.",
+      "french": "Parce que je déclarerai mon iniquité ; et que je serai toujours occupé de la pensée de mon péché.",
+      "source_pages": [
+        "page_0505.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Inimici autem mei vivunt, et confirmati sunt super me : et multiplicati sunt qui oderunt me iniquè.",
+      "french": "Mes ennemis cependant sont pleins de joie ; et ils se sont fortifiez de plus en plus contre moi : et le nombre de ceux qui me haïssent injustement, s’est beaucoup accru.",
+      "source_pages": [
+        "page_0505.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Qui retribuunt mala pro bonis, detrahebant mihi : quoniam sequebar bonitatem.",
+      "french": "Ceux qui rendent des maux pour les biens qu’ils ont reçus, me déchiraient par leurs médisances ; à cause que je m’attachais au bien.",
+      "source_pages": [
+        "page_0505.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Ne derelinquas me, Domine, Deus meus : ne discesseris à me.",
+      "french": "Ne m’abandonnez pas, Seigneur, mon Dieu ; ne vous retirez point de moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0506.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Intende in adjutorium meum, Domine, Deus salutis meæ.",
+      "french": "Songez promptement à me secourir, Seigneur ; vous mon Dieu, de qui dépend mon salut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0506.json"
+      ]
+    }
+  ]
+}

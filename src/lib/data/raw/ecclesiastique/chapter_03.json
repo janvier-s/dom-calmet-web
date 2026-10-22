@@ -1,0 +1,290 @@
+{
+  "book": "Siracide",
+  "chapter": 3,
+  "chapter_summary": "Devoirs des enfants envers leurs pères et mères. Eloge de la douceur, et de l’humilité. Réprimer la curiosité, et la témérité. Pouvoir de l’aumône.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Filii sapientiæ, Ecclesia justorum : et natio illorum, obedientia, et dilectio.",
+      "french": "[Les enfants de la sagesse forment l’assemblée des justes ; et le peuple qui le compose, n’est qu’obéissance, et amour.]",
+      "annotations": null,
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Judicium patris, audite, filii, et sic facite ut salvi sitis.",
+      "french": "Ecoutez, enfants, les avis de votre père ; et suivez-les de telle sorte que vous soyez sauvez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0127.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Deus enim honoravit patrem in filiis, et judicium matris exquirens, firmavit in filios.",
+      "french": "Car Dieu a rendu le père vénérable aux enfants, et il a affermi sur eux l’autorité de la mère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0127.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Qui diligit Deum, exorabit pro peccatis, et continebit se ab illis, et in oratione dierum exaudietur.",
+      "french": "Celui qui aime Dieu, obtiendra par ses prières le pardon de ses péchés ; [il s’empêchera de les commettre à l’avenir, et il sera exaucé dans sa prière de chaque jour.]",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et sicut qui thesaurizat, ita et qui honorificat matrem suam.",
+      "french": "Celui qui honore sa mère, est comme un homme qui amasse un trésor.",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Qui honorat patrem suum, jucundabitur in filiis, et in die orationis suæ exaudietur.",
+      "french": "Celui qui honore son père, trouvera sa joie dans ses enfants, et il sera exaucé au jour de sa priere.",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Qui honorat patrem suum, vita vivet longiore : et qui obedit patri, refrigerabit matrem.",
+      "french": "Celui qui honore son père, jouira d’une longue vie : et celui qui lui obeït, assistera sa mère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Qui timet Dominum, honorat parentes : et quasi dominis serviet his, qui se genuerunt.",
+      "french": "[ Celui qui craint le Seigneur, honorera son père et sa mère ; ] et il servira comme ses maîtres, ceux qui lui ont donné la vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "In opere, et sermone, et omni patientia, honora patrem tuum.",
+      "french": "Honorez votre père par actions, par paroles, [ et par toute sorte de patience. ]",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Ut superveniat tibi benedictio ab eo, et benedictio illius in novissimo maneat.",
+      "french": "Afin qu’il vous bénisse, [ et que sa bénédiction demeure sur vous jusqu’à la fin. ]",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Benedictio patris firmat domos filiorum : maledictio autem matris eradicat fundamenta.",
+      "french": "La bénédiction du père affermit la maison des enfants ; et la malédiction de la mère, la détruit jusqu’aux fondements.",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Ne glorieris in contumelia patris tui : non enim est tibi gloria, ejus confusio.",
+      "french": "Ne vous glorifiez point de ce qui deshonore votre père ; car sa honte n’est pas votre gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Gloria enim hominis ex honore patris sui : et dedecus filii, pater sine honore.",
+      "french": "Le fils tire sa gloire de l’honneur du père : et un père sans honneur, est le deshonneur du fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Fili, suscipe senectam patris tui, et non contristes eum in vita illius.",
+      "french": "Mon fils, soulagez votre père dans sa vieillesse, et ne l’attristez point durant sa vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et si defecerit sensu, veniam da : et ne spernas eum in virtute tua : eleemosyna enim patris non erit in oblivione.",
+      "french": "Que si son esprit s’affaiblit, supportez-le ; et ne le méprisez pas dans votre force : Car la charité que vous aurez exercée envers lui, ne sera point mise en oubli.",
+      "source_pages": [
+        "page_0133.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Nam pro peccato matris restituetur tibi bonum.",
+      "french": "Car Dieu vous récompensera pour avoir supporté les défauts de votre mère.",
+      "source_pages": [
+        "page_0133.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et in justitia ædificabitur tibi, et in die tribulationis commemorabitur tui : et sicut in sereno glacies, solventur peccata tua.",
+      "french": "Il vous établira dans la justice, il se souviendra de vous au jour de l’affliction : et vos péchés se fondront comme la glace en un jour serein.",
+      "source_pages": [
+        "page_0133.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Quàm male famæ est, qui derelinquit patrem ! est maledictus à Deo, qui exasperat matrem.",
+      "french": "Combien est infame celui qui abandonne son père ; et combien est maudit de Dieu celui qui aigrit l’esprit de sa mère !",
+      "annotations": null,
+      "source_pages": [
+        "page_0134.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Fili, in mansuetudine opera tua perfice, et super hominum gloriam diligeris.",
+      "french": "Mon fils, accomplissez vos œuvres avec douceur, et vous vous attirerez, non-seulement l’estime, mais aussi l’amour des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0134.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Quantò magnus es, humilia te in omnibus, et coram Deo invenies gratiam.",
+      "french": "Plus vous êtes grand, plus humiliez-vous en toutes choses, et vous trouverez grâce devant Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0134.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Quoniam magna potentia Dei solius, et ab humilibus honoratur.",
+      "french": "Car il n’y a que Dieu dont la puissance soit grande ; et il n’est honoré que par les humbles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0135.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Altiora te ne quæsieris, et fortiora te ne scrutatus fueris : sed quæ præcepit tibi Deus, illa cogita semper ; et in pluribus operibus ejus ne fueris curiosus.",
+      "french": "Ne recherchez point ce qui est au-dessus de vous, et n’entrepenez point ce qui surpasse vos forces ; mais pensez toujours à ce que Dieu vous a commandé, [et n’ayez point la curiosité d’examiner la plupart de ses ouvrages.]",
+      "source_pages": [
+        "page_0136.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Non est enim tibi necessarium, ea quæ abscondita sunt, videre oculis tuis.",
+      "french": "Car vous n’avez que faire de voir de vos yeux ce qui est caché.",
+      "source_pages": [
+        "page_0136.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "In supervacuis rebus noli scrutari multipliciter, et in pluribus operibus ejus non eris curiosus.",
+      "french": "Ne vous appliquez point avec empressement à la recherche des choses non nécessaires, [et n’examinez point avec curiosité les divers ouvrages de Dieu.]",
+      "source_pages": [
+        "page_0136.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Plurima enim super sensum hominum ostensa sunt tibi.",
+      "french": "Car il vous a découvert beaucoup de choses, qui étaient au-dessus de l’esprit de l’homme.",
+      "annotations": null,
+      "source_pages": [
+        "page_0137.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Multos quoque supplantavit suspicio illorum, et in vanitate detinuit sensus illorum.",
+      "french": "Plusieurs se sont laissé séduire à leurs fausses opinions, et l’illusion de leur esprit les a retenus dans la vanité, et dans le mensonge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0137.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Cor ingrediens duas vias, non habebit successu : et pravus corde in illis scandalizabitur.",
+      "french": "[ Le cœur qui marche par deux voies, ne réüssira point : et l’âme corrompuë y trouvera un sujet de chute. ]",
+      "annotations": null,
+      "source_pages": [
+        "page_0139.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Cor nequam gravabitur in doloribus, et peccator adjiciet ad peccandum.",
+      "french": "Le cœur mauvais sera accablé de douleurs, et le pécheur ajoûtera péché sur péché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0139.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Synagoga superborum non erit sanitas : frutex enim peccati radicabitur in illis, et non intelligetur.",
+      "french": "L’assemblée des superbes ne se guérira point, parce que la tige du péché a pris racine en eux, sans qu’ils s’en aperçoivent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0140.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Cor sapientis intelligitur in sapientia, et auris bona audiet cum omni concupiscentia sapientiam.",
+      "french": "Le cœur du sage paroîtra par sa sagesse, et l’oreille de l’homme de bien écoutera avec une extrême ardeur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0141.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Sapiens cor, et intelligibile abstinebit se à peccatis, et in operibus justitiæ successus habebit.",
+      "french": "[ Le cœur sage, et intelligent s’abstiendra du péché, et il réüssira dans les œuvres de justice. ]",
+      "annotations": null,
+      "source_pages": [
+        "page_0141.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Ignem ardentem extinguit aqua ; et eleemosyna resistit peccatis.",
+      "french": "L’eau éteint le feu, lorsqu’il est le plus ardent ; et l’aumône résiste au péché.",
+      "annotations": null,
+      "source_pages": [
+        "page_0141.json"
+      ]
+    }
+  ]
+}

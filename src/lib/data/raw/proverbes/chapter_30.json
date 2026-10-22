@@ -1,0 +1,295 @@
+{
+  "book": "Proverbes",
+  "chapter": 30,
+  "chapter_summary": "Discours de Salomon, ou d’Agur, fils de Jaké. Grandeurs des ouvrages de Dieu. Pureté de sa parole. Dangers de la pauvreté, et des richesses. Ne pas déferer un esclave à son maître. Emblême de quatre pécheurs. Des deux filles de la sangsuë. Des quatre choses insatiables. Des trois choses difficiles à reconnaître. De trois choses qui troublent le monde. De quatre choses tres-petites. De quatre choses qui marchent majestueusement.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Verba congregantis, filii vomen-tis. Visio, quam locutus est vir, cum quo est Deus, et qui Deo secum morante confortatus ait :",
+      "french": "Paroles de celui qui assemble, du fils de celui qui répand les vérités. Vision prophétique de l’homme qui a Dieu avec lui, et qui étant fortifié par la présence de Dieu, qui réside en lui, a dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0368.json",
+        "page_0369.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Stultissimus sum virorum, et sapientia hominum non est mecum.",
+      "french": "Je suis le plus insensé de tous les hommes, et la sagesse des hommes ne se trouve point en moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0370.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Non didici sapientiam, et non novi scientiam Sanctorum.",
+      "french": "Je n’ai point appris la sagesse, et je ne connais point la science des Saints.",
+      "annotations": null,
+      "source_pages": [
+        "page_0370.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quis ascendit in Cœlum atque descendit ? Quis continuit spiritum in manibus suis ? Quis colligavit aquas quasi in vestimento ? Quis suscitavit omnes terminos terræ ? Quod nomen est ejus, et quod nomen filii ejus, si nosti ?",
+      "french": "Qui est monté au Ciel, et qui en est descendu ? Qui a retenu l’esprit dans ses mains ? Qui a lié les eaux, comme dans un vêtement ? Qui a affermi toute l’étendue de la terre ? Quel est son nom, et quel est le nom de son fils, si vous le savez ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0371.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Omnis sermo Dei ignitus : clypeus est sperantibus in se.",
+      "french": "Toute parole de Dieu est enflamée ; il est un bouclier pour ceux qui espérent en lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0372.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ne addas quidquam verbis illius, et arguaris, inveniarisque mendax.",
+      "french": "N’ajoutez rien à ses paroles, de peur que vous n’en soyez repris, et trouvé menteur.",
+      "source_pages": [
+        "page_0373.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Duo rogavi te ; ne deneges mihi antequam moriar :",
+      "french": "Je vous ai demandé deux choses ; ne me les refusez pas avant que je meure :",
+      "annotations": null,
+      "source_pages": [
+        "page_0374.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Vanitatem, et verba mendacia longè fac à me.",
+      "french": "Eloignez de moi la vanité, et les paroles de mensonge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0374.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ne fortè satiatus illiciar ad negandum, et dicam : Quis est Dominus ? Aut egestate compulsus furer, et perjurem nomen Dei mei.",
+      "french": "De peur qu’étant rassasié, je ne sais tenté de vous renoncer, et de dire : Qui est le Seigneur ? Ou qu’étant contraint par la pauvreté, je ne dérobe, et que je ne viole par un parjure, le nom de mon Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0376.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Ne accuses servum ad Dominum suum, ne fortè maledicat tibi, et corruas.",
+      "french": "N’accusez point le serviteur devant son maître, de peur qu’il ne vous maudisse, et que vous ne tombiez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0376.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Generatio, quæ patri suo maledicit, et quæ matri suæ non benedicit.",
+      "french": "Il y a une race qui maudit son père, et qui ne bénit point sa mère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Generatio, quæ sibi munda videtur, et tamen non est lota à sordibus suis.",
+      "french": "Il y a une race qui se croit pure ; et qui néanmoins n’a point été lavée de ses tâches.",
+      "source_pages": [
+        "page_0378.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Generatio, cujus excelsi sunt oculi, et palpebræ ejus in alta surrectæ.",
+      "french": "Il y a une race dont les yeux sont altiers, et les paupières élevées.",
+      "source_pages": [
+        "page_0378.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Generatio, quæ pro dentibus gladios habet, et commandit molaribus suis, ut comedat inopes de terra, et pauperes ex hominibus.",
+      "french": "Il y a une race, qui au lieu de dents a des épées ; qui se sert de ses dents pour déchirer, et pour dévorer ceux qui n’ont rien sur la terre, et qui sont pauvres parmi les hommes.",
+      "source_pages": [
+        "page_0378.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Sanguisuga duæ sunt filiæ, dicentes : Affer, affer. Tria sunt insaturabilia, et quartum, quod nunquam dicit : Sufficit.",
+      "french": "La sangsuë a deux filles, qui disent toujours : Apporte, apporte. Il y a trois choses insatiables, et une quatrième, qui ne dit jamais : C’est assez.",
+      "source_pages": [
+        "page_0378.json",
+        "page_0379.json"
+      ],
+      "annotations": null
+    },
+    {
+      "verse_number": 16,
+      "latin": "Infernus, et os vulvæ, et terra, quæ non satiatur aqua : ignis verò nunquam dicit : Sufficit.",
+      "french": "L’enfer ; la matrice stérile, la terre qui ne se soûle point d’eau ; et le feu qui ne dit jamais : C’est assez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0379.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Oculum qui subsannat patrem, et qui despicit partum matris suæ, effodiant eum corvi de torrentibus, et comedant eum filii aquilæ.",
+      "french": "Que l’œil qui insulte à son père, et qui méprise l’enfantement de sa mère, soit arraché par les corbeaux des torrents, et dévoré par les enfants de l’aigle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0380.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Tria sunt difficilia mihi, et quartum penitus ignoro :",
+      "french": "Trois choses me sont difficiles à comprendre, et la quatrième m’est entiérement inconnuë ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0380.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Viam aquilæ in cœlo, viam colubri super petram, viam navis in medio mari, et viam viri in adolescentia.",
+      "french": "La trace de l’aigle dans l’air ; la trace du serpent sur le rocher ; la trace d’un navire au milieu de la mer ; et la voie de l’homme dans sa jeunesse.",
+      "source_pages": [
+        "page_0381.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Talis est, et via mulieris adulteræ, quæ comedit, et tergens os suum dicit : Non sum operata malum.",
+      "french": "Telle est la voie de la femme adultère, qui après avoir mangé, s’essuye la bouche, et dit : Je n’ai point fait de mal.",
+      "source_pages": [
+        "page_0381.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Per tria movetur terra, et quartum non potest sustinere.",
+      "french": "La terre est troublée par trois choses, et elle ne peut supporter la quatrième :",
+      "source_pages": [
+        "page_0382.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Per servum cùm regnaverit : per stultum cùm saturatus fuerit cibo :",
+      "french": "Par un esclave, lorsqu’il règne ; par un insensé, lorsqu’il est rassasié de pain.",
+      "source_pages": [
+        "page_0382.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Per odiosam mulierem, cùm in matrimonio fuerit assumpta : et per ancillam, cùm fuerit heres dominæ suæ.",
+      "french": "Par une femme digne de haine lorsqu’un homme l’a épousée ; et par une servante, lorsqu’elle est devenuë l’héritière de la maîtresse.",
+      "source_pages": [
+        "page_0382.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Quatuor sunt minima terræ, et ipsa sunt sapientiora sapientibus.",
+      "french": "Il y a quatre choses sur la terre qui sont très petites, et qui sont plus sages, que les sages mêmes :",
+      "source_pages": [
+        "page_0383.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Formicæ, populus infirmus, qui præparat in messe cibum sibi ;",
+      "french": "Les fourmis, ce petit peuple, qui fait sa provision pendant la moisson ;",
+      "source_pages": [
+        "page_0383.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Lepusculus, plebs invalida, qui collocat in petra cubile suum :",
+      "french": "Les lapins, cette troupe faible, qui établit sa demeure dans les roches ;",
+      "source_pages": [
+        "page_0383.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Regem locusta non habet, et egreditur universa per turmas suas",
+      "french": "Les sauterelles, qui n’ont point de Roi, et qui toutefois marchent toutes par bandes",
+      "annotations": null,
+      "source_pages": [
+        "page_0384.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Stellio manibus nititur, et moratur in ædibus Regis.",
+      "french": "Le lézard se soûtient sur ses mains, et il demeure dans le palais du Roi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0385.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Tria sunt quæ benè gradiuntur, et quartum, quod incedit feliciter :",
+      "french": "Il y a trois choses qui marchent bien ; et une quatrième qui marche magnifiquement :",
+      "annotations": null,
+      "source_pages": [
+        "page_0386.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Leo, fortiffimus beftiarum, ad nullius pavebit occurfum ;",
+      "french": "Le lion, le plus fort des animaux, qui ne craint rien de tout ce qu’il rencontre ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0387.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Gallus fuccinctus lumbos ; et aries ; nec eft Rex, qui refiftat ei.",
+      "french": "Le coq, dont la démarche est hardie ; et le belier ; et un Roi, à qui rien ne résiste.",
+      "annotations": null,
+      "source_pages": [
+        "page_0387.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Est qui stultus apparuit postquam elevatus est in sublime : si enim intellexisset, ori suo imposuisset manum.",
+      "french": "Il y a un homme qui a paru un insensé, après qu’il a été élevé en un rang sublime ; car s’il avait eu de l’intelligence, il aurait mis sa main sur sa bouche.",
+      "annotations": null,
+      "source_pages": [
+        "page_0388.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Qui autem fortiter premit ubera ad eliciendum lac, exprimit butyrum : et qui vehementer emungit, elicit sanguinem : et qui provocat iras, producit discordias.",
+      "french": "Celui qui presse fort la mammelle pour en tirer le lait, en fait sortir un suc épaissi : celui qui se mouche trop fort, tire le sang ; et celui qui excite la colère, produit les querelles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0389.json"
+      ]
+    }
+  ]
+}

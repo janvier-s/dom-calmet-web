@@ -1,0 +1,106 @@
+{
+  "book": "Psaumes",
+  "chapter": 15,
+  "chapter_summary": "David implore le secours de Dieu, parmi les Nations étrangères où il vivait. Il déclare qu’il ne veut prendre aucune part à leurs sacrifices, et à leur idolâtrie ; et qu’il met tout son bonheur dans le culte du Seigneur. Il rend grâces à Dieu de la protection dont il l’a honoré ; il espère tout de sa bonté. Enfin il prédit la Résurrection du Sauveur.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Conserva me, Domine, quoniam speravi in te. Dixi Domino : Deus meus es tu, quoniam bonorum meorum non eges.",
+      "french": "Conservez-moi, Seigneur, parce que j’ai espéré en vous. J’ai dit au Seigneur : Vous êtes mon Dieu, car vous n’avez aucun besoin de mes biens.",
+      "annotations": null,
+      "source_pages": [
+        "page_0224.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Sanctis qui sunt in terra ejus, mirificavit omnes voluntates meas in eis.",
+      "french": "Il a fait paraître d’une manière admirable toutes mes volontés, à l’égard des saints qui sont dans sa terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0225.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Multiplicata sunt infirmitates eorum : postea acceleraverunt.",
+      "french": "Après que leurs infirmités se sont multipliées, ils ont couru avec vitesse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0226.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Non congregabo conventicula eorum de sanguinibus : nec memor ero nominum eorum per labia mea.",
+      "french": "Je ne les réunirai point dans des assemblées particulières, pour répandre le sang des bêtes ; et je ne me souviendrai plus de leurs noms pour en parler.",
+      "annotations": null,
+      "source_pages": [
+        "page_0227.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Dominus pars hæreditatis meæ, et calicis mei : tu es qui restitues hæreditatem meam mihi.",
+      "french": "Le Seigneur est la part qui m’est échue en héritage, et la portion qui m’est destinée : C’est vous, Seigneur, qui me rendez l’héritage qui m’est propre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0228.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Funes ceciderunt mihi in præclaris ; etenim hæreditas mea præclara est mihi.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0228.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Benedicam Dominum, qui tribuit mihi intellectum : insuper et usque ad noctem increpuerunt me renes mei.",
+      "french": "Je bénirai le Seigneur ; de m’avoir donné l’intelligence ; et de ce que jusque dans la nuit même, mes reins m’ont repris, et instruit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0230.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Providebam Dominum in conspectu meo semper : quoniam à dextris est mihi, ne commovear.",
+      "french": "Je regardais le Seigneur ; et l’avais toujours devant mes yeux ; parce qu’il est à mon côté droit, pour empêcher que je ne sais ébranlé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0231.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Propter hoc lætatum est cor meum, et exultavit lingua mea : insuper et caro mea requiescet in spe.",
+      "french": "C’est pour cela que mon cœur s’est réjoui, et que ma langue a chanté des cantiques de joie, et que de plus ma chair même se reposera dans l’espérance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0232.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quoniam non derelinques animam meam in inferno : nec dabis sanctum tuum videre corruptionem.",
+      "french": "Parce que vous ne laisserez point mon âme dans l’enfer, et ne souffrirez point que votre Saint soit sujet à la corruption.",
+      "annotations": null,
+      "source_pages": [
+        "page_0233.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Notas mihi fecisti vias vitæ, adimplebis me lætitiâ cum vultu tuo : delectationes in dextera tua usque in finem.",
+      "french": "Vous m’avez donné la connaissance des voies de la vie : vous me comblerez de joie, en me montrant votre visage : des délices ineffables et éternelles sont dans votre droite.",
+      "source_pages": [
+        "page_0234.json"
+      ]
+    }
+  ]
+}

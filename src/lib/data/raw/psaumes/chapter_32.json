@@ -1,0 +1,200 @@
+{
+  "book": "Psaumes",
+  "chapter": 32,
+  "chapter_summary": "Le Psalmiste exhorte les Justes à louer le Seigneur, en considération de la puissance, de la justice, de la bonté qu’il fait paraître dans la création et le gouvernement de toute la terre.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Exultate justi, in Domino : rectos decet collaudatio.",
+      "french": "Justes, réjouissez-vous au Seigneur ; c’est a ceux qui ont le cœur droit, qu’il appartient de lui donner des louanges.",
+      "annotations": null,
+      "source_pages": [
+        "page_0430.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Confitemini Domino in cithara : in psalterio decem chordarum psallite illi.",
+      "french": "Louez le Seigneur avec la harpe ; chantez sa gloire sur l’instrument qui est à dix cordes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0430.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Cantate ei canticum novum : benè psallite ei in vociferatione.",
+      "french": "Chantez à sa gloire un nouveau cantique : célébrez-la par un concert qui soit accompagné de sons éclatants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0431.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quia rectum est verbum Domini, et omnia opera ejus in fide.",
+      "french": "Parce que la parole du Seigneur est droite, et que sa fidélité éclate dans toutes ses œuvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0431.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Diligit misericordiam et judicium : misericordiâ Domini plena est terra.",
+      "french": "Il aime la miséricorde et la justice : la terre est toute remplie de la miséricorde du Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0431.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Verbo Domini cœli firmati sunt : et spiritu oris ejus omnis virtus eorum.",
+      "french": "C’est par la parole du Seigneur que les cieux ont été affermis ; et c’est le souffle de sa bouche qui a produit toute leur vertu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0432.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Congregans sicut in utre aquas maris : ponens in thesauris abyssos.",
+      "french": "C’est lui qui rassemble toutes les eaux de la mer dans leur lit, comme en un vaisseau. C’est lui qui tient les abîmes renfermés dans ses trésors.",
+      "annotations": null,
+      "source_pages": [
+        "page_0433.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Timeat Dominum omnis terra : ab eo autem commoveantur omnes inhabitantes orbem.",
+      "french": "Que toute la terre craigne le Seigneur ; et que tous ceux qui habitent l’univers saient émus d’une sainte frayeur par sa présence.",
+      "annotations": null,
+      "source_pages": [
+        "page_0435.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Quoniam ipse dixit, et facta sunt : ipse mandavit, et creata sunt.",
+      "french": "Parce qu’il a parlé, et toutes choses ont été faites : il a commandé, et toutes choses ont été créées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0435.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Dominus dissipat consilia gentium : reprobat autem cogitationes populorum, et reprobat consilia Principum.",
+      "french": "Le Seigneur dissipe les desseins des Nations ; il rend vaines les pensées des peuples, et il renverse les conseils des Princes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0435.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Consilium autem Domini in æternum manet : cogitationes cordis ejus in generatione et generationem.",
+      "french": "Mais le conseil du Seigneur demeure éternellement, et les pensées de son cœur subsistent dans la suite de toutes les races.",
+      "annotations": null,
+      "source_pages": [
+        "page_0436.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Beata gens, cujus est Dominus Deus ejus : populus, quem elegit in hereditatem sibi !",
+      "french": "Heureuse la Nation qui a le Seigneur pour son Dieu ! heureux le peuple qu’il a choisi pour son héritage !",
+      "annotations": null,
+      "source_pages": [
+        "page_0436.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "De cœlo respexit Dominus : vidit omnes filios hominum.",
+      "french": "Le Seigneur a regardé du haut du ciel ; il a vu tous les enfants des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0436.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "De preparato habitaculo suo, respexit super omnes, qui habitant terram.",
+      "french": "De la demeure qu’il s’est préparée, il a jeté ses regards sur tous ceux qui habitent la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0436.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Qui finxit sigillatim corda eorum : qui intelligit omnia opera eorum.",
+      "french": "C’est lui qui a formé le cœur de chacun d’eux, et qui a une connaissance exacte de toutes leurs œuvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0437.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Non salvatur Rex per multam virtutem : et gigas non salvabitur in multitudine virtutis suæ.",
+      "french": "Ce n’est point dans sa grande puissance qu’un Roi trouve son salut ; et le géant ne se sauvera point non plus par sa force extraordinaire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0437.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Fallax equus ad salutem : in abundantia autem virtutis suæ non salvabitur.",
+      "french": "Le cheval trompe souvent celui qui en attend son salut : et toute sa force, quelque grande qu’elle soit, ne le sauvera point.",
+      "source_pages": [
+        "page_0438.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Ecce oculi Domini super metuentes eum : et in eis qui sperant super misericordia ejus.",
+      "french": "Mais les yeux du Seigneur sont arrêtés sur ceux qui le craignent, et sur ceux qui mettent leur espérance en sa miséricorde ;",
+      "source_pages": [
+        "page_0438.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Ut eruat à morte animas eorum, et alat eos in fame.",
+      "french": "Pour délivrer leurs âmes de la mort, et les nourrir dans leur faim.",
+      "source_pages": [
+        "page_0438.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Anima nostra sustinet Dominum : quoniam adjutor et protector noster est.",
+      "french": "Notre âme attend le Seigneur avec patience ; parce qu’il est notre secours et notre protecteur :",
+      "source_pages": [
+        "page_0438.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Quia in eo lætabitur cor nostrum : et in nomine sancto ejus speravimus.",
+      "french": "Parce que notre cœur trouvera sa joie en lui, et que nous avons espéré en son saint Nom.",
+      "source_pages": [
+        "page_0438.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Fiat misericordia tua, Domine, super nos : quemadmodum speravimus in te.",
+      "french": "Faites paraître votre miséricorde sur nous, Seigneur, selon l’espérance que nous avons eue en vous.",
+      "source_pages": [
+        "page_0438.json"
+      ]
+    }
+  ]
+}

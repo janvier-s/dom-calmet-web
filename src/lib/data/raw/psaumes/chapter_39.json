@@ -1,0 +1,218 @@
+{
+  "book": "Psaumes",
+  "chapter": 39,
+  "chapter_summary": "Le Prophète rend grâces à Dieu de l’avoir tiré d’un très grand danger. Il dit qu’il ne lui offrira ni holocauste, ni victime ; mais qu’il s’offrira lui-même tout entier à son service. Il lui demande la continuation de son secours, et de ses faveurs.\nIn finem, Psalmus ipsi David. | Pour la fin, Pseaume à David même.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem. Psalmus ipsi David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0520.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Expectans expectavi Dominum, et intendit mihi.",
+      "french": "J’ai attendu, et je ne me suis point lassé d’attendre le Seigneur, et il m’a enfin regardé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0520.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et exaudivit preces meas : et eduxit me de lacu miseriæ, et de luto fæcis.",
+      "french": "Il a exaucé mes prières ; et m’a tiré de l’abîme de misère, et de la boue profonde où j’étais.",
+      "annotations": null,
+      "source_pages": [
+        "page_0520.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et statuit super petram pedes meos : et direxit gressus meos.",
+      "french": "Et il a placé mes pieds sur la pierre, et conduit mes pas.",
+      "annotations": null,
+      "source_pages": [
+        "page_0520.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et immisit in os meum canticum novum, carmen Deo nostro.",
+      "french": "Et il m’a mis dans la bouche un cantique nouveau, pour être chanté à la gloire de notre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0521.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Videbunt multi, et timebunt, et sperabunt in Domino.",
+      "french": "Plusieurs le verront, et seront remplis de crainte ; et ils mettront leur espérance au Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0521.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Beatus vir, cujus est nomen Domini spes ejus : et non respexit in vanitates, et insanias falsas.",
+      "french": "Heureux est l’homme qui a mis son espérance au Seigneur ; et qui n’a point arrêté la vue sur des vanités, et sur des objets également pleins d’extravagance, et de tromperie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0521.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Multa fecisti tu, Domine, Deus meus, mirabilia tua : et cogitationibus tuis non est qui similis sit tibi.",
+      "french": "Vous avez fait, Seigneur mon Dieu, un grand nombre d’œuvres admirables ; et nul n’est semblable à vous dans vos pensées.",
+      "source_pages": [
+        "page_0522.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Annuntiavi et locutus sum : multiplicati sunt super numerum.",
+      "french": "Lorsque j’ai voulu les annoncer, et en parler, leur multitude m’a paru innombrable.",
+      "source_pages": [
+        "page_0522.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Sacrificium et oblationem noluisti : aures autem perfecisti mihi.",
+      "french": "Vous n’avez voulu ni sacrifice, ni oblation ; mais vous m’avez donné des oreilles ; pour vous obéir parfaitement.",
+      "source_pages": [
+        "page_0523.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Holocaustum et pro peccato non postulasti : tunc dixi : Ecce venio.",
+      "french": "Vous n’avez point demandé d’holocauste, ni de sacrifice pour le péché ; et j’ai dit alors : Me voici, je viens.",
+      "source_pages": [
+        "page_0525.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "In capite libri scriptum est de me, ut facerem voluntatem tuam : Deus meus, volui, et legem tuam in medio cordis mei.",
+      "french": "Il est écrit de moi à la tête du Livre ; Que je dois faire votre volonté. C’est aussi, mon Dieu, ce que j’ai voulu ; et votre Loi est gravée au fond de mon cœur.",
+      "source_pages": [
+        "page_0525.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Annuntiavi justitiam tuam in ecclesia magna ; ecce labia mea non prohibebo : Domine, tu scisti.",
+      "french": "J’ai publié votre justice dans une grande assemblée ; et j’ai résolu de ne point fermer mes lèvres : Seigneur, vous le connaissez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0527.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Justitiam tuam non abscondi in corde meo : veritatem tuam, et salutare tuum dixi.",
+      "french": "Je n’ai point caché votre justice au fond de mon cœur ; j’ai déclaré votre vérité, et votre miséricorde salutaire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0528.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Non abscondi misericordiam tuam, et veritatem tuam, à consilio multo.",
+      "french": "Je n’ai point caché votre miséricorde et votre vérité, à une grande multitude de peuples.",
+      "annotations": null,
+      "source_pages": [
+        "page_0528.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Tu autem, Domine, ne longè facias miserationes tuas à me : misericordia tua et veritas tua semper susceperunt me.",
+      "french": "Vous donc, Seigneur, n’éloignez point de moi les effets de votre bonté ; vous de qui la miséricorde et la vérité m’ont toujours servi d’appui.",
+      "source_pages": [
+        "page_0529.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Quoniam circumdederunt me mala, quorum non est numerus : comprehenderunt me iniquitates meæ, et non potui ut viderem.",
+      "french": "Car je me trouve environné de maux qui font innombrables : mes iniquités m’ont enveloppé, et je n’ai pu les voir toutes.",
+      "source_pages": [
+        "page_0529.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Multiplicata sunt super capillos capitis mei : et cor meum dereliquit me.",
+      "french": "Elles ont surpassé par leur multitude le nombre des cheveux de ma tête ; jusque-là que mon cœur même m’a manqué.",
+      "source_pages": [
+        "page_0530.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Complaceat tibi, Domine, ut eruas me : Domine, ad adjuvandum me respice.",
+      "french": "Qu’il vous plaise, Seigneur, de m’en délivrer, par votre puissance : Seigneur, regardez vers moi, pour me secourir.",
+      "source_pages": [
+        "page_0530.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Confundantur et revereantur simul, qui quærunt animam meam, ut auferant eam.",
+      "french": "Que ceux-là saient confondus, et couverts de honte, qui cherchent ma vie pour me l’ôter.",
+      "source_pages": [
+        "page_0530.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Convertantur retrorsum, et revereantur qui volunt mihi mala.",
+      "french": "Que ceux qui veulent m’accabler de maux, saient obligés de retourner en arrière, et chargés de confusion.",
+      "source_pages": [
+        "page_0530.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Ferant confestim confusionem suam, qui dicunt mihi : Euge, euge.",
+      "french": "Que ceux qui me disent des paroles de raillerie, et d’insulte, en reçoivent promptement la honte.",
+      "source_pages": [
+        "page_0530.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Exultent et lætentur super te omnes quærentes te, et dicant semper : Magnificetur Dominus : qui diligunt salutare tuum.",
+      "french": "Mais que tous ceux qui vous cherchent, se réjouissent en vous, et saient transportés de joie : et que ceux qui aiment le salut qui vient de vous, disent sans cesse : Que le Seigneur soit reconnu et loué dans sa grandeur.",
+      "source_pages": [
+        "page_0531.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Ego autem mendicus sum, et pauper : Dominus sollicitus est mei.",
+      "french": "Pour moi, je suis pauvre, et dans l’indigence : et le Seigneur prend soin de moi.",
+      "source_pages": [
+        "page_0531.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Adjutor meus, et protector meus tu es : Deus meus, ne tardaveris.",
+      "french": "C’est vous qui êtes mon aide tout-puissant, et mon protecteur. Mon Dieu, ne tardez pas à venir à mon secours.",
+      "source_pages": [
+        "page_0531.json"
+      ]
+    }
+  ]
+}

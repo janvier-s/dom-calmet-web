@@ -1,0 +1,350 @@
+{
+  "book": "Psaumes",
+  "chapter": 67,
+  "chapter_summary": "Le Prophète demande au Seigneur, qu’il paraisse devant son peuple, et qu’il dissipe ses ennemis, par sa présence. Il décrit la pompe de sa marche, et les merveilles qu’il opéra dans le désert. Il excite tout le peuple à bénir, et à louer ce souverain Seigneur.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem. Psalmus cantici ipsi David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0806.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Exurgat Deus, et dissipentur inimici ejus : et fugiant qui oderunt eum, à facie ejus.",
+      "french": "Que le Seigneur se lève, et que ses ennemis saient dissipés ; et que ceux qui le haïssent, fuient de devant sa face.",
+      "annotations": null,
+      "source_pages": [
+        "page_0806.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Sicut deficit fumus, deficiant : ficut fluit cera à facie ignis, fic pereant peccatores à facie Dei.",
+      "french": "Comme la fumée disparoît ; qu’ils disparaissent de même ; et comme la cire se fond au feu, que les pécheurs périssent aussi devant la face de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0807.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et justi epulentur, et exultent in conspectu Dei : et delectentur in lætitia.",
+      "french": "Mais que les Justes saient comme dans un festin ; qu’ils se réjouissent en la présence de Dieu, et qu’ils saient dans des transports de joie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0807.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Cantate Deo, psalmum dicite nomini ejus : iter facite ei, qui ascendit super occasum : Dominus nomen illi.",
+      "french": "Chantez les louanges de Dieu, faites retentir des cantiques à la gloire de son nom ; préparez le chemin à celui qui est monté sur le couchant ; le Seigneur est son nom,",
+      "annotations": null,
+      "source_pages": [
+        "page_0807.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Exultate in conspectu ejus : turbabuntur à facie ejus, patris orphanorum, et judicis viduarum.",
+      "french": "Soyez dans de saints transports de joie en sa présence : ses ennemis seront remplis de trouble à la vue de son visage ; lui qui est le père des orphelins, et le Juge des veuves.",
+      "annotations": null,
+      "source_pages": [
+        "page_0808.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Deus in loco sancto suo : Deus qui inhabitare facit unius moris in domo.",
+      "french": "Dieu est présent dans son lieu Saint ; Dieu fait demeurer dans sa maison, ceux qui n’ont qu’un même esprit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0808.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Qui educit vinctos in fortitudine : similiter eos qui exasperant, qui habitant in sepulchris.",
+      "french": "Il délivre et fait sortir par sa puissance, ceux qui étaient dans les liens ; comme il a délivré ceux qui irritaient sa colère, et qui habitaient dans des sépulcres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0809.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Deus, cùm egredereris in conspectu populi tui, cùm pertransires in deserto ;",
+      "french": "Ô Dieu, quand vous marchiez devant votre peuple, quand vous passiez dans le désert.",
+      "annotations": null,
+      "source_pages": [
+        "page_0810.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Terra mota est, etenim cæli distillaverunt à facie Dei Sinai, à facie Dei Israël.",
+      "french": "La terre fut ébranlée, et les Cieux fondirent en eaux devant le Dieu de Sinaï, devant le Dieu d’Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0810.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Pluviam voluntariam segregabis, Deus, hereditati tuæ : et infirmata est ; tu verò perfecisti eam.",
+      "french": "Vous avez séparé, ô Dieu, et vous avez destiné pour les peuples qui sont votre héritage, une pluie toute volontaire : et s’ils ont été affaiblis, vous leur avez donné votre protection.",
+      "annotations": null,
+      "source_pages": [
+        "page_0811.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Animalia tua habitabunt in ea : parasti in dulcedine tua pauperi, Deus.",
+      "french": "Vos animaux y subsisteront : vous avez, ô Dieu, préparé par un effet de votre douceur, une nourriture pour le pauvre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0811.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Dominus dabit verbum evangelizantibus, virtute multa.",
+      "french": "Le Seigneur remplira de sa parole les hérauts de sa gloire, afin qu’ils l’annoncent avec une grande force.",
+      "annotations": null,
+      "source_pages": [
+        "page_0812.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Rex virtutum dilecti, dilecti : et speciei domus dividere spolia.",
+      "french": "Le Roi le plus fort tombera sous celui qui est chéri, et le bien-aimé de Dieu : et le partage qu’il fera des dépouilles des vaincus, contribuera à la beauté de sa maison.",
+      "annotations": null,
+      "source_pages": [
+        "page_0813.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Si dormiatis inter medios cleros, pennæ columbæ deargentatæ, et posteriora dorsi ejus in pallore auri.",
+      "french": "Quand vous seriez comme à demi-morts au milieu des plus grands périls, vous deviendrez comme la colombe, dont les ailes sont argentées, et dont l’extrémité du dos représente l’éclat de l’or.",
+      "annotations": null,
+      "source_pages": [
+        "page_0814.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Dum discernit cœlestis Reges super eam : nive dealbabuntur in Selmon : mons Dei, mons pinguis.",
+      "french": "Pendant que le Roi du Ciel exerce son jugement sur les Rois, en faveur de notre terre, ils deviendront blancs comme la neige du mont de Selmon. La montagne de Dieu est une montagne grasse.",
+      "annotations": null,
+      "source_pages": [
+        "page_0816.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Mons coagulatus, mons pinguis. Ut quid suspicamini montes coagulatos ?",
+      "french": "C’est une montagne fertile, et remplie de graisse. Mais pourquoi regardez-vous avec admiration des montagnes qui sont grasses et fertiles ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0817.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Mons, in quo beneplacitum est Deo habitare in eo : etenim Dominus habitabit in finem.",
+      "french": "C’est une montagne où il a plû à Dieu d’habiter : car le Seigneur y demeurera jusqu’à la fin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0817.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Currus Dei decem millibus multiplex, millia lætantium, Dominus in eis, in Sina, in Sancto.",
+      "french": "Le char de Dieu est environné de plus de dix mille ; ce sont des milliers de Saints qui sont dans des transports de joie ; le Seigneur est au milieu d’eux dans son sanctuaire, comme autrefois à Sinaï.",
+      "annotations": null,
+      "source_pages": [
+        "page_0818.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Ascendisti in altum, cepisti captivitatem : accepisti dona in hominibus.",
+      "french": "Vous êtes monté en haut ; vous avez emmené un grand nombre de captifs : vous avez reçu des présents des hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0819.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Etenim non credentes, inhabitare Dominum Deum.",
+      "french": "Vous avez assujetti ceux qui ne croyaient pas que le Seigneur fût au milieu de son peuple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0820.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Benedictus Dominus die quotidie : prosperum iter faciet nobis Deus salutarium nostrorum.",
+      "french": "Que le Seigneur soit béni dans toute la suite des jours : Que ce Dieu qui est notre Libérateur, nous donne un heureux voyage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0820.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Deus noster, Deus salvos faciendi : et Domini, Domini exitus mortis.",
+      "french": "Notre Dieu est le Dieu qui sauve, et le Seigneur est le maître de délivrer de la mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0821.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Verumtamen Deus confringet capita inimicorum suorum : verticem capilli perambulantium in delictis suis.",
+      "french": "Mais Dieu brisera les têtes de ses ennemis, les têtes superbes de ceux, qui marchent avec complaisance dans leurs péchés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0821.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Dixit Dominus : Ex Basan convertam, convertam in profundum maris.",
+      "french": "Le Seigneur a dit : Je vous retirerai d’entre les mains du Roi de Basan ; et je vous retirerai du fond de la mer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0822.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Ut intingatur pes tuus in sanguine : lingua canum tuorum ex inimicis, ab ipso.",
+      "french": "En sorte que votre pied sera teint dans le sang de vos ennemis ; et que la langue de vos chiens en sera aussi abreuvée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0822.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Viderunt ingressus tuos, Deus ; ingressus Dei mei, Regis mei qui est in Sancto.",
+      "french": "Ils ont vu, ô Dieu, votre marche, la marche de mon Dieu, de mon Roi, qui réside dans son Sanctuaire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0823.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Prævenerunt Principes conjuncti psallentibus, in medio juvencularum tympanistriarum.",
+      "french": "Et les Princes conjointement avec ceux qui chantent de saints cantiques, marchaient devant lui, au milieu des jeunes filles, qui battaient du tambour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0823.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "In ecclesiis benedicite Deo ; Domino, de fontibus Israël.",
+      "french": "Bénissez Dieu dans les assemblées : bénissez le Seigneur, vous qui êtes des ruisseaux sortis des sources d’Israël.",
+      "annotations": null,
+      "source_pages": [
+        "page_0824.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Ibi Benjamin adolescentulus, in mentis excessu.",
+      "french": "Là se trouve le petit Benjamin, tout ravi de joie et d’admiration.",
+      "annotations": null,
+      "source_pages": [
+        "page_0824.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Principes Juda, duces eorum : Principes Zabulon, Principes Nephthali.",
+      "french": "Là se trouvent les Princes de Juda leurs chefs ; les Princes de Zabulon, et les Princes de Nephtali.",
+      "annotations": null,
+      "source_pages": [
+        "page_0825.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Manda, Deus, virtuti tuæ : confirma hoc, Deus, quod operatus es in nobis,",
+      "french": "Faites éclater, ô Dieu, en notre faveur votre vertu toute-puissante : ô Dieu, affermissez ce que vous avez fait en nous,",
+      "annotations": null,
+      "source_pages": [
+        "page_0825.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "A Templo tuo in Jerusalem. Tibi offerent Reges munera.",
+      "french": "Au milieu de votre Temple, qui est dans Jérusalem. Les Rois vous offriront des présents.",
+      "annotations": null,
+      "source_pages": [
+        "page_0826.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Increpa feras arundinis, congregatio taurorum in vaccis populorum : ut excludant eos, qui probati sunt argento.",
+      "french": "Réprimez ces bêtes sauvages qui habitent dans les roseaux : cette assemblée de peuples semblables à des taureaux qui sont au milieu des troupeaux de vaches, et qui ont conspiré de chasser ceux qui ont été éprouvés comme l’argent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0827.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Diffipa gentes, quæ bella volunt : venient legati ex Ægypto : Æthiopia præveniet manus ejus Deo.",
+      "french": "Dissipez les Nations, qui ne respirent que la guerre. Il viendra de l’Égypte des Ambassadeurs : l’Éthiopie sera la première à tendre ses mains vers Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0829.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Regna terræ, cantate Deo ; psallite Domino : psallite Deo, qui ascendis super cœlum cœli, ad Orientem.",
+      "french": "Royaumes de la terre, chantez les louanges de Dieu ; faites retentir des cantiques à la gloire du Seigneur ; chantez en l’honneur de Dieu, qui est monté au-dessus de tous les Cieux vers l’Orient.",
+      "annotations": null,
+      "source_pages": [
+        "page_0830.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Ecce dabit voci suæ, vocem virtutis : date gloriam Deo super Israël : magnificentia ejus, et virtus ejus in nubibus.",
+      "french": "Sachez qu’il rendra sa voix une voix forte, et puissante : rendez gloire à Dieu, pour les prodiges qu’il a faits en faveur d’Israël. Sa magnificence et sa force paraissent dans les nuées.",
+      "annotations": null,
+      "source_pages": [
+        "page_0831.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Mirabilis Deus in Sanctis suis. Deus Israël ipse dabit virtutem et fortitudinem plebi suæ : benedictus Deus.",
+      "french": "Dieu est admirable dans ses Saints. Le Dieu d’Israël donnera à son peuple une vertu et une force invincible. Que Dieu soit béni.",
+      "annotations": null,
+      "source_pages": [
+        "page_0832.json"
+      ]
+    }
+  ]
+}

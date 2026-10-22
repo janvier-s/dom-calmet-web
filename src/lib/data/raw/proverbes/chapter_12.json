@@ -1,0 +1,247 @@
+{
+  "book": "Proverbes",
+  "chapter": 12,
+  "chapter_summary": "Aimer la correction ; cultiver la piété. La femme vigilante. Sort différent des bons, et des méchants. Pauvre qui se suffit à lui-même. Du fainéant, et de l’ivrogne. De l’insensé, et du sage. Des biens, et des maux causez par la langue.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Qui diligit disciplinam, diligit scientiam : qui autem odit increpationes, insipiens est.",
+      "french": "Celui qui aime la correction, aime la science ; mais celui qui hait les réprimandes, est un insensé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Qui bonus est, hauriet gratiam à Domino : qui autem confidit in cogitationibus suis, impiè agit.",
+      "french": "Celui qui est bon, puisera la grâce du Seigneur ; mais celui qui met sa confiance en ses propres pensées, agit en impie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Non roborabitur homo ex impietate : et radix justorum non commovebitur.",
+      "french": "L’homme ne s’affermira point par l’impiété : la racine des justes sera inébranlable.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Mulier diligens, corona est viro suo : et putredo in ossibus ejus, quæ confusione res dignas gerit.",
+      "french": "La femme vigilante est la couronne de son mari : et celle qui fait des choses dignes de confusion, sera sécher le sien jusqu’au fond des os.",
+      "annotations": null,
+      "source_pages": [
+        "page_0125.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Cogitationes justorum judicia : et consilia impiorum fraudulenta.",
+      "french": "Les pensées des justes sont pleines de droiture : les desseins des méchants sont pleins de tromperies.",
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Verba impiorum insidiantur sanguini : os justorum liberabit eos.",
+      "french": "Les paroles des méchants dressent des embûches, pour verser le sang : mais la langue des justes les délivrera.",
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Verte impios, et non erunt : domus autem justorum permanebit.",
+      "french": "Au moindre changement les méchants tombent, et ne sont plus : la maison des justes demeurera ferme.",
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Doctrinâ suâ noscetur vir : qui autem vanus et excors est, patebit contemptui.",
+      "french": "L’homme sera connu par sa doctrine : mais celui qui est vain, et n’a point de sens, tombera dans le mépris.",
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Melior est pauper, et sufficiens sibi, quàm gloriosus et indigens pane.",
+      "french": "Le pauvre qui se suffit à lui-même, vaut mieux qu’un homme glorieux, qui n’a point de pain.",
+      "source_pages": [
+        "page_0127.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Novit justus jumentorum suorum animas ; viscera autem impiorum crudelia.",
+      "french": "Le juste se met en peine de la vie des bêtes qui sont à lui ; mais les entrailles des méchants sont cruelles.",
+      "source_pages": [
+        "page_0127.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Qui suavis est in vini demorationibus, in suis munitionibus relinquit contumeliam.",
+      "french": "Celui qui passe le temps à boire du vin avec plaisir, laissera des marques de sa honte dans ses places fortes.",
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Desiderium impii munimentum est pessimorum : radix autem justorum proficiet.",
+      "french": "Le desir de l’impie est de s’appuyer de la force des plus méchants ; mais la racine des justes germera de plus en plus.",
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Propter peccata labiorum ruina proximat malo : effugiet autem justus de angustia.",
+      "french": "Le méchant attire sa ruine par les péchés de ses lèvres : mais le juste sera délivré des maux pressants.",
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "De fructu oris sui unusquisque replebitur bonis, et juxta opera manuum suarum retribuetur ei.",
+      "french": "L’homme sera rempli de biens, selon le fruit de sa bouche ; et il lui sera rendu selon les œuvres de ses mains.",
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Via stulti recta in oculis ejus : qui autem sapiens est, audit consilia.",
+      "french": "La voie de l’insensé est droite à ses yeux : celui qui est sage écoute les conseils.",
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Fatuus statim indicat iram suam : qui autem dissimulat injuriam, callidus est.",
+      "french": "L’insensé découvre d’abord sa colère ; mais celui qui dissimule l’injure, est un homme habile.",
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Qui quod novit loquitur, index justitiæ est : qui autem mentitur, testis est fraudulentus.",
+      "french": "Celui qui assûre ce qu’il sait bien, rend un témoignage juste ; mais celui qui ment est un témoin trompeur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Est qui promittit, et quasi gladio pungitur conscientiæ : lingua autem sapientium sanitas est.",
+      "french": "Tel promet, qui est percé ensuite comme d’une épée, par sa conscience : mais la langue des sages est une source de santé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Labium veritatis firmum erit in perpetuum : qui autem testis est repentinus, concinnat linguam mendacii.",
+      "french": "La bouche véritable ne se démentira point : mais le témoin précipité se fait une langue de mensonge.",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Dolus in corde cogitantium mala : qui autem pacis ineunt consilia, sequetur eos gaudium.",
+      "french": "Ceux qui forment de mauvais desseins, ont la tromperie dans le cœur ; mais ceux qui n’ont que des conseils de paix, seront dans la joie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Non contristabit justum quidquid ei acciderit : impii autem replebuntur malo.",
+      "french": "Quoiqu’il arrive au juste, il ne s’attristera point : mais les méchants auront le cœur pénétré d’affliction.",
+      "annotations": null,
+      "source_pages": [
+        "page_0132.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Abominatio est Domino labia mendacia : qui autem fideliter agunt, placent ei.",
+      "french": "Les lèvres menteuses sont en abomination au Seigneur ; mais ceux qui agissent sincérement, lui sont agréables.",
+      "annotations": null,
+      "source_pages": [
+        "page_0133.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Homo versutus celat scientiam : et cor insipientium provocat stultitiam.",
+      "french": "L’homme habile cache sa science : le cœur de l’insensé publie sa folie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0133.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Manus fortium dominabitur : quæ autem remissa est, tributis serviet.",
+      "french": "La main des forts dominera : la main relâchée sera tributaire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0133.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Mæror in corde viri humiliabit illum ; et sermone bono lætificabitur.",
+      "french": "La tristesse du cœur humiliera l’homme ; et une bonne nouvelle le réjouira.",
+      "annotations": null,
+      "source_pages": [
+        "page_0134.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Qui negligit damnum propter amicum, justus est : iter autem impiorum decipiet eos.",
+      "french": "Celui qui pour son ami néglige une perte, est juste ; mais la voie des méchants les séduira.",
+      "annotations": null,
+      "source_pages": [
+        "page_0134.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Non inveniet fraudulentus lucrum : et substantia hominis erit auri pretium.",
+      "french": "Le trompeur ne jouira point du gain qu’il cherche : les richesses de l’homme juste sont précieuses comme l’or.",
+      "annotations": null,
+      "source_pages": [
+        "page_0134.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "In semita justitiæ, vita : iter autem devium ducit ad mortem.",
+      "french": "La vie est dans le sentier de la justice ; mais le, chemin détourné conduit à la mort.",
+      "source_pages": [
+        "page_0135.json"
+      ]
+    }
+  ]
+}

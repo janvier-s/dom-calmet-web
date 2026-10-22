@@ -1,0 +1,138 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "levavi oculos meos in montes, unde veniet auxilium mihi.",
+      "lemma": "J’ai levé mes yeux vers les montagnes, d’où me doit venir le secours que j’attens.",
+      "text": "Jérusalem était bâtie sur une montagne, et la Judée était un pays montueux. Les captifs de Babylone se tournaient toujours du côté de Jérusalem, pour prier, comme on le voit par l’exemple de Daniel. [1] C’est de-là qu’ils attendaient leur Libérateur, et le secours du Seigneur. Ils avaient toujours les yeux tournez de ce côté-là."
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "non det in commotionem pedem tuum, etc.",
+      "lemma": null,
+      "text": "Qu’il ne permette point que votre pied soit ébranlé ; et que celui qui vous garde, ne s’endorme point. C’est le Prophète qui se répond à lui-même. Console-toi, mon âme ; ce Dieu dont tu attens le secours, ne permettra pas que tu tombes, ni que les gardiens d’Israël s’endorment. Attens avec patience les moments du Seigneur. L’Hébreu lit au futur : [2] _Il n’abandonnera pas vos pieds_, en sorte que vous soyez ébranlé ; et celui qui vous garde, ne dormira point. Il vous conserve, et il vous soûtient ; ne craignez point qu’il vous laisse tomber, ni qu’il s’endorme. _Si vis habere custodem non dormientem, Deum elige custodem_, dit saint Augustin. Aquila, Symmaque, et Théodotion lisent à la seconde personne : [3] _Ne vous laissez point tomber_. Saint Augustin, Apollinaire, saint Chrysostome, Origénes, et Théodore d’Héraclée ont lû de même dans les Septante : _Non des ad movendum pedem tuum_."
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "Dominus protectio tua, super manum dexteram tuam.",
+      "lemma": "[4] Le Seigneur est à votre main droite, pour vous donner sa protection. L’Hébreu : [5] Le Seigneur est votre ombre sur votre main droite. Il est à votre côté, et vous marchez sous son ombre, sous sa protection. Quelques Exemplaires des Septante [6] lisent : Que le Seigneur vous garde ; d’autres : Il vous gardera ; la Vulgate : Il vous garde. Comparez ce passage au Pseaume xc. 4. 7. 11. et Pf. xv. 8. Quoniam à dextris est mihi, ne commovear.",
+      "text": ""
+    },
+    {
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": "per diem sol non uret te, neque luna per noctem.",
+      "lemma": "Le soleil ne vous brûlera point pendant le jour, ni la lune pendant la nuit.",
+      "text": "Les Anciens attribuaient apparemment le froid de la nuit à la lune, comme la chaleur du jour au soleil ; [7] et ils appellaient du même nom de brûlure, l’effet du froid sur les corps, comme celui du chaud ; parce qu’ils voyaient que l’un et l’autre desseche, et fait mourir les plantes. gâte les fruits, fanne les feüilles, et les fleurs, et laisse sur les corps vivants à peu près les mêmes marques, et les mêmes impressions. Jacob dans la Genèse, disait à Laban : [8] _J’étais brûlé nuit et jour par le chaud, j’étais consumé, j’étais mangé par le chaud du jour, et par le froid de la nuit._ Les Auteurs Grecs, et Latins ont aussi attribué au froid la vertu de brûler, comme au chaud. [9] Virgile : [10]\n_Ne tenues pluviæ, rapidóve potentia solis\nAcrior, aut boreæ penetrabile frigus adurat._\nEt Ovide : [11]\n_Ustus ab assiduo frigore Pontus habet._\nEt ailleurs :\n_Me tenet astricto terra perusta gelu._\nEt Justin parlant des Scythes : [12] _Quamquam continuis frigoribus urantur._ Le Caldéen : Vous ne serez point effrayé des spectres du matin, quand le soleil domine ; ni la nuit, sous l’empire de la lune. Isaïe prédisant le retour des Israëlites dans leur pays, [13] dit que la chaleur, ni le soleil ne les incommoderont point, et que le Seigneur les conduira dans des lieux, où il y aura des sources abondantes ; et ailleurs, [14] qu’il leur donnera un couvert, où ils seront à l’abri de la chaleur excessive, et en sûreté contre la pluie, et la tempête. Saint Jérôme par le soleil, entend la prospérité ; et par la lune, l’adversité. Le Seigneur vous conduira sans danger au milieu des biens, et des maux de cette vie."
+    },
+    {
+      "verse": 8,
+      "sub": false,
+      "latin_lemma": "Dominus custodiat introitum tuum, et exitum tuum, etc.",
+      "lemma": "Que le Seigneur soit votre garde, tant à votre entrée, qu’à votre sortie",
+      "text": "L’entrée et la sortie désignent toute la vie, [15] toute la conduite, toutes les entreprises, tant au dedans, qu’au dehors. Voyez Deutéronome 28:6, 19. Nombres 27:17. et 1 Rois 29:6. et 3 Rois 3:7. et 2 Paralipomènes 1:10. et Actes 1:21. etc."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0244>page_0245",
+      "verse": 3,
+      "mode": "flow",
+      "before": " point que votre pied soit ébranlé ; et que celui qui vous",
+      "after": "garde, ne s’endorme point. C’est le Prophète qui se répond"
+    },
+    {
+      "seam": "page_0245>page_0246",
+      "verse": 6,
+      "mode": "hyphen",
+      "before": " que l’un et l’autre desseche, et fait mourir les plantes.",
+      "after": "tes, gâte les fruits, fanne les feüilles, et les fleurs, e"
+    }
+  ],
+  "pages_used": [
+    "page_0244",
+    "page_0245",
+    "page_0246"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0244-a",
+      "n": 1,
+      "text": "Voyez Deutéronome 32,11 ; Matthieu 23,37."
+    },
+    {
+      "key": "page_0245-a",
+      "n": 2,
+      "text": "Psaumes 72,7."
+    },
+    {
+      "key": "page_0245-b",
+      "n": 3,
+      "text": "(9.) מפני רשעים זו שדוני אויבי בנפש יקיפו עלי (10.) חלבמו סגרו פימו דברו בגאות"
+    },
+    {
+      "key": "page_0245-c",
+      "n": 4,
+      "text": "_Ludov. de Dieu. Vide et Muis, et Kimchi, et Abenezra._"
+    },
+    {
+      "key": "page_0245-d",
+      "n": 5,
+      "text": "יהוה צלך על יד ימינך Quid. Κυριος σκεπάζει την δεξίαν σου. _Juxta manum dexteram tuam_."
+    },
+    {
+      "key": "page_0245-e",
+      "n": 6,
+      "text": "Quid. Φυλάξει. Alii, Φυλάξοι."
+    },
+    {
+      "key": "page_0245-f",
+      "n": 7,
+      "text": "_Vide Theodoret_."
+    },
+    {
+      "key": "page_0246-a",
+      "n": 8,
+      "text": "_Vide Theodoret et Symmach._ τὸ ἀδικεῖν βλέπειν, ἀλλ᾽ ὑπεκκλίνειν ἔχουσι τῆς δικαίας τὸ ὄμμα. Οὕτω δὲ καὶ ὁ Σύμμαχος ἡρμήνευσε. τῆς ὀφθαλμὸς ἀυτῶν ἐπεκκλινέτω ἐπὶ γῆς."
+    },
+    {
+      "key": "page_0246-b",
+      "n": 9,
+      "text": "Isaïe 1,15."
+    },
+    {
+      "key": "page_0246-c",
+      "n": 10,
+      "text": "_Æneid._ 1."
+    },
+    {
+      "key": "page_0246-d",
+      "n": 11,
+      "text": "אשרנו פתה סבבונו עיניהם ישיתו לנטות בארץ"
+    },
+    {
+      "key": "page_0246-e",
+      "n": 12,
+      "text": "_Symmach. Marseil._ της [ILLEGIBLE] ἀδελφικὸν της ἐσθαλμὸς ἀυτῶν ἔταξαν ἐπεκκλινέτω ἐπὶ γῆς. _Vide Euseb. hic. et Theodoret._"
+    },
+    {
+      "key": "page_0246-f",
+      "n": 13,
+      "text": "Isaïe 49,10."
+    },
+    {
+      "key": "page_0246-g",
+      "n": 14,
+      "text": "Isaïe 4,6."
+    },
+    {
+      "key": "page_0246-h",
+      "n": 15,
+      "text": "Heracleot. Chrysost."
+    }
+  ],
+  "missing_footnotes": []
+}

@@ -77,32 +77,38 @@
       ]
     },
     {
-      "verse_number": 10,
-      "latin": "Vidit autem hoc quifpiam, et nuntiavit Joab, dicens : Vidi Abfalom pendere de quercu. Vidit autem hoc quispiam, et nuntiavit Joab, dicens : Vidi Absalom pendere de quercu.",
-      "french": "Un soldat le vit en cet état, et vint dire à Joab : J’ai vu Absalon pendu à un chêne. Un soldat le vit en cet état, et vint dire à Joab : J’ai vu Absalon pendu à un chêne.",
-      "annotations": "An. du Monde 2981. An. du Monde 2981.",
+      "verse_number": 9,
+      "latin": "Accidit autem ut occurreret Absalom servis David, sedens mulo, cùmque ingressus fuisset mulus subter condensam quercum et magnam, adhæsit caput ejus quercui : et illo suspenso inter cælum et terram, mulus, cui insederat, pertransivit.",
+      "french": "Absalon même fut rencontré par les gens de David ; car lorsqu’il était sur son mulet, et qu’il passait sous un grand chêne fort touffu, sa tête s’embarrassa dans les branches du chêne ; et son mulet passant outre, il demeura suspendu entre le ciel et la terre.",
+      "annotations": "An. du Monde 2981.",
       "source_pages": [
-        "page_0194.json",
+        "page_0194.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Vidit autem hoc quispiam, et nuntiavit Joab, dicens : Vidi Absalom pendere de quercu.",
+      "french": "Un soldat le vit en cet état, et vint dire à Joab : J’ai vu Absalon pendu à un chêne.",
+      "annotations": "An. du Monde 2981.",
+      "source_pages": [
         "page_0195.json"
       ]
     },
     {
       "verse_number": 11,
-      "latin": "Et ait Joab viro qui nuntiaverat ei : Si vidifti, quare non confodifti eum cum terra, et ego dediffem tibi decem argenti ficlos, et unum balteum ? Et ait Joab viro qui nuntiaverat ei : Si vidisti, quare non confodisti eum cum terra, et ego dedissem tibi decem argenti siclos, et unum balteum ?",
-      "french": "Joab dit à celui qui lui avait apporté cette nouvelle : Si tu l’as vu, pourquoi ne lui as-tu pas passé ton épée au travers du corps, et je t’aurais donné dix sicles d’argent et un baudrier ? Joab dit à celui qui lui avait apporté cette nouvelle : Si tu l’as vu, pourquoi ne lui as-tu pas passé ton épée au travers du corps, et je t’aurais donné dix sicles d’argent et un baudrier ?",
+      "latin": "Et ait Joab viro qui nuntiaverat ei : Si vidisti, quare non confodisti eum cum terra, et ego dedissem tibi decem argenti siclos, et unum balteum ?",
+      "french": "Joab dit à celui qui lui avait apporté cette nouvelle : Si tu l’as vu, pourquoi ne lui as-tu pas passé ton épée au travers du corps, et je t’aurais donné dix sicles d’argent et un baudrier ?",
       "annotations": null,
       "source_pages": [
-        "page_0194.json",
         "page_0195.json"
       ]
     },
     {
       "verse_number": 12,
-      "latin": "Qui dixit ad Joab : Si appenderes in manibus meis mille argenteos, nequaquam mitterem manum meam in filium Regis : audientibus enim nobis præcepit Rex tibi, et Abifai, et Ethai, dicens : Cuftodite mihi puerum Abfalom. Qui dixit ad Joab : Si appenderes in manibus meis mille argenteos, nequaquam mitterem manum meam in filium Regis : audientibus enim nobis præcepit Rex tibi, et Abisai, et Ethai, dicens : Custodite mihi puerum Absalom.",
-      "french": "Il répondit à Joab : Quand vous me donneriez présentement mille pièces d’argent, je me garderais bien de porter la main sur la personne du fils du Roi ; car nous avons tous entendu l’ordre que le Roi vous a donné, à vous, à Abisaï, et à Ethaï, lorsqu’il vous a dit : Conservez-moi mon fils Absalon. Il répondit à Joab : Quand vous me donneriez présentement mille pièces d’argent, je me garderais bien de porter la main sur la personne du fils du Roi ; car nous avons tous entendu l’ordre que le Roi vous a donné, à vous, à Abisai, et à Ethaï, lorsqu’il vous a dit : Conservez-moi mon fils Absalon.",
+      "latin": "Qui dixit ad Joab : Si appenderes in manibus meis mille argenteos, nequaquam mitterem manum meam in filium Regis : audientibus enim nobis præcepit Rex tibi, et Abisai, et Ethai, dicens : Custodite mihi puerum Absalom.",
+      "french": "Il répondit à Joab : Quand vous me donneriez présentement mille pièces d’argent, je me garderais bien de porter la main sur la personne du fils du Roi ; car nous avons tous entendu l’ordre que le Roi vous a donné, à vous, à Abisai, et à Ethaï, lorsqu’il vous a dit : Conservez-moi mon fils Absalon.",
       "annotations": null,
       "source_pages": [
-        "page_0194.json",
         "page_0195.json"
       ]
     },

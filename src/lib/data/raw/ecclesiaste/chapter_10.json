@@ -1,0 +1,175 @@
+{
+  "book": "Ecclésiaste",
+  "chapter": 10,
+  "chapter_summary": "Différence du sage et de l’insensé. L’imprudent et l’esclave élevez en dignité, pendant que le sage et le Prince sont dans l’abaissement. Le mal qu’on fait aux autres, retombe sur son auteur. Du Roi enfant. Des Princes débauchez. Ne pas parler mal des Grands.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Muscæ morientes perdunt suavitatem unguenti. Pretiosior est sapientiâ et gloriâ, parva et ad tempus stultitia.",
+      "french": "Les mouches qui meurent dans le parfum, en gâtent la bonne odeur : ainsi une imprudence légère, et de peu de durée, l’emporte sur la sagesse, et la gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0118.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Cor sapientis in dextera ejus, et cor stulti in sinistra illius.",
+      "french": "Le cœur du sage est dans sa main droite, et le cœur de l’insensé est dans sa main gauche.",
+      "source_pages": [
+        "page_0120.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Sed et in via stultus ambulans, cùm ipse insipiens sit, omnes stultos æstimat.",
+      "french": "L’imprudent même qui marche dans sa voie, croit tous les autres insensés comme il l’est lui-même.",
+      "source_pages": [
+        "page_0120.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Si spiritus potestatem habentis ascenderit super te, locum tuum ne dimiseris : quia curatio faciet cessare peccata maxima.",
+      "french": "Si l’esprit de celui qui a la puissance s’éleve sur vous, ne quittez point votre place ; parce que les remèdes qu’on vous appliquera, vous guériront des plus grands péchez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0121.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Est malum quod vidi sub sole, quasi per errorem egrediens à facie Principis :",
+      "french": "Il y a un mal que j’ai vu sous le soleil, qui semble venir de l’erreur du Prince :",
+      "annotations": null,
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Positum stultum in dignitate sublimi, et divites sedere deorsum.",
+      "french": "L’imprudent élevé dans une dignité sublime, et les riches assis en bas.",
+      "annotations": null,
+      "source_pages": [
+        "page_0122.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Vidi servos in equis, et Principes ambulantes super terram quasi servos.",
+      "french": "J’ai vu les esclaves à cheval, et les Princes marcher à pied comme des esclaves.",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Qui fodit foveam, incidet in eam : et qui dissipat sepem, mordebit eum coluber.",
+      "french": "Qui creuse la fosse, y tombera ; et qui rompt la haie, sera mordu du serpent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Qui transfert lapides, affligetur in eis : et qui scindit ligna, vulnerabitur ab eis.",
+      "french": "Qui transporte les pierres, en sera meurtri ; et qui coupe le bois, en sera blessé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0123.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Si retusum fuerit ferrum, et hoc non ut priùs, sed hebetatum fuerit, multo labore exacuetur : et post industriam sequetur sapientia.",
+      "french": "Si le fer s’émousse, et qu’après avoir été émoussé, il se rebrousse encore, on aura bien de la peine à l’éguiser ; Ainsi la sagesse ne s’acquiert que par un long travail.",
+      "annotations": null,
+      "source_pages": [
+        "page_0124.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Verba oris sapientis gratia : et labia insipientis præcipitabunt eum :",
+      "french": "Les paroles qui sortent de la bouche du sage, sont pleines de grâce ; les lèvres de l’insensé le feront tomber dans le précipice :",
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Initium verborum ejus stultitia, et novissimum oris illius error pessimus.",
+      "french": "Ses premières paroles sont une imprudence, et les dernières sont une erreur très dangereuse.",
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Stultus verba multiplicat. Ignorat homo quid ante se fuerit : et quid post se futurum sit, quis ei poterit indicare ?",
+      "french": "L’insensé se répand en paroles. L’homme ignore ce qui a été avant lui ; et qui lui pourra découvrir ce qui doit être après lui ?",
+      "source_pages": [
+        "page_0126.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Labor stultorum affliget eos, qui nesciunt in urbem pergere.",
+      "french": "Le travail des insensés les accablera ; parce qu’ils ne savent pas même le chemin de la ville.",
+      "annotations": null,
+      "source_pages": [
+        "page_0127.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Væ tibi, terræ, cujus Rex puer est, et cujus Principes manè comedunt.",
+      "french": "Mâheur à toi, terre, dont le Roi est un enfant, et dont les Princes mangent dés le matin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Beata terra, cujus Rex nobilis est, et cujus Principes vescuntur in tempore suo, ad reficiendum et non ad luxuriam :",
+      "french": "Heureuse est la terre dont le Roi est d’une race illustre, et dont les Princes ne mangent qu’au temps qu’il faut, pour se nourrir, et non pas pour satisfaire la sensualité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0128.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "In pigritiis humiliabitur contignatio : in infirmitate manuum perstillabit domus.",
+      "french": "La charpente du toit tombera par la paresse : et les mains lâches feront cause qu’il pleuvera par tout dans la maison.",
+      "annotations": null,
+      "source_pages": [
+        "page_0129.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "In risum faciunt panem, et vinum ut epulentur viventes : et pecuniæ obediunt omnia.",
+      "french": "Les hommes emploient le pain et le vin pour rire, et se divertir, et pour passer leur vie en festin ; et toutes choses obéissent à l’argent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0130.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "In cogitatione tua Regi ne detrahas, et in secreto cubiculi tui ne maledixeris diviti : quia et aves cœli portabunt vocem tuam, et qui habet pennas annuntiabis sententiam. Mitte panem tuum super transeuntes aquas : quia post tempora multa invenies illum.",
+      "french": "Ne parlez point mal du Roi dans votre pensée, et ne médisez point du riche dans le secret de votre chambre : parce que les oiseaux mêmes du Ciel rapporteront vos paroles, et ceux qui ont des aîles, publieront ce que vous aurez dit. Epandez votre pain sur les eaux qui passent, parce que vous le retrouverez après un long espace de temps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0131.json",
+        "page_0132.json"
+      ]
+    }
+  ]
+}

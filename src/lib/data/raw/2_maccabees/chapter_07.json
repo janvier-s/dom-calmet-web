@@ -1,0 +1,386 @@
+{
+  "book": "2 Maccabées",
+  "chapter": 7,
+  "chapter_summary": "Martyre des sept frères Maccabées, et de leur mère.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Contigit autem, et septem fratres unà cum matre sua apprehensos, compelli à Rege edere contra fas, carnes porcinas, flagris et taureis cruciatos.",
+      "french": "Or il arriva que l’on prit aussi sept frères avec leur mère, et le Roi voulut les contraindre à manger contre la défense de la Loi, de la chair de pourceau, en les faisant déchirer avec des fouets, et des escourgées de cuir de taureau.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0075.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Unus autem ex illis qui erat primus, sic ait : Quid quæris, et quid vis discere à nobis ? Parati sumus mori, magis, quàm patrias Dei leges prævaricari.",
+      "french": "Mais l’un d’eux, qui était l’aîné, lui dit : Que demandez-vous, et que voulez-vous apprendre de nous ? Nous sommes prêts de mourir, plutôt que de violer les Loix de Dieu, et de notre pays.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Iratus itáque Rex, jussit sartaginus, et ollas æneas succendi : quibus statim succensis,",
+      "french": "Le Roi entrant en colère, commanda qu’on fit chauffer sur le feu des poëles, et des chaudières d’airain ; et lorsqu’elles furent toutes brûlantes,",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Jussit ei qui prior fuerat locutus, amputari linguam : et cute capitis abstracta, summas quoque manus, et pedes ei præscindi, cæteris ejus fratribus et matre inspicientibus.",
+      "french": "Il ordonna qu’on coupât la langue à celui qui avait parlé le premier, qu’on lui arrachât la peau de la tête, et qu’on lui coupât les extrémités des mains, et des pieds, à la vuë de ses frères, et de sa mère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et cùm jam per omnia inutilis factus esset, jussit ignem admoueri, et adhuc spirantem torreri in sartagine : in qua cùm diu cruciaretur, cæteri unà cum matre invicem se hortabantur mori fortiter.",
+      "french": "Après qu’il l’eut fait ainsi mutiler par tout le corps, il commanda qu’on l’approchât du feu, et qu’on le fit rôtir dans la poële pendant qu’il respirait encore. Et dans tout le temps qu’il était tourmenté, ses autres frères s’encourageaient l’un l’autre avec leur mère à mourir constamment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0076.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Dicentes : Dominus Deus aspiciet in veritatem, et consolabitur in nobis, quemadmodum in protestatione cantici declaravit Moyses : et in servis suis consolabitur.",
+      "french": "En disant : Le Seigneur Dieu considerera la verité, il sera consolé en nous, selon que Moyse le déclare dans son Cantique par ces paroles : Et il sera consolé dans ses serviteurs.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Mortuo itáque illo primo, hoc modo sequentem deducebant ad illudendum, et cute capitis ejus cum capillis abstracta, interrogabant, si manducaret priùs, quàm toto corpore per membra singula puniretur.",
+      "french": "Le premier étant mort de cette sorte, ils menaient le second pour le faire souffrir avec insulte ; et lui ayant arraché la peau de la tête avec les cheveux, ils lui demandaient s’il voulait manger des viandes qu’on lui présentait, plutôt que d’être tourmenté dans tous les membres de son corps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0077.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "At ille, respondens patria voce, dixit : Non faciam. Propter quod et iste, sequenti loco, primi tormenta suscepit.",
+      "french": "Mais il répondit en sa langue paternelle : Je n’en ferai rien. C’est pourquoi il souffrit aussi les mêmes tourments que le premier.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et in ultimo spiritu constitutus, sic ait : Tu quidem scelestissime, in præsenti vita nos perdis : sed Rex mundi desunctos nos pro suis legibus in æternæ vitæ resurrectionem suscitabit.",
+      "french": "Et étant prêt de rendre l’esprit, il dit au Roi : Vous nous faites perdre, ô très méchant Prince, la vie présente ; mais le Roi du monde nous ressuscitera un jour pour la vie éternelle, après que nous serons morts pour la défense de ses Loix.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Post hunc tertius illuditur, et linguam postulatus citò protulit, et manus constanter extendit.",
+      "french": "Après celui-ci, on insulta encore au troisième. On lui demanda sa langue, qu’il présenta aussi-tôt ; et il étendit ses mains constamment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0078.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et cum fiducia ait : E cælo ista possideo ; sed propter Dei leges nunc has ipsa despicio, quoniam ab ipso me ea re-cepturam spero.",
+      "french": "Et dit avec confiance : J’ai reçu ces membres du Ciel ; mais je les mepri-se maintenant pour la défense des Loix de Dieu ; parce que j’espere qu’il me les rendra un jour.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Ita ut Rex, et qui cum ipso erant, mirarentur adolescentis animum, quòd tanquam nihilum duceret cruciatus.",
+      "french": "De forte que le Roi, et ceux qui l’accompagnaient, admirérent le courage de ce jeune homme, qui considérait comme rien les plus grands tourments.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et hoc ita defuncto, quartum vexabant similiter torquentes.",
+      "french": "Celui-ci étant aussi mort de la forte, ils tourmentérent de même le quatrième.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et cùm jam esset ad mortem, sic ait : Potius est ab hominibus morti datos spem expectare à Deo, iterùm ab ipso resuscitandos : tibi enim resurrectio ad vitam non erit.",
+      "french": "Et lorsqu’il était prêt de rendre l’esprit, il dit : Il est plus avantageux d’être tué par les hommes, dans l’espérance que Dieu nous rendra la vie en nous ressuscitant ; car pour vous, votre résurrection ne sera point pour la vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et cum admovissent quintum, vexabant eum. At ille respiciens in eum, dixit :",
+      "french": "Ayant pris le cinquième, ils le tourmentérent comme les autres. Alors regardant le Roi, il lui dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Potestatem inter homines habens cum sis corruptibilis, facis quod vis ; noli autem putare genus nostrum à Deo esse derelictum.",
+      "french": "Vous faites ce que vous voulez, parce que vous avez reçu la puissance parmi les hommes, quoique vous soyez vous-même un homme mortel : mais ne vous imaginez pas que Dieu ait abandonné notre nation.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Tu autem patienter sustine, et videbis magnam potestatem ipsius, qualiter te et semen tuum torquebit.",
+      "french": "Attendez seulement un peu, et vous verrez quelle est la grandeur de sa puissance, et de quelle manière il vous tourmentera, vous et votre race.",
+      "annotations": null,
+      "source_pages": [
+        "page_0079.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Post hunc ducebant sextum, et is mori incipiens, sic ait : Noli frustrà errare : nos en’m propter nosmetipsos hæc patimur, peccantes in Deum nostrum, et digna admiratione facta sunt in nobis :",
+      "french": "Après celui-ci, ils menèrent au supplice le sixième : et lorsqu’il était prết de mourir, il dit : Ne vous trompez pas vainement vous-même. Car si nous souffrons ceci, c’est parce que nous l’avons mérité, ayant péché contre notre Dieu : et ainsi nous nous sommes attiré ces fleaux si épouvantables.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Tu autem ne existimes tibi impunè futurum, quòd contra Deum pugnare sentaveris.",
+      "french": "Mais ne vous imaginez pas que vous demeuriez impuni, après avoir entrepris de combattre contre Dieu même.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Supra modum autem mater mirabilis, et bonorum memoriâ digna, quæ per unius septem filios sub unius diei tempore conspiciens, bono animo ferebat, propter spem quam in Deum habebat :",
+      "french": "Cependant leur mère, plus admirable qu’on ne peut dire, et digne de vivre éternellement dans la mémoire des bons, voyant périr en un même jour ses sept enfants, souffrait constamment leur mort, à cause de l’espérance qu’elle avait en Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Singulos illorum hortabatur voce patria fortiùs, repleta sapientiâ : et fœmineæ cogitationi masculinum animum inferens.",
+      "french": "Elle exhortait fortement chacun d’eux en particulier, dans sa langue naturelle ; étant toute remplie de sagesse, et alliant un courage mâle avec la tendresse d’une femme,",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Dixit ad eos : Nescio qualiter in utero meo apparuistis, neque enim ego spiritum, et animam donavi vobis, et vitam, et singulorum membra non ego ipsa compegi.",
+      "french": "Elle leur disait : Je ne sçai comment vous avez été formez dans mon sein : car ce n’est point moi qui vous ai donné l’âme, l’esprit, et la vie, ni qui ai joint tous vos membres pour en faire un corps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0080.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Sed enim mundi creator, qui formavit hominis nativitatem, quique omnium invenit originem, et spiritum vobis iterùm cum misericordia reddet, et vitam, sicut nunc vosmetipsos despicitis propter leges ejus.",
+      "french": "Mais le Créateur du monde, qui a formé l’homme dans sa naissance, et qui a donné l’origine à toutes choses, vous rendra encore l’esprit, et la vie par sa miséricorde, en récompense de ce que vous vous méprisez maintenant vous-même.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Antiochus autem, contemni se arbitratus, simul et exprobrantis voce despecta, cùm adhuc adolescentior superesset, non solum vobis hortabatur, sed et cum juramento affirmabat, se divitem et beatum facturum, et translatum à patriis legibus amicum habiturum, et res necessarias ei præbiturum.",
+      "french": "Or Antiochus croyant qu’on le méprisait, et qu’on lui reprochait sa faiblesse ; comme le plus jeune de tous était resté, il commença non seulement à l’exhorter par ses paroles, mais à l’assurer avec serment, qu’il le rendrait riche, et heureux, qu’il le mettrait au rang de ses favoris, et lui donnerait toutes les choses nécessaires, s’il voulait abandonner les loix de ses pères.",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Sed ad hæc cùm adolescens nequaquam inclinaretur, vocavit Rex matrem, et suadebat ei, ut adolescenti fieret in salutem.",
+      "french": "Mais ce jeune homme ne pouvant être ébranlé par ces promesses, le Roi appella sa mère, et l’exhorta à inspirer à son fils des sentiments plus salutaires.",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Cùm autem multis eam verbis esset hortatus, promisit suasuram se filio suo.",
+      "french": "Après donc qu’il lui eut dit beaucoup de choses pour la persuader, elle lui promit d’exhorter son fils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Itaque inclinata ad illum, irridens crudelem tyrannum, ait patria voce : Fili mi, miserere mei, quæ te in utero novem mensibus portavi, et lac triennio dedi et alui, et in ætatem istam perduxi.",
+      "french": "Elle se baissa en même-temps pour lui parler ; et se mocquant de ce cruel tyran, elle lui dit en Hebreu : Mon fils, ayez pitié de moi, qui vous ai porté neuf mois dans mon sein, qui vous ai nourri de mon lait pendant trois ans, et qui vous ai élevé jusqu’à l’âge où vous êtes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Peto, nate, ut aspicias ad cœlum, et terram, et ad omnia quæ in eis sunt : et intelligas, quia ex nihilo fecit illa Deus, et hominum genus.",
+      "french": "Je vous conjure, mon fils, de regarder le ciel et la terre, et toutes les choses qui y sont renfermées, et de bien comprendre que Dieu les a créées de rien, aussi-bien que tous les hommes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Ita fiet, ut non timeas carnificem istum, sed dignus fratribus tuis effectus particeps, suscipe mortem, ut in illa miseratione cum fratribus tuis te recipiam.",
+      "french": "Ainsi vous ne craindrez point ce cruel bourreau ; mais vous rendant digne d’avoir part aux souffrances de vos frères, vous recevrez de bon cœur la mort ; afin que je vous reçoive de nouveau avec vos frères, dans cette miséricorde que nous attendons.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Cùm hæc illa adhuc diceret, ait adolescens : Quem sustinetis ? Non obedio præcepto Regis, sed præcepto legis quæ data est nobis per Moysen.",
+      "french": "Lorsqu’elle parlait encore, ce jeune homme se mit à crier : Qu’attendez-vous, de moi ? Je n’obéis point au commandement du Roi ; mais au précepte de la loi, qui nous a été donnée par Moïse.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Tu verò, qui inventor omnis malitiæ factus es in Hebræos, non effugies manum Dei.",
+      "french": "Quant à vous, qui êtes l’auteur de tous les maux, dont on accable les Hébreux, vous n’éviterez pas la main de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Nos enim pro peccatis nostris hec patimur.",
+      "french": "Car pour nous, c’est à cause de nos péchés que nous souffrons toutes ces choses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Et si nobis propter increpationem, et correptionem, Dominus Deus noster modicùm iratus est : sed iterùm reconciliabitur servis suis.",
+      "french": "Et si le Seigneur notre Dieu s’est mis un peu en colère contre nous, pour nous châtier et nous corriger, il se reconciliera de nouveau avec ses serviteurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Tu autem, ô sceleste, et omnium hominum flagitiosissime, noli frustrà extolli vanis spebus in servos ejus inflammatus.",
+      "french": "Mais pour vous, qui êtes le plus scélérat et le plus abominable de tous les hommes, ne vous flattez pas inutilement par de vaines espérances, en vous enflammant de fureur contre les serviteurs de Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Nondum enim omnipotentis Dei, et omnia inspicientis, judicium effugisti.",
+      "french": "Car vous n’avez pas encore échappé le jugement de Dieu, qui peut tout, et qui voit tout.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Nam fratres mei modico nunc dolore sustenato, sub testamento æternæ vitæ effecti sunt : tu verò judicio Dei justas superbiæ tuæ pœnas exsolves.",
+      "french": "Et quant à mes frères, après avoir supporté une douleur passagère, ils sont entrez maintenant dans l’alliance de la vie éternelle : mais pour vous, vous souffrirez au jugement de Dieu, la peine que votre orgueil a justement meritée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Ego autem, ficut et fratres mei, animam et corpus meum trado pro patriis legibus ; invocans Deum maturiùs genti noftræ propitium fieri, teque cum tormentis et verberibus confiteri quòd ipfe eft Deus folus.",
+      "french": "Pour ce qui est de moi, j’abandonne volontiers, comme mes frères, mon corps et mon âme, pour la défenfe des loix de mes pères, en conjurant Dieu de se rendre bien-tôt favorable à notre nation, et de vous contraindre par les tourments, et par plufieurs plaies, à confesser qu’il est le feul Dieu.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "In me verò et in fratribus meis definet omnipotentis ira, quæ fuper omne genus noftrum juftè fuperducta eft.",
+      "french": "Mais la colère du Tout-puiffant, qui est tombée juftement fur tout notre peuple, finira à ma mort, et à celle de mes frères.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Tunc Rex accenfus irâ, in hunc fuper omnes crudeliùs defævit, indignè ferens fe derifum.",
+      "french": "Alors le Roi tout enflammé de colère, fit éprouver fa cruauté à celui-ci encore plus qu’à tous les autres, ne pouvant fouffrir que l’on se moquât ainfi de lui.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Et hic itáque mundus obiit, per omnia in Domino confidens.",
+      "french": "Il mourut comme les autres, sans s’être fouillé, avec une parfaite confiance en Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Novissimè autem post filios, et mater consumpta est.",
+      "french": "Enfin, la mère souffrit aussi la mort après ses enfants.",
+      "annotations": "An du M. 3837.",
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Igitur de sacrificiis, et de nimiis crudelitatibus, satis dictum est.",
+      "french": "Mais nous avons assez parlé, et de sacrifices profanes, et des excessives cruautés d’Antiochus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    }
+  ]
+}

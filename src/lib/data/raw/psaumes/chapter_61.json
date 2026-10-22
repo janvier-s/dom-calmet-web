@@ -1,0 +1,116 @@
+{
+  "book": "Psaumes",
+  "chapter": 61,
+  "chapter_summary": "David dans un imminent danger s’excite à la patience. Il met toute sa confiance en Dieu, qui est plein de miséricorde et de puissance, et qui rend à chacun selon ses œuvres.\nIn finem : Pro Idithun, Psalmus David. Pour la fin ; Pour Idithun, Psaume de David.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, pro Idithun. Psalmus David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0752.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Nonne Deo subjecta erit anima mea ? Ab ipso enim salutare meum.",
+      "french": "On âme ne sera-t’elle pas soumise à Dieu, puisque c’est de lui que je dois attendre mon salut ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0752.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Nam et ipse Deus meus : et salutaris meus : susceptor meus ; non movebor ampliùs.",
+      "french": "C’est lui même qui est mon Dieu, et mon Sauveur ; c’est lui qui est mon protecteur ; pourquoi je ne serai plus ébranlé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0752.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quousque irruitis in hominem ? Interficitis universi vos, tamquam parieti inclinato et materiæ depulsæ ?",
+      "french": "Jusqu’à quand vous jetterez-vous sur un homme seul ; vous joignant tous ensemble pour le tuer, le pousserez-vous comme une muraille qui panche déjà, et qui est toute ébranlée ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0753.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Verumtamen pretium meum cogitaverunt repellere : cucurri in siti. Ore suo benedicebant, et corde suo maledicebant.",
+      "french": "Ils ont entrepris de me dépouiller de ma dignité ; j’ai couru dans l’ardeur de ma soif. Ils me bénissaient de bouche, et me maudissaient dans leur cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0754.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Verumtamen Deo subjecta esto anima mea : quoniam ab ipso patientia mea.",
+      "french": "Néanmoins, mon âme, tenez-vous soumise à Dieu : puisque c’est de lui que vient ma patience.",
+      "annotations": null,
+      "source_pages": [
+        "page_0755.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Quia Deus meus, et salvator meus : adjutor meus non emigrabo.",
+      "french": "Puisque c’est lui-même qui est mon Dieu et mon Sauveur ; c’est lui qui prend ma défense ; et je serai immobile.",
+      "annotations": null,
+      "source_pages": [
+        "page_0755.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "In Deo salutare meum, et gloria mea : Deus auxilii mei, et spes mea in Deo est.",
+      "french": "C’est en Dieu que je trouve mon salut, et ma gloire ; c’est de Dieu que j’attens du secours : et mon espérance est en Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0755.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Sperate in eo, omnis congregatio populi ; effundite coram illo corda vestra. Deus adjutor noster in æternum.",
+      "french": "Espérez en lui, vous tous qui composez l’assemblée de son peuple ; répandez vos cœurs en sa présence. Dieu sera éternellement notre défenseur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0756.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Verumtamen vani filii hominum, mendaces filii hominum in stateris : ut decipiant ipsi de vanitate in idipsum.",
+      "french": "Mais les enfants des hommes sont vains : les enfants des hommes ont de fausses balances ; et ils s’accordent ensemble dans la vanité pour tromper.",
+      "annotations": null,
+      "source_pages": [
+        "page_0756.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Nolite sperare in iniquitate, et rapinas nolite concupiscere : divitiæ si affluant, nolite cor apponere.",
+      "french": "Gardez-vous bien de mettre votre espérance dans l’iniquité, et de désirer d’avoir du bien par violence. Si vous avez beaucoup de richesses, gardez-vous bien d’y attacher votre cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0757.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Semel loquutus est Deus, duo hæc audivi : quia potestas Dei est, et tibi, Domine, misericordia : quia tu reddes unicuique juxta opera sua.",
+      "french": "Dieu a parlé une fois, et j’ai entendu ces deux choses : Que la puissance appartient à Dieu, et que vous êtes, Seigneur, rempli de miséricorde ; parce que vous rendez à chacun selon ses œuvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0758.json"
+      ]
+    }
+  ]
+}

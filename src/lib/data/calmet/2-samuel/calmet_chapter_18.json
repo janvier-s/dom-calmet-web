@@ -40,21 +40,21 @@
       "sub": false,
       "latin_lemma": "fuit ibi prælium dispersum.",
       "lemma": "Les gens d’Absalon fuyant après le combat, furent dispersés de tous côtés.",
-      "text": "À la lettre : [14] _Le combat fut dispersé sur la face de toute la terre._ Ce qui peut sent soutenir longtemps le poids de son corps, et de ses armes, et l’agitation qu’il se donnait dans une situation si douloureuse : Aussi l’Écriture ne dit-elle point qu’il demeura pendu par les cheveux ; mais par la tête _Adhæsit caput ejus quercui_. En courant, il donna de la tête entre deux branches, qui le serrèrent par le col de telle manière, qu’il ne put se dégager, ni se servir de ses mains pour se détacher. [15]"
+      "text": "À la lettre : [14] _Le combat fut dispersé sur la face de toute la terre._ Ce qui peut avoir deux sens : Les soldats des deux armées se mêlèrent, et combattirent dans toute l’étendue de ce canton. On se battit de tout côté ; ou bien la défaite fut générale, l’armée d’Absalon fut rompue de toutes parts, elle fut dispersée de tout côté."
     },
     {
       "verse": 8,
       "sub": false,
-      "latin_lemma": "mulus cui insederat, pertransivit.",
-      "lemma": "Son mulet passa outre.",
-      "text": "Les Anciens n’avaient point d’étriers, ni de selles, comme nous en avons, pour leurs montures. Ils ne pouvaient être si fermes à cheval. Absalon quitta apparemment la bride de son mulet, pour se débarrasser, lorsqu’il se sentit pris ; et pendant ce temps, le mulet s’échappa."
+      "latin_lemma": "multo plures erant quos saltus consumpserat, quam hi quos voraverat gladius.",
+      "lemma": "Il y en eut beaucoup plus qui périrent dans la forêt, qu’il n’y en eut qui moururent par l’épée.",
+      "text": "Les uns périrent dans les précipices, et dans les rochers escarpés de la forêt, les autres furent pris et tués dans les broussailles, comme des animaux qu’on prend à la chasse ; les autres écrasés et foulés aux pieds des fuyards, dans les endroits serrés et embarrassés du bois. Enfin d’autres périrent malheureusement de leur blessure, ou de faim et de soif dans la forêt, sans pouvoir être secourus ; Joseph [15] assure qu’il en mourut un bien plus grand nombre dans la fuite et dans la retraite précipitée qu’ils firent dans ce bois, et dans des lieux impraticables, qu’il n’en était mort dans le combat. Le Chaldéen, le Syriaque, l’Arabe, et les Rabbins disent qu’il y en eut un plus grand nombre de consumés par les bêtes farouches dans la forêt, qu’il n’y en avait eu de morts par l’épée. Ce qu’on ne peut guères entendre que de ceux, qui s’étant jetés inconsidérément dans ces bois, s’y égarèrent, et y furent dévorés par les animaux sauvages."
     },
     {
       "verse": 9,
       "sub": false,
-      "latin_lemma": null,
-      "lemma": null,
-      "text": "sent soutenir longtemps le poids de son corps, et de ses armes, et l’agitation qu’il se donnait dans une situation si douloureuse : Aussi l’Écriture ne dit-elle point qu’il demeura pendu par les cheveux ; mais par la tête *Adhæsit caput ejus quercui*. En courant, il donna de la tête entre deux branches, qui le serrèrent par le col de telle manière, qu’il ne put se dégager, ni se servir de ses mains pour se détacher. [16]"
+      "latin_lemma": "ut occurreret Absalom servis David.",
+      "lemma": "Absalon fut rencontré par les gens de David.",
+      "text": "En poursuivant les fuyards, les gens de David rencontrèrent Absalon, qui était pendu à un arbre. On dit [16] qu’il fut pendu par ses cheveux, qui étant fort grands, et fort épais, s’embarrassèrent dans les branches d’un chêne, et y tinrent long-temps Absalon pendu. Mais il est assez difficile à croire, qu’un homme armé pesamment, demeure long-temps en cet état, et que ses cheveux s’embarrassent de telle sorte, qu’ils puissent soutenir longtemps le poids de son corps, et de ses armes, et l’agitation qu’il se donnait dans une situation si douloureuse : Aussi l’Écriture ne dit-elle point qu’il demeura pendu par les cheveux ; mais par la tête *Adhæsit caput ejus quercui*. En courant, il donna de la tête entre deux branches, qui le serrèrent par le col de telle manière, qu’il ne put se dégager, ni se servir de ses mains pour se détacher. [17]"
     },
     {
       "verse": 9,
@@ -71,95 +71,81 @@
       "text": "Il y demeura donc un espace considérable, puisqu’on eut le temps d’en aller donner avis à Joab, et qu’il eut le loisir de venir lui-même le percer de son javelot."
     },
     {
-      "verse": 10,
-      "sub": false,
-      "latin_lemma": "vidi Absalom pendere de quercu.",
-      "lemma": "J’ai vu Absalon pendu à un chêne.",
-      "text": "Il y demeura donc un espace considérable, puisqu’on eut le temps d’en aller donner avis à Joab, et qu’il eut le loisir de venir lui-même le percer de son javelot."
-    },
-    {
       "verse": 11,
       "sub": false,
       "latin_lemma": "dedissem tibi decem argenti siclos, et unum balteum.",
       "lemma": "Je t’aurais donné dix sicles d’argent, et un baudrier.",
-      "text": "Les dix sicles d’argent font environ seize livres de notre monnaie."
-    },
-    {
-      "verse": 11,
-      "sub": false,
-      "latin_lemma": "dedissem tibi decem argenti siclos, et unum balteum.",
-      "lemma": "Je t’aurais donné dix sicles d’argent, et un baudrier.",
-      "text": "Les dix sicles d’argent font environ seize livres de notre monnaie. Le baudrier était une des principales, et des plus riches pièces de l’armure. Jonathas donna le sien à David pour gage de son amitié.[17] Ajax donne le sien à Hector.[18] Dieu ôte le baudrier aux Rois, dit Job,[19] et il ceint leurs reins d’une corde. C’était une ignominie, et un supplice militaire d’être dépouillé de son baudrier. Les Parthes se distinguaient par la richesse, et par la magnificence des leurs.[20]\n_Parthica qua tantis variantur cingula gemmis._\nLes anciens Romains en portaient de fort riches, ornés de boutons et de lames d’argent.[21]\n_Balteus, et notis fulserunt cingula bullis._"
+      "text": "Les dix sicles d’argent font environ seize livres de notre monnaie. Le baudrier était une des principales, et des plus riches pièces de l’armure. Jonathas donna le sien à David pour gage de son amitié.[18] Ajax donne le sien à Hector.[19] Dieu ôte le baudrier aux Rois, dit Job,[20] et il ceint leurs reins d’une corde. C’était une ignominie, et un supplice militaire d’être dépouillé de son baudrier. Les Parthes se distinguaient par la richesse, et par la magnificence des leurs.[21]\n_Parthica qua tantis variantur cingula gemmis._\nLes anciens Romains en portaient de fort riches, ornés de boutons et de lames d’argent.[22]\n_Balteus, et notis fulserunt cingula bullis._"
     },
     {
       "verse": 13,
       "sub": false,
       "latin_lemma": "si fecissem contra animam meam audacter.",
       "lemma": "Si je m’étais hasardé à faire une action si téméraire.",
-      "text": "L’Hébreu :[22] _Et si j’aurais fait le mensonge contre son âme._ Je lui aurais ôté la vie contre ma conscience, et contre la certitude que j’avais que le Roi l’avait défendu ? Ou, selon une autre manière de lire, qu’ont suivi les Septante et la Vulgate : _Aurais-je voulu faire une fausseté contre mon âme ? Aurais-je voulu commettre une semblable perfidie, pour m’exposer après cela au péril de perdre la vie, si le Roi en eût été averti ?_ Les Septante :[23] _Comment ferais-je une injustice contre mon âme ?_"
+      "text": "L’Hébreu :[23] _Et si j’aurais fait le mensonge contre son âme._ Je lui aurais ôté la vie contre ma conscience, et contre la certitude que j’avais que le Roi l’avait défendu ? Ou, selon une autre manière de lire, qu’ont suivi les Septante et la Vulgate : _Aurais-je voulu faire une fausseté contre mon âme ? Aurais-je voulu commettre une semblable perfidie, pour m’exposer après cela au péril de perdre la vie, si le Roi en eût été averti ?_ Les Septante :[24] _Comment ferais-je une injustice contre mon âme ?_"
     },
     {
       "verse": 13,
       "sub": false,
       "latin_lemma": "tu stares ex adverso.",
       "lemma": "Vous seriez vous-même contre moi.",
-      "text": "Ou avec une interrogation : _Prendriez-vous ma défense contre lui ?_ On peut traduire l’Hébreu [24] par : _Vous vous tiendriez bien loin de moi_. Vous me laisseriez dans l’embarras."
+      "text": "Ou avec une interrogation : _Prendriez-vous ma défense contre lui ?_ On peut traduire l’Hébreu [25] par : _Vous vous tiendriez bien loin de moi_. Vous me laisseriez dans l’embarras."
     },
     {
       "verse": 14,
       "sub": false,
       "latin_lemma": "non sicut tu vis ; sed aggrediar eum coram te.",
       "lemma": "Je ne m’en rapporterai pas à toi ; mais je l’attaquerai moi-même en ta personne.",
-      "text": "L’Hébreu : [25] _Je ne m’arrêterai pas de même en ta présence ; je n’aurai pas tant de ménagement que toi ; je le tuerai en ta présence._ Les Septante : [26] _C’est pourquoi je commencerai moi-même en ta présence._ Le Chaldéen : _Crois-tu que j’en demeure là en ta présence ?_"
+      "text": "L’Hébreu : [26] _Je ne m’arrêterai pas de même en ta présence ; je n’aurai pas tant de ménagement que toi ; je le tuerai en ta présence._ Les Septante : [27] _C’est pourquoi je commencerai moi-même en ta présence._ Le Chaldéen : _Crois-tu que j’en demeure là en ta présence ?_"
     },
     {
       "verse": 14,
       "sub": false,
       "latin_lemma": "cumque adhuc palpitaret.",
       "lemma": "Et lorsqu’il respirait encore.",
-      "text": "On peut joindre l’Hébreu à ce qui précède : _Il le perça de trois dards, comme il vivait encore ; n’étant point encore mort depuis le temps qu’il était pendu._ On demande si Joab ne fit pas mal de tuer Absalon contre la défense expresse de David. On répond [27] que Joab dans cette rencontre, devait plutôt faire attention à ce qui était de l’intérêt de l’État, et du Roi lui-même, qu’à l’inclination, et aux ordres de ce Prince, qui étaient visiblement contraires à la justice rigoureuse, et au bien de ses affaires. Absalon était un perfide, un rebelle, et le plus dangereux ennemi de la République. La Loi de Dieu le condamnait à mort comme un fils révolté contre son père, [28] et comme un incestueux. [29] Le Roi ne devait point être ouï dans cette affaire, où il témoignait plus d’égard à son inclination particulière, qu’à l’utilité commune de ses sujets. On a toujours loué les pères, qui ont sacrifié leur tendresse paternelle, aux intérêts de leurs États. Ce sont là les raisons qui durent déterminer Joab à tuer Absalon, comme ennemi du Roi et de sa patrie. Ce jeune Prince avait déjà mérité la mort, par le meurtre d’Amnon. Quoique David l’eût reçu avec une bonté extraordinaire, et qu’il eût eu pour lui toute l’indulgence qu’il pouvait désirer, il s’était soulevé contre lui, et avait porté les choses à la dernière extrémité. Que pouvait-on attendre de bon d’un pareil esprit ? Et quelle espérance qu’il dût se corriger ?"
+      "text": "On peut joindre l’Hébreu à ce qui précède : _Il le perça de trois dards, comme il vivait encore ; n’étant point encore mort depuis le temps qu’il était pendu._ On demande si Joab ne fit pas mal de tuer Absalon contre la défense expresse de David. On répond [28] que Joab dans cette rencontre, devait plutôt faire attention à ce qui était de l’intérêt de l’État, et du Roi lui-même, qu’à l’inclination, et aux ordres de ce Prince, qui étaient visiblement contraires à la justice rigoureuse, et au bien de ses affaires. Absalon était un perfide, un rebelle, et le plus dangereux ennemi de la République. La Loi de Dieu le condamnait à mort comme un fils révolté contre son père, [29] et comme un incestueux. [30] Le Roi ne devait point être ouï dans cette affaire, où il témoignait plus d’égard à son inclination particulière, qu’à l’utilité commune de ses sujets. On a toujours loué les pères, qui ont sacrifié leur tendresse paternelle, aux intérêts de leurs États. Ce sont là les raisons qui durent déterminer Joab à tuer Absalon, comme ennemi du Roi et de sa patrie. Ce jeune Prince avait déjà mérité la mort, par le meurtre d’Amnon. Quoique David l’eût reçu avec une bonté extraordinaire, et qu’il eût eu pour lui toute l’indulgence qu’il pouvait désirer, il s’était soulevé contre lui, et avait porté les choses à la dernière extrémité. Que pouvait-on attendre de bon d’un pareil esprit ? Et quelle espérance qu’il dût se corriger ?"
     },
     {
       "verse": 15,
       "sub": false,
       "latin_lemma": "decem juvenes armigeri Joab.",
       "lemma": "Dix jeunes Écuyers de Joab.",
-      "text": "Je ne vois pas pourquoi ce nombre d’Écuyers à Joab. Abimélech,[30] Jonathas,[31] Saül,[32] et Goliath,[33] n’en avaient qu’un. L’Écriture nous apprend le nom des Écuyers de Joab :[34] mais pour ce nombre de dix Écuyers, je n’en vois aucun autre exemple dans l’Écriture."
+      "text": "Je ne vois pas pourquoi ce nombre d’Écuyers à Joab. Abimélech,[31] Jonathas,[32] Saül,[33] et Goliath,[34] n’en avaient qu’un. L’Écriture nous apprend le nom des Écuyers de Joab :[35] mais pour ce nombre de dix Écuyers, je n’en vois aucun autre exemple dans l’Écriture."
     },
     {
       "verse": 17,
       "sub": false,
       "latin_lemma": "comportaverunt super eum acervum lapidum.",
       "lemma": "On amassa sur sa fosse un grand monceau de pierres.",
-      "text": "On en fit autant sur le corps d’Achan, qui avait été lapidé dans la vallée d’Achor.[35] On ne porta point Absalon dans le tombeau qu’il s’était préparé. À quelque dessein qu’on ait fait cet amas de pierres sur son corps, il ne peut tourner qu’à sa confusion éternelle, puisque c’était un monument de sa révolte, et de la vengeance de Dieu sur lui. L’Histoire sacrée et profane nous offrent peu de sujets aussi odieux, et aussi méchants qu’Absalon ; et si l’on doit principalement faire usage des mauvais exemples dans l’Histoire, pour concevoir de l’horreur du mal, et pour en éviter les funestes suites, on trouvera dans Absalon de quoi s’instruire, et de quoi s’effrayer. Ce Prince, fils du plus doux, et du meilleur de tous les pères, abuse de la clémence et de la bonté de David, pour se soulever contre lui, pour le combattre, pour le chasser, pour le déshonorer. Mais Dieu attentif à punir l’iniquité, renverse l’esprit d’Absalon, lui fait préférer les mauvais conseils aux meilleurs. Ce Prince s’engage témérairement dans un combat ; et après avoir été témoin de la défaite de son armée, la main de Dieu l’attache tout vivant à un arbre, entre le ciel et la terre, également en horreur à l’un et à l’autre. Ses ennemis ne le respectent pour un temps, que pour le laisser languir avec plus de douleur ; et l’extrême bonté de son père, qui prie qu’on lui sauve la vie, ne sert qu’à mettre sa perfidie et son crime dans un plus grand jour, et à le faire regarder dans tous les siècles comme un objet d’horreur et d’indignation.\nLa persécution, et la révolte de ce fils dénaturé contre son père, est une des plus vives figures de la persécution des Juifs contre Jésus-Christ. David est chassé par un fils qu’il avait comblé de grâces, et qui suivant l’ordre naturel, devait lui succéder au Royaume ; il prie pour lui, il demande qu’on l’épargne, il s’afflige de sa perte, il souhaite de donner sa vie pour lui : Tout cela nous fait voir Jésus-Christ qui est chassé, persécuté, crucifié par les Juifs, qui étaient les héritiers présomptifs du Royaume des Cieux. Il prie pour eux, il donne son sang et sa vie pour leur rachat. Mais ce peuple impie et ingrat ayant mis le comble à ses crimes, est enfin puni de son infidélité, et de sa rébellion. Battu, défait, dissipé, abandonné, poursuivi partout, il est encore aujourd’hui comme suspendu entre le ciel et la terre, également l’objet du courroux du Ciel, et du mépris des Nations."
+      "text": "On en fit autant sur le corps d’Achan, qui avait été lapidé dans la vallée d’Achor.[36] On ne porta point Absalon dans le tombeau qu’il s’était préparé. À quelque dessein qu’on ait fait cet amas de pierres sur son corps, il ne peut tourner qu’à sa confusion éternelle, puisque c’était un monument de sa révolte, et de la vengeance de Dieu sur lui. L’Histoire sacrée et profane nous offrent peu de sujets aussi odieux, et aussi méchants qu’Absalon ; et si l’on doit principalement faire usage des mauvais exemples dans l’Histoire, pour concevoir de l’horreur du mal, et pour en éviter les funestes suites, on trouvera dans Absalon de quoi s’instruire, et de quoi s’effrayer. Ce Prince, fils du plus doux, et du meilleur de tous les pères, abuse de la clémence et de la bonté de David, pour se soulever contre lui, pour le combattre, pour le chasser, pour le déshonorer. Mais Dieu attentif à punir l’iniquité, renverse l’esprit d’Absalon, lui fait préférer les mauvais conseils aux meilleurs. Ce Prince s’engage témérairement dans un combat ; et après avoir été témoin de la défaite de son armée, la main de Dieu l’attache tout vivant à un arbre, entre le ciel et la terre, également en horreur à l’un et à l’autre. Ses ennemis ne le respectent pour un temps, que pour le laisser languir avec plus de douleur ; et l’extrême bonté de son père, qui prie qu’on lui sauve la vie, ne sert qu’à mettre sa perfidie et son crime dans un plus grand jour, et à le faire regarder dans tous les siècles comme un objet d’horreur et d’indignation.\nLa persécution, et la révolte de ce fils dénaturé contre son père, est une des plus vives figures de la persécution des Juifs contre Jésus-Christ. David est chassé par un fils qu’il avait comblé de grâces, et qui suivant l’ordre naturel, devait lui succéder au Royaume ; il prie pour lui, il demande qu’on l’épargne, il s’afflige de sa perte, il souhaite de donner sa vie pour lui : Tout cela nous fait voir Jésus-Christ qui est chassé, persécuté, crucifié par les Juifs, qui étaient les héritiers présomptifs du Royaume des Cieux. Il prie pour eux, il donne son sang et sa vie pour leur rachat. Mais ce peuple impie et ingrat ayant mis le comble à ses crimes, est enfin puni de son infidélité, et de sa rébellion. Battu, défait, dissipé, abandonné, poursuivi partout, il est encore aujourd’hui comme suspendu entre le ciel et la terre, également l’objet du courroux du Ciel, et du mépris des Nations."
     },
     {
       "verse": 18,
       "sub": false,
       "latin_lemma": "Absalom erexerat sibi titulum in valle regis.",
       "lemma": "Absalon s’était fait dresser une colonne dans la vallée du Roi.",
-      "text": "L’Écriture nous avertit que le motif d’Absalon, en s’érigeant ce monument, fut de perpétuer sa mémoire ; parce qu’il n’avait point de fils. Apparemment qu’alors ses trois fils, que l’on a vus au chap. XIV. ℣. 27. étaient morts. C’est ainsi que la Providence se joue des projets des hommes orgueilleux. On montre encore aujourd’hui dans la vallée de Josaphat, un monument, qu’on dit être celui d’Absalon. [36] C’est un cabinet creusé au ciseau dans une roche d’un seul bloc, toute isolée, et détachée de la montagne, de huit pas en carré hors œuvre. Le dedans du cabinet est tout uni ; mais le dehors de la roche est orné de quelques colonnes de la même pierre, et le haut, ou la couverture, est faite en forme de pyramide fort haute, et large, avec une manière de pot à fleur ; le tout ayant bien quatre ou cinq toises de hauteur. Tous les passants, tant Infidèles, que Chrétiens, hommes, femmes, et enfants, jettent une pierre contre ce tombeau, en détestation de la révolte du malheureux Absalon. Du temps de Joseph, [37] on remarquait le monument d’Absalon à deux stades, ou trois cents pas de Jérusalem. Ce n’était qu’une colonne de marbre ; et ainsi il était assez différent de ce qu’on montre aujourd’hui aux voyageurs. Cet Historien croit qu’alors les trois fils d’Absalon vivaient encore, et que leur père disait en érigeant cette colonne, que quand ses fils périraient, son nom subsisterait dans ce monument. D’autres [38] croient qu’il l’érigea lorsqu’il n’avait encore point d’enfants."
+      "text": "L’Écriture nous avertit que le motif d’Absalon, en s’érigeant ce monument, fut de perpétuer sa mémoire ; parce qu’il n’avait point de fils. Apparemment qu’alors ses trois fils, que l’on a vus au chapitre 14:27 étaient morts. C’est ainsi que la Providence se joue des projets des hommes orgueilleux. On montre encore aujourd’hui dans la vallée de Josaphat, un monument, qu’on dit être celui d’Absalon. [37] C’est un cabinet creusé au ciseau dans une roche d’un seul bloc, toute isolée, et détachée de la montagne, de huit pas en carré hors œuvre. Le dedans du cabinet est tout uni ; mais le dehors de la roche est orné de quelques colonnes de la même pierre, et le haut, ou la couverture, est faite en forme de pyramide fort haute, et large, avec une manière de pot à fleur ; le tout ayant bien quatre ou cinq toises de hauteur. Tous les passants, tant Infidèles, que Chrétiens, hommes, femmes, et enfants, jettent une pierre contre ce tombeau, en détestation de la révolte du malheureux Absalon. Du temps de Joseph, [38] on remarquait le monument d’Absalon à deux stades, ou trois cents pas de Jérusalem. Ce n’était qu’une colonne de marbre ; et ainsi il était assez différent de ce qu’on montre aujourd’hui aux voyageurs. Cet Historien croit qu’alors les trois fils d’Absalon vivaient encore, et que leur père disait en érigeant cette colonne, que quand ses fils périraient, son nom subsisterait dans ce monument. D’autres [39] croient qu’il l’érigea lorsqu’il n’avait encore point d’enfants."
     },
     {
       "verse": 18,
       "sub": false,
       "latin_lemma": "manus Absalom.",
       "lemma": null,
-      "text": "La main d’Absalon. Son ouvrage, l’œuvre de ses mains. Autrement, sa place, [39] son monument ; ou le lieu où il avait fait éclater sa force, sa magnificence, sa main. Nous lisons dans le Texte Hébreu du chap. xv. ℣. 12. du premier Livre des Rois, [40] que Saül s’était érigé une main sur le mont Carmel ; ce que l’Auteur de la Vulgate a entendu d’un arc triomphal, et d’un monument de sa victoire contre les Amalécites. Les Hébreux [41] croient qu’Absalon obtint du temps, après avoir été détaché du chêne, pour ériger ce monument, qui fut nommé _Main d’Absalon_, parce qu’il y avait fait graver une main."
+      "text": "La main d’Absalon. Son ouvrage, l’œuvre de ses mains. Autrement, sa place, [40] son monument ; ou le lieu où il avait fait éclater sa force, sa magnificence, sa main. Nous lisons dans le Texte Hébreu du chap. xv. ℣. 12. du premier Livre des Rois, [41] que Saül s’était érigé une main sur le mont Carmel ; ce que l’Auteur de la Vulgate a entendu d’un arc triomphal, et d’un monument de sa victoire contre les Amalécites. Les Hébreux [42] croient qu’Absalon obtint du temps, après avoir été détaché du chêne, pour ériger ce monument, qui fut nommé _Main d’Absalon_, parce qu’il y avait fait graver une main."
     },
     {
       "verse": 21,
       "sub": false,
       "latin_lemma": "ait Joab Chusi : vade.",
       "lemma": "Joab dit à Chusi : Allez-vous-en.",
-      "text": "Ce Chusi n’est pas Chusi, ou Chusaï d’Arach, ami de David. C’était un particulier sans nom, et sans distinction ; ou peut-être un Arabe, ou un Éthiopien ; [42] car _Cuschi_ signifie un Éthiopien."
+      "text": "Ce Chusi n’est pas Chusi, ou Chusaï d’Arach, ami de David. C’était un particulier sans nom, et sans distinction ; ou peut-être un Arabe, ou un Éthiopien ; [43] car _Cuschi_ signifie un Éthiopien."
     },
     {
       "verse": 22,
       "sub": false,
       "latin_lemma": "non eris boni nuntii bajulus.",
       "lemma": "Vous serez le porteur d’une méchante nouvelle.",
-      "text": "On ne croyait pas qu’un honnête homme dût se charger d’une mauvaise nouvelle. Ç’a été le sentiment de tous les peuples, et de tous les temps. [43] L’Hébreu à la lettre : [44] _Et cette nouvelle ne vous apportera rien._ Vous n’en recevrez pas la récompense ; vous perdrez vos peines. Ou bien : _Cette nouvelle ne vous convient pas._ L’occasion n’est pas belle."
+      "text": "On ne croyait pas qu’un honnête homme dût se charger d’une mauvaise nouvelle. Ç’a été le sentiment de tous les peuples, et de tous les temps. [44] L’Hébreu à la lettre : [45] _Et cette nouvelle ne vous apportera rien._ Vous n’en recevrez pas la récompense ; vous perdrez vos peines. Ou bien : _Cette nouvelle ne vous convient pas._ L’occasion n’est pas belle."
     },
     {
       "verse": 24,
@@ -201,7 +187,7 @@
       "sub": false,
       "latin_lemma": "quis mihi tribuat ut moriar pro te.",
       "lemma": "Que ne puis-je donner ma vie pour la vôtre.",
-      "text": "David faisait attention au malheur éternel d’Absalon, qui était mort dans un état, qui ne pouvait donner que de très grandes, et très justes inquiétudes à ce père pour le salut de son fils. David s’était consolé dans le moment qu’il apprit que le premier fils qu’il avait eu de Bethsabée, était mort ; parce qu’il avait des assurances de son salut : mais il pleure Absalon, parce qu’il sait à quels supplices est réservée une âme si criminelle.[45] Ce qui l’afflige principalement, c’est qu’il se considère comme la première cause, ou du moins comme l’occasion de tous ces malheurs qui arrivaient à sa famille, puisqu’ils n’étaient que des suites, et des châtiments de son crime."
+      "text": "David faisait attention au malheur éternel d’Absalon, qui était mort dans un état, qui ne pouvait donner que de très grandes, et très justes inquiétudes à ce père pour le salut de son fils. David s’était consolé dans le moment qu’il apprit que le premier fils qu’il avait eu de Bethsabée, était mort ; parce qu’il avait des assurances de son salut : mais il pleure Absalon, parce qu’il sait à quels supplices est réservée une âme si criminelle.[46] Ce qui l’afflige principalement, c’est qu’il se considère comme la première cause, ou du moins comme l’occasion de tous ces malheurs qui arrivaient à sa famille, puisqu’ils n’étaient que des suites, et des châtiments de son crime."
     }
   ],
   "joins": [
@@ -217,6 +203,13 @@
       "verse": 8,
       "mode": "flow",
       "before": "t fut dispersé sur la face de toute la terre._ Ce qui peut",
+      "after": "avoir deux sens : Les soldats des deux armées se mêlèrent,"
+    },
+    {
+      "seam": "page_0194>page_0195",
+      "verse": 9,
+      "mode": "splice",
+      "before": "ue ses cheveux s’embarrassent de telle sorte, qu’ils puis-",
       "after": "sent soutenir longtemps le poids de son corps, et de ses a"
     },
     {
@@ -337,157 +330,162 @@
     {
       "key": "page_0194-a",
       "n": 15,
-      "text": "saint Jean Chrysostome sive quis alius Autor, homélie 1, Sam. 2, sur ce passage, de Absalon. perseq. ; Théodoret, question 25. Voyez."
+      "text": "Joseph. lib. 7. c. 9."
+    },
+    {
+      "key": "page_0194-b",
+      "n": 16,
+      "text": "Ita Interpp. passim."
     },
     {
       "key": "page_0195-a",
-      "n": 16,
-      "text": "saint Jean Chrysostome sive quis alius Autor, homélie 1, Sam. 8, sur ce passage, de Absalon. perseq. ; Théodoret, question 25. Voyez."
+      "n": 17,
+      "text": "Saint Jean Chrysostome sive quis alius Autor, homélie 1, Sam. 8, sur ce passage, de Absalon. perseq. ; Théodoret, question 25. Voyez."
     },
     {
       "key": "page_0196-a",
-      "n": 17,
+      "n": 18,
       "text": "1 Rois 18,4. Dedit ei usque ad balteum."
     },
     {
       "key": "page_0196-b",
-      "n": 18,
+      "n": 19,
       "text": "Homère, Iliade, livre H."
     },
     {
       "key": "page_0196-c",
-      "n": 19,
+      "n": 20,
       "text": "Job 13,18."
     },
     {
       "key": "page_0196-d",
-      "n": 20,
+      "n": 21,
       "text": "Claudien, L’Enlèvement de Proserpine, livre 2."
     },
     {
       "key": "page_0196-e",
-      "n": 21,
+      "n": 22,
       "text": "Virgile. Voyez Juste Lipse, Analecta ad Militiam Romanam, dialogue 3."
     },
     {
       "key": "page_0196-f",
-      "n": 22,
-      "text": "או עשיתי בנפשו שקר. Contre son ame."
+      "n": 23,
+      "text": "או עשיתי בנפשו שקר. Contre son âme."
     },
     {
       "key": "page_0196-g",
-      "n": 23,
-      "text": "Καὶ πῶς ποιήσω τὸ ψυχῇ μου ἄδικον. D’autres Exemplaires. Εἰ ψυχῇ αὐτῷ. Contre son ame."
+      "n": 24,
+      "text": "Καὶ πῶς ποιήσω τὸ ψυχῇ μου ἄδικον. D’autres Exemplaires. Εἰ ψυχῇ αὐτῷ. Contre son âme."
     },
     {
       "key": "page_0197-a",
-      "n": 24,
+      "n": 25,
       "text": "ואתה תתיצב כנגד"
     },
     {
       "key": "page_0197-b",
-      "n": 25,
+      "n": 26,
       "text": "לא כן אחילה לפניך"
     },
     {
       "key": "page_0197-c",
-      "n": 26,
+      "n": 27,
       "text": "Διὰ τοῦτο ἐγὼ ἄρξομαι ἀπάνταν σοι."
     },
     {
       "key": "page_0197-d",
-      "n": 27,
+      "n": 28,
       "text": "Voyez Grotius sur ce passage, et sur 2 Rois 18,9."
     },
     {
       "key": "page_0197-e",
-      "n": 28,
+      "n": 29,
       "text": "Deutéronome 21,18, 21."
     },
     {
       "key": "page_0197-f",
-      "n": 29,
+      "n": 30,
       "text": "Lévitique 18,29."
     },
     {
       "key": "page_0198-a",
-      "n": 30,
+      "n": 31,
       "text": "Juges 9,54."
     },
     {
       "key": "page_0198-b",
-      "n": 31,
+      "n": 32,
       "text": "1 Rois 14,1."
     },
     {
       "key": "page_0198-c",
-      "n": 32,
+      "n": 33,
       "text": "1 Rois 16,21."
     },
     {
       "key": "page_0198-d",
-      "n": 33,
+      "n": 34,
       "text": "1 Rois 17,7."
     },
     {
       "key": "page_0198-e",
-      "n": 34,
+      "n": 35,
       "text": "2 Rois 23,37 ; 1 Paralipomènes 11,39."
     },
     {
       "key": "page_0198-f",
-      "n": 35,
+      "n": 36,
       "text": "Josué 7,26."
     },
     {
       "key": "page_0199-a",
-      "n": 36,
+      "n": 37,
       "text": "Doubdan, voyage de la Terre-sainte, chapitre 15."
     },
     {
       "key": "page_0200-a",
-      "n": 37,
+      "n": 38,
       "text": "Joseph. Antiq. lib. 7. c. 9. Εστησε γάρλας δύο παμμεγέθεις δύο σταδίοις ἀπέχουσας ἱεροσολύμων."
     },
     {
       "key": "page_0200-b",
-      "n": 38,
+      "n": 39,
       "text": "Sanctius ; et Tirin."
     },
     {
       "key": "page_0200-c",
-      "n": 39,
+      "n": 40,
       "text": "Voyez Deutéronome 23,12, sur 2 Rois 18,4. Jonathan ; Grotius ; etc."
     },
     {
       "key": "page_0200-d",
-      "n": 40,
+      "n": 41,
       "text": "מצּיב לו יד"
     },
     {
       "key": "page_0200-e",
-      "n": 41,
+      "n": 42,
       "text": "L’auteur des Traditions hébraïques sur les livres des Rois, sur ce passage."
     },
     {
       "key": "page_0201-a",
-      "n": 42,
+      "n": 43,
       "text": "Grotius ;\nJunius ;\nVar."
     },
     {
       "key": "page_0201-b",
-      "n": 43,
+      "n": 44,
       "text": "Voyez 3 Rois 1,42-43."
     },
     {
       "key": "page_0201-c",
-      "n": 44,
+      "n": 45,
       "text": "ולכה אין בשרה מצאת. Kaj ou eēe Daylim eis istimus noel casch."
     },
     {
       "key": "page_0203-a",
-      "n": 45,
-      "text": "Théodoret, question 35 ; saint Augustin, De la doctrine chrétienne, livre 3, et Contre Fauste, livre 22, chapitre 66 ; et saint Ambroise, Sur la mort de Valentinien. Voyez Sanctius sur ce passage."
+      "n": 46,
+      "text": "Théodoret, question 35 ; Saint Augustin, De la doctrine chrétienne, livre 3, et Contre Fauste, livre 22, chapitre 66 ; et saint Ambroise, Sur la mort de Valentinien. Voyez Sanctius sur ce passage."
     }
   ],
   "missing_footnotes": []

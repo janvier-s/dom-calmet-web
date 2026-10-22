@@ -1,0 +1,152 @@
+{
+  "book": "Psaumes",
+  "chapter": 80,
+  "chapter_summary": "Le Psalmiste invite le peuple à louer le Seigneur au premier jour de l’année, ou à la Fête des Trompettes. Il rapporte l’origine, et la cause de l’établissement de cette solemnité ; ingratitude des Israëlites : promesses du Seigneur.\nIn finem pro torcularibus, Psalmus ipsi Asaph. Pseaume d’Asaph pour la fin, sur les pressoirs.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, pro torcularibus. Psalmus ipsi Asaph.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription): check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0456.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Exultate Deo adjutori nostro : jubilate Deo Jacob.",
+      "french": "Réjouissez-vous en louant Dieu notre protecteur : chantez dans de saints transports, les louanges du Dieu de Jacob.",
+      "annotations": null,
+      "source_pages": [
+        "page_0456.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Sumite psalmum, et date tympanum, psalterium jucundum cum cythara.",
+      "french": "Entonnez le Cantique, et faites entendre la tymbale, le psaltérion harmonieux, avec la lyre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0456.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Buccinate in neomenia tubâ, in insigni die solemnitatis vestræ.",
+      "french": "Sonnez de la trompette en ce premier jour du mois, au jour célèbre de votre grande solemnité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0457.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quia præceptum in Israël est : et judicium Deo Jacob.",
+      "french": "Car c’est un commandement qui a été fait en Israël, et une ordonnance établie par le Dieu de Jacob.",
+      "annotations": null,
+      "source_pages": [
+        "page_0457.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Testimonium in Joseph posuit illud, cùm exiret de terra Ægypti : linguam, quam non noverat, audivit.",
+      "french": "Il l’a institué pour être un monument à Joseph lorsqu’il sortit de l’Egypte, et qu’il entendit une voix qui lui était inconnuë.",
+      "annotations": null,
+      "source_pages": [
+        "page_0459.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Divertit ab oneribus dorfum ejus : manus ejus in cophino servierunt.",
+      "french": "Il a déchargé leur dos des fardeaux qui les accablaient : leurs mains servaient à porter sans cesse des corbeilles toutes pleines.",
+      "annotations": null,
+      "source_pages": [
+        "page_0460.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "In tribulatione invocasti, et liberavi te, exaudivi te in abscondito tempestatis : probavi te apud aquam contradictionis.",
+      "french": "Vous m’avez invoqué dans l’affliction où vous étiez ; et je vous ai délivré. Je vous ai exaucé du fond de la tempête : je vous ai éprouvé aux eaux de contradiction.",
+      "annotations": null,
+      "source_pages": [
+        "page_0461.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Audi, populus meus, et contestabor te ; Israël, si audieris me, non erit in te Deus recens, neque adorabis Deum alienum.",
+      "french": "Ecoutez, mon peuple, et je vous attesterai ma volonté. Israël, si vous voulez m’écouter, vous n’aurez point parmi vous de Dieux nouveaux ; et vous n’adorerez point de Dieux étrangers.",
+      "annotations": null,
+      "source_pages": [
+        "page_0462.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ego enim sum Dominus Deus tuus, qui eduxi te de terra Ægypti : dilata os tuum, et implebo illud.",
+      "french": "Car je suis le Seigneur votre Dieu, qui vous ai fait sortir de la terre de l’Egypte. Ouvrez et élargissez votre bouche, et je la remplirai.",
+      "annotations": null,
+      "source_pages": [
+        "page_0462.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et non audivit populus meus vocem meam : et Israël non intendit mihi.",
+      "french": "Mais mon peuple n’a point écouté ma voix ; et Israël ne s’est point appliqué à m’entendre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0463.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et dimisi eos secundum desideria cordis eorum, ibunt in adinventionibus suis.",
+      "french": "C’est pourquoi je les ai abandonnez aux desirs de leur cœur, et ils marcheront dans des voies qu’ils ont inventées eux-mêmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0463.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Si populus meus audisset me : Israël si in viis meis ambulasset.",
+      "french": "Si mon peuple m’avait écouté ; si Israël avait marché dans mes voies ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0463.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Pro nihilo forsitan inimicos eorum humiliassem, et super tribulantes eos misissem manum meam.",
+      "french": "J’aurais pu humilier facilement leurs ennemis ; et j’aurais appesanti ma main sur ceux qui les affligeaient.",
+      "annotations": null,
+      "source_pages": [
+        "page_0463.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Inimici Domini mentiti sunt ei : et erit tempus eorum in sæcula.",
+      "french": "Les ennemis du Seigneur lui ont manqué de parole : et le temps de leur misere durera autant que les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0464.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et cibavit eos adipe frumenti : et de petra melle saturavit eos.",
+      "french": "Et cependant il les a nourris de la plus pure farine de froment ; et il les a rassasiez du miel sorti de la pierre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0465.json"
+      ]
+    }
+  ]
+}

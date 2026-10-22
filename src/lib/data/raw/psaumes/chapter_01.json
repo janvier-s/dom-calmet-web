@@ -1,0 +1,71 @@
+{
+  "book": "Psaumes",
+  "chapter": 1,
+  "chapter_summary": "Bonheur des Justes, leurs devoirs, leurs récompenses. Malheur des méchants, leurs peines.",
+  "chapter_intro": "Ce premier Psaume n’a point de titre, ni dans l’Hébreu, ni dans les Septante.^{(a)} C’est comme la Préface de tout le Psautier.^{(b)} Les Pères Grecs et Latins l’attribuënt communément à David. Quelques-uns le donnent à Esdras.^{(c)} Jérémie l’a ou cité, ou imité.^{(d)} Les Juifs le rapportent à Josias,^{(e)} qui est le seul Roi de Juda, à qui l’on puisse donner cette louange, de n’avoir point suivi le conseil des impies, de ne s’être point arrêté dans la voie des pécheurs, et de ne s’être point assis dans la chaire des libertins. Quelques Pères^{(f)} l’appliquent à Joseph d’Arimathie, qui ne voulut point se joindre aux Juifs, dans le dessein impie de perdre le Sauveur. On l’explique aussi de Jésus-Christ Homme, ^{(g)} qui n’a jamais commis la moindre faute, qui n’a été souillé d’aucun péché, et n’a jamais entré en participation avec les méchatns. Ce Psaume contient comme un précis de toute la doctrine du Psautier, et un abrégé de toute la morale, et des devoirs de l’homme.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Beatus vir, qui non abiit in consilio impiorum, et in via peccatorum non stetit, et in cathedra pestilentiæ non sedit :",
+      "french": "Heureux l’homme, qui ne s’est point laissé aller à suivre le conseil des impies ; qui ne s’est point arrêté dans la voie des pécheurs, et qui ne s’est point assis dans la chaire contagieuse des libertins :",
+      "annotations": null,
+      "source_pages": [
+        "page_0081.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Sed in Lege Domini voluntas ejus, et in Lege ejus meditabitur die ac nocte.",
+      "french": "Mais dont la volonté est attachée à la Loi du Seigneur, et qui médite jour et nuit cette Loi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0082.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Et erit tanquam Lignum, quod plantatum est secùs decursus aquarum, quod fructum suum dabit in tempore suo.",
+      "french": "Et il sera comme un arbre qui est planté proche le courant des eaux, lequel donnera son fruit dans son temps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0083.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Et folium ejus non defluet : et omnia quæcunque faciet, prosperabuntur.",
+      "french": "Et sa feuille ne tombera point : et toutes les choses qu’il fera auront un heureux succès.",
+      "annotations": null,
+      "source_pages": [
+        "page_0084.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Non sic impii, non sic : sed tamquam pulvis, quem projicit ventus à facie terræ.",
+      "french": "Il n’en est pas ainsi des impies, il n’en est pas ainsi : mais ils sont comme la poussière que le vent disperse de dessus la face de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Ideò non resurgent impii in judicio : neque peccatores in consilio justorum.",
+      "french": "C’est pourquoi les impies ne ressusciteront point dans le jugement des justes, ni les pécheurs dans l’assemblée des mêmes justes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0085.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quoniam novit Dominus viam justorum : et iter impiorum peribit.",
+      "french": "Car le Seigneur connaît la voie de ceux qui sont justes ; et la voie des impies périra.",
+      "annotations": null,
+      "source_pages": [
+        "page_0087.json"
+      ]
+    }
+  ]
+}

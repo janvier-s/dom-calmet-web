@@ -1,0 +1,224 @@
+{
+  "book": "Psaumes",
+  "chapter": 73,
+  "chapter_summary": "Prière du Peuple affligé ; le Temple brûlé, et souillé par les ennemis ; nulle consolation de la part des Prophètes ; récit des anciennes merveilles opérées par le Seigneur en faveur de son Peuple. On le prie de se souvenir de l’orgueil de ses ennemis, et de l’humilier.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Ut quid Deus repulisti in finem : iratus est furor tuus super oves pascuæ tuæ ?",
+      "french": "Pourquoi, ô Dieu, nous avez-vous rejetez pour toujours ; et pourquoi votre fureur s’est-elle allumée contre les brebis de votre troupeau ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0362.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Memor esto congregationis tuæ, quam possedisti ab initio.",
+      "french": "Souvenez-vous de cette assemblée, que vous avez possedée dés le commencement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0362.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Redemisti virgam hereditatis tuæ : mons Sion, in quo habitasti in eo.",
+      "french": "Vous avez vous-même racheté votre héritage, le mont de Sion, qui est le lieu de votre demeure.",
+      "annotations": null,
+      "source_pages": [
+        "page_0363.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Leva manus tuas in superbias eorum in finem : quanta malignatus est inimicus in sancto ?",
+      "french": "Levez vos mains ; afin d’abattre pour jamais leur insolence, et leur orgueil. Combien l’ennemi a-t’il commis de méchancetés dans le Sanctuaire ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0363.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et gloriati sunt qui oderunt te, in medio solemnitatis tuæ.",
+      "french": "Ceux qui vous haïssent se sont insolemment élevez au milieu de votre solennité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0364.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Posuerunt signa sua, signa : Et non cognoverunt, sicut in exitu super summum.",
+      "french": "Ils ont, sans connaître ce qu’ils faisaient, placé leurs étendarts en forme de trophées au haut du Temple, comme aux portes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0364.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quasi in silva lignorum, securibus exciderunt januas ejus in idipsum : in securi, et ascia dejecerunt eam.",
+      "french": "Ils ont d’un commun accord abattu, et mis en pièces ses portes à coups de hache, ainsi qu’ils auraient coupé des arbres au milieu d’une forêt. Ils ont avec la coignée, et la hache renversé votre maison.",
+      "annotations": null,
+      "source_pages": [
+        "page_0365.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Incenderunt igni Sanctuarium tuum : in terra polluerunt tabernaculum nominis tui.",
+      "french": "Ils ont mis le feu à votre Sanctuaire : ils ont fouillé sur la terre le tabernacle de votre saint nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0366.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Dixerunt in corde suo cognatio eorum simul : Quiescere faciamus omnes dies festos Dei à terra.",
+      "french": "Ils ont conspiré tous ensemble, en disant au fond de leur cœur : Faisons cesser, et abolissons de dessus la terre, tous les jours de fête consacrez à Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0366.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Signa nostra non vidimus, jam non est Propheta : et nos non cognoscet amplius.",
+      "french": "Nous ne voyons plus de prodiges ; il n’y a plus de Prophète, et Dieu ne nous connaît plus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0368.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Usquequò, Deus, improperabit inimicus ? irritat adversarius nomen tuum in finem ?",
+      "french": "Jusqu’à quand, ô Dieu, l’ennemi vous fora-t’il des reproches avec insulte ? et notre adversaire continuera-t’il toujours à vous irriter par ses blasphêmes contre votre nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0369.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Ut quid avertis manum tuam, et dexteram tuam de medio sinu tuo in finem ?",
+      "french": "Pourquoi votre main se retire-t’elle de nous ? et pourquoi tenez-vous toujours votre droite dans votre sein.",
+      "annotations": null,
+      "source_pages": [
+        "page_0369.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Deus autem Rex noster ante secula, operatus est salutem in medio terræ.",
+      "french": "Mais enfin Dieu, qui est notre Roi depuis tant de siècles, a opéré le salut au milieu de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0370.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Tu confirmasti in virtute tua mare : contribulasti capita draconum in aquis.",
+      "french": "C’est vous qui avez affermi la mer par votre puissance ; et brisé les têtes des dragons dans le fond des eaux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0371.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Tu confregisti capita draconis : dedisti eum escam populis Æthiopum.",
+      "french": "C’est vous qui avez écrasé les têtes du grand dragon : vous l’avez donné en nourriture aux peuples d’Ethiopie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0372.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Tu dirupisti fontes, et torrentes : tu siccasti fluvios Ethan.",
+      "french": "Vous avez fait sortir des fontaines, et des torrents du sein de la pierre : vous avez séché des fleuves impétueux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0373.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Tuus est dies, et tua est nox : tu fabricatus es auroram, et solem.",
+      "french": "Le jour vous appartient, et la nuit est aussi à vous : c’est vous qui êtes le Créateur de l’aurore, et du soleil.",
+      "annotations": null,
+      "source_pages": [
+        "page_0374.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Tu fecisti omnes terminos terræ : æstatem, et ver tu plasmasti ea.",
+      "french": "Vous avez formé toute l’étendue de la terre : vous avez créé l’Eté, comme le Printems.",
+      "annotations": null,
+      "source_pages": [
+        "page_0374.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Memor esto hujus, inimicus improperavit Domino : et populus insipiens incitavit nomen tuum.",
+      "french": "Souvenez-vous de ceci ; que l’ennemi a outragé le Seigneur par ses reproches injurieux ; et qu’un peuple extravagant a irrité votre nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0375.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Ne tradas bestiis animas confitentes tibi, et animas pauperum tuorum ne obliviscaris in finem.",
+      "french": "Ne livrez pas aux bêtes les âmes de ceux qui vous louent : et n’oubliez pas pour toujours les âmes de vos pauvres serviteurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0375.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Respice in testamentum tuum : quia repleti sunt, qui obscurati sunt terræ, domibus iniquitatum.",
+      "french": "Jetez les yeux sur votre sainte alliance ; parce que des hommes des plus méprisables de la terre, se sont emparez injustement de toutes nos maisons.",
+      "annotations": null,
+      "source_pages": [
+        "page_0376.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Ne avertatur humilis factus confusus : pauper, et inops laudabunt nomen tuum.",
+      "french": "Que celui qui est dans l’humiliation ne soit pas renvoyé couvert de confusion ; le pauvre et celui qui est sans secours, louëront votre nom.",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Exurge, Deus, judica causam tuam : memor esto improperiorum tuorum, eorum quæ ab insipiente sunt tota die.",
+      "french": "Levez-vous, ô Dieu ; jugez votre cause ; souvenez-vous des reproches injurieux qu’on vous fait ; de ceux qu’un peuple insensé vous fait tout le jour.",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Ne obliviscaris voces inimicorum tuorum : superbia eorum, qui te oderunt, ascendit semper.",
+      "french": "N’oubliez pas ce que disent vos ennemis. L’orgueil de ceux qui vous haïssent, va toujours en s’augmentant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0377.json"
+      ]
+    }
+  ]
+}

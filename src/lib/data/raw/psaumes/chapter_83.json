@@ -1,0 +1,134 @@
+{
+  "book": "Psaumes",
+  "chapter": 83,
+  "chapter_summary": "Desir de revoir le Tabernacle du Seigneur. Bonheur de ceux qui passent leur vie dans ses parvis. Il vaut mieux être le dernier dans la maison de Dieu, que de demeurer dans les tentes des pécheurs.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, pro torcularibus filiis Core. Psalmus.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription): check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0484.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Quam dilecta Tabernacula tua, Domine virtutum ! concupiscit, et deficit anima mea in atria Domini.",
+      "french": "Seigneur des armées, que vos Tabernacles sont aimables ! Mon âme désire ardemment d’être dans la maison du Seigneur ; et elle est presque dans la défaillance par l’ardeur de ce désir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0484.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Cor meum, et caro mea, exultaverunt in Deum vivum.",
+      "french": "Mon cœur et ma chair sont éclater par des transports de joie, l’amour qu’ils ont pour le Dieu vivant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0484.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Etenim passer invenit sibi domum, et turtur nidum sibi, ubi ponat pullos suos.",
+      "french": "Car le passereau a un lieu de retraite ; et la tourterelle un nid, pour y placer ses petits.",
+      "annotations": null,
+      "source_pages": [
+        "page_0485.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Altaria tua, Domine virtutum, Rex meus, et Deus meus.",
+      "french": "Mais vos autels sont mon partage, Seigneur des armées ; mon Roi, et mon Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0485.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Beati qui habitant in domo tua Domine ! in secula seculorum laudabunt te.",
+      "french": "Heureux ceux qui demeurent dans votre maison, Seigneur ! ils vous louëront dans tous les siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0486.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Beatus vir, cujus est auxilium abs te : ascensiones in corde suo disposuit, in valle lacrymarum, in loco quem posuit.",
+      "french": "Heureux est l’homme qui attend de vous son secours ; et qui dans cette vallée de larmes, a résolu en son cœur de monter, et de s’élever toujours, jusqu’au lieu que le Seigneur a établi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0486.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Etenim benedictionem dabit Legislator, ibunt de virtute in virtutem : et videbitur Deus Deorum in Sion.",
+      "french": "Car le divin Législateur leur donnera sa bénédiction : ils s’avanceront de vertu en vertu ; et ils verront le Dieu des Dieux dans Sion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0487.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Domine Deus virtutum, exaudi orationem meam : auribus percipe, Deus Jacob.",
+      "french": "Seigneur, Dieu des armées, exaucez ma prière : rendez votre oreille attentive, ô Dieu de Jacob.",
+      "annotations": null,
+      "source_pages": [
+        "page_0487.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Protector noster aspice Deus : et respice in faciem Christi tui.",
+      "french": "Regardez-nous, ô Dieu notre Protecteur ; et jetez vos yeux sur le visage de votre Christ.",
+      "annotations": null,
+      "source_pages": [
+        "page_0488.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Quia melior est dies una in atriis tuis super millia.",
+      "french": "Car un seul jour de demeure dans vos tabernacles, vaut mieux que mille autres jours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0489.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Elegi abjectus esse in domo Dei mei, magis quàm habitare in tabernaculis peccatorum.",
+      "french": "J’ai choisi d’être plutôt des derniers dans la maison de mon Dieu, que d’habiter dans les tentes des pécheurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0489.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Quia misericordiam, et veritatem diligit Deus : gratiam et gloriam dabit Dominus.",
+      "french": "Parce que Dieu aime la miséricorde, et la vérité ; et que le Seigneur donnera la grâce et la gloire.",
+      "annotations": null,
+      "source_pages": [
+        "page_0489.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Non privabit bonis eos, qui ambulant in innocentia : Domine virtutum, beatus homo, qui sperat in te.",
+      "french": "Il ne privera point de ses biens ceux qui marchent dans l’innocence. Seigneur des armées, heureux est l’homme qui espère en vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0490.json"
+      ]
+    }
+  ]
+}

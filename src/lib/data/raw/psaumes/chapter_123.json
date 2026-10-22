@@ -1,0 +1,80 @@
+{
+  "book": "Psaumes",
+  "chapter": 123,
+  "chapter_summary": "Actions de grâces des Captifs délivrez de Babylone. Ils reconnaissent que sans une protection particulière de Dieu, ils étaient perdus sans ressource.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Nisi quia Dominus erat in nobis, dicat nunc Israël : nisi quia Dominus erat in nobis.",
+      "french": "Si le Seigneur n’avait été avec nous ; qu’Israël dise maintenant : Si le Seigneur n’avait été avec nous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0255.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Cum exurgerent homines in nos, fortè vivos deglutissent nos :",
+      "french": "Lorsque les hommes s’élevaient contre nous, peut-être nous auraient-ils dévorez tout vivants :",
+      "annotations": null,
+      "source_pages": [
+        "page_0255.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Cùm irasceretur furor eorum in nos, forsitan aqua absorbuiffet nos.",
+      "french": "Lorsque leur fureur s’est irritée contre nous, peut-être ils nous auraient engloutis comme une mer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0256.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Torrentem pertransivit anima nostra : forsitan pertransisset anima nostra aquam intolerabilem.",
+      "french": "Notre âme a traversé le torrent : et peut-être aurait-elle passé dans une eau ; d’où elle n’aurait pu se tirer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0256.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Benedictus Dominus, qui non dedit nos in captionem dentibus eorum.",
+      "french": "Que le Seigneur soit béni, lui qui ne nous a point donnez en proie à leurs dents.",
+      "annotations": null,
+      "source_pages": [
+        "page_0257.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Anima nostra sicut passer erepta est, de laqueo venantium.",
+      "french": "Notre âme s’est échappée, comme un passereau, du filet des chasseurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0258.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Laqueus contritus est : et nos liberati sumus.",
+      "french": "Le filet a été brisé ; et nous avons été délivrez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0258.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Adjutorium nostrum in nomine Domini, qui fecit Cœlum, et terram.",
+      "french": "Notre secours est dans le nom du Seigneur, qui a fait le Ciel, et la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0258.json"
+      ]
+    }
+  ]
+}

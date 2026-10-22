@@ -1,0 +1,138 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "laudate Dominum in sanctis ejus ; laudate eum in firmamento virtutis ejus.",
+      "lemma": "Louez le Seigneur dans son Sanctuaire ; louez-le sur le trône inébranlable de sa puissance.",
+      "text": "Sous le nom de Sanctuaire, l’Ecriture marque quelquefois le Ciel. [1] Louez le Seigneur résidant dan le Ciel ; louez-le demeurant dans son firmament, qui est comme une forteresse imprenable, et inaccessible, [2] et le lieu d’où il fait éclater sa force, par les foudres, les éclairs, les feux, les tempêtes, les pluies, les grêles qu’il y produit. Car sous le nom de firmament, nous entendons l’air : D’autres expliquent ce verset du Sanctuaire, et de l’Arche. Louez le Seigneur résidant dans son Sanctuaire ; louez-le assis sur son Arche, [3] qui peut être désignée sous le nom de force, [4] ou de vertu de Dieu. D’autres : [5] Louez-le à cause de sa puissance, et de sa force. Mais la première explication paraît meilleure."
+    },
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "laudate eum in virtutibus ejus.",
+      "lemma": "[6] Louez-le dans les effets de sa vertu toute divine, qu’il a fait paraître en tant de ren-",
+      "text": "contres en notre faveur. Louez tous les prodiges de sa puissance dans le Ciel, et dans la terre."
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "laudate eum in sono tubæ.",
+      "lemma": "Louez-le au son de la trompette.",
+      "text": "Le Psalmiste rapporte ici jusqu’au nombre de dix instruments, dont on se servait dans le Temple, pour publier les louanges du Seigneur. L’usage des trompettes était réservé aux Prêtres seuls, suivant l’ordre de Moyse.[7] Mais les Lévites jouaient de toutes les autres sortes d’instruments. Symmaque a entendu ici une trompette de corne,[8] un cors.\nIN PSALTERIO, ET CYTHARA. _Avec le psaltérion, et avec la harpe._ L’Hébreu :[9] _Avec le nable, et le cinnor._ On peut voir la Differtation sur les instruments de musique."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "in tympano, et choro.",
+      "lemma": "Avec le tambour, et la flûte.",
+      "text": "_Chorus_ en cet endroit, signifie un instrument de musique. L’Hébreu :[10] _Avec le tympanum, et le machol._ On a donné ailleurs la description de ces instruments.\nIN CHORDIS, ET ORGANO. _Avec le luth, et avec l’orgue._ L’Hébreu :[11] _Avec le minnim, et le huggab._ C’était, à ce qu’on croit, deux fortes de flûtes ; ou bien, _minnim_ était un instrument à cordes, et _huggab_, une flûte. Un ancien Interprète Grec : _Avec des instruments à cordes, et la cythare._"
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "in cymbalis benesonantibus.",
+      "lemma": "Avec des tymbales d’un son éclatant.",
+      "text": "L’Hébreu :[12] _Avec des Zalzelim sonores_, ou d’un son éclatant. C’est ou le sistre, ou la cymbale des Anciens.\nOMNIS SPIRITUS LAUDET DOMINUM. _Que tout ce qui vit, et qui respire, loue le Seigneur._ Quelques-uns l’expliquent ainsi : Que tous les Esprits séparez de la matière, les Anges, les Intelligences, les âmes séparées du corps, louent le Seigneur. D’autres : Louez le Seigneur par tous les instruments à vent ; comme font les diverses sortes de flûtes. Mais le vrai sens du Texte [13] est, que tout ce qui a la vie, et qui respire, célèbre les louanges du Seigneur. De Muis croit que ce dernier verset a été ajoûté, comme la conclusion du Pseautier, par celui qui a compilé les Pseaumes.\n_Alleluia._ Ce terme ne se lit point dans les Septante, ni dans le Syriaque, ni dans l’Arabe ; et saint Augustin [14] dit qu’il y avait très peu d’Exemplaires Latins, et encore moins de Grecs, qui le lûssent en cet endroit. On ne le trouve point dans les anciens Pseautiers, [15] ni dans la plupart des Pères. Mais il est dans l’Hébreu, dans le Caldéen, et dans la Vulgate ; et on ne pouvait finir le Pseautier par un mot plus convenable, ni plus propre, puisque tout l’ouvrage ayant pour objet les louanges du Seigneur, on ne le peut mieux conclure, qu’en disant : _Louez le Seigneur : Alleluia._ C’est ce qui doit faire notre principale occupation sur la terre, et notre unique emploi dans le Ciel. A Dieu seul soit gloire, et honneur dans tous les siècles des siècles. Ainsi soit-il."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0418>page_0419",
+      "verse": 2,
+      "mode": "splice",
+      "before": " vertu toute divine, qu’il a fait paraître en tant de ren-",
+      "after": "contres en notre faveur. Louez tous les prodiges de sa pui"
+    },
+    {
+      "seam": "page_0419>page_0420",
+      "verse": 5,
+      "mode": "flow",
+      "before": "orps, louent le Seigneur. D’autres : Louez le Seigneur par",
+      "after": "tous les instruments à vent ; comme font les diverses sort"
+    }
+  ],
+  "pages_used": [
+    "page_0418",
+    "page_0419",
+    "page_0420"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0418-b",
+      "n": 1,
+      "text": "70. _Μαστιγώσει τοῖς περισσῶς ποιοῦσιν ὑπερηφανίαν._"
+    },
+    {
+      "key": "page_0418-c",
+      "n": 2,
+      "text": "Saint Augustin ; le Psautier romain ; le Psautier de Milan ; et d’autres."
+    },
+    {
+      "key": "page_0418-d",
+      "n": 3,
+      "text": "Abenexra, et alii nonnulli."
+    },
+    {
+      "key": "page_0418-e",
+      "n": 4,
+      "text": "Euseb. hic. Ita Athan. Γέγονε γὰρ αὐτοῖς εἰς χολέραν ἤτοι εἰς τροφήν."
+    },
+    {
+      "key": "page_0418-f",
+      "n": 5,
+      "text": "De Muis ;\nJunius ;\nAinsworth."
+    },
+    {
+      "key": "page_0418-g",
+      "n": 6,
+      "text": "Psalter. Rom. Mediol. Saint Germ. Caraut. In potentatibus ejus. 70. Εν δυναςείαις αὐτῷ."
+    },
+    {
+      "key": "page_0419-a",
+      "n": 7,
+      "text": "Eusèbe, sur le Psaume 41 ;\nThéodoret, sur le Psaume 88 ;\nDidyme."
+    },
+    {
+      "key": "page_0419-b",
+      "n": 8,
+      "text": "Agellius, hic."
+    },
+    {
+      "key": "page_0419-c",
+      "n": 9,
+      "text": "Rabbi Salomon ; Nicolas de Lyre ; Masius ; Bellarmin ; et d’autres, plerique."
+    },
+    {
+      "key": "page_0419-d",
+      "n": 10,
+      "text": "Voyez Nombres 29,7 ; Lévitique 16,29."
+    },
+    {
+      "key": "page_0419-e",
+      "n": 11,
+      "text": "Voyez saint Jérôme ;\nSaint Augustin ;\nSaint Grégoire le Grand."
+    },
+    {
+      "key": "page_0419-f",
+      "n": 12,
+      "text": "Le Psautier de Chartres ; le Psautier de Saint-Germain : Imputabit ; les Septante : λογίσηται. Imputaverit. Tertullien : Reputaverit."
+    },
+    {
+      "key": "page_0420-a",
+      "n": 13,
+      "text": "Saint Grégoire le Grand, sur les sept Psaumes pénitentiaux ; Apologie de David, chapitre 9, numéro 49. _Beati quorum remissa sunt iniquitates originales per Baptismum ; et quorum tecta sunt peccata actualia per Baptismam commissa._"
+    },
+    {
+      "key": "page_0420-b",
+      "n": 14,
+      "text": "Saint Ambroise, De la pénitence, livre 2, chapitre 5, numéro 53 ; et livre De Noé et de l’arche, chapitre 31, numéro 117."
+    },
+    {
+      "key": "page_0420-c",
+      "n": 15,
+      "text": "Théodoret, sur ce passage. τοσαύτη Θεοῦ περὶ αὐτοὺς χρῆσις φιλανθρωπίας, ὡς μὴ μόνον ἀφεῖναι ἀλλὰ, καὶ καλύψαι τὰς ἁμαρτίας, καὶ μηδὲ ἴχνη τελέως κακίας ἐᾶν."
+    }
+  ],
+  "missing_footnotes": []
+}

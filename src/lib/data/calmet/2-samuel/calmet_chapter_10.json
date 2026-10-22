@@ -19,7 +19,7 @@
       "sub": false,
       "latin_lemma": "manete in Jericho.",
       "lemma": "Demeurez à Jéricho.",
-      "text": "On avait donc rebâti cette ville malgré la malédiction de Josué ; [7] ou plutôt on en avait bâti une autre au voisinage, et dans la même plaine où était l’ancienne. Voyez ce qu’on a dit sur Josué, chap. VI. ℣. 26."
+      "text": "On avait donc rebâti cette ville malgré la malédiction de Josué ; [7] ou plutôt on en avait bâti une autre au voisinage, et dans la même plaine où était l’ancienne. Voyez ce qu’on a dit sur Josué 6:26."
     },
     {
       "verse": 6,
@@ -33,7 +33,7 @@
       "sub": false,
       "latin_lemma": null,
       "lemma": "Roob, et les Syriens de Soba.",
-      "text": "Les premiers avaient pour leur capitale Roob, située à l’extrémité de la vallée, entre le Liban et l’Antiliban. Les Syriens de Soba sont sujets d’Adarézer, dont on a parlé ci-devant au chap. VIII. ℣. 3."
+      "text": "Les premiers avaient pour leur capitale Roob, située à l’extrémité de la vallée, entre le Liban et l’Antiliban. Les Syriens de Soba sont sujets d’Adarézer, dont on a parlé ci-devant au chapitre 8:3."
     },
     {
       "verse": 6,
@@ -82,14 +82,14 @@
       "sub": false,
       "latin_lemma": "occidit David de Syris septingentos currus, et quadraginta millia equitum.",
       "lemma": "David tailla en pièces sept cents chariots de leurs troupes, et quarante mille chevaux.",
-      "text": "Dans les Paralipomènes, [17] on lit que David défit _sept mille chariots_, et _quarante mille hommes de pied_. Comment concilier tout cela ? À l’égard des sept cents, et des sept mille chariots, on peut dire qu’en supposant dix hommes qui accompagnaient chacun des sept cents chariots, de la manière que nous l’avons dit ailleurs, [18] la difficulté s’évanouit. Mais pour les quarante mille hommes de pied, opposés aux quarante mille hommes de cheval, il faut reconnaître qu’il y a une faute de Copiste dans l’un ou dans l’autre endroit ; ou dire que les Paralipomènes suppléent le nombre de quarante mille hommes de pied, qui avaient été omis dans les Livres des Rois. En sorte que la défaite des Syriens aurait été de quarante mille cavaliers, d’autant d’infanterie, et de sept mille hommes qui montaient, et qui accompagnaient les sept cents chariots."
+      "text": "Dans les Paralipomènes, [17] on lit que David défit _sept mille chariots_, et _quarante mille hommes de pied_. Comment concilier tout cela ? À l’égard des sept cents, et des sept mille chariots, on peut dire qu’en supposant dix hommes qui accompagnaient chacun des sept cents chariots, de la manière que nous l’avons dit ailleurs, la difficulté s’évanouit. Mais pour les quarante mille hommes de pied, opposés aux quarante mille hommes de cheval, il faut reconnaître qu’il y a une faute de Copiste dans l’un ou dans l’autre endroit ; ou dire que les Paralipomènes suppléent le nombre de quarante mille hommes de pied, qui avaient été omis dans les Livres des Rois. En sorte que la défaite des Syriens aurait été de quarante mille cavaliers, d’autant d’infanterie, et de sept mille hommes qui montaient, et qui accompagnaient les sept cents chariots."
     },
     {
       "verse": 19,
       "sub": false,
       "latin_lemma": "videntes universi reges, qui erant in præsidio Adarezer.",
       "lemma": "Les Rois qui étaient venus au secours d’Adarézer, se voyant vaincus.",
-      "text": "L’Hébreu, [19] le Caldéen, et les Septante : _Les Rois serviteurs d’Adarézer, voyant qu’ils étaient battus par Israël, fuirent dans leur pays, et se soumirent._ Ces Rois serviteurs d’Adarézer, sont ceux de la Syrie qui lui obéissaient ; car on n’a point de preuves que ce Prince ait eu des Rois assujettis au-delà de l’Euphrate ; mais s’il y en avait, ils se soumirent à David, comme les autres, et lui payèrent le tribut. La Vulgate ajoute, que les Syriens furent saisis de crainte, et prirent la fuite devant Israël, au nombre de cinquante-huit mille hommes, ce qui n’est ni dans l’Hébreu, ni dans les Septante, ni dans l’ancienne Version de saint Jérôme. On voit par cet endroit, que David avait des peuples tributaires et assujettis jusqu’au-delà de l’Euphrate, ce qui est à remarquer. Voyez le titre du Psaume 59."
+      "text": "L’Hébreu, [18] le Caldéen, et les Septante : _Les Rois serviteurs d’Adarézer, voyant qu’ils étaient battus par Israël, fuirent dans leur pays, et se soumirent._ Ces Rois serviteurs d’Adarézer, sont ceux de la Syrie qui lui obéissaient ; car on n’a point de preuves que ce Prince ait eu des Rois assujettis au-delà de l’Euphrate ; mais s’il y en avait, ils se soumirent à David, comme les autres, et lui payèrent le tribut. La Vulgate ajoute, que les Syriens furent saisis de crainte, et prirent la fuite devant Israël, au nombre de cinquante-huit mille hommes, ce qui n’est ni dans l’Hébreu, ni dans les Septante, ni dans l’ancienne Version de saint Jérôme. On voit par cet endroit, que David avait des peuples tributaires et assujettis jusqu’au-delà de l’Euphrate, ce qui est à remarquer. Voyez le titre du Psaume 59."
     }
   ],
   "joins": [
@@ -119,7 +119,7 @@
       "verse": 18,
       "mode": "flow",
       "before": "nts chariots, de la manière que nous l’avons dit ailleurs,",
-      "after": "^{(a)} la difficulté s’évanouit. Mais pour les quarante mi"
+      "after": "la difficulté s’évanouit. Mais pour les quarante mille hom"
     }
   ],
   "pages_used": [
@@ -218,13 +218,8 @@
       "text": "1 Paralipomènes 19,18."
     },
     {
-      "key": "page_0105-a",
-      "n": 18,
-      "text": "1 Rois 13,5."
-    },
-    {
       "key": "page_0105-b",
-      "n": 19,
+      "n": 18,
       "text": "ויראו כל המלכים עבדי הדדעזר"
     }
   ],

@@ -1,0 +1,338 @@
+{
+  "book": "Siracide",
+  "chapter": 20,
+  "chapter_summary": "Maximes de morale sur la correction fraternelle, sur le silence, sur le parler, sur les honneurs, sur les présents qu’on donne, et qu’on reçoit ; sur les promesses, sur le mensonge, sur la sagesse qui demeure cachée.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Quàm bonum est arguere, quàm irasci, et confitentem in oratione non prohibere ? Timenti Dominum, non occurrent mala, sed in tentatione Deus illum conservabit, et liberabit à malis.",
+      "french": "Ne vaut-il pas beaucoup mieux reprendre un homme, et lui donner lieu par-là d’avouer sa faute, que de garder sa colere contre lui ? Celui qui craint le Seigneur, ne sera surpris d’aucun mal ; mais Dieu le conservera dans la tentation, et le délivrera de tous maux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0356.json",
+        "page_0519.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Concupiscentia spadonis devirginabit juvenculam ; Sapiens non odit mandata, et justitias, et non illidetur quasi in procella navis.",
+      "french": "Celui qui viole la justice, par un jugement injuste, Le sage ne haïra point les Commandements, et les ordonnances du Seigneur ; et il ne se brisera point comme un vaisseau dans la tempête.",
+      "annotations": null,
+      "source_pages": [
+        "page_0356.json",
+        "page_0519.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Sic qui facit per vim judicium iniquum. Homo sensatus credit Legi Dei, et Lex illi fidelis.",
+      "french": "Est comme l’eunuque qui veut faire violence à une jeune vierge. L’homme de bon sens, croit à la Loi de Dieu, et la Loi lui est fidelle.",
+      "annotations": null,
+      "source_pages": [
+        "page_0356.json",
+        "page_0520.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quàm bonum est correptum manifestare pœnitentiam ! sic enim effugies voluntarium peccatum. Qui interrogationem manifestat, parabit verbum ; et sic deprecatus exaudietur, et conservabit disciplinam, et tunc respondebit.",
+      "french": "Que c’est un grand bien, lorsqu’on est repris, de témoigner son repentir ! puisque vous éviterez ainsi le péché volontaire. Celui qui doit éclaircir ce qu’on lui demande, préparera sa réponse : et après avoir ainsi prié, il sera exaucé ; il conservera la règle de la doctrine, et après cela il répondra.",
+      "annotations": null,
+      "source_pages": [
+        "page_0357.json",
+        "page_0520.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Est tacens, qui invenitur sapiens : et est odibilis, qui procax est ad loquendum. Præcordia fatui quasi rota carri : et quasi axis versatilis cogitatus illius.",
+      "french": "Il y en a qui se taisent, qui sont reconnus pour sages ; et il y en a qui se rendent odieux, par leur intempérance dans les paroles. Le cœur de l’insensé est comme la roue d’un chariot ; et sa pensée est comme un assieu qui tourne toujours.",
+      "annotations": null,
+      "source_pages": [
+        "page_0357.json",
+        "page_0520.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Est tacens, non habens sensum loquelæ : et est tacens, sciens tempus aptum. Equus emissarius, sic et amicus subsannator : sub omni supra sedente hinnit.",
+      "french": "Il y en a qui se taisent, parce qu’ils n’ont pas assez de sens pour parler : Et il y en a d’autres qui se taisent, parce qu’ils discernent, quand il est temps de parler. L’ami mocqueur, est comme un cheval destiné aux cavales, qui hennit sous tous ceux qui le montent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0358.json",
+        "page_0521.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Homo sapiens tacebit usque ad tempus : lascivus autem, et imprudens non servabunt tempus. Quare dies diem superat, et iterum lux lucem, et annus annum à sole ?",
+      "french": "L’homme sage se tiendra jusqu’à un certain temps dans le silence ; mais l’homme léger, et imprudent n’observera point les temps. D’où vient qu’un jour est préferé à un autre jour, [un temps à un temps, et une année à une année,] puisque c’est le même soleil qui les forme ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0358.json",
+        "page_0521.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Qui multis utitur verbis, lædet animam suam : et qui potestatem sibi sumit injustè, odietur. A Domini scientia separati sunt, salto sole, et præceptum custodiente.",
+      "french": "Celui qui se répand en paroles, blessera son âme ; et celui qui s’attribuë un pouvoir injuste, se fera haïr. C’est la science du Seigneur qui les a distinguez, [ après que le soleil a été créé, et qu’il a suivi inviolablement dans sa course les ordres qu’il a reçus. ]",
+      "annotations": null,
+      "source_pages": [
+        "page_0358.json",
+        "page_0522.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Est processio in malis viro indisciplinato, et est inventio in detrimentum. immutavit tempora, et dies festos ipsorum, et in illis dies festos celebraverunt ad horam.",
+      "french": "L’homme sans conscience réüssit dans le mal ; mais ce qu’il invente, tournera à sa ruine. C’est lui qui a distingué les temps, et les jours des fêtes, [ parmi les hommes, qui les ont célébrées au temps qui leur a été marqué. ]",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json",
+        "page_0522.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Est datum, quod non est utile : et est datum, cujus retributio duplex. Ex ipsis exaltavit, et magnificavit Deus, et ex ipsis posuit in numerum dierum. Et omnes homines de solo, et ex terra, unde creatus est Adam.",
+      "french": "Il y a un don, qui est inutile ; et il y a un don, qui est doublement récompensé. Dieu a élevé et consacré quelques-uns de ces jours, et il a mis les autres au rang des jours ordinaires. C’est ainsi que Dieu traite tous les hommes, pris de la bouë, et de la même terre dont Adam a été formé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0359.json",
+        "page_0522.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Est propter gloriam minoratio : et est qui ab humilitate levabit caput. In multitudine disciplinæ Domini separavit eos, et immutavit vias eorum.",
+      "french": "Tel trouve sa perte dans sa gloire même ; et tel s’éleve par son humiliation. Le Seigneur par sa sagesse, qui se communique en tant de manieres differentes, a mis entr’eux des differences, et a diversifié leurs voies.",
+      "annotations": null,
+      "source_pages": [
+        "page_0360.json",
+        "page_0523.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Est qui multa redimat modico pretio, et restituens ea in septuplum. Ex ipsis benedixit, et exaltavit : et ex ipsis sanctificavit, et ad se applicavit : et ex ipsis maledixit, et humiliavit, et convertit illos à separatione ipsorum.",
+      "french": "Tel rachete beaucoup de choses à vil prix, qui sera obligé d’en payer sept fois autant. Il a élevé et béni quelques-uns d’entre les hommes, les a sanctifiez, les a unis, et attachez à lui ; il en a maudit, et humilié quelques autres, et les a laissé aller après la séparation qui en a été faite.",
+      "source_pages": [
+        "page_0361.json",
+        "page_0523.json"
+      ],
+      "annotations": null
+    },
+    {
+      "verse_number": 13,
+      "latin": "Sapiens in verbis se ipsum amabilem facit : gratia autem fatuorum effundentur. Quasi lutum figuli in manu ipsius, plasmare illud, et disponere.",
+      "french": "Le sage se rend aimable dans ses paroles ; mais ce qu’il y a d’agréable dans les insensés, s’écoulera comme de l’eau. Comme l’argile est dans la main du potier, qui la manie, et la forme à son gré ;",
+      "source_pages": [
+        "page_0361.json",
+        "page_0523.json"
+      ],
+      "annotations": null
+    },
+    {
+      "verse_number": 14,
+      "latin": "Datus insipientis non erit utilis tibi : oculi enim illius septemplices sunt. Omnes viæ ejus secundùm dispositionem ejus : sic homo in manu illius, qui se fecit, et reddet illi secundùm judicium suum.",
+      "french": "Le don de l’insensé ne vous sera point utile : car il a sept yeux dont il vous regarde. Et comme il l’employe à tous les usages qu’il lui plaît ; ainsi l’homme est dans la main de celui qui l’a créé, qui lui rendra selon l’équité de ses jugements.",
+      "source_pages": [
+        "page_0361.json",
+        "page_0523.json"
+      ],
+      "annotations": null
+    },
+    {
+      "verse_number": 15,
+      "latin": "Exigua dabit, et multa improperabit : et apertio oris illius inflammatio est. Contra malum bonum est, et contra mortem vita : sic et contra virum justum peccator. Et sic intuere in omnia opera Altissimi. Duo et duo, et unum contra unum.",
+      "french": "Il donnera peu, et il le reprochera souvent ; et quand il ouvre la bouche, c’est comme une flamme qui se répand. Le bien est contraire au mal, et la vie à la mort ; ainsi le pécheur est contraire à l’homme juste. Considérez toutes les œuvres du Très-Haut ; vous les trouverez ainsi deux à deux, et opposées l’une à l’autre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0362.json",
+        "page_0524.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Hodie fœneratur quis, et cras expetit : odibilis est homo hujusmodi. Et ego noviffimus evigilavi, et quafi qui colligit acinos poft vindemiatores.",
+      "french": "Tel prête aujourd’hui, qui redemandera demain ; et cet homme-là se rend odieux. Je fuis venu le dernier de tous, comme me réveillant après un fommeil : et comme ceux qui ramaffent les grains de raifin, après ceux qui ont fait vendange.",
+      "annotations": null,
+      "source_pages": [
+        "page_0362.json",
+        "page_0525.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Fatno non erit amicus, et non erit gratia bonis illius. In benedictione Dei, et ipfe fperavi : et quafi qui vindemiat, replevi torcular.",
+      "french": "L’insensé n’aura pas un ami, et le bien qu’il fera ne sera point agréé ; J’ai efpéré auffi moi-même en la bénédiction de Dieu, et j’ai rempli mon preffoir, comme celui qui vendange.",
+      "annotations": null,
+      "source_pages": [
+        "page_0363.json",
+        "page_0525.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Qui enim edunt panem illius, falsæ linguæ sunt. Quoties, et quanti irridebunt eum ? Refpicite quoniam non mihi soli laboravi, sed omnibus exquirentibus disciplinam.",
+      "french": "Parce que ceux qui mangent son pain, le trompent par leurs discours. Combien de fois, et de combien d’hommes sera-t’il mocqué ? Considerez que je n’ai pas travaillé pour moi seul, mais pour tous ceux qui recherchent la science.",
+      "annotations": null,
+      "source_pages": [
+        "page_0363.json",
+        "page_0526.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Neque enim quod habendum erat directo sensu distribuit : similiter et quod non habendum. Audite me, magnates, et omnes populi ; et rectores ecclesiæ auribus percipite.",
+      "french": "Car il ne se conduit point par le bon sens, soit en distribuant ce qu’il devait réserver, soit en donnant même ce qu’il ne devait pas garder. Grands, et peuples, écoutez-moi tous : et vous gouverneurs de l’assemblée, prêtez l’oreille.",
+      "annotations": null,
+      "source_pages": [
+        "page_0363.json",
+        "page_0526.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Lapsus falsæ linguæ, quasi qui in pavimento cadens : sic casus malorum festinanter veniet. Filio, et mulieri, fratri, et amico, non des potestatem super te in vita tua : et non dederis alii possessionem tuam : ne fortè pæniteat te, et depreceris pro illis.",
+      "french": "Celui qui se sert de sa langue pour tromper, est dans sa chute comme un homme qui tombe sur le pavé ; ainsi la ruine des méchants viendra tout d’un coup. Ne donnez point pouvoir sur vous pendant votre vie à votre fils, à votre femme, à votre frère, ou à votre ami. Ne donnez point à un autre le bien que vous possédez ; de peur que vous ne vous en repentiez, et que vous ne soyez réduit à lui en demander avec priere.",
+      "annotations": null,
+      "source_pages": [
+        "page_0364.json",
+        "page_0526.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Homo acharis, quasi fabula vana, in ore indisciplinatorum assidua erit. Dum adhuc superes, et aspiras, non immutabit te omnis caro.",
+      "french": "L’homme qui ne se rend point aimable, est comme un méchant conte en la bouche des gens, qui n’ont point d’éducation. Tant que vous vivez, et que vous respirez, que personne ne vous fasse changer sur ce point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0364.json",
+        "page_0527.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Ex ore fatui reprobabitur parabola : non enim dicit illam in tempore suo. Melius est enim ut filii tui te rogent, quàm te respicere in manus filiorum tuorum.",
+      "french": "Une parole sage sera mal reçue de la bouche de l’insensé, parce qu’il l’a dite à contre-temps. Car il vaut mieux que ce saient vos enfants qui vous prient, que d’être réduit à attendre ce qui vous viendra d’eux.",
+      "annotations": null,
+      "source_pages": [
+        "page_0364.json",
+        "page_0527.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Est qui vetatur peccare præ inopia, et in requie sua stimulabatur. In omnibus operibus tuis præcellens esto.",
+      "french": "Tel s’abstient de pécher, n’en ayant pas le moyen, qui en ressent le désir, lorsqu’il est dans le repos. Conservez-vous la principale autorité dans toutes vos œuvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0365.json",
+        "page_0527.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Est qui perdet animam suam præ confusione, et ab imprudenti persona perdet eam : persona autem acceptione perdet se. Ne dederis maculam in gloria tua. In die consummationis dierum vitæ tuæ, et in tempore exitûs tui distribue hæreditatem tuam.",
+      "french": "Tel perd son âme par un excez de honte ; il la perdra en cédant à une personne imprudente : [et il se perdra lui-même, pour avoir eu trop d’égard à une personne.] Ne faites point de tache à votre gloire. Distribuez votre succession au jour que finira votre vie, et à l’heure de votre mort.",
+      "annotations": null,
+      "source_pages": [
+        "page_0365.json",
+        "page_0527.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Est qui præ confusione promittit amico, et lucratus est eum inimicum gratis. Cibaria, et virga, et onus asino : panis, et disciplina, et opus servo.",
+      "french": "Tel promet à son ami par une honte indiscrette, qui le rend ainsi gratuitement son ennemi. Le fourage, le bâton, et la charge à l’âne : le pain, la correction, et le travail à l’esclave.",
+      "annotations": null,
+      "source_pages": [
+        "page_0366.json",
+        "page_0527.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Opprobrium nequam in homine mendacium, et in ore indisciplinatorum assiduè erit. Operatur in disciplinis, et quærit requiescere : laxa manus illi, et quærit libertatem.",
+      "french": "Le mensonge est dans un homme une tache honteuse ; ce vice se trouve sans cesse dans la bouche des gens déréglez. Il travaille quand on le châtie, et il ne pense qu’à se reposer ; lâchez-lui la main, et il tâchera de se rendre libre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0366.json",
+        "page_0528.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Potior fur, quàm assiduitas viri mendacis : perditionem autem ambo hæreditabunt. Jugum et lorum curvant collum durum, et servum inclinant operationes assiduæ.",
+      "french": "Un voleur vaut mieux, qu’un homme qui ment sans cesse ; la perdition sera le partage de l’un, et de l’autre. Le joug, et les cordes font courber le col le plus dur, et le travail continuel rend l’esclave souple.",
+      "annotations": null,
+      "source_pages": [
+        "page_0366.json",
+        "page_0528.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Mores hominum mendacium, sine honore : et confusio illorum cum ipsis sine intermissione. Servo malevolo tortura, et compedes ; mitte illum in operationem, ne vacet.",
+      "french": "La vie des menteurs, est une vie sans honneur : et leur confusion les accompagne toujours. La torture, et les fers à l’esclave malicieux ; envoyez-le au travail, de peur qu’il ne soit oisif ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0367.json",
+        "page_0529.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Sapiens in verbis producet seipsum, et homo prudens placebit magnatis. Multam enim malitiam docuit otiositas.",
+      "french": "Le sage attire l’estime par ses paroles, et l’homme discret plaira aux Grands. Car l’oisiveté enseigne beaucoup de mal.",
+      "annotations": null,
+      "source_pages": [
+        "page_0367.json",
+        "page_0529.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Qui operatur terram suam, inaltabit acervum frugum : et qui operatur justitiam, et ipse exaltabitur : qui verò placet magnatis, effugiet iniquitatem. In opera constitue eum : sic enim condecet illum. Quòd si non obaudierit, curva illum compedibus, et non amplifices super omnem carnem : verùm sine judicio nihil facias grave.",
+      "french": "Celui qui cultive sa terre, amassera des monceaux de bled. [ Celui qui fait les œuvres de justice, sera élevé lui-même ; ] et celui qui plaît aux Grands, fuira l’injustice. Tenez-le dans le travail ; car c’est là qu’il doit être. Que s’il ne vous obéit pas, faites-le plier, en lui remettant les fers aux pieds. Mais ne commettez point d’excez à l’égard de qui que ce soit, et ne faites rien d’important sans y avoir bien pensé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0367.json",
+        "page_0529.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Xenia et dona excæcant oculos judicum, et quasi mutus in ore averit correptiones eorum. Si est tibi servus fidelis, sit tibi quasi anima tua : quasi fratrem sic eum tracta : quoniam in sanguine anima comparasti illum.",
+      "french": "Les présents, et les dons aveuglent les yeux des Juges ; et ils sont dans leur bouche comme un mords qui les rend muets, et les empêche de châtier. Si vous avez un esclave qui vous soit fidèle,] qu’il vous soit cher comme votre vie ; traitez-le comme votre frère, parce vous l’avez acquis au prix de votre sang.",
+      "annotations": null,
+      "source_pages": [
+        "page_0367.json",
+        "page_0530.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Sapientia absconsa, et thesaurus invisus ; quæ utilitas in utrisque ? Si læseris eum injustè, in fugam convertetur.",
+      "french": "Si la sagesse demeure cachée, et que le trésor ne soit pas visible ; quel fruit tirera-t’on de l’un, et de l’autre ? Si vous le traitez mal avec injustice, il s’enfuira.",
+      "annotations": null,
+      "source_pages": [
+        "page_0368.json",
+        "page_0530.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Melior est qui celat insipientiam suam, quàm homo qui abscondit sapientiam suam. Et si extollens discesserit, quem quæras, et in qua via quæras illum, nescis.",
+      "french": "Celui qui cache son insuffisance, vaut mieux que celui qui cache sa sagesse. Et s’il se dérobe à vous et s’en va, vous ne saurez où l’aller chercher pour le trouver.",
+      "annotations": null,
+      "source_pages": [
+        "page_0368.json",
+        "page_0530.json"
+      ]
+    }
+  ]
+}

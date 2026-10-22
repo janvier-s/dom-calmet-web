@@ -1,0 +1,127 @@
+{
+  "book": "Psaumes",
+  "chapter": 20,
+  "chapter_summary": "Actions de grâces pour la victoire accordée au Roi. Prédiction du malheur de ses ennemis.\nIn finem, Psalmus David. | Psaume de David, pour la fin.",
+  "chapter_intro": "Quelques anciens Peres ^{(c)} ont crû que ce Pseaume étoit un Cantique de réjoüissance, pour célébrer l’entiére défaite de l’armée de Sennachérib, Roi d’Assyrie. D’autres ^{(d)} veulent qu’il ait été composé par David, prévoyant le rétablissement d’Ezéchias en santé, & l’augmentation de quinze années de vie, que le Prophéte Isaïe lui promit ^{(e)}. Le verset 5. de ce Pseaume parait assez favorable à cette explication : Il vous a demandé la vie, et vous lui avez accordé des jours dans les siècles des siècles. Plusieurs nouveaux Interprètes ^{(a)} l’entendent de David, après sa victoire contre les Ammonites, et les Syriens. ^{(b)} Dans le Pseaume précèdent, on a vu le peuple qui fait des vœux pour le bon succès, et pour la conservation de son Roi ; ici il rend grâces à Dieu de sa victoire, et de son heureux retour. C’est le sens qui nous paraît le plus littéral, et que nous suivrons dans le Commentaire. Nous ne laissons pas de reconnaître avec les Pères ^{(c)} que ce Pseaume est une expression des sentiments de l’Eglise, sur la victoire que Jésus-Christ a remportée sur le monde, le péché, et le Démon. Il y a ici certaines expressions, qui ne conviennent à la lettre qu’à ce divin Sauveur. Et le Paraphraste Caldéen, avec les anciens Rabbins, et quelques-uns même des nouveaux, ^{(g)} le rapportent au Messie dans le sens littéral.",
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, Psalmus David.",
+      "french": "Psaume de David, pour la fin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0302.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Domine, in virtute tua lætabitur Rex : et super salutare tuum exultabit vehementer.",
+      "french": "Seigneur, le Roi se réjouira dans votre force ; et il sera transporté de joie, à cause du salut que vous lui avez procuré.",
+      "source_pages": [
+        "page_0303.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Desiderium cordis ejus tribuisti ei : et voluntate labiorum ejus non fraudasti eum.",
+      "french": "Vous lui avez accordé le désir de son cœur : et vous ne l’avez point frustré de la demande de ses lèvres.",
+      "source_pages": [
+        "page_0303.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Quoniam prævenisti eum in benedictionibus dulcedinis : posuisti in capite ejus coronam de lapide pretioso.",
+      "french": "Car vous l’avez prévenu de bénédictions, et de douceurs : vous avez mis sur sa tête une couronne de pierres précieuses.",
+      "annotations": null,
+      "source_pages": [
+        "page_0304.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Vitam petiit à te : et tribuisti ei longitudinem dierum in saculum, et in saculum saculi.",
+      "french": "Il a demandé que vous lui conservassiez la vie : et les jours que vous lui avez accordés, s’étendront dans tous les siècles des siècles.",
+      "source_pages": [
+        "page_0305.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Magna est gloria ejus in salutari tuo : gloriam et magnum decorem impones super eum.",
+      "french": "Le salut que vous lui avez procuré est accompagné d’une grande gloire : vous couvrirez la tête de gloire, et lui donnerez une beauté admirable.",
+      "source_pages": [
+        "page_0305.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Quoniam dabis eum in benedictionem in seculum seculi : lætificabis eum in gaudio, cum vultu tuo.",
+      "french": "Car vous le rendrez le sujet des bénédictions de toute la postérité : vous lui donnerez une joie pleine et parfaite, en lui montrant votre visage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0306.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quoniam Rex sperat in Domino : et in misericordia Altissimi non commovebitur.",
+      "french": "Car le Roi espère au Seigneur : et la miséricorde du Très-Haut le rendra inébranlable.",
+      "source_pages": [
+        "page_0307.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Inveniatur manus tua omnibus inimicis tuis : dextera tua inveniat omnes, qui te oderunt.",
+      "french": "Que votre main saisisse tous vos ennemis ; que votre droite se fasse sentir à tous ceux qui vous haïssent.",
+      "source_pages": [
+        "page_0307.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Pones eos ut clibanum ignis in tempore vultûs tui : Dominus in ira sua conturbabit eos, et devorabit eos ignis.",
+      "french": "Vous les embraserez comme un four ardent, au temps que vous montrerez votre visage enflammé : la colère du Seigneur les jettera dans le trouble, et le feu les dévorera.",
+      "source_pages": [
+        "page_0307.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Fructum eorum de terra perdes, et semen eorum a filiis hominum,",
+      "french": "",
+      "annotations": "Latin from the Vulgate (verse missing from the transcription) : check it against the scan, keep only the part Calmet prints under this number, and type his French",
+      "source_pages": [
+        "page_0307.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Quoniam declinaverunt in te mala : cogitaverunt consilia, quæ non potuerunt stabilire.",
+      "french": "Parce qu’ils ont travaillé à vous faire de la peine : ils ont conçu des desseins qu’ils n’ont pu exécuter.",
+      "annotations": null,
+      "source_pages": [
+        "page_0309.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Quoniam pones eos dorsum : in reliquiis preparabis vultum eorum.",
+      "french": "Car vous leur ferez tourner le dos ; et vous exercerez votre vengeance contre leurs enfants.",
+      "annotations": null,
+      "source_pages": [
+        "page_0309.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Exaltare, Domine, in virtute tua : cantabimus et psallemus virtutes tuas.",
+      "french": "Élevez-vous, Seigneur, et faites paraître votre puissance : nous chanterons, et nous publierons par nos cantiques, les merveilles de votre pouvoir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0310.json"
+      ]
+    }
+  ]
+}

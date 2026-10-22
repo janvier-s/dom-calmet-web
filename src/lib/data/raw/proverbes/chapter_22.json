@@ -1,0 +1,254 @@
+{
+  "book": "Proverbes",
+  "chapter": 22,
+  "chapter_summary": "Bonne réputation. Le riche, et le pauvre. Prétextes du paresseux. Habitudes prises de jeunesse. Effets de l’injustice. Les yeux du Seigneur. La femme impudique. Exhortation à la sagesse. N’être point ami du méchant, ni de l’homme emporté. Ne point toucher aux bornes anciennes.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Melius est nomen bonum, quàm divitiæ multæ : super argentum, et aurum gratia bona.",
+      "french": "La bonne réputation vaut mieux que les grandes richesses ; et l’amitié est plus estimable que l’or, et l’argent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0262.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Dives, et pauper obviaverunt sibi : utriusque operator est Dominus.",
+      "french": "Le riche, et le pauvre se sont rencontrez : Le Seigneur est le créateur de l’un et de l’autre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0263.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Callidus vidit malum, et abscondit se : innocens pertransiit, et afflictus est damno.",
+      "french": "L’homme habile voit le mal, et se met à couvert : l’imprudent passe outre, et il trouve sa perte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0263.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Finis modestiæ, timor Domini, divitiæ, et gloria, et vita.",
+      "french": "Le fruit de la modestie est la crainte du Seigneur, les richesses, la gloire, et la vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0263.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Arma, et gladii in via perversi : custos autem animæ suæ longè recedit ab eis.",
+      "french": "Les armes, et les épées sont dans la voie des méchants : celui qui garde son âme s’en retirera bien loin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0264.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Proverbium est : Adolescens juxta viam suam, etiam cùm senuerit, non recedet ab ea.",
+      "french": "On dit d’ordinaire : Le jeune homme suit sa première voie ; dans sa vieillesse même, il ne la quittera point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0265.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Dives pauperibus imperat : et qui accipit mutuum, servus est fœnerantis.",
+      "french": "Le riche commande au pauvre, et celui qui emprunte, est esclave de celui qui prête.",
+      "annotations": null,
+      "source_pages": [
+        "page_0265.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Qui seminat iniquitatem, metet mala, et virga iræ suæ consummabitur.",
+      "french": "Celui qui sème l’injustice, moissonnera les maux ; et il sera brisé par la verge de sa colère.",
+      "annotations": null,
+      "source_pages": [
+        "page_0266.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Qui pronus est ad misericordiam, benedicetur : de panibus enim suis dedit pauperi. Victoriam, et honorem acquiret, qui dat munera : animam autem aufert accipientium.",
+      "french": "Celui qui est porté à faire miséricorde, sera béni ; parce qu’il a donné de ses pains aux pauvres. Celui qui fait des présents, remportera la victoire, et l’honneur ; mais il ravit les âmes de ceux qui les reçoivent.",
+      "source_pages": [
+        "page_0267.json"
+      ],
+      "annotations": null
+    },
+    {
+      "verse_number": 10,
+      "latin": "Ejice derisorem, et exibit cum eo jurgium, cessabuntque causæ, et contumeliæ.",
+      "french": "Chassez le railleur, et les disputes s’en iront avec lui : alors les plaintes, et les outrages cesseront.",
+      "source_pages": [
+        "page_0267.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Qui diligit cordis munditiam, propter gratiam labiorum suorum habebit amicum Regem.",
+      "french": "Celui qui aime la pureté du cœur, aura le Roi pour ami, à cause de la grâce qui est répanduë sur ses lèvres.",
+      "source_pages": [
+        "page_0267.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Oculi Domini custodiunt scientiam : et supplantantur verba iniqui.",
+      "french": "Les yeux du Seigneur gardent la science : les paroles de l’injuste seront confonduës.",
+      "annotations": null,
+      "source_pages": [
+        "page_0268.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Dicit piger : Leo est foris ; in medio platearum occidendus sum.",
+      "french": "Le paresseux dit : Le lion est là dehors : je serai tué au milieu des ruës.",
+      "annotations": null,
+      "source_pages": [
+        "page_0268.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Fovea profunda, os aliena : cui iratus est Dominus, incidet in eam.",
+      "french": "La bouche de l’étrangère, est une fosse profonde : celui contre qui le Seigneur est en colère, y tombera.",
+      "annotations": null,
+      "source_pages": [
+        "page_0268.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Stultitia colligata est in corde pueri, et virga disciplinæ fugabit eam.",
+      "french": "La folie est liée au cœur de l’enfant, et la verge de la discipline l’en chassera.",
+      "source_pages": [
+        "page_0269.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Qui calumniatur pauperem, ut augeat divitias suas, dabit ipse ditiori, et egebit.",
+      "french": "Celui qui opprime le pauvre, pour accraître ses richesses, donnera lui-même à un plus riche que lui, et deviendra pauvre.",
+      "source_pages": [
+        "page_0269.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Inclina aurem tuam, et audi verba sapientium : appone autem cor ad doctrinam meam.",
+      "french": "Prêtez l’oreille, écoutez les paroles des sages, et appliquez votre cœur à la doctrine que je vous enseigne.",
+      "source_pages": [
+        "page_0269.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Quæ pulchra erit tibi, cùm servaveris eam in ventre tuo, et redundabit in labiis tuis :",
+      "french": "Vous en reconnaîtrez la beauté, lorsque vous la garderez au fond de votre cœur, et elle se répandrà sur vos lèvres :",
+      "source_pages": [
+        "page_0269.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Ut sit in Domino fiducia tua, unde et ostendi eam tibi hodie.",
+      "french": "Elle vous servira à mettre votre confiance dans le Seigneur : c’est pour cela que je vous l’ai représentée aujourd’hui.",
+      "source_pages": [
+        "page_0269.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Ecce descripsi eam tibi tripliciter, in cogitationibus, et scientia.",
+      "french": "Je vous l’ai décrite triplement, avec méditation, et avec science ;",
+      "source_pages": [
+        "page_0269.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Ut ostenderem tibi firmitatem, et eloquia veritatis, respondere ex his illis qui miserunt te.",
+      "french": "Pour vous faire voir la certitude des paroles de la verité ; afin que vous puissiez répondre à ceux qui vous ont envoyé.",
+      "source_pages": [
+        "page_0270.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Non facias violentiam pauperi, quia pauper est : neque conteras egenum in porta :",
+      "french": "Ne faites point de violence au pauvre, parce qu’il est pauvre ; n’opprimez point dans le jugement celui qui n’a rien :",
+      "source_pages": [
+        "page_0270.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Quia judicabit Dominus causam ejus, et configet eos, qui confixerunt animam ejus.",
+      "french": "Car le Seigneur se rendra lui-même le défenseur de sa cause, et il percera ceux qui auront percé son âme.",
+      "source_pages": [
+        "page_0271.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Noli esse amicus homini iracundo, neque ambules cum viro furioso.",
+      "french": "Ne soyez point ami d’un homme colère, et ne vivez point avec un homme furieux ;",
+      "source_pages": [
+        "page_0271.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Ne forte discas semitas ejus, et sumas scandalum animæ tuæ.",
+      "french": "De peur qu’il ne vous apprenne à vivre comme lui, et que vous ne donniez à votre âme un sujet de chute.",
+      "source_pages": [
+        "page_0271.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Noli esse cum his qui defigunt manus suas, et qui vades se offerunt pro debitis.",
+      "french": "Ne vous liez point avec ceux qui s’engagent en touchant dans la main, et qui s’offrent à répondre pour ceux qui doivent :",
+      "source_pages": [
+        "page_0271.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Si enim non habes unde restituas, quid causæ est, ut tollat operimentum de cubili tuo ?",
+      "french": "Car si vous n’avez pas de quoi restituer, pourquoi vous exposez-vous à voir emporter la couverture de votre lit ?",
+      "source_pages": [
+        "page_0271.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Ne transgrediaris terminos antiquos, quos posuerunt patres tui.",
+      "french": "Ne passez point les anciennes bornes ; qui ont été posées par vos pères.",
+      "annotations": null,
+      "source_pages": [
+        "page_0272.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Vidisti virum velocem in opere suo ? Coram Regibus stabit, nec erit ante ignobiles.",
+      "french": "Avez-vous vu un homme prompt à faire son œuvre ? Il paroîtra, non devant les hommes du peuple, mais devant les Rois.",
+      "annotations": null,
+      "source_pages": [
+        "page_0272.json"
+      ]
+    }
+  ]
+}

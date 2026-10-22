@@ -1,0 +1,134 @@
+{
+  "book": "Psaumes",
+  "chapter": 139,
+  "chapter_summary": "Le Psalmiste prie Dieu de le délivrer des pièges du méchant. Il prédit la perte de ses ennemis. Il attend la justice du Seigneur.\n\nIn finem, Psalmus David. | Pour la fin, Pseaume de David.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem. Psalmus David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription): check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0348.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Eripe me, Domine, ab homine malo : à viro iniquo eripe me.",
+      "french": "Délivrez-moi, Seigneur, de l’homme méchant : délivrez-moi de l’homme injuste.",
+      "annotations": null,
+      "source_pages": [
+        "page_0348.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Qui cogitaverunt iniquitates in corde : tota die constituebant prœlia.",
+      "french": "Ceux qui ne pensent dans leur cœur qu’à commettre des injustices, me livrent tous les jours des combats.",
+      "annotations": null,
+      "source_pages": [
+        "page_0348.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Acuerunt linguas suas sicut serpentis : venenum aspidum sub labiis eorum.",
+      "french": "Ils ont éguisé leurs langues comme celle du serpent. Le venin des aspics est sous leurs lèvres.",
+      "source_pages": [
+        "page_0349.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Custodi me, Domine, de manu peccatoris : et ab hominibus iniquis eripe me.",
+      "french": "Seigneur, préservez-moi de la main du pécheur, et délivrez-moi des hommes injustes ;",
+      "source_pages": [
+        "page_0349.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Qui cogitaverunt supplantare gressus meos : absconderunt superbi laqueum mihi :",
+      "french": "Qui ne pensent qu’à me faire tomber. Les superbes m’ont dressé des pièges en secret ;",
+      "source_pages": [
+        "page_0349.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et funes extenderunt in laqueum : juxta iter scandalum posuerunt mihi.",
+      "french": "Et ils ont tendu des filets pour me prendre : et ils ont mis près du chemin de quoi me faire tomber.",
+      "source_pages": [
+        "page_0349.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Dixi Domino : Deus meus es tu : exaudi, Domine, vocem deprecationis meæ.",
+      "french": "J’ai dit au Seigneur : Vous êtes mon Dieu : exaucez, Seigneur, la voix de mon humble supplication.",
+      "source_pages": [
+        "page_0350.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Domine, Domine, virtus salutis meæ : obumbrasti super caput meum in die belli.",
+      "french": "Seigneur, Seigneur, qui êtes toute la force d’où dépend mon salut, vous avez mis ma tête à couvert au jour du combat.",
+      "source_pages": [
+        "page_0350.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Ne tradas me, Domine, à desiderio meo peccatori : cogitaverunt contra me, ne derelinquas me, ne fortè exaltentur.",
+      "french": "Seigneur, ne me livrez pas au pécheur, selon le désir qu’il a de me perdre : ils ont formé des desseins contre moi ; ne m’abandonnez pas, de peur qu’ils ne s’en élévent.",
+      "source_pages": [
+        "page_0350.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Caput circuitûs eorum : labor labiorum ipsorum operiet eos.",
+      "french": "Toute la malignité de leurs détours, et tout le mal que leurs lèvres s’efforcent de faire, les accablera eux-mêmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0351.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Cadent super eos carbones ; in ignem dejicies eos : in miseriis non subsistent.",
+      "french": "Des charbons tomberont sur eux ; vous les précipiterez dans le feu ; ils ne pourront subsister dans les malheurs où ils seront engagez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0351.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Vir linguosus non dirigetur in terra : virum injustum mala capient in interitu.",
+      "french": "L’homme qui est grand parleur, ne prospérera point sur la terre. L’homme injuste se trouvera accablé de maux à la mort.",
+      "source_pages": [
+        "page_0352.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Cognovi quia faciet Dominus judicium inopis, et vindictam pauperum.",
+      "french": "Je sai que le Seigneur fera justice à celui qui est affligé, et qu’il vengera les pauvres.",
+      "source_pages": [
+        "page_0352.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Veruntamen justi confitebuntur nomini tuo : et habitabunt recti cum vultu tuo.",
+      "french": "Mais les justes loueront votre nom ; et ceux qui ont le cœur droit, jouiront de la vue de votre visage.",
+      "annotations": null,
+      "source_pages": [
+        "page_0353.json"
+      ]
+    }
+  ]
+}

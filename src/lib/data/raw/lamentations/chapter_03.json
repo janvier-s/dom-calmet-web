@@ -1,0 +1,540 @@
+{
+  "book": "Lamentations",
+  "chapter": 3,
+  "chapter_summary": "Jérémie déplore ses propres malheurs, et ceux de sa patrie.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Aleph. Ego vir videns paupertatem meam, in virga indignationis ejus.",
+      "french": "Aleph. Je suis un homme qui vois quelle est ma misere, étant sous la verge de l’indignation du Seigneur.",
+      "source_pages": [
+        "page_0038.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "ALEPH. Me minavit, et adduxit in tenebras, et non in lucem.",
+      "french": "ALEPH. Il m’a conduit, et il m’a amené dans les ténèbres, et non dans la lumière.",
+      "source_pages": [
+        "page_0038.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Tantiùm in me vertit, et convertit manum suam tota die.",
+      "french": "Il a tourné, et retourné sans cesse sa main sur moi pendant tout le jour.",
+      "source_pages": [
+        "page_0039.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Vetustam fecit pellem meam, et carnem meam, contrivit ossa mea.",
+      "french": "Il a fait vieillir ma peau, et ma chair ; il a brisé mes os.",
+      "source_pages": [
+        "page_0039.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Ædificavit in gyro meo, et circumdedit me felle, et labore.",
+      "french": "Il a bâti autour de moi, il m’a environné de fiel, et de peine.",
+      "source_pages": [
+        "page_0039.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "In tenebrosis collocavit me, quasi mortuos sempiternos.",
+      "french": "Il m’a mis en des lieux ténébreux, comme ceux qui sont morts pour jamais.",
+      "source_pages": [
+        "page_0040.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Circumædificavit adversùm me, ut non egrediar : aggravavit compedem meum.",
+      "french": "Il a élevé des forts contre moi pour m’empêcher de sortir ; il a appesanti mes fers.",
+      "source_pages": [
+        "page_0040.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "GHIMEL.\nSed et cùm clamavero, et rogavero, exclusit orationem meam.",
+      "french": "GHIMEL.\nEn vain je crierais vers lui, et je le prie ; il a rejetté ma prière.",
+      "source_pages": [
+        "page_0041.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "GHIMEL.\nConclusit vias meas lapidibus quadris : semitas meas subvertit.",
+      "french": "GHIMEL.\nIl a fermé mon chemin avec des quarreaux de pierres de taille ; il a renversé mes sentiers.",
+      "source_pages": [
+        "page_0041.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "DALETH.\nUrsus insidians factus est mihi : leo in absconditis.",
+      "french": "DALETH.\nIl est à mon égard comme un ours en embuscade, et comme un lion dans un lieu caché.",
+      "source_pages": [
+        "page_0041.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "DALETH.\nSemitas meas subvertit, et confregit me : posuit me desolatam.",
+      "french": "DALETH.\nIl a renversé mes sentiers ; il m’a brisée, il m’a laissée dans la désolation.",
+      "source_pages": [
+        "page_0041.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Tetendit arcum suum, et posuit me quasi signum ad sagittam.",
+      "french": "Il a tendu son arc, et il m’a mise comme un but contre lequel on s’exerce à tirer de l’arc.",
+      "source_pages": [
+        "page_0042.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Misit in renibus meis filias pharetræ suæ.",
+      "french": "Il a lancé dans mes reins toutes les flèches de son carquais.",
+      "source_pages": [
+        "page_0042.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Faƈtus sum in derisum omni populo meo, canticum eorum tota die.",
+      "french": "Je suis devenu le jouet de tout mon peuple, le sujet de leurs chansons pendant tout le jour.",
+      "source_pages": [
+        "page_0042.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Replevit me amaritudinibus, inebriavit me absynthio.",
+      "french": "Il m’a rempli d’amertume ; il m’a enivré d’absynthe.",
+      "source_pages": [
+        "page_0042.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Et fregit ad numerum dentes meos : cibavit me cinere.",
+      "french": "Il m’a rompu les dents, sans m’en laisser une seule ; il m’a nourri de cendres.",
+      "source_pages": [
+        "page_0043.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et repulsa est à pace anima mea, oblitus sum bonorum.",
+      "french": "La paix a été bannie de mon âme ; j’ai perdu le souvenir de toute joie.",
+      "source_pages": [
+        "page_0043.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Et dixi : Periit finis meus, et spes mea à Domino.",
+      "french": "J’ai dit en moi-même : Enfin c’est fait de moi, l’espérance que j’avais au Seigneur, s’est évanouie.",
+      "source_pages": [
+        "page_0043.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "ZAÏN.\nRecordare paupertatis, et transgressionis meæ : absynthii, et fellis.",
+      "french": "ZAÏN.\nSouvenez-vous de la pauvreté où je suis ; de l’excès de mes maux, de l’absynthe, et du fiel où je suis plongé.",
+      "source_pages": [
+        "page_0044.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "ZAÏN.\nMemoriâ memor ero, et tabescet in me anima mea.",
+      "french": "ZAÏN.\nJe repasserai toujours ces choses dans ma mémoire : et mon âme en séchera de douleur.",
+      "source_pages": [
+        "page_0044.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "ZAÏN.\nHæc recolens in corde meo, ideò sperabo.",
+      "french": "ZAÏN.\nCe souvenir que j’entretiendrai dans mon cœur, deviendra le sujet de mon espérance.",
+      "source_pages": [
+        "page_0044.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "HETH.\nMisericordiæ Domini, quia non sumus consumpti : quia non defecerunt miserationes ejus.",
+      "french": "HETH.\nSi nous n’avons point été perdus entierement, c’est l’effet des miséricordes du Seigneur ; c’est parce que nous avons trouvé en lui un fonds de bonté inépuisable.",
+      "source_pages": [
+        "page_0044.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Heth. Novi diluculo. Multa est fides tua.",
+      "french": "Vous me faites tous les jours de nouvelles grâces. O Seigneur, que vous êtes fidèle dans vos promesses !",
+      "source_pages": [
+        "page_0045.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Heth. Pars mea Dominus, dixit anima mea : proptereà expectabo eum.",
+      "french": "Le Seigneur est mon partage ; dit mon âme en elle-même ; c’est pour cela que je l’attendrai.",
+      "source_pages": [
+        "page_0045.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Teth. Bonus est Dominus sperantibus in eum, animæ quærenti illum.",
+      "french": "Le Seigneur est bon à ceux qui espérent en lui ; il est bon à l’âme qui le cherche.",
+      "source_pages": [
+        "page_0045.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Teth. Bonum est præstolari cum silentio salutare Dei.",
+      "french": "Il est bon d’attendre en silence le salut que Dieu nous promet.",
+      "source_pages": [
+        "page_0045.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Teth. Bonum est viro, cùm portaverit jugum ab adolescentia sua.",
+      "french": "Il est bon à l’homme de porter le joug dès sa jeunesse.",
+      "source_pages": [
+        "page_0045.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Sedebit solitarius, et tacebit : quia levavit super se.",
+      "french": "Il s’asseyera seul, et il se taira, parce qu’il a mis ce joug sur lui.",
+      "source_pages": [
+        "page_0046.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Ponet in pulvere os suum, si fortè sit spes.",
+      "french": "Il mettra sa bouche dans la poussière, et attendra ainsi en espérant.",
+      "source_pages": [
+        "page_0046.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Dabit percutienti se maxillam : saturabitur opprobriis.",
+      "french": "Il tendra la jouë à celui qui le frappera ; il sera rassasié d’opprobres.",
+      "source_pages": [
+        "page_0046.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Quia non repellet in sempiternum Dominus.",
+      "french": "Car le Seigneur ne nous rejettera pas pour jamais.",
+      "source_pages": [
+        "page_0047.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Quia si abjecit, et miserebitur secundùm multitudinem misericordiarum suarum.",
+      "french": "S’il nous a rejetez, il aura aussi compassion de nous selon la multitude de ses miséricordes.",
+      "source_pages": [
+        "page_0047.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Non enim humiliavit ex corde suo, et abjecit filios hominum.",
+      "french": "Car il n’a pas humilié volontairement ; ni rejetté pour toujours les enfants des hommes.",
+      "source_pages": [
+        "page_0047.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Ut contereret sub pedibus suis omnes vinctos terræ.",
+      "french": "Il n’a pas foulé aux pieds tous les habitants de la terre qui sont captifs.",
+      "source_pages": [
+        "page_0047.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "stanza_marker": "LAMED.",
+      "latin": "Ut declinaret judicium viri in conspectu vultûs Altissimi.",
+      "french": "Il ne refuse pas la justice qui est duë à un homme aux yeux du Très-Haut.",
+      "source_pages": [
+        "page_0048.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "stanza_marker": "LAMED.",
+      "latin": "Ut perverteret hominem in judicio suo, Dominus ignoravit.",
+      "french": "Le Seigneur ne sait ce que c’est que de perdre un homme, en le condamnant contre l’équité.",
+      "source_pages": [
+        "page_0048.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "stanza_marker": "MEM.",
+      "latin": "Quis est iste, qui dixit ut fieret, Domino non jubente ?",
+      "french": "Qui est celui qui a dit qu’une chose se fît, sans que le Seigneur l’ait commandé ?",
+      "source_pages": [
+        "page_0048.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "stanza_marker": "MEM.",
+      "latin": "Ex ore Altissimi non egredientur nec mala nec bona ?",
+      "french": "Est-ce que les maux, et les biens ne sortent pas de la bouche du Très-Haut ?",
+      "source_pages": [
+        "page_0048.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "M E M.\nQuid murmuravit homo vivens, vir pro peccatis suis ?",
+      "french": "M E M.\nPourquoi l’homme vivant murmure-t’il pendant sa vie ? Pourquoi se plaint-il de ses châtiments ?",
+      "source_pages": [
+        "page_0049.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "N U N.\nScrutemur vias nostras, et quæramus, et revertamur ad Dominum.",
+      "french": "N U N.\nExaminons avec soin nos voies ; cherchons ce qu’elles ont de mauvais ; et retournons au Seigneur.",
+      "source_pages": [
+        "page_0049.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "N U N.\nLevemus corda nostra cum manibus ad Dominum in Cœlos.",
+      "french": "N U N.\nElevons au Ciel nos cœurs, avec nos mains vers le Seigneur.",
+      "source_pages": [
+        "page_0049.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "N U N.\nNos iniquè egimus, et ad iracundiam provocavimus : idcirò tu inexorabilis es.",
+      "french": "N U N.\nNous avons agi injustement ; nous nous sommes attiré votre colère, Seigneur, c’est pourquoi vous êtes devenu inéxorable.",
+      "source_pages": [
+        "page_0050.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "S A M E C H.\nOperuisti in furore, et percussisti nos : occidisti, nec pepercisti.",
+      "french": "S A M E C H.\nVous vous êtes caché dans votre fureur, et vous nous avez frappez : vous nous avez tuez, sans nous épargner.",
+      "source_pages": [
+        "page_0050.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "S A M E C H.\nOpposuisti nubem tibi, ne transeat oratio.",
+      "french": "S A M E C H.\nVous avez mis une nuëe au-devant de vous, afin que notre prière ne passe point.",
+      "source_pages": [
+        "page_0050.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Eradicationem, et abjectionem posuisti me in medio populorum.",
+      "french": "Vous m’avez mis au milieu des peuples, comme une plante que vous avez arrachée, et rejettée.",
+      "source_pages": [
+        "page_0051.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Aperuerunt super nos os suum omnes inimici.",
+      "french": "Tous nos ennemis ont ouvert la bouche contre nous.",
+      "source_pages": [
+        "page_0051.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Formido, et laqueus facta est nobis vaticinatio, et contritio.",
+      "french": "La prophétie est devenuë notre frayeur, notre filet, et notre ruine.",
+      "source_pages": [
+        "page_0051.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Divisiones aquarum deduxit oculus meus, in contritione filiæ populi mei.",
+      "french": "Mon œil a répandu des ruisseaux de larmes, en voyant la ruine de la fille de mon peuple.",
+      "source_pages": [
+        "page_0051.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Oculus meus afflictus est, nec tacuit, eò quòd non esset requies.",
+      "french": "Mon œil s’est affligé, et ne s’est point tu ; parce qu’il n’y avait point de repos.",
+      "source_pages": [
+        "page_0051.json"
+      ]
+    },
+    {
+      "verse_number": 50,
+      "latin": "AIN.\nDonec respiceret, et videret Dominus de Cœlis.",
+      "french": "AIN.\n50. Jusqu’à ce que le Seigneur jettât les yeux sur nous, et nous regardât du Ciel.",
+      "source_pages": [
+        "page_0052.json"
+      ]
+    },
+    {
+      "verse_number": 51,
+      "latin": "AIN.\nOculus meus depradatus est animam meam in cunctis filiabus urbis meæ.",
+      "french": "AIN.\n51. Mon œil m’a ôté presque la vie, à force de pleurer sur le malheur des filles de Jérusalem.",
+      "source_pages": [
+        "page_0052.json"
+      ]
+    },
+    {
+      "verse_number": 52,
+      "latin": "SADE.\nVenatione ceperunt me quasi avem inimici mei gratis.",
+      "french": "SADE.\n52. Ceux qui me haïssent sans sujet, m’ont pris comme un oiseau qu’on prend à la chaffe.",
+      "source_pages": [
+        "page_0052.json"
+      ]
+    },
+    {
+      "verse_number": 53,
+      "latin": "SADE.\nLapsa est in lacum vita mea, et posuerunt lapidem super me.",
+      "french": "SADE.\n53. Mon âme est tombée dans la foffe, et ils ont roulé sur moi une pierre.",
+      "source_pages": [
+        "page_0052.json"
+      ]
+    },
+    {
+      "verse_number": 54,
+      "latin": "S A D E.\nInundaverunt aquæ super caput meum, dixi : Perii.",
+      "french": "S A D E.\nUn déluge d’eaux s’est répandu sur ma tête, et j’ai dit : Je suis perdu.",
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 55,
+      "latin": "C O P H.\nInvocavi nomen tuum, Domine, de lacu novissimo.",
+      "french": "C O P H.\nJ’ai invoqué votre nom, ô Seigneur, du plus profond de l’abîme.",
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 56,
+      "latin": "C O P H.\nVocem meam audisti : ne avertas aurem tuam à singultu meo, et clamoribus.",
+      "french": "C O P H.\nVous avez entendu ma voix ; ne détournez point votre oreille de mes gémissements, et de mes cris.",
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 57,
+      "latin": "C O P H.\nAppropinquasti in die, quando invocavi te : dixisti : Ne timeas.",
+      "french": "C O P H.\nVous vous êtes approché de moi au jour où je vous ai invoqué. Vous avez dit : Ne craignez point.",
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 58,
+      "latin": "R E S.\nJudicasti, Domine, causam animæ meæ, redemptor vitæ meæ.",
+      "french": "R E S.\nO Seigneur, vous avez pris la défense de la cause de mon âme, vous qui êtes le Rédempteur de ma vie.",
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 59,
+      "latin": "R E S.\nVidisti, Domine, iniquitatem illorum adversùm me : judica judicium meum.",
+      "french": "R E S.\nVous avez vu, ô Seigneur, leur iniquité contre moi, faites-moi vous-même justice.",
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 60,
+      "latin": "R E S.\nVidisti omnem furorem, universas cogitationes eorum adversum me.",
+      "french": "R E S.\nVous avez vu toutes leurs fureurs, et tous les mauvais desseins qu’ils ont contre moi.",
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 61,
+      "latin": "S I N.\nAudisti opprobrium eorum, Domine, omnes cogitationes eorum adversùm me.",
+      "french": "S I N.\nVous avez entendu, Seigneur, les injures qu’ils me disent, et tout ce qu’ils pensent contre moi.",
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 62,
+      "latin": "S I N.\nLabia insurgentium mihi, et meditationes eorum adversùm me tota die.",
+      "french": "S I N.\nVous avez oui les paroles de ceux qui m’insultent, et ce qu’ils méditent contre moi pendant tout le jour.",
+      "source_pages": [
+        "page_0053.json"
+      ]
+    },
+    {
+      "verse_number": 63,
+      "latin": "SIN. Sessionem eorum, et resurrectionem eorum vide ; ergo sum psalmus eorum.",
+      "french": "SIN. Considérez-les, soit qu’ils se reposent, soit qu’ils s’agissent, et vous trouverez, que je suis devenu le sujet de leurs chansons.",
+      "source_pages": [
+        "page_0054.json"
+      ]
+    },
+    {
+      "verse_number": 64,
+      "latin": "THAU. Reddes eis vicem, Domine, juxta opera manuum suarum.",
+      "french": "THAU. Seigneur, vous leur rendrez ce qu’ils méritent, selon les œuvres de leurs mains.",
+      "source_pages": [
+        "page_0054.json"
+      ]
+    },
+    {
+      "verse_number": 65,
+      "latin": "THAU. Dabis eis scutum cordis laborem tuum.",
+      "french": "THAU. Vous leur mettrez comme un bouclier sur le cœur, par le travail dont vous les accablerez.",
+      "source_pages": [
+        "page_0054.json"
+      ]
+    },
+    {
+      "verse_number": 66,
+      "latin": "THAU. Persequêris in furore, et conteres eos sub Cœlis, Domine.",
+      "french": "THAU. Vous les poursuivrez dans votre fureur ; et vous les exterminerez, ô Seigneur, de dessous le Ciel.",
+      "source_pages": [
+        "page_0054.json"
+      ]
+    }
+  ]
+}

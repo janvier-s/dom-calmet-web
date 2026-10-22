@@ -39,15 +39,15 @@
       "verse": 7,
       "sub": false,
       "latin_lemma": "quando procedebam ad portam civitatis.",
-      "lemma": "Lorsque j’allais prendre ma place à la porte de la ville, où l’on",
-      "text": "s’assemblait pour délibérer des affaires publiques, et pour rendre les Jugements. Job par toute la suite de ce discours, paraît avoir tenu le premier rang dans la ville, et parmi son peuple, en sorte qu’on le peut mettre parmi les anciens Rois, et parmi les Princes qui gouvernèrent anciennement le canton de Hus, dans l’Idumée : Car il paraît par l’Écriture, [14] que dans les commencements, il y avait dans Edom plusieurs Princes, et plusieurs Rois, qui dominaient chacun dans leurs cantons, et dans leurs villes."
+      "lemma": "Lorsque j’allais prendre ma place à la porte de la ville,",
+      "text": "où l’on s’assemblait pour délibérer des affaires publiques, et pour rendre les Jugements. Job par toute la suite de ce discours, paraît avoir tenu le premier rang dans la ville, et parmi son peuple, en sorte qu’on le peut mettre parmi les anciens Rois, et parmi les Princes qui gouvernèrent anciennement le canton de Hus, dans l’Idumée : Car il paraît par l’Écriture, [14] que dans les commencements, il y avait dans Edom plusieurs Princes, et plusieurs Rois, qui dominaient chacun dans leurs cantons, et dans leurs villes."
     },
     {
       "verse": 9,
       "sub": false,
       "latin_lemma": "principes cessabant loqui, et digitum superponebant ori suo.",
       "lemma": "Les Princes cessaient de parler ; ils mettaient le doigt sur leur bouche.",
-      "text": "Voyez ce qui a été remarqué sur cette dernière expression, ci-devant, Chap. XXI. 5. On peut traduire l’Hébreu : [15] _Les Princes s’arrêtaient dans leurs discours, ou étaient lents, réservés à parler, et mettaient leurs mains sur leur bouche._"
+      "text": "Voyez ce qui a été remarqué sur cette dernière expression, ci-devant, chapitre 21:5. On peut traduire l’Hébreu : [15] _Les Princes s’arrêtaient dans leurs discours, ou étaient lents, réservés à parler, et mettaient leurs mains sur leur bouche._"
     },
     {
       "verse": 12,
@@ -97,7 +97,7 @@
       "seam": "page_0355>page_0356",
       "verse": 7,
       "mode": "flow",
-      "before": " j’allais prendre ma place à la porte de la ville, où l’on",
+      "before": "où l’on",
       "after": "s’assemblait pour délibérer des affaires publiques, et pou"
     },
     {
@@ -140,7 +140,7 @@
     {
       "key": "page_0354-a",
       "n": 2,
-      "text": "Ainsi l’entendent Bède ;\nPhilippe ;\nsaint Thomas ;\nsaint Jean Chrysostome ;\nCatena, et alii plerique."
+      "text": "Ainsi l’entendent Bède ;\nPhilippe ;\nSaint Thomas ;\nSaint Jean Chrysostome ;\nCatena, et alii plerique."
     },
     {
       "key": "page_0354-b",

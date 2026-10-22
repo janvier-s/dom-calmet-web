@@ -1,7 +1,7 @@
 {
   "notes": [
     {
-      "verse": 1,
+      "verse": 2,
       "sub": false,
       "latin_lemma": "separate urbes fugitivorum.",
       "lemma": "Séparez les villes pour ceux qui cherchent un asile.",
@@ -29,7 +29,7 @@
       "text": "L’Hébreu à la lettre :[10] _Il dira ses discours_, ou ses raisons. Il exposera le fait et la manière dont ce meurtre est arrivé. Comme l’asile n’est qu’en faveur des innocents, il est juste de prendre des précautions pour ne pas permettre que les coupables en profitent."
     },
     {
-      "verse": 4,
+      "verse": 5,
       "sub": false,
       "latin_lemma": "nec ante biduum triduumve ejus probatur inimicus.",
       "lemma": "Et qu’on ne saurait prouver que deux ou trois jours auparavant il ait été son ennemi.",
@@ -47,7 +47,7 @@
       "sub": false,
       "latin_lemma": "et moriatur sacerdos magnus.",
       "lemma": "Jusqu’à la mort du grand Prêtre.",
-      "text": "On peut voir les raisons de cette ordonnance sur les Nombres, chap. XXXV. 25."
+      "text": "On peut voir les raisons de cette ordonnance sur les Nombres 35:25."
     },
     {
       "verse": 7,
@@ -60,8 +60,15 @@
       "verse": 7,
       "sub": false,
       "latin_lemma": null,
-      "lemma": "les de Refuge, Cédès en Galilée",
-      "text": "et les autres. L’Hébreu : [12] _Ils sanctifièrent Cédès_ ; ils la séparèrent du nombre des autres villes par une destination et un choix particulier. Le Chaldéen, [13] _ils ordonnèrent_, ils établirent, ils disposèrent. Les Septante, [14] _ils séparèrent, ils divisèrent.\nCADÈS, ou Cédès de Galilée, et Hébron, étaient comme aux deux extrémités du pays. L’une dans la Galilée, et l’autre dans la tribu de Juda ; l’une et l’autre dans un pays de montagne. Sichem était au milieu, ou presqu’au milieu de cet espace entre ces deux villes, dans la tribu d’Ephraïm._"
+      "lemma": "les de Refuge, Cédès en Galilée,",
+      "text": "et les autres. L’Hébreu : [12] _Ils sanctifièrent Cédès_ ; ils la séparèrent du nombre des autres villes par une destination et un choix particulier. Le Chaldéen, [13] _ils ordonnèrent_, ils établirent, ils disposèrent. Les Septante, [14] _ils séparèrent, ils divisèrent._"
+    },
+    {
+      "verse": 7,
+      "sub": false,
+      "latin_lemma": "Cadès,",
+      "lemma": null,
+      "text": "ou _Cédès_ de Galilée, et _Hébron_, étaient comme aux deux extrémités du pays. L’une dans la Galilée, et l’autre dans la tribu de Juda ; l’une et l’autre dans un pays de montagne. Sichem était au milieu, ou presqu’au milieu de cet espace entre ces deux villes, dans la tribu d’Ephraïm."
     },
     {
       "verse": 8,

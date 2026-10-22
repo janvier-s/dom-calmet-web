@@ -1,0 +1,449 @@
+{
+  "book": "Ézéchiel",
+  "chapter": 20,
+  "chapter_summary": "Ezéchiel ne répond point aux Anciens, qui étaient venus pour le consulter ; mais il leur fait de vifs reproches des infidélités de leurs pères, depuis leur sortie de l’Egypte, jusqu’alors. Dieu promet de les rappeller dans leur pays, et de les attacher à son service, malgré l’envie qu’ils auraient de le quitter. Prophétie contre la Forêt du Midi.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Et factum est in anno septimo, in quinto, in decima mensis : venerunt viri de senioribus Israel, ut interrogarent Dominum, et sederunt coram me.",
+      "french": "Le dixième jour du cinquième mois de la septième année, il arriva que quelques-uns des anciens d’Israël vinrent pour consulter le Seigneur, et ils s’assirent devant moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0215.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Et factus est sermo Domini ad me, dicens :",
+      "french": "Alors le Seigneur me parla en ces termes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0215.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Fili hominis, loquere senioribus Israël, et dices ad eos : Hæc dicit Dominus Deus : Numquid ad interrogandum me vos venistis ? vivo ego quia non respondebo vobis, ait Dominus Deus.",
+      "french": "Fils de l’homme, parlez aux anciens d’Israël, et dites-leur : Voici ce que dit le Seigneur votre Dieu : Etes-vous venus pour me consulter ? Je jure par moi-même, dit le Seigneur votre Dieu, que je ne vous répondrai point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0216.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Si judicas eos, si judicas, fili hominis, abominationes patrum eorum ostende eis.",
+      "french": "Si vous les jugez, fils de l’homme, si vous les jugez, représentez-leur les abominations de leurs pères,",
+      "annotations": null,
+      "source_pages": [
+        "page_0216.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Et dices ad eos : Hæc dicit Dominus Deus : In die quâ elegi Israël, et levavi manum meam pro stirpe domûs Jacob, et apparui eis in terra Ægypti, et levavi manum meam pro eis, dicens : Ego Dominus Deus vester.",
+      "french": "Et dites-leur : Voici ce que dit le Seigneur votre Dieu : Lorsque je choisis Israël, que je levai ma main pour proteger la race de la maison de Jacob, que je leur apparus dans l’Egypte, et que je levai ma main en leur faveur, en distant : Je suis le Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0217.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "In die illa levavi manum meam pro eis, ut educerem eos de terra Ægypti in terram quam provideram eis, fluentem lacte, et melle : quæ est egregia inter omnes terras.",
+      "french": "En ce jour-là, je levai ma main pour les tirer de l’Egypte, et pour les conduire dans une terre que j’avais choisie pour eux, où coulent des ruisseaux de lait et de miel, et qui excelle au-dessus de toutes les terres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0217.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Et dixi ad eos : Unusquisque offenfiones oculorum suorum abjiciat, et in idolis Ægypti nolite pollui : ego Dominus Deus vester.",
+      "french": "Et je leur dis alors : Que chacun éloigne ce qui lui blesse ses yeux, et ne vous souillez point par les idoles de l’Egypte : car c’est moi qui suis le Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0217.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Et irritaverunt me, nolueruntque me audire, unufquifque abominationes oculorum fuorum non projecit, nec idola Ægypti reliquerunt : et dixi ut effunderem indignationem meam super eos, et implerem iram meam in eis, in medio terræ Ægypti.",
+      "french": "Mais ils m’ont irrité, et ils n’ont point voulu m’écouter. Ils n’ont point rejetté les abominations de leurs yeux, et ils n’ont point quitté les idoles de l’Egypte. J’avais résolu de répandre mon indignation sur eux, et de satisfaire ma colère dans leur punition, au milieu même de l’Egypte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0218.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et feci propter nomen meum, ut non violaretur coram gentibus, in quarum medio erant, et inter quas apparui eis, ut educerem eos de terra Ægypti.",
+      "french": "Mais j’ai fait le contraire de ce que j’avais résolu, à cause de mon nom, afin qu’il ne fût pas violé aux yeux des nations parmi lesquelles ils étaient, et au milieu desquelles je leur avais apparu pour les faire sortir de l’Egypte.",
+      "annotations": null,
+      "source_pages": [
+        "page_0219.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Ejeci ergo eos de terra Ægypti, et eduxi eos in desertum.",
+      "french": "Je les ai retirez de l’Egypte, et je les ai conduits dans le désert.",
+      "annotations": null,
+      "source_pages": [
+        "page_0219.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et dedi eis præcepta mea, et judicia mea ostendi eis, quæ faciens homo, vivet in eis.",
+      "french": "Je leur ai donné mes loix, et proposé mes ordonnances, qui donnent la vie à ceux qui les gardent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0219.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Insuper et sabbatha mea dedi eis, ut essent signum inter me et eos : et scirent quia ego Dominus sanctificans eos.",
+      "french": "Je leur ai prescrit mes jours de sabbat ; afin qu’ils fussent comme un signe entre moi et eux, et qu’ils sussent que c’est moi qui suis le Seigneur qui les sanctifie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0220.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Et irritaverunt me domus Israel in deserto, in præceptis meis non ambulaverunt, et judicia mea projecerunt, quæ faciens homo vivet in eis : et sabbatha mea violaverunt vehementer. Dixi ergo ut effunderem furorem meum super eos in deserto, et consumerem eos.",
+      "french": "Mais après cela, les enfants d’Israël m’ont irrité dans le désert, ils n’ont point marché dans la voie de mes préceptes ; ils ont rejetté mes ordonnances que je leur avais données, afin que l’homme qui les garderait y trouvât la vie ; et ils ont entiérement profané mes jours de sabbat. Je résolus donc de répandre ma fureur sur eux dans le désert, et de les exterminer.",
+      "annotations": null,
+      "source_pages": [
+        "page_0220.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Et feci propter nomen meum, ne violaretur coram gentibus, de quibus ejeci eos in conspectu earum.",
+      "french": "Mais je ne l’ai point fait à cause de la gloire de mon nom, afin qu’il ne fût pas deshonoré devant les peuples, du milieu desquels je les avais fait sortir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0221.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Ego igitur levavi manum meam super eos in deserto, ne inducerem eos in terram, quam dedi eis, fluentem lacte et melle, præcipuam terrarum omnium.",
+      "french": "J’ai donc élevé ma main sur eux dans le désert, et je leur ai juré que je ne les ferais point entrer dans la terre que je leur avais donnée, où coulent des ruisseaux de lait et de miel, et qui est la première de toutes les terres ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0221.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Quia judicia mea projecerunt, et in præceptis meis non ambulaverunt, et sabbatha mea violaverunt : post idola enim cor eorum gradiebatur.",
+      "french": "Parce qu’ils avaient rejetté mes ordonnances, qu’ils n’avaient point marché dans la voie de mes préceptes, qu’ils avaient violé mes jours de sabbat, et que leur cœur courait encore après leurs idoles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0222.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Et pepercit oculus meus super eos, ut non interficerem eos : nec consumpsi eos in deserto.",
+      "french": "Mon œil néanmoins les a regardez avec compassion, et je me suis retenu pour ne leur point ôter la vie, et ne les point exterminer tous dans le défert.",
+      "annotations": null,
+      "source_pages": [
+        "page_0222.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Dixi autem ad filios eorum in solitudine : In præceptis patrum vestrorum nolite incedere, nec judicia eorum custodiatis, nec in idolis eorum polluamini.",
+      "french": "J’ai dit ensuite à leurs enfants dans la solitude : Ne marchez point dans la voie des préceptes de vos pères, ne gardez point leurs coûtumes, et ne vous souillez point par le culte de leurs idoles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0222.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Ego Dominus Deus vester : In præceptis meis ambulate, judicia mea custodite, et facite ea.",
+      "french": "Car c’est moi qui suis le Seigneur votre Dieu : marchez dans la voie de mes préceptes ; revérez mes ordonnances, et gardez-les.",
+      "annotations": null,
+      "source_pages": [
+        "page_0222.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Et sabbatha mea sanctificate, ut sint signum inter me, et vos : et sciatis quia ego sum Dominus Deus vester.",
+      "french": "Sanctifiez mes jours de Sabbat, afin qu’ils saient comme un signe entre moi et vous, et que vous sachiez que c’est moi qui suis le Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0222.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Et exacerbaverunt me filii : in præceptis meis non ambulaverunt, et judicia mea non custodierunt, ut facerent ea quæ cùm fecerit homo, vivet in eis : et sabbatha mea violaverunt : et comminatus sum ut effunderem furorem meum super eos, et implerem iram meam in eis in deserto.",
+      "french": "Mais leurs enfants m’ont aigri contre’eux ; ils n’ont point marché dans la voie de mes préceptes ; ils n’ont ni révéré ni gardé mes ordonnances que je leur avais données, afin que celui qui les observerait y trouvât la vie, et ils ont violé mes jours de sabbat. Je les ai menacez de répandre ma fureur sur eux dans le défert, et de satisfaire ma colère en les punissant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0222.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Averti autem manum meam, et feci propter nomen meum, ut non violaretur coram gentibus, de quibus ejeci eos in oculis earum.",
+      "french": "Mais j’ai retenu ma main, et je les ai épargnez pour la gloire de mon nom, afin qu’il ne fût pas deshonoré devant les nations, du milieu desquelles, et aux yeux desquelles je les avais fait sortir.",
+      "annotations": null,
+      "source_pages": [
+        "page_0222.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Iterùm levavi manum meam in eos in solitudine, ut dispergerem illos in nationes, et ventilarem in terras.",
+      "french": "J’ai une seconde fois élevé ma main sur eux dans la solitude, pour les disperser parmi les nations, et les envoyer bien loin en divers climats ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0222.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Et quòd judicia mea non fecissent, et præcepta mea reprobassent, et sabbatha mea violassent, et post idola patrum suorum fuissent oculi eorum.",
+      "french": "Parce qu’ils n’avaient pas-observé mes ordonnances, qu’ils avaient rejetté mes préceptes, qu’ils avaient violé mes jours de sabbat, et que leurs yeux s’étaient attachez aux idoles de leurs pères.",
+      "annotations": null,
+      "source_pages": [
+        "page_0223.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Ergo et ego dedi eis præcepta non bona, et judicia in quibus non vivent.",
+      "french": "C’est pourquoi je leur ai donné des préceptes qui ne sont pas bons, et des ordonnances où ils ne trouveront point la vie.",
+      "annotations": null,
+      "source_pages": [
+        "page_0223.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Et pollui eos in muneribus suis, cùm offerrent omne quod aperit vulvam, propter delicta sua, et sciens quia ego Dominus.",
+      "french": "Je les ai souillez dans leurs présents ; lorsqu’ils offraient pour leurs péchés tout ce qui sort le premier du sein de la mère ; et ils sauront que c’est moi qui suis le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0226.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Quamobrem loquere ad domum Israel, fili hominis, et dices ad eos : Hæc dicit Dominus Deus : Adhuc et in hoc blasphemaverunt me patres vestri, cùm sprevissent me contemnentes :",
+      "french": "C’est pourquoi, fils de l’homme, parlez aux enfants d’Israël, et dites-leur : Voici ce que dit le Seigneur votre Dieu : Après que vos pères m’ont deshonoré avec mépris,",
+      "annotations": null,
+      "source_pages": [
+        "page_0227.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Et induxissem eos in terram super quam levavi manum meam, ut darem eis : viderunt omnem collem excelsum, et omne lignum nemorosum, et immolaverunt ibi victimas suas : et dederunt ibi irritationem oblationis suæ, et posuerunt ibi odorem suavitatis suæ, et libaverunt libationes suas.",
+      "french": "Moi qui les avais fait entrer dans la terre, que j’avais juré de leur donner ; ils m’ont encore blasphémé en ceci : ils ont vu toutes les collines élevées, et tous les arbres chargez de bois, et de feüilles, et ils y ont immolé leurs victimes ; ils y ont attiré ma colère par leur offrandes, ils y ont brûlé les odeurs les plus excellentes, et ils y ont fait leurs oblations de liqueurs.",
+      "annotations": null,
+      "source_pages": [
+        "page_0227.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Et dixi ad eos : Quid est excelsum, ad quod vos ingredimini ? Et vocatum est nomen ejus excelsum usque ad hanc diem.",
+      "french": "Je leur ai dit alors : Quel est ce haut-lieu où vous allez ? Et ce nom de haut-lieu est demeuré à ces lieux sacrilèges jusqu’à cette heure.",
+      "annotations": null,
+      "source_pages": [
+        "page_0228.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Proptereà dic ad domum Israel : Hæc dicit Dominus Deus : Certè in via patrum vestrorum vos polluimini, et post offendicula eorum vos fornicamini.",
+      "french": "C’est pourquoi, dites à la maison d’Israël : Voici ce que dit le Seigneur votre Dieu : Vous vous souillez dans la même voie où ont marché vos pères ; et vous vous abandonnez à la fornication des idoles, où ils sont tombez, en faisant passer vos enfants par le feu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0229.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Et in oblatione donorum vestrorum, cùm traducitis filios vestros per ignem, vos polluimini in omnibus idolis vestris usque hodiè : et ego respondebo vobis, domus Israel ? Vivo ego, dicit Dominus Deus, quia non respondebo vobis.",
+      "french": "Vous vous souillez par l’oblation de vos dons, et par toutes vos idoles jusqu’aujourd’hui. Et après cela, je vous répondrai, enfants d’Israël ? Je jure par moi-même, dit le Seigneur votre Dieu, que je ne vous répondrai point.",
+      "annotations": null,
+      "source_pages": [
+        "page_0229.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Neque cogitatio mentis vestræ fiet, dicentium : Erimus sicut gentes, et sicut cognationes terræ, ut colamus ligna et lapides.",
+      "french": "Vous ne viendrez point aussi à bout de ce que vous méditez dans votre esprit, lorsque vous dites : Nous ferons comme les nations, et comme les autres peuples de la terre, et nous adorerons comme eux le bois et la pierre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0229.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "Vivo ego, dicit Dominus Deus, quoniam in manu forti, et in brachio extento, et in furore effuso regnabo super vos :",
+      "french": "Je jure par moi-même, dit le Seigneur votre Dieu, que je regnerai sur vous avec une main forte, avec un bras étendu, et dans toute l’effusion de ma fureur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0229.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Et educam vos de populis : et congregabo vos de terris, in quibus dispersi estis, in manu valida, et in brachio extento, et in furore effuso regnabo super vos.",
+      "french": "Je vous retirerai du milieu du peuple ; je vous rassemblerai des pays où vous avez été dispersez, et je regnerai sur vous avec une main forte, avec un bras étendu, et dans toute l’effusion de ma fureur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0230.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Et adducam vos in desertum populorum, et judicabor vobiscum ibi facie ad faciem.",
+      "french": "Je vous aménerai dans le désert des peuples, et étant là devant moi, j’entrerai en jugement avec vous.",
+      "annotations": null,
+      "source_pages": [
+        "page_0230.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Sicut judicio contendi adversùm patres vestros in deserto terræ Ægypti, sic judicabo vos, dicit Dominus Deus.",
+      "french": "Comme je suis entré en jugement avec vos pères dans le désert de l’Egypte ; ainsi je vous jugerai, dit le Seigneur votre Dieu ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0230.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Et subjiciam vos sceptro meo, et inducam vos in vinculis fœderis.",
+      "french": "Je vous assujettirai à mon sceptre, et je vous ferai entrer dans les liens de mon alliance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0230.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Et eligam de vobis transgressores, et impios, et de terra incolatus eorum educam eos, et in terram Israel non ingredientur : et scietis quia ego Dominus.",
+      "french": "Je séparerai d’avec vous les violateurs de ma Loi, et les impies : Je les ferai sortir de la terre de leur demeure ; ils n’entreront point dans la terre d’Israël, et vous saurez que c’est moi qui suis le Seigneur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0231.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Et vos, domus Israel, hæc dicit Dominus Deus : Singuli post idola vestra ambulate, et servite eis. Quod si et in hoc non audieritis me, et nomen meum sanctum pollueritis ultrà in muneribus vestris et in idolis vestris :",
+      "french": "Maison d’Israël, voici ce que dit le Seigneur votre Dieu : Suivez chacun vos idoles, et les servez. Que si en cela même vous ne m’écoutez point, et si vous profanez encore mon saint nom, en m’offrant des présents, et continuant à servir vos idoles,",
+      "annotations": null,
+      "source_pages": [
+        "page_0231.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "In monte sancto meo, in monte excelso Israel, ait Dominus Deus, ibi serviet mihi omnis domus Israel : omnes, inquam, in terra, in qua placebunt mihi, et ibi quæram primitias vestras, et initium decimarum vestrarum in omnibus sanctificationibus vestris.",
+      "french": "Je ferai, dit le Seigneur votre Dieu, que toute la maison d’Israël me servira sur ma montagne sainte, sur la haute montagne d’Israël. Ils me serviront tous dans la terre en laquelle ils me seront agréables ; et c’est-là que j’accepterai vos prémices, et les offrandes de vos décimes, dans tout le culte saint que vous me rendrez.",
+      "annotations": null,
+      "source_pages": [
+        "page_0232.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "In odorem suavitatis suscipiam vos, cùm eduxero vos de populis, et congregavero vos de terris, in quas dispersi estis, et sanctificabor in vobis in oculis nationum.",
+      "french": "Je vous recevrai comme une oblation d’excellente odeur, lorsque je vous aurai retirez d’entre les peuples infideles, et que je vous aurai rassemblez des pays où vous avez été dispersez ; et je serai sanctifié parmi vous aux yeux des nations.",
+      "annotations": null,
+      "source_pages": [
+        "page_0232.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Et scietis quia ego Dominus, cùm induxero vos ad terram Israël, in terram, pro qua levavi manum meam, ut darem eam patribus vestris.",
+      "french": "Et vous saurez que c’est moi qui suis le Seigneur, lorsque je vous aurai fait rentrer dans la terre d’Israël, dans la terre pour laquelle j’avais levé la main, en jurant à vos pères de la leur donner.",
+      "annotations": null,
+      "source_pages": [
+        "page_0233.json"
+      ]
+    },
+    {
+      "verse_number": 43,
+      "latin": "Et recordabimini ibi viarum vestrarum, et omnium scelerum vestrorum, quibus polluti estis in eis : et displicebitis vobis in conspectu vestro in omnibus malitiis vestris, quas fecistis.",
+      "french": "Vous vous souviendrez alors du déréglement de vos voies ; de tous les crimes dont vous vous êtes souillez : vous vous déplairez en vous-mêmes, en vous représentant devant les yeux toutes les actions criminelles que vous avez faites ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0233.json"
+      ]
+    },
+    {
+      "verse_number": 44,
+      "latin": "Et scietis quia ego Dominus, cùm benefecero vobis propter nomen meum, et non secundùm vias vestras malas, neque secundùm scelera vestra pessima, domus Israël, ait Dominus Deus.",
+      "french": "Et vous saurez, maison d’Israël, que c’est moi qui suis le Seigneur, lorsque je vous aurai comblez de biens pour la gloire de mon nom ; au lieu de vous traiter selon le déréglement de vos voies, et selon vos crimes détestables, dit le Seigneur votre Dieu.",
+      "annotations": null,
+      "source_pages": [
+        "page_0233.json"
+      ]
+    },
+    {
+      "verse_number": 45,
+      "latin": "Et factus est sermo Domini ad me, dicens :",
+      "french": "Le Seigneur me parla encore, et me dit :",
+      "annotations": null,
+      "source_pages": [
+        "page_0233.json"
+      ]
+    },
+    {
+      "verse_number": 46,
+      "latin": "Fili hominis, pone faciem tuam contra viam Austri, et stilla ad Africum, et propheta ad saltum agri meridiani.",
+      "french": "Fils de l’homme, tournez le visage du côté du midi ; parlez vers le vent d’Afrique, et prophétisez au grand bois du champ du midi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0233.json"
+      ]
+    },
+    {
+      "verse_number": 47,
+      "latin": "Et dices saltui meridiano : Audi verbum Domini : Hæc dicit Dominus Deus : Ecce ego succendam in te ignem, et comburam in te omne lignum viride, et omne lignum aridum : non extinguetur flamma succensionis : et comburetur in ea omnis facies ab austro usque ad aquilonem.",
+      "french": "Dites au bois du midi : Ecoûtez la parole du Seigneur ; voici ce que dit le Seigneur votre Dieu : Je vais allumer un feu dans vous, je brûlerai tous vos arbres, les verds et les secs indifféremment, sans que la flamme de cet embrasement se puisse éteindre ; et tous les visages seront brûlez, depuis le midi jusqu’au septentrion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0234.json"
+      ]
+    },
+    {
+      "verse_number": 48,
+      "latin": "Et videbit universa caro, quia ego Dominus succendi eam, nec extinguetur.",
+      "french": "Et toute chair verra que c’est moi qui suis le Seigneur ; que c’est moi qui ai mis le feu à ce bois, et personne ne l’éteindra.",
+      "annotations": null,
+      "source_pages": [
+        "page_0235.json"
+      ]
+    },
+    {
+      "verse_number": 49,
+      "latin": "Et dixi : A, a, a, Domine Deus ! Ipsi dicunt de me : Numquid non per parabolas loquitur iste ?",
+      "french": "Je dis alors : Hélas, hélas, hélas, Seigneur mon Dieu ! Ils me disent sans cesse : Celui-ci ne parle-t’il pas toujours en paraboles ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0235.json"
+      ]
+    }
+  ]
+}

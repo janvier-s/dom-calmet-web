@@ -1,0 +1,111 @@
+{
+  "book": "Psaumes",
+  "chapter": 27,
+  "chapter_summary": "Prière du Juste dans l’affliction ; il se plaint de la malice de ses ennemis. Il prédit leur perte. Il rend grâces à Dieu de sa protection. Il le prie de sauver son Peuple, et de le combler de ses bénédictions.",
+  "chapter_intro": "Nous suivons ici la tradition des Hébreux, qui nous est marquée par Origène^{(b)}, par Eusèbe^{(c)}, et par saint Jérôme^{(d)}, savoir, que les Psaumes qui n’ont point de titre particulier, se doivent rapporter aux Psaumes qui précèdent, et qu’on doit les expliquer de même. Ce principe en cet endroit, est approuvé presque généralement. Ce Psaume, et les deux précédents ont entr’eux un rapport sensible. Mais les uns^{(e)} le rapportent à David persécuté par Saül ; d’autres^{(f)}, à la persécution qu’il souffrit de la part d’Absalon son fils ; d’autres, à la rébellion de Séba, fils de Bochri^{(g)}. D’autres^{(h)} veulent qu’il l’ait composé durant sa plus grande prospérité, après toutes ses guerres finies, et jouissant d’une paix profonde. Il s’en trouve^{(i)} qui l’expliquent d’Ézéchias, après sa guérison miraculeuse ; d’autres, de Daniel. Les Pères^{(k)} le rapportent à JÉSUS-CHRIST dans sa Passion, qui adresse ses prières à Dieu son Père. Saint Jérôme a cru qu’il était acrostiche, ou alphabétique. ^{(a)} Mais c’est apparemment une faute de mémoire. Il n’y a qu’à voir le Texte Hébreu, pour se persuader du contraire.\nVoici les preuves qui nous déterminent à le rapporter au temps de la captivité, comme les deux précédents. Le titre ne nous annonce rien de nouveau. Le sujet en est à peu près le même. L’Auteur est un Juste affligé, et opprimé par des ennemis puissants, et infidèles, qui ne reconnaissent point les œuvres de Dieu ; ℣. 5. par des méchants, et des fourbes, ℣. 3. qui méritent que Dieu les traite selon leurs œuvres, et selon leurs iniquités. ℣. 4. Le Psalmiste dans le fort de sa douleur, et dans l’éloignement où il est du Temple, élève ses mains, et prie tourné vers ce saint lieu. ℣. 2. Il rend grâces au Seigneur du secours qu’il lui a donné, et de celui qu’il lui fait espérer. Il dit que son cœur, et sa chair reprendront une nouvelle vigueur, quand il plaira à Dieu de le visiter ; qu’alors il lui offrira des sacrifices volontaires de louanges. ℣. 7. Il reconnaît que le Seigneur est le protecteur de son peuple, et la force qui le sauve, en considération de son Oint, et de son Roi. Il conclut, en le priant de secourir son Peuple, de le bénir, de lui servir de Pasteur, et de le soutenir dans la suite des siècles.\nOr tout cela convient admirablement à un captif de Babylone, et nullement à David persécuté ; car de son temps, le Temple n’était point encore bâti, et l’usage de se tourner de ce côté-là, en priant, n’était point établi. Saül, et Absalon n’étaient point des gens qui ignorassent les œuvres de Dieu, ni qui méritassent qu’il dît d’eux tout ce que l’Auteur de ce Psaume dit ici contre ceux qui l’opprimaient. Le verset 3. de ce Psaume est le même en substance que le verset 9. du Psaume 25. et le verset 7. de celui-ci, à peu près le même que le verset 7. du Psaume 25. et que le verset 6. du Psaume 26.",
+  "verses": [
+    {
+      "verse_number": 1,
+      "latin": "Ad te, Domine, clamabo, Deus meus, ne sileas à me : ne quando taceas à me, et assimilabor descendentibus in lacum.",
+      "french": "Je crierai vers vous, ne gardez pas le silence à mon égard, ô mon Dieu ! de peur que si vous refusez de me répondre, je ne devienne semblable à ceux qui descendent dans la fosse.",
+      "source_pages": [
+        "page_0385.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Exaudi, Domine, vocem deprecationis meæ, dum oro ad te : dum extollo manus meas ad Templum sanctum tuum.",
+      "french": "Exaucez, Seigneur, la voix de mon humble supplication, lorsque je vous prie, lorsque j’élève mes mains vers votre saint Temple.",
+      "source_pages": [
+        "page_0385.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Ne simul trahas me cum peccatoribus, et cum operantibus iniquitatem ne perdas me :",
+      "french": "Ne m’entraînez pas avec les pécheurs ; et ne me perdez pas avec ceux qui commettent l’iniquité :",
+      "annotations": null,
+      "source_pages": [
+        "page_0386.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Qui loquuntur pacem cum proximo suo, mala autem in cordibus eorum.",
+      "french": "Qui parlent de paix avec leur prochain ; et qui dans leurs cœurs ne pensent qu’à faire du mal.",
+      "annotations": null,
+      "source_pages": [
+        "page_0386.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Da illis secundùm opera eorum, et secundùm nequitiam adinventionum ipsorum.",
+      "french": "Rendez-leur selon leurs œuvres, et selon la malignité de leurs desseins,",
+      "annotations": null,
+      "source_pages": [
+        "page_0386.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Secundum opera manuum eorum tribue illis : redde retributionem eorum ipsis.",
+      "french": "Traitez-les selon que les œuvres de leurs mains le méritent ; et donnez-leur la récompense qui leur est due.",
+      "annotations": null,
+      "source_pages": [
+        "page_0387.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Quoniam non intellexerunt opera Domini, et in opera manuum ejus destrues illos, et non ædificabis eos.",
+      "french": "Parce qu’ils ne sont point entrés dans l’intelligence des ouvrages du Seigneur, et des œuvres de ses mains, vous les détruirez, et ne les rétablirez plus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0387.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Benedictus Dominus ; quoniam exaudivit vocem deprecationis meæ.",
+      "french": "Que le Seigneur soit béni, parce qu’il a exaucé la voix de mon humble supplication.",
+      "annotations": null,
+      "source_pages": [
+        "page_0387.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Dominus adjutor meus, et protector meus : in ipso speravit cor meum, et adjutus sum.",
+      "french": "Le Seigneur est mon aide, et mon protecteur : mon cœur a mis en lui son espérance, et j’ai été secouru.",
+      "source_pages": [
+        "page_0388.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et refloruit caro mea : et ex voluntate mea confitebor ei.",
+      "french": "Et ma chair a comme refleuri ; c’est pourquoi je l’en louerai de tout mon cœur.",
+      "source_pages": [
+        "page_0388.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Dominus fortitudo plebis suæ : et protector salvationum Christi sui est.",
+      "french": "Le Seigneur est la force de son peuple, et le protecteur qui sauve son Christ, et son Oint, en tant de rencontres.",
+      "source_pages": [
+        "page_0388.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Salvum fac populum tuum, Domine, et benedic hæreditati tuæ : et rege eos, et extolle illos usque in æternum.",
+      "french": "Sauvez, Seigneur, votre peuple, et bénissez votre héritage : conduisez-les, et élevez-les jusque dans l’éternité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0389.json"
+      ]
+    }
+  ]
+}

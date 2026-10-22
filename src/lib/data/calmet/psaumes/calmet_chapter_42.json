@@ -1,0 +1,123 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "judica me, Deus, et discerne causam meam [2] de gente non sancta. ab homine iniquo, etc.",
+      "lemma": "Jugez-moi, Seigneur, et prenez connaissance de ma cause, en me défon-",
+      "text": "dant d’une Nation qui n’est point sainte. Tirez-moi des mains de l’homme méchant, et trompeur. J’en appelle à vous, ô mon Dieu ! Jugez ma cause, défendez-moi contre les calomnies des Babyloniens, cette Nation _non sainte_, ce peuple impie, perfide, méchant, et trompeur. Ou bien : Prenez ma défense, ô mon Dieu ! Soutenez ma cause contre les Babyloniens, cette Nation impie, et contre Nabuchodonofor, cet homme injuste, et trompeur. L’Hébreu : [1] Seigneur, jugez-moi, plaidez mon procès, soyez mon Avocat, et mon Juge, contre une Nation sans piété, sans miséricorde, sans bonté ; délivrez-moi de l’homme trompeur, et pervers."
+    },
+    {
+      "verse": 2,
+      "sub": false,
+      "latin_lemma": "quare tristis incedo, dum affligit me [4] inimicus ?",
+      "lemma": "Pourquoi suis-je réduit à marcher dans la tristesse, étant affligé par l’ennemi ?",
+      "text": "L’Hébreu : [3] _Pourquoi marchai-je vêtu de noir, pendant que l’ennemi m’afflige, et m’insulte ?_ Le Caldéen : _Pourquoi marchai-je dans les ténèbres ? etc._"
+    },
+    {
+      "verse": 3,
+      "sub": false,
+      "latin_lemma": "emitte lucem tuam, et veritatem tuam : ipsa me deduxerunt, et adduxerunt in montem sanctum tuum.",
+      "lemma": "Répandez sur moi votre lumière, et votre vérité : Elles me conduiront, et m’ameneront jusqu’à votre montagne sainte.",
+      "text": "Le Texte des Septante, [5] et de la Vulgate, porte au passé : _Elles m’ont conduit, et amené, etc._ Mais l’Hébreu est au futur ; et la suite du discours veut qu’on l’en tende en ce sens. Seigneur, nous sommes dans de profondes ténèbres, envoyez-nous la lumière. Nous attendons avec impatience l’effet de vos promesses, et de votre miséricorde. Envoyez-nous votre vérité. Accomplissez ce que vous nous avez promis par vos Prophètes. Faites-nous sortir de cette triste captivité. Rendez-nous la lumière de votre face, ou de votre secours. Les Pères, par _la lumière_, et _la vérité_, entendent Jésus-Christ. [6] Saint Cyrille, par _la lumière_, entend le Fils ; et par _la vérité_, le Saint-Esprit. Les anciens Rabbins, au rapport de Jarchi, expliquaient de même la lumière, du Messie.\nIN MONTEM SANCTUM. _Jusqu’à votre montagne sainte._ Jusqu’au Temple de Jérusalem, situé sur le mont de Sion. C’était le plus ardent désir des Israélites captifs, et surtout des Prêtres, et des Lévites, de revoir le Temple du Seigneur, de le voir rétabli, et l’usage des sacrifices continué comme auparavant. Dans le sens mystique, la montagne sainte c’est l’Église de Jésus-Christ."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "introibo ad altare Dei ; ad Deum qui lætificat juventutem meam.",
+      "lemma": "J’entrerai jusqu’à l’Autel de Dieu ; jusqu’à Dieu même, qui remplit de joie ma jeunesse.",
+      "text": "Les Lévites ne sacrifiaient point. Ce privilège était réservé aux Prêtres. Mais ils approchaient de l’Autel du Seigneur, pour y chanter ses louanges, et pour jouer des instruments, pendant qu’on brûlait les hosties. L’Hébreu porte : [7] _j’entrerai jusqu’à l’autel du Seigneur, jusqu’à Dieu, qui est la joie de mon plaisir, ou en qui je mets toute ma joie, et ma satisfaction._ Le Syriaque, et l’Arabe ont traduit comme la Vulgate : _Qui réjouit ma jeunesse_ ; et le terme _Gil_, peut signifier un jeune homme en Hébreu, comme en Arabe. [8]"
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "confitebor tibi in cythara.",
+      "lemma": "Je vous louerai sur la harpe.",
+      "text": "C’était l’office des Lévites de jouer des instruments dans le Temple. Le principal emploi des Fils de Coré, était celui de garder les portes de la Maison de Dieu : mais ils faisaient aussi l’office de Musiciens. L’Hébreu [9] porte ici _Kinnor_, au lieu de la harpe ; et Symmaque, le _Psalterion_. On peut voir notre Dissertation sur les instruments de musique des Hébreux."
+    },
+    {
+      "verse": 6,
+      "sub": false,
+      "latin_lemma": "SPERA IN DEO. Espérez en Dieu.",
+      "lemma": "Voyez le Psaume précédent, verset dernier.",
+      "text": ""
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0553>page_0554",
+      "verse": 1,
+      "mode": "splice",
+      "before": "Seigneur, et prenez connaissance de ma cause, en me défon-",
+      "after": "dant d’une Nation qui n’est point sainte. Tirez-moi des ma"
+    },
+    {
+      "seam": "page_0554>page_0555",
+      "verse": 3,
+      "mode": "flow",
+      "before": "ste captivité. Rendez-nous la lumière de votre face, ou de",
+      "after": "votre secours. Les Pères, par _la lumière_, et _la vérité_"
+    },
+    {
+      "seam": "page_0555>page_0556",
+      "verse": 5,
+      "mode": "hyphen",
+      "before": "nnor_, au lieu de la harpe ; et Symmaque, le _Psalterion_.",
+      "after": "rion. On peut voir notre Dissertation sur les instruments "
+    }
+  ],
+  "pages_used": [
+    "page_0553",
+    "page_0554",
+    "page_0555",
+    "page_0556"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0554-a",
+      "n": 1,
+      "text": "שפטני אלהים וריבה ריבי מגוי לא חסיד מאיש מרמה ועולה תפלטני\nLes Septante. _Eusèbe ; Théodoret ; Euthyme : κρῖνον μοι. Édition romaine : κρῖνον με. Symmaque : κρῖνόν μοι, καὶ ἐκδίκησον τὴν δίκην μου._"
+    },
+    {
+      "key": "page_0553-c",
+      "n": 2,
+      "text": "_Le Psautier de Saint-Germain : Discerne justitiam meam._"
+    },
+    {
+      "key": "page_0554-c",
+      "n": 3,
+      "text": "למה קדר אתהלך בלחץ אויב\n_Vid. Theodoret. Heracleot. Τίς χάριν σκυθρωπάζω ἐν θλιβομένῳ, καὶ εἰς γοητευτήρια, κρύπτω τὰς ἐλπίδας._"
+    },
+    {
+      "key": "page_0554-b",
+      "n": 4,
+      "text": "_Hebr. 70. non legunt : Me._"
+    },
+    {
+      "key": "page_0554-d",
+      "n": 5,
+      "text": "שלח אורך ואמתך המה ינחוני ויביאוני אל הר קדשך ואל משכנותיך\n_Λύχνος μὲν ἀλήθεια· φῶς δὲ ἔλεος. Hebr. [UNCERTAIN HEBREW]_"
+    },
+    {
+      "key": "page_0555-a",
+      "n": 6,
+      "text": "_Dans saint Augustin ; Saint Jérôme, etc._"
+    },
+    {
+      "key": "page_0555-b",
+      "n": 7,
+      "text": "אבוא אל מזבח אלהים אל אל שמחת גילי _Symmach._ Ἵνα τί κῶμαι πρὸς τὸ θυσιαστήριον τοῦ Θεοῦ, πρὸς τὸν Θεὸν τὸν ἀγαλλίαμα τῆς ἀγαλλιάσεις μου."
+    },
+    {
+      "key": "page_0555-c",
+      "n": 8,
+      "text": "_Vide Hammond._"
+    },
+    {
+      "key": "page_0555-d",
+      "n": 9,
+      "text": "בכנור 70. ἐν κιθάρα. _Symmach._ ἐν ψαλτηρίῳ."
+    }
+  ],
+  "missing_footnotes": []
+}

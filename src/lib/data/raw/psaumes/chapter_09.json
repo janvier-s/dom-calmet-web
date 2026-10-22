@@ -1,0 +1,391 @@
+{
+  "book": "Psaumes",
+  "chapter": 9,
+  "chapter_summary": "Psaume d’actions de grâces pour les bienfaits de Dieu accordés à Israël en général, et à David en particulier. Dans la seconde partie du Psaume, l’Auteur décrit les efforts, les artifices, la malice des méchants, la patience du pauvre. Il prie le Seigneur d’exaucer l’affligé, et il témoigne sa confiance en sa miséricorde.\nIn finem pro occultis Filii, Psalmus David. Psaume de David, pour la fin, sur les secrets du Fils.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem pro occultis Filii. Psalmus David.",
+      "french": "Psaume de David pour la fin, sur les secrets du Fils.",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Confitebor tibi, Domine, in toto corde meo : narrabo omnia mirabilia tua.",
+      "french": "Je vous louerai, Seigneur, de toute l’étendue de mon cœur ; je raconterai toutes vos merveilles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0161.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Lætaber et exultabo in te : psallam nomini tuo, Altissime.",
+      "french": "Je me réjouirai en vous, et je ferai paraître ma joie au dehors : Je chanterai à la gloire de votre nom, vous qui êtes le Très-Haut.",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "In convertendo inimicum meum retrorsum : infirmabuntur, et peribunt à facie tua.",
+      "french": "Quand vous aurez renversé, et fait tourner en arrière mon ennemi ; ceux qui me haïssent tomberont dans la dernière faiblesse, et périront devant votre face.",
+      "annotations": null,
+      "source_pages": [
+        "page_0162.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Quoniam fecisti judicium meum, et causam meam, sedisti super thronum qui judicas justitiam.",
+      "french": "Parce que vous m’avez rendu justice, et que vous vous êtes déclaré pour ma cause : vous vous êtes assis sur votre trône, vous qui jugez selon la justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Increpasti Gentes, et periit impius : nomen eorum delesti in æternum, et in seculum seculi.",
+      "french": "Vous avez repris et traité avec rigueur les nations, et l’impie a péri : Vous avez effacé leur nom pour toute l’éternité, et dans tous les siècles des siècles.",
+      "annotations": null,
+      "source_pages": [
+        "page_0163.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Inimici defecerunt frameæ in finem : et civitates eorum destruxisti.",
+      "french": "Les armes de l’ennemi ont perdu leur force pour toujours ; et vous avez détruit leurs villes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Periit memoria eorum cum sonitu : Et Dominus in æternum permanet.",
+      "french": "Leur mémoire a péri avec grand bruit ; mais le Seigneur demeure éternellement.",
+      "annotations": null,
+      "source_pages": [
+        "page_0164.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Paravit in judicio thronum suum ; et ipse judicabit orbem terræ in æquitate, judicabit populos in justitia.",
+      "french": "Il a préparé son trône, pour exercer son jugement ; et il a jugé lui-même toute la terre dans l’équité, et il a jugé les peuples avec justice.",
+      "annotations": null,
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Et factus est Dominus refugium pauperi : adjutor in opportunitatibus, in tribulatione.",
+      "french": "Le Seigneur a été le refuge du pauvre ; et il vient à son secours lorsqu’il en a besoin, et qu’il est dans l’affliction.",
+      "annotations": null,
+      "source_pages": [
+        "page_0165.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Et sperent in te qui noverunt nomen tuum : quoniam non dereliquisti quærentes te, Domine.",
+      "french": "Que ceux-là espèrent en vous, qui connaissent votre saint Nom : parce que vous n’abandonnez point, Seigneur, ceux qui vous cherchent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0166.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Psallite Domino, qui habitat in Sion : annuntiate inter Gentes studia ejus.",
+      "french": "Chantez des Cantiques au Seigneur ; qui demeure dans Sion : Annoncez parmi les nations la sagesse de ses conseils.",
+      "annotations": null,
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Quoniam requirens sanguinem, eorum recordatus est : non est oblitus clamorem pauperum.",
+      "french": "Parce que le vengeur du sang s’est souvenu de ses serviteurs, pour en prendre la vengeance : il n’a point mis en oubli le cri des pauvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0167.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Miserere mei, Domine ; vide humilitatem meam de inimicis meis.",
+      "french": "Ayez pitié de moi, Seigneur ; voyez l’état d’humiliation où mes ennemis m’ont réduit.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "Qui exaltas me de portis mortis : ut annuntiem omnes laudationes tuas in portis filiæ Sion.",
+      "french": "Vous qui me relevez, et me retirez des portes de la mort ; afin que j’annonce toutes vos louanges aux portes de la ville de Sion.",
+      "annotations": null,
+      "source_pages": [
+        "page_0168.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Exultabo in salutari tuo : infixa sunt Gentes in interitu, quem fecerunt.",
+      "french": "Je serai transporté de joie, à cause du salut que vous m’aurez procuré. Les nations se sont elles-mêmes engagées dans la fosse ; qu’elles m’avaient creusée.",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "In laqueo isto, quem absconderunt, comprehensus est pes eorum.",
+      "french": "Leur pied a été pris dans le même piège, qu’ils avaient tendu en secret.",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Cognoscetur Dominus judicia faciens : in operibus manuum suarum comprehensus est peccator.",
+      "french": "Le Seigneur s’est fait reconnaître ; par les jugements qu’il a exercez : le pécheur a été pris dans les œuvres de ses mains.",
+      "annotations": null,
+      "source_pages": [
+        "page_0169.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Convertantur peccatores in infernum, omnes Gentes quæ obliviscuntur Deum.",
+      "french": "Que les pécheurs saient précipités dans l’enfer ; et toutes les nations qui oublient Dieu.",
+      "source_pages": [
+        "page_0170.json"
+      ]
+    },
+    {
+      "verse_number": 19,
+      "latin": "Quoniam non in finem oblivio erit pauperis, patientia pauperum non peribit in finem.",
+      "french": "Car le pauvre ne sera pas en oubli pour jamais : la patience des pauvres ne sera pas frustrée pour toujours.",
+      "source_pages": [
+        "page_0170.json"
+      ]
+    },
+    {
+      "verse_number": 20,
+      "latin": "Exurge, Domine, non confortetur homo : judicentur Gentes in conspectu tuo.",
+      "french": "Levez-vous, Seigneur, que l’homme ne s’affermisse pas dans sa puissance : que les nations saient jugées devant vous.",
+      "source_pages": [
+        "page_0171.json"
+      ]
+    },
+    {
+      "verse_number": 21,
+      "latin": "Constitue, Domine, Legislatorem super eos : ut sciant gentes quoniam homines sunt.",
+      "french": "Établissez, Seigneur, un Législateur sur eux ; afin que les nations connaissent qu’ils sont hommes.",
+      "source_pages": [
+        "page_0171.json"
+      ]
+    },
+    {
+      "verse_number": 22,
+      "latin": "Ut quid, Domine, recessisti longè, despicis in opportunitatibus, in tribulatione ?",
+      "french": "Pourquoi, Seigneur, vous êtes-vous retiré loin de moi, et dédaignez-vous de me regarder dans le temps de mon besoin, et de mon affliction ?",
+      "annotations": null,
+      "source_pages": [
+        "page_0172.json"
+      ]
+    },
+    {
+      "verse_number": 23,
+      "latin": "Dum superbit impius, incenditur pauper : comprehenduntur in consiliis quibus cogitant.",
+      "french": "Tandis que l’impie s’enfle d’orgueil, le pauvre est dans l’oppression. Ils sont trompés dans les pensées dont leur esprit est occupé.",
+      "annotations": null,
+      "source_pages": [
+        "page_0173.json"
+      ]
+    },
+    {
+      "verse_number": 24,
+      "latin": "Quoniam laudatur peccator in desideriis anima sua : et iniquus benedicitur.",
+      "french": "Parce que le pécheur est loué dans les désirs de son âme, et que le méchant est béni.",
+      "annotations": null,
+      "source_pages": [
+        "page_0173.json"
+      ]
+    },
+    {
+      "verse_number": 25,
+      "latin": "Exacerbavit Dominum peccator : secundum multitudinem iræ suæ, non quæret.",
+      "french": "Le pécheur a irrité Dieu ; et à cause de la grandeur de sa colère, il ne se mettra plus en peine de le chercher.",
+      "annotations": null,
+      "source_pages": [
+        "page_0174.json"
+      ]
+    },
+    {
+      "verse_number": 26,
+      "latin": "Non est Deus in conspectu ejus ; inquinatæ sunt viæ illius in omni tempore.",
+      "french": "Dieu n’est point devant ses yeux : ses voies sont souillées en tout temps.",
+      "annotations": null,
+      "source_pages": [
+        "page_0175.json"
+      ]
+    },
+    {
+      "verse_number": 27,
+      "latin": "Auferuntur judicia tua à facie ejus : omnium inimicorum suorum dominabitur.",
+      "french": "Vos jugements ne se présentent point devant sa vue ; il dominera tous ses ennemis.",
+      "annotations": null,
+      "source_pages": [
+        "page_0176.json"
+      ]
+    },
+    {
+      "verse_number": 28,
+      "latin": "Dixit enim in corde suo : Non movebor à generatione in generationem, sine malo.",
+      "french": "Car il a dit en son cœur : Je ne serai point ébranlé ; et de race en race je vivrai toujours, sans souffrir aucun mal.",
+      "annotations": null,
+      "source_pages": [
+        "page_0176.json"
+      ]
+    },
+    {
+      "verse_number": 29,
+      "latin": "Cujus maledictione os plenum est, et amaritudine, et dolo : sub lingua ejus labor, et dolor.",
+      "french": "Sa bouche est pleine de malédiction ; d’amertume, et de tromperie : le travail, et la douleur sont sous sa langue.",
+      "annotations": null,
+      "source_pages": [
+        "page_0176.json"
+      ]
+    },
+    {
+      "verse_number": 30,
+      "latin": "Sedet in insidiis cum divitibus in occultis, ut interficiat innocentem.",
+      "french": "Il demeure en embuscade avec les riches dans des lieux cachés, afin de tuer l’innocent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0177.json"
+      ]
+    },
+    {
+      "verse_number": 31,
+      "latin": "Oculi ejus in pauperem respiciunt : insidiatur in abscondito, quasi leo in spelunca sua.",
+      "french": "Ses yeux regardent toujours le pauvre ; il lui dresse des embûches dans le secret, ainsi qu’un lion dans sa caverne.",
+      "annotations": null,
+      "source_pages": [
+        "page_0178.json"
+      ]
+    },
+    {
+      "verse_number": 32,
+      "latin": "Insidiatur ut rapiat pauperem : rapere pauperem dum attrahit eum.",
+      "french": "Il se tient en embuscade, afin d’enlever le pauvre ; afin, dis-je, d’enlever le pauvre, lorsqu’il l’attire par ses artifices.",
+      "annotations": null,
+      "source_pages": [
+        "page_0178.json"
+      ]
+    },
+    {
+      "verse_number": 33,
+      "latin": "In laqueo suo humiliabit eum, inclinabit se et cadet, cùm dominatus fuerit pauperum.",
+      "french": "Il le jettera par terre, après qu’il l’aura surpris dans son piège ; il sera abbattu lui-même, et tombera lorsqu’il se sera rendu maître des pauvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0178.json"
+      ]
+    },
+    {
+      "verse_number": 34,
+      "latin": "Dixit enim in corde suo : Oblitus est Deus, avertit faciem suam ne videat in finem.",
+      "french": "Car il a dit en son cœur : Dieu a mis cela en oubli ; il a détourné son visage, pour n’en voir jamais rien.",
+      "annotations": null,
+      "source_pages": [
+        "page_0179.json"
+      ]
+    },
+    {
+      "verse_number": 35,
+      "latin": "Exurge, Domine, Deus, exaltetur manus tua : ne obliuiscaris pauperum.",
+      "french": "Levez-vous, Seigneur, mon Dieu, élevez votre main puissante : et n’oubliez pas les pauvres.",
+      "annotations": null,
+      "source_pages": [
+        "page_0179.json"
+      ]
+    },
+    {
+      "verse_number": 36,
+      "latin": "Propter quid irritavit impius Deum ? Dixit enim in corde suo : Non requiret.",
+      "french": "Pour quelle raison l’impie a-t-il irrité Dieu ? C’est qu’il a dit en son cœur : Il n’en recherchera point la vengeance.",
+      "annotations": null,
+      "source_pages": [
+        "page_0179.json"
+      ]
+    },
+    {
+      "verse_number": 37,
+      "latin": "Vides, quoniam tu laborem et dolorem consideras : ut tradas eos in manus tuas.",
+      "french": "Mais vous voyez ce qui se passe ; car vous considérez le travail, et la douleur dont le juste est accablé, afin de livrer à votre bras vengeur, ceux qui l’oppriment.",
+      "annotations": null,
+      "source_pages": [
+        "page_0180.json"
+      ]
+    },
+    {
+      "verse_number": 38,
+      "latin": "Tibi derelictus est pauper : orphano tu eris adjutor.",
+      "french": "C’est à vous que le soin du pauvre est laissé : vous êtes le protecteur de l’orphelin.",
+      "annotations": null,
+      "source_pages": [
+        "page_0181.json"
+      ]
+    },
+    {
+      "verse_number": 39,
+      "latin": "Contere brachium peccatoris et maligni : quæretur peccatum illius, et non invenietur.",
+      "french": "Brisez le bras du pécheur, et du méchant : et l’on cherchera son péché, sans qu’on le puisse trouver.",
+      "annotations": null,
+      "source_pages": [
+        "page_0181.json"
+      ]
+    },
+    {
+      "verse_number": 40,
+      "latin": "Dominus regnabit in æternum, et in sæculum sæculi : peribitis, Gentes, de terra illius.",
+      "french": "Le Seigneur régnera éternellement, et dans les siècles des siècles : et vous, nations, vous périrez, et serez exterminées de la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0182.json"
+      ]
+    },
+    {
+      "verse_number": 41,
+      "latin": "Desiderium pauperum exaudivit Dominus : præparationem cordis eorum audivit auris tua.",
+      "french": "Le Seigneur a exaucé le désir des pauvres : votre oreille, ô mon Dieu ! a entendu la préparation de leur cœur.",
+      "annotations": null,
+      "source_pages": [
+        "page_0182.json"
+      ]
+    },
+    {
+      "verse_number": 42,
+      "latin": "Indicare pupillo et humili, ut non apponat ultrà magnificare se homo super terram.",
+      "french": "Pour juger en faveur de l’orphelin ; et de celui qui est opprimé, afin que l’homme n’entreprenne plus de s’élever sur la terre.",
+      "annotations": null,
+      "source_pages": [
+        "page_0183.json"
+      ]
+    }
+  ]
+}

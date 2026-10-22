@@ -1,0 +1,57 @@
+{
+  "notes": [
+    {
+      "verse": 1,
+      "sub": false,
+      "latin_lemma": "verbum quod locutus est Jeremias ad Baruch, cum scripsisset verba hæc in libro, anno quarto Joakim.",
+      "lemma": "Parole que Jérémie dit à Baruch, lorsqu’il eut écrit tout ce que Jérémie lui dictait, la quatrième année de Joakim.",
+      "text": "On a vu ci-devant, [1] que Jérémie reçut ordre du Seigneur d’écrire toutes ses prophéties, la quatrième année de Joakim Roi de Juda ; et que ce Prince ayant fait lire en sa présence une partie du livre écrit par Baruch, sous la diction de Jérémie, il déchira l’écrit, le-brûla, et fit chercher le Prophète, et son Sécrétaire, pour les faire mourir. Mais le Seigneur ne permit pas qu’ils tombassent entre ses mains, et Jérémie dicta de nouveau à Baruch toutes ses prophéties. On ne sait si ce fut dans cette dernière occasion que Baruch forma les plaintes que nous lisons ici ; ou si ce fut après qu’il eut écrit pour la première fois ce qu’on lui dicta, qu’il fut contraint de se cacher avec son Maître, et qu’alors s’ennuyant de tant de persécutions, il s’affligea, et tomba dans une espèce de découragement. Ce sentiment nous paroîtrait plus vrai-semblable."
+    },
+    {
+      "verse": 4,
+      "sub": false,
+      "latin_lemma": "ecce quos edificavi, ego destruo.",
+      "lemma": null,
+      "text": "Je vais détruire ce que j’ai édifié. Je vais détruire cette nation que j’avais choisie ; je vais disperser, et ruiner Juda, ce peuple que j’ai formé, et que j’ai protégé jusqu’ici ; et vous vous plaignez que je vous afflige ? Etes-vous meilleur que tout le reste de votre peuple ; ou m’êtes-vous plus cher que tout Ifraël, et Juda ? Espérez-vous être le seul excepté des maux communs, et refusez-vous d’être affligé avec vos frères ?"
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "et tu quæris tibi grandia ?",
+      "lemma": null,
+      "text": "Et vous chercherez pour vous-même quelque chose de grand ? Vous voudriez que je vous misse au-dessus de vos frères, et que je vous tirasse de la foule, par une distinction honorable ? Quelques Rabbins croient que le véritable motif de la plainte de Baruch, était que Dieu ne l’avoir pas favorisé du don de prophétie, après avoir été si long-temps auprès de Jérémie ; pendant qu’il avait fait cette grâce aux Disciples d’Elie, et de Moyse, à Josué, et à Elisée. Mais laissons ces rêveries. N’était-ce pas demander une assez grande prérogative, que de prétendre être exemt de maux, lorsque son peuple, et sa patrie allaient être réduits aux dernières extrémites ?"
+    },
+    {
+      "verse": 5,
+      "sub": false,
+      "latin_lemma": "adducam malum super omnem carnem, et dabo tibi animam tuam in salutem.",
+      "lemma": "J’accablerai de maux tous les hommes, et je vous conserverai la vie.",
+      "text": "Contentez-vous que je vous conserve la vie, pendant que je n’épargne personne. En effet, on voit par les Prophêtes, qu’il n’y eut aucune des nations des pays circonvoisins de la Judée, qui ne bût à son tour le calice de la colère de Dieu, de la main de Nabuchodonosor. Mais la protection de Dieu éclata toujours visiblement sur les personnes de Jérémie, et de Baruch. Ils furent délivrez par les ordres de Nabuchodonosor, et on leur permit de demeurer où ils voudraient.  Le Texte de l’Ecriture n’exprime pas Baruch dans le récit de la délivrance de Jérémie : mais on ne doute point qu’il n’ait joui du même privilège que son Maître. _Dabo tibi animam tuam in salutem_ ; L’Hébreu,  _in spolium_ : Je vous donnerai votre âme comme une dépouille prise sur l’ennemi. Le Grec des Septante ne sépare point ce Chapitre du précédent."
+    }
+  ],
+  "joins": [
+    {
+      "seam": "page_0562>page_0563",
+      "verse": 5,
+      "mode": "flow",
+      "before": "ur permit de demeurer où ils voudraient. ^{fn:page_0562-a}",
+      "after": "Le Texte de l’Ecriture n’exprime pas Baruch dans le récit "
+    }
+  ],
+  "pages_used": [
+    "page_0561",
+    "page_0562",
+    "page_0563"
+  ],
+  "footnotes": [
+    {
+      "key": "page_0561-a",
+      "n": 1,
+      "text": "Chapitre 36."
+    }
+  ],
+  "missing_footnotes": [
+    "page_0562-a",
+    "page_0563-a"
+  ]
+}

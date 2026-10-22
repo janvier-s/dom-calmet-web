@@ -1,0 +1,172 @@
+{
+  "book": "Psaumes",
+  "chapter": 38,
+  "chapter_summary": "Silence du Juste au milieu de ses peines. Vanité et brièveté de la vie. Inutilité des inquiétudes de l’homme. Le Juste demande un peu de relâche avant la fin de sa vie.\n\nIn finem, ipsi Idithun, Canticum David. Pour la fin, à Idithun, Cantique de David.",
+  "chapter_intro": null,
+  "verses": [
+    {
+      "verse_number": 0,
+      "latin": "In finem, ipsi Idithun. Canticum David.",
+      "french": "",
+      "annotations": "Latin from the Vulgate (title missing from the transcription) : check it against the scan, keep only what Calmet prints, and type his French",
+      "source_pages": [
+        "page_0508.json"
+      ]
+    },
+    {
+      "verse_number": 1,
+      "latin": "Dixi : Custodiam vias meas : ut non delinquam in lingua mea.",
+      "french": "J’ai dit en moi-même : J’observerai avec soin mes voies ; afin que je ne péché point par ma langue.",
+      "annotations": null,
+      "source_pages": [
+        "page_0508.json"
+      ]
+    },
+    {
+      "verse_number": 2,
+      "latin": "Posui ore meo custodiam, cùm consisteret peccator adversùm me.",
+      "french": "J’ai mis une garde à ma bouche, dans le temps que le pécheur s’élevait contre moi.",
+      "annotations": null,
+      "source_pages": [
+        "page_0508.json"
+      ]
+    },
+    {
+      "verse_number": 3,
+      "latin": "Obmutui, et humiliatus sum, et silui à bonis : et dolor meus renovatus est.",
+      "french": "Je me suis tû, et je me suis humilié ; et j’ai gardé le silence, pour ne pas dire même de bonnes choses : et ma douleur à été renouvellée.",
+      "source_pages": [
+        "page_0509.json"
+      ]
+    },
+    {
+      "verse_number": 4,
+      "latin": "Concaluit cor meum intra me : et in meditatione mea exardescet ignis.",
+      "french": "Mon cœur s’est échauffé au-dedans de moi ; et tandis que je méditais, un feu s’y est embrasé.",
+      "source_pages": [
+        "page_0510.json"
+      ]
+    },
+    {
+      "verse_number": 5,
+      "latin": "Locutus sum in lingua mea : Notum fac mihi, Domine, finem meum.",
+      "french": "Je ne me suis servi de ma langue que pour dire à Dieu : Faites-moi connaître, Seigneur, quelle est ma fin ;",
+      "source_pages": [
+        "page_0510.json"
+      ]
+    },
+    {
+      "verse_number": 6,
+      "latin": "Et numerum dierum meorum, quis est : ut sciam quid desit mihi.",
+      "french": "Et quel est le nombre de mes jours, afin que je sache ce qui m’en reste encore ;",
+      "annotations": null,
+      "source_pages": [
+        "page_0511.json"
+      ]
+    },
+    {
+      "verse_number": 7,
+      "latin": "Ecce mensurabiles posuisti dies meos : et substantia mea, tamquam nihilum ante te.",
+      "french": "Je comprends que vous avez mis à mes jours une mesure fort bornée ; et que le temps que j’ai à vivre, est devant vous comme un néant.",
+      "annotations": null,
+      "source_pages": [
+        "page_0511.json"
+      ]
+    },
+    {
+      "verse_number": 8,
+      "latin": "Verumtamen universa vanitas, omnis homo vivens.",
+      "french": "En vérité tout homme qui vit sur la terre n’est que vanité.",
+      "source_pages": [
+        "page_0512.json"
+      ]
+    },
+    {
+      "verse_number": 9,
+      "latin": "Verumtamen in imagine pertransit homo : sed et frustrà conturbatur.",
+      "french": "En vérité l’homme passe comme une ombre ; et c’est bien en vain qu’il se trouble, et s’inquiète.",
+      "source_pages": [
+        "page_0512.json"
+      ]
+    },
+    {
+      "verse_number": 10,
+      "latin": "Thesaurizat : et ignorat cui congregabit ea.",
+      "french": "Il amasse des trésors, et il ne sait pas pour qui il les aura amassés.",
+      "annotations": null,
+      "source_pages": [
+        "page_0513.json"
+      ]
+    },
+    {
+      "verse_number": 11,
+      "latin": "Et nunc quæ est expectatio mea ? Nonne Dominus ? Et substantia mea apud te est.",
+      "french": "Et maintenant quelle est mon attente ? N’est-ce pas le Seigneur ? Tout mon trésor est en vous, ô mon Dieu !",
+      "annotations": null,
+      "source_pages": [
+        "page_0513.json"
+      ]
+    },
+    {
+      "verse_number": 12,
+      "latin": "Ab omnibus iniquitatibus meis erue me : opprobrium insipienti dedisti me.",
+      "french": "Délivrez-moi de toutes mes iniquités. Vous m’avez rendu un objet de raillerie, et de mépris à l’insensé.",
+      "source_pages": [
+        "page_0514.json"
+      ]
+    },
+    {
+      "verse_number": 13,
+      "latin": "Obmutui, et non apperui os meum, quoniam tu fecisti : Amove à me plagas tuas.",
+      "french": "Je suis devenu comme muet, et je n’ai pas seulement ouvert la bouche ; parce que c’est vous qui l’avez fait. Cessez de me frapper.",
+      "source_pages": [
+        "page_0514.json"
+      ]
+    },
+    {
+      "verse_number": 14,
+      "latin": "A fortitudine manûs tuæ ego defeci in increpationibus : propter iniquitatem corripuisti hominem.",
+      "french": "Je suis tombé en défaillance sous la force de votre main, lorsque vous m’avez repris. Vous avez puni l’homme à cause de son iniquité.",
+      "annotations": null,
+      "source_pages": [
+        "page_0515.json"
+      ]
+    },
+    {
+      "verse_number": 15,
+      "latin": "Et tabescere fecisti sicut araneam animam ejus : verumtamen vanè conturbatur omnis homo.",
+      "french": "Et vous avez fait dessécher son âme comme l’araignée. En vérité c’est bien en vain que tous les hommes se troublent, et s’inquiètent.",
+      "annotations": null,
+      "source_pages": [
+        "page_0515.json"
+      ]
+    },
+    {
+      "verse_number": 16,
+      "latin": "Exaudi orationem meam, Domine, et deprecationem meam : auribus percipe lacrymas meas.",
+      "french": "Exaucez, Seigneur, ma prière, et mon humble supplication : rendez-vous attentif à mes larmes.",
+      "annotations": null,
+      "source_pages": [
+        "page_0517.json"
+      ]
+    },
+    {
+      "verse_number": 17,
+      "latin": "Ne sileas : quoniam advena ego sum apud te, et peregrinus, sicut omnes patres mei.",
+      "french": "Ne gardez pas le silence ; parce que je suis devant vous, comme un étranger, et un voyageur, de même que tous mes pères l’ont été.",
+      "annotations": null,
+      "source_pages": [
+        "page_0517.json"
+      ]
+    },
+    {
+      "verse_number": 18,
+      "latin": "Remitte mihi, ut refrigerer, priùs quàm abeam, et ampliùs non ero.",
+      "french": "Accordez-moi quelque relâche, afin que je reçoive quelque rafraîchissement, avant que je parte, et que je ne sais plus.",
+      "annotations": null,
+      "source_pages": [
+        "page_0518.json"
+      ]
+    }
+  ]
+}
