@@ -11,8 +11,8 @@
       "verse": 3,
       "sub": false,
       "latin_lemma": "secundum quæ scripta sunt in lege Moysi, ut manducaret homo carnes filii sui.",
-      "lemma": "Selon qu’il est écrit dans la Loi de Moyse, l’homme ayant mangé la chair de son propre fils.",
-      "text": "Moyse en effet ménace les Hébreux, [1] qui quitteront le culte du Seigneur, pour s’abandonner à l’idolâtrie, de les réduire en de telles extrémités, que le père sera contraint de manger la chair de son propre fils. Nous ne voyons point par l’Histoire, que cela fût encore arrivé du temps où ceci fut écrit : mais l’Histoire n’a pas tout rapporté ; et sçaurions-nous qu’au dernier siège de Jérusalem sous Sédécias, on en vînt à cette extrêmité, si Jérémie[2] ne nous le disait dans ses Lamentations ? Ni les Livres des Rois, ni les Paralipoménes n’en disent pas un mot. On remarque une très grande conformité entre la priere que nous lisons ici, et celle que fit Daniel, la première année d’Assuérus. [3]"
+      "lemma": "Selon qu’il est écrit dans la Loi de Moïse, l’homme ayant mangé la chair de son propre fils.",
+      "text": "Moïse en effet ménace les Hébreux, [1] qui quitteront le culte du Seigneur, pour s’abandonner à l’idolâtrie, de les réduire en de telles extrémités, que le père sera contraint de manger la chair de son propre fils. Nous ne voyons point par l’Histoire, que cela fût encore arrivé du temps où ceci fut écrit : mais l’Histoire n’a pas tout rapporté ; et sçaurions-nous qu’au dernier siège de Jérusalem sous Sédécias, on en vînt à cette extrêmité, si Jérémie[2] ne nous le disait dans ses Lamentations ? Ni les Livres des Rois, ni les Paralipoménes n’en disent pas un mot. On remarque une très grande conformité entre la priere que nous lisons ici, et celle que fit Daniel, la première année d’Assuérus. [3]"
     },
     {
       "verse": 4,
@@ -26,7 +26,7 @@
       "sub": false,
       "latin_lemma": "facti sumus subtus, et non supra.",
       "lemma": "Nous avons été assujettis aux autres, au lieu de commander.",
-      "text": "A la lettre : _Nous avons été_ dessous, au lieu d’être dessus. Façon de parler proverbiale, et très expressive qui était assez ordinaire aux Hébreux. [4]"
+      "text": "À la lettre : _Nous avons été_ dessous, au lieu d’être dessus. Façon de parler proverbiale, et très expressive qui était assez ordinaire aux Hébreux. [4]"
     },
     {
       "verse": 9,
@@ -138,7 +138,7 @@
       "sub": false,
       "latin_lemma": "avertent se a dorso duro.",
       "lemma": "Ils quitteront cette dureté, qui les rend comme inflexibles.",
-      "text": "A la lettre : [25] _ils se détourneront de ce dos indurci_ : ils n’auront plus ce coû raide, et inflexible, qui ne peut souffrir le joug. Ou : _Ils n’auront plus ce dos endurci, qui se mocque des coups, et qui est insensible aux châtiments._"
+      "text": "À la lettre : [25] _ils se détourneront de ce dos indurci_ : ils n’auront plus ce coû raide, et inflexible, qui ne peut souffrir le joug. Ou : _Ils n’auront plus ce dos endurci, qui se mocque des coups, et qui est insensible aux châtiments._"
     },
     {
       "verse": 34,
@@ -160,14 +160,14 @@
       "seam": "page_0015>page_0016",
       "verse": 3,
       "mode": "flow",
-      "before": "Moyse",
+      "before": "Moïse",
       "after": "en effet ménace les Hébreux, ^{(a)} qui quitteront le cult"
     },
     {
       "seam": "page_0016>page_0017",
       "verse": 5,
       "mode": "flow",
-      "before": "A la lettre : _Nous avons été_",
+      "before": "À la lettre : _Nous avons été_",
       "after": "dessous, au lieu d’être dessus. Façon de parler proverbial"
     },
     {

@@ -166,7 +166,7 @@
       "sub": false,
       "latin_lemma": "aquæ ejus fideles sunt.",
       "lemma": "Ses eaux ne seront jamais ta-",
-      "text": "ries. A la lettre : _Ses eaux sont fidelles_. Ce sont des eaux de source, qui coulent en tout temps."
+      "text": "ries. À la lettre : _Ses eaux sont fidelles_. Ce sont des eaux de source, qui coulent en tout temps."
     },
     {
       "verse": 17,
@@ -308,7 +308,7 @@
       "verse": 16,
       "mode": "splice",
       "before": "Ses eaux ne seront jamais ta-",
-      "after": "ries. A la lettre : _Ses eaux sont fidelles_. Ce sont des "
+      "after": "ries. À la lettre : _Ses eaux sont fidelles_. Ce sont des "
     },
     {
       "seam": "page_0500>page_0501",
